@@ -1,0 +1,83 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Septh/tmlanguage/master/tmlanguage.json",
+  "name": "mdx",
+  "patterns": [
+    {
+      "include": "#jsx"
+    },
+    {
+      "include": "#markdown"
+    },
+    {
+      "include": "#jsx-evaluated-code"
+    }
+  ],
+  "repository": {
+    "jsx": {
+      "patterns": [
+        {
+          "include": "#jsx-module"
+        },
+        {
+          "include": "#jsx-tag"
+        },
+        {
+          "include": "#jsx-evaluated-code"
+        }
+      ],
+      "repository": {
+        "jsx-module": {
+          "patterns": [
+            {
+              "begin": "^(?=(import|export)\\b)",
+              "while": "^(?!\\s*$)",
+              "contentName": "source.js.jsx",
+              "patterns": [
+                {
+                  "include": "source.js.jsx"
+                }
+              ]
+            }
+          ]
+        },
+        "jsx-tag": {
+          "patterns": [
+            {
+              "begin": "^(?=< *([a-zA-Z]\\w*))",
+              "end": "(?<=>)",
+              "contentName": "source.js.jsx",
+              "patterns": [
+                {
+                  "include": "source.js.jsx"
+                }
+              ]
+            }
+          ]
+        },
+        "jsx-evaluated-code": {
+          "patterns": [
+            {
+              "begin": "(?!```$){",
+              "end": "}",
+              "contentName": "source.js.jsx",
+              "patterns": [
+                {
+                  "include": "source.js.jsx"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "markdown": {
+      "contentName": "text.html.markdown",
+      "patterns": [
+        {
+          "include": "text.html.markdown"
+        }
+      ]
+    }
+  },
+  "scopeName": "text.html.markdown.jsx"
+}

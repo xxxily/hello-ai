@@ -1,0 +1,57 @@
+{
+  "name": "hello-ai",
+  "version": "0.0.1",
+  "description": "这个是个帮助自己链接到广阔AI世界的项目，也希望能帮助到你。",
+  "keywords": [
+    "AI",
+    "AGI",
+    "AIGC",
+    "ChatGPT",
+    "Stable-Diffusion",
+    "Midjourney",
+    "OpenAI",
+    "Hello-AI"
+  ],
+  "type": "module",
+  "files": [
+    "dist",
+    "src",
+    "logo.png"
+  ],
+  "author": "Blaze",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://hello-ai.anzz.top",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xxxily/hello-ai"
+  },
+  "bugs": {
+    "url": "https://github.com/xxxily/hello-ai/issues"
+  },
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vitepress dev ./",
+    "docs:build": "vitepress build ./",
+    "docs:preview": "vitepress preview ./"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.2",
+    "@babel/plugin-transform-runtime": "^7.19.6",
+    "@babel/preset-env": "^7.20.2",
+    "@playwright/test": "^1.28.1",
+    "@rollup/plugin-babel": "^6.0.2",
+    "@vitejs/plugin-legacy": "^2.3.1",
+    "typescript": "^4.9.3",
+    "vite": "^3.2.5",
+    "vite-plugin-babel": "^1.1.2",
+    "vitepress": "1.0.0-alpha.61",
+    "vitest": "^0.25.2",
+    "vue": "^3.2.45"
+  },
+  "dependencies": {
+    "core-js": "^3.26.1",
+    "terser": "^5.16.0"
+  }
+}
