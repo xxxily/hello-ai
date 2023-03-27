@@ -8,6 +8,8 @@
 
 > 这个是个帮助自己链接到广阔AI世界的项目，也希望能帮助到你。
 
+> ❤️ 公益ChatGPT，且用且珍惜，好用就给作者打赏一下吧，再不济点个star也行 ❤️
+
 ## 概述
 
 帮助自己也让更多人链接到AI世界，这是这个项目的初衷。  
@@ -49,7 +51,7 @@
 
 为了让更多人能在免费的前提下都能使用上ChatGPT，目前有以下限制：
 
-- 每个设备（粗略判断）下每分钟最多只能发送6条消息
+- 每个设备（粗略判断）每分钟最多只能发送6条消息
 - 每个IP每小时最多只能发送100条消息
 - 每个IP每天最多只能发送500条消息
 - 超量后会把IP判定为恶意IP，然后拉入黑名单
@@ -69,3 +71,19 @@
 
 - 请在输入的问题中注意保护自己的隐私，不要输入私密或敏感的信息
 - 不要将公益ChatGPT用于违法违规的用途，否则后果自负
+
+## 支持作者
+
+如果我的努力给你带来了便利，请不要吝啬你的赞赏
+
+<p>
+  <a href="https://hello-ai.anzz.top/" target="_blank">
+  <img src="/assets/img/donate.png" width=480 alt="如果我的努力给你带来了便利，请不要吝啬你的赞赏" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://trackgit.com">
+  <img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lfqoect790vifkbm5n8l" alt="trackgit-views" />
+  </a>
+</p>
