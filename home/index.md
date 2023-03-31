@@ -16,10 +16,11 @@
 
 项目会提供AI相关的资源，包括但不限于：
 
-- 公益的AI体验应用
-- AI相关的开源项目
-- AI相关的影视作品
-- AI相关的书籍
+- [免费AI体验列表](./FreeChatGPTSiteList.md)
+- [ChatGPT中文调教指南](./chatgptPrompts.md)
+- [AI网站导航](./navigation.md)
+- [AI相关的影视作品](./film.md)
+- [AI相关的书籍](./books.md)
 - AI相关的热门资讯
 - AI信息交流群等
 
@@ -27,15 +28,29 @@
 
 如果您有任何跟AI相关的信息欢迎提供，有建议或意见也可以提 [issue](https://github.com/xxxily/hello-ai/issues)
 
+## Hello-AI的公益理念
+
+只要免费的数量住够多，不可用了就换一个，真有需求的人自然会选择自己信得过的进行付费，或者自己上官网折腾。  
+
+这样可以倒逼更多网站提升自身的服务质量，让割韭菜的无所遁形。  
+
+如果你认同这个理念，请将这个项目分享给更多的人，让更多人知道[Hello-AI](https://github.com/xxxily/hello-ai)的存在。  
+
+- [免费AI体验列表](./FreeChatGPTSiteList.md)
+
 ## 公益ChatGPT
 
-当前地址：[https://free.anzz.top](https://free.anzz.top)
+Hello-AI的公益ChatGPT体验地址：
+
+- [https://free.anzz.top](https://free.anzz.top)  
 
 网站说明：
 
 - 出于防护需要，网站托管于cloudflare，所以国内访问会相对缓慢
 - 域名目前国内可以访问，但无法保证多人使用后依然能访问，如果地址有变会在项目里更新
 - 网站目前是免登陆使用，但是为了防止恶意刷屏，后续会不断改进
+
+- [更多免费AI体验列表](./FreeChatGPTSiteList.md)
 
 ## 交流群（新）
 
@@ -49,7 +64,7 @@
 
 ## 公益ChatGPT的限制
 
-为了让更多人能在免费的前提下都能使用上ChatGPT，目前有以下限制：
+为了让更多人能在免费的前提下都能使用上ChatGPT，Hello-AI自身提供的ChatGPT目前有以下限制：
 
 - 每个设备（粗略判断）每分钟最多只能发送6条消息
 - 每个IP每小时最多只能发送100条消息
