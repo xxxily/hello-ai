@@ -8,7 +8,7 @@
 
 > 这个是个帮助自己链接到广阔AI世界的项目，也希望能帮助到你。
 
-> ❤️ 公益ChatGPT，且用且珍惜，好用就给作者打赏一下吧，再不济点个star也行 ❤️
+> ❤️ 公益ChatGPT，且用且珍惜，好用就[给作者点个star](https://github.com/xxxily/hello-ai) ❤️
 
 ## 概述
 
