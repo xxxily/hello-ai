@@ -14,8 +14,14 @@
 
 > 下面是经过作者测试，使用稳定的真公益网站，其他网站请自行测试
 
-- [chatbot.theb.ai (需自备梯子)](https://chatbot.theb.ai/)
-- [free.anzz.top (暂时无需梯子可用)](https://free.anzz.top/)
+- [chatbot.theb.ai (似乎也报废了，等大佬再重出江湖)](https://chatbot.theb.ai/)
+- ~~[free.anzz.top (已报废)](https://free.anzz.top/)~~
+
+如果你发现下面的的网站都报废了，那就先歇歇吧，不要抱怨。  
+
+我不嫌弃你是白嫖怪，你也别一不能用就砸场子。  
+
+❤️ 听话，做彼此的天使。❤️ 
 
 ### 站点列表
 
