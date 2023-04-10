@@ -15,7 +15,7 @@
 > 下面是经过作者测试，使用稳定的真公益网站，其他网站请自行测试
 
 - [chatbot.theb.ai (需科学上网，受大规模封号事件影响，有限使用)](https://chatbot.theb.ai/)
-- [free.anzz.top (暂无需科学上网，受大规模封号事件影响，有限使用)](https://free.anzz.top/)
+- [free.anzz.top (需科学上网，受大规模封号事件影响，有限使用)](https://free.anzz.top/)
 - [pizzagpt.it（意大利PizzaGPT，卡慢，但暂时能用）](https://www.pizzagpt.it/)
 
 如果你发现下面的的网站都报废了，那就先歇歇吧，不要抱怨。  
