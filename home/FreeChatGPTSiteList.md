@@ -385,16 +385,3 @@
 32. [密塔写作猫] <https://xiezuocat.com/>
 
 33. [AI文章生成器] <http://wenzhang.zhuluan.com/>
-
-### 欢迎补充
-
-GitHub 仓库地址: <https://github.com/xx025/carrot>
-
-如果您认为站点可以加⭐、分享你发现的新的站点，反馈失效站点，欢迎[点此](https://github.com/xx025/carrot/issues)告诉我
-
-[关于广告](https://cc.ai55.cc/ads/)
-
-### 最后更新
-
-如果下方时间已经晚于当前时间1d ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
-> 最后更新: 2023年04月06日 14点00分

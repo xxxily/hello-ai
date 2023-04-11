@@ -58,7 +58,7 @@ Hello-AI的公益ChatGPT体验地址：
 
 | 加微信群（可能失效） | 加我拉你入群（注明来自：AI） |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="/assets/img/qun5.jpeg" width="280"/> | <img src="/assets/img/WeChat.jpg" width=280 /> |
+| <img src="/assets/img/qun6.jpeg" width="280"/> | <img src="/assets/img/WeChat.jpg" width=280 /> |
 
 <br />
 
