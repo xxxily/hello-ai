@@ -18,6 +18,7 @@ export default [
         text: '其它AI入口',
         items: [
           { text: '百度 - 文心一言', link: 'https://yiyan.baidu.com/welcome', target: '_blank' },
+          { text: '阿里 - 通义千问', link: 'https://tongyi.aliyun.com/', target: '_blank' },
           { text: 'Google - Bard', link: 'https://bard.google.com/', target: '_blank' },
           { text: 'Adobe - Firefly', link: 'https://firefly.adobe.com/', target: '_blank' },
           { text: 'Bing - Images', link: 'https://www.bing.com/images/create', target: '_blank' },
