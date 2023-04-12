@@ -1,0 +1,1 @@
+import{_ as t,c as r,o as a,N as e}from"./chunks/framework.cd9250a1.js";const s=JSON.parse('{"title":"ChatGPT开源项目合集","description":"","frontmatter":{},"headers":[],"relativePath":"home/awesome-open-gpt.md"}'),d={name:"home/awesome-open-gpt.md"},h=e("",42),o=[h];function n(l,i,g,p,b,c){return a(),r("div",null,o)}const T=t(d,[["render",n]]);export{s as __pageData,T as default};

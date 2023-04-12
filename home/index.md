@@ -18,6 +18,8 @@
 
 - [免费AI体验列表](./FreeChatGPTSiteList.md)
 - [ChatGPT中文调教指南](./chatgptPrompts.md)
+- [ChatGPT开源项目合集](./awesome-open-gpt.md)
+- [科学上网工具推荐](./airport.md)
 - [AI网站导航](./navigation.md)
 - [AI相关的影视作品](./film.md)
 - [AI相关的书籍](./books.md)
