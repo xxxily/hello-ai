@@ -6,16 +6,17 @@
 
 暂时只推荐个人用过，且相对稳定的服务商，其他的服务商可以自行谷歌搜索：
 
-| 服务商 | 最低套餐（按月） | 最低套餐（按量） | 稳定度 | 速度 |
-| :----: | :----: | :----: | :---- | :---- |
-| [零点云](https://hd.vdoos.pw/auth/register?code=YMX5) | 13元/100G | 不支持 | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
-| [AntLink](https://antlink.cc/#/register?code=IiwzN0HO) | 10元/208G | 12元/50G | ⭐⭐⭐ | ⭐⭐⭐ |
+| 服务商 | 按月最低套餐 | 按量最低套餐 | 稳定度 | 速度 | 适用场景 |
+| :----: | :----: | :----: | :---- | :---- | :---- |
+| [catnet](https://www.58catnet.com/#/register?code=zr0Nqcdq) | 25元/100G | 不支持 | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | 高质量网络 |
+| [零点云](https://hd.vdoos.pw/auth/register?code=YMX5) | 13元/100G | 不支持 | ⭐⭐⭐ | ⭐⭐⭐ | 办公日常使用 |
+| [AntLink](https://antlink.cc/#/register?code=IiwzN0HO) | 10元/208G | 12元/50G | ⭐⭐ | ⭐⭐ | 入门轻度使用 |
 
 PS：没有绝对稳定的科学上网服务商，详细说明见下面的科普说明
 
 ### 科学上网快速扫盲
 
-科学上网是指能让你的电脑或手机连接到访问受限网站的一种方式，例如要访问[ChatGPT官网](https://ai.com)，以及大部分[免费的GPT平替或镜像网站](./FreeChatGPTSiteList.md)等，都需要科学上网。
+科学上网是指能让你的电脑或手机连接到访问受限网站的一种方式，例如要访问[ChatGPT官网](https://ai.com)，以及大部分[免费的ChatGPT平替或镜像网站](./FreeChatGPTSiteList.md)等，都需要科学上网。
 
 科学上网的别称：
 
