@@ -12,21 +12,22 @@
 
 ### 重点推荐
 
-> 下面是经过作者测试，使用稳定的真公益网站，其他网站请自行测试
+> 下面是经过作者测试，能稳定使用且值得收藏的网站，其他网站请自行测试
 
 - [chatbot.theb.ai (需科学上网，已重回巅峰，可畅快使用)](https://chatbot.theb.ai/)
-- [free.anzz.top (需科学上网，受大规模封号事件影响，有限使用)](https://free.anzz.top/)
+- [phind.com (需科学上网，号称基于GPT4.0的搜索引擎)](https://www.phind.com/)
+- [free.anzz.top (需科学上网，公益ChatGPT，有限使用)](https://free.anzz.top/)
 - [chatbotui.com (无需科学上网，无广告，填写自己的key即可无受限使用)](https://www.chatbotui.com/zh)
 - ~~[pizzagpt.it（意大利PizzaGPT，卡慢，但暂时能用）](https://www.pizzagpt.it/)~~
+
+> 没有梯子的看这里：[科学上网](./airport.md)  
+> 需要购买key的看这里：[购买ApiKey](./apikey.md)  
 
 如果你发现下面的的网站都报废了，那就先歇歇吧，不要抱怨。  
 
 我不嫌弃你是白嫖怪，你也别一不能用就砸场子。  
 
 ❤️ 听话，做彼此的天使。❤️
-
-> 没有梯子的看这里：[科学上网](./airport.md)  
-> 需要购买key的看这里：[购买ApiKey](./apikey.md)  
 
 ---
 
