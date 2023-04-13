@@ -17,7 +17,7 @@
 - [chatbot.theb.ai (需科学上网，已重回巅峰，可畅快使用)](https://chatbot.theb.ai/)
 - [free.anzz.top (需科学上网，受大规模封号事件影响，有限使用)](https://free.anzz.top/)
 - [chatbotui.com (无需科学上网，无广告，填写自己的key即可无受限使用)](https://www.chatbotui.com/zh)
-~~- [pizzagpt.it（意大利PizzaGPT，卡慢，但暂时能用）](https://www.pizzagpt.it/)~~
+- ~~[pizzagpt.it（意大利PizzaGPT，卡慢，但暂时能用）](https://www.pizzagpt.it/)~~
 
 如果你发现下面的的网站都报废了，那就先歇歇吧，不要抱怨。  
 
@@ -25,8 +25,8 @@
 
 ❤️ 听话，做彼此的天使。❤️
 
-> 没有梯子的看这里：[科学上网](./airport.md)
-> 需要购买key的看这里：[购买ApiKey](./apikey.md)
+> 没有梯子的看这里：[科学上网](./airport.md)  
+> 需要购买key的看这里：[购买ApiKey](./apikey.md)  
 
 ---
 
