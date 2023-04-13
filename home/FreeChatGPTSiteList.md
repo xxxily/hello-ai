@@ -4,19 +4,20 @@
 
 ## Hello-AI的公益理念
 
-~~只要免费的数量足够多，不可用了就换一个，真有需求的人自然会选择自己信得过的进行付费，或者自己上官网折腾。~~  
+只要免费的数量足够多，不可用了就换一个，真有需求的人自然会选择自己信得过的进行付费，或者自己上官网折腾。  
 
-~~这样可以倒逼更多网站提升自身的服务质量，让割韭菜的无所遁形。~~  
+这样可以倒逼更多网站提升自身的服务质量，让割韭菜的无所遁形。  
 
-~~如果你认同这个理念，请将这个项目分享给更多的人，让更多人知道[Hello-AI](https://github.com/xxxily/hello-ai)的存在。~~  
+如果你认同这个理念，请将这个项目分享给更多的人，让更多人知道[Hello-AI](https://github.com/xxxily/hello-ai)的存在。  
 
 ### 重点推荐
 
 > 下面是经过作者测试，使用稳定的真公益网站，其他网站请自行测试
 
-- [chatbot.theb.ai (需科学上网，受大规模封号事件影响，有限使用)](https://chatbot.theb.ai/)
+- [chatbot.theb.ai (需科学上网，已重回巅峰，可畅快使用)](https://chatbot.theb.ai/)
 - [free.anzz.top (需科学上网，受大规模封号事件影响，有限使用)](https://free.anzz.top/)
-- [pizzagpt.it（意大利PizzaGPT，卡慢，但暂时能用）](https://www.pizzagpt.it/)
+- [chatbotui.com (无需科学上网，无广告，填写自己的key即可无受限使用)](https://www.chatbotui.com/zh)
+~~- [pizzagpt.it（意大利PizzaGPT，卡慢，但暂时能用）](https://www.pizzagpt.it/)~~
 
 如果你发现下面的的网站都报废了，那就先歇歇吧，不要抱怨。  
 
@@ -25,6 +26,7 @@
 ❤️ 听话，做彼此的天使。❤️
 
 > 没有梯子的看这里：[科学上网](./airport.md)
+> 需要购买key的看这里：[购买ApiKey](./apikey.md)
 
 ---
 
