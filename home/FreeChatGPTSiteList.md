@@ -12,18 +12,20 @@
 
 ### 重点推荐
 
-> 下面是经过作者测试，能稳定使用且值得收藏的网站，其他网站请自行测试
+> 下面是经过作者测试，能稳定使用且值得收藏的网站，其他网站请自行测试  
+> 好用的都多人用，所以容易被墙，不想被割韭菜请自备梯子  
 
 | 网站 | 描述 | 备注 |
 | :---- | :---- | :---- |
 | [公益ChatGPT](https://free.anzz.top/) | 免费，无广告，可畅快使用 | [需科学上网](./airport.md) |
 | [ChatBot](https://chatbot.theb.ai/) | 免费，无广告，可畅快使用 | [需科学上网](./airport.md) |
 | [Phind](https://www.phind.com/) | 号称基于GPT4.0的搜索引擎 | [需科学上网](./airport.md) |
-| [ChatBotUI](https://www.chatbotui.com/zh) | GitHub开源高赞应用 | [需自备ApiKey](./apikey.md) 无需科学上网 |
+| [ChatBotUI](https://www.chatbotui.com/zh) | GitHub开源高赞应用 | [需自备ApiKey](./buy.md) 无需科学上网 |
+| [Poe](https://poe.com/) | 支持多个不同类型的AI | [需科学上网](./airport.md) 需注册账号 |
 | [PizzaGPT](https://www.pizzagpt.it/) | 意大利公益GPT,卡慢，可作为备用站 | [需科学上网](./airport.md) |
 
 > 没有梯子的看这里：[科学上网](./airport.md)  
-> 需要购买key的看这里：[购买ApiKey](./apikey.md)  
+> 需要购买key的看这里：[购买ApiKey](./buy.md)  
 
 如果你发现下面的的网站都报废了，那就先歇歇吧，不要抱怨。  
 
