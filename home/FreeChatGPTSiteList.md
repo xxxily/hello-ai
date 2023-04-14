@@ -1,6 +1,6 @@
 # Free ChatGPT Site List
 
-> 列表信息来源[xx025/carrot](https://github.com/xx025/carrot)
+> 一个精心整理的免费ChatGPT网站列表，欢迎[补充](https://github.com/xxxily/hello-ai/issues)
 
 ## Hello-AI的公益理念
 
@@ -190,6 +190,76 @@
 
 71. [🔑] <https://builtbyjesse.com/lab>
 
+### 妙站
+
+> 下面这些站点也很有趣
+
+1. [🔑 蜻蜓问答] <https://chat.qingting.work>
+
+2. [周报通🛫] <https://zhoubaotong.com/zh>
+
+3. [Chat技术问答] <https://www.abab123.tk/>
+
+4. [Chat客户端] <https://chatplus.buzz/>
+
+5. [海豚问答] <http://zhimachat.com/>
+
+6. [编程🛫] <https://www.aicodehelper.com/>
+
+7. [AI帮个忙] <https://ai-toolbox.codefuture.top/>
+
+8. [虚拟女友🛫] <https://chilloutai.com/>
+
+9. [文字游戏] <https://harry-potter.openai-lab.com>
+
+10. [单词故事🛫] <https://wordstory.streamlit.app/>
+
+11. [AI 如来(佛)🛫] <https://hotoke.ai/>
+
+12. [🔑 技术文档助手🛫] <https://docsgpt.arc53.com/>
+
+13. [AI 表格助手] <https://chatexcel.com/>
+
+14. [🔑 AI文秘助手] <https://typeset.io/>
+
+15. [⛔ AI B站总结] <https://b.jimmylv.cn/>
+
+16. [BaiDu 文心一言] <https://yiyan.baidu.com/welcome>
+
+17. [AI机器人🛫] <https://vrtalk.io/>
+
+18. [ClueAI] <https://www.cluebenchmarks.com/clueai.html>
+
+19. [ChatGPT 应用] <https://open-gpt.app/>
+
+20. [Chat Docs] <https://chatdoc.com/>
+
+21. [AI Colors🛫] <https://aicolors.co/>
+
+22. [AI 工具箱] <https://ai.free-tools.cn/>
+
+23. [AI快速生成SQL] <https://www.sqlkiller.com/>
+
+24. [AI代码生成] <https://www.cursor.so/>
+
+25. [DeepL写作] <https://www.deepl.com/zh/write>
+
+26. [智能写作] <https://heyfriday.cn/>
+
+27. [提示词优化] <https://promptperfect.jinaai.cn/>
+
+28. [AI正则表达式] <https://regex.ai/>
+
+29. [GitHubCopilot] <https://github.com/features/copilot/>
+
+30. [aiXcoder] <https://www.aixcoder.com/>
+
+31. [CodeGeeX] <http://models.aminer.cn/>
+
+32. [密塔写作猫] <https://xiezuocat.com/>
+
+33. [AI文章生成器] <http://wenzhang.zhuluan.com/>
+
 [//]: # (下面是失效的站点)
 
 <details>
@@ -326,72 +396,4 @@
 
 </details>
 
-### 妙站
-
-> 下面这些站点也很有趣
-
-1. [🔑 蜻蜓问答] <https://chat.qingting.work>
-
-2. [周报通🛫] <https://zhoubaotong.com/zh>
-
-3. [Chat技术问答] <https://www.abab123.tk/>
-
-4. [Chat客户端] <https://chatplus.buzz/>
-
-5. [海豚问答] <http://zhimachat.com/>
-
-6. [编程🛫] <https://www.aicodehelper.com/>
-
-7. [AI帮个忙] <https://ai-toolbox.codefuture.top/>
-
-8. [虚拟女友🛫] <https://chilloutai.com/>
-
-9. [文字游戏] <https://harry-potter.openai-lab.com>
-
-10. [单词故事🛫] <https://wordstory.streamlit.app/>
-
-11. [AI 如来(佛)🛫] <https://hotoke.ai/>
-
-12. [🔑 技术文档助手🛫] <https://docsgpt.arc53.com/>
-
-13. [AI 表格助手] <https://chatexcel.com/>
-
-14. [🔑 AI文秘助手] <https://typeset.io/>
-
-15. [⛔ AI B站总结] <https://b.jimmylv.cn/>
-
-16. [BaiDu 文心一言] <https://yiyan.baidu.com/welcome>
-
-17. [AI机器人🛫] <https://vrtalk.io/>
-
-18. [ClueAI] <https://www.cluebenchmarks.com/clueai.html>
-
-19. [ChatGPT 应用] <https://open-gpt.app/>
-
-20. [Chat Docs] <https://chatdoc.com/>
-
-21. [AI Colors🛫] <https://aicolors.co/>
-
-22. [AI 工具箱] <https://ai.free-tools.cn/>
-
-23. [AI快速生成SQL] <https://www.sqlkiller.com/>
-
-24. [AI代码生成] <https://www.cursor.so/>
-
-25. [DeepL写作] <https://www.deepl.com/zh/write>
-
-26. [智能写作] <https://heyfriday.cn/>
-
-27. [提示词优化] <https://promptperfect.jinaai.cn/>
-
-28. [AI正则表达式] <https://regex.ai/>
-
-29. [GitHubCopilot] <https://github.com/features/copilot/>
-
-30. [aiXcoder] <https://www.aixcoder.com/>
-
-31. [CodeGeeX] <http://models.aminer.cn/>
-
-32. [密塔写作猫] <https://xiezuocat.com/>
-
-33. [AI文章生成器] <http://wenzhang.zhuluan.com/>
+> 列表信息来源[xx025/carrot](https://github.com/xx025/carrot)

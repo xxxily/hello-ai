@@ -14,7 +14,7 @@ hero:
       link: /home/
     - theme: alt
       text: 免费体验ChatGPT
-      link: https://free.anzz.top/
+      link: /home/FreeChatGPTSiteList.md
 
 features:
 - title: 降维打击
