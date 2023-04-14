@@ -20,8 +20,9 @@
 | [公益ChatGPT](https://free.anzz.top/) | 免费，无广告，可畅快使用 | [需科学上网](./airport.md) |
 | [ChatBot](https://chatbot.theb.ai/) | 免费，无广告，可畅快使用 | [需科学上网](./airport.md) |
 | [Phind](https://www.phind.com/) | 号称基于GPT4.0的搜索引擎 | [需科学上网](./airport.md) |
-| [ChatBotUI](https://www.chatbotui.com/zh) | GitHub开源高赞应用 | [需自备ApiKey](./buy.md) 无需科学上网 |
 | [Poe](https://poe.com/) | 支持多个不同类型的AI | [需科学上网](./airport.md) 需注册账号 |
+| [ChatBotUI](https://www.chatbotui.com/zh) | GitHub开源高赞应用 | [需自备ApiKey](./buy.md) 无需科学上网 |
+| [YakGPT](https://yakgpt.vercel.app/) | GitHub开源高赞应用 | [需自备ApiKey](./buy.md) [需科学上网](./airport.md) |
 | [PizzaGPT](https://www.pizzagpt.it/) | 意大利公益GPT,卡慢，可作为备用站 | [需科学上网](./airport.md) |
 
 > 没有梯子的看这里：[科学上网](./airport.md)  
