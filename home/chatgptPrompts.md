@@ -1,4 +1,4 @@
-# 🧠ChatGPT 中文调教指南
+# ChatGPT 中文调教指南
 
 > 中文调教指南基于[awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)  
 > 后续会考虑在此基础上一键跳到对话框  

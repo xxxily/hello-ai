@@ -1,4 +1,4 @@
-# Free ChatGPT Site List
+# 免费ChatGPT网站列表
 
 > 一个精心整理的免费ChatGPT网站列表，欢迎[补充](https://github.com/xxxily/hello-ai/issues)
 
@@ -10,7 +10,7 @@
 
 如果你认同这个理念，请将这个项目分享给更多的人，让更多人知道[Hello-AI](https://github.com/xxxily/hello-ai)的存在。  
 
-### 重点推荐
+## 重点推荐
 
 > 下面是经过作者测试，能稳定使用且值得收藏的网站，其他网站请自行测试  
 > 好用的都多人用，所以容易被墙，不想被割韭菜请自备梯子  
@@ -33,6 +33,16 @@
 我不嫌弃你是白嫖怪，你也别一不能用就砸场子。  
 
 ❤️ 听话，做彼此的天使。❤️
+
+## 交流群
+
+> 不定期更新AI相关的资讯，和更多志同道合的人交流讨论
+
+| 加微信群（可能失效） | 加我拉你入群（注明来自：AI） |
+| :----: | :----: |
+| <img src="/assets/img/qun6.jpeg" width="280"/> | <img src="/assets/img/WeChat2.png" width=280 /> |
+
+## 更多网站
 
 ---
 
