@@ -106,12 +106,3 @@ Hello-AI的公益ChatGPT体验地址：
 - 请在输入的问题中注意保护自己的隐私，不要输入私密或敏感的信息
 - 不要将公益ChatGPT用于违法违规的用途，否则后果自负
 
-## 支持作者
-
-如果我的努力给你带来了便利，请不要吝啬你的赞赏
-
-<p>
-  <a href="https://hello-ai.anzz.top/" target="_blank">
-  <img src="/assets/img/donate.png" width=480 alt="如果我的努力给你带来了便利，请不要吝啬你的赞赏" />
-  </a>
-</p>
