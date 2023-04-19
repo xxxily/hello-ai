@@ -36,11 +36,13 @@
 
 ## 交流群
 
-> 不定期更新AI相关的资讯，和更多志同道合的人交流讨论
+> 不定期更新AI相关的资讯，和更多志同道合的人交流讨论  
 
-| 加微信群（可能失效） | 加我拉你入群（注明来自：AI） |
+| 加电报群（Telegram） | 加我微信（注明来自：AI） |
 | :----: | :----: |
-| <img src="/assets/img/qun6.jpeg" width="280"/> | <img src="/assets/img/WeChat2.png" width=280 /> |
+| <img src="/assets/img/tg_qun.jpg" width="280"/> | <img src="/assets/img/wechat2.jpg" width=280 /> |
+
+> 电报群地址：[https://t.me/auto_gpt_ai](https://t.me/auto_gpt_ai)  
 
 ## 更多网站
 

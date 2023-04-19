@@ -22,7 +22,7 @@
 
 请通过微信私聊我，注明来自：AI
 
-<img src="/assets/img/WeChat2.png" width=280 />
+<img src="/assets/img/wechat2.jpg" width=280 />
 
 ## 赞助名单
 
