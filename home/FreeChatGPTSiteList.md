@@ -68,7 +68,7 @@
 
 4. [🔑⭐🛫] <https://poe.com/>
 
-5. [⭐⭐] <https://chat.binjie.site:7777/>
+5. [⭐⭐] <https://aichatos.com/>
 
 6. [⭐⭐] <http://ai.usesless.com/>
 
