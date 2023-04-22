@@ -44,6 +44,7 @@
 
 Hello-AI的公益ChatGPT体验地址：
 
+- [gpt.anzz.top (暂无需梯子能访问)](https://gpt.anzz.top)  
 - [free.anzz.top (已被墙，需梯子才能访问)](https://free.anzz.top)  
 
 > 没有梯子的看这里：[科学上网](./home/airport.md)

@@ -17,7 +17,8 @@
 
 | 网站 | 描述 | 备注 |
 | :---- | :---- | :---- |
-| [公益ChatGPT](https://free.anzz.top/) | 免费，无广告，可畅快使用 | [需科学上网](./airport.md) |
+| [公益ChatGPT 01](https://gpt.anzz.top/) | 免费，无广告，可畅快使用 | 暂无需科学上网 |
+| [公益ChatGPT 02](https://free.anzz.top/) | 免费，无广告，可畅快使用 | [需科学上网](./airport.md) |
 | [ChatBot](https://chatbot.theb.ai/) | 免费，无广告，可畅快使用 | [需科学上网](./airport.md) |
 | [Phind](https://www.phind.com/) | 号称基于GPT4.0的搜索引擎 | [需科学上网](./airport.md) |
 | [Poe](https://poe.com/) | 支持多个不同类型的AI | [需科学上网](./airport.md) 需注册账号 |
