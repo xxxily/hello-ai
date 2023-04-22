@@ -38,14 +38,14 @@
 
 如果你认同这个理念，请将这个项目分享给更多的人，让更多人知道[Hello-AI](https://github.com/xxxily/hello-ai)的存在。  
 
-- [免费AI体验列表](./home/FreeChatGPTSiteList.md)
-
 ## 公益ChatGPT
 
 Hello-AI的公益ChatGPT体验地址：
 
-- [gpt.anzz.top (暂无需梯子能访问)](https://gpt.anzz.top)  
-- [free.anzz.top (已被墙，需梯子才能访问)](https://free.anzz.top)  
+| 网站 | 描述 | 备注 |
+| :---- | :---- | :---- |
+| [公益ChatGPT 01](https://gpt.anzz.top/) | 免费，无广告，可畅快使用 | 暂无需科学上网 |
+| [公益ChatGPT 02](https://free.anzz.top/) | 免费，无广告，可畅快使用 | [需科学上网](./home/airport.md) |
 
 > 没有梯子的看这里：[科学上网](./home/airport.md)
 
@@ -54,6 +54,17 @@ Hello-AI的公益ChatGPT体验地址：
 - 出于防护需要，网站托管于cloudflare，所以国内访问会相对缓慢
 - 域名目前国内可以访问，但无法保证多人使用后依然能访问，如果地址有变会在项目里更新
 - 网站目前是免登陆使用，但是为了防止恶意刷屏，后续会不断改进
+
+其他免费好用的ChatGPT网站：  
+
+| 网站 | 描述 | 备注 |
+| :---- | :---- | :---- |
+| [ChatBot](https://chatbot.theb.ai/) | 免费，无广告，可畅快使用 | [需科学上网](./home/airport.md) |
+| [Phind](https://www.phind.com/) | 号称基于GPT4.0的搜索引擎 | [需科学上网](./home/airport.md) |
+| [Poe](https://poe.com/) | 支持多个不同类型的AI | [需科学上网](./home/airport.md) 需注册账号 |
+| [vercel.ai](https://play.vercel.ai/) | 支持多AI模型同时输出 | [需科学上网](./home/airport.md) 需注册账号 |
+| [ChatBotUI](https://www.chatbotui.com/zh) | GitHub开源高赞应用 | [需自备ApiKey](./home/buy.md) 无需科学上网 |
+| [YakGPT](https://yakgpt.vercel.app/) | GitHub开源高赞应用 | [需自备ApiKey](./home/buy.md) [需科学上网](./home/airport.md) |
 
 - [更多免费AI体验列表](./home/FreeChatGPTSiteList.md)
 
