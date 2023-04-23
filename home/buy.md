@@ -59,5 +59,6 @@
 
 | 网站 | 描述 | 备注 |
 | :---- | :---- | :---- |
+| [Hello-AI](https://chat.in.anzz.top/) | HelloAI用户优享，极速对话 | [需自备ApiKey](./buy.md) 无需科学上网 |
 | [ChatBotUI](https://www.chatbotui.com/zh) | GitHub开源高赞应用 | [需自备ApiKey](./buy.md) 无需科学上网 |
 | [YakGPT](https://yakgpt.vercel.app/) | GitHub开源高赞应用 | [需自备ApiKey](./buy.md) [需科学上网](./airport.md) |

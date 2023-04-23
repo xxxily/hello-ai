@@ -46,7 +46,7 @@ Hello-AI的公益ChatGPT体验地址：
 | :---- | :---- | :---- |
 | [公益ChatGPT 01](https://gpt.anzz.top/) | 免费，无广告，可畅快使用 | 暂无需科学上网 |
 | [公益ChatGPT 02](https://free.anzz.top/) | 免费，无广告，可畅快使用 | [需科学上网](./airport.md) |
-| [Hello-AI GPT](https://chat.in.anzz.top/) | HelloAI官网提供，极速对话 | [需自备ApiKey](./buy.md) 无需科学上网 |
+| [Hello-AI GPT](https://chat.in.anzz.top/) | HelloAI用户优享，极速对话 | [需自备ApiKey](./buy.md) 无需科学上网 |
 
 > 没有梯子的看这里：[科学上网](./airport.md)
 
