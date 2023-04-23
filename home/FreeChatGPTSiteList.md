@@ -23,6 +23,7 @@
 | [Phind](https://www.phind.com/) | 号称基于GPT4.0的搜索引擎 | [需科学上网](./airport.md) |
 | [Poe](https://poe.com/) | 支持多个不同类型的AI | [需科学上网](./airport.md) 需注册账号 |
 | [vercel.ai](https://play.vercel.ai/) | 支持多AI模型同时输出 | [需科学上网](./airport.md) 需注册账号 |
+| [Hello-AI GPT](https://chat.in.anzz.top/) | HelloAI官网提供，极速对话 | [需自备ApiKey](./buy.md) 无需科学上网 |
 | [ChatBotUI](https://www.chatbotui.com/zh) | GitHub开源高赞应用 | [需自备ApiKey](./buy.md) 无需科学上网 |
 | [YakGPT](https://yakgpt.vercel.app/) | GitHub开源高赞应用 | [需自备ApiKey](./buy.md) [需科学上网](./airport.md) |
 | [PizzaGPT](https://www.pizzagpt.it/) | 意大利公益GPT,卡慢，可作为备用站 | [需科学上网](./airport.md) |
