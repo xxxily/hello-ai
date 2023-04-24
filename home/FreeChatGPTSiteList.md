@@ -49,6 +49,8 @@
 
 ## 更多网站
 
+<details>
+  <summary>免费的太多，质量参差不齐，自行辨别</summary>
 ---
 
 - ⭐:使用稳定，不受限，推荐
@@ -63,31 +65,33 @@
 
 [//]: # (下面是正常的站点)
 
-1. [⭐⭐🛫] <https://free.anzz.top/>
+1. [⭐⭐] <https://gpt.anzz.top/>
 
-2. [⭐⭐🛫] <https://chatbot.theb.ai/>
+2. [⭐⭐🛫] <https://free.anzz.top/>
 
-3. [⭐⭐🛫] <https://www.phind.com/>
+3. [⭐⭐🛫] <https://chatbot.theb.ai/>
 
-4. [🔑⭐🛫] <https://poe.com/>
+4. [⭐⭐🛫] <https://www.phind.com/>
 
-5. [⭐⭐] <https://aichatos.com/>
+5. [🔑⭐🛫] <https://poe.com/>
 
-6. [⭐⭐] <http://ai.usesless.com/>
+6. [⭐⭐] <https://aichatos.com/>
 
-7. [⭐⭐] <https://chat.aidutu.cn/>
+7. [⭐⭐] <http://ai.usesless.com/>
 
-8. [⭐⭐] <https://chat10.xeasy.me>
+8. [⭐⭐] <https://chat.aidutu.cn/>
 
-9.  [⭐⭐] <https://chat.wobcw.com/>
+9. [⭐⭐] <https://chat10.xeasy.me>
 
-10. [⭐⭐] <https://aka.mydog.buzz>
+10. [⭐⭐] <https://chat.wobcw.com/>
 
-11. [⭐⭐] <https://greengpt.app/>
+11. [⭐⭐] <https://aka.mydog.buzz>
 
-12. [⭐⭐] <https://ai.ov.cm/>
+12. [⭐⭐] <https://greengpt.app/>
 
-13. [⭐⭐] <https://chat.extkj.cn/>
+13. [⭐⭐] <https://ai.ov.cm/>
+
+14. [⭐⭐] <https://chat.extkj.cn/>
 
 15. [⭐⭐] <https://chatgpt35.theinspiredgroup.com>
 
@@ -133,81 +137,86 @@
 
 36. <http://chat.forwardminded.xyz/#/>
 
-36. [🔑🛫] <https://gpt.clashus.com/>
+37. [🔑🛫] <https://gpt.clashus.com/>
 
-37. [⛔🛫] <https://chatmindai.com/>
+38. [⛔🛫] <https://chatmindai.com/>
 
-38. [🔑🛫] <https://gpt.intercat.cn/>
+39. [🔑🛫] <https://gpt.intercat.cn/>
 
-39. [⛔] <https://chat.sunls.me/>
+40. [⛔] <https://chat.sunls.me/>
 
-40. [⛔🛫] <http://newb.site/chatgpt>
+41. [⛔🛫] <http://newb.site/chatgpt>
 
-41. [🔑] <https://chat.paoying.net/>
+42. [🔑] <https://chat.paoying.net/>
 
-42. [⛔🛫] <https://ai.yiios.com/>
+43. [⛔🛫] <https://ai.yiios.com/>
 
-43. [⛔🛫] <https://chatcat.pages.dev/>
+44. [⛔🛫] <https://chatcat.pages.dev/>
 
-44. [⛔🛫] <https://chat.topsearcher.top/>
+45. [⛔🛫] <https://chat.topsearcher.top/>
 
-45. [⛔🛫] <https://trychatgp.com/>
+46. [⛔🛫] <https://trychatgp.com/>
 
-46. [🔑] <https://chat.opengpt88.com/>
+47. [🔑] <https://chat.opengpt88.com/>
 
-47. [🔑🛫] <https://gpt.chatxyz.online/>
+48. [🔑🛫] <https://gpt.chatxyz.online/>
 
-48. [🔑] <https://www.bz1y.cn/>
+49. [🔑] <https://www.bz1y.cn/>
 
-49. [⛔] <https://www.chat2ai.cn/>
+50. [⛔] <https://www.chat2ai.cn/>
 
-50. [⛔🛫] <http://x-code.fun/>
+51. [⛔🛫] <http://x-code.fun/>
 
-51. [⛔🛫] <https://freechatgpt.chat/>
+52. [⛔🛫] <https://freechatgpt.chat/>
 
-52. [⛔🛫] <https://chat.51buygpt.com/>
+53. [⛔🛫] <https://chat.51buygpt.com/>
 
-53. [⛔🛫] <https://ai117.com/>
+54. [⛔🛫] <https://ai117.com/>
 
-54. [⛔🛫] <http://gitopenchina.gitee.io/freechatgpt>
+55. [⛔🛫] <http://gitopenchina.gitee.io/freechatgpt>
 
-55. [⛔] <https://litechat.22733.site/>
+56. [⛔] <https://litechat.22733.site/>
 
-56. [⛔] <https://aigcfun.com/>
+57. [⛔] <https://aigcfun.com/>
 
-57. [🔑] <https://wen.geekr.dev>
+58. [🔑] <https://wen.geekr.dev>
 
-58. [⛔🛫] <https://chat35.com/>
+59. [⛔🛫] <https://chat35.com/>
 
-59. [🔑🛫] <https://www.ohmygpt.com/>
+60. [🔑🛫] <https://www.ohmygpt.com/>
 
-60. [⛔🛫] <https://tryai.top/freechat>
+61. [⛔🛫] <https://tryai.top/freechat>
 
-61. [🔑] <https://chat.wxredcover.cn/>
+62. [🔑] <https://chat.wxredcover.cn/>
 
-62. [⛔] <https://chat.zecoba.cn/>
+63. [⛔] <https://chat.zecoba.cn/>
 
-63. [⛔] <https://chat.extnav.com/>
+64. [⛔] <https://chat.extnav.com/>
 
-64. [⛔🛫] <http://gitopenchina.gitee.io/gpt>
+65. [⛔🛫] <http://gitopenchina.gitee.io/gpt>
 
-65. [⛔] <https://chat.forchange.cn/>
+66. [⛔] <https://chat.forchange.cn/>
 
-66. [⛔🛫] <https://chatforai.com/>
+67. [⛔🛫] <https://chatforai.com/>
 
-67. [⛔🛫] <https://ai.okmiku.com/chat/>
+68. [⛔🛫] <https://ai.okmiku.com/chat/>
 
-68. [🔑] <https://chat.eaten.fun/>
+69. [🔑] <https://chat.eaten.fun/>
 
-69. [🔑] <https://chat.alpaca-bi.com/>
+70. [🔑] <https://chat.alpaca-bi.com/>
 
-70. [🔑🛫] <https://www.typingmind.com/>
+71. [🔑🛫] <https://www.typingmind.com/>
 
-71. [🔑] <https://codenews.cc/chatgpt>
+72. [🔑] <https://codenews.cc/chatgpt>
 
-72. [🔑] <https://builtbyjesse.com/lab>
+73. [🔑] <https://builtbyjesse.com/lab>
+
+</details>
 
 ### 妙站
+
+<details>
+  <summary>一些基于ChatGPT二开的有趣网站</summary>
 
 > 下面这些站点也很有趣
 
@@ -277,140 +286,8 @@
 
 33. [AI文章生成器] <http://wenzhang.zhuluan.com/>
 
-[//]: # (下面是失效的站点)
-
-<details>
-  <summary>失效站点</summary>
-
-1. <https://ai.bo-e.com/>
-<br/>
-
-2. <https://openai.onenov.cn/>
-<br/>
-
-3. <http://openmao.com/>
-<br/>
-
-4. <https://chater.lanyun1103.top>
-<br/>
-
-5. <https://chat.yougan.cc/>
-<br/>
-
-6. <http://chatai.fyi/>
-<br/>
-
-7. <http://chat.apigpt.cn/>
-<br/>
-
-8. <http://chat.livepo.top/>
-<br/>
-
-9. <https://vip.jjzn.top/>
-<br/>
-
-10. <https://chatmate.network/>
-<br/>
-
-11. <https://freegpt.one/>
-<br/>
-
-12. <https://freechatgpt.lol/>
-<br/>
-
-13. <https://fastgpt.app/>
-<br/>
-
-14. <https://chat.jingran.vip/>
-<br/>
-
-15. <http://itecheasy.com.cn/>
-<br/>
-
-16. <https://chatgpt.ddiu.io/>
-<br/>
-
-17. <https://chat.aigc-model.com/>
-<br/>
-
-18. <https://chatgpt.poshist.cn/>
-<br/>
-
-19. <https://www.chatsverse.xyz/>
-<br/>
-
-20. <https://ai.v2less.com/>
-<br/>
-
-21. <https://chatgpt.h7ml.cn/>
-<br/>
-
-22. <https://chat.tgbot.co/>
-<br/>
-
-23. <https://chat.ninvfeng.xyz/>
-<br/>
-
-24. <https://talk.xiu.ee/>
-<br/>
-
-25. <https://chat.sheepig.top/>
-<br/>
-
-26. <https://chatgpt.ddiu.me/>
-<br/>
-
-27. <https://chatgpt.lcc8.com/>
-<br/>
-
-28. <https://chat.uue.me/>
-<br/>
-
-29. <http://gpt.mxnf.store/>
-<br/>
-
-30. <https://chat.moyunav.com/>
-<br/>
-
-31. <https://www.askopenai.cn/>
-<br/>
-
-32. <https://gpt.h7ml.cn/>
-<br/>
-
-33. <https://askgptai.com/>
-<br/>
-
-34. <https://www.aitoolgpt.com/>
-<br/>
-
-35. <https://chatapi.qload.cn/>
-<br/>
-
-36. <https://chat-gpt.nikong.cn/>
-<br/>
-
-37. <https://chatgpt-flutter.h7ml.cn/>
-<br/>
-
-38. <https://www.cveoy.com/>
-<br/>
-
-39. <https://chat.h7ml.cn/>
-<br/>
-
-40. <https://freegpt.cc>
-<br/>
-
-41. <https://www.aiai.zone/>
-<br/>
-
-42. <http://43.156.110.219:3002/>
-<br/>
-
-43. <https://www.askme.mom/>
-<br/>
-
 </details>
 
-> 列表信息来源[xx025/carrot](https://github.com/xx025/carrot)
+
+> 列表信息来源[xx025/carrot](https://github.com/xx025/carrot)  
+> 更多免费列表[lzwme/chatgpt-sites](https://github.com/lzwme/chatgpt-sites)  

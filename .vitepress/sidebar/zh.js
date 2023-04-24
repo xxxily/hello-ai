@@ -4,7 +4,7 @@ export default [
     // collapsible: true,
     items: [
       { text: 'Hello-AI', link: '/home/index.md' },
-      { text: '成为赞助方', link: '/home/sponsor.md' },
+      // { text: '成为赞助方', link: '/home/sponsor.md' },
       { text: '免费ChatGPT网站列表', link: '/home/FreeChatGPTSiteList.md' },
       { text: 'ChatGPT中文调教指南', link: '/home/chatgptPrompts.md' },
       { text: 'ChatGPT开源项目合集', link: '/home/awesome-open-gpt.md' },
