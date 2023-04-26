@@ -74,10 +74,11 @@ Hello-AI的公益ChatGPT体验地址：
 
 > 不定期更新AI相关的资讯，和更多志同道合的人交流讨论  
 
-| 加电报群（Telegram） | 加我微信（注明来自：AI） |
+| 加电报群（Telegram） | 加微信群（需注明：进AI群） |
 | :----: | :----: |
-| <img src="/assets/img/tg_qun.jpg" width="280"/> | <img src="/assets/img/wechat2.jpg" width=280 /> |
+| <img src="/assets/img/tg_qun.jpg" width="280"/> | <img src="/assets/img/WeChat2.png" width=280 /> |
 
+> 微信群不注明要进群，则不会邀你入群，避免给你造成信息骚扰  
 > 电报群地址：[https://t.me/auto_gpt_ai](https://t.me/auto_gpt_ai)  
 
 ## 公益ChatGPT的限制

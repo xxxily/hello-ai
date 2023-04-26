@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as t,N as o}from"./chunks/framework.cd9250a1.js";const f=JSON.parse('{"title":"AI导航","description":"","frontmatter":{},"headers":[],"relativePath":"home/navigation.md"}'),i={name:"home/navigation.md"},r=o("",17),n=[r];function h(l,s,c,d,p,u){return t(),e("div",null,n)}const b=a(i,[["render",h]]);export{f as __pageData,b as default};

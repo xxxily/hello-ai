@@ -24,7 +24,7 @@
 为保证服务质量和方便售后，暂不支持在线购买，请添加下面的微信号进行购买：
 
 <br />
-<img src="/assets/img/wechat2.jpg" width=280 />
+<img src="/assets/img/WeChat2.png" width=280 />
 <br />
 
 ## 免费跟付费的区别
