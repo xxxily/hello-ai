@@ -61,6 +61,7 @@ Hello-AI的公益ChatGPT体验地址：
 | 网站 | 描述 | 备注 |
 | :---- | :---- | :---- |
 | [ChatBot](https://chatbot.theb.ai/) | 免费，无广告，可畅快使用 | [需科学上网](./home/airport.md) |
+| [ForeFront](https://chat.forefront.ai/) | 支持GPT4.0的多角色免费聊天应用 | [需科学上网](./home/airport.md) 需注册账号 |
 | [Phind](https://www.phind.com/) | 号称基于GPT4.0的搜索引擎 | [需科学上网](./home/airport.md) |
 | [Poe](https://poe.com/) | 支持多个不同类型的AI | [需科学上网](./home/airport.md) 需注册账号 |
 | [vercel.ai](https://play.vercel.ai/) | 支持多AI模型同时输出 | [需科学上网](./home/airport.md) 需注册账号 |
