@@ -45,8 +45,9 @@ Hello-AI的公益ChatGPT体验地址：
 | 网站 | 描述 | 备注 |
 | :---- | :---- | :---- |
 | [公益ChatGPT 01](https://gpt.anzz.top/) | HelloAI官网提供，可畅快使用 | 暂无需科学上网 |
-| [公益ChatGPT 02](https://chat.in.anzz.top/) | HelloAI官网提供，可畅快使用 | [需自备ApiKey](./buy.md) 无需科学上网 |
-| [公益ChatGPT 03](https://free.anzz.top/) | HelloAI官网提供，可畅快使用 | [需科学上网](./airport.md) |
+| [公益ChatGPT 02](https://gpt.in.anzz.top/) | HelloAI官网提供，可畅快使用 | [需自备ApiKey](./buy.md) 无需科学上网 |
+| [公益ChatGPT 03](https://chat.in.anzz.top/) | HelloAI官网提供，可畅快使用 | [需自备ApiKey](./buy.md) [需科学上网](./airport.md) |
+| [公益ChatGPT 04](https://free.anzz.top/) | HelloAI官网提供，可畅快使用 | [需科学上网](./airport.md) |
 
 > 没有梯子的看这里：[科学上网](./airport.md)
 
@@ -65,7 +66,7 @@ Hello-AI的公益ChatGPT体验地址：
 | [Phind](https://www.phind.com/) | 号称基于GPT4.0的搜索引擎 | [需科学上网](./airport.md) |
 | [Poe](https://poe.com/) | 支持多个不同类型的AI | [需科学上网](./airport.md) 需注册账号 |
 | [vercel.ai](https://play.vercel.ai/) | 支持多AI模型同时输出 | [需科学上网](./airport.md) 需注册账号 |
-| [ChatBotUI](https://www.chatbotui.com/zh) | GitHub开源高赞应用 | [需自备ApiKey](./buy.md) 无需科学上网 |
+| [ChatBotUI](https://www.chatbotui.com/zh) | GitHub开源高赞应用 | [需自备ApiKey](./buy.md) [需科学上网](./airport.md) |
 | [YakGPT](https://yakgpt.vercel.app/) | GitHub开源高赞应用 | [需自备ApiKey](./buy.md) [需科学上网](./airport.md) |
 
 - [更多免费AI体验列表](./FreeChatGPTSiteList.md)
