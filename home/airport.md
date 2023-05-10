@@ -8,6 +8,7 @@
 
 | 服务商 | 按月最低套餐 | 按量最低套餐 | 稳定度 | 速度 | 适用场景 |
 | :----: | :----: | :----: | :---- | :---- | :---- |
+| [白月光](https://www.bygcloud.com/#/register?code=ipwepD72) | 22元/100G | 不支持 | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | 高质量网络 |
 | [CatNet](https://www.58catnet.com/#/register?code=zr0Nqcdq) | 25元/100G | 不支持 | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | 高质量网络 |
 | [零点云](https://hd.vdoos.pw/auth/register?code=YMX5) | 13元/100G | 不支持 | ⭐⭐⭐ | ⭐⭐⭐ | 办公日常使用 |
 | [AntLink](https://antlink.cc/#/register?code=IiwzN0HO) | 10元/208G | 12元/50G | ⭐⭐ | ⭐⭐ | 入门轻度使用 |
