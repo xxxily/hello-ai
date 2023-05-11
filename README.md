@@ -44,10 +44,11 @@ Hello-AI的公益ChatGPT体验地址：
 
 | 网站 | 描述 | 备注 |
 | :---- | :---- | :---- |
-| [公益ChatGPT 01](https://gpt.anzz.top/) | HelloAI官网提供，可畅快使用 | 暂无需科学上网 |
-| [公益ChatGPT 02](https://gpt.in.anzz.top/) | HelloAI官网提供，可畅快使用 | [需自备ApiKey](./home/buy.md) 无需科学上网 |
-| [公益ChatGPT 03](https://chat.in.anzz.top/) | HelloAI官网提供，可畅快使用 | [需自备ApiKey](./home/buy.md) [需科学上网](./home/airport.md) |
-| [公益ChatGPT 04](https://free.anzz.top/) | HelloAI官网提供，可畅快使用 | [需科学上网](./home/airport.md) |
+| [公益ChatGPT 01](https://chat.fed.qiweioa.cn) | 免费，无广告，可畅快使用 | 暂无需科学上网 |
+| [公益ChatGPT 02](https://gpt.anzz.top/) | HelloAI官网提供，可畅快使用 | 暂无需科学上网 |
+| [公益ChatGPT 03](https://gpt.in.anzz.top/) | HelloAI官网提供，可畅快使用 | [需自备ApiKey](./home/buy.md) 无需科学上网 |
+| [公益ChatGPT 04](https://chat.in.anzz.top/) | HelloAI官网提供，可畅快使用 | [需自备ApiKey](./home/buy.md) [需科学上网](./home/airport.md) |
+| [公益ChatGPT 05](https://free.anzz.top/) | HelloAI官网提供，可畅快使用 | [需科学上网](./home/airport.md) |
 
 > 没有梯子的看这里：[科学上网](./home/airport.md)
 
