@@ -13,7 +13,7 @@
 ## 重点推荐
 
 > 下面是经过作者测试，能稳定使用且值得收藏的网站，其他网站请自行测试  
-> 好用的都多人用，所以容易被墙，[不想被割韭菜请自备梯子](#)  
+> 好用的都多人用，所以容易被墙，<span style="color:#F00">不想被割韭菜请自备梯子</span>  
 
 | 网站 | 描述 | 备注 |
 | :---- | :---- | :---- |
@@ -290,7 +290,6 @@
 33. [AI文章生成器] <http://wenzhang.zhuluan.com/>
 
 </details>
-
 
 > 列表信息来源[xx025/carrot](https://github.com/xx025/carrot)  
 > 更多免费列表[lzwme/chatgpt-sites](https://github.com/lzwme/chatgpt-sites)  
