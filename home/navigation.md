@@ -2,6 +2,14 @@
 
 > 提供丰富而全面的AI网站汇总，[资料来源](https://www.processon.com/preview/644642df6fd8591c7cff5f49?fromnew=1&template=true&template=true&cate=mind)
 
+## AI网站精选
+
+| 网站 | 描述 |
+| :---- | :---- |
+| [Hello-AI](https://github.com/xxxily/hello-ai) | 一个帮助更多人链接到AI世界的项目，提供各种AI相关的内容 |
+| [免费ChatGPT网站列表](https://github.com/xxxily/hello-ai/blob/main/home/FreeChatGPTSiteList.md) | 精选ChatGPT镜像网站，并附录数千个免费网站 |
+| [全球AI网站汇总](https://github.com/xxxily/hello-ai/blob/main/home/navigation.md) | 收录上千个AI相关的网站列表，不定时更新 |
+
 ## AI写作工具
 
 | 网站 | 描述 |

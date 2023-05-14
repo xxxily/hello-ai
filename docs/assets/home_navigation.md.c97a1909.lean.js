@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as r,N as l}from"./chunks/framework.cd9250a1.js";const p=JSON.parse('{"title":"全球AI网站汇总","description":"","frontmatter":{},"headers":[],"relativePath":"home/navigation.md"}'),a={name:"home/navigation.md"},n=l("",84),d=[n];function i(f,s,o,g,h,y){return r(),e("div",null,d)}const b=t(a,[["render",i]]);export{p as __pageData,b as default};
