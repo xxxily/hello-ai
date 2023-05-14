@@ -1,6 +1,6 @@
 {
   "name": "hello-ai",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "这个是个帮助自己链接到广阔AI世界的项目，也希望能帮助到你。",
   "keywords": [
     "AI",
@@ -14,6 +14,9 @@
   ],
   "type": "module",
   "files": [
+    "assets",
+    "docs",
+    "home",
     "dist",
     "src",
     "logo.png"
@@ -31,6 +34,9 @@
     "url": "https://github.com/xxxily/hello-ai/issues"
   },
   "license": "MIT",
+  "main": "src/index.js",
+  "module": "src/index.js",
+  "unpkg": "src/index.js",
   "scripts": {
     "docs:dev": "vitepress dev ./",
     "docs:build": "vitepress build ./",

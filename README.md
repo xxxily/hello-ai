@@ -2,7 +2,7 @@
 
 <br />
 <br />
-<img alt="Hello-AI" src="/assets/img/logo.png" width="96" height="96">
+<img alt="Hello-AI" src="https://cdn.jsdelivr.net/npm/hello-ai/assets/img/logo.png" width="96" height="96">
 <br />
 <br />
 
@@ -20,7 +20,7 @@
 - [ChatGPT中文调教指南](./home/chatgptPrompts.md)
 - [ChatGPT开源项目合集](./home/awesome-open-gpt.md)
 - [科学上网工具推荐](./home/airport.md)
-- [AI网站导航](./home/navigation.md)
+- [全球AI网站汇总](./home/navigation.md)
 - [AI相关的影视作品](./home/film.md)
 - [AI相关的书籍](./home/books.md)
 - AI相关的热门资讯
@@ -78,7 +78,7 @@ Hello-AI的公益ChatGPT体验地址：
 
 | 加电报群（Telegram） | 加微信群（需注明：进AI群） |
 | :----: | :----: |
-| <img src="/assets/img/tg_qun.jpg" width="280"/> | <img src="/assets/img/WeChat2.png" width=280 /> |
+| <img src="https://cdn.jsdelivr.net/npm/hello-ai/assets/img/tg_qun.jpg" width="280"/> | <img src="https://cdn.jsdelivr.net/npm/hello-ai/assets/img/WeChat2.png" width=280 /> |
 
 > 微信群不注明要进群，则不会邀你入群，避免给你造成信息骚扰  
 > 电报群地址：[https://t.me/auto_gpt_ai](https://t.me/auto_gpt_ai)  
