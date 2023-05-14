@@ -1,6 +1,7 @@
 # 全球AI网站汇总
 
-> 提供丰富而全面的AI网站汇总，[资料来源](https://www.processon.com/preview/644642df6fd8591c7cff5f49?fromnew=1&template=true&template=true&cate=mind)
+> 提供丰富而全面的AI网站汇总，[资料来源(脑图)](https://www.processon.com/preview/644642df6fd8591c7cff5f49?fromnew=1&template=true&template=true&cate=mind)  
+> 更好的阅读地址（带目录导航）：[hello-ai.anzz.top/home/navigation.html](https://hello-ai.anzz.top/home/navigation.html)  
 
 ## AI网站精选
 
