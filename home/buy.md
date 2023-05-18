@@ -9,10 +9,10 @@
 
 | 类型 | 套餐信息 | 价格 | 备注 |
 | :---- | :---- | :---- | :---- |
-| [ChatGPT账号](https://ai.com) | 无api调用额度 | 10元 | 纯ChatGPT账号 |
+| [ChatGPT账号](https://ai.com) | 无api调用额度 | 15元 | 纯ChatGPT账号 |
 | [ChatGPT账号](https://ai.com) + [ApiKey](https://platform.openai.com/account/api-keys) | 5美金api调用额度 | 20元 | 约能问5000-15000次 |
 | [ChatGPT账号](https://ai.com) + [ApiKey](https://platform.openai.com/account/api-keys) | 18美金api调用额度 | 已售罄 | 约能问18000-54000次 |
-| [ChatGPT账号](https://ai.com) + [ApiKey](https://platform.openai.com/account/api-keys) | 120美金api调用额度 | 99元 | 约能问120000-360000次 |
+| [ChatGPT账号](https://ai.com) + [ApiKey](https://platform.openai.com/account/api-keys) | 120美金api调用额度 | 60元 | 约能问120000-360000次 |
 | [ChatGPT Plus账号](https://ai.com) [支持GPT4.0](https://openai.com/research/gpt-4) | 官网价格20美金/月 | 暂无货 | 支持GPT4.0，速度更快更稳定 |
 | [Midjourney 账号代充](https://www.midjourney.com/) | 30美金/月套餐 | 210元 | 需自备账号，账号支持共享使用 |
 | [Midjourney 账号代充](https://www.midjourney.com/) | 60美金/月套餐 | 420元 | 需自备账号，账号支持共享使用 |
