@@ -45,7 +45,7 @@ Hello-AI的公益ChatGPT体验地址：
 | 网站 | 描述 | 备注 |
 | :---- | :---- | :---- |
 | [公益ChatGPT 01](https://chat.fed.qiweioa.cn) | 免费，无广告，可畅快使用 | 暂无需科学上网 |
-| [公益ChatGPT 02](https://gpt.anzz.top/) | HelloAI官网提供，可畅快使用 | 暂无需科学上网 |
+| [公益ChatGPT 02](https://gpt.anzz.top/) | HelloAI官网提供，可畅快使用 | [需科学上网](./home/airport.md) |
 | [公益ChatGPT 03](https://gpt.in.anzz.top/) | HelloAI官网提供，可畅快使用 | [需自备ApiKey](./home/buy.md) 无需科学上网 |
 | [公益ChatGPT 04](https://chat.in.anzz.top/) | HelloAI官网提供，可畅快使用 | [需自备ApiKey](./home/buy.md) [需科学上网](./home/airport.md) |
 | [公益ChatGPT 05](https://free.anzz.top/) | HelloAI官网提供，可畅快使用 | [需科学上网](./home/airport.md) |
@@ -88,7 +88,7 @@ Hello-AI的公益ChatGPT体验地址：
 为了让更多人能在免费的前提下都能使用上ChatGPT，Hello-AI自身提供的ChatGPT目前有以下限制：
 
 - 每个设备（粗略判断）每分钟最多只能发送6条消息
-- 每个IP每小时最多只能发送20条消息
+- ~~每个IP每小时最多只能发送20条消息~~
 - 每个IP每天最多只能发送100条消息
 - 超量后会把IP判定为恶意IP，然后拉入黑名单
 - 拉入黑名单24小时后会自动解除
