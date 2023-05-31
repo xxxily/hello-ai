@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as l,N as a}from"./chunks/framework.cd9250a1.js";const c=JSON.parse('{"title":"Hello-AI","description":"","frontmatter":{},"headers":[],"relativePath":"README.md"}'),r={name:"README.md"},h=a("",48),i=[h];function o(n,d,s,f,p,g){return l(),e("div",null,i)}const b=t(r,[["render",o]]);export{c as __pageData,b as default};

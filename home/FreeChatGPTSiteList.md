@@ -26,10 +26,13 @@
 | [ForeFront](https://chat.forefront.ai/) | 支持GPT4.0的多角色免费聊天应用 | [需科学上网](./airport.md) 需注册账号 |
 | [Phind](https://www.phind.com/) | 基于GPT4.0的搜索引擎 | [需科学上网](./airport.md) |
 | [Poe](https://poe.com/) | 支持多个不同类型的AI | [需科学上网](./airport.md) 需注册账号 |
+| [ora.ai](https://ora.ai/) | 支持GPT4.0的AI应用 | [需科学上网](./airport.md) 需注册账号 |
 | [vercel.ai](https://play.vercel.ai/) | 支持多AI模型同时输出 | [需科学上网](./airport.md) 需注册账号 |
-| [ChatBotUI](https://www.chatbotui.com/zh) | GitHub开源高赞应用 | [需自备ApiKey](./buy.md) [需科学上网](./airport.md) |
-| [YakGPT](https://yakgpt.vercel.app/) | GitHub开源高赞应用 | [需自备ApiKey](./buy.md) [需科学上网](./airport.md) |
-| [PizzaGPT](https://www.pizzagpt.it/) | 意大利公益GPT,卡慢，可作为备用站 | [需科学上网](./airport.md) |
+| [Pandora](https://chat.zhile.io/) | 帮你摆脱GPT官网限制的优秀镜像网站 | [需自备GPT账号](./buy.md) |
+| [ChatBotUI](https://www.chatbotui.com/zh) | 支持自托管的GPT开源高赞应用 | [需自备ApiKey](./buy.md) [需科学上网](./airport.md) |
+| [GPT-Next-Web](https://chatgpt.nextweb.fun/) | 支持自托管的GPT开源高赞应用 | [需自备ApiKey](./buy.md) [需科学上网](./airport.md) |
+| [YakGPT](https://yakgpt.vercel.app/) | 支持自托管的GPT开源高赞应用 | [需自备ApiKey](./buy.md) [需科学上网](./airport.md) |
+
 
 > 没有梯子的看这里：[科学上网](./airport.md)  
 > 需要购买key的看这里：[购买ApiKey](./buy.md)  
