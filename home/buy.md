@@ -1,20 +1,27 @@
 # 付费服务
 
-## 关于ApiKey
-
-> 大部早期注册的ChatGPT账号都会赠送5或18美金额度的ApiKey，所以：
-> 如果你已经拥有ChatGPT的账号，并且还没使用过ApiKey，那么建议你先到 [这里](https://platform.openai.com/account/api-keys) 查看一下自己账号ApiKey的可用情况。如果还能用，那么就不需要购买了。
-
 ## 商品信息列表
 
 | 类型 | 套餐信息 | 价格 | 备注 |
 | :---- | :---- | :---- | :---- |
 | [ChatGPT账号](https://ai.com) | 无api调用额度 | 15元 | 纯ChatGPT账号 |
-| [ChatGPT账号](https://ai.com) + [ApiKey](https://platform.openai.com/account/api-keys) | 5美金api调用额度 | 20元 | 约能问5000-15000次 |
-| [ChatGPT账号](https://ai.com) + [ApiKey](https://platform.openai.com/account/api-keys) | 120美金api调用额度 | 60元 | 约能问120000-360000次 |
+| [ChatGPT账号](https://ai.com) + [ApiKey](https://platform.openai.com/account/api-keys) | 5美金api调用额度 | 20元 | 约能问3000-5000次 |
+| [ChatGPT账号](https://ai.com) + [ApiKey](https://platform.openai.com/account/api-keys) | 120美金api调用额度 | 60元 | 约能问72000-120000次 |
 | [ChatGPT Plus账号](https://ai.com) [支持GPT4.0](https://openai.com/research/gpt-4) | 官网价格20美金/月 | 暂无货 | 支持GPT4.0，速度更快更稳定 |
 
 > 上述中ApiKey额度能问多少次只是个参考范围，实际次数跟很多因素有关，官方计费说明[看这](https://openai.com/pricing)  
+
+## 商品质保
+
+由于账号是特殊商品，分享使用、频繁变换IP、被官网判定为恶意IP、恶意提问等因素都会造成账号异常或不可用，因此无法永久质保，介意的勿拍。为了让您用得放心，我们提供了相应的质保期限，具体如下：  
+
+| 套餐类型 | 免费质保期 | 有偿质保期 |
+| :---- | :---- | :---- |
+| 15元套餐 | 7天内免费补发一次 | 7-21天内的5块钱补发一次 |
+| 20元套餐 | 21天内免费补发一次 | 21-45天内的8块钱补发一次 |
+| 60元套餐 | 21天内免费补发一次 | 21-45天内的18块钱补发一次 |
+
+> 以上质保期限是指账号完全不可用的情况下，我们会在规定时间内免费或有偿补发一次账号。但并不代表质保期外账号就会失效，只要您使用得当，账号是可以长期使用的。
 
 ## 购买方式
 
@@ -80,5 +87,6 @@
 | 网站 | 描述 | 备注 |
 | :---- | :---- | :---- |
 | [Hello-AI](https://chat.in.anzz.top/) | HelloAI用户优享，极速对话 | [需自备ApiKey](./buy.md) 无需科学上网 |
-| [ChatBotUI](https://www.chatbotui.com/zh) | GitHub开源高赞应用 | [需自备ApiKey](./buy.md) 无需科学上网 |
-| [YakGPT](https://yakgpt.vercel.app/) | GitHub开源高赞应用 | [需自备ApiKey](./buy.md) [需科学上网](./airport.md) |
+| [ChatBotUI](https://www.chatbotui.com/zh) | 支持自托管的GPT开源高赞应用 | [需自备ApiKey](./buy.md) [需科学上网](./airport.md) |
+| [YakGPT](https://yakgpt.vercel.app/) | 支持自托管的GPT开源高赞应用 | [需自备ApiKey](./buy.md) [需科学上网](./airport.md) |
+| [GPT-Next-Web](https://chatgpt.nextweb.fun/) | 支持自托管的GPT开源高赞应用 | [需自备ApiKey](./buy.md) [需科学上网](./airport.md) |
