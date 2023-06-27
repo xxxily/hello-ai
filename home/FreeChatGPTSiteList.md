@@ -17,11 +17,10 @@
 
 | 网站 | 描述 | 备注 |
 | :---- | :---- | :---- |
-| [公益ChatGPT 01](https://chat.fed.qiweioa.cn) | 免费，无广告，可畅快使用 | 暂无需科学上网 |
+| [公益ChatGPT 01](https://free.anzz.top/) | HelloAI官网提供，可畅快使用 | [需科学上网](./airport.md) |
 | [公益ChatGPT 02](https://gpt.anzz.top/) | HelloAI官网提供，可畅快使用 | 暂无需科学上网 |
 | [公益ChatGPT 03](https://gpt.in.anzz.top/) | HelloAI官网提供，可畅快使用 | [需自备ApiKey](./buy.md) 无需科学上网 |
 | [公益ChatGPT 04](https://chat.in.anzz.top/) | HelloAI官网提供，可畅快使用 | [需自备ApiKey](./buy.md) [需科学上网](./airport.md) |
-| [公益ChatGPT 05](https://free.anzz.top/) | HelloAI官网提供，可畅快使用 | [需科学上网](./airport.md) |
 | [ChatBot](https://chatbot.theb.ai/) | 免费，无广告，可畅快使用 | [需科学上网](./airport.md) |
 | [ForeFront](https://chat.forefront.ai/) | 支持GPT4.0的多角色免费聊天应用 | [需科学上网](./airport.md) 需注册账号 |
 | [Phind](https://www.phind.com/) | 基于GPT4.0的搜索引擎 | [需科学上网](./airport.md) |
