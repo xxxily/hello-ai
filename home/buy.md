@@ -4,9 +4,9 @@
 
 | 类型 | 套餐信息 | 价格 | 备注 |
 | :---- | :---- | :---- | :---- |
-| [ChatGPT账号](https://ai.com) | 无api调用额度 | 15元 | 纯ChatGPT账号 |
-| [ChatGPT账号](https://ai.com) + [ApiKey](https://platform.openai.com/account/api-keys) | 5美金api调用额度 | 20元 | 约能问3000-5000次 |
-| [ChatGPT账号](https://ai.com) + [ApiKey](https://platform.openai.com/account/api-keys) | 120美金api调用额度 | 60元 | 约能问72000-120000次 |
+| [ChatGPT账号](https://ai.com) | 无api调用额度 | 已售罄 | 纯ChatGPT账号 |
+| [ChatGPT账号](https://ai.com) + [ApiKey](https://platform.openai.com/account/api-keys) | 5美金api调用额度 | 已售罄 | 约能问3000-5000次 |
+| [ChatGPT账号](https://ai.com) + [ApiKey](https://platform.openai.com/account/api-keys) | 120美金api调用额度 | 已售罄 | 约能问72000-120000次 |
 | [ChatGPT Plus账号](https://ai.com) [支持GPT4.0](https://openai.com/research/gpt-4) | 官网价格20美金/月 | 暂无货 | 支持GPT4.0，速度更快更稳定 |
 
 > 上述中ApiKey额度能问多少次只是个参考范围，实际次数跟很多因素有关，官方计费说明[看这](https://openai.com/pricing)  
