@@ -8,21 +8,21 @@
 
 > 这是个帮助自己链接到广阔AI世界的项目，也希望能帮助到你。
 
-> ❤️ 公益ChatGPT，且用且珍惜，好用就[给作者点个star](https://github.com/xxxily/hello-ai) ❤️
-
 ## 概述
 
 帮助自己也让更多人链接到AI世界，这是这个项目的初衷。  
 
+作为AI降临派的带路者之一，在[ChatGPT](https://chat.openai.com/)最火热的时候，本着拒绝被割韭菜的初心，也曾提供了一系列公益的AI服务，帮助了一部分人链接上了AI世界。时光荏苒，如今AI已经遍地开花，曾经的公益服务也因为各种原因停止了。但是，这个项目的初衷还在，如果你厌倦了跟国内的那些套壳、不定时跑路、莫名失踪的AI服务斗智斗勇，那么这里或许依然能给你一些微弱的帮助。
+
 项目会提供AI相关的资源，包括但不限于：
 
-- [免费ChatGPT网站列表](./home/FreeChatGPTSiteList.md)
+- ~~[免费ChatGPT网站列表](./home/FreeChatGPTSiteList.md)~~
 - [ChatGPT中文调教指南](./home/chatgptPrompts.md)
 - [ChatGPT开源项目合集](./home/awesome-open-gpt.md)
 - [科学上网工具推荐](./home/airport.md)
 - [全球AI网站汇总](./home/navigation.md)
-- [AI相关的影视作品](./home/film.md)
-- [AI相关的书籍](./home/books.md)
+- ~~[AI相关的影视作品](./home/film.md)~~
+- ~~[AI相关的书籍](./home/books.md)~~
 - AI相关的热门资讯
 - AI信息交流群等
 
@@ -30,53 +30,51 @@
 
 如果您有任何跟AI相关的信息欢迎提供，有建议或意见也可以提 [issue](https://github.com/xxxily/hello-ai/issues)
 
-## Hello-AI的公益理念
+## 最新免费AI服务网站推荐
 
-只要免费的数量足够多，不可用了就换一个，真有需求的人自然会选择自己信得过的进行付费，或者自己上官网折腾。  
+鉴于国内并不能稳定、合规、真实地提供[ChatGPT](https://chat.openai.com/)、[Gemini](https://gemini.google.com)等先进的AI服务，所以这里优先推荐国外服务商提供的AI服务。  
 
-这样可以倒逼更多网站提升自身的服务质量，让割韭菜的无所遁形。  
+下面网站，如果访问受限，请参考：[科学上网](./home/airport.md)的相关内容。
 
-如果你认同这个理念，请将这个项目分享给更多的人，让更多人知道[Hello-AI](https://github.com/xxxily/hello-ai)的存在。  
+### [coze.com](https://www.coze.com/) 推荐指数：⭐⭐⭐⭐⭐
 
-## 公益ChatGPT
+推荐理由：
 
-Hello-AI的公益ChatGPT体验地址：
+- 支持GPT-4模型，且无限使用
+- 最高支持GPT-4(128K)模型
+- 现阶段完全免费，暂无严格的注册限制
+- 提供跟chatGPT-plus用户类似的服务
+- 插件、知识库、联网等功能一个都不少
+- 可以很方便地接入到国外主流聊天工具
+- 由字节海外团队提供，服务质量和稳定性都有保证
 
-| 网站 | 描述 | 备注 |
-| :---- | :---- | :---- |
-| [公益ChatGPT 01](https://free.anzz.top/) | HelloAI官网提供，可畅快使用 | [需科学上网](./home/airport.md) |  
-| [公益ChatGPT 02](https://gpt.anzz.top/) | HelloAI官网提供，可畅快使用 | [需科学上网](./home/airport.md) |  
-| [公益ChatGPT 03](https://gpt.in.anzz.top/) | HelloAI官网提供，可畅快使用 | [需自备ApiKey](./home/buy.md) 无需科学上网 |  
-| [公益ChatGPT 04](https://chat.in.anzz.top/) | HelloAI官网提供，可畅快使用 | [需自备ApiKey](./home/buy.md) [需科学上网](./home/airport.md) |  
+![coze](./home/img/coze.png)
 
-> 没有梯子的看这里：[科学上网](./home/airport.md)
+### [chat.openai.com](https://chat.openai.com/) 推荐指数：⭐⭐⭐⭐⭐
 
-网站说明：
+推荐理由：
 
-- 出于防护需要，网站托管于cloudflare，所以国内访问会相对缓慢
-- 域名目前国内可以访问，但无法保证多人使用后依然能访问，如果地址有变会在项目里更新
-- 网站目前是免登陆使用，但是为了防止恶意刷屏，后续会不断改进
+- GPT-3.5模型免费且无限使用
+- OpenAI官方提供的ChatGPT服务
+- 注册门槛已降低很多了，稍微折腾下基本都能注册成功
+- 经过不断打磨，已经可以稳定流畅使用了
+- 别再用国内的套壳了，那些真的很难用
 
-其他免费好用的ChatGPT网站：  
+### [gemini.google.com](https://gemini.google.com/) 推荐指数：⭐⭐⭐⭐⭐
 
-| 网站 | 描述 | 备注 |
-| :---- | :---- | :---- |
-| [ChatBot](https://chatbot.theb.ai/) | 免费，无广告，可畅快使用 | [需科学上网](./home/airport.md) |
-| [ForeFront](https://chat.forefront.ai/) | 支持GPT4.0的多角色免费聊天应用 | [需科学上网](./home/airport.md) 需注册账号 |
-| [Phind](https://www.phind.com/) | 号称基于GPT4.0的搜索引擎 | [需科学上网](./home/airport.md) |
-| [Poe](https://poe.com/) | 支持多个不同类型的AI | [需科学上网](./home/airport.md) 需注册账号 |
-| [ora.ai](https://ora.ai/) | 支持GPT4.0的AI应用 | [需科学上网](./home/airport.md) 需注册账号 |
-| [vercel.ai](https://play.vercel.ai/) | 支持多AI模型同时输出 | [需科学上网](./home/airport.md) 需注册账号 |
-| [Pandora](https://chat.zhile.io/) | 帮你摆脱GPT官网限制的优秀镜像网站 | [需自备GPT账号](./home/buy.md) |
-| [ChatBotUI](https://www.chatbotui.com/zh) | 支持自托管的GPT开源高赞应用 | [需自备ApiKey](./home/buy.md) [需科学上网](./home/airport.md) |
-| [GPT-Next-Web](https://chatgpt.nextweb.fun/) | 支持自托管的GPT开源高赞应用 | [需自备ApiKey](./home/buy.md) [需科学上网](./home/airport.md) |
-| [YakGPT](https://yakgpt.vercel.app/) | 支持自托管的GPT开源高赞应用 | [需自备ApiKey](./home/buy.md) [需科学上网](./home/airport.md) |
+推荐理由：
 
-- [更多免费AI体验列表](./home/FreeChatGPTSiteList.md)
+- Google官方提供的AI服务
+- 是目前在AI领域最有可能撼动OpenAI地位的AI服务商
+- Gemini Ultra模型对标甚至超越GPT-4
+- Gemini Ultra模型目前可免费试用两个月
+- Gemini pro模型无限免费试用，智能程度堪比GPT-3.5
 
-## 交流群（新）
+### [gemini.google.com](https://gemini.google.com/)
 
-> 不定期更新AI相关的资讯，和更多志同道合的人交流讨论  
+## 交流群
+
+> AI闲聊群，部分群组提供直接跟AI对聊的体验服务，可和更多志同道合的人交流讨论。  
 
 | 加电报群（Telegram） | 加微信群（需注明：进AI群） |
 | :----: | :----: |
@@ -84,46 +82,6 @@ Hello-AI的公益ChatGPT体验地址：
 
 > 微信群不注明要进群，则不会邀你入群，避免给你造成信息骚扰  
 > 电报群地址：[https://t.me/auto_gpt_ai](https://t.me/auto_gpt_ai)  
-
-## 公益ChatGPT的限制
-
-为了让更多人能在免费的前提下都能使用上ChatGPT，Hello-AI自身提供的ChatGPT目前有以下限制：
-
-- 每个设备（粗略判断）每分钟最多只能发送6条消息
-- ~~每个IP每小时最多只能发送20条消息~~
-- 每个IP每天最多只能发送100条消息
-- 超量后会把IP判定为恶意IP，然后拉入黑名单
-- 拉入黑名单24小时后会自动解除
-- 如果多次被拉入黑名单，则会被永久拉入黑名单
-
-以上策略对于普通用户来说已经完全足够，不会影响正常使用。  
-
-后续会根据服务器的使用情况不断调整这些限制，请大家理解。  
-
-~~受OpenAI大规模封号影响，公益ChatGPT已经难以为继，目前只能维持基本运行，所以限制策略每天都在调整，请大家理解。~~
-
-## 连续对话与记忆功能
-
-为了降低AIP金额的消耗，默认关闭连续对话功能，如有需要请自行开启  
-
-开启方法：  
-
-- 移动端：点击右上角的时钟图标
-- PC端：点击输入筐左侧的时钟图标
-
-开启后会记住上下文的对话，大部分时候其实用不到这个功能，所以如果你不是真的需要，请不要开启或减少开启的次数。  
-
-如果存在大量滥用，不排除后续会在服务端将这个功能禁用掉。
-
-## 公益ChatGPT的隐私
-
-- 公益ChatGPT会记录用户的IP地址，设备UA信息等以便进行上述的限制策略。
-- 公益ChatGPT会记录下所有用户的问题和回答，以便在需要的时候进行审查或施加限制。
-
-所以：
-
-- 请在输入的问题中注意保护自己的隐私，不要输入私密或敏感的信息
-- 不要将公益ChatGPT用于违法违规的用途，否则后果自负
 
 <p align="center">
   <a href="https://trackgit.com">
