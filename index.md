@@ -24,6 +24,6 @@ features:
 - title: 终身学习
   details: 随着AI技术的快速发展，大量职业面临被自动化取代的风险，终身学习将成为必要选择。唯有终身学习才能保持竞争力，职场中具备更多技能，才能适应快速变化的市场需求，和跟上AI技术的高速发展趋势
 
-footer: MIT Licensed | Copyright © 2022-present Blaze
+footer: MIT Licensed | Copyright © 2024-present Blaze
 ---
 
