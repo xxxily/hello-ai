@@ -113,6 +113,22 @@
 
 [Sora的技术研究报告文档](https://openai.com/research/video-generation-models-as-world-simulators)
 
+## 其它相关
+
+- 最炫酷的AI工具 LUMA AI： <https://lumalabs.ai/>
+- 看起来最有用的AI工具 Gamma：<https://gamma.app/>
+- 最好用的AI搜索引擎 Phind：<https://www.phind.com/>
+- 最有潜力的AI vall-e-x：<https://www.microsoft.com/en-us/resea>
+- 最好用的AI学习工具 Albus：<https://albus.org/zh/>
+- 使用最多的AI工具 Raycast AI：<https://www.raycast.com/>
+- 程序员最爱的AI工具 Warp：<https://www.warp.dev/>
+- 最有用的AI工具 Notion：<https://www.notion.so/product/ai>
+- 最好听的AI工具 Sono AI：<https://app.suno.ai/>
+- 最好用的AI浏览器 Arc：<https://arc.net/>
+- 最受期待的AI Sora：<https://openai.com/sora>
+
+资料来源：[https://www.youtube.com/watch?v=QKVOTpMU7c0](https://www.youtube.com/watch?v=QKVOTpMU7c0)
+
 ## 交流群
 
 > AI闲聊群，部分群组提供直接跟AI对聊的体验服务，可和更多志同道合的人交流讨论。  
@@ -123,6 +139,7 @@
 
 > 微信群不注明要进群，则不会邀你入群，避免给你造成信息骚扰  
 > 电报群地址：[https://t.me/auto_gpt_ai](https://t.me/auto_gpt_ai)  
+> 可跟GPT-4对话的TG_bot：[https://t.me/h5player_bot](https://t.me/h5player_bot)
 
 <p align="center">
   <a href="https://trackgit.com">
