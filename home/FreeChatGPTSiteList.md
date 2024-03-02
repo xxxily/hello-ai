@@ -217,6 +217,8 @@
 
 73. [🔑] <https://builtbyjesse.com/lab>
 
+74. [🔑🛫] <https://wielded.com>
+
 </details>
 
 ### 妙站
