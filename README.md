@@ -1,145 +1,109 @@
 # Hello-AI
 
-<br />
-<br />
-<img alt="Hello-AI" src="https://cdn.jsdelivr.net/npm/hello-ai/assets/img/logo.png" width="96" height="96">
-<br />
-<br />
+> English  |  **[中文文档](./README-zh.md)**
 
-> 这是个帮助自己链接到广阔AI世界的项目，也希望能帮助到你。
+## Overview
 
-## 概述
+Aiming to connect oneself and others to the vast world of AI, this project was created with just that intention in mind.
 
-帮助自己也让更多人链接到AI世界，这是这个项目的初衷。  
+As one of the forerunners in the advent of AI, during the peak popularity of [ChatGPT](https://chat.openai.com/), this initiative provided a series of public AI services, helping some people connect to the world of AI. Time flies, and nowadays, AI is everywhere, and the public services offered have stopped for various reasons. However, the original intention of this project remains. If you're tired of dealing with domestic services that are just shells, sporadically operational, or vanish without a trace, this site may still offer you some assistance.
 
-作为AI降临派的带路者之一，在[ChatGPT](https://chat.openai.com/)最火热的时候，本着拒绝被割韭菜的初心，也曾提供了一系列公益的AI服务，帮助了一部分人链接上了AI世界。时光荏苒，如今AI已经遍地开花，曾经的公益服务也因为各种原因停止了。但是，这个项目的初衷还在，如果你厌倦了跟国内的那些套壳、不定时跑路、莫名失踪的AI服务斗智斗勇，那么这里或许依然能给你一些微弱的帮助。
+The project provides AI-related resources, including but not limited to:
 
-项目会提供AI相关的资源，包括但不限于：
+- [ChatGPT in Chinese: A Guide](./home/chatgptPrompts.md)
+- [Collection of Open Source ChatGPT Projects](./home/awesome-open-gpt.md)
+- [A Compilation of Global AI Websites](./home/navigation.md)
+- Trending AI News
+- AI Information Exchange Groups, etc.
 
-- ~~[免费ChatGPT网站列表](./home/FreeChatGPTSiteList.md)~~
-- [ChatGPT中文调教指南](./home/chatgptPrompts.md)
-- [ChatGPT开源项目合集](./home/awesome-open-gpt.md)
-- [科学上网工具推荐](./home/airport.md)
-- [全球AI网站汇总](./home/navigation.md)
-- ~~[AI相关的影视作品](./home/film.md)~~
-- ~~[AI相关的书籍](./home/books.md)~~
-- AI相关的热门资讯
-- AI信息交流群等
+The project is maintained during business hours, so there might be omissions, errors, or suboptimal experiences, but the author will strive to continually optimize and improve.
 
-目前项目是利用业务时间维护的，所以会有疏漏、错误、体验不佳等问题，作者会尽量不断优化、完善。  
+If you have any AI-related information to provide or have suggestions or feedback, please submit an [issue](https://github.com/xxxily/hello-ai/issues).
 
-如果您有任何跟AI相关的信息欢迎提供，有建议或意见也可以提 [issue](https://github.com/xxxily/hello-ai/issues)
+## Latest Free AI Service Website Recommendations
 
-## 最新免费AI服务网站推荐
+Considering that domestic AI services like [ChatGPT](https://chat.openai.com/) and [Gemini](https://gemini.google.com) are not always stable, compliant, or genuine, this site prioritizes AI services offered by foreign service providers.
 
-鉴于国内并不能稳定、合规、真实地提供[ChatGPT](https://chat.openai.com/)、[Gemini](https://gemini.google.com)等先进的AI服务，所以这里优先推荐国外服务商提供的AI服务。  
+For the websites listed below, if access is restricted, please refer to the contents of [VPN Tools](./home/airport.md).
 
-下面网站，如果访问受限，请参考：[科学上网](./home/airport.md)的相关内容。
+### [coze.com](https://www.coze.com/) Rating: ⭐⭐⭐⭐⭐
 
-### [coze.com](https://www.coze.com/) 推荐指数：⭐⭐⭐⭐⭐
+Reasons to Recommend:
 
-推荐理由：
-
-- 支持GPT-4模型，且无限使用
-- 最高支持GPT-4(128K)模型
-- 现阶段完全免费，暂无严格的注册限制
-- 提供跟chatGPT-plus用户类似的服务
-- 插件、知识库、联网等功能一个都不少
-- 可以很方便地接入到国外主流聊天工具
-- `由字节海外团队提供，服务质量和稳定性都有保证`
-- `由字节海外团队提供，服务质量和稳定性都有保证`
-- `由字节海外团队提供，服务质量和稳定性都有保证`
-
-使用条件：
-
-- 需要[梯子/魔法/科学上网](./home/airport.md)，
-- 上面已经给出了科学上网服务商，不要再在群里问了，求求了，只能帮到这了
-- 其它不懂的可以多谷歌，答案都有
-- 有梯子的请忽略，咱真不是为推荐梯子而来的
-- 答案都怼脸上了还是不知道怎么链接AI，就真没办法了。。。
+- Supports the GPT-4 model with unlimited use
+- Offers the highest support for the GPT-4(128K) model
+- Completely free at present, without strict registration requirements
+- Provides similar services to ChatGPT-plus users
+- Features such as plugins, knowledge bases, and networking are fully available
+- Can be easily integrated into mainstream foreign chat tools
+- `Provided by ByteDance's overseas team, ensuring service quality and stability`
 
 ![coze](./home/img/coze.png)
 
-### [chat.openai.com](https://chat.openai.com/) 推荐指数：⭐⭐⭐⭐⭐
+### [chat.openai.com](https://chat.openai.com/) Rating: ⭐⭐⭐⭐⭐
 
-推荐理由：
+Reasons to Recommend:
 
-- GPT-3.5模型免费且无限使用
-- OpenAI官方提供的ChatGPT服务
-- 注册门槛已降低很多了，稍微折腾下基本都能注册成功
-- 经过不断打磨，已经可以稳定流畅使用了
-- 别再用国内的套壳了，那些真的很难用
+- Free and unlimited use of the GPT-3.5 model
+- Official ChatGPT service provided by OpenAI
+- Lower registration threshold, making it significantly more accessible
+- Continuously refined for stable and smooth use
+- For a better experience, avoid domestic shell services
 
-使用条件：
+### [gemini.google.com](https://gemini.google.com/) Rating: ⭐⭐⭐⭐⭐
 
-- 需要[梯子/魔法/科学上网](./home/airport.md)，
-- 上面已经给出了科学上网服务商，不要再在群里问了，求求了，只能帮到这了
-- 其它不懂的可以多谷歌，答案都有
-- 有梯子的请忽略，咱真不是为推荐梯子而来的
-- 答案都怼脸上了还是不知道怎么链接AI，就真没办法了。。。
+Reasons to Recommend:
 
-### [gemini.google.com](https://gemini.google.com/) 推荐指数：⭐⭐⭐⭐⭐
+- Official AI service provided by Google
+- A potential rival to OpenAI in the AI sector
+- Gemini Ultra model is on par with or exceeds GPT-4
+- Gemini Ultra model currently free to try for two months
+- Unlimited free trial of Gemini pro model, intelligence comparable to GPT-3.5
 
-推荐理由：
+### [sora](https://openai.com/sora) Rating: ⭐⭐⭐⭐⭐
 
-- Google官方提供的AI服务
-- 是目前在AI领域最有可能撼动OpenAI地位的AI服务商
-- Gemini Ultra模型对标甚至超越GPT-4
-- Gemini Ultra模型目前可免费试用两个月
-- Gemini pro模型无限免费试用，智能程度堪比GPT-3.5
+Reasons to Recommend:
 
-使用条件：
+- Currently the hottest text-generated video AI application by OpenAI
+- Capable of generating videos up to 60 seconds in length
+- The generated content is cohesive and realistic
+- Unmatched by any text-to-video AI applications currently on the market
 
-- 需要[梯子/魔法/科学上网](./home/airport.md)，
-- 上面已经给出了科学上网服务商，不要再在群里问了，求求了，只能帮到这了
-- 其它不懂的可以多谷歌，答案都有
-- 有梯子的请忽略，咱真不是为推荐梯子而来的
-- 答案都怼脸上了还是不知道怎么链接AI，就真没办法了。。。
+Additional Notes:
 
-### [sora](https://openai.com/sora) 推荐指数：⭐⭐⭐⭐⭐
+- Not yet open to the general public
+- Approach it without alarmism, and maintain a rational attitude towards technological advancements
+- Keep an open and accepting attitude towards new things
 
-推荐理由：
+[Technical research report on Sora](https://openai.com/research/video-generation-models-as-world-simulators)
 
-- 目前最火的文生视频AI应用，由OpenAI提供
-- 能生成长达60秒的视频内容
-- 生成的视频内容连贯、逼真
-- 是目前市面上的任意文生视频AI都无法企及的
+## Other Related
 
-附注说明：
+- Coolest AI tool LUMA AI: <https://lumalabs.ai/>
+- Most practical AI tool Gamma: <https://gamma.app/>
+- Best AI search engine Phind: <https://www.phind.com/>
+- Most promising AI vall-e-x: <https://www.microsoft.com/en-us/research>
+- Best AI learning tool Albus: <https://albus.org/zh/>
+- Most used AI tool Raycast AI: <https://www.raycast.com/>
+- Programmers' favorite AI tool Warp: <https://www.warp.dev/>
+- Most useful AI tool Notion: <https://www.notion.so/product/ai>
+- Best sounding AI tool Sono AI: <https://app.suno.ai/>
+- Best AI browser Arc: <https://arc.net/>
+- Most anticipated AI Sora: <https://openai.com/sora>
 
-- 现阶段还没对普通用户开放使用
-- 请不要妖魔化它，理智看待技术发展
-- 请对新生事物保持期待和包容的心态
+Source: [https://www.youtube.com/watch?v=QKVOTpMU7c0](https://www.youtube.com/watch?v=QKVOTpMU7c0)
 
-[Sora的技术研究报告文档](https://openai.com/research/video-generation-models-as-world-simulators)
+## Discussion Groups
 
-## 其它相关
+> AI chat groups, some of which offer direct chat experiences with AI, and a platform to exchange ideas with like-minded individuals.
 
-- 最炫酷的AI工具 LUMA AI： <https://lumalabs.ai/>
-- 看起来最有用的AI工具 Gamma：<https://gamma.app/>
-- 最好用的AI搜索引擎 Phind：<https://www.phind.com/>
-- 最有潜力的AI vall-e-x：<https://www.microsoft.com/en-us/resea>
-- 最好用的AI学习工具 Albus：<https://albus.org/zh/>
-- 使用最多的AI工具 Raycast AI：<https://www.raycast.com/>
-- 程序员最爱的AI工具 Warp：<https://www.warp.dev/>
-- 最有用的AI工具 Notion：<https://www.notion.so/product/ai>
-- 最好听的AI工具 Sono AI：<https://app.suno.ai/>
-- 最好用的AI浏览器 Arc：<https://arc.net/>
-- 最受期待的AI Sora：<https://openai.com/sora>
-
-资料来源：[https://www.youtube.com/watch?v=QKVOTpMU7c0](https://www.youtube.com/watch?v=QKVOTpMU7c0)
-
-## 交流群
-
-> AI闲聊群，部分群组提供直接跟AI对聊的体验服务，可和更多志同道合的人交流讨论。  
-
-| 加电报群（Telegram） | 加微信群（需注明：进AI群） |
+| Join Telegram Group | Join WeChat Group (Note: Join AI group) |
 | :----: | :----: |
 | <img src="https://cdn.jsdelivr.net/npm/hello-ai/assets/img/tg_qun.jpg" width="280"/> | <img src="https://cdn.jsdelivr.net/npm/hello-ai/assets/img/WeChat2.png" width=280 /> |
 
-> 微信群不注明要进群，则不会邀你入群，避免给你造成信息骚扰  
-> 电报群地址：[https://t.me/auto_gpt_ai](https://t.me/auto_gpt_ai)  
-> 可跟GPT-4对话的TG_bot：[https://t.me/h5player_bot](https://t.me/h5player_bot)
+> Please specify your intent to join the WeChat group to avoid unwanted invitations and information harassment.  
+> Telegram group link: [https://t.me/auto_gpt_ai](https://t.me/auto_gpt_ai)  
+> TG_bot for conversing with GPT-4: [https://t.me/h5player_bot](https://t.me/h5player_bot)
 
 <p align="center">
   <a href="https://trackgit.com">
