@@ -173,6 +173,7 @@
 | [Reclaim.ai](https://reclaim.ai/) | Reclaim 为您的团队的优先事项创建完美的时间表，并通过智能、灵活和自适应的时间编排节省高达 40% 的工作周时间。 |
 | [eCommerce ChatGPT Prompts](https://www.ecommerceprompts.com/) | ChatGPT电子商务提示是一个工具，为建立电子商务商店和营销活动提供现成的食谱。它生成200多万个预先构建的电子商务提示和多达10个个性化提示参数，以满足所有电子商务营销需求，包括首页标题、关于我们的内容、产品标题、产品描述、页面元标题、页面元描述、电子邮件主题行、电子邮件内容、短信、WhatsApp消息、浏览器通知、应用程序通知、广告标题、广告文案、社交媒体页面描述和文章。此外，它还提供了来自世界各地的灵感。 |
 | [SaaS Prompts](https://saasprompts.com/) | SaaS提示是SaaS创始人、企业家和营销人员的工具，提供500多个可操作的现成ChatGPT和AI提示想法，帮助他们发展业务。它还包括一个可免费下载的PDF版本的提示和订阅，以便在下一个资源启动时收到通知。 |
+| [Free AI PPT Maker](https://aipptmaker.ai/en) | 免费在线的AI PPT生成器，无需登录，15秒生成一个高质量的PPT。 |
 
 ## AI语义提示
 
