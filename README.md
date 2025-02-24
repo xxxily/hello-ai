@@ -26,19 +26,50 @@ Considering that domestic AI services like [ChatGPT](https://chat.openai.com/) a
 
 For the websites listed below, if access is restricted, please refer to the contents of [VPN Tools](./home/airport.md).
 
-### [coze.com](https://www.coze.com/) Rating: ⭐⭐⭐⭐⭐
+### [deepseek.com](https://chat.deepseek.com/) Rating: ⭐⭐⭐⭐⭐
 
-Reasons to Recommend:
+Reasons for Recommendation:
 
-- Supports the GPT-4 model with unlimited use
-- Offers the highest support for the GPT-4(128K) model
-- Completely free at present, without strict registration requirements
-- Provides similar services to ChatGPT-plus users
-- Features such as plugins, knowledge bases, and networking are fully available
-- Can be easily integrated into mainstream foreign chat tools
-- `Provided by ByteDance's overseas team, ensuring service quality and stability`
+- Currently the strongest free open-source text generation model
+- Became a highly sought-after model both domestically and internationally
+- Intelligence level rivals or even surpasses GPT's latest models
+- Forced many AI companies to rush to release stronger AI models
+- Compelled many AI companies to reduce prices or offer better free services
+- Numerous manufacturers and platforms actively deploy deepseek's open-source models
 
-![coze](./home/img/coze.png)
+Usage Conditions:
+
+- Directly visit the official website or download deepseek client
+
+Limitations:
+
+- Frequent service anomalies due to popularity and overseas computing power restrictions
+- Gradually increased content moderation restrictions on the official website
+- AIP services have currently suspended recharge services
+
+Alternative Solutions:
+
+Since the model is completely free and open-source, many platforms have deployed deepseek's models. Similar services can be found on:
+
+- [Tencent Yuanbao](https://yuanbao.tencent.com/)
+- [MetaSo AI Search](https://metaso.cn/)
+- [Baidu AI Search](https://chat.baidu.com/)
+
+These platforms offer convenient free access to deepseek's models but inevitably add content moderation restrictions for compliance.  
+
+To reduce moderation, consider using API services from major platforms. Current tests show most APIs deliver original deepseek outputs. Note this only reduces output moderation rather than eliminating it (except for self-hosted solutions, which remain costly for individuals). Recommended API services:
+
+- [302AI (API proxy provider with multi-vendor integration. Bind credit card for fee waiver)](https://partnershare.302.ai/LJMZAb)
+- [Volcano Engine (Fastest and most stable currently)](https://www.volcengine.com/experience/ark?utm_term=202502dsinvite&ac=DSASUQY5&rc=ISR6MFPG)
+- [SiliconFlow (Oversaturated market, free APIs mostly unusable)](https://cloud.siliconflow.cn/i/nhVU6aPT)
+
+### [grok3](https://grok.com/) Rating: ⭐⭐⭐⭐⭐
+
+Reasons for Recommendation:
+
+- Claims to be the most advanced AI model surpassing OpenAI and DeepSeek
+- Fewer content moderation restrictions with high intelligence (main reason for recommendation)
+- Stable performance with internet-connected deep search and organization features
 
 ### [chat.openai.com](https://chat.openai.com/) Rating: ⭐⭐⭐⭐⭐
 
@@ -59,6 +90,20 @@ Reasons to Recommend:
 - Gemini Ultra model is on par with or exceeds GPT-4
 - Gemini Ultra model currently free to try for two months
 - Unlimited free trial of Gemini pro model, intelligence comparable to GPT-3.5
+
+### [coze.com](https://www.coze.com/) Rating: ⭐⭐⭐⭐⭐
+
+Reasons to Recommend:
+
+- Supports the GPT-4 model ~~with unlimited use~~
+- Offers the highest support for the GPT-4(128K) model
+- Completely free at present, without strict registration requirements
+- Provides similar services to ChatGPT-plus users
+- Features such as plugins, knowledge bases, and networking are fully available
+- Can be easily integrated into mainstream foreign chat tools
+- `Provided by ByteDance's overseas team, ensuring service quality and stability`
+
+![coze](./home/img/coze.png)
 
 ### [sora](https://openai.com/sora) Rating: ⭐⭐⭐⭐⭐
 
