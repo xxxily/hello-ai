@@ -1,28 +1,30 @@
 # Hello-AI
 
+> **[English](https://github.com/xxxily/hello-ai/)**  |  中文文档
+
 <br />
 <br />
-<img alt="Hello-AI" src="/assets/img/logo.png" width="96" height="96">
+<img alt="Hello-AI" src="https://cdn.jsdelivr.net/npm/hello-ai/assets/img/logo.png" width="96" height="96">
 <br />
 <br />
 
 > 这是个帮助自己链接到广阔AI世界的项目，也希望能帮助到你。
 
-> ❤️ 公益ChatGPT，且用且珍惜，好用就[给作者点个star](https://github.com/xxxily/hello-ai) ❤️
-
 ## 概述
 
 帮助自己也让更多人链接到AI世界，这是这个项目的初衷。  
 
+作为AI降临派的带路者之一，在[ChatGPT](https://chat.openai.com/)最火热的时候，本着拒绝被割韭菜的初心，也曾提供了一系列公益的AI服务，帮助了一部分人链接上了AI世界。时光荏苒，如今AI已经遍地开花，曾经的公益服务也因为各种原因停止了。但是，这个项目的初衷还在，如果你厌倦了跟国内的那些套壳、不定时跑路、莫名失踪的AI服务斗智斗勇，那么这里或许依然能给你一些微弱的帮助。
+
 项目会提供AI相关的资源，包括但不限于：
 
-- [免费ChatGPT网站列表](./FreeChatGPTSiteList.md)
+- ~~[免费ChatGPT网站列表](./FreeChatGPTSiteList.md)~~
 - [ChatGPT中文调教指南](./chatgptPrompts.md)
 - [ChatGPT开源项目合集](./awesome-open-gpt.md)
 - [科学上网工具推荐](./airport.md)
 - [全球AI网站汇总](./navigation.md)
-- [AI相关的影视作品](./film.md)
-- [AI相关的书籍](./books.md)
+- ~~[AI相关的影视作品](./film.md)~~
+- ~~[AI相关的书籍](./books.md)~~
 - AI相关的热门资讯
 - AI信息交流群等
 
@@ -30,98 +32,164 @@
 
 如果您有任何跟AI相关的信息欢迎提供，有建议或意见也可以提 [issue](https://github.com/xxxily/hello-ai/issues)
 
-## Hello-AI的公益理念
+## 最新免费AI服务网站推荐
 
-只要免费的数量足够多，不可用了就换一个，真有需求的人自然会选择自己信得过的进行付费，或者自己上官网折腾。  
+鉴于国内并不能稳定、合规、真实地提供[ChatGPT](https://chat.openai.com/)、[Gemini](https://gemini.google.com)等先进的AI服务，所以这里优先推荐国外服务商提供的AI服务。  
 
-这样可以倒逼更多网站提升自身的服务质量，让割韭菜的无所遁形。  
+下面网站，如果访问受限，请参考：[科学上网](./airport.md)的相关内容。
 
-如果你认同这个理念，请将这个项目分享给更多的人，让更多人知道[Hello-AI](https://github.com/xxxily/hello-ai)的存在。  
+### [deepseek.com](https://chat.deepseek.com/) 推荐指数：⭐⭐⭐⭐⭐
 
-## 公益ChatGPT
+推荐理由：
 
-Hello-AI的公益ChatGPT体验地址：
+- 目前最强的免费开源文本生成大模型
+- 一跃成为国内乃至国外都备受追捧的大模型
+- 智能程度直追甚至超过GPT最新模型
+- 倒逼众多AI厂商急于推出更强的AI模型
+- 倒逼众多AI厂商降价或免费提供更好的AI服务
+- 众多厂商和平台主动接入部署deepseek的开源模型
 
-| 网站 | 描述 | 备注 |
-| :---- | :---- | :---- |
-| [公益ChatGPT 01](https://free.anzz.top/) | HelloAI官网提供，可畅快使用 | [需科学上网](./airport.md) |
-| [公益ChatGPT 02](https://gpt.anzz.top/) | HelloAI官网提供，可畅快使用 | [需科学上网](./airport.md) |
-| [公益ChatGPT 03](https://gpt.in.anzz.top/) | HelloAI官网提供，可畅快使用 | [需自备ApiKey](./buy.md) 无需科学上网 |
-| [公益ChatGPT 04](https://chat.in.anzz.top/) | HelloAI官网提供，可畅快使用 | [需自备ApiKey](./buy.md) [需科学上网](./airport.md) |
+使用条件：
 
-> 没有梯子的看这里：[科学上网](./airport.md)
+- 直接访问上面官网地址或下载deepseek客户端即可使用
 
-网站说明：
+使用限制：
 
-- 出于防护需要，网站托管于cloudflare，所以国内访问会相对缓慢
-- 域名目前国内可以访问，但无法保证多人使用后依然能访问，如果地址有变会在项目里更新
-- 网站目前是免登陆使用，但是为了防止恶意刷屏，后续会不断改进
+- 由于太受欢迎，且迫于国外的算力管制，官网经常服务异常
+- 由于备受关注，官网已逐渐增加了更多的内容审查限制
+- AIP服务目前已停止充值服务
 
-其他免费好用的ChatGPT网站：  
+备选方案：
 
-| 网站 | 描述 | 备注 |
-| :---- | :---- | :---- |
-| [ChatBot](https://chatbot.theb.ai/) | 免费，无广告，可畅快使用 | [需科学上网](./airport.md) |
-| [ForeFront](https://chat.forefront.ai/) | 支持GPT4.0的多角色免费聊天应用 | [需科学上网](./airport.md) 需注册账号 |
-| [Phind](https://www.phind.com/) | 号称基于GPT4.0的搜索引擎 | [需科学上网](./airport.md) |
-| [Poe](https://poe.com/) | 支持多个不同类型的AI | [需科学上网](./airport.md) 需注册账号 |
-| [ora.ai](https://ora.ai/) | 支持GPT4.0的AI应用 | [需科学上网](./airport.md) 需注册账号 |
-| [vercel.ai](https://play.vercel.ai/) | 支持多AI模型同时输出 | [需科学上网](./airport.md) 需注册账号 |
-| [Pandora](https://chat.zhile.io/) | 帮你摆脱GPT官网限制的优秀镜像网站 | [需自备GPT账号](./buy.md) |
-| [ChatBotUI](https://www.chatbotui.com/zh) | 支持自托管的GPT开源高赞应用 | [需自备ApiKey](./buy.md) [需科学上网](./airport.md) |
-| [GPT-Next-Web](https://chatgpt.nextweb.fun/) | 支持自托管的GPT开源高赞应用 | [需自备ApiKey](./buy.md) [需科学上网](./airport.md) |
-| [YakGPT](https://yakgpt.vercel.app/) | 支持自托管的GPT开源高赞应用 | [需自备ApiKey](./buy.md) [需科学上网](./airport.md) |
+由于其模型完全免费开源，众多厂商都争相接入部署deepseek的开源大模型，所以可以在其它平台上找到类似的服务，例如：
 
-- [更多免费AI体验列表](./FreeChatGPTSiteList.md)
+- [腾讯元宝](https://yuanbao.tencent.com/)
+- [秘塔AI搜索](https://metaso.cn/)
+- [百度AI搜索](https://chat.baidu.com/)
 
-### 交流群
+这些在线服务都能让你很方便且免费使用deepskeek的开源大模型，但是难免增加一定的内容审查限制，这是无法避免的，毕竟企业要内容合规才能长久存活。  
 
-> 不定期更新AI相关的资讯，和更多志同道合的人交流讨论  
+如果你希望减少审查，可以尝试使用平台提供的API服务，目前测试来看，大多平台提供的API都是原汁原味的deepseek模型输出，注意这只能减少内容输出审查，并不能完全规避审查，除非是自己本地部署，但本地部署满血版的话，对于个人来说还无法承受，建议还是选择大平台提供的API服务，例如：
+
+- [302AI(API代理提供商，集成众多厂商服务，非常省事，绑定个人信用卡可免手续费)](https://partnershare.302.ai/LJMZAb)
+- [火山引擎（目前速度最快最稳定）](https://www.volcengine.com/experience/ark?utm_term=202502dsinvite&ac=DSASUQY5&rc=ISR6MFPG)
+- [硅基流动（有点烂大街，免费api基本无法用）](https://cloud.siliconflow.cn/i/nhVU6aPT)
+
+### [grok3](https://grok.com/) 推荐指数：⭐⭐⭐⭐⭐
+
+推荐理由：
+
+- 宣称是目前最先进的AI大模型，已超越OpenAI、DeepSeek等
+- 内容审查限制较少，智能程度高（这是作者推荐的主要原因）
+- 稳定流畅，且提供联网的深度搜索整理功能，值得体验
+
+使用条件：
+
+- 需要[梯子/魔法/科学上网](./airport.md)，
+- 上面已经给出了科学上网服务商，不要再在群里问了，求求了，只能帮到这了
+- 其它不懂的可以多谷歌，答案都有
+- 有梯子的请忽略，有梯子的请忽略，有梯子的请忽略
+- 答案都怼脸上了还是不知道怎么链接AI，就真没办法了。。。
+
+### [chat.openai.com](https://chat.openai.com/) 推荐指数：⭐⭐⭐⭐⭐
+
+推荐理由：
+
+- GPT-3.5模型免费且无限使用
+- OpenAI官方提供的ChatGPT服务
+- 注册门槛已降低很多了，稍微折腾下基本都能注册成功
+- 经过不断打磨，已经可以稳定流畅使用了
+- 别再用国内的套壳了，那些真的很难用
+
+使用条件：
+
+- 需要[梯子/魔法/科学上网](./airport.md)，
+- 上面已经给出了科学上网服务商，不要再在群里问了，求求了，只能帮到这了
+- 其它不懂的可以多谷歌，答案都有
+- 有梯子的请忽略，有梯子的请忽略，有梯子的请忽略
+- 答案都怼脸上了还是不知道怎么链接AI，就真没办法了。。。
+
+### [gemini.google.com](https://gemini.google.com/) 推荐指数：⭐⭐⭐⭐⭐
+
+推荐理由：
+
+- Google官方提供的AI服务
+- 是目前在AI领域最有可能撼动OpenAI地位的AI服务商
+- Gemini Ultra模型对标甚至超越GPT-4
+- Gemini Ultra模型目前可免费试用两个月
+- Gemini pro模型无限免费试用，智能程度堪比GPT-3.5
+
+使用条件：
+
+- 需要[梯子/魔法/科学上网](./airport.md)，
+- 上面已经给出了科学上网服务商，不要再在群里问了，求求了，只能帮到这了
+- 其它不懂的可以多谷歌，答案都有
+- 有梯子的请忽略，有梯子的请忽略，有梯子的请忽略
+- 答案都怼脸上了还是不知道怎么链接AI，就真没办法了。。。
+
+### [coze.com](https://www.coze.com/) 推荐指数：⭐⭐⭐⭐
+
+推荐理由：
+
+- 支持GPT-4模型，~~且无限使用~~
+- 最高支持GPT-4(128K)模型
+- 现阶段完全免费，暂无严格的注册限制
+- 提供跟chatGPT-plus用户类似的服务
+- 插件、知识库、联网等功能一个都不少
+- 可以很方便地接入到国外主流聊天工具
+- `由字节海外团队提供，服务质量和稳定性都有保证`
+
+使用条件：
+
+- 需要[梯子/魔法/科学上网](./airport.md)，
+- 上面已经给出了科学上网服务商，不要再在群里问了，求求了，只能帮到这了
+- 其它不懂的可以多谷歌，答案都有
+- 有梯子的请忽略，有梯子的请忽略，有梯子的请忽略
+- 答案都怼脸上了还是不知道怎么链接AI，就真没办法了。。。
+
+![coze](./img/coze.png)
+
+### [sora](https://openai.com/sora) 推荐指数：⭐⭐⭐⭐⭐
+
+推荐理由：
+
+- 目前最火的文生视频AI应用，由OpenAI提供
+- 能生成长达60秒的视频内容
+- 生成的视频内容连贯、逼真
+- 是目前市面上的任意文生视频AI都无法企及的
+
+附注说明：
+
+- 现阶段还没对普通用户开放使用
+- 请不要妖魔化它，理智看待技术发展
+- 请对新生事物保持期待和包容的心态
+
+[Sora的技术研究报告文档](https://openai.com/research/video-generation-models-as-world-simulators)
+
+## 其它相关
+
+- 最炫酷的AI工具 LUMA AI： <https://lumalabs.ai/>
+- 看起来最有用的AI工具 Gamma：<https://gamma.app/>
+- 最好用的AI搜索引擎 Phind：<https://www.phind.com/>
+- 最有潜力的AI vall-e-x：<https://www.microsoft.com/en-us/resea>
+- 最好用的AI学习工具 Albus：<https://albus.org/zh/>
+- 使用最多的AI工具 Raycast AI：<https://www.raycast.com/>
+- 程序员最爱的AI工具 Warp：<https://www.warp.dev/>
+- 最有用的AI工具 Notion：<https://www.notion.so/product/ai>
+- 最好听的AI工具 Sono AI：<https://app.suno.ai/>
+- 最好用的AI浏览器 Arc：<https://arc.net/>
+- 最受期待的AI Sora：<https://openai.com/sora>
+
+资料来源：[https://www.youtube.com/watch?v=QKVOTpMU7c0](https://www.youtube.com/watch?v=QKVOTpMU7c0)
+
+## 交流群
+
+> AI闲聊群，部分群组提供直接跟AI对聊的体验服务，可和更多志同道合的人交流讨论。  
 
 | 加电报群（Telegram） | 加微信群（需注明：进AI群） |
 | :----: | :----: |
-| <img src="/assets/img/tg_qun.jpg" width="280"/> | <img src="/assets/img/WeChat2.png" width=280 /> |
+| <img src="https://cdn.jsdelivr.net/npm/hello-ai/assets/img/tg_qun.jpg" width="280"/> | <img src="https://cdn.jsdelivr.net/npm/hello-ai/assets/img/WeChat2.png" width=280 /> |
 
 > 微信群不注明要进群，则不会邀你入群，避免给你造成信息骚扰  
 > 电报群地址：[https://t.me/auto_gpt_ai](https://t.me/auto_gpt_ai)  
-
-## 公益ChatGPT的限制
-
-为了让更多人能在免费的前提下都能使用上ChatGPT，Hello-AI自身提供的ChatGPT目前有以下限制：
-
-- 每个设备（粗略判断）每分钟最多只能发送6条消息
-- ~~每个IP每小时最多只能发送20条消息~~
-- 每个IP每天最多只能发送100条消息
-- 超量后会把IP判定为恶意IP，然后拉入黑名单
-- 拉入黑名单24小时后会自动解除
-- 如果多次被拉入黑名单，则会被永久拉入黑名单
-
-以上策略对于普通用户来说已经完全足够，不会影响正常使用。  
-
-后续会根据服务器的使用情况不断调整这些限制，请大家理解。  
-
-~~受OpenAI大规模封号影响，公益ChatGPT已经难以为继，目前只能维持基本运行，所以限制策略每天都在调整，请大家理解。~~
-
-## 连续对话与记忆功能
-
-为了降低AIP金额的消耗，默认关闭连续对话功能，如有需要请自行开启  
-
-开启方法：  
-
-- 移动端：点击右上角的时钟图标
-- PC端：点击输入筐左侧的时钟图标
-
-开启后会记住上下文的对话，大部分时候其实用不到这个功能，所以如果你不是真的需要，请不要开启或减少开启的次数。  
-
-如果存在大量滥用，不排除后续会在服务端将这个功能禁用掉。
-
-## 公益ChatGPT的隐私
-
-- 公益ChatGPT会记录用户的IP地址，设备UA信息等以便进行上述的限制策略。
-- 公益ChatGPT会记录下所有用户的问题和回答，以便在需要的时候进行审查或施加限制。
-
-所以：
-
-- 请在输入的问题中注意保护自己的隐私，不要输入私密或敏感的信息
-- 不要将公益ChatGPT用于违法违规的用途，否则后果自负
-
+> 可跟GPT-4对话的TG_bot：[https://t.me/h5player_bot](https://t.me/h5player_bot)

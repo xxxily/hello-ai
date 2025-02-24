@@ -10,11 +10,11 @@ hero:
     alt: Hello-AI
   actions:
     - theme: alt
-      text: 公益ChatGPT说明
+      text: 快速开始
       link: /home/
     - theme: alt
-      text: 免费体验ChatGPT
-      link: /home/FreeChatGPTSiteList.md
+      text: 满血版Deepseek R1
+      link: https://www.wenxiaobai.com/
 
 features:
 - title: 降维打击

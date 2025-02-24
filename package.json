@@ -6,6 +6,8 @@
     "AI",
     "AGI",
     "AIGC",
+    "Deepseek",
+    "Grok 3",
     "ChatGPT",
     "Stable-Diffusion",
     "Midjourney",
@@ -58,6 +60,7 @@
   },
   "dependencies": {
     "core-js": "^3.26.1",
+    "node-telegram-bot-api": "^0.66.0",
     "terser": "^5.16.0"
   }
 }

@@ -1,7 +1,7 @@
 class HelloAi {
   constructor() {
     this.name = 'hello-ai';
-    this.version = '1.0.0';
+    this.version = '1.0.2';
     this.website = 'https://hello-ai.anzz.top'
   }
   sayHello() {
