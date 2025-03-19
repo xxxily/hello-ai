@@ -292,6 +292,8 @@
 
 33. [AI文章生成器] <http://wenzhang.zhuluan.com/>
 
+34. [AI代码助手]  <https://www.fynix.ai/>
+
 </details>
 
 > 列表信息来源[xx025/carrot](https://github.com/xx025/carrot)  
