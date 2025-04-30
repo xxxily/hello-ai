@@ -139,6 +139,7 @@
 
 | 网站 | 描述 |
 | :---- | :---- |
+| [7牛AI](https://7niuai.com)|AI制作PPT工具|
 | [集智魔方AI BOX](http://www.chatbox.cool/#/home) | 10秒钟创建属于自己的 AI 应用平台 |
 | [TreeMind树图](https://shutu.cn/?from=aigc.cn) | 新一代“AI人工智能”思维导图 |
 | [内容神器 – 新媒体文章编辑器](https://www.5ce.com/) | 及时发现热点、搜索素材、选题分析 |
