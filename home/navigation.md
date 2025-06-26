@@ -245,6 +245,7 @@
 | [TranSmart腾讯交互翻译](https://transmart.qq.com/zh-CN/index) | 一款基于腾讯语音、图像、自然语言处理等领域的技术开发的新一代智能翻译设备 |
 | [DeepL-translator](https://www.deepl.com/translator) | DeepL Pro是一款由人工智能和神经网络提供支持的专业翻译服务，可跨多种设备和应用程序(包括文档、网页、电子邮件和口头对话)提供准确、安全和可定制的翻译 |
 | [Whisper（OpenAI）](https://openai.com/blog/whisper/) | Whisper是一个开源的自动语音识别系统，经过68万小时的多语言和多任务监督数据训练，这些数据是从网络上收集的。 |
+| [UniFab Subtitle Generator AI](https://unifab.ai/ai-subtitle-generator.htm) | UniFab Subtitle Generator AI 是一款专业的字幕生成与翻译工具，利用AI技术自动检测视频语言并生成字幕，支持翻译成30多种语言。该软件能够生成SRT字幕文件，并支持直接上传已有SRT文件，快速提供准确的翻译结果。 |
 | [Sonix](https://sonix.ai/) | 一个自动转录、翻译和字幕平台，快速、准确、实惠。它可以将音频和视频转换为文本，利用其先进的自动翻译引擎在几分钟内翻译文本，并创建全自动字幕 |
 | [Type Studio](https://www.typestudio.co/) | 一个快速，简单，和快乐的方式来编辑和成长，你的播客、流媒体和采访。 |
 | [Auri.AI](https://auri.ai/) | Auri AI是一款人工智能写作助手，旨在帮助用户更快、更智能地写作。它提供了拼写和语法纠正、释义、翻译、文本生成、快速创建笔记等功能。它支持25种以上的语言 |
