@@ -2,6 +2,14 @@
 
 > 基于 AI 开发的高效工作、图像音视频生成等应用和工具。
 
+## [anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+
+一款全能的AI生产力加速器，支持本地部署和隐私优先，无需复杂配置。集成多种LLM模型、RAG检索增强生成和向量数据库功能。
+
+- **Stars:** ⭐️ 56.5k
+- **Tags:** `LLM` `RAG` `本地部署`
+- **最后活动时间:** 2026-03-20
+
 ## [worldmonitor](https://github.com/koala73/worldmonitor)
 
 AI驱动的全球情报监控仪表板，整合新闻聚合、地缘政治监测和基础设施追踪，提供统一的态势感知界面。

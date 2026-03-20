@@ -1482,6 +1482,129 @@
           "health": "Active",
           "addedAt": "2026-03-20T14:35:33.485Z",
           "_lastChecked": "2026-03-20T14:35:50.103Z"
+        },
+        {
+          "name": "nanobrowser",
+          "url": "https://github.com/nanobrowser/nanobrowser",
+          "description": "开源Chrome扩展，支持AI驱动的网页自动化。可使用自有LLM API密钥运行多智能体工作流，是OpenAI Operator的开源替代方案。",
+          "tags": [
+            "AI Agent",
+            "Browser Automation",
+            "Chrome Extension"
+          ],
+          "stars": 12486,
+          "lastUpdated": "2025-11-24T11:10:03Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:35:58.711Z",
+          "_lastChecked": "2026-03-20T14:36:17.283Z"
+        },
+        {
+          "name": "page-agent",
+          "url": "https://github.com/alibaba/page-agent",
+          "description": "基于JavaScript的页面内GUI智能体，支持通过自然语言控制网页界面操作。适用于浏览器自动化和AI驱动的Web交互场景。",
+          "tags": [
+            "AI Agent",
+            "Browser Automation",
+            "MCP",
+            "TypeScript"
+          ],
+          "stars": 12085,
+          "lastUpdated": "2026-03-20T11:00:21Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:36:48.215Z",
+          "_lastChecked": "2026-03-20T14:36:59.791Z"
+        },
+        {
+          "name": "awesome-agent-skills",
+          "url": "https://github.com/VoltAgent/awesome-agent-skills",
+          "description": "收录500+个AI智能体技能，来自官方开发团队和社区贡献，兼容Claude Code、Codex、Gemini CLI、Cursor等多种AI工具。",
+          "tags": [
+            "AI Agents",
+            "Claude Code",
+            "Skills"
+          ],
+          "stars": 12077,
+          "lastUpdated": "2026-03-19T08:07:09Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:37:01.791Z",
+          "_lastChecked": "2026-03-20T14:37:17.823Z"
+        },
+        {
+          "name": "edict",
+          "url": "https://github.com/cft0808/edict",
+          "description": "三省六部制风格的多智能体编排系统，配备9个专业AI代理、实时仪表盘、模型配置和完整审计追踪功能。",
+          "tags": [
+            "Multi-Agent",
+            "AI Orchestration",
+            "Dashboard"
+          ],
+          "stars": 11646,
+          "lastUpdated": "2026-03-17T23:02:02Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:37:19.825Z",
+          "_lastChecked": "2026-03-20T14:37:41.903Z"
+        },
+        {
+          "name": "E2B",
+          "url": "https://github.com/e2b-dev/E2B",
+          "description": "开源安全的AI智能体执行环境，为AI代理提供代码解释器和真实工具支持，助力企业级智能体开发。",
+          "tags": [
+            "AI Agent",
+            "Code Interpreter",
+            "Sandbox"
+          ],
+          "stars": 11369,
+          "lastUpdated": "2026-03-19T21:35:36Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:37:43.904Z",
+          "_lastChecked": "2026-03-20T14:38:02.810Z"
+        },
+        {
+          "name": "DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "description": "基于多智能体系统的AI个性化学习助手，结合知识图谱和RAG技术提供智能辅导服务。",
+          "tags": [
+            "AI Tutor",
+            "Multi-Agent",
+            "RAG",
+            "Knowledge Graph"
+          ],
+          "stars": 10783,
+          "lastUpdated": "2026-03-20T12:27:24Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:38:04.812Z",
+          "_lastChecked": "2026-03-20T14:38:31.987Z"
+        },
+        {
+          "name": "oh-my-claudecode",
+          "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+          "description": "面向团队的多智能体编排工具，为 Claude Code 提供并行执行和自动化能力，提升 AI 辅助编程效率。",
+          "tags": [
+            "multi-agent",
+            "claude-code",
+            "orchestration"
+          ],
+          "stars": 10650,
+          "lastUpdated": "2026-03-20T13:29:52Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:38:33.988Z",
+          "_lastChecked": "2026-03-20T14:38:50.017Z"
+        },
+        {
+          "name": "carla",
+          "url": "https://github.com/carla-simulator/carla",
+          "description": "开源自动驾驶研究模拟器，基于虚幻引擎4开发。提供丰富的传感器套件和灵活API，支持深度学习、强化学习等自动驾驶算法的训练与测试。",
+          "tags": [
+            "autonomous-driving",
+            "simulator",
+            "deep-learning",
+            "reinforcement-learning"
+          ],
+          "stars": 13706,
+          "lastUpdated": "2026-03-20T04:53:22Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:41:36.127Z",
+          "_lastChecked": "2026-03-20T14:41:54.011Z"
         }
       ]
     },
@@ -2329,6 +2452,100 @@
           "health": "Active",
           "addedAt": "2026-03-20T14:35:00.414Z",
           "_lastChecked": "2026-03-20T14:35:13.182Z"
+        },
+        {
+          "name": "txtai",
+          "url": "https://github.com/neuml/txtai",
+          "description": "一体化AI框架，支持语义搜索、LLM编排和语言模型工作流。集成了向量数据库、RAG和AI代理功能，适合构建智能搜索和知识管理应用。",
+          "tags": [
+            "RAG",
+            "语义搜索",
+            "LLM",
+            "向量数据库"
+          ],
+          "stars": 9500,
+          "lastUpdated": "2025-01-15T10:30:00Z",
+          "health": "Active",
+          "addedAt": "2025-01-20T12:00:00.000Z",
+          "_lastChecked": "2026-03-20T14:36:46.214Z"
+        },
+        {
+          "name": "mediapipe",
+          "url": "https://github.com/google-ai-edge/mediapipe",
+          "description": "Google开源的跨平台机器学习框架，提供人脸检测、手势识别、姿态估计等实时ML解决方案。支持Android、iOS、Web和桌面端部署。",
+          "tags": [
+            "计算机视觉",
+            "机器学习",
+            "跨平台",
+            "实时处理"
+          ],
+          "stars": 34229,
+          "lastUpdated": "2026-03-20T03:24:25Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:38:52.018Z",
+          "_lastChecked": "2026-03-20T14:39:12.791Z"
+        },
+        {
+          "name": "AirSim",
+          "url": "https://github.com/microsoft/AirSim",
+          "description": "微软开源的自动驾驶模拟器，基于Unreal Engine/Unity构建，支持无人机和自动驾驶汽车的AI研究与开发。",
+          "tags": [
+            "autonomous-vehicles",
+            "simulator",
+            "deep-learning",
+            "drones"
+          ],
+          "stars": 18036,
+          "lastUpdated": "2026-03-15T23:17:10Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:40:23.440Z",
+          "_lastChecked": "2026-03-20T14:40:50.708Z"
+        },
+        {
+          "name": "facenet",
+          "url": "https://github.com/davidsandberg/facenet",
+          "description": "基于TensorFlow的人脸识别开源库，实现了FaceNet深度学习算法。支持人脸检测、识别与验证，广泛应用于计算机视觉项目。",
+          "tags": [
+            "Face Recognition",
+            "TensorFlow",
+            "Deep Learning",
+            "Computer Vision"
+          ],
+          "stars": 14316,
+          "lastUpdated": "2023-07-24T12:43:21Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:40:52.709Z",
+          "_lastChecked": "2026-03-20T14:41:13.961Z"
+        },
+        {
+          "name": "pcl",
+          "url": "https://github.com/PointCloudLibrary/pcl",
+          "description": "开源点云处理库，提供3D图像和点云数据的处理、滤波、配准、分割等功能。广泛应用于机器人、自动驾驶和三维重建等AI视觉领域。",
+          "tags": [
+            "Computer Vision",
+            "Point Cloud",
+            "C++"
+          ],
+          "stars": 10916,
+          "lastUpdated": "2026-03-12T13:21:18Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:41:15.963Z",
+          "_lastChecked": "2026-03-20T14:41:34.125Z"
+        },
+        {
+          "name": "julius",
+          "url": "https://github.com/julius-speech/julius",
+          "description": "开源的大词汇量连续语音识别引擎，支持实时语音处理和多平台部署。适用于语音助手、转录系统等应用场景。",
+          "tags": [
+            "语音识别",
+            "开源引擎",
+            "音频处理"
+          ],
+          "stars": 1930,
+          "lastUpdated": "2025-06-16T07:10:03Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:42:34.675Z",
+          "_lastChecked": "2026-03-20T14:42:54.645Z"
         }
       ]
     },
@@ -2790,6 +3007,68 @@
           "health": "Active",
           "addedAt": "2026-03-20T14:32:38.478Z",
           "_lastChecked": "2026-03-20T14:32:53.298Z"
+        },
+        {
+          "name": "Dive-into-DL-PyTorch",
+          "url": "https://github.com/ShusenTang/Dive-into-DL-PyTorch",
+          "description": "《动手学深度学习》PyTorch版实现，将原书MXNet代码转换为PyTorch，涵盖计算机视觉和自然语言处理等核心内容。",
+          "tags": [
+            "深度学习",
+            "PyTorch",
+            "教程"
+          ],
+          "stars": 19346,
+          "lastUpdated": "2021-10-14T08:59:15Z",
+          "health": "Stable",
+          "addedAt": "2026-03-20T14:39:14.792Z",
+          "_lastChecked": "2026-03-20T14:39:32.614Z"
+        },
+        {
+          "name": "d2l-en",
+          "url": "https://github.com/d2l-ai/d2l-en",
+          "description": "《动手学深度学习》交互式深度学习教材，涵盖多框架代码、数学原理与实践讨论。已被全球70个国家500所大学采用，包括斯坦福、MIT、哈佛和剑桥等顶尖学府。",
+          "tags": [
+            "deep-learning",
+            "machine-learning",
+            "pytorch",
+            "tensorflow"
+          ],
+          "stars": 28448,
+          "lastUpdated": "2024-08-18T08:02:36Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:39:43.087Z",
+          "_lastChecked": "2026-03-20T14:40:03.262Z"
+        },
+        {
+          "name": "introtodeeplearning",
+          "url": "https://github.com/MITDeepLearning/introtodeeplearning",
+          "description": "MIT 6.S191 深度学习入门课程的官方实验材料，涵盖计算机视觉、强化学习、音乐生成等多个前沿领域的实践教程。",
+          "tags": [
+            "deep-learning",
+            "pytorch",
+            "tensorflow",
+            "mit-course"
+          ],
+          "stars": 8520,
+          "lastUpdated": "2026-01-04T21:17:16Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:41:56.012Z",
+          "_lastChecked": "2026-03-20T14:42:14.010Z"
+        },
+        {
+          "name": "awesome-computer-vision",
+          "url": "https://github.com/jbhuang0604/awesome-computer-vision",
+          "description": "精心整理的计算机视觉资源合集，涵盖教程、数据集、论文、开源项目等多个领域。适合计算机视觉学习者和研究者参考使用。",
+          "tags": [
+            "计算机视觉",
+            "资源合集",
+            "机器学习"
+          ],
+          "stars": 23129,
+          "lastUpdated": "2024-05-17T14:24:27Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:42:16.013Z",
+          "_lastChecked": "2026-03-20T14:42:32.674Z"
         }
       ]
     }

@@ -1,433 +1,6 @@
 {
   "queue": [
     {
-      "name": "nanobrowser",
-      "html_url": "https://github.com/nanobrowser/nanobrowser",
-      "description": "Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.",
-      "topics": [
-        "agent",
-        "ai",
-        "ai-agents",
-        "ai-tools",
-        "automation",
-        "browser",
-        "browser-automation",
-        "browser-use",
-        "chrome-extension",
-        "comet",
-        "dia",
-        "extension",
-        "manus",
-        "mariner",
-        "multi-agent",
-        "n8n",
-        "nano",
-        "opensource",
-        "playwright",
-        "web-automation"
-      ],
-      "stargazers_count": 12486,
-      "pushed_at": "2025-11-24T11:10:03Z",
-      "added_to_queue": "2026-03-20T14:04:55.391Z"
-    },
-    {
-      "name": "txtai",
-      "html_url": "https://github.com/neuml/txtai",
-      "description": "💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-      "topics": [
-        "agents",
-        "ai",
-        "ai-agents",
-        "embeddings",
-        "information-retrieval",
-        "language-model",
-        "large-language-models",
-        "llm",
-        "nlp",
-        "python",
-        "rag",
-        "retrieval-augmented-generation",
-        "search",
-        "search-engine",
-        "semantic-search",
-        "sentence-embeddings",
-        "transformers",
-        "txtai",
-        "vector-database",
-        "vector-search"
-      ],
-      "stargazers_count": 12315,
-      "pushed_at": "2026-03-20T13:29:45Z",
-      "added_to_queue": "2026-03-20T14:04:55.392Z"
-    },
-    {
-      "name": "page-agent",
-      "html_url": "https://github.com/alibaba/page-agent",
-      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "topics": [
-        "agent",
-        "ai",
-        "ai-agents",
-        "browser-automation",
-        "javascript",
-        "mcp",
-        "typescript",
-        "web"
-      ],
-      "stargazers_count": 12085,
-      "pushed_at": "2026-03-20T11:00:21Z",
-      "added_to_queue": "2026-03-20T14:04:55.392Z"
-    },
-    {
-      "name": "awesome-agent-skills",
-      "html_url": "https://github.com/VoltAgent/awesome-agent-skills",
-      "description": "Claude Code Skills and 500+ agent skills from official dev teams and the community, compatible with Codex, Antigravity, Gemini CLI, Cursor and others.",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "antigravity-skills",
-        "awesome",
-        "awesome-list",
-        "awesome-lists",
-        "claude-code",
-        "claude-code-skills",
-        "claude-skills",
-        "codex-skills",
-        "cursor-skills",
-        "gemini-skills",
-        "opencode-skills",
-        "skills"
-      ],
-      "stargazers_count": 12077,
-      "pushed_at": "2026-03-19T08:07:09Z",
-      "added_to_queue": "2026-03-20T14:04:55.392Z"
-    },
-    {
-      "name": "edict",
-      "html_url": "https://github.com/cft0808/edict",
-      "description": "🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails",
-      "topics": [
-        "ai-agents",
-        "ai-orchestration",
-        "autonomous-agents",
-        "claude",
-        "dashboard",
-        "kanban",
-        "llm",
-        "multi-agent",
-        "openai",
-        "openclaw",
-        "orchestration",
-        "python",
-        "workflow-automation"
-      ],
-      "stargazers_count": 11646,
-      "pushed_at": "2026-03-17T23:02:02Z",
-      "added_to_queue": "2026-03-20T14:04:55.392Z"
-    },
-    {
-      "name": "E2B",
-      "html_url": "https://github.com/e2b-dev/E2B",
-      "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
-      "topics": [
-        "agent",
-        "ai",
-        "ai-agent",
-        "ai-agents",
-        "code-interpreter",
-        "copilot",
-        "development",
-        "devtools",
-        "gpt",
-        "gpt-4",
-        "javascript",
-        "llm",
-        "nextjs",
-        "openai",
-        "python",
-        "react",
-        "software",
-        "typescript"
-      ],
-      "stargazers_count": 11369,
-      "pushed_at": "2026-03-19T21:35:36Z",
-      "added_to_queue": "2026-03-20T14:04:55.392Z"
-    },
-    {
-      "name": "DeepTutor",
-      "html_url": "https://github.com/HKUDS/DeepTutor",
-      "description": "\"DeepTutor: AI-Powered Personalized Learning Assistant\"",
-      "topics": [
-        "ai-agents",
-        "ai-tutor",
-        "deepresearch",
-        "idea-generation",
-        "interactive-learning",
-        "knowledge-graph",
-        "large-language-models",
-        "multi-agent-systems",
-        "rag"
-      ],
-      "stargazers_count": 10783,
-      "pushed_at": "2026-03-20T12:27:24Z",
-      "added_to_queue": "2026-03-20T14:04:55.392Z"
-    },
-    {
-      "name": "oh-my-claudecode",
-      "html_url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
-      "description": "Teams-first Multi-agent orchestration for Claude Code",
-      "topics": [
-        "agentic-coding",
-        "ai-agents",
-        "automation",
-        "claude",
-        "claude-code",
-        "multi-agent-systems",
-        "oh-my-opencode",
-        "opencode",
-        "parallel-execution",
-        "vibe-coding"
-      ],
-      "stargazers_count": 10650,
-      "pushed_at": "2026-03-20T13:29:52Z",
-      "added_to_queue": "2026-03-20T14:04:55.392Z"
-    },
-    {
-      "name": "mediapipe",
-      "html_url": "https://github.com/google-ai-edge/mediapipe",
-      "description": "Cross-platform, customizable ML solutions for live and streaming media.",
-      "topics": [
-        "android",
-        "audio-processing",
-        "c-plus-plus",
-        "calculator",
-        "computer-vision",
-        "deep-learning",
-        "framework",
-        "graph-based",
-        "graph-framework",
-        "inference",
-        "machine-learning",
-        "mediapipe",
-        "mobile-development",
-        "perception",
-        "pipeline-framework",
-        "stream-processing",
-        "video-processing"
-      ],
-      "stargazers_count": 34229,
-      "pushed_at": "2026-03-20T03:24:25Z",
-      "added_to_queue": "2026-03-20T14:05:01.645Z"
-    },
-    {
-      "name": "Dive-into-DL-PyTorch",
-      "html_url": "https://github.com/ShusenTang/Dive-into-DL-PyTorch",
-      "description": "本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现。",
-      "topics": [
-        "computer-vision",
-        "d2l",
-        "deep-learning",
-        "deep-learning-tutorial",
-        "natural-language-processing",
-        "pytorch",
-        "pytorch-tutorial"
-      ],
-      "stargazers_count": 19346,
-      "pushed_at": "2021-10-14T08:59:15Z",
-      "added_to_queue": "2026-03-20T14:05:01.646Z"
-    },
-    {
-      "name": "d2l-en",
-      "html_url": "https://github.com/d2l-ai/d2l-en",
-      "description": "Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.",
-      "topics": [
-        "book",
-        "computer-vision",
-        "data-science",
-        "deep-learning",
-        "gaussian-processes",
-        "hyperparameter-optimization",
-        "jax",
-        "kaggle",
-        "keras",
-        "machine-learning",
-        "mxnet",
-        "natural-language-processing",
-        "notebook",
-        "python",
-        "pytorch",
-        "recommender-system",
-        "reinforcement-learning",
-        "tensorflow"
-      ],
-      "stargazers_count": 28448,
-      "pushed_at": "2024-08-18T08:02:36Z",
-      "added_to_queue": "2026-03-20T14:05:01.646Z"
-    },
-    {
-      "name": "librealsense",
-      "html_url": "https://github.com/realsenseai/librealsense",
-      "description": "RealSense SDK",
-      "topics": [
-        "camera-api",
-        "computer-vision",
-        "developer-kits",
-        "hardware",
-        "library",
-        "librealsense",
-        "sdk"
-      ],
-      "stargazers_count": 8627,
-      "pushed_at": "2026-03-19T11:47:49Z",
-      "added_to_queue": "2026-03-20T14:05:01.646Z"
-    },
-    {
-      "name": "AirSim",
-      "html_url": "https://github.com/microsoft/AirSim",
-      "description": "Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research",
-      "topics": [
-        "ai",
-        "airsim",
-        "artificial-intelligence",
-        "autonomous-quadcoptor",
-        "autonomous-vehicles",
-        "computer-vision",
-        "control-systems",
-        "cross-platform",
-        "deep-reinforcement-learning",
-        "deeplearning",
-        "drones",
-        "pixhawk",
-        "platform-independent",
-        "research",
-        "self-driving-car",
-        "simulator",
-        "unreal-engine"
-      ],
-      "stargazers_count": 18036,
-      "pushed_at": "2026-03-15T23:17:10Z",
-      "added_to_queue": "2026-03-20T14:05:01.646Z"
-    },
-    {
-      "name": "facenet",
-      "html_url": "https://github.com/davidsandberg/facenet",
-      "description": "Face recognition using Tensorflow",
-      "topics": [
-        "computer-vision",
-        "deep-learning",
-        "face-detection",
-        "face-recognition",
-        "facenet",
-        "mtcnn",
-        "tensorflow"
-      ],
-      "stargazers_count": 14316,
-      "pushed_at": "2023-07-24T12:43:21Z",
-      "added_to_queue": "2026-03-20T14:05:01.646Z"
-    },
-    {
-      "name": "pcl",
-      "html_url": "https://github.com/PointCloudLibrary/pcl",
-      "description": "Point Cloud Library (PCL)",
-      "topics": [
-        "c-plus-plus",
-        "computer-vision",
-        "cpp",
-        "pcl",
-        "point-cloud",
-        "pointcloud"
-      ],
-      "stargazers_count": 10916,
-      "pushed_at": "2026-03-12T13:21:18Z",
-      "added_to_queue": "2026-03-20T14:05:01.646Z"
-    },
-    {
-      "name": "carla",
-      "html_url": "https://github.com/carla-simulator/carla",
-      "description": "Open-source simulator for autonomous driving research.",
-      "topics": [
-        "ai",
-        "artificial-intelligence",
-        "autonomous-driving",
-        "autonomous-vehicles",
-        "carla",
-        "carla-simulator",
-        "computer-vision",
-        "cross-platform",
-        "deep-learning",
-        "deep-reinforcement-learning",
-        "imitation-learning",
-        "research",
-        "ros",
-        "self-driving-car",
-        "simulator",
-        "ue4",
-        "unreal-engine-4"
-      ],
-      "stargazers_count": 13706,
-      "pushed_at": "2026-03-20T04:53:22Z",
-      "added_to_queue": "2026-03-20T14:05:01.646Z"
-    },
-    {
-      "name": "introtodeeplearning",
-      "html_url": "https://github.com/MITDeepLearning/introtodeeplearning",
-      "description": "Lab Materials for MIT 6.S191: Introduction to Deep Learning",
-      "topics": [
-        "computer-vision",
-        "deep-learning",
-        "deep-reinforcement-learning",
-        "deeplearning",
-        "jupyter-notebooks",
-        "mit",
-        "music-generation",
-        "neural-networks",
-        "pytorch",
-        "pytorch-tutorial",
-        "tensorflow",
-        "tensorflow-tutorials"
-      ],
-      "stargazers_count": 8520,
-      "pushed_at": "2026-01-04T21:17:16Z",
-      "added_to_queue": "2026-03-20T14:05:01.646Z"
-    },
-    {
-      "name": "awesome-computer-vision",
-      "html_url": "https://github.com/jbhuang0604/awesome-computer-vision",
-      "description": "A curated list of awesome computer vision resources",
-      "topics": [],
-      "stargazers_count": 23129,
-      "pushed_at": "2024-05-17T14:24:27Z",
-      "added_to_queue": "2026-03-20T14:05:01.646Z"
-    },
-    {
-      "name": "julius",
-      "html_url": "https://github.com/julius-speech/julius",
-      "description": "Open-Source Large Vocabulary Continuous Speech Recognition Engine",
-      "topics": [
-        "audio-processing",
-        "recognition",
-        "speech",
-        "speech-recognition"
-      ],
-      "stargazers_count": 1930,
-      "pushed_at": "2025-06-16T07:10:03Z",
-      "added_to_queue": "2026-03-20T14:11:20.122Z"
-    },
-    {
-      "name": "praat.github.io",
-      "html_url": "https://github.com/praat/praat.github.io",
-      "description": "Praat: Doing Phonetics By Computer",
-      "topics": [
-        "acoustics",
-        "phonetics",
-        "speech",
-        "speech-analysis"
-      ],
-      "stargazers_count": 1864,
-      "pushed_at": "2026-03-19T00:08:28Z",
-      "added_to_queue": "2026-03-20T14:11:20.123Z"
-    },
-    {
       "name": "tacotron",
       "html_url": "https://github.com/Kyubyong/tacotron",
       "description": "A TensorFlow Implementation of Tacotron: A Fully End-to-End Text-To-Speech Synthesis Model",
@@ -1463,6 +1036,186 @@
       "stargazers_count": 1526,
       "pushed_at": "2026-01-27T01:00:33Z",
       "added_to_queue": "2026-03-20T14:35:58.708Z"
+    },
+    {
+      "name": "jupyter-ai",
+      "html_url": "https://github.com/jupyterlab/jupyter-ai",
+      "description": "A generative AI extension for JupyterLab",
+      "topics": [
+        "generative-ai",
+        "jupyter",
+        "jupyterlab",
+        "jupyterlab-extension"
+      ],
+      "stargazers_count": 4150,
+      "pushed_at": "2026-01-27T01:21:41Z",
+      "added_to_queue": "2026-03-20T14:43:21.183Z"
+    },
+    {
+      "name": "generative-ai-docs",
+      "html_url": "https://github.com/google/generative-ai-docs",
+      "description": "This repository is deprecated and will be archived",
+      "topics": [
+        "ai",
+        "chatbot",
+        "documentation",
+        "embeddings",
+        "gemini",
+        "gemini-api",
+        "gemma",
+        "llm",
+        "machine-learning"
+      ],
+      "stargazers_count": 2237,
+      "pushed_at": "2026-01-26T04:11:38Z",
+      "added_to_queue": "2026-03-20T14:43:21.183Z"
+    },
+    {
+      "name": "REINVENT4",
+      "html_url": "https://github.com/MolecularAI/REINVENT4",
+      "description": "AI molecular design tool for de novo design, scaffold hopping, R-group replacement, linker design and molecule optimization.",
+      "topics": [
+        "ai",
+        "astrazeneca",
+        "cheminformatics",
+        "chemistry",
+        "deep-learning",
+        "denovo-design",
+        "drug-design",
+        "drug-discovery",
+        "generative-ai",
+        "ml",
+        "molecule-generation",
+        "neural-networks",
+        "reinforcement-learning",
+        "transfer-learning"
+      ],
+      "stargazers_count": 709,
+      "pushed_at": "2026-01-21T06:57:31Z",
+      "added_to_queue": "2026-03-20T14:43:21.183Z"
+    },
+    {
+      "name": "computer-vision-course",
+      "html_url": "https://github.com/huggingface/computer-vision-course",
+      "description": "This repo is the homebase of a community driven course on Computer Vision with Neural Networks. Feel free to join us on the Hugging Face discord: hf.co/join/discord",
+      "topics": [
+        "computer-vision",
+        "convolutional-neural-networks",
+        "generative-ai",
+        "neural-networks",
+        "transformers"
+      ],
+      "stargazers_count": 801,
+      "pushed_at": "2026-01-15T11:22:35Z",
+      "added_to_queue": "2026-03-20T14:43:21.183Z"
+    },
+    {
+      "name": "mostlyai",
+      "html_url": "https://github.com/mostly-ai/mostlyai",
+      "description": "Synthetic Data SDK ✨",
+      "topics": [
+        "differential-privacy",
+        "generative-ai",
+        "machine-learning",
+        "privacy-enhancing-technologies",
+        "synthetic-data",
+        "synthetic-data-generation",
+        "synthetic-data-generator"
+      ],
+      "stargazers_count": 754,
+      "pushed_at": "2026-01-13T17:16:27Z",
+      "added_to_queue": "2026-03-20T14:43:21.183Z"
+    },
+    {
+      "name": "fastRAG",
+      "html_url": "https://github.com/IntelLabs/fastRAG",
+      "description": "Efficient Retrieval Augmentation and Generation Framework",
+      "topics": [
+        "benchmark",
+        "colbert",
+        "diffusion",
+        "generative-ai",
+        "information-retrieval",
+        "knowledge-graph",
+        "llm",
+        "multi-modal",
+        "nlp",
+        "question-answering",
+        "semantic-search",
+        "sentence-transformers",
+        "summarization",
+        "transformers"
+      ],
+      "stargazers_count": 1771,
+      "pushed_at": "2026-01-12T19:58:22Z",
+      "added_to_queue": "2026-03-20T14:43:21.183Z"
+    },
+    {
+      "name": "LAMBDA",
+      "html_url": "https://github.com/AMA-CMFAI/LAMBDA",
+      "description": "This is the offical repository of paper \"LAMBDA: A large Model Based Data Agent\". https://www.polyu.edu.hk/ama/cmfai/lambda.html",
+      "topics": [
+        "agents",
+        "ai",
+        "generative-ai",
+        "large-language-models"
+      ],
+      "stargazers_count": 555,
+      "pushed_at": "2026-01-12T16:39:30Z",
+      "added_to_queue": "2026-03-20T14:43:21.183Z"
+    },
+    {
+      "name": "applied-ai-engineering-samples",
+      "html_url": "https://github.com/GoogleCloudPlatform/applied-ai-engineering-samples",
+      "description": "This repository compiles code samples and notebooks demonstrating how to use Generative AI on Google Cloud Vertex AI.",
+      "topics": [
+        "generative-ai",
+        "google-cloud-platform",
+        "llms",
+        "vertex-ai"
+      ],
+      "stargazers_count": 830,
+      "pushed_at": "2026-01-06T21:45:38Z",
+      "added_to_queue": "2026-03-20T14:43:21.183Z"
+    },
+    {
+      "name": "awesome-spring-ai",
+      "html_url": "https://github.com/spring-ai-community/awesome-spring-ai",
+      "description": "A curated list of awesome resources, tools, tutorials, and projects for building generative AI applications using Spring AI",
+      "topics": [
+        "spring-ai"
+      ],
+      "stargazers_count": 681,
+      "pushed_at": "2025-12-21T08:51:20Z",
+      "added_to_queue": "2026-03-20T14:43:21.183Z"
+    },
+    {
+      "name": "awesome-generative-ai",
+      "html_url": "https://github.com/filipecalegario/awesome-generative-ai",
+      "description": "A curated list of Generative AI tools, works, models, and references",
+      "topics": [
+        "ai-art",
+        "awesome",
+        "awesome-list",
+        "chatgpt",
+        "dall-e",
+        "dalle2",
+        "embeddings",
+        "generative-ai",
+        "gpt-4",
+        "llm",
+        "llm-agent",
+        "midjourney",
+        "openai",
+        "prompt-engineering",
+        "semantic-search",
+        "stable-diffusion",
+        "text-to-image",
+        "txt2img"
+      ],
+      "stargazers_count": 3392,
+      "pushed_at": "2025-12-18T07:31:25Z",
+      "added_to_queue": "2026-03-20T14:43:21.183Z"
     }
   ]
 }

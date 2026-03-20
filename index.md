@@ -12,9 +12,6 @@ hero:
     - theme: alt
       text: 快速开始
       link: /home/
-    - theme: alt
-      text: 满血版Deepseek R1
-      link: https://www.wenxiaobai.com/
 
 features:
 - title: 降维打击

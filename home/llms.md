@@ -2,6 +2,14 @@
 
 > 各大开源的文本生成模型及其微调项目。
 
+## [open-webui](https://github.com/open-webui/open-webui)
+
+开源的自托管AI Web界面，支持Ollama、OpenAI等多种LLM后端，内置RAG检索增强和MCP功能。
+
+- **Stars:** ⭐️ 128.0k
+- **Tags:** `LLM` `WebUI` `Ollama` `RAG`
+- **最后活动时间:** 2026-03-20
+
 ## [LocalAI](https://github.com/mudler/LocalAI)
 
 免费开源的 OpenAI API 替代方案，支持本地部署、无需 GPU，可在消费级硬件上运行。兼容 OpenAI API，支持文本生成、图像生成、语音克隆等多种 AI 功能。
