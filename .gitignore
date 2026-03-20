@@ -15,3 +15,7 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.vscode
+.env
+.env.local
+.env.*.local
+.vitepress/cache

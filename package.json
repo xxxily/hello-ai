@@ -42,7 +42,11 @@
   "scripts": {
     "docs:dev": "vitepress dev ./",
     "docs:build": "vitepress build ./",
-    "docs:preview": "vitepress preview ./"
+    "docs:preview": "vitepress preview ./",
+    "ai:discover-eval": "node scripts/discover-and-evaluate.js",
+    "ai:update-status": "node scripts/update-status.js",
+    "ai:generate-docs": "node scripts/generate-docs.js",
+    "ai:loop-eval": "node scripts/loop-eval.js"
   },
   "devDependencies": {
     "@babel/core": "^7.20.2",
@@ -60,6 +64,7 @@
   },
   "dependencies": {
     "core-js": "^3.26.1",
+    "dotenv": "^17.3.1",
     "node-telegram-bot-api": "^0.66.0",
     "terser": "^5.16.0"
   }

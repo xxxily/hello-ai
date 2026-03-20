@@ -1,19 +1,19 @@
 export default [
   {
-    text: '目录',
-    // collapsible: true,
+    text: '关于 Hello-AI',
     items: [
-      { text: 'Hello-AI', link: '/home/index.md' },
-      // { text: '成为赞助方', link: '/home/sponsor.md' },
-      { text: '免费ChatGPT网站列表', link: '/home/FreeChatGPTSiteList.md' },
-      { text: 'ChatGPT中文调教指南', link: '/home/chatgptPrompts.md' },
-      { text: 'ChatGPT开源项目合集', link: '/home/awesome-open-gpt.md' },
-      { text: '科学上网工具推荐', link: '/home/airport.md' },
-      { text: '付费服务信息', link: '/home/buy.md' },
-      { text: '全球AI网站汇总', link: '/home/navigation.md' },
-      { text: 'AI资讯', link: '/home/news.md' },
-      { text: 'AI影视作品', link: '/home/film.md' },
-      { text: 'AI书籍作品', link: '/home/books.md' },
+      { text: '介绍', link: '/home/index.md' },
+    ],
+  },
+  {
+    text: '探索 AI 项目',
+    items: [
+      { text: '🔥 热门推荐', link: '/home/trending.md' },
+      { text: '💬 大语言模型', link: '/home/llms.md' },
+      { text: '🤖 智能体 (Agents)', link: '/home/agents.md' },
+      { text: '🛠️ 开发者工具', link: '/home/devtools.md' },
+      { text: '🎨 生产力与创作', link: '/home/productivity.md' },
+      { text: '📚 学习资料', link: '/home/learning.md' },
     ],
   },
 ]

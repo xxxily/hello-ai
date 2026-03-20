@@ -1,0 +1,63 @@
+name: AI Agent Directory Update
+
+on:
+  schedule:
+    # Run every Monday and Thursday at 00:00 UTC
+    - cron: '0 0 * * 1,4'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  agent-update:
+    runs-on: ubuntu-latest
+    
+    # Needs permissions to commit back to the repo
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20' # modern node with native fetch
+
+      - name: Install dependencies
+        run: npm ci || npm install # ensure packages are installed if needed
+
+      - name: Step 1 - Update Existing Project Statuses
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/update-status.js
+
+      - name: Step 2 - Discover and Evaluate New Projects (AI Agent)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_BASE_URL: ${{ env.LLM_BASE_URL || 'https://api.openai.com/v1' }}
+          LLM_MODEL: ${{ env.LLM_MODEL || 'gpt-4o-mini' }}
+        # Only run eval step if LLM api key is set
+        run: |
+          if [ -n "$LLM_API_KEY" ]; then
+            node scripts/discover-and-evaluate.js
+          else
+            echo "LLM_API_KEY not found in secrets. Skipping evaluation."
+          fi
+
+      - name: Step 3 - Regenerate Markdown Docs
+        run: node scripts/generate-docs.js
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add data/*.json home/*.md
+          
+          # Only commit if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: auto-update AI projects directory [skip ci]"
+            git push
+          fi
