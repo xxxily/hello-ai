@@ -12,7 +12,7 @@ As one of the forerunners in the advent of AI, during the peak popularity of Cha
 Time flies, and nowadays, AI is everywhere. The public services offered have stopped, but the original intention of this project remains: **Helping oneself and others connect to the AI world!**
 
 Therefore, this project is undergoing a **V2.0 Refactoring**. We will no longer directly provide fundamental AI services. Instead, we are shifting our focus to the expansive open-source world.
-This project is now an **Intelligent, Auto-updating AI Project Directory**. Through an AI agent, we will automatically collect, evaluate, categorize, and track the latest and most popular AI extension projects worldwide (covering LLMs, Agents, DevTools, Productivity, etc.).
+This project is now an **Intelligent, Auto-updating AI Project Directory**. Through an AI agent, we will automatically collect, evaluate, categorize, and track the latest and most popular AI extension projects worldwide (covering Foundation Models, AI Infrastructure, Agent Orchestration, RAG & Data Engineering, Multimodal, etc.).
 
 **Core Features:**
 - 🤖 **AI-Automated Maintenance**: Project collection, tagging, and outdated cleanup are fully driven by cron jobs and LLM scripts, realizing "letting AI help humans connect to AI."

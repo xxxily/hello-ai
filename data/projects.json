@@ -3,102 +3,435 @@
     {
       "id": "trending",
       "name": "🔥 热门推荐",
-      "description": "近期在开源社区非常活跃和畅销的 AI 项目。",
+      "description": "近期在开源社区非常活跃和极其受欢迎的 AI 项目（近 3 个月内有更新，且高星）。",
       "projects": [
         {
-          "name": "2026-AI-College-Jobs",
-          "url": "https://github.com/speedyapply/2026-AI-College-Jobs",
-          "description": "每日更新的2026年AI/ML实习与应届生职位清单，涵盖人工智能、机器学习、数据科学等领域的优质工作机会。",
+          "name": "n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "description": "开源工作流自动化平台，原生支持AI能力和MCP协议。可视化构建结合自定义代码，支持400+集成，可自托管或云端部署。",
+          "tags": [
+            "工作流自动化",
+            "低代码",
+            "AI集成",
+            "MCP"
+          ],
+          "stars": 180156,
+          "lastUpdated": "2026-03-20T12:02:56Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T12:13:38.926Z",
+          "_lastChecked": "2026-03-20T12:14:06.614Z"
+        },
+        {
+          "name": "prompts.chat",
+          "url": "https://github.com/f/prompts.chat",
+          "description": "前身为 Awesome ChatGPT Prompts，是一个开源的提示词分享与发现平台。支持自托管，帮助用户收集和管理社区优质提示词资源。",
+          "tags": [
+            "Prompt Engineering",
+            "ChatGPT",
+            "Open Source"
+          ],
+          "stars": 153422,
+          "lastUpdated": "2026-03-20T03:50:59Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T15:16:09.098Z",
+          "_lastChecked": "2026-03-20T15:16:29.694Z"
+        },
+        {
+          "name": "dify",
+          "url": "https://github.com/langgenius/dify",
+          "description": "Dify 是一个生产级的 AI 智能体工作流开发平台，支持低代码/无代码方式快速构建 AI 应用。提供可视化工作流编排、RAG 集成、多模型支持等核心功能。",
+          "tags": [
+            "agent",
+            "workflow",
+            "low-code",
+            "RAG",
+            "LLM"
+          ],
+          "stars": 133705,
+          "lastUpdated": "2026-03-20T12:55:02Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T13:00:40.548Z",
+          "_lastChecked": "2026-03-20T13:01:00.316Z"
+        },
+        {
+          "name": "open-webui",
+          "url": "https://github.com/open-webui/open-webui",
+          "description": "开源的自托管AI Web界面，支持Ollama、OpenAI等多种LLM后端，内置RAG检索增强和MCP功能。",
+          "tags": [
+            "LLM",
+            "WebUI",
+            "Ollama",
+            "RAG"
+          ],
+          "stars": 127983,
+          "lastUpdated": "2026-03-20T00:52:44Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:32:55.300Z",
+          "_lastChecked": "2026-03-20T14:33:17.047Z"
+        },
+        {
+          "name": "generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "微软官方出品的生成式AI入门教程，包含21个课程，涵盖LLM、提示工程、语义搜索等核心主题。适合初学者系统学习生成式AI开发，从理论到实践全面覆盖。",
+          "tags": [
+            "generative-ai",
+            "llms",
+            "prompt-engineering",
+            "openai",
+            "azure"
+          ],
+          "stars": 108291,
+          "lastUpdated": "2026-03-19T03:47:42Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T15:15:30.274Z",
+          "_lastChecked": "2026-03-20T15:15:45.834Z"
+        },
+        {
+          "name": "awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "精选LLM应用集合，涵盖AI智能体和RAG技术，支持OpenAI、Anthropic、Gemini及开源模型。提供丰富的实战示例，适合开发者学习和大模型应用开发参考。",
+          "tags": [
+            "agents",
+            "llms",
+            "rag",
+            "python"
+          ],
+          "stars": 102955,
+          "lastUpdated": "2026-03-17T00:09:29Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T15:16:31.699Z",
+          "_lastChecked": "2026-03-20T15:16:50.776Z"
+        },
+        {
+          "name": "gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "开源AI智能体，将Gemini的强大能力直接带入你的终端。支持MCP协议，提供便捷的命令行交互体验。",
+          "tags": [
+            "AI Agent",
+            "CLI",
+            "Gemini",
+            "MCP"
+          ],
+          "stars": 98470,
+          "lastUpdated": "2026-03-20T13:11:41Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T13:15:01.464Z",
+          "_lastChecked": "2026-03-20T13:15:22.928Z"
+        },
+        {
+          "name": "firecrawl",
+          "url": "https://github.com/firecrawl/firecrawl",
+          "description": "专为AI设计的网页数据API，可将整个网站转换为LLM可用的Markdown或结构化数据。支持智能爬取、数据提取，是构建AI应用的数据基础设施利器。",
+          "tags": [
+            "Web Scraping",
+            "AI Data",
+            "LLM"
+          ],
+          "stars": 95550,
+          "lastUpdated": "2026-03-20T12:58:17Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T13:00:07.843Z",
+          "_lastChecked": "2026-03-20T13:00:38.547Z"
+        },
+        {
+          "name": "everything-claude-code",
+          "url": "https://github.com/affaan-m/everything-claude-code",
+          "description": "一个全面的AI编程代理性能优化系统，涵盖技能、记忆、安全和研究优先开发模式，支持Claude Code、Codex、Cursor等多种AI编程工具。",
+          "tags": [
+            "Claude Code",
+            "AI Agents",
+            "MCP",
+            "Developer Tools"
+          ],
+          "stars": 89623,
+          "lastUpdated": "2026-03-20T13:54:13Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:33:19.049Z",
+          "_lastChecked": "2026-03-20T14:33:40.094Z"
+        },
+        {
+          "name": "browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "让AI代理能够轻松访问和操作网站的开源工具。支持自动化在线任务，基于Playwright和Python构建。",
+          "tags": [
+            "AI Agents",
+            "Browser Automation",
+            "LLM"
+          ],
+          "stars": 81388,
+          "lastUpdated": "2026-03-20T07:52:26Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:25:50.543Z",
+          "_lastChecked": "2026-03-20T14:26:09.160Z"
+        },
+        {
+          "name": "netdata",
+          "url": "https://github.com/netdata/netdata",
+          "description": "开源的实时监控与可观测性平台，集成AI驱动的异常检测和智能告警功能。支持容器、Kubernetes和各类数据库的一键部署监控。",
+          "tags": [
+            "监控",
+            "可观测性",
+            "DevOps"
+          ],
+          "stars": 78153,
+          "lastUpdated": "2026-03-20T12:05:14Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T12:05:23.381Z",
+          "_lastChecked": "2026-03-20T12:05:50.756Z"
+        },
+        {
+          "name": "ragflow",
+          "url": "https://github.com/infiniflow/ragflow",
+          "description": "RAGFlow 是领先的开源检索增强生成(RAG)引擎，融合前沿RAG技术与Agent能力，为LLM构建卓越的上下文层。支持深度文档理解、GraphRAG和智能工作流。",
+          "tags": [
+            "RAG",
+            "Agent",
+            "LLM",
+            "GraphRAG"
+          ],
+          "stars": 75594,
+          "lastUpdated": "2026-03-20T13:29:52Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:34:13.249Z",
+          "_lastChecked": "2026-03-20T14:34:38.147Z"
+        },
+        {
+          "name": "lobehub",
+          "url": "https://github.com/lobehub/lobehub",
+          "description": "一站式 AI 智能体协作平台，支持多智能体协同工作、知识库管理和多模型集成。让用户轻松构建、设计和管理 AI 团队成员，提升工作效率。",
+          "tags": [
+            "Agent",
+            "Multi-Agent",
+            "AI",
+            "Knowledge-Base",
+            "MCP"
+          ],
+          "stars": 74011,
+          "lastUpdated": "2026-03-20T12:12:48Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T12:16:21.890Z",
+          "_lastChecked": "2026-03-20T12:16:42.585Z"
+        },
+        {
+          "name": "vllm",
+          "url": "https://github.com/vllm-project/vllm",
+          "description": "vLLM是一个高吞吐量且内存高效的LLM推理和服务引擎，采用PagedAttention技术显著优化显存利用率。广泛应用于生产环境的大模型部署，支持多种主流模型架构和硬件平台。",
+          "tags": [
+            "LLM",
+            "Inference",
+            "Serving",
+            "CUDA",
+            "PyTorch"
+          ],
+          "stars": 73786,
+          "lastUpdated": "2026-03-20T14:57:57Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T15:16:52.777Z",
+          "_lastChecked": "2026-03-20T15:17:14.345Z"
+        },
+        {
+          "name": "Prompt-Engineering-Guide",
+          "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+          "description": "全面的提示工程学习指南，涵盖论文、教程、笔记本和实践资源。包含 RAG 和 AI Agents 等前沿主题，是掌握大语言模型应用的必备资料。",
+          "tags": [
+            "prompt-engineering",
+            "llms",
+            "rag",
+            "agents"
+          ],
+          "stars": 71997,
+          "lastUpdated": "2026-03-11T20:09:13Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T13:49:01.950Z",
+          "_lastChecked": "2026-03-20T13:49:24.564Z"
+        },
+        {
+          "name": "anything-llm",
+          "url": "https://github.com/Mintplex-Labs/anything-llm",
+          "description": "一款全能的AI生产力加速器，支持本地部署和隐私优先，无需复杂配置。集成多种LLM模型、RAG检索增强生成和向量数据库功能。",
+          "tags": [
+            "LLM",
+            "RAG",
+            "本地部署"
+          ],
+          "stars": 56505,
+          "lastUpdated": "2026-03-20T04:10:41Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:34:40.149Z",
+          "_lastChecked": "2026-03-20T14:34:58.412Z"
+        },
+        {
+          "name": "Flowise",
+          "url": "https://github.com/FlowiseAI/Flowise",
+          "description": "可视化AI智能体构建平台，支持拖拽式创建LangChain工作流和多智能体系统。无需编码即可快速构建聊天机器人、RAG应用和自动化工作流。",
+          "tags": [
+            "low-code",
+            "AI Agents",
+            "LangChain",
+            "Visual Builder"
+          ],
+          "stars": 50932,
+          "lastUpdated": "2026-03-20T10:51:41Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T15:15:47.835Z",
+          "_lastChecked": "2026-03-20T15:16:07.096Z"
+        },
+        {
+          "name": "mem0",
+          "url": "https://github.com/mem0ai/mem0",
+          "description": "为AI智能体提供通用记忆层，支持长期记忆存储与检索。让AI助手能够记住用户偏好和历史对话，实现更智能的个性化交互。",
+          "tags": [
+            "Memory",
+            "AI Agents",
+            "LLM",
+            "RAG"
+          ],
+          "stars": 50510,
+          "lastUpdated": "2026-03-20T12:51:01Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T12:52:33.407Z",
+          "_lastChecked": "2026-03-20T12:52:48.242Z"
+        },
+        {
+          "name": "context7",
+          "url": "https://github.com/upstash/context7",
+          "description": "为LLM和AI代码编辑器提供实时更新的代码文档平台，支持MCP协议集成，让AI助手获取最新API文档和代码示例。",
+          "tags": [
+            "LLM",
+            "MCP",
+            "文档工具"
+          ],
+          "stars": 49883,
+          "lastUpdated": "2026-03-19T22:49:19Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:35:00.414Z",
+          "_lastChecked": "2026-03-20T14:35:13.182Z"
+        },
+        {
+          "name": "crewAI",
+          "url": "https://github.com/crewAIInc/crewAI",
+          "description": "一个用于编排角色扮演、自主AI智能体的框架，支持多个AI智能体协同工作以解决复杂任务。",
+          "tags": [
+            "agents",
+            "ai-agents",
+            "llms"
+          ],
+          "stars": 46663,
+          "lastUpdated": "2026-03-20T12:08:02Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T12:18:25.872Z",
+          "_lastChecked": "2026-03-20T12:18:39.762Z"
+        },
+        {
+          "name": "LocalAI",
+          "url": "https://github.com/mudler/LocalAI",
+          "description": "免费开源的 OpenAI API 替代方案，支持本地部署、无需 GPU，可在消费级硬件上运行。兼容 OpenAI API，支持文本生成、图像生成、语音克隆等多种 AI 功能。",
+          "tags": [
+            "LLM",
+            "Self-hosted",
+            "OpenAI API",
+            "Local Inference"
+          ],
+          "stars": 44091,
+          "lastUpdated": "2026-03-20T07:37:45Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T13:53:44.370Z",
+          "_lastChecked": "2026-03-20T13:54:04.687Z"
+        },
+        {
+          "name": "streamlit",
+          "url": "https://github.com/streamlit/streamlit",
+          "description": "Streamlit 是一个开源 Python 框架，让开发者能够快速构建和分享数据应用与机器学习可视化界面。无需前端知识，几行代码即可创建交互式 Web 应用。",
+          "tags": [
+            "Python",
+            "Machine Learning",
+            "Data Visualization",
+            "Data Science"
+          ],
+          "stars": 43954,
+          "lastUpdated": "2026-03-20T13:11:48Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:22:32.401Z",
+          "_lastChecked": "2026-03-20T14:22:49.432Z"
+        },
+        {
+          "name": "gradio",
+          "url": "https://github.com/gradio-app/gradio",
+          "description": "用Python快速构建和分享机器学习应用的Web界面框架，让开发者无需前端知识即可创建交互式ML演示。",
+          "tags": [
+            "Python",
+            "Machine Learning",
+            "UI",
+            "Deep Learning"
+          ],
+          "stars": 42080,
+          "lastUpdated": "2026-03-20T02:54:36Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:23:12.175Z",
+          "_lastChecked": "2026-03-20T14:23:23.854Z"
+        },
+        {
+          "name": "DeepSpeed",
+          "url": "https://github.com/deepspeedai/DeepSpeed",
+          "description": "微软开源的深度学习优化库，让分布式训练和推理变得简单高效。支持千亿级参数模型训练，提供零冗余优化器和混合并行等核心技术。",
+          "tags": [
+            "deep-learning",
+            "distributed-training",
+            "pytorch",
+            "optimization"
+          ],
+          "stars": 41864,
+          "lastUpdated": "2026-03-18T23:22:23Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:23:25.855Z",
+          "_lastChecked": "2026-03-20T14:23:47.083Z"
+        },
+        {
+          "name": "ray",
+          "url": "https://github.com/ray-project/ray",
+          "description": "Ray是一个AI计算引擎，提供核心分布式运行时和AI库来加速机器学习工作负载。支持深度学习、强化学习、超参数优化和LLM推理等多种场景。",
+          "tags": [
+            "distributed-computing",
+            "machine-learning",
+            "llm",
+            "pytorch"
+          ],
+          "stars": 41805,
+          "lastUpdated": "2026-03-20T11:10:20Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:23:49.085Z",
+          "_lastChecked": "2026-03-20T14:24:04.156Z"
+        },
+        {
+          "name": "worldmonitor",
+          "url": "https://github.com/koala73/worldmonitor",
+          "description": "AI驱动的全球情报监控仪表板，整合新闻聚合、地缘政治监测和基础设施追踪，提供统一的态势感知界面。",
           "tags": [
             "AI",
-            "求职",
-            "实习",
-            "机器学习"
+            "OSINT",
+            "监控",
+            "仪表板"
           ],
-          "stars": 4918,
-          "lastUpdated": "2026-03-20T13:12:35Z",
+          "stars": 41455,
+          "lastUpdated": "2026-03-20T12:02:57Z",
           "health": "Active",
-          "addedAt": "2026-03-20T13:14:38.215Z",
-          "_lastChecked": "2026-03-20T13:14:59.461Z"
+          "addedAt": "2026-03-20T12:13:17.940Z",
+          "_lastChecked": "2026-03-20T12:13:36.924Z"
         },
         {
-          "name": "CogVideo",
-          "url": "https://github.com/THUDM/CogVideo",
-          "description": "文本和图像生成视频的AI模型，包含CogVideoX (2024)和CogVideo (ICLR 2023)，支持高质量视频创作。",
+          "name": "ColossalAI",
+          "url": "https://github.com/hpcaitech/ColossalAI",
+          "description": "大规模并行训练框架，让大模型训练更便宜、更快速、更易用。支持多种并行策略和异构训练，显著降低大模型开发门槛。",
           "tags": [
-            "text-to-video",
-            "image-to-video",
-            "video-generation"
+            "分布式训练",
+            "大模型",
+            "深度学习"
           ],
-          "stars": 12541,
-          "lastUpdated": "2025-11-04T11:19:04Z",
+          "stars": 41368,
+          "lastUpdated": "2026-03-16T17:40:56Z",
           "health": "Active",
-          "addedAt": "2026-03-20T13:45:15.871Z",
-          "_lastChecked": "2026-03-20T13:45:50.036Z"
-        },
-        {
-          "name": "DDNM",
-          "url": "https://github.com/wyhuai/DDNM",
-          "description": "ICLR 2023 Oral论文实现，提出零样本图像修复方法，利用去噪扩散模型在零空间建模，无需针对特定任务训练即可实现高质量图像修复。",
-          "tags": [
-            "diffusion-models",
-            "image-restoration",
-            "zero-shot",
-            "iclr2023"
-          ],
-          "stars": 1331,
-          "lastUpdated": "2024-04-25T08:28:06Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T13:57:20.145Z",
-          "_lastChecked": "2026-03-20T13:57:40.624Z"
-        },
-        {
-          "name": "diffusion-point-cloud",
-          "url": "https://github.com/luost26/diffusion-point-cloud",
-          "description": "基于扩散概率模型的3D点云生成方法，发表于CVPR 2021。利用扩散模型实现高质量的三维点云生成与补全。",
-          "tags": [
-            "3D点云",
-            "扩散模型",
-            "生成模型",
-            "CVPR2021"
-          ],
-          "stars": 782,
-          "lastUpdated": "2025-11-28T08:00:46Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T13:57:42.625Z",
-          "_lastChecked": "2026-03-20T13:58:01.448Z"
-        },
-        {
-          "name": "Helios",
-          "url": "https://github.com/PKU-YuanGroup/Helios",
-          "description": "北大团队开源的实时长视频生成模型，支持文本/图像/视频到视频的多种生成方式，具备长上下文和世界模拟能力。",
-          "tags": [
-            "视频生成",
-            "扩散模型",
-            "实时生成",
-            "世界模型"
-          ],
-          "stars": 1383,
-          "lastUpdated": "2026-03-20T13:43:20Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T13:58:40.033Z",
-          "_lastChecked": "2026-03-20T13:58:54.713Z"
-        },
-        {
-          "name": "Score-Entropy-Discrete-Diffusion",
-          "url": "https://github.com/louaaron/Score-Entropy-Discrete-Diffusion",
-          "description": "ICML 2024最佳论文，提出通过估计数据分布比率进行离散扩散建模的创新方法，为离散数据生成提供了新范式。",
-          "tags": [
-            "Diffusion Models",
-            "Discrete Diffusion",
-            "ICML 2024",
-            "Machine Learning"
-          ],
-          "stars": 718,
-          "lastUpdated": "2024-02-29T16:30:55Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T13:59:49.996Z",
-          "_lastChecked": "2026-03-20T14:00:02.911Z"
+          "addedAt": "2026-03-20T14:24:06.157Z",
+          "_lastChecked": "2026-03-20T14:24:22.599Z"
         },
         {
           "name": "qlib",
@@ -114,13 +447,45 @@
           "health": "Active",
           "addedAt": "2026-03-20T14:24:45.575Z",
           "_lastChecked": "2026-03-20T14:25:05.813Z"
+        },
+        {
+          "name": "mindsdb",
+          "url": "https://github.com/mindsdb/mindsdb",
+          "description": "MindsDB 是一个 AI 分析查询引擎，让你能够在实时数据上构建自推理智能体。支持多种数据库和 LLM 集成，实现智能数据分析和 RAG 应用开发。",
+          "tags": [
+            "AI",
+            "Agents",
+            "LLM",
+            "RAG",
+            "数据库"
+          ],
+          "stars": 38798,
+          "lastUpdated": "2026-03-20T12:12:40Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T12:18:41.766Z",
+          "_lastChecked": "2026-03-20T12:19:01.480Z"
+        },
+        {
+          "name": "tesseract.js",
+          "url": "https://github.com/naptha/tesseract.js",
+          "description": "纯 JavaScript 实现的 OCR 库，支持 100 多种语言的文字识别。基于 WebAssembly 技术，可在浏览器和 Node.js 环境中高效运行。",
+          "tags": [
+            "OCR",
+            "JavaScript",
+            "WebAssembly"
+          ],
+          "stars": 37938,
+          "lastUpdated": "2026-02-28T02:55:17Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:25:07.815Z",
+          "_lastChecked": "2026-03-20T14:25:24.778Z"
         }
       ]
     },
     {
       "id": "llms",
-      "name": "💬 大语言模型",
-      "description": "各大开源的文本生成模型及其微调项目。",
+      "name": "🧠 基础大模型 (Foundation Models)",
+      "description": "通用大语言模型及多模态基础模型（如 Llama, Qwen, DeepSeek 等）。",
       "projects": [
         {
           "name": "DeepSeek-V3",
@@ -137,36 +502,6 @@
           "addedAt": "2024-03-20T00:00:00Z"
         },
         {
-          "name": "awesome-claude-skills",
-          "url": "https://github.com/travisvn/awesome-claude-skills",
-          "description": "精心策划的 Claude Skills 资源列表，汇集了自定义 Claude AI 工作流的工具和资源，特别针对 Claude Code 进行优化。",
-          "tags": [
-            "Claude",
-            "Awesome List",
-            "AI Workflows"
-          ],
-          "stars": 0,
-          "lastUpdated": "2024-01-01T00:00:00Z",
-          "health": "Active",
-          "addedAt": "2024-01-01T00:00:00.000Z",
-          "_lastChecked": "2026-03-20T13:36:20.275Z"
-        },
-        {
-          "name": "awesome-claude-skills",
-          "url": "https://github.com/BehiSecc/awesome-claude-skills",
-          "description": "精选的 Claude 技能资源列表，汇集了 Claude AI 的各种实用技能和应用案例。适合开发者学习和探索 Claude 的能力边界。",
-          "tags": [
-            "Claude",
-            "LLM",
-            "资源列表"
-          ],
-          "stars": 7701,
-          "lastUpdated": "2026-03-17T06:43:20Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T13:38:36.886Z",
-          "_lastChecked": "2026-03-20T13:38:54.191Z"
-        },
-        {
           "name": "litgpt",
           "url": "https://github.com/Lightning-AI/litgpt",
           "description": "LitGPT 提供 20 多种高性能大语言模型，支持预训练、微调和大规模部署。基于 Lightning AI 构建，是 LLM 开发的完整工具链。",
@@ -180,21 +515,6 @@
           "health": "Active",
           "addedAt": "2026-03-20T13:42:50.963Z",
           "_lastChecked": "2026-03-20T13:43:08.616Z"
-        },
-        {
-          "name": "ragas",
-          "url": "https://github.com/vibrantlabsai/ragas",
-          "description": "Ragas 是一个强大的 LLM 应用评估框架，帮助开发者快速测试和优化大语言模型应用性能。支持多种评估指标和自动化测试流程，让 AI 应用质量更有保障。",
-          "tags": [
-            "evaluation",
-            "llm",
-            "llmops"
-          ],
-          "stars": 13027,
-          "lastUpdated": "2026-02-24T07:47:19Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T13:43:29.367Z",
-          "_lastChecked": "2026-03-20T13:43:47.501Z"
         },
         {
           "name": "dalai",
@@ -243,100 +563,6 @@
           "_lastChecked": "2026-03-20T13:45:13.868Z"
         },
         {
-          "name": "nano-vllm",
-          "url": "https://github.com/GeeeekExplorer/nano-vllm",
-          "description": "轻量级 vLLM 实现，专注于大语言模型的高效推理。适合学习 vLLM 架构和轻量级部署场景。",
-          "tags": [
-            "LLM",
-            "推理引擎",
-            "PyTorch"
-          ],
-          "stars": 12337,
-          "lastUpdated": "2025-11-03T17:44:48Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T13:46:14.251Z",
-          "_lastChecked": "2026-03-20T13:46:33.262Z"
-        },
-        {
-          "name": "GenAIExamples",
-          "url": "https://github.com/opea-project/GenAIExamples",
-          "description": "企业级生成式AI示例集合，包含ChatQnA、Copilot等实用案例，展示OPEA平台的Pipeline能力。",
-          "tags": [
-            "GenAI",
-            "RAG",
-            "LLM",
-            "Copilot"
-          ],
-          "stars": 727,
-          "lastUpdated": "2026-03-12T20:20:54Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T13:47:15.440Z",
-          "_lastChecked": "2026-03-20T13:47:28.365Z"
-        },
-        {
-          "name": "amazon-bedrock-samples",
-          "url": "https://github.com/aws-samples/amazon-bedrock-samples",
-          "description": "Amazon Bedrock 官方示例代码库，涵盖所有可用基础模型的使用示例。包含嵌入、RAG、LangChain 集成等实用教程，帮助开发者快速上手 Bedrock 服务。",
-          "tags": [
-            "Amazon Bedrock",
-            "LLM",
-            "RAG",
-            "Generative AI"
-          ],
-          "stars": 1391,
-          "lastUpdated": "2026-03-11T17:51:01Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T13:49:26.567Z",
-          "_lastChecked": "2026-03-20T13:49:48.140Z"
-        },
-        {
-          "name": "easy-dataset",
-          "url": "https://github.com/ConardLi/easy-dataset",
-          "description": "一款强大的数据集创建工具，专为LLM微调、RAG和评估场景设计，帮助开发者高效构建高质量训练数据。",
-          "tags": [
-            "LLM",
-            "数据集",
-            "微调",
-            "RAG"
-          ],
-          "stars": 13685,
-          "lastUpdated": "2026-03-11T12:59:11Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T13:49:50.142Z",
-          "_lastChecked": "2026-03-20T13:50:03.065Z"
-        },
-        {
-          "name": "LocalAI",
-          "url": "https://github.com/mudler/LocalAI",
-          "description": "免费开源的 OpenAI API 替代方案，支持本地部署、无需 GPU，可在消费级硬件上运行。兼容 OpenAI API，支持文本生成、图像生成、语音克隆等多种 AI 功能。",
-          "tags": [
-            "LLM",
-            "Self-hosted",
-            "OpenAI API",
-            "Local Inference"
-          ],
-          "stars": 44091,
-          "lastUpdated": "2026-03-20T07:37:45Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T13:53:44.370Z",
-          "_lastChecked": "2026-03-20T13:54:04.687Z"
-        },
-        {
-          "name": "h2ogpt",
-          "url": "https://github.com/h2oai/h2ogpt",
-          "description": "开源的私有化GPT聊天工具，支持本地部署和多种文档格式处理。100%隐私保护，支持oLLaMa、Mixtral等多种LLM后端。",
-          "tags": [
-            "私有化部署",
-            "文档问答",
-            "多模态"
-          ],
-          "stars": 12003,
-          "lastUpdated": "2025-10-09T23:30:01Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T13:55:35.152Z",
-          "_lastChecked": "2026-03-20T13:55:50.076Z"
-        },
-        {
           "name": "lmdeploy",
           "url": "https://github.com/InternLM/lmdeploy",
           "description": "LMDeploy 是一款高效的大语言模型压缩、部署和服务化工具包，支持多种主流LLM模型的推理加速与量化部署。",
@@ -350,22 +576,6 @@
           "health": "Active",
           "addedAt": "2026-03-20T14:19:19.637Z",
           "_lastChecked": "2026-03-20T14:19:37.935Z"
-        },
-        {
-          "name": "Liger-Kernel",
-          "url": "https://github.com/linkedin/Liger-Kernel",
-          "description": "由LinkedIn开源的高效Triton内核库，专为LLM训练优化设计。支持Llama、Mistral、Gemma等主流大模型，显著提升训练效率。",
-          "tags": [
-            "triton",
-            "llm-training",
-            "kernels",
-            "optimization"
-          ],
-          "stars": 6220,
-          "lastUpdated": "2026-03-20T03:03:11Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T14:20:28.201Z",
-          "_lastChecked": "2026-03-20T14:20:43.500Z"
         },
         {
           "name": "maxtext",
@@ -415,43 +625,272 @@
           "_lastChecked": "2026-03-20T14:21:58.646Z"
         },
         {
-          "name": "transformer-xl",
-          "url": "https://github.com/kimiyoung/transformer-xl",
-          "description": "Transformer-XL官方实现，突破固定上下文长度限制的神经网络语言模型，支持超长依赖关系学习。",
+          "name": "SALMONN",
+          "url": "https://github.com/bytedance/SALMONN",
+          "description": "由字节跳动和清华大学联合开发的多模态大语言模型，支持音频、语音、音乐和视频的理解与处理。入选ICLR 2024和ICML 2024，是先进的多模态AI研究项目。",
           "tags": [
-            "Transformer",
-            "Language-Model",
-            "NLP",
-            "Deep-Learning"
+            "多模态",
+            "音频处理",
+            "语音识别",
+            "视频理解"
           ],
-          "stars": 3695,
-          "lastUpdated": "2022-09-21T06:22:01Z",
-          "health": "Stable",
-          "addedAt": "2026-03-20T14:29:00.784Z",
-          "_lastChecked": "2026-03-20T14:29:14.629Z"
+          "stars": 1395,
+          "lastUpdated": "2026-02-03T12:11:22Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:45:03.033Z",
+          "_lastChecked": "2026-03-20T14:45:18.966Z"
         },
         {
-          "name": "open-webui",
-          "url": "https://github.com/open-webui/open-webui",
-          "description": "开源的自托管AI Web界面，支持Ollama、OpenAI等多种LLM后端，内置RAG检索增强和MCP功能。",
+          "name": "factool",
+          "url": "https://github.com/GAIR-NLP/factool",
+          "description": "FacTool 是一个用于检测生成式AI内容事实性的工具框架，帮助识别大语言模型输出中的错误信息。支持多种事实核查方法，提升AI生成内容的可靠性与可信度。",
+          "tags": [
+            "Fact-Checking",
+            "LLM",
+            "Generative AI"
+          ],
+          "stars": 918,
+          "lastUpdated": "2024-08-19T20:27:12Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:50:20.129Z",
+          "_lastChecked": "2026-03-20T14:50:39.513Z"
+        },
+        {
+          "name": "deepchat",
+          "url": "https://github.com/ThinkInAIXYZ/deepchat",
+          "description": "一款跨平台智能AI助手应用，支持ChatGPT、Claude、Gemini、DeepSeek等多种大模型。集成MCP协议与工具调用能力，打造个性化AI智能体体验。",
+          "tags": [
+            "AI助手",
+            "MCP",
+            "跨平台",
+            "多模型支持"
+          ],
+          "stars": 5607,
+          "lastUpdated": "2026-03-20T12:25:49Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T12:44:46.097Z",
+          "_lastChecked": "2026-03-20T12:45:06.892Z"
+        },
+        {
+          "name": "jarvis",
+          "url": "https://github.com/danilofalcao/jarvis",
+          "description": "J.A.R.V.I.S. 是一款智能编程助手，集成多个先进大语言模型，支持代码生成、修改和技术讨论。",
+          "tags": [
+            "AI助手",
+            "代码生成",
+            "LLM"
+          ],
+          "stars": 617,
+          "lastUpdated": "2025-01-26T22:44:26Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:03:43.536Z",
+          "_lastChecked": "2026-03-20T14:03:58.798Z"
+        },
+        {
+          "name": "kirara-ai",
+          "url": "https://github.com/lss233/kirara-ai",
+          "description": "可 DIY 的多模态 AI 聊天机器人框架，支持微信、QQ、Telegram 等多平台接入，集成 DeepSeek、Claude、OpenAI 等多种大模型，具备工作流系统、AI 画图、语音对话等功能。",
+          "tags": [
+            "聊天机器人",
+            "多平台接入",
+            "多模态"
+          ],
+          "stars": 18592,
+          "lastUpdated": "2025-06-28T19:24:48Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:12:33.612Z",
+          "_lastChecked": "2026-03-20T14:12:57.680Z"
+        },
+        {
+          "name": "mlflow",
+          "url": "https://github.com/mlflow/mlflow",
+          "description": "MLflow是一个开源AI工程平台，支持团队调试、评估、监控和优化生产级AI应用。提供完整的机器学习生命周期管理，涵盖模型管理、实验追踪和部署等功能。",
+          "tags": [
+            "MLOps",
+            "LLMOps",
+            "模型管理",
+            "机器学习"
+          ],
+          "stars": 24862,
+          "lastUpdated": "2026-03-20T12:18:47Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T12:22:14.334Z",
+          "_lastChecked": "2026-03-20T12:22:40.158Z"
+        },
+        {
+          "name": "langwatch",
+          "url": "https://github.com/langwatch/langwatch",
+          "description": "一个专注于LLM评估和AI智能体测试的平台，提供可观测性和低代码功能，帮助开发者优化和监控大语言模型应用。",
+          "tags": [
+            "LLM评估",
+            "智能体测试",
+            "可观测性"
+          ],
+          "stars": 3141,
+          "lastUpdated": "2026-03-20T12:22:05Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T12:28:41.618Z",
+          "_lastChecked": "2026-03-20T12:28:55.714Z"
+        },
+        {
+          "name": "dyad",
+          "url": "https://github.com/dyad-sh/dyad",
+          "description": "本地开源AI应用构建器，支持多种LLM后端，是v0/Lovable/Replit/Bolt的优质替代方案。",
+          "tags": [
+            "AI应用构建",
+            "本地部署",
+            "多模型支持"
+          ],
+          "stars": 19919,
+          "lastUpdated": "2026-03-19T03:57:41Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T13:54:48.431Z",
+          "_lastChecked": "2026-03-20T13:55:08.063Z"
+        },
+        {
+          "name": "GenerativeModels",
+          "url": "https://github.com/Project-MONAI/GenerativeModels",
+          "description": "MONAI官方生成式模型工具包，专注于医学影像领域的扩散模型、GAN等生成模型训练与部署，支持异常检测、图像合成与MRI重建等应用。",
+          "tags": [
+            "医学影像",
+            "生成模型",
+            "扩散模型",
+            "MONAI"
+          ],
+          "stars": 747,
+          "lastUpdated": "2024-07-01T14:33:54Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T13:57:00.412Z",
+          "_lastChecked": "2026-03-20T13:57:18.142Z"
+        },
+        {
+          "name": "opencompass",
+          "url": "https://github.com/open-compass/opencompass",
+          "description": "OpenCompass 是大模型评测平台，支持 Llama3、GPT-4、Claude 等主流模型在 100+ 数据集上的全面评估。助力开发者科学衡量和对比大语言模型性能。",
           "tags": [
             "LLM",
-            "WebUI",
-            "Ollama",
-            "RAG"
+            "评估",
+            "基准测试"
           ],
-          "stars": 127983,
-          "lastUpdated": "2026-03-20T00:52:44Z",
+          "stars": 6779,
+          "lastUpdated": "2026-03-20T09:40:11Z",
           "health": "Active",
-          "addedAt": "2026-03-20T14:32:55.300Z",
-          "_lastChecked": "2026-03-20T14:33:17.047Z"
+          "addedAt": "2026-03-20T14:18:50.546Z",
+          "_lastChecked": "2026-03-20T14:19:17.630Z"
+        },
+        {
+          "name": "web-search-mcp",
+          "url": "https://github.com/mrkrsl/web-search-mcp",
+          "description": "一个简单的本地托管Web搜索MCP服务器，专为本地LLM设计。让您的本地大语言模型具备网络搜索能力，支持LM Studio等工具。",
+          "tags": [
+            "MCP",
+            "Web搜索",
+            "本地LLM"
+          ],
+          "stars": 654,
+          "lastUpdated": "2025-08-08T19:58:47Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:31:36.126Z",
+          "_lastChecked": "2026-03-20T14:32:04.720Z"
+        },
+        {
+          "name": "generative_ai_project",
+          "url": "https://github.com/HeyNina101/generative_ai_project",
+          "description": "一个生产就绪的生成式AI项目模板，帮助开发者快速搭建具有良好结构和可扩展性的AI应用。",
+          "tags": [
+            "generative-ai",
+            "llm",
+            "template"
+          ],
+          "stars": 892,
+          "lastUpdated": "2026-02-27T22:14:10Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:51:50.192Z",
+          "_lastChecked": "2026-03-20T14:52:08.954Z"
+        },
+        {
+          "name": "shell_gpt",
+          "url": "https://github.com/TheR1D/shell_gpt",
+          "description": "一款由大语言模型驱动的命令行生产力工具，帮助用户更高效地完成各种任务。支持 GPT-4、Llama 等多种模型，可在终端中快速获取 AI 辅助。",
+          "tags": [
+            "CLI",
+            "GPT",
+            "LLM",
+            "Productivity"
+          ],
+          "stars": 11904,
+          "lastUpdated": "2026-01-28T04:07:23Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:59:06.567Z",
+          "_lastChecked": "2026-03-20T14:59:27.077Z"
+        },
+        {
+          "name": "llm-ui",
+          "url": "https://github.com/richardgill/llm-ui",
+          "description": "专为LLM应用设计的React组件库，支持ChatGPT、Claude等多种模型，提供开箱即用的聊天界面组件。",
+          "tags": [
+            "React",
+            "LLM",
+            "组件库"
+          ],
+          "stars": 1732,
+          "lastUpdated": "2025-07-02T12:52:26Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T15:07:20.096Z",
+          "_lastChecked": "2026-03-20T15:07:33.833Z"
+        },
+        {
+          "name": "MarkFlowy",
+          "url": "https://github.com/drl990114/MarkFlowy",
+          "description": "一款AI驱动的Markdown编辑器，支持ChatGPT和DeepSeek集成，跨平台运行于Windows、macOS和Linux。",
+          "tags": [
+            "Markdown",
+            "AI编辑器",
+            "跨平台"
+          ],
+          "stars": 2194,
+          "lastUpdated": "2026-03-20T13:12:09Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T13:13:31.058Z",
+          "_lastChecked": "2026-03-20T13:13:44.681Z"
+        },
+        {
+          "name": "banana-slides",
+          "url": "https://github.com/Anionex/banana-slides",
+          "description": "基于nano banana pro的AI原生PPT生成应用，支持模板上传、智能素材解析、一句话/大纲自动生成PPT，语音修改及一键导出可编辑文件。",
+          "tags": [
+            "AI PPT",
+            "Slides Generator",
+            "LLM"
+          ],
+          "stars": 13139,
+          "lastUpdated": "2026-03-16T14:29:38Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T13:43:10.619Z",
+          "_lastChecked": "2026-03-20T13:43:27.367Z"
+        },
+        {
+          "name": "infinite-bookshelf",
+          "url": "https://github.com/Bklieger/infinite-bookshelf",
+          "description": "使用 Groq 和 Llama3 在几秒内生成完整书籍的 AI 创作工具。",
+          "tags": [
+            "AI",
+            "Groq",
+            "Llama3",
+            "书籍生成"
+          ],
+          "stars": 1355,
+          "lastUpdated": "2025-10-09T21:16:44Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:22:00.648Z",
+          "_lastChecked": "2026-03-20T14:22:24.117Z"
         }
       ]
     },
     {
       "id": "agents",
-      "name": "🤖 智能体 (Agents)",
-      "description": "能够自主执行复杂任务的 AI Agents 框架和应用。",
+      "name": "🤖 智能体与编排 (Agents & Orchestration)",
+      "description": "能够自主执行任务的 AI Agent 框架和多智能体协作系统（如 AutoGPT, LangGraph, CrewAI）。",
       "projects": [
         {
           "name": "AutoGPT",
@@ -465,22 +904,6 @@
           "lastUpdated": "2024-03-01T00:00:00Z",
           "health": "Active",
           "addedAt": "2024-03-20T00:00:00Z"
-        },
-        {
-          "name": "AstrBot",
-          "url": "https://github.com/AstrBotDevs/AstrBot",
-          "description": "一站式智能IM聊天机器人框架，支持多平台接入（QQ、Discord、Telegram等）和多LLM集成，具备插件系统和Agent能力。",
-          "tags": [
-            "Agent",
-            "Chatbot",
-            "LLM",
-            "MCP"
-          ],
-          "stars": 26123,
-          "lastUpdated": "2026-03-20T12:02:53Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T12:14:08.616Z",
-          "_lastChecked": "2026-03-20T12:14:26.538Z"
         },
         {
           "name": "agentsys",
@@ -722,22 +1145,6 @@
           "_lastChecked": "2026-03-20T12:44:44.095Z"
         },
         {
-          "name": "deepchat",
-          "url": "https://github.com/ThinkInAIXYZ/deepchat",
-          "description": "一款跨平台智能AI助手应用，支持ChatGPT、Claude、Gemini、DeepSeek等多种大模型。集成MCP协议与工具调用能力，打造个性化AI智能体体验。",
-          "tags": [
-            "AI助手",
-            "MCP",
-            "跨平台",
-            "多模型支持"
-          ],
-          "stars": 5607,
-          "lastUpdated": "2026-03-20T12:25:49Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T12:44:46.097Z",
-          "_lastChecked": "2026-03-20T12:45:06.892Z"
-        },
-        {
           "name": "Vision-Agents",
           "url": "https://github.com/GetStream/Vision-Agents",
           "description": "由Stream开发的开源视觉智能体框架，支持快速构建基于任意模型或视频提供商的视觉Agent。利用Stream边缘网络实现超低延迟的实时交互体验。",
@@ -943,22 +1350,6 @@
           "_lastChecked": "2026-03-20T13:40:34.786Z"
         },
         {
-          "name": "gorilla",
-          "url": "https://github.com/ShishirPatil/gorilla",
-          "description": "专注于训练和评估大语言模型进行函数调用（工具调用）的开源项目。使 LLM 能够准确调用各种 API，是构建 AI 智能体的核心基础设施。",
-          "tags": [
-            "LLM",
-            "Function Calling",
-            "API",
-            "Tool Use"
-          ],
-          "stars": 12775,
-          "lastUpdated": "2026-03-11T03:37:46Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T13:44:25.434Z",
-          "_lastChecked": "2026-03-20T13:44:44.533Z"
-        },
-        {
           "name": "Memori",
           "url": "https://github.com/MemoriLabs/Memori",
           "description": "专为LLM和AI智能体设计的SQL原生记忆层，支持长短期记忆管理和状态持久化，让AI应用具备持续记忆能力。",
@@ -1021,22 +1412,6 @@
           "health": "Active",
           "addedAt": "2026-03-20T13:51:31.594Z",
           "_lastChecked": "2026-03-20T13:51:45.688Z"
-        },
-        {
-          "name": "khoj",
-          "url": "https://github.com/khoj-ai/khoj",
-          "description": "开源的AI第二大脑，支持自托管，可连接多种LLM（GPT、Claude、Llama等）。支持文档问答、自定义智能体、自动化调度、语义搜索，集成Obsidian和Emacs。",
-          "tags": [
-            "AI助手",
-            "自托管",
-            "RAG",
-            "多模型支持"
-          ],
-          "stars": 33518,
-          "lastUpdated": "2026-03-19T19:28:44Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T13:54:06.689Z",
-          "_lastChecked": "2026-03-20T13:54:19.635Z"
         },
         {
           "name": "agenticSeek",
@@ -1128,37 +1503,6 @@
           "_lastChecked": "2026-03-20T14:03:41.533Z"
         },
         {
-          "name": "jarvis",
-          "url": "https://github.com/danilofalcao/jarvis",
-          "description": "J.A.R.V.I.S. 是一款智能编程助手，集成多个先进大语言模型，支持代码生成、修改和技术讨论。",
-          "tags": [
-            "AI助手",
-            "代码生成",
-            "LLM"
-          ],
-          "stars": 617,
-          "lastUpdated": "2025-01-26T22:44:26Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T14:03:43.536Z",
-          "_lastChecked": "2026-03-20T14:03:58.798Z"
-        },
-        {
-          "name": "bailing",
-          "url": "https://github.com/wwbin2017/bailing",
-          "description": "类似GPT-4o的语音对话机器人，集成DeepSeek R1等大模型，时延低至800ms，支持打断，低配置设备也可流畅运行。",
-          "tags": [
-            "语音助手",
-            "ASR",
-            "TTS",
-            "DeepSeek"
-          ],
-          "stars": 1632,
-          "lastUpdated": "2025-07-31T14:30:14Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T14:11:20.126Z",
-          "_lastChecked": "2026-03-20T14:11:38.501Z"
-        },
-        {
           "name": "pyspur",
           "url": "https://github.com/PySpur-Dev/pyspur",
           "description": "一个可视化AI智能体工作流开发平台，支持快速迭代和调试Agent，提供图形化界面让开发者高效构建复杂的智能体应用。",
@@ -1173,37 +1517,6 @@
           "health": "Active",
           "addedAt": "2026-03-20T14:11:40.503Z",
           "_lastChecked": "2026-03-20T14:11:50.820Z"
-        },
-        {
-          "name": "kirara-ai",
-          "url": "https://github.com/lss233/kirara-ai",
-          "description": "可 DIY 的多模态 AI 聊天机器人框架，支持微信、QQ、Telegram 等多平台接入，集成 DeepSeek、Claude、OpenAI 等多种大模型，具备工作流系统、AI 画图、语音对话等功能。",
-          "tags": [
-            "聊天机器人",
-            "多平台接入",
-            "多模态"
-          ],
-          "stars": 18592,
-          "lastUpdated": "2025-06-28T19:24:48Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T14:12:33.612Z",
-          "_lastChecked": "2026-03-20T14:12:57.680Z"
-        },
-        {
-          "name": "XYBotV2",
-          "url": "https://github.com/HenryXiaoYang/XYBotV2",
-          "description": "功能丰富的微信机器人框架，支持AI对话、Dify对接、积分系统等功能。采用非Hook非Web实现，跨平台支持Windows/Linux/MacOS。",
-          "tags": [
-            "WeChat",
-            "Bot",
-            "AI",
-            "Dify"
-          ],
-          "stars": 799,
-          "lastUpdated": "2025-05-23T12:22:45Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T14:13:54.152Z",
-          "_lastChecked": "2026-03-20T14:14:15.725Z"
         },
         {
           "name": "autoMate",
@@ -1406,21 +1719,6 @@
           "_lastChecked": "2026-03-20T14:28:19.521Z"
         },
         {
-          "name": "MiniSearch",
-          "url": "https://github.com/felladrin/MiniSearch",
-          "description": "一个极简的AI搜索引擎，完全在浏览器本地运行，结合WebLLM和SearXNG实现智能问答与网络搜索。",
-          "tags": [
-            "AI搜索",
-            "RAG",
-            "WebLLM"
-          ],
-          "stars": 550,
-          "lastUpdated": "2026-03-19T17:38:30Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T14:32:12.657Z",
-          "_lastChecked": "2026-03-20T14:32:36.476Z"
-        },
-        {
           "name": "everything-claude-code",
           "url": "https://github.com/affaan-m/everything-claude-code",
           "description": "一个全面的AI编程代理性能优化系统，涵盖技能、记忆、安全和研究优先开发模式，支持Claude Code、Codex、Cursor等多种AI编程工具。",
@@ -1515,21 +1813,6 @@
           "_lastChecked": "2026-03-20T14:36:59.791Z"
         },
         {
-          "name": "awesome-agent-skills",
-          "url": "https://github.com/VoltAgent/awesome-agent-skills",
-          "description": "收录500+个AI智能体技能，来自官方开发团队和社区贡献，兼容Claude Code、Codex、Gemini CLI、Cursor等多种AI工具。",
-          "tags": [
-            "AI Agents",
-            "Claude Code",
-            "Skills"
-          ],
-          "stars": 12077,
-          "lastUpdated": "2026-03-19T08:07:09Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T14:37:01.791Z",
-          "_lastChecked": "2026-03-20T14:37:17.823Z"
-        },
-        {
           "name": "edict",
           "url": "https://github.com/cft0808/edict",
           "description": "三省六部制风格的多智能体编排系统，配备9个专业AI代理、实时仪表盘、模型配置和完整审计追踪功能。",
@@ -1591,72 +1874,484 @@
           "_lastChecked": "2026-03-20T14:38:50.017Z"
         },
         {
-          "name": "carla",
-          "url": "https://github.com/carla-simulator/carla",
-          "description": "开源自动驾驶研究模拟器，基于虚幻引擎4开发。提供丰富的传感器套件和灵活API，支持深度学习、强化学习等自动驾驶算法的训练与测试。",
+          "name": "LAMBDA",
+          "url": "https://github.com/AMA-CMFAI/LAMBDA",
+          "description": "LAMBDA是一个基于大模型的数据智能体，来自香港理工大学的学术论文官方实现。专注于利用大语言模型进行数据处理和分析任务。",
           "tags": [
-            "autonomous-driving",
-            "simulator",
-            "deep-learning",
-            "reinforcement-learning"
+            "agents",
+            "large-language-models",
+            "generative-ai"
           ],
-          "stars": 13706,
-          "lastUpdated": "2026-03-20T04:53:22Z",
+          "stars": 555,
+          "lastUpdated": "2026-01-12T16:39:30Z",
           "health": "Active",
-          "addedAt": "2026-03-20T14:41:36.127Z",
-          "_lastChecked": "2026-03-20T14:41:54.011Z"
+          "addedAt": "2026-03-20T15:01:52.409Z",
+          "_lastChecked": "2026-03-20T15:02:22.119Z"
+        },
+        {
+          "name": "AWorld",
+          "url": "https://github.com/inclusionAI/AWorld",
+          "description": "一个用于构建、评估和训练通用多智能体助手的框架，支持强化学习训练和世界模型，让智能体开发更简单高效。",
+          "tags": [
+            "agent-framework",
+            "multi-agent",
+            "rl-training",
+            "world-model"
+          ],
+          "stars": 1148,
+          "lastUpdated": "2026-03-20T03:32:13Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T15:03:42.494Z",
+          "_lastChecked": "2026-03-20T15:03:56.834Z"
+        },
+        {
+          "name": "cui",
+          "url": "https://github.com/wbopan/cui",
+          "description": "一个为 Claude 代码智能体打造的 Web 界面，支持 MCP 协议，让开发者可以更直观地管理和交互 AI 编程助手。",
+          "tags": [
+            "Claude",
+            "Agent",
+            "Web UI",
+            "MCP"
+          ],
+          "stars": 1152,
+          "lastUpdated": "2026-03-20T03:27:01Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T15:03:58.835Z",
+          "_lastChecked": "2026-03-20T15:04:22.204Z"
+        },
+        {
+          "name": "mcp-use",
+          "url": "https://github.com/mcp-use/mcp-use",
+          "description": "全栈MCP框架，用于开发ChatGPT/Claude的MCP应用和AI Agent的MCP服务器。支持MCP客户端、网关、工具和UI等完整开发链路。",
+          "tags": [
+            "MCP",
+            "AI Agents",
+            "Claude",
+            "ChatGPT"
+          ],
+          "stars": 9465,
+          "lastUpdated": "2026-03-20T03:00:27Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T15:04:30.368Z",
+          "_lastChecked": "2026-03-20T15:04:46.139Z"
+        },
+        {
+          "name": "ruoyi-ai",
+          "url": "https://github.com/ageerle/ruoyi-ai",
+          "description": "企业级一站式AI应用开发框架，支持多厂商大模型统一接入、可视化流程编排与多智能体协同调度。内置安全可控的知识库与高精度RAG检索能力，帮助企业零门槛构建可落地的AI智能体解决方案。",
+          "tags": [
+            "Agent",
+            "RAG",
+            "知识库",
+            "MCP"
+          ],
+          "stars": 4963,
+          "lastUpdated": "2026-03-20T02:39:06Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T15:04:48.142Z",
+          "_lastChecked": "2026-03-20T15:05:04.584Z"
+        },
+        {
+          "name": "voltagent",
+          "url": "https://github.com/VoltAgent/voltagent",
+          "description": "基于 TypeScript 的开源 AI 智能体工程平台，提供完整的智能体开发框架。支持 MCP、RAG、多智能体协作和 LLM 可观测性等核心功能。",
+          "tags": [
+            "TypeScript",
+            "AI Agents",
+            "Framework",
+            "MCP"
+          ],
+          "stars": 6857,
+          "lastUpdated": "2026-03-20T02:18:29Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T15:05:06.585Z",
+          "_lastChecked": "2026-03-20T15:05:26.645Z"
+        },
+        {
+          "name": "heurist-agent-framework",
+          "url": "https://github.com/heurist-network/heurist-agent-framework",
+          "description": "一个灵活的多接口AI智能体框架，支持推理、工具调用、记忆管理、深度研究、区块链交互和MCP协议，可快速构建生产级智能体应用。",
+          "tags": [
+            "AI Agent",
+            "MCP",
+            "区块链",
+            "多模态"
+          ],
+          "stars": 788,
+          "lastUpdated": "2026-03-20T01:56:14Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T15:05:28.647Z",
+          "_lastChecked": "2026-03-20T15:05:45.855Z"
+        },
+        {
+          "name": "claude-scholar",
+          "url": "https://github.com/Galaxy-Dawn/claude-scholar",
+          "description": "一款半自动化研究助手，支持Claude Code、OpenCode和Codex CLI，覆盖学术研究和软件开发的完整流程。从构思、编码、实验到写作和发表，全方位提升研究效率。",
+          "tags": [
+            "AI Agents",
+            "Research Tools",
+            "Claude Code",
+            "Academic"
+          ],
+          "stars": 1773,
+          "lastUpdated": "2026-03-20T12:32:08Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T15:06:57.813Z",
+          "_lastChecked": "2026-03-20T15:07:18.094Z"
+        },
+        {
+          "name": "openui",
+          "url": "https://github.com/thesysdev/openui",
+          "description": "生成式UI的开放标准，让AI能够创建和渲染用户界面组件。支持通过自然语言描述快速生成前端界面，加速开发流程。",
+          "tags": [
+            "Generative UI",
+            "AI Agent",
+            "LLM"
+          ],
+          "stars": 2116,
+          "lastUpdated": "2026-03-20T12:11:16Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T12:17:17.009Z",
+          "_lastChecked": "2026-03-20T12:17:41.660Z"
+        },
+        {
+          "name": "openskills",
+          "url": "https://github.com/numman-ali/openskills",
+          "description": "AI编程代理的通用技能加载器，支持通过npm全局安装，为AI编码助手提供可扩展的技能模块系统。",
+          "tags": [
+            "AI Agent",
+            "npm",
+            "技能加载器"
+          ],
+          "stars": 9130,
+          "lastUpdated": "2026-01-18T13:09:50Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T13:36:49.565Z",
+          "_lastChecked": "2026-03-20T13:37:09.234Z"
+        },
+        {
+          "name": "self-hosted-ai-starter-kit",
+          "url": "https://github.com/n8n-io/self-hosted-ai-starter-kit",
+          "description": "由 n8n 精心打造的开源自托管 AI 入门套件，帮助开发者快速搭建本地 AI 环境。提供完整工具链，支持创建安全、自主可控的 AI 工作流。",
+          "tags": [
+            "AI",
+            "Self-hosted",
+            "AI Agents",
+            "Low-code"
+          ],
+          "stars": 14417,
+          "lastUpdated": "2026-01-06T14:08:21Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T13:55:10.064Z",
+          "_lastChecked": "2026-03-20T13:55:21.098Z"
+        },
+        {
+          "name": "claude-codex-settings",
+          "url": "https://github.com/fcakyon/claude-codex-settings",
+          "description": "一套经过实战检验的 Claude Code 和 OpenAI Codex 配置方案，包含技能、命令、钩子、智能体和 MCP 服务器等实用组件。",
+          "tags": [
+            "Claude Code",
+            "MCP",
+            "AI Agents",
+            "DevTools"
+          ],
+          "stars": 515,
+          "lastUpdated": "2026-03-18T00:40:27Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:15:03.835Z",
+          "_lastChecked": "2026-03-20T14:15:20.400Z"
+        },
+        {
+          "name": "agentic-radar",
+          "url": "https://github.com/splx-ai/agentic-radar",
+          "description": "一款专为LLM智能体工作流设计的安全扫描工具，帮助开发者识别和修复AI系统中的安全漏洞。",
+          "tags": [
+            "AI Security",
+            "LLM",
+            "Agentic",
+            "CLI"
+          ],
+          "stars": 929,
+          "lastUpdated": "2025-11-27T15:28:44Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:49:17.854Z",
+          "_lastChecked": "2026-03-20T14:49:35.017Z"
+        },
+        {
+          "name": "Prompt-Engineering-Guide",
+          "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+          "description": "全面的提示工程学习指南，涵盖论文、教程、笔记本和实践资源。包含 RAG 和 AI Agents 等前沿主题，是掌握大语言模型应用的必备资料。",
+          "tags": [
+            "prompt-engineering",
+            "llms",
+            "rag",
+            "agents"
+          ],
+          "stars": 71997,
+          "lastUpdated": "2026-03-11T20:09:13Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T13:49:01.950Z",
+          "_lastChecked": "2026-03-20T13:49:24.564Z"
+        },
+        {
+          "name": "agency-agents-zh",
+          "url": "https://github.com/jnMetaCode/agency-agents-zh",
+          "description": "180个即插即用的AI专家人设模板，覆盖17个部门，支持Claude Code、Cursor等11种开发工具。为中文AI智能体开发提供丰富的预设角色配置。",
+          "tags": [
+            "AI智能体",
+            "提示工程",
+            "中文资源"
+          ],
+          "stars": 1660,
+          "lastUpdated": "2026-03-20T14:40:16Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T15:14:45.989Z",
+          "_lastChecked": "2026-03-20T15:15:08.473Z"
+        },
+        {
+          "name": "Flowise",
+          "url": "https://github.com/FlowiseAI/Flowise",
+          "description": "可视化AI智能体构建平台，支持拖拽式创建LangChain工作流和多智能体系统。无需编码即可快速构建聊天机器人、RAG应用和自动化工作流。",
+          "tags": [
+            "low-code",
+            "AI Agents",
+            "LangChain",
+            "Visual Builder"
+          ],
+          "stars": 50932,
+          "lastUpdated": "2026-03-20T10:51:41Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T15:15:47.835Z",
+          "_lastChecked": "2026-03-20T15:16:07.096Z"
+        },
+        {
+          "name": "awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "精选LLM应用集合，涵盖AI智能体和RAG技术，支持OpenAI、Anthropic、Gemini及开源模型。提供丰富的实战示例，适合开发者学习和大模型应用开发参考。",
+          "tags": [
+            "agents",
+            "llms",
+            "rag",
+            "python"
+          ],
+          "stars": 102955,
+          "lastUpdated": "2026-03-17T00:09:29Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T15:16:31.699Z",
+          "_lastChecked": "2026-03-20T15:16:50.776Z"
+        },
+        {
+          "name": "stagehand",
+          "url": "https://github.com/browserbase/stagehand",
+          "description": "Stagehand 是一个 AI 驱动的浏览器自动化框架，让开发者能够使用自然语言控制浏览器操作。结合 LLM 与 Playwright，简化了网页自动化和智能体开发流程。",
+          "tags": [
+            "浏览器自动化",
+            "AI Agent",
+            "Playwright",
+            "LLM"
+          ],
+          "stars": 21626,
+          "lastUpdated": "2026-03-20T14:06:32Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T15:17:16.347Z",
+          "_lastChecked": "2026-03-20T15:17:36.195Z"
+        },
+        {
+          "name": "self-operating-computer",
+          "url": "https://github.com/OthersideAI/self-operating-computer",
+          "description": "一个让多模态AI模型能够自主操作电脑的框架，通过模拟鼠标键盘操作实现自动化任务执行。",
+          "tags": [
+            "automation",
+            "multimodal",
+            "computer-control"
+          ],
+          "stars": 10202,
+          "lastUpdated": "2025-09-19T19:31:39Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T15:17:38.196Z",
+          "_lastChecked": "2026-03-20T15:17:52.289Z"
+        },
+        {
+          "name": "agent-browser",
+          "url": "https://github.com/vercel-labs/agent-browser",
+          "description": "专为AI智能体设计的浏览器自动化CLI工具，让AI代理能够自主操控网页浏览器执行复杂任务。",
+          "tags": [
+            "browser-automation",
+            "ai-agents",
+            "cli",
+            "web-scraping"
+          ],
+          "stars": 23792,
+          "lastUpdated": "2026-03-20T14:18:41Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T15:18:19.732Z",
+          "_lastChecked": "2026-03-20T15:18:44.158Z"
+        },
+        {
+          "name": "RD-Agent",
+          "url": "https://github.com/microsoft/RD-Agent",
+          "description": "微软开源的AI驱动研发自动化工具，专注于数据和模型的高价值R&D流程自动化，让AI自主完成数据科学研发工作。",
+          "tags": [
+            "agent",
+            "automation",
+            "llm",
+            "data-science"
+          ],
+          "stars": 11942,
+          "lastUpdated": "2026-03-19T12:44:46Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T15:19:00.533Z",
+          "_lastChecked": "2026-03-20T15:19:18.011Z"
+        },
+        {
+          "name": "bytebot",
+          "url": "https://github.com/bytebot-ai/bytebot",
+          "description": "Bytebot是一个自托管的AI桌面代理，通过自然语言命令自动化计算机任务。它在容器化的Linux桌面环境中运行，支持Anthropic、OpenAI和Gemini等多种LLM提供商。",
+          "tags": [
+            "AI Agent",
+            "Desktop Automation",
+            "Computer Use",
+            "Self-hosted"
+          ],
+          "stars": 10561,
+          "lastUpdated": "2025-09-12T19:35:46Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T15:19:51.790Z",
+          "_lastChecked": "2026-03-20T15:20:14.503Z"
+        },
+        {
+          "name": "ml-agents",
+          "url": "https://github.com/Unity-Technologies/ml-agents",
+          "description": "Unity官方机器学习智能体工具包，支持在游戏和仿真环境中训练智能代理。提供深度强化学习和模仿学习框架，广泛应用于游戏AI和科研领域。",
+          "tags": [
+            "reinforcement-learning",
+            "deep-learning",
+            "unity",
+            "game-ai",
+            "agents"
+          ],
+          "stars": 19237,
+          "lastUpdated": "2026-02-25T19:44:46Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T15:20:50.580Z",
+          "_lastChecked": "2026-03-20T15:21:09.653Z"
         }
       ]
     },
     {
-      "id": "devtools",
-      "name": "🛠️ 开发者工具",
-      "description": "帮助开发者构建 AI 应用的库、SDK 和开发框架。",
+      "id": "rag_data",
+      "name": "🔍 RAG与检索 (RAG & Retrieval)",
+      "description": "检索增强生成框架、向量数据库、数据解析及知识库构建工具。",
       "projects": [
         {
-          "name": "LangChain",
-          "url": "https://github.com/langchain-ai/langchain",
-          "description": "用于构建上下文感知推理应用程序的流行框架。",
+          "name": "ragas",
+          "url": "https://github.com/vibrantlabsai/ragas",
+          "description": "Ragas 是一个强大的 LLM 应用评估框架，帮助开发者快速测试和优化大语言模型应用性能。支持多种评估指标和自动化测试流程，让 AI 应用质量更有保障。",
           "tags": [
-            "Framework",
+            "evaluation",
+            "llm",
+            "llmops"
+          ],
+          "stars": 13027,
+          "lastUpdated": "2026-02-24T07:47:19Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T13:43:29.367Z",
+          "_lastChecked": "2026-03-20T13:43:47.501Z"
+        },
+        {
+          "name": "GenAIExamples",
+          "url": "https://github.com/opea-project/GenAIExamples",
+          "description": "企业级生成式AI示例集合，包含ChatQnA、Copilot等实用案例，展示OPEA平台的Pipeline能力。",
+          "tags": [
+            "GenAI",
+            "RAG",
             "LLM",
-            "Python"
+            "Copilot"
           ],
-          "stars": 80000,
-          "lastUpdated": "2024-03-15T00:00:00Z",
+          "stars": 727,
+          "lastUpdated": "2026-03-12T20:20:54Z",
           "health": "Active",
-          "addedAt": "2024-03-20T00:00:00Z"
+          "addedAt": "2026-03-20T13:47:15.440Z",
+          "_lastChecked": "2026-03-20T13:47:28.365Z"
         },
         {
-          "name": "netdata",
-          "url": "https://github.com/netdata/netdata",
-          "description": "开源的实时监控与可观测性平台，集成AI驱动的异常检测和智能告警功能。支持容器、Kubernetes和各类数据库的一键部署监控。",
+          "name": "amazon-bedrock-samples",
+          "url": "https://github.com/aws-samples/amazon-bedrock-samples",
+          "description": "Amazon Bedrock 官方示例代码库，涵盖所有可用基础模型的使用示例。包含嵌入、RAG、LangChain 集成等实用教程，帮助开发者快速上手 Bedrock 服务。",
           "tags": [
-            "监控",
-            "可观测性",
-            "DevOps"
+            "Amazon Bedrock",
+            "LLM",
+            "RAG",
+            "Generative AI"
           ],
-          "stars": 78153,
-          "lastUpdated": "2026-03-20T12:05:14Z",
+          "stars": 1391,
+          "lastUpdated": "2026-03-11T17:51:01Z",
           "health": "Active",
-          "addedAt": "2026-03-20T12:05:23.381Z",
-          "_lastChecked": "2026-03-20T12:05:50.756Z"
+          "addedAt": "2026-03-20T13:49:26.567Z",
+          "_lastChecked": "2026-03-20T13:49:48.140Z"
         },
         {
-          "name": "n8n",
-          "url": "https://github.com/n8n-io/n8n",
-          "description": "开源工作流自动化平台，原生支持AI能力和MCP协议。可视化构建结合自定义代码，支持400+集成，可自托管或云端部署。",
+          "name": "easy-dataset",
+          "url": "https://github.com/ConardLi/easy-dataset",
+          "description": "一款强大的数据集创建工具，专为LLM微调、RAG和评估场景设计，帮助开发者高效构建高质量训练数据。",
           "tags": [
-            "工作流自动化",
-            "低代码",
-            "AI集成",
-            "MCP"
+            "LLM",
+            "数据集",
+            "微调",
+            "RAG"
           ],
-          "stars": 180156,
-          "lastUpdated": "2026-03-20T12:02:56Z",
+          "stars": 13685,
+          "lastUpdated": "2026-03-11T12:59:11Z",
           "health": "Active",
-          "addedAt": "2026-03-20T12:13:38.926Z",
-          "_lastChecked": "2026-03-20T12:14:06.614Z"
+          "addedAt": "2026-03-20T13:49:50.142Z",
+          "_lastChecked": "2026-03-20T13:50:03.065Z"
+        },
+        {
+          "name": "fastRAG",
+          "url": "https://github.com/IntelLabs/fastRAG",
+          "description": "Intel Labs 开源的高效检索增强生成框架，支持 ColBERT、知识图谱、多模态等多种检索方式。为 LLM 应用提供优化的 RAG 解决方案，显著提升问答和搜索性能。",
+          "tags": [
+            "RAG",
+            "LLM",
+            "信息检索"
+          ],
+          "stars": 1771,
+          "lastUpdated": "2026-01-12T19:58:22Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T15:01:28.729Z",
+          "_lastChecked": "2026-03-20T15:01:50.409Z"
+        },
+        {
+          "name": "khoj",
+          "url": "https://github.com/khoj-ai/khoj",
+          "description": "开源的AI第二大脑，支持自托管，可连接多种LLM（GPT、Claude、Llama等）。支持文档问答、自定义智能体、自动化调度、语义搜索，集成Obsidian和Emacs。",
+          "tags": [
+            "AI助手",
+            "自托管",
+            "RAG",
+            "多模型支持"
+          ],
+          "stars": 33518,
+          "lastUpdated": "2026-03-19T19:28:44Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T13:54:06.689Z",
+          "_lastChecked": "2026-03-20T13:54:19.635Z"
+        },
+        {
+          "name": "MiniSearch",
+          "url": "https://github.com/felladrin/MiniSearch",
+          "description": "一个极简的AI搜索引擎，完全在浏览器本地运行，结合WebLLM和SearXNG实现智能问答与网络搜索。",
+          "tags": [
+            "AI搜索",
+            "RAG",
+            "WebLLM"
+          ],
+          "stars": 550,
+          "lastUpdated": "2026-03-19T17:38:30Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:32:12.657Z",
+          "_lastChecked": "2026-03-20T14:32:36.476Z"
         },
         {
           "name": "cloudberry",
@@ -1675,37 +2370,6 @@
           "_lastChecked": "2026-03-20T12:15:09.423Z"
         },
         {
-          "name": "daytona",
-          "url": "https://github.com/daytonaio/daytona",
-          "description": "Daytona 是一个安全弹性的基础设施，专为运行 AI 生成的代码而设计。为 AI 智能体提供安全的沙箱环境和代码执行能力。",
-          "tags": [
-            "AI",
-            "代码执行",
-            "沙箱",
-            "开发者工具"
-          ],
-          "stars": 15000,
-          "lastUpdated": "2025-01-15T10:30:00Z",
-          "health": "Active",
-          "addedAt": "2025-01-20T12:00:00.000Z",
-          "_lastChecked": "2026-03-20T12:16:19.888Z"
-        },
-        {
-          "name": "openui",
-          "url": "https://github.com/thesysdev/openui",
-          "description": "生成式UI的开放标准，让AI能够创建和渲染用户界面组件。支持通过自然语言描述快速生成前端界面，加速开发流程。",
-          "tags": [
-            "Generative UI",
-            "AI Agent",
-            "LLM"
-          ],
-          "stars": 2116,
-          "lastUpdated": "2026-03-20T12:11:16Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T12:17:17.009Z",
-          "_lastChecked": "2026-03-20T12:17:41.660Z"
-        },
-        {
           "name": "vespa",
           "url": "https://github.com/vespa-engine/vespa",
           "description": "Vespa 是一个高性能的向量数据库和搜索引擎平台，支持大规模 AI 推理、RAG 应用和实时推荐系统。适用于构建生产级的智能搜索和推荐应用。",
@@ -1722,35 +2386,654 @@
           "_lastChecked": "2026-03-20T12:18:06.580Z"
         },
         {
-          "name": "mlflow",
-          "url": "https://github.com/mlflow/mlflow",
-          "description": "MLflow是一个开源AI工程平台，支持团队调试、评估、监控和优化生产级AI应用。提供完整的机器学习生命周期管理，涵盖模型管理、实验追踪和部署等功能。",
+          "name": "fastembed",
+          "url": "https://github.com/qdrant/fastembed",
+          "description": "快速、精准、轻量级的Python嵌入库，提供最先进的嵌入技术。专为RAG和向量搜索优化，助力开发者高效构建AI应用。",
           "tags": [
-            "MLOps",
-            "LLMOps",
-            "模型管理",
-            "机器学习"
+            "Embeddings",
+            "RAG",
+            "向量搜索"
           ],
-          "stars": 24862,
-          "lastUpdated": "2026-03-20T12:18:47Z",
+          "stars": 2788,
+          "lastUpdated": "2026-03-12T17:50:46Z",
           "health": "Active",
-          "addedAt": "2026-03-20T12:22:14.334Z",
-          "_lastChecked": "2026-03-20T12:22:40.158Z"
+          "addedAt": "2026-03-20T13:47:30.367Z",
+          "_lastChecked": "2026-03-20T13:47:54.333Z"
         },
         {
-          "name": "langwatch",
-          "url": "https://github.com/langwatch/langwatch",
-          "description": "一个专注于LLM评估和AI智能体测试的平台，提供可观测性和低代码功能，帮助开发者优化和监控大语言模型应用。",
+          "name": "generative-ai-use-cases",
+          "url": "https://github.com/aws-samples/generative-ai-use-cases",
+          "description": "AWS官方生成式AI业务用例实现方案，涵盖Claude、Llama等多种LLM模型和RAG技术，帮助企业安全部署AI应用。",
           "tags": [
-            "LLM评估",
-            "智能体测试",
-            "可观测性"
+            "AWS",
+            "Generative AI",
+            "LLM",
+            "RAG"
           ],
-          "stars": 3141,
-          "lastUpdated": "2026-03-20T12:22:05Z",
+          "stars": 1301,
+          "lastUpdated": "2026-03-20T06:48:41Z",
           "health": "Active",
-          "addedAt": "2026-03-20T12:28:41.618Z",
-          "_lastChecked": "2026-03-20T12:28:55.714Z"
+          "addedAt": "2026-03-20T14:21:22.098Z",
+          "_lastChecked": "2026-03-20T14:21:42.626Z"
+        },
+        {
+          "name": "txtai",
+          "url": "https://github.com/neuml/txtai",
+          "description": "一体化AI框架，支持语义搜索、LLM编排和语言模型工作流。集成了向量数据库、RAG和AI代理功能，适合构建智能搜索和知识管理应用。",
+          "tags": [
+            "RAG",
+            "语义搜索",
+            "LLM",
+            "向量数据库"
+          ],
+          "stars": 9500,
+          "lastUpdated": "2025-01-15T10:30:00Z",
+          "health": "Active",
+          "addedAt": "2025-01-20T12:00:00.000Z",
+          "_lastChecked": "2026-03-20T14:36:46.214Z"
+        },
+        {
+          "name": "spacy-layout",
+          "url": "https://github.com/explosion/spacy-layout",
+          "description": "spaCy官方推出的文档处理扩展，支持PDF、Word等多种格式的智能解析与布局分析，为RAG和NLP应用提供高质量文档预处理能力。",
+          "tags": [
+            "NLP",
+            "PDF处理",
+            "RAG",
+            "文档解析"
+          ],
+          "stars": 871,
+          "lastUpdated": "2025-03-08T06:51:45Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:52:30.577Z",
+          "_lastChecked": "2026-03-20T14:52:52.211Z"
+        },
+        {
+          "name": "reor",
+          "url": "https://github.com/reorproject/reor",
+          "description": "一款注重隐私的本地AI个人知识管理应用，专为高熵人群设计。集成RAG技术和本地大语言模型，让笔记管理更智能高效。",
+          "tags": [
+            "AI",
+            "RAG",
+            "笔记管理",
+            "本地优先",
+            "知识管理"
+          ],
+          "stars": 8543,
+          "lastUpdated": "2025-05-13T21:28:59Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T13:56:13.045Z",
+          "_lastChecked": "2026-03-20T13:56:36.685Z"
+        },
+        {
+          "name": "anything-llm",
+          "url": "https://github.com/Mintplex-Labs/anything-llm",
+          "description": "一款全能的AI生产力加速器，支持本地部署和隐私优先，无需复杂配置。集成多种LLM模型、RAG检索增强生成和向量数据库功能。",
+          "tags": [
+            "LLM",
+            "RAG",
+            "本地部署"
+          ],
+          "stars": 56505,
+          "lastUpdated": "2026-03-20T04:10:41Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:34:40.149Z",
+          "_lastChecked": "2026-03-20T14:34:58.412Z"
+        },
+        {
+          "name": "py-gpt",
+          "url": "https://github.com/szczyglis-dev/py-gpt",
+          "description": "功能强大的跨平台桌面AI助手，支持GPT-5、Gemini、Claude、Ollama等主流大模型，集成聊天、视觉、语音、RAG、智能体、图像视频生成等丰富功能。",
+          "tags": [
+            "AI助手",
+            "多模型支持",
+            "RAG",
+            "智能体"
+          ],
+          "stars": 1691,
+          "lastUpdated": "2026-02-06T03:08:43Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:56:29.425Z",
+          "_lastChecked": "2026-03-20T14:56:58.734Z"
+        }
+      ]
+    },
+    {
+      "id": "infrastructure",
+      "name": "☁️ 基础设施与部署 (Infrastructure & Deployment)",
+      "description": "模型推理引擎（如vLLM, Ollama）、MLOps工具、GPU调度系统与高性能内核。",
+      "projects": [
+        {
+          "name": "nano-vllm",
+          "url": "https://github.com/GeeeekExplorer/nano-vllm",
+          "description": "轻量级 vLLM 实现，专注于大语言模型的高效推理。适合学习 vLLM 架构和轻量级部署场景。",
+          "tags": [
+            "LLM",
+            "推理引擎",
+            "PyTorch"
+          ],
+          "stars": 12337,
+          "lastUpdated": "2025-11-03T17:44:48Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T13:46:14.251Z",
+          "_lastChecked": "2026-03-20T13:46:33.262Z"
+        },
+        {
+          "name": "LocalAI",
+          "url": "https://github.com/mudler/LocalAI",
+          "description": "免费开源的 OpenAI API 替代方案，支持本地部署、无需 GPU，可在消费级硬件上运行。兼容 OpenAI API，支持文本生成、图像生成、语音克隆等多种 AI 功能。",
+          "tags": [
+            "LLM",
+            "Self-hosted",
+            "OpenAI API",
+            "Local Inference"
+          ],
+          "stars": 44091,
+          "lastUpdated": "2026-03-20T07:37:45Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T13:53:44.370Z",
+          "_lastChecked": "2026-03-20T13:54:04.687Z"
+        },
+        {
+          "name": "h2ogpt",
+          "url": "https://github.com/h2oai/h2ogpt",
+          "description": "开源的私有化GPT聊天工具，支持本地部署和多种文档格式处理。100%隐私保护，支持oLLaMa、Mixtral等多种LLM后端。",
+          "tags": [
+            "私有化部署",
+            "文档问答",
+            "多模态"
+          ],
+          "stars": 12003,
+          "lastUpdated": "2025-10-09T23:30:01Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T13:55:35.152Z",
+          "_lastChecked": "2026-03-20T13:55:50.076Z"
+        },
+        {
+          "name": "Liger-Kernel",
+          "url": "https://github.com/linkedin/Liger-Kernel",
+          "description": "由LinkedIn开源的高效Triton内核库，专为LLM训练优化设计。支持Llama、Mistral、Gemma等主流大模型，显著提升训练效率。",
+          "tags": [
+            "triton",
+            "llm-training",
+            "kernels",
+            "optimization"
+          ],
+          "stars": 6220,
+          "lastUpdated": "2026-03-20T03:03:11Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:20:28.201Z",
+          "_lastChecked": "2026-03-20T14:20:43.500Z"
+        },
+        {
+          "name": "netdata",
+          "url": "https://github.com/netdata/netdata",
+          "description": "开源的实时监控与可观测性平台，集成AI驱动的异常检测和智能告警功能。支持容器、Kubernetes和各类数据库的一键部署监控。",
+          "tags": [
+            "监控",
+            "可观测性",
+            "DevOps"
+          ],
+          "stars": 78153,
+          "lastUpdated": "2026-03-20T12:05:14Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T12:05:23.381Z",
+          "_lastChecked": "2026-03-20T12:05:50.756Z"
+        },
+        {
+          "name": "qsv",
+          "url": "https://github.com/dathere/qsv",
+          "description": "一款超快的数据处理工具包，支持CSV、Excel、Parquet等多种格式的数据清洗与转换。专为数据工程师设计，大幅提升数据预处理效率。",
+          "tags": [
+            "data-wrangling",
+            "csv",
+            "data-engineering"
+          ],
+          "stars": 3547,
+          "lastUpdated": "2026-03-20T13:09:36Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T13:13:01.227Z",
+          "_lastChecked": "2026-03-20T13:13:29.057Z"
+        },
+        {
+          "name": "reverse-engineering-assistant",
+          "url": "https://github.com/cyberkaida/reverse-engineering-assistant",
+          "description": "基于MCP协议的逆向工程助手，支持Ghidra和Binary Ninja等工具。让LLM辅助分析二进制文件，提升安全研究效率。",
+          "tags": [
+            "MCP",
+            "Ghidra",
+            "逆向工程",
+            "LLM"
+          ],
+          "stars": 647,
+          "lastUpdated": "2026-03-16T09:13:38Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:02:48.798Z",
+          "_lastChecked": "2026-03-20T14:03:06.467Z"
+        },
+        {
+          "name": "optimum",
+          "url": "https://github.com/huggingface/optimum",
+          "description": "Hugging Face 官方推出的硬件优化工具包，可加速 Transformers、Diffusers 等模型的推理与训练。支持 ONNX、量化及多种硬件后端优化。",
+          "tags": [
+            "optimization",
+            "inference",
+            "transformers",
+            "quantization"
+          ],
+          "stars": 3333,
+          "lastUpdated": "2026-03-13T15:41:23Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:31:18.911Z",
+          "_lastChecked": "2026-03-20T14:31:34.125Z"
+        },
+        {
+          "name": "deep-eye",
+          "url": "https://github.com/zakirkun/deep-eye",
+          "description": "一款AI驱动的漏洞扫描与渗透测试工具，集成OpenAI、Grok、OLLAMA、Claude等多种AI模型，支持自动化漏洞挖掘、智能载荷生成和专业报告输出。",
+          "tags": [
+            "安全测试",
+            "渗透测试",
+            "AI驱动"
+          ],
+          "stars": 664,
+          "lastUpdated": "2026-02-03T16:50:33Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:58:05.670Z",
+          "_lastChecked": "2026-03-20T14:58:21.271Z"
+        },
+        {
+          "name": "meetily",
+          "url": "https://github.com/Zackriya-Solutions/meetily",
+          "description": "隐私优先的AI会议助手，支持Parakeet/Whisper实时转录和Ollama本地总结，100%本地处理无需云端。",
+          "tags": [
+            "AI会议助手",
+            "语音转文字",
+            "本地AI",
+            "隐私保护"
+          ],
+          "stars": 10486,
+          "lastUpdated": "2026-03-16T06:52:04Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T13:55:52.078Z",
+          "_lastChecked": "2026-03-20T13:56:11.044Z"
+        },
+        {
+          "name": "vllm",
+          "url": "https://github.com/vllm-project/vllm",
+          "description": "vLLM是一个高吞吐量且内存高效的LLM推理和服务引擎，采用PagedAttention技术显著优化显存利用率。广泛应用于生产环境的大模型部署，支持多种主流模型架构和硬件平台。",
+          "tags": [
+            "LLM",
+            "Inference",
+            "Serving",
+            "CUDA",
+            "PyTorch"
+          ],
+          "stars": 73786,
+          "lastUpdated": "2026-03-20T14:57:57Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T15:16:52.777Z",
+          "_lastChecked": "2026-03-20T15:17:14.345Z"
+        }
+      ]
+    },
+    {
+      "id": "finetuning",
+      "name": "🔧 微调与训练 (Fine-tuning & Training)",
+      "description": "用于微调大模型、数据集构建、量化和训练的实用工具箱（如 Unsloth, Llama-Factory）。",
+      "projects": [
+        {
+          "name": "Firefly",
+          "url": "https://github.com/yangjianxin1/Firefly",
+          "description": "大模型训练工具，支持Qwen2.5、Llama3、Mistral、Baichuan2等主流大模型的微调训练，集成LoRA、QLoRA等高效训练技术。",
+          "tags": [
+            "LLM训练",
+            "LoRA",
+            "微调"
+          ],
+          "stars": 6651,
+          "lastUpdated": "2024-10-24T02:27:42Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:19:39.936Z",
+          "_lastChecked": "2026-03-20T14:20:00.312Z"
+        }
+      ]
+    },
+    {
+      "id": "multimodal",
+      "name": "👁️ 多模态与音视频 (Multimodal & Vision/Audio)",
+      "description": "计算机视觉、图像生成、语音识别（ASR）、语音合成（TTS）、视频生成等非纯文本类 AI 等领域架构。",
+      "projects": [
+        {
+          "name": "CogVideo",
+          "url": "https://github.com/THUDM/CogVideo",
+          "description": "文本和图像生成视频的AI模型，包含CogVideoX (2024)和CogVideo (ICLR 2023)，支持高质量视频创作。",
+          "tags": [
+            "text-to-video",
+            "image-to-video",
+            "video-generation"
+          ],
+          "stars": 12541,
+          "lastUpdated": "2025-11-04T11:19:04Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T13:45:15.871Z",
+          "_lastChecked": "2026-03-20T13:45:50.036Z"
+        },
+        {
+          "name": "DDNM",
+          "url": "https://github.com/wyhuai/DDNM",
+          "description": "ICLR 2023 Oral论文实现，提出零样本图像修复方法，利用去噪扩散模型在零空间建模，无需针对特定任务训练即可实现高质量图像修复。",
+          "tags": [
+            "diffusion-models",
+            "image-restoration",
+            "zero-shot",
+            "iclr2023"
+          ],
+          "stars": 1331,
+          "lastUpdated": "2024-04-25T08:28:06Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T13:57:20.145Z",
+          "_lastChecked": "2026-03-20T13:57:40.624Z"
+        },
+        {
+          "name": "diffusion-point-cloud",
+          "url": "https://github.com/luost26/diffusion-point-cloud",
+          "description": "基于扩散概率模型的3D点云生成方法，发表于CVPR 2021。利用扩散模型实现高质量的三维点云生成与补全。",
+          "tags": [
+            "3D点云",
+            "扩散模型",
+            "生成模型",
+            "CVPR2021"
+          ],
+          "stars": 782,
+          "lastUpdated": "2025-11-28T08:00:46Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T13:57:42.625Z",
+          "_lastChecked": "2026-03-20T13:58:01.448Z"
+        },
+        {
+          "name": "OpenEMMA",
+          "url": "https://github.com/taco-group/OpenEMMA",
+          "description": "OpenEMMA 是 Waymo EMMA 模型的开源复现，基于多模态大语言模型实现端到端自动驾驶，为自动驾驶研究提供重要参考。",
+          "tags": [
+            "autonomous-driving",
+            "multimodal-llm",
+            "open-source"
+          ],
+          "stars": 910,
+          "lastUpdated": "2025-05-13T06:26:21Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:50:41.516Z",
+          "_lastChecked": "2026-03-20T14:51:06.533Z"
+        },
+        {
+          "name": "bailing",
+          "url": "https://github.com/wwbin2017/bailing",
+          "description": "类似GPT-4o的语音对话机器人，集成DeepSeek R1等大模型，时延低至800ms，支持打断，低配置设备也可流畅运行。",
+          "tags": [
+            "语音助手",
+            "ASR",
+            "TTS",
+            "DeepSeek"
+          ],
+          "stars": 1632,
+          "lastUpdated": "2025-07-31T14:30:14Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:11:20.126Z",
+          "_lastChecked": "2026-03-20T14:11:38.501Z"
+        },
+        {
+          "name": "tt-metal",
+          "url": "https://github.com/tenstorrent/tt-metal",
+          "description": "Tenstorrent开发的AI加速器底层编程框架，包含TT-NN算子库和TT-Metalium内核编程模型，支持LLaMA、DeepSeek、Stable Diffusion等主流AI模型的硬件加速优化。",
+          "tags": [
+            "AI加速器",
+            "内核编程",
+            "GPU",
+            "LLM"
+          ],
+          "stars": 1385,
+          "lastUpdated": "2026-03-20T12:27:27Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T12:45:46.167Z",
+          "_lastChecked": "2026-03-20T12:46:01.775Z"
+        },
+        {
+          "name": "worker-comfyui",
+          "url": "https://github.com/runpod-workers/worker-comfyui",
+          "description": "将 ComfyUI 部署为 RunPod 无服务器 API，支持 SDXL 和 Stable Diffusion 工作流的云端托管与弹性扩展。",
+          "tags": [
+            "ComfyUI",
+            "Serverless",
+            "Stable Diffusion",
+            "RunPod"
+          ],
+          "stars": 671,
+          "lastUpdated": "2026-03-20T12:55:09Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T13:01:02.319Z",
+          "_lastChecked": "2026-03-20T13:01:24.947Z"
+        },
+        {
+          "name": "sgmse",
+          "url": "https://github.com/sp-uhh/sgmse",
+          "description": "基于扩散模型的语音增强与去混响工具，利用分数生成模型实现高质量语音处理。",
+          "tags": [
+            "Diffusion Models",
+            "Speech Enhancement",
+            "Audio Processing"
+          ],
+          "stars": 729,
+          "lastUpdated": "2026-02-01T03:30:09Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T13:58:03.450Z",
+          "_lastChecked": "2026-03-20T13:58:16.415Z"
+        },
+        {
+          "name": "pcl",
+          "url": "https://github.com/PointCloudLibrary/pcl",
+          "description": "开源点云处理库，提供3D图像和点云数据的处理、滤波、配准、分割等功能。广泛应用于机器人、自动驾驶和三维重建等AI视觉领域。",
+          "tags": [
+            "Computer Vision",
+            "Point Cloud",
+            "C++"
+          ],
+          "stars": 10916,
+          "lastUpdated": "2026-03-12T13:21:18Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:41:15.963Z",
+          "_lastChecked": "2026-03-20T14:41:34.125Z"
+        },
+        {
+          "name": "openai-edge-tts",
+          "url": "https://github.com/travisvn/openai-edge-tts",
+          "description": "免费高质量的文本转语音API端点，可替代OpenAI、Azure或ElevenLabs的TTS服务，支持自托管和OpenAI兼容接口。",
+          "tags": [
+            "TTS",
+            "API",
+            "OpenAI兼容",
+            "自托管"
+          ],
+          "stars": 1705,
+          "lastUpdated": "2025-07-01T23:56:27Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:43:57.011Z",
+          "_lastChecked": "2026-03-20T14:44:09.035Z"
+        },
+        {
+          "name": "speech-to-text-benchmark",
+          "url": "https://github.com/Picovoice/speech-to-text-benchmark",
+          "description": "语音转文字基准测试框架，支持对比 AWS、Google、Mozilla DeepSpeech、Picovoice 等多种语音识别引擎的性能表现。",
+          "tags": [
+            "语音识别",
+            "基准测试",
+            "边缘AI"
+          ],
+          "stars": 687,
+          "lastUpdated": "2026-03-19T00:45:32Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:47:43.960Z",
+          "_lastChecked": "2026-03-20T14:47:57.737Z"
+        },
+        {
+          "name": "DiffSensei",
+          "url": "https://github.com/jianzongwu/DiffSensei",
+          "description": "CVPR 2025 论文实现，将多模态大语言模型与扩散模型结合，实现定制化漫画生成。",
+          "tags": [
+            "Diffusion Models",
+            "Manga Generation",
+            "Multi-Modal LLM"
+          ],
+          "stars": 904,
+          "lastUpdated": "2025-02-05T03:02:38Z",
+          "health": "Stable",
+          "addedAt": "2026-03-20T14:00:04.912Z",
+          "_lastChecked": "2026-03-20T14:00:37.051Z"
+        },
+        {
+          "name": "tacotron",
+          "url": "https://github.com/Kyubyong/tacotron",
+          "description": "Tacotron的TensorFlow实现，一个端到端的文本转语音合成模型。可直接从文本生成自然的语音输出。",
+          "tags": [
+            "TTS",
+            "语音合成",
+            "TensorFlow"
+          ],
+          "stars": 1833,
+          "lastUpdated": "2022-01-17T20:46:22Z",
+          "health": "Maintenance",
+          "addedAt": "2026-03-20T14:43:21.187Z",
+          "_lastChecked": "2026-03-20T14:43:41.588Z"
+        },
+        {
+          "name": "epub2tts",
+          "url": "https://github.com/aedocw/epub2tts",
+          "description": "将电子书或文本文件转换为有声书的AI工具，利用生成式AI和TTS技术实现高质量语音合成。",
+          "tags": [
+            "TTS",
+            "有声书",
+            "AI"
+          ],
+          "stars": 907,
+          "lastUpdated": "2026-02-08T14:39:27Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:51:08.535Z",
+          "_lastChecked": "2026-03-20T14:51:26.797Z"
+        },
+        {
+          "name": "ai-audio-startups",
+          "url": "https://github.com/csteinmetz1/ai-audio-startups",
+          "description": "AI音频与音乐技术领域初创公司精选列表，涵盖语音、音乐、音频等多个方向的创新企业。",
+          "tags": [
+            "Audio",
+            "Music",
+            "Startups"
+          ],
+          "stars": 1743,
+          "lastUpdated": "2025-01-22T17:29:59Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:43:43.589Z",
+          "_lastChecked": "2026-03-20T14:43:55.010Z"
+        },
+        {
+          "name": "Speech-Emotion-Analyzer",
+          "url": "https://github.com/MiteshPuthran/Speech-Emotion-Analyzer",
+          "description": "基于深度学习的语音情感分析模型，能够从音频中识别五种不同的男女性情感。使用Keras和神经网络技术实现，适合学习语音处理与情感识别。",
+          "tags": [
+            "深度学习",
+            "语音识别",
+            "情感分析"
+          ],
+          "stars": 1404,
+          "lastUpdated": "2023-02-07T16:19:15Z",
+          "health": "Stale",
+          "addedAt": "2026-03-20T14:44:31.587Z",
+          "_lastChecked": "2026-03-20T14:45:01.030Z"
+        }
+      ]
+    },
+    {
+      "id": "devtools",
+      "name": "🛠️ 开发工具与SDK (Developer Tools & SDKs)",
+      "description": "帮助开发者构建 AI 应用的脚手架、IDE插件、评测工具、API 客户端及提示词工程工具。",
+      "projects": [
+        {
+          "name": "gorilla",
+          "url": "https://github.com/ShishirPatil/gorilla",
+          "description": "专注于训练和评估大语言模型进行函数调用（工具调用）的开源项目。使 LLM 能够准确调用各种 API，是构建 AI 智能体的核心基础设施。",
+          "tags": [
+            "LLM",
+            "Function Calling",
+            "API",
+            "Tool Use"
+          ],
+          "stars": 12775,
+          "lastUpdated": "2026-03-11T03:37:46Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T13:44:25.434Z",
+          "_lastChecked": "2026-03-20T13:44:44.533Z"
+        },
+        {
+          "name": "Decepticon",
+          "url": "https://github.com/PurpleAILAB/Decepticon",
+          "description": "基于多智能体的自主红队测试服务，利用AI进行渗透测试和安全漏洞检测。结合LangChain和LangGraph框架，实现智能化的网络安全评估。",
+          "tags": [
+            "AI安全",
+            "渗透测试",
+            "多智能体",
+            "LangChain"
+          ],
+          "stars": 920,
+          "lastUpdated": "2026-03-20T11:30:18Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:49:59.966Z",
+          "_lastChecked": "2026-03-20T14:50:18.127Z"
+        },
+        {
+          "name": "LangChain",
+          "url": "https://github.com/langchain-ai/langchain",
+          "description": "用于构建上下文感知推理应用程序的流行框架。",
+          "tags": [
+            "Framework",
+            "LLM",
+            "Python"
+          ],
+          "stars": 80000,
+          "lastUpdated": "2024-03-15T00:00:00Z",
+          "health": "Active",
+          "addedAt": "2024-03-20T00:00:00Z"
+        },
+        {
+          "name": "n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "description": "开源工作流自动化平台，原生支持AI能力和MCP协议。可视化构建结合自定义代码，支持400+集成，可自托管或云端部署。",
+          "tags": [
+            "工作流自动化",
+            "低代码",
+            "AI集成",
+            "MCP"
+          ],
+          "stars": 180156,
+          "lastUpdated": "2026-03-20T12:02:56Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T12:13:38.926Z",
+          "_lastChecked": "2026-03-20T12:14:06.614Z"
+        },
+        {
+          "name": "daytona",
+          "url": "https://github.com/daytonaio/daytona",
+          "description": "Daytona 是一个安全弹性的基础设施，专为运行 AI 生成的代码而设计。为 AI 智能体提供安全的沙箱环境和代码执行能力。",
+          "tags": [
+            "AI",
+            "代码执行",
+            "沙箱",
+            "开发者工具"
+          ],
+          "stars": 15000,
+          "lastUpdated": "2025-01-15T10:30:00Z",
+          "health": "Active",
+          "addedAt": "2025-01-20T12:00:00.000Z",
+          "_lastChecked": "2026-03-20T12:16:19.888Z"
         },
         {
           "name": "cube",
@@ -1800,22 +3083,6 @@
           "_lastChecked": "2026-03-20T12:45:44.165Z"
         },
         {
-          "name": "tt-metal",
-          "url": "https://github.com/tenstorrent/tt-metal",
-          "description": "Tenstorrent开发的AI加速器底层编程框架，包含TT-NN算子库和TT-Metalium内核编程模型，支持LLaMA、DeepSeek、Stable Diffusion等主流AI模型的硬件加速优化。",
-          "tags": [
-            "AI加速器",
-            "内核编程",
-            "GPU",
-            "LLM"
-          ],
-          "stars": 1385,
-          "lastUpdated": "2026-03-20T12:27:27Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T12:45:46.167Z",
-          "_lastChecked": "2026-03-20T12:46:01.775Z"
-        },
-        {
           "name": "openvino",
           "url": "https://github.com/openvinotoolkit/openvino",
           "description": "Intel开源的AI推理优化与部署工具包，支持计算机视觉、NLP、生成式AI等多种模型的跨平台高性能推理。",
@@ -1844,22 +3111,6 @@
           "health": "Active",
           "addedAt": "2026-03-20T13:00:07.843Z",
           "_lastChecked": "2026-03-20T13:00:38.547Z"
-        },
-        {
-          "name": "worker-comfyui",
-          "url": "https://github.com/runpod-workers/worker-comfyui",
-          "description": "将 ComfyUI 部署为 RunPod 无服务器 API，支持 SDXL 和 Stable Diffusion 工作流的云端托管与弹性扩展。",
-          "tags": [
-            "ComfyUI",
-            "Serverless",
-            "Stable Diffusion",
-            "RunPod"
-          ],
-          "stars": 671,
-          "lastUpdated": "2026-03-20T12:55:09Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T13:01:02.319Z",
-          "_lastChecked": "2026-03-20T13:01:24.947Z"
         },
         {
           "name": "boost",
@@ -1892,36 +3143,6 @@
           "_lastChecked": "2026-03-20T13:12:59.226Z"
         },
         {
-          "name": "qsv",
-          "url": "https://github.com/dathere/qsv",
-          "description": "一款超快的数据处理工具包，支持CSV、Excel、Parquet等多种格式的数据清洗与转换。专为数据工程师设计，大幅提升数据预处理效率。",
-          "tags": [
-            "data-wrangling",
-            "csv",
-            "data-engineering"
-          ],
-          "stars": 3547,
-          "lastUpdated": "2026-03-20T13:09:36Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T13:13:01.227Z",
-          "_lastChecked": "2026-03-20T13:13:29.057Z"
-        },
-        {
-          "name": "openskills",
-          "url": "https://github.com/numman-ali/openskills",
-          "description": "AI编程代理的通用技能加载器，支持通过npm全局安装，为AI编码助手提供可扩展的技能模块系统。",
-          "tags": [
-            "AI Agent",
-            "npm",
-            "技能加载器"
-          ],
-          "stars": 9130,
-          "lastUpdated": "2026-01-18T13:09:50Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T13:36:49.565Z",
-          "_lastChecked": "2026-03-20T13:37:09.234Z"
-        },
-        {
           "name": "nocobase",
           "url": "https://github.com/nocobase/nocobase",
           "description": "NocoBase 是一个高度可扩展的 AI 驱动无代码/低代码平台，用于快速构建业务应用和企业解决方案。支持自托管，提供灵活的工作流和丰富的插件生态。",
@@ -1936,37 +3157,6 @@
           "health": "Active",
           "addedAt": "2026-03-20T13:41:14.749Z",
           "_lastChecked": "2026-03-20T13:41:34.128Z"
-        },
-        {
-          "name": "llm-apps-java-spring-ai",
-          "url": "https://github.com/ThomasVitale/llm-apps-java-spring-ai",
-          "description": "展示如何使用 Spring AI 和 Spring Boot 构建生成式 AI 应用的示例集合，涵盖 RAG、嵌入向量等核心技术。",
-          "tags": [
-            "Spring AI",
-            "LLM",
-            "RAG",
-            "Java"
-          ],
-          "stars": 729,
-          "lastUpdated": "2026-03-12T23:33:55Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T13:46:53.091Z",
-          "_lastChecked": "2026-03-20T13:47:13.440Z"
-        },
-        {
-          "name": "fastembed",
-          "url": "https://github.com/qdrant/fastembed",
-          "description": "快速、精准、轻量级的Python嵌入库，提供最先进的嵌入技术。专为RAG和向量搜索优化，助力开发者高效构建AI应用。",
-          "tags": [
-            "Embeddings",
-            "RAG",
-            "向量搜索"
-          ],
-          "stars": 2788,
-          "lastUpdated": "2026-03-12T17:50:46Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T13:47:30.367Z",
-          "_lastChecked": "2026-03-20T13:47:54.333Z"
         },
         {
           "name": "claude-context",
@@ -2016,37 +3206,6 @@
           "_lastChecked": "2026-03-20T13:52:26.852Z"
         },
         {
-          "name": "dyad",
-          "url": "https://github.com/dyad-sh/dyad",
-          "description": "本地开源AI应用构建器，支持多种LLM后端，是v0/Lovable/Replit/Bolt的优质替代方案。",
-          "tags": [
-            "AI应用构建",
-            "本地部署",
-            "多模型支持"
-          ],
-          "stars": 19919,
-          "lastUpdated": "2026-03-19T03:57:41Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T13:54:48.431Z",
-          "_lastChecked": "2026-03-20T13:55:08.063Z"
-        },
-        {
-          "name": "self-hosted-ai-starter-kit",
-          "url": "https://github.com/n8n-io/self-hosted-ai-starter-kit",
-          "description": "由 n8n 精心打造的开源自托管 AI 入门套件，帮助开发者快速搭建本地 AI 环境。提供完整工具链，支持创建安全、自主可控的 AI 工作流。",
-          "tags": [
-            "AI",
-            "Self-hosted",
-            "AI Agents",
-            "Low-code"
-          ],
-          "stars": 14417,
-          "lastUpdated": "2026-01-06T14:08:21Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T13:55:10.064Z",
-          "_lastChecked": "2026-03-20T13:55:21.098Z"
-        },
-        {
           "name": "unity-mcp",
           "url": "https://github.com/CoplayDev/unity-mcp",
           "description": "Unity MCP 是一个桥梁工具，让 AI 助手（如 Claude、Cursor）通过 MCP 协议直接与 Unity 编辑器交互。支持资产管理、场景控制、脚本编辑和任务自动化，为游戏开发者提供 AI 辅助工作流。",
@@ -2063,53 +3222,6 @@
           "_lastChecked": "2026-03-20T13:56:58.410Z"
         },
         {
-          "name": "GenerativeModels",
-          "url": "https://github.com/Project-MONAI/GenerativeModels",
-          "description": "MONAI官方生成式模型工具包，专注于医学影像领域的扩散模型、GAN等生成模型训练与部署，支持异常检测、图像合成与MRI重建等应用。",
-          "tags": [
-            "医学影像",
-            "生成模型",
-            "扩散模型",
-            "MONAI"
-          ],
-          "stars": 747,
-          "lastUpdated": "2024-07-01T14:33:54Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T13:57:00.412Z",
-          "_lastChecked": "2026-03-20T13:57:18.142Z"
-        },
-        {
-          "name": "sgmse",
-          "url": "https://github.com/sp-uhh/sgmse",
-          "description": "基于扩散模型的语音增强与去混响工具，利用分数生成模型实现高质量语音处理。",
-          "tags": [
-            "Diffusion Models",
-            "Speech Enhancement",
-            "Audio Processing"
-          ],
-          "stars": 729,
-          "lastUpdated": "2026-02-01T03:30:09Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T13:58:03.450Z",
-          "_lastChecked": "2026-03-20T13:58:16.415Z"
-        },
-        {
-          "name": "reverse-engineering-assistant",
-          "url": "https://github.com/cyberkaida/reverse-engineering-assistant",
-          "description": "基于MCP协议的逆向工程助手，支持Ghidra和Binary Ninja等工具。让LLM辅助分析二进制文件，提升安全研究效率。",
-          "tags": [
-            "MCP",
-            "Ghidra",
-            "逆向工程",
-            "LLM"
-          ],
-          "stars": 647,
-          "lastUpdated": "2026-03-16T09:13:38Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T14:02:48.798Z",
-          "_lastChecked": "2026-03-20T14:03:06.467Z"
-        },
-        {
           "name": "meta-glasses-api",
           "url": "https://github.com/dcrebbin/meta-glasses-api",
           "description": "一个浏览器扩展，将 Meta 智能眼镜与 ChatGPT、DeepSeek、Perplexity 等 AI 助手连接，实现通过眼镜语音调用 AI 的功能。",
@@ -2123,38 +3235,6 @@
           "health": "Active",
           "addedAt": "2026-03-20T14:12:59.682Z",
           "_lastChecked": "2026-03-20T14:13:21.992Z"
-        },
-        {
-          "name": "ai-chatbot-framework",
-          "url": "https://github.com/alfredfrancis/ai-chatbot-framework",
-          "description": "一个基于Python的AI聊天机器人框架，集成了自然语言理解和人工智能能力。支持LangChain、OpenAI、DeepSeek等多种LLM后端，具备工具调用功能。",
-          "tags": [
-            "Python",
-            "Chatbot",
-            "LangChain",
-            "LLM"
-          ],
-          "stars": 2150,
-          "lastUpdated": "2025-05-21T12:43:21Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T14:14:17.727Z",
-          "_lastChecked": "2026-03-20T14:14:39.474Z"
-        },
-        {
-          "name": "claude-codex-settings",
-          "url": "https://github.com/fcakyon/claude-codex-settings",
-          "description": "一套经过实战检验的 Claude Code 和 OpenAI Codex 配置方案，包含技能、命令、钩子、智能体和 MCP 服务器等实用组件。",
-          "tags": [
-            "Claude Code",
-            "MCP",
-            "AI Agents",
-            "DevTools"
-          ],
-          "stars": 515,
-          "lastUpdated": "2026-03-18T00:40:27Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T14:15:03.835Z",
-          "_lastChecked": "2026-03-20T14:15:20.400Z"
         },
         {
           "name": "godogen",
@@ -2187,132 +3267,6 @@
           "health": "Active",
           "addedAt": "2026-03-20T14:17:21.180Z",
           "_lastChecked": "2026-03-20T14:17:34.064Z"
-        },
-        {
-          "name": "opencompass",
-          "url": "https://github.com/open-compass/opencompass",
-          "description": "OpenCompass 是大模型评测平台，支持 Llama3、GPT-4、Claude 等主流模型在 100+ 数据集上的全面评估。助力开发者科学衡量和对比大语言模型性能。",
-          "tags": [
-            "LLM",
-            "评估",
-            "基准测试"
-          ],
-          "stars": 6779,
-          "lastUpdated": "2026-03-20T09:40:11Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T14:18:50.546Z",
-          "_lastChecked": "2026-03-20T14:19:17.630Z"
-        },
-        {
-          "name": "Firefly",
-          "url": "https://github.com/yangjianxin1/Firefly",
-          "description": "大模型训练工具，支持Qwen2.5、Llama3、Mistral、Baichuan2等主流大模型的微调训练，集成LoRA、QLoRA等高效训练技术。",
-          "tags": [
-            "LLM训练",
-            "LoRA",
-            "微调"
-          ],
-          "stars": 6651,
-          "lastUpdated": "2024-10-24T02:27:42Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T14:19:39.936Z",
-          "_lastChecked": "2026-03-20T14:20:00.312Z"
-        },
-        {
-          "name": "LlamaIndexTS",
-          "url": "https://github.com/run-llama/LlamaIndexTS",
-          "description": "LlamaIndex 的 TypeScript 版本，为 LLM 应用提供数据框架支持。专注于服务端解决方案，助力开发者快速构建智能应用。",
-          "tags": [
-            "LLM",
-            "TypeScript",
-            "Agent",
-            "Chatbot"
-          ],
-          "stars": 3068,
-          "lastUpdated": "2026-03-11T20:07:07Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T14:20:02.314Z",
-          "_lastChecked": "2026-03-20T14:20:26.198Z"
-        },
-        {
-          "name": "generative-ai-use-cases",
-          "url": "https://github.com/aws-samples/generative-ai-use-cases",
-          "description": "AWS官方生成式AI业务用例实现方案，涵盖Claude、Llama等多种LLM模型和RAG技术，帮助企业安全部署AI应用。",
-          "tags": [
-            "AWS",
-            "Generative AI",
-            "LLM",
-            "RAG"
-          ],
-          "stars": 1301,
-          "lastUpdated": "2026-03-20T06:48:41Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T14:21:22.098Z",
-          "_lastChecked": "2026-03-20T14:21:42.626Z"
-        },
-        {
-          "name": "streamlit",
-          "url": "https://github.com/streamlit/streamlit",
-          "description": "Streamlit 是一个开源 Python 框架，让开发者能够快速构建和分享数据应用与机器学习可视化界面。无需前端知识，几行代码即可创建交互式 Web 应用。",
-          "tags": [
-            "Python",
-            "Machine Learning",
-            "Data Visualization",
-            "Data Science"
-          ],
-          "stars": 43954,
-          "lastUpdated": "2026-03-20T13:11:48Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T14:22:32.401Z",
-          "_lastChecked": "2026-03-20T14:22:49.432Z"
-        },
-        {
-          "name": "gradio",
-          "url": "https://github.com/gradio-app/gradio",
-          "description": "用Python快速构建和分享机器学习应用的Web界面框架，让开发者无需前端知识即可创建交互式ML演示。",
-          "tags": [
-            "Python",
-            "Machine Learning",
-            "UI",
-            "Deep Learning"
-          ],
-          "stars": 42080,
-          "lastUpdated": "2026-03-20T02:54:36Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T14:23:12.175Z",
-          "_lastChecked": "2026-03-20T14:23:23.854Z"
-        },
-        {
-          "name": "DeepSpeed",
-          "url": "https://github.com/deepspeedai/DeepSpeed",
-          "description": "微软开源的深度学习优化库，让分布式训练和推理变得简单高效。支持千亿级参数模型训练，提供零冗余优化器和混合并行等核心技术。",
-          "tags": [
-            "deep-learning",
-            "distributed-training",
-            "pytorch",
-            "optimization"
-          ],
-          "stars": 41864,
-          "lastUpdated": "2026-03-18T23:22:23Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T14:23:25.855Z",
-          "_lastChecked": "2026-03-20T14:23:47.083Z"
-        },
-        {
-          "name": "ray",
-          "url": "https://github.com/ray-project/ray",
-          "description": "Ray是一个AI计算引擎，提供核心分布式运行时和AI库来加速机器学习工作负载。支持深度学习、强化学习、超参数优化和LLM推理等多种场景。",
-          "tags": [
-            "distributed-computing",
-            "machine-learning",
-            "llm",
-            "pytorch"
-          ],
-          "stars": 41805,
-          "lastUpdated": "2026-03-20T11:10:20Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T14:23:49.085Z",
-          "_lastChecked": "2026-03-20T14:24:04.156Z"
         },
         {
           "name": "ColossalAI",
@@ -2392,53 +3346,6 @@
           "_lastChecked": "2026-03-20T14:30:58.633Z"
         },
         {
-          "name": "optimum",
-          "url": "https://github.com/huggingface/optimum",
-          "description": "Hugging Face 官方推出的硬件优化工具包，可加速 Transformers、Diffusers 等模型的推理与训练。支持 ONNX、量化及多种硬件后端优化。",
-          "tags": [
-            "optimization",
-            "inference",
-            "transformers",
-            "quantization"
-          ],
-          "stars": 3333,
-          "lastUpdated": "2026-03-13T15:41:23Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T14:31:18.911Z",
-          "_lastChecked": "2026-03-20T14:31:34.125Z"
-        },
-        {
-          "name": "web-search-mcp",
-          "url": "https://github.com/mrkrsl/web-search-mcp",
-          "description": "一个简单的本地托管Web搜索MCP服务器，专为本地LLM设计。让您的本地大语言模型具备网络搜索能力，支持LM Studio等工具。",
-          "tags": [
-            "MCP",
-            "Web搜索",
-            "本地LLM"
-          ],
-          "stars": 654,
-          "lastUpdated": "2025-08-08T19:58:47Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T14:31:36.126Z",
-          "_lastChecked": "2026-03-20T14:32:04.720Z"
-        },
-        {
-          "name": "awesome-mcp-servers",
-          "url": "https://github.com/punkpeye/awesome-mcp-servers",
-          "description": "MCP服务器资源合集，汇集了各类Model Context Protocol服务器实现，帮助开发者快速集成AI模型与外部工具的交互能力。",
-          "tags": [
-            "MCP",
-            "AI",
-            "服务器",
-            "资源合集"
-          ],
-          "stars": 35000,
-          "lastUpdated": "2025-01-15T10:30:00Z",
-          "health": "Active",
-          "addedAt": "2025-01-20T12:00:00.000Z",
-          "_lastChecked": "2026-03-20T14:34:11.241Z"
-        },
-        {
           "name": "context7",
           "url": "https://github.com/upstash/context7",
           "description": "为LLM和AI代码编辑器提供实时更新的代码文档平台，支持MCP协议集成，让AI助手获取最新API文档和代码示例。",
@@ -2452,22 +3359,6 @@
           "health": "Active",
           "addedAt": "2026-03-20T14:35:00.414Z",
           "_lastChecked": "2026-03-20T14:35:13.182Z"
-        },
-        {
-          "name": "txtai",
-          "url": "https://github.com/neuml/txtai",
-          "description": "一体化AI框架，支持语义搜索、LLM编排和语言模型工作流。集成了向量数据库、RAG和AI代理功能，适合构建智能搜索和知识管理应用。",
-          "tags": [
-            "RAG",
-            "语义搜索",
-            "LLM",
-            "向量数据库"
-          ],
-          "stars": 9500,
-          "lastUpdated": "2025-01-15T10:30:00Z",
-          "health": "Active",
-          "addedAt": "2025-01-20T12:00:00.000Z",
-          "_lastChecked": "2026-03-20T14:36:46.214Z"
         },
         {
           "name": "mediapipe",
@@ -2484,6 +3375,860 @@
           "health": "Active",
           "addedAt": "2026-03-20T14:38:52.018Z",
           "_lastChecked": "2026-03-20T14:39:12.791Z"
+        },
+        {
+          "name": "julius",
+          "url": "https://github.com/julius-speech/julius",
+          "description": "开源的大词汇量连续语音识别引擎，支持实时语音处理和多平台部署。适用于语音助手、转录系统等应用场景。",
+          "tags": [
+            "语音识别",
+            "开源引擎",
+            "音频处理"
+          ],
+          "stars": 1930,
+          "lastUpdated": "2025-06-16T07:10:03Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:42:34.675Z",
+          "_lastChecked": "2026-03-20T14:42:54.645Z"
+        },
+        {
+          "name": "delta",
+          "url": "https://github.com/Delta-ML/delta",
+          "description": "DELTA是基于深度学习的自然语言和语音处理平台，支持语音识别、情感识别、文本分类等多种任务。作为LF AI & DATA基金会项目，提供完整的训练、推理和服务部署能力。",
+          "tags": [
+            "深度学习",
+            "语音识别",
+            "NLP",
+            "TensorFlow"
+          ],
+          "stars": 1606,
+          "lastUpdated": "2025-04-16T19:27:35Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:44:11.036Z",
+          "_lastChecked": "2026-03-20T14:44:29.586Z"
+        },
+        {
+          "name": "h2o-3",
+          "url": "https://github.com/h2oai/h2o-3",
+          "description": "开源分布式机器学习平台，支持深度学习、GBM、随机森林等多种算法，提供AutoML自动建模功能，可扩展处理大数据。",
+          "tags": [
+            "机器学习",
+            "AutoML",
+            "分布式计算"
+          ],
+          "stars": 7515,
+          "lastUpdated": "2026-03-20T02:54:30Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:46:48.304Z",
+          "_lastChecked": "2026-03-20T14:47:11.736Z"
+        },
+        {
+          "name": "fairseq2",
+          "url": "https://github.com/facebookresearch/fairseq2",
+          "description": "Meta AI 推出的序列建模工具包，是 fairseq 的继任者。支持训练和部署序列到序列模型，适用于翻译、摘要等任务。",
+          "tags": [
+            "PyTorch",
+            "序列建模",
+            "深度学习"
+          ],
+          "stars": 1121,
+          "lastUpdated": "2026-03-20T00:25:31Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:48:18.521Z",
+          "_lastChecked": "2026-03-20T14:48:34.548Z"
+        },
+        {
+          "name": "abu",
+          "url": "https://github.com/bbfamily/abu",
+          "description": "基于Python的开源量化交易系统，支持股票、期权、期货、比特币等多种交易品种，集成机器学习功能，提供完整的量化投资架构。",
+          "tags": [
+            "量化交易",
+            "机器学习",
+            "比特币"
+          ],
+          "stars": 16549,
+          "lastUpdated": "2026-01-24T09:00:29Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:55:33.867Z",
+          "_lastChecked": "2026-03-20T14:56:04.624Z"
+        },
+        {
+          "name": "obsei",
+          "url": "https://github.com/obsei/obsei",
+          "description": "Obsei 是一个低代码 AI 自动化工具，支持社交监听、情感分析、文本分类等多种业务场景。可帮助企业快速构建 AI 驱动的自动化工作流程。",
+          "tags": [
+            "AI自动化",
+            "NLP",
+            "低代码",
+            "文本分析"
+          ],
+          "stars": 1382,
+          "lastUpdated": "2026-02-04T14:21:36Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:57:25.087Z",
+          "_lastChecked": "2026-03-20T14:57:46.806Z"
+        },
+        {
+          "name": "tokentap",
+          "url": "https://github.com/jmuncor/tokentap",
+          "description": "拦截 LLM API 流量并在实时终端仪表板中可视化 token 使用情况，帮助开发者追踪成本、调试提示词并监控上下文窗口使用。",
+          "tags": [
+            "LLM",
+            "Token监控",
+            "代理工具",
+            "终端仪表板"
+          ],
+          "stars": 762,
+          "lastUpdated": "2026-02-02T23:59:28Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:58:23.272Z",
+          "_lastChecked": "2026-03-20T14:58:41.168Z"
+        },
+        {
+          "name": "ck",
+          "url": "https://github.com/BeaconBay/ck",
+          "description": "本地优先的语义搜索与混合BM25 grep工具，支持AI和人类使用。基于Rust构建，提供高效的语义检索能力。",
+          "tags": [
+            "grep",
+            "semantic-search",
+            "rust",
+            "local-first"
+          ],
+          "stars": 1526,
+          "lastUpdated": "2026-01-27T01:00:33Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:59:29.078Z",
+          "_lastChecked": "2026-03-20T14:59:44.991Z"
+        },
+        {
+          "name": "jupyter-ai",
+          "url": "https://github.com/jupyterlab/jupyter-ai",
+          "description": "JupyterLab 的生成式 AI 扩展插件，支持在笔记本中直接使用 AI 助手进行代码生成、解释和调试。",
+          "tags": [
+            "JupyterLab",
+            "生成式AI",
+            "代码助手"
+          ],
+          "stars": 4150,
+          "lastUpdated": "2026-01-27T01:21:41Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:59:46.994Z",
+          "_lastChecked": "2026-03-20T14:59:58.625Z"
+        },
+        {
+          "name": "figma-console-mcp",
+          "url": "https://github.com/southleft/figma-console-mcp",
+          "description": "将设计系统转化为API，让AI能够连接Figma进行设计元素的提取、创建和调试。基于MCP协议，为AI辅助设计工作流提供强大支持。",
+          "tags": [
+            "MCP",
+            "Figma",
+            "设计系统"
+          ],
+          "stars": 1151,
+          "lastUpdated": "2026-03-20T03:36:53Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T15:03:24.055Z",
+          "_lastChecked": "2026-03-20T15:03:40.493Z"
+        },
+        {
+          "name": "hyper-mcp",
+          "url": "https://github.com/hyper-mcp-rs/hyper-mcp",
+          "description": "一个快速、安全的MCP服务器，通过WebAssembly插件实现能力扩展。支持OCI标准，为AI应用提供灵活的插件化架构。",
+          "tags": [
+            "MCP",
+            "WebAssembly",
+            "AI工具"
+          ],
+          "stars": 871,
+          "lastUpdated": "2026-03-20T01:16:55Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T15:06:02.911Z",
+          "_lastChecked": "2026-03-20T15:06:19.176Z"
+        },
+        {
+          "name": "AingDesk",
+          "url": "https://github.com/aingdesk/AingDesk",
+          "description": "一款简单易用的AI助手桌面应用，支持知识库管理、多模型API接入、联网搜索和智能体功能，适合个人和企业提升工作效率。",
+          "tags": [
+            "AI助手",
+            "知识库",
+            "智能体"
+          ],
+          "stars": 2479,
+          "lastUpdated": "2025-07-02T02:26:17Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:12:11.727Z",
+          "_lastChecked": "2026-03-20T14:12:31.611Z"
+        },
+        {
+          "name": "kubb",
+          "url": "https://github.com/kubb-labs/kubb",
+          "description": "一款强大的类型安全API客户端生成工具包，支持从OpenAPI/Swagger规范自动生成API客户端、Hooks和验证器。支持MCP协议和Claude集成，为AI辅助开发提供便利。",
+          "tags": [
+            "TypeScript",
+            "OpenAPI",
+            "Codegen",
+            "MCP"
+          ],
+          "stars": 1659,
+          "lastUpdated": "2026-03-20T11:27:16Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T15:15:10.474Z",
+          "_lastChecked": "2026-03-20T15:15:28.273Z"
+        },
+        {
+          "name": "tfjs",
+          "url": "https://github.com/tensorflow/tfjs",
+          "description": "TensorFlow.js 是 Google 推出的 WebGL 加速 JavaScript 机器学习库，支持在浏览器和 Node.js 中训练与部署 ML 模型。让开发者能够直接在网页端运行深度学习模型，无需后端服务器支持。",
+          "tags": [
+            "JavaScript",
+            "Machine Learning",
+            "WebGL",
+            "Deep Learning"
+          ],
+          "stars": 19115,
+          "lastUpdated": "2026-03-20T14:36:44Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T15:21:11.653Z",
+          "_lastChecked": "2026-03-20T15:21:28.010Z"
+        }
+      ]
+    },
+    {
+      "id": "applications",
+      "name": "🎨 AI终端应用 (AI Applications)",
+      "description": "直接面向用户、提供独立功能的成熟 AI 开源应用（如各种聊天 WebUI、翻译器、效率工具）。",
+      "projects": [
+        {
+          "name": "2026-AI-College-Jobs",
+          "url": "https://github.com/speedyapply/2026-AI-College-Jobs",
+          "description": "每日更新的2026年AI/ML实习与应届生职位清单，涵盖人工智能、机器学习、数据科学等领域的优质工作机会。",
+          "tags": [
+            "AI",
+            "求职",
+            "实习",
+            "机器学习"
+          ],
+          "stars": 4918,
+          "lastUpdated": "2026-03-20T13:12:35Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T13:14:38.215Z",
+          "_lastChecked": "2026-03-20T13:14:59.461Z"
+        },
+        {
+          "name": "Helios",
+          "url": "https://github.com/PKU-YuanGroup/Helios",
+          "description": "北大团队开源的实时长视频生成模型，支持文本/图像/视频到视频的多种生成方式，具备长上下文和世界模拟能力。",
+          "tags": [
+            "视频生成",
+            "扩散模型",
+            "实时生成",
+            "世界模型"
+          ],
+          "stars": 1383,
+          "lastUpdated": "2026-03-20T13:43:20Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T13:58:40.033Z",
+          "_lastChecked": "2026-03-20T13:58:54.713Z"
+        },
+        {
+          "name": "qlib",
+          "url": "https://github.com/microsoft/qlib",
+          "description": "微软开源的AI量化投资平台，支持多种机器学习建模范式，从探索想法到实现生产全流程赋能量化研究。",
+          "tags": [
+            "量化投资",
+            "机器学习",
+            "深度学习"
+          ],
+          "stars": 39089,
+          "lastUpdated": "2026-03-10T12:45:41Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:24:45.575Z",
+          "_lastChecked": "2026-03-20T14:25:05.813Z"
+        },
+        {
+          "name": "open-webui",
+          "url": "https://github.com/open-webui/open-webui",
+          "description": "开源的自托管AI Web界面，支持Ollama、OpenAI等多种LLM后端，内置RAG检索增强和MCP功能。",
+          "tags": [
+            "LLM",
+            "WebUI",
+            "Ollama",
+            "RAG"
+          ],
+          "stars": 127983,
+          "lastUpdated": "2026-03-20T00:52:44Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:32:55.300Z",
+          "_lastChecked": "2026-03-20T14:33:17.047Z"
+        },
+        {
+          "name": "ChatGPT-Prompts",
+          "url": "https://github.com/yokoffing/ChatGPT-Prompts",
+          "description": "精心整理的 ChatGPT 和 Bing AI 提示词合集，帮助用户更高效地与 AI 对话。",
+          "tags": [
+            "ChatGPT",
+            "Prompts",
+            "GPT-3",
+            "Bing AI"
+          ],
+          "stars": 901,
+          "lastUpdated": "2025-06-11T21:38:18Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:51:28.799Z",
+          "_lastChecked": "2026-03-20T14:51:48.190Z"
+        },
+        {
+          "name": "AstrBot",
+          "url": "https://github.com/AstrBotDevs/AstrBot",
+          "description": "一站式智能IM聊天机器人框架，支持多平台接入（QQ、Discord、Telegram等）和多LLM集成，具备插件系统和Agent能力。",
+          "tags": [
+            "Agent",
+            "Chatbot",
+            "LLM",
+            "MCP"
+          ],
+          "stars": 26123,
+          "lastUpdated": "2026-03-20T12:02:53Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T12:14:08.616Z",
+          "_lastChecked": "2026-03-20T12:14:26.538Z"
+        },
+        {
+          "name": "XYBotV2",
+          "url": "https://github.com/HenryXiaoYang/XYBotV2",
+          "description": "功能丰富的微信机器人框架，支持AI对话、Dify对接、积分系统等功能。采用非Hook非Web实现，跨平台支持Windows/Linux/MacOS。",
+          "tags": [
+            "WeChat",
+            "Bot",
+            "AI",
+            "Dify"
+          ],
+          "stars": 799,
+          "lastUpdated": "2025-05-23T12:22:45Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:13:54.152Z",
+          "_lastChecked": "2026-03-20T14:14:15.725Z"
+        },
+        {
+          "name": "rasa",
+          "url": "https://github.com/RasaHQ/rasa",
+          "description": "Rasa 是开源的对话式 AI 框架，用于构建文本和语音对话系统。支持 NLU、对话管理，可连接 Slack、Facebook 等平台创建智能聊天机器人和语音助手。",
+          "tags": [
+            "Chatbot",
+            "NLP",
+            "Conversational AI",
+            "Machine Learning"
+          ],
+          "stars": 21092,
+          "lastUpdated": "2026-01-29T19:10:46Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:52:54.213Z",
+          "_lastChecked": "2026-03-20T14:53:16.067Z"
+        },
+        {
+          "name": "pluely",
+          "url": "https://github.com/iamsrikanthnani/pluely",
+          "description": "开源的 Cluely 替代方案，一款轻量级隐私优先的 AI 助手，可在会议、面试和对话中实时提供帮助。基于 Tauri 构建，仅 10MB，完全不可检测。",
+          "tags": [
+            "AI Assistant",
+            "Speech-to-Text",
+            "Desktop App",
+            "Privacy"
+          ],
+          "stars": 1686,
+          "lastUpdated": "2026-01-14T01:11:34Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T15:07:41.748Z",
+          "_lastChecked": "2026-03-20T15:08:04.124Z"
+        },
+        {
+          "name": "llm-apps-java-spring-ai",
+          "url": "https://github.com/ThomasVitale/llm-apps-java-spring-ai",
+          "description": "展示如何使用 Spring AI 和 Spring Boot 构建生成式 AI 应用的示例集合，涵盖 RAG、嵌入向量等核心技术。",
+          "tags": [
+            "Spring AI",
+            "LLM",
+            "RAG",
+            "Java"
+          ],
+          "stars": 729,
+          "lastUpdated": "2026-03-12T23:33:55Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T13:46:53.091Z",
+          "_lastChecked": "2026-03-20T13:47:13.440Z"
+        },
+        {
+          "name": "ai-chatbot-framework",
+          "url": "https://github.com/alfredfrancis/ai-chatbot-framework",
+          "description": "一个基于Python的AI聊天机器人框架，集成了自然语言理解和人工智能能力。支持LangChain、OpenAI、DeepSeek等多种LLM后端，具备工具调用功能。",
+          "tags": [
+            "Python",
+            "Chatbot",
+            "LangChain",
+            "LLM"
+          ],
+          "stars": 2150,
+          "lastUpdated": "2025-05-21T12:43:21Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:14:17.727Z",
+          "_lastChecked": "2026-03-20T14:14:39.474Z"
+        },
+        {
+          "name": "LlamaIndexTS",
+          "url": "https://github.com/run-llama/LlamaIndexTS",
+          "description": "LlamaIndex 的 TypeScript 版本，为 LLM 应用提供数据框架支持。专注于服务端解决方案，助力开发者快速构建智能应用。",
+          "tags": [
+            "LLM",
+            "TypeScript",
+            "Agent",
+            "Chatbot"
+          ],
+          "stars": 3068,
+          "lastUpdated": "2026-03-11T20:07:07Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:20:02.314Z",
+          "_lastChecked": "2026-03-20T14:20:26.198Z"
+        },
+        {
+          "name": "dialoqbase",
+          "url": "https://github.com/n4ze3m/dialoqbase",
+          "description": "轻松创建聊天机器人的开源工具，支持多种大语言模型（GPT-4、Claude、Llama等）和文档处理。可快速构建基于文档的私有聊天机器人，无需复杂配置。",
+          "tags": [
+            "Chatbot",
+            "LangChain",
+            "多模型支持"
+          ],
+          "stars": 1784,
+          "lastUpdated": "2024-10-15T14:24:20Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T15:06:21.178Z",
+          "_lastChecked": "2026-03-20T15:06:40.546Z"
+        },
+        {
+          "name": "worldmonitor",
+          "url": "https://github.com/koala73/worldmonitor",
+          "description": "AI驱动的全球情报监控仪表板，整合新闻聚合、地缘政治监测和基础设施追踪，提供统一的态势感知界面。",
+          "tags": [
+            "AI",
+            "OSINT",
+            "监控",
+            "仪表板"
+          ],
+          "stars": 41455,
+          "lastUpdated": "2026-03-20T12:02:57Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T12:13:17.940Z",
+          "_lastChecked": "2026-03-20T12:13:36.924Z"
+        },
+        {
+          "name": "facefusion",
+          "url": "https://github.com/facefusion/facefusion",
+          "description": "业界领先的人脸处理平台，支持换脸、对口型等多种AI面部操作功能。",
+          "tags": [
+            "AI换脸",
+            "深度伪造"
+          ],
+          "stars": 27167,
+          "lastUpdated": "2026-03-20T12:46:14Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T12:53:12.107Z",
+          "_lastChecked": "2026-03-20T12:53:26.789Z"
+        },
+        {
+          "name": "Magic123",
+          "url": "https://github.com/guochengqian/Magic123",
+          "description": "ICLR24官方实现，仅需一张图片即可生成高质量3D物体。结合2D和3D扩散先验，实现精细的图像到3D转换。",
+          "tags": [
+            "3D生成",
+            "图像转3D",
+            "扩散模型"
+          ],
+          "stars": 1621,
+          "lastUpdated": "2025-05-29T03:17:15Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T13:58:18.418Z",
+          "_lastChecked": "2026-03-20T13:58:38.031Z"
+        },
+        {
+          "name": "Hunyuan3D-2-WinPortable",
+          "url": "https://github.com/YanWenKun/Hunyuan3D-2-WinPortable",
+          "description": "腾讯混元3D生成模型的Windows便携版整合包，支持从文本/图像生成高质量3D模型与纹理。一键部署，开箱即用。",
+          "tags": [
+            "3D生成",
+            "图像转3D",
+            "AI创作"
+          ],
+          "stars": 1108,
+          "lastUpdated": "2025-11-19T00:18:58Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T13:59:23.942Z",
+          "_lastChecked": "2026-03-20T13:59:47.993Z"
+        },
+        {
+          "name": "coco-app",
+          "url": "https://github.com/infinilabs/coco-app",
+          "description": "Coco AI 是一款轻量级个人 AI 搜索助手，支持跨文档、图片、视频等统一搜索。基于 Tauri 构建，提供类似 Raycast/Spotlight 的快速启动体验。",
+          "tags": [
+            "AI搜索",
+            "桌面助手",
+            "统一搜索"
+          ],
+          "stars": 677,
+          "lastUpdated": "2026-02-26T02:19:28Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:01:49.954Z",
+          "_lastChecked": "2026-03-20T14:02:04.622Z"
+        },
+        {
+          "name": "AChat",
+          "url": "https://github.com/AprilNEA/AChat",
+          "description": "开源自托管的AI平台，专为企业和团队设计，支持本地优先处理与远程同步，兼容多种主流LLM模型。",
+          "tags": [
+            "self-hosted",
+            "enterprise",
+            "chatbot",
+            "agent"
+          ],
+          "stars": 3262,
+          "lastUpdated": "2025-07-17T09:09:21Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:11:52.822Z",
+          "_lastChecked": "2026-03-20T14:12:09.725Z"
+        },
+        {
+          "name": "AcademicForge",
+          "url": "https://github.com/HughYau/AcademicForge",
+          "description": "精心策划的学术写作与研究技能集合，助力科研人员提升学术写作效率。",
+          "tags": [
+            "AI",
+            "学术写作",
+            "研究工具"
+          ],
+          "stars": 503,
+          "lastUpdated": "2026-03-17T10:00:45Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:18:11.583Z",
+          "_lastChecked": "2026-03-20T14:18:42.691Z"
+        },
+        {
+          "name": "GFPGAN",
+          "url": "https://github.com/TencentARC/GFPGAN",
+          "description": "腾讯开源的实用人脸修复算法，利用生成对抗网络(GAN)实现真实世界人脸图像的高质量修复与增强。",
+          "tags": [
+            "人脸修复",
+            "图像增强",
+            "GAN",
+            "PyTorch"
+          ],
+          "stars": 37403,
+          "lastUpdated": "2024-07-26T18:44:02Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:25:26.781Z",
+          "_lastChecked": "2026-03-20T14:25:42.410Z"
+        },
+        {
+          "name": "voicefixer",
+          "url": "https://github.com/haoheliu/voicefixer",
+          "description": "通用语音修复工具，支持去噪、去混响、语音增强和超分辨率重建。基于深度学习技术，有效恢复和提升语音质量。",
+          "tags": [
+            "语音增强",
+            "音频处理",
+            "AI修复"
+          ],
+          "stars": 1304,
+          "lastUpdated": "2025-02-17T14:13:03Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:45:35.127Z",
+          "_lastChecked": "2026-03-20T14:45:56.709Z"
+        },
+        {
+          "name": "DeepDiagram",
+          "url": "https://github.com/twwch/DeepDiagram",
+          "description": "开源AI可视化工具，将自然语言转换为思维导图、Mermaid图表和Echarts可视化，快速将想法转化为结构化图表。",
+          "tags": [
+            "AI可视化",
+            "思维导图",
+            "图表生成"
+          ],
+          "stars": 1150,
+          "lastUpdated": "2026-02-04T09:43:33Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:57:48.808Z",
+          "_lastChecked": "2026-03-20T14:58:03.668Z"
+        },
+        {
+          "name": "jimureport",
+          "url": "https://github.com/jeecgboot/jimureport",
+          "description": "一款类似Excel的AI报表工具和大屏设计平台，支持在线傻瓜式设计，高效降低报表开发难度。可作为Tableau和JasperReports的开源替代方案。",
+          "tags": [
+            "AI报表",
+            "数据可视化",
+            "BI工具"
+          ],
+          "stars": 6700,
+          "lastUpdated": "2025-01-15T08:30:00Z",
+          "health": "Active",
+          "addedAt": "2025-01-20T10:00:00.000Z",
+          "_lastChecked": "2026-03-20T14:59:04.565Z"
+        },
+        {
+          "name": "AIaW",
+          "url": "https://github.com/NitroRCr/AIaW",
+          "description": "一款优雅的全能AI聊天客户端，支持多工作区、插件系统、本地优先与云端同步。跨平台支持，集成Artifacts与MCP协议，轻量且功能丰富。",
+          "tags": [
+            "AI客户端",
+            "MCP",
+            "跨平台"
+          ],
+          "stars": 1779,
+          "lastUpdated": "2026-01-04T13:48:02Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T15:06:42.548Z",
+          "_lastChecked": "2026-03-20T15:06:55.811Z"
+        },
+        {
+          "name": "AiLearning-Theory-Applying",
+          "url": "https://github.com/ben1234560/AiLearning-Theory-Applying",
+          "description": "AI理论及应用实战教程，涵盖基础知识、Transformer、NLP、ML、DL及竞赛内容。含大量注释和数据集，适合初学者快速上手并复现。",
+          "tags": [
+            "机器学习",
+            "深度学习",
+            "NLP",
+            "Kaggle竞赛"
+          ],
+          "stars": 3475,
+          "lastUpdated": "2025-05-01T15:24:43Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:30:02.341Z",
+          "_lastChecked": "2026-03-20T14:30:18.911Z"
+        },
+        {
+          "name": "applied-ai-engineering-samples",
+          "url": "https://github.com/GoogleCloudPlatform/applied-ai-engineering-samples",
+          "description": "Google Cloud 官方维护的生成式 AI 代码示例集合，包含丰富的 Jupyter notebooks 演示如何在 Vertex AI 上使用大语言模型。适合开发者学习与实践 GCP 上的 AI 应用开发。",
+          "tags": [
+            "Vertex AI",
+            "LLM",
+            "Google Cloud",
+            "代码示例"
+          ],
+          "stars": 830,
+          "lastUpdated": "2026-01-06T21:45:38Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T15:02:24.121Z",
+          "_lastChecked": "2026-03-20T15:02:44.941Z"
+        },
+        {
+          "name": "Claude-Usage-Tracker",
+          "url": "https://github.com/hamed-elfayome/Claude-Usage-Tracker",
+          "description": "原生 macOS 菜单栏应用，实时追踪 Claude AI 使用限额。使用 Swift/SwiftUI 构建，帮助用户便捷监控 Claude 使用情况。",
+          "tags": [
+            "Claude",
+            "macOS",
+            "Usage Tracker"
+          ],
+          "stars": 1683,
+          "lastUpdated": "2026-03-18T04:07:51Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T15:14:27.263Z",
+          "_lastChecked": "2026-03-20T15:14:43.989Z"
+        },
+        {
+          "name": "ai-goofish-monitor",
+          "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+          "description": "基于 Playwright 和 AI 的闲鱼多任务实时监控与智能分析系统，配备完善后台管理UI，帮助用户从海量商品中精准找到心仪产品。",
+          "tags": [
+            "AI监控",
+            "闲鱼",
+            "Playwright",
+            "智能分析"
+          ],
+          "stars": 0,
+          "lastUpdated": "2024-01-01T00:00:00Z",
+          "health": "Unknown",
+          "addedAt": "2024-01-01T00:00:00.000Z",
+          "_lastChecked": "2026-03-20T15:19:49.788Z"
+        }
+      ]
+    },
+    {
+      "id": "learning",
+      "name": "📚 学习与资源 (Learning & Resources)",
+      "description": "精选的教程、课程清单、Awesome列表及前沿论文解读。",
+      "projects": [
+        {
+          "name": "Score-Entropy-Discrete-Diffusion",
+          "url": "https://github.com/louaaron/Score-Entropy-Discrete-Diffusion",
+          "description": "ICML 2024最佳论文，提出通过估计数据分布比率进行离散扩散建模的创新方法，为离散数据生成提供了新范式。",
+          "tags": [
+            "Diffusion Models",
+            "Discrete Diffusion",
+            "ICML 2024",
+            "Machine Learning"
+          ],
+          "stars": 718,
+          "lastUpdated": "2024-02-29T16:30:55Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T13:59:49.996Z",
+          "_lastChecked": "2026-03-20T14:00:02.911Z"
+        },
+        {
+          "name": "awesome-claude-skills",
+          "url": "https://github.com/travisvn/awesome-claude-skills",
+          "description": "精心策划的 Claude Skills 资源列表，汇集了自定义 Claude AI 工作流的工具和资源，特别针对 Claude Code 进行优化。",
+          "tags": [
+            "Claude",
+            "Awesome List",
+            "AI Workflows"
+          ],
+          "stars": 0,
+          "lastUpdated": "2024-01-01T00:00:00Z",
+          "health": "Active",
+          "addedAt": "2024-01-01T00:00:00.000Z",
+          "_lastChecked": "2026-03-20T13:36:20.275Z"
+        },
+        {
+          "name": "awesome-claude-skills",
+          "url": "https://github.com/BehiSecc/awesome-claude-skills",
+          "description": "精选的 Claude 技能资源列表，汇集了 Claude AI 的各种实用技能和应用案例。适合开发者学习和探索 Claude 的能力边界。",
+          "tags": [
+            "Claude",
+            "LLM",
+            "资源列表"
+          ],
+          "stars": 7701,
+          "lastUpdated": "2026-03-17T06:43:20Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T13:38:36.886Z",
+          "_lastChecked": "2026-03-20T13:38:54.191Z"
+        },
+        {
+          "name": "transformer-xl",
+          "url": "https://github.com/kimiyoung/transformer-xl",
+          "description": "Transformer-XL官方实现，突破固定上下文长度限制的神经网络语言模型，支持超长依赖关系学习。",
+          "tags": [
+            "Transformer",
+            "Language-Model",
+            "NLP",
+            "Deep-Learning"
+          ],
+          "stars": 3695,
+          "lastUpdated": "2022-09-21T06:22:01Z",
+          "health": "Stable",
+          "addedAt": "2026-03-20T14:29:00.784Z",
+          "_lastChecked": "2026-03-20T14:29:14.629Z"
+        },
+        {
+          "name": "awesome-agent-skills",
+          "url": "https://github.com/VoltAgent/awesome-agent-skills",
+          "description": "收录500+个AI智能体技能，来自官方开发团队和社区贡献，兼容Claude Code、Codex、Gemini CLI、Cursor等多种AI工具。",
+          "tags": [
+            "AI Agents",
+            "Claude Code",
+            "Skills"
+          ],
+          "stars": 12077,
+          "lastUpdated": "2026-03-19T08:07:09Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:37:01.791Z",
+          "_lastChecked": "2026-03-20T14:37:17.823Z"
+        },
+        {
+          "name": "carla",
+          "url": "https://github.com/carla-simulator/carla",
+          "description": "开源自动驾驶研究模拟器，基于虚幻引擎4开发。提供丰富的传感器套件和灵活API，支持深度学习、强化学习等自动驾驶算法的训练与测试。",
+          "tags": [
+            "autonomous-driving",
+            "simulator",
+            "deep-learning",
+            "reinforcement-learning"
+          ],
+          "stars": 13706,
+          "lastUpdated": "2026-03-20T04:53:22Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:41:36.127Z",
+          "_lastChecked": "2026-03-20T14:41:54.011Z"
+        },
+        {
+          "name": "streamlit",
+          "url": "https://github.com/streamlit/streamlit",
+          "description": "Streamlit 是一个开源 Python 框架，让开发者能够快速构建和分享数据应用与机器学习可视化界面。无需前端知识，几行代码即可创建交互式 Web 应用。",
+          "tags": [
+            "Python",
+            "Machine Learning",
+            "Data Visualization",
+            "Data Science"
+          ],
+          "stars": 43954,
+          "lastUpdated": "2026-03-20T13:11:48Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:22:32.401Z",
+          "_lastChecked": "2026-03-20T14:22:49.432Z"
+        },
+        {
+          "name": "gradio",
+          "url": "https://github.com/gradio-app/gradio",
+          "description": "用Python快速构建和分享机器学习应用的Web界面框架，让开发者无需前端知识即可创建交互式ML演示。",
+          "tags": [
+            "Python",
+            "Machine Learning",
+            "UI",
+            "Deep Learning"
+          ],
+          "stars": 42080,
+          "lastUpdated": "2026-03-20T02:54:36Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:23:12.175Z",
+          "_lastChecked": "2026-03-20T14:23:23.854Z"
+        },
+        {
+          "name": "DeepSpeed",
+          "url": "https://github.com/deepspeedai/DeepSpeed",
+          "description": "微软开源的深度学习优化库，让分布式训练和推理变得简单高效。支持千亿级参数模型训练，提供零冗余优化器和混合并行等核心技术。",
+          "tags": [
+            "deep-learning",
+            "distributed-training",
+            "pytorch",
+            "optimization"
+          ],
+          "stars": 41864,
+          "lastUpdated": "2026-03-18T23:22:23Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:23:25.855Z",
+          "_lastChecked": "2026-03-20T14:23:47.083Z"
+        },
+        {
+          "name": "ray",
+          "url": "https://github.com/ray-project/ray",
+          "description": "Ray是一个AI计算引擎，提供核心分布式运行时和AI库来加速机器学习工作负载。支持深度学习、强化学习、超参数优化和LLM推理等多种场景。",
+          "tags": [
+            "distributed-computing",
+            "machine-learning",
+            "llm",
+            "pytorch"
+          ],
+          "stars": 41805,
+          "lastUpdated": "2026-03-20T11:10:20Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:23:49.085Z",
+          "_lastChecked": "2026-03-20T14:24:04.156Z"
+        },
+        {
+          "name": "awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "MCP服务器资源合集，汇集了各类Model Context Protocol服务器实现，帮助开发者快速集成AI模型与外部工具的交互能力。",
+          "tags": [
+            "MCP",
+            "AI",
+            "服务器",
+            "资源合集"
+          ],
+          "stars": 35000,
+          "lastUpdated": "2025-01-15T10:30:00Z",
+          "health": "Active",
+          "addedAt": "2025-01-20T12:00:00.000Z",
+          "_lastChecked": "2026-03-20T14:34:11.241Z"
         },
         {
           "name": "AirSim",
@@ -2518,295 +4263,149 @@
           "_lastChecked": "2026-03-20T14:41:13.961Z"
         },
         {
-          "name": "pcl",
-          "url": "https://github.com/PointCloudLibrary/pcl",
-          "description": "开源点云处理库，提供3D图像和点云数据的处理、滤波、配准、分割等功能。广泛应用于机器人、自动驾驶和三维重建等AI视觉领域。",
+          "name": "Savant",
+          "url": "https://github.com/insight-platform/Savant",
+          "description": "基于 Python 的高性能计算机视觉与视频分析框架，内置 TensorRT 加速和 YOLO 等主流模型支持。专为边缘计算优化，支持 NVIDIA DeepStream，适合实时视频分析应用开发。",
           "tags": [
-            "Computer Vision",
-            "Point Cloud",
-            "C++"
+            "computer-vision",
+            "deep-learning",
+            "tensorrt",
+            "yolo",
+            "edge-computing"
           ],
-          "stars": 10916,
-          "lastUpdated": "2026-03-12T13:21:18Z",
+          "stars": 792,
+          "lastUpdated": "2026-03-19T03:57:30Z",
           "health": "Active",
-          "addedAt": "2026-03-20T14:41:15.963Z",
-          "_lastChecked": "2026-03-20T14:41:34.125Z"
+          "addedAt": "2026-03-20T14:45:58.711Z",
+          "_lastChecked": "2026-03-20T14:46:17.774Z"
         },
         {
-          "name": "julius",
-          "url": "https://github.com/julius-speech/julius",
-          "description": "开源的大词汇量连续语音识别引擎，支持实时语音处理和多平台部署。适用于语音助手、转录系统等应用场景。",
+          "name": "arena",
+          "url": "https://github.com/kubeflow/arena",
+          "description": "Kubeflow 的命令行工具，简化 Kubernetes 上的机器学习任务管理。支持一键部署训练任务、模型服务和资源监控。",
           "tags": [
-            "语音识别",
-            "开源引擎",
-            "音频处理"
+            "Kubeflow",
+            "Kubernetes",
+            "Deep Learning"
           ],
-          "stars": 1930,
-          "lastUpdated": "2025-06-16T07:10:03Z",
+          "stars": 2800,
+          "lastUpdated": "2024-01-15T10:30:00Z",
           "health": "Active",
-          "addedAt": "2026-03-20T14:42:34.675Z",
-          "_lastChecked": "2026-03-20T14:42:54.645Z"
-        }
-      ]
-    },
-    {
-      "id": "productivity",
-      "name": "🎨 生产力与创作",
-      "description": "基于 AI 开发的高效工作、图像音视频生成等应用和工具。",
-      "projects": [
+          "addedAt": "2026-03-20T14:47:13.739Z",
+          "_lastChecked": "2026-03-20T14:47:33.903Z"
+        },
         {
-          "name": "worldmonitor",
-          "url": "https://github.com/koala73/worldmonitor",
-          "description": "AI驱动的全球情报监控仪表板，整合新闻聚合、地缘政治监测和基础设施追踪，提供统一的态势感知界面。",
+          "name": "espnet",
+          "url": "https://github.com/espnet/espnet",
+          "description": "端到端语音处理工具包，支持语音识别、语音合成、语音翻译、说话人分离等多种任务。基于PyTorch构建，提供完整的深度学习流水线和预训练模型。",
+          "tags": [
+            "speech-recognition",
+            "speech-synthesis",
+            "deep-learning",
+            "pytorch"
+          ],
+          "stars": 9780,
+          "lastUpdated": "2026-03-18T23:36:58Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:48:58.951Z",
+          "_lastChecked": "2026-03-20T14:49:15.851Z"
+        },
+        {
+          "name": "spaCy",
+          "url": "https://github.com/explosion/spaCy",
+          "description": "工业级 Python 自然语言处理库，提供高效的分词、命名实体识别、文本分类等功能，专为生产环境设计。",
+          "tags": [
+            "NLP",
+            "Python",
+            "Machine Learning"
+          ],
+          "stars": 33354,
+          "lastUpdated": "2026-03-20T13:38:45Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:54:37.865Z",
+          "_lastChecked": "2026-03-20T14:54:56.516Z"
+        },
+        {
+          "name": "responsible-ai-toolbox",
+          "url": "https://github.com/microsoft/responsible-ai-toolbox",
+          "description": "微软推出的负责任 AI 工具集，提供模型和数据探索、评估的用户界面和库。帮助开发者更好地理解和监控 AI 系统，实现更公平、可解释的 AI 开发。",
+          "tags": [
+            "responsible-ai",
+            "explainability",
+            "fairness",
+            "machine-learning"
+          ],
+          "stars": 1742,
+          "lastUpdated": "2026-02-06T15:44:02Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:56:06.625Z",
+          "_lastChecked": "2026-03-20T14:56:27.423Z"
+        },
+        {
+          "name": "REINVENT4",
+          "url": "https://github.com/MolecularAI/REINVENT4",
+          "description": "REINVENT4 是一款强大的AI分子设计工具，专注于从头药物设计、骨架跃迁和分子优化。由AstraZeneca开发，利用深度学习和强化学习技术加速药物发现过程。",
           "tags": [
             "AI",
-            "OSINT",
-            "监控",
-            "仪表板"
+            "Drug Discovery",
+            "Molecular Design",
+            "Deep Learning"
           ],
-          "stars": 41455,
-          "lastUpdated": "2026-03-20T12:02:57Z",
+          "stars": 709,
+          "lastUpdated": "2026-01-21T06:57:31Z",
           "health": "Active",
-          "addedAt": "2026-03-20T12:13:17.940Z",
-          "_lastChecked": "2026-03-20T12:13:36.924Z"
+          "addedAt": "2026-03-20T15:00:10.189Z",
+          "_lastChecked": "2026-03-20T15:00:33.513Z"
         },
         {
-          "name": "facefusion",
-          "url": "https://github.com/facefusion/facefusion",
-          "description": "业界领先的人脸处理平台，支持换脸、对口型等多种AI面部操作功能。",
+          "name": "mostlyai",
+          "url": "https://github.com/mostly-ai/mostlyai",
+          "description": "强大的合成数据SDK，利用生成式AI和差分隐私技术创建高质量合成数据集，帮助开发者在保护隐私的同时安全使用敏感数据。",
           "tags": [
-            "AI换脸",
-            "深度伪造"
+            "synthetic-data",
+            "generative-ai",
+            "privacy",
+            "machine-learning"
           ],
-          "stars": 27167,
-          "lastUpdated": "2026-03-20T12:46:14Z",
+          "stars": 754,
+          "lastUpdated": "2026-01-13T17:16:27Z",
           "health": "Active",
-          "addedAt": "2026-03-20T12:53:12.107Z",
-          "_lastChecked": "2026-03-20T12:53:26.789Z"
+          "addedAt": "2026-03-20T15:01:02.653Z",
+          "_lastChecked": "2026-03-20T15:01:26.727Z"
         },
         {
-          "name": "MarkFlowy",
-          "url": "https://github.com/drl990114/MarkFlowy",
-          "description": "一款AI驱动的Markdown编辑器，支持ChatGPT和DeepSeek集成，跨平台运行于Windows、macOS和Linux。",
+          "name": "deepjazz",
+          "url": "https://github.com/jisungk/deepjazz",
+          "description": "基于Keras和Theano的深度学习爵士乐生成项目，利用LSTM神经网络自动创作独特的爵士音乐。",
           "tags": [
-            "Markdown",
-            "AI编辑器",
-            "跨平台"
+            "deep-learning",
+            "music-generation",
+            "keras",
+            "lstm"
           ],
-          "stars": 2194,
-          "lastUpdated": "2026-03-20T13:12:09Z",
+          "stars": 2895,
+          "lastUpdated": "2026-03-19T03:10:31Z",
           "health": "Active",
-          "addedAt": "2026-03-20T13:13:31.058Z",
-          "_lastChecked": "2026-03-20T13:13:44.681Z"
+          "addedAt": "2026-03-20T14:46:19.777Z",
+          "_lastChecked": "2026-03-20T14:46:37.859Z"
         },
         {
-          "name": "banana-slides",
-          "url": "https://github.com/Anionex/banana-slides",
-          "description": "基于nano banana pro的AI原生PPT生成应用，支持模板上传、智能素材解析、一句话/大纲自动生成PPT，语音修改及一键导出可编辑文件。",
+          "name": "Resume-Matcher",
+          "url": "https://github.com/srbhr/Resume-Matcher",
+          "description": "基于AI的简历优化工具，利用NLP和向量搜索技术帮助求职者匹配职位描述。提供关键词建议和简历分析，提高简历通过ATS系统的几率。",
           "tags": [
-            "AI PPT",
-            "Slides Generator",
-            "LLM"
+            "NLP",
+            "Machine Learning",
+            "Resume",
+            "ATS",
+            "Vector Search"
           ],
-          "stars": 13139,
-          "lastUpdated": "2026-03-16T14:29:38Z",
+          "stars": 26363,
+          "lastUpdated": "2026-03-18T18:56:10Z",
           "health": "Active",
-          "addedAt": "2026-03-20T13:43:10.619Z",
-          "_lastChecked": "2026-03-20T13:43:27.367Z"
+          "addedAt": "2026-03-20T14:53:57.255Z",
+          "_lastChecked": "2026-03-20T14:54:14.815Z"
         },
-        {
-          "name": "meetily",
-          "url": "https://github.com/Zackriya-Solutions/meetily",
-          "description": "隐私优先的AI会议助手，支持Parakeet/Whisper实时转录和Ollama本地总结，100%本地处理无需云端。",
-          "tags": [
-            "AI会议助手",
-            "语音转文字",
-            "本地AI",
-            "隐私保护"
-          ],
-          "stars": 10486,
-          "lastUpdated": "2026-03-16T06:52:04Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T13:55:52.078Z",
-          "_lastChecked": "2026-03-20T13:56:11.044Z"
-        },
-        {
-          "name": "reor",
-          "url": "https://github.com/reorproject/reor",
-          "description": "一款注重隐私的本地AI个人知识管理应用，专为高熵人群设计。集成RAG技术和本地大语言模型，让笔记管理更智能高效。",
-          "tags": [
-            "AI",
-            "RAG",
-            "笔记管理",
-            "本地优先",
-            "知识管理"
-          ],
-          "stars": 8543,
-          "lastUpdated": "2025-05-13T21:28:59Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T13:56:13.045Z",
-          "_lastChecked": "2026-03-20T13:56:36.685Z"
-        },
-        {
-          "name": "Magic123",
-          "url": "https://github.com/guochengqian/Magic123",
-          "description": "ICLR24官方实现，仅需一张图片即可生成高质量3D物体。结合2D和3D扩散先验，实现精细的图像到3D转换。",
-          "tags": [
-            "3D生成",
-            "图像转3D",
-            "扩散模型"
-          ],
-          "stars": 1621,
-          "lastUpdated": "2025-05-29T03:17:15Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T13:58:18.418Z",
-          "_lastChecked": "2026-03-20T13:58:38.031Z"
-        },
-        {
-          "name": "Hunyuan3D-2-WinPortable",
-          "url": "https://github.com/YanWenKun/Hunyuan3D-2-WinPortable",
-          "description": "腾讯混元3D生成模型的Windows便携版整合包，支持从文本/图像生成高质量3D模型与纹理。一键部署，开箱即用。",
-          "tags": [
-            "3D生成",
-            "图像转3D",
-            "AI创作"
-          ],
-          "stars": 1108,
-          "lastUpdated": "2025-11-19T00:18:58Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T13:59:23.942Z",
-          "_lastChecked": "2026-03-20T13:59:47.993Z"
-        },
-        {
-          "name": "DiffSensei",
-          "url": "https://github.com/jianzongwu/DiffSensei",
-          "description": "CVPR 2025 论文实现，将多模态大语言模型与扩散模型结合，实现定制化漫画生成。",
-          "tags": [
-            "Diffusion Models",
-            "Manga Generation",
-            "Multi-Modal LLM"
-          ],
-          "stars": 904,
-          "lastUpdated": "2025-02-05T03:02:38Z",
-          "health": "Stable",
-          "addedAt": "2026-03-20T14:00:04.912Z",
-          "_lastChecked": "2026-03-20T14:00:37.051Z"
-        },
-        {
-          "name": "coco-app",
-          "url": "https://github.com/infinilabs/coco-app",
-          "description": "Coco AI 是一款轻量级个人 AI 搜索助手，支持跨文档、图片、视频等统一搜索。基于 Tauri 构建，提供类似 Raycast/Spotlight 的快速启动体验。",
-          "tags": [
-            "AI搜索",
-            "桌面助手",
-            "统一搜索"
-          ],
-          "stars": 677,
-          "lastUpdated": "2026-02-26T02:19:28Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T14:01:49.954Z",
-          "_lastChecked": "2026-03-20T14:02:04.622Z"
-        },
-        {
-          "name": "AChat",
-          "url": "https://github.com/AprilNEA/AChat",
-          "description": "开源自托管的AI平台，专为企业和团队设计，支持本地优先处理与远程同步，兼容多种主流LLM模型。",
-          "tags": [
-            "self-hosted",
-            "enterprise",
-            "chatbot",
-            "agent"
-          ],
-          "stars": 3262,
-          "lastUpdated": "2025-07-17T09:09:21Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T14:11:52.822Z",
-          "_lastChecked": "2026-03-20T14:12:09.725Z"
-        },
-        {
-          "name": "AingDesk",
-          "url": "https://github.com/aingdesk/AingDesk",
-          "description": "一款简单易用的AI助手桌面应用，支持知识库管理、多模型API接入、联网搜索和智能体功能，适合个人和企业提升工作效率。",
-          "tags": [
-            "AI助手",
-            "知识库",
-            "智能体"
-          ],
-          "stars": 2479,
-          "lastUpdated": "2025-07-02T02:26:17Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T14:12:11.727Z",
-          "_lastChecked": "2026-03-20T14:12:31.611Z"
-        },
-        {
-          "name": "AcademicForge",
-          "url": "https://github.com/HughYau/AcademicForge",
-          "description": "精心策划的学术写作与研究技能集合，助力科研人员提升学术写作效率。",
-          "tags": [
-            "AI",
-            "学术写作",
-            "研究工具"
-          ],
-          "stars": 503,
-          "lastUpdated": "2026-03-17T10:00:45Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T14:18:11.583Z",
-          "_lastChecked": "2026-03-20T14:18:42.691Z"
-        },
-        {
-          "name": "infinite-bookshelf",
-          "url": "https://github.com/Bklieger/infinite-bookshelf",
-          "description": "使用 Groq 和 Llama3 在几秒内生成完整书籍的 AI 创作工具。",
-          "tags": [
-            "AI",
-            "Groq",
-            "Llama3",
-            "书籍生成"
-          ],
-          "stars": 1355,
-          "lastUpdated": "2025-10-09T21:16:44Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T14:22:00.648Z",
-          "_lastChecked": "2026-03-20T14:22:24.117Z"
-        },
-        {
-          "name": "GFPGAN",
-          "url": "https://github.com/TencentARC/GFPGAN",
-          "description": "腾讯开源的实用人脸修复算法，利用生成对抗网络(GAN)实现真实世界人脸图像的高质量修复与增强。",
-          "tags": [
-            "人脸修复",
-            "图像增强",
-            "GAN",
-            "PyTorch"
-          ],
-          "stars": 37403,
-          "lastUpdated": "2024-07-26T18:44:02Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T14:25:26.781Z",
-          "_lastChecked": "2026-03-20T14:25:42.410Z"
-        },
-        {
-          "name": "anything-llm",
-          "url": "https://github.com/Mintplex-Labs/anything-llm",
-          "description": "一款全能的AI生产力加速器，支持本地部署和隐私优先，无需复杂配置。集成多种LLM模型、RAG检索增强生成和向量数据库功能。",
-          "tags": [
-            "LLM",
-            "RAG",
-            "本地部署"
-          ],
-          "stars": 56505,
-          "lastUpdated": "2026-03-20T04:10:41Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T14:34:40.149Z",
-          "_lastChecked": "2026-03-20T14:34:58.412Z"
-        }
-      ]
-    },
-    {
-      "id": "learning",
-      "name": "📚 学习资料",
-      "description": "帮助理解和学习 AI、大语言模型底层原理的优质开源教程与指南。",
-      "projects": [
         {
           "name": "AITreasureBox",
           "url": "https://github.com/superiorlu/AITreasureBox",
@@ -2821,22 +4420,6 @@
           "health": "Active",
           "addedAt": "2026-03-20T12:45:08.894Z",
           "_lastChecked": "2026-03-20T12:45:27.270Z"
-        },
-        {
-          "name": "Prompt-Engineering-Guide",
-          "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
-          "description": "全面的提示工程学习指南，涵盖论文、教程、笔记本和实践资源。包含 RAG 和 AI Agents 等前沿主题，是掌握大语言模型应用的必备资料。",
-          "tags": [
-            "prompt-engineering",
-            "llms",
-            "rag",
-            "agents"
-          ],
-          "stars": 71997,
-          "lastUpdated": "2026-03-11T20:09:13Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T13:49:01.950Z",
-          "_lastChecked": "2026-03-20T13:49:24.564Z"
         },
         {
           "name": "rag-from-scratch",
@@ -2963,22 +4546,6 @@
           "_lastChecked": "2026-03-20T14:30:00.339Z"
         },
         {
-          "name": "AiLearning-Theory-Applying",
-          "url": "https://github.com/ben1234560/AiLearning-Theory-Applying",
-          "description": "AI理论及应用实战教程，涵盖基础知识、Transformer、NLP、ML、DL及竞赛内容。含大量注释和数据集，适合初学者快速上手并复现。",
-          "tags": [
-            "机器学习",
-            "深度学习",
-            "NLP",
-            "Kaggle竞赛"
-          ],
-          "stars": 3475,
-          "lastUpdated": "2025-05-01T15:24:43Z",
-          "health": "Active",
-          "addedAt": "2026-03-20T14:30:02.341Z",
-          "_lastChecked": "2026-03-20T14:30:18.911Z"
-        },
-        {
           "name": "big_vision",
           "url": "https://github.com/google-research/big_vision",
           "description": "Google Research官方视觉模型代码库，包含Vision Transformer、SigLIP、MLP-Mixer、LiT等开创性视觉架构的实现。是学习现代视觉深度学习的重要参考资源。",
@@ -3069,6 +4636,211 @@
           "health": "Active",
           "addedAt": "2026-03-20T14:42:16.013Z",
           "_lastChecked": "2026-03-20T14:42:32.674Z"
+        },
+        {
+          "name": "nlp-paper",
+          "url": "https://github.com/DengBoCong/nlp-paper",
+          "description": "自然语言处理领域论文合集，附带阅读笔记、模型复现代码（TensorFlow和PyTorch双版本）及数据处理脚本。",
+          "tags": [
+            "NLP",
+            "论文笔记",
+            "BERT",
+            "PyTorch"
+          ],
+          "stars": 1331,
+          "lastUpdated": "2024-01-05T06:50:56Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:45:20.968Z",
+          "_lastChecked": "2026-03-20T14:45:33.126Z"
+        },
+        {
+          "name": "awesome-ai-in-finance",
+          "url": "https://github.com/georgezouq/awesome-ai-in-finance",
+          "description": "精选AI与深度学习在金融市场应用的资源列表，涵盖LLM、强化学习、量化交易等前沿策略与工具。",
+          "tags": [
+            "深度学习",
+            "量化金融",
+            "LLM",
+            "强化学习"
+          ],
+          "stars": 5490,
+          "lastUpdated": "2026-03-19T00:43:57Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:47:59.740Z",
+          "_lastChecked": "2026-03-20T14:48:16.518Z"
+        },
+        {
+          "name": "DL4Proteins-notebooks",
+          "url": "https://github.com/Graylab/DL4Proteins-notebooks",
+          "description": "深度学习蛋白质结构预测与设计的Colab笔记本合集，涵盖扩散模型、图神经网络等前沿技术。适合AI+生物交叉领域的学习与实践。",
+          "tags": [
+            "Deep Learning",
+            "Protein Design",
+            "Bioinformatics",
+            "Jupyter Notebook"
+          ],
+          "stars": 661,
+          "lastUpdated": "2026-03-19T00:24:26Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:48:36.553Z",
+          "_lastChecked": "2026-03-20T14:48:56.947Z"
+        },
+        {
+          "name": "papers-for-molecular-design-using-DL",
+          "url": "https://github.com/AspirinCode/papers-for-molecular-design-using-DL",
+          "description": "分子与材料设计领域的深度学习论文精选列表，涵盖扩散模型、GAN、VAE、Transformer等生成式AI方法在药物设计和材料发现中的应用。",
+          "tags": [
+            "生成式AI",
+            "药物设计",
+            "材料设计",
+            "深度学习"
+          ],
+          "stars": 928,
+          "lastUpdated": "2026-03-13T05:46:45Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:49:37.019Z",
+          "_lastChecked": "2026-03-20T14:49:51.521Z"
+        },
+        {
+          "name": "pumpkin-book",
+          "url": "https://github.com/datawhalechina/pumpkin-book",
+          "description": "南瓜书是对周志华《机器学习》（西瓜书）中公式的详细推导与解析，帮助读者深入理解机器学习核心原理。",
+          "tags": [
+            "机器学习",
+            "教材"
+          ],
+          "stars": 25723,
+          "lastUpdated": "2026-03-01T00:31:07Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:53:18.068Z",
+          "_lastChecked": "2026-03-20T14:53:31.527Z"
+        },
+        {
+          "name": "pytorch-deep-learning",
+          "url": "https://github.com/mrdbourke/pytorch-deep-learning",
+          "description": "Zero to Mastery 深度学习课程的完整学习资料，涵盖 PyTorch 基础到实战项目的系统教程。",
+          "tags": [
+            "PyTorch",
+            "深度学习",
+            "机器学习"
+          ],
+          "stars": 17433,
+          "lastUpdated": "2026-02-11T11:11:15Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:53:40.802Z",
+          "_lastChecked": "2026-03-20T14:53:55.253Z"
+        },
+        {
+          "name": "C",
+          "url": "https://github.com/TheAlgorithms/C",
+          "description": "TheAlgorithms 组织旗下的 C 语言算法集合，涵盖数学、机器学习、计算机科学等领域的算法实现，适合教育学习与面试准备。",
+          "tags": [
+            "算法",
+            "机器学习",
+            "数据结构",
+            "教育"
+          ],
+          "stars": 21824,
+          "lastUpdated": "2024-08-07T21:56:16Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:54:16.817Z",
+          "_lastChecked": "2026-03-20T14:54:35.861Z"
+        },
+        {
+          "name": "ML-NLP",
+          "url": "https://github.com/NLP-LOVE/ML-NLP",
+          "description": "机器学习、深度学习和NLP面试知识点与代码实现的全面合集，涵盖算法工程师必备的理论基础。",
+          "tags": [
+            "机器学习",
+            "深度学习",
+            "NLP",
+            "面试"
+          ],
+          "stars": 17571,
+          "lastUpdated": "2026-01-09T15:16:21Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:54:58.518Z",
+          "_lastChecked": "2026-03-20T14:55:13.292Z"
+        },
+        {
+          "name": "computer-vision-course",
+          "url": "https://github.com/huggingface/computer-vision-course",
+          "description": "Hugging Face 社区驱动的计算机视觉课程，涵盖神经网络、CNN、生成式AI和Transformer等核心内容。适合想要系统学习计算机视觉技术的开发者和研究者。",
+          "tags": [
+            "computer-vision",
+            "neural-networks",
+            "transformers",
+            "generative-ai"
+          ],
+          "stars": 801,
+          "lastUpdated": "2026-01-15T11:22:35Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T15:00:41.655Z",
+          "_lastChecked": "2026-03-20T15:01:00.651Z"
+        },
+        {
+          "name": "awesome-spring-ai",
+          "url": "https://github.com/spring-ai-community/awesome-spring-ai",
+          "description": "Spring AI 开发资源精选列表，汇集了构建生成式 AI 应用的工具、教程和项目资源。",
+          "tags": [
+            "Spring AI",
+            "Java",
+            "Generative AI",
+            "Resources"
+          ],
+          "stars": 681,
+          "lastUpdated": "2025-12-21T08:51:20Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T15:02:46.942Z",
+          "_lastChecked": "2026-03-20T15:03:01.585Z"
+        },
+        {
+          "name": "awesome-generative-ai",
+          "url": "https://github.com/filipecalegario/awesome-generative-ai",
+          "description": "精选的生成式AI资源列表，涵盖工具、模型、作品和参考资料。包含ChatGPT、DALL-E、Stable Diffusion等热门主题的全面资源汇总。",
+          "tags": [
+            "Generative AI",
+            "Awesome List",
+            "LLM",
+            "Prompt Engineering"
+          ],
+          "stars": 3392,
+          "lastUpdated": "2025-12-18T07:31:25Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T15:03:03.587Z",
+          "_lastChecked": "2026-03-20T15:03:22.053Z"
+        },
+        {
+          "name": "generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "微软官方出品的生成式AI入门教程，包含21个课程，涵盖LLM、提示工程、语义搜索等核心主题。适合初学者系统学习生成式AI开发，从理论到实践全面覆盖。",
+          "tags": [
+            "generative-ai",
+            "llms",
+            "prompt-engineering",
+            "openai",
+            "azure"
+          ],
+          "stars": 108291,
+          "lastUpdated": "2026-03-19T03:47:42Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T15:15:30.274Z",
+          "_lastChecked": "2026-03-20T15:15:45.834Z"
+        },
+        {
+          "name": "prompts.chat",
+          "url": "https://github.com/f/prompts.chat",
+          "description": "前身为 Awesome ChatGPT Prompts，是一个开源的提示词分享与发现平台。支持自托管，帮助用户收集和管理社区优质提示词资源。",
+          "tags": [
+            "Prompt Engineering",
+            "ChatGPT",
+            "Open Source"
+          ],
+          "stars": 153422,
+          "lastUpdated": "2026-03-20T03:50:59Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T15:16:09.098Z",
+          "_lastChecked": "2026-03-20T15:16:29.694Z"
         }
       ]
     }

@@ -165,12 +165,15 @@ Description: ${item.description || 'No description'}
 Topics: ${item.topics?.join(', ') || 'None'}
 
 Valid Categories:
-- trending (🔥 热门推荐)
-- llms (💬 大语言模型)
-- agents (🤖 智能体 (Agents))
-- devtools (🛠️ 开发者工具)
-- productivity (🎨 生产力与创作)
-- learning (📚 学习资料)
+- llms (🧠 基础大模型 (Foundation Models))
+- agents (🤖 智能体与编排 (Agents & Orchestration))
+- rag_data (🔍 RAG与检索 (RAG & Retrieval))
+- infrastructure (☁️ 基础设施与部署 (Infra & Deployment))
+- finetuning (🔧 微调与训练 (Fine-tuning & Training))
+- multimodal (👁️ 多模态与音视频 (Multimodal & Vision/Audio))
+- devtools (🛠️ 开发工具与SDK (Developer Tools & SDKs))
+- applications (🎨 AI终端应用 (AI Applications))
+- learning (📚 学习与资源 (Learning & Resources))
 
 Determine if the project is valuable enough (e.g. not a fork, has distinct value).
 If it's NOT valuable, return {"is_valuable": false}.
@@ -224,11 +227,42 @@ Return ONLY standard JSON. Keep JSON minimal.`;
     }
   }
 
+  // Refreshed Trending logic: Calculate fully objectively, overriding LLM randomness
+  const threeMonthsAgo = new Date();
+  threeMonthsAgo.setMonth(threeMonthsAgo.getMonth() - 3);
+
+  let candidates = [];
+  projectDb.categories.forEach(category => {
+    if (category.id === 'trending') return;
+    if (category.projects) {
+      category.projects.forEach(p => {
+        let dateObj;
+        try {
+          dateObj = new Date(p.lastUpdated);
+        } catch(e) {}
+        if (dateObj && !isNaN(dateObj.getTime()) && dateObj > threeMonthsAgo) {
+          if (p.stars && p.stars >= 1000) {
+            candidates.push(p);
+          }
+        }
+      });
+    }
+  });
+
+  candidates.sort((a, b) => b.stars - a.stars);
+  const topTrending = candidates.slice(0, 30);
+  
+  const trendingCategory = projectDb.categories.find(c => c.id === 'trending');
+  if (trendingCategory) {
+    trendingCategory.projects = topTrending.map(p => ({...p}));
+  }
+
   // Save changes
   if (evaluatedCount > 0) {
     saveJson(queueFile, pendingDb);
     saveJson(dataFile, projectDb);
     console.log(`\n🎉 Evaluated ${evaluatedCount} projects. Added ${addedCount} to the active directory.`);
+    console.log(`🔥 Trending category automatically rebuilt with top ${topTrending.length} recently updated high-star projects.`);
   }
 }
 
