@@ -413,6 +413,38 @@
           "health": "Active",
           "addedAt": "2026-03-20T14:21:44.627Z",
           "_lastChecked": "2026-03-20T14:21:58.646Z"
+        },
+        {
+          "name": "transformer-xl",
+          "url": "https://github.com/kimiyoung/transformer-xl",
+          "description": "Transformer-XL官方实现，突破固定上下文长度限制的神经网络语言模型，支持超长依赖关系学习。",
+          "tags": [
+            "Transformer",
+            "Language-Model",
+            "NLP",
+            "Deep-Learning"
+          ],
+          "stars": 3695,
+          "lastUpdated": "2022-09-21T06:22:01Z",
+          "health": "Stable",
+          "addedAt": "2026-03-20T14:29:00.784Z",
+          "_lastChecked": "2026-03-20T14:29:14.629Z"
+        },
+        {
+          "name": "open-webui",
+          "url": "https://github.com/open-webui/open-webui",
+          "description": "开源的自托管AI Web界面，支持Ollama、OpenAI等多种LLM后端，内置RAG检索增强和MCP功能。",
+          "tags": [
+            "LLM",
+            "WebUI",
+            "Ollama",
+            "RAG"
+          ],
+          "stars": 127983,
+          "lastUpdated": "2026-03-20T00:52:44Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:32:55.300Z",
+          "_lastChecked": "2026-03-20T14:33:17.047Z"
         }
       ]
     },
@@ -1372,6 +1404,84 @@
           "health": "Active",
           "addedAt": "2026-03-20T14:28:07.920Z",
           "_lastChecked": "2026-03-20T14:28:19.521Z"
+        },
+        {
+          "name": "MiniSearch",
+          "url": "https://github.com/felladrin/MiniSearch",
+          "description": "一个极简的AI搜索引擎，完全在浏览器本地运行，结合WebLLM和SearXNG实现智能问答与网络搜索。",
+          "tags": [
+            "AI搜索",
+            "RAG",
+            "WebLLM"
+          ],
+          "stars": 550,
+          "lastUpdated": "2026-03-19T17:38:30Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:32:12.657Z",
+          "_lastChecked": "2026-03-20T14:32:36.476Z"
+        },
+        {
+          "name": "everything-claude-code",
+          "url": "https://github.com/affaan-m/everything-claude-code",
+          "description": "一个全面的AI编程代理性能优化系统，涵盖技能、记忆、安全和研究优先开发模式，支持Claude Code、Codex、Cursor等多种AI编程工具。",
+          "tags": [
+            "Claude Code",
+            "AI Agents",
+            "MCP",
+            "Developer Tools"
+          ],
+          "stars": 89623,
+          "lastUpdated": "2026-03-20T13:54:13Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:33:19.049Z",
+          "_lastChecked": "2026-03-20T14:33:40.094Z"
+        },
+        {
+          "name": "ragflow",
+          "url": "https://github.com/infiniflow/ragflow",
+          "description": "RAGFlow 是领先的开源检索增强生成(RAG)引擎，融合前沿RAG技术与Agent能力，为LLM构建卓越的上下文层。支持深度文档理解、GraphRAG和智能工作流。",
+          "tags": [
+            "RAG",
+            "Agent",
+            "LLM",
+            "GraphRAG"
+          ],
+          "stars": 75594,
+          "lastUpdated": "2026-03-20T13:29:52Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:34:13.249Z",
+          "_lastChecked": "2026-03-20T14:34:38.147Z"
+        },
+        {
+          "name": "trigger.dev",
+          "url": "https://github.com/triggerdotdev/trigger.dev",
+          "description": "Trigger.dev 是一个用于构建和部署完全托管 AI 智能体与工作流的平台。支持无服务器架构，提供强大的自动化编排能力和 MCP 集成。",
+          "tags": [
+            "AI Agents",
+            "Workflow Automation",
+            "Serverless",
+            "MCP"
+          ],
+          "stars": 14097,
+          "lastUpdated": "2026-03-20T09:28:55Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:35:15.184Z",
+          "_lastChecked": "2026-03-20T14:35:31.483Z"
+        },
+        {
+          "name": "ag-ui",
+          "url": "https://github.com/ag-ui-protocol/ag-ui",
+          "description": "AG-UI 是一个智能体-用户交互协议，让开发者能够轻松将 AI Agent 集成到前端应用中，实现流畅的人机协作体验。",
+          "tags": [
+            "AI Agents",
+            "Frontend",
+            "Protocol"
+          ],
+          "stars": 12579,
+          "lastUpdated": "2026-03-20T14:04:11Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:35:33.485Z",
+          "_lastChecked": "2026-03-20T14:35:50.103Z"
         }
       ]
     },
@@ -2110,6 +2220,115 @@
           "health": "Active",
           "addedAt": "2026-03-20T14:25:07.815Z",
           "_lastChecked": "2026-03-20T14:25:24.778Z"
+        },
+        {
+          "name": "SwanLab",
+          "url": "https://github.com/SwanHubX/SwanLab",
+          "description": "SwanLab 是一款开源的 AI 训练跟踪与可视化工具，支持云端和本地部署，可与 PyTorch、Transformers 等主流框架无缝集成。",
+          "tags": [
+            "MLOps",
+            "可视化",
+            "训练跟踪",
+            "PyTorch"
+          ],
+          "stars": 3704,
+          "lastUpdated": "2026-03-20T09:22:06Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:28:43.522Z",
+          "_lastChecked": "2026-03-20T14:28:58.780Z"
+        },
+        {
+          "name": "towhee",
+          "url": "https://github.com/towhee-io/towhee",
+          "description": "Towhee 是一个专为神经网络数据处理设计的框架，让构建 AI 数据管道变得简单高效。支持图像、视频、文本等多种非结构化数据的特征提取与向量嵌入。",
+          "tags": [
+            "机器学习",
+            "数据处理",
+            "向量嵌入",
+            "计算机视觉"
+          ],
+          "stars": 3460,
+          "lastUpdated": "2024-10-18T00:01:12Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:30:20.913Z",
+          "_lastChecked": "2026-03-20T14:30:34.961Z"
+        },
+        {
+          "name": "SegFormer",
+          "url": "https://github.com/NVlabs/SegFormer",
+          "description": "NVIDIA官方发布的基于Transformer的语义分割模型，在ADE20K和Cityscapes等数据集上取得SOTA性能。",
+          "tags": [
+            "语义分割",
+            "Transformer",
+            "计算机视觉"
+          ],
+          "stars": 3390,
+          "lastUpdated": "2024-08-02T15:50:33Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:30:36.963Z",
+          "_lastChecked": "2026-03-20T14:30:58.633Z"
+        },
+        {
+          "name": "optimum",
+          "url": "https://github.com/huggingface/optimum",
+          "description": "Hugging Face 官方推出的硬件优化工具包，可加速 Transformers、Diffusers 等模型的推理与训练。支持 ONNX、量化及多种硬件后端优化。",
+          "tags": [
+            "optimization",
+            "inference",
+            "transformers",
+            "quantization"
+          ],
+          "stars": 3333,
+          "lastUpdated": "2026-03-13T15:41:23Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:31:18.911Z",
+          "_lastChecked": "2026-03-20T14:31:34.125Z"
+        },
+        {
+          "name": "web-search-mcp",
+          "url": "https://github.com/mrkrsl/web-search-mcp",
+          "description": "一个简单的本地托管Web搜索MCP服务器，专为本地LLM设计。让您的本地大语言模型具备网络搜索能力，支持LM Studio等工具。",
+          "tags": [
+            "MCP",
+            "Web搜索",
+            "本地LLM"
+          ],
+          "stars": 654,
+          "lastUpdated": "2025-08-08T19:58:47Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:31:36.126Z",
+          "_lastChecked": "2026-03-20T14:32:04.720Z"
+        },
+        {
+          "name": "awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "MCP服务器资源合集，汇集了各类Model Context Protocol服务器实现，帮助开发者快速集成AI模型与外部工具的交互能力。",
+          "tags": [
+            "MCP",
+            "AI",
+            "服务器",
+            "资源合集"
+          ],
+          "stars": 35000,
+          "lastUpdated": "2025-01-15T10:30:00Z",
+          "health": "Active",
+          "addedAt": "2025-01-20T12:00:00.000Z",
+          "_lastChecked": "2026-03-20T14:34:11.241Z"
+        },
+        {
+          "name": "context7",
+          "url": "https://github.com/upstash/context7",
+          "description": "为LLM和AI代码编辑器提供实时更新的代码文档平台，支持MCP协议集成，让AI助手获取最新API文档和代码示例。",
+          "tags": [
+            "LLM",
+            "MCP",
+            "文档工具"
+          ],
+          "stars": 49883,
+          "lastUpdated": "2026-03-19T22:49:19Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:35:00.414Z",
+          "_lastChecked": "2026-03-20T14:35:13.182Z"
         }
       ]
     },
@@ -2348,6 +2567,21 @@
           "health": "Active",
           "addedAt": "2026-03-20T14:25:26.781Z",
           "_lastChecked": "2026-03-20T14:25:42.410Z"
+        },
+        {
+          "name": "anything-llm",
+          "url": "https://github.com/Mintplex-Labs/anything-llm",
+          "description": "一款全能的AI生产力加速器，支持本地部署和隐私优先，无需复杂配置。集成多种LLM模型、RAG检索增强生成和向量数据库功能。",
+          "tags": [
+            "LLM",
+            "RAG",
+            "本地部署"
+          ],
+          "stars": 56505,
+          "lastUpdated": "2026-03-20T04:10:41Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:34:40.149Z",
+          "_lastChecked": "2026-03-20T14:34:58.412Z"
         }
       ]
     },
@@ -2479,6 +2713,83 @@
           "health": "Active",
           "addedAt": "2026-03-20T14:28:21.521Z",
           "_lastChecked": "2026-03-20T14:28:35.228Z"
+        },
+        {
+          "name": "awesome-DeepLearning",
+          "url": "https://github.com/PaddlePaddle/awesome-DeepLearning",
+          "description": "飞桨深度学习课程体系，涵盖入门到进阶课程、学术与产业实践案例、知识百科及面试题库。",
+          "tags": [
+            "深度学习",
+            "NLP",
+            "计算机视觉",
+            "强化学习"
+          ],
+          "stars": 3592,
+          "lastUpdated": "2024-07-25T00:51:28Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:29:16.631Z",
+          "_lastChecked": "2026-03-20T14:29:33.572Z"
+        },
+        {
+          "name": "Awesome-Visual-Transformer",
+          "url": "https://github.com/dk-liang/Awesome-Visual-Transformer",
+          "description": "收集视觉Transformer相关论文的精选列表，涵盖计算机视觉领域的Transformer前沿研究。适合研究人员和开发者系统学习视觉Transformer技术。",
+          "tags": [
+            "Transformer",
+            "Computer Vision",
+            "Papers"
+          ],
+          "stars": 3574,
+          "lastUpdated": "2025-01-07T01:59:49Z",
+          "health": "Maintained",
+          "addedAt": "2026-03-20T14:29:35.574Z",
+          "_lastChecked": "2026-03-20T14:30:00.339Z"
+        },
+        {
+          "name": "AiLearning-Theory-Applying",
+          "url": "https://github.com/ben1234560/AiLearning-Theory-Applying",
+          "description": "AI理论及应用实战教程，涵盖基础知识、Transformer、NLP、ML、DL及竞赛内容。含大量注释和数据集，适合初学者快速上手并复现。",
+          "tags": [
+            "机器学习",
+            "深度学习",
+            "NLP",
+            "Kaggle竞赛"
+          ],
+          "stars": 3475,
+          "lastUpdated": "2025-05-01T15:24:43Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:30:02.341Z",
+          "_lastChecked": "2026-03-20T14:30:18.911Z"
+        },
+        {
+          "name": "big_vision",
+          "url": "https://github.com/google-research/big_vision",
+          "description": "Google Research官方视觉模型代码库，包含Vision Transformer、SigLIP、MLP-Mixer、LiT等开创性视觉架构的实现。是学习现代视觉深度学习的重要参考资源。",
+          "tags": [
+            "Vision Transformer",
+            "Computer Vision",
+            "Deep Learning"
+          ],
+          "stars": 3386,
+          "lastUpdated": "2025-05-19T13:55:52Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:31:00.635Z",
+          "_lastChecked": "2026-03-20T14:31:16.909Z"
+        },
+        {
+          "name": "awesome-pretrained-models-for-information-retrieval",
+          "url": "https://github.com/ict-bigdatalab/awesome-pretrained-models-for-information-retrieval",
+          "description": "精选信息检索预训练模型论文列表，涵盖BERT检索、稠密检索、重排序等前沿研究方向。",
+          "tags": [
+            "信息检索",
+            "预训练模型",
+            "论文列表"
+          ],
+          "stars": 678,
+          "lastUpdated": "2024-01-07T09:06:09Z",
+          "health": "Active",
+          "addedAt": "2026-03-20T14:32:38.478Z",
+          "_lastChecked": "2026-03-20T14:32:53.298Z"
         }
       ]
     }
