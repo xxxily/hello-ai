@@ -82,7 +82,7 @@ graph TD
 - **客观热门榜单：** 每日客观计算，强制重算最近更新、Star最高的头尾 30 名项目，自动将其覆盖到 `🔥 热门推荐` 中。
 
 ### 3. 前端自动化渲染与视图解耦 (View Generation)
-- **自适应路由呈现：** 本项目采用 VitePress 框架构建，其 Navbar (`nav`) 与 Sidebar (`sidebar`) 被完全改写，不再静态录入。只要 `projects.json` 发生增加/删减分类操作，VitePress 编译器将动态分析它并精准呈递进前端侧边栏，避免数据与 UI 产生视图错乱。
+- **轻量级自适应路由呈现：** 本项目采用 VitePress 框架构建，其 Navbar (`nav`) 与 Sidebar (`sidebar`) 被完全改写为动态读取。当 `projects.json` 发生分类变动时，会自动抽取极简版的 `categories.json` 供前端导航按需加载。这既避免了由于大 json 造成的前端极慢解析，又能毫无迟滞地将最新分类精准呈递进前端侧边栏，避免数据与 UI 产生的视图错乱。
 - **智能 Markdown 小类折叠：** `generate-docs.js` 会自动遍历大类，并在生成各个大类文档页时，根据项目归属的 `subcategory` 将项目智能分组到 `## 标题` 之下，确保大量展示时的整洁感。
 
 ### 4. 自动化驱动引擎 (Automation Process)
@@ -137,6 +137,10 @@ cp .env.example .env
 - **快速消耗完待审队列并自动退出** (跳过发现环节，适合配合上面的重置操作，不触发 GitHub API 请求风控)：
   ```bash
   npm run ai:consume-queue
+  ```
+- **单独提取轻量级分类数据** (用于前端导航与侧边栏渲染，注意该脚本在执行更新后通常会自动触发)：
+  ```bash
+  npm run ai:extract-categories
   ```
 
 ### 4. 动态生成页面与本地阅览

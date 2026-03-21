@@ -2,6 +2,7 @@ import 'dotenv/config';
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import { extractCategories } from './extract-categories.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -96,6 +97,7 @@ async function updateStatus() {
 
   if (updatedCount > 0) {
     fs.writeFileSync(dataFile, JSON.stringify(data, null, 2), 'utf-8');
+    extractCategories();
     console.log(`✅ Successfully updated ${updatedCount} projects.`);
   } else {
     console.log('No projects updated in this run.');

@@ -45,6 +45,7 @@
     "docs:dev": "vitepress dev ./",
     "docs:build": "vitepress build ./",
     "docs:preview": "vitepress preview ./",
+    "ai:extract-categories": "node scripts/extract-categories.js",
     "ai:discover-eval": "node scripts/discover-and-evaluate.js",
     "ai:update-status": "node scripts/update-status.js",
     "ai:generate-docs": "node scripts/generate-docs.js",

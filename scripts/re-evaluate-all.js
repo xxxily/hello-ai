@@ -16,8 +16,13 @@ function loadJson(filePath, defaultVal = null) {
   return defaultVal;
 }
 
+import { extractCategories } from './extract-categories.js';
+
 function saveJson(filePath, data) {
   fs.writeFileSync(filePath, JSON.stringify(data, null, 2), 'utf-8');
+  if (filePath.endsWith('projects.json')) {
+    extractCategories();
+  }
 }
 
 function run() {

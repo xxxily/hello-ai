@@ -1,18 +1,18 @@
 import fs from 'fs';
 import path from 'path';
 
-// Instead of hardcoding categories, read them from data/projects.json
-const dataPath = path.resolve(__dirname, '../../data/projects.json');
+// Instead of hardcoding categories, read them from data/categories.json
+const dataPath = path.resolve(__dirname, '../../data/categories.json');
 let aiCategories = [];
 
 try {
-  const data = JSON.parse(fs.readFileSync(dataPath, 'utf-8'));
-  aiCategories = data.categories.map(c => ({
+  const categories = JSON.parse(fs.readFileSync(dataPath, 'utf-8'));
+  aiCategories = categories.map(c => ({
     text: `${c.icon || ''} ${c.name}`.trim(),
     link: `/home/${c.id}.md`
   }));
 } catch (err) {
-  console.error('Failed to load projects.json for nav:', err);
+  console.error('Failed to load categories.json for nav:', err);
 }
 
 export default [

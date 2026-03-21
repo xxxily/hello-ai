@@ -25,8 +25,7 @@ export default {
           s.parentNode.insertBefore(hm, s);
         })();
       `,
-    ],
-    ['script', { src: 'https://cdn.anzz.site/npm/mermaid@10.9.1/dist/mermaid.min.js' }]
+    ]
   ],
   themeConfig: {
     siteTitle: 'Hello-AI',

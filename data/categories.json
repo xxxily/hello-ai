@@ -1,0 +1,67 @@
+[
+  {
+    "id": "trending",
+    "name": "🔥 热门推荐",
+    "icon": ""
+  },
+  {
+    "id": "llms",
+    "name": "🧠 基础大模型",
+    "icon": ""
+  },
+  {
+    "id": "agents",
+    "name": "🤖 智能体与编排",
+    "icon": ""
+  },
+  {
+    "id": "rag_data",
+    "name": "🔍 RAG与检索",
+    "icon": ""
+  },
+  {
+    "id": "infrastructure",
+    "name": "☁️ 基础设施与部署",
+    "icon": ""
+  },
+  {
+    "id": "finetuning",
+    "name": "🔧 微调与训练",
+    "icon": ""
+  },
+  {
+    "id": "multimodal",
+    "name": "👁️ 多模态与音视频",
+    "icon": ""
+  },
+  {
+    "id": "devtools",
+    "name": "🛠️ 开发工具与SDK",
+    "icon": ""
+  },
+  {
+    "id": "applications",
+    "name": "🎨 AI终端应用",
+    "icon": ""
+  },
+  {
+    "id": "learning",
+    "name": "📚 学习与资源",
+    "icon": ""
+  },
+  {
+    "id": "desktop_tools",
+    "name": "💻 桌面与操作系统级应用",
+    "icon": ""
+  },
+  {
+    "id": "robotics_iot",
+    "name": "🦾 机器人与物联网",
+    "icon": ""
+  },
+  {
+    "id": "finance_business",
+    "name": "💼 商业与量化",
+    "icon": ""
+  }
+]
