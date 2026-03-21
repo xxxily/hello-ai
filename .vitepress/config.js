@@ -2,6 +2,7 @@ import zhNav from './nav/zh'
 import zhSidebar from './sidebar/zh'
 
 export default {
+  appearance: 'dark',
   title: 'Hello-AI',
   description: '这个是个帮助自己链接到广阔AI世界的项目，也希望能帮助到你。',
   lang: 'zh-CN',
@@ -21,6 +22,7 @@ export default {
         })();
       `,
     ],
+    ['script', { src: 'https://cdn.jsdelivr.net/npm/mermaid@10.9.1/dist/mermaid.min.js' }]
   ],
   themeConfig: {
     siteTitle: 'Hello-AI',

@@ -1,0 +1,225 @@
+/* 全局页面背景设置 - 赛博朋克深邃科技感 */
+:root {
+  --vp-c-brand: #00f2fe;
+  --vp-c-brand-light: #4facfe;
+  --vp-c-brand-dark: #00d2da;
+  --vp-c-bg: #030816;
+  --vp-c-bg-alt: #050b1d;
+  --vp-c-text-1: #d1d8e0;
+  --vp-c-text-2: #8a9bb3;
+
+  /* 主页相关的预设，也会应用到主页 */
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: linear-gradient(135deg, #00f2fe 0%, #4facfe 100%);
+  --vp-home-hero-image-background-image: linear-gradient(-45deg, #00f2fe 30%, #4facfe 70%);
+  --vp-home-hero-image-filter: blur(90px);
+}
+
+/* 强制进入暗黑科技风格（不管浏览器自带设定是否为 light）*/
+html, html[class~="dark"], body {
+  background-color: #030816 !important;
+  color: var(--vp-c-text-1) !important;
+}
+
+/* 统一侧边栏和顶栏玻璃背景 */
+.VPNavBar, .VPSidebar {
+  background-color: rgba(3, 8, 22, 0.8) !important;
+  backdrop-filter: blur(12px) !important;
+  border-bottom: 1px solid rgba(0, 242, 254, 0.1) !important;
+}
+
+/* 内页目录栏与大纲背景透明 */
+.VPDocAsideOutline {
+  border-left: 1px solid rgba(0, 242, 254, 0.1) !important;
+}
+
+.outline-marker {
+  background-color: #00f2fe !important;
+}
+
+/* 下拉菜单和外框等 */
+.VPMenu {
+  background-color: #050b1d !important;
+  border: 1px solid rgba(0, 242, 254, 0.2) !important;
+}
+
+/* 文章内页特定的霓虹感，避免对阅读造成太大干扰，仅修饰标题等 */
+.VPDoc h1, .VPDoc h2, .VPDoc h3 {
+  color: #00f2fe !important;
+}
+
+.VPDoc a {
+  color: #4facfe !important;
+  text-shadow: 0 0 5px rgba(0,242,254,0.3);
+}
+
+/* 链接Hover发光 */
+.VPDoc a:hover, .VPNavBarMenuLink:hover, .VPSidebarItem.is-active > .item > .link {
+  color: #00f2fe !important;
+  text-shadow: 0 0 8px rgba(0, 242, 254, 0.5);
+}
+
+/* 从 index.md 里提取的代码： 核心内容区背景网格 & 动态光效 */
+#VPContent {
+  background: 
+    radial-gradient(circle at 15% 50%, rgba(0, 242, 254, 0.04), transparent 30%),
+    radial-gradient(circle at 85% 30%, rgba(79, 172, 254, 0.04), transparent 30%),
+    linear-gradient(rgba(0, 242, 254, 0.02) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(0, 242, 254, 0.02) 1px, transparent 1px) !important;
+  background-size: 100% 100%, 100% 100%, 40px 40px, 40px 40px !important;
+  background-position: center !important;
+}
+
+/* 名字发光 & 赛博故障风格 */
+.VPHero .name {
+  background-clip: text;
+  -webkit-background-clip: text;
+  text-shadow: 0 0 15px rgba(0, 242, 254, 0.6), 0 0 30px rgba(79, 172, 254, 0.4);
+  animation: pulse-glow 3s infinite alternate;
+  font-family: 'Inter', 'Courier New', monospace;
+  font-weight: 900;
+  letter-spacing: 4px;
+}
+@keyframes pulse-glow {
+  0% { text-shadow: 0 0 10px rgba(0, 242, 254, 0.8), 0 0 20px rgba(79, 172, 254, 0.5); }
+  100% { text-shadow: 0 0 25px rgba(0, 242, 254, 1), 0 0 45px rgba(79, 172, 254, 0.8), 0 0 65px rgba(0, 242, 254, 0.5); }
+}
+
+/* Tagline 终端命令打字机风格 */
+.VPHero .tagline {
+  color: #00f2fe !important;
+  font-family: 'Consolas', 'Courier New', Courier, monospace;
+  font-size: 1.1rem;
+  letter-spacing: 2px;
+  opacity: 0.9;
+  text-shadow: 0 0 8px rgba(0, 242, 254, 0.6);
+  border-right: 2px solid #00f2fe;
+  display: inline-block;
+  white-space: nowrap;
+  animation: blink-caret 0.75s step-end infinite;
+}
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: #00f2fe; }
+}
+
+.VPHero .text {
+  color: #8a9bb3 !important;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+/* 按钮科幻感 */
+.VPButton.brand {
+  background: rgba(0, 242, 254, 0.1) !important;
+  border: 1px solid #00f2fe !important;
+  color: #00f2fe !important;
+  box-shadow: 0 0 15px rgba(0, 242, 254, 0.3), inset 0 0 10px rgba(0, 242, 254, 0.2);
+  transition: all 0.3s ease-out !important;
+  backdrop-filter: blur(5px);
+  font-family: 'Courier New', monospace;
+  font-weight: bold;
+  letter-spacing: 2px;
+  position: relative;
+  overflow: hidden;
+}
+.VPButton.brand:hover {
+  background: rgba(0, 242, 254, 0.3) !important;
+  box-shadow: 0 0 30px rgba(0, 242, 254, 0.8), inset 0 0 20px rgba(0, 242, 254, 0.4);
+  transform: translateY(-2px);
+  color: #ffffff !important;
+}
+.VPButton.brand::after {
+  content: '';
+  position: absolute;
+  top: 0; left: -100%;
+  width: 50%; height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.8), transparent);
+  transform: skewX(-20deg);
+  transition: 0s;
+}
+.VPButton.brand:hover::after {
+  animation: button-shine 0.8s ease forwards;
+}
+@keyframes button-shine {
+  100% { left: 200%; }
+}
+
+/* Hero中心SVG漂浮+发光旋转 */
+.VPHero .image {
+  animation: float-rotate 8s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+  filter: drop-shadow(0 0 40px rgba(0,242,254,0.7));
+}
+.VPHero .image svg {
+  fill: #00f2fe !important;
+}
+@keyframes float-rotate {
+  0%, 100% { transform: translateY(0) rotate(0deg) scale(1); }
+  50% { transform: translateY(-20px) rotate(5deg) scale(1.05); }
+}
+
+/* Features 卡片玻璃拟态 + 边框发光 */
+.VPFeatures .item {
+  background: rgba(10, 16, 32, 0.4) !important;
+  border: 1px solid rgba(0, 242, 254, 0.15) !important;
+  border-radius: 12px;
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  transition: all 0.5s cubic-bezier(0.25, 0.8, 0.25, 1);
+  position: relative;
+  overflow: hidden;
+}
+.VPFeatures .item:hover {
+  transform: translateY(-8px) scale(1.02);
+  border-color: rgba(0, 242, 254, 0.8) !important;
+  box-shadow: 0 15px 40px rgba(0, 242, 254, 0.2), inset 0 0 20px rgba(0, 242, 254, 0.05);
+  background: rgba(10, 16, 32, 0.6) !important;
+}
+.VPFeatures .title {
+  color: #00f2fe !important;
+  text-shadow: 0 0 8px rgba(0, 242, 254, 0.4);
+  font-family: 'Inter', sans-serif;
+  letter-spacing: 1px;
+}
+.VPFeatures .details {
+  color: #8a9bb3 !important;
+  line-height: 1.6;
+}
+.VPFeatures .item::before {
+  content: '';
+  position: absolute;
+  top: 0; left: -150%;
+  width: 50%; height: 100%;
+  background: linear-gradient(to right, transparent, rgba(0, 242, 254, 0.15), transparent);
+  transform: skewX(-25deg);
+  transition: all 0.7s ease;
+}
+.VPFeatures .item:hover::before {
+  animation: scan-light 1.5s ease-in-out infinite;
+}
+
+/* 修改主页页脚颜色 */
+.VPFooter {
+  background-color: transparent !important;
+  border-top: 1px solid rgba(0, 242, 254, 0.2) !important;
+  box-shadow: 0 -10px 30px rgba(0, 242, 254, 0.05);
+}
+.VPFooter p {
+  color: #4facfe !important;
+  font-family: 'Courier New', monospace;
+  font-size: 0.9rem;
+  letter-spacing: 1px;
+}
+
+/* Markdown 内块代码、引用块的科技感补充 */
+.custom-block.info, .custom-block.tip, .custom-block.warning, .custom-block.danger {
+  background-color: rgba(0, 242, 254, 0.05) !important;
+  border-color: #00f2fe !important;
+}
+
+/* 代码段样式 */
+.VPDoc [class*='language-'] {
+  background-color: #050b1d !important;
+  border: 1px solid rgba(0, 242, 254, 0.15);
+  box-shadow: 0 5px 15px rgba(0,0,0,0.5);
+}

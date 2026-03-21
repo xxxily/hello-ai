@@ -809,6 +809,23 @@
           "addedAt": "2026-03-21T05:55:21.123Z",
           "_lastChecked": "2026-03-21T05:55:21.123Z",
           "subcategory": "Open Source Models"
+        },
+        {
+          "name": "LongCite",
+          "description": "使LLM能够在长上下文问答中生成细粒度引用的研究项目。提升长文本问答的可信度和可追溯性。",
+          "tags": [
+            "LLM",
+            "Citation",
+            "Long-context",
+            "QA"
+          ],
+          "health": "Active",
+          "url": "https://github.com/THUDM/LongCite",
+          "stars": 519,
+          "lastUpdated": "2024-12-31T03:25:42Z",
+          "addedAt": "2026-03-21T06:42:32.944Z",
+          "_lastChecked": "2026-03-21T06:42:32.944Z",
+          "subcategory": "Text Models"
         }
       ],
       "subcategories": [
@@ -5000,6 +5017,574 @@
           "addedAt": "2026-03-21T06:07:05.221Z",
           "_lastChecked": "2026-03-21T06:07:05.221Z",
           "subcategory": "Agent Frameworks"
+        },
+        {
+          "name": "veritas-kanban",
+          "description": "面向AI智能体时代的轻量级项目编排平台，提供看板式任务管理和本地优先架构。",
+          "tags": [
+            "AI Agents",
+            "Kanban",
+            "Project Management"
+          ],
+          "health": "Active",
+          "url": "https://github.com/BradGroux/veritas-kanban",
+          "stars": 624,
+          "lastUpdated": "2026-03-21T02:11:01Z",
+          "addedAt": "2026-03-21T06:10:12.153Z",
+          "_lastChecked": "2026-03-21T06:10:12.153Z",
+          "subcategory": "Agent Frameworks"
+        },
+        {
+          "name": "agent-service-toolkit",
+          "description": "基于LangGraph、FastAPI和Streamlit构建的AI智能体服务完整工具包，提供开箱即用的智能体开发框架。",
+          "tags": [
+            "Agents",
+            "LangGraph",
+            "Streamlit"
+          ],
+          "health": "Active",
+          "url": "https://github.com/JoshuaC215/agent-service-toolkit",
+          "stars": 4132,
+          "lastUpdated": "2026-03-07T04:50:42Z",
+          "addedAt": "2026-03-21T06:11:58.557Z",
+          "_lastChecked": "2026-03-21T06:11:58.557Z",
+          "subcategory": "Agent Frameworks"
+        },
+        {
+          "name": "openai-agents-js",
+          "description": "OpenAI官方推出的轻量级多智能体工作流框架，支持语音代理和复杂编排，TypeScript原生支持。",
+          "tags": [
+            "Agent Framework",
+            "OpenAI",
+            "TypeScript"
+          ],
+          "health": "Active",
+          "url": "https://github.com/openai/openai-agents-js",
+          "stars": 2503,
+          "lastUpdated": "2026-03-21T06:01:04Z",
+          "addedAt": "2026-03-21T06:13:04.726Z",
+          "_lastChecked": "2026-03-21T06:13:04.726Z",
+          "subcategory": "Agent Frameworks"
+        },
+        {
+          "name": "a2a-samples",
+          "description": "Agent2Agent协议官方示例集合，展示如何实现智能体间的标准化通信与协作。",
+          "tags": [
+            "A2A Protocol",
+            "Agent Communication",
+            "Interoperability"
+          ],
+          "health": "Active",
+          "url": "https://github.com/a2aproject/a2a-samples",
+          "stars": 1425,
+          "lastUpdated": "2026-03-19T16:44:58Z",
+          "addedAt": "2026-03-21T06:13:04.726Z",
+          "_lastChecked": "2026-03-21T06:13:04.726Z",
+          "subcategory": "Agent Frameworks"
+        },
+        {
+          "name": "adk-go",
+          "description": "Google开源的Go语言AI智能体开发工具包，支持多智能体协作、MCP协议和Vertex AI集成。",
+          "tags": [
+            "Agent SDK",
+            "Go",
+            "Google"
+          ],
+          "health": "Active",
+          "url": "https://github.com/google/adk-go",
+          "stars": 7205,
+          "lastUpdated": "2026-03-20T14:27:44Z",
+          "addedAt": "2026-03-21T06:13:04.726Z",
+          "_lastChecked": "2026-03-21T06:13:04.726Z",
+          "subcategory": "Agent Frameworks"
+        },
+        {
+          "name": "youtu-agent",
+          "description": "简洁强大的智能体框架，专注于开源模型支持，提供轻量级的Agent开发体验。",
+          "tags": [
+            "Agent Framework",
+            "Open Source Models",
+            "Python"
+          ],
+          "health": "Active",
+          "url": "https://github.com/TencentCloudADP/youtu-agent",
+          "stars": 4480,
+          "lastUpdated": "2026-03-20T07:32:41Z",
+          "addedAt": "2026-03-21T06:13:04.727Z",
+          "_lastChecked": "2026-03-21T06:13:04.727Z",
+          "subcategory": "Agent Frameworks"
+        },
+        {
+          "name": "agents",
+          "description": "Cloudflare官方推出的AI智能体开发框架，支持在边缘端构建和部署持久化的AI Agent，集成Durable Objects和Workflows。",
+          "tags": [
+            "AI Agents",
+            "Cloudflare",
+            "Serverless"
+          ],
+          "health": "Active",
+          "url": "https://github.com/cloudflare/agents",
+          "stars": 4589,
+          "lastUpdated": "2026-03-20T21:09:44Z",
+          "addedAt": "2026-03-21T06:13:45.831Z",
+          "_lastChecked": "2026-03-21T06:13:45.831Z",
+          "subcategory": "Agent Frameworks"
+        },
+        {
+          "name": "eko",
+          "description": "基于自然语言构建生产级智能体工作流的框架，支持浏览器自动化、计算机操作和RAG等能力。",
+          "tags": [
+            "Agentic Workflow",
+            "Browser Automation",
+            "LLM Agents"
+          ],
+          "health": "Active",
+          "url": "https://github.com/FellouAI/eko",
+          "stars": 4900,
+          "lastUpdated": "2026-03-03T10:22:49Z",
+          "addedAt": "2026-03-21T06:13:45.832Z",
+          "_lastChecked": "2026-03-21T06:13:45.832Z",
+          "subcategory": "Agent Frameworks"
+        },
+        {
+          "name": "DeepAudit",
+          "description": "国内首个开源的代码漏洞挖掘多智能体系统，支持一键部署、自主协作审计和自动化沙箱PoC验证，让安全审计触手可及。",
+          "tags": [
+            "代码审计",
+            "多智能体",
+            "安全扫描"
+          ],
+          "health": "Active",
+          "url": "https://github.com/lintsinghua/DeepAudit",
+          "stars": 5366,
+          "lastUpdated": "2026-03-14T09:41:02Z",
+          "addedAt": "2026-03-21T06:14:16.832Z",
+          "_lastChecked": "2026-03-21T06:14:16.832Z",
+          "subcategory": "Autonomous Agents"
+        },
+        {
+          "name": "statespace",
+          "description": "为AI智能体构建Web API的框架，支持上下文工程和数据工程，简化智能体应用开发。",
+          "tags": [
+            "Agent",
+            "API",
+            "Rust"
+          ],
+          "health": "Active",
+          "url": "https://github.com/statespace-tech/statespace",
+          "stars": 839,
+          "lastUpdated": "2026-03-21T04:15:07Z",
+          "addedAt": "2026-03-21T06:16:52.338Z",
+          "_lastChecked": "2026-03-21T06:16:52.338Z",
+          "subcategory": "Agent Frameworks"
+        },
+        {
+          "name": "pydantic-deepagents",
+          "description": "基于Pydantic-AI构建的Python深度智能体框架，支持规划、文件操作、子代理委托和结构化输出，仅需10行代码即可构建生产级自主AI代理。",
+          "tags": [
+            "Agent Framework",
+            "Pydantic",
+            "MCP"
+          ],
+          "health": "Active",
+          "url": "https://github.com/vstorm-co/pydantic-deepagents",
+          "stars": 508,
+          "lastUpdated": "2026-03-19T15:33:02Z",
+          "addedAt": "2026-03-21T06:21:38.682Z",
+          "_lastChecked": "2026-03-21T06:21:38.682Z",
+          "subcategory": "Agent Frameworks"
+        },
+        {
+          "name": "python-sdk",
+          "description": "让AI控制桌面、移动和HMI设备的Python SDK，支持视觉代理和RPA自动化。",
+          "tags": [
+            "Vision Agents",
+            "RPA",
+            "Desktop Automation"
+          ],
+          "health": "Active",
+          "url": "https://github.com/askui/python-sdk",
+          "stars": 520,
+          "lastUpdated": "2026-03-19T06:04:57Z",
+          "addedAt": "2026-03-21T06:21:38.682Z",
+          "_lastChecked": "2026-03-21T06:21:38.682Z",
+          "subcategory": "Autonomous Agents"
+        },
+        {
+          "name": "langgraph-swarm-py",
+          "description": "基于LangGraph的多智能体框架，满足复杂多代理系统需求。",
+          "tags": [
+            "Multi-Agent",
+            "LangGraph",
+            "Python"
+          ],
+          "health": "Active",
+          "url": "https://github.com/langchain-ai/langgraph-swarm-py",
+          "stars": 1430,
+          "lastUpdated": "2026-03-19T04:31:18Z",
+          "addedAt": "2026-03-21T06:21:38.683Z",
+          "_lastChecked": "2026-03-21T06:21:38.683Z",
+          "subcategory": "Agent Frameworks"
+        },
+        {
+          "name": "Upsonic",
+          "description": "专为金融和银行业设计的智能体框架，支持MCP协议、RAG集成，提供高可靠性的企业级AI解决方案。",
+          "tags": [
+            "Agent Framework",
+            "Fintech",
+            "MCP"
+          ],
+          "health": "Active",
+          "url": "https://github.com/Upsonic/Upsonic",
+          "stars": 7814,
+          "lastUpdated": "2026-03-18T19:54:42Z",
+          "addedAt": "2026-03-21T06:22:35.393Z",
+          "_lastChecked": "2026-03-21T06:22:35.393Z",
+          "subcategory": "Agent Frameworks"
+        },
+        {
+          "name": "LazyLLM",
+          "description": "最简单懒人的多智能体应用构建框架，集成LangChain、LlamaIndex，支持微调、RAG和知识图谱等功能。",
+          "tags": [
+            "Multi-Agent",
+            "Framework",
+            "RAG"
+          ],
+          "health": "Active",
+          "url": "https://github.com/LazyAGI/LazyLLM",
+          "stars": 3761,
+          "lastUpdated": "2026-03-18T05:12:46Z",
+          "addedAt": "2026-03-21T06:22:35.393Z",
+          "_lastChecked": "2026-03-21T06:22:35.393Z",
+          "subcategory": "Agent Frameworks"
+        },
+        {
+          "name": "ToolUniverse",
+          "description": "面向AI科学家的工具宇宙，支持MCP服务器、推理代理和自动化科学研究，助力AI驱动的科学发现。",
+          "tags": [
+            "AI Scientists",
+            "Tool-Use",
+            "MCP"
+          ],
+          "health": "Active",
+          "url": "https://github.com/mims-harvard/ToolUniverse",
+          "stars": 1140,
+          "lastUpdated": "2026-03-17T21:09:45Z",
+          "addedAt": "2026-03-21T06:22:35.393Z",
+          "_lastChecked": "2026-03-21T06:22:35.393Z",
+          "subcategory": "Autonomous Agents"
+        },
+        {
+          "name": "kani",
+          "description": "高度可扩展的轻量级框架，专为工具调用型语言模型设计，发表于EMNLP 2023。",
+          "tags": [
+            "LLM",
+            "Tool Use",
+            "Function Calling"
+          ],
+          "health": "Active",
+          "url": "https://github.com/zhudotexe/kani",
+          "stars": 599,
+          "lastUpdated": "2026-03-17T04:51:06Z",
+          "addedAt": "2026-03-21T06:23:20.977Z",
+          "_lastChecked": "2026-03-21T06:23:20.977Z",
+          "subcategory": "Agent Frameworks"
+        },
+        {
+          "name": "A2A",
+          "description": "Agent2Agent开放协议，实现智能体应用之间的通信与互操作性，由Linux基金会支持。",
+          "tags": [
+            "A2A",
+            "Agents",
+            "Protocol"
+          ],
+          "health": "Active",
+          "url": "https://github.com/a2aproject/A2A",
+          "stars": 22701,
+          "lastUpdated": "2026-03-16T18:25:08Z",
+          "addedAt": "2026-03-21T06:26:15.010Z",
+          "_lastChecked": "2026-03-21T06:26:15.010Z",
+          "subcategory": "Agent Frameworks"
+        },
+        {
+          "name": "MCP-Kali-Server",
+          "description": "MCP配置工具，将AI代理连接到Linux机器进行渗透测试和安全审计。",
+          "tags": [
+            "MCP",
+            "安全测试",
+            "渗透测试"
+          ],
+          "health": "Active",
+          "url": "https://github.com/Wh0am123/MCP-Kali-Server",
+          "stars": 582,
+          "lastUpdated": "2026-03-17T21:13:13Z",
+          "addedAt": "2026-03-21T06:30:07.693Z",
+          "_lastChecked": "2026-03-21T06:30:07.693Z",
+          "subcategory": "Autonomous Agents"
+        },
+        {
+          "name": "browser-use-mcp-server",
+          "description": "MCP服务器，让AI代理通过Cursor等工具直接浏览和操作网页。",
+          "tags": [
+            "MCP",
+            "浏览器自动化",
+            "Playwright"
+          ],
+          "health": "Active",
+          "url": "https://github.com/kontext-dev/browser-use-mcp-server",
+          "stars": 812,
+          "lastUpdated": "2025-07-10T09:57:23Z",
+          "addedAt": "2026-03-21T06:30:07.693Z",
+          "_lastChecked": "2026-03-21T06:30:07.693Z",
+          "subcategory": "Browser Automations"
+        },
+        {
+          "name": "web-eval-agent",
+          "description": "基于MCP协议的自主Web应用评估服务器，可自动化完成Web应用的测试与调试工作。",
+          "tags": [
+            "MCP",
+            "Web Testing",
+            "Automation"
+          ],
+          "health": "Active",
+          "url": "https://github.com/refreshdotdev/web-eval-agent",
+          "stars": 1236,
+          "lastUpdated": "2026-02-11T14:55:42Z",
+          "addedAt": "2026-03-21T06:30:48.335Z",
+          "_lastChecked": "2026-03-21T06:30:48.335Z",
+          "subcategory": "Browser Automations"
+        },
+        {
+          "name": "fastmcp",
+          "description": "快速、Pythonic的MCP服务器和客户端构建框架，简化AI智能体与工具的集成开发。",
+          "tags": [
+            "MCP",
+            "Python",
+            "Agent Framework"
+          ],
+          "health": "Active",
+          "url": "https://github.com/PrefectHQ/fastmcp",
+          "stars": 23861,
+          "lastUpdated": "2026-03-20T20:46:16Z",
+          "addedAt": "2026-03-21T06:30:48.336Z",
+          "_lastChecked": "2026-03-21T06:30:48.336Z",
+          "subcategory": "Agent Frameworks"
+        },
+        {
+          "name": "mcp-searxng",
+          "description": "为AI智能体提供SearXNG搜索引擎接入的MCP服务器，增强信息检索能力。",
+          "tags": [
+            "MCP",
+            "Search",
+            "Agent"
+          ],
+          "health": "Active",
+          "url": "https://github.com/ihor-sokoliuk/mcp-searxng",
+          "stars": 548,
+          "lastUpdated": "2026-03-18T16:59:08Z",
+          "addedAt": "2026-03-21T06:31:40.300Z",
+          "_lastChecked": "2026-03-21T06:31:40.300Z",
+          "subcategory": "Agent Frameworks"
+        },
+        {
+          "name": "golf",
+          "description": "生产级MCP服务器框架，用于构建、部署和扩展安全的AI Agent基础设施。内置认证、可观测性、调试器和遥测功能。",
+          "tags": [
+            "MCP",
+            "AI Agent",
+            "Framework",
+            "Observability"
+          ],
+          "health": "Active",
+          "url": "https://github.com/golf-mcp/golf",
+          "stars": 819,
+          "lastUpdated": "2026-01-31T20:29:20Z",
+          "addedAt": "2026-03-21T06:32:25.530Z",
+          "_lastChecked": "2026-03-21T06:32:25.530Z",
+          "subcategory": "Agent Frameworks"
+        },
+        {
+          "name": "samples",
+          "description": "基于 Strands Agents SDK 构建的智能体示例集合，支持多种 LLM 后端和多智能体系统开发。",
+          "tags": [
+            "Agents",
+            "MCP",
+            "Multi-Agent",
+            "Python"
+          ],
+          "health": "Active",
+          "url": "https://github.com/strands-agents/samples",
+          "stars": 698,
+          "lastUpdated": "2026-03-20T21:36:56Z",
+          "addedAt": "2026-03-21T06:32:55.860Z",
+          "_lastChecked": "2026-03-21T06:32:55.860Z",
+          "subcategory": "Agent Frameworks"
+        },
+        {
+          "name": "gemini-fullstack-langgraph-quickstart",
+          "description": "基于 Gemini 2.5 和 LangGraph 快速构建全栈 AI Agent 应用的入门模板，适合开发者快速上手智能体开发。",
+          "tags": [
+            "Gemini",
+            "LangGraph",
+            "Agent",
+            "Fullstack"
+          ],
+          "health": "Active",
+          "url": "https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart",
+          "stars": 18009,
+          "lastUpdated": "2026-03-12T16:13:20Z",
+          "addedAt": "2026-03-21T06:34:08.903Z",
+          "_lastChecked": "2026-03-21T06:34:08.903Z",
+          "subcategory": "Agent Frameworks"
+        },
+        {
+          "name": "hello-halo",
+          "description": "7×24小时桌面AI智能体，支持远程访问、文件管理和内置AI浏览器，为用户提供全天候视觉AI助手服务。",
+          "tags": [
+            "AI Agent",
+            "Desktop",
+            "Remote Access"
+          ],
+          "health": "Active",
+          "url": "https://github.com/openkursar/hello-halo",
+          "stars": 703,
+          "lastUpdated": "2026-03-18T10:15:42Z",
+          "addedAt": "2026-03-21T06:36:12.664Z",
+          "_lastChecked": "2026-03-21T06:36:12.664Z",
+          "subcategory": "Autonomous Agents"
+        },
+        {
+          "name": "full-stack-ai-agent-template",
+          "description": "生产级全栈AI Agent模板，集成5大AI框架，支持WebSocket流式输出、工具审批UI和多数据库。",
+          "tags": [
+            "AI-Agent",
+            "LangChain",
+            "LangGraph",
+            "FastAPI",
+            "Template"
+          ],
+          "health": "Active",
+          "url": "https://github.com/vstorm-co/full-stack-ai-agent-template",
+          "stars": 846,
+          "lastUpdated": "2026-03-20T15:44:36Z",
+          "addedAt": "2026-03-21T06:46:11.083Z",
+          "_lastChecked": "2026-03-21T06:46:11.083Z",
+          "subcategory": "Agent Frameworks"
+        },
+        {
+          "name": "aegra",
+          "description": "开源 LangGraph Platform 替代方案，基于 FastAPI 和 PostgreSQL 构建自托管 AI 智能体后端。零供应商锁定，完全掌控你的智能体基础设施。",
+          "tags": [
+            "LangGraph",
+            "Agent",
+            "FastAPI"
+          ],
+          "health": "Active",
+          "url": "https://github.com/ibbybuilds/aegra",
+          "stars": 710,
+          "lastUpdated": "2026-03-18T14:15:56Z",
+          "addedAt": "2026-03-21T06:48:13.049Z",
+          "_lastChecked": "2026-03-21T06:48:13.049Z",
+          "subcategory": "Agent Frameworks"
+        },
+        {
+          "name": "exa-mcp-server",
+          "description": "为AI助手提供网络搜索和爬取能力的MCP服务器，支持实时信息检索。",
+          "tags": [
+            "MCP",
+            "Web Search",
+            "Crawling",
+            "AI Tools"
+          ],
+          "health": "Active",
+          "url": "https://github.com/exa-labs/exa-mcp-server",
+          "stars": 4062,
+          "lastUpdated": "2026-03-20T22:24:35Z",
+          "addedAt": "2026-03-21T06:49:58.929Z",
+          "_lastChecked": "2026-03-21T06:49:58.929Z",
+          "subcategory": "Agent Frameworks"
+        },
+        {
+          "name": "mcp-sequentialthinking-tools",
+          "description": "MCP顺序思维服务器，为AI代理提供分阶段工具选择推荐，优化复杂任务的执行流程。",
+          "tags": [
+            "MCP",
+            "Sequential Thinking",
+            "AI Agents",
+            "Tool Selection"
+          ],
+          "health": "Active",
+          "url": "https://github.com/spences10/mcp-sequentialthinking-tools",
+          "stars": 571,
+          "lastUpdated": "2026-03-19T00:45:47Z",
+          "addedAt": "2026-03-21T06:49:58.929Z",
+          "_lastChecked": "2026-03-21T06:49:58.929Z",
+          "subcategory": "Agent Frameworks"
+        },
+        {
+          "name": "reddit-mcp-buddy",
+          "description": "专为LLM优化的Reddit MCP服务器，支持浏览帖子、搜索内容和分析用户数据。",
+          "tags": [
+            "MCP",
+            "Reddit",
+            "AI Assistant",
+            "Data Access"
+          ],
+          "health": "Active",
+          "url": "https://github.com/karanb192/reddit-mcp-buddy",
+          "stars": 551,
+          "lastUpdated": "2026-03-17T05:48:54Z",
+          "addedAt": "2026-03-21T06:49:58.930Z",
+          "_lastChecked": "2026-03-21T06:49:58.930Z",
+          "subcategory": "Agent Frameworks"
+        },
+        {
+          "name": "nextpy",
+          "description": "创新的自修改框架，支持AI代理快速开发，集成FastAPI和Streamlit的全栈解决方案。",
+          "tags": [
+            "Agent Framework",
+            "Fullstack",
+            "Self-Modifying"
+          ],
+          "health": "Active",
+          "url": "https://github.com/dot-agent/nextpy",
+          "stars": 2338,
+          "lastUpdated": "2024-05-01T09:46:55Z",
+          "addedAt": "2026-03-21T06:54:23.150Z",
+          "_lastChecked": "2026-03-21T06:54:23.150Z",
+          "subcategory": "Agent Frameworks"
+        },
+        {
+          "name": "Agently",
+          "description": "GenAI应用开发框架，支持结构化数据交互、事件驱动流程和多模型无缝切换。",
+          "tags": [
+            "Agent Framework",
+            "Multi-Model",
+            "Event-Driven"
+          ],
+          "health": "Active",
+          "url": "https://github.com/AgentEra/Agently",
+          "stars": 1541,
+          "lastUpdated": "2026-03-20T16:35:38Z",
+          "addedAt": "2026-03-21T06:54:23.150Z",
+          "_lastChecked": "2026-03-21T06:54:23.150Z",
+          "subcategory": "Agent Frameworks"
+        },
+        {
+          "name": "maxun",
+          "description": "开源无代码网页数据提取平台，支持AI智能数据提取，快速将网站转化为结构化API。",
+          "tags": [
+            "Web Scraping",
+            "No-Code",
+            "AI Extraction"
+          ],
+          "health": "Active",
+          "url": "https://github.com/getmaxun/maxun",
+          "stars": 15284,
+          "lastUpdated": "2026-03-21T06:46:37Z",
+          "addedAt": "2026-03-21T06:54:23.150Z",
+          "_lastChecked": "2026-03-21T06:54:23.150Z",
+          "subcategory": "Browser Automations"
         }
       ],
       "subcategories": [
@@ -5987,6 +6572,217 @@
           "addedAt": "2026-03-21T05:50:01.326Z",
           "_lastChecked": "2026-03-21T05:50:01.326Z",
           "subcategory": "Vector Databases"
+        },
+        {
+          "name": "ragapp",
+          "description": "企业级Agentic RAG部署方案，基于LlamaIndex提供开箱即用的Docker容器化部署。",
+          "tags": [
+            "RAG",
+            "LlamaIndex",
+            "Enterprise"
+          ],
+          "health": "Active",
+          "url": "https://github.com/ragapp/ragapp",
+          "stars": 4406,
+          "lastUpdated": "2025-01-22T14:23:25Z",
+          "addedAt": "2026-03-21T06:13:04.727Z",
+          "_lastChecked": "2026-03-21T06:13:04.727Z",
+          "subcategory": "RAG Frameworks"
+        },
+        {
+          "name": "MinerU",
+          "description": "将PDF等复杂文档转换为LLM可用的Markdown/JSON格式，支持RAG和Agent工作流。",
+          "tags": [
+            "PDF解析",
+            "文档处理",
+            "RAG"
+          ],
+          "health": "Active",
+          "url": "https://github.com/opendatalab/MinerU",
+          "stars": 56681,
+          "lastUpdated": "2026-03-19T07:59:07Z",
+          "addedAt": "2026-03-21T06:15:34.597Z",
+          "_lastChecked": "2026-03-21T06:15:34.597Z",
+          "subcategory": "Data Parsers"
+        },
+        {
+          "name": "datachain",
+          "description": "多模态数据分析与ETL工具，支持视频、音频、PDF和图像的版本管理与嵌入处理。",
+          "tags": [
+            "Multimodal",
+            "ETL",
+            "LLM"
+          ],
+          "health": "Active",
+          "url": "https://github.com/datachain-ai/datachain",
+          "stars": 2730,
+          "lastUpdated": "2026-03-21T04:12:50Z",
+          "addedAt": "2026-03-21T06:16:52.338Z",
+          "_lastChecked": "2026-03-21T06:16:52.338Z",
+          "subcategory": "Data Parsers"
+        },
+        {
+          "name": "agentset",
+          "description": "开源RAG平台，内置引用、深度研究、支持22+文件格式、分区和MCP服务器等功能。",
+          "tags": [
+            "RAG",
+            "AI Agents",
+            "Embeddings"
+          ],
+          "health": "Active",
+          "url": "https://github.com/agentset-ai/agentset",
+          "stars": 1923,
+          "lastUpdated": "2026-03-19T13:59:17Z",
+          "addedAt": "2026-03-21T06:21:38.682Z",
+          "_lastChecked": "2026-03-21T06:21:38.682Z",
+          "subcategory": "RAG Frameworks"
+        },
+        {
+          "name": "chonkie",
+          "description": "轻量级文档分块库，专为高效RAG管道设计，支持语义分块、相似度搜索等多种分割算法。",
+          "tags": [
+            "Chunking",
+            "RAG",
+            "Text-Splitter"
+          ],
+          "health": "Active",
+          "url": "https://github.com/chonkie-inc/chonkie",
+          "stars": 3863,
+          "lastUpdated": "2026-03-18T18:05:22Z",
+          "addedAt": "2026-03-21T06:22:35.393Z",
+          "_lastChecked": "2026-03-21T06:22:35.393Z",
+          "subcategory": "RAG Frameworks"
+        },
+        {
+          "name": "VideoRAG",
+          "description": "KDD'2026论文项目，实现与视频内容的对话式交互，结合长视频理解与检索增强生成技术。",
+          "tags": [
+            "Video RAG",
+            "Multi-Modal",
+            "Long-Video"
+          ],
+          "health": "Active",
+          "url": "https://github.com/HKUDS/VideoRAG",
+          "stars": 2803,
+          "lastUpdated": "2026-03-18T08:33:07Z",
+          "addedAt": "2026-03-21T06:22:35.393Z",
+          "_lastChecked": "2026-03-21T06:22:35.393Z",
+          "subcategory": "RAG Frameworks"
+        },
+        {
+          "name": "docext",
+          "description": "本地部署的无OCR非结构化数据提取工具，支持Markdown转换和基准测试，适用于RAG文档预处理场景。",
+          "tags": [
+            "Document Extraction",
+            "OCR-Free",
+            "On-Premise"
+          ],
+          "health": "Active",
+          "url": "https://github.com/NanoNets/docext",
+          "stars": 1878,
+          "lastUpdated": "2026-03-17T09:41:55Z",
+          "addedAt": "2026-03-21T06:22:35.393Z",
+          "_lastChecked": "2026-03-21T06:22:35.393Z",
+          "subcategory": "Data Parsers"
+        },
+        {
+          "name": "oceanbase",
+          "description": "高性能分布式数据库，支持事务、分析和AI工作负载，内置向量搜索能力，适用于RAG和AI应用场景。",
+          "tags": [
+            "Vector Database",
+            "Distributed",
+            "MySQL Compatible"
+          ],
+          "health": "Active",
+          "url": "https://github.com/oceanbase/oceanbase",
+          "stars": 10029,
+          "lastUpdated": "2026-03-21T01:01:47Z",
+          "addedAt": "2026-03-21T06:24:37.192Z",
+          "_lastChecked": "2026-03-21T06:24:37.192Z",
+          "subcategory": "Vector Databases"
+        },
+        {
+          "name": "RAG-FiT",
+          "description": "通过微调增强LLM在RAG任务中表现的框架，支持问答、语义搜索等信息检索场景。",
+          "tags": [
+            "RAG",
+            "Fine-tuning",
+            "NLP"
+          ],
+          "health": "Active",
+          "url": "https://github.com/IntelLabs/RAG-FiT",
+          "stars": 769,
+          "lastUpdated": "2025-12-16T14:56:27Z",
+          "addedAt": "2026-03-21T06:41:43.121Z",
+          "_lastChecked": "2026-03-21T06:41:43.121Z",
+          "subcategory": "RAG Frameworks"
+        },
+        {
+          "name": "pathway",
+          "description": "高性能Python ETL框架，支持流处理、实时分析、LLM管道和RAG应用开发。",
+          "tags": [
+            "ETL",
+            "RAG",
+            "Stream Processing",
+            "LLM"
+          ],
+          "health": "Active",
+          "url": "https://github.com/pathwaycom/pathway",
+          "stars": 61482,
+          "lastUpdated": "2026-03-21T06:11:15Z",
+          "addedAt": "2026-03-21T06:43:06.906Z",
+          "_lastChecked": "2026-03-21T06:43:06.906Z",
+          "subcategory": "RAG Frameworks"
+        },
+        {
+          "name": "docling-api",
+          "description": "高效文档转换服务，支持PDF、Word、PPT等多种格式转Markdown，具备OCR、表格提取和批量处理能力，适用于RAG和大模型文档处理场景。",
+          "tags": [
+            "Document Parsing",
+            "OCR",
+            "Markdown"
+          ],
+          "health": "Active",
+          "url": "https://github.com/drmingler/docling-api",
+          "stars": 759,
+          "lastUpdated": "2025-03-04T13:42:44Z",
+          "addedAt": "2026-03-21T06:47:29.561Z",
+          "_lastChecked": "2026-03-21T06:47:29.561Z",
+          "subcategory": "Data Parsers"
+        },
+        {
+          "name": "pdf-reader-mcp",
+          "description": "生产级PDF处理MCP服务器，支持并行处理，速度提升5-10倍，测试覆盖率94%以上。",
+          "tags": [
+            "MCP",
+            "PDF",
+            "Document Processing",
+            "Parallel Processing"
+          ],
+          "health": "Active",
+          "url": "https://github.com/SylphxAI/pdf-reader-mcp",
+          "stars": 568,
+          "lastUpdated": "2026-03-17T18:16:51Z",
+          "addedAt": "2026-03-21T06:49:58.930Z",
+          "_lastChecked": "2026-03-21T06:49:58.930Z",
+          "subcategory": "Data Parsers"
+        },
+        {
+          "name": "cognita",
+          "description": "TrueFoundry开源的RAG框架，用于构建模块化、可生产的AI应用。",
+          "tags": [
+            "RAG",
+            "LLM",
+            "Framework",
+            "Enterprise"
+          ],
+          "health": "Active",
+          "url": "https://github.com/truefoundry/cognita",
+          "stars": 4328,
+          "lastUpdated": "2026-03-13T15:04:36Z",
+          "addedAt": "2026-03-21T06:53:26.151Z",
+          "_lastChecked": "2026-03-21T06:53:26.151Z",
+          "subcategory": "RAG Frameworks"
         }
       ],
       "subcategories": [
@@ -8267,6 +9063,219 @@
           "addedAt": "2026-03-21T06:08:39.448Z",
           "_lastChecked": "2026-03-21T06:08:39.448Z",
           "subcategory": "Model Serving"
+        },
+        {
+          "name": "sealos",
+          "description": "基于Kubernetes的AI原生云操作系统，支持从云端IDE开发到生产部署的完整应用生命周期管理，非常适合构建和扩展现代AI应用。",
+          "tags": [
+            "Kubernetes",
+            "Cloud OS",
+            "AI Infrastructure"
+          ],
+          "health": "Active",
+          "url": "https://github.com/labring/sealos",
+          "stars": 17020,
+          "lastUpdated": "2026-03-21T03:57:58Z",
+          "addedAt": "2026-03-21T06:19:17.384Z",
+          "_lastChecked": "2026-03-21T06:19:17.384Z",
+          "subcategory": "Cloud & Hosting"
+        },
+        {
+          "name": "polyaxon",
+          "description": "MLOps平台，提供机器学习全生命周期的管理与编排工具，支持Kubernetes部署。",
+          "tags": [
+            "MLOps",
+            "Kubernetes",
+            "Machine-Learning"
+          ],
+          "health": "Active",
+          "url": "https://github.com/polyaxon/polyaxon",
+          "stars": 3699,
+          "lastUpdated": "2026-03-09T10:36:07Z",
+          "addedAt": "2026-03-21T06:26:15.010Z",
+          "_lastChecked": "2026-03-21T06:26:15.010Z",
+          "subcategory": "Cloud & Hosting"
+        },
+        {
+          "name": "dstack",
+          "description": "开源GPU控制平面，支持在多云和本地环境运行AI开发、训练和推理任务，简化LLM和深度学习工作负载编排。",
+          "tags": [
+            "GPU",
+            "ML Infrastructure",
+            "Training",
+            "Inference"
+          ],
+          "health": "Active",
+          "url": "https://github.com/dstackai/dstack",
+          "stars": 2067,
+          "lastUpdated": "2026-03-20T14:04:09Z",
+          "addedAt": "2026-03-21T06:27:30.597Z",
+          "_lastChecked": "2026-03-21T06:27:30.597Z",
+          "subcategory": "Hardware Acceleration"
+        },
+        {
+          "name": "MCPJungle",
+          "description": "自托管的MCP网关，为AI代理提供统一的MCP服务器管理和注册服务。",
+          "tags": [
+            "MCP",
+            "网关",
+            "基础设施"
+          ],
+          "health": "Active",
+          "url": "https://github.com/mcpjungle/MCPJungle",
+          "stars": 916,
+          "lastUpdated": "2026-03-13T14:01:29Z",
+          "addedAt": "2026-03-21T06:30:07.693Z",
+          "_lastChecked": "2026-03-21T06:30:07.693Z",
+          "subcategory": "Model Serving"
+        },
+        {
+          "name": "MCP-Bridge",
+          "description": "中间件服务，提供OpenAI兼容接口并支持调用MCP工具。",
+          "tags": [
+            "MCP",
+            "OpenAI",
+            "中间件"
+          ],
+          "health": "Active",
+          "url": "https://github.com/SecretiveShell/MCP-Bridge",
+          "stars": 921,
+          "lastUpdated": "2025-12-08T15:22:32Z",
+          "addedAt": "2026-03-21T06:30:07.693Z",
+          "_lastChecked": "2026-03-21T06:30:07.693Z",
+          "subcategory": "Model Serving"
+        },
+        {
+          "name": "metamcp",
+          "description": "一体化MCP聚合网关，集成编排、中间件和代理功能，支持Docker一键部署。",
+          "tags": [
+            "MCP",
+            "Gateway",
+            "Orchestration"
+          ],
+          "health": "Active",
+          "url": "https://github.com/metatool-ai/metamcp",
+          "stars": 2137,
+          "lastUpdated": "2026-02-08T03:43:11Z",
+          "addedAt": "2026-03-21T06:31:40.299Z",
+          "_lastChecked": "2026-03-21T06:31:40.299Z",
+          "subcategory": "Model Serving"
+        },
+        {
+          "name": "greptimedb",
+          "description": "开源可观测性数据库，统一存储指标、日志和追踪数据，支持AI/LLM监控场景。",
+          "tags": [
+            "Observability",
+            "Database",
+            "LLM Monitoring",
+            "OpenTelemetry"
+          ],
+          "health": "Active",
+          "url": "https://github.com/GreptimeTeam/greptimedb",
+          "stars": 6062,
+          "lastUpdated": "2026-03-21T04:25:08Z",
+          "addedAt": "2026-03-21T06:32:25.531Z",
+          "_lastChecked": "2026-03-21T06:32:25.531Z",
+          "subcategory": "Model Serving"
+        },
+        {
+          "name": "scuda",
+          "description": "GPU over IP 网络桥接工具，允许 CPU-only 机器远程挂载和使用远程 GPU 资源，支持 CUDA、cuDNN 等深度学习加速库。",
+          "tags": [
+            "GPU",
+            "CUDA",
+            "Networking",
+            "MLOps"
+          ],
+          "health": "Active",
+          "url": "https://github.com/kevmo314/scuda",
+          "stars": 1825,
+          "lastUpdated": "2026-01-04T00:39:45Z",
+          "addedAt": "2026-03-21T06:36:41.535Z",
+          "_lastChecked": "2026-03-21T06:36:41.535Z",
+          "subcategory": "Hardware Acceleration"
+        },
+        {
+          "name": "aikit",
+          "description": "开源大模型微调、构建和部署的一站式工具，支持Docker和Kubernetes环境下的LLM服务化。",
+          "tags": [
+            "LLM",
+            "Deployment",
+            "Docker"
+          ],
+          "health": "Active",
+          "url": "https://github.com/kaito-project/aikit",
+          "stars": 512,
+          "lastUpdated": "2026-03-19T02:37:40Z",
+          "addedAt": "2026-03-21T06:41:43.121Z",
+          "_lastChecked": "2026-03-21T06:41:43.121Z",
+          "subcategory": "Model Serving"
+        },
+        {
+          "name": "kubetorch",
+          "description": "在Kubernetes上分布式运行AI工作负载的Python工具，像PyTorch一样简单管理ML基础设施。支持训练、推理和数据处理的无缝部署。",
+          "tags": [
+            "Kubernetes",
+            "PyTorch",
+            "Distributed AI",
+            "ML Infrastructure"
+          ],
+          "health": "Active",
+          "url": "https://github.com/run-house/kubetorch",
+          "stars": 1175,
+          "lastUpdated": "2026-03-13T18:30:43Z",
+          "addedAt": "2026-03-21T06:50:26.342Z",
+          "_lastChecked": "2026-03-21T06:50:26.342Z",
+          "subcategory": "Model Serving"
+        },
+        {
+          "name": "helicone",
+          "description": "开源LLM可观测性平台，一行代码即可实现AI应用的监控、评估和实验管理。",
+          "tags": [
+            "LLMOps",
+            "Observability",
+            "Monitoring",
+            "OpenAI"
+          ],
+          "health": "Active",
+          "url": "https://github.com/Helicone/helicone",
+          "stars": 5279,
+          "lastUpdated": "2026-03-19T19:29:48Z",
+          "addedAt": "2026-03-21T06:53:26.151Z",
+          "_lastChecked": "2026-03-21T06:53:26.151Z",
+          "subcategory": "Model Serving"
+        },
+        {
+          "name": "openinference",
+          "description": "专为AI应用设计的OpenTelemetry可观测性工具，支持LangChain、LlamaIndex等主流框架的追踪与监控。",
+          "tags": [
+            "Observability",
+            "OpenTelemetry",
+            "LLMOps"
+          ],
+          "health": "Active",
+          "url": "https://github.com/Arize-ai/openinference",
+          "stars": 891,
+          "lastUpdated": "2026-03-21T06:29:23Z",
+          "addedAt": "2026-03-21T06:54:23.149Z",
+          "_lastChecked": "2026-03-21T06:54:23.149Z",
+          "subcategory": "Model Serving"
+        },
+        {
+          "name": "hamilton",
+          "description": "Apache项目，帮助定义可测试、模块化的数据流，支持ML/LLM工作流编排与血缘追踪。",
+          "tags": [
+            "Dataflow",
+            "MLOps",
+            "ETL"
+          ],
+          "health": "Active",
+          "url": "https://github.com/apache/hamilton",
+          "stars": 2441,
+          "lastUpdated": "2026-03-21T04:51:18Z",
+          "addedAt": "2026-03-21T06:54:23.150Z",
+          "_lastChecked": "2026-03-21T06:54:23.150Z",
+          "subcategory": "Model Serving"
         }
       ],
       "subcategories": [
@@ -9279,6 +10288,218 @@
           "addedAt": "2026-03-21T05:58:22.615Z",
           "_lastChecked": "2026-03-21T05:58:22.615Z",
           "subcategory": "Fine-tuning Tools"
+        },
+        {
+          "name": "open-unlearning",
+          "description": "一站式LLM遗忘学习仓库，NeurIPS D&B '25收录，涵盖基准测试、隐私保护和成员推理攻击等研究方向。",
+          "tags": [
+            "Unlearning",
+            "Privacy",
+            "Benchmarks"
+          ],
+          "health": "Active",
+          "url": "https://github.com/locuslab/open-unlearning",
+          "stars": 505,
+          "lastUpdated": "2026-03-18T15:31:54Z",
+          "addedAt": "2026-03-21T06:22:35.393Z",
+          "_lastChecked": "2026-03-21T06:22:35.393Z",
+          "subcategory": "Evaluation Metrics"
+        },
+        {
+          "name": "DataFlow",
+          "description": "基于最新LLM的数据准备工具，提供丰富的算子和流水线支持，简化数据清洗与合成流程。",
+          "tags": [
+            "LLM",
+            "Data Pipeline",
+            "Data Synthesis"
+          ],
+          "health": "Active",
+          "url": "https://github.com/OpenDCAI/DataFlow",
+          "stars": 3084,
+          "lastUpdated": "2026-03-17T03:40:50Z",
+          "addedAt": "2026-03-21T06:23:20.977Z",
+          "_lastChecked": "2026-03-21T06:23:20.977Z",
+          "subcategory": "Dataset Management"
+        },
+        {
+          "name": "dlrover",
+          "description": "自动化分布式深度学习系统，简化大规模模型训练的集群调度和资源管理，支持LLM训练优化。",
+          "tags": [
+            "Distributed Training",
+            "Deep Learning",
+            "LLM Training"
+          ],
+          "health": "Active",
+          "url": "https://github.com/intelligent-machine-learning/dlrover",
+          "stars": 1641,
+          "lastUpdated": "2026-03-16T07:47:48Z",
+          "addedAt": "2026-03-21T06:27:30.597Z",
+          "_lastChecked": "2026-03-21T06:27:30.597Z",
+          "subcategory": "Fine-tuning Tools"
+        },
+        {
+          "name": "quickdraw-dataset",
+          "description": "Google Quick, Draw! 数据集的官方文档，包含5000万张涂鸦 drawings，是机器学习绘图识别领域的经典数据集。",
+          "tags": [
+            "Dataset",
+            "Drawing Recognition",
+            "Google"
+          ],
+          "health": "Active",
+          "url": "https://github.com/googlecreativelab/quickdraw-dataset",
+          "stars": 6686,
+          "lastUpdated": "2025-03-11T00:12:28Z",
+          "addedAt": "2026-03-21T06:35:11.743Z",
+          "_lastChecked": "2026-03-21T06:35:11.743Z",
+          "subcategory": "Dataset Management"
+        },
+        {
+          "name": "text-to-lora",
+          "description": "基于文本任务描述自动适配LLM的超网络工具，无需传统训练即可让大模型适应特定基准任务。",
+          "tags": [
+            "LLM",
+            "LoRA",
+            "Fine-tuning",
+            "Hypernetworks"
+          ],
+          "health": "Active",
+          "url": "https://github.com/SakanaAI/text-to-lora",
+          "stars": 1226,
+          "lastUpdated": "2025-06-08T14:42:10Z",
+          "addedAt": "2026-03-21T06:40:36.679Z",
+          "_lastChecked": "2026-03-21T06:40:36.679Z",
+          "subcategory": "Fine-tuning Tools"
+        },
+        {
+          "name": "deepfabric",
+          "description": "一站式合成数据生成与模型训练评估流水线，支持高质量数据生成、训练和评测全流程。",
+          "tags": [
+            "Synthetic Data",
+            "Fine-tuning",
+            "Evaluation",
+            "Dataset"
+          ],
+          "health": "Active",
+          "url": "https://github.com/always-further/deepfabric",
+          "stars": 848,
+          "lastUpdated": "2026-03-09T20:58:22Z",
+          "addedAt": "2026-03-21T06:40:36.679Z",
+          "_lastChecked": "2026-03-21T06:40:36.679Z",
+          "subcategory": "Dataset Management"
+        },
+        {
+          "name": "finetuner",
+          "description": "面向任务的嵌入模型微调工具，支持BERT、CLIP等主流模型的少样本学习和度量学习优化。",
+          "tags": [
+            "Fine-tuning",
+            "Embeddings",
+            "Few-shot Learning"
+          ],
+          "health": "Active",
+          "url": "https://github.com/jina-ai/finetuner",
+          "stars": 1507,
+          "lastUpdated": "2024-03-11T08:05:13Z",
+          "addedAt": "2026-03-21T06:41:43.121Z",
+          "_lastChecked": "2026-03-21T06:41:43.121Z",
+          "subcategory": "Fine-tuning Tools"
+        },
+        {
+          "name": "DataDreamer",
+          "description": "合成数据生成与模型对齐工具，支持提示工程、数据集生成和指令微调全流程。",
+          "tags": [
+            "Synthetic Data",
+            "Fine-tuning",
+            "Alignment"
+          ],
+          "health": "Active",
+          "url": "https://github.com/datadreamer-dev/DataDreamer",
+          "stars": 1101,
+          "lastUpdated": "2025-02-02T21:23:50Z",
+          "addedAt": "2026-03-21T06:41:43.121Z",
+          "_lastChecked": "2026-03-21T06:41:43.121Z",
+          "subcategory": "Dataset Management"
+        },
+        {
+          "name": "MARS",
+          "description": "面向大模型训练的方差缩减优化器官方实现，提升大规模模型预训练和微调效率。",
+          "tags": [
+            "Optimizer",
+            "Training",
+            "LLM"
+          ],
+          "health": "Active",
+          "url": "https://github.com/AGI-Arena/MARS",
+          "stars": 717,
+          "lastUpdated": "2026-03-04T08:57:29Z",
+          "addedAt": "2026-03-21T06:41:43.121Z",
+          "_lastChecked": "2026-03-21T06:41:43.121Z",
+          "subcategory": "Fine-tuning Tools"
+        },
+        {
+          "name": "SPPO",
+          "description": "自博弈偏好优化方法的官方实现，一种创新的RLHF技术用于大语言模型对齐训练。",
+          "tags": [
+            "RLHF",
+            "Fine-tuning",
+            "Alignment"
+          ],
+          "health": "Active",
+          "url": "https://github.com/uclaml/SPPO",
+          "stars": 584,
+          "lastUpdated": "2025-01-23T01:25:48Z",
+          "addedAt": "2026-03-21T06:41:43.121Z",
+          "_lastChecked": "2026-03-21T06:41:43.121Z",
+          "subcategory": "Fine-tuning Tools"
+        },
+        {
+          "name": "mergoo",
+          "description": "一个用于轻松合并多个LLM专家模型并高效训练合并后模型的库。支持LoRA、MoE等技术，简化模型融合流程。",
+          "tags": [
+            "LLM",
+            "Model Merging",
+            "Fine-tuning",
+            "MoE"
+          ],
+          "health": "Active",
+          "url": "https://github.com/Leeroo-AI/mergoo",
+          "stars": 507,
+          "lastUpdated": "2024-08-26T07:46:50Z",
+          "addedAt": "2026-03-21T06:42:32.944Z",
+          "_lastChecked": "2026-03-21T06:42:32.944Z",
+          "subcategory": "Fine-tuning Tools"
+        },
+        {
+          "name": "labelImg",
+          "description": "经典的图像标注工具，支持Pascal VOC和YOLO格式，适用于目标检测和图像分类任务的数据准备。",
+          "tags": [
+            "标注工具",
+            "图像识别",
+            "目标检测"
+          ],
+          "health": "Archived",
+          "url": "https://github.com/HumanSignal/labelImg",
+          "stars": 24860,
+          "lastUpdated": "2024-06-07T20:24:32Z",
+          "addedAt": "2026-03-21T06:52:17.875Z",
+          "_lastChecked": "2026-03-21T06:52:17.875Z",
+          "subcategory": "Dataset Management"
+        },
+        {
+          "name": "trulens",
+          "description": "LLM实验和AI智能体的评估与追踪工具，帮助开发者衡量和优化模型表现。",
+          "tags": [
+            "Evaluation",
+            "LLM",
+            "Agents",
+            "Observability"
+          ],
+          "health": "Active",
+          "url": "https://github.com/truera/trulens",
+          "stars": 3183,
+          "lastUpdated": "2026-03-19T17:52:10Z",
+          "addedAt": "2026-03-21T06:53:26.151Z",
+          "_lastChecked": "2026-03-21T06:53:26.151Z",
+          "subcategory": "Evaluation Metrics"
         }
       ],
       "subcategories": [
@@ -12839,6 +14060,55 @@
           "addedAt": "2026-03-21T06:09:05.927Z",
           "_lastChecked": "2026-03-21T06:09:05.927Z",
           "subcategory": "Audio & Speech (TTS/STT)"
+        },
+        {
+          "name": "SSH",
+          "description": "单阶段无头人脸检测器，实现高效精准的人脸检测，无需额外的人脸提议网络。",
+          "tags": [
+            "Face Detection",
+            "Computer Vision",
+            "Deep Learning"
+          ],
+          "health": "Active",
+          "url": "https://github.com/mahyarnajibi/SSH",
+          "stars": 839,
+          "lastUpdated": "2021-08-22T01:51:36Z",
+          "addedAt": "2026-03-21T06:37:41.396Z",
+          "_lastChecked": "2026-03-21T06:37:41.396Z",
+          "subcategory": "Image Generation"
+        },
+        {
+          "name": "MPP-LLaVA",
+          "description": "支持视频/图像多模态的LLaVA风格训练框架，可在消费级显卡上训练8B/14B多模态大模型。",
+          "tags": [
+            "MLLM",
+            "Fine-tuning",
+            "Multimodal"
+          ],
+          "health": "Active",
+          "url": "https://github.com/Coobiw/MPP-LLaVA",
+          "stars": 658,
+          "lastUpdated": "2025-03-10T14:16:21Z",
+          "addedAt": "2026-03-21T06:41:43.121Z",
+          "_lastChecked": "2026-03-21T06:41:43.121Z",
+          "subcategory": "Video Generation"
+        },
+        {
+          "name": "api-llm-ocr",
+          "description": "基于视觉大模型的PDF转Markdown工具，支持表格、布局和结构保留，适用于文档AI处理场景。",
+          "tags": [
+            "OCR",
+            "Vision-LLM",
+            "Document-AI",
+            "PDF"
+          ],
+          "health": "Active",
+          "url": "https://github.com/yigitkonur/api-llm-ocr",
+          "stars": 889,
+          "lastUpdated": "2026-02-21T08:33:09Z",
+          "addedAt": "2026-03-21T06:46:11.083Z",
+          "_lastChecked": "2026-03-21T06:46:11.083Z",
+          "subcategory": "Image Generation"
         }
       ],
       "subcategories": [
@@ -17226,6 +18496,671 @@
           "addedAt": "2026-03-21T06:09:05.927Z",
           "_lastChecked": "2026-03-21T06:09:05.927Z",
           "subcategory": "SDKs & APIs"
+        },
+        {
+          "name": "Guardrails",
+          "description": "NVIDIA开源的LLM安全护栏工具包，为对话系统添加可编程的安全边界和输出控制。",
+          "tags": [
+            "LLM Safety",
+            "Guardrails",
+            "NVIDIA"
+          ],
+          "health": "Active",
+          "url": "https://github.com/NVIDIA-NeMo/Guardrails",
+          "stars": 5827,
+          "lastUpdated": "2026-03-18T19:12:01Z",
+          "addedAt": "2026-03-21T06:13:04.726Z",
+          "_lastChecked": "2026-03-21T06:13:04.726Z",
+          "subcategory": "SDKs & APIs"
+        },
+        {
+          "name": "potpie",
+          "description": "基于规格驱动开发的AI代码助手，结合知识图谱和RAG技术优化大型代码库开发流程。",
+          "tags": [
+            "Code Assistant",
+            "Knowledge Graph",
+            "RAG"
+          ],
+          "health": "Active",
+          "url": "https://github.com/potpie-ai/potpie",
+          "stars": 5292,
+          "lastUpdated": "2026-03-20T14:44:04Z",
+          "addedAt": "2026-03-21T06:13:04.726Z",
+          "_lastChecked": "2026-03-21T06:13:04.726Z",
+          "subcategory": "IDE & Code Assistants"
+        },
+        {
+          "name": "qodo-cover",
+          "description": "AI驱动的自动化测试生成工具，智能分析代码并生成测试用例以提升覆盖率。",
+          "tags": [
+            "Test Automation",
+            "Code Coverage",
+            "AI Testing"
+          ],
+          "health": "Active",
+          "url": "https://github.com/qodo-ai/qodo-cover",
+          "stars": 5325,
+          "lastUpdated": "2025-06-24T03:26:42Z",
+          "addedAt": "2026-03-21T06:13:04.727Z",
+          "_lastChecked": "2026-03-21T06:13:04.727Z",
+          "subcategory": "IDE & Code Assistants"
+        },
+        {
+          "name": "sweep",
+          "description": "专为JetBrains IDE设计的AI编程助手，基于GPT-4提供智能代码搜索和开发辅助功能。",
+          "tags": [
+            "AI Assistant",
+            "JetBrains",
+            "Code Search"
+          ],
+          "health": "Active",
+          "url": "https://github.com/sweepai/sweep",
+          "stars": 7648,
+          "lastUpdated": "2025-09-18T06:10:59Z",
+          "addedAt": "2026-03-21T06:13:45.832Z",
+          "_lastChecked": "2026-03-21T06:13:45.832Z",
+          "subcategory": "IDE & Code Assistants"
+        },
+        {
+          "name": "claude-code-tips",
+          "description": "45个Claude Code使用技巧合集，从基础到高级，包含自定义状态栏脚本、系统提示优化、Gemini CLI协作等实用技巧。",
+          "tags": [
+            "Claude Code",
+            "AI编程",
+            "效率工具"
+          ],
+          "health": "Active",
+          "url": "https://github.com/ykdojo/claude-code-tips",
+          "stars": 6423,
+          "lastUpdated": "2026-03-21T05:40:29Z",
+          "addedAt": "2026-03-21T06:14:16.832Z",
+          "_lastChecked": "2026-03-21T06:14:16.832Z",
+          "subcategory": "IDE & Code Assistants"
+        },
+        {
+          "name": "Chronos",
+          "description": "Kodezi推出的调试优先语言模型，在SWE-bench Lite基准测试中达到80.33%的SOTA成绩，真实世界修复准确率达67%，是GPT-4的6倍。采用自适应图引导检索和持久调试记忆技术。",
+          "tags": [
+            "autonomous-debugging",
+            "code-analysis",
+            "language-model",
+            "SWE-bench"
+          ],
+          "health": "Active",
+          "url": "https://github.com/Kodezi/Chronos",
+          "stars": 5071,
+          "lastUpdated": "2025-11-12T09:53:44Z",
+          "addedAt": "2026-03-21T06:14:56.164Z",
+          "_lastChecked": "2026-03-21T06:14:56.164Z",
+          "subcategory": "IDE & Code Assistants"
+        },
+        {
+          "name": "openai-python",
+          "description": "OpenAI官方Python SDK，提供对GPT系列模型、DALL-E、Whisper等API的完整访问支持。",
+          "tags": [
+            "OpenAI",
+            "SDK",
+            "API"
+          ],
+          "health": "Active",
+          "url": "https://github.com/openai/openai-python",
+          "stars": 30308,
+          "lastUpdated": "2026-03-21T05:18:45Z",
+          "addedAt": "2026-03-21T06:15:34.597Z",
+          "_lastChecked": "2026-03-21T06:15:34.597Z",
+          "subcategory": "SDKs & APIs"
+        },
+        {
+          "name": "vanna",
+          "description": "基于LLM的Text-to-SQL工具，通过智能体检索实现精准的自然语言转SQL查询，让用户用对话方式查询数据库。",
+          "tags": [
+            "Text-to-SQL",
+            "LLM",
+            "RAG",
+            "Agent"
+          ],
+          "health": "Active",
+          "url": "https://github.com/vanna-ai/vanna",
+          "stars": 23036,
+          "lastUpdated": "2026-02-02T14:14:20Z",
+          "addedAt": "2026-03-21T06:18:21.362Z",
+          "_lastChecked": "2026-03-21T06:18:21.362Z",
+          "subcategory": "SDKs & APIs"
+        },
+        {
+          "name": "langchain-rust",
+          "description": "Rust版LangChain框架，提供在Rust中编写LLM应用的最简便方式。",
+          "tags": [
+            "LangChain",
+            "Rust",
+            "LLM SDK"
+          ],
+          "health": "Active",
+          "url": "https://github.com/Abraxas-365/langchain-rust",
+          "stars": 1262,
+          "lastUpdated": "2026-03-19T13:08:27Z",
+          "addedAt": "2026-03-21T06:21:38.682Z",
+          "_lastChecked": "2026-03-21T06:21:38.682Z",
+          "subcategory": "SDKs & APIs"
+        },
+        {
+          "name": "app-builder",
+          "description": "百度千帆AppBuilder SDK，帮助开发者快速灵活搭建AI原生应用，支持Agent和RAG能力。",
+          "tags": [
+            "AI SDK",
+            "Baidu",
+            "RAG"
+          ],
+          "health": "Active",
+          "url": "https://github.com/baidubce/app-builder",
+          "stars": 577,
+          "lastUpdated": "2026-03-19T06:20:36Z",
+          "addedAt": "2026-03-21T06:21:38.682Z",
+          "_lastChecked": "2026-03-21T06:21:38.682Z",
+          "subcategory": "SDKs & APIs"
+        },
+        {
+          "name": "MCP-Nest",
+          "description": "NestJS模块，轻松创建MCP服务器以暴露AI工具、资源和提示词。",
+          "tags": [
+            "MCP",
+            "NestJS",
+            "Model Context Protocol"
+          ],
+          "health": "Active",
+          "url": "https://github.com/rekog-labs/MCP-Nest",
+          "stars": 606,
+          "lastUpdated": "2026-03-19T06:14:16Z",
+          "addedAt": "2026-03-21T06:21:38.682Z",
+          "_lastChecked": "2026-03-21T06:21:38.682Z",
+          "subcategory": "SDKs & APIs"
+        },
+        {
+          "name": "open-webui-tools",
+          "description": "Open WebUI模块化工具集，提供15+专业工具、函数管道和过滤器，支持学术研究、智能体自动化、多模态创作等场景。",
+          "tags": [
+            "Open-WebUI",
+            "Tools",
+            "Multi-Agent"
+          ],
+          "health": "Active",
+          "url": "https://github.com/Haervwe/open-webui-tools",
+          "stars": 616,
+          "lastUpdated": "2026-03-18T20:49:51Z",
+          "addedAt": "2026-03-21T06:22:35.393Z",
+          "_lastChecked": "2026-03-21T06:22:35.393Z",
+          "subcategory": "SDKs & APIs"
+        },
+        {
+          "name": "conar",
+          "description": "AI驱动的数据库管理工具，支持Postgres、MySQL、MSSQL和Clickhouse，简化数据库连接与操作流程。",
+          "tags": [
+            "AI",
+            "Database",
+            "PostgreSQL",
+            "MySQL"
+          ],
+          "health": "Active",
+          "url": "https://github.com/wannabespace/conar",
+          "stars": 1336,
+          "lastUpdated": "2026-03-19T14:18:20Z",
+          "addedAt": "2026-03-21T06:23:49.360Z",
+          "_lastChecked": "2026-03-21T06:23:49.360Z",
+          "subcategory": "SDKs & APIs"
+        },
+        {
+          "name": "mcp.el",
+          "description": "Emacs客户端，支持Model Context Protocol (MCP)，让AI模型能与Emacs编辑器无缝交互。",
+          "tags": [
+            "Emacs",
+            "MCP",
+            "AI Client"
+          ],
+          "health": "Active",
+          "url": "https://github.com/lizqwerscott/mcp.el",
+          "stars": 552,
+          "lastUpdated": "2026-02-25T10:47:59Z",
+          "addedAt": "2026-03-21T06:28:12.589Z",
+          "_lastChecked": "2026-03-21T06:28:12.589Z",
+          "subcategory": "IDE & Code Assistants"
+        },
+        {
+          "name": "jadx-ai-mcp",
+          "description": "JADX插件，集成MCP服务器，将AI能力引入逆向工程和移动应用安全分析工作流。",
+          "tags": [
+            "MCP",
+            "Reverse Engineering",
+            "Security",
+            "JADX"
+          ],
+          "health": "Active",
+          "url": "https://github.com/zinja-coder/jadx-ai-mcp",
+          "stars": 1510,
+          "lastUpdated": "2026-02-28T17:08:29Z",
+          "addedAt": "2026-03-21T06:28:12.589Z",
+          "_lastChecked": "2026-03-21T06:28:12.589Z",
+          "subcategory": "IDE & Code Assistants"
+        },
+        {
+          "name": "mcp-router",
+          "description": "统一的MCP服务器管理应用，帮助开发者高效管理和路由多个MCP服务器实例。",
+          "tags": [
+            "MCP",
+            "LLMOps",
+            "Server Management"
+          ],
+          "health": "Active",
+          "url": "https://github.com/mcp-router/mcp-router",
+          "stars": 1886,
+          "lastUpdated": "2026-01-24T06:22:47Z",
+          "addedAt": "2026-03-21T06:29:13.467Z",
+          "_lastChecked": "2026-03-21T06:29:13.467Z",
+          "subcategory": "SDKs & APIs"
+        },
+        {
+          "name": "jupyter-mcp-server",
+          "description": "将Jupyter笔记本连接到MCP协议的服务器，支持AI助手直接操作和执行笔记本代码。",
+          "tags": [
+            "Jupyter",
+            "MCP",
+            "Development Tools"
+          ],
+          "health": "Active",
+          "url": "https://github.com/datalayer/jupyter-mcp-server",
+          "stars": 949,
+          "lastUpdated": "2026-03-18T14:30:41Z",
+          "addedAt": "2026-03-21T06:29:13.467Z",
+          "_lastChecked": "2026-03-21T06:29:13.467Z",
+          "subcategory": "SDKs & APIs"
+        },
+        {
+          "name": "Unity-MCP",
+          "description": "为Unity游戏引擎提供AI技能和MCP工具集成，支持Claude、Gemini、Copilot等多种AI助手。",
+          "tags": [
+            "Unity",
+            "Game Development",
+            "MCP"
+          ],
+          "health": "Active",
+          "url": "https://github.com/IvanMurzak/Unity-MCP",
+          "stars": 1395,
+          "lastUpdated": "2026-03-21T00:16:29Z",
+          "addedAt": "2026-03-21T06:29:13.467Z",
+          "_lastChecked": "2026-03-21T06:29:13.467Z",
+          "subcategory": "SDKs & APIs"
+        },
+        {
+          "name": "mcp-language-server",
+          "description": "为MCP客户端提供语义工具支持，包括定义跳转、引用查找、重命名和诊断功能。",
+          "tags": [
+            "MCP",
+            "语言服务器",
+            "代码分析"
+          ],
+          "health": "Active",
+          "url": "https://github.com/isaacphi/mcp-language-server",
+          "stars": 1494,
+          "lastUpdated": "2026-03-01T23:27:09Z",
+          "addedAt": "2026-03-21T06:30:07.693Z",
+          "_lastChecked": "2026-03-21T06:30:07.693Z",
+          "subcategory": "IDE & Code Assistants"
+        },
+        {
+          "name": "mcptools",
+          "description": "命令行工具，支持stdio和HTTP传输方式与MCP服务器交互。",
+          "tags": [
+            "MCP",
+            "CLI",
+            "开发工具"
+          ],
+          "health": "Active",
+          "url": "https://github.com/f/mcptools",
+          "stars": 1529,
+          "lastUpdated": "2025-12-18T10:20:08Z",
+          "addedAt": "2026-03-21T06:30:07.693Z",
+          "_lastChecked": "2026-03-21T06:30:07.693Z",
+          "subcategory": "SDKs & APIs"
+        },
+        {
+          "name": "dbt-mcp",
+          "description": "MCP服务器，让AI与dbt数据转换工具交互，支持数据分析工作流。",
+          "tags": [
+            "MCP",
+            "dbt",
+            "数据分析"
+          ],
+          "health": "Active",
+          "url": "https://github.com/dbt-labs/dbt-mcp",
+          "stars": 515,
+          "lastUpdated": "2026-03-21T05:16:23Z",
+          "addedAt": "2026-03-21T06:30:07.693Z",
+          "_lastChecked": "2026-03-21T06:30:07.693Z",
+          "subcategory": "SDKs & APIs"
+        },
+        {
+          "name": "paper-search-mcp",
+          "description": "MCP服务器，支持从arXiv、PubMed、bioRxiv等多源搜索和下载学术论文。",
+          "tags": [
+            "MCP",
+            "论文搜索",
+            "学术研究"
+          ],
+          "health": "Active",
+          "url": "https://github.com/openags/paper-search-mcp",
+          "stars": 847,
+          "lastUpdated": "2026-03-16T07:54:09Z",
+          "addedAt": "2026-03-21T06:30:07.693Z",
+          "_lastChecked": "2026-03-21T06:30:07.693Z",
+          "subcategory": "SDKs & APIs"
+        },
+        {
+          "name": "mcp",
+          "description": "AWS官方MCP服务器集合，让AI助手能够安全地访问和操作AWS服务资源。",
+          "tags": [
+            "AWS",
+            "MCP",
+            "Cloud"
+          ],
+          "health": "Active",
+          "url": "https://github.com/awslabs/mcp",
+          "stars": 8519,
+          "lastUpdated": "2026-03-21T05:23:33Z",
+          "addedAt": "2026-03-21T06:31:40.299Z",
+          "_lastChecked": "2026-03-21T06:31:40.299Z",
+          "subcategory": "SDKs & APIs"
+        },
+        {
+          "name": "registry",
+          "description": "社区驱动的MCP服务器注册服务，方便发现和共享Model Context Protocol服务器。",
+          "tags": [
+            "MCP",
+            "Registry",
+            "Community"
+          ],
+          "health": "Active",
+          "url": "https://github.com/modelcontextprotocol/registry",
+          "stars": 6575,
+          "lastUpdated": "2026-03-20T23:34:57Z",
+          "addedAt": "2026-03-21T06:31:40.299Z",
+          "_lastChecked": "2026-03-21T06:31:40.299Z",
+          "subcategory": "SDKs & APIs"
+        },
+        {
+          "name": "arcade-mcp",
+          "description": "创建、部署和分享MCP服务器的最佳平台，简化AI工具集成流程。",
+          "tags": [
+            "MCP",
+            "Platform",
+            "Deployment"
+          ],
+          "health": "Active",
+          "url": "https://github.com/ArcadeAI/arcade-mcp",
+          "stars": 829,
+          "lastUpdated": "2026-03-21T06:10:19Z",
+          "addedAt": "2026-03-21T06:31:40.300Z",
+          "_lastChecked": "2026-03-21T06:31:40.300Z",
+          "subcategory": "SDKs & APIs"
+        },
+        {
+          "name": "mcphub.nvim",
+          "description": "Neovim的MCP客户端插件，无缝集成MCP服务器到编辑工作流中。",
+          "tags": [
+            "Neovim",
+            "MCP",
+            "Editor"
+          ],
+          "health": "Active",
+          "url": "https://github.com/ravitemer/mcphub.nvim",
+          "stars": 1746,
+          "lastUpdated": "2026-01-18T10:00:29Z",
+          "addedAt": "2026-03-21T06:31:40.300Z",
+          "_lastChecked": "2026-03-21T06:31:40.300Z",
+          "subcategory": "IDE & Code Assistants"
+        },
+        {
+          "name": "laravel-restify",
+          "description": "为AI Agent和人类提供Laravel REST API框架，支持MCP协议集成。",
+          "tags": [
+            "Laravel",
+            "MCP",
+            "REST API",
+            "AI Agent"
+          ],
+          "health": "Active",
+          "url": "https://github.com/BinarCode/laravel-restify",
+          "stars": 650,
+          "lastUpdated": "2026-03-01T17:38:56Z",
+          "addedAt": "2026-03-21T06:32:25.530Z",
+          "_lastChecked": "2026-03-21T06:32:25.530Z",
+          "subcategory": "SDKs & APIs"
+        },
+        {
+          "name": "claude-quickstarts",
+          "description": "Anthropic 官方提供的 Claude API 快速入门项目集合，帮助开发者快速构建可部署的 AI 应用。",
+          "tags": [
+            "Claude",
+            "API",
+            "Quickstart",
+            "Anthropic"
+          ],
+          "health": "Active",
+          "url": "https://github.com/anthropics/claude-quickstarts",
+          "stars": 15442,
+          "lastUpdated": "2026-02-05T20:47:09Z",
+          "addedAt": "2026-03-21T06:34:08.904Z",
+          "_lastChecked": "2026-03-21T06:34:08.904Z",
+          "subcategory": "SDKs & APIs"
+        },
+        {
+          "name": "claude-code-telegram",
+          "description": "一个强大的 Telegram 机器人，提供对 Claude Code 的远程访问，支持完整的 AI 辅助编程和会话持久化。",
+          "tags": [
+            "Telegram Bot",
+            "Claude Code",
+            "Remote Development"
+          ],
+          "health": "Active",
+          "url": "https://github.com/RichardAtCT/claude-code-telegram",
+          "stars": 2174,
+          "lastUpdated": "2026-03-20T06:31:21Z",
+          "addedAt": "2026-03-21T06:35:40.328Z",
+          "_lastChecked": "2026-03-21T06:35:40.328Z",
+          "subcategory": "IDE & Code Assistants"
+        },
+        {
+          "name": "kiro-gateway",
+          "description": "AI API代理网关，支持将Claude模型免费接入任意客户端，兼容OpenAI API格式，提供流式响应支持。",
+          "tags": [
+            "API Gateway",
+            "Claude",
+            "Proxy"
+          ],
+          "health": "Active",
+          "url": "https://github.com/jwadow/kiro-gateway",
+          "stars": 738,
+          "lastUpdated": "2026-02-12T00:37:39Z",
+          "addedAt": "2026-03-21T06:38:08.478Z",
+          "_lastChecked": "2026-03-21T06:38:08.478Z",
+          "subcategory": "SDKs & APIs"
+        },
+        {
+          "name": "penzai",
+          "description": "基于JAX的神经网络研究工具包，支持构建、编辑和可视化神经网络模型，助力模型可解释性研究。",
+          "tags": [
+            "JAX",
+            "Neural Networks",
+            "Visualization"
+          ],
+          "health": "Active",
+          "url": "https://github.com/google-deepmind/penzai",
+          "stars": 1872,
+          "lastUpdated": "2025-06-22T05:45:13Z",
+          "addedAt": "2026-03-21T06:41:43.120Z",
+          "_lastChecked": "2026-03-21T06:41:43.120Z",
+          "subcategory": "SDKs & APIs"
+        },
+        {
+          "name": "awesome-copilot",
+          "description": "社区贡献的GitHub Copilot指令、代理、技能和配置集合。帮助开发者充分利用AI编程助手。",
+          "tags": [
+            "GitHub Copilot",
+            "Prompt Engineering",
+            "AI Assistant"
+          ],
+          "health": "Active",
+          "url": "https://github.com/github/awesome-copilot",
+          "stars": 26280,
+          "lastUpdated": "2026-03-21T00:19:18Z",
+          "addedAt": "2026-03-21T06:42:32.944Z",
+          "_lastChecked": "2026-03-21T06:42:32.944Z",
+          "subcategory": "IDE & Code Assistants"
+        },
+        {
+          "name": "prompt-optimizer",
+          "description": "一款提示词优化工具，帮助用户编写高质量的AI提示词。提升与大语言模型交互的效果。",
+          "tags": [
+            "Prompt Engineering",
+            "LLM",
+            "Optimization"
+          ],
+          "health": "Active",
+          "url": "https://github.com/linshenkx/prompt-optimizer",
+          "stars": 25179,
+          "lastUpdated": "2026-03-18T06:36:37Z",
+          "addedAt": "2026-03-21T06:42:32.944Z",
+          "_lastChecked": "2026-03-21T06:42:32.944Z",
+          "subcategory": "Prompt Engineering"
+        },
+        {
+          "name": "SuperPrompt",
+          "description": "探索性提示词工程项目，旨在设计帮助理解AI代理行为的提示词模板。推动提示工程研究边界。",
+          "tags": [
+            "Prompt Engineering",
+            "AI Agents",
+            "Research"
+          ],
+          "health": "Active",
+          "url": "https://github.com/NeoVertex1/SuperPrompt",
+          "stars": 6394,
+          "lastUpdated": "2025-09-03T15:20:46Z",
+          "addedAt": "2026-03-21T06:42:32.945Z",
+          "_lastChecked": "2026-03-21T06:42:32.945Z",
+          "subcategory": "Prompt Engineering"
+        },
+        {
+          "name": "Kaku",
+          "description": "专为AI编程打造的极速终端工具，开箱即用。支持MacOS，提供流畅的AI辅助编码体验。",
+          "tags": [
+            "Terminal",
+            "AI Coding",
+            "Rust"
+          ],
+          "health": "Active",
+          "url": "https://github.com/tw93/Kaku",
+          "stars": 3193,
+          "lastUpdated": "2026-03-21T05:57:10Z",
+          "addedAt": "2026-03-21T06:43:56.770Z",
+          "_lastChecked": "2026-03-21T06:43:56.770Z",
+          "subcategory": "IDE & Code Assistants"
+        },
+        {
+          "name": "air",
+          "description": "首个专为AI编写代码而设计的Web框架，基于Python、FastAPI、Pydantic和HTMX构建，由Django畅销书作者打造。",
+          "tags": [
+            "AI Coding",
+            "Web Framework",
+            "FastAPI"
+          ],
+          "health": "Active",
+          "url": "https://github.com/feldroy/air",
+          "stars": 840,
+          "lastUpdated": "2026-03-21T06:00:38Z",
+          "addedAt": "2026-03-21T06:46:50.551Z",
+          "_lastChecked": "2026-03-21T06:46:50.551Z",
+          "subcategory": "SDKs & APIs"
+        },
+        {
+          "name": "cookiecutter-fastapi",
+          "description": "FastAPI 项目脚手架模板，集成机器学习、LLM、MLOps 等功能。支持 Docker、GitHub Actions 和 Pytest，快速搭建生产级 AI 后端项目。",
+          "tags": [
+            "FastAPI",
+            "Boilerplate",
+            "MLOps"
+          ],
+          "health": "Active",
+          "url": "https://github.com/arthurhenrique/cookiecutter-fastapi",
+          "stars": 707,
+          "lastUpdated": "2025-08-25T15:58:56Z",
+          "addedAt": "2026-03-21T06:48:13.050Z",
+          "_lastChecked": "2026-03-21T06:48:13.050Z",
+          "subcategory": "SDKs & APIs"
+        },
+        {
+          "name": "octocode-mcp",
+          "description": "基于MCP的语义代码搜索服务器，支持实时检索GitHub公开/私有仓库，将代码库转换为AI优化的知识上下文。",
+          "tags": [
+            "MCP",
+            "Code Search",
+            "Semantic Search",
+            "Claude"
+          ],
+          "health": "Active",
+          "url": "https://github.com/bgauryy/octocode-mcp",
+          "stars": 756,
+          "lastUpdated": "2026-03-20T23:48:15Z",
+          "addedAt": "2026-03-21T06:49:58.929Z",
+          "_lastChecked": "2026-03-21T06:49:58.929Z",
+          "subcategory": "IDE & Code Assistants"
+        },
+        {
+          "name": "apple-docs-mcp",
+          "description": "苹果开发者文档MCP服务器，支持在Claude、Cursor等AI助手中搜索iOS/macOS/SwiftUI文档和API示例。",
+          "tags": [
+            "MCP",
+            "Apple",
+            "iOS Development",
+            "Documentation"
+          ],
+          "health": "Active",
+          "url": "https://github.com/kimsungwhee/apple-docs-mcp",
+          "stars": 1161,
+          "lastUpdated": "2026-03-17T02:39:50Z",
+          "addedAt": "2026-03-21T06:49:58.930Z",
+          "_lastChecked": "2026-03-21T06:49:58.930Z",
+          "subcategory": "IDE & Code Assistants"
+        },
+        {
+          "name": "XcodeBuildMCP",
+          "description": "为AI代理提供iOS/macOS项目构建工具的MCP服务器，支持Xcode相关开发操作。",
+          "tags": [
+            "MCP",
+            "Xcode",
+            "iOS",
+            "macOS"
+          ],
+          "health": "Active",
+          "url": "https://github.com/getsentry/XcodeBuildMCP",
+          "stars": 4827,
+          "lastUpdated": "2026-03-16T22:10:37Z",
+          "addedAt": "2026-03-21T06:49:58.930Z",
+          "_lastChecked": "2026-03-21T06:49:58.930Z",
+          "subcategory": "IDE & Code Assistants"
+        },
+        {
+          "name": "langkit",
+          "description": "开源LLM监控工具包，用于从提示词和响应中提取信号，确保大模型应用的安全性与质量。支持文本质量评估、相关性指标和情感分析等功能。",
+          "tags": [
+            "LLM Monitoring",
+            "Observability",
+            "Safety"
+          ],
+          "health": "Active",
+          "url": "https://github.com/whylabs/langkit",
+          "stars": 978,
+          "lastUpdated": "2024-11-22T20:02:14Z",
+          "addedAt": "2026-03-21T06:50:57.004Z",
+          "_lastChecked": "2026-03-21T06:50:57.004Z",
+          "subcategory": "SDKs & APIs"
         }
       ],
       "subcategories": [
@@ -19515,6 +21450,135 @@
           "lastUpdated": "2026-03-20T17:38:06Z",
           "addedAt": "2026-03-21T06:01:13.448Z",
           "_lastChecked": "2026-03-21T06:01:13.448Z",
+          "subcategory": "Productivity Tools"
+        },
+        {
+          "name": "char",
+          "description": "AI驱动的会议笔记应用，支持本地优先架构，结合Rust和Tauri构建跨平台桌面体验。",
+          "tags": [
+            "AI Notepad",
+            "Meetings",
+            "Local-first"
+          ],
+          "health": "Active",
+          "url": "https://github.com/fastrepl/char",
+          "stars": 8012,
+          "lastUpdated": "2026-03-21T01:50:46Z",
+          "addedAt": "2026-03-21T06:10:12.153Z",
+          "_lastChecked": "2026-03-21T06:10:12.153Z",
+          "subcategory": "Productivity Tools"
+        },
+        {
+          "name": "huntly",
+          "description": "AI驱动的个人信息聚合中心，整合RSS、GitHub、Twitter等多源信息流。",
+          "tags": [
+            "AI Hub",
+            "RSS Reader",
+            "Self-hosted"
+          ],
+          "health": "Active",
+          "url": "https://github.com/lcomplete/huntly",
+          "stars": 2299,
+          "lastUpdated": "2026-03-21T01:45:57Z",
+          "addedAt": "2026-03-21T06:10:12.153Z",
+          "_lastChecked": "2026-03-21T06:10:12.153Z",
+          "subcategory": "Productivity Tools"
+        },
+        {
+          "name": "posthog",
+          "description": "一站式开发者平台，集成产品分析、会话回放、功能开关和AI产品助手，帮助团队快速构建成功产品。",
+          "tags": [
+            "Analytics",
+            "AI Assistant",
+            "Product Analytics"
+          ],
+          "health": "Active",
+          "url": "https://github.com/PostHog/posthog",
+          "stars": 32150,
+          "lastUpdated": "2026-03-21T05:01:27Z",
+          "addedAt": "2026-03-21T06:16:52.338Z",
+          "_lastChecked": "2026-03-21T06:16:52.338Z",
+          "subcategory": "Productivity Tools"
+        },
+        {
+          "name": "wenyan-mcp",
+          "description": "MCP服务器，让AI自动将Markdown文章排版后发布至微信公众号，简化内容发布流程。",
+          "tags": [
+            "MCP",
+            "微信公众号",
+            "内容发布"
+          ],
+          "health": "Active",
+          "url": "https://github.com/caol64/wenyan-mcp",
+          "stars": 1121,
+          "lastUpdated": "2026-03-05T05:13:44Z",
+          "addedAt": "2026-03-21T06:30:07.693Z",
+          "_lastChecked": "2026-03-21T06:30:07.693Z",
+          "subcategory": "Productivity Tools"
+        },
+        {
+          "name": "LLM-Kit",
+          "description": "集成WebUI的大语言模型全流程工具平台，支持知识库、角色扮演、LoRA微调和数据集制作等功能。",
+          "tags": [
+            "LLM",
+            "WebUI",
+            "Fine-tuning"
+          ],
+          "health": "Active",
+          "url": "https://github.com/wpydcr/LLM-Kit",
+          "stars": 550,
+          "lastUpdated": "2025-11-25T07:09:15Z",
+          "addedAt": "2026-03-21T06:41:43.121Z",
+          "_lastChecked": "2026-03-21T06:41:43.121Z",
+          "subcategory": "Chatbots & UIs"
+        },
+        {
+          "name": "koharu",
+          "description": "基于机器学习的漫画翻译工具，使用计算机视觉和深度学习技术。支持GPU加速，提供本地化翻译体验。",
+          "tags": [
+            "Manga Translation",
+            "Computer Vision",
+            "Deep Learning"
+          ],
+          "health": "Active",
+          "url": "https://github.com/mayocream/koharu",
+          "stars": 834,
+          "lastUpdated": "2026-03-21T05:52:00Z",
+          "addedAt": "2026-03-21T06:43:56.770Z",
+          "_lastChecked": "2026-03-21T06:43:56.770Z",
+          "subcategory": "Creative Apps"
+        },
+        {
+          "name": "GPTDiscord",
+          "description": "功能强大的Discord GPT集成工具，支持ChatGPT风格对话、图像生成、AI审核、自定义知识库和YouTube摘要等多种AI功能。",
+          "tags": [
+            "Discord",
+            "ChatGPT",
+            "Image Generation",
+            "AI Moderation"
+          ],
+          "health": "Active",
+          "url": "https://github.com/Kav-K/GPTDiscord",
+          "stars": 1850,
+          "lastUpdated": "2026-02-06T23:33:50Z",
+          "addedAt": "2026-03-21T06:44:27.370Z",
+          "_lastChecked": "2026-03-21T06:44:27.370Z",
+          "subcategory": "Chatbots & UIs"
+        },
+        {
+          "name": "HivisionIDPhotos",
+          "description": "轻量级AI证件照制作工具，基于CNN和UNet实现智能人像抠图与证件照生成，支持多种尺寸规格。",
+          "tags": [
+            "证件照",
+            "人像抠图",
+            "图像处理"
+          ],
+          "health": "Active",
+          "url": "https://github.com/Zeyi-Lin/HivisionIDPhotos",
+          "stars": 20832,
+          "lastUpdated": "2026-03-19T12:02:27Z",
+          "addedAt": "2026-03-21T06:52:17.876Z",
+          "_lastChecked": "2026-03-21T06:52:17.876Z",
           "subcategory": "Productivity Tools"
         }
       ],
@@ -22421,6 +24485,248 @@
           "addedAt": "2026-03-21T06:04:39.853Z",
           "_lastChecked": "2026-03-21T06:04:39.853Z",
           "subcategory": "Awesome Lists"
+        },
+        {
+          "name": "curriculum",
+          "description": "Enki开源学习课程，涵盖AI、算法、区块链、数据科学等多个技术领域的系统化学习资源。",
+          "tags": [
+            "AI",
+            "Education",
+            "Curriculum"
+          ],
+          "health": "Active",
+          "url": "https://github.com/enkidevs/curriculum",
+          "stars": 820,
+          "lastUpdated": "2025-09-24T13:41:21Z",
+          "addedAt": "2026-03-21T06:11:58.556Z",
+          "_lastChecked": "2026-03-21T06:11:58.556Z",
+          "subcategory": "Courses & Tutorials"
+        },
+        {
+          "name": "acme",
+          "description": "DeepMind开源的强化学习组件库，提供模块化的RL算法实现和研究基准。",
+          "tags": [
+            "Reinforcement Learning",
+            "DeepMind",
+            "Research"
+          ],
+          "health": "Active",
+          "url": "https://github.com/google-deepmind/acme",
+          "stars": 3945,
+          "lastUpdated": "2026-03-12T15:43:49Z",
+          "addedAt": "2026-03-21T06:13:04.727Z",
+          "_lastChecked": "2026-03-21T06:13:04.727Z",
+          "subcategory": "Research Papers"
+        },
+        {
+          "name": "second-brain-ai-assistant-course",
+          "description": "系统化AI助手开发课程，涵盖LLM、智能体、RAG、微调和LLMOps全栈技术。",
+          "tags": [
+            "Course",
+            "LLMOps",
+            "RAG"
+          ],
+          "health": "Active",
+          "url": "https://github.com/decodingai-magazine/second-brain-ai-assistant-course",
+          "stars": 2584,
+          "lastUpdated": "2025-05-19T09:14:14Z",
+          "addedAt": "2026-03-21T06:13:04.727Z",
+          "_lastChecked": "2026-03-21T06:13:04.727Z",
+          "subcategory": "Courses & Tutorials"
+        },
+        {
+          "name": "awesome-japanese-llm",
+          "description": "日语大语言模型资源汇总，涵盖日本语LLM的全面概述和多模态视觉语言模型。",
+          "tags": [
+            "Japanese LLM",
+            "Awesome List",
+            "Multimodal"
+          ],
+          "health": "Active",
+          "url": "https://github.com/llm-jp/awesome-japanese-llm",
+          "stars": 1353,
+          "lastUpdated": "2026-03-19T13:25:19Z",
+          "addedAt": "2026-03-21T06:21:38.682Z",
+          "_lastChecked": "2026-03-21T06:21:38.682Z",
+          "subcategory": "Awesome Lists"
+        },
+        {
+          "name": "awesome-multi-agent-papers",
+          "description": "多智能体领域精选论文合集，涵盖AutoGen、CrewAI、LangGraph等主流框架相关研究，是了解多智能体系统前沿进展的优质资源。",
+          "tags": [
+            "Multi-Agent",
+            "Papers",
+            "Research"
+          ],
+          "health": "Active",
+          "url": "https://github.com/kyegomez/awesome-multi-agent-papers",
+          "stars": 1315,
+          "lastUpdated": "2026-03-19T02:36:56Z",
+          "addedAt": "2026-03-21T06:22:35.393Z",
+          "_lastChecked": "2026-03-21T06:22:35.393Z",
+          "subcategory": "Awesome Lists"
+        },
+        {
+          "name": "Awesome-Jailbreak-on-LLMs",
+          "description": "LLM越狱攻击方法合集，收录最新论文、代码、数据集和评估分析，是研究大模型安全的重要资源。",
+          "tags": [
+            "Jailbreak",
+            "Security",
+            "LLM Safety"
+          ],
+          "health": "Active",
+          "url": "https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs",
+          "stars": 1262,
+          "lastUpdated": "2026-03-18T16:30:48Z",
+          "addedAt": "2026-03-21T06:22:35.393Z",
+          "_lastChecked": "2026-03-21T06:22:35.393Z",
+          "subcategory": "Research Papers"
+        },
+        {
+          "name": "awesome-a2a",
+          "description": "Agent2Agent资源精选列表，汇集A2A智能体、工具、服务器与客户端资源。",
+          "tags": [
+            "A2A",
+            "Awesome-List",
+            "Agents"
+          ],
+          "health": "Active",
+          "url": "https://github.com/ai-boost/awesome-a2a",
+          "stars": 536,
+          "lastUpdated": "2025-10-27T10:12:21Z",
+          "addedAt": "2026-03-21T06:26:15.010Z",
+          "_lastChecked": "2026-03-21T06:26:15.010Z",
+          "subcategory": "Awesome Lists"
+        },
+        {
+          "name": "multimodal-agents-course",
+          "description": "多模态AI智能体教程项目，教你构建具有视觉和听觉能力的MCP智能体。",
+          "tags": [
+            "Multimodal",
+            "AI Agent",
+            "Tutorial"
+          ],
+          "health": "Active",
+          "url": "https://github.com/the-ai-merge/multimodal-agents-course",
+          "stars": 551,
+          "lastUpdated": "2026-01-05T23:30:53Z",
+          "addedAt": "2026-03-21T06:29:13.467Z",
+          "_lastChecked": "2026-03-21T06:29:13.467Z",
+          "subcategory": "Courses & Tutorials"
+        },
+        {
+          "name": "mcpso",
+          "description": "精选MCP服务器目录，收录各类优质Model Context Protocol服务器资源。",
+          "tags": [
+            "MCP",
+            "Directory",
+            "Awesome"
+          ],
+          "health": "Active",
+          "url": "https://github.com/chatmcp/mcpso",
+          "stars": 1980,
+          "lastUpdated": "2025-03-26T16:29:02Z",
+          "addedAt": "2026-03-21T06:31:40.299Z",
+          "_lastChecked": "2026-03-21T06:31:40.299Z",
+          "subcategory": "Awesome Lists"
+        },
+        {
+          "name": "awesome-mcp-servers",
+          "description": "全面的MCP服务器资源合集，涵盖各类Model Context Protocol服务器实现。",
+          "tags": [
+            "MCP",
+            "Awesome",
+            "Collection"
+          ],
+          "health": "Active",
+          "url": "https://github.com/TensorBlock/awesome-mcp-servers",
+          "stars": 571,
+          "lastUpdated": "2026-03-18T20:29:23Z",
+          "addedAt": "2026-03-21T06:31:40.299Z",
+          "_lastChecked": "2026-03-21T06:31:40.299Z",
+          "subcategory": "Awesome Lists"
+        },
+        {
+          "name": "awesome-mcp-security",
+          "description": "MCP安全资源精选列表，收录漏洞研究、渗透测试和安全实践相关内容。",
+          "tags": [
+            "Security",
+            "MCP",
+            "Awesome"
+          ],
+          "health": "Active",
+          "url": "https://github.com/Puliczek/awesome-mcp-security",
+          "stars": 669,
+          "lastUpdated": "2026-03-03T20:29:51Z",
+          "addedAt": "2026-03-21T06:31:40.300Z",
+          "_lastChecked": "2026-03-21T06:31:40.300Z",
+          "subcategory": "Awesome Lists"
+        },
+        {
+          "name": "awesome-llms-fine-tuning",
+          "description": "大语言模型微调资源的精选合集，包含教程、论文、工具和最佳实践，适合ML从业者和研究人员。",
+          "tags": [
+            "LLM",
+            "Fine-tuning",
+            "Resources"
+          ],
+          "health": "Active",
+          "url": "https://github.com/Curated-Awesome-Lists/awesome-llms-fine-tuning",
+          "stars": 507,
+          "lastUpdated": "2024-12-02T20:11:14Z",
+          "addedAt": "2026-03-21T06:41:43.121Z",
+          "_lastChecked": "2026-03-21T06:41:43.121Z",
+          "subcategory": "Awesome Lists"
+        },
+        {
+          "name": "learn-generative-ai",
+          "description": "全面的生成式AI工程学习资源，涵盖OpenAI、Gemini、LangChain、Pinecone、向量数据库及云部署实践。",
+          "tags": [
+            "Generative AI",
+            "LangChain",
+            "OpenAI",
+            "Tutorial"
+          ],
+          "health": "Active",
+          "url": "https://github.com/panaverse/learn-generative-ai",
+          "stars": 793,
+          "lastUpdated": "2024-07-28T06:18:46Z",
+          "addedAt": "2026-03-21T06:46:50.552Z",
+          "_lastChecked": "2026-03-21T06:46:50.552Z",
+          "subcategory": "Courses & Tutorials"
+        },
+        {
+          "name": "Awesome-LLMOps",
+          "description": "精选的LLMOps工具合集，为开发者提供大语言模型运维的最佳工具和实践指南。",
+          "tags": [
+            "LLMOps",
+            "MLOps",
+            "Awesome List"
+          ],
+          "health": "Active",
+          "url": "https://github.com/tensorchord/Awesome-LLMOps",
+          "stars": 5663,
+          "lastUpdated": "2026-02-03T20:36:07Z",
+          "addedAt": "2026-03-21T06:53:26.151Z",
+          "_lastChecked": "2026-03-21T06:53:26.151Z",
+          "subcategory": "Awesome Lists"
+        },
+        {
+          "name": "hands-on-llms",
+          "description": "通过设计、训练和部署实时金融顾问LLM系统，深入学习LLMs、LLMOps和向量数据库的实战教程。",
+          "tags": [
+            "LLM",
+            "LLMOps",
+            "Tutorial",
+            "RAG"
+          ],
+          "health": "Active",
+          "url": "https://github.com/iusztinpaul/hands-on-llms",
+          "stars": 3401,
+          "lastUpdated": "2024-12-09T14:55:28Z",
+          "addedAt": "2026-03-21T06:53:26.151Z",
+          "_lastChecked": "2026-03-21T06:53:26.151Z",
+          "subcategory": "Courses & Tutorials"
         }
       ],
       "subcategories": [
@@ -23582,6 +25888,71 @@
           "addedAt": "2026-03-21T06:01:13.448Z",
           "_lastChecked": "2026-03-21T06:01:13.448Z",
           "subcategory": "Terminal Tools"
+        },
+        {
+          "name": "ClawX",
+          "description": "OpenClaw AI智能体的桌面图形界面应用，将命令行AI编排转换为桌面体验，无需终端操作。",
+          "tags": [
+            "AI Agents",
+            "Desktop App",
+            "GUI"
+          ],
+          "health": "Active",
+          "url": "https://github.com/ValueCell-ai/ClawX",
+          "stars": 5169,
+          "lastUpdated": "2026-03-20T10:48:20Z",
+          "addedAt": "2026-03-21T06:11:58.557Z",
+          "_lastChecked": "2026-03-21T06:11:58.557Z",
+          "subcategory": "Local GUI Apps"
+        },
+        {
+          "name": "tome",
+          "description": "桌面端LLM客户端，支持多种大语言模型和MCP协议，让非技术用户也能轻松使用AI。",
+          "tags": [
+            "LLM Client",
+            "MCP",
+            "Desktop",
+            "No-Code"
+          ],
+          "health": "Active",
+          "url": "https://github.com/runebookai/tome",
+          "stars": 601,
+          "lastUpdated": "2025-10-20T21:16:20Z",
+          "addedAt": "2026-03-21T06:28:12.589Z",
+          "_lastChecked": "2026-03-21T06:28:12.589Z",
+          "subcategory": "Local GUI Apps"
+        },
+        {
+          "name": "Context",
+          "description": "原生macOS客户端，支持Model Context Protocol (MCP)，为Mac用户提供AI模型上下文管理能力。",
+          "tags": [
+            "macOS",
+            "MCP",
+            "Native App"
+          ],
+          "health": "Active",
+          "url": "https://github.com/indragiek/Context",
+          "stars": 778,
+          "lastUpdated": "2026-02-11T05:27:45Z",
+          "addedAt": "2026-03-21T06:28:12.589Z",
+          "_lastChecked": "2026-03-21T06:28:12.589Z",
+          "subcategory": "Local GUI Apps"
+        },
+        {
+          "name": "ZeroLaunch-rs",
+          "description": "隐私优先的Windows智能启动器，支持拼音和模糊匹配。可选本地AI语义搜索，实现意图智能检索。",
+          "tags": [
+            "Launcher",
+            "Semantic Search",
+            "Windows"
+          ],
+          "health": "Active",
+          "url": "https://github.com/ghost-him/ZeroLaunch-rs",
+          "stars": 515,
+          "lastUpdated": "2026-03-21T05:48:02Z",
+          "addedAt": "2026-03-21T06:43:56.770Z",
+          "_lastChecked": "2026-03-21T06:43:56.770Z",
+          "subcategory": "OS Integrations"
         }
       ]
     },
@@ -23921,6 +26292,23 @@
           "addedAt": "2026-03-21T06:01:41.016Z",
           "_lastChecked": "2026-03-21T06:01:41.016Z",
           "subcategory": "Robotics"
+        },
+        {
+          "name": "ros-mcp-server",
+          "description": "MCP服务器，连接Claude、GPT等AI模型与ROS机器人系统，实现AI驱动的机器人控制。",
+          "tags": [
+            "ROS",
+            "MCP",
+            "Robotics",
+            "AI Integration"
+          ],
+          "health": "Active",
+          "url": "https://github.com/robotmcp/ros-mcp-server",
+          "stars": 1095,
+          "lastUpdated": "2026-03-20T08:30:47Z",
+          "addedAt": "2026-03-21T06:28:12.589Z",
+          "_lastChecked": "2026-03-21T06:28:12.589Z",
+          "subcategory": "Robotics"
         }
       ]
     },
@@ -24129,6 +26517,87 @@
           "addedAt": "2026-03-21T06:01:41.016Z",
           "_lastChecked": "2026-03-21T06:01:41.016Z",
           "subcategory": "Quantitative Trading"
+        },
+        {
+          "name": "prophet",
+          "description": "Meta开源的时间序列预测工具，擅长处理多重季节性和非线性增长的数据预测。",
+          "tags": [
+            "时间序列",
+            "预测",
+            "机器学习"
+          ],
+          "health": "Active",
+          "url": "https://github.com/facebook/prophet",
+          "stars": 20083,
+          "lastUpdated": "2026-03-02T08:19:52Z",
+          "addedAt": "2026-03-21T06:15:34.597Z",
+          "_lastChecked": "2026-03-21T06:15:34.597Z",
+          "subcategory": "Market Analysis"
+        },
+        {
+          "name": "Lean",
+          "description": "QuantConnect开源的算法交易引擎，支持Python和C#，提供完整的回测和实盘交易能力。",
+          "tags": [
+            "量化交易",
+            "算法交易",
+            "金融"
+          ],
+          "health": "Active",
+          "url": "https://github.com/QuantConnect/Lean",
+          "stars": 17963,
+          "lastUpdated": "2026-03-19T14:23:46Z",
+          "addedAt": "2026-03-21T06:15:34.597Z",
+          "_lastChecked": "2026-03-21T06:15:34.597Z",
+          "subcategory": "Quantitative Trading"
+        },
+        {
+          "name": "hummingbot",
+          "description": "开源加密货币高频交易机器人框架，支持创建和部署自动化交易策略，包含套利、做市等功能。",
+          "tags": [
+            "Trading Bot",
+            "Cryptocurrency",
+            "Algorithmic Trading"
+          ],
+          "health": "Active",
+          "url": "https://github.com/hummingbot/hummingbot",
+          "stars": 17788,
+          "lastUpdated": "2026-03-20T14:34:55Z",
+          "addedAt": "2026-03-21T06:16:14.776Z",
+          "_lastChecked": "2026-03-21T06:16:14.776Z",
+          "subcategory": "Quantitative Trading"
+        },
+        {
+          "name": "openops",
+          "description": "开源无代码FinOps自动化平台，集成可信AI能力，实现云成本优化与治理自动化。",
+          "tags": [
+            "FinOps",
+            "No-Code",
+            "Cloud"
+          ],
+          "health": "Active",
+          "url": "https://github.com/openops-cloud/openops",
+          "stars": 1011,
+          "lastUpdated": "2026-03-20T15:22:53Z",
+          "addedAt": "2026-03-21T06:31:40.299Z",
+          "_lastChecked": "2026-03-21T06:31:40.299Z",
+          "subcategory": "Enterprise Solutions"
+        },
+        {
+          "name": "FinRobot",
+          "description": "开源AI代理平台，专注于使用LLM进行金融分析。支持多模态深度学习和智能投顾应用。",
+          "tags": [
+            "AI Agent",
+            "Finance",
+            "LLM",
+            "Fintech"
+          ],
+          "health": "Active",
+          "url": "https://github.com/AI4Finance-Foundation/FinRobot",
+          "stars": 6446,
+          "lastUpdated": "2026-03-20T13:01:44Z",
+          "addedAt": "2026-03-21T06:42:32.945Z",
+          "_lastChecked": "2026-03-21T06:42:32.945Z",
+          "subcategory": "Enterprise Solutions"
         }
       ]
     }
