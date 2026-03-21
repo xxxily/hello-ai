@@ -48,7 +48,9 @@
     "ai:discover-eval": "node scripts/discover-and-evaluate.js",
     "ai:update-status": "node scripts/update-status.js",
     "ai:generate-docs": "node scripts/generate-docs.js",
-    "ai:loop-eval": "node scripts/loop-eval.js"
+    "ai:loop-eval": "node scripts/loop-eval.js",
+    "ai:re-evaluate-all": "node scripts/re-evaluate-all.js",
+    "ai:consume-queue": "node scripts/loop-eval.js --consume-only"
   },
   "devDependencies": {
     "@babel/core": "^7.20.2",

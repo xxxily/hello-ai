@@ -19,8 +19,14 @@ async function runOnce() {
   console.log('█'.repeat(60) + '\n');
 
   return new Promise((resolve) => {
-    // 使用 npm run ai:discover-eval 执行
-    const child = spawn('npm', ['run', 'ai:discover-eval'], {
+    // 检查是否有 --consume-only 参数
+    const isConsumeOnly = process.argv.includes('--consume-only');
+    const args = ['run', 'ai:discover-eval'];
+    if (isConsumeOnly) {
+      args.push('--', '--consume-only'); // 传递参数给下层脚本
+    }
+
+    const child = spawn('npm', args, {
       stdio: 'inherit',
       shell: true,
       cwd: path.join(__dirname, '..')
@@ -32,7 +38,7 @@ async function runOnce() {
 
       console.log('\n' + '─'.repeat(40));
       console.log(`✅ 第 ${count} 次任务已完成 (耗时: ${duration}s)`);
-      if (code !== 0) {
+      if (code !== 0 && code !== 2) {
         console.log(`⚠️ 进程退出码: ${code}`);
       }
       console.log(`📊 累计执行次数: ${count}`);
@@ -59,22 +65,31 @@ async function start() {
   console.log('│                                                        │');
   console.log('└────────────────────────────────────────────────────────┘');
 
-  const MIN_INTERVAL_MS = 60 * 1000; // 最少间隔 1 分钟 (60,000 毫秒)
+  await import('dotenv/config'); // 确保 .env 被正确加载以读取时间常数
+  const envInterval = parseInt(process.env.LOOP_INTERVAL_SECONDS, 10);
+  const minIntervalSeconds = isNaN(envInterval) ? 60 : envInterval;
+  const MIN_INTERVAL_MS = minIntervalSeconds * 1000;
+  
+  const isConsumeOnly = process.argv.includes('--consume-only');
 
   while (true) {
     const cycleStartTime = Date.now();
-    await runOnce();
+    const childExitCode = await runOnce();
+
+    if (isConsumeOnly && childExitCode === 2) {
+      console.log('\n🎉 所有待处理队列的数据已被评估完毕，任务圆满结束（基于 --consume-only 参数自动退出循环）。');
+      process.exit(0);
+    }
 
     const cycleEndTime = Date.now();
     const elapsedMs = cycleEndTime - cycleStartTime;
     const remainingMs = Math.max(0, MIN_INTERVAL_MS - elapsedMs);
 
     if (remainingMs > 0) {
-      console.log(`\n⏳ 本轮执行耗时 ${(elapsedMs / 1000).toFixed(1)}s，正在等待 ${(remainingMs / 1000).toFixed(1)}s 以满足 1 分钟间隔标准...`);
+      console.log(`\n⏳ 本轮执行耗时 ${(elapsedMs / 1000).toFixed(1)}s，正在等待 ${(remainingMs / 1000).toFixed(1)}s 以满足配置的 ${minIntervalSeconds} 秒间隔标准...`);
       await new Promise(r => setTimeout(r, remainingMs));
     } else {
-      console.log(`\n🚀 本轮执行耗时 ${(elapsedMs / 1000).toFixed(1)}s (已超过 1 分钟)，准备进入下一次迭代...`);
-      // 即使超过了 1 分钟，也强制停顿 5 秒缓冲，防止无间断高频执行
+      console.log(`\n🚀 本轮执行耗时 ${(elapsedMs / 1000).toFixed(1)}s (已超过 ${minIntervalSeconds} 秒)，准备进入下一次迭代...`);
       await new Promise(r => setTimeout(r, 5000));
     }
   }

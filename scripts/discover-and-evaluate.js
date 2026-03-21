@@ -62,6 +62,11 @@ async function askLLM(prompt) {
 
 // 1. Discover mode
 async function discover() {
+  if (process.argv.includes('--consume-only')) {
+    console.log('⏭️ [Discovery] Skipped GitHub API discovery due to --consume-only flag.');
+    return;
+  }
+  
   console.log(`🔍 [Task Pool] Searching for trending AI projects (Max ${DISCOVER_BATCH_SIZE})...`);
 
   const headers = { 'Accept': 'application/vnd.github.v3+json' };
@@ -162,6 +167,9 @@ async function evaluate() {
   const pendingDb = loadJson(queueFile, { queue: [] });
   if (!pendingDb.queue || pendingDb.queue.length === 0) {
     console.log('✨ The pending queue is empty. Nothing to evaluate.');
+    if (process.argv.includes('--consume-only')) {
+      process.exit(2);
+    }
     return;
   }
 
@@ -174,7 +182,9 @@ async function evaluate() {
     .map(c => `- ${c.id} (${c.name}) - Subcategories: [${(c.subcategories||[]).join(', ')}]`)
     .join('\n');
 
-  console.log(`\n🤖 [Task Pool] Evaluating up to ${EVALUATE_BATCH_SIZE} projects using Model: ${LLM_MODEL}...`);
+  const totalPending = pendingDb.queue.length;
+  console.log(`\n📊 [Task Pool] Current pending tasks awaiting evaluation: ${totalPending}`);
+  console.log(`🤖 [Task Pool] Evaluating up to ${EVALUATE_BATCH_SIZE} projects using Model: ${LLM_MODEL}...`);
 
   // Grab up to EVALUATE_BATCH_SIZE items
   const batch = pendingDb.queue.splice(0, EVALUATE_BATCH_SIZE);

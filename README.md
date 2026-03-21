@@ -104,6 +104,7 @@ Open `.env` and adjust the core configurations:
 - **`LLM_BASE_URL=`**: LLM endpoint (e.g. `https://api.openai.com/v1`, or local `http://127.0.0.1:11434/v1`).
 - **`LLM_MODEL=`**: Standard model identity to use (e.g. `gpt-4o-mini`).
 - **`DISCOVER_BATCH_SIZE`** / **`EVALUATE_BATCH_SIZE`**: Modify limits per pull from GitHub and per LLM prompt bulk execution batch.
+- **`LOOP_INTERVAL_SECONDS`**: Configure the base idle time interval between consecutive `ai:loop-eval` cycles (default: 60s).
 
 ### 3. Run Automation Pipelines
 Choose how you want to execute scripts:
@@ -114,6 +115,18 @@ Choose how you want to execute scripts:
 - **Constant Background Daemon** (Continuous fetch & evaluate):
   ```bash
   npm run ai:loop-eval
+  ```
+- **Incremental Status Check** (Background process to silently check/update GitHub star & health status for evaluated items):
+  ```bash
+  npm run ai:update-status
+  ```
+- **Re-Evaluate Active Projects** (Moves items back to Queue to catch up with latest sub-category mapping):
+  ```bash
+  npm run ai:re-evaluate-all
+  ```
+- **Consume Queue & Exit** (Strictly evaluates queue without pinging GitHub API to avoid rate-limits; auto-exits when empty):
+  ```bash
+  npm run ai:consume-queue
   ```
 
 ### 4. Dynamic Pages Generation & Local Preview

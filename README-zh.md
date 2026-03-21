@@ -112,6 +112,7 @@ cp .env.example .env
 - **`LLM_BASE_URL=`**：API转发地址（例如：`https://api.openai.com/v1` 或 本地 `http://127.0.0.1:11434/v1`）。
 - **`LLM_MODEL=`**：要执行推理的模型名字。
 - **`DISCOVER_BATCH_SIZE`** / **`EVALUATE_BATCH_SIZE`**：可控每次探索拉取的个数，及一次批量合并扔给 AI 判断的项目个数。
+- **`LOOP_INTERVAL_SECONDS`**: 可调整 `ai:loop-eval` 循环模式每次休息的打底时间（默认 60 秒）。
 
 ### 3. 开始执行自动化作业
 您可以按照需求来跑跑脚本：
@@ -119,9 +120,21 @@ cp .env.example .env
   ```bash
   npm run ai:discover-eval
   ```
-- **开启无人守护循环模式** (推荐用于长久维护)：
+- **开启无人守护循环模式** (推荐用于长久维护，持续探索+分类)：
   ```bash
   npm run ai:loop-eval
+  ```
+- **后台增量更新 Star 数与存活状态** (拉取库内项目进行信息修正)：
+  ```bash
+  npm run ai:update-status
+  ```
+- **重置所有分类并重新评估** (这会将 projects 移回 pending 队列，方便新老标准对齐)：
+  ```bash
+  npm run ai:re-evaluate-all
+  ```
+- **快速消耗完待审队列并自动退出** (跳过发现环节，适合配合上面的重置操作，不触发 GitHub API 请求风控)：
+  ```bash
+  npm run ai:consume-queue
   ```
 
 ### 4. 动态生成页面与本地阅览
