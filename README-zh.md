@@ -2,9 +2,9 @@
 
 > **[English](./README.md)**  |  中文文档
 
-- 📚 **文档地址：[https://hello-ai.anzz.top](https://hello-ai.anzz.top)** (国际站)
-- 📚 **文档地址：[https://hello-ai.anzz.site](https://hello-ai.anzz.site)** (国内站)
-- 🏠 **项目地址：[https://github.com/xxxily/hello-ai](https://github.com/xxxily/hello-ai)**  
+- 📚 **文档地址：[hello-ai.anzz.top](https://hello-ai.anzz.top)** (国际站)
+- 📚 **文档地址：[hello-ai.anzz.site](https://hello-ai.anzz.site)** (国内站)
+- 🏠 **项目地址：[github.com/xxxily/hello-ai](https://github.com/xxxily/hello-ai)**  
 
 <br />
 <br />
@@ -159,8 +159,8 @@ npm run docs:build
 请通过本站的系统导航，浏览这片由 AI 自动为你精选的开源代码绿洲。
 我们的爬虫和打分模型会定期搜罗 GitHub 上的热门项目，保持这份目录的鲜活度！
 
-- 📚 **在线访问：[https://hello-ai.anzz.top](https://hello-ai.anzz.top)** (国际站)
-- 📚 **在线访问：[https://hello-ai.anzz.site](https://hello-ai.anzz.site)** (国内站)
+- 📚 **在线访问：[hello-ai.anzz.top](https://hello-ai.anzz.top)** (国际站)
+- 📚 **在线访问：[hello-ai.anzz.site](https://hello-ai.anzz.site)** (国内站)
 
 ## 交流群
 

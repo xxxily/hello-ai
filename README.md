@@ -2,8 +2,8 @@
 
 > English  |  **[中文文档](./README-zh.md)**
 
-- 📚 **Documentation: [https://hello-ai.anzz.top](https://hello-ai.anzz.top)**  
-- 🏠 **Project: [https://github.com/xxxily/hello-ai](https://github.com/xxxily/hello-ai)**
+- 📚 **Documentation: [hello-ai.anzz.top](https://hello-ai.anzz.top)**  
+- 🏠 **Project: [github.com/xxxily/hello-ai](https://github.com/xxxily/hello-ai)**
 
 ## Overview
 

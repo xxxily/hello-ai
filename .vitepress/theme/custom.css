@@ -16,13 +16,16 @@
 }
 
 /* 强制进入暗黑科技风格（不管浏览器自带设定是否为 light）*/
-html, html[class~="dark"], body {
+html,
+html[class~="dark"],
+body {
   background-color: #030816 !important;
   color: var(--vp-c-text-1) !important;
 }
 
 /* 统一侧边栏和顶栏玻璃背景 */
-.VPNavBar, .VPSidebar {
+.VPNavBar,
+.VPSidebar {
   background-color: rgba(3, 8, 22, 0.8) !important;
   backdrop-filter: blur(12px) !important;
   border-bottom: 1px solid rgba(0, 242, 254, 0.1) !important;
@@ -44,24 +47,28 @@ html, html[class~="dark"], body {
 }
 
 /* 文章内页特定的霓虹感，避免对阅读造成太大干扰，仅修饰标题等 */
-.VPDoc h1, .VPDoc h2, .VPDoc h3 {
+.VPDoc h1,
+.VPDoc h2,
+.VPDoc h3 {
   color: #00f2fe !important;
 }
 
 .VPDoc a {
   color: #4facfe !important;
-  text-shadow: 0 0 5px rgba(0,242,254,0.3);
+  text-shadow: 0 0 5px rgba(0, 242, 254, 0.3);
 }
 
 /* 链接Hover发光 */
-.VPDoc a:hover, .VPNavBarMenuLink:hover, .VPSidebarItem.is-active > .item > .link {
+.VPDoc a:hover,
+.VPNavBarMenuLink:hover,
+.VPSidebarItem.is-active>.item>.link {
   color: #00f2fe !important;
   text-shadow: 0 0 8px rgba(0, 242, 254, 0.5);
 }
 
 /* 从 index.md 里提取的代码： 核心内容区背景网格 & 动态光效 */
 #VPContent {
-  background: 
+  background:
     radial-gradient(circle at 15% 50%, rgba(0, 242, 254, 0.04), transparent 30%),
     radial-gradient(circle at 85% 30%, rgba(79, 172, 254, 0.04), transparent 30%),
     linear-gradient(rgba(0, 242, 254, 0.02) 1px, transparent 1px),
@@ -80,9 +87,15 @@ html, html[class~="dark"], body {
   font-weight: 900;
   letter-spacing: 4px;
 }
+
 @keyframes pulse-glow {
-  0% { text-shadow: 0 0 10px rgba(0, 242, 254, 0.8), 0 0 20px rgba(79, 172, 254, 0.5); }
-  100% { text-shadow: 0 0 25px rgba(0, 242, 254, 1), 0 0 45px rgba(79, 172, 254, 0.8), 0 0 65px rgba(0, 242, 254, 0.5); }
+  0% {
+    text-shadow: 0 0 10px rgba(0, 242, 254, 0.8), 0 0 20px rgba(79, 172, 254, 0.5);
+  }
+
+  100% {
+    text-shadow: 0 0 25px rgba(0, 242, 254, 1), 0 0 45px rgba(79, 172, 254, 0.8), 0 0 65px rgba(0, 242, 254, 0.5);
+  }
 }
 
 /* Tagline 终端命令打字机风格 */
@@ -95,12 +108,20 @@ html, html[class~="dark"], body {
   text-shadow: 0 0 8px rgba(0, 242, 254, 0.6);
   border-right: 2px solid #00f2fe;
   display: inline-block;
-  white-space: nowrap;
+  white-space: normal;
   animation: blink-caret 0.75s step-end infinite;
 }
+
 @keyframes blink-caret {
-  from, to { border-color: transparent }
-  50% { border-color: #00f2fe; }
+
+  from,
+  to {
+    border-color: transparent
+  }
+
+  50% {
+    border-color: #00f2fe;
+  }
 }
 
 .VPHero .text {
@@ -123,76 +144,123 @@ html, html[class~="dark"], body {
   position: relative;
   overflow: hidden;
 }
+
 .VPButton.brand:hover {
   background: rgba(0, 242, 254, 0.3) !important;
   box-shadow: 0 0 30px rgba(0, 242, 254, 0.8), inset 0 0 20px rgba(0, 242, 254, 0.4);
   transform: translateY(-2px);
   color: #ffffff !important;
 }
+
 .VPButton.brand::after {
   content: '';
   position: absolute;
-  top: 0; left: -100%;
-  width: 50%; height: 100%;
+  top: 0;
+  left: -100%;
+  width: 50%;
+  height: 100%;
   background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.8), transparent);
   transform: skewX(-20deg);
   transition: 0s;
 }
+
 .VPButton.brand:hover::after {
   animation: button-shine 0.8s ease forwards;
 }
+
 @keyframes button-shine {
-  100% { left: 200%; }
+  100% {
+    left: 200%;
+  }
 }
 
 /* 导航栏 Logo 发光 + 浮动动画 */
 .VPNavBarTitle .title {
   position: relative;
 }
+
 .VPNavBarTitle .VPImage.logo {
   animation: logo-float 6s cubic-bezier(0.4, 0, 0.2, 1) infinite, logo-pulse 3s ease-in-out infinite;
-  filter: drop-shadow(0 0 4px rgba(0,242,254,0.6)) drop-shadow(0 0 10px rgba(0,242,254,0.3));
+  filter: drop-shadow(0 0 4px rgba(0, 242, 254, 0.6)) drop-shadow(0 0 10px rgba(0, 242, 254, 0.3));
   transition: filter 0.3s ease;
 }
+
 .VPNavBarTitle .title::before {
   content: '';
   position: absolute;
   inset: -10px -8px;
-  background: radial-gradient(circle, rgba(0,242,254,0.15) 0%, transparent 65%);
+  background: radial-gradient(circle, rgba(0, 242, 254, 0.15) 0%, transparent 65%);
   border-radius: 50%;
   z-index: -1;
   animation: logo-bg-pulse 3s ease-in-out infinite;
 }
+
 .VPNavBarTitle .title:hover .VPImage.logo {
-  filter: drop-shadow(0 0 6px rgba(0,242,254,0.9)) drop-shadow(0 0 15px rgba(0,242,254,0.5));
+  filter: drop-shadow(0 0 6px rgba(0, 242, 254, 0.9)) drop-shadow(0 0 15px rgba(0, 242, 254, 0.5));
 }
+
 .VPNavBarTitle .title:hover::before {
-  background: radial-gradient(circle, rgba(0,242,254,0.25) 0%, transparent 65%);
+  background: radial-gradient(circle, rgba(0, 242, 254, 0.25) 0%, transparent 65%);
 }
+
 @keyframes logo-float {
-  0%, 100% { transform: translateY(0) scale(1); }
-  50% { transform: translateY(-5px) scale(1.02); }
+
+  0%,
+  100% {
+    transform: translateY(0) scale(1);
+  }
+
+  50% {
+    transform: translateY(-5px) scale(1.02);
+  }
 }
+
 @keyframes logo-pulse {
-  0%, 100% { filter: drop-shadow(0 0 8px rgba(0,242,254,0.8)) drop-shadow(0 0 20px rgba(0,242,254,0.5)); }
-  50% { filter: drop-shadow(0 0 15px rgba(0,242,254,1)) drop-shadow(0 0 35px rgba(0,242,254,0.7)); }
+
+  0%,
+  100% {
+    filter: drop-shadow(0 0 8px rgba(0, 242, 254, 0.8)) drop-shadow(0 0 20px rgba(0, 242, 254, 0.5));
+  }
+
+  50% {
+    filter: drop-shadow(0 0 15px rgba(0, 242, 254, 1)) drop-shadow(0 0 35px rgba(0, 242, 254, 0.7));
+  }
 }
+
 @keyframes logo-bg-pulse {
-  0%, 100% { opacity: 0.6; transform: scale(1); }
-  50% { opacity: 1; transform: scale(1.15); }
+
+  0%,
+  100% {
+    opacity: 0.6;
+    transform: scale(1);
+  }
+
+  50% {
+    opacity: 1;
+    transform: scale(1.15);
+  }
 }
 
 /* Hero中心SVG漂浮+发光旋转 */
 .VPHero .image {
   animation: float-rotate 8s cubic-bezier(0.4, 0, 0.2, 1) infinite;
-  filter: drop-shadow(0 0 40px rgba(0,242,254,0.7));
+  filter: drop-shadow(0 0 40px rgba(0, 242, 254, 0.7));
 }
+
 .VPHero .image svg {
   fill: #00f2fe !important;
 }
+
 @keyframes float-rotate {
-  0%, 100% { transform: translateY(0) rotate(0deg) scale(1); }
-  50% { transform: translateY(-20px) rotate(5deg) scale(1.05); }
+
+  0%,
+  100% {
+    transform: translateY(0) rotate(0deg) scale(1);
+  }
+
+  50% {
+    transform: translateY(-20px) rotate(5deg) scale(1.05);
+  }
 }
 
 /* Features 卡片玻璃拟态 + 边框发光 */
@@ -206,31 +274,38 @@ html, html[class~="dark"], body {
   position: relative;
   overflow: hidden;
 }
+
 .VPFeatures .item:hover {
   transform: translateY(-8px) scale(1.02);
   border-color: rgba(0, 242, 254, 0.8) !important;
   box-shadow: 0 15px 40px rgba(0, 242, 254, 0.2), inset 0 0 20px rgba(0, 242, 254, 0.05);
   background: rgba(10, 16, 32, 0.6) !important;
 }
+
 .VPFeatures .title {
   color: #00f2fe !important;
   text-shadow: 0 0 8px rgba(0, 242, 254, 0.4);
   font-family: 'Inter', sans-serif;
   letter-spacing: 1px;
 }
+
 .VPFeatures .details {
   color: #8a9bb3 !important;
   line-height: 1.6;
 }
+
 .VPFeatures .item::before {
   content: '';
   position: absolute;
-  top: 0; left: -150%;
-  width: 50%; height: 100%;
+  top: 0;
+  left: -150%;
+  width: 50%;
+  height: 100%;
   background: linear-gradient(to right, transparent, rgba(0, 242, 254, 0.15), transparent);
   transform: skewX(-25deg);
   transition: all 0.7s ease;
 }
+
 .VPFeatures .item:hover::before {
   animation: scan-light 1.5s ease-in-out infinite;
 }
@@ -241,6 +316,7 @@ html, html[class~="dark"], body {
   border-top: 1px solid rgba(0, 242, 254, 0.2) !important;
   box-shadow: 0 -10px 30px rgba(0, 242, 254, 0.05);
 }
+
 .VPFooter p {
   color: #4facfe !important;
   font-family: 'Courier New', monospace;
@@ -249,7 +325,10 @@ html, html[class~="dark"], body {
 }
 
 /* Markdown 内块代码、引用块的科技感补充 */
-.custom-block.info, .custom-block.tip, .custom-block.warning, .custom-block.danger {
+.custom-block.info,
+.custom-block.tip,
+.custom-block.warning,
+.custom-block.danger {
   background-color: rgba(0, 242, 254, 0.05) !important;
   border-color: #00f2fe !important;
 }
@@ -258,5 +337,5 @@ html, html[class~="dark"], body {
 .VPDoc [class*='language-'] {
   background-color: #050b1d !important;
   border: 1px solid rgba(0, 242, 254, 0.15);
-  box-shadow: 0 5px 15px rgba(0,0,0,0.5);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
 }
