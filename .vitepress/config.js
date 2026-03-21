@@ -11,6 +11,10 @@ export default {
   head: [
     [
       'script',
+      { defer: '', src: 'https://msc.anzz.site/script.js', 'data-website-id': '20b6a59e-90f5-4998-940e-a708c9972bac' }
+    ],
+    [
+      'script',
       {},
       `
         var _hmt = _hmt || [];
@@ -22,7 +26,7 @@ export default {
         })();
       `,
     ],
-    ['script', { src: 'https://cdn.jsdelivr.net/npm/mermaid@10.9.1/dist/mermaid.min.js' }]
+    ['script', { src: 'https://cdn.anzz.site/npm/mermaid@10.9.1/dist/mermaid.min.js' }]
   ],
   themeConfig: {
     siteTitle: 'Hello-AI',

@@ -157,7 +157,7 @@ Our crawlers and scoring models regularly sweep GitHub for trending projects, ke
 
 | Join Telegram Group | Join WeChat Group (Note: Join AI group) |
 | :----: | :----: |
-| <img src="https://cdn.jsdelivr.net/npm/hello-ai/assets/img/tg_qun.jpg" width="280"/> | <img src="https://cdn.jsdelivr.net/npm/hello-ai/assets/img/WeChat2.png" width=280 /> |
+| <img src="https://cdn.anzz.site/npm/hello-ai/assets/img/tg_qun.jpg" width="280"/> | <img src="https://cdn.anzz.site/npm/hello-ai/assets/img/WeChat2.png" width=280 /> |
 
 > Please specify your intent to join the WeChat group to avoid unwanted invitations and information harassment.  
 > Telegram group link: [https://t.me/auto_gpt_ai](https://t.me/auto_gpt_ai)  

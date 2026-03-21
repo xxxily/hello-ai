@@ -6,7 +6,7 @@
 
 <br />
 <br />
-<img alt="Hello-AI" src="https://cdn.jsdelivr.net/npm/hello-ai/assets/img/logo.png" width="96" height="96">
+<img alt="Hello-AI" src="https://cdn.anzz.site/npm/hello-ai/assets/img/logo.png" width="96" height="96">
 <br />
 <br />
 
@@ -165,7 +165,7 @@ npm run docs:build
 
 | 加电报群（Telegram） | 加微信群（需注明：进AI群） |
 | :----: | :----: |
-| <img src="https://cdn.jsdelivr.net/npm/hello-ai/assets/img/tg_qun.jpg" width="280"/> | <img src="https://cdn.jsdelivr.net/npm/hello-ai/assets/img/WeChat2.png" width=280 /> |
+| <img src="https://cdn.anzz.site/npm/hello-ai/assets/img/tg_qun.jpg" width="280"/> | <img src="https://cdn.anzz.site/npm/hello-ai/assets/img/WeChat2.png" width=280 /> |
 
 > 微信群不注明要进群，则不会邀你入群，避免给你造成信息骚扰  
 > 电报群地址：[https://t.me/auto_gpt_ai](https://t.me/auto_gpt_ai)  

@@ -1,1 +1,0 @@
-import{_ as a,o,c as r,ae as t}from"./chunks/framework.EHGTsUvI.js";const m=JSON.parse('{"title":"🧠 基础大模型","description":"","frontmatter":{},"headers":[],"relativePath":"home/llms.md","filePath":"home/llms.md"}'),l={name:"home/llms.md"};function s(n,e,i,c,h,d){return o(),r("div",null,[...e[0]||(e[0]=[t("",65)])])}const u=a(l,[["render",s]]);export{m as __pageData,u as default};
