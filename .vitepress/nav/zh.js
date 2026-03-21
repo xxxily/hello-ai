@@ -22,20 +22,34 @@ export default [
     ariaLabel: '相关连接',
     items: [
       {
-        text: 'AI 项目分类',
-        items: aiCategories
+        text: 'ANZZ',
+        items: [
+          { text: '图灵跳动官网', link: 'https://anzz.site', target: '_blank' },
+          { text: '全网热榜聚合', link: 'https://dailyhot.anzz.site', target: '_blank' },
+          { text: 'ANZZ.READ', link: 'https://pages.anzz.site', target: '_blank' },
+          { text: 'h5player', link: 'https://h5player.anzz.site', target: '_blank' },
+        ]
       },
       {
-        text: '站长作品',
+        text: '相关项目',
         items: [
+          { text: 'Hello-AI', link: 'https://github.com/xxxily/hello-ai', target: '_blank' },
           { text: 'h5player', link: 'https://github.com/xxxily/h5player', target: '_blank' },
           { text: 'Fiddler-plus', link: 'https://github.com/xxxily/Fiddler-plus', target: '_blank' },
-          { text: 'broadcast-message', link: 'https://broadcast-message.anzz.top/', target: '_blank' },
-          { text: 'vue-debug-helper', link: 'https://github.com/xxxily/broadcast-message', target: '_blank' },
-          { text: 'processAssist', link: 'https://github.com/xxxily/processAssist', target: '_blank' },
+          { text: 'code-flux', link: 'https://github.com/xxxily/code-flux', target: '_blank' },
           { text: 'ffmpeg-script', link: 'https://github.com/xxxily/ffmpeg-script', target: '_blank' },
         ]
       },
+    ]
+  },
+  {
+    text: '项目分类',
+    ariaLabel: '项目分类',
+    items: [
+      {
+        text: 'AI 项目分类',
+        items: aiCategories
+      }
     ]
   },
 ]

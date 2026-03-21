@@ -18,7 +18,7 @@ export default [
   {
     text: '关于 Hello-AI',
     items: [
-      { text: '介绍', link: '/home/index.md' },
+      { text: '项目介绍', link: '/home/index.md' },
     ],
   },
   {

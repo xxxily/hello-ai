@@ -280,6 +280,14 @@ AI原生模块化量化交易基础设施，支持多种深度强化学习算法
 - **Tags:** `Machine-Learning` `Trading` `Crypto`
 - **最后活动时间:** 2026-02-28
 
+### [AlgorithmicTrading](https://github.com/JerBouma/AlgorithmicTrading)
+
+包含三种套利策略的算法交易项目：双重上市、期权和统计套利。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `Algorithmic Trading` `Arbitrage` `Finance` `Python`
+- **最后活动时间:** 2023-08-13
+
 ### [QuantDinger](https://github.com/brokermr810/QuantDinger)
 
 AI驱动的本地优先量化交易平台，支持研究、回测和实盘交易，集成LLM和多智能体技术。

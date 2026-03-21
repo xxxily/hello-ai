@@ -148,6 +148,14 @@ ECCV 2024 Oral论文，基于图结构视觉问答的自动驾驶框架，通过
 - **Tags:** `Privacy` `Security Camera` `Edge AI` `Self-hosted`
 - **最后活动时间:** 2026-03-20
 
+### [tinyml-papers-and-projects](https://github.com/gigwegbe/tinyml-papers-and-projects)
+
+TinyML 论文与项目精选合集，聚焦嵌入式设备上的机器学习与边缘AI应用。
+
+- **Stars:** ⭐️ 988
+- **Tags:** `tinyml` `edge-ai` `embedded-ml`
+- **最后活动时间:** 2025-12-08
+
 ### [tinyengine](https://github.com/mit-han-lab/tinyengine)
 
 MIT开源的TinyML推理引擎，专为微控制器设计，支持在256KB内存下进行设备端训练和深度学习推理。
@@ -211,6 +219,14 @@ MIT开源的TinyML推理引擎，专为微控制器设计，支持在256KB内存
 - **Stars:** ⭐️ 600
 - **Tags:** `TinyML` `Edge AI` `Deep Learning` `Microcontrollers`
 - **最后活动时间:** 2025-07-22
+
+### [pi-timolo](https://github.com/pageauc/pi-timolo)
+
+树莓派智能监控项目，结合OpenCV实现运动追踪、延时摄影和低光拍摄功能，支持远程无头监控和自动云同步。
+
+- **Stars:** ⭐️ 579
+- **Tags:** `Raspberry Pi` `OpenCV` `Motion Tracking` `Edge AI`
+- **最后活动时间:** 2025-05-07
 
 ### [OpenBCI_Python](https://github.com/openbci-archive/OpenBCI_Python)
 
