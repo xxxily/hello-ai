@@ -20211,6 +20211,194 @@
       ],
       "rejected_at": "2026-03-21T06:55:00.537Z",
       "reason": "RPA training materials in Korean, not AI-focused and too localized."
+    },
+    {
+      "name": "AutoHotkey",
+      "url": "https://github.com/AutoHotkey/AutoHotkey",
+      "description": "AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.",
+      "topics": [
+        "autohotkey",
+        "automation",
+        "c-plus-plus",
+        "hotkeys",
+        "scripting",
+        "scripting-language",
+        "windows"
+      ],
+      "rejected_at": "2026-03-21T06:55:27.092Z",
+      "reason": "General Windows scripting/automation tool, not AI-related."
+    },
+    {
+      "name": "ArchiSteamFarm",
+      "url": "https://github.com/JustArchiNET/ArchiSteamFarm",
+      "description": "C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.",
+      "topics": [
+        "archisteamfarm",
+        "automation",
+        "c-sharp",
+        "cli",
+        "cli-app",
+        "crowdin",
+        "csharp",
+        "dotnet",
+        "hacktoberfest",
+        "linux",
+        "steam",
+        "steam-account",
+        "steam-api",
+        "steam-cards",
+        "steam-client",
+        "steam-games",
+        "steam-network",
+        "steambot",
+        "steamkit2",
+        "valve"
+      ],
+      "rejected_at": "2026-03-21T06:55:27.092Z",
+      "reason": "Steam card farming automation tool, not AI-related."
+    },
+    {
+      "name": "DrissionPage",
+      "url": "https://github.com/g1879/DrissionPage",
+      "description": "Python based web automation tool. Powerful and elegant.",
+      "topics": [
+        "automation-framework",
+        "python",
+        "web-automation"
+      ],
+      "rejected_at": "2026-03-21T06:55:27.092Z",
+      "reason": "Traditional web automation tool without AI components."
+    },
+    {
+      "name": "nightmare",
+      "url": "https://github.com/segment-boneyard/nightmare",
+      "description": "A high-level browser automation library.",
+      "topics": [
+        "browser",
+        "chrome",
+        "electron",
+        "headless-chrome",
+        "phantomjs"
+      ],
+      "rejected_at": "2026-03-21T06:55:27.092Z",
+      "reason": "Browser automation library without AI integration."
+    },
+    {
+      "name": "Win10-Initial-Setup-Script",
+      "url": "https://github.com/Disassembler0/Win10-Initial-Setup-Script",
+      "description": "PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019",
+      "topics": [
+        "powershell",
+        "sysadmin",
+        "sysadmin-tasks",
+        "tweaks",
+        "windows-10",
+        "windows-server-2016",
+        "windows-server-2019"
+      ],
+      "rejected_at": "2026-03-21T06:55:27.092Z",
+      "reason": "Windows setup script, system administration tool not AI-related."
+    },
+    {
+      "name": "Nettacker",
+      "url": "https://github.com/OWASP/Nettacker",
+      "description": "Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management",
+      "topics": [
+        "automation",
+        "bruteforce",
+        "cve",
+        "hacking-tools",
+        "information-gathering",
+        "network-security",
+        "owasp",
+        "penetration-testing",
+        "penetration-testing-framework",
+        "pentesting",
+        "pentesting-tools",
+        "portscanner",
+        "python",
+        "recon",
+        "scanner",
+        "security",
+        "security-tools",
+        "vulnerability-management",
+        "vulnerability-scanner",
+        "vulnerability-scanners"
+      ],
+      "rejected_at": "2026-03-21T06:55:27.092Z",
+      "reason": "Penetration testing framework, security tool not AI-focused."
+    },
+    {
+      "name": "automatisch",
+      "url": "https://github.com/automatisch/automatisch",
+      "description": "The open source Zapier alternative. Build workflow automation without spending time and money.",
+      "topics": [
+        "automation",
+        "automatisch",
+        "low-code",
+        "no-code",
+        "open-source",
+        "self-hosted",
+        "workflow"
+      ],
+      "rejected_at": "2026-03-21T06:55:27.092Z",
+      "reason": "Workflow automation platform (Zapier alternative), not AI-driven."
+    },
+    {
+      "name": "twisted",
+      "url": "https://github.com/twisted/twisted",
+      "description": "Event-driven networking engine written in Python.",
+      "topics": [
+        "async",
+        "async-python",
+        "dns",
+        "event-driven",
+        "http",
+        "imap",
+        "irc",
+        "network",
+        "python",
+        "smtp",
+        "ssl",
+        "tls",
+        "twisted",
+        "xmpp"
+      ],
+      "rejected_at": "2026-03-21T06:55:27.092Z",
+      "reason": "Networking engine library, not AI-related."
+    },
+    {
+      "name": "vibora",
+      "url": "https://github.com/vibora-io/vibora",
+      "description": "Fast, asynchronous and elegant Python web framework.",
+      "topics": [
+        "async",
+        "client",
+        "framework",
+        "http",
+        "performance",
+        "python",
+        "server",
+        "web"
+      ],
+      "rejected_at": "2026-03-21T06:55:27.092Z",
+      "reason": "Python web framework, not AI-related."
+    },
+    {
+      "name": "tortoise-orm",
+      "url": "https://github.com/tortoise/tortoise-orm",
+      "description": "Familiar asyncio ORM for python, built with relations in mind",
+      "topics": [
+        "async",
+        "asyncio",
+        "mysql",
+        "orm",
+        "postgresql",
+        "python3",
+        "sqlite"
+      ],
+      "rejected_at": "2026-03-21T06:55:27.092Z",
+      "reason": "Database ORM library, not AI-related."
     }
   ]
 }

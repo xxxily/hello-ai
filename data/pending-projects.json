@@ -1,204 +1,6 @@
 {
   "queue": [
     {
-      "name": "AutoHotkey",
-      "html_url": "https://github.com/AutoHotkey/AutoHotkey",
-      "description": "AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.",
-      "topics": [
-        "autohotkey",
-        "automation",
-        "c-plus-plus",
-        "hotkeys",
-        "scripting",
-        "scripting-language",
-        "windows"
-      ],
-      "stargazers_count": 12103,
-      "pushed_at": "2026-03-18T11:54:15Z",
-      "added_to_queue": "2026-03-21T06:51:05.466Z"
-    },
-    {
-      "name": "ArchiSteamFarm",
-      "html_url": "https://github.com/JustArchiNET/ArchiSteamFarm",
-      "description": "C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.",
-      "topics": [
-        "archisteamfarm",
-        "automation",
-        "c-sharp",
-        "cli",
-        "cli-app",
-        "crowdin",
-        "csharp",
-        "dotnet",
-        "hacktoberfest",
-        "linux",
-        "steam",
-        "steam-account",
-        "steam-api",
-        "steam-cards",
-        "steam-client",
-        "steam-games",
-        "steam-network",
-        "steambot",
-        "steamkit2",
-        "valve"
-      ],
-      "stargazers_count": 13172,
-      "pushed_at": "2026-03-21T02:46:42Z",
-      "added_to_queue": "2026-03-21T06:51:05.466Z"
-    },
-    {
-      "name": "DrissionPage",
-      "html_url": "https://github.com/g1879/DrissionPage",
-      "description": "Python based web automation tool. Powerful and elegant.",
-      "topics": [
-        "automation-framework",
-        "python",
-        "web-automation"
-      ],
-      "stargazers_count": 11625,
-      "pushed_at": "2026-01-20T15:10:46Z",
-      "added_to_queue": "2026-03-21T06:51:05.466Z"
-    },
-    {
-      "name": "nightmare",
-      "html_url": "https://github.com/segment-boneyard/nightmare",
-      "description": "A high-level browser automation library.",
-      "topics": [
-        "browser",
-        "chrome",
-        "electron",
-        "headless-chrome",
-        "phantomjs"
-      ],
-      "stargazers_count": 19963,
-      "pushed_at": "2024-04-20T17:54:13Z",
-      "added_to_queue": "2026-03-21T06:51:05.466Z"
-    },
-    {
-      "name": "Win10-Initial-Setup-Script",
-      "html_url": "https://github.com/Disassembler0/Win10-Initial-Setup-Script",
-      "description": "PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019",
-      "topics": [
-        "powershell",
-        "sysadmin",
-        "sysadmin-tasks",
-        "tweaks",
-        "windows-10",
-        "windows-server-2016",
-        "windows-server-2019"
-      ],
-      "stargazers_count": 4657,
-      "pushed_at": "2021-05-28T08:15:14Z",
-      "added_to_queue": "2026-03-21T06:51:05.466Z"
-    },
-    {
-      "name": "Nettacker",
-      "html_url": "https://github.com/OWASP/Nettacker",
-      "description": "Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management",
-      "topics": [
-        "automation",
-        "bruteforce",
-        "cve",
-        "hacking-tools",
-        "information-gathering",
-        "network-security",
-        "owasp",
-        "penetration-testing",
-        "penetration-testing-framework",
-        "pentesting",
-        "pentesting-tools",
-        "portscanner",
-        "python",
-        "recon",
-        "scanner",
-        "security",
-        "security-tools",
-        "vulnerability-management",
-        "vulnerability-scanner",
-        "vulnerability-scanners"
-      ],
-      "stargazers_count": 4897,
-      "pushed_at": "2026-03-20T22:42:29Z",
-      "added_to_queue": "2026-03-21T06:51:05.466Z"
-    },
-    {
-      "name": "automatisch",
-      "html_url": "https://github.com/automatisch/automatisch",
-      "description": "The open source Zapier alternative. Build workflow automation without spending time and money.",
-      "topics": [
-        "automation",
-        "automatisch",
-        "low-code",
-        "no-code",
-        "open-source",
-        "self-hosted",
-        "workflow"
-      ],
-      "stargazers_count": 13787,
-      "pushed_at": "2026-02-11T19:53:04Z",
-      "added_to_queue": "2026-03-21T06:51:05.466Z"
-    },
-    {
-      "name": "twisted",
-      "html_url": "https://github.com/twisted/twisted",
-      "description": "Event-driven networking engine written in Python.",
-      "topics": [
-        "async",
-        "async-python",
-        "dns",
-        "event-driven",
-        "http",
-        "imap",
-        "irc",
-        "network",
-        "python",
-        "smtp",
-        "ssl",
-        "tls",
-        "twisted",
-        "xmpp"
-      ],
-      "stargazers_count": 5953,
-      "pushed_at": "2026-03-16T20:34:24Z",
-      "added_to_queue": "2026-03-21T06:51:35.369Z"
-    },
-    {
-      "name": "vibora",
-      "html_url": "https://github.com/vibora-io/vibora",
-      "description": "Fast, asynchronous and elegant Python web framework.",
-      "topics": [
-        "async",
-        "client",
-        "framework",
-        "http",
-        "performance",
-        "python",
-        "server",
-        "web"
-      ],
-      "stargazers_count": 5606,
-      "pushed_at": "2020-12-23T01:00:55Z",
-      "added_to_queue": "2026-03-21T06:51:35.369Z"
-    },
-    {
-      "name": "tortoise-orm",
-      "html_url": "https://github.com/tortoise/tortoise-orm",
-      "description": "Familiar asyncio ORM for python, built with relations in mind",
-      "topics": [
-        "async",
-        "asyncio",
-        "mysql",
-        "orm",
-        "postgresql",
-        "python3",
-        "sqlite"
-      ],
-      "stargazers_count": 5525,
-      "pushed_at": "2026-03-18T13:29:05Z",
-      "added_to_queue": "2026-03-21T06:51:35.369Z"
-    },
-    {
       "name": "redux-ecosystem-links",
       "html_url": "https://github.com/markerikson/redux-ecosystem-links",
       "description": "A categorized list of Redux-related addons, libraries, and utilities",
@@ -1936,6 +1738,164 @@
       "stargazers_count": 2893,
       "pushed_at": "2026-02-16T14:19:11Z",
       "added_to_queue": "2026-03-21T06:53:32.669Z"
+    },
+    {
+      "name": "codex",
+      "html_url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "topics": [],
+      "stargazers_count": 66642,
+      "pushed_at": "2026-03-21T06:50:27Z",
+      "added_to_queue": "2026-03-21T06:55:36.838Z"
+    },
+    {
+      "name": "vibe-kanban",
+      "html_url": "https://github.com/BloopAI/vibe-kanban",
+      "description": "Get 10X more out of Claude Code, Codex or any coding agent",
+      "topics": [
+        "agent",
+        "ai-agents",
+        "kanban",
+        "management",
+        "task-manager"
+      ],
+      "stargazers_count": 23521,
+      "pushed_at": "2026-03-20T17:44:40Z",
+      "added_to_queue": "2026-03-21T06:55:36.838Z"
+    },
+    {
+      "name": "marketingskills",
+      "html_url": "https://github.com/coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "topics": [
+        "claude",
+        "codex",
+        "marketing"
+      ],
+      "stargazers_count": 15095,
+      "pushed_at": "2026-03-19T07:20:16Z",
+      "added_to_queue": "2026-03-21T06:55:36.838Z"
+    },
+    {
+      "name": "skills",
+      "html_url": "https://github.com/openai/skills",
+      "description": "Skills Catalog for Codex",
+      "topics": [],
+      "stargazers_count": 14786,
+      "pushed_at": "2026-03-20T17:49:50Z",
+      "added_to_queue": "2026-03-21T06:55:36.838Z"
+    },
+    {
+      "name": "ccusage",
+      "html_url": "https://github.com/ryoppippi/ccusage",
+      "description": "A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.",
+      "topics": [],
+      "stargazers_count": 11773,
+      "pushed_at": "2026-03-20T14:34:09Z",
+      "added_to_queue": "2026-03-21T06:55:36.838Z"
+    },
+    {
+      "name": "cmux",
+      "html_url": "https://github.com/manaflow-ai/cmux",
+      "description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
+      "topics": [
+        "amp",
+        "claude-code",
+        "codex",
+        "gemini",
+        "ghostty",
+        "opencode",
+        "terminal",
+        "tmux"
+      ],
+      "stargazers_count": 9032,
+      "pushed_at": "2026-03-21T06:54:44Z",
+      "added_to_queue": "2026-03-21T06:55:36.838Z"
+    },
+    {
+      "name": "CodexBar",
+      "html_url": "https://github.com/steipete/CodexBar",
+      "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+      "topics": [
+        "ai",
+        "claude-code",
+        "codex",
+        "swift"
+      ],
+      "stargazers_count": 8911,
+      "pushed_at": "2026-03-19T20:09:38Z",
+      "added_to_queue": "2026-03-21T06:55:36.838Z"
+    },
+    {
+      "name": "sub2api",
+      "html_url": "https://github.com/Wei-Shaw/sub2api",
+      "description": "Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+      "topics": [
+        "2api",
+        "antigravity2api",
+        "cc2api",
+        "claude",
+        "claude-code",
+        "codex",
+        "crs",
+        "crs2",
+        "gemini"
+      ],
+      "stargazers_count": 7411,
+      "pushed_at": "2026-03-21T06:02:10Z",
+      "added_to_queue": "2026-03-21T06:55:36.838Z"
+    },
+    {
+      "name": "zcf",
+      "html_url": "https://github.com/UfoMiao/zcf",
+      "description": "Zero-Config Code Flow for Claude code & Codex",
+      "topics": [
+        "agent",
+        "ai",
+        "ai-agent",
+        "bmad-method",
+        "ccr",
+        "claude",
+        "claude-4",
+        "claude-ai",
+        "claude-code",
+        "cli",
+        "gpt",
+        "gpt-5",
+        "llm",
+        "llm-code",
+        "nodejs",
+        "openai",
+        "prompt",
+        "typescript",
+        "workflow",
+        "zcf"
+      ],
+      "stargazers_count": 5758,
+      "pushed_at": "2026-03-18T03:50:45Z",
+      "added_to_queue": "2026-03-21T06:55:36.838Z"
+    },
+    {
+      "name": "client",
+      "html_url": "https://github.com/openai-php/client",
+      "description": "⚡️ OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.",
+      "topics": [
+        "api",
+        "client",
+        "codex",
+        "gpt-3",
+        "gpt-4",
+        "gpt-5",
+        "language",
+        "natural",
+        "openai",
+        "php",
+        "processing",
+        "sdk"
+      ],
+      "stargazers_count": 5752,
+      "pushed_at": "2026-03-17T20:54:18Z",
+      "added_to_queue": "2026-03-21T06:55:36.838Z"
     }
   ]
 }

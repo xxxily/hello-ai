@@ -863,7 +863,7 @@
     },
     "codex": {
       "level": 2,
-      "lastExplored": "1970-01-01T00:00:00Z",
+      "lastExplored": "2026-03-21T06:55:35.858Z",
       "added": "2026-03-21T02:03:57.777Z"
     },
     "cost-management": {
@@ -30940,6 +30940,206 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-21T06:53:32.669Z"
+    },
+    "landing-page": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-21T06:55:36.838Z"
+    },
+    "mobile-ui": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-21T06:55:36.838Z"
+    },
+    "qoder": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-21T06:55:36.838Z"
+    },
+    "trae": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-21T06:55:36.838Z"
+    },
+    "windsurf-ai": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-21T06:55:36.838Z"
+    },
+    "composio": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-21T06:55:36.838Z"
+    },
+    "rube": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-21T06:55:36.838Z"
+    },
+    "agency-agents": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-21T06:55:36.838Z"
+    },
+    "open-cli": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-21T06:55:36.838Z"
+    },
+    "superpowers": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-21T06:55:36.838Z"
+    },
+    "omo": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-21T06:55:36.838Z"
+    },
+    "openclaw-ui": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-21T06:55:36.838Z"
+    },
+    "provider-management": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-21T06:55:36.838Z"
+    },
+    "skills-management": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-21T06:55:36.838Z"
+    },
+    "wsl-support": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-21T06:55:36.838Z"
+    },
+    "agentic-skills": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-21T06:55:36.838Z"
+    },
+    "ai-agent-skills": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-21T06:55:36.838Z"
+    },
+    "ai-workflows": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-21T06:55:36.838Z"
+    },
+    "antigravity-skills": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-21T06:55:36.838Z"
+    },
+    "autonomous-coding": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-21T06:55:36.838Z"
+    },
+    "gemini-skills": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-21T06:55:36.838Z"
+    },
+    "skill-library": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-21T06:55:36.838Z"
+    },
+    "cluade": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-21T06:55:36.838Z"
+    },
+    "qwen3-coder": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-21T06:55:36.838Z"
+    },
+    "claude-mobile": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-21T06:55:36.838Z"
+    },
+    "defuddle": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-21T06:55:36.838Z"
+    },
+    "opencode-skills": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-21T06:55:36.838Z"
+    },
+    "ghostty": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-21T06:55:36.838Z"
+    },
+    "lark-bot": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-21T06:55:36.838Z"
+    },
+    "n8n-alternative": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-21T06:55:36.838Z"
+    },
+    "skills-builder": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-21T06:55:36.838Z"
+    },
+    "slack-bot": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-21T06:55:36.838Z"
+    },
+    "vibe-workflow": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-21T06:55:36.838Z"
+    },
+    "bmad-method": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-21T06:55:36.838Z"
+    },
+    "ccr": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-21T06:55:36.838Z"
+    },
+    "claude-4": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-21T06:55:36.838Z"
+    },
+    "llm-code": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-21T06:55:36.838Z"
+    },
+    "zcf": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-21T06:55:36.838Z"
+    },
+    "natural": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-21T06:55:36.838Z"
+    },
+    "processing": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-21T06:55:36.838Z"
     }
   },
   "niche": {},

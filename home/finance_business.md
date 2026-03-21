@@ -20,6 +20,14 @@
 - **Tags:** `Text-to-SQL` `BI` `RAG`
 - **最后活动时间:** 2026-03-17
 
+### [FinRobot](https://github.com/AI4Finance-Foundation/FinRobot)
+
+开源AI代理平台，专注于使用LLM进行金融分析。支持多模态深度学习和智能投顾应用。
+
+- **Stars:** ⭐️ 6.4k
+- **Tags:** `AI Agent` `Finance` `LLM` `Fintech`
+- **最后活动时间:** 2026-03-20
+
 ### [steedos-platform](https://github.com/steedos/steedos-platform)
 
 AI原生企业应用基础设施平台，支持通过提示词快速生成企业级软件，实现低代码/无代码开发。
@@ -28,7 +36,23 @@ AI原生企业应用基础设施平台，支持通过提示词快速生成企业
 - **Tags:** `低代码` `企业应用` `AI原生`
 - **最后活动时间:** 2026-03-20
 
+### [openops](https://github.com/openops-cloud/openops)
+
+开源无代码FinOps自动化平台，集成可信AI能力，实现云成本优化与治理自动化。
+
+- **Stars:** ⭐️ 1.0k
+- **Tags:** `FinOps` `No-Code` `Cloud`
+- **最后活动时间:** 2026-03-20
+
 ## Market Analysis
+
+### [prophet](https://github.com/facebook/prophet)
+
+Meta开源的时间序列预测工具，擅长处理多重季节性和非线性增长的数据预测。
+
+- **Stars:** ⭐️ 20.1k
+- **Tags:** `时间序列` `预测` `机器学习`
+- **最后活动时间:** 2026-03-02
 
 ### [awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance)
 
@@ -71,6 +95,22 @@ AI原生企业应用基础设施平台，支持通过提示词快速生成企业
 - **Stars:** ⭐️ 21.3k
 - **Tags:** `Quantitative Trading` `Machine Learning` `Rust`
 - **最后活动时间:** 2026-03-21
+
+### [Lean](https://github.com/QuantConnect/Lean)
+
+QuantConnect开源的算法交易引擎，支持Python和C#，提供完整的回测和实盘交易能力。
+
+- **Stars:** ⭐️ 18.0k
+- **Tags:** `量化交易` `算法交易` `金融`
+- **最后活动时间:** 2026-03-19
+
+### [hummingbot](https://github.com/hummingbot/hummingbot)
+
+开源加密货币高频交易机器人框架，支持创建和部署自动化交易策略，包含套利、做市等功能。
+
+- **Stars:** ⭐️ 17.8k
+- **Tags:** `Trading Bot` `Cryptocurrency` `Algorithmic Trading`
+- **最后活动时间:** 2026-03-20
 
 ### [Qbot](https://github.com/UFund-Me/Qbot)
 
