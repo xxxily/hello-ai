@@ -8,22 +8,23 @@ const __dirname = path.dirname(__filename);
 
 const dataFile = path.join(__dirname, '../data/projects.json');
 const queueFile = path.join(__dirname, '../data/pending-projects.json');
+const topicsFile = path.join(__dirname, '../data/topics.json');
+const rejectedFile = path.join(__dirname, '../data/rejected-projects.json');
 
-// By default, try to use a local LLM if API key isn't provided (e.g., Ollama or LM Studio)
-// You can set LLM_BASE_URL to http://127.0.0.1:11434/v1 for Ollama
 const LLM_API_KEY = process.env.LLM_API_KEY || 'local-fallback';
 const LLM_BASE_URL = process.env.LLM_BASE_URL || (LLM_API_KEY === 'local-fallback' ? 'http://127.0.0.1:11434/v1' : 'https://api.openai.com/v1');
 const LLM_MODEL = process.env.LLM_MODEL || (LLM_API_KEY === 'local-fallback' ? 'llama3' : 'gpt-4o-mini');
 
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
 const DISCOVER_BATCH_SIZE = parseInt(process.env.DISCOVER_BATCH_SIZE || '10', 10);
-const EVALUATE_BATCH_SIZE = parseInt(process.env.EVALUATE_BATCH_SIZE || '3', 10);
+const EVALUATE_BATCH_SIZE = parseInt(process.env.EVALUATE_BATCH_SIZE || '5', 10);
 
-function loadJson(filePath) {
+function loadJson(filePath, defaultVal = null) {
   if (fs.existsSync(filePath)) {
-    return JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+    try { return JSON.parse(fs.readFileSync(filePath, 'utf-8')); }
+    catch(e) { return defaultVal; }
   }
-  return null;
+  return defaultVal;
 }
 
 function saveJson(filePath, data) {
@@ -31,7 +32,6 @@ function saveJson(filePath, data) {
 }
 
 async function askLLM(prompt) {
-  // Even for local LLMs, authorization header might be required but arbitrary
   const res = await fetch(`${LLM_BASE_URL}/chat/completions`, {
     method: 'POST',
     headers: {
@@ -56,12 +56,11 @@ async function askLLM(prompt) {
 
   const resData = await res.json();
   const content = resData.choices[0].message.content;
-  // Fallback: strip markdown JSON formatting if local LLM wraps it
   let cleanContent = content.replace(/```json/g, '').replace(/```/g, '').trim();
   return JSON.parse(cleanContent);
 }
 
-// 1. Discover mode: Find trending projects and add to local queue
+// 1. Discover mode
 async function discover() {
   console.log(`🔍 [Task Pool] Searching for trending AI projects (Max ${DISCOVER_BATCH_SIZE})...`);
 
@@ -70,27 +69,32 @@ async function discover() {
     headers['Authorization'] = `token ${GITHUB_TOKEN}`;
   }
 
-  const topics = [
-    'ai', 'llm', 'machine-learning', 'agent', 'autonomous-agents', 'multi-agent',
-    'rag', 'generative-ai', 'deep-learning', 'openai', 'claude', 'deepseek',
-    'gemini', 'llama3', 'vector-database', 'local-ai', 'self-hosted',
-    'ai-infrastructure', 'ai-security', 'ai-coding', 'computer-vision',
-    'voice-ai', 'multimodal', 'transformer', 'prompt-engineering',
-    'stable-diffusion', 'diffusion-models', 'mlops', 'llmops', 'mcp', 'skills',
-    'browser-automation', 'ai-tools', 'ai-agents', 'openclaw', 'assistant', 'claude',
-    'ollama', 'gpt', 'audio', 'tts', 'stt', 'asr', 'speech', 'video', 'workflow', 'automation', 'low-code', 'no-code',
-    'web-search', 'browser-use', 'awesome'
-  ];
+  const topicsDb = loadJson(topicsFile, { active: { "ai": { level: 1, lastExplored: "1970-01-01T00:00:00Z" } }, niche: {}, exhausted: {} });
+  
+  // Select topic
+  const activeTopics = Object.keys(topicsDb.active);
+  if (activeTopics.length === 0) {
+    console.error(`❌ Topics DB has no active topics!`);
+    return;
+  }
+  
+  // Sort by lastExplored ascending
+  activeTopics.sort((a, b) => new Date(topicsDb.active[a].lastExplored || 0) - new Date(topicsDb.active[b].lastExplored || 0));
+  
+  // Pick the oldest explored topic to search
+  const pickedTopic = activeTopics[0];
+  console.log(`🏷️  Selected Topic for exploration: ${pickedTopic}`);
+  
+  // Update exploration time
+  topicsDb.active[pickedTopic].lastExplored = new Date().toISOString();
+
   const sortOptions = ['updated', 'stars', 'forks'];
-
-  const randomTopic = topics[Math.floor(Math.random() * topics.length)];
   const randomSort = sortOptions[Math.floor(Math.random() * sortOptions.length)];
-  const randomPage = Math.floor(Math.random() * 20) + 1; // 进一步扩大页码范围，挖掘更深
-  const minStars = 500; // 恢复基础门槛为 500 星
+  const randomPage = Math.floor(Math.random() * 5) + 1;
+  const minStars = 500;
 
-  // 随机使用 topic 搜索或普通关键词搜索
   const useTopic = Math.random() > 0.4;
-  const q = useTopic ? `topic:${randomTopic}` : randomTopic;
+  const q = useTopic ? `topic:${pickedTopic}` : pickedTopic;
 
   const searchUrl = `https://api.github.com/search/repositories?q=${q}+stars:>=${minStars}&sort=${randomSort}&order=desc&per_page=${DISCOVER_BATCH_SIZE}&page=${randomPage}`;
 
@@ -101,7 +105,7 @@ async function discover() {
     const data = await res.json();
 
     const projectDb = loadJson(dataFile);
-    const pendingDb = loadJson(queueFile) || { queue: [] };
+    const pendingDb = loadJson(queueFile, { queue: [] });
 
     const existingUrls = new Set();
     projectDb.categories.forEach(c => {
@@ -110,7 +114,19 @@ async function discover() {
     pendingDb.queue.forEach(item => existingUrls.add(item.html_url.toLowerCase()));
 
     let queuedCount = 0;
+    let newTopicsCount = 0;
+
     for (const item of data.items) {
+      // Collect new topics into topicsDB
+      if (Array.isArray(item.topics)) {
+        item.topics.forEach(t => {
+          if (!topicsDb.active[t] && !topicsDb.niche[t] && !topicsDb.exhausted[t]) {
+            topicsDb.active[t] = { level: 2, lastExplored: "1970-01-01T00:00:00Z", added: new Date().toISOString() };
+            newTopicsCount++;
+          }
+        });
+      }
+
       const url = item.html_url.toLowerCase();
       if (!existingUrls.has(url)) {
         pendingDb.queue.push({
@@ -126,6 +142,9 @@ async function discover() {
         queuedCount++;
       }
     }
+    
+    saveJson(topicsFile, topicsDb);
+    if (newTopicsCount > 0) console.log(`🏷️  Added ${newTopicsCount} new topics to active DB.`);
 
     if (queuedCount > 0) {
       saveJson(queueFile, pendingDb);
@@ -138,96 +157,135 @@ async function discover() {
   }
 }
 
-// 2. Evaluate mode: Pop from queue and let local/remote LLM evaluate
+// 2. Evaluate mode
 async function evaluate() {
-  const pendingDb = loadJson(queueFile);
-  if (!pendingDb || !pendingDb.queue || pendingDb.queue.length === 0) {
+  const pendingDb = loadJson(queueFile, { queue: [] });
+  if (!pendingDb.queue || pendingDb.queue.length === 0) {
     console.log('✨ The pending queue is empty. Nothing to evaluate.');
     return;
   }
 
   const projectDb = loadJson(dataFile);
-  console.log(`\n🤖 [Task Pool] Evaluating ${EVALUATE_BATCH_SIZE} projects using Model: ${LLM_MODEL} at ${LLM_BASE_URL}...`);
+  const rejectedDb = loadJson(rejectedFile, { rejected: [] });
+  
+  // Dynamic categories string for prompt
+  const validCategoriesStr = projectDb.categories
+    .filter(c => c.id !== 'trending')
+    .map(c => `- ${c.id} (${c.name}) - Subcategories: [${(c.subcategories||[]).join(', ')}]`)
+    .join('\n');
 
-  let evaluatedCount = 0;
-  let addedCount = 0;
+  console.log(`\n🤖 [Task Pool] Evaluating up to ${EVALUATE_BATCH_SIZE} projects using Model: ${LLM_MODEL}...`);
 
-  // Process N items from the queue
-  while (evaluatedCount < EVALUATE_BATCH_SIZE && pendingDb.queue.length > 0) {
-    const item = pendingDb.queue[0]; // peek
-    console.log(`\n▶️ Evaluating [${item.name}](${item.html_url})...`);
+  // Grab up to EVALUATE_BATCH_SIZE items
+  const batch = pendingDb.queue.splice(0, EVALUATE_BATCH_SIZE);
+  console.log(`▶️ Evaluating ${batch.length} projects in a batch...`);
+  
+  const batchData = batch.map((item, index) => ({
+    id: index,
+    name: item.name,
+    description: item.description || 'No description',
+    topics: item.topics?.join(', ') || 'None'
+  }));
 
-    const prompt = `
-Please evaluate this GitHub project based on its metadata. If it is a high-quality AI project suitable for the "Hello-AI" directory, extract its details.
+  const prompt = `
+Please evaluate these GitHub projects based on their metadata. Determine if each is a high-quality AI project suitable for the "Hello-AI" directory.
 
-Repository Name: ${item.name}
-Description: ${item.description || 'No description'}
-Topics: ${item.topics?.join(', ') || 'None'}
+Projects to evaluate:
+${JSON.stringify(batchData, null, 2)}
 
-Valid Categories:
-- llms (🧠 基础大模型 (Foundation Models))
-- agents (🤖 智能体与编排 (Agents & Orchestration))
-- rag_data (🔍 RAG与检索 (RAG & Retrieval))
-- infrastructure (☁️ 基础设施与部署 (Infra & Deployment))
-- finetuning (🔧 微调与训练 (Fine-tuning & Training))
-- multimodal (👁️ 多模态与音视频 (Multimodal & Vision/Audio))
-- devtools (🛠️ 开发工具与SDK (Developer Tools & SDKs))
-- applications (🎨 AI终端应用 (AI Applications))
-- learning (📚 学习与资源 (Learning & Resources))
+Valid Categories and their Subcategories:
+${validCategoriesStr}
 
-Determine if the project is valuable enough (e.g. not a fork, has distinct value).
-If it's NOT valuable, return {"is_valuable": false}.
-If it IS valuable, return:
+For each project, determine if it is valuable. 
+If it's NOT valuable or not really AI-focused or too localized/forked, set "is_valuable": false and state a "reason".
+If it IS valuable, set "is_valuable": true, pick the best "category_id", pick the most suitable "subcategory" (if applicable, else ""), and fill out the "project" details.
+
+Required Output Format (JSON):
 {
-  "is_valuable": true,
-  "category_id": "<one of the valid categories matching it best>",
-  "project": {
-    "name": "${item.name}",
-    "url": "${item.html_url}",
-    "description": "<Provide a concise, engaging summary in Chinese (max 2 sentences)>",
-    "tags": ["Tag1", "Tag2"],
-    "stars": ${item.stargazers_count},
-    "lastUpdated": "${item.pushed_at}",
-    "health": "Active",
-    "addedAt": "${new Date().toISOString()}"
-  }
+  "evaluations": [
+    {
+      "id": 0,
+      "is_valuable": true,
+      "category_id": "<one of the valid categories matching it best>",
+      "subcategory": "<matching subcategory if applicable, or empty>",
+      "project": {
+        "name": "project_name",
+        "description": "<Provide a concise, engaging summary in Chinese (max 2 sentences)>",
+        "tags": ["Tag1", "Tag2"],
+        "health": "Active"
+      }
+    },
+    {
+      "id": 1,
+      "is_valuable": false,
+      "reason": "Not related to AI or low quality."
+    }
+  ]
 }
 
 Return ONLY standard JSON. Keep JSON minimal.`;
 
-    try {
-      const evaluation = await askLLM(prompt);
+  let evaluations = [];
+  try {
+    const responseData = await askLLM(prompt);
+    evaluations = responseData.evaluations || [];
+  } catch (err) {
+    console.error(`🚨 LLM Error: ${err.message}`);
+    console.log(`⚠️ Restoring batch to queue for retry later. Backing off...`);
+    pendingDb.queue.unshift(...batch);
+    saveJson(queueFile, pendingDb);
+    return;
+  }
 
-      if (evaluation.is_valuable && evaluation.category_id && evaluation.project) {
-        const category = projectDb.categories.find(c => c.id === evaluation.category_id);
-        if (category) {
-          if (!category.projects) category.projects = [];
-          evaluation.project._lastChecked = new Date().toISOString();
-          category.projects.push(evaluation.project);
-          console.log(`  ✅ Approved -> Category '${category.id}'`);
-          addedCount++;
-        } else {
-          console.log(`  ⚠️ Rejected: LLM returned invalid category '${evaluation.category_id}'.`);
+  let addedCount = 0;
+  
+  for (const item of batch) {
+    // Find matching output
+    const matchIndex = batchData.findIndex(b => b.name === item.name);
+    const evalData = evaluations.find(e => e.id === matchIndex) || evaluations.find(e => e.project?.name === item.name);
+
+    if (evalData && evalData.is_valuable && evalData.category_id && evalData.project) {
+      const category = projectDb.categories.find(c => c.id === evalData.category_id);
+      if (category) {
+        if (!category.projects) category.projects = [];
+        
+        let projectToAdd = evalData.project;
+        projectToAdd.url = item.html_url;
+        projectToAdd.stars = item.stargazers_count;
+        projectToAdd.lastUpdated = item.pushed_at;
+        projectToAdd.addedAt = new Date().toISOString();
+        projectToAdd._lastChecked = new Date().toISOString();
+        
+        if (evalData.subcategory) {
+           projectToAdd.subcategory = evalData.subcategory;
         }
+
+        category.projects.push(projectToAdd);
+        console.log(`  ✅ Approved [${item.name}] -> Category '${category.id}'`);
+        addedCount++;
       } else {
-        console.log(`  ❌ Rejected by LLM (Not valuable enough or incomplete).`);
+        console.log(`  ⚠️ Rejected [${item.name}] -> LLM returned invalid category '${evalData.category_id}'. Recording manually.`);
+        recordRejected(item, `Invalid category: ${evalData.category_id}`);
       }
-
-      // Successfully evaluated (whether approved or rejected), remove from queue
-      pendingDb.queue.shift();
-      evaluatedCount++;
-
-      // Delay to avoid LLM throttling (especially local setups)
-      await new Promise(r => setTimeout(r, 2000));
-
-    } catch (err) {
-      console.error(`  🚨 LLM Error: ${err.message}`);
-      console.log(`  ⚠️ Keeping ${item.name} in queue for retry later. Backing off...`);
-      break; // Stop evaluating to avoid repeating failures
+    } else {
+      const reason = evalData?.reason || 'Not valuable enough or incomplete';
+      console.log(`  ❌ Rejected [${item.name}] -> ${reason}`);
+      recordRejected(item, reason);
     }
   }
 
-  // Refreshed Trending logic: Calculate fully objectively, overriding LLM randomness
+  function recordRejected(item, reason) {
+    rejectedDb.rejected.push({
+      name: item.name,
+      url: item.html_url,
+      description: item.description,
+      topics: item.topics,
+      rejected_at: new Date().toISOString(),
+      reason: reason
+    });
+  }
+
+  // Refreshed Trending logic
   const threeMonthsAgo = new Date();
   threeMonthsAgo.setMonth(threeMonthsAgo.getMonth() - 3);
 
@@ -237,13 +295,9 @@ Return ONLY standard JSON. Keep JSON minimal.`;
     if (category.projects) {
       category.projects.forEach(p => {
         let dateObj;
-        try {
-          dateObj = new Date(p.lastUpdated);
-        } catch(e) {}
+        try { dateObj = new Date(p.lastUpdated); } catch(e) {}
         if (dateObj && !isNaN(dateObj.getTime()) && dateObj > threeMonthsAgo) {
-          if (p.stars && p.stars >= 1000) {
-            candidates.push(p);
-          }
+          if (p.stars && p.stars >= 1000) candidates.push(p);
         }
       });
     }
@@ -258,12 +312,12 @@ Return ONLY standard JSON. Keep JSON minimal.`;
   }
 
   // Save changes
-  if (evaluatedCount > 0) {
-    saveJson(queueFile, pendingDb);
-    saveJson(dataFile, projectDb);
-    console.log(`\n🎉 Evaluated ${evaluatedCount} projects. Added ${addedCount} to the active directory.`);
-    console.log(`🔥 Trending category automatically rebuilt with top ${topTrending.length} recently updated high-star projects.`);
-  }
+  saveJson(queueFile, pendingDb);
+  saveJson(dataFile, projectDb);
+  saveJson(rejectedFile, rejectedDb);
+  
+  console.log(`\n🎉 Evaluated ${batch.length} projects. Added ${addedCount} to the active directory.`);
+  console.log(`🔥 Trending category automatically rebuilt with top ${topTrending.length} recently updated high-star projects.`);
 }
 
 async function run() {

@@ -1,0 +1,1789 @@
+{
+  "rejected": [
+    {
+      "name": "krakend-ce",
+      "url": "https://github.com/krakend/krakend-ce",
+      "description": "KrakenD Community Edition: High-performance, stateless, declarative, API Gateway written in Go.",
+      "topics": [
+        "ai-gateway",
+        "api-gateway",
+        "apis",
+        "async",
+        "backend-services",
+        "cloud-native",
+        "docker",
+        "go",
+        "golang",
+        "graphql",
+        "microservice",
+        "microservices",
+        "nats",
+        "reverse-proxy"
+      ],
+      "rejected_at": "2026-03-21T02:04:28.804Z",
+      "reason": "General-purpose API gateway, not specifically AI-focused despite ai-gateway tag."
+    },
+    {
+      "name": "goodsKill",
+      "url": "https://github.com/techa03/goodsKill",
+      "description": "🐎基于SpringCloud 2023.x + Dubbo 3.x + AI构建的模拟秒杀微服务项目，集成了Elasticsearch🔍、Gateway、Mybatis-Plus、Sharding-JDBC等常用开源组件",
+      "topics": [
+        "ai",
+        "java",
+        "oauth2",
+        "sharding-jdbc",
+        "spring-boot",
+        "springcloud",
+        "springcloudalibaba"
+      ],
+      "rejected_at": "2026-03-21T02:04:28.804Z",
+      "reason": "Demo/learning project for microservices, not a production AI tool."
+    },
+    {
+      "name": "Ocelot",
+      "url": "https://github.com/ThreeMammals/Ocelot",
+      "description": ".NET API Gateway",
+      "topics": [
+        "aspnetcore",
+        "dotnet",
+        "gateway",
+        "microservices",
+        "ocelot",
+        "reverse-proxy"
+      ],
+      "rejected_at": "2026-03-21T02:05:39.134Z",
+      "reason": "General .NET API Gateway, not AI-specific."
+    },
+    {
+      "name": "tut-spring-security-and-angular-js",
+      "url": "https://github.com/spring-guides/tut-spring-security-and-angular-js",
+      "description": "Spring Security and Angular:: A tutorial on how to use Spring Security with a single page application with various backend architectures, ranging from a simple single server to an API gateway with OAuth2 authentication.",
+      "topics": [],
+      "rejected_at": "2026-03-21T02:05:39.134Z",
+      "reason": "Tutorial about Spring Security and Angular, not AI-related."
+    },
+    {
+      "name": "tyk",
+      "url": "https://github.com/TykTechnologies/tyk",
+      "description": "Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols",
+      "topics": [
+        "api",
+        "api-gateway",
+        "api-management",
+        "cloudnative",
+        "go",
+        "graphql",
+        "grpc",
+        "k8s",
+        "kubernetes",
+        "microservices",
+        "reverse-proxy",
+        "tyk"
+      ],
+      "rejected_at": "2026-03-21T02:05:39.134Z",
+      "reason": "General API Gateway written in Go, not AI-specific."
+    },
+    {
+      "name": "api-gateway",
+      "url": "https://github.com/membrane/api-gateway",
+      "description": "Truly open source API gateway with native OpenAPI support. Written in Java, it is easily extensible, supports legacy XML and SOAP, and is optimized for container deployments.",
+      "topics": [
+        "api",
+        "api-gateway",
+        "graphql",
+        "oauth2",
+        "openapi",
+        "rest"
+      ],
+      "rejected_at": "2026-03-21T02:05:39.134Z",
+      "reason": "General Java API Gateway, not AI-specific."
+    },
+    {
+      "name": "serverless-domain-manager",
+      "url": "https://github.com/amplify-education/serverless-domain-manager",
+      "description": "Serverless plugin for managing custom domains with API Gateways.",
+      "topics": [
+        "amazon-certificate-manager",
+        "api-gateway",
+        "certificate",
+        "cloudformation",
+        "lambda",
+        "route53",
+        "serverless"
+      ],
+      "rejected_at": "2026-03-21T02:05:39.134Z",
+      "reason": "Serverless plugin for domain management, not AI-related."
+    },
+    {
+      "name": "convoy",
+      "url": "https://github.com/frain-dev/convoy",
+      "description": "The Cloud Native Webhooks Gateway",
+      "topics": [
+        "angular",
+        "api-gateway",
+        "automation",
+        "cli",
+        "cloud",
+        "convoy",
+        "developer-tools",
+        "devtools",
+        "gateway",
+        "gateways",
+        "golang",
+        "incoming-webhooks",
+        "infrastructure",
+        "outgoing-webhooks",
+        "webhook-gateway",
+        "webhook-service",
+        "webhooks",
+        "webhooks-server"
+      ],
+      "rejected_at": "2026-03-21T02:05:39.134Z",
+      "reason": "Webhooks Gateway, not AI-specific."
+    },
+    {
+      "name": "oathkeeper",
+      "url": "https://github.com/ory/oathkeeper",
+      "description": "A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.",
+      "topics": [
+        "api-gateway",
+        "golang",
+        "hacktoberfest",
+        "oauth2",
+        "openid-connect",
+        "ory",
+        "ory-oathkeeper",
+        "reverse-proxy"
+      ],
+      "rejected_at": "2026-03-21T02:05:39.134Z",
+      "reason": "Identity & Access Proxy, not AI-specific."
+    },
+    {
+      "name": "sitewhere",
+      "url": "https://github.com/sitewhere/sitewhere",
+      "description": "SiteWhere is an industrial strength open-source application enablement platform for the Internet of Things (IoT). It provides a multi-tenant microservice-based infrastructure that includes device/asset management, data ingestion, big-data storage, and integration through a modern, scalable architecture.  SiteWhere provides REST APIs for all system functionality.  SiteWhere provides SDKs for many common device platforms including Android, iOS, Arduino, and any Java-capable platform such as Raspberry Pi rapidly accelerating the speed of innovation.",
+      "topics": [
+        "android",
+        "arduino",
+        "aws",
+        "device-management",
+        "helm",
+        "integration",
+        "internet-of-things",
+        "iot",
+        "iot-framework",
+        "iot-platform",
+        "java",
+        "kafka",
+        "kubernetes",
+        "microservices",
+        "mqtt",
+        "open-source",
+        "platform",
+        "raspberry-pi",
+        "sitewhere",
+        "zookeeper"
+      ],
+      "rejected_at": "2026-03-21T02:06:22.140Z",
+      "reason": "IoT platform, not AI-related."
+    },
+    {
+      "name": "flutter_photo_manager",
+      "url": "https://github.com/fluttercandies/flutter_photo_manager",
+      "description": "A Flutter plugin that provides images, videos, and audio abstraction management APIs without interface integration, available on Android, iOS, macOS and OpenHarmony.",
+      "topics": [
+        "dart",
+        "flutter",
+        "flutter-plugin",
+        "image",
+        "photo",
+        "photos",
+        "plugin",
+        "video"
+      ],
+      "rejected_at": "2026-03-21T02:06:22.140Z",
+      "reason": "Flutter media management plugin, not AI-related."
+    },
+    {
+      "name": "api-umbrella",
+      "url": "https://github.com/NatLabRockies/api-umbrella",
+      "description": "Open source API management platform",
+      "topics": [
+        "api-gateway",
+        "api-management",
+        "api-manager",
+        "lua",
+        "luajit",
+        "nginx",
+        "openresty"
+      ],
+      "rejected_at": "2026-03-21T02:06:22.140Z",
+      "reason": "API management platform, not AI-related."
+    },
+    {
+      "name": "apiman",
+      "url": "https://github.com/apiman/apiman",
+      "description": "Extensible and flexible API Management. Add your own functionality with simple Java plugins.",
+      "topics": [
+        "api-gateway",
+        "api-management",
+        "api-manager",
+        "apiman",
+        "java",
+        "jvm"
+      ],
+      "rejected_at": "2026-03-21T02:06:22.140Z",
+      "reason": "API management tool, not AI-related."
+    },
+    {
+      "name": "Cli-Proxy-API-Management-Center",
+      "url": "https://github.com/router-for-me/Cli-Proxy-API-Management-Center",
+      "description": "This is a WebUI interface based on CLI-Proxy-API, designed to simplify configuration modifications and runtime status monitoring.",
+      "topics": [],
+      "rejected_at": "2026-03-21T02:06:22.140Z",
+      "reason": "API proxy management UI, not AI-related."
+    },
+    {
+      "name": "api-management-developer-portal",
+      "url": "https://github.com/Azure/api-management-developer-portal",
+      "description": "Developer portal provided by the Azure API Management service.",
+      "topics": [
+        "api-management",
+        "azure",
+        "developer-portal",
+        "microsoft"
+      ],
+      "rejected_at": "2026-03-21T02:06:22.140Z",
+      "reason": "Azure API developer portal, not AI-related."
+    },
+    {
+      "name": "fireprox",
+      "url": "https://github.com/ustayready/fireprox",
+      "description": "AWS API Gateway management tool for creating on the fly HTTP pass-through proxies for unique IP rotation",
+      "topics": [],
+      "rejected_at": "2026-03-21T02:06:22.140Z",
+      "reason": "AWS API Gateway proxy tool, not AI-related."
+    },
+    {
+      "name": "Azure-DevOps",
+      "url": "https://github.com/vinijmoura/Azure-DevOps",
+      "description": "Data extraction and Power BI report that generate management informations about your Azure DevOps organization. Using Azure DevOps CLI and Azure DevOps REST API, PowerShell scripts extract data from Azure DevOps, store this information in an Azure SQL Database and shows them in a Power BI report.",
+      "topics": [
+        "azuredevops",
+        "powerbi",
+        "powershell"
+      ],
+      "rejected_at": "2026-03-21T02:06:22.140Z",
+      "reason": "Azure DevOps data extraction tool, not AI-related."
+    },
+    {
+      "name": "fusio",
+      "url": "https://github.com/apioo/fusio",
+      "description": "Self-Hosted API Management for Builders",
+      "topics": [
+        "api",
+        "api-gateway",
+        "api-management",
+        "api-manager",
+        "backend",
+        "javascript",
+        "microservice",
+        "openapi",
+        "php",
+        "rest",
+        "rpc",
+        "serverless"
+      ],
+      "rejected_at": "2026-03-21T02:06:22.140Z",
+      "reason": "Self-hosted API management, not AI-related."
+    },
+    {
+      "name": "rubyapi",
+      "url": "https://github.com/rubyapi/rubyapi",
+      "description": "Ruby API makes it easy and fast to search or browse the Ruby language API docs",
+      "topics": [
+        "documentation",
+        "rails-application",
+        "ruby",
+        "ruby-api"
+      ],
+      "rejected_at": "2026-03-21T02:07:32.148Z",
+      "reason": "Ruby API documentation browser, not AI-related."
+    },
+    {
+      "name": "destroylist",
+      "url": "https://github.com/phishdestroy/destroylist",
+      "description": "Real-time phishing & scam domain blocklist — 99,000+ curated threats, 828K+ community, free API, multiple formats",
+      "topics": [
+        "anti-phishing",
+        "blacklist",
+        "blocklist",
+        "crypto-scam",
+        "cybersecurity",
+        "dns-blocklist",
+        "domains",
+        "drainer",
+        "malware",
+        "osint",
+        "phishing",
+        "scam",
+        "security-tools",
+        "seed-phishing",
+        "threat-intelligence",
+        "web3-security"
+      ],
+      "rejected_at": "2026-03-21T02:07:32.149Z",
+      "reason": "Cybersecurity blocklist tool, not AI-related."
+    },
+    {
+      "name": "spoon",
+      "url": "https://github.com/INRIA/spoon",
+      "description": "Spoon is a metaprogramming library to analyze and transform Java source code. :spoon: is made with :heart:, :beers: and :sparkles:. It parses source files to build a well-designed AST with powerful analysis and transformation API.",
+      "topics": [
+        "abstract-syntax-tree",
+        "ast",
+        "code-analysis",
+        "code-generation",
+        "code-transformation",
+        "compile-time-reflection",
+        "hacktoberfest",
+        "inria",
+        "java",
+        "java-module",
+        "java10",
+        "java9",
+        "metaprogramming",
+        "parser",
+        "spoon",
+        "static-analysis"
+      ],
+      "rejected_at": "2026-03-21T02:07:32.149Z",
+      "reason": "Java metaprogramming and AST analysis library, not AI-related."
+    },
+    {
+      "name": "ImageMagick",
+      "url": "https://github.com/ImageMagick/ImageMagick",
+      "description": "ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms.",
+      "topics": [
+        "command-line-image-tool",
+        "digital-image-editing",
+        "image-conversion",
+        "image-manipulation",
+        "image-processing",
+        "imagemagick",
+        "mastering-digital-image-alchemy",
+        "open-source-software"
+      ],
+      "rejected_at": "2026-03-21T02:07:32.149Z",
+      "reason": "Traditional image processing library, not AI-based."
+    },
+    {
+      "name": "express-openapi-validator",
+      "url": "https://github.com/cdimascio/express-openapi-validator",
+      "description": "🦋 Auto-validates api requests, responses, and securities using ExpressJS and an OpenAPI 3.1.x or 3.0.x specification",
+      "topics": [
+        "connect-middleware",
+        "express",
+        "express-middleware",
+        "expressjs",
+        "hacktoberfest",
+        "middleware",
+        "nodejs",
+        "openapi",
+        "openapi-validator",
+        "openapi3",
+        "request-validation",
+        "rest-api"
+      ],
+      "rejected_at": "2026-03-21T02:07:32.149Z",
+      "reason": "OpenAPI validation middleware for Express, not AI-related."
+    },
+    {
+      "name": "BackwardCompatibilityCheck",
+      "url": "https://github.com/Roave/BackwardCompatibilityCheck",
+      "description": ":ab: Tool to compare two revisions of a class API to check for BC breaks",
+      "topics": [
+        "backward-compatibility",
+        "bc",
+        "reflection",
+        "static-analysis"
+      ],
+      "rejected_at": "2026-03-21T02:07:32.149Z",
+      "reason": "Backward compatibility checker for PHP, not AI-related."
+    },
+    {
+      "name": "refit",
+      "url": "https://github.com/reactiveui/refit",
+      "description": "The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface.",
+      "topics": [
+        "c-sharp",
+        "dotnet",
+        "dotnet-core",
+        "http",
+        "json",
+        "xamarin",
+        "xml"
+      ],
+      "rejected_at": "2026-03-21T02:07:32.149Z",
+      "reason": ".NET REST client library, not AI-related."
+    },
+    {
+      "name": "Ciphey",
+      "url": "https://github.com/bee-san/Ciphey",
+      "description": "⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡",
+      "topics": [
+        "artificial-intelligence",
+        "cipher",
+        "cpp",
+        "cryptography",
+        "ctf",
+        "ctf-tools",
+        "cyberchef-magic",
+        "decryption",
+        "deep-neural-network",
+        "encodings",
+        "encryptions",
+        "hacking",
+        "hacktoberfest",
+        "hashes",
+        "natural-language-processing",
+        "pentesting",
+        "python"
+      ],
+      "rejected_at": "2026-03-21T02:08:36.396Z",
+      "reason": "Primarily a cryptography/CTF tool. AI/ML is not the core focus, just an auxiliary technique for decryption tasks."
+    },
+    {
+      "name": "gun",
+      "url": "https://github.com/amark/gun",
+      "description": "An open source cybersecurity protocol for syncing decentralized graph data.",
+      "topics": [
+        "artificial-intelligence",
+        "big-data",
+        "blockchain",
+        "crdt",
+        "crypto",
+        "cryptography",
+        "dapp",
+        "database",
+        "decentralized",
+        "dweb",
+        "encryption",
+        "end-to-end",
+        "graph",
+        "machine-learning",
+        "metaverse",
+        "offline-first",
+        "p2p",
+        "protocol",
+        "realtime",
+        "web3"
+      ],
+      "rejected_at": "2026-03-21T02:08:36.396Z",
+      "reason": "Decentralized database protocol, not an AI project. AI/ML tags are irrelevant to its core functionality."
+    },
+    {
+      "name": "pekko",
+      "url": "https://github.com/apache/pekko",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala",
+      "topics": [
+        "actor-model",
+        "cloud-native",
+        "concurrency",
+        "distributed-actors",
+        "distributed-systems",
+        "high-performance",
+        "message-driven",
+        "pekko",
+        "reactive",
+        "streaming"
+      ],
+      "rejected_at": "2026-03-21T02:09:38.637Z",
+      "reason": "Distributed systems framework, not AI-focused."
+    },
+    {
+      "name": "fluvio",
+      "url": "https://github.com/fluvio-community/fluvio",
+      "description": "🦀 event stream processing for developers to collect and transform data in motion to power responsive data intensive applications.",
+      "topics": [
+        "cloud-native",
+        "data-analytics",
+        "data-flow",
+        "data-integration",
+        "data-pipelines",
+        "distributed-systems",
+        "event-driven-architecture",
+        "real-time",
+        "rust",
+        "serverless",
+        "stateful",
+        "stream-processing",
+        "stream-processing-engine",
+        "streaming",
+        "streaming-analytics",
+        "streaming-data",
+        "streaming-data-pipelines",
+        "streaming-data-processing",
+        "webassembly"
+      ],
+      "rejected_at": "2026-03-21T02:09:38.637Z",
+      "reason": "Data streaming platform, not AI-specific."
+    },
+    {
+      "name": "Azure-Sentinel",
+      "url": "https://github.com/Azure/Azure-Sentinel",
+      "description": "Cloud-native SIEM for intelligent security analytics for your entire enterprise.",
+      "topics": [
+        "cybersecurity",
+        "sample-code"
+      ],
+      "rejected_at": "2026-03-21T02:09:38.637Z",
+      "reason": "Security/SIEM tool, not an AI project."
+    },
+    {
+      "name": "nats-server",
+      "url": "https://github.com/nats-io/nats-server",
+      "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+      "topics": [
+        "cloud",
+        "cloud-computing",
+        "cloud-native",
+        "connected-vehicle",
+        "distributed-systems",
+        "edge",
+        "edge-ai",
+        "edge-computing",
+        "go",
+        "golang",
+        "message-bus",
+        "message-queue",
+        "messaging",
+        "microservices-architecture",
+        "nats-server"
+      ],
+      "rejected_at": "2026-03-21T02:09:38.637Z",
+      "reason": "Messaging system infrastructure, not AI-focused."
+    },
+    {
+      "name": "opa",
+      "url": "https://github.com/open-policy-agent/opa",
+      "description": "Open Policy Agent (OPA) is an open source, general-purpose policy engine.",
+      "topics": [
+        "authorization",
+        "cloud-native",
+        "compliance",
+        "declarative",
+        "json",
+        "opa",
+        "open-policy-agent",
+        "policy"
+      ],
+      "rejected_at": "2026-03-21T02:09:38.637Z",
+      "reason": "Policy engine, not AI-related."
+    },
+    {
+      "name": "supavisor",
+      "url": "https://github.com/supabase/supavisor",
+      "description": "A cloud-native, multi-tenant Postgres connection pooler.",
+      "topics": [
+        "elixir",
+        "erlang",
+        "postgresql"
+      ],
+      "rejected_at": "2026-03-21T02:09:38.637Z",
+      "reason": "Database connection pooler, not AI-related."
+    },
+    {
+      "name": "service-fabric",
+      "url": "https://github.com/microsoft/service-fabric",
+      "description": "Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale.",
+      "topics": [
+        "cloud-computing",
+        "cloud-native",
+        "containers",
+        "distributed-systems",
+        "microservices",
+        "orchestration"
+      ],
+      "rejected_at": "2026-03-21T02:09:38.637Z",
+      "reason": "Distributed systems platform, not AI-focused."
+    },
+    {
+      "name": "chaos-mesh",
+      "url": "https://github.com/chaos-mesh/chaos-mesh",
+      "description": "A Chaos Engineering Platform for Kubernetes.",
+      "topics": [
+        "chaos",
+        "chaos-engineering",
+        "chaos-experiments",
+        "chaos-mesh",
+        "chaos-testing",
+        "cloud-native",
+        "cncf",
+        "fault-injection",
+        "golang",
+        "hacktoberfest",
+        "kubernetes",
+        "microservices",
+        "operator",
+        "site-reliability-engineering"
+      ],
+      "rejected_at": "2026-03-21T02:09:38.637Z",
+      "reason": "Chaos engineering platform, not AI-related."
+    },
+    {
+      "name": "Zenko",
+      "url": "https://github.com/scality/Zenko",
+      "description": "Zenko is the open source multi-cloud data controller: own and keep control of your data on any cloud.",
+      "topics": [
+        "artesca",
+        "aws-s3",
+        "azure-storage",
+        "cloud-native",
+        "docker-swarm",
+        "google-cloud",
+        "grafana",
+        "helm",
+        "hybrid-cloud",
+        "kafka",
+        "kubernetes",
+        "mongodb",
+        "multi-cloud",
+        "object-storage",
+        "prometheus",
+        "redis",
+        "scality",
+        "zenko",
+        "zookeeper"
+      ],
+      "rejected_at": "2026-03-21T02:09:38.637Z",
+      "reason": "Multi-cloud object storage controller, not AI-focused."
+    },
+    {
+      "name": "docker_practice",
+      "url": "https://github.com/yeasy/docker_practice",
+      "description": "最新Docker容器技术，从真实案例中学习最佳实践！| Learn and understand Docker&Container technologies, with real DevOps practice!",
+      "topics": [
+        "book",
+        "cloud-computing",
+        "container",
+        "devops",
+        "docker",
+        "kubernetes",
+        "linux",
+        "mesos",
+        "spark",
+        "swarm",
+        "virtualization"
+      ],
+      "rejected_at": "2026-03-21T02:10:12.740Z",
+      "reason": "Docker container technology and DevOps practices, not AI-related."
+    },
+    {
+      "name": "origin",
+      "url": "https://github.com/openshift/origin",
+      "description": "Conformance test suite for OpenShift",
+      "topics": [
+        "caas",
+        "ci-cd",
+        "containers",
+        "continuous-delivery",
+        "continuous-deployment",
+        "continuous-integration",
+        "devops",
+        "go",
+        "kubernetes",
+        "openshift",
+        "openshift-origin",
+        "paas"
+      ],
+      "rejected_at": "2026-03-21T02:10:12.740Z",
+      "reason": "OpenShift conformance test suite, not AI-related."
+    },
+    {
+      "name": "sentry",
+      "url": "https://github.com/getsentry/sentry",
+      "description": "Developer-first error tracking and performance monitoring",
+      "topics": [
+        "apm",
+        "crash-reporting",
+        "crash-reports",
+        "csp-report",
+        "devops",
+        "django",
+        "error-logging",
+        "error-monitoring",
+        "fair-source",
+        "hacktoberfest",
+        "monitor",
+        "monitoring",
+        "python",
+        "sentry",
+        "tag-production"
+      ],
+      "rejected_at": "2026-03-21T02:10:12.740Z",
+      "reason": "Error tracking and monitoring tool, not AI-related."
+    },
+    {
+      "name": "cli",
+      "url": "https://github.com/httpie/cli",
+      "description": "🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.",
+      "topics": [
+        "api",
+        "api-client",
+        "api-testing",
+        "cli",
+        "client",
+        "curl",
+        "debugging",
+        "developer-tools",
+        "development",
+        "devops",
+        "http",
+        "http-client",
+        "httpie",
+        "json",
+        "python",
+        "rest",
+        "rest-api",
+        "terminal",
+        "usability",
+        "web"
+      ],
+      "rejected_at": "2026-03-21T02:10:12.741Z",
+      "reason": "HTTP CLI client tool, not AI-related."
+    },
+    {
+      "name": "ansible-for-devops",
+      "url": "https://github.com/geerlingguy/ansible-for-devops",
+      "description": "Ansible for DevOps examples.",
+      "topics": [
+        "amazon",
+        "ansible",
+        "aws",
+        "book",
+        "devops",
+        "docker",
+        "examples",
+        "jeff-geerling",
+        "kindle",
+        "kubernetes",
+        "leanpub",
+        "playbook",
+        "vagrant"
+      ],
+      "rejected_at": "2026-03-21T02:10:12.741Z",
+      "reason": "Ansible DevOps examples, not AI-related."
+    },
+    {
+      "name": "DevOps-Projects",
+      "url": "https://github.com/NotHarshhaa/DevOps-Projects",
+      "description": "𝑫𝒆𝒗𝑶𝒑𝒔 𝑹𝒆𝒂𝒍 𝑾𝒐𝒓𝒍𝒅 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝒇𝒐𝒓 𝑨𝒔𝒑𝒊𝒓𝒊𝒏𝒈 𝑫𝒆𝒗𝑶𝒑𝒔 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒔 [𝑩𝒆𝒈𝒊𝒏𝒏𝒆𝒓 𝒕𝒐 𝑨𝒅𝒗𝒂𝒏𝒄𝒆𝒅]",
+      "topics": [
+        "devops",
+        "devops-learning",
+        "devops-poc",
+        "devops-project",
+        "devops-realtime",
+        "devops-tools",
+        "practical-devops",
+        "projects-list",
+        "realtime-devops-projects",
+        "realtimeprojects"
+      ],
+      "rejected_at": "2026-03-21T02:10:12.741Z",
+      "reason": "DevOps learning projects, not AI-related."
+    },
+    {
+      "name": "DevOps-Roadmap",
+      "url": "https://github.com/milanm/DevOps-Roadmap",
+      "description": "DevOps Roadmap for 2026. with learning resources",
+      "topics": [
+        "aws",
+        "azure",
+        "computer-science",
+        "continous-delivery",
+        "continuous-integration",
+        "developer-roadmap",
+        "devops",
+        "devops-roadmap",
+        "docker",
+        "go",
+        "grafana",
+        "jira",
+        "kubernetes",
+        "linux",
+        "prometheus",
+        "python",
+        "roadmap",
+        "sre",
+        "study-plan"
+      ],
+      "rejected_at": "2026-03-21T02:10:12.741Z",
+      "reason": "DevOps learning roadmap, not AI-related."
+    },
+    {
+      "name": "tutorials",
+      "url": "https://github.com/antonputra/tutorials",
+      "description": "DevOps Tutorials",
+      "topics": [
+        "ansible",
+        "aws",
+        "devops",
+        "gcp",
+        "kubernetes",
+        "packer",
+        "serverless",
+        "sre",
+        "terraform"
+      ],
+      "rejected_at": "2026-03-21T02:10:12.741Z",
+      "reason": "DevOps tutorials, not AI-related."
+    },
+    {
+      "name": "CKAD-exercises",
+      "url": "https://github.com/dgkanatsios/CKAD-exercises",
+      "description": "A set of exercises to prepare for Certified Kubernetes Application Developer exam by Cloud Native Computing Foundation",
+      "topics": [
+        "certification",
+        "ckad",
+        "ckad-exercises",
+        "kubernetes"
+      ],
+      "rejected_at": "2026-03-21T02:11:13.636Z",
+      "reason": "Kubernetes certification exam preparation exercises, not AI-related."
+    },
+    {
+      "name": "docker_practice",
+      "url": "https://github.com/yeasy/docker_practice",
+      "description": "最新Docker容器技术，从真实案例中学习最佳实践！| Learn and understand Docker&Container technologies, with real DevOps practice!",
+      "topics": [
+        "book",
+        "cloud-computing",
+        "container",
+        "devops",
+        "docker",
+        "kubernetes",
+        "linux",
+        "mesos",
+        "spark",
+        "swarm",
+        "virtualization"
+      ],
+      "rejected_at": "2026-03-21T02:11:13.636Z",
+      "reason": "Docker and container technology learning resource, not AI-focused."
+    },
+    {
+      "name": "jumpserver",
+      "url": "https://github.com/jumpserver/jumpserver",
+      "description": "JumpServer is an open-source Privileged Access Management (PAM) platform that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints through a web browser.",
+      "topics": [
+        "bastion-host",
+        "cyberark",
+        "django",
+        "jumpserver",
+        "pam",
+        "python",
+        "ssh-server",
+        "teleport",
+        "terminal"
+      ],
+      "rejected_at": "2026-03-21T02:11:13.636Z",
+      "reason": "IT security and access management platform, not AI-related."
+    },
+    {
+      "name": "mall-swarm",
+      "url": "https://github.com/macrozheng/mall-swarm",
+      "description": "mall-swarm是一套微服务商城系统，采用了 Spring Cloud Alibaba、Spring Boot 3.2、Sa-Token、MyBatis、Elasticsearch、Docker、Kubernetes等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。",
+      "topics": [
+        "docker",
+        "elasticsearch",
+        "java",
+        "k8s",
+        "kubernetes",
+        "mongodb",
+        "mybatis",
+        "mysql",
+        "rabbitmq",
+        "redis",
+        "spring-boot",
+        "spring-cloud",
+        "springboot",
+        "springcloud"
+      ],
+      "rejected_at": "2026-03-21T02:11:13.636Z",
+      "reason": "E-commerce microservices system, not AI-focused."
+    },
+    {
+      "name": "helm-charts",
+      "url": "https://github.com/prometheus-community/helm-charts",
+      "description": "Prometheus community Helm charts",
+      "topics": [
+        "charts",
+        "helm",
+        "helm-charts",
+        "kubernetes",
+        "prometheus"
+      ],
+      "rejected_at": "2026-03-21T02:11:13.636Z",
+      "reason": "Prometheus Helm charts for Kubernetes monitoring, not AI-related."
+    },
+    {
+      "name": "community",
+      "url": "https://github.com/kubernetes/community",
+      "description": "Kubernetes community content",
+      "topics": [
+        "kubernetes"
+      ],
+      "rejected_at": "2026-03-21T02:11:13.636Z",
+      "reason": "Kubernetes community content repository, not AI-focused."
+    },
+    {
+      "name": "minikube",
+      "url": "https://github.com/kubernetes/minikube",
+      "description": "Run Kubernetes locally",
+      "topics": [
+        "cluster",
+        "cncf",
+        "containers",
+        "go",
+        "kubernetes",
+        "minikube"
+      ],
+      "rejected_at": "2026-03-21T02:11:13.636Z",
+      "reason": "Local Kubernetes runtime tool, not AI-related."
+    },
+    {
+      "name": "harbor",
+      "url": "https://github.com/goharbor/harbor",
+      "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+      "topics": [
+        "cloud-native",
+        "cncf",
+        "cncf-project",
+        "container",
+        "container-management",
+        "container-registry",
+        "containers",
+        "docker",
+        "hacktoberfest",
+        "helm",
+        "kubernetes",
+        "registry"
+      ],
+      "rejected_at": "2026-03-21T02:11:13.636Z",
+      "reason": "Container registry project, not AI-focused."
+    },
+    {
+      "name": "ftgo-application",
+      "url": "https://github.com/microservices-patterns/ftgo-application",
+      "description": "Example code for the book Microservice patterns",
+      "topics": [],
+      "rejected_at": "2026-03-21T02:18:24.267Z",
+      "reason": "Not AI-related. This is a microservice patterns example project."
+    },
+    {
+      "name": "kubernetes-handbook",
+      "url": "https://github.com/feiskyer/kubernetes-handbook",
+      "description": "Kubernetes Handbook （Kubernetes指南）   https://kubernetes.feisky.xyz",
+      "topics": [
+        "books",
+        "cloud-native",
+        "containers",
+        "docker",
+        "gitbook",
+        "handbook",
+        "kubernetes",
+        "kubernetes-handbook",
+        "microservice",
+        "service-mesh"
+      ],
+      "rejected_at": "2026-03-21T02:18:24.267Z",
+      "reason": "Not AI-related. This is a Kubernetes handbook for cloud-native technologies."
+    },
+    {
+      "name": "ecs-refarch-cloudformation",
+      "url": "https://github.com/aws-samples/ecs-refarch-cloudformation",
+      "description": " A reference architecture for deploying containerized microservices with Amazon ECS and AWS CloudFormation (YAML)",
+      "topics": [],
+      "rejected_at": "2026-03-21T02:18:24.267Z",
+      "reason": "Not AI-related. This is an AWS ECS and CloudFormation reference architecture."
+    },
+    {
+      "name": "CoinExchange_CryptoExchange_Java",
+      "url": "https://github.com/jammy928/CoinExchange_CryptoExchange_Java",
+      "description": "The best Java open source crypto currency exchange platform, bitcoin exchange based on Java | BTC exchange | ETH exchange | digital currency exchange | trading platform | matching trading engine. This project is based on the development of Spring Cloud microservices and can be used to build and secondary development of digital currency exchanges. It has a complete source code for matching trading engines, back-end management (back-end + front-end), front-end (transaction page, activity page, personal center, etc.), Android APP source code, Apple APP source code, currency wallet RPC source code. Contact Email: 877070886@qq.com",
+      "topics": [
+        "coinexchange",
+        "cryptocurrency",
+        "cryptocurrency-exchanges",
+        "otc"
+      ],
+      "rejected_at": "2026-03-21T02:18:24.267Z",
+      "reason": "Not AI-related. This is a cryptocurrency exchange platform."
+    },
+    {
+      "name": "hyperf",
+      "url": "https://github.com/hyperf/hyperf",
+      "description": "🚀 A coroutine framework that focuses on hyperspeed and flexibility. Building microservice or middleware with ease.",
+      "topics": [
+        "amqp",
+        "annotation",
+        "aop",
+        "attributes",
+        "coroutine",
+        "dependency-injection",
+        "framework",
+        "grpc",
+        "hyperf",
+        "json-rpc",
+        "microservice",
+        "microservices",
+        "opentracing",
+        "php",
+        "psr-14",
+        "psr-15",
+        "psr-7",
+        "swoole",
+        "swow",
+        "websocket"
+      ],
+      "rejected_at": "2026-03-21T02:18:24.267Z",
+      "reason": "Not AI-related. This is a PHP coroutine microservice framework."
+    },
+    {
+      "name": "spring-cloud-rest-tcc",
+      "url": "https://github.com/prontera/spring-cloud-rest-tcc",
+      "description": "以Spring Cloud Netflix作为服务治理基础, 展示基于tcc思想所实现的分布式事务解决方案",
+      "topics": [
+        "c4-diagram",
+        "c4model",
+        "distributed-transaction",
+        "microservice",
+        "spring-boot",
+        "spring-cloud",
+        "spring-cloud-netflix",
+        "tcc",
+        "try-confirm-cancel"
+      ],
+      "rejected_at": "2026-03-21T02:18:24.267Z",
+      "reason": "Not AI-related. This is a distributed transaction solution for Spring Cloud."
+    },
+    {
+      "name": "rpcx",
+      "url": "https://github.com/smallnest/rpcx",
+      "description": "Best microservices framework in Go, like alibaba Dubbo, but with more features, Scale easily. Try it. Test it. If you feel it's better, use it! 𝐉𝐚𝐯𝐚有𝐝𝐮𝐛𝐛𝐨, 𝐆𝐨𝐥𝐚𝐧𝐠有𝐫𝐩𝐜𝐱! build for cloud!",
+      "topics": [
+        "dubbo",
+        "grpc",
+        "microservice",
+        "microservices",
+        "rpc",
+        "service-discovery"
+      ],
+      "rejected_at": "2026-03-21T02:18:24.267Z",
+      "reason": "Not AI-related. This is a Go RPC/microservices framework."
+    },
+    {
+      "name": "staffjoy",
+      "url": "https://github.com/tensorhero-dev/staffjoy",
+      "description": "微服务(Microservices)和云原生架构教学案例项目，基于Spring Boot和Kubernetes技术栈",
+      "topics": [
+        "cloud-native",
+        "kubernetes",
+        "microservice",
+        "spring-boot"
+      ],
+      "rejected_at": "2026-03-21T02:18:24.267Z",
+      "reason": "Not AI-related. This is a microservices teaching project with Spring Boot and Kubernetes."
+    },
+    {
+      "name": "spring-boot-microservices-workshop",
+      "url": "https://github.com/koushikkothagal/spring-boot-microservices-workshop",
+      "description": null,
+      "topics": [],
+      "rejected_at": "2026-03-21T02:18:24.267Z",
+      "reason": "Not AI-related. This is a Spring Boot microservices workshop with no description."
+    },
+    {
+      "name": "microservices",
+      "url": "https://github.com/eazybytes/microservices",
+      "description": "Microservices With Spring, Docker, Kubernetes - Code Examples",
+      "topics": [
+        "docker",
+        "docker-compose",
+        "java",
+        "kubernetes",
+        "microservice",
+        "spring",
+        "spring-boot",
+        "spring-cloud"
+      ],
+      "rejected_at": "2026-03-21T02:18:24.267Z",
+      "reason": "Not AI-related. This is a microservices code examples project with Spring and Kubernetes."
+    },
+    {
+      "name": "Sentinel",
+      "url": "https://github.com/alibaba/Sentinel",
+      "description": "A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)",
+      "topics": [
+        "alibaba",
+        "circuit-breaker",
+        "cloud-native",
+        "java",
+        "microservice",
+        "microservices",
+        "rate-limiting",
+        "reliability",
+        "resiliency"
+      ],
+      "rejected_at": "2026-03-21T02:19:35.332Z",
+      "reason": "Not AI-related. This is a flow control and circuit-breaker component for microservices, focused on reliability engineering."
+    },
+    {
+      "name": "aws-eks-kubernetes-masterclass",
+      "url": "https://github.com/stacksimplify/aws-eks-kubernetes-masterclass",
+      "description": "AWS EKS Kubernetes - Masterclass | DevOps, Microservices",
+      "topics": [
+        "aws-alb",
+        "aws-alb-ingress-controller",
+        "aws-cloudwatch",
+        "aws-codebuild",
+        "aws-codecommit",
+        "aws-codepipeline",
+        "aws-ebs",
+        "aws-eks",
+        "aws-eks-cluster",
+        "aws-fargate",
+        "aws-rds",
+        "docker",
+        "fluentd",
+        "kubernetes",
+        "kubernetes-deployment",
+        "kubernetes-pods",
+        "kubernetes-secrets",
+        "kubernetes-services",
+        "yaml"
+      ],
+      "rejected_at": "2026-03-21T02:19:35.332Z",
+      "reason": "Not AI-related. This is a Kubernetes/AWS EKS learning resource for DevOps practitioners."
+    },
+    {
+      "name": "zheng",
+      "url": "https://github.com/shuzheng/zheng",
+      "description": "基于Spring+SpringMVC+Mybatis分布式敏捷开发系统架构，提供整套公共微服务服务模块：集中权限管理（单点登录）、内容管理、支付中心、用户管理（支持第三方登录）、微信平台、存储系统、配置中心、日志分析、任务和通知等，支持服务治理、监控和追踪，努力为中小型企业打造全方位J2EE企业级开发解决方案。",
+      "topics": [
+        "activemq",
+        "alioss",
+        "druid",
+        "dubbo",
+        "ehcache",
+        "fastdfs",
+        "microservices",
+        "mybatis",
+        "mybatis-generator",
+        "quartz",
+        "redis",
+        "sequence",
+        "shiro",
+        "solr",
+        "spring",
+        "spring-session",
+        "springmvc",
+        "swagger2",
+        "tbschedule",
+        "zookeeper"
+      ],
+      "rejected_at": "2026-03-21T02:19:35.333Z",
+      "reason": "Not AI-related. This is a Java-based enterprise development framework for microservices."
+    },
+    {
+      "name": "backstage",
+      "url": "https://github.com/backstage/backstage",
+      "description": "Backstage is an open framework for building developer portals",
+      "topics": [
+        "backstage",
+        "cncf",
+        "developer-experience",
+        "developer-portal",
+        "dx",
+        "hacktoberfest",
+        "infrastructure",
+        "microservices",
+        "self-service-portal"
+      ],
+      "rejected_at": "2026-03-21T02:19:35.333Z",
+      "reason": "Not AI-related. This is a developer portal framework for infrastructure management."
+    },
+    {
+      "name": "Activiti",
+      "url": "https://github.com/Activiti/Activiti",
+      "description": "Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process engine for Java. It's open-source and distributed under the Apache license. Activiti runs in any Java application, on a server, on a cluster or in the cloud. It integrates perfectly with Spring, it is extremely lightweight and based on simple concepts. ",
+      "topics": [
+        "activiti",
+        "bpm",
+        "bpmn",
+        "business-process",
+        "cloud",
+        "hxps",
+        "java",
+        "microservices",
+        "product-activiti",
+        "spring"
+      ],
+      "rejected_at": "2026-03-21T02:19:35.333Z",
+      "reason": "Not AI-related. This is a workflow and Business Process Management platform."
+    },
+    {
+      "name": "piggymetrics",
+      "url": "https://github.com/sqshq/piggymetrics",
+      "description": "Microservice Architecture with Spring Boot, Spring Cloud and Docker",
+      "topics": [
+        "docker",
+        "microservice",
+        "microservices",
+        "spring-boot",
+        "spring-cloud"
+      ],
+      "rejected_at": "2026-03-21T02:19:35.333Z",
+      "reason": "Not AI-related. This is a microservices architecture demo using Spring Boot and Docker."
+    },
+    {
+      "name": "robot-shop",
+      "url": "https://github.com/instana/robot-shop",
+      "description": "Sample microservices application for playing with",
+      "topics": [
+        "distributed-tracing",
+        "microservice-example",
+        "microservices",
+        "performance-monitoring",
+        "robot"
+      ],
+      "rejected_at": "2026-03-21T02:19:35.333Z",
+      "reason": "Not AI-related. This is a sample microservices application for testing and demonstration purposes."
+    },
+    {
+      "name": "opentelemetry-demo",
+      "url": "https://github.com/open-telemetry/opentelemetry-demo",
+      "description": "This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.",
+      "topics": [
+        "demo",
+        "jaeger",
+        "opentelemetry",
+        "opentelemetry-collector",
+        "opentelemetry-dotnet",
+        "opentelemetry-erlang",
+        "opentelemetry-go",
+        "opentelemetry-java-agent",
+        "opentelemetry-javascript",
+        "opentelemetry-python",
+        "opentelemetry-rust",
+        "prometheus"
+      ],
+      "rejected_at": "2026-03-21T02:19:35.333Z",
+      "reason": "Not AI-related. This is an OpenTelemetry observability demo for distributed systems."
+    },
+    {
+      "name": "system-design",
+      "url": "https://github.com/karanpratapsingh/system-design",
+      "description": "Learn how to design systems at scale and prepare for system design interviews",
+      "topics": [
+        "architecture",
+        "distributed-systems",
+        "engineering",
+        "interview",
+        "interview-preparation",
+        "microservices",
+        "scalability",
+        "system-design",
+        "system-design-interview",
+        "tech"
+      ],
+      "rejected_at": "2026-03-21T02:19:35.333Z",
+      "reason": "Not AI-related. This is a general system design learning resource, not specific to AI systems."
+    },
+    {
+      "name": "vercel-reverse-fast",
+      "url": "https://github.com/gaboolic/vercel-reverse-fast",
+      "description": "vercel加速OpenAI/ChatGPT",
+      "topics": [
+        "github-proxy",
+        "google-proxy",
+        "openai-proxy",
+        "reverse-proxy",
+        "vercel",
+        "vercel-proxy"
+      ],
+      "rejected_at": "2026-03-21T02:20:32.798Z",
+      "reason": "Simple proxy script for bypassing network restrictions, lacks substantial features and broader utility."
+    },
+    {
+      "name": "zzz-api",
+      "url": "https://github.com/xing61/zzz-api",
+      "description": "优质稳定的OpenAI、Claude等的API接口-For企业和开发者。OpenAI的api proxy，支持ChatGPT的API调用，支持Anthropic claude的官方接口形式，支持Google gemini的官方接口形式，支持：gpt-5，sora。不需要openai Key, 不需要买openai的账号，不需要美元的银行卡，通通不用的，直接调用就行，稳定好用！！智增增",
+      "topics": [
+        "anthropic",
+        "chatgpt",
+        "china",
+        "claude",
+        "finetune",
+        "finetuning",
+        "gemini",
+        "google",
+        "gpt",
+        "gpt4",
+        "gpt5",
+        "openai",
+        "openai-api",
+        "openai-proxy",
+        "prompt",
+        "proxy",
+        "xai"
+      ],
+      "rejected_at": "2026-03-21T02:20:32.798Z",
+      "reason": "Commercial API reseller service with misleading claims (gpt-5, sora), not a genuine open-source AI project."
+    },
+    {
+      "name": "cloudflare-reverse-fast",
+      "url": "https://github.com/gaboolic/cloudflare-reverse-fast",
+      "description": "cloudflare加速openai等接口",
+      "topics": [
+        "chatgpt-proxy",
+        "cloudflare",
+        "cloudflare-proxy",
+        "cloudflare-reverse-proxy",
+        "github-proxy",
+        "google-proxy",
+        "openai-proxy",
+        "reverse-proxy"
+      ],
+      "rejected_at": "2026-03-21T02:20:32.798Z",
+      "reason": "Simple Cloudflare worker script for network acceleration, minimal functionality and documentation."
+    },
+    {
+      "name": "Ocelot",
+      "url": "https://github.com/ThreeMammals/Ocelot",
+      "description": ".NET API Gateway",
+      "topics": [
+        "aspnetcore",
+        "dotnet",
+        "gateway",
+        "microservices",
+        "ocelot",
+        "reverse-proxy"
+      ],
+      "rejected_at": "2026-03-21T02:21:22.041Z",
+      "reason": "Not AI-related. This is a .NET API Gateway for microservices."
+    },
+    {
+      "name": "lanproxy",
+      "url": "https://github.com/ffay/lanproxy",
+      "description": "lanproxy是一个将局域网个人电脑、服务器代理到公网的内网穿透工具，支持tcp流量转发，可支持任何tcp上层协议（访问内网网站、本地支付接口调试、ssh访问、远程桌面、http代理、https代理、socks5代理...）。技术交流QQ群 736294209",
+      "topics": [
+        "firewall",
+        "frp",
+        "java",
+        "lanproxy",
+        "nat",
+        "ngrok",
+        "proxy",
+        "reverse-proxy",
+        "tunnel"
+      ],
+      "rejected_at": "2026-03-21T02:21:22.041Z",
+      "reason": "Not AI-related. This is a network tunneling/proxy tool for intranet penetration."
+    },
+    {
+      "name": "authentik",
+      "url": "https://github.com/goauthentik/authentik",
+      "description": "The authentication glue you need.",
+      "topics": [
+        "authentication",
+        "authentik",
+        "authorization",
+        "kubernetes",
+        "oauth2",
+        "oauth2-client",
+        "oauth2-server",
+        "oidc",
+        "oidc-client",
+        "oidc-provider",
+        "proxy",
+        "reverse-proxy",
+        "saml",
+        "saml-idp",
+        "saml-sp",
+        "security",
+        "sso"
+      ],
+      "rejected_at": "2026-03-21T02:21:22.041Z",
+      "reason": "Not AI-related. This is an authentication and authorization solution."
+    },
+    {
+      "name": "siteproxy",
+      "url": "https://github.com/netptop/siteproxy",
+      "description": "reverse proxy, online proxy, 反向代理,免翻墙访问Youtube/twitter/Google, 支持github和telegram web登录(请注意不要通过不信任的代理进行登录)。支持DuckDuckGo AI Chat(可免费访问chatGPT3.5和Claude3)",
+      "topics": [],
+      "rejected_at": "2026-03-21T02:21:22.041Z",
+      "reason": "Not AI-related. This is a reverse proxy tool for bypassing network restrictions."
+    },
+    {
+      "name": "SafeLine",
+      "url": "https://github.com/chaitin/SafeLine",
+      "description": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.",
+      "topics": [
+        "api-gateway",
+        "application-security",
+        "appsec",
+        "blueteam",
+        "bruteforce",
+        "captcha",
+        "cve",
+        "cybersecurity",
+        "firewall",
+        "hackers",
+        "http-flood",
+        "security",
+        "self-hosted",
+        "sql-injection",
+        "vulnerability",
+        "waf",
+        "web-application-firewall",
+        "web-security",
+        "websecurity",
+        "xss"
+      ],
+      "rejected_at": "2026-03-21T02:21:22.041Z",
+      "reason": "Not AI-related. This is a Web Application Firewall (WAF) and security tool."
+    },
+    {
+      "name": "hooker",
+      "url": "https://github.com/CreditTone/hooker",
+      "description": "🔥🔥 hooker is a Frida-based reverse engineering toolkit for Android. It offers a user-friendly CLI, universal scripts, auto hook generation, memory roaming to detect activities/services, one-click SOCKS5 proxy setup, Frida JustTrustMe, and BoringSSL unpinning for all apps.",
+      "topics": [
+        "android",
+        "apk",
+        "frida",
+        "justtrustme",
+        "xposed"
+      ],
+      "rejected_at": "2026-03-21T02:21:22.041Z",
+      "reason": "Not AI-related. This is an Android reverse engineering toolkit."
+    },
+    {
+      "name": "oauth2_proxy",
+      "url": "https://github.com/bitly/oauth2_proxy",
+      "description": "A reverse proxy that provides authentication with Google, Github or other provider",
+      "topics": [],
+      "rejected_at": "2026-03-21T02:21:22.042Z",
+      "reason": "Not AI-related. This is an OAuth2 authentication proxy."
+    },
+    {
+      "name": "cloudflared",
+      "url": "https://github.com/cloudflare/cloudflared",
+      "description": "Cloudflare Tunnel client",
+      "topics": [
+        "cloudflare",
+        "cloudflare-tunnel",
+        "reverse-proxy",
+        "zero-trust-network-access"
+      ],
+      "rejected_at": "2026-03-21T02:21:22.042Z",
+      "reason": "Not AI-related. This is a Cloudflare Tunnel client for network connectivity."
+    },
+    {
+      "name": "tyk",
+      "url": "https://github.com/TykTechnologies/tyk",
+      "description": "Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols",
+      "topics": [
+        "api",
+        "api-gateway",
+        "api-management",
+        "cloudnative",
+        "go",
+        "graphql",
+        "grpc",
+        "k8s",
+        "kubernetes",
+        "microservices",
+        "reverse-proxy",
+        "tyk"
+      ],
+      "rejected_at": "2026-03-21T02:21:22.042Z",
+      "reason": "Not AI-related. This is an API Gateway for microservices."
+    },
+    {
+      "name": "ReverseProxy",
+      "url": "https://github.com/ilanyu/ReverseProxy",
+      "description": "ReverseProxy in golang",
+      "topics": [],
+      "rejected_at": "2026-03-21T02:21:22.042Z",
+      "reason": "Not AI-related. This is a basic reverse proxy implementation in Go."
+    },
+    {
+      "name": "Url-Shorten-Worker",
+      "url": "https://github.com/xyTom/Url-Shorten-Worker",
+      "description": "A URL Shortener created using Cloudflare worker",
+      "topics": [
+        "api",
+        "bitly",
+        "cloudflare-worker",
+        "cloudflare-workers",
+        "javascript",
+        "serverless",
+        "shorten-urls",
+        "shortener",
+        "tinyurl",
+        "url-shortener"
+      ],
+      "rejected_at": "2026-03-21T02:22:19.329Z",
+      "reason": "Not AI-related. This is a URL shortener utility tool."
+    },
+    {
+      "name": "docs",
+      "url": "https://github.com/knative/docs",
+      "description": "User documentation for Knative components.",
+      "topics": [
+        "documentation",
+        "faas",
+        "hacktoberfest",
+        "istio",
+        "knative",
+        "kubernetes",
+        "paas",
+        "serverless"
+      ],
+      "rejected_at": "2026-03-21T02:22:19.329Z",
+      "reason": "Not AI-related. This is documentation for Knative serverless platform."
+    },
+    {
+      "name": "serving",
+      "url": "https://github.com/knative/serving",
+      "description": "Kubernetes-based, scale-to-zero, request-driven compute",
+      "topics": [
+        "app",
+        "autoscaler",
+        "container",
+        "developer-productivity",
+        "function",
+        "knative",
+        "kubernetes",
+        "networking",
+        "scale",
+        "serverless",
+        "serverless-containers"
+      ],
+      "rejected_at": "2026-03-21T02:22:19.329Z",
+      "reason": "Not AI-related. This is a general serverless compute platform."
+    },
+    {
+      "name": "aws-sam-cli",
+      "url": "https://github.com/aws/aws-sam-cli",
+      "description": "CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM",
+      "topics": [
+        "api-gateway",
+        "aws",
+        "docker",
+        "lambda",
+        "python",
+        "sam",
+        "serverless",
+        "serverlessapplicationmodel"
+      ],
+      "rejected_at": "2026-03-21T02:22:19.329Z",
+      "reason": "Not AI-related. This is a CLI tool for AWS serverless deployment."
+    },
+    {
+      "name": "surrealdb",
+      "url": "https://github.com/surrealdb/surrealdb",
+      "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+      "topics": [
+        "backend-as-a-service",
+        "cloud-database",
+        "database",
+        "database-as-a-service",
+        "developer-tools",
+        "devtools",
+        "distributed",
+        "distributed-database",
+        "document-database",
+        "graph-database",
+        "iot-database",
+        "nosql",
+        "realtime-database",
+        "serverless",
+        "sql",
+        "surreal",
+        "surrealdb",
+        "web"
+      ],
+      "rejected_at": "2026-03-21T02:22:19.329Z",
+      "reason": "Not AI-related. This is a general-purpose database system."
+    },
+    {
+      "name": "workers-sdk",
+      "url": "https://github.com/cloudflare/workers-sdk",
+      "description": "⛅️ Home to Wrangler, the CLI for Cloudflare Workers®",
+      "topics": [
+        "cli",
+        "cloudflare",
+        "cloudflare-workers",
+        "javascript",
+        "serverless",
+        "wasm"
+      ],
+      "rejected_at": "2026-03-21T02:22:19.329Z",
+      "reason": "Not AI-related. This is a CLI for Cloudflare Workers."
+    },
+    {
+      "name": "Zappa",
+      "url": "https://github.com/Miserlou/Zappa",
+      "description": "Serverless Python",
+      "topics": [
+        "api-gateway",
+        "aws-lambda",
+        "bottle",
+        "django",
+        "flask",
+        "lambda",
+        "pyramid",
+        "python",
+        "serverless",
+        "serverless-framework",
+        "zappa"
+      ],
+      "rejected_at": "2026-03-21T02:22:19.329Z",
+      "reason": "Not AI-related. This is a serverless Python deployment framework."
+    },
+    {
+      "name": "openwhisk",
+      "url": "https://github.com/apache/openwhisk",
+      "description": "Apache OpenWhisk is an open source serverless cloud platform",
+      "topics": [
+        "apache",
+        "cloud",
+        "docker",
+        "faas",
+        "functions",
+        "functions-as-a-service",
+        "kubernetes",
+        "openwhisk",
+        "serverless",
+        "serverless-architectures",
+        "serverless-functions"
+      ],
+      "rejected_at": "2026-03-21T02:22:19.329Z",
+      "reason": "Not AI-related. This is a general FaaS/serverless platform."
+    },
+    {
+      "name": "micronaut-core",
+      "url": "https://github.com/micronaut-projects/micronaut-core",
+      "description": "Micronaut Application Framework",
+      "topics": [
+        "cloudnative",
+        "groovy",
+        "java",
+        "kotlin",
+        "microservices",
+        "serverless"
+      ],
+      "rejected_at": "2026-03-21T02:22:19.329Z",
+      "reason": "Not AI-related. This is a general microservices application framework."
+    },
+    {
+      "name": "DevSecOps",
+      "url": "https://github.com/sottlmarek/DevSecOps",
+      "description": "Ultimate DevSecOps library",
+      "topics": [
+        "automation",
+        "awesome",
+        "awesome-list",
+        "aws",
+        "azure",
+        "ci-cd",
+        "cloud",
+        "containers",
+        "cybersecurity",
+        "devops",
+        "devsecops",
+        "docker",
+        "gcp",
+        "k8s",
+        "kubernetes",
+        "security",
+        "serverless",
+        "ssdlc",
+        "tool"
+      ],
+      "rejected_at": "2026-03-21T02:22:19.329Z",
+      "reason": "Not AI-related. This is a DevSecOps resource library."
+    },
+    {
+      "name": "openclaw-guardian",
+      "url": "https://github.com/LeoYeAI/openclaw-guardian",
+      "description": "🛡️ Guardian watchdog for OpenClaw Gateway — auto-monitor, self-repair via doctor --fix, git-based rollback, daily snapshots, and Discord alerts. Powered by MyClaw.ai",
+      "topics": [
+        "ai-agent",
+        "bash",
+        "devops",
+        "guardian",
+        "openclaw",
+        "self-healing",
+        "watchdog"
+      ],
+      "rejected_at": "2026-03-21T02:23:20.153Z",
+      "reason": "Primarily a DevOps monitoring/watchdog tool with minimal AI functionality. The AI-agent tag appears overstated."
+    },
+    {
+      "name": "WeChatMsg",
+      "url": "https://github.com/LC044/WeChatMsg",
+      "description": null,
+      "topics": [
+        "chatgpt",
+        "llms",
+        "pyqt",
+        "wechat"
+      ],
+      "rejected_at": "2026-03-21T02:24:43.928Z",
+      "reason": "Missing description, appears to be a localized WeChat utility tool rather than a core AI project."
+    },
+    {
+      "name": "architecture.of.internet-product",
+      "url": "https://github.com/davideuler/architecture.of.internet-product",
+      "description": "互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/OpenAI/Google/Facebook/Amazon/eBay的架构，欢迎PR补充",
+      "topics": [
+        "architecture",
+        "architecture-guidelines",
+        "architecture-of-internet-product",
+        "chatgpt",
+        "dall-e-3",
+        "gpt",
+        "gpt-4",
+        "internet-architecutre",
+        "llm",
+        "sora"
+      ],
+      "rejected_at": "2026-03-21T02:24:43.928Z",
+      "reason": "Not an AI project - it's a general architecture documentation repository with AI topics added for visibility."
+    },
+    {
+      "name": "u-claw",
+      "url": "https://github.com/dongsheng123132/u-claw",
+      "description": "🦞 U-Claw 虾盘 - OpenClaw AI 助手离线安装 U 盘 | 提供远程维护·定制开发·企业私有化部署服务 | Remote support & custom AI development",
+      "topics": [
+        "ai-assistant",
+        "china",
+        "deepseek",
+        "feishu",
+        "kimi",
+        "offline-installer",
+        "openclaw",
+        "portable",
+        "qq-bot",
+        "usb"
+      ],
+      "rejected_at": "2026-03-21T02:26:28.120Z",
+      "reason": "Localized commercial installer wrapper, not a core AI project."
+    }
+  ]
+}

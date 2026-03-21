@@ -21,6 +21,116 @@ This project is now an **Intelligent, Auto-updating AI Project Directory**. Thro
 
 Welcome to explore and discover the perfect AI tools to boost your efficiency!
 
+## 🏗️ Architecture & Execution Logic
+
+This project operates entirely through the collaboration of automated scripts and Large Language Models. Below is a visual flowchart demonstrating the complete data lifecycle—from discovery to frontend rendering:
+
+```mermaid
+graph TD
+    classDef default fill:#f9f9f9,stroke:#e0e0e0,stroke-width:1px;
+    classDef database fill:#e1f5fe,stroke:#4fc3f7,stroke-width:2px;
+    classDef ai fill:#fff3e0,stroke:#ffb74d,stroke-width:2px;
+    classDef process fill:#e8f5e9,stroke:#81c784,stroke-width:2px;
+    
+    subgraph Discovery [1. Auto-Evolving Discovery Layer]
+        T[(topics.json<br/>Knowledge Pool)]:::database -->|Provide un-explored topics| Fetch[GitHub Crawl Script]:::process
+        Fetch -.->|Inject newly found topics| T
+        Fetch -->|Enqueue High-Star Projects| Q[(pending-projects.json<br/>Queue)]:::database
+    end
+
+    subgraph Evaluation [2. AI Batch Evaluation Layer]
+        Q -->|Pop N Batch Projects| P[Combined AI Prompt]:::process
+        DB[(projects.json<br/>Core Database)]:::database -.->|Inject dynamic categories| P
+        P --> LLM((LLM AI Engine<br/>Tag / Summarize / Rate)):::ai
+        LLM --> Condition{AI Decides}
+    end
+
+    subgraph Storage [3. Isolation Storage Layer]
+        Condition -->|Rejected or Poor Quality| R[(rejected-projects.json<br/>Audit Trash)]:::database
+        Condition -->|Valuable AI Projects| DB
+    end
+
+    subgraph Frontend [4. Automated View Layer]
+        DB -->|Dynamically Reflect Categories| Vite[VitePress Nav & Sidebar]:::process
+        DB -->|Group by Subcategory| Gen[generate-docs.js]:::process
+        Vite --> Site([🌍 Hello-AI Website])
+        Gen -->|Generate Markdown Pages| Site
+    end
+```
+
+Its core mechanism, data flow, and system architecture details are as follows:
+
+### 1. Dynamic Auto-Evolving Discovery Layer
+- **Topic Mining:** Using a predefined seed list in `data/topics.json`, the crawler iterates over the GitHub API, prioritizing the "least recently explored" topics to search for new repositories with `Stars >= 500`.
+- **Knowledge Base Growth:** When unseen topics are detected from newly fetched projects, the system automatically registers them into `topics.json` as 'Level 2' (secondary exploration targets).
+- **Pending Queue:** All discovered new repositories flow directly into `data/pending-projects.json` for validation.
+
+### 2. Local/Cloud AI Batch Evaluation Engine
+- **Concurrent Batch Processing:** The core script `discover-and-evaluate.js` pops a configured number of items (via `EVALUATE_BATCH_SIZE`) from the pending pool and creates a combined prompt for the LLM. This batch design drastically reduces API frequency limits and reuses token context.
+- **Dynamic Category Routing:** The system never "hard-codes" categories. Upon each evaluation, it dynamically reads the valid categories and subcategories from `data/projects.json` and instructs the AI to route projects accordingly.
+- **Tagging & Auditing:** The AI automatically extracts tags, generates optimal Chinese descriptions, and assigns the project to the most suitable subcategory. If an item is deemed unworthy or un-categorizable by the AI, it gets discarded into an isolation audit log (`data/rejected-projects.json`).
+- **Objective Trending List:** A daily objective calculation forces the recalculation of the top 30 highest-star, recently updated projects, automatically placing them into the `🔥 Trending` category, overriding AI randomness.
+
+### 3. Automated Frontend Rendering & View Decoupling
+- **Adaptive Routing Presentation:** Built with VitePress, the Navbar and Sidebar have been rewritten from static mappings. Whenever categories are added or removed from `projects.json`, the VitePress compiler dynamically analyzes it and renders the UI perfectly, preventing data-to-UI discrepancies.
+- **Smart Markdown Folding:** `generate-docs.js` iterates over major categories. When generating the category's markdown page, it groups items under `## Subcategory` headers according to the `subcategory` assigned by the AI, ensuring an organized layout even with hundreds of projects.
+
+### 4. Automation Pipeline
+- For hands-free, continuous discovery (e.g., avoiding rate-limit drops), you can utilize process daemon scripts like `scripts/loop-eval.js` which leverage continuous sleep loops. This achieves a permanent closed-loop operation of: **Discover -> Buffer -> AI Evaluate -> Static Page Build**, endlessly exploring the ocean of open source code.
+
+---
+
+## 🚀 Local Deployment & Running Guide
+
+You are completely welcome to run this entire auto-expanding AI knowledge base framework locally! It is very simple to start:
+
+### 1. Environment & Setup
+A Node.js environment is required (v18.x or above is recommended).
+```bash
+git clone https://github.com/xxxily/hello-ai.git
+cd hello-ai
+npm install
+```
+
+### 2. Environment Variables Configuration
+Copy from the template:
+```bash
+cp .env.example .env
+```
+Open `.env` and adjust the core configurations:
+- **`GITHUB_TOKEN=`** `(Highly Recommended)`: Bypasses the strict rate limits applied to anonymous GitHub search API calls.
+- **`LLM_API_KEY=`**: Your target LLM API Key (used for analyzing and curating projects).
+  - *💡 Zero-Cost Prompt: If you are using a local LLM setup (e.g. Ollama via llama3), you can simply use `LLM_API_KEY=local-fallback`.*
+- **`LLM_BASE_URL=`**: LLM endpoint (e.g. `https://api.openai.com/v1`, or local `http://127.0.0.1:11434/v1`).
+- **`LLM_MODEL=`**: Standard model identity to use (e.g. `gpt-4o-mini`).
+- **`DISCOVER_BATCH_SIZE`** / **`EVALUATE_BATCH_SIZE`**: Modify limits per pull from GitHub and per LLM prompt bulk execution batch.
+
+### 3. Run Automation Pipelines
+Choose how you want to execute scripts:
+- **Single Manual Execution**:
+  ```bash
+  npm run ai:discover-eval
+  ```
+- **Constant Background Daemon** (Continuous fetch & evaluate):
+  ```bash
+  npm run ai:loop-eval
+  ```
+
+### 4. Dynamic Pages Generation & Local Preview
+Once your AI has finished evaluating and saving into the core databank, preview the outcome locally!
+```bash
+# Iterates projects.json database, groups it into subcategories and auto-renders individual Markdown documents
+npm run ai:generate-docs
+
+# Boot local VitePress web server (live reloading with newly tracked projects)
+npm run docs:dev
+
+# Prepend distribution artifacts for production site deployment (under docs folder)
+npm run docs:build
+```
+
+---
+
 ## 🌟 Explore AI Projects
 
 Please use the navigation bar or sidebar of this site to browse this oasis of open-source code meticulously curated for you by our AI agent.
@@ -38,7 +148,6 @@ Our crawlers and scoring models regularly sweep GitHub for trending projects, ke
 
 > Please specify your intent to join the WeChat group to avoid unwanted invitations and information harassment.  
 > Telegram group link: [https://t.me/auto_gpt_ai](https://t.me/auto_gpt_ai)  
-> TG_bot for conversing with GPT-4: [https://t.me/h5player_bot](https://t.me/h5player_bot)
 
 <p align="center">
   <a href="https://trackgit.com">

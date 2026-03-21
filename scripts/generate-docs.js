@@ -18,31 +18,67 @@ function generateMarkdown(category) {
     return md;
   }
 
-  // Sort projects by stars (descending) by default
-  const sortedProjects = category.projects.sort((a, b) => (b.stars || 0) - (a.stars || 0));
+  // Sort function
+  const sortFn = (a, b) => (b.stars || 0) - (a.stars || 0);
 
-  sortedProjects.forEach((project) => {
-    md += `## [${project.name}](${project.url})\n\n`;
-    md += `${project.description}\n\n`;
+  // Group by subcategory
+  const groups = {};
+  category.projects.forEach(p => {
+    const sub = p.subcategory || '未分类 (Others)';
+    if (!groups[sub]) groups[sub] = [];
+    groups[sub].push(p);
+  });
+
+  // Decide if we should show subcategory headers
+  // E.g. for "trending" we might just have "未分类 (Others)", we can skip the header if there's only one group named "未分类 (Others)".
+  const groupKeys = Object.keys(groups);
+  const showGroupTittle = !(category.id === 'trending' || (groupKeys.length === 1 && groupKeys[0] === '未分类 (Others)'));
+
+  // Define logic for writing a single project
+  const writeProject = (project, headingLevel) => {
+    let out = `${headingLevel} [${project.name}](${project.url})\n\n`;
+    out += `${project.description}\n\n`;
 
     const tags = Array.isArray(project.tags) ? project.tags.map(t => `\`${t}\``).join(' ') : '';
-    // Use stars and format it nicely (e.g., 1.2k)
     const stars = project.stars ? (project.stars >= 1000 ? (project.stars / 1000).toFixed(1) + 'k' : project.stars) : 'N/A';
     
-    md += `- **Stars:** ⭐️ ${stars}\n`;
-    md += `- **Tags:** ${tags || '无'}\n`;
+    out += `- **Stars:** ⭐️ ${stars}\n`;
+    out += `- **Tags:** ${tags || '无'}\n`;
     
     if (project.lastUpdated && project.lastUpdated !== 'unknown') {
         const d = new Date(project.lastUpdated);
         if (!isNaN(d.getTime())) {
-            md += `- **最后活动时间:** ${d.toISOString().slice(0, 10)}\n`;
+            out += `- **最后活动时间:** ${d.toISOString().slice(0, 10)}\n`;
         } else {
-            md += `- **最后活动时间:** ${project.lastUpdated}\n`;
+            out += `- **最后活动时间:** ${project.lastUpdated}\n`;
         }
     }
-    
-    md += `\n`;
-  });
+    out += `\n`;
+    return out;
+  };
+
+  if (!showGroupTittle) {
+    // Just sort and render ALL directly using ##
+    const sortedProjects = category.projects.sort(sortFn);
+    sortedProjects.forEach((project) => {
+      md += writeProject(project, '##');
+    });
+  } else {
+    // Sort keys so "未分类 (Others)" goes last
+    const orderedKeys = groupKeys.sort((a, b) => {
+      if (a === '未分类 (Others)') return 1;
+      if (b === '未分类 (Others)') return -1;
+      return a.localeCompare(b);
+    });
+
+    orderedKeys.forEach(sub => {
+      md += `## ${sub}\n\n`;
+      const sortedSubProjects = groups[sub].sort(sortFn);
+      sortedSubProjects.forEach((project) => {
+        md += writeProject(project, '###');
+      });
+    });
+  }
 
   return md;
 }
