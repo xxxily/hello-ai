@@ -13,10 +13,14 @@ function generateMarkdown(category) {
   let md = `# ${category.name}\n\n`;
   md += `> ${category.description}\n\n`;
 
-  if (!category.projects || category.projects.length === 0) {
+  const count = category.projects ? category.projects.length : 0;
+
+  if (count === 0) {
     md += `*目前该分类下暂无收录项目，但我们的 AI 正在努力搜罗中，敬请期待！*\n`;
     return md;
   }
+
+  md += `> 当前分类已收录 **${count}** 个相关项目。\n\n`;
 
   // Sort function
   const sortFn = (a, b) => (b.stars || 0) - (a.stars || 0);
@@ -41,17 +45,17 @@ function generateMarkdown(category) {
 
     const tags = Array.isArray(project.tags) ? project.tags.map(t => `\`${t}\``).join(' ') : '';
     const stars = project.stars ? (project.stars >= 1000 ? (project.stars / 1000).toFixed(1) + 'k' : project.stars) : 'N/A';
-    
+
     out += `- **Stars:** ⭐️ ${stars}\n`;
     out += `- **Tags:** ${tags || '无'}\n`;
-    
+
     if (project.lastUpdated && project.lastUpdated !== 'unknown') {
-        const d = new Date(project.lastUpdated);
-        if (!isNaN(d.getTime())) {
-            out += `- **最后活动时间:** ${d.toISOString().slice(0, 10)}\n`;
-        } else {
-            out += `- **最后活动时间:** ${project.lastUpdated}\n`;
-        }
+      const d = new Date(project.lastUpdated);
+      if (!isNaN(d.getTime())) {
+        out += `- **最后活动时间:** ${d.toISOString().slice(0, 10)}\n`;
+      } else {
+        out += `- **最后活动时间:** ${project.lastUpdated}\n`;
+      }
     }
     out += `\n`;
     return out;
@@ -102,14 +106,40 @@ function build() {
     fs.mkdirSync(docsDir, { recursive: true });
   }
 
+  const uniqueProjectUrls = new Set();
+  const stats = {
+    totalProjects: 0,
+    categories: {},
+    lastUpdated: new Date().toISOString()
+  };
+
   data.categories.forEach((category) => {
+    let catProjectCount = 0;
+    if (category.projects) {
+      catProjectCount = category.projects.length;
+      category.projects.forEach(p => {
+        if (p.url) uniqueProjectUrls.add(p.url);
+      });
+    }
+
+    stats.categories[category.id] = {
+      name: category.name,
+      count: catProjectCount
+    };
+
     const mdContent = generateMarkdown(category);
     const outputPath = path.join(docsDir, `${category.id}.md`);
     fs.writeFileSync(outputPath, mdContent, 'utf-8');
     console.log(`Generated: ${outputPath}`);
   });
 
-  console.log('Docs generation completed successfully.');
+  stats.totalProjects = uniqueProjectUrls.size;
+  const statsPath = path.join(__dirname, '../data/stats.json');
+  fs.writeFileSync(statsPath, JSON.stringify(stats, null, 2), 'utf-8');
+  console.log(`Generated stats: ${statsPath}`);
+
+  console.log('\nDocs generation completed successfully.');
+  console.log(`Total projects collected (unique): ${uniqueProjectUrls.size}`);
 }
 
 build();
