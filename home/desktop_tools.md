@@ -2,7 +2,7 @@
 
 > AI tools directly integrated with desktop OS or local environments.
 
-> 当前分类已收录 **153** 个相关项目。
+> 当前分类已收录 **154** 个相关项目。
 
 ## Local GUI Apps
 
@@ -613,6 +613,14 @@ Open WebUI桌面客户端，提供本地化的AI聊天界面体验。
 - **Stars:** ⭐️ 722
 - **Tags:** `OCR` `Local-AI` `Offline` `DeepSeek`
 - **最后活动时间:** 2026-02-21
+
+### [JamTools](https://github.com/fandesfyf/JamTools)
+
+跨平台开源工具集，集成OCR文字识别、多语言翻译、聊天机器人等AI功能，同时支持截屏录屏、文件传输和格式转换。
+
+- **Stars:** ⭐️ 721
+- **Tags:** `ocr` `chatbot` `translator` `screencapture` `python` `cross-platform`
+- **最后活动时间:** 2025-09-26
 
 ### [OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper)
 
