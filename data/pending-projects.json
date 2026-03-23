@@ -1,3 +1,34 @@
 {
-  "queue": []
+  "queue": [
+    {
+      "name": "gitleaks",
+      "html_url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
+      "topics": [
+        "ai-powered",
+        "ci-cd",
+        "cicd",
+        "cli",
+        "data-loss-prevention",
+        "devsecops",
+        "dlp",
+        "git",
+        "gitleaks",
+        "go",
+        "golang",
+        "hacktoberfest",
+        "llm",
+        "llm-inference",
+        "llm-training",
+        "nhi",
+        "open-source",
+        "secret",
+        "security",
+        "security-tools"
+      ],
+      "stargazers_count": 25526,
+      "pushed_at": "2026-03-21T02:23:42Z",
+      "added_to_queue": "2026-03-23T10:57:42.532Z"
+    }
+  ]
 }

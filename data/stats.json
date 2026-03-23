@@ -1,5 +1,5 @@
 {
-  "totalProjects": 4212,
+  "totalProjects": 4214,
   "categories": {
     "trending": {
       "name": "🔥 热门推荐",
@@ -7,7 +7,7 @@
     },
     "llms": {
       "name": "🧠 基础大模型",
-      "count": 84
+      "count": 85
     },
     "agents": {
       "name": "🤖 智能体与编排",
@@ -51,8 +51,8 @@
     },
     "finance_business": {
       "name": "💼 商业与量化",
-      "count": 63
+      "count": 64
     }
   },
-  "lastUpdated": "2026-03-23T08:36:22.006Z"
+  "lastUpdated": "2026-03-23T10:57:50.158Z"
 }
