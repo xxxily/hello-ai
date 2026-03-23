@@ -1,5 +1,5 @@
 {
-  "totalProjects": 4204,
+  "totalProjects": 4212,
   "categories": {
     "trending": {
       "name": "🔥 热门推荐",
@@ -19,7 +19,7 @@
     },
     "infrastructure": {
       "name": "☁️ 基础设施与部署",
-      "count": 443
+      "count": 444
     },
     "finetuning": {
       "name": "🔧 微调与训练",
@@ -31,19 +31,19 @@
     },
     "devtools": {
       "name": "🛠️ 开发工具与SDK",
-      "count": 756
+      "count": 758
     },
     "applications": {
       "name": "🎨 AI终端应用",
-      "count": 345
+      "count": 346
     },
     "learning": {
       "name": "📚 学习与资源",
-      "count": 725
+      "count": 728
     },
     "desktop_tools": {
       "name": "💻 桌面与操作系统级应用",
-      "count": 152
+      "count": 153
     },
     "robotics_iot": {
       "name": "🦾 机器人与物联网",
@@ -54,5 +54,5 @@
       "count": 63
     }
   },
-  "lastUpdated": "2026-03-23T03:06:11.108Z"
+  "lastUpdated": "2026-03-23T08:36:22.006Z"
 }

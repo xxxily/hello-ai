@@ -19,6 +19,7 @@ yarn-error.log*
 .env.local
 .env.*.local
 .vitepress/cache
+.agents/*
 
 # Deployment scripts (private)
 scripts/deploy-*.sh

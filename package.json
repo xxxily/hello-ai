@@ -52,7 +52,8 @@
     "ai:loop-eval": "node scripts/loop-eval.js",
     "ai:loop-eval-tui": "node scripts/loop-eval.js --tui",
     "ai:re-evaluate-all": "node scripts/re-evaluate-all.js",
-    "ai:consume-queue": "node scripts/loop-eval.js --consume-only"
+    "ai:consume-queue": "node scripts/loop-eval.js --consume-only",
+    "publish": "bash scripts/publish.sh"
   },
   "devDependencies": {
     "@babel/core": "^7.20.2",
