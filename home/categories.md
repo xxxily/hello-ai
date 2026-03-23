@@ -12,20 +12,10 @@ import categoriesData from '../data/categories.json'
 import stats from '../data/stats.json'
 
 const router = useRouter()
-const accessingId = ref(null)
 
 const handleAccess = (cat, event) => {
   event.preventDefault()
-  
-  // 防止重复点击
-  if (accessingId.value) return 
-  
-  accessingId.value = cat.id
-  
-  // 持续 1.2s 的科技感连接动画后再执行页面跳转
-  setTimeout(() => {
-    router.go(cat.link)
-  }, 1200)
+  router.go(cat.link)
 }
 
 const categories = computed(() => {
@@ -83,7 +73,7 @@ onMounted(() => {
   <div class="cyber-grid"></div>
   <div class="tech-list-container" :class="{ 'is-mounted': isMounted }">
     <div class="scan-line"></div>
-    <div v-for="(cat, index) in categories" :key="cat.id" @click="handleAccess(cat, $event)" class="tech-list-item" :class="{ 'is-active': accessingId === cat.id, 'is-dimmed': accessingId && accessingId !== cat.id }" :style="{ transitionDelay: accessingId ? '0s' : `${index * 0.03}s` }">
+    <div v-for="(cat, index) in categories" :key="cat.id" @click="handleAccess(cat, $event)" class="tech-list-item" :style="{ transitionDelay: `${index * 0.03}s` }">
       <div class="item-glass-panel"></div>
       <div class="item-border-glow"></div>
       <div class="item-content">
@@ -100,12 +90,8 @@ onMounted(() => {
           <div class="data-dash"></div>
         </div>
         <div class="item-action">
-          <span class="action-text" v-if="accessingId === cat.id">CONNECTING...</span>
-          <span class="action-text" v-else>ACCESS</span>
-          <span class="action-icon" v-if="accessingId !== cat.id">→</span>
-          <div class="spinner-box" v-else>
-            <div class="cyber-spinner"></div>
-          </div>
+          <span class="action-text">ACCESS</span>
+          <span class="action-icon">→</span>
         </div>
       </div>
     </div>
@@ -497,70 +483,6 @@ onMounted(() => {
   }
 }
 
-/* 连接动效专属样式 */
-.tech-list-item.is-dimmed {
-  opacity: 0.15 !important;
-  transform: scale(0.96) !important;
-  pointer-events: none;
-  filter: grayscale(100%);
-}
 
-.tech-list-item.is-active {
-  transform: translateX(15px) scale(1.02) !important;
-  border-color: rgba(0, 242, 254, 0.8) !important;
-  box-shadow: 0 10px 30px rgba(0, 242, 254, 0.2), inset 0 0 20px rgba(0, 242, 254, 0.1) !important;
-  background: var(--vp-c-bg-soft) !important;
-  z-index: 10;
-  animation: pulse-cyber-border 0.4s infinite alternate;
-}
-
-@keyframes pulse-cyber-border {
-  from { border-color: rgba(0, 242, 254, 0.3); box-shadow: 0 0 20px rgba(0, 242, 254, 0.1); }
-  to { border-color: rgba(0, 242, 254, 1); box-shadow: 0 0 40px rgba(0, 242, 254, 0.4), inset 0 0 30px rgba(0, 242, 254, 0.2); }
-}
-
-.is-active .item-glass-panel,
-.is-active .item-border-glow {
-  opacity: 1 !important;
-}
-
-.is-active .item-data-line {
-  opacity: 1 !important;
-  transform: scaleX(1) !important;
-}
-
-.is-active .data-dash {
-  animation: dataFlow 0.15s linear infinite !important; /* 加速数据游走 */
-  opacity: 1 !important;
-}
-
-.is-active .action-text {
-  opacity: 1 !important;
-  transform: translateX(0) !important;
-  color: var(--vp-c-brand-1) !important;
-  text-shadow: 0 0 8px rgba(0, 242, 254, 0.6);
-  animation: blink 0.5s infinite alternate;
-}
-
-.spinner-box {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin-left: 8px;
-}
-
-.cyber-spinner {
-  width: 18px;
-  height: 18px;
-  border: 2px solid rgba(0, 242, 254, 0.2);
-  border-radius: 50%;
-  border-top-color: #00f2fe;
-  border-right-color: #4facfe;
-  animation: cyber-spin 0.6s cubic-bezier(0.4, 0, 0.2, 1) infinite;
-}
-
-@keyframes cyber-spin {
-  to { transform: rotate(360deg); }
-}
 
 </style>

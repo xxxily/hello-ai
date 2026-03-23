@@ -22,7 +22,7 @@ const EVALUATE_BATCH_SIZE = parseInt(process.env.EVALUATE_BATCH_SIZE || '5', 10)
 function loadJson(filePath, defaultVal = null) {
   if (fs.existsSync(filePath)) {
     try { return JSON.parse(fs.readFileSync(filePath, 'utf-8')); }
-    catch(e) { return defaultVal; }
+    catch (e) { return defaultVal; }
   }
   return defaultVal;
 }
@@ -71,7 +71,7 @@ async function discover() {
     console.log('⏭️ [Discovery] Skipped GitHub API discovery due to --consume-only flag.');
     return;
   }
-  
+
   console.log(`🔍 [Task Pool] Searching for trending AI projects (Max ${DISCOVER_BATCH_SIZE})...`);
 
   const headers = { 'Accept': 'application/vnd.github.v3+json' };
@@ -80,21 +80,46 @@ async function discover() {
   }
 
   const topicsDb = loadJson(topicsFile, { active: { "ai": { level: 1, lastExplored: "1970-01-01T00:00:00Z" } }, niche: {}, exhausted: {} });
-  
+
   // Select topic
   const activeTopics = Object.keys(topicsDb.active);
   if (activeTopics.length === 0) {
     console.error(`❌ Topics DB has no active topics!`);
     return;
   }
-  
-  // Sort by lastExplored ascending
-  activeTopics.sort((a, b) => new Date(topicsDb.active[a].lastExplored || 0) - new Date(topicsDb.active[b].lastExplored || 0));
-  
-  // Pick the oldest explored topic to search
+
+  // CLI Args Parsing for topic selection
+  const sortTopicByMatch = process.argv.find(arg => arg.startsWith('--sort-topic-by='));
+  const sortTopicBy = sortTopicByMatch ? sortTopicByMatch.split('=')[1] : 'time'; // 'time' or 'quality'
+
+  const topicOrderMatch = process.argv.find(arg => arg.startsWith('--topic-order='));
+  const topicOrder = topicOrderMatch ? topicOrderMatch.split('=')[1] : (sortTopicBy === 'quality' ? 'desc' : 'asc');
+
+  // Sort topics
+  activeTopics.sort((a, b) => {
+    const topicA = topicsDb.active[a];
+    const topicB = topicsDb.active[b];
+
+    let valA, valB;
+    if (sortTopicBy === 'quality') {
+      valA = topicA.score || 0;
+      valB = topicB.score || 0;
+    } else {
+      valA = new Date(topicA.lastExplored || 0).getTime();
+      valB = new Date(topicB.lastExplored || 0).getTime();
+    }
+
+    if (valA === valB) {
+      // secondary sort by time ascending
+      return new Date(topicA.lastExplored || 0).getTime() - new Date(topicB.lastExplored || 0).getTime();
+    }
+    return topicOrder === 'desc' ? valB - valA : valA - valB;
+  });
+
+  // Pick the topic to search
   const pickedTopic = activeTopics[0];
-  console.log(`🏷️  Selected Topic for exploration: ${pickedTopic}`);
-  
+  console.log(`🏷️  Selected Topic for exploration: ${pickedTopic} (Sort By: ${sortTopicBy} ${topicOrder})`);
+
   // Update exploration time
   topicsDb.active[pickedTopic].lastExplored = new Date().toISOString();
 
@@ -108,37 +133,54 @@ async function discover() {
 
   const searchUrl = `https://api.github.com/search/repositories?q=${q}+stars:>=${minStars}&sort=${randomSort}&order=desc&per_page=${DISCOVER_BATCH_SIZE}&page=${randomPage}`;
 
-  console.log(`🌐 Calling GitHub API: "${q}", sort:${randomSort}, page:${randomPage}, stars:>=${minStars}`);
+  console.log(`🔍 [GitHub Search] Using keyword/topic: "${q}"`);
+  console.log(`🌐 Calling GitHub API: sort:${randomSort}, page:${randomPage}, stars:>=${minStars}`);
   try {
     const res = await fetch(searchUrl, { headers });
     if (!res.ok) throw new Error(`GitHub search failed: ${res.statusText}`);
     const data = await res.json();
 
+    if (data.items && data.items.length > 0) {
+      const summary = data.items.map(item => `   - ${item.full_name} [★ ${item.stargazers_count}]`).join('\n');
+      console.log(`📋 Search Results Summary:\n${summary}`);
+    }
+
     const projectDb = loadJson(dataFile);
     const pendingDb = loadJson(queueFile, { queue: [] });
 
-    const existingUrls = new Set();
+    const projectUrlMap = new Map();
     projectDb.categories.forEach(c => {
-      if (c.projects) c.projects.forEach(p => existingUrls.add(p.url.toLowerCase()));
+      if (c.projects) c.projects.forEach(p => projectUrlMap.set(p.url.toLowerCase(), p));
     });
-    pendingDb.queue.forEach(item => existingUrls.add(item.html_url.toLowerCase()));
+
+    const pendingUrls = new Set();
+    pendingDb.queue.forEach(item => pendingUrls.add(item.html_url.toLowerCase()));
 
     let queuedCount = 0;
     let newTopicsCount = 0;
+    let updatedProjectCount = 0;
 
     for (const item of data.items) {
       // Collect new topics into topicsDB
       if (Array.isArray(item.topics)) {
         item.topics.forEach(t => {
           if (!topicsDb.active[t] && !topicsDb.niche[t] && !topicsDb.exhausted[t]) {
-            topicsDb.active[t] = { level: 2, lastExplored: "1970-01-01T00:00:00Z", added: new Date().toISOString() };
+            topicsDb.active[t] = { level: 2, lastExplored: "1970-01-01T00:00:00Z", added: new Date().toISOString(), score: 0 };
             newTopicsCount++;
           }
         });
       }
 
       const url = item.html_url.toLowerCase();
-      if (!existingUrls.has(url)) {
+      const existingProject = projectUrlMap.get(url);
+
+      if (existingProject) {
+        // Already approved project, update its stats directly
+        existingProject.stars = item.stargazers_count;
+        existingProject.lastUpdated = item.pushed_at;
+        existingProject._lastChecked = new Date().toISOString();
+        updatedProjectCount++;
+      } else if (!pendingUrls.has(url)) {
         pendingDb.queue.push({
           name: item.name,
           html_url: item.html_url,
@@ -148,13 +190,18 @@ async function discover() {
           pushed_at: item.pushed_at,
           added_to_queue: new Date().toISOString()
         });
-        existingUrls.add(url);
+        pendingUrls.add(url);
         queuedCount++;
       }
     }
-    
+
     saveJson(topicsFile, topicsDb);
     if (newTopicsCount > 0) console.log(`🏷️  Added ${newTopicsCount} new topics to active DB.`);
+
+    if (updatedProjectCount > 0) {
+      saveJson(dataFile, projectDb); // Save the updated project stats
+      console.log(`🔄 Synced updated stats for ${updatedProjectCount} existing projects.`);
+    }
 
     if (queuedCount > 0) {
       saveJson(queueFile, pendingDb);
@@ -180,11 +227,11 @@ async function evaluate() {
 
   const projectDb = loadJson(dataFile);
   const rejectedDb = loadJson(rejectedFile, { rejected: [] });
-  
+
   // Dynamic categories string for prompt
   const validCategoriesStr = projectDb.categories
     .filter(c => c.id !== 'trending')
-    .map(c => `- ${c.id} (${c.name}) - Subcategories: [${(c.subcategories||[]).join(', ')}]`)
+    .map(c => `- ${c.id} (${c.name}) - Subcategories: [${(c.subcategories || []).join(', ')}]`)
     .join('\n');
 
   const totalPending = pendingDb.queue.length;
@@ -194,7 +241,7 @@ async function evaluate() {
   // Grab up to EVALUATE_BATCH_SIZE items
   const batch = pendingDb.queue.splice(0, EVALUATE_BATCH_SIZE);
   console.log(`▶️ Evaluating ${batch.length} projects in a batch...`);
-  
+
   const batchData = batch.map((item, index) => ({
     id: index,
     name: item.name,
@@ -253,7 +300,8 @@ Return ONLY standard JSON. Keep JSON minimal.`;
   }
 
   let addedCount = 0;
-  
+  let topicsDbLoaded = null;
+
   for (const item of batch) {
     // Find matching output
     const matchIndex = batchData.findIndex(b => b.name === item.name);
@@ -263,21 +311,38 @@ Return ONLY standard JSON. Keep JSON minimal.`;
       const category = projectDb.categories.find(c => c.id === evalData.category_id);
       if (category) {
         if (!category.projects) category.projects = [];
-        
+
         let projectToAdd = evalData.project;
         projectToAdd.url = item.html_url;
         projectToAdd.stars = item.stargazers_count;
         projectToAdd.lastUpdated = item.pushed_at;
         projectToAdd.addedAt = new Date().toISOString();
         projectToAdd._lastChecked = new Date().toISOString();
-        
+
         if (evalData.subcategory) {
-           projectToAdd.subcategory = evalData.subcategory;
+          projectToAdd.subcategory = evalData.subcategory;
         }
 
         category.projects.push(projectToAdd);
         console.log(`  ✅ Approved [${item.name}] -> Category '${category.id}'`);
         addedCount++;
+
+        // Increase topic score
+        if (!topicsDbLoaded) topicsDbLoaded = loadJson(topicsFile);
+        if (Array.isArray(projectToAdd.tags)) {
+          projectToAdd.tags.forEach(t => {
+            const lcT = t.toLowerCase();
+            if (topicsDbLoaded.active[lcT]) {
+              topicsDbLoaded.active[lcT].score = (topicsDbLoaded.active[lcT].score || 0) + 1;
+            } else if (topicsDbLoaded.niche && topicsDbLoaded.niche[lcT]) {
+              topicsDbLoaded.niche[lcT].score = (topicsDbLoaded.niche[lcT].score || 0) + 1;
+            } else if (topicsDbLoaded.exhausted && topicsDbLoaded.exhausted[lcT]) {
+              topicsDbLoaded.exhausted[lcT].score = (topicsDbLoaded.exhausted[lcT].score || 0) + 1;
+            } else {
+              topicsDbLoaded.active[lcT] = { level: 2, lastExplored: "1970-01-01T00:00:00Z", added: new Date().toISOString(), score: 1 };
+            }
+          });
+        }
       } else {
         console.log(`  ⚠️ Rejected [${item.name}] -> LLM returned invalid category '${evalData.category_id}'. Recording manually.`);
         recordRejected(item, `Invalid category: ${evalData.category_id}`);
@@ -310,7 +375,7 @@ Return ONLY standard JSON. Keep JSON minimal.`;
     if (category.projects) {
       category.projects.forEach(p => {
         let dateObj;
-        try { dateObj = new Date(p.lastUpdated); } catch(e) {}
+        try { dateObj = new Date(p.lastUpdated); } catch (e) { }
         if (dateObj && !isNaN(dateObj.getTime()) && dateObj > threeMonthsAgo) {
           if (p.stars && p.stars >= 1000) candidates.push(p);
         }
@@ -320,22 +385,66 @@ Return ONLY standard JSON. Keep JSON minimal.`;
 
   candidates.sort((a, b) => b.stars - a.stars);
   const topTrending = candidates.slice(0, 30);
-  
+
   const trendingCategory = projectDb.categories.find(c => c.id === 'trending');
   if (trendingCategory) {
-    trendingCategory.projects = topTrending.map(p => ({...p}));
+    trendingCategory.projects = topTrending.map(p => ({ ...p }));
   }
 
   // Save changes
   saveJson(queueFile, pendingDb);
   saveJson(dataFile, projectDb);
   saveJson(rejectedFile, rejectedDb);
-  
+  if (topicsDbLoaded) saveJson(topicsFile, topicsDbLoaded);
+
   console.log(`\n🎉 Evaluated ${batch.length} projects. Added ${addedCount} to the active directory.`);
   console.log(`🔥 Trending category automatically rebuilt with top ${topTrending.length} recently updated high-star projects.`);
 }
 
+async function initTopics() {
+  const topicsDb = loadJson(topicsFile);
+  const projectDb = loadJson(dataFile);
+  let updates = 0;
+
+  for (const t in topicsDb.active) topicsDb.active[t].score = 0;
+  for (const t in topicsDb.niche) topicsDb.niche[t].score = 0;
+  for (const t in topicsDb.exhausted) topicsDb.exhausted[t].score = 0;
+
+  projectDb.categories.forEach(c => {
+    if (c.projects) {
+      c.projects.forEach(p => {
+        if (Array.isArray(p.tags)) {
+          p.tags.forEach(tag => {
+            const lcT = tag.toLowerCase();
+            if (topicsDb.active[lcT]) {
+              topicsDb.active[lcT].score = (topicsDb.active[lcT].score || 0) + 1;
+              updates++;
+            } else if (topicsDb.niche && topicsDb.niche[lcT]) {
+              topicsDb.niche[lcT].score = (topicsDb.niche[lcT].score || 0) + 1;
+              updates++;
+            } else if (topicsDb.exhausted && topicsDb.exhausted[lcT]) {
+              topicsDb.exhausted[lcT].score = (topicsDb.exhausted[lcT].score || 0) + 1;
+              updates++;
+            } else {
+              topicsDb.active[lcT] = { level: 2, lastExplored: "1970-01-01T00:00:00Z", added: new Date().toISOString(), score: 1 };
+              updates++;
+            }
+          });
+        }
+      });
+    }
+  });
+
+  saveJson(topicsFile, topicsDb);
+  console.log(`✅ Topics initialized. Updated ${updates} topic scores based on approved projects.`);
+  process.exit(0);
+}
+
 async function run() {
+  if (process.argv.includes('--init-topics')) {
+    await initTopics();
+    return;
+  }
   await discover();
   await evaluate();
 }

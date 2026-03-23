@@ -117,6 +117,10 @@ Choose how you want to execute scripts:
   ```bash
   npm run ai:loop-eval
   ```
+- **Interactive TUI Daemon** (Recommended for manual param selection):
+  ```bash
+  npm run ai:loop-eval-tui
+  ```
 - **Incremental Status Check** (Background process to silently check/update GitHub star & health status for evaluated items):
   ```bash
   npm run ai:update-status
@@ -129,6 +133,15 @@ Choose how you want to execute scripts:
   ```bash
   npm run ai:consume-queue
   ```
+
+#### 💡 Advanced CLI Flags
+When running `npm run ai:discover-eval` or its variants, you can append the following flags:
+- `--sort-topic-by=quality|time`: 
+  - `quality`: Prioritize exploring topics with the highest quality score (based on already included projects).
+  - `time`: Prioritize exploring the least recently explored topics.
+- `--topic-order=asc|desc`: Sorting direction (default: Desc for Quality, Asc for Time).
+- `--consume-only`: Evaluates local queue items only, skipping new GitHub searches.
+- `--init-topics`: (One-time) Re-initializes topic quality scores based on existing data in `projects.json`.
 
 ### 4. Dynamic Pages Generation & Local Preview
 Once your AI has finished evaluating and saving into the core databank, preview the outcome locally!

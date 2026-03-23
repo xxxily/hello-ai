@@ -1,3 +1,19 @@
 {
-  "queue": []
+  "queue": [
+    {
+      "name": "llm",
+      "html_url": "https://github.com/rustformers/llm",
+      "description": "[Unmaintained, see README] An ecosystem of Rust libraries for working with large language models",
+      "topics": [
+        "ai",
+        "ggml",
+        "llm",
+        "ml",
+        "rust"
+      ],
+      "stargazers_count": 6152,
+      "pushed_at": "2024-06-24T16:29:01Z",
+      "added_to_queue": "2026-03-23T03:05:52.753Z"
+    }
+  ]
 }

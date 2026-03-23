@@ -126,6 +126,10 @@ cp .env.example .env
   ```bash
   npm run ai:loop-eval
   ```
+- **开启 TUI 交互配置循环模式** (推荐，可视化选择参数)：
+  ```bash
+  npm run ai:loop-eval-tui
+  ```
 - **后台增量更新 Star 数与存活状态** (拉取库内项目进行信息修正)：
   ```bash
   npm run ai:update-status
@@ -142,6 +146,15 @@ cp .env.example .env
   ```bash
   npm run ai:extract-categories
   ```
+
+#### 💡 进阶参数说明 (Advanced CLI Flags)
+在执行 `npm run ai:discover-eval` 或其变体时，可追加以下参数：
+- `--sort-topic-by=quality|time`: 
+  - `quality`: 优先探索质量评分（基于已收录项目数）最高的主题。
+  - `time`: 优先探索最后探索时间最久远的主题。
+- `--topic-order=asc|desc`: 排序方向（默认质量降序/时间升序）。
+- `--consume-only`: 仅从本地队列评估，不向 GitHub 发起新搜索。
+- `--init-topics`: (仅限初始化) 根据 `projects.json` 已有数据重新初始化 `topics.json` 的质量评分。
 
 ### 4. 动态生成页面与本地阅览
 等待 AI 完成打标写档后，可以一键将数据变回网站！
