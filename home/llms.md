@@ -2,7 +2,7 @@
 
 > Core large language models and foundation models.
 
-> 当前分类已收录 **85** 个相关项目。
+> 当前分类已收录 **87** 个相关项目。
 
 ## Model Architecture
 
@@ -53,6 +53,14 @@ OpenAI GPT模型的极简PyTorch复现实现，适合学习Transformer架构和G
 - **Stars:** ⭐️ 10.4k
 - **Tags:** `BPE` `Tokenizer` `LLM`
 - **最后活动时间:** 2024-07-01
+
+### [s1](https://github.com/simplescaling/s1)
+
+简单高效的测试时计算扩展方法，通过推理时计算提升大模型性能。
+
+- **Stars:** ⭐️ 6.7k
+- **Tags:** `test-time-scaling` `llm` `inference`
+- **最后活动时间:** 2025-06-25
 
 ### [Lit-LLaMA](https://github.com/Lightning-AI/lit-llama)
 
@@ -487,6 +495,14 @@ MiniMax官方开源模型，包含MiniMax-Text-01和MiniMax-VL-01，基于线性
 - **Stars:** ⭐️ 3.4k
 - **Tags:** `LLM` `VLM` `Linear Attention`
 - **最后活动时间:** 2025-07-07
+
+### [baize-chatbot](https://github.com/project-baize/baize-chatbot)
+
+利用ChatGPT快速训练自定义聊天机器人的开源项目，仅需单张GPU即可在数小时内完成训练。
+
+- **Stars:** ⭐️ 3.2k
+- **Tags:** `chatbot` `llm` `fine-tuning` `gpt`
+- **最后活动时间:** 2024-03-17
 
 ### [MiniMax-M1](https://github.com/MiniMax-AI/MiniMax-M1)
 

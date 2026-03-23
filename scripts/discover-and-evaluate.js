@@ -164,8 +164,11 @@ async function discover() {
       // Collect new topics into topicsDB
       if (Array.isArray(item.topics)) {
         item.topics.forEach(t => {
-          if (!topicsDb.active[t] && !topicsDb.niche[t] && !topicsDb.exhausted[t]) {
-            topicsDb.active[t] = { level: 2, lastExplored: "1970-01-01T00:00:00Z", added: new Date().toISOString(), score: 0 };
+          const lcT = t.toLowerCase();
+          if (/[\u4e00-\u9fa5]/.test(lcT)) return; // Skip Chinese/non-searchable topics
+
+          if (!topicsDb.active[lcT] && !topicsDb.niche[lcT] && !topicsDb.exhausted[lcT]) {
+            topicsDb.active[lcT] = { level: 2, lastExplored: "1970-01-01T00:00:00Z", added: new Date().toISOString(), score: 0 };
             newTopicsCount++;
           }
         });
@@ -178,6 +181,7 @@ async function discover() {
         // Already approved project, update its stats directly
         existingProject.stars = item.stargazers_count;
         existingProject.lastUpdated = item.pushed_at;
+        existingProject.topics = item.topics || [];
         existingProject._lastChecked = new Date().toISOString();
         updatedProjectCount++;
       } else if (!pendingUrls.has(url)) {
@@ -273,7 +277,7 @@ Required Output Format (JSON):
       "project": {
         "name": "project_name",
         "description": "<Provide a concise, engaging summary in Chinese (max 2 sentences)>",
-        "tags": ["Tag1", "Tag2"],
+        "tags": ["EnglishTag1", "EnglishTag2"],
         "health": "Active"
       }
     },
@@ -285,7 +289,7 @@ Required Output Format (JSON):
   ]
 }
 
-Return ONLY standard JSON. Keep JSON minimal.`;
+Return ONLY standard JSON. Keep JSON minimal. Important: "tags" MUST be in English only (suitable for GitHub topic search), while "description" MUST be in Chinese.`;
 
   let evaluations = [];
   try {
@@ -318,6 +322,7 @@ Return ONLY standard JSON. Keep JSON minimal.`;
         projectToAdd.lastUpdated = item.pushed_at;
         projectToAdd.addedAt = new Date().toISOString();
         projectToAdd._lastChecked = new Date().toISOString();
+        projectToAdd.topics = item.topics || [];
 
         if (evalData.subcategory) {
           projectToAdd.subcategory = evalData.subcategory;
@@ -327,10 +332,10 @@ Return ONLY standard JSON. Keep JSON minimal.`;
         console.log(`  ✅ Approved [${item.name}] -> Category '${category.id}'`);
         addedCount++;
 
-        // Increase topic score
+        // Increase topic score using original GitHub topics
         if (!topicsDbLoaded) topicsDbLoaded = loadJson(topicsFile);
-        if (Array.isArray(projectToAdd.tags)) {
-          projectToAdd.tags.forEach(t => {
+        if (Array.isArray(item.topics)) {
+          item.topics.forEach(t => {
             const lcT = t.toLowerCase();
             if (topicsDbLoaded.active[lcT]) {
               topicsDbLoaded.active[lcT].score = (topicsDbLoaded.active[lcT].score || 0) + 1;
@@ -338,9 +343,9 @@ Return ONLY standard JSON. Keep JSON minimal.`;
               topicsDbLoaded.niche[lcT].score = (topicsDbLoaded.niche[lcT].score || 0) + 1;
             } else if (topicsDbLoaded.exhausted && topicsDbLoaded.exhausted[lcT]) {
               topicsDbLoaded.exhausted[lcT].score = (topicsDbLoaded.exhausted[lcT].score || 0) + 1;
-            } else {
-              topicsDbLoaded.active[lcT] = { level: 2, lastExplored: "1970-01-01T00:00:00Z", added: new Date().toISOString(), score: 1 };
             }
+            // Note: We no longer add NEW topics here based on LLM tags or original topics.
+            // New topics are only added during the 'discover' phase.
           });
         }
       } else {
@@ -413,9 +418,12 @@ async function initTopics() {
   projectDb.categories.forEach(c => {
     if (c.projects) {
       c.projects.forEach(p => {
-        if (Array.isArray(p.tags)) {
-          p.tags.forEach(tag => {
+        if (Array.isArray(p.topics || p.tags)) {
+          const tagsToSync = p.topics || p.tags;
+          tagsToSync.forEach(tag => {
             const lcT = tag.toLowerCase();
+            if (/[\u4e00-\u9fa5]/.test(lcT)) return; // Skip Chinese topics
+
             if (topicsDb.active[lcT]) {
               topicsDb.active[lcT].score = (topicsDb.active[lcT].score || 0) + 1;
               updates++;
@@ -424,9 +432,6 @@ async function initTopics() {
               updates++;
             } else if (topicsDb.exhausted && topicsDb.exhausted[lcT]) {
               topicsDb.exhausted[lcT].score = (topicsDb.exhausted[lcT].score || 0) + 1;
-              updates++;
-            } else {
-              topicsDb.active[lcT] = { level: 2, lastExplored: "1970-01-01T00:00:00Z", added: new Date().toISOString(), score: 1 };
               updates++;
             }
           });

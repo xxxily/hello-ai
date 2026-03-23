@@ -53,6 +53,8 @@
     "ai:loop-eval-tui": "node scripts/loop-eval.js --tui",
     "ai:re-evaluate-all": "node scripts/re-evaluate-all.js",
     "ai:consume-queue": "node scripts/loop-eval.js --consume-only",
+    "ai:analyze-topics": "node scripts/analyze-topics.js",
+    "ai:analyze-rejected": "node scripts/analyze-rejected.js",
     "publish": "bash scripts/publish.sh"
   },
   "devDependencies": {
