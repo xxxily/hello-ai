@@ -106,6 +106,10 @@ Open `.env` and adjust the core configurations:
 - **`LLM_MODEL=`**: Standard model identity to use (e.g. `gpt-4o-mini`).
 - **`DISCOVER_BATCH_SIZE`** / **`EVALUATE_BATCH_SIZE`**: Modify limits per pull from GitHub and per LLM prompt bulk execution batch.
 - **`LOOP_INTERVAL_SECONDS`**: Configure the base idle time interval between consecutive `ai:loop-eval` cycles (default: 60s).
+- **`MAX_PAGES_DEFAULT`**: Default max pages to explore per topic (default: 5).
+- **`MAX_PAGES_QUALITY`**: Max pages for high-quality topics (default: 20).
+- **`QUALITY_TOPIC_THRESHOLD`**: Score threshold for high-quality topics (default: 5).
+- **`AUTO_FETCH_DESC_STARS`**: Star threshold to proactively fetch missing descriptions (default: 1000).
 
 ### 3. Run Automation Pipelines
 Choose how you want to execute scripts:
@@ -141,6 +145,8 @@ When running `npm run ai:discover-eval` or its variants, you can append the foll
   - `time`: Prioritize exploring the least recently explored topics.
 - `--topic-order=asc|desc`: Sorting direction (default: Desc for Quality, Asc for Time).
 - `--consume-only`: Evaluates local queue items only, skipping new GitHub searches.
+- `--resume`: Resumes discovery from the last saved topic and page.
+- `--update-only`: Mass updates existing projects without LLM evaluation.
 - `--init-topics`: (One-time) Re-initializes topic quality scores based on existing data in `projects.json`.
 
 ### 4. Dynamic Pages Generation & Local Preview

@@ -1,2253 +1,404 @@
 {
   "queue": [
     {
-      "name": "termwind",
-      "html_url": "https://github.com/nunomaduro/termwind",
-      "description": "🍃 In short, it's like Tailwind CSS, but for the PHP command-line applications. ",
-      "topics": [
-        "console",
-        "css",
-        "php",
-        "tailwind"
-      ],
-      "stargazers_count": 2475,
-      "pushed_at": "2026-02-16T23:13:07Z",
-      "added_to_queue": "2026-03-24T01:54:48.505Z"
-    },
-    {
-      "name": "eyeD3",
-      "html_url": "https://github.com/nicfit/eyeD3",
-      "description": "eyeD3 is a Python module and command line program for processing ID3 tags. Information about mp3 files (i.e bit rate, sample frequency, play time, etc.) is also provided. The formats supported are ID3v1 (1.0/1.1) and ID3v2 (2.3/2.4).",
-      "topics": [
-        "id3v1",
-        "id3v2",
-        "mp3",
-        "mp3tag",
-        "music",
-        "python"
-      ],
-      "stargazers_count": 631,
-      "pushed_at": "2026-02-16T18:17:03Z",
-      "added_to_queue": "2026-03-24T01:54:48.505Z"
-    },
-    {
-      "name": "bitshares-core",
-      "html_url": "https://github.com/bitshares/bitshares-core",
-      "description": "BitShares Blockchain node and command-line wallet",
-      "topics": [
-        "bitshares",
-        "blockchain",
-        "cryptocurrency",
-        "dac",
-        "dex"
-      ],
-      "stargazers_count": 1188,
-      "pushed_at": "2026-02-16T13:02:51Z",
-      "added_to_queue": "2026-03-24T01:54:48.505Z"
-    },
-    {
-      "name": "yori",
-      "html_url": "https://github.com/malxau/yori",
-      "description": "Yori is a CMD replacement shell that supports backquotes, job control, and improves tab completion, file matching, aliases, command history, and more.",
-      "topics": [
-        "cmd",
-        "command-line",
-        "shell",
-        "terminal",
-        "win32",
-        "windows",
-        "yori"
-      ],
-      "stargazers_count": 1308,
-      "pushed_at": "2026-02-16T07:17:37Z",
-      "added_to_queue": "2026-03-24T01:54:48.505Z"
-    },
-    {
-      "name": "jquery.terminal",
-      "html_url": "https://github.com/jcubic/jquery.terminal",
-      "description": "jQuery Terminal Emulator - JavaScript library for creating web-based terminals with custom commands",
-      "topics": [
-        "ansi-art",
-        "command-line",
-        "console",
-        "fake-termial-website",
-        "fake-terminal",
-        "fake-web-terminal",
-        "hactoberfest",
-        "interpreter",
-        "interpreters",
-        "javascript",
-        "jquery-plugin",
-        "jquery-terminal",
-        "json-rpc",
-        "parse-commands",
-        "shell",
-        "terminal",
-        "terminal-emulators",
-        "terminal-style-website",
-        "tui",
-        "web-terminal"
-      ],
-      "stargazers_count": 3229,
-      "pushed_at": "2026-02-15T22:45:05Z",
-      "added_to_queue": "2026-03-24T01:54:48.505Z"
-    },
-    {
-      "name": "unreal-engine-mcp",
-      "html_url": "https://github.com/flopperam/unreal-engine-mcp",
-      "description": "Control Unreal Engine 5.5+ through AI with natural language. Build incredible 3D worlds and architectural masterpieces using MCP. Create entire towns, medieval castles, modern mansions, challenging mazes, and complex structures with AI-powered commands.",
+      "name": "knowledge-graph-llms",
+      "html_url": "https://github.com/thu-vu92/knowledge-graph-llms",
+      "description": "In this project, I explored how to extract knowledge graphs from text using LLMs, such as OpenAI GPT4o. ",
       "topics": [],
-      "stargazers_count": 628,
-      "pushed_at": "2026-02-15T03:36:19Z",
-      "added_to_queue": "2026-03-24T01:54:48.505Z"
+      "stargazers_count": 697,
+      "pushed_at": "2025-05-28T11:18:19Z",
+      "added_to_queue": "2026-03-24T06:58:46.707Z"
     },
     {
-      "name": "whisper-ctranslate2",
-      "html_url": "https://github.com/Softcatala/whisper-ctranslate2",
-      "description": "Whisper command line client compatible with original OpenAI client based on CTranslate2.",
-      "topics": [
-        "openai-",
-        "openai-whisper",
-        "speech-recognition",
-        "speech-to-text",
-        "whisper"
-      ],
-      "stargazers_count": 1262,
-      "pushed_at": "2026-02-14T19:16:02Z",
-      "added_to_queue": "2026-03-24T01:54:48.505Z"
-    },
-    {
-      "name": "ran",
-      "html_url": "https://github.com/Sly777/ran",
-      "description": ":zap: RAN! React . GraphQL . Next.js Toolkit :zap: - SEO-Ready, Production-Ready, SSR, Hot-Reload, CSS-in-JS, Caching, CLI commands and more...",
-      "topics": [
-        "apollo",
-        "boilerplate",
-        "graphql",
-        "nextjs",
-        "nodejs",
-        "react",
-        "redux",
-        "rng",
-        "seo-ready",
-        "styled-components",
-        "toolkit",
-        "zeit"
-      ],
-      "stargazers_count": 2207,
-      "pushed_at": "2026-02-14T16:17:37Z",
-      "added_to_queue": "2026-03-24T01:54:48.505Z"
-    },
-    {
-      "name": "hyperfine",
-      "html_url": "https://github.com/sharkdp/hyperfine",
-      "description": "A command-line benchmarking tool",
-      "topics": [
-        "benchmark",
-        "cli",
-        "command-line",
-        "rust",
-        "terminal",
-        "tool"
-      ],
-      "stargazers_count": 27749,
-      "pushed_at": "2026-02-14T13:01:55Z",
-      "added_to_queue": "2026-03-24T01:54:48.505Z"
-    },
-    {
-      "name": "hexyl",
-      "html_url": "https://github.com/sharkdp/hexyl",
-      "description": "A command-line hex viewer",
-      "topics": [
-        "binary-data",
-        "command-line",
-        "hexadecimal",
-        "rust",
-        "tool"
-      ],
-      "stargazers_count": 10015,
-      "pushed_at": "2026-02-14T12:55:36Z",
-      "added_to_queue": "2026-03-24T01:54:48.505Z"
-    },
-    {
-      "name": "run-on-arch-action",
-      "html_url": "https://github.com/uraimo/run-on-arch-action",
-      "description": "A Github Action that executes jobs/commands on non-x86 cpu architectures (ARMv6, ARMv7, aarch64, s390x, ppc64le, riscv64) via QEMU",
-      "topics": [
-        "aarch64",
-        "actions",
-        "armv6",
-        "armv7",
-        "armv8",
-        "continuous-integration",
-        "github-actions",
-        "github-workflow",
-        "ppc64le",
-        "riscv64",
-        "s390x"
-      ],
-      "stargazers_count": 742,
-      "pushed_at": "2026-02-14T12:06:42Z",
-      "added_to_queue": "2026-03-24T01:54:48.505Z"
-    },
-    {
-      "name": "fetch-github-hosts",
-      "html_url": "https://github.com/Licoy/fetch-github-hosts",
-      "description": "🌏 同步github的hosts工具，支持多平台的图形化和命令行，内置客户端和服务端两种模式~ | Synchronize GitHub hosts tool, support multi-platform graphical and command line, built-in client and server modes",
-      "topics": [
-        "github",
-        "github-hosts",
-        "hosts",
-        "hosts-tool",
-        "sync-hosts"
-      ],
-      "stargazers_count": 1411,
-      "pushed_at": "2026-02-14T09:29:04Z",
-      "added_to_queue": "2026-03-24T01:54:48.505Z"
-    },
-    {
-      "name": "redis-cell",
-      "html_url": "https://github.com/brandur/redis-cell",
-      "description": "A Redis module that provides rate limiting in Redis as a single command.",
+      "name": "LLMsNineStoryDemonTower",
+      "html_url": "https://github.com/km1994/LLMsNineStoryDemonTower",
+      "description": "【LLMs九层妖塔】分享 LLMs在自然语言处理（ChatGLM、Chinese-LLaMA-Alpaca、小羊驼 Vicuna、LLaMA、GPT4ALL等）、信息检索（langchain）、语言合成、语言识别、多模态等领域（Stable Diffusion、MiniGPT-4、VisualGLM-6B、Ziya-Visual等）等 实战与经验。",
       "topics": [],
-      "stargazers_count": 1244,
-      "pushed_at": "2026-02-14T08:31:37Z",
-      "added_to_queue": "2026-03-24T01:54:48.505Z"
+      "stargazers_count": 2157,
+      "pushed_at": "2024-03-30T15:08:33Z",
+      "added_to_queue": "2026-03-24T06:58:46.707Z"
     },
     {
-      "name": "corona-cli",
-      "html_url": "https://github.com/ahmadawais/corona-cli",
-      "description": "🦠 Track the Coronavirus disease (COVID-19) in the command line. Worldwide for all countries, for one country, and the US States. Fast response time (< 100ms). https://x.com/MrAhmadAwais",
-      "topics": [
-        "corona",
-        "coronavirus",
-        "coronavirus-analysis",
-        "coronavirus-info",
-        "coronavirus-real-time",
-        "coronavirus-tracking",
-        "covid-19",
-        "visualization"
-      ],
-      "stargazers_count": 1835,
-      "pushed_at": "2026-02-14T02:29:48Z",
-      "added_to_queue": "2026-03-24T01:54:48.505Z"
-    },
-    {
-      "name": "got-your-back",
-      "html_url": "https://github.com/GAM-team/got-your-back",
-      "description": "Got Your Back (GYB) is a command line tool for backing up your Gmail messages to your computer using Gmail's API over HTTPS.",
+      "name": "meditron",
+      "html_url": "https://github.com/epfLLM/meditron",
+      "description": "Meditron is a suite of open-source medical Large Language Models (LLMs).",
       "topics": [],
-      "stargazers_count": 3000,
-      "pushed_at": "2026-02-13T18:04:21Z",
-      "added_to_queue": "2026-03-24T01:54:48.505Z"
+      "stargazers_count": 2156,
+      "pushed_at": "2024-04-10T11:48:37Z",
+      "added_to_queue": "2026-03-24T06:58:46.707Z"
     },
     {
-      "name": "minicli",
-      "html_url": "https://github.com/minicli/minicli",
-      "description": "A minimal framework for command-line applications in PHP. Join our Discord: https://discord.gg/hY5UNC4XPf",
+      "name": "Llama-2-Open-Source-LLM-CPU-Inference",
+      "html_url": "https://github.com/kennethleungty/Llama-2-Open-Source-LLM-CPU-Inference",
+      "description": "Running Llama 2 and other Open-Source LLMs on CPU Inference Locally for Document Q&A",
       "topics": [
-        "cli",
-        "command-line",
-        "command-line-tools",
-        "hacktoberfest",
-        "php"
-      ],
-      "stargazers_count": 1079,
-      "pushed_at": "2026-02-13T16:06:50Z",
-      "added_to_queue": "2026-03-24T01:54:48.506Z"
-    },
-    {
-      "name": "emoj",
-      "html_url": "https://github.com/sindresorhus/emoj",
-      "description": "Find relevant emoji from text on the command-line :open_mouth: :sparkles: :raised_hands: :horse: :boom: :see_no_evil:",
-      "topics": [],
-      "stargazers_count": 2420,
-      "pushed_at": "2026-02-13T08:33:59Z",
-      "added_to_queue": "2026-03-24T01:54:48.506Z"
-    },
-    {
-      "name": "webhook",
-      "html_url": "https://github.com/adnanh/webhook",
-      "description": "webhook is a lightweight incoming webhook server to run shell commands",
-      "topics": [
-        "automate",
-        "automation",
-        "ci",
-        "deploy",
-        "devops",
-        "execute",
-        "go",
-        "hacktoberfest",
-        "hook",
-        "hooks",
-        "incoming",
-        "integration",
-        "programming",
-        "redeploy",
-        "script",
-        "server",
-        "shell",
-        "web",
-        "webhook",
-        "webhooks"
-      ],
-      "stargazers_count": 11691,
-      "pushed_at": "2026-02-12T22:59:28Z",
-      "added_to_queue": "2026-03-24T01:54:48.506Z"
-    },
-    {
-      "name": "electron-pdf",
-      "html_url": "https://github.com/fraserxu/electron-pdf",
-      "description": "📄 A command line tool to generate PDF from URL, HTML or Markdown files.",
-      "topics": [],
-      "stargazers_count": 1289,
-      "pushed_at": "2026-02-12T19:52:35Z",
-      "added_to_queue": "2026-03-24T01:54:48.506Z"
-    },
-    {
-      "name": "Thanos.sh",
-      "html_url": "https://github.com/hotvulcan/Thanos.sh",
-      "description": "if you are Thanos(root), this command could delete half your files randomly",
-      "topics": [],
-      "stargazers_count": 2974,
-      "pushed_at": "2026-02-12T16:06:00Z",
-      "added_to_queue": "2026-03-24T01:54:48.506Z"
-    },
-    {
-      "name": "passforios",
-      "html_url": "https://github.com/mssun/passforios",
-      "description": "Pass for iOS - an iOS client compatible with Pass command line application.",
-      "topics": [
-        "ios-app",
-        "password-manager",
-        "password-store",
-        "pgp",
-        "swift"
-      ],
-      "stargazers_count": 1617,
-      "pushed_at": "2026-02-12T15:22:27Z",
-      "added_to_queue": "2026-03-24T01:54:48.506Z"
-    },
-    {
-      "name": "awscli-local",
-      "html_url": "https://github.com/localstack/awscli-local",
-      "description": "💲  \"awslocal\" - Thin wrapper around the \"aws\" command line interface for use with LocalStack",
-      "topics": [
-        "aws",
-        "cli",
-        "localstack"
-      ],
-      "stargazers_count": 1284,
-      "pushed_at": "2026-02-12T14:54:27Z",
-      "added_to_queue": "2026-03-24T01:54:48.506Z"
-    },
-    {
-      "name": "figma-export",
-      "html_url": "https://github.com/RedMadRobot/figma-export",
-      "description": "Command line utility to export colors, typography, icons and images from Figma to Xcode / Android Studio project",
-      "topics": [
-        "android",
-        "android-studio",
-        "design",
-        "figma",
-        "figma-api",
-        "figmaapi",
-        "ios",
-        "swift",
-        "swift-ui",
-        "swiftui",
-        "typography",
-        "xcode"
-      ],
-      "stargazers_count": 810,
-      "pushed_at": "2026-02-12T14:50:34Z",
-      "added_to_queue": "2026-03-24T01:54:48.506Z"
-    },
-    {
-      "name": "questionary",
-      "html_url": "https://github.com/tmbo/questionary",
-      "description": "Python library to build pretty command line user prompts ✨Easy to use multi-select lists, confirmations, free text prompts ...",
-      "topics": [
-        "hacktoberfest"
-      ],
-      "stargazers_count": 2040,
-      "pushed_at": "2026-02-12T12:49:01Z",
-      "added_to_queue": "2026-03-24T01:54:48.506Z"
-    },
-    {
-      "name": "ffmpeg-cheatsheet",
-      "html_url": "https://github.com/rendi-api/ffmpeg-cheatsheet",
-      "description": "A categorized collection of FFmpeg commands for video automation pipelines.",
-      "topics": [
-        "automation",
-        "cheatsheet",
-        "ffmpeg",
-        "ffprobe",
-        "gist",
-        "video"
-      ],
-      "stargazers_count": 1054,
-      "pushed_at": "2026-02-12T10:17:11Z",
-      "added_to_queue": "2026-03-24T01:54:48.506Z"
-    },
-    {
-      "name": "git-toolbelt",
-      "html_url": "https://github.com/nvie/git-toolbelt",
-      "description": "A suite of useful Git commands that aid with scripting or every day command line usage",
-      "topics": [],
-      "stargazers_count": 1371,
-      "pushed_at": "2026-02-12T08:05:24Z",
-      "added_to_queue": "2026-03-24T01:54:48.506Z"
-    },
-    {
-      "name": "smug",
-      "html_url": "https://github.com/ivaaaan/smug",
-      "description": "Session manager and task runner for tmux. Start your development environment within one command.",
-      "topics": [
-        "go",
-        "golang",
-        "hacktoberfest",
-        "tmux"
-      ],
-      "stargazers_count": 873,
-      "pushed_at": "2026-02-11T19:46:14Z",
-      "added_to_queue": "2026-03-24T01:54:48.506Z"
-    },
-    {
-      "name": "cargo-fuzz",
-      "html_url": "https://github.com/rust-fuzz/cargo-fuzz",
-      "description": "Command line helpers for fuzzing",
-      "topics": [
-        "cargo",
-        "fuzz-testing",
-        "fuzzing",
-        "rust"
-      ],
-      "stargazers_count": 1775,
-      "pushed_at": "2026-02-10T19:31:28Z",
-      "added_to_queue": "2026-03-24T01:54:48.506Z"
-    },
-    {
-      "name": "DocTo",
-      "html_url": "https://github.com/tobya/DocTo",
-      "description": "Simple command line utility for converting .doc & .xls files to any supported format such as Text, RTF, CSV or PDF",
-      "topics": [
-        "conversion",
-        "converter",
-        "csv",
-        "csv-export",
-        "delphi",
-        "delphi10",
-        "docto",
-        "docx",
-        "excel",
-        "pdf",
-        "pdf-generation",
-        "windows",
-        "word-documents",
-        "xls",
-        "xls-files",
-        "xlsx"
-      ],
-      "stargazers_count": 506,
-      "pushed_at": "2026-02-10T14:58:49Z",
-      "added_to_queue": "2026-03-24T01:54:48.506Z"
-    },
-    {
-      "name": "cli",
-      "html_url": "https://github.com/create-go-app/cli",
-      "description": "✨ A complete and self-contained solution for developers of any qualification to create a production-ready project with backend (Go), frontend (JavaScript, TypeScript) and deploy automation (Ansible, Docker) by running only one CLI command.",
-      "topics": [
-        "ansible-playbook",
-        "backend",
-        "backend-template",
-        "boilerplate-application",
-        "boilerplate-template",
-        "cgapp",
-        "cli",
-        "cli-app",
-        "cli-commands",
-        "create-go-app",
-        "cui",
-        "docker-container",
-        "docker-image",
-        "frontend",
-        "frontend-template",
-        "go",
-        "go-cli",
-        "golang",
-        "hacktoberfest"
-      ],
-      "stargazers_count": 2753,
-      "pushed_at": "2026-02-10T00:34:13Z",
-      "added_to_queue": "2026-03-24T01:54:48.506Z"
-    },
-    {
-      "name": "git-xargs",
-      "html_url": "https://github.com/gruntwork-io/git-xargs",
-      "description": "git-xargs is a command-line tool (CLI) for making updates across multiple Github repositories with a single command. ",
-      "topics": [
-        "automation",
-        "cli",
-        "git",
-        "golang",
-        "productivity"
-      ],
-      "stargazers_count": 1087,
-      "pushed_at": "2026-02-10T00:32:22Z",
-      "added_to_queue": "2026-03-24T01:54:48.506Z"
-    },
-    {
-      "name": "WeChatTweak",
-      "html_url": "https://github.com/sunnyyoung/WeChatTweak",
-      "description": "A command-line tool for tweaking WeChat - 首款微信 macOS 客户端撤回拦截与多开 🔨",
-      "topics": [
-        "alfred",
-        "alfred-workflow",
-        "macos",
-        "no-revoke",
-        "norevoke",
-        "raycast-extension",
-        "revoke",
-        "tweak",
-        "wechat",
-        "wechat-macos",
-        "wechat-plugin",
-        "wechat-plugin-macos",
-        "wechat-raycast",
-        "wechat-tweak",
-        "wechathook",
-        "wechattweak",
-        "wechattweak-macos",
-        "weixin",
-        "weixin-plugin",
-        "weixin-tweak"
-      ],
-      "stargazers_count": 13522,
-      "pushed_at": "2026-02-08T13:28:22Z",
-      "added_to_queue": "2026-03-24T01:54:48.506Z"
-    },
-    {
-      "name": "NixThePlanet",
-      "html_url": "https://github.com/MatthewCroughan/NixThePlanet",
-      "description": "Run macOS, Windows and more via a single Nix command, or simple nixosModules",
-      "topics": [
-        "automation",
-        "hacking",
-        "proprietary",
-        "shitcode"
-      ],
-      "stargazers_count": 695,
-      "pushed_at": "2026-02-07T14:59:21Z",
-      "added_to_queue": "2026-03-24T01:54:48.506Z"
-    },
-    {
-      "name": "structured-text-tools",
-      "html_url": "https://github.com/dbohdan/structured-text-tools",
-      "description": "A list of command-line tools for manipulating structured text data",
-      "topics": [
-        "awk",
-        "cli",
-        "configuration-file",
-        "conversion",
-        "csv",
-        "delimited-files",
-        "html",
-        "ini",
-        "json",
-        "list",
-        "structured-text",
-        "text-files",
-        "toml",
-        "tsv",
-        "xml",
-        "yaml"
-      ],
-      "stargazers_count": 7131,
-      "pushed_at": "2026-02-07T14:29:56Z",
-      "added_to_queue": "2026-03-24T01:54:48.506Z"
-    },
-    {
-      "name": "arceos",
-      "html_url": "https://github.com/arceos-org/arceos",
-      "description": "An experimental modular OS written in Rust.",
-      "topics": [
-        "modular",
-        "operating-system",
-        "os-components",
-        "osdev",
-        "rust",
-        "unikernel"
-      ],
-      "stargazers_count": 742,
-      "pushed_at": "2026-03-23T07:39:06Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "Node_Editor_Framework",
-      "html_url": "https://github.com/Seneral/Node_Editor_Framework",
-      "description": "A flexible and modular Node Editor Framework for creating node based displays and editors in Unity",
-      "topics": [
-        "editor",
-        "imgui",
-        "node",
-        "unity"
-      ],
-      "stargazers_count": 2029,
-      "pushed_at": "2023-10-31T22:53:07Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "skeleton-theme",
-      "html_url": "https://github.com/Shopify/skeleton-theme",
-      "description": "A minimal, carefully structured Shopify theme designed to help you quickly get started. Designed with modularity, maintainability, and Shopify's best practices in mind.",
-      "topics": [],
-      "stargazers_count": 683,
-      "pushed_at": "2026-02-26T21:14:59Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "otclient",
-      "html_url": "https://github.com/edubart/otclient",
-      "description": "An alternative tibia client for otserv written in C++11 and Lua, made with a modular system that uses lua scripts for ingame interface and functionality, making otclient flexible and easy to customize",
-      "topics": [
-        "opentibia",
-        "otclient",
-        "otserv",
-        "tibia"
-      ],
-      "stargazers_count": 690,
-      "pushed_at": "2024-09-14T15:26:54Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "breach_core",
-      "html_url": "https://github.com/spolu/breach_core",
-      "description": "A Browser written in JS. Free. Modular. Hackable.",
-      "topics": [],
-      "stargazers_count": 5375,
-      "pushed_at": "2023-03-24T22:19:22Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "PhysicsJS",
-      "html_url": "https://github.com/wellcaffeinated/PhysicsJS",
-      "description": "A modular, extendable, and easy-to-use physics engine for javascript",
-      "topics": [],
-      "stargazers_count": 3695,
-      "pushed_at": "2019-03-26T23:43:28Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "TransmogrifAI",
-      "html_url": "https://github.com/salesforce/TransmogrifAI",
-      "description": "TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library for building modular, reusable, strongly typed machine learning workflows on Apache Spark with minimal hand-tuning",
-      "topics": [
-        "ai",
-        "automated-machine-learning",
-        "automl",
-        "dsl",
-        "einstein",
-        "estimators",
-        "feature-engineering",
-        "features",
-        "machine-learning",
-        "ml",
-        "pipelines",
-        "salesforce",
-        "scala",
-        "spark",
-        "sparkml",
-        "structured-data",
-        "transformations",
-        "transformers",
-        "transmogrification",
-        "transmogrify"
-      ],
-      "stargazers_count": 2271,
-      "pushed_at": "2023-09-29T22:18:41Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "opencanary",
-      "html_url": "https://github.com/thinkst/opencanary",
-      "description": "Modular and decentralised honeypot",
-      "topics": [],
-      "stargazers_count": 2814,
-      "pushed_at": "2026-02-11T04:08:42Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "kyma",
-      "html_url": "https://github.com/kyma-project/kyma",
-      "description": "Kyma is an opinionated set of Kubernetes-based modular building blocks, including all necessary capabilities to develop and run enterprise-grade cloud-native applications.",
-      "topics": [
-        "cloud-native",
-        "knative",
-        "kubernetes"
-      ],
-      "stargazers_count": 1540,
-      "pushed_at": "2026-03-17T11:24:40Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "babel-plugin-import",
-      "html_url": "https://github.com/umijs/babel-plugin-import",
-      "description": "Modularly import plugin for babel.",
-      "topics": [],
-      "stargazers_count": 3157,
-      "pushed_at": "2024-04-24T12:41:03Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "android-modular-architecture",
-      "html_url": "https://github.com/vmadalin/android-modular-architecture",
-      "description": "📚  Sample Android Components Architecture on a modular word focused on the scalability, testability and maintainability written in Kotlin, following best practices using Jetpack.",
-      "topics": [
-        "android",
-        "android-architecture",
-        "android-boilerplate",
-        "android-showcase",
-        "architecture",
-        "best-practices",
-        "clean-architecture",
-        "clean-code",
-        "component-architecture",
-        "dynamic-features",
-        "gradle-kotlin-dsl",
-        "hacktoberfest",
-        "jetpack",
-        "kotlin",
-        "modern-android-development",
-        "modular-architecture",
-        "mvvm-architecture",
-        "solid",
-        "solid-principles",
-        "testing"
-      ],
-      "stargazers_count": 2443,
-      "pushed_at": "2021-08-23T18:06:03Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "SSD",
-      "html_url": "https://github.com/lufficc/SSD",
-      "description": "High quality, fast, modular reference implementation of SSD in PyTorch",
-      "topics": [
-        "computer-vision",
+        "c-transformers",
+        "chatgpt",
+        "cpu",
+        "cpu-inference",
         "deep-learning",
-        "object-detection",
-        "pytorch",
-        "ssd"
+        "document-qa",
+        "faiss",
+        "langchain",
+        "language-models",
+        "large-language-models",
+        "llama",
+        "llama-2",
+        "llm",
+        "machine-learning",
+        "natural-language-processing",
+        "nlp",
+        "open-source-llm",
+        "python",
+        "sentence-transformers",
+        "transformers"
       ],
-      "stargazers_count": 1590,
-      "pushed_at": "2024-01-26T01:50:32Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
+      "stargazers_count": 973,
+      "pushed_at": "2023-11-06T14:03:21Z",
+      "added_to_queue": "2026-03-24T06:58:46.707Z"
     },
     {
-      "name": "slider-pro",
-      "html_url": "https://github.com/bqworks/slider-pro",
-      "description": "A modular, responsive and touch-enabled jQuery slider plugin that enables you to create elegant and professionally looking sliders.",
+      "name": "gemini-cli-openai",
+      "html_url": "https://github.com/GewoonJaap/gemini-cli-openai",
+      "description": "Expose Gemini CLI endpoints as OpenAI API with Cloudflare Workers",
       "topics": [
-        "carousel",
-        "jquery-slider-plugin",
-        "layers",
-        "responsive-slider",
-        "slider",
-        "touch-slider"
+        "gemini",
+        "gemini-cli",
+        "llm",
+        "openai",
+        "openai-api"
       ],
-      "stargazers_count": 869,
-      "pushed_at": "2026-02-12T18:50:00Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
+      "stargazers_count": 863,
+      "pushed_at": "2026-02-09T02:47:57Z",
+      "added_to_queue": "2026-03-24T06:58:46.707Z"
     },
     {
-      "name": "SwarmUI",
-      "html_url": "https://github.com/mcmonkeyprojects/SwarmUI",
-      "description": "SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.",
+      "name": "llm-reasoners",
+      "html_url": "https://github.com/maitrix-org/llm-reasoners",
+      "description": "A library for advanced large language model reasoning",
+      "topics": [],
+      "stargazers_count": 2339,
+      "pushed_at": "2025-06-10T02:19:40Z",
+      "added_to_queue": "2026-03-24T06:58:46.707Z"
+    },
+    {
+      "name": "OpenAGI",
+      "html_url": "https://github.com/agiresearch/OpenAGI",
+      "description": "OpenAGI: When LLM Meets Domain Experts",
+      "topics": [],
+      "stargazers_count": 2254,
+      "pushed_at": "2024-11-28T15:48:29Z",
+      "added_to_queue": "2026-03-24T06:58:46.707Z"
+    },
+    {
+      "name": "llmperf",
+      "html_url": "https://github.com/ray-project/llmperf",
+      "description": "LLMPerf is a library for validating and benchmarking LLMs",
+      "topics": [],
+      "stargazers_count": 1097,
+      "pushed_at": "2024-12-09T01:52:28Z",
+      "added_to_queue": "2026-03-24T06:58:46.707Z"
+    },
+    {
+      "name": "Auto-Deep-Research",
+      "html_url": "https://github.com/HKUDS/Auto-Deep-Research",
+      "description": "\"Your Fully-Automated Personal AI Assistant\"",
+      "topics": [
+        "agent",
+        "deep-research",
+        "llm"
+      ],
+      "stargazers_count": 1452,
+      "pushed_at": "2025-10-16T06:38:48Z",
+      "added_to_queue": "2026-03-24T06:58:46.707Z"
+    },
+    {
+      "name": "Awesome-Domain-LLM",
+      "html_url": "https://github.com/luban-agi/Awesome-Domain-LLM",
+      "description": "收集和梳理垂直领域的开源模型、数据集及评测基准。",
+      "topics": [
+        "awesome-list",
+        "dataset",
+        "llm",
+        "nlp",
+        "paper-list"
+      ],
+      "stargazers_count": 2576,
+      "pushed_at": "2023-12-26T12:35:03Z",
+      "added_to_queue": "2026-03-24T06:58:46.707Z"
+    },
+    {
+      "name": "LISA",
+      "html_url": "https://github.com/JIA-Lab-research/LISA",
+      "description": "Project Page for \"LISA: Reasoning Segmentation via Large Language Model\"",
+      "topics": [
+        "large-language-model",
+        "llm",
+        "multi-modal",
+        "segmentation"
+      ],
+      "stargazers_count": 2607,
+      "pushed_at": "2025-02-16T13:33:08Z",
+      "added_to_queue": "2026-03-24T06:58:46.707Z"
+    },
+    {
+      "name": "firecrawl-app-examples",
+      "html_url": "https://github.com/firecrawl/firecrawl-app-examples",
+      "description": "🔥 This repository contains complete application examples, including websites and other projects, developed using Firecrawl.",
       "topics": [
         "ai",
-        "comfyui",
-        "csharp",
-        "image-generation",
-        "javascript",
-        "machine-learning",
-        "ml",
-        "python",
-        "stable-diffusion"
-      ],
-      "stargazers_count": 3875,
-      "pushed_at": "2026-03-23T00:49:45Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "iroh",
-      "html_url": "https://github.com/n0-computer/iroh",
-      "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
-      "topics": [
-        "does-anyone-read-these",
-        "holepunching",
-        "memes",
-        "multipath",
-        "p2p",
-        "quic",
-        "realtime",
-        "rust",
-        "tags",
-        "tagsoftags"
-      ],
-      "stargazers_count": 8098,
-      "pushed_at": "2026-03-23T22:39:09Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "robomimic",
-      "html_url": "https://github.com/ARISE-Initiative/robomimic",
-      "description": "robomimic: A Modular Framework for Robot Learning from Demonstration",
-      "topics": [],
-      "stargazers_count": 1336,
-      "pushed_at": "2026-02-05T19:40:44Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "bootstrap-colorpicker",
-      "html_url": "https://github.com/itsjavi/bootstrap-colorpicker",
-      "description": "Bootstrap Colorpicker is a modular color picker plugin for Bootstrap.",
-      "topics": [
-        "bootstrap",
-        "bootstrap-colorpicker",
-        "bootstrap-components",
-        "bootstrap-plugin",
-        "bootstrap3",
-        "bootstrap4",
-        "color",
-        "color-picker",
-        "colorpicker",
-        "jquery",
-        "twitter-bootstrap"
-      ],
-      "stargazers_count": 1368,
-      "pushed_at": "2022-04-07T23:45:47Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "polaris",
-      "html_url": "https://github.com/berachain/polaris",
-      "description": "Polaris is a modular implementation of the Ethereum Virtual Machine (EVM). It can be easily integrated into any consensus engine or application, including the Cosmos-SDK.",
-      "topics": [
-        "blockchain",
-        "cosmos",
-        "defi",
-        "ethereum",
-        "evm",
-        "go",
-        "golang",
-        "mev",
-        "web3"
-      ],
-      "stargazers_count": 1079,
-      "pushed_at": "2024-06-09T20:51:08Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "embox",
-      "html_url": "https://github.com/embox/embox",
-      "description": "Modular and configurable OS for embedded applications",
-      "topics": [
-        "c",
-        "embedded",
-        "kernel",
-        "mcu",
-        "microcontroller",
-        "os",
-        "posix"
-      ],
-      "stargazers_count": 1555,
-      "pushed_at": "2026-03-23T21:25:55Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "geph4-client",
-      "html_url": "https://github.com/geph-official/geph4-client",
-      "description": "Geph (迷霧通) is a modular Internet censorship circumvention system designed specifically to deal with national filtering. ",
-      "topics": [
-        "circumvention",
-        "rust",
-        "vpn"
-      ],
-      "stargazers_count": 3026,
-      "pushed_at": "2025-02-13T15:12:15Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "wlroots",
-      "html_url": "https://github.com/swaywm/wlroots",
-      "description": "A modular Wayland compositor library",
-      "topics": [
-        "wayland",
-        "wayland-compositor"
-      ],
-      "stargazers_count": 2241,
-      "pushed_at": "2022-02-16T22:22:50Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "chrome-extension-webpack-boilerplate",
-      "html_url": "https://github.com/samuelsimoes/chrome-extension-webpack-boilerplate",
-      "description": "A basic foundation boilerplate for rich Chrome Extensions using Webpack to help you write modular and modern Javascript code, load CSS easily and automatic reload the browser on code changes.",
-      "topics": [
-        "boilerplate",
-        "chrome-extension",
-        "webpack"
-      ],
-      "stargazers_count": 1712,
-      "pushed_at": "2022-12-10T17:14:13Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "monibuca",
-      "html_url": "https://github.com/langhuihui/monibuca",
-      "description": "🧩 Monibuca is a Modularized, Extensible framework for building Streaming Server",
-      "topics": [
-        "flv",
-        "hdl",
-        "hls",
-        "livestream",
-        "mediaserver",
-        "mp4",
-        "record",
-        "relay",
-        "rtmp",
-        "rtp",
-        "rtsp",
-        "srt",
-        "ts",
-        "webrtc",
-        "websocket",
-        "webtransport"
-      ],
-      "stargazers_count": 2358,
-      "pushed_at": "2026-03-02T08:16:30Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "swizzin",
-      "html_url": "https://github.com/swizzin/swizzin",
-      "description": "A simple, modular seedbox solution",
-      "topics": [
-        "debian",
-        "deluge",
-        "installer",
-        "medusa",
-        "modular",
-        "nginx",
-        "qbittorrent",
-        "radarr",
-        "rtorrent",
-        "rutorrent",
-        "script",
-        "seedbox",
-        "seedbox-install-script",
-        "sickgear",
-        "sickrage",
-        "sonarr",
-        "swizzin",
-        "transmission",
-        "ubuntu"
-      ],
-      "stargazers_count": 2347,
-      "pushed_at": "2026-03-02T17:02:50Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "vissl",
-      "html_url": "https://github.com/facebookresearch/vissl",
-      "description": "VISSL is FAIR's library of extensible, modular and scalable components for SOTA Self-Supervised Learning with images.",
-      "topics": [],
-      "stargazers_count": 3294,
-      "pushed_at": "2024-03-03T01:41:37Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "click",
-      "html_url": "https://github.com/kohler/click",
-      "description": "The Click modular router: fast modular packet processing and analysis",
-      "topics": [],
-      "stargazers_count": 771,
-      "pushed_at": "2022-07-04T08:43:57Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "gluon",
-      "html_url": "https://github.com/freifunk-gluon/gluon",
-      "description": "a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes",
-      "topics": [
-        "c",
-        "freifunk",
-        "gluon",
-        "hacktoberfest",
-        "lua",
-        "mesh-networks",
-        "openwrt"
-      ],
-      "stargazers_count": 594,
-      "pushed_at": "2026-03-23T18:53:10Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "cssnano",
-      "html_url": "https://github.com/cssnano/cssnano",
-      "description": "A modular minifier, built on top of the PostCSS ecosystem.",
-      "topics": [
-        "css",
-        "cssnano",
-        "minification",
-        "optimisation",
-        "postcss"
-      ],
-      "stargazers_count": 4962,
-      "pushed_at": "2026-03-06T17:47:54Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "dwmblocks",
-      "html_url": "https://github.com/torrinfail/dwmblocks",
-      "description": "Modular status bar for dwm written in c.",
-      "topics": [],
-      "stargazers_count": 596,
-      "pushed_at": "2024-08-23T21:13:53Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "apollo-universal-starter-kit",
-      "html_url": "https://github.com/sysgears/apollo-universal-starter-kit",
-      "description": "Apollo Universal Starter Kit is a SEO-friendly, fully-configured, modular starter application that helps developers to streamline web, server, and mobile development with cutting-edge technologies and ultimate code reuse.",
-      "topics": [
-        "angular",
-        "apollo",
-        "auth",
-        "docker",
-        "expo",
-        "graphql",
-        "ngrx",
-        "react",
-        "react-native",
-        "scala",
-        "starterkit",
-        "typescript",
-        "universal",
-        "webpack"
-      ],
-      "stargazers_count": 1679,
-      "pushed_at": "2023-12-14T12:10:09Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "causeway",
-      "html_url": "https://github.com/apache/causeway",
-      "description": "Use Apache Causeway™ to rapidly develop domain-driven apps or modular monoliths in Java, on top of the Spring Boot platform. Write your business logic in entities, domain services or view models, and the framework dynamically generates a representation of that domain model as a webapp, GraphQL or RESTful API. For prototyping or production.",
-      "topics": [
-        "ddd",
-        "domain-driven-design",
-        "java",
-        "naked-objects",
-        "rad",
-        "rapid-application-development",
-        "restful-objects",
-        "spring-boot",
-        "web-framework"
-      ],
-      "stargazers_count": 888,
-      "pushed_at": "2026-03-23T08:29:58Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "valibot",
-      "html_url": "https://github.com/open-circle/valibot",
-      "description": "The modular and type safe schema library for validating structural data 🤖",
-      "topics": [
-        "bundle-size",
-        "modular",
-        "parsing",
-        "runtime",
-        "schema",
-        "type-safe",
-        "typescript",
-        "validation"
-      ],
-      "stargazers_count": 8516,
-      "pushed_at": "2026-03-23T21:54:53Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "nodify",
-      "html_url": "https://github.com/miroiu/nodify",
-      "description": "Highly performant and modular controls for node-based editors designed for data-binding and MVVM.",
-      "topics": [
-        "calculator",
-        "controls",
-        "editor",
-        "flow-based-programming",
-        "good-first-issue",
-        "graph",
-        "graph-control",
-        "infinite-canvas",
-        "mvvm",
-        "net6",
-        "node-editor",
-        "node-graph",
-        "node-network",
-        "panning",
-        "state-machine",
-        "visual-programming",
-        "vpl",
-        "wpf",
-        "zooming"
-      ],
-      "stargazers_count": 1868,
-      "pushed_at": "2026-03-17T21:04:13Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "Obfuscapk",
-      "html_url": "https://github.com/ClaudiuGeorgiu/Obfuscapk",
-      "description": "An automatic obfuscation tool for Android apps that works in a black-box fashion, supports advanced obfuscation features and has a modular architecture easily extensible with new techniques",
-      "topics": [
-        "android",
-        "apk",
-        "apktool",
-        "app",
-        "application",
-        "black-box",
-        "obfuscapk",
-        "obfuscation",
-        "smali"
-      ],
-      "stargazers_count": 1243,
-      "pushed_at": "2024-07-27T12:16:20Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "component",
-      "html_url": "https://github.com/componentjs/component",
-      "description": "frontend package manager and build tool for modular web applications",
-      "topics": [],
-      "stargazers_count": 4527,
-      "pushed_at": "2017-12-16T14:10:16Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "Tangram-iOS",
-      "html_url": "https://github.com/alibaba/Tangram-iOS",
-      "description": "Tangram is a modular UI solution for building native page dynamically, including Tangram for Android, Tangram for iOS and even backend CMS. This project provides the sdk on iOS platform.",
-      "topics": [
-        "ios",
-        "lazyscrollview",
-        "modular-ui-solution",
-        "native-dynamic",
-        "scrollview",
-        "tangram"
-      ],
-      "stargazers_count": 1859,
-      "pushed_at": "2021-05-27T14:36:17Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "dojo1-dgrid",
-      "html_url": "https://github.com/dojo/dojo1-dgrid",
-      "description": "A lightweight, mobile-ready, data-driven, modular grid widget designed for use with dstore",
-      "topics": [
-        "dgrid",
-        "dojo",
-        "javascript"
-      ],
-      "stargazers_count": 627,
-      "pushed_at": "2021-05-14T20:11:34Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "timely-dataflow",
-      "html_url": "https://github.com/TimelyDataflow/timely-dataflow",
-      "description": "A modular implementation of timely dataflow in Rust",
-      "topics": [],
-      "stargazers_count": 3592,
-      "pushed_at": "2026-03-21T23:03:41Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "Andromeda",
-      "html_url": "https://github.com/iqiyi/Andromeda",
-      "description": " Andromeda simplifies local/remote communication for Android modularization",
-      "topics": [
-        "android",
-        "ipc",
-        "modularization",
-        "router"
-      ],
-      "stargazers_count": 2273,
-      "pushed_at": "2019-09-16T06:24:59Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "browserify-handbook",
-      "html_url": "https://github.com/browserify/browserify-handbook",
-      "description": "how to build modular applications with browserify",
-      "topics": [],
-      "stargazers_count": 4609,
-      "pushed_at": "2024-12-21T10:01:06Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "react-awesome-slider",
-      "html_url": "https://github.com/rcaferati/react-awesome-slider",
-      "description": "A performant, lightweight React slider/carousel for media and content transitions, featuring 60fps animations, modular styling, optional HOCs, and fullpage navigation utilities. 🖥️📱",
-      "topics": [
-        "carousel",
-        "carousel-component",
-        "fullpage-navigation-hoc",
-        "gallery",
-        "gallery-component",
-        "gatsbyjs",
-        "image-gallery",
-        "image-slider",
-        "media-gallery",
-        "media-slider",
-        "next",
-        "next-page-transitions",
-        "nextjs",
-        "react",
-        "react-carousel",
-        "react-component",
-        "react-gallery",
-        "react-slider",
-        "reactjs",
-        "ui-components"
-      ],
-      "stargazers_count": 2970,
-      "pushed_at": "2026-03-21T20:03:46Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "libp2p",
-      "html_url": "https://github.com/libp2p/libp2p",
-      "description": "A modular and extensible networking stack which solves many challenges of peer-to-peer applications.",
-      "topics": [],
-      "stargazers_count": 2990,
-      "pushed_at": "2026-03-18T05:22:52Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "Kratos",
-      "html_url": "https://github.com/KratosMultiphysics/Kratos",
-      "description": "Kratos Multiphysics (A.K.A Kratos) is a framework for building parallel multi-disciplinary simulation software. Modularity, extensibility and HPC are the main objectives. Kratos has BSD license and is written in C++ with extensive Python interface.",
-      "topics": [
-        "bsd-license",
-        "c-plus-plus",
-        "dem",
-        "fem",
-        "kratos",
-        "kratos-multiphysics",
-        "mpi",
-        "multi-platform",
-        "multiphysics",
-        "numerical-methods",
-        "openmp",
-        "parallel-computing",
-        "python"
-      ],
-      "stargazers_count": 1238,
-      "pushed_at": "2026-03-23T23:08:50Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "macaron",
-      "html_url": "https://github.com/go-macaron/macaron",
-      "description": "Package macaron is a high productive and modular web framework in Go.",
-      "topics": [
-        "go",
-        "macaron",
-        "web-framework"
-      ],
-      "stargazers_count": 3555,
-      "pushed_at": "2026-02-16T00:42:27Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "BespokeSynth",
-      "html_url": "https://github.com/BespokeSynth/BespokeSynth",
-      "description": "Software modular synth",
-      "topics": [],
-      "stargazers_count": 4552,
-      "pushed_at": "2026-03-23T01:50:04Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "react-timeseries-charts",
-      "html_url": "https://github.com/esnet/react-timeseries-charts",
-      "description": "Declarative and modular timeseries charting components for React",
-      "topics": [
-        "chart",
-        "javascript",
-        "pond",
-        "react",
-        "timeseries"
-      ],
-      "stargazers_count": 876,
-      "pushed_at": "2023-09-18T09:32:05Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "evilgrade",
-      "html_url": "https://github.com/infobyte/evilgrade",
-      "description": "Evilgrade is a modular framework that allows the user to take advantage of poor upgrade implementations by injecting fake updates.",
-      "topics": [
-        "evilgrade",
-        "fake",
-        "mitm",
-        "payload",
-        "penetration",
-        "pentest",
-        "security",
-        "update"
-      ],
-      "stargazers_count": 1322,
-      "pushed_at": "2021-09-01T17:08:27Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "enyo",
-      "html_url": "https://github.com/enyojs/enyo",
-      "description": "A JavaScript application framework emphasizing modularity and encapsulation",
-      "topics": [],
-      "stargazers_count": 1925,
-      "pushed_at": "2019-03-14T17:53:41Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "emp3r0r",
-      "html_url": "https://github.com/jm33-m0/emp3r0r",
-      "description": "Self‑healing Gossip Mesh C2 with Assisted Peer Discovery, Modular Post‑Exploitation, and OPSEC‑Focused Transport",
-      "topics": [
-        "c2",
-        "emp3r0r",
-        "hacking-tool",
-        "linux",
-        "local-privilege-escalation",
-        "malware",
-        "penetration-testing-framework",
-        "post-exploitation",
-        "rat",
-        "redteam",
-        "redteaming",
-        "rootkit",
-        "stealth",
-        "trojan-malware"
-      ],
-      "stargazers_count": 1694,
-      "pushed_at": "2026-03-21T23:15:50Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "Qigsaw",
-      "html_url": "https://github.com/iqiyi/Qigsaw",
-      "description": "🔥🔥Qigsaw ['tʃɪɡsɔ] is a dynamic modularization library which is based on Android App Bundles(Do not need Google Play Service). It supports dynamic delivery for split APKs without reinstalling the base one.",
-      "topics": [
-        "android",
-        "android-app-bundle",
-        "dynamic",
-        "iqiyi",
-        "java",
-        "play",
-        "play-core",
-        "plugin-framework",
-        "split-apk"
-      ],
-      "stargazers_count": 1694,
-      "pushed_at": "2023-10-25T03:57:57Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "RAGatouille",
-      "html_url": "https://github.com/AnswerDotAI/RAGatouille",
-      "description": "Easily use and train state of the art late-interaction retrieval methods (ColBERT) in any RAG pipeline. Designed for modularity and ease-of-use, backed by research.",
-      "topics": [],
-      "stargazers_count": 3887,
-      "pushed_at": "2025-05-17T12:45:38Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "poppy-humanoid",
-      "html_url": "https://github.com/poppy-project/poppy-humanoid",
-      "description": "Poppy Humanoid is an open-source and 3D printed humanoid robot. Optimized for research and education purposes, its modularity allows for a wide range of applications and experimentations. ",
-      "topics": [
-        "poppy",
-        "robot",
-        "robotics"
-      ],
-      "stargazers_count": 878,
-      "pushed_at": "2021-12-06T18:19:35Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "swayswap",
-      "html_url": "https://github.com/FuelLabs/swayswap",
-      "description": "SwaySwap is a blazingly fast DEX built on the fastest modular execution layer: Fuel.",
-      "topics": [],
-      "stargazers_count": 1079,
-      "pushed_at": "2024-02-23T08:16:44Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "cryptii",
-      "html_url": "https://github.com/cryptii/cryptii",
-      "description": "A web app for modular conversion, encoding, and encryption, all performed directly in your browser with no server interaction",
-      "topics": [
-        "cipher",
-        "conversion",
-        "encoding",
-        "encryption",
-        "enigma",
-        "enigma-machine",
-        "framework",
-        "webapp"
-      ],
-      "stargazers_count": 1474,
-      "pushed_at": "2024-10-27T20:32:29Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "FlyEnv",
-      "html_url": "https://github.com/xpf0000/FlyEnv",
-      "description": "Lightweight Native Local Dev Toolbox for Windows, macOS & Linux. Run OpenClaw/n8n/Apache/Nginx/Caddy/Tomcat/PHP/Node.js/Bun/Deno/Python/Java/Go/Ruby/Perl/Rust/Erlang/MySQL/PostgreSQL/MariaDB/MongoDB/Redis/RabbitMQ/Mailpit/Elasticsearch without Docker. The faster, modular alternative to XAMPP/MAMP/Laravel Herd/NVM/FNM/PHPStudy...",
-      "topics": [
-        "database",
-        "developer-tools",
-        "development-environment",
-        "docker",
-        "laragon",
-        "laravel",
-        "laravel-herd",
-        "mamp",
-        "mysql",
-        "n8n",
-        "nodejs",
-        "openclaw",
-        "php",
-        "php-environment",
-        "podman",
-        "python",
-        "wamp",
-        "windows",
-        "wordpress",
-        "xampp"
-      ],
-      "stargazers_count": 2574,
-      "pushed_at": "2026-03-23T13:40:53Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "bumblebee-status",
-      "html_url": "https://github.com/tobi-wan-kenobi/bumblebee-status",
-      "description": "bumblebee-status is a modular, theme-able status line generator for the i3 window manager.",
-      "topics": [
-        "gruvbox",
-        "hacktoberfest",
-        "i3bar",
-        "i3wm",
-        "nord",
-        "powerline",
-        "solarized"
-      ],
-      "stargazers_count": 1285,
-      "pushed_at": "2026-03-21T19:46:53Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "company-mode",
-      "html_url": "https://github.com/company-mode/company-mode",
-      "description": "Modular in-buffer completion framework for Emacs",
-      "topics": [
-        "code-completion",
-        "emacs-lisp"
-      ],
-      "stargazers_count": 2274,
-      "pushed_at": "2026-03-19T02:23:53Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "piston",
-      "html_url": "https://github.com/PistonDevelopers/piston",
-      "description": "A modular game engine written in Rust",
-      "topics": [
-        "modular-game-engine",
-        "piston",
-        "rust"
-      ],
-      "stargazers_count": 4701,
-      "pushed_at": "2024-05-21T23:30:18Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "tachyon",
-      "html_url": "https://github.com/kroma-network/tachyon",
-      "description": "Modular ZK(Zero Knowledge) backend accelerated by GPU",
-      "topics": [
-        "blockchain",
-        "c-plus-plus",
-        "cpp17",
-        "cryptocurrency",
-        "cryptography",
-        "cuda",
-        "kroma",
-        "tachyon",
-        "zero-knowledge",
-        "zk"
-      ],
-      "stargazers_count": 7703,
-      "pushed_at": "2024-11-29T10:05:23Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "plottable",
-      "html_url": "https://github.com/palantir/plottable",
-      "description": ":bar_chart: A library of modular chart components built on D3",
-      "topics": [
-        "chart",
-        "chart-component",
-        "charting-library",
-        "d3",
-        "flexible",
-        "javascript",
-        "octo-correct-managed",
-        "plots",
-        "plottable",
-        "typescript"
-      ],
-      "stargazers_count": 3073,
-      "pushed_at": "2025-09-08T15:43:09Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "pelias",
-      "html_url": "https://github.com/pelias/pelias",
-      "description": "Pelias is a modular open-source geocoder using Elasticsearch.",
-      "topics": [],
-      "stargazers_count": 3509,
-      "pushed_at": "2026-03-20T21:55:04Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "Platform",
-      "html_url": "https://github.com/AsgardCms/Platform",
-      "description": "A modular multilingual CMS built with Laravel 5.",
-      "topics": [
-        "asgardcms",
-        "cmf",
-        "cms",
-        "framework",
-        "hacktoberfest",
-        "laravel",
-        "php"
-      ],
-      "stargazers_count": 788,
-      "pushed_at": "2023-01-20T08:40:26Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "VisualHFT",
-      "html_url": "https://github.com/visualHFT/VisualHFT",
-      "description": "VisualHFT is a WPF/C# desktop GUI that shows market microstructure in real time. You can track advanced limit‑order‑book dynamics and execution quality, then use its modular plugins to shape the analysis to your workflow.",
-      "topics": [
-        "analytics",
-        "csharp",
-        "high-frequency-analytics",
-        "high-frequency-data",
-        "high-frequency-trading",
-        "limit-order-book",
-        "market-analytics",
-        "market-data",
-        "market-microstructure",
-        "mvvm",
-        "mvvm-architecture",
-        "mvvm-pattern",
-        "orderbook-tick-data",
-        "tca",
-        "trading",
-        "trading-algorithms",
-        "trading-platform",
-        "wpf",
-        "wpf-application",
-        "wpf-ui"
-      ],
-      "stargazers_count": 1105,
-      "pushed_at": "2026-03-21T02:41:16Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "wayfire",
-      "html_url": "https://github.com/WayfireWM/wayfire",
-      "description": "A modular and extensible wayland compositor",
-      "topics": [
-        "wayfire",
-        "wayland",
-        "wayland-compositor",
-        "window-manager"
-      ],
-      "stargazers_count": 2940,
-      "pushed_at": "2026-03-19T19:55:55Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "seed4j",
-      "html_url": "https://github.com/seed4j/seed4j",
-      "description": "Seed4J is a modular code generator with clean architecture",
-      "topics": [
-        "generator",
-        "hacktoberfest",
-        "hexagonal-architecture",
-        "java",
-        "spring-boot",
-        "typescript",
-        "vuejs"
-      ],
-      "stargazers_count": 606,
-      "pushed_at": "2026-03-24T01:54:23Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "ack-nestjs-boilerplate",
-      "html_url": "https://github.com/andrechristikan/ack-nestjs-boilerplate",
-      "description": "NestJs Boilerplate. MongoDB (or can chage to any other DB you like) with Prisma. Repository Design Pattern and Modular.",
-      "topics": [
-        "mongodb",
-        "nestjs",
-        "nestjs-backend",
-        "nestjs-boilerplate",
-        "nestjs-example",
-        "nestjs-mongo",
-        "nestjs-postgres",
-        "nestjs-starter",
-        "nestjs-starter-template",
-        "nestjs-swagger",
-        "nodejs",
-        "prisma",
-        "prisma-orm",
-        "swagger",
-        "typescript"
-      ],
-      "stargazers_count": 641,
-      "pushed_at": "2026-03-12T06:41:18Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "montage",
-      "html_url": "https://github.com/montagejs/montage",
-      "description": "Montage is an elegant, open source HTML5 framework maintained by Montage Studio that rivals native SDKs, yet is easier to learn. It offers modular components, two-way data binding, and much more. Join us on irc.freenode.net#montage. Sign up for our beta to build Montage applications in the cloud.",
-      "topics": [],
-      "stargazers_count": 1501,
-      "pushed_at": "2024-05-28T23:37:09Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "nvf",
-      "html_url": "https://github.com/NotAShelf/nvf",
-      "description": "Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS",
-      "topics": [
-        "home-manager",
-        "neovim",
-        "neovim-flake",
-        "nix",
-        "nix-flake",
-        "nixos-module",
-        "nvim"
-      ],
-      "stargazers_count": 1424,
-      "pushed_at": "2026-03-23T22:47:34Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "fsociety",
-      "html_url": "https://github.com/fsociety-team/fsociety",
-      "description": "A Modular Penetration Testing Framework",
-      "topics": [
-        "cli",
-        "docker",
-        "fsociety",
-        "osint",
-        "penetration-testing",
-        "python",
-        "python3"
-      ],
-      "stargazers_count": 1702,
-      "pushed_at": "2026-03-16T19:03:50Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "jooby",
-      "html_url": "https://github.com/jooby-project/jooby",
-      "description": "The modular web framework for Java and Kotlin",
-      "topics": [
-        "kotlin",
-        "micro-framework",
-        "microframework",
-        "modular",
-        "web-framework",
-        "webframework"
-      ],
-      "stargazers_count": 1770,
-      "pushed_at": "2026-03-23T00:20:37Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "webshim",
-      "html_url": "https://github.com/aFarkas/webshim",
-      "description": "[DEPRECATED] Webshims Lib is a modular capability-based polyfill-loading library",
-      "topics": [],
-      "stargazers_count": 1403,
-      "pushed_at": "2017-05-09T14:06:36Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "medusa",
-      "html_url": "https://github.com/jmk-foofus/medusa",
-      "description": "Medusa is a speedy, parallel, and modular, login brute-forcer. ",
-      "topics": [],
-      "stargazers_count": 852,
-      "pushed_at": "2025-05-14T01:17:52Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "Cardinal",
-      "html_url": "https://github.com/DISTRHO/Cardinal",
-      "description": "Virtual modular synthesizer plugin",
-      "topics": [
-        "audio",
-        "eurorack",
-        "lv2-plugin",
-        "plugin",
-        "vcvrack",
-        "vst-plugin"
-      ],
-      "stargazers_count": 2971,
-      "pushed_at": "2026-03-07T00:16:31Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "mcap",
-      "html_url": "https://github.com/foxglove/mcap",
-      "description": "MCAP is a modular, performant, and serialization-agnostic container file format, useful for pub/sub and robotics applications.",
-      "topics": [
-        "cpp",
+        "ai-scraping",
         "data",
-        "deserialization",
-        "golang",
-        "python",
-        "robotics",
-        "serialization",
-        "swift",
-        "typescript"
+        "examples",
+        "html-to-markdown",
+        "llm",
+        "markdown",
+        "rag",
+        "scrapers",
+        "templates",
+        "web-crawler"
       ],
-      "stargazers_count": 876,
-      "pushed_at": "2026-03-22T23:46:30Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
+      "stargazers_count": 697,
+      "pushed_at": "2026-01-13T18:45:27Z",
+      "added_to_queue": "2026-03-24T06:58:46.707Z"
     },
     {
-      "name": "material-components-flutter",
-      "html_url": "https://github.com/material-components/material-components-flutter",
-      "description": "Modular and customizable Material Design UI components for Flutter",
+      "name": "Chinese-Llama-2-7b",
+      "html_url": "https://github.com/LinkSoul-AI/Chinese-Llama-2-7b",
+      "description": "开源社区第一个能下载、能运行的中文 LLaMA2 模型！",
       "topics": [
-        "flutter",
-        "material",
-        "material-components",
-        "material-design"
+        "deep-learning",
+        "llama2",
+        "llama2-docker",
+        "llm",
+        "pytorch"
       ],
-      "stargazers_count": 910,
-      "pushed_at": "2022-09-24T13:21:55Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
+      "stargazers_count": 2220,
+      "pushed_at": "2023-10-26T01:37:18Z",
+      "added_to_queue": "2026-03-24T06:58:46.707Z"
     },
     {
-      "name": "open-mercato",
-      "html_url": "https://github.com/open-mercato/open-mercato",
-      "description": " AI‑supportive CRM / ERP foundation framework — built to power R&D, new processes, operations, and growth. It’s modular, extensible, and designed for teams that want strong defaults with room to customize everything. Better than Django, Retool and other alternatives - and Enterprise Grade!",
+      "name": "LLMZoo",
+      "html_url": "https://github.com/FreedomIntelligence/LLMZoo",
+      "description": "⚡LLM Zoo is a project that provides data, models, and evaluation benchmark for large language models.⚡",
+      "topics": [],
+      "stargazers_count": 2953,
+      "pushed_at": "2023-11-26T17:48:30Z",
+      "added_to_queue": "2026-03-24T06:58:46.707Z"
+    },
+    {
+      "name": "cat",
+      "html_url": "https://github.com/celaraze/cat",
+      "description": "Sebastian is a LLM assistant with the ability to have permanent memory.",
+      "topics": [],
+      "stargazers_count": 909,
+      "pushed_at": "2025-11-12T23:33:40Z",
+      "added_to_queue": "2026-03-24T06:58:46.707Z"
+    },
+    {
+      "name": "AQLM",
+      "html_url": "https://github.com/Vahe1994/AQLM",
+      "description": "Official Pytorch repository for Extreme Compression of Large Language Models via Additive Quantization https://arxiv.org/pdf/2401.06118.pdf and PV-Tuning: Beyond Straight-Through Estimation for Extreme LLM Compression https://arxiv.org/abs/2405.14852",
+      "topics": [],
+      "stargazers_count": 1315,
+      "pushed_at": "2026-02-26T13:58:35Z",
+      "added_to_queue": "2026-03-24T06:58:46.707Z"
+    },
+    {
+      "name": "wordpecker-app",
+      "html_url": "https://github.com/baturyilmaz/wordpecker-app",
+      "description": " A personalized language-learning tool that combines Duolingo-style lessons with your own curated vocabulary lists. Seamlessly add words from books, articles, or videos, and revisit them through interactive quizzes and LLM-generated lessons. ",
+      "topics": [],
+      "stargazers_count": 1957,
+      "pushed_at": "2025-08-08T11:44:40Z",
+      "added_to_queue": "2026-03-24T06:58:46.707Z"
+    },
+    {
+      "name": "JittorLLMs",
+      "html_url": "https://github.com/Jittor/JittorLLMs",
+      "description": "计图大模型推理库，具有高性能、配置要求低、中文支持好、可移植等特点",
+      "topics": [],
+      "stargazers_count": 2424,
+      "pushed_at": "2025-02-22T15:02:56Z",
+      "added_to_queue": "2026-03-24T06:58:46.707Z"
+    },
+    {
+      "name": "langchain",
+      "html_url": "https://github.com/brainlid/langchain",
+      "description": "Elixir implementation of a LangChain style framework that lets Elixir projects integrate with and leverage LLMs.",
       "topics": [
-        "crm",
-        "crm-platform",
-        "erp",
-        "typescript"
+        "ai",
+        "anthropic",
+        "bumblebee",
+        "chatgpt",
+        "claude-ai",
+        "elixir",
+        "langchain",
+        "llm"
       ],
-      "stargazers_count": 1124,
-      "pushed_at": "2026-03-23T21:21:54Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
+      "stargazers_count": 1118,
+      "pushed_at": "2026-03-13T02:31:11Z",
+      "added_to_queue": "2026-03-24T06:58:46.708Z"
     },
     {
-      "name": "Loritta",
-      "html_url": "https://github.com/LorittaBot/Loritta",
-      "description": "💁 A multipurpose, multilanguage, customizable, modular, and very cute bot for Discord! ~Making your server more awesome~",
+      "name": "Long-Novel-GPT",
+      "html_url": "https://github.com/MaoXiaoYuZ/Long-Novel-GPT",
+      "description": "该项目包括一个基于 GPT 等大语言模型的长篇小说生成器，同时还有各类小说生成 Prompt 以及教程。我们欢迎社区贡献，持续更新以提供最佳的小说创作体验。",
       "topics": [
-        "bot",
-        "compose-html",
-        "dashboard",
-        "discord",
-        "discord-api",
-        "discord-bot",
-        "fun",
-        "i18n",
-        "jda",
-        "kotlin",
-        "kotlinjs",
-        "ktor",
-        "memes",
-        "moderation",
-        "moderation-bot"
+        "ai",
+        "chatgpt",
+        "gpt",
+        "llm",
+        "novel"
       ],
-      "stargazers_count": 730,
-      "pushed_at": "2026-03-23T15:36:04Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
+      "stargazers_count": 1034,
+      "pushed_at": "2025-11-05T03:19:26Z",
+      "added_to_queue": "2026-03-24T06:58:46.708Z"
     },
     {
-      "name": "ethrex",
-      "html_url": "https://github.com/lambdaclass/ethrex",
-      "description": "Minimalist, stable, modular, fast, and ZK native implementation of the Ethereum protocol in Rust. L1 and L2 execution client.",
+      "name": "metaso-free-api",
+      "html_url": "https://github.com/LLM-Red-Team/metaso-free-api",
+      "description": "🚀 秘塔AI搜索逆向API【特长：超强检索超长输出】，支持高速流式输出、超强联网搜索（全网or学术以及简洁、深入、研究三种模式），零配置部署，多路token支持，仅供测试，如需商用请前往官方开放平台。",
       "topics": [
-        "blockchain",
-        "distributed-systems",
-        "ethereum",
-        "execution-layer",
-        "p2p",
-        "rollup",
-        "rollups",
-        "rust",
-        "zero-knowledge"
+        "chat-api",
+        "chatbot",
+        "chatgpt-api",
+        "llm",
+        "metaso",
+        "search",
+        "search-engine"
       ],
-      "stargazers_count": 859,
-      "pushed_at": "2026-03-23T20:01:52Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
+      "stargazers_count": 803,
+      "pushed_at": "2024-12-04T09:06:39Z",
+      "added_to_queue": "2026-03-24T06:58:46.708Z"
     },
     {
-      "name": "zimfw",
-      "html_url": "https://github.com/zimfw/zimfw",
-      "description": "Zim Framework: The Zsh configuration framework with blazing speed and modular extensions.",
-      "topics": [
-        "framework",
-        "zim",
-        "zimfw",
-        "zsh",
-        "zsh-configuration",
-        "zsh-plugin-manager"
-      ],
-      "stargazers_count": 4555,
-      "pushed_at": "2026-01-08T01:11:26Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
+      "name": "clewdr",
+      "html_url": "https://github.com/Xerxes-2/clewdr",
+      "description": "High Performance LLM Reverse Proxy",
+      "topics": [],
+      "stargazers_count": 1044,
+      "pushed_at": "2026-03-16T02:32:44Z",
+      "added_to_queue": "2026-03-24T06:58:46.708Z"
     },
     {
-      "name": "spring-modulith",
-      "html_url": "https://github.com/spring-projects/spring-modulith",
-      "description": "Modular applications with Spring Boot",
-      "topics": [
-        "architecture",
-        "modularity",
-        "spring-boot"
-      ],
-      "stargazers_count": 1093,
-      "pushed_at": "2026-03-20T07:40:42Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "teach-rs",
-      "html_url": "https://github.com/trifectatechfoundation/teach-rs",
-      "description": "A modular, reusable university course for Rust",
-      "topics": [
-        "education",
-        "rust"
-      ],
-      "stargazers_count": 3344,
-      "pushed_at": "2026-03-20T10:23:05Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "Fields2Cover",
-      "html_url": "https://github.com/Fields2Cover/Fields2Cover",
-      "description": "Robust and efficient coverage paths for autonomous agricultural vehicles.  A modular and extensible Coverage Path Planning library",
-      "topics": [
-        "agriculture",
-        "autonomous-vehicles",
-        "coverage-path-planning",
-        "cpp17",
-        "path-planning"
-      ],
-      "stargazers_count": 780,
-      "pushed_at": "2026-03-02T09:43:41Z",
-      "added_to_queue": "2026-03-24T01:55:36.306Z"
-    },
-    {
-      "name": "chartbrew",
-      "html_url": "https://github.com/chartbrew/chartbrew",
-      "description": "Open-source reporting platform to build and share live dashboards from APIs, SQL and NoSQL databases, with powerful AI assistant, scheduling, and embeddable charts 📈📊",
-      "topics": [
-        "analytics",
-        "api",
-        "chartjs",
-        "charts",
-        "dashboard",
-        "data-visualization",
-        "firebase",
-        "firebase-firestore",
-        "firestore",
-        "mongo",
-        "mongodb",
-        "mysql",
-        "nodejs",
-        "postgresql",
-        "react",
-        "reactjs",
-        "realtime-database",
-        "redux"
-      ],
-      "stargazers_count": 3684,
-      "pushed_at": "2026-03-23T19:00:48Z",
-      "added_to_queue": "2026-03-24T01:56:27.397Z"
-    },
-    {
-      "name": "awesome",
-      "html_url": "https://github.com/chartjs/awesome",
-      "description": "A curated list of awesome Chart.js resources and libraries",
+      "name": "awesome-llm-security",
+      "html_url": "https://github.com/corca-ai/awesome-llm-security",
+      "description": "A curation of awesome tools, documents and projects about LLM Security.",
       "topics": [
         "awesome",
-        "chartjs",
-        "charts",
-        "integrations",
-        "plugins",
-        "resources"
+        "awesome-list",
+        "llm",
+        "security"
       ],
-      "stargazers_count": 2637,
-      "pushed_at": "2026-03-23T13:19:39Z",
-      "added_to_queue": "2026-03-24T01:56:27.397Z"
+      "stargazers_count": 1554,
+      "pushed_at": "2025-08-20T01:27:47Z",
+      "added_to_queue": "2026-03-24T06:58:46.708Z"
     },
     {
-      "name": "FitTrackee",
-      "html_url": "https://github.com/SamR1/FitTrackee",
-      "description": "Self-hosted outdoor activity tracker :bicyclist:",
+      "name": "chunkr",
+      "html_url": "https://github.com/lumina-ai-inc/chunkr",
+      "description": "Vision infrastructure to turn complex documents into RAG/LLM-ready data",
+      "topics": [],
+      "stargazers_count": 2940,
+      "pushed_at": "2025-09-24T21:36:30Z",
+      "added_to_queue": "2026-03-24T06:58:46.708Z"
+    },
+    {
+      "name": "Multi-Agent-Medical-Assistant",
+      "html_url": "https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant",
+      "description": "⚕️GenAI powered multi-agentic medical diagnostics and healthcare research assistance chatbot. 🏥 Designed for healthcare professionals, researchers and patients.",
       "topics": [
-        "activity-tracker",
-        "chartjs",
-        "flask",
-        "gpx",
-        "gpxpy",
-        "leaflet",
-        "outdoor-activities",
+        "agent",
+        "agentic-ai",
+        "agents",
+        "chatbot",
+        "computer-vision",
+        "disease-detection",
+        "genai",
+        "genai-chatbot",
+        "generative-ai",
+        "guardrails",
+        "langchain",
+        "langgraph",
+        "large-language-models",
+        "llm",
+        "medical-image-processing",
+        "medical-imaging",
         "python",
-        "self-hosted",
-        "vue3",
-        "workout-tracker",
-        "workouts"
+        "rag",
+        "retrieval-augmented-generation",
+        "vector-database"
       ],
-      "stargazers_count": 1087,
-      "pushed_at": "2026-03-22T19:28:15Z",
-      "added_to_queue": "2026-03-24T01:56:27.397Z"
+      "stargazers_count": 831,
+      "pushed_at": "2025-05-03T04:43:30Z",
+      "added_to_queue": "2026-03-24T06:58:46.708Z"
     },
     {
-      "name": "vue-chartjs",
-      "html_url": "https://github.com/apertureless/vue-chartjs",
-      "description": "📊  Vue.js wrapper for Chart.js",
-      "topics": [
-        "chart",
-        "charting-library",
-        "chartjs",
-        "diagram",
-        "diagrams",
-        "doughnut",
-        "pie",
-        "visualisation",
-        "vue",
-        "vue-component",
-        "vue3",
-        "vuejs",
-        "vuejs2",
-        "vuejs3"
-      ],
-      "stargazers_count": 5721,
-      "pushed_at": "2026-03-23T13:56:30Z",
-      "added_to_queue": "2026-03-24T01:56:27.397Z"
+      "name": "genai-llm-ml-case-studies",
+      "html_url": "https://github.com/themanojdesai/genai-llm-ml-case-studies",
+      "description": "A collection of 500+ real-world ML & LLM system design case studies from 100+ companies. Learn how top tech firms implement GenAI in production.",
+      "topics": [],
+      "stargazers_count": 1364,
+      "pushed_at": "2025-06-21T03:51:09Z",
+      "added_to_queue": "2026-03-24T06:58:46.708Z"
     },
     {
-      "name": "react-chartjs-2",
-      "html_url": "https://github.com/reactchartjs/react-chartjs-2",
-      "description": "React components for Chart.js, the most popular charting library",
-      "topics": [
-        "chart",
-        "charting-library",
-        "chartjs",
-        "chartjs-2",
-        "charts",
-        "data-visualization",
-        "datavis",
-        "datavisualization",
-        "dataviz-tools",
-        "react",
-        "reactjs",
-        "visualization"
-      ],
-      "stargazers_count": 6924,
-      "pushed_at": "2026-03-23T17:36:06Z",
-      "added_to_queue": "2026-03-24T01:56:27.398Z"
+      "name": "engshell",
+      "html_url": "https://github.com/emcf/engshell",
+      "description": "An English-language shell for any OS, powered by LLMs",
+      "topics": [],
+      "stargazers_count": 2159,
+      "pushed_at": "2026-02-07T02:01:45Z",
+      "added_to_queue": "2026-03-24T06:58:46.708Z"
     },
     {
-      "name": "sufee-admin-dashboard",
-      "html_url": "https://github.com/puikinsh/sufee-admin-dashboard",
-      "description": "A simple yet powerful Bootstrap 5 admin dashboard template. ",
+      "name": "HuixiangDou",
+      "html_url": "https://github.com/InternLM/HuixiangDou",
+      "description": "HuixiangDou: Overcoming Group Chat Scenarios with LLM-based Technical Assistance",
       "topics": [
-        "admin",
-        "admin-dashboard",
-        "admin-dashboard-template",
-        "admin-panel",
-        "admin-template",
-        "admin-ui",
-        "bootstrap5",
-        "chartjs",
-        "css",
-        "dashboard",
-        "dashboard-template",
-        "dashboard-templates",
-        "dashboards",
-        "html",
-        "vite"
+        "application",
+        "assistant",
+        "assistant-chat-bots",
+        "chatbot",
+        "dsl",
+        "group-chat",
+        "image-retrieval",
+        "lark",
+        "llm",
+        "multimodal",
+        "pipeline",
+        "rag",
+        "robot",
+        "wechat"
       ],
-      "stargazers_count": 895,
-      "pushed_at": "2026-03-21T10:29:58Z",
-      "added_to_queue": "2026-03-24T01:56:27.398Z"
+      "stargazers_count": 2483,
+      "pushed_at": "2025-11-24T11:17:29Z",
+      "added_to_queue": "2026-03-24T06:58:46.708Z"
     },
     {
-      "name": "chartkick",
-      "html_url": "https://github.com/ankane/chartkick",
-      "description": "Create beautiful JavaScript charts with one line of Ruby",
+      "name": "aigc",
+      "html_url": "https://github.com/phodal/aigc",
+      "description": "《构筑大语言模型应用：应用开发与架构设计》一本关于 LLM 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括Prompt的编写、开发和管理，探索最好的大语言模型能带来什么，以及LLM应用开发的模式和架构设计。",
       "topics": [
-        "chartjs",
-        "charts",
-        "google-charts",
-        "highcharts",
-        "visualization"
+        "aigc",
+        "chatgpt",
+        "ebook",
+        "llm",
+        "opensource"
       ],
-      "stargazers_count": 6519,
-      "pushed_at": "2026-01-16T04:44:45Z",
-      "added_to_queue": "2026-03-24T01:56:27.398Z"
+      "stargazers_count": 1634,
+      "pushed_at": "2024-01-23T10:02:45Z",
+      "added_to_queue": "2026-03-24T06:58:46.708Z"
     },
     {
-      "name": "ExpenseOwl",
-      "html_url": "https://github.com/Tanq16/ExpenseOwl",
-      "description": "Extremely simple, self-hosted expense tracker with a beautiful UI.",
-      "topics": [
-        "chartjs",
-        "docker",
-        "expense-manager",
-        "expense-tracker",
-        "finance",
-        "finance-management",
-        "finance-tracker",
-        "go",
-        "golang",
-        "homelab",
-        "personal-finance",
-        "self-hosted"
-      ],
-      "stargazers_count": 1398,
-      "pushed_at": "2025-10-18T14:33:23Z",
-      "added_to_queue": "2026-03-24T01:56:27.398Z"
-    },
-    {
-      "name": "chartjs-plugin-annotation",
-      "html_url": "https://github.com/chartjs/chartjs-plugin-annotation",
-      "description": "Annotation plugin for Chart.js",
-      "topics": [
-        "annotation",
-        "chartjs",
-        "plugin"
-      ],
-      "stargazers_count": 625,
-      "pushed_at": "2025-03-10T22:22:21Z",
-      "added_to_queue": "2026-03-24T01:56:27.398Z"
-    },
-    {
-      "name": "tailwind-dashboard-template",
-      "html_url": "https://github.com/cruip/tailwind-dashboard-template",
-      "description": "Mosaic Lite is a free admin dashboard template built on top of Tailwind CSS and fully coded in React. Made by",
-      "topics": [
-        "admin-dashboard",
-        "analytics-dashboard",
-        "chartjs",
-        "dashboard",
-        "dashboard-templates",
-        "dashboards",
-        "flatpickr",
-        "react",
-        "reactjs",
-        "tailwind",
-        "tailwind-css",
-        "tailwindcss",
-        "templates",
-        "vite",
-        "vitejs"
-      ],
-      "stargazers_count": 2766,
-      "pushed_at": "2025-03-02T15:55:04Z",
-      "added_to_queue": "2026-03-24T01:56:27.398Z"
-    },
-    {
-      "name": "chartjs-plugin-zoom",
-      "html_url": "https://github.com/chartjs/chartjs-plugin-zoom",
-      "description": "Zoom and pan plugin for Chart.js",
-      "topics": [
-        "chartjs",
-        "pan",
-        "plugin",
-        "zoom"
-      ],
-      "stargazers_count": 627,
-      "pushed_at": "2025-02-17T18:01:27Z",
-      "added_to_queue": "2026-03-24T01:56:27.398Z"
-    },
-    {
-      "name": "project-management",
-      "html_url": "https://github.com/devaslanphp/project-management",
-      "description": "An open source Project management tool based on Laravel and Filament",
-      "topics": [
-        "alpinejs",
-        "chartjs",
-        "filament",
-        "filament-excel",
-        "filament-notifications",
-        "filament-tables",
-        "helpdesk",
-        "kanban",
-        "kanban-board",
-        "laravel",
-        "laravel-excel-export",
-        "laravel-vite",
-        "livewire",
-        "open-source",
-        "permissions",
-        "php",
-        "support",
-        "tailwindcss"
-      ],
-      "stargazers_count": 1052,
-      "pushed_at": "2024-08-01T08:44:48Z",
-      "added_to_queue": "2026-03-24T01:56:27.398Z"
-    },
-    {
-      "name": "ChartJs.Blazor",
-      "html_url": "https://github.com/mariusmuntean/ChartJs.Blazor",
-      "description": "Brings Chart.js charts to Blazor",
-      "topics": [
-        "asp-net-core",
-        "blazor",
-        "chartjs",
-        "charts",
-        "csharp",
-        "nojavascript",
-        "nuget",
-        "razor"
-      ],
-      "stargazers_count": 715,
-      "pushed_at": "2024-05-13T12:25:13Z",
-      "added_to_queue": "2026-03-24T01:56:27.398Z"
-    },
-    {
-      "name": "chartjs-plugin-datalabels",
-      "html_url": "https://github.com/chartjs/chartjs-plugin-datalabels",
-      "description": "Chart.js plugin to display labels on data elements",
-      "topics": [
-        "chartjs",
-        "chartjs-plugin",
-        "label",
-        "plugin"
-      ],
-      "stargazers_count": 919,
-      "pushed_at": "2024-01-17T17:15:22Z",
-      "added_to_queue": "2026-03-24T01:56:27.398Z"
-    },
-    {
-      "name": "chartjs-plugin-streaming",
-      "html_url": "https://github.com/nagix/chartjs-plugin-streaming",
-      "description": "Chart.js plugin for live streaming data",
-      "topics": [
-        "chartjs",
-        "live",
-        "monitoring",
-        "plugin",
-        "realtime",
-        "streaming",
-        "time-series"
-      ],
-      "stargazers_count": 585,
-      "pushed_at": "2023-07-12T22:01:00Z",
-      "added_to_queue": "2026-03-24T01:56:27.398Z"
-    },
-    {
-      "name": "chart",
-      "html_url": "https://github.com/marianogappa/chart",
-      "description": "Quick & smart charting for STDIN",
-      "topics": [
-        "chart",
-        "charting-library",
-        "chartjs",
-        "graphs"
-      ],
-      "stargazers_count": 549,
-      "pushed_at": "2023-04-10T03:59:55Z",
-      "added_to_queue": "2026-03-24T01:56:27.398Z"
-    },
-    {
-      "name": "octoprofile",
-      "html_url": "https://github.com/bchiang7/octoprofile",
-      "description": "A nicer look at GitHub profiles built with Next.js and the GitHub API",
-      "topics": [
-        "chartjs",
-        "github-api",
-        "nextjs"
-      ],
-      "stargazers_count": 501,
-      "pushed_at": "2023-01-05T16:17:23Z",
-      "added_to_queue": "2026-03-24T01:56:27.398Z"
-    },
-    {
-      "name": "PurpleAdmin-Free-Admin-Template",
-      "html_url": "https://github.com/BootstrapDash/PurpleAdmin-Free-Admin-Template",
-      "description": "Purple Admin is one of the most stylish Bootstrap admin dashboard you can get hands on. With its beautifully crafted captivating design and well-structured code.",
-      "topics": [
-        "admin-dashboard",
-        "bootstrap",
-        "bootstrap-template",
-        "bootstrap-theme",
-        "bootstrap5",
-        "chartjs",
-        "cms",
-        "crm",
-        "gulp",
-        "material-design",
-        "material-ui"
-      ],
-      "stargazers_count": 728,
-      "pushed_at": "2021-12-17T04:28:10Z",
-      "added_to_queue": "2026-03-24T01:56:27.398Z"
-    },
-    {
-      "name": "chartkick.py",
-      "html_url": "https://github.com/mher/chartkick.py",
-      "description": "Create beautiful Javascript charts with minimal code",
-      "topics": [
-        "chart",
-        "charting-library",
-        "chartjs",
-        "charts",
-        "django",
-        "flask",
-        "google-charts",
-        "highcharts",
-        "python",
-        "visualization"
-      ],
-      "stargazers_count": 696,
-      "pushed_at": "2020-12-22T10:03:23Z",
-      "added_to_queue": "2026-03-24T01:56:27.398Z"
+      "name": "mcp-server-mysql",
+      "html_url": "https://github.com/benborla/mcp-server-mysql",
+      "description": "A Model Context Protocol server that provides read-only access to MySQL databases. This server enables LLMs to inspect database schemas and execute read-only queries.",
+      "topics": [],
+      "stargazers_count": 1403,
+      "pushed_at": "2026-03-10T15:55:33Z",
+      "added_to_queue": "2026-03-24T06:58:46.708Z"
     }
   ]
 }

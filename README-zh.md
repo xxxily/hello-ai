@@ -115,6 +115,10 @@ cp .env.example .env
 - **`LLM_MODEL=`**：要执行推理的模型名字。
 - **`DISCOVER_BATCH_SIZE`** / **`EVALUATE_BATCH_SIZE`**：可控每次探索拉取的个数，及一次批量合并扔给 AI 判断的项目个数。
 - **`LOOP_INTERVAL_SECONDS`**: 可调整 `ai:loop-eval` 循环模式每次休息的打底时间（默认 60 秒）。
+- **`MAX_PAGES_DEFAULT`**: 每个话题默认探索的最大页数（默认：5）。
+- **`MAX_PAGES_QUALITY`**: 高质量话题探索的最大页数（默认：20）。
+- **`QUALITY_TOPIC_THRESHOLD`**: 判定为高质量话题的分数阈值（默认：5）。
+- **`AUTO_FETCH_DESC_STARS`**: 自动获取缺失描述的 Star 阈值（默认：1000）。
 
 ### 3. 开始执行自动化作业
 您可以按照需求来跑跑脚本：
@@ -154,6 +158,8 @@ cp .env.example .env
   - `time`: 优先探索最后探索时间最久远的主题。
 - `--topic-order=asc|desc`: 排序方向（默认质量降序/时间升序）。
 - `--consume-only`: 仅从本地队列评估，不向 GitHub 发起新搜索。
+- `--resume`: 恢复上次探索进度，从记录的主题和页码继续。
+- `--update-only`: 仅更新现有项目统计信息，跳过 LLM 评估阶段。
 - `--init-topics`: (仅限初始化) 根据 `projects.json` 已有数据重新初始化 `topics.json` 的质量评分。
 
 ### 4. 动态生成页面与本地阅览

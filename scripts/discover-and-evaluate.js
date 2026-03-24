@@ -19,6 +19,23 @@ const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
 const DISCOVER_BATCH_SIZE = parseInt(process.env.DISCOVER_BATCH_SIZE || '10', 10);
 const EVALUATE_BATCH_SIZE = parseInt(process.env.EVALUATE_BATCH_SIZE || '5', 10);
 
+const MAX_PAGES_DEFAULT = parseInt(process.env.MAX_PAGES_DEFAULT || '5', 10);
+const MAX_PAGES_QUALITY = parseInt(process.env.MAX_PAGES_QUALITY || '20', 10);
+const QUALITY_TOPIC_THRESHOLD = parseInt(process.env.QUALITY_TOPIC_THRESHOLD || '5', 10);
+const AUTO_FETCH_DESC_STARS = parseInt(process.env.AUTO_FETCH_DESC_STARS || '1000', 10);
+
+const sessionFile = path.join(__dirname, '../data/discovery-session.json');
+
+async function fetchRepoDetails(full_name) {
+  const headers = { 'Accept': 'application/vnd.github.v3+json' };
+  if (GITHUB_TOKEN) {
+    headers['Authorization'] = `token ${GITHUB_TOKEN}`;
+  }
+  const res = await fetch(`https://api.github.com/repos/${full_name}`, { headers });
+  if (!res.ok) return null;
+  return await res.json();
+}
+
 function loadJson(filePath, defaultVal = null) {
   if (fs.existsSync(filePath)) {
     try { return JSON.parse(fs.readFileSync(filePath, 'utf-8')); }
@@ -67,18 +84,15 @@ async function askLLM(prompt) {
 
 // 1. Discover mode
 async function discover() {
-  if (process.argv.includes('--consume-only')) {
+  const isResume = process.argv.includes('--resume');
+  const isUpdateOnly = process.argv.includes('--update-only');
+
+  if (process.argv.includes('--consume-only') && !isUpdateOnly) {
     console.log('⏭️ [Discovery] Skipped GitHub API discovery due to --consume-only flag.');
     return;
   }
 
-  console.log(`🔍 [Task Pool] Searching for trending AI projects (Max ${DISCOVER_BATCH_SIZE})...`);
-
-  const headers = { 'Accept': 'application/vnd.github.v3+json' };
-  if (GITHUB_TOKEN) {
-    headers['Authorization'] = `token ${GITHUB_TOKEN}`;
-  }
-
+  const session = loadJson(sessionFile, { lastTopic: null, lastPage: 0 }); // Always load session if it exists
   const topicsDb = loadJson(topicsFile, { active: { "ai": { level: 1, lastExplored: "1970-01-01T00:00:00Z" } }, niche: {}, exhausted: {} });
 
   // Select topic
@@ -90,7 +104,7 @@ async function discover() {
 
   // CLI Args Parsing for topic selection
   const sortTopicByMatch = process.argv.find(arg => arg.startsWith('--sort-topic-by='));
-  const sortTopicBy = sortTopicByMatch ? sortTopicByMatch.split('=')[1] : 'time'; // 'time' or 'quality'
+  const sortTopicBy = sortTopicByMatch ? sortTopicByMatch.split('=')[1] : (isUpdateOnly ? 'quality' : 'time');
 
   const topicOrderMatch = process.argv.find(arg => arg.startsWith('--topic-order='));
   const topicOrder = topicOrderMatch ? topicOrderMatch.split('=')[1] : (sortTopicBy === 'quality' ? 'desc' : 'asc');
@@ -110,33 +124,96 @@ async function discover() {
     }
 
     if (valA === valB) {
-      // secondary sort by time ascending
       return new Date(topicA.lastExplored || 0).getTime() - new Date(topicB.lastExplored || 0).getTime();
     }
     return topicOrder === 'desc' ? valB - valA : valA - valB;
   });
 
   // Pick the topic to search
-  const pickedTopic = activeTopics[0];
-  console.log(`🏷️  Selected Topic for exploration: ${pickedTopic} (Sort By: ${sortTopicBy} ${topicOrder})`);
+  let pickedTopic = activeTopics[0];
+  let pageToExplore = 1;
+  let isSticky = false;
 
-  // Update exploration time
-  topicsDb.active[pickedTopic].lastExplored = new Date().toISOString();
+  // Sticky topic logic with session
+  if (session.lastTopic && activeTopics.includes(session.lastTopic)) {
+    const sessionTopicScore = topicsDb.active[session.lastTopic].score || 0;
+    const sessionMaxPages = sessionTopicScore >= QUALITY_TOPIC_THRESHOLD ? MAX_PAGES_QUALITY : MAX_PAGES_DEFAULT;
+
+    if (session.lastPage < sessionMaxPages) {
+      pickedTopic = session.lastTopic;
+      pageToExplore = session.lastPage + 1;
+      isSticky = true;
+      console.log(`🔄 [Sticky] Continuing topic "${pickedTopic}" (${pageToExplore}/${sessionMaxPages})`);
+    } else {
+      console.log(`✅ [Sticky] Topic "${session.lastTopic}" exhausted. Finding next...`);
+      if (fs.existsSync(sessionFile)) fs.unlinkSync(sessionFile);
+      // Fall back to picking the next topic from sorted list
+      pickedTopic = activeTopics[0] === session.lastTopic ? (activeTopics[1] || activeTopics[0]) : activeTopics[0];
+    }
+  }
+
+  let topicScore = topicsDb.active[pickedTopic].score || 0;
+  const githubMaxResults = 1000;
+  const batchSize = Math.min(isUpdateOnly ? DISCOVER_BATCH_SIZE * 3 : DISCOVER_BATCH_SIZE, 100);
+
+  // Recalculate maxPages based on batch size and GitHub limits
+  const maxPagesPossible = Math.floor(githubMaxResults / batchSize);
+  const maxPagesForTopic = Math.min(topicScore >= QUALITY_TOPIC_THRESHOLD ? MAX_PAGES_QUALITY : MAX_PAGES_DEFAULT, maxPagesPossible);
+
+  // If not already sticky/resuming, determine start page
+  if (!isSticky) {
+    if (topicScore >= QUALITY_TOPIC_THRESHOLD) {
+      pageToExplore = 1; // Start sequential dive for quality topics
+      console.log(`🎯 [Sticky] High-quality topic detected. Starting deep dive for "${pickedTopic}"`);
+    } else {
+      pageToExplore = Math.floor(Math.random() * Math.min(maxPagesForTopic, maxPagesPossible)) + 1; // Random for others
+    }
+  }
+
+  if (pageToExplore > maxPagesForTopic) {
+    if (isSticky) {
+      console.log(`✅ [Sticky] Topic "${pickedTopic}" reached GitHub pagination limit (${pageToExplore - 1}/${maxPagesPossible}). Clearing session.`);
+      if (fs.existsSync(sessionFile)) fs.unlinkSync(sessionFile);
+      // Pick next topic from sorted list if possible, or exit
+      pickedTopic = activeTopics[0] === pickedTopic ? (activeTopics[1] || activeTopics[0]) : activeTopics[0];
+      pageToExplore = 1;
+      isSticky = false;
+      topicScore = topicsDb.active[pickedTopic].score || 0; // Update local score for stats below
+      console.log(`🏷️  Falling back to Next Topic: ${pickedTopic}`);
+    } else {
+      pageToExplore = Math.max(1, maxPagesForTopic);
+    }
+  }
+
+  console.log(`🏷️  Selected Topic for exploration: ${pickedTopic} (Score: ${topicScore}, Max Pages: ${maxPagesForTopic})`);
+
+  // Update exploration time ONLY IF we are done or it's a random low-score exploration
+  const isFinished = pageToExplore >= maxPagesForTopic;
+  const isDeepDive = topicScore >= QUALITY_TOPIC_THRESHOLD;
+
+  if (isFinished || !isDeepDive) {
+    topicsDb.active[pickedTopic].lastExplored = new Date().toISOString();
+  }
 
   const sortOptions = ['updated', 'stars', 'forks'];
   const randomSort = sortOptions[Math.floor(Math.random() * sortOptions.length)];
-  const randomPage = Math.floor(Math.random() * 5) + 1;
   const minStars = 500;
 
   const useTopic = Math.random() > 0.4;
   const q = useTopic ? `topic:${pickedTopic}` : pickedTopic;
 
-  const searchUrl = `https://api.github.com/search/repositories?q=${q}+stars:>=${minStars}&sort=${randomSort}&order=desc&per_page=${DISCOVER_BATCH_SIZE}&page=${randomPage}`;
+  const searchUrl = `https://api.github.com/search/repositories?q=${q}+stars:>=${minStars}&sort=${randomSort}&order=desc&per_page=${batchSize}&page=${pageToExplore}`;
 
   console.log(`🔍 [GitHub Search] Using keyword/topic: "${q}"`);
-  console.log(`🌐 Calling GitHub API: sort:${randomSort}, page:${randomPage}, stars:>=${minStars}`);
+  console.log(`🌐 Calling GitHub API: sort:${randomSort}, page:${pageToExplore}, stars:>=${minStars}`);
+
   try {
-    const res = await fetch(searchUrl, { headers });
+    const res = await fetch(searchUrl, {
+      headers: {
+        'Accept': 'application/vnd.github.v3+json',
+        'Authorization': GITHUB_TOKEN ? `token ${GITHUB_TOKEN}` : undefined
+      }
+    });
     if (!res.ok) throw new Error(`GitHub search failed: ${res.statusText}`);
     const data = await res.json();
 
@@ -161,6 +238,15 @@ async function discover() {
     let updatedProjectCount = 0;
 
     for (const item of data.items) {
+      // Proactive description fetching
+      if (!item.description && item.stargazers_count >= AUTO_FETCH_DESC_STARS) {
+        console.log(`📡 [Proactive Fetch] Fetching description for ${item.full_name} (${item.stargazers_count} stars)...`);
+        const details = await fetchRepoDetails(item.full_name);
+        if (details && details.description) {
+          item.description = details.description;
+        }
+      }
+
       // Collect new topics into topicsDB
       if (Array.isArray(item.topics)) {
         item.topics.forEach(t => {
@@ -184,7 +270,7 @@ async function discover() {
         existingProject.topics = item.topics || [];
         existingProject._lastChecked = new Date().toISOString();
         updatedProjectCount++;
-      } else if (!pendingUrls.has(url)) {
+      } else if (!pendingUrls.has(url) && !isUpdateOnly) {
         pendingDb.queue.push({
           name: item.name,
           html_url: item.html_url,
@@ -212,6 +298,18 @@ async function discover() {
       console.log(`📥 Added ${queuedCount} new projects to the local pending queue.`);
     } else {
       console.log(`📥 No new projects to add to the queue right now.`);
+    }
+
+    // Save or clear session state
+    if (isDeepDive && !isFinished) {
+      saveJson(sessionFile, { lastTopic: pickedTopic, lastPage: pageToExplore });
+      console.log(`💾 [Session] Saved progress: ${pickedTopic} - Page ${pageToExplore}`);
+    } else if (isFinished && fs.existsSync(sessionFile)) {
+      const currentSession = loadJson(sessionFile);
+      if (currentSession && currentSession.lastTopic === pickedTopic) {
+        fs.unlinkSync(sessionFile);
+        console.log(`🗑️ [Session] Cleared session for finished topic: ${pickedTopic}`);
+      }
     }
   } catch (err) {
     console.error(`❌ Discovery failed: ${err.message}`);
@@ -451,7 +549,11 @@ async function run() {
     return;
   }
   await discover();
-  await evaluate();
+  if (!process.argv.includes('--update-only')) {
+    await evaluate();
+  } else {
+    console.log('⏭️ [Update Mode] Skipped evaluate() stage.');
+  }
 }
 
 run().catch(console.error);

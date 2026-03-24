@@ -76,19 +76,24 @@ async function tuiMenu() {
 
   console.log('\n🛠️  [Hello-AI] 交互式启动配置\n');
 
-  const mode = await question('1. 选择运行模式:\n   [1] 持续发现与评估 (默认)\n   [2] 仅评估已存在的队列数据 (Consume Only)\n   选择 [1]: ') || '1';
+  const mode = await question('1. 选择运行模式:\n   [1] 持续发现与评估 (默认)\n   [2] 仅评估已存在的队列数据 (Consume Only)\n   [3] 大批量更新现有项目模式 (Mass Update - 不进行LLM评估)\n   选择 [1]: ') || '1';
 
-  const sort = await question('\n2. 选择话题探索策略:\n   [1] 按时间 (Time)(默认)\n   [2] 按质量 (Quality)\n   选择 [1]: ') || '1';
+  const resume = await question('\n2. 是否恢复上次探索进度?\n   [1] 否 (默认)\n   [2] 是 (--resume)\n   选择 [1]: ') || '1';
+
+  const sort = await question('\n3. 选择话题探索策略:\n   [1] 按时间 (Time)(默认)\n   [2] 按质量 (Quality)\n   选择 [1]: ') || '1';
 
   let order = '';
   if (sort === '2') {
-    order = await question('\n3. 质量排序细化:\n   [1] 精品优先 (高分 -> 低分, 默认)\n   [2] 潜力挖掘 (低分 -> 高分)\n   选择 [1]: ') || '1';
+    order = await question('\n4. 质量排序细化:\n   [1] 精品优先 (高分 -> 低分, 默认)\n   [2] 潜力挖掘 (低分 -> 高分)\n   选择 [1]: ') || '1';
   } else {
-    order = await question('\n3. 时间排序细化:\n   [1] 默认模式 (未探索过的优先)\n   [2] 更新模式 (已探索过的优先 - 用于更新项目数据)\n   选择 [1]: ') || '1';
+    order = await question('\n4. 时间排序细化:\n   [1] 默认模式 (未探索过的优先)\n   [2] 更新模式 (已探索过的优先 - 用于更新项目数据)\n   选择 [1]: ') || '1';
   }
 
   const extraArgs = [];
   if (mode === '2') extraArgs.push('--consume-only');
+  if (mode === '3') extraArgs.push('--update-only');
+
+  if (resume === '2') extraArgs.push('--resume');
 
   if (sort === '2') {
     extraArgs.push('--sort-topic-by=quality');
