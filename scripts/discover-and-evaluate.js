@@ -114,19 +114,29 @@ async function discover() {
     const topicA = topicsDb.active[a];
     const topicB = topicsDb.active[b];
 
-    let valA, valB;
+    const timeA = new Date(topicA.lastExplored || 0).getTime();
+    const timeB = new Date(topicB.lastExplored || 0).getTime();
+
     if (sortTopicBy === 'quality') {
-      valA = topicA.score || 0;
-      valB = topicB.score || 0;
-    } else {
-      valA = new Date(topicA.lastExplored || 0).getTime();
-      valB = new Date(topicB.lastExplored || 0).getTime();
+      const scoreA = topicA.score || 0;
+      const scoreB = topicB.score || 0;
+
+      // If both are high quality, prioritize the one explored least recently (rotation)
+      if (scoreA >= QUALITY_TOPIC_THRESHOLD && scoreB >= QUALITY_TOPIC_THRESHOLD) {
+        return timeA - timeB;
+      }
+
+      if (scoreA !== scoreB) {
+        return topicOrder === 'desc' ? scoreB - scoreA : scoreA - scoreB;
+      }
     }
 
-    if (valA === valB) {
-      return new Date(topicA.lastExplored || 0).getTime() - new Date(topicB.lastExplored || 0).getTime();
+    // Default: Sort by lastExplored time (oldest first)
+    if (timeA !== timeB) {
+      return timeA - timeB;
     }
-    return topicOrder === 'desc' ? valB - valA : valA - valB;
+
+    return 0;
   });
 
   // Pick the topic to search
@@ -147,8 +157,20 @@ async function discover() {
     } else {
       console.log(`✅ [Sticky] Topic "${session.lastTopic}" exhausted. Finding next...`);
       if (fs.existsSync(sessionFile)) fs.unlinkSync(sessionFile);
-      // Fall back to picking the next topic from sorted list
-      pickedTopic = activeTopics[0] === session.lastTopic ? (activeTopics[1] || activeTopics[0]) : activeTopics[0];
+
+      // Update exploration time for the exhausted topic
+      if (topicsDb.active[session.lastTopic]) {
+        topicsDb.active[session.lastTopic].lastExplored = new Date().toISOString();
+      }
+
+      // Pick next topic from sorted list
+      const currentIdx = activeTopics.indexOf(session.lastTopic);
+      const nextIdx = (currentIdx + 1) % activeTopics.length;
+      pickedTopic = activeTopics[nextIdx];
+
+      if (pickedTopic === session.lastTopic && activeTopics.length > 1) {
+        pickedTopic = activeTopics[(nextIdx + 1) % activeTopics.length];
+      }
     }
   }
 
@@ -174,11 +196,29 @@ async function discover() {
     if (isSticky) {
       console.log(`✅ [Sticky] Topic "${pickedTopic}" reached GitHub pagination limit (${pageToExplore - 1}/${maxPagesPossible}). Clearing session.`);
       if (fs.existsSync(sessionFile)) fs.unlinkSync(sessionFile);
-      // Pick next topic from sorted list if possible, or exit
-      pickedTopic = activeTopics[0] === pickedTopic ? (activeTopics[1] || activeTopics[0]) : activeTopics[0];
+
+      // Update exploration time for the topic that just finished its deep dive
+      topicsDb.active[pickedTopic].lastExplored = new Date().toISOString();
+
+      // Pick next topic from sorted list
+      const currentIdx = activeTopics.indexOf(pickedTopic);
+      // If we are at the end of the list or can't find it, go to index 0. 
+      // But if index 0 is the current one, we might need index 1.
+      const nextIdx = (currentIdx + 1) % activeTopics.length;
+      pickedTopic = activeTopics[nextIdx];
+
+      // Ensure we don't pick the same topic if others are available
+      if (pickedTopic === session.lastTopic && activeTopics.length > 1) {
+        pickedTopic = activeTopics[(nextIdx + 1) % activeTopics.length];
+      }
+
       pageToExplore = 1;
       isSticky = false;
       topicScore = topicsDb.active[pickedTopic].score || 0; // Update local score for stats below
+
+      // Re-calculate max pages for the new topic
+      maxPagesForTopic = Math.min(topicScore >= QUALITY_TOPIC_THRESHOLD ? MAX_PAGES_QUALITY : MAX_PAGES_DEFAULT, maxPagesPossible);
+
       console.log(`🏷️  Falling back to Next Topic: ${pickedTopic}`);
     } else {
       pageToExplore = Math.max(1, maxPagesForTopic);
