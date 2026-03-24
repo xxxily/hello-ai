@@ -1,1483 +1,467 @@
 {
   "queue": [
     {
-      "name": "LibMTL",
-      "html_url": "https://github.com/median-research-group/LibMTL",
-      "description": "A PyTorch Library for Multi-Task Learning",
+      "name": "pyannote-whisper",
+      "html_url": "https://github.com/yinruiqing/pyannote-whisper",
+      "description": null,
       "topics": [
-        "deep-learning",
-        "mmoe",
-        "mtl",
-        "multi-domain-learning",
-        "multi-objective-optimization",
-        "multi-task-learning",
-        "multiobjective-optimization",
-        "multitask-learning",
-        "ple",
-        "python",
-        "pytorch"
+        "asr",
+        "chatgpt",
+        "meeting-summarization",
+        "pyannote",
+        "speaker-diarization",
+        "whisper"
       ],
-      "stargazers_count": 2532,
-      "pushed_at": "2025-05-14T15:06:50Z",
-      "added_to_queue": "2026-03-24T11:02:57.135Z"
+      "stargazers_count": 666,
+      "pushed_at": "2025-09-24T06:49:48Z",
+      "added_to_queue": "2026-03-24T11:49:28.562Z"
     },
     {
-      "name": "DIS",
-      "html_url": "https://github.com/xuebinqin/DIS",
-      "description": "This is the repo for our new project Highly Accurate Dichotomous Image Segmentation",
+      "name": "ChatdollKit",
+      "html_url": "https://github.com/uezo/ChatdollKit",
+      "description": "ChatdollKit enables you to make your 3D model into a chatbot",
       "topics": [
-        "background-removal",
-        "computer-vision",
-        "deep-learning",
-        "dichotomous-image-segmentation",
-        "u-2-net"
-      ],
-      "stargazers_count": 2528,
-      "pushed_at": "2024-09-23T06:27:07Z",
-      "added_to_queue": "2026-03-24T11:02:57.135Z"
-    },
-    {
-      "name": "audio-diffusion-pytorch",
-      "html_url": "https://github.com/archinetai/audio-diffusion-pytorch",
-      "description": "Audio generation using diffusion models, in PyTorch.",
-      "topics": [
-        "artificial-intelligence",
-        "audio-generation",
-        "deep-learning",
-        "denoising-diffusion"
-      ],
-      "stargazers_count": 2096,
-      "pushed_at": "2023-06-12T22:40:16Z",
-      "added_to_queue": "2026-03-24T11:04:48.996Z"
-    },
-    {
-      "name": "ELF",
-      "html_url": "https://github.com/facebookresearch/ELF",
-      "description": "An End-To-End, Lightweight and Flexible Platform for Game Research",
-      "topics": [
-        "artificial-intelligence",
-        "cpp",
-        "deep-learning",
-        "gaming",
-        "neural-network",
-        "platform",
-        "python",
-        "reinforcement-learning"
-      ],
-      "stargazers_count": 2093,
-      "pushed_at": "2021-08-30T20:13:52Z",
-      "added_to_queue": "2026-03-24T11:04:48.997Z"
-    },
-    {
-      "name": "ru-gpts",
-      "html_url": "https://github.com/ai-forever/ru-gpts",
-      "description": "Russian GPT3 models.",
-      "topics": [
-        "deep-learning",
-        "gpt3",
-        "language-model",
-        "russian",
-        "russian-language",
-        "transformers"
-      ],
-      "stargazers_count": 2092,
-      "pushed_at": "2022-12-12T08:42:02Z",
-      "added_to_queue": "2026-03-24T11:04:48.997Z"
-    },
-    {
-      "name": "Neural-Photo-Editor",
-      "html_url": "https://github.com/ajbrock/Neural-Photo-Editor",
-      "description": "A simple interface for editing natural photos with generative neural networks.",
-      "topics": [
-        "computer-vision",
-        "convolutional-neural-networks",
-        "deep-learning",
-        "gans",
-        "interfaces",
-        "machine-learning"
-      ],
-      "stargazers_count": 2084,
-      "pushed_at": "2017-03-22T11:38:44Z",
-      "added_to_queue": "2026-03-24T11:04:48.997Z"
-    },
-    {
-      "name": "MambaVision",
-      "html_url": "https://github.com/NVlabs/MambaVision",
-      "description": "[CVPR 2025] Official PyTorch Implementation of MambaVision: A Hybrid Mamba-Transformer Vision Backbone",
-      "topics": [
-        "deep-learning",
-        "foundation-models",
-        "huggingface-transformers",
-        "hybrid-models",
-        "image-classification",
-        "instance-segmentation",
-        "mamba",
-        "object-detection",
-        "self-attention",
-        "semantic-segmentation",
-        "transformers",
-        "vision-transformer",
-        "visual-recognition"
-      ],
-      "stargazers_count": 2079,
-      "pushed_at": "2026-03-11T20:34:23Z",
-      "added_to_queue": "2026-03-24T11:04:48.997Z"
-    },
-    {
-      "name": "PyTorch-Encoding",
-      "html_url": "https://github.com/zhanghang1989/PyTorch-Encoding",
-      "description": "A CV toolkit for my papers.",
-      "topics": [
-        "batchnorm",
-        "deep-learning",
-        "encoding-layer",
-        "synchronized-batchnorm"
-      ],
-      "stargazers_count": 2048,
-      "pushed_at": "2024-12-21T05:04:53Z",
-      "added_to_queue": "2026-03-24T11:04:48.997Z"
-    },
-    {
-      "name": "UNIT",
-      "html_url": "https://github.com/mingyuliutw/UNIT",
-      "description": "Unsupervised Image-to-Image Translation",
-      "topics": [
-        "deep-learning",
-        "gan",
-        "image-translation",
-        "pix2pix"
-      ],
-      "stargazers_count": 2030,
-      "pushed_at": "2021-09-02T20:38:43Z",
-      "added_to_queue": "2026-03-24T11:04:48.997Z"
-    },
-    {
-      "name": "ScaledYOLOv4",
-      "html_url": "https://github.com/WongKinYiu/ScaledYOLOv4",
-      "description": "Scaled-YOLOv4: Scaling Cross Stage Partial Network",
-      "topics": [
-        "deep-learning",
-        "machine-learning",
-        "ml",
-        "object-detection",
-        "pytorch",
-        "scaled-yolov4",
-        "yolo",
-        "yolov3",
-        "yolov4",
-        "yolov4-csp",
-        "yolov4-large",
-        "yolov4-tiny"
-      ],
-      "stargazers_count": 2028,
-      "pushed_at": "2024-11-03T00:36:25Z",
-      "added_to_queue": "2026-03-24T11:04:48.997Z"
-    },
-    {
-      "name": "tinyflow",
-      "html_url": "https://github.com/tqchen/tinyflow",
-      "description": "Tutorial code on how to build your own Deep Learning System in 2k Lines",
-      "topics": [
-        "computational-graphs",
-        "deep-learning",
-        "nnvm"
-      ],
-      "stargazers_count": 2016,
-      "pushed_at": "2018-10-04T18:34:44Z",
-      "added_to_queue": "2026-03-24T11:04:48.997Z"
-    },
-    {
-      "name": "SfMLearner",
-      "html_url": "https://github.com/tinghuiz/SfMLearner",
-      "description": "An unsupervised learning framework for depth and ego-motion estimation from monocular videos",
-      "topics": [
-        "deep-learning",
-        "depth-prediction",
-        "self-supervised-learning",
-        "unsupervised-learning",
-        "visual-odometry"
-      ],
-      "stargazers_count": 2015,
-      "pushed_at": "2021-10-26T05:58:09Z",
-      "added_to_queue": "2026-03-24T11:04:48.997Z"
-    },
-    {
-      "name": "intel-extension-for-pytorch",
-      "html_url": "https://github.com/intel/intel-extension-for-pytorch",
-      "description": "A Python package for extending the official PyTorch that can easily obtain performance on Intel platform",
-      "topics": [
-        "deep-learning",
-        "intel",
-        "machine-learning",
-        "neural-network",
-        "pytorch",
-        "quantization"
-      ],
-      "stargazers_count": 2015,
-      "pushed_at": "2026-03-13T08:26:38Z",
-      "added_to_queue": "2026-03-24T11:04:48.997Z"
-    },
-    {
-      "name": "DIG",
-      "html_url": "https://github.com/divelab/DIG",
-      "description": "A library for graph deep learning research",
-      "topics": [
-        "3d-graph",
-        "deep-learning",
-        "explainable-ml",
-        "graph-generation",
-        "graph-neural-network",
-        "self-supervised-learning"
-      ],
-      "stargazers_count": 2003,
-      "pushed_at": "2024-07-15T07:18:56Z",
-      "added_to_queue": "2026-03-24T11:04:48.997Z"
-    },
-    {
-      "name": "make-a-video-pytorch",
-      "html_url": "https://github.com/lucidrains/make-a-video-pytorch",
-      "description": "Implementation of Make-A-Video, new SOTA text to video generator from Meta AI, in Pytorch",
-      "topics": [
-        "artificial-intelligence",
-        "attention-mechanisms",
-        "axial-convolutions",
-        "deep-learning",
-        "text-to-video"
-      ],
-      "stargazers_count": 1987,
-      "pushed_at": "2024-05-03T17:34:14Z",
-      "added_to_queue": "2026-03-24T11:04:48.997Z"
-    },
-    {
-      "name": "awesome-explainable-graph-reasoning",
-      "html_url": "https://github.com/AstraZeneca/awesome-explainable-graph-reasoning",
-      "description": "A collection of research papers and software related to explainability in graph machine learning.",
-      "topics": [
-        "awesome-list",
-        "deep-learning",
-        "explainable-ai",
-        "explainable-ml",
-        "graph",
-        "graph-algorithms",
-        "graphml"
-      ],
-      "stargazers_count": 1986,
-      "pushed_at": "2022-04-04T14:54:08Z",
-      "added_to_queue": "2026-03-24T11:04:48.997Z"
-    },
-    {
-      "name": "GANimation",
-      "html_url": "https://github.com/albertpumarola/GANimation",
-      "description": "GANimation: Anatomically-aware Facial Animation from a Single Image (ECCV'18 Oral) [PyTorch]",
-      "topics": [
-        "deep-learning",
-        "eccv-2018",
-        "face-manipulation",
-        "facial-expressions",
-        "gan",
-        "ganimation",
-        "generative-adversarial-network",
-        "pytorch"
-      ],
-      "stargazers_count": 1985,
-      "pushed_at": "2019-12-23T06:27:57Z",
-      "added_to_queue": "2026-03-24T11:04:48.998Z"
-    },
-    {
-      "name": "Transformer-Explainability",
-      "html_url": "https://github.com/hila-chefer/Transformer-Explainability",
-      "description": "[CVPR 2021] Official PyTorch implementation for Transformer Interpretability Beyond Attention Visualization, a novel method to visualize classifications by Transformer based networks.",
-      "topics": [
-        "attention-matrix",
-        "attention-visualization",
-        "bert",
-        "bert-model",
-        "cvpr2021",
-        "deep-learning",
-        "explainability",
-        "perturbation",
-        "transformer-interpretability",
-        "vision-transformer",
-        "visualize-classifications",
-        "vit"
-      ],
-      "stargazers_count": 1984,
-      "pushed_at": "2024-01-24T05:59:39Z",
-      "added_to_queue": "2026-03-24T11:04:48.998Z"
-    },
-    {
-      "name": "ViTPose",
-      "html_url": "https://github.com/ViTAE-Transformer/ViTPose",
-      "description": "The official repo for [NeurIPS'22] \"ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation\" and [TPAMI'23] \"ViTPose++: Vision Transformer for Generic Body Pose Estimation\"",
-      "topics": [
-        "deep-learning",
-        "distillation",
-        "mae",
-        "pose-estimation",
-        "pytorch",
-        "self-supervised-learning",
-        "vision-transformer"
-      ],
-      "stargazers_count": 1970,
-      "pushed_at": "2025-12-25T16:25:15Z",
-      "added_to_queue": "2026-03-24T11:04:48.998Z"
-    },
-    {
-      "name": "ml-cvnets",
-      "html_url": "https://github.com/apple/ml-cvnets",
-      "description": "CVNets: A library for training computer vision networks",
-      "topics": [
-        "ade20k",
-        "classification",
-        "computer-vision",
-        "deep-learning",
-        "detection",
-        "imagenet",
-        "machine-learning",
-        "mscoco",
-        "pascal-voc",
-        "pytorch",
-        "segmentation"
-      ],
-      "stargazers_count": 1969,
-      "pushed_at": "2023-10-30T17:05:10Z",
-      "added_to_queue": "2026-03-24T11:04:48.998Z"
-    },
-    {
-      "name": "PassGAN",
-      "html_url": "https://github.com/brannondorsey/PassGAN",
-      "description": "A Deep Learning Approach for Password Guessing (https://arxiv.org/abs/1709.00440)",
-      "topics": [
-        "deep-learning",
-        "gan",
-        "machine-learning",
-        "password",
-        "password-cracking",
-        "password-strength"
-      ],
-      "stargazers_count": 1966,
-      "pushed_at": "2023-02-24T07:01:06Z",
-      "added_to_queue": "2026-03-24T11:04:48.998Z"
-    },
-    {
-      "name": "XMem",
-      "html_url": "https://github.com/hkchengrex/XMem",
-      "description": "[ECCV 2022] XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model",
-      "topics": [
-        "computer-vision",
-        "deep-learning",
-        "eccv-2022",
-        "eccv2022",
-        "pytorch",
-        "segmentation",
-        "video-object-segmentation",
-        "video-segmentation"
-      ],
-      "stargazers_count": 1962,
-      "pushed_at": "2024-11-15T19:28:38Z",
-      "added_to_queue": "2026-03-24T11:04:48.998Z"
-    },
-    {
-      "name": "tensorflow-1.4-billion-password-analysis",
-      "html_url": "https://github.com/philipperemy/tensorflow-1.4-billion-password-analysis",
-      "description": "Deep Learning model to analyze a large corpus of clear text passwords.",
-      "topics": [
-        "deep-learning",
-        "natural-language-processing",
-        "tensorflow"
-      ],
-      "stargazers_count": 1953,
-      "pushed_at": "2021-06-29T21:11:37Z",
-      "added_to_queue": "2026-03-24T11:04:48.998Z"
-    },
-    {
-      "name": "MATLAB-Simulink-Challenge-Project-Hub",
-      "html_url": "https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub",
-      "description": "This MATLAB and Simulink Challenge Project Hub contains a list of research and design project ideas. These projects will help you gain practical experience and insight into technology trends and industry directions.",
-      "topics": [
-        "ai",
-        "autonomous",
-        "capstone",
-        "capstone-project",
-        "computer-vision",
-        "deep-learning",
-        "drones",
-        "energy",
-        "final-project",
-        "final-year-project",
-        "master-thesis",
-        "matlab",
-        "project-ideas",
-        "robotics",
-        "senior-design",
-        "senior-project",
-        "simulink",
-        "student-project",
-        "students",
-        "thesis"
-      ],
-      "stargazers_count": 1948,
-      "pushed_at": "2026-03-19T17:23:45Z",
-      "added_to_queue": "2026-03-24T11:04:48.998Z"
-    },
-    {
-      "name": "lip-reading-deeplearning",
-      "html_url": "https://github.com/astorfi/lip-reading-deeplearning",
-      "description": ":unlock: Lip Reading - Cross Audio-Visual Recognition using 3D Architectures",
-      "topics": [
-        "3d-convolutional-network",
-        "computer-vision",
-        "deep-learning",
-        "speech-recognition",
-        "tensorflow"
-      ],
-      "stargazers_count": 1903,
-      "pushed_at": "2022-11-07T13:58:59Z",
-      "added_to_queue": "2026-03-24T11:04:48.998Z"
-    },
-    {
-      "name": "Make-It-3D",
-      "html_url": "https://github.com/junshutang/Make-It-3D",
-      "description": "[ICCV 2023] Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior",
-      "topics": [
-        "3d-generation",
-        "3d-vision",
-        "computer-vision",
-        "deep-learning",
-        "diffusion-models",
-        "generative-art",
-        "nerf"
-      ],
-      "stargazers_count": 1887,
-      "pushed_at": "2024-07-05T00:01:03Z",
-      "added_to_queue": "2026-03-24T11:04:48.998Z"
-    },
-    {
-      "name": "tensorflow_template_application",
-      "html_url": "https://github.com/tobegit3hub/tensorflow_template_application",
-      "description": "TensorFlow template application for deep learning",
-      "topics": [
-        "cnn",
-        "csv",
-        "deep-learning",
-        "inference",
-        "libsvm",
-        "lstm",
-        "machine-learning",
-        "mlp",
-        "serving",
-        "tensorboard",
-        "tensorflow",
-        "tfrecords",
-        "wide-and-deep"
-      ],
-      "stargazers_count": 1881,
-      "pushed_at": "2023-07-05T20:27:20Z",
-      "added_to_queue": "2026-03-24T11:04:48.998Z"
-    },
-    {
-      "name": "byol-pytorch",
-      "html_url": "https://github.com/lucidrains/byol-pytorch",
-      "description": "Usable Implementation of \"Bootstrap Your Own Latent\" self-supervised learning, from Deepmind, in Pytorch",
-      "topics": [
-        "artificial-intelligence",
-        "deep-learning",
-        "self-supervised-learning"
-      ],
-      "stargazers_count": 1876,
-      "pushed_at": "2024-07-15T18:28:22Z",
-      "added_to_queue": "2026-03-24T11:04:48.998Z"
-    },
-    {
-      "name": "neural_collaborative_filtering",
-      "html_url": "https://github.com/hexiangnan/neural_collaborative_filtering",
-      "description": "Neural Collaborative Filtering",
-      "topics": [
-        "collaborative-filtering",
-        "deep-learning",
-        "recommender-system"
-      ],
-      "stargazers_count": 1875,
-      "pushed_at": "2022-08-27T06:26:07Z",
-      "added_to_queue": "2026-03-24T11:04:48.998Z"
-    },
-    {
-      "name": "ssd_keras",
-      "html_url": "https://github.com/pierluigiferrari/ssd_keras",
-      "description": "A Keras port of Single Shot MultiBox Detector",
-      "topics": [
-        "computer-vision",
-        "deep-learning",
-        "fcn",
-        "fully-convolutional-networks",
-        "keras",
-        "keras-models",
-        "object-detection",
-        "single-shot-multibox-detector",
-        "ssd",
-        "ssd-model"
-      ],
-      "stargazers_count": 1873,
-      "pushed_at": "2022-04-21T05:18:06Z",
-      "added_to_queue": "2026-03-24T11:04:48.998Z"
-    },
-    {
-      "name": "CRNN_Chinese_Characters_Rec",
-      "html_url": "https://github.com/Sierkinhane/CRNN_Chinese_Characters_Rec",
-      "description": "(CRNN) Chinese Characters Recognition.",
-      "topics": [
-        "deep-learning",
-        "ocr",
-        "pytorch",
-        "recognition"
-      ],
-      "stargazers_count": 1871,
-      "pushed_at": "2022-11-13T07:20:34Z",
-      "added_to_queue": "2026-03-24T11:04:48.998Z"
-    },
-    {
-      "name": "Code-LMs",
-      "html_url": "https://github.com/VHellendoorn/Code-LMs",
-      "description": "Guide to using pre-trained large language models of source code",
-      "topics": [
-        "deep-learning",
-        "gpt-2",
-        "source-code"
-      ],
-      "stargazers_count": 1842,
-      "pushed_at": "2024-07-07T01:08:30Z",
-      "added_to_queue": "2026-03-24T11:04:48.998Z"
-    },
-    {
-      "name": "Awesome-Interview",
-      "html_url": "https://github.com/Awesome-Interview/Awesome-Interview",
-      "description": "Collection of awesome interview references.",
-      "topics": [
-        "android",
-        "backend",
-        "cpp",
-        "deep-learning",
-        "frontend",
-        "interview",
-        "interview-practice",
-        "interview-prep",
-        "interview-preparation",
-        "interviews",
-        "ios",
-        "java",
-        "machine-learning",
-        "python"
-      ],
-      "stargazers_count": 1833,
-      "pushed_at": "2020-09-25T05:04:23Z",
-      "added_to_queue": "2026-03-24T11:04:48.998Z"
-    },
-    {
-      "name": "Text_Classification",
-      "html_url": "https://github.com/kk7nc/Text_Classification",
-      "description": "Text Classification Algorithms: A Survey",
-      "topics": [
-        "boosting-algorithms",
-        "conditional-random-fields",
-        "convolutional-neural-networks",
-        "decision-trees",
-        "deep-belief-network",
-        "deep-learning",
-        "deep-neural-network",
-        "dimensionality-reduction",
-        "document-classification",
-        "hierarchical-attention-networks",
-        "k-nearest-neighbours",
-        "logistic-regression",
-        "naive-bayes-classifier",
-        "nlp-machine-learning",
-        "random-forest",
-        "recurrent-neural-networks",
-        "rocchio-algorithm",
-        "support-vector-machines",
-        "text-classification",
-        "text-processing"
-      ],
-      "stargazers_count": 1831,
-      "pushed_at": "2025-04-01T00:35:13Z",
-      "added_to_queue": "2026-03-24T11:04:48.998Z"
-    },
-    {
-      "name": "liquid_time_constant_networks",
-      "html_url": "https://github.com/raminmh/liquid_time_constant_networks",
-      "description": "Code Repository for Liquid Time-Constant Networks (LTCs)",
-      "topics": [
-        "deep-learning",
-        "liquid-neural-networks",
-        "recurrent-neural-networks",
-        "sequence-modeling",
-        "state-space-models",
-        "time-series"
-      ],
-      "stargazers_count": 1814,
-      "pushed_at": "2024-06-03T17:18:14Z",
-      "added_to_queue": "2026-03-24T11:04:48.998Z"
-    },
-    {
-      "name": "pytorch-segmentation",
-      "html_url": "https://github.com/yassouali/pytorch-segmentation",
-      "description": ":art: Semantic segmentation models, datasets and losses implemented in PyTorch.",
-      "topics": [
-        "computer-vision",
-        "deep-learning",
-        "semantic-segmentation"
-      ],
-      "stargazers_count": 1813,
-      "pushed_at": "2025-02-23T19:05:28Z",
-      "added_to_queue": "2026-03-24T11:04:48.998Z"
-    },
-    {
-      "name": "awesome-radar-perception",
-      "html_url": "https://github.com/ZHOUYI1023/awesome-radar-perception",
-      "description": " A curated list of radar datasets, detection, tracking and fusion",
-      "topics": [
-        "autonomous-driving",
-        "autonomous-vehicles",
-        "dataset",
-        "deep-learning",
-        "detection",
-        "fusion",
-        "radar",
-        "slam"
-      ],
-      "stargazers_count": 1811,
-      "pushed_at": "2025-04-05T08:00:29Z",
-      "added_to_queue": "2026-03-24T11:04:48.998Z"
-    },
-    {
-      "name": "DL-Simplified",
-      "html_url": "https://github.com/abhisheks008/DL-Simplified",
-      "description": "Deep Learning Simplified is an Open-source repository, containing beginner to advance level deep learning projects for the contributors, who are willing to start their journey in Deep Learning. Devfolio URL, https://devfolio.co/projects/deep-learning-simplified-f013",
-      "topics": [
-        "codepeak23",
-        "contributions-welcome",
-        "deep-learning",
-        "gssoc",
-        "gssoc-ext",
-        "hacktoberfest",
-        "hacktoberfest-accepted",
-        "ieee-igdtuw",
-        "iwoc2025",
-        "machine-learning",
-        "neural-networks",
-        "open-source",
-        "opencv",
-        "python",
-        "reactjs",
-        "ssoc",
-        "swoc",
-        "tensorflow"
-      ],
-      "stargazers_count": 531,
-      "pushed_at": "2025-03-07T16:42:50Z",
-      "added_to_queue": "2026-03-24T11:06:35.317Z"
-    },
-    {
-      "name": "fastai_deeplearn_part1",
-      "html_url": "https://github.com/reshamas/fastai_deeplearn_part1",
-      "description": "Notes for Fastai Deep Learning Course",
-      "topics": [
-        "deep-learning",
-        "image-recognition",
-        "python",
-        "python3",
-        "pytorch"
-      ],
-      "stargazers_count": 1126,
-      "pushed_at": "2025-03-07T14:08:32Z",
-      "added_to_queue": "2026-03-24T11:06:35.317Z"
-    },
-    {
-      "name": "cursos-python",
-      "html_url": "https://github.com/institutohumai/cursos-python",
-      "description": "Cursos completos de IA dictados por Humai",
-      "topics": [
-        "aprendizaje-automatico",
-        "ciencia-de-datos",
-        "data-science",
-        "deep-learning",
-        "google-colab",
-        "ia",
-        "machine-learning",
-        "python"
-      ],
-      "stargazers_count": 608,
-      "pushed_at": "2025-03-05T14:38:06Z",
-      "added_to_queue": "2026-03-24T11:06:35.317Z"
-    },
-    {
-      "name": "AISP",
-      "html_url": "https://github.com/mv-lab/AISP",
-      "description": "AI Image Signal Processing and Computational Photography. Official library for NTIRE (CVPR) and AIM (ICCV/ECCV) Challenges. You will find Learned ISPs, RAW Restoration-Upsampling-Reconstruction, Image Enhancement, Bokeh rendering and more!",
-      "topics": [
-        "camera",
-        "computational-photography",
-        "computer-vision",
-        "cvpr",
-        "deblurring",
-        "deep-learning",
-        "denoising",
-        "image-enhancement",
-        "image-processing",
-        "image-restoration",
-        "imaging",
-        "inverse-problems",
-        "isp",
-        "low-level-vision",
-        "mobile-ai",
-        "ntire",
-        "raw",
-        "rgb"
-      ],
-      "stargazers_count": 552,
-      "pushed_at": "2025-03-05T06:58:24Z",
-      "added_to_queue": "2026-03-24T11:06:35.317Z"
-    },
-    {
-      "name": "HyperLPR",
-      "html_url": "https://github.com/szad670401/HyperLPR",
-      "description": "High Performance Chinese License Plate Recognition Framework.",
-      "topics": [
-        "android",
-        "cpp",
-        "deep-learning",
-        "plate-recognition",
-        "tensorflow"
-      ],
-      "stargazers_count": 6097,
-      "pushed_at": "2025-02-28T06:55:02Z",
-      "added_to_queue": "2026-03-24T11:06:35.317Z"
-    },
-    {
-      "name": "hagrid",
-      "html_url": "https://github.com/hukenovs/hagrid",
-      "description": "HAnd Gesture Recognition Image Dataset",
-      "topics": [
-        "bounding-boxes",
-        "computer-vision",
-        "dataset",
-        "deep-learning",
-        "gesture-recognition",
-        "gestures-classification",
-        "hands",
-        "image-classification"
-      ],
-      "stargazers_count": 964,
-      "pushed_at": "2025-02-27T13:24:21Z",
-      "added_to_queue": "2026-03-24T11:06:35.317Z"
-    },
-    {
-      "name": "awesome-imbalanced-learning",
-      "html_url": "https://github.com/ZhiningLiu1998/awesome-imbalanced-learning",
-      "description": "😎 Everything about class-imbalanced/long-tail learning: papers, codes, frameworks, and libraries | 有关类别不平衡/长尾学习的一切：论文、代码、框架与库",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "class-imbalance",
-        "deep-learning",
-        "ensemble-learning",
-        "fair-ml",
-        "fairness-ml",
-        "imbalanced-classes",
-        "imbalanced-classification",
-        "imbalanced-data",
-        "imbalanced-learning",
-        "machine-learning",
-        "skewed-data"
-      ],
-      "stargazers_count": 1516,
-      "pushed_at": "2025-02-25T23:31:02Z",
-      "added_to_queue": "2026-03-24T11:06:35.317Z"
-    },
-    {
-      "name": "gotch",
-      "html_url": "https://github.com/sugarme/gotch",
-      "description": "Go binding for Pytorch C++ API (libtorch)",
-      "topics": [
-        "deep-learning",
-        "framework",
-        "go",
-        "go-binding",
-        "golang",
-        "pytorch",
-        "pytorch-go-binding"
-      ],
-      "stargazers_count": 645,
-      "pushed_at": "2025-02-25T22:41:10Z",
-      "added_to_queue": "2026-03-24T11:06:35.317Z"
-    },
-    {
-      "name": "ghost",
-      "html_url": "https://github.com/ai-forever/ghost",
-      "description": "A new one shot face swap approach for image and video domains",
-      "topics": [
-        "computer-vision",
-        "deep-face-swap",
-        "deep-learning",
-        "deepfake",
-        "face-swap",
-        "faceswap",
-        "ghost",
-        "ghost-faceswap",
-        "ghost-swap",
-        "pytorch"
-      ],
-      "stargazers_count": 1554,
-      "pushed_at": "2025-02-25T10:15:05Z",
-      "added_to_queue": "2026-03-24T11:06:35.317Z"
-    },
-    {
-      "name": "eat_pytorch_in_20_days",
-      "html_url": "https://github.com/lyhue1991/eat_pytorch_in_20_days",
-      "description": "Pytorch🍊🍉   is delicious, just eat it! 😋😋",
-      "topics": [
-        "deep-learning",
-        "pytorch"
-      ],
-      "stargazers_count": 6165,
-      "pushed_at": "2025-02-25T01:48:23Z",
-      "added_to_queue": "2026-03-24T11:06:35.317Z"
-    },
-    {
-      "name": "RecBole",
-      "html_url": "https://github.com/RUCAIBox/RecBole",
-      "description": "A unified, comprehensive and efficient recommendation library",
-      "topics": [
-        "collaborative-filtering",
-        "ctr-prediction",
-        "deep-learning",
-        "graph-neural-networks",
-        "knowledge-graph",
-        "pytorch",
-        "recommendation-system",
-        "recommendations",
-        "recommender",
-        "recommender-systems",
-        "sequential-recommendation"
-      ],
-      "stargazers_count": 4331,
-      "pushed_at": "2025-02-24T07:16:41Z",
-      "added_to_queue": "2026-03-24T11:06:35.317Z"
-    },
-    {
-      "name": "Structured3D",
-      "html_url": "https://github.com/bertjiazheng/Structured3D",
-      "description": "[ECCV'20] Structured3D: A Large Photo-realistic Dataset for Structured 3D Modeling",
-      "topics": [
-        "3d-reconstruction",
-        "annotations",
-        "computer-graphics",
-        "computer-vision",
-        "dataset",
-        "deep-learning",
-        "eccv",
-        "house-designs",
-        "room-layout",
-        "scene-understanding",
-        "structure-annotations"
-      ],
-      "stargazers_count": 655,
-      "pushed_at": "2025-02-24T03:02:17Z",
-      "added_to_queue": "2026-03-24T11:06:35.317Z"
-    },
-    {
-      "name": "transferlearning",
-      "html_url": "https://github.com/jindongwang/transferlearning",
-      "description": "Transfer learning / domain adaptation / domain generalization / multi-task learning etc. Papers, codes, datasets, applications, tutorials.-迁移学习",
-      "topics": [
-        "deep-learning",
-        "domain-adaptation",
-        "domain-adaption",
-        "domain-generalization",
-        "few-shot",
-        "few-shot-learning",
-        "generalization",
-        "machine-learning",
-        "meta-learning",
-        "paper",
-        "papers",
-        "representation-learning",
-        "self-supervised-learning",
-        "style-transfer",
-        "survey",
-        "theory",
-        "transfer-learning",
-        "transferlearning",
-        "tutorial-code",
-        "unsupervised-learning"
-      ],
-      "stargazers_count": 14305,
-      "pushed_at": "2025-02-18T22:06:58Z",
-      "added_to_queue": "2026-03-24T11:06:35.317Z"
-    },
-    {
-      "name": "ReID-Survey",
-      "html_url": "https://github.com/mangye16/ReID-Survey",
-      "description": "Deep Learning for Person Re-identification:  A Survey and Outlook ",
-      "topics": [
-        "deep-learning",
-        "person-re-identification",
-        "re-identification",
-        "survey"
-      ],
-      "stargazers_count": 741,
-      "pushed_at": "2025-02-17T02:00:32Z",
-      "added_to_queue": "2026-03-24T11:06:35.317Z"
-    },
-    {
-      "name": "SiamMask",
-      "html_url": "https://github.com/foolwood/SiamMask",
-      "description": "[CVPR19/TPAMI23] SiamMask: A Framework for Fast Online Object Tracking and Segmentation",
-      "topics": [
-        "computer-vision",
-        "cvpr2019",
-        "deep-learning",
-        "object-tracking",
-        "pytorch",
-        "read-time",
-        "video-object-segmentation",
-        "visual-tracking"
-      ],
-      "stargazers_count": 3546,
-      "pushed_at": "2025-02-14T03:39:33Z",
-      "added_to_queue": "2026-03-24T11:06:35.317Z"
-    },
-    {
-      "name": "ktrain",
-      "html_url": "https://github.com/amaiya/ktrain",
-      "description": "ktrain is a Python library that makes deep learning and AI more accessible and easier to apply",
-      "topics": [
-        "computer-vision",
-        "deep-learning",
-        "graph-neural-networks",
-        "keras",
-        "machine-learning",
-        "nlp",
-        "python",
-        "tabular-data",
-        "tensorflow"
-      ],
-      "stargazers_count": 1264,
-      "pushed_at": "2025-02-06T20:19:28Z",
-      "added_to_queue": "2026-03-24T11:06:35.317Z"
-    },
-    {
-      "name": "lama",
-      "html_url": "https://github.com/advimman/lama",
-      "description": "🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022",
-      "topics": [
-        "cnn",
-        "colab",
-        "colab-notebook",
-        "computer-vision",
-        "deep-learning",
-        "deep-neural-networks",
-        "fourier",
-        "fourier-convolutions",
-        "fourier-transform",
-        "gan",
-        "generative-adversarial-network",
-        "generative-adversarial-networks",
-        "high-resolution",
-        "image-inpainting",
-        "inpainting",
-        "inpainting-algorithm",
-        "inpainting-methods",
-        "pytorch"
-      ],
-      "stargazers_count": 9799,
-      "pushed_at": "2025-02-05T08:41:52Z",
-      "added_to_queue": "2026-03-24T11:06:35.317Z"
-    },
-    {
-      "name": "predict_Lottery_ticket",
-      "html_url": "https://github.com/zepen/predict_Lottery_ticket",
-      "description": "双色球+大乐透彩票AI预测",
-      "topics": [
-        "chinese",
-        "deep-learning",
-        "ml",
-        "python"
-      ],
-      "stargazers_count": 963,
-      "pushed_at": "2025-01-31T05:26:48Z",
-      "added_to_queue": "2026-03-24T11:06:35.317Z"
-    },
-    {
-      "name": "texify",
-      "html_url": "https://github.com/VikParuchuri/texify",
-      "description": "Math OCR model that outputs LaTeX and markdown",
-      "topics": [
-        "deep-learning",
-        "latex",
-        "markdown",
-        "ocr"
-      ],
-      "stargazers_count": 1116,
-      "pushed_at": "2025-01-29T15:58:56Z",
-      "added_to_queue": "2026-03-24T11:06:35.317Z"
-    },
-    {
-      "name": "tabled",
-      "html_url": "https://github.com/VikParuchuri/tabled",
-      "description": "Detect and extract tables to markdown and csv",
-      "topics": [
-        "deep-learning",
-        "ocr",
-        "tables"
-      ],
-      "stargazers_count": 755,
-      "pushed_at": "2025-01-24T02:07:26Z",
-      "added_to_queue": "2026-03-24T11:06:35.317Z"
-    },
-    {
-      "name": "TensorFlow.NET",
-      "html_url": "https://github.com/SciSharp/TensorFlow.NET",
-      "description": ".NET Standard bindings for Google's TensorFlow for developing, training and deploying Machine Learning models in C# and F#.",
-      "topics": [
+        "3d-model",
+        "ai-companion",
+        "azure",
         "chatbot",
-        "csharp",
-        "deep-learning",
-        "dotnetcore",
-        "keras",
-        "machine-learning",
-        "scisharp",
-        "tensorflow"
+        "chatgpt",
+        "unity",
+        "unity3d",
+        "virtualassistant",
+        "vrm",
+        "waifu"
       ],
-      "stargazers_count": 3388,
-      "pushed_at": "2025-01-22T15:46:45Z",
-      "added_to_queue": "2026-03-24T11:06:35.317Z"
+      "stargazers_count": 1121,
+      "pushed_at": "2026-03-11T13:18:50Z",
+      "added_to_queue": "2026-03-24T11:49:28.562Z"
     },
     {
-      "name": "fastMRI",
-      "html_url": "https://github.com/facebookresearch/fastMRI",
-      "description": "A large-scale dataset of both raw MRI measurements and clinical MRI images.",
+      "name": "Awesome-ChatGPT-Prompts-CN",
+      "html_url": "https://github.com/wikieden/Awesome-ChatGPT-Prompts-CN",
+      "description": "ChatGPT调教指南|咒语指南|聊天提示词指南|学习指南",
       "topics": [
-        "convolutional-neural-networks",
-        "deep-learning",
-        "fastmri",
-        "fastmri-challenge",
-        "fastmri-dataset",
-        "medical-imaging",
-        "mri",
-        "mri-reconstruction",
-        "pytorch"
+        "chatgpt",
+        "chatgpt-prompts",
+        "chatgpt3",
+        "openai"
       ],
-      "stargazers_count": 1513,
-      "pushed_at": "2025-01-21T14:15:30Z",
-      "added_to_queue": "2026-03-24T11:06:35.317Z"
+      "stargazers_count": 1313,
+      "pushed_at": "2023-03-11T02:58:21Z",
+      "added_to_queue": "2026-03-24T11:49:28.563Z"
     },
     {
-      "name": "DeepRec",
-      "html_url": "https://github.com/DeepRec-AI/DeepRec",
-      "description": "DeepRec is a high-performance recommendation deep learning framework based on TensorFlow. It is hosted in incubation in LF AI & Data Foundation.",
+      "name": "writely",
+      "html_url": "https://github.com/anc95/writely",
+      "description": "❤️‍🔥 A chrome extension as an alternative to Notion AI that goes beyond Notion AI. | 一个替代 Notion AI 的浏览器插件，不止于 Notion AI",
       "topics": [
-        "advertising",
-        "deep-learning",
-        "distributed-training",
-        "machine-learning",
-        "python",
-        "recommendation-engine",
-        "scalability",
-        "search-engine"
+        "chatgpt",
+        "chrome-extension",
+        "notion-ai",
+        "openai",
+        "writing"
       ],
-      "stargazers_count": 1172,
-      "pushed_at": "2025-01-21T09:54:28Z",
-      "added_to_queue": "2026-03-24T11:06:35.317Z"
+      "stargazers_count": 1301,
+      "pushed_at": "2025-02-23T07:55:39Z",
+      "added_to_queue": "2026-03-24T11:49:28.563Z"
     },
     {
-      "name": "3D-Point-Clouds",
-      "html_url": "https://github.com/HuangCongQing/3D-Point-Clouds",
-      "description": "🔥3D点云目标检测&语义分割(深度学习)-SOTA方法,代码,论文,数据集等",
+      "name": "dev-chatgpt-prompts",
+      "html_url": "https://github.com/PickleBoxer/dev-chatgpt-prompts",
+      "description": "📚 Personal collection of ChatGPT prompts for developers!",
       "topics": [
-        "3d-detection",
-        "3d-point-cloud",
-        "3d-point-clouds",
-        "3d-semantic-segmentation",
-        "cpp",
-        "dataset",
-        "deep-learning",
-        "pcl",
-        "point-cloud",
-        "python3",
-        "ros",
-        "ros-melodic",
-        "sota"
+        "chatgpt",
+        "chatgpt4",
+        "code",
+        "copilot",
+        "faster",
+        "ia",
+        "prompts",
+        "smarter"
       ],
-      "stargazers_count": 606,
-      "pushed_at": "2025-01-20T12:00:51Z",
-      "added_to_queue": "2026-03-24T11:06:35.317Z"
+      "stargazers_count": 2188,
+      "pushed_at": "2024-10-10T07:28:11Z",
+      "added_to_queue": "2026-03-24T11:51:09.651Z"
     },
     {
-      "name": "Satellite-Imagery-Datasets-Containing-Ships",
-      "html_url": "https://github.com/jasonmanesis/Satellite-Imagery-Datasets-Containing-Ships",
-      "description": "This repository provides a comprehensive list of radar and optical satellite datasets curated for ship detection, classification, semantic segmentation, and instance segmentation tasks. These datasets are ideal for applications in computer vision, machine learning, remote sensing, and maritime analysis. ",
+      "name": "ChatGPT",
+      "html_url": "https://github.com/obiscr/ChatGPT",
+      "description": "This project is a plugin that supports ChatGPT running on JetBrains series IDE.",
       "topics": [
-        "classification",
-        "computer-vision",
-        "dataset",
-        "datasets",
-        "deep-learning",
-        "detection",
-        "hrsid",
-        "instance-segmentation",
-        "list",
-        "maritime-analysis",
-        "optical",
-        "remote-sensing",
-        "sar",
-        "satellite-imagery",
-        "semantic-segmentation",
-        "ship-detection",
-        "ships",
-        "ssdd",
-        "synthetic-aperture-radar",
-        "xview"
+        "chatgpt",
+        "chatgpt-jetbrains"
       ],
-      "stargazers_count": 571,
-      "pushed_at": "2025-01-18T15:15:58Z",
-      "added_to_queue": "2026-03-24T11:06:35.317Z"
+      "stargazers_count": 1060,
+      "pushed_at": "2024-10-10T07:25:11Z",
+      "added_to_queue": "2026-03-24T11:51:09.652Z"
     },
     {
-      "name": "StarGANv2-VC",
-      "html_url": "https://github.com/yl4579/StarGANv2-VC",
-      "description": "StarGANv2-VC: A Diverse, Unsupervised, Non-parallel Framework for Natural-Sounding Voice Conversion",
+      "name": "chatgpt-vscode",
+      "html_url": "https://github.com/ai-genie/chatgpt-vscode",
+      "description": "Your best AI pair programmer in VS Code",
       "topics": [
-        "deep-learning",
-        "gan",
-        "interspeech2021",
-        "speech",
-        "speech-synthesis",
-        "stargan-v2",
-        "voice-conversion"
+        "chatgpt",
+        "gpt-3",
+        "gpt-4",
+        "vscode"
       ],
-      "stargazers_count": 518,
-      "pushed_at": "2025-01-13T23:19:14Z",
-      "added_to_queue": "2026-03-24T11:06:35.317Z"
+      "stargazers_count": 1281,
+      "pushed_at": "2024-09-15T21:48:24Z",
+      "added_to_queue": "2026-03-24T11:51:09.652Z"
     },
     {
-      "name": "VLN-CE",
-      "html_url": "https://github.com/jacobkrantz/VLN-CE",
-      "description": "Vision-and-Language Navigation in Continuous Environments using Habitat",
+      "name": "NeuroAPI",
+      "html_url": "https://github.com/neurogen-dev/NeuroAPI",
+      "description": "Cheap ChatGPT 4o, GPT-5, Claude-4 API / Дешевый СhatGPT 4o ChatGPT 4o, GPT-5, Claude-4 API ",
+      "topics": [
+        "chatgpt",
+        "chatgpt-api",
+        "claude-4-sonnet",
+        "gpt-35-turbo",
+        "gpt-4",
+        "gpt-4o",
+        "gpt-4o-api",
+        "gpt-5",
+        "openai-api",
+        "reverse-api",
+        "reverse-proxy"
+      ],
+      "stargazers_count": 1326,
+      "pushed_at": "2024-09-05T11:53:25Z",
+      "added_to_queue": "2026-03-24T11:51:09.652Z"
+    },
+    {
+      "name": "lux-ui",
+      "html_url": "https://github.com/yangjiakai/lux-ui",
+      "description": "Create the best admin based on Vue3.x, Vite5.x, TypeScript, Vuetify3.x, Chat GPT",
+      "topics": [
+        "chatgpt",
+        "firebase",
+        "firebase-auth",
+        "markdown",
+        "mockjs",
+        "openai",
+        "pinia",
+        "typscript",
+        "vite",
+        "vue3",
+        "vuetify",
+        "vuetify3"
+      ],
+      "stargazers_count": 686,
+      "pushed_at": "2024-08-25T08:31:48Z",
+      "added_to_queue": "2026-03-24T11:51:09.652Z"
+    },
+    {
+      "name": "searchGPT",
+      "html_url": "https://github.com/michaelthwan/searchGPT",
+      "description": "Grounded search engine (i.e. with source reference) based on LLM / ChatGPT / OpenAI API. It supports web search, file content search etc.",
       "topics": [
         "ai",
-        "computer-vision",
-        "deep-learning",
-        "python",
-        "research",
-        "robotics"
-      ],
-      "stargazers_count": 751,
-      "pushed_at": "2025-01-07T18:53:33Z",
-      "added_to_queue": "2026-03-24T11:06:35.317Z"
-    },
-    {
-      "name": "Medical-SAM2",
-      "html_url": "https://github.com/ImprintLab/Medical-SAM2",
-      "description": "Medical SAM 2: Segment 3D Medical Images Via Segment Anything Model 2",
-      "topics": [
-        "deep-learning",
-        "medical",
-        "medical-imaging",
-        "segment-anything",
-        "segment-anything-2",
-        "segment-anything-model",
-        "segmentation"
-      ],
-      "stargazers_count": 911,
-      "pushed_at": "2025-01-06T13:20:04Z",
-      "added_to_queue": "2026-03-24T11:06:35.317Z"
-    },
-    {
-      "name": "pytorch-hed",
-      "html_url": "https://github.com/sniklaus/pytorch-hed",
-      "description": "a reimplementation of Holistically-Nested Edge Detection in PyTorch",
-      "topics": [
-        "cuda",
-        "deep-learning",
-        "python",
-        "pytorch"
-      ],
-      "stargazers_count": 521,
-      "pushed_at": "2025-01-06T01:02:57Z",
-      "added_to_queue": "2026-03-24T11:06:35.317Z"
-    },
-    {
-      "name": "pytorch-pwc",
-      "html_url": "https://github.com/sniklaus/pytorch-pwc",
-      "description": " a reimplementation of PWC-Net in PyTorch that matches the official Caffe version",
-      "topics": [
-        "cuda",
-        "cupy",
-        "deep-learning",
-        "python",
-        "pytorch"
-      ],
-      "stargazers_count": 654,
-      "pushed_at": "2025-01-06T01:02:38Z",
-      "added_to_queue": "2026-03-24T11:06:35.317Z"
-    },
-    {
-      "name": "DataCamp-Project-Solutions-Python",
-      "html_url": "https://github.com/veeralakrishna/DataCamp-Project-Solutions-Python",
-      "description": "DataCamp Project Solutions",
-      "topics": [
-        "data-analysis",
-        "data-science",
-        "data-visualization",
-        "datacamp",
-        "datacamp-course",
-        "datacamp-exercises",
-        "datacamp-projects",
-        "datacamp-python",
-        "datacamp-solutions-python",
-        "datascience",
-        "deep-learning",
-        "deep-learning-practice",
-        "machine-learning",
-        "machine-learning-practice",
-        "machine-learning-problem-solution",
-        "machine-learning-problems",
-        "machine-learning-projects",
-        "machinelearning",
-        "network-analysis",
-        "projects"
-      ],
-      "stargazers_count": 522,
-      "pushed_at": "2025-01-01T15:13:21Z",
-      "added_to_queue": "2026-03-24T11:06:35.317Z"
-    },
-    {
-      "name": "torchsde",
-      "html_url": "https://github.com/google-research/torchsde",
-      "description": "Differentiable SDE solvers with GPU support and efficient sensitivity analysis. ",
-      "topics": [
-        "deep-learning",
-        "deep-neural-networks",
-        "differential-equations",
-        "dynamical-systems",
-        "neural-differential-equations",
-        "pytorch",
-        "stochastic-differential-equations",
-        "stochastic-processes",
-        "stochastic-volatility-models"
-      ],
-      "stargazers_count": 1708,
-      "pushed_at": "2024-12-30T10:52:51Z",
-      "added_to_queue": "2026-03-24T11:06:35.317Z"
-    },
-    {
-      "name": "meshgpt-pytorch",
-      "html_url": "https://github.com/lucidrains/meshgpt-pytorch",
-      "description": "Implementation of MeshGPT, SOTA Mesh generation using Attention, in Pytorch",
-      "topics": [
-        "artificial-intelligence",
-        "attention-mechanisms",
-        "deep-learning",
-        "mesh-generation",
-        "transformers"
-      ],
-      "stargazers_count": 858,
-      "pushed_at": "2024-12-24T01:02:01Z",
-      "added_to_queue": "2026-03-24T11:06:35.317Z"
-    },
-    {
-      "name": "Merlin",
-      "html_url": "https://github.com/NVIDIA-Merlin/Merlin",
-      "description": "NVIDIA Merlin is an open source library providing end-to-end GPU-accelerated recommender systems, from feature engineering and preprocessing to training deep learning models and running inference in production.",
-      "topics": [
-        "deep-learning",
-        "end-to-end",
-        "gpu-acceleration",
-        "machine-learning",
-        "recommendation-system",
-        "recommender-system"
-      ],
-      "stargazers_count": 885,
-      "pushed_at": "2024-12-05T20:47:53Z",
-      "added_to_queue": "2026-03-24T11:06:35.317Z"
-    },
-    {
-      "name": "Voice-Cloning-App",
-      "html_url": "https://github.com/voice-cloning-app/Voice-Cloning-App",
-      "description": "A Python/Pytorch app for easily synthesising human voices",
-      "topics": [
-        "deep-learning",
-        "python",
-        "pytorch",
-        "tacotron2",
-        "text-to-speech",
-        "tts",
-        "voice-cloning"
-      ],
-      "stargazers_count": 1443,
-      "pushed_at": "2024-12-02T03:42:25Z",
-      "added_to_queue": "2026-03-24T11:06:35.317Z"
-    },
-    {
-      "name": "NISQA",
-      "html_url": "https://github.com/gabrielmittag/NISQA",
-      "description": "NISQA - Non-Intrusive Speech Quality and TTS Naturalness Assessment",
-      "topics": [
-        "deep-learning",
-        "icassp",
-        "interspeech",
-        "pytorch",
-        "quality-of-experience",
-        "speech-quality",
-        "speech-synthesis",
-        "text-to-speech",
-        "tts",
-        "voice-conversion"
-      ],
-      "stargazers_count": 923,
-      "pushed_at": "2024-12-01T00:40:47Z",
-      "added_to_queue": "2026-03-24T11:06:35.317Z"
-    },
-    {
-      "name": "lion-pytorch",
-      "html_url": "https://github.com/lucidrains/lion-pytorch",
-      "description": "🦁 Lion, new optimizer discovered by Google Brain using genetic algorithms that is purportedly better than Adam(w), in Pytorch",
-      "topics": [
-        "artificial-intelligence",
-        "deep-learning",
-        "evolutionary-search",
-        "optimizers"
-      ],
-      "stargazers_count": 2183,
-      "pushed_at": "2024-11-27T15:28:24Z",
-      "added_to_queue": "2026-03-24T11:06:35.317Z"
-    },
-    {
-      "name": "EasyNLP",
-      "html_url": "https://github.com/alibaba/EasyNLP",
-      "description": "EasyNLP: A Comprehensive and Easy-to-use NLP Toolkit",
-      "topics": [
-        "bert",
-        "deep-learning",
-        "fewshot-learning",
-        "knowledge-distillation",
-        "knowledge-pretraining",
+        "chatgpt",
+        "grounded-api",
+        "grounded-bot",
+        "language-model",
+        "llm",
         "machine-learning",
         "nlp",
-        "pretrained-models",
-        "pytorch",
-        "text-classification",
-        "text-image-retrieval",
-        "text-to-image-synthesis",
-        "transfer-learning",
-        "transformers"
+        "nlp-machine-learning",
+        "openai",
+        "python",
+        "retrieval",
+        "retrieval-model"
       ],
-      "stargazers_count": 2181,
-      "pushed_at": "2024-11-27T07:51:25Z",
-      "added_to_queue": "2026-03-24T11:06:35.318Z"
+      "stargazers_count": 710,
+      "pushed_at": "2024-08-25T05:02:21Z",
+      "added_to_queue": "2026-03-24T11:51:09.652Z"
     },
     {
-      "name": "icevision",
-      "html_url": "https://github.com/airctic/icevision",
-      "description": "An Agnostic Computer Vision Framework - Pluggable to any Training Library: Fastai, Pytorch-Lightning with more to come",
+      "name": "chatgpt-google-extension",
+      "html_url": "https://github.com/wong2/chatgpt-google-extension",
+      "description": "This project is deprecated. Check my new project ChatHub:",
+      "topics": [
+        "browser-extension",
+        "chatgpt",
+        "chrome-extension",
+        "firefox-addon"
+      ],
+      "stargazers_count": 13130,
+      "pushed_at": "2024-08-14T17:49:27Z",
+      "added_to_queue": "2026-03-24T11:51:09.652Z"
+    },
+    {
+      "name": "codereview.gpt",
+      "html_url": "https://github.com/sturdy-dev/codereview.gpt",
+      "description": "Reviews your Pull/Merge Requests using ChatGPT",
       "topics": [
         "ai",
-        "annotation-parsers",
-        "coco-dataset",
-        "coco-parser",
-        "computer-vision",
-        "deep-learning",
-        "effecientdet",
-        "fastai",
-        "faster-rcnn",
-        "mask-rcnn",
-        "object-detection",
-        "pycocotools",
-        "python",
+        "chatgpt",
+        "chrome-extension",
+        "github",
+        "gitlab"
+      ],
+      "stargazers_count": 609,
+      "pushed_at": "2024-08-12T07:10:27Z",
+      "added_to_queue": "2026-03-24T11:51:09.652Z"
+    },
+    {
+      "name": "QiZhenGPT",
+      "html_url": "https://github.com/CMKRG/QiZhenGPT",
+      "description": "QiZhenGPT: An Open Source Chinese Medical Large Language Model｜一个开源的中文医疗大语言模型",
+      "topics": [
+        "alpaca",
+        "chatgpt",
+        "chinese-medical",
+        "disease",
+        "gpt",
+        "llama",
+        "llm",
+        "medicine"
+      ],
+      "stargazers_count": 772,
+      "pushed_at": "2024-08-09T07:07:36Z",
+      "added_to_queue": "2026-03-24T11:51:09.652Z"
+    },
+    {
+      "name": "chatgpt-artifacts",
+      "html_url": "https://github.com/ozgrozer/chatgpt-artifacts",
+      "description": "Bring Claude's Artifacts feature to ChatGPT",
+      "topics": [
+        "artifacts",
+        "chatgpt",
+        "claude"
+      ],
+      "stargazers_count": 512,
+      "pushed_at": "2024-08-01T17:37:38Z",
+      "added_to_queue": "2026-03-24T11:51:09.652Z"
+    },
+    {
+      "name": "chatgpt-twitter-bot",
+      "html_url": "https://github.com/transitive-bullshit/chatgpt-twitter-bot",
+      "description": "Twitter bot powered by OpenAI's ChatGPT API. It's aliveeeee 🤖",
+      "topics": [
+        "bots",
+        "chatbot",
+        "chatgpt",
+        "openai",
+        "twitter"
+      ],
+      "stargazers_count": 757,
+      "pushed_at": "2024-07-22T19:49:32Z",
+      "added_to_queue": "2026-03-24T11:51:09.652Z"
+    },
+    {
+      "name": "azure-openai-proxy",
+      "html_url": "https://github.com/stulzq/azure-openai-proxy",
+      "description": "Azure OpenAI Service Proxy. Convert OpenAI official API request to Azure OpenAI API request. Support GPT-4,Embeddings,Langchain. Adapter from OpenAI to Azure OpenAI.",
+      "topics": [
+        "azure",
+        "azure-openai",
+        "chatgpt",
+        "gpt-4",
+        "langchain",
+        "openai"
+      ],
+      "stargazers_count": 1347,
+      "pushed_at": "2024-06-25T16:17:07Z",
+      "added_to_queue": "2026-03-24T11:51:09.652Z"
+    },
+    {
+      "name": "ChatIE",
+      "html_url": "https://github.com/cocacola-lab/ChatIE",
+      "description": "The online version is temporarily unavailable because we cannot afford the key. You can clone and run it locally. Note: we set defaul openai key. If keys exceed plan and are invalid, please tell us. The response speed depends on openai. ( sometimes, the official is too crowded and slow)",
+      "topics": [
+        "ai",
+        "chatgpt",
+        "chatgpt-app",
+        "event-extraciton",
+        "event-extraction",
+        "eventexecutor",
+        "information-extraction",
+        "knowledge-graph",
+        "llm",
+        "ner",
+        "nlp",
+        "openai",
+        "relation-extraction",
+        "tool",
+        "zero-shot"
+      ],
+      "stargazers_count": 828,
+      "pushed_at": "2024-05-28T02:57:38Z",
+      "added_to_queue": "2026-03-24T11:51:09.652Z"
+    },
+    {
+      "name": "TextRL",
+      "html_url": "https://github.com/voidful/TextRL",
+      "description": "Implementation of ChatGPT RLHF (Reinforcement Learning with Human Feedback) on any generation model in huggingface's transformer (blommz-176B/bloom/gpt/bart/T5/MetaICL)",
+      "topics": [
+        "chatgpt",
+        "controlled-nlg",
+        "gpt-2",
+        "gpt-3",
+        "language-model",
+        "nlg",
+        "nlp",
         "pytorch",
-        "pytorch-lightning",
-        "tutorials",
-        "voc-dataset",
-        "voc-parser"
+        "reinforcement-learning",
+        "rlhf"
       ],
-      "stargazers_count": 870,
-      "pushed_at": "2024-11-26T19:03:40Z",
-      "added_to_queue": "2026-03-24T11:06:35.318Z"
+      "stargazers_count": 565,
+      "pushed_at": "2024-05-09T17:37:44Z",
+      "added_to_queue": "2026-03-24T11:51:09.652Z"
     },
     {
-      "name": "model-zoo",
-      "html_url": "https://github.com/FluxML/model-zoo",
-      "description": "Please do not feed the models",
+      "name": "Replit-Xray",
+      "html_url": "https://github.com/yonggekkk/Replit-Xray",
+      "description": "Replit容器部署xray代理，支持argo固定隧道与临时隧道，自定义伪装网页，一键五协议共存，支持搭建vless、vmess、trojan、shadowsocks、socks5",
       "topics": [
-        "deep-learning",
-        "flux",
-        "julia",
-        "machine-learning",
-        "model-zoo"
+        "argo",
+        "chatgpt",
+        "cloudflared",
+        "nginx",
+        "oneclick",
+        "replit",
+        "shadowsocks",
+        "socks",
+        "trojan",
+        "vless",
+        "vmess",
+        "xray-core",
+        "ygkkk"
       ],
-      "stargazers_count": 934,
-      "pushed_at": "2024-11-25T18:49:31Z",
-      "added_to_queue": "2026-03-24T11:06:35.318Z"
+      "stargazers_count": 878,
+      "pushed_at": "2024-05-08T06:13:53Z",
+      "added_to_queue": "2026-03-24T11:51:09.652Z"
     },
     {
-      "name": "DeepTables",
-      "html_url": "https://github.com/DataCanvasIO/DeepTables",
-      "description": "DeepTables:  Deep-learning Toolkit for Tabular data",
+      "name": "project_openai_codex",
+      "html_url": "https://github.com/adrianhajdin/project_openai_codex",
+      "description": "Build and Deploy Your Own ChatGPT AI Application That Will Help You Code",
       "topics": [
-        "afm",
-        "autoint",
-        "ctr-prediction",
-        "dcn-model",
-        "deep-learning",
-        "deepfm",
-        "factorization-machines",
-        "fgcnn",
-        "fibinet",
-        "fm",
-        "pnn",
-        "structured-data",
-        "tabular-data",
-        "wide-and-deep",
-        "xdeepfm"
+        "ai",
+        "chatgpt"
       ],
-      "stargazers_count": 704,
-      "pushed_at": "2024-11-21T08:57:21Z",
-      "added_to_queue": "2026-03-24T11:06:35.318Z"
+      "stargazers_count": 1390,
+      "pushed_at": "2024-04-16T08:39:40Z",
+      "added_to_queue": "2026-03-24T11:51:09.652Z"
     },
     {
-      "name": "snac",
-      "html_url": "https://github.com/hubertsiuzdak/snac",
-      "description": "Multi-Scale Neural Audio Codec (SNAC) compresses audio into discrete codes at a low bitrate",
+      "name": "ChatGPTSwiftUI",
+      "html_url": "https://github.com/alfianlosari/ChatGPTSwiftUI",
+      "description": "A ChatGPT native iOS, macOS, watchOS, tvOS SwiftUI Application",
       "topics": [
-        "audio",
-        "audio-codec",
-        "deep-learning"
+        "appletv",
+        "applewatch",
+        "chatgpt",
+        "ios",
+        "macos",
+        "macos-app",
+        "palm2",
+        "palmapi",
+        "swift",
+        "swiftui",
+        "tvos",
+        "tvos-app",
+        "watchos"
       ],
-      "stargazers_count": 756,
-      "pushed_at": "2024-11-19T12:21:57Z",
-      "added_to_queue": "2026-03-24T11:06:35.318Z"
+      "stargazers_count": 695,
+      "pushed_at": "2024-04-10T08:06:55Z",
+      "added_to_queue": "2026-03-24T11:51:09.652Z"
     },
     {
-      "name": "LAVIS",
-      "html_url": "https://github.com/salesforce/LAVIS",
-      "description": "LAVIS - A One-stop Library for Language-Vision Intelligence",
+      "name": "awesome-instruction-datasets",
+      "html_url": "https://github.com/jianzhnie/awesome-instruction-datasets",
+      "description": "A collection of awesome-prompt-datasets, awesome-instruction-dataset, to train ChatLLM such as chatgpt 收录各种各样的指令数据集, 用于训练  ChatLLM 模型。",
       "topics": [
-        "deep-learning",
-        "deep-learning-library",
-        "image-captioning",
-        "multimodal-datasets",
-        "multimodal-deep-learning",
-        "salesforce",
-        "vision-and-language",
-        "vision-framework",
-        "vision-language-pretraining",
-        "vision-language-transformer",
-        "visual-question-anwsering"
+        "chatgpt",
+        "datasets",
+        "instruction",
+        "llama",
+        "llm",
+        "prompts",
+        "self-instruct"
       ],
-      "stargazers_count": 11194,
-      "pushed_at": "2024-11-18T19:51:42Z",
-      "added_to_queue": "2026-03-24T11:06:35.318Z"
+      "stargazers_count": 726,
+      "pushed_at": "2024-04-07T02:56:10Z",
+      "added_to_queue": "2026-03-24T11:51:09.652Z"
+    },
+    {
+      "name": "wechatgpt",
+      "html_url": "https://github.com/houko/wechatgpt",
+      "description": "wechatgpt golang版 chatgpt机器人(可docker部署)，目前支持wechat，telegram",
+      "topics": [
+        "chatgpt",
+        "golang",
+        "slack",
+        "wechat"
+      ],
+      "stargazers_count": 859,
+      "pushed_at": "2024-04-05T04:38:34Z",
+      "added_to_queue": "2026-03-24T11:51:09.652Z"
+    },
+    {
+      "name": "PandoraNext-TokensTool",
+      "html_url": "https://github.com/Yanyutin753/PandoraNext-TokensTool",
+      "description": "【更方便更安全的管理PandoraNext】通过手机端和电脑端使小白能快速部署属于自己的免费Open API中转站。tokensTool支持通过PandoraNext管理刷新所有token，支持分享，支持share_token，pool_token一键自定义放入oneapi。tokensTool全面支持PandoraNext部署方法且支持热部署，自定义后缀，登录黑名单IP和登录日志，保护隐私安全，已打包好docker镜像，且有详细部署和使用文档，小白也能免费部署，一键启动！",
+      "topics": [
+        "chatgpt",
+        "pandoranext"
+      ],
+      "stargazers_count": 1248,
+      "pushed_at": "2024-03-15T08:55:26Z",
+      "added_to_queue": "2026-03-24T11:51:09.652Z"
+    },
+    {
+      "name": "RankGPT",
+      "html_url": "https://github.com/sunnweiwei/RankGPT",
+      "description": "Is ChatGPT Good at Search? LLMs as Re-Ranking Agent [EMNLP 2023 Outstanding Paper Award]",
+      "topics": [
+        "chatgpt",
+        "information-retrieval",
+        "large-language-models",
+        "reranking"
+      ],
+      "stargazers_count": 658,
+      "pushed_at": "2024-03-10T08:27:04Z",
+      "added_to_queue": "2026-03-24T11:51:09.652Z"
+    },
+    {
+      "name": "chatgpt-prompt-splitter",
+      "html_url": "https://github.com/jupediaz/chatgpt-prompt-splitter",
+      "description": "ChatGPT PROMPTs Splitter. Tool for safely process chunks of up to 15,000 characters per request",
+      "topics": [
+        "ai-conversations",
+        "character-limit",
+        "chatgpt",
+        "language-model",
+        "nlp-tool",
+        "open-source",
+        "openai",
+        "prompt-splitter",
+        "python",
+        "text-splitter"
+      ],
+      "stargazers_count": 566,
+      "pushed_at": "2024-02-28T21:58:24Z",
+      "added_to_queue": "2026-03-24T11:51:09.652Z"
+    },
+    {
+      "name": "gpt_jailbreak_status",
+      "html_url": "https://github.com/tg12/gpt_jailbreak_status",
+      "description": "This is a repository that aims to provide updates on the status of jailbreaking the OpenAI GPT language model.",
+      "topics": [
+        "ai",
+        "chatbot",
+        "chatgpt",
+        "gpt-2",
+        "gpt-3",
+        "gpt-3-prompts",
+        "gpt-4"
+      ],
+      "stargazers_count": 936,
+      "pushed_at": "2024-02-15T08:01:05Z",
+      "added_to_queue": "2026-03-24T11:51:09.652Z"
     }
   ]
 }
