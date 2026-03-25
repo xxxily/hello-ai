@@ -1,0 +1,1 @@
+import{_ as i,o as a,c as s,ae as t}from"./chunks/framework.AIcMzs3L.js";const g=JSON.parse('{"title":"Hello-AI","description":"","frontmatter":{},"headers":[],"relativePath":"README.md","filePath":"README.md"}'),n={name:"README.md"};function o(l,e,r,p,c,d){return a(),s("div",null,[...e[0]||(e[0]=[t("",54)])])}const u=i(n,[["render",o]]);export{g as __pageData,u as default};

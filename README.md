@@ -5,6 +5,29 @@
 - 📚 **Documentation: [hello-ai.anzz.top](https://hello-ai.anzz.top)**  
 - 🏠 **Project: [github.com/xxxily/hello-ai](https://github.com/xxxily/hello-ai)**
 
+<!-- STATS_START -->
+## 📊 Project Statistics
+
+*This project has collected high-quality open-source AI projects as follows:*
+
+- 📁 **Total Projects**: 13474
+- 🏷️ **Categories**:
+  - 🔥 Trending: 30
+  - 🧠 Foundation Models: 441
+  - 🤖 Agents & Orchestration: 1150
+  - 🔍 RAG & Data Engineering: 482
+  - ☁️ Infrastructure & Deployment: 1129
+  - 🔧 Fine-tuning & Training: 685
+  - 👁️ Multimodal (Audio/Video): 1936
+  - 🛠️ Developer Tools & SDKs: 2367
+  - 🎨 AI Applications: 1112
+  - 📚 Learning Resources: 3081
+  - 💻 Desktop & OS Apps: 269
+  - 🦾 Robotics & IoT: 633
+  - 💼 Business & Finance: 215
+- 📅 **Last Updated**: 2026-03-25
+<!-- STATS_END -->
+
 ## Overview
 
 The initial intention of this project was to help oneself and others connect to the vast world of AI.

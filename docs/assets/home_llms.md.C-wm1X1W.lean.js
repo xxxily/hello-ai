@@ -1,1 +1,0 @@
-import{_ as r,o,c as t,ae as a}from"./chunks/framework.AIcMzs3L.js";const u=JSON.parse('{"title":"🧠 基础大模型","description":"","frontmatter":{},"headers":[],"relativePath":"home/llms.md","filePath":"home/llms.md"}'),n={name:"home/llms.md"};function l(i,e,s,c,d,g){return o(),t("div",null,[...e[0]||(e[0]=[a("",1315)])])}const m=r(n,[["render",l]]);export{u as __pageData,m as default};

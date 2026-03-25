@@ -87,6 +87,89 @@ function generateMarkdown(category) {
   return md;
 }
 
+/**
+ * Update README files with stats
+ */
+function updateReadmes(stats) {
+  const lastUpdated = new Date(stats.lastUpdated).toISOString().split('T')[0];
+
+  const catMapping = {
+    trending: '🔥 Trending',
+    llms: '🧠 Foundation Models',
+    agents: '🤖 Agents & Orchestration',
+    rag_data: '🔍 RAG & Data Engineering',
+    infrastructure: '☁️ Infrastructure & Deployment',
+    finetuning: '🔧 Fine-tuning & Training',
+    multimodal: '👁️ Multimodal (Audio/Video)',
+    devtools: '🛠️ Developer Tools & SDKs',
+    applications: '🎨 AI Applications',
+    learning: '📚 Learning Resources',
+    desktop_tools: '💻 Desktop & OS Apps',
+    robotics_iot: '🦾 Robotics & IoT',
+    finance_business: '💼 Business & Finance'
+  };
+
+  const generateStatsMd = (isChinese) => {
+    let md = `<!-- STATS_START -->\n`;
+    if (isChinese) {
+      md += `## 📊 项目统计\n\n`;
+      md += `*此项目已收录 AI 相关的优质开源项目概况如下：*\n\n`;
+      md += `- 📁 **收录总量**：${stats.totalProjects}\n`;
+      md += `- 🏷️ **分类概览**：\n`;
+      for (const key in stats.categories) {
+        const cat = stats.categories[key];
+        md += `  - ${cat.name}：${cat.count}\n`;
+      }
+      md += `- 📅 **最后更新**：${lastUpdated}\n`;
+    } else {
+      md += `## 📊 Project Statistics\n\n`;
+      md += `*This project has collected high-quality open-source AI projects as follows:*\n\n`;
+      md += `- 📁 **Total Projects**: ${stats.totalProjects}\n`;
+      md += `- 🏷️ **Categories**:\n`;
+      for (const key in stats.categories) {
+        const cat = stats.categories[key];
+        const engName = catMapping[key] || cat.name;
+        md += `  - ${engName}: ${cat.count}\n`;
+      }
+      md += `- 📅 **Last Updated**: ${lastUpdated}\n`;
+    }
+    md += `<!-- STATS_END -->`;
+    return md;
+  };
+
+  const files = [
+    { path: path.join(__dirname, '../README.md'), isChinese: false, anchor: '## Overview' },
+    { path: path.join(__dirname, '../README-zh.md'), isChinese: true, anchor: '## 概述' },
+    { path: path.join(__dirname, '../home/index.md'), isChinese: true, anchor: '## 概述' }
+  ];
+
+  files.forEach(file => {
+    if (!fs.existsSync(file.path)) return;
+
+    let content = fs.readFileSync(file.path, 'utf-8');
+    const statsMd = generateStatsMd(file.isChinese);
+
+    const startMarker = '<!-- STATS_START -->';
+    const endMarker = '<!-- STATS_END -->';
+
+    if (content.includes(startMarker) && content.includes(endMarker)) {
+      // Replace existing
+      const regex = new RegExp(`${startMarker}[\\s\\S]*?${endMarker}`, 'g');
+      content = content.replace(regex, statsMd);
+    } else {
+      // Insert before anchor
+      if (content.includes(file.anchor)) {
+        content = content.replace(file.anchor, `${statsMd}\n\n${file.anchor}`);
+      } else {
+        console.warn(`Anchor ${file.anchor} not found in ${file.path}`);
+      }
+    }
+
+    fs.writeFileSync(file.path, content, 'utf-8');
+    console.log(`Updated stats in: ${file.path}`);
+  });
+}
+
 function build() {
   if (!fs.existsSync(dataFile)) {
     console.error('Data file not found:', dataFile);
@@ -137,6 +220,9 @@ function build() {
   const statsPath = path.join(__dirname, '../data/stats.json');
   fs.writeFileSync(statsPath, JSON.stringify(stats, null, 2), 'utf-8');
   console.log(`Generated stats: ${statsPath}`);
+
+  // Sync stats to READMEs
+  updateReadmes(stats);
 
   console.log('\nDocs generation completed successfully.');
   console.log(`Total projects collected (unique): ${uniqueProjectUrls.size}`);
