@@ -134,14 +134,34 @@ cp .env.example .env
 - **`GITHUB_TOKEN=`** `(强烈建议配置)`：搜索限流极高，不置为空很容易触发限流风控。
 - **`LLM_API_KEY=`**：你的 大语言模型 API Key（用于分析和筛选项目）。
   - *💡 零成本本地提示：如果你在使用本地部署大模型（如 Ollama + llama3），可以将其设为 `local-fallback`。*
+- **`LLM_PROVIDER=`**：选择内置供应商预设（`openai`、`minimax`、`deepseek`、`ollama`）。省略时会根据 `LLM_BASE_URL` 或对应的 API Key 环境变量自动检测。
 - **`LLM_BASE_URL=`**：API转发地址（例如：`https://api.openai.com/v1` 或 本地 `http://127.0.0.1:11434/v1`）。
-- **`LLM_MODEL=`**：要执行推理的模型名字。
+- **`LLM_MODEL=`**：要执行推理的模型名字（如 `gpt-4o-mini`、`MiniMax-M2.5`）。
 - **`DISCOVER_BATCH_SIZE`** / **`EVALUATE_BATCH_SIZE`**：可控每次探索拉取的个数，及一次批量合并扔给 AI 判断的项目个数。
 - **`LOOP_INTERVAL_SECONDS`**: 可调整 `ai:loop-eval` 循环模式每次休息的打底时间（默认 60 秒）。
 - **`MAX_PAGES_DEFAULT`**: 每个话题默认探索的最大页数（默认：5）。
 - **`MAX_PAGES_QUALITY`**: 高质量话题探索的最大页数（默认：20）。
 - **`QUALITY_TOPIC_THRESHOLD`**: 判定为高质量话题的分数阈值（默认：5）。
 - **`AUTO_FETCH_DESC_STARS`**: 自动获取缺失描述的 Star 阈值（默认：1000）。
+
+#### 支持的 LLM 供应商
+
+评估引擎支持任何 **OpenAI 兼容** 的 LLM API，内置预设可方便切换：
+
+| 供应商 | `LLM_PROVIDER` | 默认模型 | API Key 环境变量 |
+|--------|----------------|----------|-----------------|
+| [OpenAI](https://openai.com) | `openai` | `gpt-4o-mini` | `OPENAI_API_KEY` 或 `LLM_API_KEY` |
+| [MiniMax](https://www.minimaxi.com) | `minimax` | `MiniMax-M2.5` | `MINIMAX_API_KEY` 或 `LLM_API_KEY` |
+| [DeepSeek](https://deepseek.com) | `deepseek` | `deepseek-chat` | `DEEPSEEK_API_KEY` 或 `LLM_API_KEY` |
+| [Ollama](https://ollama.ai) (本地) | `ollama` | `llama3` | 不需要（使用 `local-fallback`） |
+
+**MiniMax 快速上手：**
+```bash
+LLM_PROVIDER=minimax
+MINIMAX_API_KEY=your-key-here
+# 可选指定模型：
+# LLM_MODEL=MiniMax-M2.7
+```
 
 ### 3. 开始执行自动化作业
 您可以按照需求来跑跑脚本：

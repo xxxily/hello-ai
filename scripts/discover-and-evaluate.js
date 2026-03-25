@@ -11,9 +11,9 @@ const queueFile = path.join(__dirname, '../data/pending-projects.json');
 const topicsFile = path.join(__dirname, '../data/topics.json');
 const rejectedFile = path.join(__dirname, '../data/rejected-projects.json');
 
-const LLM_API_KEY = process.env.LLM_API_KEY || 'local-fallback';
-const LLM_BASE_URL = process.env.LLM_BASE_URL || (LLM_API_KEY === 'local-fallback' ? 'http://127.0.0.1:11434/v1' : 'https://api.openai.com/v1');
-const LLM_MODEL = process.env.LLM_MODEL || (LLM_API_KEY === 'local-fallback' ? 'llama3' : 'gpt-4o-mini');
+import { resolveLLMConfig, buildRequestBody, stripThinkTags } from './llm-provider.js';
+
+const { provider: LLM_PROVIDER, baseUrl: LLM_BASE_URL, apiKey: LLM_API_KEY, model: LLM_MODEL } = resolveLLMConfig();
 
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
 const DISCOVER_BATCH_SIZE = parseInt(process.env.DISCOVER_BATCH_SIZE || '10', 10);
@@ -54,21 +54,23 @@ function saveJson(filePath, data) {
 }
 
 async function askLLM(prompt) {
+  const messages = [
+    { role: 'system', content: 'You are an AI project curator. Your job is to strictly evaluate GitHub repositories and return JSON. Respond ONLY with valid JSON.' },
+    { role: 'user', content: prompt }
+  ];
+
+  const body = buildRequestBody(LLM_PROVIDER, LLM_MODEL, messages, {
+    temperature: 0.1,
+    responseFormat: { type: "json_object" },
+  });
+
   const res = await fetch(`${LLM_BASE_URL}/chat/completions`, {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
       'Authorization': `Bearer ${LLM_API_KEY}`
     },
-    body: JSON.stringify({
-      model: LLM_MODEL,
-      messages: [
-        { role: 'system', content: 'You are an AI project curator. Your job is to strictly evaluate GitHub repositories and return JSON. Respond ONLY with valid JSON.' },
-        { role: 'user', content: prompt }
-      ],
-      temperature: 0.1,
-      response_format: { type: "json_object" }
-    })
+    body: JSON.stringify(body)
   });
 
   if (!res.ok) {
@@ -77,7 +79,8 @@ async function askLLM(prompt) {
   }
 
   const resData = await res.json();
-  const content = resData.choices[0].message.content;
+  let content = resData.choices[0].message.content;
+  content = stripThinkTags(content);
   let cleanContent = content.replace(/```json/g, '').replace(/```/g, '').trim();
   return JSON.parse(cleanContent);
 }
@@ -378,7 +381,7 @@ async function evaluate() {
 
   const totalPending = pendingDb.queue.length;
   console.log(`\n📊 [Task Pool] Current pending tasks awaiting evaluation: ${totalPending}`);
-  console.log(`🤖 [Task Pool] Evaluating up to ${EVALUATE_BATCH_SIZE} projects using Model: ${LLM_MODEL}...`);
+  console.log(`🤖 [Task Pool] Evaluating up to ${EVALUATE_BATCH_SIZE} projects using Provider: ${LLM_PROVIDER}, Model: ${LLM_MODEL}...`);
 
   // Grab up to EVALUATE_BATCH_SIZE items
   const batch = pendingDb.queue.splice(0, EVALUATE_BATCH_SIZE);

@@ -125,14 +125,34 @@ Open `.env` and adjust the core configurations:
 - **`GITHUB_TOKEN=`** `(Highly Recommended)`: Bypasses the strict rate limits applied to anonymous GitHub search API calls.
 - **`LLM_API_KEY=`**: Your target LLM API Key (used for analyzing and curating projects).
   - *💡 Zero-Cost Prompt: If you are using a local LLM setup (e.g. Ollama via llama3), you can simply use `LLM_API_KEY=local-fallback`.*
+- **`LLM_PROVIDER=`**: Select a built-in provider preset (`openai`, `minimax`, `deepseek`, `ollama`). When omitted, auto-detected from `LLM_BASE_URL` or provider-specific API key env vars.
 - **`LLM_BASE_URL=`**: LLM endpoint (e.g. `https://api.openai.com/v1`, or local `http://127.0.0.1:11434/v1`).
-- **`LLM_MODEL=`**: Standard model identity to use (e.g. `gpt-4o-mini`).
+- **`LLM_MODEL=`**: Standard model identity to use (e.g. `gpt-4o-mini`, `MiniMax-M2.5`).
 - **`DISCOVER_BATCH_SIZE`** / **`EVALUATE_BATCH_SIZE`**: Modify limits per pull from GitHub and per LLM prompt bulk execution batch.
 - **`LOOP_INTERVAL_SECONDS`**: Configure the base idle time interval between consecutive `ai:loop-eval` cycles (default: 60s).
 - **`MAX_PAGES_DEFAULT`**: Default max pages to explore per topic (default: 5).
 - **`MAX_PAGES_QUALITY`**: Max pages for high-quality topics (default: 20).
 - **`QUALITY_TOPIC_THRESHOLD`**: Score threshold for high-quality topics (default: 5).
 - **`AUTO_FETCH_DESC_STARS`**: Star threshold to proactively fetch missing descriptions (default: 1000).
+
+#### Supported LLM Providers
+
+The evaluation engine supports any **OpenAI-compatible** LLM API. Built-in presets make it easy to switch:
+
+| Provider | `LLM_PROVIDER` | Default Model | API Key Env |
+|----------|----------------|---------------|-------------|
+| [OpenAI](https://openai.com) | `openai` | `gpt-4o-mini` | `OPENAI_API_KEY` or `LLM_API_KEY` |
+| [MiniMax](https://www.minimaxi.com) | `minimax` | `MiniMax-M2.5` | `MINIMAX_API_KEY` or `LLM_API_KEY` |
+| [DeepSeek](https://deepseek.com) | `deepseek` | `deepseek-chat` | `DEEPSEEK_API_KEY` or `LLM_API_KEY` |
+| [Ollama](https://ollama.ai) (local) | `ollama` | `llama3` | N/A (uses `local-fallback`) |
+
+**Quick start with MiniMax:**
+```bash
+LLM_PROVIDER=minimax
+MINIMAX_API_KEY=your-key-here
+# Optionally pick a specific model:
+# LLM_MODEL=MiniMax-M2.7
+```
 
 ### 3. Run Automation Pipelines
 Choose how you want to execute scripts:
