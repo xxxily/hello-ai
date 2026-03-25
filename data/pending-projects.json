@@ -1,3 +1,167 @@
 {
-  "queue": []
+  "queue": [
+    {
+      "name": "llama",
+      "html_url": "https://github.com/meta-llama/llama",
+      "description": "Inference code for Llama models",
+      "topics": [],
+      "stargazers_count": 59260,
+      "pushed_at": "2025-01-26T21:42:26Z",
+      "added_to_queue": "2026-03-25T14:46:45.810Z"
+    },
+    {
+      "name": "segment-anything",
+      "html_url": "https://github.com/facebookresearch/segment-anything",
+      "description": "The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
+      "topics": [],
+      "stargazers_count": 53776,
+      "pushed_at": "2024-09-18T17:46:55Z",
+      "added_to_queue": "2026-03-25T14:46:45.810Z"
+    },
+    {
+      "name": "zod",
+      "html_url": "https://github.com/colinhacks/zod",
+      "description": "TypeScript-first schema validation with static type inference",
+      "topics": [
+        "runtime-validation",
+        "schema-validation",
+        "static-types",
+        "type-inference",
+        "typescript"
+      ],
+      "stargazers_count": 42211,
+      "pushed_at": "2026-02-15T14:20:41Z",
+      "added_to_queue": "2026-03-25T14:46:45.810Z"
+    },
+    {
+      "name": "llama2.c",
+      "html_url": "https://github.com/karpathy/llama2.c",
+      "description": "Inference Llama 2 in one file of pure C",
+      "topics": [],
+      "stargazers_count": 19317,
+      "pushed_at": "2024-08-06T09:44:40Z",
+      "added_to_queue": "2026-03-25T14:46:45.810Z"
+    },
+    {
+      "name": "sam2",
+      "html_url": "https://github.com/facebookresearch/sam2",
+      "description": "The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
+      "topics": [],
+      "stargazers_count": 18780,
+      "pushed_at": "2026-03-20T11:15:07Z",
+      "added_to_queue": "2026-03-25T14:46:45.810Z"
+    },
+    {
+      "name": "NemoClaw",
+      "html_url": "https://github.com/NVIDIA/NemoClaw",
+      "description": "Run OpenClaw more securely inside NVIDIA OpenShell with managed inference",
+      "topics": [],
+      "stargazers_count": 16579,
+      "pushed_at": "2026-03-25T14:46:06Z",
+      "added_to_queue": "2026-03-25T14:46:45.810Z"
+    },
+    {
+      "name": "ts-pattern",
+      "html_url": "https://github.com/gvergnaud/ts-pattern",
+      "description": "🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.",
+      "topics": [
+        "branching",
+        "conditions",
+        "exhaustive",
+        "inference",
+        "javascript",
+        "matching",
+        "pattern",
+        "pattern-matching",
+        "ts",
+        "type-inference",
+        "typescript"
+      ],
+      "stargazers_count": 14857,
+      "pushed_at": "2026-03-22T01:29:20Z",
+      "added_to_queue": "2026-03-25T14:46:45.810Z"
+    },
+    {
+      "name": "sam3",
+      "html_url": "https://github.com/facebookresearch/sam3",
+      "description": "The repository provides code for running inference and finetuning with the Meta Segment Anything Model 3 (SAM 3), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
+      "topics": [],
+      "stargazers_count": 8376,
+      "pushed_at": "2026-03-18T19:57:38Z",
+      "added_to_queue": "2026-03-25T14:46:45.810Z"
+    },
+    {
+      "name": "alphafold3",
+      "html_url": "https://github.com/google-deepmind/alphafold3",
+      "description": "AlphaFold 3 inference pipeline.",
+      "topics": [],
+      "stargazers_count": 7764,
+      "pushed_at": "2026-03-10T16:14:16Z",
+      "added_to_queue": "2026-03-25T14:46:45.810Z"
+    },
+    {
+      "name": "starcoder",
+      "html_url": "https://github.com/bigcode-project/starcoder",
+      "description": "Home of StarCoder: fine-tuning & inference!",
+      "topics": [],
+      "stargazers_count": 7527,
+      "pushed_at": "2024-02-27T02:05:57Z",
+      "added_to_queue": "2026-03-25T14:46:45.810Z"
+    },
+    {
+      "name": "io-ts",
+      "html_url": "https://github.com/gcanti/io-ts",
+      "description": "Runtime type system for IO decoding/encoding",
+      "topics": [
+        "inference",
+        "runtime",
+        "types",
+        "typescript",
+        "validation"
+      ],
+      "stargazers_count": 6820,
+      "pushed_at": "2024-12-10T11:53:31Z",
+      "added_to_queue": "2026-03-25T14:46:45.810Z"
+    },
+    {
+      "name": "OLMo",
+      "html_url": "https://github.com/allenai/OLMo",
+      "description": "Modeling, training, eval, and inference code for OLMo",
+      "topics": [],
+      "stargazers_count": 6420,
+      "pushed_at": "2025-11-24T19:13:15Z",
+      "added_to_queue": "2026-03-25T14:46:45.810Z"
+    },
+    {
+      "name": "tacotron2",
+      "html_url": "https://github.com/NVIDIA/tacotron2",
+      "description": "Tacotron 2 - PyTorch implementation with faster-than-realtime inference",
+      "topics": [],
+      "stargazers_count": 5305,
+      "pushed_at": "2024-06-12T18:49:15Z",
+      "added_to_queue": "2026-03-25T14:46:45.811Z"
+    },
+    {
+      "name": "typedb",
+      "html_url": "https://github.com/typedb/typedb",
+      "description": "TypeDB: Built for systems, not records",
+      "topics": [
+        "database",
+        "inference",
+        "knowledge-base",
+        "knowledge-representation",
+        "logic",
+        "polymorphic",
+        "polymorphism",
+        "reasoning",
+        "strongly-typed",
+        "type-system",
+        "typedb",
+        "typeql"
+      ],
+      "stargazers_count": 4256,
+      "pushed_at": "2026-03-25T13:53:47Z",
+      "added_to_queue": "2026-03-25T14:46:45.811Z"
+    }
+  ]
 }
