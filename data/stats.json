@@ -1,5 +1,5 @@
 {
-  "totalProjects": 15045,
+  "totalProjects": 10815,
   "categories": {
     "trending": {
       "name": "🔥 热门推荐",
@@ -7,52 +7,52 @@
     },
     "llms": {
       "name": "🧠 基础大模型",
-      "count": 473
+      "count": 287
     },
     "agents": {
       "name": "🤖 智能体与编排",
-      "count": 1242
+      "count": 1178
     },
     "rag_data": {
       "name": "🔍 RAG与检索",
-      "count": 522
+      "count": 454
     },
     "infrastructure": {
       "name": "☁️ 基础设施与部署",
-      "count": 1230
+      "count": 1012
     },
     "finetuning": {
       "name": "🔧 微调与训练",
-      "count": 786
+      "count": 540
     },
     "multimodal": {
       "name": "👁️ 多模态与音视频",
-      "count": 2147
+      "count": 1417
     },
     "devtools": {
       "name": "🛠️ 开发工具与SDK",
-      "count": 2673
+      "count": 2153
     },
     "applications": {
       "name": "🎨 AI终端应用",
-      "count": 1234
+      "count": 947
     },
     "learning": {
       "name": "📚 学习与资源",
-      "count": 3479
+      "count": 1868
     },
     "desktop_tools": {
       "name": "💻 桌面与操作系统级应用",
-      "count": 291
+      "count": 265
     },
     "robotics_iot": {
       "name": "🦾 机器人与物联网",
-      "count": 750
+      "count": 535
     },
     "finance_business": {
       "name": "💼 商业与量化",
-      "count": 248
+      "count": 175
     }
   },
-  "lastUpdated": "2026-03-26T14:48:03.374Z"
+  "lastUpdated": "2026-03-26T15:32:33.987Z"
 }

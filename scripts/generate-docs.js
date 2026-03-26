@@ -185,6 +185,34 @@ function build() {
     process.exit(1);
   }
 
+  // Filter projects by recency
+  const RECENCY_THRESHOLD_MONTHS = parseInt(process.env.RECENCY_THRESHOLD_MONTHS || '24');
+  if (RECENCY_THRESHOLD_MONTHS > 0) {
+    const cutoffDate = new Date();
+    cutoffDate.setMonth(cutoffDate.getMonth() - RECENCY_THRESHOLD_MONTHS);
+
+    console.log(`Filtering projects: keeping projects updated within the last ${RECENCY_THRESHOLD_MONTHS} months (cutoff: ${cutoffDate.toISOString().split('T')[0]})`);
+
+    let totalRemoved = 0;
+    data.categories.forEach(category => {
+      if (category.projects) {
+        const initialCount = category.projects.length;
+        category.projects = category.projects.filter(project => {
+          if (!project.lastUpdated || project.lastUpdated === 'unknown') {
+            return true; // Keep projects with unknown update time for safety
+          }
+          const lastUpdatedDate = new Date(project.lastUpdated);
+          return isNaN(lastUpdatedDate.getTime()) || lastUpdatedDate >= cutoffDate;
+        });
+        totalRemoved += (initialCount - category.projects.length);
+      }
+    });
+
+    if (totalRemoved > 0) {
+      console.log(`Filtered out ${totalRemoved} outdated projects.`);
+    }
+  }
+
   if (!fs.existsSync(docsDir)) {
     fs.mkdirSync(docsDir, { recursive: true });
   }

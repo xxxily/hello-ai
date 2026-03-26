@@ -20,21 +20,21 @@
 
 *此项目已收录 AI 相关的优质开源项目概况如下：*
 
-- 📁 **收录总量**：15045
+- 📁 **收录总量**：10815
 - 🏷️ **分类概览**：
   - 🔥 热门推荐：30
-  - 🧠 基础大模型：473
-  - 🤖 智能体与编排：1242
-  - 🔍 RAG与检索：522
-  - ☁️ 基础设施与部署：1230
-  - 🔧 微调与训练：786
-  - 👁️ 多模态与音视频：2147
-  - 🛠️ 开发工具与SDK：2673
-  - 🎨 AI终端应用：1234
-  - 📚 学习与资源：3479
-  - 💻 桌面与操作系统级应用：291
-  - 🦾 机器人与物联网：750
-  - 💼 商业与量化：248
+  - 🧠 基础大模型：287
+  - 🤖 智能体与编排：1178
+  - 🔍 RAG与检索：454
+  - ☁️ 基础设施与部署：1012
+  - 🔧 微调与训练：540
+  - 👁️ 多模态与音视频：1417
+  - 🛠️ 开发工具与SDK：2153
+  - 🎨 AI终端应用：947
+  - 📚 学习与资源：1868
+  - 💻 桌面与操作系统级应用：265
+  - 🦾 机器人与物联网：535
+  - 💼 商业与量化：175
 - 📅 **最后更新**：2026-03-26
 <!-- STATS_END -->
 
@@ -107,7 +107,7 @@ graph TD
 
 ### 3. 前端自动化渲染与视图解耦 (View Generation)
 - **轻量级自适应路由呈现：** 本项目采用 VitePress 框架构建，其 Navbar (`nav`) 与 Sidebar (`sidebar`) 被完全改写为动态读取。当 `projects.json` 发生分类变动时，会自动抽取极简版的 `categories.json` 供前端导航按需加载。这既避免了由于大 json 造成的前端极慢解析，又能毫无迟滞地将最新分类精准呈递进前端侧边栏，避免数据与 UI 产生的视图错乱。
-- **智能 Markdown 小类折叠：** `generate-docs.js` 会自动遍历大类，并在生成各个大类文档页时，根据项目归属的 `subcategory` 将项目智能分组到 `## 标题` 之下，确保大量展示时的整洁感。
+- **智能 Markdown 小类折叠与过时清理**：`generate-docs.js` 会自动遍历大类，并在生成各个大类文档页时，根据项目归属的 `subcategory` 将项目智能分组。同时，它会根据 `RECENCY_THRESHOLD_MONTHS` 配置自动剔除长期未更新的项目，确保文档的实效性与整体质量。
 
 ### 4. 自动化驱动引擎 (Automation Process)
 - 为了追求无人值守的完美流线（比如规避访问限流），您可选用 `scripts/loop-eval.js` 等进程守护型执行器，通过内置的 `Sleep` 等轮询机制，长期维持 **发现 -> 暂存 -> AI评估 -> 静态页打包** 面向开源大海的探索闭环。
@@ -135,10 +135,35 @@ cp .env.example .env
 - **`GITHUB_TOKEN=`** `(强烈建议配置)`：搜索限流极高，不置为空很容易触发限流风控。
 - **`LLM_API_KEY=`**：你的 大语言模型 API Key（用于分析和筛选项目）。
   - *💡 零成本本地提示：如果你在使用本地部署大模型（如 Ollama + llama3），可以将其设为 `local-fallback`。*
+- **`LLM_PROVIDER=`**：选择内置供应商预设（`openai`、`minimax`、`deepseek`、`ollama`）。省略时会根据 `LLM_BASE_URL` 或对应的 API Key 环境变量自动检测。
 - **`LLM_BASE_URL=`**：API转发地址（例如：`https://api.openai.com/v1` 或 本地 `http://127.0.0.1:11434/v1`）。
-- **`LLM_MODEL=`**：要执行推理的模型名字。
+- **`LLM_MODEL=`**：要执行推理的模型名字（如 `gpt-4o-mini`、`MiniMax-M2.5`）。
 - **`DISCOVER_BATCH_SIZE`** / **`EVALUATE_BATCH_SIZE`**：可控每次探索拉取的个数，及一次批量合并扔给 AI 判断的项目个数。
 - **`LOOP_INTERVAL_SECONDS`**: 可调整 `ai:loop-eval` 循环模式每次休息的打底时间（默认 60 秒）。
+- **`MAX_PAGES_DEFAULT`**: 每个话题默认探索的最大页数（默认：5）。
+- **`MAX_PAGES_QUALITY`**: 高质量话题探索的最大页数（默认：20）。
+- **`QUALITY_TOPIC_THRESHOLD`**: 判定为高质量话题的分数阈值（默认：5）。
+- **`AUTO_FETCH_DESC_STARS`**: 自动获取缺失描述的 Star 阈值（默认：1000）。
+- **`RECENCY_THRESHOLD_MONTHS`**: 文档生成时保留最近多少个月有更新的项目（默认：24，即 2 年）。
+
+#### 支持的 LLM 供应商
+
+评估引擎支持任何 **OpenAI 兼容** 的 LLM API，内置预设可方便切换：
+
+| 供应商 | `LLM_PROVIDER` | 默认模型 | API Key 环境变量 |
+|--------|----------------|----------|-----------------|
+| [OpenAI](https://openai.com) | `openai` | `gpt-4o-mini` | `OPENAI_API_KEY` 或 `LLM_API_KEY` |
+| [MiniMax](https://www.minimaxi.com) | `minimax` | `MiniMax-M2.5` | `MINIMAX_API_KEY` 或 `LLM_API_KEY` |
+| [DeepSeek](https://deepseek.com) | `deepseek` | `deepseek-chat` | `DEEPSEEK_API_KEY` 或 `LLM_API_KEY` |
+| [Ollama](https://ollama.ai) (本地) | `ollama` | `llama3` | 不需要（使用 `local-fallback`） |
+
+**MiniMax 快速上手：**
+```bash
+LLM_PROVIDER=minimax
+MINIMAX_API_KEY=your-key-here
+# 可选指定模型：
+# LLM_MODEL=MiniMax-M2.7
+```
 
 ### 3. 开始执行自动化作业
 您可以按照需求来跑跑脚本：
@@ -149,6 +174,10 @@ cp .env.example .env
 - **开启无人守护循环模式** (推荐用于长久维护，持续探索+分类)：
   ```bash
   npm run ai:loop-eval
+  ```
+- **开启 TUI 交互配置循环模式** (推荐，可视化选择参数)：
+  ```bash
+  npm run ai:loop-eval-tui
   ```
 - **后台增量更新 Star 数与存活状态** (拉取库内项目进行信息修正)：
   ```bash
@@ -166,6 +195,17 @@ cp .env.example .env
   ```bash
   npm run ai:extract-categories
   ```
+
+#### 💡 进阶参数说明 (Advanced CLI Flags)
+在执行 `npm run ai:discover-eval` 或其变体时，可追加以下参数：
+- `--sort-topic-by=quality|time`: 
+  - `quality`: 优先探索质量评分（基于已收录项目数）最高的主题。
+  - `time`: 优先探索最后探索时间最久远的主题。
+- `--topic-order=asc|desc`: 排序方向（默认质量降序/时间升序）。
+- `--consume-only`: 仅从本地队列评估，不向 GitHub 发起新搜索。
+- `--resume`: 恢复上次探索进度，从记录的主题和页码继续。
+- `--update-only`: 仅更新现有项目统计信息，跳过 LLM 评估阶段。
+- `--init-topics`: (仅限初始化) 根据 `projects.json` 已有数据重新初始化 `topics.json` 的质量评分。
 
 ### 4. 动态生成页面与本地阅览
 等待 AI 完成打标写档后，可以一键将数据变回网站！
@@ -189,7 +229,6 @@ npm run docs:build
 
 - 📚 **在线访问：[hello-ai.anzz.top](https://hello-ai.anzz.top)** (国际站)
 - 📚 **在线访问：[hello-ai.anzz.site](https://hello-ai.anzz.site)** (国内站)
-
 
 ## 交流群
 

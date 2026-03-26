@@ -10,21 +10,21 @@
 
 *This project has collected high-quality open-source AI projects as follows:*
 
-- 📁 **Total Projects**: 15045
+- 📁 **Total Projects**: 10815
 - 🏷️ **Categories**:
   - 🔥 Trending: 30
-  - 🧠 Foundation Models: 473
-  - 🤖 Agents & Orchestration: 1242
-  - 🔍 RAG & Data Engineering: 522
-  - ☁️ Infrastructure & Deployment: 1230
-  - 🔧 Fine-tuning & Training: 786
-  - 👁️ Multimodal (Audio/Video): 2147
-  - 🛠️ Developer Tools & SDKs: 2673
-  - 🎨 AI Applications: 1234
-  - 📚 Learning Resources: 3479
-  - 💻 Desktop & OS Apps: 291
-  - 🦾 Robotics & IoT: 750
-  - 💼 Business & Finance: 248
+  - 🧠 Foundation Models: 287
+  - 🤖 Agents & Orchestration: 1178
+  - 🔍 RAG & Data Engineering: 454
+  - ☁️ Infrastructure & Deployment: 1012
+  - 🔧 Fine-tuning & Training: 540
+  - 👁️ Multimodal (Audio/Video): 1417
+  - 🛠️ Developer Tools & SDKs: 2153
+  - 🎨 AI Applications: 947
+  - 📚 Learning Resources: 1868
+  - 💻 Desktop & OS Apps: 265
+  - 🦾 Robotics & IoT: 535
+  - 💼 Business & Finance: 175
 - 📅 **Last Updated**: 2026-03-26
 <!-- STATS_END -->
 
@@ -97,7 +97,7 @@ Its core mechanism, data flow, and system architecture details are as follows:
 
 ### 3. Automated Frontend Rendering & View Decoupling
 - **Adaptive Routing Presentation:** Built with VitePress, the Navbar and Sidebar have been rewritten from static mappings. Whenever categories are added or removed from `projects.json`, the VitePress compiler dynamically analyzes it and renders the UI perfectly, preventing data-to-UI discrepancies.
-- **Smart Markdown Folding:** `generate-docs.js` iterates over major categories. When generating the category's markdown page, it groups items under `## Subcategory` headers according to the `subcategory` assigned by the AI, ensuring an organized layout even with hundreds of projects.
+- **Smart Markdown Folding & Stale Cleanup**: `generate-docs.js` iterates over categories, grouping items by subcategory. It also automatically purges projects that haven't been updated for a long time based on the `RECENCY_THRESHOLD_MONTHS` setting to maintain high project quality.
 
 ### 4. Automation Pipeline
 - For hands-free, continuous discovery (e.g., avoiding rate-limit drops), you can utilize process daemon scripts like `scripts/loop-eval.js` which leverage continuous sleep loops. This achieves a permanent closed-loop operation of: **Discover -> Buffer -> AI Evaluate -> Static Page Build**, endlessly exploring the ocean of open source code.
@@ -134,6 +134,7 @@ Open `.env` and adjust the core configurations:
 - **`MAX_PAGES_QUALITY`**: Max pages for high-quality topics (default: 20).
 - **`QUALITY_TOPIC_THRESHOLD`**: Score threshold for high-quality topics (default: 5).
 - **`AUTO_FETCH_DESC_STARS`**: Star threshold to proactively fetch missing descriptions (default: 1000).
+- **`RECENCY_THRESHOLD_MONTHS`**: Only projects updated within the last N months are kept during doc generation (default: 24, i.e., 2 years).
 
 #### Supported LLM Providers
 
