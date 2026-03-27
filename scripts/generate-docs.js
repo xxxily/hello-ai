@@ -111,25 +111,33 @@ function updateReadmes(stats) {
 
   const generateStatsMd = (isChinese) => {
     let md = `<!-- STATS_START -->\n`;
+    const threshold = stats.recencyThresholdMonths || 0;
+
     if (isChinese) {
       md += `## 📊 项目统计\n\n`;
-      md += `*此项目已收录 AI 相关的优质开源项目概况如下：*\n\n`;
-      md += `- 📁 **收录总量**：${stats.totalProjects}\n`;
-      md += `- 🏷️ **分类概览**：\n`;
+      md += `*此项目已从互联网搜罗并收录了大量 AI 相关的优质开源项目，概况如下：*\n\n`;
+      md += `- 📁 **合计收录**：${stats.totalRawProjects} 个项目\n`;
+      if (threshold > 0) {
+        md += `- ⚡ **活跃展示**：${stats.totalProjects} 个项目 (仅限最近 ${threshold} 个月有活跃更新记录)\n`;
+      }
+      md += `- 🏷️ **分类概览 (活跃 / 总数)**：\n`;
       for (const key in stats.categories) {
         const cat = stats.categories[key];
-        md += `  - ${cat.name}：${cat.count}\n`;
+        md += `  - ${cat.name}：${cat.count} / ${cat.rawCount}\n`;
       }
       md += `- 📅 **最后更新**：${lastUpdated}\n`;
     } else {
       md += `## 📊 Project Statistics\n\n`;
-      md += `*This project has collected high-quality open-source AI projects as follows:*\n\n`;
-      md += `- 📁 **Total Projects**: ${stats.totalProjects}\n`;
-      md += `- 🏷️ **Categories**:\n`;
+      md += `*Summary of high-quality open-source AI projects collected from the internet:*\n\n`;
+      md += `- 📁 **Total Collected**: ${stats.totalRawProjects} projects\n`;
+      if (threshold > 0) {
+        md += `- ⚡ **Active Shown**: ${stats.totalProjects} projects (updated within the last ${threshold} months)\n`;
+      }
+      md += `- 🏷️ **Categories (Active / Total)**:\n`;
       for (const key in stats.categories) {
         const cat = stats.categories[key];
         const engName = catMapping[key] || cat.name;
-        md += `  - ${engName}: ${cat.count}\n`;
+        md += `  - ${engName}: ${cat.count} / ${cat.rawCount}\n`;
       }
       md += `- 📅 **Last Updated**: ${lastUpdated}\n`;
     }
@@ -185,6 +193,18 @@ function build() {
     process.exit(1);
   }
 
+  // Track raw stats before filtering
+  const uniqueRawProjectUrls = new Set();
+  const rawCategoryCounts = {};
+  data.categories.forEach(category => {
+    rawCategoryCounts[category.id] = category.projects ? category.projects.length : 0;
+    if (category.projects) {
+      category.projects.forEach(p => {
+        if (p.url) uniqueRawProjectUrls.add(p.url);
+      });
+    }
+  });
+
   // Filter projects by recency
   const RECENCY_THRESHOLD_MONTHS = parseInt(process.env.RECENCY_THRESHOLD_MONTHS || '24');
   if (RECENCY_THRESHOLD_MONTHS > 0) {
@@ -220,6 +240,8 @@ function build() {
   const uniqueProjectUrls = new Set();
   const stats = {
     totalProjects: 0,
+    totalRawProjects: uniqueRawProjectUrls.size,
+    recencyThresholdMonths: RECENCY_THRESHOLD_MONTHS,
     categories: {},
     lastUpdated: new Date().toISOString()
   };
@@ -235,7 +257,8 @@ function build() {
 
     stats.categories[category.id] = {
       name: category.name,
-      count: catProjectCount
+      count: catProjectCount,
+      rawCount: rawCategoryCounts[category.id]
     };
 
     const mdContent = generateMarkdown(category);
