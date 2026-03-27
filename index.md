@@ -61,7 +61,7 @@ onUnmounted(() => {
       <div class="pulse-ring"></div>
       <div class="pulse-dot"></div>
       <div class="stats-text">
-        侦测到当前已收录 <strong class="stats-num">{{ stats.totalProjects }}</strong> 个优质项目
+        侦测到当前已收录 <strong class="stats-num">{{ stats.totalRawProjects }}</strong> 个优质项目
       </div>
     </div>
   </div>

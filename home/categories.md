@@ -63,7 +63,7 @@ onMounted(() => {
   </h1>
   <div class="hud-subtitle">
     <div class="typewriter-text">系统检测到您已连接至主网络，正在为您展开前沿维度的全景拓扑列表。
-    <br><br>当前已收录 <strong style="color: var(--vp-c-brand-1)">{{ stats.totalProjects }}</strong> 个项目。请选取目标分类：<span class="cursor">_</span>
+    <br><br>当前已收录 <strong style="color: var(--vp-c-brand-1)">{{ stats.totalRawProjects }}</strong> 个项目。请选取目标分类：<span class="cursor">_</span>
     </div>
   </div>
 </div>
