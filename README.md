@@ -10,23 +10,23 @@
 
 *Summary of high-quality open-source AI projects collected from the internet:*
 
-- 📁 **Total Collected**: 16029 projects
-- ⚡ **Active Shown**: 7388 projects (updated within the last 6 months)
+- 📁 **Total Collected**: 16235 projects
+- ⚡ **Active Shown**: 7514 projects (updated within the last 6 months)
 - 🏷️ **Categories (Active / Total)**:
   - 🔥 Trending: 30 / 30
-  - 🧠 Foundation Models: 118 / 495
-  - 🤖 Agents & Orchestration: 1021 / 1311
-  - 🔍 RAG & Data Engineering: 340 / 545
-  - ☁️ Infrastructure & Deployment: 795 / 1318
-  - 🔧 Fine-tuning & Training: 329 / 835
-  - 👁️ Multimodal (Audio/Video): 739 / 2272
-  - 🛠️ Developer Tools & SDKs: 1607 / 2807
-  - 🎨 AI Applications: 664 / 1300
-  - 📚 Learning Resources: 1041 / 3707
-  - 💻 Desktop & OS Apps: 212 / 297
-  - 🦾 Robotics & IoT: 399 / 902
-  - 💼 Business & Finance: 135 / 271
-- 📅 **Last Updated**: 2026-03-30
+  - 🧠 Foundation Models: 119 / 497
+  - 🤖 Agents & Orchestration: 1043 / 1335
+  - 🔍 RAG & Data Engineering: 344 / 549
+  - ☁️ Infrastructure & Deployment: 809 / 1338
+  - 🔧 Fine-tuning & Training: 333 / 841
+  - 👁️ Multimodal (Audio/Video): 750 / 2302
+  - 🛠️ Developer Tools & SDKs: 1639 / 2847
+  - 🎨 AI Applications: 677 / 1317
+  - 📚 Learning Resources: 1058 / 3758
+  - 💻 Desktop & OS Apps: 213 / 299
+  - 🦾 Robotics & IoT: 404 / 908
+  - 💼 Business & Finance: 137 / 275
+- 📅 **Last Updated**: 2026-03-31
 <!-- STATS_END -->
 
 ## Overview
@@ -71,7 +71,7 @@ graph TD
     end
 
     subgraph Storage [3. Isolation Storage Layer]
-        Condition -->|Rejected or Poor Quality| R[(rejected-projects.json<br/>Audit Trash)]:::database
+        Condition -->|Rejected or Poor Quality| R[(rejected-projects/<br/>Audit Trash)]:::database
         Condition -->|Valuable AI Projects| DB
     end
 
@@ -93,7 +93,7 @@ Its core mechanism, data flow, and system architecture details are as follows:
 ### 2. Local/Cloud AI Batch Evaluation Engine
 - **Concurrent Batch Processing:** The core script `discover-and-evaluate.js` pops a configured number of items (via `EVALUATE_BATCH_SIZE`) from the pending pool and creates a combined prompt for the LLM. This batch design drastically reduces API frequency limits and reuses token context.
 - **Dynamic Category Routing:** The system never "hard-codes" categories. Upon each evaluation, it dynamically reads the valid categories and subcategories from `data/projects.json` and instructs the AI to route projects accordingly.
-- **Tagging & Auditing:** The AI automatically extracts tags, generates optimal Chinese descriptions, and assigns the project to the most suitable subcategory. If an item is deemed unworthy or un-categorizable by the AI, it gets discarded into an isolation audit log (`data/rejected-projects.json`).
+- **Tagging & Auditing:** The AI automatically extracts tags, generates optimal Chinese descriptions, and assigns the project to the most suitable subcategory. If an item is deemed unworthy or un-categorizable by the AI, it gets discarded into an isolation audit log (`data/rejected-projects/`).
 - **Objective Trending List:** A daily objective calculation forces the recalculation of the top 30 highest-star, recently updated projects, automatically placing them into the `🔥 Trending` category, overriding AI randomness.
 
 ### 3. Automated Frontend Rendering & View Decoupling

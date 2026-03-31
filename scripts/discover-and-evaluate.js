@@ -9,7 +9,7 @@ const __dirname = path.dirname(__filename);
 const dataFile = path.join(__dirname, '../data/projects.json');
 const queueFile = path.join(__dirname, '../data/pending-projects.json');
 const topicsFile = path.join(__dirname, '../data/topics.json');
-const rejectedFile = path.join(__dirname, '../data/rejected-projects.json');
+const rejectedDir = path.join(__dirname, '../data/rejected-projects');
 
 import { resolveLLMConfig, buildRequestBody, stripThinkTags } from './llm-provider.js';
 
@@ -45,6 +45,49 @@ function loadJson(filePath, defaultVal = null) {
 }
 
 import { extractCategories } from './extract-categories.js';
+
+function loadRejected() {
+  if (!fs.existsSync(rejectedDir)) {
+    fs.mkdirSync(rejectedDir, { recursive: true });
+    return { rejected: [] };
+  }
+  const files = fs.readdirSync(rejectedDir).filter(f => f.endsWith('.json')).sort();
+  let allRejected = [];
+  for (const file of files) {
+    try {
+      const content = JSON.parse(fs.readFileSync(path.join(rejectedDir, file), 'utf-8'));
+      if (content.rejected) allRejected = allRejected.concat(content.rejected);
+    } catch (e) {
+      console.error(`❌ Error loading ${file} from rejected projects folder:`, e.message);
+    }
+  }
+  return { rejected: allRejected };
+}
+
+function saveRejected(data) {
+  if (!fs.existsSync(rejectedDir)) fs.mkdirSync(rejectedDir, { recursive: true });
+  const rejected = data.rejected || [];
+  const chunkSize = 30000; // Roughly 20MB per chunk
+  const numParts = Math.ceil(rejected.length / chunkSize);
+
+  for (let i = 0; i < numParts; i++) {
+    const chunk = rejected.slice(i * chunkSize, (i + 1) * chunkSize);
+    const fileName = `rejected-part-${i + 1}.json`;
+    fs.writeFileSync(path.join(rejectedDir, fileName), JSON.stringify({ rejected: chunk }, null, 2), 'utf-8');
+  }
+  
+  // Clean up extra parts if any
+  const existingFiles = fs.readdirSync(rejectedDir).filter(f => f.endsWith('.json'));
+  for (const file of existingFiles) {
+    const match = file.match(/rejected-part-(\d+)\.json/);
+    if (match) {
+      const partNum = parseInt(match[1], 10);
+      if (partNum > numParts) {
+        fs.unlinkSync(path.join(rejectedDir, file));
+      }
+    }
+  }
+}
 
 function saveJson(filePath, data) {
   fs.writeFileSync(filePath, JSON.stringify(data, null, 2), 'utf-8');
@@ -371,7 +414,7 @@ async function evaluate() {
   }
 
   const projectDb = loadJson(dataFile);
-  const rejectedDb = loadJson(rejectedFile, { rejected: [] });
+  const rejectedDb = loadRejected();
 
   // Dynamic categories string for prompt
   const validCategoriesStr = projectDb.categories
@@ -540,7 +583,7 @@ Return ONLY standard JSON. Keep JSON minimal. Important: "tags" MUST be in Engli
   // Save changes
   saveJson(queueFile, pendingDb);
   saveJson(dataFile, projectDb);
-  saveJson(rejectedFile, rejectedDb);
+  saveRejected(rejectedDb);
   if (topicsDbLoaded) saveJson(topicsFile, topicsDbLoaded);
 
   console.log(`\n🎉 Evaluated ${batch.length} projects. Added ${addedCount} to the active directory.`);

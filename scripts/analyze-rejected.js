@@ -6,22 +6,27 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const rejectedFile = path.join(__dirname, '../data/rejected-projects.json');
+const rejectedDir = path.join(__dirname, '../data/rejected-projects');
 
-function loadJson(filePath) {
-  if (fs.existsSync(filePath)) {
+function loadRejected() {
+  if (!fs.existsSync(rejectedDir)) {
+    return { rejected: [] };
+  }
+  const files = fs.readdirSync(rejectedDir).filter(f => f.endsWith('.json')).sort();
+  let allRejected = [];
+  for (const file of files) {
     try {
-      return JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+      const content = JSON.parse(fs.readFileSync(path.join(rejectedDir, file), 'utf-8'));
+      if (content.rejected) allRejected = allRejected.concat(content.rejected);
     } catch (e) {
-      console.error(`❌ Error parsing ${filePath}:`, e.message);
-      return null;
+      console.error(`❌ Error parsing ${file}:`, e.message);
     }
   }
-  return null;
+  return { rejected: allRejected };
 }
 
 function analyze() {
-  const data = loadJson(rejectedFile);
+  const data = loadRejected();
   if (!data || !data.rejected) {
     console.error('❌ Could not load rejected-projects.json or "rejected" field is missing');
     return;
