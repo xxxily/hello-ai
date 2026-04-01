@@ -164,9 +164,17 @@ async function start() {
   console.log('│                                                        │');
   console.log('└────────────────────────────────────────────────────────┘');
 
+  let loopCount = 0;
+  let totalUpdatedCount = 0;
+
   while (true) {
+    loopCount++;
     const startTime = Date.now();
     const result = await updateStatus();
+
+    if (result > 0) {
+      totalUpdatedCount += result;
+    }
 
     if (result === -1) {
       console.log('等待 5 分钟后重试 (由于错误或频率限制)...');
@@ -175,9 +183,9 @@ async function start() {
     }
 
     const elapsed = Math.floor((Date.now() - startTime) / 1000);
-    const waitTime = Math.max(5, UPDATE_STATUS_INTERVAL_SECONDS - elapsed);
+    const waitTime = Math.max(1, UPDATE_STATUS_INTERVAL_SECONDS - elapsed);
 
-    console.log(`\n⏳ 本轮更新耗时 ${elapsed}s. 等待 ${waitTime}s 后进行下一轮...`);
+    console.log(`\n⏳ [第 ${loopCount} 轮] 本轮更新 ${result > 0 ? result : 0} 个项目, 累计已更新 ${totalUpdatedCount} 个. 耗时 ${elapsed}s. 等待 ${waitTime}s 后进行下一轮...`);
     await new Promise(resolve => setTimeout(resolve, waitTime * 1000));
   }
 }
