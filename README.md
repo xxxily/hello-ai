@@ -1,9 +1,23 @@
-# Hello-AI
+<div align="center">
+  <img src="./public/assets/img/logo.png" alt="Hello-AI Logo" width="120" height="120" />
+  <h1>Hello-AI</h1>
+  <p>An intelligent, auto-updating directory of high-quality open-source projects.</p>
+</div>
 
-> English  |  **[中文文档](./README-zh.md)**
+<div align="center">
 
-- 📚 **Documentation: [hello-ai.anzz.top](https://hello-ai.anzz.top)**  
-- 🏠 **Project: [github.com/xxxily/hello-ai](https://github.com/xxxily/hello-ai)**
+[![Docs](https://img.shields.io/badge/docs-hello--ai.anzz.top-4A90E2?logo=gitbook&logoColor=white)](https://hello-ai.anzz.top)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/xxxily/hello-ai?style=social)](https://github.com/xxxily/hello-ai)
+[![Node.js](https://img.shields.io/badge/node-%3E%3D18.x-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
+
+</div>
+
+<div align="center">
+  English | <b><a href="./README-zh.md">中文文档</a></b>
+</div>
+
+---
 
 <!-- STATS_START -->
 ## 📊 Project Statistics
@@ -11,7 +25,7 @@
 *Summary of high-quality open-source AI projects collected from the internet:*
 
 - 📁 **Total Collected**: 16282 projects
-- ⚡ **Active Shown**: 7556 projects (updated within the last 6 months)
+- ⚡ **Active Shown**: 7559 projects (updated within the last 6 months)
 - 🏷️ **Categories (Active / Total)**:
   - 🔥 Trending: 30 / 30
   - 🧠 Foundation Models: 120 / 498
@@ -19,32 +33,30 @@
   - 🔍 RAG & Data Engineering: 348 / 552
   - ☁️ Infrastructure & Deployment: 812 / 1341
   - 🔧 Fine-tuning & Training: 333 / 841
-  - 👁️ Multimodal (Audio/Video): 751 / 2305
+  - 👁️ Multimodal (Audio/Video): 752 / 2305
   - 🛠️ Developer Tools & SDKs: 1646 / 2856
   - 🎨 AI Applications: 685 / 1325
-  - 📚 Learning Resources: 1066 / 3770
+  - 📚 Learning Resources: 1067 / 3770
   - 💻 Desktop & OS Apps: 216 / 300
   - 🦾 Robotics & IoT: 404 / 908
-  - 💼 Business & Finance: 139 / 277
+  - 💼 Business & Finance: 140 / 277
 - 📅 **Last Updated**: 2026-04-01
 <!-- STATS_END -->
 
 ## Overview
 
-The initial intention of this project was to help oneself and others connect to the vast world of AI.
+**Hello-AI** is an **intelligent, AI-driven navigation hub for open-source AI projects.**
 
-As one of the forerunners in the advent of AI, during the peak popularity of ChatGPT, this initiative provided a series of public AI services to resist being exploited and help some people connect to the world of AI. 
-Time flies, and nowadays, AI is everywhere. The public services offered have stopped, but the original intention of this project remains: **Helping oneself and others connect to the AI world!**
+In an era of rapid AI evolution, developers often face "information overload" when navigating the vast sea of GitHub repositories. Hello-AI leverages **AI Agent automation** to discover, evaluate, and organize the most high-quality AI resources from the global open-source community.
 
-Therefore, this project is undergoing a **V2.0 Refactoring**. We will no longer directly provide fundamental AI services. Instead, we are shifting our focus to the expansive open-source world.
-This project is now an **Intelligent, Auto-updating AI Project Directory**. Through an AI agent, we will automatically collect, evaluate, categorize, and track the latest and most popular AI extension projects worldwide (covering Foundation Models, AI Infrastructure, Agent Orchestration, RAG & Data Engineering, Multimodal, etc.).
+### ✨ Key Features
 
-**Core Features:**
-- 🤖 **AI-Automated Maintenance**: Project collection, tagging, and outdated cleanup are fully driven by cron jobs and LLM scripts, realizing "letting AI help humans connect to AI."
-- 📦 **Comprehensive Categorization**: Ensuring you won't miss out on excellent emerging forces in the open-source AI community.
-- 🔄 **Continuous Tracking**: Dynamically tracking the latest trends and purging dead projects promptly.
+- 🤖 **Autonomous Smart Maintenance**: Unlike traditional link directories maintained manually, Hello-AI uses AI agents for 24/7 autonomous project discovery, quality assessment, and categorization. It's "AI discovering AI."
+- 🗺️ **Evolutionary Landscape Map**: Deep coverage across foundational models, Agent frameworks, RAG, infrastructure, multimodal apps, and dev tools—organized precisely and intuitively.
+- 🔄 **Dynamic Activity Tracking**: The system automatically purges stale projects and dynamically updates Star counts and health status, ensuring you only see the most relevant and active repositories.
+- ⚡ **Instant Value Insights**: AI automatically generates concise summaries and use-cases for every repository, allowing you to bypass manual research and identify the right tools in seconds.
 
-Welcome to explore and discover the perfect AI tools to boost your efficiency!
+This is your shortcut to exploring the boundaries of AI and finding the ultimate productivity tools.
 
 ## 🏗️ Architecture & Execution Logic
 
@@ -129,7 +141,7 @@ Open `.env` and adjust the core configurations:
 - **`LLM_PROVIDER=`**: Select a built-in provider preset (`openai`, `minimax`, `deepseek`, `ollama`). When omitted, auto-detected from `LLM_BASE_URL` or provider-specific API key env vars.
 - **`LLM_BASE_URL=`**: LLM endpoint (e.g. `https://api.openai.com/v1`, or local `http://127.0.0.1:11434/v1`).
 - **`LLM_MODEL=`**: Standard model identity to use (e.g. `gpt-4o-mini`, `MiniMax-M2.5`).
-- **`DISCOVER_BATCH_SIZE`** / **`EVALUATE_BATCH_SIZE`**: Modify limits per pull from GitHub and per LLM prompt bulk execution batch.
+- **`DISCOVER_BATCH_SIZE`** / **`EVALUATE_BATCH_SIZE`** / **`UPDATE_STATUS_BATCH_SIZE`**: Modify limits per pull from GitHub, per LLM prompt, and for status update batching.
 - **`LOOP_INTERVAL_SECONDS`**: Configure the base idle time interval between consecutive `ai:loop-eval` cycles (default: 60s).
 - **`MAX_PAGES_DEFAULT`**: Default max pages to explore per topic (default: 5).
 - **`MAX_PAGES_QUALITY`**: Max pages for high-quality topics (default: 20).

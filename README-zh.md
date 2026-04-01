@@ -1,20 +1,24 @@
-# Hello-AI
+<div align="center">
+  <img src="./public/assets/img/logo.png" alt="Hello-AI Logo" width="120" height="120" />
+  <h1>Hello-AI</h1>
+  <p>智能、自动更新的优质 AI 开源项目导航</p>
+</div>
 
-> **[English](./README.md)**  |  中文文档
+<div align="center">
 
-- 📚 **文档地址：[hello-ai.anzz.top](https://hello-ai.anzz.top)** (国际站)
-- 📚 **文档地址：[hello-ai.anzz.site](https://hello-ai.anzz.site)** (国内站)
-- 🏠 **项目地址：[github.com/xxxily/hello-ai](https://github.com/xxxily/hello-ai)**  
+[![文档](https://img.shields.io/badge/docs-hello--ai.anzz.top-4A90E2?logo=gitbook&logoColor=white)](https://hello-ai.anzz.top)
+[![许可证](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/xxxily/hello-ai?style=social)](https://github.com/xxxily/hello-ai)
+[![Node.js](https://img.shields.io/badge/node-%3E%3D18.x-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
 
-<br />
-<br />
-<img alt="Hello-AI" src="https://cdn.anzz.site/npm/hello-ai/assets/img/logo.png" width="96" height="96">
-<br />
-<br />
+</div>
 
-> 这是个帮助自己链接到广阔AI世界的项目，也希望能帮助到你。
+<div align="center">
+  <b><a href="./README.md">English</a></b> | 中文文档
+</div>
 
-<!-- STATS_START -->
+---
+
 ## 📊 项目统计
 
 *此项目已从互联网搜罗并收录了大量 AI 相关的优质开源项目，概况如下：*
@@ -38,22 +42,44 @@
 - 📅 **最后更新**：2026-04-01
 <!-- STATS_END -->
 
+<!-- STATS_START -->
+## 📊 项目统计
+
+*此项目已从互联网搜罗并收录了大量 AI 相关的优质开源项目，概况如下：*
+
+- 📁 **合计收录**：16282 个项目
+- ⚡ **活跃展示**：7559 个项目 (仅限最近 6 个月有活跃更新记录)
+- 🏷️ **分类概览 (活跃 / 总数)**：
+  - 🔥 热门推荐：30 / 30
+  - 🧠 基础大模型：120 / 498
+  - 🤖 智能体与编排：1048 / 1340
+  - 🔍 RAG与检索：348 / 552
+  - ☁️ 基础设施与部署：812 / 1341
+  - 🔧 微调与训练：333 / 841
+  - 👁️ 多模态与音视频：752 / 2305
+  - 🛠️ 开发工具与SDK：1646 / 2856
+  - 🎨 AI终端应用：685 / 1325
+  - 📚 学习与资源：1067 / 3770
+  - 💻 桌面与操作系统级应用：216 / 300
+  - 🦾 机器人与物联网：404 / 908
+  - 💼 商业与量化：140 / 277
+- 📅 **最后更新**：2026-04-01
+<!-- STATS_END -->
+
 ## 概述
 
-帮助自己也让更多人链接到AI世界，这是这个项目的初衷。  
+**Hello-AI** 是一个**智能、驱动型的 AI 开源项目全景导航**。
 
-作为AI降临派的带路者之一，在ChatGPT最火热的时候，本着拒绝被割韭菜的初心，也曾提供了一系列公益的AI服务，帮助了一部分人链接上了AI世界。
-时光荏苒，如今AI已经遍地开花，曾经的公益服务也因为各种原因停止了。但是，这个项目的初衷还在：**帮助自己也让更多人链接到AI世界！**
+在 AI 技术日新月异的今天，面对 GitHub 上浩如烟海的开源项目，开发者往往面临“信息过载”的困扰。Hello-AI 旨在通过 **AI 代理（AI Agent）自动化技术**，为你从全球开源社区中筛选、评估并组织最优质的 AI 资源。
 
-因此，本项目迎来了全新的 **2.0 重构方案**：我们不再直接提供AI基础服务，而是将注意力转移到浩如烟海的开源世界中。
-本项目现在作为一个**智能更新的 AI 项目全景地图**，通过 AI 代理自动收集、评估、分类和追踪全球最新、最热的 AI 延伸项目（涵盖基础大模型、AI基础设施、智能体编排、RAG与数据工程、多模态等）。
+### ✨ 项目特色
 
-**核心特色：**
-- 🤖 **AI 自动化维护**：项目的收集、打标、过时清理，全部由 AI 代理和定时任务自动完成，实现“让AI帮助人类连接AI”。
-- 📦 **全面分类整理**：让你不再错过开源社区里优秀的 AI 新生力量。
-- 🔄 **持续追踪**：及时查漏补缺，剔除停更项目，动态跟进最新热门。
+- 🤖 **全自动智能运维**：不同于传统导航的人工维护，本项目利用 AI 代理实现 24/7 不间断的项目发现、自动打标与质量筛选。真正做到“用 AI 发现 AI”。
+- 🗺️ **实时演进的全景地图**：深度覆盖基础大模型、智能体编排 (Agent)、RAG、基础设施、多模态应用、开发利器等核心赛道，分类精准且直观。
+- 🔄 **动态活跃追踪**：系统自动剔除长期不更新的“僵尸”项目，动态同步 Star 数与更新状态，确保目录始终鲜活、高质量。
+- ⚡ **秒读项目价值**：AI 自动为每个库提炼核心摘要与应用场景，助你省去繁杂的阅读成本，瞬间锁定目标工具。
 
-欢迎你在这里探索，发现提升效率的利器！
+这里是你探索 AI 边界、寻找提效利器的快捷入口。
 
 ## 🏗️ 架构与执行逻辑
 
@@ -138,8 +164,9 @@ cp .env.example .env
 - **`LLM_PROVIDER=`**：选择内置供应商预设（`openai`、`minimax`、`deepseek`、`ollama`）。省略时会根据 `LLM_BASE_URL` 或对应的 API Key 环境变量自动检测。
 - **`LLM_BASE_URL=`**：API转发地址（例如：`https://api.openai.com/v1` 或 本地 `http://127.0.0.1:11434/v1`）。
 - **`LLM_MODEL=`**：要执行推理的模型名字（如 `gpt-4o-mini`、`MiniMax-M2.5`）。
-- **`DISCOVER_BATCH_SIZE`** / **`EVALUATE_BATCH_SIZE`**：可控每次探索拉取的个数，及一次批量合并扔给 AI 判断的项目个数。
+- **`DISCOVER_BATCH_SIZE`** / **`EVALUATE_BATCH_SIZE`** / **`UPDATE_STATUS_BATCH_SIZE`**：控制每次探索拉取的个数、一次批量合并扔给 AI 判断的项目个数，以及状态更新时的批处理大小。
 - **`LOOP_INTERVAL_SECONDS`**: 可调整 `ai:loop-eval` 循环模式每次休息的打底时间（默认 60 秒）。
+- **`UPDATE_STATUS_INTERVAL_SECONDS`**: 可调整 `ai:update-status:loop` 状态更新循环模式每次休息的打底时间（默认 60 秒）。
 - **`MAX_PAGES_DEFAULT`**: 每个话题默认探索的最大页数（默认：5）。
 - **`MAX_PAGES_QUALITY`**: 高质量话题探索的最大页数（默认：20）。
 - **`QUALITY_TOPIC_THRESHOLD`**: 判定为高质量话题的分数阈值（默认：5）。
@@ -182,6 +209,10 @@ MINIMAX_API_KEY=your-key-here
 - **后台增量更新 Star 数与存活状态** (拉取库内项目进行信息修正)：
   ```bash
   npm run ai:update-status
+  ```
+- **开启项目状态持续更新模式** (无人值守循环更新 Star 数与活跃存活状态)：
+  ```bash
+  npm run ai:update-status:loop
   ```
 - **重置所有分类并重新评估** (这会将 projects 移回 pending 队列，方便新老标准对齐)：
   ```bash

@@ -8,6 +8,7 @@ export default {
   lang: 'zh-CN',
   base: '/',
   outDir: './docs',
+  ignoreDeadLinks: true,
   head: [
     [
       'script',

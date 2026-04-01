@@ -1,5 +1,5 @@
 {
-  "totalProjects": 7556,
+  "totalProjects": 7559,
   "totalRawProjects": 16282,
   "recencyThresholdMonths": 6,
   "categories": {
@@ -35,7 +35,7 @@
     },
     "multimodal": {
       "name": "👁️ 多模态与音视频",
-      "count": 751,
+      "count": 752,
       "rawCount": 2305
     },
     "devtools": {
@@ -50,7 +50,7 @@
     },
     "learning": {
       "name": "📚 学习与资源",
-      "count": 1066,
+      "count": 1067,
       "rawCount": 3770
     },
     "desktop_tools": {
@@ -65,9 +65,9 @@
     },
     "finance_business": {
       "name": "💼 商业与量化",
-      "count": 139,
+      "count": 140,
       "rawCount": 277
     }
   },
-  "lastUpdated": "2026-04-01T07:48:42.736Z"
+  "lastUpdated": "2026-04-01T12:00:08.774Z"
 }

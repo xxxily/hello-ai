@@ -48,6 +48,7 @@
     "ai:extract-categories": "node scripts/extract-categories.js",
     "ai:discover-eval": "node scripts/discover-and-evaluate.js",
     "ai:update-status": "node scripts/update-status.js",
+    "ai:update-status:loop": "node scripts/update-status.js --loop",
     "ai:generate-docs": "node scripts/generate-docs.js",
     "ai:loop-eval": "node scripts/loop-eval.js",
     "ai:loop-eval-tui": "node scripts/loop-eval.js --tui",
