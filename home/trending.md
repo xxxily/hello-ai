@@ -192,9 +192,9 @@ Java面试与后端开发指南，涵盖AI应用开发、Agent、MCP等前沿技
 
 高性能C/C++实现的LLM推理引擎，支持GGML格式，广泛用于本地部署。
 
-- **Stars:** ⭐️ 100.3k
+- **Stars:** ⭐️ 100.4k
 - **Tags:** `推理` `C++` `GGML`
-- **最后活动时间:** 2026-03-31
+- **最后活动时间:** 2026-04-01
 
 ## [Supabase](https://github.com/supabase/supabase)
 
@@ -218,7 +218,7 @@ Java面试与后端开发指南，涵盖AI应用开发、Agent、MCP等前沿技
 
 - **Stars:** ⭐️ 98.7k
 - **Tags:** `Deep Learning` `Neural Network` `GPU`
-- **最后活动时间:** 2026-03-31
+- **最后活动时间:** 2026-04-01
 
 ## [fastapi](https://github.com/fastapi/fastapi)
 

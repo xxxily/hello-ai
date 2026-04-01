@@ -1,6 +1,6 @@
 {
-  "totalProjects": 7514,
-  "totalRawProjects": 16235,
+  "totalProjects": 7518,
+  "totalRawProjects": 16237,
   "recencyThresholdMonths": 6,
   "categories": {
     "trending": {
@@ -15,13 +15,13 @@
     },
     "agents": {
       "name": "🤖 智能体与编排",
-      "count": 1043,
-      "rawCount": 1335
+      "count": 1044,
+      "rawCount": 1336
     },
     "rag_data": {
       "name": "🔍 RAG与检索",
-      "count": 344,
-      "rawCount": 549
+      "count": 345,
+      "rawCount": 550
     },
     "infrastructure": {
       "name": "☁️ 基础设施与部署",
@@ -55,12 +55,12 @@
     },
     "desktop_tools": {
       "name": "💻 桌面与操作系统级应用",
-      "count": 213,
+      "count": 214,
       "rawCount": 299
     },
     "robotics_iot": {
       "name": "🦾 机器人与物联网",
-      "count": 404,
+      "count": 405,
       "rawCount": 908
     },
     "finance_business": {
@@ -69,5 +69,5 @@
       "rawCount": 275
     }
   },
-  "lastUpdated": "2026-03-31T14:29:30.690Z"
+  "lastUpdated": "2026-04-01T03:34:49.907Z"
 }
