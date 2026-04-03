@@ -1,6 +1,6 @@
 {
-  "totalProjects": 7567,
-  "totalRawProjects": 16282,
+  "totalProjects": 7661,
+  "totalRawProjects": 16407,
   "recencyThresholdMonths": 6,
   "categories": {
     "trending": {
@@ -10,64 +10,64 @@
     },
     "llms": {
       "name": "🧠 基础大模型",
-      "count": 120,
-      "rawCount": 498
+      "count": 119,
+      "rawCount": 500
     },
     "agents": {
       "name": "🤖 智能体与编排",
-      "count": 1049,
-      "rawCount": 1340
+      "count": 1067,
+      "rawCount": 1361
     },
     "rag_data": {
       "name": "🔍 RAG与检索",
-      "count": 348,
-      "rawCount": 552
+      "count": 350,
+      "rawCount": 555
     },
     "infrastructure": {
       "name": "☁️ 基础设施与部署",
-      "count": 812,
-      "rawCount": 1341
+      "count": 819,
+      "rawCount": 1350
     },
     "finetuning": {
       "name": "🔧 微调与训练",
-      "count": 333,
-      "rawCount": 841
+      "count": 337,
+      "rawCount": 846
     },
     "multimodal": {
       "name": "👁️ 多模态与音视频",
-      "count": 755,
-      "rawCount": 2305
+      "count": 760,
+      "rawCount": 2312
     },
     "devtools": {
       "name": "🛠️ 开发工具与SDK",
-      "count": 1647,
-      "rawCount": 2856
+      "count": 1667,
+      "rawCount": 2877
     },
     "applications": {
       "name": "🎨 AI终端应用",
-      "count": 686,
-      "rawCount": 1325
+      "count": 694,
+      "rawCount": 1333
     },
     "learning": {
       "name": "📚 学习与资源",
-      "count": 1068,
-      "rawCount": 3770
+      "count": 1086,
+      "rawCount": 3802
     },
     "desktop_tools": {
       "name": "💻 桌面与操作系统级应用",
-      "count": 215,
-      "rawCount": 300
+      "count": 218,
+      "rawCount": 303
     },
     "robotics_iot": {
       "name": "🦾 机器人与物联网",
-      "count": 405,
-      "rawCount": 908
+      "count": 414,
+      "rawCount": 920
     },
     "finance_business": {
       "name": "💼 商业与量化",
-      "count": 141,
-      "rawCount": 277
+      "count": 142,
+      "rawCount": 279
     }
   },
-  "lastUpdated": "2026-04-01T14:10:28.193Z"
+  "lastUpdated": "2026-04-03T06:46:03.100Z"
 }
