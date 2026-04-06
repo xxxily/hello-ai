@@ -56,6 +56,10 @@
     "ai:consume-queue": "node scripts/loop-eval.js --consume-only",
     "ai:analyze-topics": "node scripts/analyze-topics.js",
     "ai:analyze-rejected": "node scripts/analyze-rejected.js",
+    "ai:search-setup-keys": "node scripts/meilisearch-setup-keys.js",
+    "ai:search-index": "node scripts/meilisearch-index.js",
+    "ai:search-index:reindex": "node scripts/meilisearch-index.js --reindex",
+    "ai:search-tui": "node scripts/meilisearch-tui.js",
     "publish": "bash scripts/publish.sh"
   },
   "devDependencies": {

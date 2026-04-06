@@ -18,8 +18,10 @@ yarn-error.log*
 .env
 .env.local
 .env.*.local
+.meilisearch-keys.json
 .vitepress/cache
 .agents/*
 
 # Deployment scripts (private)
 scripts/deploy-*.sh
+REFACTOR_PLAN/*
