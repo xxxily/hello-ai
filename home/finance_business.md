@@ -2,7 +2,7 @@
 
 > AI applied to financial analysis, quantitative trading, and enterprise.
 
-> 当前分类已收录 **143** 个相关项目。
+> 当前分类已收录 **146** 个相关项目。
 
 ## Enterprise Solutions
 
@@ -36,7 +36,7 @@
 
 - **Stars:** ⭐️ 5.8k
 - **Tags:** `analytics` `ai` `privacy` `dashboard`
-- **最后活动时间:** 2026-04-06
+- **最后活动时间:** 2026-04-07
 
 ### [supersonic](https://github.com/tencentmusic/supersonic)
 
@@ -52,7 +52,7 @@
 
 - **Stars:** ⭐️ 4.6k
 - **Tags:** `causal-inference` `econometrics` `machine-learning` `treatment-effects`
-- **最后活动时间:** 2026-04-04
+- **最后活动时间:** 2026-04-06
 
 ### [AP2](https://github.com/google-agentic-commerce/AP2)
 
@@ -82,7 +82,7 @@
 
 AI原生企业应用基础设施平台，支持通过提示词快速生成企业级软件，实现低代码/无代码开发。
 
-- **Stars:** ⭐️ 1.5k
+- **Stars:** ⭐️ 1.6k
 - **Tags:** `低代码` `企业应用` `AI原生`
 - **最后活动时间:** 2026-04-05
 
@@ -372,7 +372,7 @@ AI赋能的股票分析工具，支持A股、港股、美股行情获取与AI情
 
 开源的雅虎财经API替代方案，集成AI交易分析和财报电话会议GPT转录功能，提供更可靠的金融市场数据服务。
 
-- **Stars:** ⭐️ 555
+- **Stars:** ⭐️ 556
 - **Tags:** `ai-trading` `financial-data` `market-data` `stock-analysis`
 - **最后活动时间:** 2026-03-31
 
@@ -430,7 +430,7 @@ AI驱动的对冲基金团队，利用多智能体协作进行量化交易决策
 
 微软开源的AI量化投资平台，覆盖量化研究全流程，支持多种机器学习建模范式。
 
-- **Stars:** ⭐️ 40.3k
+- **Stars:** ⭐️ 40.4k
 - **Tags:** `量化投资` `机器学习` `深度学习`
 - **最后活动时间:** 2026-03-10
 
@@ -472,7 +472,7 @@ QuantConnect开源的算法交易引擎，支持Python和C#，提供完整的回
 
 - **Stars:** ⭐️ 18.3k
 - **Tags:** `量化交易` `算法交易` `金融`
-- **最后活动时间:** 2026-03-30
+- **最后活动时间:** 2026-04-06
 
 ### [hummingbot](https://github.com/hummingbot/hummingbot)
 
@@ -818,6 +818,14 @@ Python时间序列分析库，提供R语言auto.arima的等效功能，支持ARI
 - **Tags:** `time-series` `arima` `forecasting` `python`
 - **最后活动时间:** 2025-11-17
 
+### [chan.py](https://github.com/Vespa314/chan.py)
+
+基于缠论的Python量化交易框架，支持形态学/动力学分析、多级别K线联立、区间套策略及可视化，可对接多种数据源和交易系统。
+
+- **Stars:** ⭐️ 1.7k
+- **Tags:** `chanlun` `quant` `stock` `machinelearning` `python`
+- **最后活动时间:** 2025-12-26
+
 ### [RustQuant](https://github.com/avhz/RustQuant)
 
 Rust语言编写的量化金融库，支持期权定价和统计分析。
@@ -864,7 +872,7 @@ Rust语言编写的量化金融库，支持期权定价和统计分析。
 
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `algorithmic-trading` `backtesting` `trading-bot` `ai-trading`
-- **最后活动时间:** 2026-04-01
+- **最后活动时间:** 2026-04-06
 
 ### [Introduction-to-Quantitative-Finance](https://github.com/Barca0412/Introduction-to-Quantitative-Finance)
 
@@ -906,6 +914,14 @@ Rust语言编写的量化金融库，支持期权定价和统计分析。
 - **Tags:** `stock-analysis` `technical-indicators` `algorithmic-trading` `quantitative-finance`
 - **最后活动时间:** 2026-03-27
 
+### [cvxportfolio](https://github.com/cvxgrp/cvxportfolio)
+
+基于凸优化的投资组合优化与回测框架，支持多种优化算法和时间序列分析。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `portfolio-optimization` `quantitative-finance` `convex-optimization` `backtesting`
+- **最后活动时间:** 2026-03-10
+
 ### [aiagents-stock](https://github.com/oficcejo/aiagents-stock)
 
 多智能体股票分析系统，模拟证券分析师团队协作，提供全方位投资分析和决策建议。
@@ -922,13 +938,21 @@ Rust语言编写的量化金融库，支持期权定价和统计分析。
 - **Tags:** `ai` `hedgefund` `quant` `trading` `ai-agents`
 - **最后活动时间:** 2026-03-09
 
+### [example-scripts](https://github.com/numerai/example-scripts)
+
+机器学习与量化金融实战脚本集合，涵盖加密货币交易和Numerai竞赛案例。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `machine-learning` `quant-finance` `numerai` `cryptocurrency`
+- **最后活动时间:** 2026-03-14
+
 ### [QuantDinger](https://github.com/brokermr810/QuantDinger)
 
 AI驱动的本地优先量化交易平台，支持研究、回测和实盘交易，集成LLM和多智能体技术。
 
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `AI-Trading` `LLM` `Multi-Agent`
-- **最后活动时间:** 2026-04-05
+- **最后活动时间:** 2026-04-06
 
 ### [listen](https://github.com/piotrostr/listen)
 
@@ -966,7 +990,7 @@ DeFAI 多功能工具箱，结合 AI 技术为 Solana 链上的 DEX 交易和 Me
 
 AI驱动的自动交易平台，支持Hyperliquid和币安合约的智能交易策略。
 
-- **Stars:** ⭐️ 903
+- **Stars:** ⭐️ 905
 - **Tags:** `ai-trading` `trading-bot` `cryptocurrency`
 - **最后活动时间:** 2026-04-06
 
@@ -1030,7 +1054,7 @@ AI驱动的量化交易数据系统，支持实时市场数据分析、技术指
 
 AI原生交易平台命令行工具，提供实时行情数据、投资组合管理和交易功能。
 
-- **Stars:** ⭐️ 674
+- **Stars:** ⭐️ 675
 - **Tags:** `ai-native` `trading` `cli` `tui`
 - **最后活动时间:** 2026-04-03
 
