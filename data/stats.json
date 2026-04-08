@@ -1,5 +1,5 @@
 {
-  "totalProjects": 7805,
+  "totalProjects": 7810,
   "totalRawProjects": 16827,
   "recencyThresholdMonths": 6,
   "categories": {
@@ -10,17 +10,17 @@
     },
     "llms": {
       "name": "🧠 基础大模型",
-      "count": 127,
+      "count": 129,
       "rawCount": 518
     },
     "agents": {
       "name": "🤖 智能体与编排",
-      "count": 1083,
+      "count": 1082,
       "rawCount": 1386
     },
     "rag_data": {
       "name": "🔍 RAG与检索",
-      "count": 355,
+      "count": 357,
       "rawCount": 574
     },
     "infrastructure": {
@@ -30,12 +30,12 @@
     },
     "finetuning": {
       "name": "🔧 微调与训练",
-      "count": 337,
+      "count": 336,
       "rawCount": 860
     },
     "multimodal": {
       "name": "👁️ 多模态与音视频",
-      "count": 774,
+      "count": 776,
       "rawCount": 2414
     },
     "devtools": {
@@ -50,7 +50,7 @@
     },
     "learning": {
       "name": "📚 学习与资源",
-      "count": 1103,
+      "count": 1104,
       "rawCount": 3879
     },
     "desktop_tools": {
@@ -60,14 +60,14 @@
     },
     "robotics_iot": {
       "name": "🦾 机器人与物联网",
-      "count": 421,
+      "count": 420,
       "rawCount": 940
     },
     "finance_business": {
       "name": "💼 商业与量化",
-      "count": 146,
+      "count": 147,
       "rawCount": 286
     }
   },
-  "lastUpdated": "2026-04-07T14:05:32.388Z"
+  "lastUpdated": "2026-04-08T13:41:27.121Z"
 }
