@@ -1,383 +1,1684 @@
 {
   "queue": [
     {
-      "name": "urbackup_backend",
-      "html_url": "https://github.com/uroni/urbackup_backend",
-      "description": "UrBackup - Client/Server Open Source Network Backup for Windows, MacOS and Linux",
+      "name": "ZhiHuDaily-React-Native",
+      "html_url": "https://github.com/race604/ZhiHuDaily-React-Native",
+      "description": "A Zhihu Daily(http://daily.zhihu.com/) App client implemented using React Native (Android and iOS).",
+      "topics": [],
+      "stargazers_count": 3705,
+      "pushed_at": "2023-09-19T05:26:28Z",
+      "added_to_queue": "2026-04-08T22:38:02.191Z"
+    },
+    {
+      "name": "alva",
+      "html_url": "https://github.com/meetalva/alva",
+      "description": "Create living prototypes with code components.",
       "topics": [
-        "backup",
-        "backup-solution",
-        "c-plus-plus",
-        "freebsd",
-        "linux",
+        "components",
+        "design",
+        "design-system",
+        "react"
+      ],
+      "stargazers_count": 3703,
+      "pushed_at": "2022-06-24T23:01:00Z",
+      "added_to_queue": "2026-04-08T22:38:02.191Z"
+    },
+    {
+      "name": "kibo",
+      "html_url": "https://github.com/shadcnblocks/kibo",
+      "description": "A custom registry of composable, accessible and extensible components designed for use with shadcn/ui. Free and open source, forever.",
+      "topics": [
+        "accessible",
+        "components",
+        "composable",
+        "react",
+        "shadcn-ui",
+        "typescript",
+        "ui"
+      ],
+      "stargazers_count": 3702,
+      "pushed_at": "2026-03-17T21:07:05Z",
+      "added_to_queue": "2026-04-08T22:38:02.191Z"
+    },
+    {
+      "name": "reactor",
+      "html_url": "https://github.com/reactor/reactor",
+      "description": "Reactor Bill Of Materials (tracking reactor-core, reactor-netty and more)",
+      "topics": [],
+      "stargazers_count": 3692,
+      "pushed_at": "2026-03-24T08:26:33Z",
+      "added_to_queue": "2026-04-08T22:38:02.191Z"
+    },
+    {
+      "name": "react-native-track-player",
+      "html_url": "https://github.com/doublesymmetry/react-native-track-player",
+      "description": "The best audio player ever built for React Native. Built on the New Architecture — Android Auto, caching, preloading, background playback, and more.",
+      "topics": [
+        "android",
+        "audio",
+        "audio-library",
+        "audio-player",
+        "ios",
+        "media-control",
+        "music-library",
+        "music-player",
+        "react-native",
         "windows"
       ],
-      "stargazers_count": 853,
-      "pushed_at": "2026-03-23T12:35:18Z",
-      "added_to_queue": "2026-04-07T14:02:19.517Z"
+      "stargazers_count": 3689,
+      "pushed_at": "2026-04-02T05:48:03Z",
+      "added_to_queue": "2026-04-08T22:38:02.191Z"
     },
     {
-      "name": "packetnet",
-      "html_url": "https://github.com/dotpcap/packetnet",
-      "description": "Official repository - High performance .NET package for dissecting and constructing network packets such as Ethernet, IP, TCP, UDP, etc.",
+      "name": "create-react-app-typescript",
+      "html_url": "https://github.com/wmonk/create-react-app-typescript",
+      "description": "DEPRECATED: Create React apps using typescript with no build configuration.",
       "topics": [
-        "c-sharp",
-        "ethernet",
-        "network-analysis"
+        "create-react-app",
+        "frontend",
+        "react",
+        "typescript",
+        "webpack"
       ],
-      "stargazers_count": 553,
-      "pushed_at": "2026-04-07T10:27:42Z",
-      "added_to_queue": "2026-04-07T14:02:19.517Z"
+      "stargazers_count": 3685,
+      "pushed_at": "2019-08-21T21:31:39Z",
+      "added_to_queue": "2026-04-08T22:38:02.191Z"
     },
     {
-      "name": "bolts",
-      "html_url": "https://github.com/lightning/bolts",
-      "description": "BOLT: Basis of Lightning Technology (Lightning Network Specifications)",
+      "name": "cult-ui",
+      "html_url": "https://github.com/nolly-studio/cult-ui",
+      "description": "Components crafted for Design Engineers. Styled using Tailwind CSS, fully compatible with Shadcn, and easy to integrate—just copy and paste. MIT 🤌",
       "topics": [
-        "bitcoin",
-        "blockchain",
-        "cryptocurrency",
-        "cryptography",
-        "lightning",
-        "lightning-network",
-        "protocol"
+        "components",
+        "design-engineering",
+        "framer-motion",
+        "nextjs",
+        "react",
+        "shadcn-ui",
+        "tailwindcss",
+        "typescript"
       ],
-      "stargazers_count": 2234,
-      "pushed_at": "2026-03-23T08:27:48Z",
-      "added_to_queue": "2026-04-07T14:02:19.517Z"
+      "stargazers_count": 3680,
+      "pushed_at": "2026-04-06T22:27:37Z",
+      "added_to_queue": "2026-04-08T22:38:02.191Z"
     },
     {
-      "name": "scrapli",
-      "html_url": "https://github.com/carlmontanari/scrapli",
-      "description": "Fast, flexible, sync/async, Python 3.9+ screen scraping client specifically for network devices",
+      "name": "varharrie.github.io",
+      "html_url": "https://github.com/varHarrie/varharrie.github.io",
+      "description": ":blue_book: Personal blog site based on github issues.",
+      "topics": [
+        "blog",
+        "issues",
+        "react"
+      ],
+      "stargazers_count": 3676,
+      "pushed_at": "2025-12-29T01:06:31Z",
+      "added_to_queue": "2026-04-08T22:38:02.191Z"
+    },
+    {
+      "name": "akita",
+      "html_url": "https://github.com/salesforce/akita",
+      "description": "🚀 State Management Tailored-Made for JS Applications",
+      "topics": [
+        "angular",
+        "javascript",
+        "oop",
+        "react",
+        "redux",
+        "rxjs",
+        "state-management",
+        "store",
+        "typescript",
+        "vue"
+      ],
+      "stargazers_count": 3674,
+      "pushed_at": "2025-05-01T17:28:19Z",
+      "added_to_queue": "2026-04-08T22:38:02.191Z"
+    },
+    {
+      "name": "react-native-progress",
+      "html_url": "https://github.com/oblador/react-native-progress",
+      "description": "Progress indicators and spinners for React Native",
       "topics": [],
-      "stargazers_count": 674,
-      "pushed_at": "2026-03-23T00:47:37Z",
-      "added_to_queue": "2026-04-07T14:02:19.517Z"
+      "stargazers_count": 3670,
+      "pushed_at": "2024-02-05T10:46:07Z",
+      "added_to_queue": "2026-04-08T22:38:02.191Z"
     },
     {
-      "name": "Android-Cookbook-Examples",
-      "html_url": "https://github.com/IanDarwin/Android-Cookbook-Examples",
-      "description": "Contributed code examples from O'Reilly Android Cookbook. See #user-content-table README below!",
-      "topics": [
-        "android",
-        "basics",
-        "compat",
-        "gradle",
-        "gui",
-        "m2e",
-        "mobile",
-        "network",
-        "volley"
-      ],
-      "stargazers_count": 1022,
-      "pushed_at": "2026-03-23T00:15:50Z",
-      "added_to_queue": "2026-04-07T14:02:19.517Z"
-    },
-    {
-      "name": "trackerjacker",
-      "html_url": "https://github.com/calebmadrigal/trackerjacker",
-      "description": "Like nmap for mapping wifi networks you're not connected to, plus device tracking",
-      "topics": [
-        "hacking",
-        "network",
-        "packets",
-        "python",
-        "scapy",
-        "wireless"
-      ],
-      "stargazers_count": 2723,
-      "pushed_at": "2026-03-22T01:37:46Z",
-      "added_to_queue": "2026-04-07T14:02:19.517Z"
-    },
-    {
-      "name": "Wormholy",
-      "html_url": "https://github.com/pmusolino/Wormholy",
-      "description": "iOS network debugging, like a wizard 🧙‍♂️",
-      "topics": [
-        "alamofire",
-        "charles",
-        "debugger",
-        "https",
-        "ios",
-        "logger",
-        "logging",
-        "network",
-        "nsurlsession"
-      ],
-      "stargazers_count": 2584,
-      "pushed_at": "2026-03-21T16:56:57Z",
-      "added_to_queue": "2026-04-07T14:02:19.517Z"
-    },
-    {
-      "name": "AElf",
-      "html_url": "https://github.com/AElfProject/AElf",
-      "description": "An AI-enhanced cloud-native layer-1 blockchain network. ",
-      "topics": [
-        "blockchain",
-        "clusters",
-        "csharp",
-        "dotnet-core",
-        "multi-chain",
-        "scalability"
-      ],
-      "stargazers_count": 1283,
-      "pushed_at": "2026-03-21T09:37:53Z",
-      "added_to_queue": "2026-04-07T14:02:19.517Z"
-    },
-    {
-      "name": "mercury",
-      "html_url": "https://github.com/cisco/mercury",
-      "description": "Mercury: network metadata capture and analysis",
-      "topics": [
-        "fingerprinting",
-        "linux",
-        "network-security",
-        "packet-capture",
-        "packet-capture-and-analysis"
-      ],
-      "stargazers_count": 504,
-      "pushed_at": "2026-03-21T02:56:31Z",
-      "added_to_queue": "2026-04-07T14:02:19.517Z"
-    },
-    {
-      "name": "CAN_Commander",
-      "html_url": "https://github.com/MatthewKuKanich/CAN_Commander",
-      "description": "CAN Commander is a comprehensive tool designed for the reverse engineering of CAN (Controller Area Network) bus systems. This project aims to provide a robust platform for automotive enthusiasts, engineers, and security researchers to interact with and analyze CAN networks, facilitating a deeper understanding and manipulation of communication.",
+      "name": "glamor",
+      "html_url": "https://github.com/threepointone/glamor",
+      "description": "inline css for react et al",
       "topics": [],
-      "stargazers_count": 989,
-      "pushed_at": "2026-03-21T00:49:22Z",
-      "added_to_queue": "2026-04-07T14:02:19.517Z"
+      "stargazers_count": 3671,
+      "pushed_at": "2023-12-21T09:00:30Z",
+      "added_to_queue": "2026-04-08T22:38:02.191Z"
     },
     {
-      "name": "canboat",
-      "html_url": "https://github.com/canboat/canboat",
-      "description": "CAN Boat provides NMEA 2000 and NMEA 0183 utilities. It contains a NMEA 2000 PGN decoder and can read and write N2K messages. It is not meant as an end-user tool but as a discovery mechanism for delving into NMEA 2000 networks.",
+      "name": "gqless",
+      "html_url": "https://github.com/samdenty/gqless",
+      "description": "a GraphQL client without queries",
       "topics": [
-        "boating",
-        "n2k",
-        "nmea-parser",
-        "nmea-sentences",
-        "nmea0183",
-        "nmea2000",
-        "yachting"
+        "gqless",
+        "graphql",
+        "react",
+        "suspense",
+        "typescript"
       ],
-      "stargazers_count": 628,
-      "pushed_at": "2026-03-20T20:21:36Z",
-      "added_to_queue": "2026-04-07T14:02:19.517Z"
+      "stargazers_count": 3662,
+      "pushed_at": "2022-02-16T17:50:54Z",
+      "added_to_queue": "2026-04-08T22:38:02.191Z"
     },
     {
-      "name": "cjdns",
-      "html_url": "https://github.com/cjdelisle/cjdns",
-      "description": "An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.",
+      "name": "react-json-view",
+      "html_url": "https://github.com/mac-s-g/react-json-view",
+      "description": "JSON viewer for react",
       "topics": [
-        "cjdns",
-        "cryptography",
-        "dht",
-        "fcp",
-        "hyperboria",
-        "mesh",
-        "mesh-networks",
-        "networking",
-        "routing"
-      ],
-      "stargazers_count": 5377,
-      "pushed_at": "2026-03-20T15:05:29Z",
-      "added_to_queue": "2026-04-07T14:02:19.517Z"
-    },
-    {
-      "name": "pyroute2",
-      "html_url": "https://github.com/svinota/pyroute2",
-      "description": "Python Netlink and PF_ROUTE library — network configuration and monitoring",
-      "topics": [
-        "9p",
-        "9p2000",
-        "bsd",
-        "dhcp",
-        "ethtool",
-        "generic-netlink",
-        "genl",
-        "linux",
-        "namespace",
-        "netlink",
-        "netns",
-        "network",
-        "network-namespace",
-        "nfnetlink",
-        "nl80211",
-        "plan9",
-        "python",
-        "rtnl",
-        "wireguard"
-      ],
-      "stargazers_count": 1061,
-      "pushed_at": "2026-03-20T13:41:10Z",
-      "added_to_queue": "2026-04-07T14:02:19.517Z"
-    },
-    {
-      "name": "ioGame",
-      "html_url": "https://github.com/iohao/ioGame",
-      "description": "A lock-free, asynchronous, event-driven Java Netty framework for building high-performance network applications. Lightweight and dependency-free, it supports distributed, decentralized clusters without requiring external middleware or databases—ideal for game servers, IoT, and long-lived connection systems.",
-      "topics": [
-        "bolt",
-        "cocos-creator",
-        "framework",
-        "fxgl",
-        "game",
-        "gameframework",
-        "godot",
-        "godot-engine",
-        "java",
-        "netty",
-        "protobuf",
-        "socket",
-        "springboot",
-        "tcp",
-        "unity",
-        "unity3d",
-        "unreal-engine",
-        "websocket"
-      ],
-      "stargazers_count": 1225,
-      "pushed_at": "2026-03-20T09:11:13Z",
-      "added_to_queue": "2026-04-07T14:02:19.517Z"
-    },
-    {
-      "name": "kubeskoop",
-      "html_url": "https://github.com/alibaba/kubeskoop",
-      "description": "Network monitoring & diagnosis suite for Kubernetes",
-      "topics": [
-        "diagnosis",
-        "ebpf",
-        "kubernetes",
-        "monitoring",
-        "network",
-        "network-observability"
-      ],
-      "stargazers_count": 681,
-      "pushed_at": "2026-03-20T03:02:09Z",
-      "added_to_queue": "2026-04-07T14:02:19.517Z"
-    },
-    {
-      "name": "bpftime",
-      "html_url": "https://github.com/eunomia-bpf/bpftime",
-      "description": "Userspace eBPF runtime for Observability, Network, GPU & General Extensions Framework",
-      "topics": [
-        "ebpf",
-        "instrumentation",
-        "jit",
-        "llvm",
-        "runtime",
-        "syscall-tracing",
-        "uprobes",
-        "userspace"
-      ],
-      "stargazers_count": 1451,
-      "pushed_at": "2026-03-19T20:11:01Z",
-      "added_to_queue": "2026-04-07T14:02:19.517Z"
-    },
-    {
-      "name": "PCAPdroid",
-      "html_url": "https://github.com/emanuele-f/PCAPdroid",
-      "description": "No-root network monitor, firewall and PCAP dumper for Android",
-      "topics": [
-        "android",
-        "capture-traffic",
-        "decryption",
-        "firewall",
-        "network-analysis",
-        "no-root",
-        "pcap",
-        "pcap-files",
-        "sniffer",
-        "sniffing",
-        "traffic-monitor",
-        "wireshark"
-      ],
-      "stargazers_count": 3894,
-      "pushed_at": "2026-03-19T18:53:27Z",
-      "added_to_queue": "2026-04-07T14:02:19.517Z"
-    },
-    {
-      "name": "zenith",
-      "html_url": "https://github.com/bvaisvil/zenith",
-      "description": "Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage",
-      "topics": [
-        "cpu",
-        "disk",
-        "linux",
-        "macos",
-        "process-monitor",
-        "terminal-application",
-        "tui",
-        "zenith"
-      ],
-      "stargazers_count": 2989,
-      "pushed_at": "2026-03-19T16:19:45Z",
-      "added_to_queue": "2026-04-07T14:02:19.517Z"
-    },
-    {
-      "name": "Bjorn",
-      "html_url": "https://github.com/infinition/Bjorn",
-      "description": "Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential vulnerabilities. Bjorn can perform brute force attacks, file stealing, host zombification, and supports custom attack scripts.",
-      "topics": [],
-      "stargazers_count": 5831,
-      "pushed_at": "2026-03-19T16:00:00Z",
-      "added_to_queue": "2026-04-07T14:02:19.517Z"
-    },
-    {
-      "name": "tbox",
-      "html_url": "https://github.com/tboox/tbox",
-      "description": "🎁 A glib-like multi-platform c library",
-      "topics": [
-        "algorithm",
-        "container",
-        "coroutines",
-        "cross-platform",
-        "iterator",
         "json",
-        "network",
-        "plist",
-        "stream",
-        "tbox",
-        "xmake",
-        "xml"
+        "json-inspector",
+        "json-tree",
+        "json-viewer",
+        "json-visualization",
+        "react"
       ],
-      "stargazers_count": 5104,
-      "pushed_at": "2026-03-19T15:18:44Z",
-      "added_to_queue": "2026-04-07T14:02:19.517Z"
+      "stargazers_count": 3661,
+      "pushed_at": "2026-02-18T00:49:30Z",
+      "added_to_queue": "2026-04-08T22:38:02.191Z"
     },
     {
-      "name": "nbd",
-      "html_url": "https://github.com/NetworkBlockDevice/nbd",
-      "description": "Network Block Device",
+      "name": "react-firebase-hooks",
+      "html_url": "https://github.com/CSFrequency/react-firebase-hooks",
+      "description": "React Hooks for Firebase.",
       "topics": [
-        "c",
-        "nbd",
-        "network",
-        "storage"
+        "firebase",
+        "firebase-auth",
+        "firebase-authentication",
+        "firebase-cloud-firestore",
+        "firebase-cloud-storage",
+        "firebase-database",
+        "firebase-firestore",
+        "firebase-realtime-database",
+        "firebase-storage",
+        "javascript",
+        "react",
+        "react-firebase-hooks",
+        "react-hooks",
+        "react-native",
+        "typescript"
       ],
-      "stargazers_count": 517,
-      "pushed_at": "2026-03-19T14:55:57Z",
-      "added_to_queue": "2026-04-07T14:02:19.517Z"
+      "stargazers_count": 3639,
+      "pushed_at": "2024-04-22T13:31:16Z",
+      "added_to_queue": "2026-04-08T22:38:02.191Z"
     },
     {
-      "name": "mtr",
-      "html_url": "https://github.com/traviscross/mtr",
-      "description": "Official repository for mtr, a network diagnostic tool",
+      "name": "hooks",
+      "html_url": "https://github.com/react-native-community/hooks",
+      "description": "React Native APIs turned into React Hooks for use in functional React components",
       "topics": [],
-      "stargazers_count": 3189,
-      "pushed_at": "2026-03-19T13:34:58Z",
-      "added_to_queue": "2026-04-07T14:02:19.517Z"
+      "stargazers_count": 3630,
+      "pushed_at": "2026-04-07T20:45:23Z",
+      "added_to_queue": "2026-04-08T22:39:01.331Z"
     },
     {
-      "name": "innernet",
-      "html_url": "https://github.com/tonarino/innernet",
-      "description": "A private network system that uses WireGuard under the hood.",
+      "name": "react-primer-draft",
+      "html_url": "https://github.com/mikechau/react-primer-draft",
+      "description": "A primer for building web applications with React.",
       "topics": [],
-      "stargazers_count": 5455,
-      "pushed_at": "2026-03-19T10:41:06Z",
-      "added_to_queue": "2026-04-07T14:02:19.517Z"
+      "stargazers_count": 3628,
+      "pushed_at": "2016-10-27T19:52:14Z",
+      "added_to_queue": "2026-04-08T22:39:01.331Z"
+    },
+    {
+      "name": "glamorous",
+      "html_url": "https://github.com/paypal/glamorous",
+      "description": "DEPRECATED: 💄 Maintainable CSS with React",
+      "topics": [
+        "css-in-js",
+        "glamor",
+        "glamorous",
+        "react",
+        "styled-components"
+      ],
+      "stargazers_count": 3623,
+      "pushed_at": "2018-12-06T19:58:04Z",
+      "added_to_queue": "2026-04-08T22:39:01.331Z"
+    },
+    {
+      "name": "mailing",
+      "html_url": "https://github.com/sofn-xyz/mailing",
+      "description": "Build, test, send emails with React",
+      "topics": [],
+      "stargazers_count": 3608,
+      "pushed_at": "2024-05-27T09:36:53Z",
+      "added_to_queue": "2026-04-08T22:39:01.331Z"
+    },
+    {
+      "name": "mozaik",
+      "html_url": "https://github.com/plouc/mozaik",
+      "description": "Mozaïk is a tool based on nodejs / react / redux / nivo / d3 to easily craft beautiful dashboards",
+      "topics": [
+        "d3",
+        "dashboard",
+        "dataviz",
+        "metrics",
+        "react"
+      ],
+      "stargazers_count": 3605,
+      "pushed_at": "2023-01-12T09:57:56Z",
+      "added_to_queue": "2026-04-08T22:39:01.331Z"
+    },
+    {
+      "name": "goxygen",
+      "html_url": "https://github.com/Shpota/goxygen",
+      "description": "Generate a modern Web project with Go and Angular, React, or Vue in seconds 🎲",
+      "topics": [
+        "angular",
+        "go",
+        "golang",
+        "javascipt",
+        "mongodb",
+        "mysql",
+        "nodejs",
+        "postgresql",
+        "react",
+        "typescript",
+        "vue"
+      ],
+      "stargazers_count": 3595,
+      "pushed_at": "2024-12-18T21:02:02Z",
+      "added_to_queue": "2026-04-08T22:39:01.331Z"
+    },
+    {
+      "name": "complete-intro-to-react-v5",
+      "html_url": "https://github.com/btholt/complete-intro-to-react-v5",
+      "description": "The Complete Intro to React, the fifth version",
+      "topics": [],
+      "stargazers_count": 3592,
+      "pushed_at": "2023-03-02T18:12:46Z",
+      "added_to_queue": "2026-04-08T22:39:01.331Z"
+    },
+    {
+      "name": "fortune-sheet",
+      "html_url": "https://github.com/ruilisi/fortune-sheet",
+      "description": "A drop-in javascript spreadsheet library that provides rich features like Excel and Google Sheets",
+      "topics": [
+        "collaborative",
+        "datagrid",
+        "excel",
+        "javascript",
+        "react",
+        "spreadsheet",
+        "typescript",
+        "xlsx"
+      ],
+      "stargazers_count": 3578,
+      "pushed_at": "2025-12-15T13:04:23Z",
+      "added_to_queue": "2026-04-08T22:39:01.331Z"
+    },
+    {
+      "name": "atropos",
+      "html_url": "https://github.com/nolimits4web/atropos",
+      "description": "Stunning touch-friendly 3D parallax hover effects",
+      "topics": [
+        "cards",
+        "effect",
+        "gallery",
+        "hover",
+        "javascript",
+        "parallax",
+        "portfolio",
+        "react",
+        "showcase",
+        "vue"
+      ],
+      "stargazers_count": 3577,
+      "pushed_at": "2025-08-13T22:35:35Z",
+      "added_to_queue": "2026-04-08T22:39:01.331Z"
+    },
+    {
+      "name": "react-arborist",
+      "html_url": "https://github.com/brimdata/react-arborist",
+      "description": "The complete tree view component for React",
+      "topics": [
+        "arborist",
+        "react",
+        "tree",
+        "treeview",
+        "treeview-component"
+      ],
+      "stargazers_count": 3574,
+      "pushed_at": "2025-02-13T17:52:33Z",
+      "added_to_queue": "2026-04-08T22:39:01.331Z"
+    },
+    {
+      "name": "figma-html",
+      "html_url": "https://github.com/BuilderIO/figma-html",
+      "description": "Convert any website to editable Figma designs",
+      "topics": [
+        "angular",
+        "chrome-extension",
+        "design-systems",
+        "design-to-code",
+        "design-tools",
+        "figma",
+        "figma-plugin",
+        "figma-plugins",
+        "html",
+        "jsx-lite",
+        "no-code",
+        "react",
+        "storybook",
+        "svelte",
+        "typescript",
+        "vue"
+      ],
+      "stargazers_count": 3568,
+      "pushed_at": "2025-08-19T19:28:22Z",
+      "added_to_queue": "2026-04-08T22:39:01.331Z"
+    },
+    {
+      "name": "floatui",
+      "html_url": "https://github.com/MarsX-dev/floatui",
+      "description": "Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.",
+      "topics": [
+        "design-systems",
+        "nextjs",
+        "react",
+        "react-components",
+        "tailwind-template",
+        "tailwindcss",
+        "tailwindui",
+        "ui-components",
+        "vue",
+        "vue-components"
+      ],
+      "stargazers_count": 3567,
+      "pushed_at": "2025-03-23T13:28:57Z",
+      "added_to_queue": "2026-04-08T22:39:01.331Z"
+    },
+    {
+      "name": "gantt-schedule-timeline-calendar",
+      "html_url": "https://github.com/neuronetio/gantt-schedule-timeline-calendar",
+      "description": "Gantt Gantt Gantt Timeline Schedule Calendar [ javascript gantt, js gantt, projects gantt, timeline, scheduler, gantt timeline, reservation timeline, react gantt, angular gantt, vue gantt, svelte gantt, booking manager ]",
+      "topics": [
+        "angular-gantt",
+        "angular-scheduler",
+        "angular-timeline",
+        "booking",
+        "calendar",
+        "gantt",
+        "gantt-timeline",
+        "javascript-gantt",
+        "js-gantt",
+        "js-scheduler",
+        "js-timeline",
+        "react-gantt",
+        "react-scheduler",
+        "react-timeline",
+        "reservation",
+        "schedule",
+        "scheduler",
+        "timeline",
+        "timeline-editor",
+        "vue-gantt"
+      ],
+      "stargazers_count": 3565,
+      "pushed_at": "2026-02-12T12:06:21Z",
+      "added_to_queue": "2026-04-08T22:39:01.331Z"
+    },
+    {
+      "name": "pagedraw",
+      "html_url": "https://github.com/Pagedraw/pagedraw",
+      "description": "a UI builder for React web apps",
+      "topics": [],
+      "stargazers_count": 3562,
+      "pushed_at": "2023-01-12T01:49:13Z",
+      "added_to_queue": "2026-04-08T22:39:01.331Z"
+    },
+    {
+      "name": "LimeSurvey",
+      "html_url": "https://github.com/LimeSurvey/LimeSurvey",
+      "description": "🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create online surveys and forms with unmatched flexibility.",
+      "topics": [
+        "html5",
+        "javascript",
+        "limesurvey",
+        "mssql",
+        "mysql",
+        "php",
+        "postgres",
+        "react",
+        "responsive-design",
+        "survey"
+      ],
+      "stargazers_count": 3560,
+      "pushed_at": "2026-04-08T22:30:19Z",
+      "added_to_queue": "2026-04-08T22:39:01.331Z"
+    },
+    {
+      "name": "tailchat",
+      "html_url": "https://github.com/msgbyte/tailchat",
+      "description": "Next generation noIM application in your own workspace, not only another Slack/Discord/Rocket.chat",
+      "topics": [
+        "bot",
+        "discord",
+        "im",
+        "noim",
+        "openapi",
+        "pluginify",
+        "react",
+        "slack",
+        "tailchat",
+        "typescript"
+      ],
+      "stargazers_count": 3560,
+      "pushed_at": "2025-04-12T08:29:03Z",
+      "added_to_queue": "2026-04-08T22:39:01.331Z"
+    },
+    {
+      "name": "Advanced-React",
+      "html_url": "https://github.com/wesbos/Advanced-React",
+      "description": "Starter Files and Solutions for Full Stack Advanced React and GraphQL ",
+      "topics": [
+        "fits",
+        "javascript",
+        "react",
+        "sick",
+        "wesbos"
+      ],
+      "stargazers_count": 3558,
+      "pushed_at": "2023-12-03T18:33:06Z",
+      "added_to_queue": "2026-04-08T22:39:01.331Z"
+    },
+    {
+      "name": "resumake.io",
+      "html_url": "https://github.com/saadq/resumake.io",
+      "description": "📝 A website for automatically generating elegant LaTeX resumes.",
+      "topics": [
+        "generator",
+        "latex",
+        "nodejs",
+        "pdf",
+        "pdf-generation",
+        "pdf-generator",
+        "pdflatex",
+        "react",
+        "resume"
+      ],
+      "stargazers_count": 3556,
+      "pushed_at": "2024-06-19T14:03:03Z",
+      "added_to_queue": "2026-04-08T22:39:01.331Z"
+    },
+    {
+      "name": "docxtemplater",
+      "html_url": "https://github.com/open-xml-templating/docxtemplater",
+      "description": "Generate docx, pptx, and xlsx from templates (Word, Powerpoint and Excel documents), from Node.js or the browser. Demo: https://www.docxtemplater.com/demo. #docx #office #generator #templating #report #json #generate #generation #template #create #pptx #docx #xlsx #react #vuejs #angularjs #browser #typescript #image #html #table #chart",
+      "topics": [
+        "docx",
+        "docx-generation",
+        "docx-generator",
+        "docx-template",
+        "excel",
+        "javascript",
+        "microsoft",
+        "office",
+        "powerpoint",
+        "pptx",
+        "template",
+        "word",
+        "xlsx"
+      ],
+      "stargazers_count": 3544,
+      "pushed_at": "2026-03-27T13:34:41Z",
+      "added_to_queue": "2026-04-08T22:39:01.331Z"
+    },
+    {
+      "name": "react-native-typography",
+      "html_url": "https://github.com/hectahertz/react-native-typography",
+      "description": "Pixel–perfect, native–looking typographic styles for React Native ✒️",
+      "topics": [
+        "android",
+        "ios",
+        "react",
+        "react-native",
+        "typography",
+        "typography-themes"
+      ],
+      "stargazers_count": 3542,
+      "pushed_at": "2025-01-12T18:46:25Z",
+      "added_to_queue": "2026-04-08T22:39:01.331Z"
+    },
+    {
+      "name": "lbry-desktop",
+      "html_url": "https://github.com/lbryio/lbry-desktop",
+      "description": "A browser and wallet for LBRY, the decentralized, user-controlled content marketplace.",
+      "topics": [
+        "blockchain",
+        "cool",
+        "electron",
+        "javascript",
+        "lbry",
+        "react",
+        "translation",
+        "ui"
+      ],
+      "stargazers_count": 3527,
+      "pushed_at": "2024-08-19T09:27:29Z",
+      "added_to_queue": "2026-04-08T22:39:01.331Z"
+    },
+    {
+      "name": "animate-ui",
+      "html_url": "https://github.com/imskyleen/animate-ui",
+      "description": "Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.",
+      "topics": [
+        "components",
+        "framer-motion",
+        "motion",
+        "nextjs",
+        "radix",
+        "react",
+        "shadcn-ui",
+        "tailwindcss",
+        "typescript"
+      ],
+      "stargazers_count": 3526,
+      "pushed_at": "2025-12-31T12:51:05Z",
+      "added_to_queue": "2026-04-08T22:39:01.331Z"
+    },
+    {
+      "name": "google-signin",
+      "html_url": "https://github.com/react-native-google-signin/google-signin",
+      "description": "Google Sign-in for your React Native applications",
+      "topics": [
+        "googleauth",
+        "googlesignin",
+        "hacktoberfest",
+        "oauth2",
+        "react-native"
+      ],
+      "stargazers_count": 3523,
+      "pushed_at": "2026-04-02T07:11:36Z",
+      "added_to_queue": "2026-04-08T22:39:01.331Z"
+    },
+    {
+      "name": "virtua",
+      "html_url": "https://github.com/inokawa/virtua",
+      "description": "A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid and Svelte.",
+      "topics": [
+        "headlessui",
+        "infinite-scroll",
+        "performance",
+        "react",
+        "react-component",
+        "scrolling",
+        "solid",
+        "svelte",
+        "tabular-data",
+        "virtual-list",
+        "virtual-scroll",
+        "virtualization",
+        "virtualized",
+        "vue",
+        "windowing"
+      ],
+      "stargazers_count": 3521,
+      "pushed_at": "2026-04-08T20:11:24Z",
+      "added_to_queue": "2026-04-08T22:39:01.331Z"
+    },
+    {
+      "name": "designable",
+      "html_url": "https://github.com/alibaba/designable",
+      "description": "🧩 Make everything designable 🧩 ",
+      "topics": [
+        "builder",
+        "designable",
+        "designer",
+        "editor",
+        "form",
+        "react"
+      ],
+      "stargazers_count": 3516,
+      "pushed_at": "2025-04-07T03:20:40Z",
+      "added_to_queue": "2026-04-08T22:39:01.331Z"
+    },
+    {
+      "name": "frontend-hard-mode-interview",
+      "html_url": "https://github.com/coffe1891/frontend-hard-mode-interview",
+      "description": "《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。",
+      "topics": [
+        "design-patterns-js",
+        "fp",
+        "frontend-interview",
+        "interview-preparation",
+        "javascript",
+        "javascript-framework",
+        "jquery",
+        "oop",
+        "react",
+        "react-native",
+        "rxjs",
+        "vscode",
+        "vue"
+      ],
+      "stargazers_count": 3513,
+      "pushed_at": "2025-08-27T03:04:45Z",
+      "added_to_queue": "2026-04-08T22:39:01.331Z"
+    },
+    {
+      "name": "pigeon-maps",
+      "html_url": "https://github.com/mariusandra/pigeon-maps",
+      "description": "ReactJS Maps without external dependencies",
+      "topics": [
+        "hacktoberfest",
+        "inferno",
+        "inferno-component",
+        "map",
+        "pigeon",
+        "pigeon-maps",
+        "react",
+        "react-component"
+      ],
+      "stargazers_count": 3512,
+      "pushed_at": "2025-06-04T19:48:47Z",
+      "added_to_queue": "2026-04-08T22:39:01.331Z"
+    },
+    {
+      "name": "react-colorful",
+      "html_url": "https://github.com/omgovich/react-colorful",
+      "description": "🎨 A tiny (2,8 KB) color picker component for React and Preact apps",
+      "topics": [
+        "a11y",
+        "color",
+        "color-picker",
+        "hacktoberfest",
+        "hex",
+        "hooks",
+        "picker",
+        "preact",
+        "react",
+        "react-component",
+        "tiny",
+        "typescript-support",
+        "zero-dependency"
+      ],
+      "stargazers_count": 3506,
+      "pushed_at": "2024-07-13T12:24:28Z",
+      "added_to_queue": "2026-04-08T22:39:01.331Z"
+    },
+    {
+      "name": "react-strict-dom",
+      "html_url": "https://github.com/facebook/react-strict-dom",
+      "description": "React Strict DOM (RSD) standardizes the development of styled React components for web and native.",
+      "topics": [],
+      "stargazers_count": 3499,
+      "pushed_at": "2026-04-01T20:44:04Z",
+      "added_to_queue": "2026-04-08T22:39:01.331Z"
+    },
+    {
+      "name": "portfolio_website",
+      "html_url": "https://github.com/adrianhajdin/portfolio_website",
+      "description": "Tutorial created by Enyel Sequeira, taught by JavaScript Mastery",
+      "topics": [
+        "javascript",
+        "portfolio",
+        "portfolio-website",
+        "react",
+        "reactjs"
+      ],
+      "stargazers_count": 3497,
+      "pushed_at": "2024-07-18T14:48:30Z",
+      "added_to_queue": "2026-04-08T22:39:01.331Z"
+    },
+    {
+      "name": "advanced-react-patterns",
+      "html_url": "https://github.com/epicweb-dev/advanced-react-patterns",
+      "description": "This is the latest advanced react patterns workshop",
+      "topics": [
+        "epicreact-dev",
+        "epicweb-dev",
+        "kcd-edu",
+        "react",
+        "react-components",
+        "react-patterns",
+        "workshop"
+      ],
+      "stargazers_count": 3495,
+      "pushed_at": "2026-04-07T18:40:40Z",
+      "added_to_queue": "2026-04-08T22:39:01.331Z"
+    },
+    {
+      "name": "material-table",
+      "html_url": "https://github.com/mbrn/material-table",
+      "description": "Datatable for React based on material-ui's table with additional features",
+      "topics": [
+        "datagrid",
+        "datatable",
+        "material",
+        "material-ui",
+        "react",
+        "table"
+      ],
+      "stargazers_count": 3493,
+      "pushed_at": "2026-03-17T17:39:07Z",
+      "added_to_queue": "2026-04-08T22:39:01.331Z"
+    },
+    {
+      "name": "react-native-keyboard-controller",
+      "html_url": "https://github.com/kirillzyusko/react-native-keyboard-controller",
+      "description": "⌨️ Keyboard manager which works in identical way on both iOS and Android",
+      "topics": [
+        "android",
+        "animation",
+        "avoiding-view",
+        "chat",
+        "extend-keyboard",
+        "focused-input",
+        "interactive",
+        "ios",
+        "keyboard",
+        "keyboard-background-view",
+        "keyboard-toolbar",
+        "over-keyboard-view",
+        "react-native"
+      ],
+      "stargazers_count": 3479,
+      "pushed_at": "2026-04-07T13:38:29Z",
+      "added_to_queue": "2026-04-08T22:39:01.331Z"
+    },
+    {
+      "name": "autoform",
+      "html_url": "https://github.com/vantezzen/autoform",
+      "description": "🌟 Automatically render forms for your existing data schema",
+      "topics": [
+        "form-validation",
+        "react",
+        "react-component",
+        "shadcn-ui"
+      ],
+      "stargazers_count": 3474,
+      "pushed_at": "2025-08-15T09:20:44Z",
+      "added_to_queue": "2026-04-08T22:39:01.331Z"
+    },
+    {
+      "name": "felony",
+      "html_url": "https://github.com/henryboldi/felony",
+      "description": "🔑🔥📈 Next Level PGP",
+      "topics": [
+        "electron",
+        "encrypted-messages",
+        "encryption",
+        "pgp",
+        "react"
+      ],
+      "stargazers_count": 3468,
+      "pushed_at": "2019-03-27T02:13:25Z",
+      "added_to_queue": "2026-04-08T22:39:01.331Z"
+    },
+    {
+      "name": "player",
+      "html_url": "https://github.com/vidstack/player",
+      "description": "UI components and hooks for building video/audio players on the web. Robust, customizable, and accessible. Modern alternative to JW Player and Video.js.",
+      "topics": [
+        "accessibility",
+        "analytics",
+        "audio",
+        "hls",
+        "html",
+        "javascript",
+        "media",
+        "player",
+        "react",
+        "solid-js",
+        "svelte",
+        "typescript",
+        "ui",
+        "video",
+        "vimeo",
+        "vue",
+        "web-components",
+        "youtube"
+      ],
+      "stargazers_count": 3466,
+      "pushed_at": "2026-04-05T06:21:29Z",
+      "added_to_queue": "2026-04-08T22:39:01.331Z"
+    },
+    {
+      "name": "awesome-reactnative-ui",
+      "html_url": "https://github.com/madhavanmalolan/awesome-reactnative-ui",
+      "description": "Awesome React Native UI components updated weekly",
+      "topics": [],
+      "stargazers_count": 3463,
+      "pushed_at": "2023-08-28T10:35:44Z",
+      "added_to_queue": "2026-04-08T22:39:01.331Z"
+    },
+    {
+      "name": "playground-macos",
+      "html_url": "https://github.com/Renovamen/playground-macos",
+      "description": "My portfolio website simulating macOS's GUI, developed with React and UnoCSS.",
+      "topics": [
+        "portfolio",
+        "react",
+        "tailwindcss",
+        "typescript",
+        "vite",
+        "zustand"
+      ],
+      "stargazers_count": 3462,
+      "pushed_at": "2024-05-02T05:49:01Z",
+      "added_to_queue": "2026-04-08T22:39:01.331Z"
+    },
+    {
+      "name": "react-proto",
+      "html_url": "https://github.com/React-Proto/react-proto",
+      "description": ":art: React application prototyping tool for developers and designers :building_construction:",
+      "topics": [
+        "architecture",
+        "design-tools",
+        "desktop-application",
+        "developer-tools",
+        "electron",
+        "front-end-development",
+        "javascript",
+        "konva",
+        "konvajs",
+        "proto",
+        "prototyping",
+        "react",
+        "react-konva",
+        "redux",
+        "redux-thunk"
+      ],
+      "stargazers_count": 3459,
+      "pushed_at": "2022-12-08T22:19:06Z",
+      "added_to_queue": "2026-04-08T22:39:01.331Z"
+    },
+    {
+      "name": "awesome-styled-components",
+      "html_url": "https://github.com/styled-components/awesome-styled-components",
+      "description": "A curated list of awesome styled-components resources 💅 ",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "css",
+        "css-in-js",
+        "react",
+        "styled-components"
+      ],
+      "stargazers_count": 3450,
+      "pushed_at": "2023-05-19T07:07:41Z",
+      "added_to_queue": "2026-04-08T22:39:01.331Z"
+    },
+    {
+      "name": "react-native-keychain",
+      "html_url": "https://github.com/oblador/react-native-keychain",
+      "description": ":key: Keychain Access for React Native",
+      "topics": [
+        "android",
+        "ios",
+        "keychain-access",
+        "react-native"
+      ],
+      "stargazers_count": 3449,
+      "pushed_at": "2026-03-27T19:57:48Z",
+      "added_to_queue": "2026-04-08T22:39:01.331Z"
+    },
+    {
+      "name": "home-automation",
+      "html_url": "https://github.com/deepsyx/home-automation",
+      "description": "Raspberry Pi 3 based home automation with NodeJS and React Native.",
+      "topics": [
+        "home-automation",
+        "javascript",
+        "nodejs",
+        "phone",
+        "raspberry",
+        "react-native"
+      ],
+      "stargazers_count": 3445,
+      "pushed_at": "2017-09-05T12:12:14Z",
+      "added_to_queue": "2026-04-08T22:39:01.331Z"
+    },
+    {
+      "name": "rooks",
+      "html_url": "https://github.com/imbhargav5/rooks",
+      "description": "Over 650k monthly downloads. Collection of awesome react hooks",
+      "topics": [
+        "hook",
+        "hooks",
+        "react",
+        "react-hook",
+        "react-hooks",
+        "reactjs",
+        "rooks",
+        "typescript"
+      ],
+      "stargazers_count": 3439,
+      "pushed_at": "2026-04-08T01:28:08Z",
+      "added_to_queue": "2026-04-08T22:39:01.331Z"
+    },
+    {
+      "name": "react-hotkeys-hook",
+      "html_url": "https://github.com/JohannesKlauss/react-hotkeys-hook",
+      "description": "React hook for using keyboard shortcuts in components.",
+      "topics": [
+        "hook",
+        "hooks",
+        "hotkey",
+        "hotkeys",
+        "javascript",
+        "react",
+        "react-hooks",
+        "typescript"
+      ],
+      "stargazers_count": 3433,
+      "pushed_at": "2026-04-06T22:59:45Z",
+      "added_to_queue": "2026-04-08T22:39:01.331Z"
+    },
+    {
+      "name": "react-coding-challenges",
+      "html_url": "https://github.com/alexgurr/react-coding-challenges",
+      "description": "A series of ReactJS coding challenges with a variety of difficulties. ",
+      "topics": [
+        "app",
+        "candidates",
+        "challenge",
+        "coding-challenges",
+        "exercises",
+        "interview",
+        "interview-practice",
+        "interviews",
+        "javascript",
+        "react",
+        "react-coding-challenges",
+        "reactjs"
+      ],
+      "stargazers_count": 3432,
+      "pushed_at": "2023-09-05T04:09:52Z",
+      "added_to_queue": "2026-04-08T22:39:01.331Z"
+    },
+    {
+      "name": "reading",
+      "html_url": "https://github.com/attentiveness/reading",
+      "description": "iReading App  Write In React-Native",
+      "topics": [
+        "android",
+        "ios",
+        "react-native",
+        "react-navigation",
+        "redux",
+        "redux-saga"
+      ],
+      "stargazers_count": 3411,
+      "pushed_at": "2022-12-06T19:46:32Z",
+      "added_to_queue": "2026-04-08T22:39:01.332Z"
+    },
+    {
+      "name": "dashdot",
+      "html_url": "https://github.com/MauriceNino/dashdot",
+      "description": "A simple, modern server dashboard, primarily used by smaller private servers",
+      "topics": [
+        "dashboard",
+        "docker",
+        "glassmorphism",
+        "monitoring",
+        "nodejs",
+        "react",
+        "server"
+      ],
+      "stargazers_count": 3412,
+      "pushed_at": "2026-04-08T19:40:40Z",
+      "added_to_queue": "2026-04-08T22:39:01.332Z"
+    },
+    {
+      "name": "react-refetch",
+      "html_url": "https://github.com/heroku/react-refetch",
+      "description": "A simple, declarative, and composable way to fetch data for React components",
+      "topics": [
+        "api",
+        "data",
+        "fetch",
+        "react",
+        "rest"
+      ],
+      "stargazers_count": 3409,
+      "pushed_at": "2024-06-16T08:24:35Z",
+      "added_to_queue": "2026-04-08T22:39:01.332Z"
+    },
+    {
+      "name": "moodist",
+      "html_url": "https://github.com/remvze/moodist",
+      "description": "🌲 Ambient sounds for focus and calm.",
+      "topics": [
+        "ambient",
+        "ambient-noise",
+        "ambient-sounds",
+        "astro",
+        "calm",
+        "focus",
+        "javascript",
+        "productivity",
+        "productivity-tools",
+        "react",
+        "selfhostable",
+        "selfhosted",
+        "typescript",
+        "white-noise",
+        "white-noise-generator"
+      ],
+      "stargazers_count": 3408,
+      "pushed_at": "2025-11-25T16:40:03Z",
+      "added_to_queue": "2026-04-08T22:39:01.332Z"
+    },
+    {
+      "name": "kaneo",
+      "html_url": "https://github.com/usekaneo/kaneo",
+      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+      "topics": [
+        "hacktoberfest",
+        "hono",
+        "issue-management",
+        "issue-tracker",
+        "jira-alternative",
+        "kanban",
+        "linear-alternative",
+        "project-management",
+        "react",
+        "self-hosted",
+        "typescript"
+      ],
+      "stargazers_count": 3399,
+      "pushed_at": "2026-04-07T20:29:16Z",
+      "added_to_queue": "2026-04-08T22:39:01.332Z"
+    },
+    {
+      "name": "portfolio",
+      "html_url": "https://github.com/HamishMW/portfolio",
+      "description": "My personal portfolio website built using React and three js",
+      "topics": [
+        "cyberpunk",
+        "designer",
+        "developer",
+        "framer-motion",
+        "portfolio",
+        "react",
+        "remix",
+        "threejs"
+      ],
+      "stargazers_count": 3392,
+      "pushed_at": "2024-11-16T02:46:21Z",
+      "added_to_queue": "2026-04-08T22:39:01.332Z"
+    },
+    {
+      "name": "mafs",
+      "html_url": "https://github.com/stevenpetryk/mafs",
+      "description": "React components for interactive math",
+      "topics": [
+        "math",
+        "react",
+        "visualization"
+      ],
+      "stargazers_count": 3390,
+      "pushed_at": "2025-03-30T21:48:54Z",
+      "added_to_queue": "2026-04-08T22:39:01.332Z"
+    },
+    {
+      "name": "react-native-ble-plx",
+      "html_url": "https://github.com/dotintent/react-native-ble-plx",
+      "description": "React Native BLE library",
+      "topics": [],
+      "stargazers_count": 3386,
+      "pushed_at": "2026-03-09T20:25:54Z",
+      "added_to_queue": "2026-04-08T22:39:01.332Z"
+    },
+    {
+      "name": "revogrid",
+      "html_url": "https://github.com/revolist/revogrid",
+      "description": "Powerful virtual data table smartsheet with advanced customization. Best features from excel plus incredible  performance 🔋",
+      "topics": [
+        "angular",
+        "angular-datagrid",
+        "data-grid",
+        "excel",
+        "excel-grid",
+        "export",
+        "filter",
+        "grid",
+        "pivot",
+        "react",
+        "react-datagrid",
+        "revo-grid",
+        "sorting",
+        "stenciljs",
+        "svelte",
+        "table",
+        "vuegrid",
+        "vuejs",
+        "vuejs-components",
+        "vuejs-grid"
+      ],
+      "stargazers_count": 3381,
+      "pushed_at": "2026-04-07T12:40:53Z",
+      "added_to_queue": "2026-04-08T22:39:01.332Z"
+    },
+    {
+      "name": "react-split-pane",
+      "html_url": "https://github.com/tomkp/react-split-pane",
+      "description": "React split-pane component",
+      "topics": [
+        "react",
+        "react-component",
+        "split-pane"
+      ],
+      "stargazers_count": 3381,
+      "pushed_at": "2026-04-07T04:25:34Z",
+      "added_to_queue": "2026-04-08T22:39:01.332Z"
+    },
+    {
+      "name": "restyle",
+      "html_url": "https://github.com/Shopify/restyle",
+      "description": "A type-enforced system for building UI components in React Native with TypeScript.",
+      "topics": [],
+      "stargazers_count": 3376,
+      "pushed_at": "2026-02-09T08:19:48Z",
+      "added_to_queue": "2026-04-08T22:39:01.332Z"
+    },
+    {
+      "name": "react-native-reanimated-carousel",
+      "html_url": "https://github.com/dohooo/react-native-reanimated-carousel",
+      "description": "🎠 React Native swiper/carousel component, fully implemented using reanimated v2, support to iOS/Android/Web.  (Swiper/Carousel)",
+      "topics": [
+        "android",
+        "carousel",
+        "hacktoberfest",
+        "infinite-scroll",
+        "ios",
+        "react-native",
+        "react-native-carousel",
+        "react-native-snap",
+        "react-native-swiper",
+        "reanimated",
+        "snap",
+        "swiper",
+        "web"
+      ],
+      "stargazers_count": 3375,
+      "pushed_at": "2026-03-30T08:29:40Z",
+      "added_to_queue": "2026-04-08T22:39:01.332Z"
+    },
+    {
+      "name": "react-native-starter-kit",
+      "html_url": "https://github.com/mcnamee/react-native-starter-kit",
+      "description": ":rocket: A React Native boilerplate app to get you up and running very, very quickly :rocket:",
+      "topics": [
+        "android",
+        "boilerplate",
+        "boilerplate-template",
+        "ios",
+        "js",
+        "react-native"
+      ],
+      "stargazers_count": 3368,
+      "pushed_at": "2023-01-07T04:07:29Z",
+      "added_to_queue": "2026-04-08T22:39:01.332Z"
+    },
+    {
+      "name": "use-debounce",
+      "html_url": "https://github.com/xnimorz/use-debounce",
+      "description": "A debounce hook for react",
+      "topics": [
+        "debounce",
+        "react",
+        "react-hook",
+        "react-hooks",
+        "react-use",
+        "usedebounce"
+      ],
+      "stargazers_count": 3366,
+      "pushed_at": "2026-03-29T22:42:33Z",
+      "added_to_queue": "2026-04-08T22:39:01.332Z"
+    },
+    {
+      "name": "tremor",
+      "html_url": "https://github.com/tremorlabs/tremor",
+      "description": "Copy & Paste React components to build modern web applications. ",
+      "topics": [
+        "components",
+        "dashboard",
+        "radix-ui",
+        "react",
+        "tailwindcss",
+        "typescript",
+        "ui"
+      ],
+      "stargazers_count": 3359,
+      "pushed_at": "2025-10-10T13:08:24Z",
+      "added_to_queue": "2026-04-08T22:39:01.332Z"
+    },
+    {
+      "name": "react-native-testing-library",
+      "html_url": "https://github.com/callstack/react-native-testing-library",
+      "description": "🦉 Simple and complete React Native testing utilities that encourage good testing practices.",
+      "topics": [
+        "jest",
+        "react",
+        "react-native",
+        "testing"
+      ],
+      "stargazers_count": 3358,
+      "pushed_at": "2026-03-30T14:57:19Z",
+      "added_to_queue": "2026-04-08T22:39:01.332Z"
+    },
+    {
+      "name": "flowchart-fun",
+      "html_url": "https://github.com/tone-row/flowchart-fun",
+      "description": "Easily generate flowcharts and diagrams from text ⿻",
+      "topics": [
+        "diagram-generator",
+        "flowchart",
+        "flowchart-editor",
+        "generator",
+        "graphs",
+        "open-source",
+        "react"
+      ],
+      "stargazers_count": 3348,
+      "pushed_at": "2026-02-13T02:20:03Z",
+      "added_to_queue": "2026-04-08T22:39:01.332Z"
+    },
+    {
+      "name": "react-transform-boilerplate",
+      "html_url": "https://github.com/gaearon/react-transform-boilerplate",
+      "description": "A new Webpack boilerplate with hot reloading React components, and error handling on module and component level.",
+      "topics": [],
+      "stargazers_count": 3342,
+      "pushed_at": "2020-08-21T15:47:58Z",
+      "added_to_queue": "2026-04-08T22:39:01.332Z"
+    },
+    {
+      "name": "react-native-reanimated-bottom-sheet",
+      "html_url": "https://github.com/osdnk/react-native-reanimated-bottom-sheet",
+      "description": "Highly configurable bottom sheet component made with react-native-reanimated and react-native-gesture-handler",
+      "topics": [],
+      "stargazers_count": 3342,
+      "pushed_at": "2023-01-04T21:42:50Z",
+      "added_to_queue": "2026-04-08T22:39:01.332Z"
+    },
+    {
+      "name": "react-native-notifications",
+      "html_url": "https://github.com/wix/react-native-notifications",
+      "description": "React Native Notifications",
+      "topics": [],
+      "stargazers_count": 3339,
+      "pushed_at": "2026-04-02T10:25:31Z",
+      "added_to_queue": "2026-04-08T22:39:01.332Z"
+    },
+    {
+      "name": "react-web",
+      "html_url": "https://github.com/taofed/react-web",
+      "description": "A framework for building web apps with React Native compatible API.",
+      "topics": [
+        "react",
+        "react-native"
+      ],
+      "stargazers_count": 3339,
+      "pushed_at": "2019-12-10T13:43:22Z",
+      "added_to_queue": "2026-04-08T22:39:01.332Z"
+    },
+    {
+      "name": "react-spinners",
+      "html_url": "https://github.com/davidhu2000/react-spinners",
+      "description": "A collection of loading spinner components for react",
+      "topics": [
+        "component",
+        "loader",
+        "loading",
+        "loading-spinners",
+        "progressbar",
+        "react",
+        "react-component",
+        "react-spinners",
+        "reactjs",
+        "spinners"
+      ],
+      "stargazers_count": 3339,
+      "pushed_at": "2026-04-06T22:38:20Z",
+      "added_to_queue": "2026-04-08T22:39:01.332Z"
+    },
+    {
+      "name": "editor",
+      "html_url": "https://github.com/mdx-editor/editor",
+      "description": "A rich text editor React component for markdown",
+      "topics": [
+        "editor",
+        "lexical",
+        "markdown",
+        "markdown-editor",
+        "mdx",
+        "react",
+        "reactjs",
+        "rich-text-editor"
+      ],
+      "stargazers_count": 3333,
+      "pushed_at": "2026-04-07T07:28:14Z",
+      "added_to_queue": "2026-04-08T22:39:01.332Z"
+    },
+    {
+      "name": "cyclops",
+      "html_url": "https://github.com/cyclops-ui/cyclops",
+      "description": "Developer Friendly Kubernetes 👁️",
+      "topics": [
+        "aks",
+        "cloud",
+        "crd-controller",
+        "deployment",
+        "devops",
+        "eks",
+        "gke",
+        "go",
+        "golang",
+        "hacktoberfest",
+        "helm",
+        "json-schema",
+        "kubernetes",
+        "kubernetes-cluster",
+        "kubernetes-controller",
+        "kubernetes-operator",
+        "platform-engineering",
+        "react",
+        "typescript",
+        "typescript-react"
+      ],
+      "stargazers_count": 3319,
+      "pushed_at": "2026-01-22T09:59:04Z",
+      "added_to_queue": "2026-04-08T22:39:01.332Z"
+    },
+    {
+      "name": "flutter_hooks",
+      "html_url": "https://github.com/rrousselGit/flutter_hooks",
+      "description": "React hooks for Flutter. Hooks are a new kind of object that manages a Widget life-cycles. They are used to increase code sharing between widgets and as a complete replacement for StatefulWidget.",
+      "topics": [
+        "code-reuse",
+        "dart",
+        "flutter",
+        "hacktoberfest",
+        "hook",
+        "widget"
+      ],
+      "stargazers_count": 3314,
+      "pushed_at": "2025-09-09T15:31:18Z",
+      "added_to_queue": "2026-04-08T22:39:01.332Z"
+    },
+    {
+      "name": "react-simple-maps",
+      "html_url": "https://github.com/zcreativelabs/react-simple-maps",
+      "description": "Beautiful React SVG maps with d3-geo and topojson using a declarative api.",
+      "topics": [
+        "d3v4",
+        "mapping",
+        "nodejs",
+        "react",
+        "svg",
+        "visualization"
+      ],
+      "stargazers_count": 3292,
+      "pushed_at": "2024-08-08T15:53:29Z",
+      "added_to_queue": "2026-04-08T22:39:01.332Z"
+    },
+    {
+      "name": "ts-rest",
+      "html_url": "https://github.com/ts-rest/ts-rest",
+      "description": "RPC-like client, contract, and server implementation for a pure REST API",
+      "topics": [
+        "api",
+        "fastify",
+        "nestjs",
+        "nextjs",
+        "openapi",
+        "react",
+        "react-query",
+        "rest",
+        "rpc",
+        "solid",
+        "typescript"
+      ],
+      "stargazers_count": 3292,
+      "pushed_at": "2026-02-06T20:47:21Z",
+      "added_to_queue": "2026-04-08T22:39:01.332Z"
+    },
+    {
+      "name": "uilayouts",
+      "html_url": "https://github.com/ui-layouts/uilayouts",
+      "description": "UI Layouts isn’t just a library. It’s your complete front-end universe with components, effects, design tools, and ready-to-use blocks, everything you need to build modern interfaces, faster.",
+      "topics": [
+        "accertinity",
+        "accordion-component",
+        "animated-tabs",
+        "codehike",
+        "component-library",
+        "components",
+        "components-react",
+        "drawer",
+        "framer-motion",
+        "image-mousetrail",
+        "modal",
+        "mouse-animation",
+        "mousetrail",
+        "react",
+        "react-animation-components",
+        "shadcn",
+        "shadcnui",
+        "sparkles",
+        "spotlight",
+        "tailwindcss"
+      ],
+      "stargazers_count": 3287,
+      "pushed_at": "2026-03-31T10:03:07Z",
+      "added_to_queue": "2026-04-08T22:39:01.332Z"
+    },
+    {
+      "name": "react-native-pager-view",
+      "html_url": "https://github.com/callstack/react-native-pager-view",
+      "description": "React Native wrapper for the Android ViewPager and iOS UIPageViewController.",
+      "topics": [
+        "android",
+        "hacktoberfest",
+        "ios",
+        "react-native"
+      ],
+      "stargazers_count": 3286,
+      "pushed_at": "2026-04-08T06:49:18Z",
+      "added_to_queue": "2026-04-08T22:39:01.332Z"
+    },
+    {
+      "name": "react-tutorial",
+      "html_url": "https://github.com/reactjs/react-tutorial",
+      "description": "Code from the React tutorial.",
+      "topics": [],
+      "stargazers_count": 3280,
+      "pushed_at": "2018-06-25T20:58:25Z",
+      "added_to_queue": "2026-04-08T22:39:01.332Z"
+    },
+    {
+      "name": "component-party.dev",
+      "html_url": "https://github.com/matschik/component-party.dev",
+      "description": "🎉 Web component JS frameworks overview by their syntax and features",
+      "topics": [
+        "alpine",
+        "angular",
+        "aurelia",
+        "ember",
+        "lit",
+        "qwik",
+        "react",
+        "ripple",
+        "solidjs",
+        "svelte",
+        "vite",
+        "vue"
+      ],
+      "stargazers_count": 3279,
+      "pushed_at": "2026-03-28T17:57:26Z",
+      "added_to_queue": "2026-04-08T22:39:01.332Z"
+    },
+    {
+      "name": "touchstonejs",
+      "html_url": "https://github.com/touchstonejs/touchstonejs",
+      "description": "Mobile App Framework powered by React",
+      "topics": [],
+      "stargazers_count": 3275,
+      "pushed_at": "2022-06-17T05:40:28Z",
+      "added_to_queue": "2026-04-08T22:39:01.332Z"
+    },
+    {
+      "name": "heroui-native",
+      "html_url": "https://github.com/heroui-inc/heroui-native",
+      "description": "📱Beautiful, fast and modern React Native UI library",
+      "topics": [
+        "android",
+        "design-system",
+        "expo",
+        "heroui",
+        "ios",
+        "library",
+        "nativewind",
+        "react-native",
+        "ui-components"
+      ],
+      "stargazers_count": 3271,
+      "pushed_at": "2026-04-03T10:16:05Z",
+      "added_to_queue": "2026-04-08T22:39:01.332Z"
+    },
+    {
+      "name": "guppy",
+      "html_url": "https://github.com/joshwcomeau/guppy",
+      "description": "🐠A friendly application manager and task runner for React.js",
+      "topics": [
+        "gui",
+        "react",
+        "reactjs"
+      ],
+      "stargazers_count": 3256,
+      "pushed_at": "2021-05-27T08:48:57Z",
+      "added_to_queue": "2026-04-08T22:39:01.332Z"
+    },
+    {
+      "name": "react-native-app-intro",
+      "html_url": "https://github.com/FuYaoDe/react-native-app-intro",
+      "description": "react-native-app-intro is a react native component implementing a parallax effect welcome page using base on react-native-swiper , similar to the one found in Google's app like Sheet, Drive, Docs...",
+      "topics": [
+        "android",
+        "intro",
+        "introduction",
+        "ios",
+        "parallax",
+        "react-native"
+      ],
+      "stargazers_count": 3255,
+      "pushed_at": "2021-11-02T02:35:55Z",
+      "added_to_queue": "2026-04-08T22:39:01.332Z"
+    },
+    {
+      "name": "goober",
+      "html_url": "https://github.com/cristianbote/goober",
+      "description": "🥜 goober, a less than 1KB 🎉  css-in-js alternative with a familiar API",
+      "topics": [
+        "critical-css",
+        "css",
+        "css-in-js",
+        "dom",
+        "emotion",
+        "goober",
+        "javascript",
+        "preact",
+        "react",
+        "ssr",
+        "styled",
+        "styled-components",
+        "vanilla"
+      ],
+      "stargazers_count": 3256,
+      "pushed_at": "2026-02-01T09:12:17Z",
+      "added_to_queue": "2026-04-08T22:39:01.332Z"
+    },
+    {
+      "name": "react-ideal-image",
+      "html_url": "https://github.com/stereobooster/react-ideal-image",
+      "description": "🖼️ An Almost Ideal React Image Component",
+      "topics": [],
+      "stargazers_count": 3251,
+      "pushed_at": "2023-06-10T07:08:57Z",
+      "added_to_queue": "2026-04-08T22:39:01.332Z"
+    },
+    {
+      "name": "babel-sublime",
+      "html_url": "https://github.com/babel/babel-sublime",
+      "description": "Syntax definitions for ES6 JavaScript with React JSX extensions.",
+      "topics": [],
+      "stargazers_count": 3246,
+      "pushed_at": "2024-04-30T10:01:46Z",
+      "added_to_queue": "2026-04-08T22:39:01.332Z"
+    },
+    {
+      "name": "react-native-dom",
+      "html_url": "https://github.com/vincentriemer/react-native-dom",
+      "description": "An experimental, comprehensive port of React Native to the web.",
+      "topics": [
+        "native",
+        "react",
+        "react-native",
+        "ui-framework",
+        "webworkers"
+      ],
+      "stargazers_count": 3245,
+      "pushed_at": "2022-12-09T00:36:23Z",
+      "added_to_queue": "2026-04-08T22:39:01.332Z"
+    },
+    {
+      "name": "ComputerVision",
+      "html_url": "https://github.com/niconielsen32/ComputerVision",
+      "description": null,
+      "topics": [],
+      "stargazers_count": 1119,
+      "pushed_at": "2024-03-17T22:45:44Z",
+      "added_to_queue": "2026-04-08T22:39:59.351Z"
+    },
+    {
+      "name": "show-facebook-computer-vision-tags",
+      "html_url": "https://github.com/ageitgey/show-facebook-computer-vision-tags",
+      "description": "A very simple Chrome Extension that displays the automated image tags that Facebook has generated for your images",
+      "topics": [],
+      "stargazers_count": 1485,
+      "pushed_at": "2021-11-09T07:11:43Z",
+      "added_to_queue": "2026-04-08T22:39:59.351Z"
+    },
+    {
+      "name": "mcp-toolbox",
+      "html_url": "https://github.com/googleapis/mcp-toolbox",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
+      "topics": [
+        "agent",
+        "agents",
+        "ai",
+        "bigquery",
+        "clickhouse",
+        "cockroachdb",
+        "database",
+        "elasticsearch",
+        "firestore",
+        "genai",
+        "llm",
+        "mcp",
+        "mongodb",
+        "mysql",
+        "oracle",
+        "postgresql",
+        "redis",
+        "server",
+        "spanner",
+        "tidb"
+      ],
+      "stargazers_count": 13999,
+      "pushed_at": "2026-04-08T22:46:57Z",
+      "added_to_queue": "2026-04-08T22:50:15.954Z"
     }
   ]
 }
