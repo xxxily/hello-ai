@@ -1,1684 +1,3037 @@
 {
   "queue": [
     {
-      "name": "ZhiHuDaily-React-Native",
-      "html_url": "https://github.com/race604/ZhiHuDaily-React-Native",
-      "description": "A Zhihu Daily(http://daily.zhihu.com/) App client implemented using React Native (Android and iOS).",
-      "topics": [],
-      "stargazers_count": 3705,
-      "pushed_at": "2023-09-19T05:26:28Z",
-      "added_to_queue": "2026-04-08T22:38:02.191Z"
-    },
-    {
-      "name": "alva",
-      "html_url": "https://github.com/meetalva/alva",
-      "description": "Create living prototypes with code components.",
-      "topics": [
-        "components",
-        "design",
-        "design-system",
-        "react"
-      ],
-      "stargazers_count": 3703,
-      "pushed_at": "2022-06-24T23:01:00Z",
-      "added_to_queue": "2026-04-08T22:38:02.191Z"
-    },
-    {
-      "name": "kibo",
-      "html_url": "https://github.com/shadcnblocks/kibo",
-      "description": "A custom registry of composable, accessible and extensible components designed for use with shadcn/ui. Free and open source, forever.",
-      "topics": [
-        "accessible",
-        "components",
-        "composable",
-        "react",
-        "shadcn-ui",
-        "typescript",
-        "ui"
-      ],
-      "stargazers_count": 3702,
-      "pushed_at": "2026-03-17T21:07:05Z",
-      "added_to_queue": "2026-04-08T22:38:02.191Z"
-    },
-    {
-      "name": "reactor",
-      "html_url": "https://github.com/reactor/reactor",
-      "description": "Reactor Bill Of Materials (tracking reactor-core, reactor-netty and more)",
-      "topics": [],
-      "stargazers_count": 3692,
-      "pushed_at": "2026-03-24T08:26:33Z",
-      "added_to_queue": "2026-04-08T22:38:02.191Z"
-    },
-    {
-      "name": "react-native-track-player",
-      "html_url": "https://github.com/doublesymmetry/react-native-track-player",
-      "description": "The best audio player ever built for React Native. Built on the New Architecture — Android Auto, caching, preloading, background playback, and more.",
-      "topics": [
-        "android",
-        "audio",
-        "audio-library",
-        "audio-player",
-        "ios",
-        "media-control",
-        "music-library",
-        "music-player",
-        "react-native",
-        "windows"
-      ],
-      "stargazers_count": 3689,
-      "pushed_at": "2026-04-02T05:48:03Z",
-      "added_to_queue": "2026-04-08T22:38:02.191Z"
-    },
-    {
-      "name": "create-react-app-typescript",
-      "html_url": "https://github.com/wmonk/create-react-app-typescript",
-      "description": "DEPRECATED: Create React apps using typescript with no build configuration.",
-      "topics": [
-        "create-react-app",
-        "frontend",
-        "react",
-        "typescript",
-        "webpack"
-      ],
-      "stargazers_count": 3685,
-      "pushed_at": "2019-08-21T21:31:39Z",
-      "added_to_queue": "2026-04-08T22:38:02.191Z"
-    },
-    {
-      "name": "cult-ui",
-      "html_url": "https://github.com/nolly-studio/cult-ui",
-      "description": "Components crafted for Design Engineers. Styled using Tailwind CSS, fully compatible with Shadcn, and easy to integrate—just copy and paste. MIT 🤌",
-      "topics": [
-        "components",
-        "design-engineering",
-        "framer-motion",
-        "nextjs",
-        "react",
-        "shadcn-ui",
-        "tailwindcss",
-        "typescript"
-      ],
-      "stargazers_count": 3680,
-      "pushed_at": "2026-04-06T22:27:37Z",
-      "added_to_queue": "2026-04-08T22:38:02.191Z"
-    },
-    {
-      "name": "varharrie.github.io",
-      "html_url": "https://github.com/varHarrie/varharrie.github.io",
-      "description": ":blue_book: Personal blog site based on github issues.",
+      "name": "DjangoBlog",
+      "html_url": "https://github.com/liangliangyy/DjangoBlog",
+      "description": "🍺基于Django的博客系统",
       "topics": [
         "blog",
-        "issues",
-        "react"
+        "django",
+        "django-blog",
+        "python"
       ],
-      "stargazers_count": 3676,
-      "pushed_at": "2025-12-29T01:06:31Z",
-      "added_to_queue": "2026-04-08T22:38:02.191Z"
+      "stargazers_count": 7343,
+      "pushed_at": "2026-04-09T10:27:23Z",
+      "added_to_queue": "2026-04-10T01:12:03.777Z"
     },
     {
-      "name": "akita",
-      "html_url": "https://github.com/salesforce/akita",
-      "description": "🚀 State Management Tailored-Made for JS Applications",
+      "name": "mcstatus",
+      "html_url": "https://github.com/py-mine/mcstatus",
+      "description": "A Python library for checking the status of Minecraft servers",
       "topics": [
-        "angular",
-        "javascript",
-        "oop",
-        "react",
-        "redux",
-        "rxjs",
-        "state-management",
-        "store",
-        "typescript",
-        "vue"
+        "minecraft",
+        "python"
       ],
-      "stargazers_count": 3674,
-      "pushed_at": "2025-05-01T17:28:19Z",
-      "added_to_queue": "2026-04-08T22:38:02.191Z"
+      "stargazers_count": 587,
+      "pushed_at": "2026-04-09T14:34:21Z",
+      "added_to_queue": "2026-04-10T01:12:03.777Z"
     },
     {
-      "name": "react-native-progress",
-      "html_url": "https://github.com/oblador/react-native-progress",
-      "description": "Progress indicators and spinners for React Native",
-      "topics": [],
-      "stargazers_count": 3670,
-      "pushed_at": "2024-02-05T10:46:07Z",
-      "added_to_queue": "2026-04-08T22:38:02.191Z"
-    },
-    {
-      "name": "glamor",
-      "html_url": "https://github.com/threepointone/glamor",
-      "description": "inline css for react et al",
-      "topics": [],
-      "stargazers_count": 3671,
-      "pushed_at": "2023-12-21T09:00:30Z",
-      "added_to_queue": "2026-04-08T22:38:02.191Z"
-    },
-    {
-      "name": "gqless",
-      "html_url": "https://github.com/samdenty/gqless",
-      "description": "a GraphQL client without queries",
+      "name": "qpsolvers",
+      "html_url": "https://github.com/qpsolvers/qpsolvers",
+      "description": "Quadratic programming solvers in Python with a unified API",
       "topics": [
-        "gqless",
-        "graphql",
-        "react",
-        "suspense",
-        "typescript"
+        "numerical-optimization",
+        "optimization",
+        "python",
+        "quadratic-programming",
+        "solver"
       ],
-      "stargazers_count": 3662,
-      "pushed_at": "2022-02-16T17:50:54Z",
-      "added_to_queue": "2026-04-08T22:38:02.191Z"
+      "stargazers_count": 738,
+      "pushed_at": "2026-04-09T10:29:17Z",
+      "added_to_queue": "2026-04-10T01:12:03.777Z"
     },
     {
-      "name": "react-json-view",
-      "html_url": "https://github.com/mac-s-g/react-json-view",
-      "description": "JSON viewer for react",
+      "name": "gdbgui",
+      "html_url": "https://github.com/cs01/gdbgui",
+      "description": "Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.",
       "topics": [
-        "json",
-        "json-inspector",
-        "json-tree",
-        "json-viewer",
-        "json-visualization",
-        "react"
-      ],
-      "stargazers_count": 3661,
-      "pushed_at": "2026-02-18T00:49:30Z",
-      "added_to_queue": "2026-04-08T22:38:02.191Z"
-    },
-    {
-      "name": "react-firebase-hooks",
-      "html_url": "https://github.com/CSFrequency/react-firebase-hooks",
-      "description": "React Hooks for Firebase.",
-      "topics": [
-        "firebase",
-        "firebase-auth",
-        "firebase-authentication",
-        "firebase-cloud-firestore",
-        "firebase-cloud-storage",
-        "firebase-database",
-        "firebase-firestore",
-        "firebase-realtime-database",
-        "firebase-storage",
-        "javascript",
-        "react",
-        "react-firebase-hooks",
-        "react-hooks",
-        "react-native",
-        "typescript"
-      ],
-      "stargazers_count": 3639,
-      "pushed_at": "2024-04-22T13:31:16Z",
-      "added_to_queue": "2026-04-08T22:38:02.191Z"
-    },
-    {
-      "name": "hooks",
-      "html_url": "https://github.com/react-native-community/hooks",
-      "description": "React Native APIs turned into React Hooks for use in functional React components",
-      "topics": [],
-      "stargazers_count": 3630,
-      "pushed_at": "2026-04-07T20:45:23Z",
-      "added_to_queue": "2026-04-08T22:39:01.331Z"
-    },
-    {
-      "name": "react-primer-draft",
-      "html_url": "https://github.com/mikechau/react-primer-draft",
-      "description": "A primer for building web applications with React.",
-      "topics": [],
-      "stargazers_count": 3628,
-      "pushed_at": "2016-10-27T19:52:14Z",
-      "added_to_queue": "2026-04-08T22:39:01.331Z"
-    },
-    {
-      "name": "glamorous",
-      "html_url": "https://github.com/paypal/glamorous",
-      "description": "DEPRECATED: 💄 Maintainable CSS with React",
-      "topics": [
-        "css-in-js",
-        "glamor",
-        "glamorous",
-        "react",
-        "styled-components"
-      ],
-      "stargazers_count": 3623,
-      "pushed_at": "2018-12-06T19:58:04Z",
-      "added_to_queue": "2026-04-08T22:39:01.331Z"
-    },
-    {
-      "name": "mailing",
-      "html_url": "https://github.com/sofn-xyz/mailing",
-      "description": "Build, test, send emails with React",
-      "topics": [],
-      "stargazers_count": 3608,
-      "pushed_at": "2024-05-27T09:36:53Z",
-      "added_to_queue": "2026-04-08T22:39:01.331Z"
-    },
-    {
-      "name": "mozaik",
-      "html_url": "https://github.com/plouc/mozaik",
-      "description": "Mozaïk is a tool based on nodejs / react / redux / nivo / d3 to easily craft beautiful dashboards",
-      "topics": [
-        "d3",
-        "dashboard",
-        "dataviz",
-        "metrics",
-        "react"
-      ],
-      "stargazers_count": 3605,
-      "pushed_at": "2023-01-12T09:57:56Z",
-      "added_to_queue": "2026-04-08T22:39:01.331Z"
-    },
-    {
-      "name": "goxygen",
-      "html_url": "https://github.com/Shpota/goxygen",
-      "description": "Generate a modern Web project with Go and Angular, React, or Vue in seconds 🎲",
-      "topics": [
-        "angular",
-        "go",
+        "browser",
+        "c",
+        "c-plus-plus",
+        "debugger",
+        "debugger-visualizer",
+        "frontend",
+        "gdb",
+        "gdb-frontend",
+        "gdbgui",
+        "gnu-debugger",
         "golang",
-        "javascipt",
-        "mongodb",
-        "mysql",
-        "nodejs",
-        "postgresql",
-        "react",
-        "typescript",
-        "vue"
+        "gui",
+        "python",
+        "reactjs",
+        "rust",
+        "websockets"
       ],
-      "stargazers_count": 3595,
-      "pushed_at": "2024-12-18T21:02:02Z",
-      "added_to_queue": "2026-04-08T22:39:01.331Z"
+      "stargazers_count": 10332,
+      "pushed_at": "2025-06-29T22:40:49Z",
+      "added_to_queue": "2026-04-10T01:13:20.223Z"
     },
     {
-      "name": "complete-intro-to-react-v5",
-      "html_url": "https://github.com/btholt/complete-intro-to-react-v5",
-      "description": "The Complete Intro to React, the fifth version",
+      "name": "altair",
+      "html_url": "https://github.com/vega/altair",
+      "description": "Declarative visualization library for Python",
       "topics": [],
-      "stargazers_count": 3592,
-      "pushed_at": "2023-03-02T18:12:46Z",
-      "added_to_queue": "2026-04-08T22:39:01.331Z"
+      "stargazers_count": 10322,
+      "pushed_at": "2026-04-08T22:37:21Z",
+      "added_to_queue": "2026-04-10T01:13:20.223Z"
     },
     {
-      "name": "fortune-sheet",
-      "html_url": "https://github.com/ruilisi/fortune-sheet",
-      "description": "A drop-in javascript spreadsheet library that provides rich features like Excel and Google Sheets",
+      "name": "django-allauth",
+      "html_url": "https://github.com/pennersr/django-allauth",
+      "description": "Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication. 🔁 Mirror of https://codeberg.org/allauth/django-allauth/",
       "topics": [
-        "collaborative",
-        "datagrid",
-        "excel",
-        "javascript",
-        "react",
-        "spreadsheet",
-        "typescript",
-        "xlsx"
-      ],
-      "stargazers_count": 3578,
-      "pushed_at": "2025-12-15T13:04:23Z",
-      "added_to_queue": "2026-04-08T22:39:01.331Z"
-    },
-    {
-      "name": "atropos",
-      "html_url": "https://github.com/nolimits4web/atropos",
-      "description": "Stunning touch-friendly 3D parallax hover effects",
-      "topics": [
-        "cards",
-        "effect",
-        "gallery",
-        "hover",
-        "javascript",
-        "parallax",
-        "portfolio",
-        "react",
-        "showcase",
-        "vue"
-      ],
-      "stargazers_count": 3577,
-      "pushed_at": "2025-08-13T22:35:35Z",
-      "added_to_queue": "2026-04-08T22:39:01.331Z"
-    },
-    {
-      "name": "react-arborist",
-      "html_url": "https://github.com/brimdata/react-arborist",
-      "description": "The complete tree view component for React",
-      "topics": [
-        "arborist",
-        "react",
-        "tree",
-        "treeview",
-        "treeview-component"
-      ],
-      "stargazers_count": 3574,
-      "pushed_at": "2025-02-13T17:52:33Z",
-      "added_to_queue": "2026-04-08T22:39:01.331Z"
-    },
-    {
-      "name": "figma-html",
-      "html_url": "https://github.com/BuilderIO/figma-html",
-      "description": "Convert any website to editable Figma designs",
-      "topics": [
-        "angular",
-        "chrome-extension",
-        "design-systems",
-        "design-to-code",
-        "design-tools",
-        "figma",
-        "figma-plugin",
-        "figma-plugins",
-        "html",
-        "jsx-lite",
-        "no-code",
-        "react",
-        "storybook",
-        "svelte",
-        "typescript",
-        "vue"
-      ],
-      "stargazers_count": 3568,
-      "pushed_at": "2025-08-19T19:28:22Z",
-      "added_to_queue": "2026-04-08T22:39:01.331Z"
-    },
-    {
-      "name": "floatui",
-      "html_url": "https://github.com/MarsX-dev/floatui",
-      "description": "Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.",
-      "topics": [
-        "design-systems",
-        "nextjs",
-        "react",
-        "react-components",
-        "tailwind-template",
-        "tailwindcss",
-        "tailwindui",
-        "ui-components",
-        "vue",
-        "vue-components"
-      ],
-      "stargazers_count": 3567,
-      "pushed_at": "2025-03-23T13:28:57Z",
-      "added_to_queue": "2026-04-08T22:39:01.331Z"
-    },
-    {
-      "name": "gantt-schedule-timeline-calendar",
-      "html_url": "https://github.com/neuronetio/gantt-schedule-timeline-calendar",
-      "description": "Gantt Gantt Gantt Timeline Schedule Calendar [ javascript gantt, js gantt, projects gantt, timeline, scheduler, gantt timeline, reservation timeline, react gantt, angular gantt, vue gantt, svelte gantt, booking manager ]",
-      "topics": [
-        "angular-gantt",
-        "angular-scheduler",
-        "angular-timeline",
-        "booking",
-        "calendar",
-        "gantt",
-        "gantt-timeline",
-        "javascript-gantt",
-        "js-gantt",
-        "js-scheduler",
-        "js-timeline",
-        "react-gantt",
-        "react-scheduler",
-        "react-timeline",
-        "reservation",
-        "schedule",
-        "scheduler",
-        "timeline",
-        "timeline-editor",
-        "vue-gantt"
-      ],
-      "stargazers_count": 3565,
-      "pushed_at": "2026-02-12T12:06:21Z",
-      "added_to_queue": "2026-04-08T22:39:01.331Z"
-    },
-    {
-      "name": "pagedraw",
-      "html_url": "https://github.com/Pagedraw/pagedraw",
-      "description": "a UI builder for React web apps",
-      "topics": [],
-      "stargazers_count": 3562,
-      "pushed_at": "2023-01-12T01:49:13Z",
-      "added_to_queue": "2026-04-08T22:39:01.331Z"
-    },
-    {
-      "name": "LimeSurvey",
-      "html_url": "https://github.com/LimeSurvey/LimeSurvey",
-      "description": "🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create online surveys and forms with unmatched flexibility.",
-      "topics": [
-        "html5",
-        "javascript",
-        "limesurvey",
-        "mssql",
-        "mysql",
-        "php",
-        "postgres",
-        "react",
-        "responsive-design",
-        "survey"
-      ],
-      "stargazers_count": 3560,
-      "pushed_at": "2026-04-08T22:30:19Z",
-      "added_to_queue": "2026-04-08T22:39:01.331Z"
-    },
-    {
-      "name": "tailchat",
-      "html_url": "https://github.com/msgbyte/tailchat",
-      "description": "Next generation noIM application in your own workspace, not only another Slack/Discord/Rocket.chat",
-      "topics": [
-        "bot",
-        "discord",
-        "im",
-        "noim",
-        "openapi",
-        "pluginify",
-        "react",
-        "slack",
-        "tailchat",
-        "typescript"
-      ],
-      "stargazers_count": 3560,
-      "pushed_at": "2025-04-12T08:29:03Z",
-      "added_to_queue": "2026-04-08T22:39:01.331Z"
-    },
-    {
-      "name": "Advanced-React",
-      "html_url": "https://github.com/wesbos/Advanced-React",
-      "description": "Starter Files and Solutions for Full Stack Advanced React and GraphQL ",
-      "topics": [
-        "fits",
-        "javascript",
-        "react",
-        "sick",
-        "wesbos"
-      ],
-      "stargazers_count": 3558,
-      "pushed_at": "2023-12-03T18:33:06Z",
-      "added_to_queue": "2026-04-08T22:39:01.331Z"
-    },
-    {
-      "name": "resumake.io",
-      "html_url": "https://github.com/saadq/resumake.io",
-      "description": "📝 A website for automatically generating elegant LaTeX resumes.",
-      "topics": [
-        "generator",
-        "latex",
-        "nodejs",
-        "pdf",
-        "pdf-generation",
-        "pdf-generator",
-        "pdflatex",
-        "react",
-        "resume"
-      ],
-      "stargazers_count": 3556,
-      "pushed_at": "2024-06-19T14:03:03Z",
-      "added_to_queue": "2026-04-08T22:39:01.331Z"
-    },
-    {
-      "name": "docxtemplater",
-      "html_url": "https://github.com/open-xml-templating/docxtemplater",
-      "description": "Generate docx, pptx, and xlsx from templates (Word, Powerpoint and Excel documents), from Node.js or the browser. Demo: https://www.docxtemplater.com/demo. #docx #office #generator #templating #report #json #generate #generation #template #create #pptx #docx #xlsx #react #vuejs #angularjs #browser #typescript #image #html #table #chart",
-      "topics": [
-        "docx",
-        "docx-generation",
-        "docx-generator",
-        "docx-template",
-        "excel",
-        "javascript",
-        "microsoft",
-        "office",
-        "powerpoint",
-        "pptx",
-        "template",
-        "word",
-        "xlsx"
-      ],
-      "stargazers_count": 3544,
-      "pushed_at": "2026-03-27T13:34:41Z",
-      "added_to_queue": "2026-04-08T22:39:01.331Z"
-    },
-    {
-      "name": "react-native-typography",
-      "html_url": "https://github.com/hectahertz/react-native-typography",
-      "description": "Pixel–perfect, native–looking typographic styles for React Native ✒️",
-      "topics": [
-        "android",
-        "ios",
-        "react",
-        "react-native",
-        "typography",
-        "typography-themes"
-      ],
-      "stargazers_count": 3542,
-      "pushed_at": "2025-01-12T18:46:25Z",
-      "added_to_queue": "2026-04-08T22:39:01.331Z"
-    },
-    {
-      "name": "lbry-desktop",
-      "html_url": "https://github.com/lbryio/lbry-desktop",
-      "description": "A browser and wallet for LBRY, the decentralized, user-controlled content marketplace.",
-      "topics": [
-        "blockchain",
-        "cool",
-        "electron",
-        "javascript",
-        "lbry",
-        "react",
-        "translation",
-        "ui"
-      ],
-      "stargazers_count": 3527,
-      "pushed_at": "2024-08-19T09:27:29Z",
-      "added_to_queue": "2026-04-08T22:39:01.331Z"
-    },
-    {
-      "name": "animate-ui",
-      "html_url": "https://github.com/imskyleen/animate-ui",
-      "description": "Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.",
-      "topics": [
-        "components",
-        "framer-motion",
-        "motion",
-        "nextjs",
-        "radix",
-        "react",
-        "shadcn-ui",
-        "tailwindcss",
-        "typescript"
-      ],
-      "stargazers_count": 3526,
-      "pushed_at": "2025-12-31T12:51:05Z",
-      "added_to_queue": "2026-04-08T22:39:01.331Z"
-    },
-    {
-      "name": "google-signin",
-      "html_url": "https://github.com/react-native-google-signin/google-signin",
-      "description": "Google Sign-in for your React Native applications",
-      "topics": [
-        "googleauth",
-        "googlesignin",
-        "hacktoberfest",
+        "accounts",
+        "authentication",
+        "django",
+        "login",
         "oauth2",
-        "react-native"
+        "openid-connect",
+        "passkeys",
+        "python",
+        "registration",
+        "saml",
+        "signup",
+        "social-login",
+        "two-factor-authentication",
+        "webauthn"
       ],
-      "stargazers_count": 3523,
-      "pushed_at": "2026-04-02T07:11:36Z",
-      "added_to_queue": "2026-04-08T22:39:01.331Z"
+      "stargazers_count": 10315,
+      "pushed_at": "2026-04-02T09:38:27Z",
+      "added_to_queue": "2026-04-10T01:13:20.223Z"
     },
     {
-      "name": "virtua",
-      "html_url": "https://github.com/inokawa/virtua",
-      "description": "A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid and Svelte.",
+      "name": "reference",
+      "html_url": "https://github.com/Fechin/reference",
+      "description": "⭕ Share quick reference cheat sheet for developers.",
       "topics": [
-        "headlessui",
-        "infinite-scroll",
-        "performance",
-        "react",
-        "react-component",
-        "scrolling",
-        "solid",
-        "svelte",
-        "tabular-data",
-        "virtual-list",
-        "virtual-scroll",
-        "virtualization",
-        "virtualized",
-        "vue",
-        "windowing"
+        "awk",
+        "bash",
+        "chatgpt",
+        "cheatsheet",
+        "cheatsheets",
+        "css",
+        "golang",
+        "grep",
+        "markdown",
+        "python",
+        "reference",
+        "sed",
+        "snippets",
+        "vim"
       ],
-      "stargazers_count": 3521,
-      "pushed_at": "2026-04-08T20:11:24Z",
-      "added_to_queue": "2026-04-08T22:39:01.331Z"
+      "stargazers_count": 10309,
+      "pushed_at": "2026-04-03T10:39:28Z",
+      "added_to_queue": "2026-04-10T01:13:20.223Z"
     },
     {
-      "name": "designable",
-      "html_url": "https://github.com/alibaba/designable",
-      "description": "🧩 Make everything designable 🧩 ",
+      "name": "pwndbg",
+      "html_url": "https://github.com/pwndbg/pwndbg",
+      "description": "Exploit Development and Reverse Engineering with GDB & LLDB Made Easy",
       "topics": [
-        "builder",
-        "designable",
-        "designer",
-        "editor",
-        "form",
-        "react"
+        "binary-ninja",
+        "capture-the-flag",
+        "ctf",
+        "debugging",
+        "disassembler",
+        "exploit-development",
+        "gdb",
+        "gef",
+        "hacking-tool",
+        "ida-pro",
+        "linux",
+        "lldb",
+        "low-level",
+        "malware-analysis",
+        "pwnable",
+        "pwndbg",
+        "python",
+        "reverse-engineering"
       ],
-      "stargazers_count": 3516,
-      "pushed_at": "2025-04-07T03:20:40Z",
-      "added_to_queue": "2026-04-08T22:39:01.331Z"
+      "stargazers_count": 10294,
+      "pushed_at": "2026-04-06T04:11:30Z",
+      "added_to_queue": "2026-04-10T01:13:20.223Z"
     },
     {
-      "name": "frontend-hard-mode-interview",
-      "html_url": "https://github.com/coffe1891/frontend-hard-mode-interview",
-      "description": "《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。",
+      "name": "Waking-Up",
+      "html_url": "https://github.com/wolverinn/Waking-Up",
+      "description": "计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试；可用于模拟面试、面试前复习、短期内快速备战面试...",
       "topics": [
-        "design-patterns-js",
-        "fp",
-        "frontend-interview",
-        "interview-preparation",
-        "javascript",
-        "javascript-framework",
-        "jquery",
-        "oop",
-        "react",
-        "react-native",
-        "rxjs",
-        "vscode",
-        "vue"
+        "computer-network",
+        "computer-science",
+        "database",
+        "git",
+        "interview",
+        "interview-questions",
+        "operating-system",
+        "python"
       ],
-      "stargazers_count": 3513,
-      "pushed_at": "2025-08-27T03:04:45Z",
-      "added_to_queue": "2026-04-08T22:39:01.331Z"
+      "stargazers_count": 10260,
+      "pushed_at": "2024-10-29T10:23:02Z",
+      "added_to_queue": "2026-04-10T01:13:20.223Z"
     },
     {
-      "name": "pigeon-maps",
-      "html_url": "https://github.com/mariusandra/pigeon-maps",
-      "description": "ReactJS Maps without external dependencies",
+      "name": "Tkinter-Designer",
+      "html_url": "https://github.com/ParthJadhav/Tkinter-Designer",
+      "description": "An easy and fast way to create a Python GUI 🐍",
       "topics": [
+        "automatic",
+        "collaborate",
+        "drag-and-drop",
+        "easy",
+        "easy-to-use",
+        "fast",
+        "figma",
+        "gui",
+        "gui-application",
         "hacktoberfest",
-        "inferno",
-        "inferno-component",
-        "map",
-        "pigeon",
-        "pigeon-maps",
-        "react",
-        "react-component"
+        "learn",
+        "python",
+        "python-script",
+        "python3",
+        "tkinter",
+        "tkinter-designer",
+        "tkinter-graphic-interface",
+        "tkinter-gui",
+        "tkinter-python",
+        "tkinter-widgets"
       ],
-      "stargazers_count": 3512,
-      "pushed_at": "2025-06-04T19:48:47Z",
-      "added_to_queue": "2026-04-08T22:39:01.331Z"
+      "stargazers_count": 10223,
+      "pushed_at": "2026-03-13T14:19:41Z",
+      "added_to_queue": "2026-04-10T01:13:20.223Z"
     },
     {
-      "name": "react-colorful",
-      "html_url": "https://github.com/omgovich/react-colorful",
-      "description": "🎨 A tiny (2,8 KB) color picker component for React and Preact apps",
+      "name": "pip",
+      "html_url": "https://github.com/pypa/pip",
+      "description": "The Python package installer",
       "topics": [
-        "a11y",
-        "color",
-        "color-picker",
-        "hacktoberfest",
-        "hex",
-        "hooks",
-        "picker",
-        "preact",
-        "react",
-        "react-component",
-        "tiny",
-        "typescript-support",
-        "zero-dependency"
+        "packaging",
+        "pip",
+        "python"
       ],
-      "stargazers_count": 3506,
-      "pushed_at": "2024-07-13T12:24:28Z",
-      "added_to_queue": "2026-04-08T22:39:01.331Z"
+      "stargazers_count": 10166,
+      "pushed_at": "2026-04-08T17:57:49Z",
+      "added_to_queue": "2026-04-10T01:13:20.223Z"
     },
     {
-      "name": "react-strict-dom",
-      "html_url": "https://github.com/facebook/react-strict-dom",
-      "description": "React Strict DOM (RSD) standardizes the development of styled React components for web and native.",
-      "topics": [],
-      "stargazers_count": 3499,
-      "pushed_at": "2026-04-01T20:44:04Z",
-      "added_to_queue": "2026-04-08T22:39:01.331Z"
-    },
-    {
-      "name": "portfolio_website",
-      "html_url": "https://github.com/adrianhajdin/portfolio_website",
-      "description": "Tutorial created by Enyel Sequeira, taught by JavaScript Mastery",
+      "name": "icecream",
+      "html_url": "https://github.com/gruns/icecream",
+      "description": "🍦 Never use print() to debug again.",
       "topics": [
+        "debug",
+        "debugging",
+        "debugging-tool",
+        "inspects",
+        "library",
+        "print",
+        "python",
+        "python3"
+      ],
+      "stargazers_count": 10031,
+      "pushed_at": "2026-04-03T17:54:33Z",
+      "added_to_queue": "2026-04-10T01:13:20.223Z"
+    },
+    {
+      "name": "healthchecks",
+      "html_url": "https://github.com/healthchecks/healthchecks",
+      "description": "Open-source cron job and background task monitoring service, written in Python & Django",
+      "topics": [
+        "cron",
+        "cron-jobs",
+        "devops",
+        "django",
+        "monitoring",
+        "ops"
+      ],
+      "stargazers_count": 9963,
+      "pushed_at": "2026-04-09T05:00:18Z",
+      "added_to_queue": "2026-04-10T01:13:20.223Z"
+    },
+    {
+      "name": "frappe",
+      "html_url": "https://github.com/frappe/frappe",
+      "description": "Low code web framework for real world applications, in Python and Javascript",
+      "topics": [
+        "cms",
+        "email",
+        "erpnext",
+        "frappe",
+        "full-stack",
         "javascript",
-        "portfolio",
-        "portfolio-website",
-        "react",
-        "reactjs"
+        "low-code",
+        "mariadb",
+        "multitenant",
+        "postgres",
+        "python",
+        "rest-api",
+        "security",
+        "socket-io",
+        "web-framework",
+        "webhooks"
       ],
-      "stargazers_count": 3497,
-      "pushed_at": "2024-07-18T14:48:30Z",
-      "added_to_queue": "2026-04-08T22:39:01.331Z"
+      "stargazers_count": 9917,
+      "pushed_at": "2026-04-09T17:19:55Z",
+      "added_to_queue": "2026-04-10T01:13:20.223Z"
     },
     {
-      "name": "advanced-react-patterns",
-      "html_url": "https://github.com/epicweb-dev/advanced-react-patterns",
-      "description": "This is the latest advanced react patterns workshop",
+      "name": "pypdf",
+      "html_url": "https://github.com/py-pdf/pypdf",
+      "description": "A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files",
       "topics": [
-        "epicreact-dev",
-        "epicweb-dev",
-        "kcd-edu",
-        "react",
-        "react-components",
-        "react-patterns",
-        "workshop"
+        "help-wanted",
+        "pdf",
+        "pdf-documents",
+        "pdf-manipulation",
+        "pdf-parser",
+        "pdf-parsing",
+        "pypdf2",
+        "python"
       ],
-      "stargazers_count": 3495,
-      "pushed_at": "2026-04-07T18:40:40Z",
-      "added_to_queue": "2026-04-08T22:39:01.331Z"
+      "stargazers_count": 9908,
+      "pushed_at": "2026-04-09T06:56:14Z",
+      "added_to_queue": "2026-04-10T01:13:20.223Z"
     },
     {
-      "name": "material-table",
-      "html_url": "https://github.com/mbrn/material-table",
-      "description": "Datatable for React based on material-ui's table with additional features",
-      "topics": [
-        "datagrid",
-        "datatable",
-        "material",
-        "material-ui",
-        "react",
-        "table"
-      ],
-      "stargazers_count": 3493,
-      "pushed_at": "2026-03-17T17:39:07Z",
-      "added_to_queue": "2026-04-08T22:39:01.331Z"
-    },
-    {
-      "name": "react-native-keyboard-controller",
-      "html_url": "https://github.com/kirillzyusko/react-native-keyboard-controller",
-      "description": "⌨️ Keyboard manager which works in identical way on both iOS and Android",
-      "topics": [
-        "android",
-        "animation",
-        "avoiding-view",
-        "chat",
-        "extend-keyboard",
-        "focused-input",
-        "interactive",
-        "ios",
-        "keyboard",
-        "keyboard-background-view",
-        "keyboard-toolbar",
-        "over-keyboard-view",
-        "react-native"
-      ],
-      "stargazers_count": 3479,
-      "pushed_at": "2026-04-07T13:38:29Z",
-      "added_to_queue": "2026-04-08T22:39:01.331Z"
-    },
-    {
-      "name": "autoform",
-      "html_url": "https://github.com/vantezzen/autoform",
-      "description": "🌟 Automatically render forms for your existing data schema",
-      "topics": [
-        "form-validation",
-        "react",
-        "react-component",
-        "shadcn-ui"
-      ],
-      "stargazers_count": 3474,
-      "pushed_at": "2025-08-15T09:20:44Z",
-      "added_to_queue": "2026-04-08T22:39:01.331Z"
-    },
-    {
-      "name": "felony",
-      "html_url": "https://github.com/henryboldi/felony",
-      "description": "🔑🔥📈 Next Level PGP",
-      "topics": [
-        "electron",
-        "encrypted-messages",
-        "encryption",
-        "pgp",
-        "react"
-      ],
-      "stargazers_count": 3468,
-      "pushed_at": "2019-03-27T02:13:25Z",
-      "added_to_queue": "2026-04-08T22:39:01.331Z"
-    },
-    {
-      "name": "player",
-      "html_url": "https://github.com/vidstack/player",
-      "description": "UI components and hooks for building video/audio players on the web. Robust, customizable, and accessible. Modern alternative to JW Player and Video.js.",
-      "topics": [
-        "accessibility",
-        "analytics",
-        "audio",
-        "hls",
-        "html",
-        "javascript",
-        "media",
-        "player",
-        "react",
-        "solid-js",
-        "svelte",
-        "typescript",
-        "ui",
-        "video",
-        "vimeo",
-        "vue",
-        "web-components",
-        "youtube"
-      ],
-      "stargazers_count": 3466,
-      "pushed_at": "2026-04-05T06:21:29Z",
-      "added_to_queue": "2026-04-08T22:39:01.331Z"
-    },
-    {
-      "name": "awesome-reactnative-ui",
-      "html_url": "https://github.com/madhavanmalolan/awesome-reactnative-ui",
-      "description": "Awesome React Native UI components updated weekly",
-      "topics": [],
-      "stargazers_count": 3463,
-      "pushed_at": "2023-08-28T10:35:44Z",
-      "added_to_queue": "2026-04-08T22:39:01.331Z"
-    },
-    {
-      "name": "playground-macos",
-      "html_url": "https://github.com/Renovamen/playground-macos",
-      "description": "My portfolio website simulating macOS's GUI, developed with React and UnoCSS.",
-      "topics": [
-        "portfolio",
-        "react",
-        "tailwindcss",
-        "typescript",
-        "vite",
-        "zustand"
-      ],
-      "stargazers_count": 3462,
-      "pushed_at": "2024-05-02T05:49:01Z",
-      "added_to_queue": "2026-04-08T22:39:01.331Z"
-    },
-    {
-      "name": "react-proto",
-      "html_url": "https://github.com/React-Proto/react-proto",
-      "description": ":art: React application prototyping tool for developers and designers :building_construction:",
-      "topics": [
-        "architecture",
-        "design-tools",
-        "desktop-application",
-        "developer-tools",
-        "electron",
-        "front-end-development",
-        "javascript",
-        "konva",
-        "konvajs",
-        "proto",
-        "prototyping",
-        "react",
-        "react-konva",
-        "redux",
-        "redux-thunk"
-      ],
-      "stargazers_count": 3459,
-      "pushed_at": "2022-12-08T22:19:06Z",
-      "added_to_queue": "2026-04-08T22:39:01.331Z"
-    },
-    {
-      "name": "awesome-styled-components",
-      "html_url": "https://github.com/styled-components/awesome-styled-components",
-      "description": "A curated list of awesome styled-components resources 💅 ",
+      "name": "awesomo",
+      "html_url": "https://github.com/lk-geimfari/awesomo",
+      "description": "Cool open source projects. Choose your project and get involved in Open Source development now.",
       "topics": [
         "awesome",
-        "awesome-list",
-        "css",
-        "css-in-js",
-        "react",
-        "styled-components"
-      ],
-      "stargazers_count": 3450,
-      "pushed_at": "2023-05-19T07:07:41Z",
-      "added_to_queue": "2026-04-08T22:39:01.331Z"
-    },
-    {
-      "name": "react-native-keychain",
-      "html_url": "https://github.com/oblador/react-native-keychain",
-      "description": ":key: Keychain Access for React Native",
-      "topics": [
-        "android",
-        "ios",
-        "keychain-access",
-        "react-native"
-      ],
-      "stargazers_count": 3449,
-      "pushed_at": "2026-03-27T19:57:48Z",
-      "added_to_queue": "2026-04-08T22:39:01.331Z"
-    },
-    {
-      "name": "home-automation",
-      "html_url": "https://github.com/deepsyx/home-automation",
-      "description": "Raspberry Pi 3 based home automation with NodeJS and React Native.",
-      "topics": [
-        "home-automation",
-        "javascript",
-        "nodejs",
-        "phone",
-        "raspberry",
-        "react-native"
-      ],
-      "stargazers_count": 3445,
-      "pushed_at": "2017-09-05T12:12:14Z",
-      "added_to_queue": "2026-04-08T22:39:01.331Z"
-    },
-    {
-      "name": "rooks",
-      "html_url": "https://github.com/imbhargav5/rooks",
-      "description": "Over 650k monthly downloads. Collection of awesome react hooks",
-      "topics": [
-        "hook",
-        "hooks",
-        "react",
-        "react-hook",
-        "react-hooks",
-        "reactjs",
-        "rooks",
-        "typescript"
-      ],
-      "stargazers_count": 3439,
-      "pushed_at": "2026-04-08T01:28:08Z",
-      "added_to_queue": "2026-04-08T22:39:01.331Z"
-    },
-    {
-      "name": "react-hotkeys-hook",
-      "html_url": "https://github.com/JohannesKlauss/react-hotkeys-hook",
-      "description": "React hook for using keyboard shortcuts in components.",
-      "topics": [
-        "hook",
-        "hooks",
-        "hotkey",
-        "hotkeys",
-        "javascript",
-        "react",
-        "react-hooks",
-        "typescript"
-      ],
-      "stargazers_count": 3433,
-      "pushed_at": "2026-04-06T22:59:45Z",
-      "added_to_queue": "2026-04-08T22:39:01.331Z"
-    },
-    {
-      "name": "react-coding-challenges",
-      "html_url": "https://github.com/alexgurr/react-coding-challenges",
-      "description": "A series of ReactJS coding challenges with a variety of difficulties. ",
-      "topics": [
-        "app",
-        "candidates",
-        "challenge",
-        "coding-challenges",
-        "exercises",
-        "interview",
-        "interview-practice",
-        "interviews",
-        "javascript",
-        "react",
-        "react-coding-challenges",
-        "reactjs"
-      ],
-      "stargazers_count": 3432,
-      "pushed_at": "2023-09-05T04:09:52Z",
-      "added_to_queue": "2026-04-08T22:39:01.331Z"
-    },
-    {
-      "name": "reading",
-      "html_url": "https://github.com/attentiveness/reading",
-      "description": "iReading App  Write In React-Native",
-      "topics": [
-        "android",
-        "ios",
-        "react-native",
-        "react-navigation",
-        "redux",
-        "redux-saga"
-      ],
-      "stargazers_count": 3411,
-      "pushed_at": "2022-12-06T19:46:32Z",
-      "added_to_queue": "2026-04-08T22:39:01.332Z"
-    },
-    {
-      "name": "dashdot",
-      "html_url": "https://github.com/MauriceNino/dashdot",
-      "description": "A simple, modern server dashboard, primarily used by smaller private servers",
-      "topics": [
-        "dashboard",
-        "docker",
-        "glassmorphism",
-        "monitoring",
-        "nodejs",
-        "react",
-        "server"
-      ],
-      "stargazers_count": 3412,
-      "pushed_at": "2026-04-08T19:40:40Z",
-      "added_to_queue": "2026-04-08T22:39:01.332Z"
-    },
-    {
-      "name": "react-refetch",
-      "html_url": "https://github.com/heroku/react-refetch",
-      "description": "A simple, declarative, and composable way to fetch data for React components",
-      "topics": [
-        "api",
-        "data",
-        "fetch",
-        "react",
-        "rest"
-      ],
-      "stargazers_count": 3409,
-      "pushed_at": "2024-06-16T08:24:35Z",
-      "added_to_queue": "2026-04-08T22:39:01.332Z"
-    },
-    {
-      "name": "moodist",
-      "html_url": "https://github.com/remvze/moodist",
-      "description": "🌲 Ambient sounds for focus and calm.",
-      "topics": [
-        "ambient",
-        "ambient-noise",
-        "ambient-sounds",
-        "astro",
-        "calm",
-        "focus",
-        "javascript",
-        "productivity",
-        "productivity-tools",
-        "react",
-        "selfhostable",
-        "selfhosted",
-        "typescript",
-        "white-noise",
-        "white-noise-generator"
-      ],
-      "stargazers_count": 3408,
-      "pushed_at": "2025-11-25T16:40:03Z",
-      "added_to_queue": "2026-04-08T22:39:01.332Z"
-    },
-    {
-      "name": "kaneo",
-      "html_url": "https://github.com/usekaneo/kaneo",
-      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
-      "topics": [
-        "hacktoberfest",
-        "hono",
-        "issue-management",
-        "issue-tracker",
-        "jira-alternative",
-        "kanban",
-        "linear-alternative",
-        "project-management",
-        "react",
-        "self-hosted",
-        "typescript"
-      ],
-      "stargazers_count": 3399,
-      "pushed_at": "2026-04-07T20:29:16Z",
-      "added_to_queue": "2026-04-08T22:39:01.332Z"
-    },
-    {
-      "name": "portfolio",
-      "html_url": "https://github.com/HamishMW/portfolio",
-      "description": "My personal portfolio website built using React and three js",
-      "topics": [
-        "cyberpunk",
-        "designer",
-        "developer",
-        "framer-motion",
-        "portfolio",
-        "react",
-        "remix",
-        "threejs"
-      ],
-      "stargazers_count": 3392,
-      "pushed_at": "2024-11-16T02:46:21Z",
-      "added_to_queue": "2026-04-08T22:39:01.332Z"
-    },
-    {
-      "name": "mafs",
-      "html_url": "https://github.com/stevenpetryk/mafs",
-      "description": "React components for interactive math",
-      "topics": [
-        "math",
-        "react",
-        "visualization"
-      ],
-      "stargazers_count": 3390,
-      "pushed_at": "2025-03-30T21:48:54Z",
-      "added_to_queue": "2026-04-08T22:39:01.332Z"
-    },
-    {
-      "name": "react-native-ble-plx",
-      "html_url": "https://github.com/dotintent/react-native-ble-plx",
-      "description": "React Native BLE library",
-      "topics": [],
-      "stargazers_count": 3386,
-      "pushed_at": "2026-03-09T20:25:54Z",
-      "added_to_queue": "2026-04-08T22:39:01.332Z"
-    },
-    {
-      "name": "revogrid",
-      "html_url": "https://github.com/revolist/revogrid",
-      "description": "Powerful virtual data table smartsheet with advanced customization. Best features from excel plus incredible  performance 🔋",
-      "topics": [
-        "angular",
-        "angular-datagrid",
-        "data-grid",
-        "excel",
-        "excel-grid",
-        "export",
-        "filter",
-        "grid",
-        "pivot",
-        "react",
-        "react-datagrid",
-        "revo-grid",
-        "sorting",
-        "stenciljs",
-        "svelte",
-        "table",
-        "vuegrid",
-        "vuejs",
-        "vuejs-components",
-        "vuejs-grid"
-      ],
-      "stargazers_count": 3381,
-      "pushed_at": "2026-04-07T12:40:53Z",
-      "added_to_queue": "2026-04-08T22:39:01.332Z"
-    },
-    {
-      "name": "react-split-pane",
-      "html_url": "https://github.com/tomkp/react-split-pane",
-      "description": "React split-pane component",
-      "topics": [
-        "react",
-        "react-component",
-        "split-pane"
-      ],
-      "stargazers_count": 3381,
-      "pushed_at": "2026-04-07T04:25:34Z",
-      "added_to_queue": "2026-04-08T22:39:01.332Z"
-    },
-    {
-      "name": "restyle",
-      "html_url": "https://github.com/Shopify/restyle",
-      "description": "A type-enforced system for building UI components in React Native with TypeScript.",
-      "topics": [],
-      "stargazers_count": 3376,
-      "pushed_at": "2026-02-09T08:19:48Z",
-      "added_to_queue": "2026-04-08T22:39:01.332Z"
-    },
-    {
-      "name": "react-native-reanimated-carousel",
-      "html_url": "https://github.com/dohooo/react-native-reanimated-carousel",
-      "description": "🎠 React Native swiper/carousel component, fully implemented using reanimated v2, support to iOS/Android/Web.  (Swiper/Carousel)",
-      "topics": [
-        "android",
-        "carousel",
-        "hacktoberfest",
-        "infinite-scroll",
-        "ios",
-        "react-native",
-        "react-native-carousel",
-        "react-native-snap",
-        "react-native-swiper",
-        "reanimated",
-        "snap",
-        "swiper",
-        "web"
-      ],
-      "stargazers_count": 3375,
-      "pushed_at": "2026-03-30T08:29:40Z",
-      "added_to_queue": "2026-04-08T22:39:01.332Z"
-    },
-    {
-      "name": "react-native-starter-kit",
-      "html_url": "https://github.com/mcnamee/react-native-starter-kit",
-      "description": ":rocket: A React Native boilerplate app to get you up and running very, very quickly :rocket:",
-      "topics": [
-        "android",
-        "boilerplate",
-        "boilerplate-template",
-        "ios",
-        "js",
-        "react-native"
-      ],
-      "stargazers_count": 3368,
-      "pushed_at": "2023-01-07T04:07:29Z",
-      "added_to_queue": "2026-04-08T22:39:01.332Z"
-    },
-    {
-      "name": "use-debounce",
-      "html_url": "https://github.com/xnimorz/use-debounce",
-      "description": "A debounce hook for react",
-      "topics": [
-        "debounce",
-        "react",
-        "react-hook",
-        "react-hooks",
-        "react-use",
-        "usedebounce"
-      ],
-      "stargazers_count": 3366,
-      "pushed_at": "2026-03-29T22:42:33Z",
-      "added_to_queue": "2026-04-08T22:39:01.332Z"
-    },
-    {
-      "name": "tremor",
-      "html_url": "https://github.com/tremorlabs/tremor",
-      "description": "Copy & Paste React components to build modern web applications. ",
-      "topics": [
-        "components",
-        "dashboard",
-        "radix-ui",
-        "react",
-        "tailwindcss",
-        "typescript",
-        "ui"
-      ],
-      "stargazers_count": 3359,
-      "pushed_at": "2025-10-10T13:08:24Z",
-      "added_to_queue": "2026-04-08T22:39:01.332Z"
-    },
-    {
-      "name": "react-native-testing-library",
-      "html_url": "https://github.com/callstack/react-native-testing-library",
-      "description": "🦉 Simple and complete React Native testing utilities that encourage good testing practices.",
-      "topics": [
-        "jest",
-        "react",
-        "react-native",
-        "testing"
-      ],
-      "stargazers_count": 3358,
-      "pushed_at": "2026-03-30T14:57:19Z",
-      "added_to_queue": "2026-04-08T22:39:01.332Z"
-    },
-    {
-      "name": "flowchart-fun",
-      "html_url": "https://github.com/tone-row/flowchart-fun",
-      "description": "Easily generate flowcharts and diagrams from text ⿻",
-      "topics": [
-        "diagram-generator",
-        "flowchart",
-        "flowchart-editor",
-        "generator",
-        "graphs",
+        "clojure",
+        "dev",
+        "elixir",
+        "emacs-lisp",
+        "erlang",
+        "haskell",
+        "lisp",
+        "list",
+        "lua",
+        "ocaml",
         "open-source",
-        "react"
-      ],
-      "stargazers_count": 3348,
-      "pushed_at": "2026-02-13T02:20:03Z",
-      "added_to_queue": "2026-04-08T22:39:01.332Z"
-    },
-    {
-      "name": "react-transform-boilerplate",
-      "html_url": "https://github.com/gaearon/react-transform-boilerplate",
-      "description": "A new Webpack boilerplate with hot reloading React components, and error handling on module and component level.",
-      "topics": [],
-      "stargazers_count": 3342,
-      "pushed_at": "2020-08-21T15:47:58Z",
-      "added_to_queue": "2026-04-08T22:39:01.332Z"
-    },
-    {
-      "name": "react-native-reanimated-bottom-sheet",
-      "html_url": "https://github.com/osdnk/react-native-reanimated-bottom-sheet",
-      "description": "Highly configurable bottom sheet component made with react-native-reanimated and react-native-gesture-handler",
-      "topics": [],
-      "stargazers_count": 3342,
-      "pushed_at": "2023-01-04T21:42:50Z",
-      "added_to_queue": "2026-04-08T22:39:01.332Z"
-    },
-    {
-      "name": "react-native-notifications",
-      "html_url": "https://github.com/wix/react-native-notifications",
-      "description": "React Native Notifications",
-      "topics": [],
-      "stargazers_count": 3339,
-      "pushed_at": "2026-04-02T10:25:31Z",
-      "added_to_queue": "2026-04-08T22:39:01.332Z"
-    },
-    {
-      "name": "react-web",
-      "html_url": "https://github.com/taofed/react-web",
-      "description": "A framework for building web apps with React Native compatible API.",
-      "topics": [
-        "react",
-        "react-native"
-      ],
-      "stargazers_count": 3339,
-      "pushed_at": "2019-12-10T13:43:22Z",
-      "added_to_queue": "2026-04-08T22:39:01.332Z"
-    },
-    {
-      "name": "react-spinners",
-      "html_url": "https://github.com/davidhu2000/react-spinners",
-      "description": "A collection of loading spinner components for react",
-      "topics": [
-        "component",
-        "loader",
-        "loading",
-        "loading-spinners",
-        "progressbar",
-        "react",
-        "react-component",
-        "react-spinners",
-        "reactjs",
-        "spinners"
-      ],
-      "stargazers_count": 3339,
-      "pushed_at": "2026-04-06T22:38:20Z",
-      "added_to_queue": "2026-04-08T22:39:01.332Z"
-    },
-    {
-      "name": "editor",
-      "html_url": "https://github.com/mdx-editor/editor",
-      "description": "A rich text editor React component for markdown",
-      "topics": [
-        "editor",
-        "lexical",
-        "markdown",
-        "markdown-editor",
-        "mdx",
-        "react",
-        "reactjs",
-        "rich-text-editor"
-      ],
-      "stargazers_count": 3333,
-      "pushed_at": "2026-04-07T07:28:14Z",
-      "added_to_queue": "2026-04-08T22:39:01.332Z"
-    },
-    {
-      "name": "cyclops",
-      "html_url": "https://github.com/cyclops-ui/cyclops",
-      "description": "Developer Friendly Kubernetes 👁️",
-      "topics": [
-        "aks",
-        "cloud",
-        "crd-controller",
-        "deployment",
-        "devops",
-        "eks",
-        "gke",
-        "go",
-        "golang",
-        "hacktoberfest",
-        "helm",
-        "json-schema",
-        "kubernetes",
-        "kubernetes-cluster",
-        "kubernetes-controller",
-        "kubernetes-operator",
-        "platform-engineering",
-        "react",
-        "typescript",
-        "typescript-react"
-      ],
-      "stargazers_count": 3319,
-      "pushed_at": "2026-01-22T09:59:04Z",
-      "added_to_queue": "2026-04-08T22:39:01.332Z"
-    },
-    {
-      "name": "flutter_hooks",
-      "html_url": "https://github.com/rrousselGit/flutter_hooks",
-      "description": "React hooks for Flutter. Hooks are a new kind of object that manages a Widget life-cycles. They are used to increase code sharing between widgets and as a complete replacement for StatefulWidget.",
-      "topics": [
-        "code-reuse",
-        "dart",
-        "flutter",
-        "hacktoberfest",
-        "hook",
-        "widget"
-      ],
-      "stargazers_count": 3314,
-      "pushed_at": "2025-09-09T15:31:18Z",
-      "added_to_queue": "2026-04-08T22:39:01.332Z"
-    },
-    {
-      "name": "react-simple-maps",
-      "html_url": "https://github.com/zcreativelabs/react-simple-maps",
-      "description": "Beautiful React SVG maps with d3-geo and topojson using a declarative api.",
-      "topics": [
-        "d3v4",
-        "mapping",
-        "nodejs",
-        "react",
-        "svg",
-        "visualization"
-      ],
-      "stargazers_count": 3292,
-      "pushed_at": "2024-08-08T15:53:29Z",
-      "added_to_queue": "2026-04-08T22:39:01.332Z"
-    },
-    {
-      "name": "ts-rest",
-      "html_url": "https://github.com/ts-rest/ts-rest",
-      "description": "RPC-like client, contract, and server implementation for a pure REST API",
-      "topics": [
-        "api",
-        "fastify",
-        "nestjs",
-        "nextjs",
-        "openapi",
-        "react",
-        "react-query",
-        "rest",
-        "rpc",
-        "solid",
+        "projects",
+        "python",
+        "ruby",
+        "rust",
+        "scala",
         "typescript"
       ],
-      "stargazers_count": 3292,
-      "pushed_at": "2026-02-06T20:47:21Z",
-      "added_to_queue": "2026-04-08T22:39:01.332Z"
+      "stargazers_count": 9843,
+      "pushed_at": "2024-02-28T01:01:24Z",
+      "added_to_queue": "2026-04-10T01:13:20.223Z"
     },
     {
-      "name": "uilayouts",
-      "html_url": "https://github.com/ui-layouts/uilayouts",
-      "description": "UI Layouts isn’t just a library. It’s your complete front-end universe with components, effects, design tools, and ready-to-use blocks, everything you need to build modern interfaces, faster.",
+      "name": "musicbox",
+      "html_url": "https://github.com/darknessomi/musicbox",
+      "description": "网易云音乐命令行版本",
       "topics": [
-        "accertinity",
-        "accordion-component",
-        "animated-tabs",
-        "codehike",
-        "component-library",
-        "components",
-        "components-react",
-        "drawer",
-        "framer-motion",
-        "image-mousetrail",
-        "modal",
-        "mouse-animation",
-        "mousetrail",
-        "react",
-        "react-animation-components",
-        "shadcn",
-        "shadcnui",
-        "sparkles",
-        "spotlight",
-        "tailwindcss"
+        "linux",
+        "music",
+        "netease-musicbox",
+        "python"
       ],
-      "stargazers_count": 3287,
-      "pushed_at": "2026-03-31T10:03:07Z",
-      "added_to_queue": "2026-04-08T22:39:01.332Z"
+      "stargazers_count": 9811,
+      "pushed_at": "2022-06-28T07:42:25Z",
+      "added_to_queue": "2026-04-10T01:13:20.224Z"
     },
     {
-      "name": "react-native-pager-view",
-      "html_url": "https://github.com/callstack/react-native-pager-view",
-      "description": "React Native wrapper for the Android ViewPager and iOS UIPageViewController.",
+      "name": "falcon",
+      "html_url": "https://github.com/falconry/falcon",
+      "description": "The no-magic web API and microservices framework for Python developers, with a focus on reliability and performance at scale.",
       "topics": [
-        "android",
-        "hacktoberfest",
-        "ios",
-        "react-native"
+        "api",
+        "api-rest",
+        "asgi",
+        "http",
+        "microservices",
+        "python",
+        "rest",
+        "web",
+        "wsgi"
       ],
-      "stargazers_count": 3286,
-      "pushed_at": "2026-04-08T06:49:18Z",
-      "added_to_queue": "2026-04-08T22:39:01.332Z"
+      "stargazers_count": 9802,
+      "pushed_at": "2026-04-07T15:03:19Z",
+      "added_to_queue": "2026-04-10T01:13:20.224Z"
     },
     {
-      "name": "react-tutorial",
-      "html_url": "https://github.com/reactjs/react-tutorial",
-      "description": "Code from the React tutorial.",
+      "name": "KeymouseGo",
+      "html_url": "https://github.com/taojy123/KeymouseGo",
+      "description": "类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入 | automate mouse clicks and keyboard input",
+      "topics": [
+        "automate",
+        "keyboard",
+        "mouse",
+        "python",
+        "simulation"
+      ],
+      "stargazers_count": 9765,
+      "pushed_at": "2026-01-02T04:07:11Z",
+      "added_to_queue": "2026-04-10T01:13:20.224Z"
+    },
+    {
+      "name": "boto3",
+      "html_url": "https://github.com/boto/boto3",
+      "description": "Boto3, an AWS SDK for Python",
+      "topics": [
+        "aws",
+        "aws-sdk",
+        "cloud",
+        "cloud-management",
+        "python"
+      ],
+      "stargazers_count": 9758,
+      "pushed_at": "2026-04-09T19:32:32Z",
+      "added_to_queue": "2026-04-10T01:13:20.224Z"
+    },
+    {
+      "name": "paramiko",
+      "html_url": "https://github.com/paramiko/paramiko",
+      "description": "The leading native Python SSHv2 protocol library.",
       "topics": [],
-      "stargazers_count": 3280,
-      "pushed_at": "2018-06-25T20:58:25Z",
-      "added_to_queue": "2026-04-08T22:39:01.332Z"
+      "stargazers_count": 9721,
+      "pushed_at": "2026-03-29T23:31:57Z",
+      "added_to_queue": "2026-04-10T01:13:20.224Z"
     },
     {
-      "name": "component-party.dev",
-      "html_url": "https://github.com/matschik/component-party.dev",
-      "description": "🎉 Web component JS frameworks overview by their syntax and features",
+      "name": "OneForAll",
+      "html_url": "https://github.com/shmilylty/OneForAll",
+      "description": "OneForAll是一款功能强大的子域收集工具",
       "topics": [
-        "alpine",
-        "angular",
-        "aurelia",
-        "ember",
-        "lit",
-        "qwik",
-        "react",
-        "ripple",
-        "solidjs",
-        "svelte",
-        "vite",
-        "vue"
+        "altname",
+        "bugbounty",
+        "content-security-policy",
+        "crossdomainxml",
+        "information-gathering",
+        "nsec",
+        "oneforall",
+        "osint",
+        "pentest-tool",
+        "python",
+        "recon",
+        "subdomain",
+        "subdomain-bruteforcing",
+        "subdomain-collection",
+        "subdomain-crawler",
+        "subdomain-enumeration",
+        "subdomain-scanner",
+        "subdomain-takeover",
+        "subdomian-find",
+        "zone-transfers"
       ],
-      "stargazers_count": 3279,
-      "pushed_at": "2026-03-28T17:57:26Z",
-      "added_to_queue": "2026-04-08T22:39:01.332Z"
+      "stargazers_count": 9718,
+      "pushed_at": "2025-09-12T08:11:09Z",
+      "added_to_queue": "2026-04-10T01:13:20.224Z"
     },
     {
-      "name": "touchstonejs",
-      "html_url": "https://github.com/touchstonejs/touchstonejs",
-      "description": "Mobile App Framework powered by React",
+      "name": "re2",
+      "html_url": "https://github.com/google/re2",
+      "description": "RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.",
       "topics": [],
-      "stargazers_count": 3275,
-      "pushed_at": "2022-06-17T05:40:28Z",
-      "added_to_queue": "2026-04-08T22:39:01.332Z"
+      "stargazers_count": 9644,
+      "pushed_at": "2026-01-22T23:28:54Z",
+      "added_to_queue": "2026-04-10T01:13:20.224Z"
     },
     {
-      "name": "heroui-native",
-      "html_url": "https://github.com/heroui-inc/heroui-native",
-      "description": "📱Beautiful, fast and modern React Native UI library",
+      "name": "polar",
+      "html_url": "https://github.com/polarsource/polar",
+      "description": "Turn your software into a business.",
       "topics": [
-        "android",
-        "design-system",
-        "expo",
-        "heroui",
-        "ios",
-        "library",
-        "nativewind",
-        "react-native",
-        "ui-components"
+        "digital-products",
+        "fastapi",
+        "merchant-of-record",
+        "nextjs",
+        "payments",
+        "polar",
+        "python",
+        "react",
+        "saas",
+        "subscriptions",
+        "turborepo",
+        "typescript"
       ],
-      "stargazers_count": 3271,
-      "pushed_at": "2026-04-03T10:16:05Z",
-      "added_to_queue": "2026-04-08T22:39:01.332Z"
+      "stargazers_count": 9638,
+      "pushed_at": "2026-04-09T20:17:41Z",
+      "added_to_queue": "2026-04-10T01:13:20.224Z"
     },
     {
-      "name": "guppy",
-      "html_url": "https://github.com/joshwcomeau/guppy",
-      "description": "🐠A friendly application manager and task runner for React.js",
+      "name": "coursera-dl",
+      "html_url": "https://github.com/coursera-dl/coursera-dl",
+      "description": "Script for downloading Coursera.org videos and naming them.",
       "topics": [
+        "archival",
+        "coursera",
+        "coursera-dl",
+        "downloader",
+        "lectures",
+        "python",
+        "storage",
+        "video",
+        "video-downloader"
+      ],
+      "stargazers_count": 9627,
+      "pushed_at": "2024-05-11T21:24:57Z",
+      "added_to_queue": "2026-04-10T01:13:20.224Z"
+    },
+    {
+      "name": "bbot",
+      "html_url": "https://github.com/blacklanternsecurity/bbot",
+      "description": "The recursive internet scanner for hackers. 🧡",
+      "topics": [
+        "asm",
+        "attack-surface-management",
+        "automation",
+        "bugbounty",
+        "cli",
+        "easm",
+        "hacking",
+        "neo4j",
+        "osint",
+        "osint-framework",
+        "pentesting",
+        "python",
+        "recon",
+        "recursion",
+        "scanner",
+        "subdomain-enumeration",
+        "subdomain-scanner",
+        "subdomains",
+        "threat-intelligence",
+        "threatintel"
+      ],
+      "stargazers_count": 9592,
+      "pushed_at": "2026-04-09T18:54:42Z",
+      "added_to_queue": "2026-04-10T01:13:20.224Z"
+    },
+    {
+      "name": "opendrop",
+      "html_url": "https://github.com/seemoo-lab/opendrop",
+      "description": "An open Apple AirDrop implementation written in Python",
+      "topics": [
+        "airdrop",
+        "apple",
+        "awdl",
+        "linux",
+        "macos"
+      ],
+      "stargazers_count": 9581,
+      "pushed_at": "2024-06-11T10:41:13Z",
+      "added_to_queue": "2026-04-10T01:13:20.224Z"
+    },
+    {
+      "name": "weiboSpider",
+      "html_url": "https://github.com/dataabc/weiboSpider",
+      "description": "新浪微博爬虫，用python爬取新浪微博数据",
+      "topics": [
+        "help-wanted",
+        "python",
+        "python3",
+        "weibo",
+        "weibospider"
+      ],
+      "stargazers_count": 9533,
+      "pushed_at": "2026-02-04T13:55:11Z",
+      "added_to_queue": "2026-04-10T01:13:20.224Z"
+    },
+    {
+      "name": "devops-resources",
+      "html_url": "https://github.com/bregman-arie/devops-resources",
+      "description": "DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP",
+      "topics": [
+        "aws",
+        "bash",
+        "checklists",
+        "containers",
+        "devops",
+        "docker",
+        "go",
+        "interview",
+        "jenkins",
+        "linux",
+        "mongo",
+        "python",
+        "questions",
+        "security",
+        "sql"
+      ],
+      "stargazers_count": 9507,
+      "pushed_at": "2024-07-12T09:40:46Z",
+      "added_to_queue": "2026-04-10T01:13:20.224Z"
+    },
+    {
+      "name": "youtube-dl-gui",
+      "html_url": "https://github.com/MrS0m30n3/youtube-dl-gui",
+      "description": "A cross platform front-end GUI of the popular youtube-dl written in wxPython.",
+      "topics": [
+        "cross-platform",
+        "downloader",
         "gui",
-        "react",
-        "reactjs"
+        "linux",
+        "pypi",
+        "python",
+        "video",
+        "video-downloader",
+        "windows",
+        "wxpython",
+        "youtube",
+        "youtube-dl",
+        "youtube-dl-gui",
+        "youtube-dlg"
       ],
-      "stargazers_count": 3256,
-      "pushed_at": "2021-05-27T08:48:57Z",
-      "added_to_queue": "2026-04-08T22:39:01.332Z"
+      "stargazers_count": 9442,
+      "pushed_at": "2022-12-06T17:12:44Z",
+      "added_to_queue": "2026-04-10T01:13:20.224Z"
     },
     {
-      "name": "react-native-app-intro",
-      "html_url": "https://github.com/FuYaoDe/react-native-app-intro",
-      "description": "react-native-app-intro is a react native component implementing a parallax effect welcome page using base on react-native-swiper , similar to the one found in Google's app like Sheet, Drive, Docs...",
+      "name": "fuzzywuzzy",
+      "html_url": "https://github.com/seatgeek/fuzzywuzzy",
+      "description": "Fuzzy String Matching in Python",
+      "topics": [],
+      "stargazers_count": 9260,
+      "pushed_at": "2023-02-24T19:00:26Z",
+      "added_to_queue": "2026-04-10T01:13:20.224Z"
+    },
+    {
+      "name": "DevOps-Guide",
+      "html_url": "https://github.com/Tikam02/DevOps-Guide",
+      "description": " DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.",
       "topics": [
-        "android",
-        "intro",
-        "introduction",
-        "ios",
-        "parallax",
-        "react-native"
+        "ansible",
+        "cheatsheet",
+        "ci-cd",
+        "containers",
+        "devops",
+        "devops-cheatsheets",
+        "docker",
+        "git",
+        "grafana",
+        "hacktoberfest",
+        "hacktoberfest-2020",
+        "hacktoberfest2020",
+        "interview",
+        "jenkins",
+        "kubernetes",
+        "kubernetes-monitoring",
+        "linux",
+        "networking",
+        "python"
       ],
-      "stargazers_count": 3255,
-      "pushed_at": "2021-11-02T02:35:55Z",
-      "added_to_queue": "2026-04-08T22:39:01.332Z"
+      "stargazers_count": 9191,
+      "pushed_at": "2026-03-30T11:23:55Z",
+      "added_to_queue": "2026-04-10T01:13:20.224Z"
     },
     {
-      "name": "goober",
-      "html_url": "https://github.com/cristianbote/goober",
-      "description": "🥜 goober, a less than 1KB 🎉  css-in-js alternative with a familiar API",
+      "name": "sqlglot",
+      "html_url": "https://github.com/tobymao/sqlglot",
+      "description": "Python SQL Parser and Transpiler",
       "topics": [
-        "critical-css",
-        "css",
-        "css-in-js",
-        "dom",
-        "emotion",
-        "goober",
-        "javascript",
-        "preact",
-        "react",
-        "ssr",
-        "styled",
-        "styled-components",
-        "vanilla"
-      ],
-      "stargazers_count": 3256,
-      "pushed_at": "2026-02-01T09:12:17Z",
-      "added_to_queue": "2026-04-08T22:39:01.332Z"
-    },
-    {
-      "name": "react-ideal-image",
-      "html_url": "https://github.com/stereobooster/react-ideal-image",
-      "description": "🖼️ An Almost Ideal React Image Component",
-      "topics": [],
-      "stargazers_count": 3251,
-      "pushed_at": "2023-06-10T07:08:57Z",
-      "added_to_queue": "2026-04-08T22:39:01.332Z"
-    },
-    {
-      "name": "babel-sublime",
-      "html_url": "https://github.com/babel/babel-sublime",
-      "description": "Syntax definitions for ES6 JavaScript with React JSX extensions.",
-      "topics": [],
-      "stargazers_count": 3246,
-      "pushed_at": "2024-04-30T10:01:46Z",
-      "added_to_queue": "2026-04-08T22:39:01.332Z"
-    },
-    {
-      "name": "react-native-dom",
-      "html_url": "https://github.com/vincentriemer/react-native-dom",
-      "description": "An experimental, comprehensive port of React Native to the web.",
-      "topics": [
-        "native",
-        "react",
-        "react-native",
-        "ui-framework",
-        "webworkers"
-      ],
-      "stargazers_count": 3245,
-      "pushed_at": "2022-12-09T00:36:23Z",
-      "added_to_queue": "2026-04-08T22:39:01.332Z"
-    },
-    {
-      "name": "ComputerVision",
-      "html_url": "https://github.com/niconielsen32/ComputerVision",
-      "description": null,
-      "topics": [],
-      "stargazers_count": 1119,
-      "pushed_at": "2024-03-17T22:45:44Z",
-      "added_to_queue": "2026-04-08T22:39:59.351Z"
-    },
-    {
-      "name": "show-facebook-computer-vision-tags",
-      "html_url": "https://github.com/ageitgey/show-facebook-computer-vision-tags",
-      "description": "A very simple Chrome Extension that displays the automated image tags that Facebook has generated for your images",
-      "topics": [],
-      "stargazers_count": 1485,
-      "pushed_at": "2021-11-09T07:11:43Z",
-      "added_to_queue": "2026-04-08T22:39:59.351Z"
-    },
-    {
-      "name": "mcp-toolbox",
-      "html_url": "https://github.com/googleapis/mcp-toolbox",
-      "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
-      "topics": [
-        "agent",
-        "agents",
-        "ai",
         "bigquery",
         "clickhouse",
-        "cockroachdb",
-        "database",
-        "elasticsearch",
-        "firestore",
-        "genai",
-        "llm",
-        "mcp",
-        "mongodb",
+        "databricks",
+        "duckdb",
+        "hive",
         "mysql",
-        "oracle",
-        "postgresql",
-        "redis",
-        "server",
-        "spanner",
-        "tidb"
+        "optimizer",
+        "parser",
+        "postgres",
+        "presto",
+        "python",
+        "redshift",
+        "snowflake",
+        "spark",
+        "sql",
+        "sqlite",
+        "sqlparser",
+        "transpiler",
+        "trino",
+        "tsql"
       ],
-      "stargazers_count": 13999,
-      "pushed_at": "2026-04-08T22:46:57Z",
-      "added_to_queue": "2026-04-08T22:50:15.954Z"
+      "stargazers_count": 9118,
+      "pushed_at": "2026-04-09T19:19:38Z",
+      "added_to_queue": "2026-04-10T01:13:20.224Z"
+    },
+    {
+      "name": "CrackMapExec",
+      "html_url": "https://github.com/byt3bl33d3r/CrackMapExec",
+      "description": "A swiss army knife for pentesting networks",
+      "topics": [
+        "active-directory",
+        "networks",
+        "pentesting",
+        "powershell",
+        "python",
+        "windows"
+      ],
+      "stargazers_count": 9116,
+      "pushed_at": "2023-12-06T17:09:42Z",
+      "added_to_queue": "2026-04-10T01:13:20.224Z"
+    },
+    {
+      "name": "http-prompt",
+      "html_url": "https://github.com/httpie/http-prompt",
+      "description": "An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie",
+      "topics": [
+        "api",
+        "api-cli",
+        "api-testing",
+        "autocomplete",
+        "cli",
+        "developer-tools",
+        "development",
+        "http",
+        "http-client",
+        "httpie",
+        "json",
+        "python",
+        "rest-api",
+        "shell",
+        "syntax-highlighting",
+        "terminal",
+        "web-development"
+      ],
+      "stargazers_count": 9112,
+      "pushed_at": "2024-05-21T06:03:21Z",
+      "added_to_queue": "2026-04-10T01:13:20.224Z"
+    },
+    {
+      "name": "nas-tools",
+      "html_url": "https://github.com/NAStool/nas-tools",
+      "description": "NAS媒体库管理工具",
+      "topics": [
+        "nas",
+        "python"
+      ],
+      "stargazers_count": 9079,
+      "pushed_at": "2023-05-16T00:41:13Z",
+      "added_to_queue": "2026-04-10T01:13:20.224Z"
+    },
+    {
+      "name": "arrow",
+      "html_url": "https://github.com/arrow-py/arrow",
+      "description": "🏹 Better dates & times for Python",
+      "topics": [
+        "arrow",
+        "date",
+        "datetime",
+        "hacktoberfest",
+        "python",
+        "time",
+        "timestamp",
+        "timezones"
+      ],
+      "stargazers_count": 9036,
+      "pushed_at": "2026-03-30T02:18:26Z",
+      "added_to_queue": "2026-04-10T01:13:20.224Z"
+    },
+    {
+      "name": "visidata",
+      "html_url": "https://github.com/saulpw/visidata",
+      "description": "A terminal spreadsheet multitool for discovering and arranging data",
+      "topics": [
+        "cli",
+        "csv",
+        "datajournalism",
+        "datawrangling",
+        "devops-tools",
+        "eda",
+        "hdf5",
+        "json",
+        "opendata",
+        "pandas",
+        "python",
+        "reconciliation",
+        "spreadsheet",
+        "sqlite",
+        "tabular-data",
+        "tsv",
+        "tui",
+        "unix-toolkit"
+      ],
+      "stargazers_count": 9005,
+      "pushed_at": "2026-04-08T20:33:57Z",
+      "added_to_queue": "2026-04-10T01:13:20.224Z"
+    },
+    {
+      "name": "django-ninja",
+      "html_url": "https://github.com/vitalik/django-ninja",
+      "description": "💨  Fast, Async-ready, Openapi, type hints based framework for building APIs",
+      "topics": [
+        "django",
+        "django-ninja",
+        "openapi",
+        "pydantic",
+        "python",
+        "rest-api",
+        "swagger",
+        "swagger-ui"
+      ],
+      "stargazers_count": 8995,
+      "pushed_at": "2026-04-05T18:24:55Z",
+      "added_to_queue": "2026-04-10T01:13:20.224Z"
+    },
+    {
+      "name": "Interview",
+      "html_url": "https://github.com/apachecn/Interview",
+      "description": "Interview = 简历指南 + 算法题 + 八股文 + 源码分析",
+      "topics": [
+        "interview",
+        "kaggle",
+        "leetcode",
+        "machine-learning",
+        "python"
+      ],
+      "stargazers_count": 8968,
+      "pushed_at": "2023-10-20T08:12:51Z",
+      "added_to_queue": "2026-04-10T01:13:20.224Z"
+    },
+    {
+      "name": "pupy",
+      "html_url": "https://github.com/n1nj4sec/pupy",
+      "description": "Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C",
+      "topics": [
+        "android",
+        "backdoor",
+        "linux",
+        "mac-os",
+        "meterpreter",
+        "payload",
+        "pentesting",
+        "post-exploitation",
+        "pupy",
+        "python",
+        "rat",
+        "reflective-injection",
+        "remote-access",
+        "remote-admin-tool",
+        "reverse-shell",
+        "shell",
+        "windows"
+      ],
+      "stargazers_count": 8963,
+      "pushed_at": "2024-03-22T08:52:53Z",
+      "added_to_queue": "2026-04-10T01:13:20.224Z"
+    },
+    {
+      "name": "FastUI",
+      "html_url": "https://github.com/pydantic/FastUI",
+      "description": "Build better UIs faster.",
+      "topics": [
+        "fastapi",
+        "pydantic",
+        "python",
+        "react"
+      ],
+      "stargazers_count": 8960,
+      "pushed_at": "2026-04-01T04:52:34Z",
+      "added_to_queue": "2026-04-10T01:13:20.224Z"
+    },
+    {
+      "name": "js-beautify",
+      "html_url": "https://github.com/beautifier/js-beautify",
+      "description": "Beautifier for javascript ",
+      "topics": [
+        "css",
+        "hacktoberfest",
+        "html",
+        "javascript",
+        "nodejs",
+        "python"
+      ],
+      "stargazers_count": 8956,
+      "pushed_at": "2026-04-09T02:06:49Z",
+      "added_to_queue": "2026-04-10T01:13:20.224Z"
+    },
+    {
+      "name": "OctoPrint",
+      "html_url": "https://github.com/OctoPrint/OctoPrint",
+      "description": "OctoPrint is the snappy web interface for your 3D printer!",
+      "topics": [
+        "3d-printer",
+        "octoprint",
+        "python",
+        "raspberry-pi"
+      ],
+      "stargazers_count": 8952,
+      "pushed_at": "2026-04-09T15:23:20Z",
+      "added_to_queue": "2026-04-10T01:13:20.224Z"
+    },
+    {
+      "name": "BlenderGIS",
+      "html_url": "https://github.com/domlysz/BlenderGIS",
+      "description": "Blender addons to make the bridge between Blender and geographic data",
+      "topics": [
+        "3d",
+        "3d-map",
+        "3dgis",
+        "addon",
+        "basemap",
+        "blender",
+        "delaunay-triangulation",
+        "dem",
+        "geodata",
+        "georeferencing",
+        "geospatial",
+        "gis",
+        "importexport",
+        "map",
+        "openstreetmap",
+        "python",
+        "raster",
+        "shapefile",
+        "terrain-model"
+      ],
+      "stargazers_count": 8891,
+      "pushed_at": "2025-12-20T18:19:10Z",
+      "added_to_queue": "2026-04-10T01:13:20.224Z"
+    },
+    {
+      "name": "python-for-android",
+      "html_url": "https://github.com/kivy/python-for-android",
+      "description": "Turn your Python application into an Android APK",
+      "topics": [
+        "android",
+        "apk",
+        "kivy",
+        "packaging",
+        "python"
+      ],
+      "stargazers_count": 8871,
+      "pushed_at": "2026-03-28T12:21:13Z",
+      "added_to_queue": "2026-04-10T01:13:20.224Z"
+    },
+    {
+      "name": "30-seconds-of-python",
+      "html_url": "https://github.com/Chalarangelo/30-seconds-of-python",
+      "description": "Short Python code snippets for all your development needs",
+      "topics": [
+        "education",
+        "learn-to-code",
+        "learning-resources",
+        "programming",
+        "python3",
+        "snippets",
+        "snippets-collection",
+        "snippets-library"
+      ],
+      "stargazers_count": 8837,
+      "pushed_at": "2023-05-07T17:09:42Z",
+      "added_to_queue": "2026-04-10T01:13:20.224Z"
+    },
+    {
+      "name": "WeasyPrint",
+      "html_url": "https://github.com/Kozea/WeasyPrint",
+      "description": "The awesome document factory",
+      "topics": [
+        "converter",
+        "css",
+        "html",
+        "pdf",
+        "python",
+        "weasyprint"
+      ],
+      "stargazers_count": 8829,
+      "pushed_at": "2026-03-27T09:43:19Z",
+      "added_to_queue": "2026-04-10T01:13:20.224Z"
+    },
+    {
+      "name": "google-api-python-client",
+      "html_url": "https://github.com/googleapis/google-api-python-client",
+      "description": "🐍 The official Python client library for Google's discovery based APIs.",
+      "topics": [],
+      "stargazers_count": 8785,
+      "pushed_at": "2026-04-08T22:46:33Z",
+      "added_to_queue": "2026-04-10T01:13:20.224Z"
+    },
+    {
+      "name": "bottle",
+      "html_url": "https://github.com/bottlepy/bottle",
+      "description": "bottle.py is a fast and simple micro-framework for python web-applications.",
+      "topics": [
+        "bottle",
+        "python",
+        "rest",
+        "web-framework",
+        "wsgi"
+      ],
+      "stargazers_count": 8764,
+      "pushed_at": "2026-03-23T15:39:32Z",
+      "added_to_queue": "2026-04-10T01:13:20.224Z"
+    },
+    {
+      "name": "flasky",
+      "html_url": "https://github.com/miguelgrinberg/flasky",
+      "description": "Companion code to my O'Reilly book \"Flask Web Development\", second edition.",
+      "topics": [
+        "flask",
+        "python"
+      ],
+      "stargazers_count": 8755,
+      "pushed_at": "2025-04-06T18:53:24Z",
+      "added_to_queue": "2026-04-10T01:13:20.224Z"
+    },
+    {
+      "name": "SciencePlots",
+      "html_url": "https://github.com/garrettj403/SciencePlots",
+      "description": "Matplotlib styles for scientific plotting",
+      "topics": [
+        "cjk-fonts",
+        "ieee-paper",
+        "latex",
+        "matplotlib-figures",
+        "matplotlib-style-sheets",
+        "matplotlib-styles",
+        "python",
+        "scientific-papers",
+        "thesis-template"
+      ],
+      "stargazers_count": 8733,
+      "pushed_at": "2026-02-25T01:24:44Z",
+      "added_to_queue": "2026-04-10T01:13:20.224Z"
+    },
+    {
+      "name": "python-dotenv",
+      "html_url": "https://github.com/theskumar/python-dotenv",
+      "description": "Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.",
+      "topics": [
+        "12-factor-app",
+        "configuration",
+        "devops-tools",
+        "dotenv",
+        "env",
+        "environment-variables",
+        "python"
+      ],
+      "stargazers_count": 8716,
+      "pushed_at": "2026-03-09T07:15:28Z",
+      "added_to_queue": "2026-04-10T01:13:20.224Z"
+    },
+    {
+      "name": "pyTelegramBotAPI",
+      "html_url": "https://github.com/eternnoir/pyTelegramBotAPI",
+      "description": "Python Telegram bot api.",
+      "topics": [
+        "bot-api",
+        "python-api",
+        "telegram",
+        "telegram-bot",
+        "telegram-bot-api"
+      ],
+      "stargazers_count": 8716,
+      "pushed_at": "2026-04-05T16:24:54Z",
+      "added_to_queue": "2026-04-10T01:13:20.224Z"
+    },
+    {
+      "name": "pygame",
+      "html_url": "https://github.com/pygame/pygame",
+      "description": "🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.",
+      "topics": [
+        "game-dev",
+        "game-development",
+        "gamedev",
+        "pygame",
+        "python",
+        "sdl",
+        "sdl2"
+      ],
+      "stargazers_count": 8712,
+      "pushed_at": "2025-11-01T03:05:13Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "bullmq",
+      "html_url": "https://github.com/taskforcesh/bullmq",
+      "description": "BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir and PHP based on Redis",
+      "topics": [
+        "background-jobs",
+        "elixir",
+        "nodejs",
+        "php",
+        "python",
+        "queue",
+        "redis",
+        "typescript"
+      ],
+      "stargazers_count": 8705,
+      "pushed_at": "2026-04-09T15:05:00Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "google-images-download",
+      "html_url": "https://github.com/hardikvasa/google-images-download",
+      "description": "Python Script to download hundreds of images from 'Google Images'. It is a ready-to-run code!",
+      "topics": [
+        "color-filter",
+        "command-line",
+        "command-line-tool",
+        "download-images",
+        "google-images",
+        "image-database",
+        "image-dataset",
+        "image-download",
+        "image-gallery",
+        "image-processing",
+        "image-scraper",
+        "image-search",
+        "python",
+        "python-script",
+        "terminal"
+      ],
+      "stargazers_count": 8678,
+      "pushed_at": "2024-02-19T17:21:18Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "trape",
+      "html_url": "https://github.com/jofpin/trape",
+      "description": "People tracker on the Internet: OSINT analysis and research tool by Jose Pino",
+      "topics": [
+        "flask",
+        "footprint",
+        "hacking",
+        "hacking-tool",
+        "jose-pino",
+        "osint",
+        "phising",
+        "python",
+        "recognition",
+        "security",
+        "social-engineering",
+        "tracking"
+      ],
+      "stargazers_count": 8639,
+      "pushed_at": "2024-06-20T19:04:00Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "dailycheckin",
+      "html_url": "https://github.com/Sitoi/dailycheckin",
+      "description": "基于「Docker」/「青龙面板」/「群晖」的每日签到脚本（支持多账号）签到列表: ｜爱奇艺｜全民K歌｜有道云笔记｜百度贴吧｜Bilibili｜V2EX｜AcFun｜什么值得买｜阿里云盘｜i茅台申购｜小米运动｜百度搜索资源平台｜恩山论坛｜奥拉星｜",
+      "topics": [
+        "acfun",
+        "aliyundrive",
+        "baidu",
+        "bilibili",
+        "chatgpt",
+        "checkin",
+        "dailycheckin",
+        "docker",
+        "imaotai",
+        "iqiyi",
+        "kgqq",
+        "mimotion",
+        "pypi",
+        "python",
+        "qinglong",
+        "signin",
+        "smzdm",
+        "tieba",
+        "v2ex",
+        "youdaonote"
+      ],
+      "stargazers_count": 8592,
+      "pushed_at": "2025-12-24T15:03:57Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "hypothesis",
+      "html_url": "https://github.com/HypothesisWorks/hypothesis",
+      "description": "The property-based testing library for Python",
+      "topics": [
+        "fuzzing",
+        "property-based-testing",
+        "python",
+        "testing"
+      ],
+      "stargazers_count": 8575,
+      "pushed_at": "2026-04-08T20:01:33Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "jc",
+      "html_url": "https://github.com/kellyjonbrazil/jc",
+      "description": "CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.",
+      "topics": [
+        "bash",
+        "bash-scripting",
+        "cli",
+        "command-line",
+        "command-line-interface",
+        "command-line-tool",
+        "convert",
+        "json",
+        "linux",
+        "parsers",
+        "python",
+        "python-library",
+        "scripting",
+        "serialize",
+        "shell-scripting",
+        "yaml"
+      ],
+      "stargazers_count": 8571,
+      "pushed_at": "2026-03-30T18:51:30Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "japronto",
+      "html_url": "https://github.com/squeaky-pl/japronto",
+      "description": " Screaming-fast Python 3.5+ HTTP toolkit integrated with pipelining HTTP server based on uvloop and picohttpparser.",
+      "topics": [],
+      "stargazers_count": 8561,
+      "pushed_at": "2023-08-14T21:42:00Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "buck",
+      "html_url": "https://github.com/facebook/buck",
+      "description": "A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages.",
+      "topics": [
+        "android",
+        "buck",
+        "build-tool",
+        "ios",
+        "java",
+        "python"
+      ],
+      "stargazers_count": 8555,
+      "pushed_at": "2023-10-25T02:45:11Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "pdm",
+      "html_url": "https://github.com/pdm-project/pdm",
+      "description": "A modern Python package and dependency manager supporting the latest PEP standards",
+      "topics": [
+        "hacktoberfest",
+        "package-manager",
+        "packaging",
+        "pep582",
+        "pep621",
+        "python",
+        "workflow"
+      ],
+      "stargazers_count": 8553,
+      "pushed_at": "2026-04-06T21:45:30Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "beam",
+      "html_url": "https://github.com/apache/beam",
+      "description": "Apache Beam is a unified programming model for Batch and Streaming data processing.",
+      "topics": [
+        "batch",
+        "beam",
+        "big-data",
+        "golang",
+        "java",
+        "python",
+        "sql",
+        "streaming"
+      ],
+      "stargazers_count": 8543,
+      "pushed_at": "2026-04-09T23:55:12Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "TikTokDownload",
+      "html_url": "https://github.com/Johnserf-Seed/TikTokDownload",
+      "description": "抖音去水印批量下载用户主页作品、喜欢、收藏、图文、音频",
+      "topics": [
+        "api",
+        "douyin",
+        "plugin",
+        "python",
+        "tiktok",
+        "utools",
+        "xbogus"
+      ],
+      "stargazers_count": 8543,
+      "pushed_at": "2024-06-28T10:53:42Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "tenacity",
+      "html_url": "https://github.com/jd/tenacity",
+      "description": "Retrying library for Python",
+      "topics": [
+        "failure",
+        "hacktoberfest",
+        "python",
+        "retry",
+        "retry-library"
+      ],
+      "stargazers_count": 8531,
+      "pushed_at": "2026-03-23T17:21:20Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "bypy",
+      "html_url": "https://github.com/houtianze/bypy",
+      "description": "Python client for Baidu Yun (Personal Cloud Storage) 百度云/百度网盘Python客户端",
+      "topics": [],
+      "stargazers_count": 8530,
+      "pushed_at": "2025-04-02T01:11:10Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "mopidy",
+      "html_url": "https://github.com/mopidy/mopidy",
+      "description": "Mopidy is an extensible music server written in Python",
+      "topics": [
+        "mopidy",
+        "music-player",
+        "python"
+      ],
+      "stargazers_count": 8489,
+      "pushed_at": "2026-04-09T00:21:17Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "electrum",
+      "html_url": "https://github.com/spesmilo/electrum",
+      "description": "Electrum Bitcoin Wallet",
+      "topics": [
+        "bitcoin",
+        "bitcoin-wallet",
+        "electrum",
+        "lightning",
+        "lightning-network",
+        "python"
+      ],
+      "stargazers_count": 8429,
+      "pushed_at": "2026-04-08T09:46:42Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "gitfiti",
+      "html_url": "https://github.com/gelstudios/gitfiti",
+      "description": "abusing github commit history for the lulz",
+      "topics": [
+        "art",
+        "contribution-graph",
+        "contributions-calendar",
+        "gitfiti",
+        "pixel-art",
+        "pixelart",
+        "pixels",
+        "python"
+      ],
+      "stargazers_count": 8422,
+      "pushed_at": "2024-10-28T04:54:08Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "LearnPython",
+      "html_url": "https://github.com/xianhu/LearnPython",
+      "description": "以撸代码的形式学习Python",
+      "topics": [
+        "learning-python",
+        "python",
+        "python-flask",
+        "python-requests"
+      ],
+      "stargazers_count": 8389,
+      "pushed_at": "2025-01-05T04:37:14Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "maltrail",
+      "html_url": "https://github.com/stamparm/maltrail",
+      "description": "Malicious traffic detection system",
+      "topics": [
+        "attack-detection",
+        "intrusion-detection",
+        "malware",
+        "network-monitoring",
+        "python",
+        "security",
+        "sensor"
+      ],
+      "stargazers_count": 8372,
+      "pushed_at": "2026-04-09T14:43:06Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "readthedocs.org",
+      "html_url": "https://github.com/readthedocs/readthedocs.org",
+      "description": "The source code that powers readthedocs.org",
+      "topics": [
+        "docs",
+        "mkdocs",
+        "python",
+        "sphinx",
+        "sphinx-doc"
+      ],
+      "stargazers_count": 8356,
+      "pushed_at": "2026-04-09T16:34:55Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "GhostTrack",
+      "html_url": "https://github.com/HunxByts/GhostTrack",
+      "description": "Useful tool to track location or mobile number",
+      "topics": [
+        "cybersecurity",
+        "fyp",
+        "hacking",
+        "hacking-tool",
+        "indonesia",
+        "information",
+        "information-gathering",
+        "ip-geolocation",
+        "linux",
+        "osint",
+        "osint-python",
+        "osint-tool",
+        "pentesting",
+        "phone-number",
+        "python",
+        "python-hacking",
+        "termux",
+        "termux-hacks",
+        "termux-tool"
+      ],
+      "stargazers_count": 8346,
+      "pushed_at": "2024-01-11T15:36:46Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "Bottles",
+      "html_url": "https://github.com/bottlesdevs/Bottles",
+      "description": "Run Windows software and games on Linux",
+      "topics": [
+        "bottles",
+        "bottles-versioning",
+        "dxvk",
+        "games",
+        "gaming",
+        "gtk4",
+        "libadwaita",
+        "linux",
+        "msi",
+        "proton",
+        "python",
+        "wine",
+        "wine-prefixes",
+        "wineprefix",
+        "wineprefix-manager"
+      ],
+      "stargazers_count": 8281,
+      "pushed_at": "2026-04-09T07:44:42Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "helium",
+      "html_url": "https://github.com/mherrmann/helium",
+      "description": "Lighter web automation with Python",
+      "topics": [
+        "chrome",
+        "firefox",
+        "helium",
+        "python",
+        "python3",
+        "selenium",
+        "selenium-python",
+        "web-automation",
+        "web-scraping",
+        "webdriver"
+      ],
+      "stargazers_count": 8263,
+      "pushed_at": "2026-04-08T02:37:17Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "graphene",
+      "html_url": "https://github.com/graphql-python/graphene",
+      "description": "GraphQL framework for Python",
+      "topics": [
+        "framework",
+        "graphene",
+        "graphql",
+        "python",
+        "relay"
+      ],
+      "stargazers_count": 8247,
+      "pushed_at": "2025-09-04T15:43:44Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "LeetCode-Book",
+      "html_url": "https://github.com/krahets/LeetCode-Book",
+      "description": "《剑指 Offer》《图解算法数据结构》《Krahets 笔面试精选 88 题》Python, Java, C++ 解题代码",
+      "topics": [
+        "algorithm",
+        "algorithms",
+        "algorithms-and-data-structures",
+        "data-structure",
+        "data-structures",
+        "java",
+        "leetcode",
+        "leetcode-cpp",
+        "leetcode-java",
+        "leetcode-python",
+        "python",
+        "sword-for-offer"
+      ],
+      "stargazers_count": 8225,
+      "pushed_at": "2025-12-30T12:39:35Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "DevOps-Bash-tools",
+      "html_url": "https://github.com/HariSekhon/DevOps-Bash-tools",
+      "description": "1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux..",
+      "topics": [
+        "api",
+        "aws",
+        "bash",
+        "ci",
+        "cloudera",
+        "devops",
+        "docker",
+        "gcp",
+        "git",
+        "github",
+        "hacktoberfest",
+        "hadoop",
+        "jenkins",
+        "kafka",
+        "kubernetes",
+        "linux",
+        "mysql",
+        "perl",
+        "postgresql",
+        "terraform"
+      ],
+      "stargazers_count": 8220,
+      "pushed_at": "2026-04-09T21:10:23Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "FileCodeBox",
+      "html_url": "https://github.com/vastsa/FileCodeBox",
+      "description": "文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）",
+      "topics": [
+        "anonymous",
+        "fastapi",
+        "filecodebox",
+        "python",
+        "tool",
+        "vue"
+      ],
+      "stargazers_count": 8211,
+      "pushed_at": "2026-02-27T15:38:36Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "pysheeet",
+      "html_url": "https://github.com/crazyguitar/pysheeet",
+      "description": "Python Cheat Sheet",
+      "topics": [
+        "cheatsheet",
+        "python",
+        "python-2",
+        "python-3"
+      ],
+      "stargazers_count": 8148,
+      "pushed_at": "2026-04-08T23:27:36Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "reactpy",
+      "html_url": "https://github.com/reactive-python/reactpy",
+      "description": "It's React, but in Python",
+      "topics": [
+        "javascript",
+        "python",
+        "react",
+        "reactpy"
+      ],
+      "stargazers_count": 8147,
+      "pushed_at": "2026-02-17T05:52:27Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "litestar",
+      "html_url": "https://github.com/litestar-org/litestar",
+      "description": "Light, flexible and extensible ASGI framework | Built to scale",
+      "topics": [
+        "api",
+        "asgi",
+        "asyncio",
+        "litestar",
+        "litestar-api",
+        "litestar-framework",
+        "msgspec",
+        "openapi",
+        "pydantic",
+        "python",
+        "rapidoc",
+        "redoc",
+        "rest",
+        "starlite",
+        "swagger"
+      ],
+      "stargazers_count": 8139,
+      "pushed_at": "2026-04-09T16:42:24Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "roadmap-retos-programacion",
+      "html_url": "https://github.com/mouredev/roadmap-retos-programacion",
+      "description": "Ruta de estudio basada en ejercicios de código de la comunidad MoureDev para aprender y practicar lógica usando cualquier lenguaje de programación.",
+      "topics": [
+        "c-plus-plus",
+        "c-sharp",
+        "dart",
+        "ejercicios",
+        "go",
+        "java",
+        "javascript",
+        "katas",
+        "kotlin",
+        "logica-de-programacion",
+        "php",
+        "python",
+        "retos",
+        "retos-programacion",
+        "roadmap",
+        "ruby",
+        "rust",
+        "ruta-de-estudio",
+        "swift",
+        "typescript"
+      ],
+      "stargazers_count": 8117,
+      "pushed_at": "2026-04-10T00:29:55Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "curlconverter",
+      "html_url": "https://github.com/curlconverter/curlconverter",
+      "description": "Transpile curl commands into Python, JavaScript and 27 other languages",
+      "topics": [
+        "curl",
+        "tree-sitter"
+      ],
+      "stargazers_count": 8112,
+      "pushed_at": "2026-03-10T05:06:56Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "school-of-sre",
+      "html_url": "https://github.com/linkedin/school-of-sre",
+      "description": "At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.",
+      "topics": [
+        "git",
+        "hadoop",
+        "linux",
+        "mysql",
+        "networking",
+        "nosql",
+        "python",
+        "security",
+        "sre",
+        "system-design"
+      ],
+      "stargazers_count": 8107,
+      "pushed_at": "2025-12-25T12:44:23Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "grex",
+      "html_url": "https://github.com/pemistahl/grex",
+      "description": "A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases",
+      "topics": [
+        "cli",
+        "command-line-tool",
+        "python",
+        "python-library",
+        "regex",
+        "regex-pattern",
+        "regexp",
+        "regular-expression",
+        "regular-expressions",
+        "rust",
+        "rust-cli",
+        "rust-crate",
+        "rust-library",
+        "terminal",
+        "tool"
+      ],
+      "stargazers_count": 8089,
+      "pushed_at": "2026-02-27T17:22:36Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "gef",
+      "html_url": "https://github.com/hugsy/gef",
+      "description": "GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux",
+      "topics": [
+        "binary-ninja",
+        "ctf",
+        "debugging",
+        "discord",
+        "exploit",
+        "exploit-development",
+        "gdb",
+        "gef",
+        "ida-pro",
+        "linux",
+        "malware-analysis",
+        "mips",
+        "powerpc",
+        "pwn",
+        "pwntools",
+        "python",
+        "python-api",
+        "reverse-engineering",
+        "sparc"
+      ],
+      "stargazers_count": 8088,
+      "pushed_at": "2026-03-26T16:36:08Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "blockchain",
+      "html_url": "https://github.com/dvf/blockchain",
+      "description": "A simple Blockchain in Python",
+      "topics": [
+        "bitcoin",
+        "blockchain",
+        "cryptocurrency",
+        "flask",
+        "python"
+      ],
+      "stargazers_count": 8061,
+      "pushed_at": "2024-07-21T21:35:02Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "python-docs-samples",
+      "html_url": "https://github.com/GoogleCloudPlatform/python-docs-samples",
+      "description": "Code samples used on cloud.google.com",
+      "topics": [
+        "python",
+        "samples"
+      ],
+      "stargazers_count": 8037,
+      "pushed_at": "2026-04-09T17:25:53Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "orjson",
+      "html_url": "https://github.com/ijl/orjson",
+      "description": "Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy",
+      "topics": [
+        "dataclasses",
+        "datetime",
+        "deserialization",
+        "json",
+        "numpy",
+        "pyo3",
+        "python",
+        "rust",
+        "serialization"
+      ],
+      "stargazers_count": 8016,
+      "pushed_at": "2026-03-31T15:55:32Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "docopt",
+      "html_url": "https://github.com/docopt/docopt",
+      "description": "Create *beautiful* command-line interfaces with Python",
+      "topics": [],
+      "stargazers_count": 8012,
+      "pushed_at": "2025-06-23T09:03:15Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "pip-tools",
+      "html_url": "https://github.com/jazzband/pip-tools",
+      "description": "A set of tools to keep your pinned Python dependencies fresh.",
+      "topics": [
+        "hashes",
+        "lockfile",
+        "packaging",
+        "pip",
+        "pip-compile",
+        "pip-tools",
+        "python",
+        "requirements",
+        "setuptools"
+      ],
+      "stargazers_count": 7999,
+      "pushed_at": "2026-04-06T19:06:18Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "asyncpg",
+      "html_url": "https://github.com/MagicStack/asyncpg",
+      "description": "A fast PostgreSQL Database Client Library for Python/asyncio.",
+      "topics": [
+        "async-programming",
+        "async-python",
+        "asyncio",
+        "database-driver",
+        "high-performance",
+        "postgresql",
+        "python",
+        "python-3"
+      ],
+      "stargazers_count": 7995,
+      "pushed_at": "2026-02-27T20:48:41Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "volatility",
+      "html_url": "https://github.com/volatilityfoundation/volatility",
+      "description": "An advanced memory forensics framework",
+      "topics": [
+        "malware",
+        "memory",
+        "python",
+        "ram",
+        "volatility-framework"
+      ],
+      "stargazers_count": 7994,
+      "pushed_at": "2025-05-16T13:40:55Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "mamba",
+      "html_url": "https://github.com/mamba-org/mamba",
+      "description": "The Fast Cross-Platform Package Manager",
+      "topics": [
+        "conda",
+        "cpp",
+        "package-manager",
+        "python"
+      ],
+      "stargazers_count": 7985,
+      "pushed_at": "2026-04-08T14:51:16Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "c9-python-getting-started",
+      "html_url": "https://github.com/microsoft/c9-python-getting-started",
+      "description": "Sample code for Channel 9 Python for Beginners course",
+      "topics": [],
+      "stargazers_count": 7984,
+      "pushed_at": "2023-05-25T02:53:23Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "Auto_Bangumi",
+      "html_url": "https://github.com/EstrellaXD/Auto_Bangumi",
+      "description": "AutoBangumi - 全自动追番工具",
+      "topics": [
+        "anime",
+        "auto-downloader",
+        "docker",
+        "python",
+        "qbittorrent",
+        "rss-parser"
+      ],
+      "stargazers_count": 7980,
+      "pushed_at": "2026-03-01T07:26:25Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "uiautomator2",
+      "html_url": "https://github.com/openatx/uiautomator2",
+      "description": "Android Uiautomator2 Python Wrapper",
+      "topics": [
+        "python",
+        "test",
+        "uiautomator"
+      ],
+      "stargazers_count": 7965,
+      "pushed_at": "2026-03-08T13:28:21Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "bandit",
+      "html_url": "https://github.com/PyCQA/bandit",
+      "description": "Bandit is a tool designed to find common security issues in Python code.",
+      "topics": [
+        "bandit",
+        "linter",
+        "python",
+        "security",
+        "security-scanner",
+        "security-tools",
+        "static-code-analysis"
+      ],
+      "stargazers_count": 7916,
+      "pushed_at": "2026-04-06T22:56:09Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "albert",
+      "html_url": "https://github.com/albertlauncher/albert",
+      "description": "A fast and flexible keyboard launcher",
+      "topics": [
+        "albert",
+        "albertlauncher",
+        "application-launcher",
+        "cpp",
+        "keyboard-launcher",
+        "launcher",
+        "plugins",
+        "python",
+        "qt",
+        "qt6"
+      ],
+      "stargazers_count": 7901,
+      "pushed_at": "2026-04-02T07:05:27Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "Empire",
+      "html_url": "https://github.com/EmpireProject/Empire",
+      "description": "Empire is a PowerShell and Python post-exploitation agent.",
+      "topics": [],
+      "stargazers_count": 7837,
+      "pushed_at": "2020-01-19T22:50:59Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "PyMySQL",
+      "html_url": "https://github.com/PyMySQL/PyMySQL",
+      "description": "MySQL client library for Python",
+      "topics": [
+        "mysql",
+        "python"
+      ],
+      "stargazers_count": 7833,
+      "pushed_at": "2025-08-24T12:54:32Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "SpaceshipGenerator",
+      "html_url": "https://github.com/a1studmuffin/SpaceshipGenerator",
+      "description": "A Blender script to procedurally generate 3D spaceships",
+      "topics": [
+        "3d",
+        "blender-scripts",
+        "game-development",
+        "procedural-generation",
+        "python",
+        "spaceship"
+      ],
+      "stargazers_count": 7784,
+      "pushed_at": "2024-05-25T16:11:50Z",
+      "added_to_queue": "2026-04-10T01:14:20.821Z"
+    },
+    {
+      "name": "real-url",
+      "html_url": "https://github.com/wbt5/real-url",
+      "description": "获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。",
+      "topics": [
+        "bilibili",
+        "danmu",
+        "douyin",
+        "douyu",
+        "huya",
+        "kuaishou",
+        "python",
+        "streaming"
+      ],
+      "stargazers_count": 7781,
+      "pushed_at": "2024-06-07T01:36:57Z",
+      "added_to_queue": "2026-04-10T01:14:20.822Z"
+    },
+    {
+      "name": "PyQt-Fluent-Widgets",
+      "html_url": "https://github.com/zhiyiYo/PyQt-Fluent-Widgets",
+      "description": "A fluent design widgets library based on C++ Qt/PyQt/PySide. Make Qt Great Again.",
+      "topics": [
+        "custom",
+        "fluent",
+        "fluent-design",
+        "fluentui",
+        "gui",
+        "modern",
+        "pyqt5",
+        "pyqt6",
+        "pyside2",
+        "pyside6",
+        "python",
+        "qt",
+        "qt5",
+        "qt6",
+        "software",
+        "ui",
+        "widgets",
+        "win11",
+        "winui",
+        "winui3"
+      ],
+      "stargazers_count": 7776,
+      "pushed_at": "2026-04-04T02:52:00Z",
+      "added_to_queue": "2026-04-10T01:14:20.822Z"
+    },
+    {
+      "name": "sphinx",
+      "html_url": "https://github.com/sphinx-doc/sphinx",
+      "description": "The Sphinx documentation generator",
+      "topics": [
+        "docs",
+        "documentation",
+        "documentation-tool",
+        "markdown",
+        "python",
+        "restructuredtext",
+        "sphinx"
+      ],
+      "stargazers_count": 7767,
+      "pushed_at": "2026-04-05T22:50:12Z",
+      "added_to_queue": "2026-04-10T01:14:20.822Z"
+    },
+    {
+      "name": "hrms",
+      "html_url": "https://github.com/frappe/hrms",
+      "description": "Open Source HR and Payroll Software",
+      "topics": [
+        "attendance",
+        "employee",
+        "erpnext",
+        "exits",
+        "frappe",
+        "frappe-framework",
+        "hcm",
+        "hr",
+        "hris",
+        "hrms",
+        "javascript",
+        "leave-management",
+        "onboarding",
+        "open-source",
+        "payroll",
+        "performance-management",
+        "pwa",
+        "python",
+        "recruitment",
+        "shift-management"
+      ],
+      "stargazers_count": 7727,
+      "pushed_at": "2026-04-09T15:24:07Z",
+      "added_to_queue": "2026-04-10T01:14:20.822Z"
+    },
+    {
+      "name": "PyGithub",
+      "html_url": "https://github.com/PyGithub/PyGithub",
+      "description": "Typed interactions with the GitHub API v3",
+      "topics": [
+        "github",
+        "github-api",
+        "pygithub",
+        "python"
+      ],
+      "stargazers_count": 7697,
+      "pushed_at": "2026-03-26T16:08:21Z",
+      "added_to_queue": "2026-04-10T01:14:20.822Z"
+    },
+    {
+      "name": "stock",
+      "html_url": "https://github.com/pythonstock/stock",
+      "description": "stock，股票系统。使用python进行开发。",
+      "topics": [],
+      "stargazers_count": 7695,
+      "pushed_at": "2026-02-10T23:02:19Z",
+      "added_to_queue": "2026-04-10T01:14:20.822Z"
+    },
+    {
+      "name": "AlgoNote",
+      "html_url": "https://github.com/itcharge/AlgoNote",
+      "description": "⛽️「算法通关手册」：从零开始的「算法与数据结构」学习教程，200 道「算法面试热门题目」，1000+ 道「LeetCode 题目解析」，持续更新中！",
+      "topics": [
+        "acm-icpc",
+        "algo",
+        "algorithm",
+        "algorithms",
+        "algorithms-datastructures",
+        "data-structure",
+        "data-structures",
+        "interview",
+        "interviews",
+        "leetcode",
+        "leetcode-py",
+        "leetcode-python",
+        "leetcode-solutions",
+        "python"
+      ],
+      "stargazers_count": 7682,
+      "pushed_at": "2026-01-17T05:15:31Z",
+      "added_to_queue": "2026-04-10T01:14:20.822Z"
+    },
+    {
+      "name": "gitsome",
+      "html_url": "https://github.com/donnemartin/gitsome",
+      "description": "A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools",
+      "topics": [
+        "cli",
+        "cli-app",
+        "client",
+        "command-line",
+        "developer-tools",
+        "development",
+        "git",
+        "github",
+        "github-api",
+        "github-client",
+        "github-enterprise",
+        "linux",
+        "macos",
+        "programming",
+        "python",
+        "shell",
+        "terminal",
+        "utilities",
+        "utility",
+        "windows"
+      ],
+      "stargazers_count": 7681,
+      "pushed_at": "2024-02-08T10:27:14Z",
+      "added_to_queue": "2026-04-10T01:14:20.822Z"
+    },
+    {
+      "name": "pyinstrument",
+      "html_url": "https://github.com/joerick/pyinstrument",
+      "description": "🚴 Call stack profiler for Python. Shows you why your code is slow!",
+      "topics": [
+        "async",
+        "django",
+        "performance",
+        "profile",
+        "profiler",
+        "python"
+      ],
+      "stargazers_count": 7674,
+      "pushed_at": "2026-04-06T22:21:11Z",
+      "added_to_queue": "2026-04-10T01:14:20.822Z"
+    },
+    {
+      "name": "cheatsheets",
+      "html_url": "https://github.com/matplotlib/cheatsheets",
+      "description": "Official Matplotlib cheat sheets",
+      "topics": [
+        "cheatsheet",
+        "matplotlib",
+        "python"
+      ],
+      "stargazers_count": 7662,
+      "pushed_at": "2026-04-08T07:31:46Z",
+      "added_to_queue": "2026-04-10T01:14:20.822Z"
+    },
+    {
+      "name": "crow",
+      "html_url": "https://github.com/ipkn/crow",
+      "description": "Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask)",
+      "topics": [
+        "c-plus-plus",
+        "crow",
+        "header-only",
+        "webserver"
+      ],
+      "stargazers_count": 7628,
+      "pushed_at": "2024-06-06T14:58:07Z",
+      "added_to_queue": "2026-04-10T01:14:20.822Z"
+    },
+    {
+      "name": "100daysofcode-with-python-course",
+      "html_url": "https://github.com/talkpython/100daysofcode-with-python-course",
+      "description": "Course materials and handouts for #100DaysOfCode in Python course",
+      "topics": [
+        "100daysofcode",
+        "course",
+        "learn-to-code",
+        "python",
+        "python3",
+        "tutorial",
+        "video"
+      ],
+      "stargazers_count": 2189,
+      "pushed_at": "2024-12-18T17:40:40Z",
+      "added_to_queue": "2026-04-10T01:15:34.781Z"
+    },
+    {
+      "name": "Discord-Nitro-Generator-and-Checker",
+      "html_url": "https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker",
+      "description": "Generate discord nitro codes and check them",
+      "topics": [
+        "checker",
+        "discord",
+        "generator",
+        "nitro",
+        "python"
+      ],
+      "stargazers_count": 696,
+      "pushed_at": "2023-11-21T21:16:34Z",
+      "added_to_queue": "2026-04-10T01:15:34.781Z"
+    },
+    {
+      "name": "linux-tutorial",
+      "html_url": "https://github.com/dunwu/linux-tutorial",
+      "description": ":penguin: Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本",
+      "topics": [
+        "docker",
+        "git",
+        "linux",
+        "python",
+        "shell",
+        "vim"
+      ],
+      "stargazers_count": 6694,
+      "pushed_at": "2025-08-27T12:19:17Z",
+      "added_to_queue": "2026-04-10T01:15:34.781Z"
+    },
+    {
+      "name": "Python-project-Scripts",
+      "html_url": "https://github.com/larymak/Python-project-Scripts",
+      "description": "This repositories contains a list of python scripts projects from beginner level advancing slowly. More code snippets to be added soon. feel free to clone this repo",
+      "topics": [
+        "ascii-art",
+        "beginner-project",
+        "collaborate",
+        "github",
+        "hacktoberfest",
+        "hacktoberfest-accepted",
+        "open-source",
+        "python",
+        "python-script",
+        "student-vscode",
+        "webscrapping"
+      ],
+      "stargazers_count": 2001,
+      "pushed_at": "2025-07-24T11:21:16Z",
+      "added_to_queue": "2026-04-10T01:15:34.782Z"
+    },
+    {
+      "name": "ranger",
+      "html_url": "https://github.com/apache/ranger",
+      "description": "Apache Ranger - To enable, monitor and manage comprehensive data security across the Hadoop platform and beyond",
+      "topics": [
+        "apache",
+        "authz",
+        "docker",
+        "java",
+        "python",
+        "ranger"
+      ],
+      "stargazers_count": 1038,
+      "pushed_at": "2026-04-09T00:39:29Z",
+      "added_to_queue": "2026-04-10T01:15:34.782Z"
+    },
+    {
+      "name": "cloud-init",
+      "html_url": "https://github.com/canonical/cloud-init",
+      "description": "Official upstream for the cloud-init: cloud instance initialization",
+      "topics": [
+        "cloud-init",
+        "hacktoberfest",
+        "python"
+      ],
+      "stargazers_count": 3650,
+      "pushed_at": "2026-04-08T17:47:28Z",
+      "added_to_queue": "2026-04-10T01:15:34.782Z"
+    },
+    {
+      "name": "pylance-release",
+      "html_url": "https://github.com/microsoft/pylance-release",
+      "description": "Documentation and issues for Pylance",
+      "topics": [
+        "code-analysis",
+        "language-server",
+        "language-server-protocol",
+        "python"
+      ],
+      "stargazers_count": 2047,
+      "pushed_at": "2026-04-09T18:35:41Z",
+      "added_to_queue": "2026-04-10T01:15:34.782Z"
+    },
+    {
+      "name": "line-bot-sdk-python",
+      "html_url": "https://github.com/line/line-bot-sdk-python",
+      "description": "LINE Messaging API SDK for Python",
+      "topics": [
+        "bot",
+        "line",
+        "linebot",
+        "python",
+        "sdk"
+      ],
+      "stargazers_count": 2097,
+      "pushed_at": "2026-04-07T11:20:54Z",
+      "added_to_queue": "2026-04-10T01:15:34.782Z"
+    },
+    {
+      "name": "oeasy-python-tutorial",
+      "html_url": "https://github.com/overmind1980/oeasy-python-tutorial",
+      "description": "良心的 Python 教程，面向零基础初学者简明易懂的 Python3 入门基础课程。在linux+vim生产力环境下，从浅入深，从简单程序学到网络爬虫。可以配合蓝桥云上实验环境操作。",
+      "topics": [
+        "learn-python",
+        "linux",
+        "python",
+        "tutorial",
+        "unicode",
+        "vim"
+      ],
+      "stargazers_count": 2271,
+      "pushed_at": "2026-02-15T11:04:13Z",
+      "added_to_queue": "2026-04-10T01:15:34.782Z"
+    },
+    {
+      "name": "awesome-oss-alternatives",
+      "html_url": "https://github.com/RunaCapital/awesome-oss-alternatives",
+      "description": "Awesome list of open-source startup alternatives to well-known SaaS products 🚀",
+      "topics": [
+        "alternatives",
+        "awesome",
+        "awesome-list",
+        "list",
+        "open-source",
+        "python",
+        "resources",
+        "saas",
+        "startups",
+        "unicorns"
+      ],
+      "stargazers_count": 18983,
+      "pushed_at": "2025-09-03T17:43:01Z",
+      "added_to_queue": "2026-04-10T01:15:34.782Z"
+    },
+    {
+      "name": "Python3-Spider",
+      "html_url": "https://github.com/wkunzhi/Python3-Spider",
+      "description": "Python爬虫实战 - 模拟登陆各大网站 包含但不限于：滑块验证、拼多多、美团、百度、bilibili、大众点评、淘宝，如果喜欢请start ❤️",
+      "topics": [
+        "crawl",
+        "crawler",
+        "dianping",
+        "geek",
+        "meituan",
+        "pyppeteer",
+        "python",
+        "scrapy",
+        "scrapy-crawler",
+        "selenium",
+        "spider",
+        "splash",
+        "taobao"
+      ],
+      "stargazers_count": 3341,
+      "pushed_at": "2023-11-03T03:54:41Z",
+      "added_to_queue": "2026-04-10T01:15:34.782Z"
+    },
+    {
+      "name": "MITMf",
+      "html_url": "https://github.com/byt3bl33d3r/MITMf",
+      "description": "Framework for Man-In-The-Middle attacks",
+      "topics": [
+        "framework",
+        "man-in-the-middle",
+        "mitm",
+        "python"
+      ],
+      "stargazers_count": 3635,
+      "pushed_at": "2018-08-28T15:44:25Z",
+      "added_to_queue": "2026-04-10T01:15:34.782Z"
+    },
+    {
+      "name": "whoogle-search",
+      "html_url": "https://github.com/benbusby/whoogle-search",
+      "description": "A self-hosted, ad-free, privacy-respecting metasearch engine",
+      "topics": [
+        "adblock",
+        "docker",
+        "easy-deploy",
+        "flask",
+        "heroku",
+        "metasearch",
+        "metasearch-engine",
+        "privacy",
+        "python",
+        "search",
+        "search-engine"
+      ],
+      "stargazers_count": 11456,
+      "pushed_at": "2026-04-08T22:09:37Z",
+      "added_to_queue": "2026-04-10T01:15:34.782Z"
+    },
+    {
+      "name": "ogre",
+      "html_url": "https://github.com/OGRECave/ogre",
+      "description": "high-performance rendering backend (C++, Python, C#, Java)",
+      "topics": [
+        "cpp",
+        "csharp",
+        "directx",
+        "directx11",
+        "gamedev",
+        "graphics-engine",
+        "java",
+        "metal",
+        "ogre3d",
+        "opengl",
+        "opengl-es",
+        "pbr",
+        "python",
+        "renderer",
+        "rendering",
+        "ros",
+        "vulkan",
+        "webassembly"
+      ],
+      "stargazers_count": 4533,
+      "pushed_at": "2026-04-08T10:13:49Z",
+      "added_to_queue": "2026-04-10T01:15:34.782Z"
+    },
+    {
+      "name": "NeoAlgo",
+      "html_url": "https://github.com/HarshCasper/NeoAlgo",
+      "description": "Bringing all Data Structures and Algorithms under one Roof ⚡",
+      "topics": [
+        "algorithms",
+        "c",
+        "c-plus-plus",
+        "c-sharp",
+        "data-structures",
+        "go",
+        "hacktoberfest",
+        "java",
+        "javascript",
+        "python",
+        "q-sharp"
+      ],
+      "stargazers_count": 889,
+      "pushed_at": "2023-10-08T10:43:51Z",
+      "added_to_queue": "2026-04-10T01:15:34.782Z"
+    },
+    {
+      "name": "NewsBlur",
+      "html_url": "https://github.com/samuelclay/NewsBlur",
+      "description": "NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument.",
+      "topics": [
+        "android",
+        "elasticsearch",
+        "feed-reader",
+        "ios",
+        "mongodb",
+        "postgresql",
+        "python",
+        "redis",
+        "rss",
+        "rss-reader"
+      ],
+      "stargazers_count": 7412,
+      "pushed_at": "2026-04-09T14:18:38Z",
+      "added_to_queue": "2026-04-10T01:15:34.782Z"
+    },
+    {
+      "name": "xiaomusic",
+      "html_url": "https://github.com/hanxi/xiaomusic",
+      "description": "使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。",
+      "topics": [
+        "docker",
+        "docker-compose",
+        "music",
+        "pdm",
+        "python",
+        "vue",
+        "xiaoai",
+        "xiaoai-speaker",
+        "xiaomi",
+        "xiaomusic"
+      ],
+      "stargazers_count": 9647,
+      "pushed_at": "2026-04-09T13:43:01Z",
+      "added_to_queue": "2026-04-10T01:15:34.782Z"
+    },
+    {
+      "name": "pymodbus",
+      "html_url": "https://github.com/pymodbus-dev/pymodbus",
+      "description": "A full modbus protocol written in python",
+      "topics": [
+        "modbus",
+        "modbus-library",
+        "modbus-master",
+        "modbus-protocol",
+        "modbus-rtu",
+        "modbus-serial",
+        "modbus-slave",
+        "modbus-tcp",
+        "python"
+      ],
+      "stargazers_count": 2666,
+      "pushed_at": "2026-03-24T11:57:51Z",
+      "added_to_queue": "2026-04-10T01:15:34.782Z"
+    },
+    {
+      "name": "python-for-absolute-beginners-course",
+      "html_url": "https://github.com/talkpython/python-for-absolute-beginners-course",
+      "description": "Code samples and other handouts for our course.",
+      "topics": [
+        "beginner-friendly",
+        "course",
+        "python",
+        "tutorial"
+      ],
+      "stargazers_count": 2399,
+      "pushed_at": "2023-12-22T00:28:07Z",
+      "added_to_queue": "2026-04-10T01:15:34.782Z"
+    },
+    {
+      "name": "sqlc",
+      "html_url": "https://github.com/sqlc-dev/sqlc",
+      "description": "Generate type-safe code from SQL",
+      "topics": [
+        "code-generator",
+        "go",
+        "kotlin",
+        "mysql",
+        "orm",
+        "postgresql",
+        "python",
+        "sql",
+        "sqlite"
+      ],
+      "stargazers_count": 17318,
+      "pushed_at": "2026-04-08T10:03:37Z",
+      "added_to_queue": "2026-04-10T01:15:34.782Z"
+    },
+    {
+      "name": "ceph-ansible",
+      "html_url": "https://github.com/ceph/ceph-ansible",
+      "description": "Ansible playbooks to deploy Ceph, the distributed filesystem.",
+      "topics": [
+        "ansible",
+        "ceph",
+        "python"
+      ],
+      "stargazers_count": 1777,
+      "pushed_at": "2026-02-13T16:19:11Z",
+      "added_to_queue": "2026-04-10T01:15:34.782Z"
+    },
+    {
+      "name": "BaoTa",
+      "html_url": "https://github.com/aaPanel/BaoTa",
+      "description": "宝塔Linux面板 - 简单好用的服务器运维面板",
+      "topics": [
+        "baota",
+        "bt-panel",
+        "lamp",
+        "lnmp",
+        "python",
+        "web-panel"
+      ],
+      "stargazers_count": 4513,
+      "pushed_at": "2025-12-12T04:48:50Z",
+      "added_to_queue": "2026-04-10T01:15:34.782Z"
+    },
+    {
+      "name": "powerline",
+      "html_url": "https://github.com/powerline/powerline",
+      "description": "Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.",
+      "topics": [
+        "bash",
+        "fish",
+        "ipython",
+        "powerline",
+        "prompt",
+        "python",
+        "statusline",
+        "tmux",
+        "vim",
+        "zsh"
+      ],
+      "stargazers_count": 14735,
+      "pushed_at": "2026-03-11T01:18:21Z",
+      "added_to_queue": "2026-04-10T01:15:34.782Z"
+    },
+    {
+      "name": "chalice",
+      "html_url": "https://github.com/aws/chalice",
+      "description": "Python Serverless Microframework for AWS",
+      "topics": [
+        "aws",
+        "aws-apigateway",
+        "aws-lambda",
+        "cloud",
+        "lambda",
+        "python",
+        "python27",
+        "python3",
+        "serverless",
+        "serverless-framework"
+      ],
+      "stargazers_count": 11045,
+      "pushed_at": "2025-05-29T16:45:37Z",
+      "added_to_queue": "2026-04-10T01:15:34.782Z"
+    },
+    {
+      "name": "Algorithms",
+      "html_url": "https://github.com/VAR-solutions/Algorithms",
+      "description": "A repository of different Algorithms and Data Structures implemented in many programming languages.",
+      "topics": [
+        "algorithms",
+        "bit-manipulation",
+        "c",
+        "cpp",
+        "csharp",
+        "data-structures",
+        "dynamic-programming",
+        "go",
+        "golang",
+        "greedy-algorithms",
+        "help-wanted",
+        "java",
+        "javascript",
+        "mathematics",
+        "python",
+        "python3",
+        "ruby",
+        "rust",
+        "swift"
+      ],
+      "stargazers_count": 791,
+      "pushed_at": "2024-01-09T07:50:24Z",
+      "added_to_queue": "2026-04-10T01:15:34.782Z"
+    },
+    {
+      "name": "ShadowSocksShare",
+      "html_url": "https://github.com/the0demiurge/ShadowSocksShare",
+      "description": "(No longer maintained owing to the  lack of sufficient free ss accounts)Python爬虫/Flask网站/免费ShadowSocks账号/ssr订阅/json 订阅",
+      "topics": [
+        "flask",
+        "heroku",
+        "python",
+        "shadowsocks",
+        "ssr"
+      ],
+      "stargazers_count": 3010,
+      "pushed_at": "2023-03-09T20:46:31Z",
+      "added_to_queue": "2026-04-10T01:15:34.782Z"
+    },
+    {
+      "name": "WeRoBot",
+      "html_url": "https://github.com/offu/WeRoBot",
+      "description": "WeRoBot 是一个微信公众号开发框架",
+      "topics": [
+        "python",
+        "sdk",
+        "wechat",
+        "wechat-framework",
+        "wechat-sdk",
+        "weixin",
+        "weixin-sdk"
+      ],
+      "stargazers_count": 4666,
+      "pushed_at": "2026-01-13T10:35:47Z",
+      "added_to_queue": "2026-04-10T01:15:34.782Z"
+    },
+    {
+      "name": "share_ppt",
+      "html_url": "https://github.com/rfyiamcool/share_ppt",
+      "description": "🚗  个人做过的技术分享... ( topic: 高性能架构,  中间件原理实践，云原生，Golang 等)",
+      "topics": [
+        "etcd",
+        "golang",
+        "kafka",
+        "keynote",
+        "kubernetes",
+        "mysql",
+        "ppt",
+        "python"
+      ],
+      "stargazers_count": 5716,
+      "pushed_at": "2024-03-28T07:17:08Z",
+      "added_to_queue": "2026-04-10T01:15:34.782Z"
+    },
+    {
+      "name": "kombu",
+      "html_url": "https://github.com/celery/kombu",
+      "description": "Messaging library for Python.",
+      "topics": [
+        "celery",
+        "kombu",
+        "message-queue",
+        "messaging",
+        "python",
+        "python-3",
+        "python-library",
+        "python3",
+        "rabbitmq",
+        "redis",
+        "sqs"
+      ],
+      "stargazers_count": 3108,
+      "pushed_at": "2026-04-06T16:52:57Z",
+      "added_to_queue": "2026-04-10T01:15:34.782Z"
+    },
+    {
+      "name": "urh",
+      "html_url": "https://github.com/jopohl/urh",
+      "description": "Universal Radio Hacker: Investigate Wireless Protocols Like A Boss",
+      "topics": [
+        "airspy",
+        "bladerf",
+        "hacking",
+        "hackrf",
+        "iot",
+        "limesdr",
+        "python",
+        "qt",
+        "radio",
+        "rtl-sdr",
+        "sdr",
+        "sdrplay",
+        "security",
+        "usrp",
+        "wireless"
+      ],
+      "stargazers_count": 12342,
+      "pushed_at": "2025-12-19T14:25:58Z",
+      "added_to_queue": "2026-04-10T01:15:34.782Z"
+    },
+    {
+      "name": "one-python-craftsman",
+      "html_url": "https://github.com/piglei/one-python-craftsman",
+      "description": "来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面。",
+      "topics": [
+        "articles",
+        "book",
+        "python",
+        "python3"
+      ],
+      "stargazers_count": 7208,
+      "pushed_at": "2024-05-16T00:19:42Z",
+      "added_to_queue": "2026-04-10T01:15:34.782Z"
+    },
+    {
+      "name": "bootcamp",
+      "html_url": "https://github.com/vitorfs/bootcamp",
+      "description": "An enterprise social network",
+      "topics": [
+        "django",
+        "python",
+        "social-network"
+      ],
+      "stargazers_count": 2307,
+      "pushed_at": "2023-10-01T14:56:30Z",
+      "added_to_queue": "2026-04-10T01:15:34.782Z"
+    },
+    {
+      "name": "QGIS-Documentation",
+      "html_url": "https://github.com/qgis/QGIS-Documentation",
+      "description": "QGIS Documentation",
+      "topics": [
+        "python",
+        "qgis",
+        "rst"
+      ],
+      "stargazers_count": 583,
+      "pushed_at": "2026-04-10T01:14:30Z",
+      "added_to_queue": "2026-04-10T01:15:34.782Z"
+    },
+    {
+      "name": "crm",
+      "html_url": "https://github.com/frappe/crm",
+      "description": "Fully featured, open source CRM",
+      "topics": [
+        "crm",
+        "crm-connections",
+        "crm-platform",
+        "crm-software",
+        "crm-solution",
+        "crm-system",
+        "customer",
+        "frappe",
+        "frappe-app",
+        "javascript",
+        "marketing",
+        "open-source",
+        "python",
+        "sales",
+        "vue",
+        "vuejs3",
+        "web",
+        "webapp"
+      ],
+      "stargazers_count": 2526,
+      "pushed_at": "2026-04-09T18:06:53Z",
+      "added_to_queue": "2026-04-10T01:15:34.782Z"
+    },
+    {
+      "name": "SU2",
+      "html_url": "https://github.com/su2code/SU2",
+      "description": "SU2: An Open-Source Suite for Multiphysics Simulation and Design",
+      "topics": [
+        "c-plus-plus",
+        "cfd",
+        "flow",
+        "fluid",
+        "fluid-dynamics",
+        "hpc",
+        "opensource",
+        "optimization",
+        "physics",
+        "python",
+        "simulation"
+      ],
+      "stargazers_count": 1673,
+      "pushed_at": "2026-04-09T21:16:20Z",
+      "added_to_queue": "2026-04-10T01:15:34.782Z"
+    },
+    {
+      "name": "psychopy",
+      "html_url": "https://github.com/psychopy/psychopy",
+      "description": "For running psychology and neuroscience experiments",
+      "topics": [
+        "experiment",
+        "experiment-control",
+        "experimental-design",
+        "linguistics",
+        "neuroscience",
+        "psycholinguistics",
+        "psychology",
+        "psychophysics",
+        "psychopy",
+        "python",
+        "science"
+      ],
+      "stargazers_count": 1978,
+      "pushed_at": "2026-04-08T14:32:46Z",
+      "added_to_queue": "2026-04-10T01:15:34.782Z"
+    },
+    {
+      "name": "caprover",
+      "html_url": "https://github.com/caprover/caprover",
+      "description": "Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids",
+      "topics": [
+        "aws",
+        "azure",
+        "caprover",
+        "captainduckduck",
+        "containers",
+        "deployment",
+        "digitalocean",
+        "docker",
+        "docker-swarm",
+        "heroku",
+        "nginx",
+        "nginx-docker",
+        "node",
+        "node-js",
+        "nodejs",
+        "paas",
+        "php",
+        "python",
+        "webserver"
+      ],
+      "stargazers_count": 14963,
+      "pushed_at": "2026-01-31T15:42:45Z",
+      "added_to_queue": "2026-04-10T01:15:34.782Z"
+    },
+    {
+      "name": "gevent",
+      "html_url": "https://github.com/gevent/gevent",
+      "description": "Coroutine-based concurrency library for Python",
+      "topics": [
+        "asyncio",
+        "coroutines",
+        "greenlet",
+        "python"
+      ],
+      "stargazers_count": 6444,
+      "pushed_at": "2026-04-08T21:24:35Z",
+      "added_to_queue": "2026-04-10T01:15:34.782Z"
+    },
+    {
+      "name": "bedrock",
+      "html_url": "https://github.com/mozilla/bedrock",
+      "description": "Making mozilla.org awesome, one pebble at a time",
+      "topics": [
+        "css",
+        "django",
+        "firefox",
+        "html",
+        "javascript",
+        "mozilla",
+        "python"
+      ],
+      "stargazers_count": 1317,
+      "pushed_at": "2026-04-09T19:14:02Z",
+      "added_to_queue": "2026-04-10T01:15:34.782Z"
+    },
+    {
+      "name": "lsp-mode",
+      "html_url": "https://github.com/emacs-lsp/lsp-mode",
+      "description": "Emacs client/library for the Language Server Protocol",
+      "topics": [
+        "angular",
+        "cpp",
+        "dart",
+        "emacs",
+        "eslint",
+        "golang",
+        "html",
+        "java",
+        "javascript",
+        "json",
+        "language-server-client",
+        "language-server-protocol",
+        "php",
+        "python",
+        "ruby",
+        "rust",
+        "scala",
+        "swift",
+        "typescript"
+      ],
+      "stargazers_count": 5076,
+      "pushed_at": "2026-04-08T07:03:34Z",
+      "added_to_queue": "2026-04-10T01:15:34.782Z"
+    },
+    {
+      "name": "AcademicContent",
+      "html_url": "https://github.com/microsoft/AcademicContent",
+      "description": "Free tech resources for faculty, students, researchers, life-long learners, and academic community builders for use in tech based courses, workshops, and hackathons.",
+      "topics": [
+        "azure",
+        "classroom",
+        "computer-science",
+        "faculty",
+        "hackathons",
+        "labs",
+        "python",
+        "students",
+        "tech",
+        "tech-resources",
+        "tech-talks",
+        "workshops"
+      ],
+      "stargazers_count": 2795,
+      "pushed_at": "2025-08-21T15:25:38Z",
+      "added_to_queue": "2026-04-10T01:15:34.782Z"
+    },
+    {
+      "name": "eCommerce",
+      "html_url": "https://github.com/codingforentrepreneurs/eCommerce",
+      "description": "We're going to take you step-by-step to build a modern, fully open-source, eCommerce web application using Python, Django, Bootstrap, Javascript, and more. ",
+      "topics": [
+        "ajax",
+        "bootstrap",
+        "bootstrap4",
+        "card",
+        "cart-model",
+        "custom-queryset",
+        "django",
+        "django1-11",
+        "ecommerce",
+        "jquery",
+        "jquery-ajax",
+        "lookup",
+        "mailchimp",
+        "python",
+        "python3-6",
+        "stripe"
+      ],
+      "stargazers_count": 1751,
+      "pushed_at": "2024-06-14T07:05:13Z",
+      "added_to_queue": "2026-04-10T01:15:34.782Z"
+    },
+    {
+      "name": "django-locallibrary-tutorial",
+      "html_url": "https://github.com/mdn/django-locallibrary-tutorial",
+      "description": "Local Library website written in Django; example for the MDN server-side development Django module: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django.",
+      "topics": [
+        "demo",
+        "django",
+        "example",
+        "python",
+        "web-app"
+      ],
+      "stargazers_count": 1690,
+      "pushed_at": "2026-03-26T13:53:05Z",
+      "added_to_queue": "2026-04-10T01:15:34.782Z"
+    },
+    {
+      "name": "PySnooper",
+      "html_url": "https://github.com/cool-RR/PySnooper",
+      "description": "Never use print for debugging again",
+      "topics": [
+        "debug",
+        "debugger",
+        "introspection",
+        "logging",
+        "python"
+      ],
+      "stargazers_count": 16603,
+      "pushed_at": "2026-03-08T10:52:31Z",
+      "added_to_queue": "2026-04-10T01:15:34.782Z"
+    },
+    {
+      "name": "configuration",
+      "html_url": "https://github.com/openedx-unsupported/configuration",
+      "description": "A collection of edx configuration scripts and utilities that edx.org uses to deploy openedx.",
+      "topics": [
+        "ansible",
+        "docker",
+        "python"
+      ],
+      "stargazers_count": 820,
+      "pushed_at": "2024-05-06T17:49:51Z",
+      "added_to_queue": "2026-04-10T01:15:34.782Z"
+    },
+    {
+      "name": "youtube_tutorials",
+      "html_url": "https://github.com/vprusso/youtube_tutorials",
+      "description": "Collection of scripts corresponding to LucidProgramming YouTube tutorials",
+      "topics": [
+        "ctci-solutions",
+        "lucidprogramming",
+        "python",
+        "python-tutorial",
+        "python3",
+        "python3-tutorial",
+        "technical-interview",
+        "web-scraping",
+        "youtube-tutorial"
+      ],
+      "stargazers_count": 929,
+      "pushed_at": "2022-10-26T06:36:03Z",
+      "added_to_queue": "2026-04-10T01:15:34.782Z"
+    },
+    {
+      "name": "pymatgen",
+      "html_url": "https://github.com/materialsproject/pymatgen",
+      "description": "Python Materials Genomics (pymatgen) is a robust materials analysis code that defines classes for structures and molecules with support for many electronic structure codes. It powers the Materials Project.",
+      "topics": [
+        "materials",
+        "materials-informatics",
+        "materials-science",
+        "python",
+        "science"
+      ],
+      "stargazers_count": 1847,
+      "pushed_at": "2026-04-10T00:43:14Z",
+      "added_to_queue": "2026-04-10T01:15:34.782Z"
+    },
+    {
+      "name": "pre-commit",
+      "html_url": "https://github.com/pre-commit/pre-commit",
+      "description": "A framework for managing and maintaining multi-language pre-commit hooks.",
+      "topics": [
+        "git",
+        "linter",
+        "pre-commit",
+        "python",
+        "refactoring"
+      ],
+      "stargazers_count": 15144,
+      "pushed_at": "2026-04-07T18:04:39Z",
+      "added_to_queue": "2026-04-10T01:15:34.782Z"
     }
   ]
 }
