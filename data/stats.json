@@ -1,6 +1,6 @@
 {
-  "totalProjects": 8073,
-  "totalRawProjects": 17269,
+  "totalProjects": 8199,
+  "totalRawProjects": 17571,
   "recencyThresholdMonths": 6,
   "categories": {
     "trending": {
@@ -11,63 +11,63 @@
     "llms": {
       "name": "🧠 基础大模型",
       "count": 133,
-      "rawCount": 530
+      "rawCount": 536
     },
     "agents": {
       "name": "🤖 智能体与编排",
-      "count": 1123,
-      "rawCount": 1433
+      "count": 1152,
+      "rawCount": 1465
     },
     "rag_data": {
       "name": "🔍 RAG与检索",
-      "count": 369,
-      "rawCount": 588
+      "count": 374,
+      "rawCount": 596
     },
     "infrastructure": {
       "name": "☁️ 基础设施与部署",
-      "count": 836,
-      "rawCount": 1391
+      "count": 847,
+      "rawCount": 1417
     },
     "finetuning": {
       "name": "🔧 微调与训练",
-      "count": 341,
-      "rawCount": 868
+      "count": 345,
+      "rawCount": 876
     },
     "multimodal": {
       "name": "👁️ 多模态与音视频",
-      "count": 812,
-      "rawCount": 2538
+      "count": 820,
+      "rawCount": 2611
     },
     "devtools": {
       "name": "🛠️ 开发工具与SDK",
-      "count": 1760,
-      "rawCount": 3026
+      "count": 1796,
+      "rawCount": 3090
     },
     "applications": {
       "name": "🎨 AI终端应用",
-      "count": 755,
-      "rawCount": 1417
+      "count": 766,
+      "rawCount": 1440
     },
     "learning": {
       "name": "📚 学习与资源",
-      "count": 1132,
-      "rawCount": 3926
+      "count": 1138,
+      "rawCount": 3962
     },
     "desktop_tools": {
       "name": "💻 桌面与操作系统级应用",
-      "count": 230,
-      "rawCount": 317
+      "count": 234,
+      "rawCount": 324
     },
     "robotics_iot": {
       "name": "🦾 机器人与物联网",
-      "count": 443,
-      "rawCount": 977
+      "count": 452,
+      "rawCount": 990
     },
     "finance_business": {
       "name": "💼 商业与量化",
-      "count": 151,
-      "rawCount": 290
+      "count": 154,
+      "rawCount": 296
     }
   },
-  "lastUpdated": "2026-04-10T01:16:19.766Z"
+  "lastUpdated": "2026-04-12T01:55:50.744Z"
 }
