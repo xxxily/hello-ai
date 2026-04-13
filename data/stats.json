@@ -1,6 +1,6 @@
 {
-  "totalProjects": 8216,
-  "totalRawProjects": 17604,
+  "totalProjects": 8241,
+  "totalRawProjects": 17643,
   "recencyThresholdMonths": 6,
   "categories": {
     "trending": {
@@ -11,12 +11,12 @@
     "llms": {
       "name": "🧠 基础大模型",
       "count": 133,
-      "rawCount": 536
+      "rawCount": 537
     },
     "agents": {
       "name": "🤖 智能体与编排",
-      "count": 1156,
-      "rawCount": 1470
+      "count": 1161,
+      "rawCount": 1476
     },
     "rag_data": {
       "name": "🔍 RAG与检索",
@@ -25,8 +25,8 @@
     },
     "infrastructure": {
       "name": "☁️ 基础设施与部署",
-      "count": 848,
-      "rawCount": 1420
+      "count": 851,
+      "rawCount": 1424
     },
     "finetuning": {
       "name": "🔧 微调与训练",
@@ -35,23 +35,23 @@
     },
     "multimodal": {
       "name": "👁️ 多模态与音视频",
-      "count": 821,
-      "rawCount": 2616
+      "count": 823,
+      "rawCount": 2620
     },
     "devtools": {
       "name": "🛠️ 开发工具与SDK",
-      "count": 1798,
-      "rawCount": 3094
+      "count": 1811,
+      "rawCount": 3106
     },
     "applications": {
       "name": "🎨 AI终端应用",
-      "count": 767,
-      "rawCount": 1443
+      "count": 768,
+      "rawCount": 1452
     },
     "learning": {
       "name": "📚 学习与资源",
-      "count": 1143,
-      "rawCount": 3969
+      "count": 1144,
+      "rawCount": 3972
     },
     "desktop_tools": {
       "name": "💻 桌面与操作系统级应用",
@@ -69,5 +69,5 @@
       "rawCount": 297
     }
   },
-  "lastUpdated": "2026-04-12T14:52:51.930Z"
+  "lastUpdated": "2026-04-13T02:32:02.229Z"
 }
