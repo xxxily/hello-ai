@@ -1,3414 +1,1544 @@
 {
   "queue": [
     {
-      "name": "awesome-framer",
-      "html_url": "https://github.com/podo/awesome-framer",
-      "description": "A curated list of awesome things related to Framer prototyping tool",
+      "name": "5e-srd-api",
+      "html_url": "https://github.com/5e-bits/5e-srd-api",
+      "description": "REST API to access D&D 5th Edition SRD database",
       "topics": [
-        "autocode",
-        "awesome",
-        "awesome-list",
-        "framer",
-        "framer-courses",
-        "framer-modules",
-        "framer-prototype",
-        "framer-resources",
-        "framer-snippets",
-        "framer-studio",
-        "framerjs",
-        "prototype",
-        "tutorial",
-        "video-course"
+        "5e-srd-api",
+        "hacktoberfest"
       ],
-      "stargazers_count": 615,
-      "pushed_at": "2026-03-22T06:15:59Z",
-      "added_to_queue": "2026-04-16T03:22:17.869Z"
+      "stargazers_count": 606,
+      "pushed_at": "2026-04-17T05:34:08Z",
+      "added_to_queue": "2026-04-17T13:08:39.555Z"
     },
     {
-      "name": "awesome-fsharp",
-      "html_url": "https://github.com/fsprojects/awesome-fsharp",
-      "description": "A curated list of awesome F# frameworks, libraries, software and resources.",
+      "name": "docs",
+      "html_url": "https://github.com/cakephp/docs",
+      "description": "CakePHP CookBook",
       "topics": [
-        "awesome",
-        "awesome-list",
+        "cakephp",
+        "documentation",
+        "hacktoberfest"
+      ],
+      "stargazers_count": 690,
+      "pushed_at": "2026-04-16T16:42:41Z",
+      "added_to_queue": "2026-04-17T13:08:39.555Z"
+    },
+    {
+      "name": "zmk",
+      "html_url": "https://github.com/zmkfirmware/zmk",
+      "description": "ZMK Firmware Repository",
+      "topics": [
+        "bluetooth",
+        "hacktoberfest",
+        "keyboard",
+        "keyboard-firmware",
+        "mechanical-keyboard",
+        "wireless",
+        "zephyr",
+        "zmk"
+      ],
+      "stargazers_count": 3987,
+      "pushed_at": "2026-04-16T05:03:55Z",
+      "added_to_queue": "2026-04-17T13:08:39.555Z"
+    },
+    {
+      "name": "rake",
+      "html_url": "https://github.com/ruby/rake",
+      "description": "A make-like build utility for Ruby.",
+      "topics": [
+        "hacktoberfest",
+        "rake",
+        "rakefile",
+        "ruby"
+      ],
+      "stargazers_count": 2437,
+      "pushed_at": "2026-04-16T04:46:47Z",
+      "added_to_queue": "2026-04-17T13:08:39.555Z"
+    },
+    {
+      "name": "toha",
+      "html_url": "https://github.com/hugo-themes/toha",
+      "description": "A Hugo theme for personal portfolio",
+      "topics": [
+        "blog",
+        "hacktoberfest",
+        "hacktoberfest-accepted",
+        "hugo",
+        "hugo-site",
+        "personal-site",
+        "personal-website",
+        "portfolio",
+        "portfolio-site",
+        "theme",
+        "toha"
+      ],
+      "stargazers_count": 1232,
+      "pushed_at": "2026-04-16T04:44:23Z",
+      "added_to_queue": "2026-04-17T13:08:39.555Z"
+    },
+    {
+      "name": "newt",
+      "html_url": "https://github.com/fosrl/newt",
+      "description": "Pangolin tunneled site & network connector",
+      "topics": [
+        "hacktoberfest",
+        "overlay-network",
+        "tunnel-client",
+        "userspace-networking",
+        "vpn",
+        "wireguard"
+      ],
+      "stargazers_count": 767,
+      "pushed_at": "2026-04-17T09:47:47Z",
+      "added_to_queue": "2026-04-17T13:08:39.555Z"
+    },
+    {
+      "name": "remix-project",
+      "html_url": "https://github.com/remix-project-org/remix-project",
+      "description": "Remix is a browser-based compiler and IDE that enables users to build Ethereum contracts with Solidity language and to debug transactions.",
+      "topics": [
+        "blockchain",
+        "ethereum",
+        "evm",
+        "hacktoberfest",
+        "remix",
+        "remix-ide",
+        "smart-contracts",
+        "solidity",
+        "vyper"
+      ],
+      "stargazers_count": 2939,
+      "pushed_at": "2026-04-17T11:52:41Z",
+      "added_to_queue": "2026-04-17T13:08:39.555Z"
+    },
+    {
+      "name": "jsPDF",
+      "html_url": "https://github.com/parallax/jsPDF",
+      "description": "Client-side JavaScript PDF generation for everyone.",
+      "topics": [
+        "hacktoberfest"
+      ],
+      "stargazers_count": 31213,
+      "pushed_at": "2026-04-16T04:18:49Z",
+      "added_to_queue": "2026-04-17T13:08:39.555Z"
+    },
+    {
+      "name": "canvasapi",
+      "html_url": "https://github.com/ucfopen/canvasapi",
+      "description": "Python API wrapper for Instructure's Canvas LMS. Easily manage courses, users, gradebooks, and more.",
+      "topics": [
+        "api",
+        "canvas",
+        "canvas-lms",
+        "education",
+        "hacktoberfest",
+        "instructure",
+        "python",
+        "wrapper"
+      ],
+      "stargazers_count": 654,
+      "pushed_at": "2026-04-16T04:34:39Z",
+      "added_to_queue": "2026-04-17T13:08:39.555Z"
+    },
+    {
+      "name": "admin",
+      "html_url": "https://github.com/api-platform/admin",
+      "description": "A beautiful and fully-featured administration interface builder for hypermedia APIs",
+      "topics": [
+        "admin",
+        "api-platform",
+        "hacktoberfest",
+        "hydra",
+        "hypermedia",
+        "hypermedia-client",
+        "json-ld",
+        "react",
+        "rest",
+        "rest-api"
+      ],
+      "stargazers_count": 508,
+      "pushed_at": "2026-04-16T04:10:17Z",
+      "added_to_queue": "2026-04-17T13:08:39.555Z"
+    },
+    {
+      "name": "olake",
+      "html_url": "https://github.com/datazip-inc/olake",
+      "description": "OLake - Fastest Databases, Kafka & S3 Replication to Apache Iceberg or Plain Parquet. ⚡ Efficient, quick and scalable data ingestion for real-time analytics.  Supported sources :  Postgres, MongoDB, MySQL, Oracle, MSSql, DB2, Kafka, S3.",
+      "topics": [
+        "apache-iceberg",
+        "cdc",
+        "change-data-capture",
+        "data-pipeline",
+        "database",
+        "elt",
+        "hacktoberfest",
+        "kafka",
+        "lakehouse",
+        "parquet",
+        "replication",
+        "s3"
+      ],
+      "stargazers_count": 1317,
+      "pushed_at": "2026-04-17T11:24:47Z",
+      "added_to_queue": "2026-04-17T13:08:39.555Z"
+    },
+    {
+      "name": "avo",
+      "html_url": "https://github.com/avo-hq/avo",
+      "description": "The Essential Toolkit for building Internal Tools and admin panels with Ruby on Rails",
+      "topics": [
+        "admin",
+        "admin-dashboard",
+        "admin-panel",
+        "cms-framework",
+        "content-management-system",
+        "crm",
+        "crm-platform",
+        "crud",
+        "fast",
+        "hacktoberfest",
+        "maintainable",
+        "open-source",
+        "rails",
+        "ruby",
+        "ruby-on-rails",
+        "ui-builder"
+      ],
+      "stargazers_count": 1765,
+      "pushed_at": "2026-04-17T09:44:54Z",
+      "added_to_queue": "2026-04-17T13:08:39.555Z"
+    },
+    {
+      "name": "homebrewery",
+      "html_url": "https://github.com/naturalcrit/homebrewery",
+      "description": "Create authentic looking D&D homebrews using only markdown",
+      "topics": [
+        "dnd",
+        "hacktoberfest",
+        "homebrewery",
+        "markdown",
+        "rpg",
+        "stylesheet"
+      ],
+      "stargazers_count": 1275,
+      "pushed_at": "2026-04-16T03:23:49Z",
+      "added_to_queue": "2026-04-17T13:08:39.555Z"
+    },
+    {
+      "name": "goreleaser",
+      "html_url": "https://github.com/goreleaser/goreleaser",
+      "description": "Release engineering, simplified",
+      "topics": [
+        "announcements",
+        "github-actions",
+        "hacktoberfest",
+        "package",
+        "release-automation",
+        "release-engineering"
+      ],
+      "stargazers_count": 15713,
+      "pushed_at": "2026-04-17T08:10:32Z",
+      "added_to_queue": "2026-04-17T13:08:39.555Z"
+    },
+    {
+      "name": "wire-desktop",
+      "html_url": "https://github.com/wireapp/wire-desktop",
+      "description": ":computer: Wire for desktop",
+      "topics": [
+        "desktop",
+        "electron",
+        "hacktoberfest",
+        "wire"
+      ],
+      "stargazers_count": 1118,
+      "pushed_at": "2026-04-17T08:38:45Z",
+      "added_to_queue": "2026-04-17T13:08:39.555Z"
+    },
+    {
+      "name": "webargs",
+      "html_url": "https://github.com/marshmallow-code/webargs",
+      "description": "A friendly library for parsing HTTP request arguments, with built-in support for popular web frameworks, including Flask, Django, Bottle, Tornado, Pyramid, webapp2, Falcon, and aiohttp.",
+      "topics": [
+        "aiohttp",
+        "bottlepy",
+        "django",
+        "falcon",
+        "flask",
+        "hacktoberfest",
+        "marshmallow",
+        "pyramid",
+        "python",
+        "request-validation",
+        "validation"
+      ],
+      "stargazers_count": 1407,
+      "pushed_at": "2026-04-16T03:05:24Z",
+      "added_to_queue": "2026-04-17T13:08:39.555Z"
+    },
+    {
+      "name": "pd",
+      "html_url": "https://github.com/tikv/pd",
+      "description": "Placement driver for TiKV",
+      "topics": [
+        "hacktoberfest"
+      ],
+      "stargazers_count": 1149,
+      "pushed_at": "2026-04-16T02:56:03Z",
+      "added_to_queue": "2026-04-17T13:08:39.555Z"
+    },
+    {
+      "name": "spotify-dl",
+      "html_url": "https://github.com/SwapnilSoni1999/spotify-dl",
+      "description": "Spotify Downloader and alternative of Spotdl(python) tool made in NodeJS based on youtube-dl ",
+      "topics": [
+        "downloader",
+        "hacktoberfest",
+        "nodejs-script",
+        "spotify",
+        "spotify-dl",
+        "spotify-downloader",
+        "youtube-dl"
+      ],
+      "stargazers_count": 1633,
+      "pushed_at": "2026-04-16T02:49:30Z",
+      "added_to_queue": "2026-04-17T13:08:39.555Z"
+    },
+    {
+      "name": "pdm",
+      "html_url": "https://github.com/pdm-project/pdm",
+      "description": "A modern Python package and dependency manager supporting the latest PEP standards",
+      "topics": [
+        "hacktoberfest",
+        "package-manager",
+        "packaging",
+        "pep582",
+        "pep621",
+        "python",
+        "workflow"
+      ],
+      "stargazers_count": 8553,
+      "pushed_at": "2026-04-16T02:44:14Z",
+      "added_to_queue": "2026-04-17T13:08:39.555Z"
+    },
+    {
+      "name": "lagoon",
+      "html_url": "https://github.com/uselagoon/lagoon",
+      "description": "Lagoon, the developer-focused application delivery platform",
+      "topics": [
+        "hacktoberfest"
+      ],
+      "stargazers_count": 592,
+      "pushed_at": "2026-04-16T23:55:08Z",
+      "added_to_queue": "2026-04-17T13:08:39.555Z"
+    },
+    {
+      "name": "altair",
+      "html_url": "https://github.com/altair-graphql/altair",
+      "description": "✨⚡️ A feature-rich GraphQL Client for all platforms.",
+      "topics": [
+        "altair",
+        "angular",
+        "chrome-extension",
+        "desktop-apps",
+        "electron",
+        "express-middleware",
+        "fragments",
+        "graphiql",
+        "graphql",
+        "graphql-client",
+        "graphql-editor",
+        "graphql-ide",
+        "graphql-server",
+        "graphql-subscriptions",
+        "hacktoberfest",
+        "ngrx",
+        "opensource"
+      ],
+      "stargazers_count": 5402,
+      "pushed_at": "2026-04-17T00:13:34Z",
+      "added_to_queue": "2026-04-17T13:08:39.555Z"
+    },
+    {
+      "name": "libresign",
+      "html_url": "https://github.com/LibreSign/libresign",
+      "description": "✍️ Nextcloud app to sign PDF documents",
+      "topics": [
+        "cfssl",
+        "cfssl-api",
+        "docusign-alternative",
+        "hacktoberfest",
+        "jsignpdf",
+        "jsignpdf-php",
+        "libresign",
+        "nextcloud",
+        "nextcloud-app",
+        "pdf",
+        "pdf-sign",
+        "pdf-signature",
+        "pdf-signer",
+        "php",
+        "sign",
+        "signature",
+        "signatures",
+        "signer",
+        "vue",
+        "vuejs"
+      ],
+      "stargazers_count": 752,
+      "pushed_at": "2026-04-17T04:11:14Z",
+      "added_to_queue": "2026-04-17T13:08:39.555Z"
+    },
+    {
+      "name": "Multiverse-Core",
+      "html_url": "https://github.com/Multiverse/Multiverse-Core",
+      "description": "The original Bukkit Multi-World Plugin! ",
+      "topics": [
+        "bukkit",
+        "bukkit-plugin",
+        "hacktoberfest",
+        "java",
+        "multiverse",
+        "world-manager"
+      ],
+      "stargazers_count": 1083,
+      "pushed_at": "2026-04-16T02:24:43Z",
+      "added_to_queue": "2026-04-17T13:08:39.555Z"
+    },
+    {
+      "name": "datacube-core",
+      "html_url": "https://github.com/opendatacube/datacube-core",
+      "description": "Open Data Cube analyses continental scale Earth Observation data through time",
+      "topics": [
+        "gdal",
+        "gis",
+        "hacktoberfest",
+        "netcdf",
+        "numpy",
+        "python",
+        "raster",
+        "remote-sensing",
+        "scientific-computing"
+      ],
+      "stargazers_count": 572,
+      "pushed_at": "2026-04-16T01:46:04Z",
+      "added_to_queue": "2026-04-17T13:08:39.555Z"
+    },
+    {
+      "name": "news",
+      "html_url": "https://github.com/nextcloud/news",
+      "description": "📰 RSS/Atom feed reader",
+      "topics": [
+        "atom-feed",
+        "feed",
+        "feed-reader",
+        "hacktoberfest",
+        "news",
+        "nextcloud",
+        "nextcloud-news",
+        "rss",
+        "rss-reader"
+      ],
+      "stargazers_count": 972,
+      "pushed_at": "2026-04-17T12:25:36Z",
+      "added_to_queue": "2026-04-17T13:08:39.555Z"
+    },
+    {
+      "name": "PySolFC",
+      "html_url": "https://github.com/shlomif/PySolFC",
+      "description": "A comprehensive, feature-rich, open source, and portable, collection of Solitaire games.",
+      "topics": [
+        "card-game",
+        "cards",
+        "freecell-solver",
+        "game",
+        "hacktoberfest",
+        "open-source",
+        "patience",
+        "python",
+        "solitaire",
+        "solitaire-game"
+      ],
+      "stargazers_count": 536,
+      "pushed_at": "2026-04-16T01:11:43Z",
+      "added_to_queue": "2026-04-17T13:08:39.556Z"
+    },
+    {
+      "name": "TikTok-Live-Connector",
+      "html_url": "https://github.com/zerodytrash/TikTok-Live-Connector",
+      "description": "Node.js library to receive live stream events (comments, gifts, etc.) in realtime from TikTok LIVE.",
+      "topics": [
+        "api",
+        "api-wrapper",
+        "bot",
+        "broadcast",
+        "chat",
+        "chat-reader",
+        "connector",
+        "hacktoberfest",
+        "javascript",
+        "live",
+        "livestream",
+        "nodejs",
+        "package",
+        "scraper",
+        "stream",
+        "tiktok",
+        "tiktok-api",
+        "tiktok-live",
+        "webcast",
+        "websocket"
+      ],
+      "stargazers_count": 1957,
+      "pushed_at": "2026-04-16T00:57:27Z",
+      "added_to_queue": "2026-04-17T13:08:39.556Z"
+    },
+    {
+      "name": "amplication",
+      "html_url": "https://github.com/amplication/amplication",
+      "description": "Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, simplify onboarding, and accelerate standardized delivery across teams.",
+      "topics": [
+        "api",
+        "code-generation",
+        "csharp",
+        "csharp-code",
         "dotnet",
-        "fsharp"
+        "dotnet-core",
+        "graphql",
+        "hacktoberfest",
+        "javascript",
+        "low-code",
+        "nestjs",
+        "nodejs",
+        "prisma",
+        "typescript",
+        "web"
       ],
-      "stargazers_count": 1398,
-      "pushed_at": "2026-03-21T15:21:56Z",
-      "added_to_queue": "2026-04-16T03:22:17.869Z"
+      "stargazers_count": 15989,
+      "pushed_at": "2026-04-17T04:08:16Z",
+      "added_to_queue": "2026-04-17T13:08:39.556Z"
     },
     {
-      "name": "awesome-privacy",
-      "html_url": "https://github.com/pluja/awesome-privacy",
-      "description": "Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.",
+      "name": "agenda-tech-brasil",
+      "html_url": "https://github.com/agenda-tech-brasil/agenda-tech-brasil",
+      "description": "Lista de eventos tech que acontecem no Brasil",
       "topics": [
-        "alternatives",
+        "community",
+        "devrel",
+        "eventsourcing",
+        "hacktoberfest"
+      ],
+      "stargazers_count": 5226,
+      "pushed_at": "2026-04-16T00:46:57Z",
+      "added_to_queue": "2026-04-17T13:08:39.556Z"
+    },
+    {
+      "name": "spotbugs",
+      "html_url": "https://github.com/spotbugs/spotbugs",
+      "description": "SpotBugs is FindBugs' successor. A tool for static analysis to look for bugs in Java code.",
+      "topics": [
+        "code-analysis",
+        "findbugs",
+        "hacktoberfest",
+        "linter",
+        "static-analysis",
+        "static-code-analysis"
+      ],
+      "stargazers_count": 3862,
+      "pushed_at": "2026-04-17T08:57:44Z",
+      "added_to_queue": "2026-04-17T13:08:39.556Z"
+    },
+    {
+      "name": "config",
+      "html_url": "https://github.com/thephpleague/config",
+      "description": "Simple yet expressive schema-based configuration library for PHP apps",
+      "topics": [
+        "config",
+        "configuration",
+        "hacktoberfest",
+        "php",
+        "schema"
+      ],
+      "stargazers_count": 564,
+      "pushed_at": "2026-04-17T00:32:32Z",
+      "added_to_queue": "2026-04-17T13:08:39.556Z"
+    },
+    {
+      "name": "commonmark",
+      "html_url": "https://github.com/thephpleague/commonmark",
+      "description": "Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.",
+      "topics": [
+        "commonmark",
+        "gfm",
+        "github-flavored-markdown",
+        "hacktoberfest",
+        "markdown",
+        "php"
+      ],
+      "stargazers_count": 2944,
+      "pushed_at": "2026-04-17T00:18:37Z",
+      "added_to_queue": "2026-04-17T13:08:39.556Z"
+    },
+    {
+      "name": "edgetx",
+      "html_url": "https://github.com/EdgeTX/edgetx",
+      "description": "EdgeTX is the cutting edge open source firmware for your R/C radio",
+      "topics": [
+        "fpv-racing",
+        "hacktoberfest",
+        "radio",
+        "rc"
+      ],
+      "stargazers_count": 2241,
+      "pushed_at": "2026-04-16T04:55:09Z",
+      "added_to_queue": "2026-04-17T13:08:39.556Z"
+    },
+    {
+      "name": "pencil",
+      "html_url": "https://github.com/pencil2d/pencil",
+      "description": "Pencil2D is an easy, intuitive tool to make 2D hand-drawn animations. Pencil2D is open source and cross-platform.",
+      "topics": [
+        "animation",
+        "bitmap",
+        "cartoon",
+        "cplusplus",
+        "drawing",
+        "graphics2d",
+        "hacktoberfest",
+        "linux",
+        "macos",
+        "multi-platform",
+        "onion-skin",
+        "pencil2d",
+        "qt5"
+      ],
+      "stargazers_count": 1686,
+      "pushed_at": "2026-04-16T15:53:23Z",
+      "added_to_queue": "2026-04-17T13:08:39.556Z"
+    },
+    {
+      "name": "TwitchIO",
+      "html_url": "https://github.com/TwitchIO/TwitchIO",
+      "description": "A fully featured, powerful async Python library for the Twitch API and EventSub.",
+      "topics": [
+        "api",
+        "async",
+        "bot-framework",
+        "hacktoberfest",
+        "python",
+        "python3",
+        "twitch",
+        "twitch-api",
+        "twitch-bot",
+        "twitch-bot-python",
+        "twitch-chat-bot",
+        "twitch-conduits",
+        "twitch-eventsub",
+        "twitch-py-api",
+        "twitch-python",
+        "twitch-tv",
+        "wrapper"
+      ],
+      "stargazers_count": 875,
+      "pushed_at": "2026-04-15T23:55:59Z",
+      "added_to_queue": "2026-04-17T13:08:39.556Z"
+    },
+    {
+      "name": "NeoForge",
+      "html_url": "https://github.com/neoforged/NeoForge",
+      "description": "Neo Modding API for Minecraft: Java Edition, based on Forge",
+      "topics": [
+        "hacktoberfest",
+        "minecraft",
+        "modding-api",
+        "neoforge",
+        "renovated"
+      ],
+      "stargazers_count": 1871,
+      "pushed_at": "2026-04-15T23:31:05Z",
+      "added_to_queue": "2026-04-17T13:08:39.556Z"
+    },
+    {
+      "name": "vscode-powershell",
+      "html_url": "https://github.com/PowerShell/vscode-powershell",
+      "description": "Provides PowerShell language and debugging support for Visual Studio Code",
+      "topics": [
+        "extensions",
+        "hacktoberfest",
+        "powershell",
+        "visual-studio-code"
+      ],
+      "stargazers_count": 1869,
+      "pushed_at": "2026-04-15T23:26:38Z",
+      "added_to_queue": "2026-04-17T13:08:39.556Z"
+    },
+    {
+      "name": "Rocket.Chat.ReactNative",
+      "html_url": "https://github.com/RocketChat/Rocket.Chat.ReactNative",
+      "description": "The Secure CommsOS™ for mission-critical operations",
+      "topics": [
+        "android",
+        "chat",
+        "hacktoberfest",
+        "ios",
+        "react-native"
+      ],
+      "stargazers_count": 2375,
+      "pushed_at": "2026-04-17T11:22:04Z",
+      "added_to_queue": "2026-04-17T13:08:39.556Z"
+    },
+    {
+      "name": "microk8s",
+      "html_url": "https://github.com/canonical/microk8s",
+      "description": "MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge.",
+      "topics": [
+        "cicd",
+        "developer-workstations",
+        "hacktoberfest",
+        "iot",
+        "k8s",
+        "kubernetes",
+        "snap"
+      ],
+      "stargazers_count": 9261,
+      "pushed_at": "2026-04-15T22:52:39Z",
+      "added_to_queue": "2026-04-17T13:08:39.556Z"
+    },
+    {
+      "name": "v2ray-core",
+      "html_url": "https://github.com/v2fly/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "topics": [
+        "anticensorship",
+        "hacktoberfest",
+        "network",
+        "proxy",
+        "shadowsocks",
+        "socks5",
+        "trojan",
+        "tunnel",
+        "v2fly",
+        "v2ray",
+        "vless",
+        "vmess",
+        "vpn"
+      ],
+      "stargazers_count": 33681,
+      "pushed_at": "2026-04-15T22:52:32Z",
+      "added_to_queue": "2026-04-17T13:08:39.556Z"
+    },
+    {
+      "name": "htop",
+      "html_url": "https://github.com/htop-dev/htop",
+      "description": "htop - an interactive process viewer",
+      "topics": [
+        "bsd",
+        "c",
+        "console",
+        "hacktoberfest",
+        "linux",
+        "macos",
+        "process",
+        "terminal",
+        "viewer"
+      ],
+      "stargazers_count": 8004,
+      "pushed_at": "2026-04-15T22:51:41Z",
+      "added_to_queue": "2026-04-17T13:08:39.556Z"
+    },
+    {
+      "name": "open-source-mac-os-apps",
+      "html_url": "https://github.com/serhii-londar/open-source-mac-os-apps",
+      "description": "🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps",
+      "topics": [
+        "applications",
         "apps",
         "awesome",
         "awesome-list",
-        "degoogle",
-        "gafam",
-        "list",
-        "privacy",
-        "services"
+        "c",
+        "c-plus-plus",
+        "hacktoberfest",
+        "javascript",
+        "mac",
+        "macos",
+        "macos-application",
+        "macosx",
+        "objective-c",
+        "open-source",
+        "opensource",
+        "python",
+        "ruby",
+        "swift"
       ],
-      "stargazers_count": 18488,
-      "pushed_at": "2026-03-21T07:45:43Z",
-      "added_to_queue": "2026-04-16T03:22:17.869Z"
+      "stargazers_count": 48193,
+      "pushed_at": "2026-04-15T22:47:24Z",
+      "added_to_queue": "2026-04-17T13:08:39.556Z"
     },
     {
-      "name": "awesome-webaudio",
-      "html_url": "https://github.com/notthetup/awesome-webaudio",
-      "description": "A curated list of awesome WebAudio packages and resources.",
+      "name": "virtualenv",
+      "html_url": "https://github.com/pypa/virtualenv",
+      "description": "Virtual Python Environment builder",
       "topics": [
-        "audio",
-        "awesome",
-        "awesome-list",
-        "list",
-        "midi",
-        "webaudio"
+        "cython",
+        "hacktoberfest",
+        "jython",
+        "library",
+        "pypa",
+        "pypy",
+        "pypy3",
+        "python",
+        "virtualenv"
       ],
-      "stargazers_count": 1342,
-      "pushed_at": "2026-03-21T05:39:29Z",
-      "added_to_queue": "2026-04-16T03:22:17.869Z"
+      "stargazers_count": 5033,
+      "pushed_at": "2026-04-17T00:04:54Z",
+      "added_to_queue": "2026-04-17T13:08:39.556Z"
     },
     {
-      "name": "awesome-gamedev",
-      "html_url": "https://github.com/Calinou/awesome-gamedev",
-      "description": "A collection of free software and free culture resources for making amazing games. (mirror)",
+      "name": "sphinx-autodoc-typehints",
+      "html_url": "https://github.com/tox-dev/sphinx-autodoc-typehints",
+      "description": "Type hints support for the Sphinx autodoc extension",
       "topics": [
-        "awesome",
-        "awesome-list",
-        "game",
-        "game-development",
-        "game-programming"
+        "hacktoberfest"
       ],
-      "stargazers_count": 2952,
-      "pushed_at": "2026-03-21T00:45:34Z",
-      "added_to_queue": "2026-04-16T03:22:17.869Z"
+      "stargazers_count": 586,
+      "pushed_at": "2026-04-17T06:42:41Z",
+      "added_to_queue": "2026-04-17T13:08:39.556Z"
     },
     {
-      "name": "awesome-uikit",
-      "html_url": "https://github.com/jaywcjlove/awesome-uikit",
-      "description": "Collect JS Frameworks, Web components library and Admin Template.",
+      "name": "Samples",
+      "html_url": "https://github.com/SteeltoeOSS/Samples",
+      "description": "Steeltoe samples and reference application collection",
       "topics": [
-        "angular",
-        "angular-components",
-        "ant-design",
-        "antd",
+        "asp",
+        "cloud-foundry",
+        "connector",
+        "discovery",
+        "dotnet",
+        "hacktoberfest",
+        "management",
+        "microservice",
+        "music-store",
+        "security",
+        "service-discovery",
+        "steeltoe-components",
+        "steeltoe-connectors"
+      ],
+      "stargazers_count": 647,
+      "pushed_at": "2026-04-15T21:35:17Z",
+      "added_to_queue": "2026-04-17T13:08:39.556Z"
+    },
+    {
+      "name": "piral",
+      "html_url": "https://github.com/smapiot/piral",
+      "description": "🚀 Framework for next generation web apps using micro frontends. ⭐️ Star to support our work! ",
+      "topics": [
+        "app",
         "awesome",
-        "awesome-list",
-        "bootstrap",
-        "bootstrap-admin-theme",
-        "bootstrap4",
-        "framework",
-        "ng-admin",
+        "blazing",
+        "frontend",
+        "hacktoberfest",
+        "micro-frontend",
+        "microfrontend",
+        "microfrontends",
+        "microfrontends-demo",
+        "microservices",
+        "modules",
+        "nextgen",
+        "piral",
+        "portal",
         "react",
-        "react-admin",
-        "react-components",
-        "ui-component",
-        "uikit",
-        "uiw",
-        "vue",
-        "vue-admin",
-        "vue-components"
+        "spa",
+        "typescript",
+        "web",
+        "webapp",
+        "webapplication"
       ],
-      "stargazers_count": 1621,
-      "pushed_at": "2026-03-20T04:54:59Z",
-      "added_to_queue": "2026-04-16T03:22:17.869Z"
+      "stargazers_count": 1902,
+      "pushed_at": "2026-04-15T21:35:09Z",
+      "added_to_queue": "2026-04-17T13:08:39.556Z"
     },
     {
-      "name": "awesome-balatro",
-      "html_url": "https://github.com/jie65535/awesome-balatro",
-      "description": "A list of Balatro Mods and Tools",
+      "name": "hoverboard",
+      "html_url": "https://github.com/gdg-x/hoverboard",
+      "description": "Conference website template",
       "topics": [
-        "awesome",
-        "balatro"
+        "conference-management",
+        "firebase",
+        "firestore",
+        "gdg",
+        "hacktoberfest",
+        "hoverboard",
+        "lit-element",
+        "material-design",
+        "polymer",
+        "pwa",
+        "redux",
+        "service-worker",
+        "web-components"
       ],
-      "stargazers_count": 1184,
-      "pushed_at": "2026-03-20T01:00:18Z",
-      "added_to_queue": "2026-04-16T03:22:17.869Z"
+      "stargazers_count": 1147,
+      "pushed_at": "2026-04-17T05:19:58Z",
+      "added_to_queue": "2026-04-17T13:08:39.556Z"
     },
     {
-      "name": "awesome-stylelint",
-      "html_url": "https://github.com/stylelint/awesome-stylelint",
-      "description": "A list of awesome Stylelint plugins, configs, etc.",
+      "name": "freya",
+      "html_url": "https://github.com/marc2332/freya",
+      "description": "Cross-platform and non-web GUI library for 🦀 Rust  powered by 🎨 Skia.",
       "topics": [
-        "awesome",
-        "awesome-list",
-        "stylelint"
+        "cross-platform",
+        "dioxus",
+        "gui",
+        "hacktoberfest",
+        "rust",
+        "skia"
       ],
-      "stargazers_count": 528,
-      "pushed_at": "2026-03-19T09:19:37Z",
-      "added_to_queue": "2026-04-16T03:22:17.869Z"
+      "stargazers_count": 2677,
+      "pushed_at": "2026-04-15T21:28:54Z",
+      "added_to_queue": "2026-04-17T13:08:39.556Z"
     },
     {
-      "name": "awesome-micropython",
-      "html_url": "https://github.com/mcauser/awesome-micropython",
-      "description": "A curated list of awesome MicroPython libraries, frameworks, software and resources.",
+      "name": "testcontainers-dotnet",
+      "html_url": "https://github.com/testcontainers/testcontainers-dotnet",
+      "description": "A library to support tests with throwaway instances of Docker containers for all compatible .NET Standard versions.",
       "topics": [
-        "awesome",
-        "awesome-list",
-        "collection",
-        "micropython"
+        "automation",
+        "docker",
+        "dotnet",
+        "hacktoberfest",
+        "testcontainers",
+        "testcontainers-dotnet",
+        "testing"
       ],
-      "stargazers_count": 1759,
-      "pushed_at": "2026-03-19T02:59:06Z",
-      "added_to_queue": "2026-04-16T03:22:17.869Z"
+      "stargazers_count": 4287,
+      "pushed_at": "2026-04-15T21:28:15Z",
+      "added_to_queue": "2026-04-17T13:08:39.556Z"
     },
     {
-      "name": "diktat",
-      "html_url": "https://github.com/saveourtool/diktat",
-      "description": "Strict coding standard for Kotlin and a custom set of rules for detecting code smells, code style issues and bugs",
+      "name": "mirotalk",
+      "html_url": "https://github.com/miroslavpejic85/mirotalk",
+      "description": "🚀 Self-hosted open-source WebRTC video conferencing platform built on peer-to-peer (P2P) architecture for fast, secure real-time communication with end-to-end privacy.",
       "topics": [
-        "android",
-        "awesome",
-        "awesome-kotlin",
-        "checkstyle",
-        "code-checker",
-        "code-fixer",
-        "codecheck",
-        "codestyle",
+        "conferencing",
+        "decentralized",
+        "docker-image",
+        "hacktoberfest",
+        "html-css-javascript",
+        "javascript",
+        "livechat",
+        "meeting",
+        "mirotalk",
+        "open-source",
+        "p2p",
+        "peer-to-peer",
+        "screensharing",
+        "video-call",
+        "video-chat",
+        "video-conferencing",
+        "webrtc",
+        "webrtc-call",
+        "webrtc-video",
+        "whiteboard"
+      ],
+      "stargazers_count": 4400,
+      "pushed_at": "2026-04-15T21:24:37Z",
+      "added_to_queue": "2026-04-17T13:08:39.556Z"
+    },
+    {
+      "name": "inav-configurator",
+      "html_url": "https://github.com/iNavFlight/inav-configurator",
+      "description": null,
+      "topics": [
+        "aircraft",
+        "drones",
+        "hacktoberfest",
+        "inav",
+        "inav-configurator",
+        "uav"
+      ],
+      "stargazers_count": 757,
+      "pushed_at": "2026-04-15T21:23:01Z",
+      "added_to_queue": "2026-04-17T13:08:39.556Z"
+    },
+    {
+      "name": "evennia",
+      "html_url": "https://github.com/evennia/evennia",
+      "description": "Python MUD/MUX/MUSH/MU* development system",
+      "topics": [
+        "based",
+        "django",
+        "engine",
+        "game-development",
+        "game-engine",
+        "gamedev",
+        "hacktoberfest",
+        "moo",
+        "mud",
+        "multiplayer",
+        "mush",
+        "mux",
+        "python",
+        "text",
+        "text-based",
+        "text-based-adventure",
+        "twisted",
+        "webclient",
+        "webserver"
+      ],
+      "stargazers_count": 2034,
+      "pushed_at": "2026-04-15T21:20:31Z",
+      "added_to_queue": "2026-04-17T13:08:39.556Z"
+    },
+    {
+      "name": "ktlint-gradle",
+      "html_url": "https://github.com/JLLeitschuh/ktlint-gradle",
+      "description": "A ktlint gradle plugin",
+      "topics": [
+        "gradle",
+        "gradle-plugin",
+        "gradle-script-kotlin",
         "hacktoberfest",
         "kotlin",
         "ktlint",
-        "linter",
-        "static-analysis"
+        "linting"
       ],
-      "stargazers_count": 569,
-      "pushed_at": "2026-03-18T20:37:28Z",
-      "added_to_queue": "2026-04-16T03:22:17.869Z"
+      "stargazers_count": 1683,
+      "pushed_at": "2026-04-15T21:12:13Z",
+      "added_to_queue": "2026-04-17T13:08:39.556Z"
     },
     {
-      "name": "awesome-web-archiving",
-      "html_url": "https://github.com/iipc/awesome-web-archiving",
-      "description": "An Awesome List for getting started with web archiving",
+      "name": "pvr.iptvsimple",
+      "html_url": "https://github.com/kodi-pvr/pvr.iptvsimple",
+      "description": "IPTV Simple client for Kodi PVR",
       "topics": [
-        "awesome",
-        "awesome-list",
-        "webarchiving"
+        "hacktoberfest"
       ],
-      "stargazers_count": 2524,
-      "pushed_at": "2026-03-18T18:54:53Z",
-      "added_to_queue": "2026-04-16T03:22:17.869Z"
+      "stargazers_count": 905,
+      "pushed_at": "2026-04-15T21:06:35Z",
+      "added_to_queue": "2026-04-17T13:08:40.055Z"
     },
     {
-      "name": "awesome-vm-escape",
-      "html_url": "https://github.com/winmin/awesome-vm-escape",
-      "description": " share some useful archives about vm and qemu escape exploit.",
+      "name": "kpack",
+      "html_url": "https://github.com/buildpacks-community/kpack",
+      "description": "Kubernetes Native Container Build Service",
       "topics": [
-        "awesome",
-        "exploit",
-        "qemu",
-        "virtual-machine",
-        "virtualbox",
-        "vmware"
+        "buildpacks",
+        "cloud-native",
+        "hacktoberfest",
+        "kubernetes"
       ],
-      "stargazers_count": 588,
-      "pushed_at": "2026-03-18T17:07:59Z",
-      "added_to_queue": "2026-04-16T03:22:17.869Z"
+      "stargazers_count": 1063,
+      "pushed_at": "2026-04-15T21:04:26Z",
+      "added_to_queue": "2026-04-17T13:08:40.055Z"
     },
     {
-      "name": "awesome-sre-tools",
-      "html_url": "https://github.com/SquadcastHub/awesome-sre-tools",
-      "description": "A curated list of Site Reliability and Production Engineering Tools",
+      "name": "tsuru",
+      "html_url": "https://github.com/tsuru/tsuru",
+      "description": "Open source and extensible Platform as a Service (PaaS).",
       "topics": [
-        "availability",
-        "awesome",
-        "awesome-list",
+        "containers",
         "devops",
-        "devops-tools",
-        "incident-management",
-        "incident-responce",
-        "list",
-        "monitoring",
-        "monitoring-tools",
-        "post-mortem",
-        "postmortem",
-        "production",
-        "reliability",
-        "reliability-engineering",
-        "service-level-agreement",
-        "service-level-monitoring",
-        "service-level-objective",
-        "site-reliability-engineering",
-        "sre"
-      ],
-      "stargazers_count": 1445,
-      "pushed_at": "2026-03-18T15:14:48Z",
-      "added_to_queue": "2026-04-16T03:22:17.869Z"
-    },
-    {
-      "name": "awesome-tech-rss",
-      "html_url": "https://github.com/tuan3w/awesome-tech-rss",
-      "description": "List of awesome RSS channels related to startup, science and technology.",
-      "topics": [
-        "awesome",
-        "awesome-lists",
-        "engineering",
-        "management",
-        "neuroscience",
-        "psychology",
-        "rss",
-        "science",
-        "startup",
-        "technology"
-      ],
-      "stargazers_count": 585,
-      "pushed_at": "2026-03-18T14:36:11Z",
-      "added_to_queue": "2026-04-16T03:22:17.869Z"
-    },
-    {
-      "name": "awesome-ruby",
-      "html_url": "https://github.com/markets/awesome-ruby",
-      "description": "💎 A collection of awesome Ruby libraries, tools, frameworks and software",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "collection",
-        "curated-list",
-        "ruby",
-        "ruby-libraries"
-      ],
-      "stargazers_count": 14064,
-      "pushed_at": "2026-03-18T08:45:43Z",
-      "added_to_queue": "2026-04-16T03:22:17.869Z"
-    },
-    {
-      "name": "awesome-django-rest-framework",
-      "html_url": "https://github.com/nioperas06/awesome-django-rest-framework",
-      "description": " 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework",
-      "topics": [
-        "api",
-        "awesome",
-        "awesome-list",
-        "django",
-        "django-authentication",
-        "django-rest",
-        "django-rest-framework",
-        "python",
-        "serialization",
-        "usefull-drf"
-      ],
-      "stargazers_count": 1456,
-      "pushed_at": "2026-03-18T08:15:48Z",
-      "added_to_queue": "2026-04-16T03:22:17.869Z"
-    },
-    {
-      "name": "awesome-selenium",
-      "html_url": "https://github.com/christian-bromann/awesome-selenium",
-      "description": "A curated list of delightful Selenium resources.",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "list"
-      ],
-      "stargazers_count": 1121,
-      "pushed_at": "2026-03-17T19:57:25Z",
-      "added_to_queue": "2026-04-16T03:22:17.869Z"
-    },
-    {
-      "name": "awesome-ionic",
-      "html_url": "https://github.com/Cap-go/awesome-ionic",
-      "description": "Awesome list of Ionic resources. Made by Capgo",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "cordova",
-        "ionic",
-        "ionic-framework",
-        "ionic2",
-        "ionic3",
-        "javascript"
-      ],
-      "stargazers_count": 858,
-      "pushed_at": "2026-03-17T14:53:35Z",
-      "added_to_queue": "2026-04-16T03:22:17.869Z"
-    },
-    {
-      "name": "awesome-esolangs",
-      "html_url": "https://github.com/angrykoala/awesome-esolangs",
-      "description": "Curated list of awesome Esoteric languages and resources",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "esolang",
-        "esoteric",
-        "list"
-      ],
-      "stargazers_count": 583,
-      "pushed_at": "2026-03-17T09:39:27Z",
-      "added_to_queue": "2026-04-16T03:22:17.869Z"
-    },
-    {
-      "name": "emacs.dz",
-      "html_url": "https://github.com/caisah/emacs.dz",
-      "description": "Awesome emacs config files",
-      "topics": [
-        "awesome",
-        "configuration",
-        "dotfile",
-        "emacs",
-        "emacs-configuration",
-        "list"
-      ],
-      "stargazers_count": 1524,
-      "pushed_at": "2026-03-16T21:07:50Z",
-      "added_to_queue": "2026-04-16T03:22:17.869Z"
-    },
-    {
-      "name": "biblioteca-espanol-gratis",
-      "html_url": "https://github.com/rosepac/biblioteca-espanol-gratis",
-      "description": "Awesome Programación, Diseño y Tecnología: Cursos y Libros GRATIS",
-      "topics": [
-        "aprender",
-        "awesome",
-        "awesome-list",
-        "awesome-spanish",
-        "comunidad-de-discord",
-        "cursos",
-        "cursos-gratis",
-        "desarrollo",
-        "desarrollo-web-cursos",
-        "enlaces",
-        "gratis",
-        "programacion",
-        "programacion-web",
-        "programar",
-        "programas",
-        "recursos",
-        "webdev"
-      ],
-      "stargazers_count": 507,
-      "pushed_at": "2026-03-16T19:31:31Z",
-      "added_to_queue": "2026-04-16T03:22:17.869Z"
-    },
-    {
-      "name": "awesome-ipsum",
-      "html_url": "https://github.com/templeman/awesome-ipsum",
-      "description": "A curated list of awesome lorem ipsum generators.",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "list",
-        "lorem-ipsum"
-      ],
-      "stargazers_count": 588,
-      "pushed_at": "2026-03-16T19:19:29Z",
-      "added_to_queue": "2026-04-16T03:23:29.602Z"
-    },
-    {
-      "name": "awesome-semantic-web",
-      "html_url": "https://github.com/semantalytics/awesome-semantic-web",
-      "description": "A curated list of various semantic web and linked data resources.",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "owl",
-        "r2rml",
-        "rdf",
-        "semantic-web",
-        "sparql"
-      ],
-      "stargazers_count": 1627,
-      "pushed_at": "2026-03-16T15:36:12Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-cli-apps-in-a-csv",
-      "html_url": "https://github.com/toolleeo/awesome-cli-apps-in-a-csv",
-      "description": "The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "cli",
-        "cli-apps",
-        "command-line",
-        "command-line-tool",
-        "linux",
-        "linux-command",
-        "resources",
-        "terminal-based",
-        "tui"
-      ],
-      "stargazers_count": 2457,
-      "pushed_at": "2026-03-16T09:29:45Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-dashboard",
-      "html_url": "https://github.com/obazoud/awesome-dashboard",
-      "description": "A curated list of amazingly awesome dashboards/visualization resources.",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "dashboard"
-      ],
-      "stargazers_count": 1133,
-      "pushed_at": "2026-03-16T06:53:58Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-password-cracking",
-      "html_url": "https://github.com/n0kovo/awesome-password-cracking",
-      "description": "A curated list of awesome tools, research, papers and other projects related to password cracking and password security.",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "hash-cracking",
-        "hashcat",
-        "john-the-ripper",
-        "password-cracking",
-        "password-safety",
-        "wordlist",
-        "wordlist-generator",
-        "wordlist-processing",
-        "wordlists"
-      ],
-      "stargazers_count": 916,
-      "pushed_at": "2026-03-15T13:48:16Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "ultimate-defi-research-base",
-      "html_url": "https://github.com/OffcierCia/ultimate-defi-research-base",
-      "description": "Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request. ",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "bitcoin",
-        "blockchain",
-        "blockchain-technology",
-        "cryptocurrency",
-        "curated-list",
-        "defi",
-        "ethereum",
-        "knowledge-base",
-        "research",
-        "smart-contracts"
-      ],
-      "stargazers_count": 2197,
-      "pushed_at": "2026-03-14T19:04:35Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-rails",
-      "html_url": "https://github.com/gramantin/awesome-rails",
-      "description": "A curated list of awesome things related to Ruby on Rails",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "opensource-apps",
-        "rails"
-      ],
-      "stargazers_count": 3891,
-      "pushed_at": "2026-03-14T14:46:16Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "Awesome-CV",
-      "html_url": "https://github.com/posquit0/Awesome-CV",
-      "description": ":page_facing_up: Awesome CV is LaTeX template for your outstanding job application",
-      "topics": [
-        "awesome",
-        "coverletter",
-        "cv",
-        "latex",
-        "latex-template",
-        "overleaf",
-        "pdf",
-        "resume",
-        "sharelatex",
-        "tex"
-      ],
-      "stargazers_count": 27314,
-      "pushed_at": "2026-03-13T15:12:31Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-kicad",
-      "html_url": "https://github.com/joanbono/awesome-kicad",
-      "description": "A curated list of awesome KiCad plugins and resources",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "kicad"
-      ],
-      "stargazers_count": 535,
-      "pushed_at": "2026-03-13T10:44:49Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-gif",
-      "html_url": "https://github.com/davisonio/awesome-gif",
-      "description": "A curated list of awesome GIF resources.",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "gif"
-      ],
-      "stargazers_count": 682,
-      "pushed_at": "2026-03-13T03:30:33Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-irc",
-      "html_url": "https://github.com/davisonio/awesome-irc",
-      "description": "A curated list of awesome IRC resources.",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "irc"
-      ],
-      "stargazers_count": 1265,
-      "pushed_at": "2026-03-13T02:59:25Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "shodan-dorks",
-      "html_url": "https://github.com/nullfuzz-pentest/shodan-dorks",
-      "description": "Shodan Dorks",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "cloud",
-        "dorks",
-        "hacking",
-        "iot",
-        "list",
-        "penetration-testing",
-        "security",
-        "shodan",
-        "shodan-dorks"
-      ],
-      "stargazers_count": 504,
-      "pushed_at": "2026-03-12T21:18:32Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-programming-languages",
-      "html_url": "https://github.com/ChessMax/awesome-programming-languages",
-      "description": "The list of awesome programming languages that you might be interested in.",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "language",
-        "programming-language"
-      ],
-      "stargazers_count": 787,
-      "pushed_at": "2026-03-12T14:47:56Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-open-source-systems",
-      "html_url": "https://github.com/ishanvyas22/awesome-open-source-systems",
-      "description": ":sunglasses: A curated list of awesome Free Open Source Softwares(FOSS).",
-      "topics": [
-        "analytics",
-        "application-monitoring",
-        "awesome",
-        "awesome-list",
-        "awesome-lists",
-        "cms",
-        "crm",
-        "discussion-forums",
-        "erp",
-        "foss",
-        "knowledge-center",
-        "lists",
-        "lms",
-        "open-source",
-        "opensource",
-        "resources",
-        "saas",
-        "social-network"
-      ],
-      "stargazers_count": 532,
-      "pushed_at": "2026-03-12T05:07:15Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-webdav",
-      "html_url": "https://github.com/fstanis/awesome-webdav",
-      "description": "A curated list of awesome apps that support WebDAV and tools related to it.",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "lists",
-        "resources",
-        "webdav",
-        "webdav-client",
-        "webdav-protocol",
-        "webdav-server"
-      ],
-      "stargazers_count": 508,
-      "pushed_at": "2026-03-11T20:36:55Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-league",
-      "html_url": "https://github.com/CommunityDragon/awesome-league",
-      "description": "A list of apps that work with the League of Legends Client & In-Game API.",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "lcu",
-        "league-client",
-        "league-of-legends"
-      ],
-      "stargazers_count": 628,
-      "pushed_at": "2026-03-11T17:22:35Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-asgi",
-      "html_url": "https://github.com/florimondmanca/awesome-asgi",
-      "description": "A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources",
-      "topics": [
-        "asgi",
-        "awesome",
-        "awesome-list",
-        "python"
-      ],
-      "stargazers_count": 1819,
-      "pushed_at": "2026-03-11T14:34:27Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-auth",
-      "html_url": "https://github.com/casdoor/awesome-auth",
-      "description": "📊 Software and Libraries for Authentication & Authorization & SSO & IAM",
-      "topics": [
-        "abac",
-        "access-control",
-        "acl",
-        "auth",
-        "authentication",
-        "authn",
-        "authorization",
-        "authz",
-        "awesome",
-        "awesome-list",
-        "iam",
-        "lists",
-        "rbac",
-        "sso"
-      ],
-      "stargazers_count": 1184,
-      "pushed_at": "2026-03-11T13:40:24Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-embedded-software",
-      "html_url": "https://github.com/iDoka/awesome-embedded-software",
-      "description": ":stars: List of software (HW interfaces, libs, protocols, etc) specifically suitable for resource-constrained Embedded Systems (low-memory and low-power) like 8-bit, 16-bit and 32-bit microcontrollers.",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "c",
-        "crossplatform",
-        "electronics",
-        "embedded",
-        "embedded-devices",
-        "embedded-graphics",
-        "embedded-library",
-        "embedded-systems",
-        "library",
-        "lightweight",
-        "lightweight-embedded-library",
-        "mcu",
-        "microcontroller",
-        "portable",
-        "risc-v",
-        "rtos",
-        "stm32",
-        "uc"
-      ],
-      "stargazers_count": 1030,
-      "pushed_at": "2026-03-11T12:17:25Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-open-hardware",
-      "html_url": "https://github.com/delftopenhardware/awesome-open-hardware",
-      "description": "🛠Helpful items for making open source hardware projects.",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "hardware",
-        "open-hardware",
-        "open-source-hardware"
-      ],
-      "stargazers_count": 788,
-      "pushed_at": "2026-03-10T14:49:40Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-steam-deck",
-      "html_url": "https://github.com/airscripts/awesome-steam-deck",
-      "description": "A curated list of awesome Steam Deck software, resources and more.",
-      "topics": [
-        "airscript",
-        "airscripts",
-        "awesome",
-        "awesome-list",
+        "docker",
+        "go",
         "hacktoberfest",
-        "handheld",
-        "sindresorhus",
-        "steam",
-        "steam-deck",
-        "valve"
+        "kubernetes",
+        "paas"
       ],
-      "stargazers_count": 689,
-      "pushed_at": "2026-03-10T08:06:49Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
+      "stargazers_count": 5273,
+      "pushed_at": "2026-04-16T20:52:01Z",
+      "added_to_queue": "2026-04-17T13:08:40.055Z"
     },
     {
-      "name": "awesome-jmeter",
-      "html_url": "https://github.com/aliesbelik/awesome-jmeter",
-      "description": "A collection of resources covering different aspects of JMeter usage.",
+      "name": "streetmix",
+      "html_url": "https://github.com/streetmix/streetmix",
+      "description": "Streetmix makes it easy for people to design public spaces together.",
       "topics": [
-        "apache-jmeter",
-        "awesome",
-        "awesome-list",
-        "benchmarking",
-        "jmeter",
-        "jmeter-plugin",
-        "load-testing",
-        "performance-testing"
-      ],
-      "stargazers_count": 786,
-      "pushed_at": "2026-03-09T19:30:04Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-censys-queries",
-      "html_url": "https://github.com/thehappydinoa/awesome-censys-queries",
-      "description": "A collection of fascinating and bizarre Censys Search Queries ",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "censys",
-        "censys-dorks",
-        "dorks",
+        "city-builder",
+        "city-planning",
+        "civic-tech",
         "hacktoberfest",
-        "ics",
-        "iot",
-        "osint",
-        "queries",
-        "search",
-        "security-tools"
-      ],
-      "stargazers_count": 1214,
-      "pushed_at": "2026-03-09T18:40:47Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-vulnerable-apps",
-      "html_url": "https://github.com/vavkamil/awesome-vulnerable-apps",
-      "description": "Awesome Vulnerable Applications",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "bug",
-        "bugbounty",
-        "hacking",
-        "penetration-testing",
-        "security",
-        "vulnerable",
-        "vulnerable-applications"
-      ],
-      "stargazers_count": 1387,
-      "pushed_at": "2026-03-09T10:45:12Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-dbt",
-      "html_url": "https://github.com/Hiflylabs/awesome-dbt",
-      "description": "A curated list of awesome dbt resources ",
-      "topics": [
-        "analytics-engineering",
-        "awesome",
-        "awesome-list",
-        "data-engineering",
-        "dbt"
-      ],
-      "stargazers_count": 1669,
-      "pushed_at": "2026-03-09T07:43:10Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-capacitor",
-      "html_url": "https://github.com/riderx/awesome-capacitor",
-      "description": "😎 Awesome lists of capacitor plugins. Made by Capgo",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "capacitor",
-        "capacitor-plugin",
-        "ionic"
-      ],
-      "stargazers_count": 615,
-      "pushed_at": "2026-03-09T02:04:56Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-etl",
-      "html_url": "https://github.com/pawl/awesome-etl",
-      "description": "A curated list of awesome ETL frameworks, libraries, and software.",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "etl"
-      ],
-      "stargazers_count": 3540,
-      "pushed_at": "2026-03-07T23:55:33Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-oss",
-      "html_url": "https://github.com/sereneblue/awesome-oss",
-      "description": "A list of open source projects with links to contribute or donate.",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "awesome-lists",
-        "open-source",
-        "opensource"
-      ],
-      "stargazers_count": 1864,
-      "pushed_at": "2026-03-07T23:44:54Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-opensource-boilerplates",
-      "html_url": "https://github.com/EinGuterWaran/awesome-opensource-boilerplates",
-      "description": "A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "boilerplate",
-        "boilerplates",
-        "open-source",
-        "open-source-saas",
-        "open-source-saas-boilerplate",
-        "saas",
-        "saas-boilerplate",
-        "starter-kit",
-        "starter-template",
-        "starters",
-        "template",
-        "templates"
-      ],
-      "stargazers_count": 1842,
-      "pushed_at": "2026-03-07T21:15:02Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-game-remakes",
-      "html_url": "https://github.com/radek-sprta/awesome-game-remakes",
-      "description": "Actively maintained open-source game remakes.",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "engine",
-        "game",
-        "games",
-        "remake"
-      ],
-      "stargazers_count": 1322,
-      "pushed_at": "2026-03-07T04:22:30Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-wardley-maps",
-      "html_url": "https://github.com/wardley-maps-community/awesome-wardley-maps",
-      "description": "Wardley maps community hub. Useful Wardley mapping resources",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "simon-wardley",
-        "strategy",
-        "wardley-maps",
-        "wardleymaps"
-      ],
-      "stargazers_count": 772,
-      "pushed_at": "2026-03-06T14:49:23Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-lit",
-      "html_url": "https://github.com/web-padawan/awesome-lit",
-      "description": "A curated list of awesome Lit resources.",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "lit-html"
-      ],
-      "stargazers_count": 1708,
-      "pushed_at": "2026-03-06T12:40:17Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-flying-fpv",
-      "html_url": "https://github.com/Matthias84/awesome-flying-fpv",
-      "description": "Curated list of free software and hardware to build remote controlled copters and planes",
-      "topics": [
-        "aerial",
-        "airplanes",
-        "awesome",
-        "awesome-list",
-        "drones",
-        "embedded",
-        "flight",
-        "fpv",
-        "radio-control",
-        "uav",
-        "vtol"
-      ],
-      "stargazers_count": 603,
-      "pushed_at": "2026-03-06T11:49:48Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-scientific-writing",
-      "html_url": "https://github.com/writing-resources/awesome-scientific-writing",
-      "description": ":keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX ",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "jupyter-notebook",
-        "markdown",
-        "org-mode",
-        "pandoc",
-        "restructuredtext"
-      ],
-      "stargazers_count": 933,
-      "pushed_at": "2026-03-06T09:51:28Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "htaccess",
-      "html_url": "https://github.com/phanan/htaccess",
-      "description": "✂A collection of useful .htaccess snippets.",
-      "topics": [
-        "apache",
-        "awesome",
-        "awesome-list",
-        "dev-ops",
-        "htaccess",
-        "htaccess-snippets",
-        "list",
-        "snippets"
-      ],
-      "stargazers_count": 13217,
-      "pushed_at": "2026-03-06T06:31:28Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "golang-open-source-projects",
-      "html_url": "https://github.com/hackstoic/golang-open-source-projects",
-      "description": "为互联网IT人打造的中文版awesome-go",
-      "topics": [
-        "awesome",
-        "golang"
-      ],
-      "stargazers_count": 11471,
-      "pushed_at": "2026-03-06T06:30:32Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-k6",
-      "html_url": "https://github.com/grafana/awesome-k6",
-      "description": "A curated list of awesome tools, content and projects using k6",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "k6",
-        "load-testing",
-        "performance-monitoring",
-        "performance-testing",
-        "test-automation",
-        "testing",
-        "testing-tools"
-      ],
-      "stargazers_count": 750,
-      "pushed_at": "2026-03-05T22:04:32Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "BlueToolkit",
-      "html_url": "https://github.com/sgxgsx/BlueToolkit",
-      "description": " BlueToolkit is an extensible Bluetooth Classic vulnerability testing framework that helps uncover new and old vulnerabilities in Bluetooth-enabled devices. Could be used in the vulnerability research, penetration testing and bluetooth hacking. We also collected and classified Bluetooth vulnerabilities in an \"Awesome Bluetooth Security\" way",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "bluetooth",
-        "bluetooth-classic",
-        "bluetooth-hacking",
-        "bluetooth-security",
-        "bluetooth-toolkit",
-        "exploit",
-        "information-security",
-        "penetration-testing",
-        "pentesting",
-        "security",
-        "security-tools",
-        "wireless-security"
-      ],
-      "stargazers_count": 681,
-      "pushed_at": "2026-03-05T20:53:27Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-livecoding",
-      "html_url": "https://github.com/toplap/awesome-livecoding",
-      "description": "All things livecoding",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "coding",
-        "graphics",
-        "live",
-        "livecoding",
-        "music",
-        "synthesis"
-      ],
-      "stargazers_count": 3202,
-      "pushed_at": "2026-03-05T19:34:20Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "ingopedia",
-      "html_url": "https://github.com/ingonyama-zk/ingopedia",
-      "description": "A curated list of ZK/FHE resources and links. 👇 Click below for the website version. ",
-      "topics": [
-        "awesome",
-        "cryptography",
-        "zero-knowledge"
+        "streetmix",
+        "urban-planning"
       ],
       "stargazers_count": 734,
-      "pushed_at": "2026-03-05T17:01:44Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
+      "pushed_at": "2026-04-17T05:11:12Z",
+      "added_to_queue": "2026-04-17T13:08:40.055Z"
     },
     {
-      "name": "DevSecOps",
-      "html_url": "https://github.com/sottlmarek/DevSecOps",
-      "description": "Ultimate DevSecOps library",
+      "name": "Yacht",
+      "html_url": "https://github.com/Yacht-sh/Yacht",
+      "description": "A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.",
       "topics": [
-        "automation",
-        "awesome",
-        "awesome-list",
-        "aws",
-        "azure",
-        "ci-cd",
-        "cloud",
-        "containers",
-        "cybersecurity",
-        "devops",
-        "devsecops",
+        "appstore",
         "docker",
-        "gcp",
-        "k8s",
-        "kubernetes",
-        "security",
-        "serverless",
-        "ssdlc",
-        "tool"
-      ],
-      "stargazers_count": 6690,
-      "pushed_at": "2026-03-05T10:46:42Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-thesis",
-      "html_url": "https://github.com/awesome-thesis/awesome-thesis",
-      "description": "A curated list of practical tips and tricks to help you achieve an awesome CS master thesis [WIP] - contributions are welcome",
-      "topics": [
-        "academic-writing",
-        "awesome",
-        "awesome-list",
-        "computer-engineering",
-        "computer-science",
-        "master-thesis",
-        "phd",
-        "phd-dissertation",
-        "phd-project",
-        "phd-students",
-        "thesis",
-        "thesis-defense",
-        "thesis-paper",
-        "thesis-slides"
-      ],
-      "stargazers_count": 631,
-      "pushed_at": "2026-03-05T08:52:08Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-nginx",
-      "html_url": "https://github.com/agile6v/awesome-nginx",
-      "description": "A curated list of awesome Nginx distributions, 3rd party modules, Active developers, etc. :octocat:  ",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "lua-nginx",
-        "lua-resty",
-        "nginx",
-        "nginx-http",
-        "nginx-server",
-        "ngx-lua"
-      ],
-      "stargazers_count": 1263,
-      "pushed_at": "2026-03-05T03:13:53Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "books",
-      "html_url": "https://github.com/linsa-io/books",
-      "description": "Awesome Books",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "books",
-        "education",
-        "free",
-        "learn-anything",
-        "learning",
-        "list",
-        "pdf",
-        "resources"
-      ],
-      "stargazers_count": 7310,
-      "pushed_at": "2026-03-04T15:38:20Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-command-line-apps",
-      "html_url": "https://github.com/herrbischoff/awesome-command-line-apps",
-      "description": ":shell: Use your terminal shell to do awesome things.",
-      "topics": [
-        "apps",
-        "awesome",
-        "awesome-list",
-        "list",
-        "shell",
-        "software",
-        "unix"
-      ],
-      "stargazers_count": 4179,
-      "pushed_at": "2026-03-04T11:04:17Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-macos-command-line",
-      "html_url": "https://github.com/herrbischoff/awesome-macos-command-line",
-      "description": "Use your macOS terminal shell to do awesome things.",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "list",
-        "macos",
-        "macosx",
-        "shell",
-        "terminal"
-      ],
-      "stargazers_count": 30493,
-      "pushed_at": "2026-03-04T11:01:49Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-editorjs",
-      "html_url": "https://github.com/editor-js/awesome-editorjs",
-      "description": "🤩 A curated list of awesome Editor.js tools, libraries and resources.",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "editorjs",
-        "libraries",
-        "tools"
-      ],
-      "stargazers_count": 2829,
-      "pushed_at": "2026-03-03T16:57:05Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "Awesome-WebExtensions",
-      "html_url": "https://github.com/fregante/Awesome-WebExtensions",
-      "description": "A curated list of awesome resources for WebExtensions development.",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "webext"
-      ],
-      "stargazers_count": 1481,
-      "pushed_at": "2026-03-03T14:21:43Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-github-profile-readme",
-      "html_url": "https://github.com/abhisheknaiidu/awesome-github-profile-readme",
-      "description": "😎 A curated list of awesome GitHub Profile which updates in real time ",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "github",
-        "github-profile-readme",
-        "github-readme",
-        "portfolio",
-        "profile-readme"
-      ],
-      "stargazers_count": 29665,
-      "pushed_at": "2026-03-03T07:35:24Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-fetch",
-      "html_url": "https://github.com/beucismis/awesome-fetch",
-      "description": "Command-line fetch tools for system/other information",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "cli",
-        "command-line",
-        "fetch",
-        "fetch-list",
-        "fetch-tool",
-        "fetcher",
-        "fetches",
-        "information-fetcher",
-        "linux",
-        "neofetch",
-        "tui"
-      ],
-      "stargazers_count": 572,
-      "pushed_at": "2026-03-03T05:49:15Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-composer",
-      "html_url": "https://github.com/jakoch/awesome-composer",
-      "description": " :sunglasses: A curated awesome list for Composer, Packagist, Satis, Plugins, Scripts, Composer related resources, tutorials.",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "composer",
-        "composer-best-practices",
-        "composer-installers",
-        "composer-packages",
-        "composer-plugin",
-        "composer-tutorial",
-        "dependency-manager",
-        "list",
-        "packagist",
-        "php"
-      ],
-      "stargazers_count": 904,
-      "pushed_at": "2026-03-02T23:40:41Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-cto",
-      "html_url": "https://github.com/kuchin/awesome-cto",
-      "description": "A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups",
-      "topics": [
-        "architecture",
-        "awesome",
-        "awesome-list",
-        "cto",
-        "decision-making",
-        "engineering-management",
-        "hiring",
-        "interviewing",
-        "leadership",
-        "management",
-        "principles",
-        "roadmap",
-        "software-engineering",
-        "startups"
-      ],
-      "stargazers_count": 34720,
-      "pushed_at": "2026-03-02T12:50:21Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-open-source-games",
-      "html_url": "https://github.com/michelpereira/awesome-open-source-games",
-      "description": "Collection of Games that have the source code available on GitHub",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "games",
-        "opensource"
-      ],
-      "stargazers_count": 2695,
-      "pushed_at": "2026-03-02T11:02:12Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-regression-testing",
-      "html_url": "https://github.com/mojoaxel/awesome-regression-testing",
-      "description": "🕶️ A curated list of resources around the topic: visual regression testing",
-      "topics": [
-        "awesome",
-        "test-automation",
-        "testing",
-        "testing-tools"
-      ],
-      "stargazers_count": 2377,
-      "pushed_at": "2026-03-01T20:21:22Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-crypto-trading-bots",
-      "html_url": "https://github.com/botcrypto-io/awesome-crypto-trading-bots",
-      "description": "Awesome crypto trading bots",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "crypto",
-        "list",
-        "trading"
-      ],
-      "stargazers_count": 2404,
-      "pushed_at": "2026-03-01T17:46:17Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "path-to-senior-engineer-handbook",
-      "html_url": "https://github.com/jordan-cutler/path-to-senior-engineer-handbook",
-      "description": "All the resources you need to get to Senior Engineer and beyond",
-      "topics": [
-        "awesome",
-        "career",
-        "career-growth",
-        "path-to-senior",
-        "senior-engineer",
-        "software-developer"
-      ],
-      "stargazers_count": 17298,
-      "pushed_at": "2026-03-01T17:15:37Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-ci",
-      "html_url": "https://github.com/ligurio/awesome-ci",
-      "description": "The list of continuous integration services and tools",
-      "topics": [
-        "awesome",
-        "ci",
-        "comparison",
-        "continuous-integration",
-        "developer-tools",
-        "development",
-        "devops"
-      ],
-      "stargazers_count": 4068,
-      "pushed_at": "2026-03-01T09:45:46Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "personal-security-checklist",
-      "html_url": "https://github.com/Lissy93/personal-security-checklist",
-      "description": "🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "censorship",
-        "checklist",
-        "cybersecurity",
-        "defense",
+        "docker-deployment",
+        "flask",
         "hacktoberfest",
-        "open-source",
-        "privacy",
-        "protection",
-        "security",
-        "security-tools",
-        "surveillance"
-      ],
-      "stargazers_count": 21157,
-      "pushed_at": "2026-02-28T16:37:20Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-yew",
-      "html_url": "https://github.com/jetli/awesome-yew",
-      "description": "😎 A curated list of awesome things related to Yew / WebAssembly.",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "rust",
-        "wasm",
-        "webassembly",
-        "yew",
-        "yew-framework"
-      ],
-      "stargazers_count": 1596,
-      "pushed_at": "2026-02-28T09:26:58Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "starred",
-      "html_url": "https://github.com/maguowei/starred",
-      "description": "Create and maintain your own Awesome-style list from GitHub stars!",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "awesome-stars",
-        "star",
-        "starred"
-      ],
-      "stargazers_count": 1876,
-      "pushed_at": "2026-02-28T06:06:10Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-n64-development",
-      "html_url": "https://github.com/command-tab/awesome-n64-development",
-      "description": "A curated list of Nintendo 64 development resources including toolchains, documentation, emulators, example code, and more",
-      "topics": [
-        "asm",
-        "assembler",
-        "assembly-programming",
-        "awesome",
-        "awesome-list",
-        "c",
-        "cartridge",
-        "development-kit",
-        "documentation",
-        "game-development",
-        "gamedev",
-        "mips",
-        "mips-assembly",
-        "n64",
-        "nintendo",
-        "nintendo-64",
-        "resources",
-        "rom",
-        "rust",
-        "tools"
-      ],
-      "stargazers_count": 538,
-      "pushed_at": "2026-02-27T23:24:37Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-pascal",
-      "html_url": "https://github.com/Fr0sT-Brutal/awesome-pascal",
-      "description": "A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "delphi",
-        "freepascal",
-        "lazarus",
-        "list",
-        "pascal-language"
-      ],
-      "stargazers_count": 2051,
-      "pushed_at": "2026-02-27T16:04:57Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-web-security",
-      "html_url": "https://github.com/qazbnm456/awesome-web-security",
-      "description": "🐶 A curated list of Web Security materials and resources.",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "list",
-        "penetration-testing",
-        "security",
-        "web",
-        "websecurity"
-      ],
-      "stargazers_count": 13282,
-      "pushed_at": "2026-02-27T15:08:08Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "GoBooks",
-      "html_url": "https://github.com/dariubs/GoBooks",
-      "description": "List of Golang books",
-      "topics": [
-        "awesome",
-        "awesome-go",
-        "awesome-golang",
-        "awesome-list",
-        "awesome-lists",
-        "book",
-        "books",
-        "development",
-        "devops",
-        "go",
-        "go-books",
-        "gobooks",
-        "golang",
-        "golang-books",
-        "list",
-        "resources",
-        "roadmap"
-      ],
-      "stargazers_count": 19336,
-      "pushed_at": "2026-02-27T12:59:07Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-engineering-strategy",
-      "html_url": "https://github.com/aleixmorgadas/awesome-engineering-strategy",
-      "description": "🎉 How to design and execute engineering strategies for tech leadership.",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "engineering-strategy",
-        "strategy",
-        "tech-strategy"
-      ],
-      "stargazers_count": 1324,
-      "pushed_at": "2026-02-27T11:26:47Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "A-to-Z-Resources-for-Students",
-      "html_url": "https://github.com/dipakkr/A-to-Z-Resources-for-Students",
-      "description": "✅  Curated list of resources for developers ",
-      "topics": [
-        "android",
-        "awesome",
-        "awesome-list",
-        "conferences",
-        "hackathon",
-        "react",
-        "students",
-        "udacity"
-      ],
-      "stargazers_count": 21639,
-      "pushed_at": "2026-02-27T09:14:51Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-dotnet-security",
-      "html_url": "https://github.com/guardrailsio/awesome-dotnet-security",
-      "description": "Awesome .NET Security Resources",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "dotnet",
-        "dotnet-core",
-        "dotnet-framework",
-        "security",
-        "security-testing",
-        "security-tools",
-        "static-analysis"
-      ],
-      "stargazers_count": 525,
-      "pushed_at": "2026-02-27T05:35:57Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "clean-code-dotnet",
-      "html_url": "https://github.com/thangchung/clean-code-dotnet",
-      "description": ":bathtub:  Clean Code concepts and tools adapted for .NET ",
-      "topics": [
-        "aspnet",
-        "awesome",
-        "azure",
-        "best-practices",
-        "clean-architecture",
-        "clean-code",
-        "composition",
-        "csharp",
-        "dotnet",
-        "inheritance",
-        "principles",
-        "solid"
-      ],
-      "stargazers_count": 7654,
-      "pushed_at": "2026-02-27T03:58:00Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-dotnet-core",
-      "html_url": "https://github.com/thangchung/awesome-dotnet-core",
-      "description": ":honeybee: A collection of awesome .NET core libraries, tools, frameworks and software",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "csharp",
-        "dotnet-core",
-        "list",
-        "microsoft"
-      ],
-      "stargazers_count": 21171,
-      "pushed_at": "2026-02-27T03:26:22Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-made-by-brazilians",
-      "html_url": "https://github.com/felipefialho/awesome-made-by-brazilians",
-      "description": "🇧🇷 A collection of amazing open source projects built by brazilian developers",
-      "topics": [
-        "awesome",
-        "awesome-brazil",
-        "awesome-opensource",
-        "awesomebrazil",
-        "css",
-        "javascript",
-        "made-by-brazilians",
-        "programming-language",
-        "stars"
-      ],
-      "stargazers_count": 1785,
-      "pushed_at": "2026-02-26T14:00:17Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-flame",
-      "html_url": "https://github.com/flame-engine/awesome-flame",
-      "description": "An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "flame",
-        "flutter",
-        "game",
-        "game-development",
-        "lists",
-        "resources"
-      ],
-      "stargazers_count": 1336,
-      "pushed_at": "2026-02-26T13:40:58Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-low-level-design",
-      "html_url": "https://github.com/ashishps1/awesome-low-level-design",
-      "description": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
-      "topics": [
-        "awesome",
-        "design-patterns",
-        "interview",
-        "interview-practice",
-        "interview-questions",
-        "lld",
-        "low-level-design",
-        "machine-coding",
-        "object-oriented-programming",
-        "oops",
-        "solid-principles",
-        "uml"
-      ],
-      "stargazers_count": 23332,
-      "pushed_at": "2026-02-26T05:15:01Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-nix",
-      "html_url": "https://github.com/nix-community/awesome-nix",
-      "description": "😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "lists",
-        "nix",
-        "nixos"
-      ],
-      "stargazers_count": 5055,
-      "pushed_at": "2026-02-26T00:32:49Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-sqlalchemy",
-      "html_url": "https://github.com/dahlia/awesome-sqlalchemy",
-      "description": "A curated list of awesome tools for SQLAlchemy",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "databases",
-        "list",
-        "orm",
+        "jwt-authentication",
         "python",
-        "rdbms",
-        "sqlalchemy"
+        "vuejs",
+        "webinterface",
+        "yacht"
       ],
-      "stargazers_count": 3041,
-      "pushed_at": "2026-02-25T14:13:09Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
+      "stargazers_count": 3853,
+      "pushed_at": "2026-04-15T20:52:10Z",
+      "added_to_queue": "2026-04-17T13:08:40.055Z"
     },
     {
-      "name": "awesome-web-components",
-      "html_url": "https://github.com/web-padawan/awesome-web-components",
-      "description": "A curated list of awesome Web Components resources.",
+      "name": "psalm",
+      "html_url": "https://github.com/vimeo/psalm",
+      "description": "A PHP static analysis tool for finding errors and security vulnerabilities in PHP applications",
       "topics": [
-        "awesome",
-        "awesome-list",
-        "custom-elements",
-        "shadow-dom",
-        "web-components",
-        "webcomponents"
-      ],
-      "stargazers_count": 3482,
-      "pushed_at": "2026-02-25T08:40:49Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-django-admin",
-      "html_url": "https://github.com/originalankur/awesome-django-admin",
-      "description": "Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, Themes, Videos, Resources.",
-      "topics": [
-        "article",
-        "awesome",
-        "awesome-list",
-        "django",
-        "django-admin",
-        "theme",
-        "video"
-      ],
-      "stargazers_count": 1236,
-      "pushed_at": "2026-02-24T16:50:33Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-hcloud",
-      "html_url": "https://github.com/hetznercloud/awesome-hcloud",
-      "description": "A curated list of awesome libraries, tools, and integrations for Hetzner Cloud",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "awesome-lists",
-        "hetzner",
-        "hetzner-cloud"
-      ],
-      "stargazers_count": 1312,
-      "pushed_at": "2026-02-24T15:50:04Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-jq",
-      "html_url": "https://github.com/jqlang/awesome-jq",
-      "description": "A curated list of awesome jq tools and resources.",
-      "topics": [
-        "awesome",
-        "jq"
-      ],
-      "stargazers_count": 952,
-      "pushed_at": "2026-02-24T09:46:50Z",
-      "added_to_queue": "2026-04-16T03:23:29.603Z"
-    },
-    {
-      "name": "awesome-api-devtools",
-      "html_url": "https://github.com/yosriady/awesome-api-devtools",
-      "description": ":books: A collection of useful resources for building RESTful HTTP+JSON APIs.",
-      "topics": [
-        "api",
-        "api-client",
-        "api-documentation",
-        "api-gateways",
-        "api-management",
-        "json-schema",
-        "swagger"
-      ],
-      "stargazers_count": 4008,
-      "pushed_at": "2025-12-20T03:13:46Z",
-      "added_to_queue": "2026-04-16T03:24:27.792Z"
-    },
-    {
-      "name": "taiga-ui",
-      "html_url": "https://github.com/taiga-family/taiga-ui",
-      "description": "Angular components library for awesome people",
-      "topics": [
-        "angular",
-        "best-practices",
-        "cdk",
-        "component-library",
-        "components",
-        "design-patterns",
-        "figma",
         "hacktoberfest",
-        "mobile",
-        "resposive-design",
-        "typescript",
-        "ui",
-        "ui-components",
-        "ui-design",
-        "uikit",
-        "web"
-      ],
-      "stargazers_count": 3960,
-      "pushed_at": "2026-04-15T16:31:10Z",
-      "added_to_queue": "2026-04-16T03:24:27.792Z"
-    },
-    {
-      "name": "awesome-wepy",
-      "html_url": "https://github.com/aben1188/awesome-wepy",
-      "description": "Awesome for wepy ! 微信小程序组件化开发框架wepy开发资源汇总",
-      "topics": [],
-      "stargazers_count": 4370,
-      "pushed_at": "2021-05-06T08:02:16Z",
-      "added_to_queue": "2026-04-16T03:24:27.792Z"
-    },
-    {
-      "name": "awesome-opensource-data-engineering",
-      "html_url": "https://github.com/gunnarmorling/awesome-opensource-data-engineering",
-      "description": "An Awesome List of Open-Source Data Engineering Projects",
-      "topics": [
-        "awesome-list",
-        "data-engineering"
-      ],
-      "stargazers_count": 3143,
-      "pushed_at": "2024-10-04T11:45:10Z",
-      "added_to_queue": "2026-04-16T03:24:27.792Z"
-    },
-    {
-      "name": "awesome-yii2",
-      "html_url": "https://github.com/forecho/awesome-yii2",
-      "description": "Yii2 干货集",
-      "topics": [
-        "yii2"
-      ],
-      "stargazers_count": 1826,
-      "pushed_at": "2022-02-12T14:56:00Z",
-      "added_to_queue": "2026-04-16T03:24:27.792Z"
-    },
-    {
-      "name": "awesome-windows-kernel-security-development",
-      "html_url": "https://github.com/ExpLife0011/awesome-windows-kernel-security-development",
-      "description": "windows kernel security development",
-      "topics": [
-        "antirootkit",
-        "antivirus",
-        "bootkit",
-        "driver",
-        "framework",
-        "rootkit",
-        "shellcode"
-      ],
-      "stargazers_count": 2058,
-      "pushed_at": "2022-09-06T07:18:11Z",
-      "added_to_queue": "2026-04-16T03:24:27.792Z"
-    },
-    {
-      "name": "awesome-go-cn",
-      "html_url": "https://github.com/yinggaozhen/awesome-go-cn",
-      "description": "一个很棒的Go框架、库和软件的中文收录大全。:alarm_clock:脚本定期与英文文档同步，包含了各工程star数/最近更新时间，助您快速发现优质项目。Awesome Go~",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "cn-doc",
-        "go",
-        "golang",
-        "golang-library"
-      ],
-      "stargazers_count": 5223,
-      "pushed_at": "2026-04-15T23:52:12Z",
-      "added_to_queue": "2026-04-16T03:24:27.792Z"
-    },
-    {
-      "name": "awesome-php-cn",
-      "html_url": "https://github.com/jobbole/awesome-php-cn",
-      "description": "PHP资源大全中文版，库、框架、模板、安全、代码分析、日志、第三方库、配置工具、Web 工具等",
-      "topics": [],
-      "stargazers_count": 1819,
-      "pushed_at": "2021-08-05T13:25:42Z",
-      "added_to_queue": "2026-04-16T03:24:27.792Z"
-    },
-    {
-      "name": "gopass",
-      "html_url": "https://github.com/gopasspw/gopass",
-      "description": "The slightly more awesome standard unix password manager for teams",
-      "topics": [
-        "git",
-        "go",
-        "gpg",
-        "hacktoberfest",
-        "password-manager",
-        "security"
-      ],
-      "stargazers_count": 6796,
-      "pushed_at": "2026-04-12T07:59:34Z",
-      "added_to_queue": "2026-04-16T03:24:27.792Z"
-    },
-    {
-      "name": "awesome-vpn",
-      "html_url": "https://github.com/awesome-vpn/awesome-vpn",
-      "description": "Free proxy node aggregator. Daily updated vmess/vless/trojan/ss. 免费 代理节点 翻墙 梯子 科学上网 机场订阅 网络加速 VPN 免翻墙每日更新 一键导入",
-      "topics": [
-        "clash",
-        "clashvergerev",
-        "fanqiang",
-        "free",
-        "geopolitics",
-        "gfw",
-        "mihomo",
-        "shadowsocks",
-        "sing-box",
-        "singbox",
-        "ss",
-        "trojan",
-        "v2ray",
-        "v2rayn",
-        "vless",
-        "vmess",
-        "xray"
-      ],
-      "stargazers_count": 5075,
-      "pushed_at": "2026-04-16T01:59:38Z",
-      "added_to_queue": "2026-04-16T03:24:27.792Z"
-    },
-    {
-      "name": "react-awesome-query-builder",
-      "html_url": "https://github.com/ukrbublik/react-awesome-query-builder",
-      "description": "User-friendly query builder for React",
-      "topics": [
-        "ant-design",
-        "antd",
-        "antdesign",
-        "filter",
-        "hacktoberfest",
-        "hacktoberfest2021",
-        "material-ui",
-        "mongo",
-        "query",
-        "query-builder",
-        "react",
-        "react-component",
-        "react-components",
-        "reactjs",
-        "sql",
-        "typescript"
-      ],
-      "stargazers_count": 2245,
-      "pushed_at": "2026-03-05T05:23:43Z",
-      "added_to_queue": "2026-04-16T03:24:27.792Z"
-    },
-    {
-      "name": "jedi",
-      "html_url": "https://github.com/davidhalter/jedi",
-      "description": "Awesome autocompletion, static analysis and refactoring library for python",
-      "topics": [
-        "auto-complete",
-        "python",
-        "refactoring",
+        "php",
+        "security-analysis",
         "static-analysis",
+        "taint-analysis",
         "type-inference"
       ],
-      "stargazers_count": 6134,
-      "pushed_at": "2026-03-26T22:31:27Z",
-      "added_to_queue": "2026-04-16T03:24:27.792Z"
+      "stargazers_count": 5828,
+      "pushed_at": "2026-04-15T20:51:53Z",
+      "added_to_queue": "2026-04-17T13:08:40.055Z"
     },
     {
-      "name": "awesome-ios-architecture",
-      "html_url": "https://github.com/onmyway133/awesome-ios-architecture",
-      "description": ":japanese_castle: Better ways to structure iOS apps",
-      "topics": [
-        "architecture",
-        "ios",
-        "mvvm",
-        "react"
-      ],
-      "stargazers_count": 5235,
-      "pushed_at": "2023-11-29T09:31:50Z",
-      "added_to_queue": "2026-04-16T03:24:27.792Z"
-    },
-    {
-      "name": "awesome-copycats",
-      "html_url": "https://github.com/lcpz/awesome-copycats",
-      "description": "Awesome WM themes",
-      "topics": [
-        "awesomewm",
-        "lua",
-        "themes"
-      ],
-      "stargazers_count": 3151,
-      "pushed_at": "2025-07-12T18:38:55Z",
-      "added_to_queue": "2026-04-16T03:24:27.792Z"
-    },
-    {
-      "name": "awesome-pwa",
-      "html_url": "https://github.com/hemanth/awesome-pwa",
-      "description": "Awesome list of progressive web apps!",
-      "topics": [
-        "modern-web",
-        "pwa",
-        "service-worker"
-      ],
-      "stargazers_count": 4815,
-      "pushed_at": "2026-03-09T18:30:14Z",
-      "added_to_queue": "2026-04-16T03:24:27.792Z"
-    },
-    {
-      "name": "awesome-app-ideas",
-      "html_url": "https://github.com/tastejs/awesome-app-ideas",
-      "description": "List of awesome app ideas",
-      "topics": [],
-      "stargazers_count": 5583,
-      "pushed_at": "2024-06-06T16:21:19Z",
-      "added_to_queue": "2026-04-16T03:24:27.792Z"
-    },
-    {
-      "name": "awesome-operators",
-      "html_url": "https://github.com/operator-framework/awesome-operators",
-      "description": "A resource tracking a number of Operators out in the wild.",
-      "topics": [
-        "kubernetes",
-        "operator"
-      ],
-      "stargazers_count": 3516,
-      "pushed_at": "2021-08-02T17:00:50Z",
-      "added_to_queue": "2026-04-16T03:24:27.792Z"
-    },
-    {
-      "name": "awesome-php",
-      "html_url": "https://github.com/JingwenTian/awesome-php",
-      "description": "收集整理一些常用的PHP类库, 资源以及技巧. 以便在工作中迅速的查找所需...",
-      "topics": [],
-      "stargazers_count": 1879,
-      "pushed_at": "2022-06-24T07:26:02Z",
-      "added_to_queue": "2026-04-16T03:24:27.792Z"
-    },
-    {
-      "name": "awesome-github",
-      "html_url": "https://github.com/AntBranch/awesome-github",
-      "description": "A curated list of awesome GitHub guides, articles, sites, tools, projects and resources.  收集这个列表，只是为了更好地使用GitHub,欢迎提交pr和issue。",
-      "topics": [
-        "awesome-github",
-        "awesome-list",
-        "git",
-        "gitbook",
-        "github",
-        "github-api",
-        "github-card",
-        "github-client",
-        "github-extension",
-        "github-pages",
-        "github-rank",
-        "github-stars",
-        "github-trending",
-        "travis-ci"
-      ],
-      "stargazers_count": 2173,
-      "pushed_at": "2026-03-12T13:04:27Z",
-      "added_to_queue": "2026-04-16T03:24:27.792Z"
-    },
-    {
-      "name": "awesome-cyber-skills",
-      "html_url": "https://github.com/joe-shenouda/awesome-cyber-skills",
-      "description": "A curated list of hacking environments where you can train your cyber skills legally and safely",
-      "topics": [],
-      "stargazers_count": 4337,
-      "pushed_at": "2024-07-02T03:39:39Z",
-      "added_to_queue": "2026-04-16T03:24:27.793Z"
-    },
-    {
-      "name": "awesome-nest-boilerplate",
-      "html_url": "https://github.com/NarHakobyan/awesome-nest-boilerplate",
-      "description": "Awesome NestJS Boilerplate 😍, Typescript 💪, Postgres 🎉, TypeORM 🥳",
-      "topics": [],
-      "stargazers_count": 2788,
-      "pushed_at": "2026-04-15T10:57:56Z",
-      "added_to_queue": "2026-04-16T03:24:27.793Z"
-    },
-    {
-      "name": "programming-talks",
-      "html_url": "https://github.com/hellerve/programming-talks",
-      "description": "Awesome & interesting talks about programming",
-      "topics": [
-        "list",
-        "programming-talks",
-        "talks"
-      ],
-      "stargazers_count": 7357,
-      "pushed_at": "2026-03-03T22:14:11Z",
-      "added_to_queue": "2026-04-16T03:24:27.793Z"
-    },
-    {
-      "name": "awesome-coding-js",
-      "html_url": "https://github.com/ConardLi/awesome-coding-js",
-      "description": "Algorithms and data structures implemented in JavaScript, with detailed explanations and tutorials",
-      "topics": [],
-      "stargazers_count": 3293,
-      "pushed_at": "2024-01-10T02:49:00Z",
-      "added_to_queue": "2026-04-16T03:24:27.793Z"
-    },
-    {
-      "name": "neo4j-apoc-procedures",
-      "html_url": "https://github.com/neo4j-contrib/neo4j-apoc-procedures",
-      "description": "Awesome Procedures On Cypher for Neo4j - codenamed \"apoc\"                     If you like it, please ★ above ⇧            ",
-      "topics": [
-        "graph-algorithms",
-        "graph-database",
-        "hacktoberfest",
-        "neo4j",
-        "neo4j-plugin",
-        "stored-procedures"
-      ],
-      "stargazers_count": 1862,
-      "pushed_at": "2026-04-15T12:04:58Z",
-      "added_to_queue": "2026-04-16T03:24:27.793Z"
-    },
-    {
-      "name": "awesome-sec-talks",
-      "html_url": "https://github.com/PaulSec/awesome-sec-talks",
-      "description": "A collected list of awesome security talks",
-      "topics": [
-        "conferences",
-        "hacking",
-        "infosec",
-        "security"
-      ],
-      "stargazers_count": 4203,
-      "pushed_at": "2026-02-17T13:14:58Z",
-      "added_to_queue": "2026-04-16T03:24:27.793Z"
-    },
-    {
-      "name": "awesome_nested_set",
-      "html_url": "https://github.com/collectiveidea/awesome_nested_set",
-      "description": "An awesome replacement for acts_as_nested_set and better_nested_set.",
-      "topics": [],
-      "stargazers_count": 2408,
-      "pushed_at": "2025-12-20T01:32:09Z",
-      "added_to_queue": "2026-04-16T03:24:27.793Z"
-    },
-    {
-      "name": "awesome-sysadmin-cn",
-      "html_url": "https://github.com/jobbole/awesome-sysadmin-cn",
-      "description": "系统管理员资源大全中文版，备份/克隆软件、云计算/云存储、协作软件、配置管理、日志管理、监控、项目管理等",
-      "topics": [],
-      "stargazers_count": 1587,
-      "pushed_at": "2020-01-02T08:12:37Z",
-      "added_to_queue": "2026-04-16T03:24:27.793Z"
-    },
-    {
-      "name": "awesome-k8s-resources",
-      "html_url": "https://github.com/tomhuang12/awesome-k8s-resources",
-      "description": "A curated list of awesome Kubernetes tools and resources.",
-      "topics": [
-        "awesome-list",
-        "kubernetes",
-        "kubernetes-clusters",
-        "kubernetes-networking",
-        "kubernetes-operational",
-        "kubernetes-resources",
-        "list"
-      ],
-      "stargazers_count": 4126,
-      "pushed_at": "2025-05-20T14:54:06Z",
-      "added_to_queue": "2026-04-16T03:24:27.793Z"
-    },
-    {
-      "name": "awesome-wechat-weapp",
-      "html_url": "https://github.com/Aufree/awesome-wechat-weapp",
+      "name": "ComputerVision",
+      "html_url": "https://github.com/niconielsen32/ComputerVision",
       "description": null,
       "topics": [],
-      "stargazers_count": 2951,
-      "pushed_at": "2018-11-15T13:30:10Z",
-      "added_to_queue": "2026-04-16T03:24:28.430Z"
+      "stargazers_count": 1124,
+      "pushed_at": "2024-03-17T22:45:44Z",
+      "added_to_queue": "2026-04-17T13:10:30.481Z"
     },
     {
-      "name": "awesome-resume-for-chinese",
-      "html_url": "https://github.com/dyweb/awesome-resume-for-chinese",
-      "description": ":page_facing_up: 适合中文的简历模板收集（LaTeX，HTML/JS and so on）由 @hoochanlon 维护",
+      "name": "practical-pytorch",
+      "html_url": "https://github.com/spro/practical-pytorch",
+      "description": "Go to https://github.com/pytorch/tutorials - this repo is deprecated and no longer maintained",
       "topics": [
-        "engineer",
-        "html",
-        "json",
-        "latex",
-        "resume"
+        "natural-language-generation",
+        "natural-language-processing",
+        "nlg",
+        "nlp",
+        "seq2seq"
       ],
-      "stargazers_count": 7281,
-      "pushed_at": "2025-03-02T04:30:40Z",
-      "added_to_queue": "2026-04-16T03:24:28.430Z"
+      "stargazers_count": 4546,
+      "pushed_at": "2021-07-01T04:34:00Z",
+      "added_to_queue": "2026-04-17T13:19:59.324Z"
     },
     {
-      "name": "Awesome-TTRSS",
-      "html_url": "https://github.com/HenryQW/Awesome-TTRSS",
-      "description": "🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.",
+      "name": "data-science-portfolio",
+      "html_url": "https://github.com/sajal2692/data-science-portfolio",
+      "description": "Portfolio of data science projects completed by me for academic, self learning, and hobby purposes.",
       "topics": [
-        "docker",
-        "feedly",
-        "fever",
-        "mercury-parser",
-        "rss-feed",
-        "rss-reader",
-        "tt-rss",
-        "ttrss"
-      ],
-      "stargazers_count": 2598,
-      "pushed_at": "2026-04-13T21:33:36Z",
-      "added_to_queue": "2026-04-16T03:24:28.430Z"
-    },
-    {
-      "name": "awesome-unity-open-source-on-github",
-      "html_url": "https://github.com/baba-s/awesome-unity-open-source-on-github",
-      "description": "A categorized collection of awesome Unity open source on GitHub (800+)",
-      "topics": [
-        "awesome-list",
-        "unity",
-        "unity-asset",
-        "unity-assets",
-        "unity-editor",
-        "unity-extension",
-        "unity-mobile",
-        "unity-native",
-        "unity-plugin",
-        "unity-sample",
-        "unity-script",
-        "unity-scripts",
-        "unity-shader",
-        "unity-ui",
-        "unity3d",
-        "unity3d-plugin"
-      ],
-      "stargazers_count": 4385,
-      "pushed_at": "2026-02-02T09:52:39Z",
-      "added_to_queue": "2026-04-16T03:24:28.430Z"
-    },
-    {
-      "name": "Awesome-Cybersecurity-Handbooks",
-      "html_url": "https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks",
-      "description": "A huge chunk of my personal notes since I started playing CTFs and working as a Red Teamer.",
-      "topics": [
-        "blue-teaming",
-        "capture-the-flag",
-        "ctf",
-        "cybersecurity",
-        "defensive-security",
-        "handbooks",
-        "infosec",
-        "offensive",
-        "offensive-security",
-        "penetration-testing",
-        "pentesting",
-        "red-teaming",
-        "security"
-      ],
-      "stargazers_count": 3377,
-      "pushed_at": "2026-04-13T07:35:54Z",
-      "added_to_queue": "2026-04-16T03:24:28.430Z"
-    },
-    {
-      "name": "awesome-typescript",
-      "html_url": "https://github.com/dzharii/awesome-typescript",
-      "description": "A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript",
-      "topics": [],
-      "stargazers_count": 5092,
-      "pushed_at": "2026-02-11T04:21:43Z",
-      "added_to_queue": "2026-04-16T03:24:28.430Z"
-    },
-    {
-      "name": "AndroidPhotoFilters",
-      "html_url": "https://github.com/Zomato/AndroidPhotoFilters",
-      "description": "AndroidPhotoFilters aims to provide fast, powerful and flexible image processing instrument for creating awesome effects on any image media.",
-      "topics": [],
-      "stargazers_count": 2515,
-      "pushed_at": "2023-07-18T15:49:27Z",
-      "added_to_queue": "2026-04-16T03:24:28.430Z"
-    },
-    {
-      "name": "awesome-pcaptools",
-      "html_url": "https://github.com/caesar0301/awesome-pcaptools",
-      "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.",
-      "topics": [],
-      "stargazers_count": 3374,
-      "pushed_at": "2025-09-03T07:24:40Z",
-      "added_to_queue": "2026-04-16T03:24:28.430Z"
-    },
-    {
-      "name": "ol-ext",
-      "html_url": "https://github.com/Viglino/ol-ext",
-      "description": "Cool extensions for Openlayers (ol) - animated clusters, CSS popup, Font Awesome symbol renderer, charts for statistical map (pie/bar), layer switcher, wikipedia layer, animations, canvas filters.",
-      "topics": [
-        "animation",
-        "chart",
-        "javascript",
-        "layer-switcher",
-        "maps",
-        "ol",
-        "openlayers"
-      ],
-      "stargazers_count": 1348,
-      "pushed_at": "2026-04-10T03:26:08Z",
-      "added_to_queue": "2026-04-16T03:24:28.430Z"
-    },
-    {
-      "name": "awesome-wagtail",
-      "html_url": "https://github.com/springload/awesome-wagtail",
-      "description": "A curated list of awesome packages, articles, and other cool resources from the Wagtail community.",
-      "topics": [
-        "awesome",
-        "cms",
-        "django-cms",
-        "hacktoberfest",
+        "data-science",
+        "keras",
+        "machine-learning",
+        "nlp",
+        "pandas",
+        "portfolio",
         "python",
-        "wagtail"
+        "scikit-learn"
       ],
-      "stargazers_count": 2179,
-      "pushed_at": "2026-01-17T16:17:12Z",
-      "added_to_queue": "2026-04-16T03:26:30.261Z"
+      "stargazers_count": 1228,
+      "pushed_at": "2022-09-07T10:06:28Z",
+      "added_to_queue": "2026-04-17T13:21:05.375Z"
     },
     {
-      "name": "awesome-regex",
-      "html_url": "https://github.com/aloisdg/awesome-regex",
-      "description": "A curated collection of awesome Regex libraries, tools, frameworks and software",
-      "topics": [
-        "awesome",
-        "awesome-list"
-      ],
-      "stargazers_count": 1808,
-      "pushed_at": "2024-10-19T23:28:23Z",
-      "added_to_queue": "2026-04-16T03:26:30.261Z"
-    },
-    {
-      "name": "awesome-free-apps",
-      "html_url": "https://github.com/Axorax/awesome-free-apps",
-      "description": "Curated list of the best free apps for PC and mobile",
-      "topics": [
-        "android",
-        "awesome",
-        "awesome-list",
-        "free-apps",
-        "ios",
-        "linux",
-        "macos",
-        "microsoft",
-        "mobile",
-        "windows"
-      ],
-      "stargazers_count": 3503,
-      "pushed_at": "2026-04-02T17:49:51Z",
-      "added_to_queue": "2026-04-16T03:26:30.261Z"
-    },
-    {
-      "name": "awesome-for-non-programmers",
-      "html_url": "https://github.com/szabgab/awesome-for-non-programmers",
+      "name": "plm-nlp-code",
+      "html_url": "https://github.com/HIT-SCIR/plm-nlp-code",
       "description": null,
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "awesome-lists",
-        "readme"
-      ],
-      "stargazers_count": 1805,
-      "pushed_at": "2026-01-21T06:56:21Z",
-      "added_to_queue": "2026-04-16T03:26:31.114Z"
+      "topics": [],
+      "stargazers_count": 652,
+      "pushed_at": "2025-03-15T07:50:44Z",
+      "added_to_queue": "2026-04-17T13:23:09.306Z"
     },
     {
-      "name": "awesome-ansible",
-      "html_url": "https://github.com/ansible-community/awesome-ansible",
-      "description": "Awesome Ansible List",
-      "topics": [
-        "ansible",
-        "awesome",
-        "awesome-list",
-        "hacktoberfest",
-        "learning-ansible"
-      ],
-      "stargazers_count": 1870,
-      "pushed_at": "2025-07-10T14:16:35Z",
-      "added_to_queue": "2026-04-16T03:26:31.114Z"
+      "name": "golangFamily",
+      "html_url": "https://github.com/xiaobaiTech/golangFamily",
+      "description": "【超全golang面试题合集+golang学习指南+golang知识图谱+入门成长路线】 一份涵盖大部分golang程序员所需要掌握的核心知识。常用第三方库(mysql,mq,es,redis等)+机器学习库+算法库+游戏库+开源框架+自然语言处理nlp库+网络库+视频库+微服务框架+视频教程+音频音乐库+图形图片库+物联网库+地理位置信息+嵌入式脚本库+编译器库+数据库+金融库+电子邮件库+电子书籍+分词+数据结构+设计模式+去html tag标签等+go学习+go面试+计算机网络基础+图解网络+操作系统面试题+数据库面试题+面试题合集",
+      "topics": [],
+      "stargazers_count": 6862,
+      "pushed_at": "2024-10-13T15:17:08Z",
+      "added_to_queue": "2026-04-17T13:23:09.306Z"
     },
     {
-      "name": "awesome-linux-containers",
-      "html_url": "https://github.com/Friz-zy/awesome-linux-containers",
-      "description": "A curated list of awesome Linux Containers frameworks, libraries and software",
-      "topics": [
-        "awesome",
-        "best-practices",
-        "containers",
-        "linux-containers"
-      ],
-      "stargazers_count": 2041,
-      "pushed_at": "2024-04-09T19:01:27Z",
-      "added_to_queue": "2026-04-16T03:26:31.114Z"
+      "name": "NLPDataSet",
+      "html_url": "https://github.com/liucongg/NLPDataSet",
+      "description": "记录本人整理的一些数据集",
+      "topics": [],
+      "stargazers_count": 1091,
+      "pushed_at": "2022-06-16T07:15:27Z",
+      "added_to_queue": "2026-04-17T13:24:13.623Z"
     },
     {
-      "name": "awesome-awesome-awesome",
-      "html_url": "https://github.com/t3chnoboy/awesome-awesome-awesome",
-      "description": ":octocat: A a curated list of curated lists of awesome lists.",
-      "topics": [
-        "awesome",
-        "awesome-list"
-      ],
-      "stargazers_count": 2163,
-      "pushed_at": "2023-11-13T08:24:12Z",
-      "added_to_queue": "2026-04-16T03:26:31.114Z"
-    },
-    {
-      "name": "awesome-iam",
-      "html_url": "https://github.com/kdeldycke/awesome-iam",
-      "description": "👤 Identity and Access Management knowledge for cloud platforms",
-      "topics": [
-        "abac",
-        "anonymization",
-        "awesome",
-        "awesome-list",
-        "fido2",
-        "hardware-security-module",
-        "iam",
-        "identity-management",
-        "identity-provider",
-        "mfa",
-        "openid",
-        "passkeys",
-        "passwordless",
-        "pki",
-        "saml",
-        "scim",
-        "secret-management",
-        "totp",
-        "webauthn",
-        "zero-trust"
-      ],
-      "stargazers_count": 2179,
-      "pushed_at": "2026-04-13T18:40:53Z",
-      "added_to_queue": "2026-04-16T03:26:31.114Z"
-    },
-    {
-      "name": "awesome-space",
-      "html_url": "https://github.com/orbitalindex/awesome-space",
-      "description": "🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index",
-      "topics": [
-        "astronomy-apis",
-        "awesome",
-        "awesome-list",
-        "space"
-      ],
-      "stargazers_count": 2146,
-      "pushed_at": "2026-04-04T20:22:13Z",
-      "added_to_queue": "2026-04-16T03:26:31.114Z"
-    },
-    {
-      "name": "awesome-google-cloud",
-      "html_url": "https://github.com/GoogleCloudPlatform/awesome-google-cloud",
-      "description": "A curated list of awesome stuff for Google Cloud.",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "google-cloud"
-      ],
-      "stargazers_count": 898,
-      "pushed_at": "2024-05-30T16:03:07Z",
-      "added_to_queue": "2026-04-16T03:26:31.114Z"
-    },
-    {
-      "name": "awesome-engineering-team-management",
-      "html_url": "https://github.com/kdeldycke/awesome-engineering-team-management",
-      "description": "👔 How to transition from software development to engineering management",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "career",
-        "compensation",
-        "cto",
-        "culture",
-        "engineering-manager",
-        "engineering-team",
-        "executive-management",
-        "hiring",
-        "leadership",
-        "management",
-        "motivation",
-        "onboarding",
-        "politics",
-        "product-management",
-        "recruitment",
-        "systems",
-        "team-management",
-        "transition"
-      ],
-      "stargazers_count": 2432,
-      "pushed_at": "2026-04-13T15:16:06Z",
-      "added_to_queue": "2026-04-16T03:26:31.114Z"
-    },
-    {
-      "name": "awesome-spectral-indices",
-      "html_url": "https://github.com/awesome-spectral-indices/awesome-spectral-indices",
-      "description": "A ready-to-use curated list of Spectral Indices for Remote Sensing applications.",
-      "topics": [
-        "awesome",
-        "earth-engine",
-        "geographic-information-systems",
-        "gis",
-        "google-earth-engine",
-        "javascript",
-        "landsat",
-        "landsat-7",
-        "landsat-8",
-        "modis",
-        "python",
-        "radar",
-        "raster",
-        "remote-sensing",
-        "satellite-imagery",
-        "sentinel",
-        "sentinel-1",
-        "sentinel-2",
-        "spectral-index",
-        "spectral-indices"
-      ],
-      "stargazers_count": 1107,
-      "pushed_at": "2026-04-07T19:57:48Z",
-      "added_to_queue": "2026-04-16T03:26:31.114Z"
-    },
-    {
-      "name": "awesome-go-zh",
-      "html_url": "https://github.com/golang-china/awesome-go-zh",
-      "description": ":books: Go资源精选中文版(含中文图书大全)",
-      "topics": [
-        "awesome",
-        "awesome-go",
-        "awesome-go-cn",
-        "awesome-go-zh",
-        "awesome-list",
-        "chinese",
-        "go",
-        "golang"
-      ],
-      "stargazers_count": 1254,
-      "pushed_at": "2022-10-20T07:11:46Z",
-      "added_to_queue": "2026-04-16T03:26:31.114Z"
-    },
-    {
-      "name": "awesome-ocaml",
-      "html_url": "https://github.com/ocaml-community/awesome-ocaml",
-      "description": "A curated collection of awesome OCaml tools, frameworks, libraries and articles.",
-      "topics": [
-        "awesome",
-        "ocaml",
-        "programming-language",
-        "resources"
-      ],
-      "stargazers_count": 3067,
-      "pushed_at": "2025-11-05T15:10:42Z",
-      "added_to_queue": "2026-04-16T03:26:31.114Z"
-    },
-    {
-      "name": "awesome-scientific-computing",
-      "html_url": "https://github.com/nschloe/awesome-scientific-computing",
-      "description": ":sunglasses: Curated list of awesome software for numerical analysis and scientific computing",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "engineering",
-        "mathematics",
-        "numerical-analysis",
-        "physics",
-        "scientific-computing"
-      ],
-      "stargazers_count": 1539,
-      "pushed_at": "2026-02-18T15:42:15Z",
-      "added_to_queue": "2026-04-16T03:26:31.114Z"
-    },
-    {
-      "name": "awesome-ssh",
-      "html_url": "https://github.com/moul/awesome-ssh",
-      "description": ":computer: A curated list of SSH resources.",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "devops",
-        "list",
-        "mosh",
-        "openssh",
-        "ssh",
-        "ssh-agent",
-        "ssh-key",
-        "ssh-keys",
-        "ssh-keyscan"
-      ],
-      "stargazers_count": 2769,
-      "pushed_at": "2023-08-10T10:15:24Z",
-      "added_to_queue": "2026-04-16T03:26:31.114Z"
-    },
-    {
-      "name": "awesome",
-      "html_url": "https://github.com/YOURLS/awesome",
-      "description": "🎉 A curated list of awesome things related to YOURLS",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "yourls",
-        "yourls-api",
-        "yourls-client",
-        "yourls-extension",
-        "yourls-plugin"
-      ],
-      "stargazers_count": 1016,
-      "pushed_at": "2026-04-04T18:00:33Z",
-      "added_to_queue": "2026-04-16T03:26:31.114Z"
-    },
-    {
-      "name": "awesome-list",
-      "html_url": "https://github.com/ityouknow/awesome-list",
-      "description": "collect all  awesome about IT",
+      "name": "UnifiedNlp",
+      "html_url": "https://github.com/microg/UnifiedNlp",
+      "description": "Alternative network location provider for Android, with plugin interface to easily integrate third-party location providers.",
       "topics": [
         "android",
-        "awesome",
-        "docker",
-        "frontend",
-        "go",
-        "interview",
-        "it",
-        "javascript",
-        "nodejs",
-        "opensource",
-        "python"
+        "android-app",
+        "geolocation",
+        "java",
+        "microg",
+        "unifiednlp"
       ],
-      "stargazers_count": 528,
-      "pushed_at": "2022-10-19T06:41:49Z",
-      "added_to_queue": "2026-04-16T03:26:31.115Z"
+      "stargazers_count": 1045,
+      "pushed_at": "2023-10-14T04:22:50Z",
+      "added_to_queue": "2026-04-17T13:24:13.623Z"
     },
     {
-      "name": "awesome-hammerspoon",
-      "html_url": "https://github.com/ashfinal/awesome-hammerspoon",
-      "description": "awesome configuration for Hammerspoon.",
-      "topics": [
-        "automation",
-        "awesome",
-        "config",
-        "dotfiles",
-        "hammerspoon",
-        "macos",
-        "productivity"
-      ],
-      "stargazers_count": 1326,
-      "pushed_at": "2023-04-10T20:12:26Z",
-      "added_to_queue": "2026-04-16T03:26:31.115Z"
+      "name": "NLP_DL_Lecture_Note",
+      "html_url": "https://github.com/nyu-dl/NLP_DL_Lecture_Note",
+      "description": null,
+      "topics": [],
+      "stargazers_count": 574,
+      "pushed_at": "2018-09-03T13:19:19Z",
+      "added_to_queue": "2026-04-17T13:25:11.309Z"
     },
     {
-      "name": "awesome-canvas",
-      "html_url": "https://github.com/chinaBerg/awesome-canvas",
-      "description": "Canvas资源库大全中文版。An awesome Canvas packages and resources.",
+      "name": "WeCron",
+      "html_url": "https://github.com/polyrabbit/WeCron",
+      "description": ":heavy_check_mark: 微信上的定时提醒 - Cron on WeChat",
       "topics": [
-        "2d",
-        "3d",
-        "awesome",
-        "awesome-canvas",
-        "awesome-list",
-        "canvas",
-        "canvas-element",
-        "canvas-game",
-        "canvas2d",
-        "chart",
-        "draw",
-        "echarts",
-        "excel",
-        "flowchart",
-        "gantt",
-        "html2canvas"
-      ],
-      "stargazers_count": 1494,
-      "pushed_at": "2025-03-13T10:08:48Z",
-      "added_to_queue": "2026-04-16T03:26:31.115Z"
-    },
-    {
-      "name": "awesome-a11y",
-      "html_url": "https://github.com/brunopulis/awesome-a11y",
-      "description": "A curate list about A11Y",
-      "topics": [
-        "a11y",
-        "accessibility",
-        "assistive-technology",
-        "awesome",
-        "awesome-list",
-        "wai-aria",
-        "wcag"
-      ],
-      "stargazers_count": 1948,
-      "pushed_at": "2026-04-08T21:14:41Z",
-      "added_to_queue": "2026-04-16T03:26:31.115Z"
-    },
-    {
-      "name": "geek-cookbook",
-      "html_url": "https://github.com/geek-cookbook/geek-cookbook",
-      "description": "The \"Geek's Cookbook\" is a collection of guides for establishing your own highly-available \"private cloud\" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.",
-      "topics": [
-        "awesome",
-        "docker",
-        "hacktoberfest",
-        "kubernetes",
-        "self-hosted",
-        "selfhosting"
-      ],
-      "stargazers_count": 2108,
-      "pushed_at": "2025-06-10T01:18:44Z",
-      "added_to_queue": "2026-04-16T03:26:31.115Z"
-    },
-    {
-      "name": "awesome-python-resources",
-      "html_url": "https://github.com/DjangoEx/awesome-python-resources",
-      "description": "Awesome Python Resources",
-      "topics": [
-        "algorithms",
-        "awesome",
-        "awesome-list",
-        "awesome-lists",
-        "clean-architecture",
-        "clean-code",
-        "django",
-        "fastapi",
-        "flask",
-        "object-oriented-programming",
+        "angular",
+        "cron",
+        "crontab",
+        "ionic",
+        "nlp",
         "postgresql",
         "python",
-        "redis",
-        "system-design",
-        "testing"
+        "timer",
+        "wechat",
+        "weixin"
       ],
-      "stargazers_count": 1444,
-      "pushed_at": "2025-12-10T19:55:02Z",
-      "added_to_queue": "2026-04-16T03:26:31.115Z"
+      "stargazers_count": 689,
+      "pushed_at": "2026-03-16T04:05:11Z",
+      "added_to_queue": "2026-04-17T13:25:11.310Z"
     },
     {
-      "name": "awesome-static-website-services",
-      "html_url": "https://github.com/agarrharr/awesome-static-website-services",
-      "description": "📄 🛠 A curated list of awesome static websites services",
+      "name": "vocabulary",
+      "html_url": "https://github.com/tasdikrahman/vocabulary",
+      "description": "[Not Maintained anymore] Python Module to get Meanings, Synonyms and what not for a given word",
       "topics": [
-        "awesome",
-        "awesome-list",
-        "list"
-      ],
-      "stargazers_count": 1966,
-      "pushed_at": "2026-02-08T16:45:36Z",
-      "added_to_queue": "2026-04-16T03:26:31.115Z"
-    },
-    {
-      "name": "awesome-cosmos",
-      "html_url": "https://github.com/cosmos/awesome-cosmos",
-      "description": "Collection of Cosmos related resources",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "blockchain",
-        "cosmos",
-        "cosmos-sdk"
-      ],
-      "stargazers_count": 597,
-      "pushed_at": "2026-04-13T09:03:12Z",
-      "added_to_queue": "2026-04-16T03:26:31.115Z"
-    },
-    {
-      "name": "awesome-android-things",
-      "html_url": "https://github.com/amitshekhariitbhu/awesome-android-things",
-      "description": "A curated list of awesome android things tutorials, libraries and much more at one place",
-      "topics": [
-        "android-things",
-        "awesome",
-        "blogs",
-        "driver",
-        "sample-app",
-        "tutorial",
-        "tutorials"
-      ],
-      "stargazers_count": 1000,
-      "pushed_at": "2024-07-20T04:43:41Z",
-      "added_to_queue": "2026-04-16T03:26:31.115Z"
-    },
-    {
-      "name": "awesome-AutoIt",
-      "html_url": "https://github.com/J2TEAM/awesome-AutoIt",
-      "description": ":star: A curated list of awesome UDFs, example scripts, tools and useful resources for AutoIt.",
-      "topics": [
-        "autoit",
-        "autoit-script",
-        "awesome",
-        "awesome-list",
-        "list",
-        "programming-language",
-        "scripting-language",
-        "udf"
-      ],
-      "stargazers_count": 923,
-      "pushed_at": "2022-08-21T12:04:57Z",
-      "added_to_queue": "2026-04-16T03:26:31.115Z"
-    },
-    {
-      "name": "ReactNativeMaterials",
-      "html_url": "https://github.com/LeoMobileDeveloper/ReactNativeMaterials",
-      "description": "React Native的中文参考资料，包括开源库，文字/视频资料，相关工具等",
-      "topics": [
-        "awesome",
-        "chinese",
-        "react",
-        "react-native"
-      ],
-      "stargazers_count": 720,
-      "pushed_at": "2019-12-06T05:51:45Z",
-      "added_to_queue": "2026-04-16T03:26:31.115Z"
-    },
-    {
-      "name": "go-recipes",
-      "html_url": "https://github.com/nikolaydubina/go-recipes",
-      "description": "🦩 Tools for Go projects",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "benchmarking",
-        "code-generation",
-        "code-visualization",
-        "command-line-tool",
-        "compilers",
-        "data-visualization",
-        "developer-tools",
-        "documentation",
-        "go",
-        "golang",
-        "profiling",
-        "static-analysis",
-        "tests",
-        "visualization"
-      ],
-      "stargazers_count": 4479,
-      "pushed_at": "2026-04-03T11:43:53Z",
-      "added_to_queue": "2026-04-16T03:26:31.115Z"
-    },
-    {
-      "name": "awesome-stacks",
-      "html_url": "https://github.com/ethibox/awesome-stacks",
-      "description": "Deploy 150+ open-source web apps with one Docker command",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "devops",
-        "docker",
-        "docker-swarm",
-        "letsencrypt",
-        "portainer",
-        "templates",
-        "traefik",
-        "zero-config"
-      ],
-      "stargazers_count": 1271,
-      "pushed_at": "2026-04-15T14:35:00Z",
-      "added_to_queue": "2026-04-16T03:26:31.115Z"
-    },
-    {
-      "name": "awesome-macos-screensavers",
-      "html_url": "https://github.com/agarrharr/awesome-macos-screensavers",
-      "description": "🍎 🖥 🎆 A curated list of screensavers for Mac OS X",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "list",
-        "screensavers"
-      ],
-      "stargazers_count": 4339,
-      "pushed_at": "2025-10-27T22:06:19Z",
-      "added_to_queue": "2026-04-16T03:26:31.115Z"
-    },
-    {
-      "name": "rust-boom",
-      "html_url": "https://github.com/rust-boom/rust-boom",
-      "description": "Awesome Rust (Rust 资源 | 学习 | 书 ). 💥",
-      "topics": [
-        "awesome",
-        "awesome-rust",
-        "book",
-        "rust"
-      ],
-      "stargazers_count": 1698,
-      "pushed_at": "2025-03-14T06:15:03Z",
-      "added_to_queue": "2026-04-16T03:26:31.115Z"
-    },
-    {
-      "name": "Awesome-Vulnerability-Research",
-      "html_url": "https://github.com/sergey-pronin/Awesome-Vulnerability-Research",
-      "description": "🦄 A curated list of the awesome resources about the Vulnerability Research",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "curated",
-        "exploit-development",
-        "fuzzing",
-        "reading-list",
-        "security-research",
-        "vulnerability-research"
-      ],
-      "stargazers_count": 1317,
-      "pushed_at": "2020-12-07T13:37:41Z",
-      "added_to_queue": "2026-04-16T03:26:31.115Z"
-    },
-    {
-      "name": "awesome-puppeteer",
-      "html_url": "https://github.com/transitive-bullshit/awesome-puppeteer",
-      "description": "A curated list of awesome puppeteer resources.",
-      "topics": [
-        "automation",
-        "awesome",
-        "awesome-list",
-        "crawling",
-        "headless-chrome",
-        "puppeteer",
-        "scraping"
-      ],
-      "stargazers_count": 2550,
-      "pushed_at": "2024-07-19T07:36:39Z",
-      "added_to_queue": "2026-04-16T03:26:31.115Z"
-    },
-    {
-      "name": "awesome-svelte",
-      "html_url": "https://github.com/TheComputerM/awesome-svelte",
-      "description": "⚡ A curated list of awesome Svelte resources",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "sapper",
-        "svelte",
-        "sveltejs"
-      ],
-      "stargazers_count": 2085,
-      "pushed_at": "2026-04-13T09:41:38Z",
-      "added_to_queue": "2026-04-16T03:26:31.115Z"
-    },
-    {
-      "name": "awesome-jamstack",
-      "html_url": "https://github.com/automata/awesome-jamstack",
-      "description": "Carefully curated list of awesome Jamstack resources",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "jamstack",
-        "javascript",
-        "static-site",
-        "static-site-generator"
-      ],
-      "stargazers_count": 1363,
-      "pushed_at": "2025-06-24T16:08:58Z",
-      "added_to_queue": "2026-04-16T03:26:31.115Z"
-    },
-    {
-      "name": "awesome-rss-feeds",
-      "html_url": "https://github.com/plenaryapp/awesome-rss-feeds",
-      "description": "Awesome RSS feeds - A curated list of RSS feeds (and OPML files) used in Recommended Feeds and local news sections of Plenary - an RSS reader, article downloader and a podcast player app for android",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "feed",
-        "opml",
-        "opml-files",
-        "plenary",
-        "rss",
-        "rss-feed",
-        "rss-reader"
-      ],
-      "stargazers_count": 2236,
-      "pushed_at": "2024-07-13T09:59:31Z",
-      "added_to_queue": "2026-04-16T03:26:31.115Z"
-    },
-    {
-      "name": "awesome-blockchain",
-      "html_url": "https://github.com/imbaniac/awesome-blockchain",
-      "description": "Curated list of blockchain services and exchanges 🔥🏦🔥🏦🔥🏦🔥",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "bitcoin",
-        "blockchain",
-        "crypto",
-        "cryptocurrency",
-        "exchange",
-        "money"
-      ],
-      "stargazers_count": 890,
-      "pushed_at": "2024-04-02T13:22:26Z",
-      "added_to_queue": "2026-04-16T03:26:31.115Z"
-    },
-    {
-      "name": "awesome-flutter-packages",
-      "html_url": "https://github.com/simc/awesome-flutter-packages",
-      "description": "A curated list of awesome Flutter packages.",
-      "topics": [
-        "android",
-        "awesome",
-        "dart",
-        "flutter",
-        "ios"
-      ],
-      "stargazers_count": 1261,
-      "pushed_at": "2019-08-09T15:00:25Z",
-      "added_to_queue": "2026-04-16T03:26:31.115Z"
-    },
-    {
-      "name": "awesome-flask",
-      "html_url": "https://github.com/mjhea0/awesome-flask",
-      "description": "A curated list of awesome things related to Flask",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "flask",
-        "flask-resources"
-      ],
-      "stargazers_count": 1731,
-      "pushed_at": "2026-02-23T16:01:42Z",
-      "added_to_queue": "2026-04-16T03:26:31.115Z"
-    },
-    {
-      "name": "awesome-ui-component-library",
-      "html_url": "https://github.com/anubhavsrivastava/awesome-ui-component-library",
-      "description": "Curated list of framework component libraries for UI styles/toolkit",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "bootstrap-library",
-        "component-library",
-        "components",
-        "framework",
-        "google-material",
-        "kendo-ui",
-        "library",
-        "mithriljs",
-        "office-ui-fabric",
-        "react-components",
-        "reactjs",
-        "reactnative",
-        "toolkit",
-        "ui-components",
-        "ui-kit",
-        "ui-toolkit",
-        "vue-components",
-        "vuejs"
-      ],
-      "stargazers_count": 1678,
-      "pushed_at": "2025-11-23T18:25:38Z",
-      "added_to_queue": "2026-04-16T03:26:31.115Z"
-    },
-    {
-      "name": "zaobao",
-      "html_url": "https://github.com/wubaiqing/zaobao",
-      "description": "每日时报，以前端技术体系为主要分享课题。根据：文章、工具、新闻、视频几大板块作为主要分类。",
-      "topics": [
-        "awesome",
-        "coding-article",
-        "daily",
-        "design",
-        "news",
-        "promotion-promotion",
-        "share",
-        "web-development",
-        "zaobao"
-      ],
-      "stargazers_count": 2251,
-      "pushed_at": "2022-08-10T02:25:37Z",
-      "added_to_queue": "2026-04-16T03:26:31.115Z"
-    },
-    {
-      "name": "awesome-canvas",
-      "html_url": "https://github.com/raphamorim/awesome-canvas",
-      "description": "A curated list of awesome HTML5 Canvas with examples, related articles and posts.",
-      "topics": [
-        "awesome",
-        "awesome-canvas",
-        "awesome-list",
-        "canvas-element",
-        "canvas2d",
-        "draw-graphics",
-        "html5-canvas",
-        "javascript",
-        "particles"
-      ],
-      "stargazers_count": 1810,
-      "pushed_at": "2024-07-09T19:18:02Z",
-      "added_to_queue": "2026-04-16T03:26:31.115Z"
-    },
-    {
-      "name": "awesome-sushi",
-      "html_url": "https://github.com/738/awesome-sushi",
-      "description": "🍣 국내 스시 오마카세 맛집 리스트",
-      "topics": [
-        "awesome",
-        "japan",
-        "korea",
-        "korean",
-        "seoul",
-        "sushi",
-        "sushi-ware"
-      ],
-      "stargazers_count": 2488,
-      "pushed_at": "2024-01-15T05:12:36Z",
-      "added_to_queue": "2026-04-16T03:26:31.115Z"
-    },
-    {
-      "name": "awesome-hackathon-projects",
-      "html_url": "https://github.com/Olanetsoft/awesome-hackathon-projects",
-      "description": "This is a curated list of amazing hackathon projects",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "hackathon",
-        "hacktoberfest",
-        "hashnode",
-        "hashnode-hackathon",
-        "javascript",
-        "projects",
+        "antonym",
+        "api",
+        "dictionary",
+        "glosbe",
+        "nlp",
+        "pronunciation",
         "python",
-        "react"
+        "synonyms",
+        "wordnik"
       ],
-      "stargazers_count": 1633,
-      "pushed_at": "2025-05-20T16:03:31Z",
-      "added_to_queue": "2026-04-16T03:26:31.115Z"
+      "stargazers_count": 562,
+      "pushed_at": "2019-11-04T04:42:35Z",
+      "added_to_queue": "2026-04-17T13:26:20.311Z"
     },
     {
-      "name": "awesome-product-design",
-      "html_url": "https://github.com/ttt30ga/awesome-product-design",
-      "description": "A collection of bookmarks, resources, articles for product designers.",
+      "name": "pytorch",
+      "html_url": "https://github.com/Ascend/pytorch",
+      "description": "Ascend PyTorch adapter (torch_npu). Mirror of https://gitcode.com/Ascend/pytorch",
       "topics": [
-        "article",
-        "awesome",
-        "awesome-list",
-        "bookmark",
-        "design",
-        "design-resource",
-        "font",
-        "iot",
-        "list",
-        "product-design",
-        "stock",
-        "tools",
-        "ui",
-        "ux"
+        "ascend",
+        "deep-learning",
+        "pytorch"
       ],
-      "stargazers_count": 2564,
-      "pushed_at": "2025-09-22T15:36:35Z",
-      "added_to_queue": "2026-04-16T03:26:31.115Z"
+      "stargazers_count": 500,
+      "pushed_at": "2026-04-17T13:30:40Z",
+      "added_to_queue": "2026-04-17T13:31:21.053Z"
     },
     {
-      "name": "v-shop",
-      "html_url": "https://github.com/JoeshuTT/v-shop",
-      "description": "🛒 v-shop 是一个移动端 H5 商城",
-      "topics": [
-        "awesome",
-        "h5",
-        "mall",
-        "mobile",
-        "shop",
-        "v-shop",
-        "vue",
-        "vue3"
-      ],
-      "stargazers_count": 621,
-      "pushed_at": "2026-04-09T11:52:38Z",
-      "added_to_queue": "2026-04-16T03:26:31.115Z"
+      "name": "pytorch-mask-rcnn",
+      "html_url": "https://github.com/multimodallearning/pytorch-mask-rcnn",
+      "description": null,
+      "topics": [],
+      "stargazers_count": 2063,
+      "pushed_at": "2019-07-15T13:11:29Z",
+      "added_to_queue": "2026-04-17T13:36:22.011Z"
     },
     {
-      "name": "awesome-free-software",
-      "html_url": "https://github.com/johnjago/awesome-free-software",
-      "description": "Curated list of open-source, free as in freedom software.",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "free-software",
-        "gnu",
-        "gpl",
-        "libre",
-        "open-source",
-        "software-freedom"
-      ],
-      "stargazers_count": 2678,
-      "pushed_at": "2025-04-29T13:18:01Z",
-      "added_to_queue": "2026-04-16T03:26:31.115Z"
+      "name": "pytorch-faster-rcnn",
+      "html_url": "https://github.com/ruotianluo/pytorch-faster-rcnn",
+      "description": "pytorch1.0 updated. Support cpu test and demo. (Use detectron2, it's a masterpiece)",
+      "topics": [],
+      "stargazers_count": 1817,
+      "pushed_at": "2020-11-12T03:12:48Z",
+      "added_to_queue": "2026-04-17T13:36:22.012Z"
     },
     {
-      "name": "nodejs-cli-apps-best-practices",
-      "html_url": "https://github.com/lirantal/nodejs-cli-apps-best-practices",
-      "description": "The largest Node.js CLI Apps best practices list ✨",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "best-practices",
-        "cli",
-        "command-line",
-        "node",
-        "nodejs",
-        "nodejs-cli"
-      ],
-      "stargazers_count": 3971,
-      "pushed_at": "2026-04-10T08:19:36Z",
-      "added_to_queue": "2026-04-16T03:26:31.115Z"
+      "name": "snake-ai-pytorch",
+      "html_url": "https://github.com/patrickloeber/snake-ai-pytorch",
+      "description": null,
+      "topics": [],
+      "stargazers_count": 721,
+      "pushed_at": "2024-06-11T05:26:41Z",
+      "added_to_queue": "2026-04-17T13:37:25.483Z"
     },
     {
-      "name": "Awesome-PicGo",
-      "html_url": "https://github.com/PicGo/Awesome-PicGo",
-      "description": "A collection of awesome projects using PicGo.",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "picgo"
-      ],
-      "stargazers_count": 1675,
-      "pushed_at": "2026-04-04T01:16:22Z",
-      "added_to_queue": "2026-04-16T03:26:31.115Z"
+      "name": "pytorch_Realtime_Multi-Person_Pose_Estimation",
+      "html_url": "https://github.com/tensorboy/pytorch_Realtime_Multi-Person_Pose_Estimation",
+      "description": null,
+      "topics": [],
+      "stargazers_count": 1374,
+      "pushed_at": "2023-02-07T01:46:17Z",
+      "added_to_queue": "2026-04-17T13:37:25.938Z"
     },
     {
-      "name": "awesome-account-abstraction",
-      "html_url": "https://github.com/4337Mafia/awesome-account-abstraction",
-      "description": "📖 A curated list of resources dedicated to Account Abstraction (EIP-4337)",
-      "topics": [
-        "account-abstraction",
-        "awesome",
-        "awesome-list",
-        "blockchain",
-        "dapp",
-        "eip-4337",
-        "ethereum",
-        "smart-contract-wallet",
-        "smart-contracts"
-      ],
-      "stargazers_count": 1005,
-      "pushed_at": "2025-11-05T19:18:08Z",
-      "added_to_queue": "2026-04-16T03:26:31.115Z"
+      "name": "arcface-pytorch",
+      "html_url": "https://github.com/ronghuaiyang/arcface-pytorch",
+      "description": null,
+      "topics": [],
+      "stargazers_count": 1893,
+      "pushed_at": "2021-12-09T11:00:04Z",
+      "added_to_queue": "2026-04-17T13:37:26.392Z"
     },
     {
-      "name": "golang-tls",
-      "html_url": "https://github.com/denji/golang-tls",
-      "description": "Simple Golang HTTPS/TLS Examples",
-      "topics": [
-        "awesome",
-        "go",
-        "golang",
-        "http2",
-        "httpclient",
-        "https",
-        "https-server",
-        "libressl",
-        "openssl",
-        "secure",
-        "security",
-        "security-audit",
-        "security-hardening",
-        "security-scanner",
-        "security-tools",
-        "tools"
-      ],
-      "stargazers_count": 1327,
-      "pushed_at": "2020-11-20T20:01:23Z",
-      "added_to_queue": "2026-04-16T03:26:31.115Z"
+      "name": "Neural-Network",
+      "html_url": "https://github.com/nxxcxx/Neural-Network",
+      "description": "Abstract visualization of biological neural network",
+      "topics": [],
+      "stargazers_count": 880,
+      "pushed_at": "2021-11-25T11:46:57Z",
+      "added_to_queue": "2026-04-17T13:58:32.918Z"
     },
     {
-      "name": "awesome-python-in-education",
-      "html_url": "https://github.com/quobit/awesome-python-in-education",
-      "description": "A curated list about Python in Education :snake: :mortar_board:",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "computer-science",
-        "education",
-        "learning-python",
-        "python"
-      ],
-      "stargazers_count": 902,
-      "pushed_at": "2024-06-06T07:05:41Z",
-      "added_to_queue": "2026-04-16T03:26:31.115Z"
+      "name": "SNN-Daily-Arxiv",
+      "html_url": "https://github.com/SpikingChen/SNN-Daily-Arxiv",
+      "description": "Update arXiv papers about Spiking Neural Networks daily.",
+      "topics": [],
+      "stargazers_count": 500,
+      "pushed_at": "2026-04-16T22:35:08Z",
+      "added_to_queue": "2026-04-17T14:00:26.324Z"
     },
     {
-      "name": "awesome-fantasy",
-      "html_url": "https://github.com/RichardLitt/awesome-fantasy",
-      "description": ":european_castle: Fantasy literature worth reading",
+      "name": "rufus",
+      "html_url": "https://github.com/pbatard/rufus",
+      "description": "The Reliable USB Formatting Utility",
       "topics": [
-        "awesome",
-        "awesome-list",
-        "fantasy",
-        "list",
-        "literature",
-        "movies"
+        "bios",
+        "boot",
+        "bootable-drives",
+        "freedos",
+        "gpt",
+        "grub",
+        "grub4dos",
+        "iso",
+        "mbr",
+        "md5",
+        "persistence",
+        "rufus",
+        "secure-boot",
+        "sha1",
+        "sha256",
+        "syslinux",
+        "uefi",
+        "usb",
+        "windows",
+        "windows-to-go"
       ],
-      "stargazers_count": 1494,
-      "pushed_at": "2025-02-05T18:46:00Z",
-      "added_to_queue": "2026-04-16T03:26:31.115Z"
+      "stargazers_count": 35497,
+      "pushed_at": "2026-04-14T13:07:25Z",
+      "added_to_queue": "2026-04-17T14:03:31.874Z"
     },
     {
-      "name": "awesome-5g",
-      "html_url": "https://github.com/calee0219/awesome-5g",
-      "description": "Awesome lists about 5G projects.",
+      "name": "Limine",
+      "html_url": "https://github.com/Limine-Bootloader/Limine",
+      "description": "Modern, advanced, portable, multiprotocol bootloader and boot manager.",
       "topics": [
-        "5g",
-        "awesome",
-        "awesome-lists",
-        "resources"
+        "aarch64",
+        "arm",
+        "arm64",
+        "bios",
+        "boot-loader",
+        "boot-manager",
+        "bootloader",
+        "efi",
+        "gpt",
+        "loongarch",
+        "loongarch64",
+        "loongson",
+        "mbr",
+        "risc-v",
+        "riscv",
+        "riscv64",
+        "uefi",
+        "x64",
+        "x86",
+        "x86-64"
       ],
-      "stargazers_count": 877,
-      "pushed_at": "2026-02-03T11:09:03Z",
-      "added_to_queue": "2026-04-16T03:26:31.115Z"
+      "stargazers_count": 3013,
+      "pushed_at": "2026-04-17T04:40:53Z",
+      "added_to_queue": "2026-04-17T14:04:42.525Z"
     },
     {
-      "name": "awesome-computer-history",
-      "html_url": "https://github.com/watson/awesome-computer-history",
-      "description": "An Awesome List of computer history videos, documentaries and related folklore",
+      "name": "mkosi",
+      "html_url": "https://github.com/systemd/mkosi",
+      "description": "💽 Build Bespoke OS Images",
       "topics": [
-        "awesome",
-        "awesome-list",
-        "computer-history",
-        "documentary",
-        "hackers",
-        "history",
-        "list",
-        "video"
+        "boot",
+        "btrfs",
+        "btrfs-subvolume",
+        "debian",
+        "disk-image",
+        "distro",
+        "efi",
+        "fedora",
+        "gpt",
+        "initramfs",
+        "initramfs-generator",
+        "initramfs-image",
+        "luks",
+        "mkosi",
+        "opensuse",
+        "partition",
+        "squashfs",
+        "ubuntu",
+        "verity"
       ],
-      "stargazers_count": 2914,
-      "pushed_at": "2023-02-01T09:01:45Z",
-      "added_to_queue": "2026-04-16T03:26:31.115Z"
+      "stargazers_count": 1855,
+      "pushed_at": "2026-04-16T07:53:23Z",
+      "added_to_queue": "2026-04-17T14:04:42.525Z"
     },
     {
-      "name": "awesome-typst",
-      "html_url": "https://github.com/qjcg/awesome-typst",
-      "description": "Awesome Typst Links",
+      "name": "Sing-box",
+      "html_url": "https://github.com/eooce/Sing-box",
+      "description": "既然来了，就留下你的Star吧！Serv00 | CT8 | Hostuno | VPS | 游戏机 | sing-box(reality + hy2 + vmess-argo +tuic5)四合一无交互一键安装脚本(已适配Alpine)，支持纯V6 vps，默认解锁GPT和奈飞",
       "topics": [
-        "awesome",
-        "awesome-list",
-        "typst"
+        "argo",
+        "hysteria2",
+        "oneclick",
+        "reality",
+        "serv00",
+        "sing-box",
+        "tuic",
+        "tunnel",
+        "vmess-ws-tls"
       ],
-      "stargazers_count": 3382,
-      "pushed_at": "2026-04-11T02:53:30Z",
-      "added_to_queue": "2026-04-16T03:26:31.115Z"
+      "stargazers_count": 4430,
+      "pushed_at": "2026-03-20T08:11:58Z",
+      "added_to_queue": "2026-04-17T14:05:50.837Z"
     },
     {
-      "name": "awesome-jupyterlab",
-      "html_url": "https://github.com/mauhai/awesome-jupyterlab",
-      "description": " A curated list of awesome JupyterLab extensions and resources",
-      "topics": [
-        "awesome",
-        "collections",
-        "jupyterlab",
-        "jupyterlab-extension"
-      ],
-      "stargazers_count": 2614,
-      "pushed_at": "2022-11-03T09:15:54Z",
-      "added_to_queue": "2026-04-16T03:26:31.115Z"
+      "name": "Uncodixfy",
+      "html_url": "https://github.com/cyxzdev/Uncodixfy",
+      "description": "the holly uncodexify instructions - letting GPT create uncodexified UI",
+      "topics": [],
+      "stargazers_count": 2262,
+      "pushed_at": "2026-03-18T07:45:33Z",
+      "added_to_queue": "2026-04-17T14:05:50.837Z"
     },
     {
-      "name": "awesome-opensource-unity",
-      "html_url": "https://github.com/StefanoCecere/awesome-opensource-unity",
-      "description": "a list of curated opensource Unity packages for future proof Game Developers",
-      "topics": [
-        "assets",
-        "awesome",
-        "awesome-list",
-        "creative-commons",
-        "game",
-        "game-development",
-        "gamedev",
-        "opensource",
-        "unity",
-        "unity3d"
-      ],
-      "stargazers_count": 1912,
-      "pushed_at": "2026-02-18T12:54:30Z",
-      "added_to_queue": "2026-04-16T03:26:31.115Z"
+      "name": "code-gpt-docs",
+      "html_url": "https://github.com/JudiniLabs/code-gpt-docs",
+      "description": "Docusaurus page",
+      "topics": [],
+      "stargazers_count": 657,
+      "pushed_at": "2026-03-16T23:57:35Z",
+      "added_to_queue": "2026-04-17T14:05:50.837Z"
     },
     {
-      "name": "awesome-engineering-management",
-      "html_url": "https://github.com/engineering-management/awesome-engineering-management",
-      "description": "Pointers and tools for learning and day-to-day practice of engineering management & leadership.",
+      "name": "ThreatSimGPT",
+      "html_url": "https://github.com/threatsimgpt-AI/ThreatSimGPT",
+      "description": null,
+      "topics": [],
+      "stargazers_count": 543,
+      "pushed_at": "2026-03-15T14:13:07Z",
+      "added_to_queue": "2026-04-17T14:05:50.837Z"
+    },
+    {
+      "name": "gptoolbox",
+      "html_url": "https://github.com/alecjacobson/gptoolbox",
+      "description": "Matlab toolbox for Geometry Processing.",
+      "topics": [],
+      "stargazers_count": 671,
+      "pushed_at": "2026-01-28T15:04:00Z",
+      "added_to_queue": "2026-04-17T14:05:50.837Z"
+    },
+    {
+      "name": "Jailbreaks-GPT-Gemini-deepseek-",
+      "html_url": "https://github.com/ShadowHackrs/Jailbreaks-GPT-Gemini-deepseek-",
+      "description": "Jailbreaks GPT, Sora, Claude, Gemini ,deepseek this prompt unlocks rage mode",
+      "topics": [],
+      "stargazers_count": 689,
+      "pushed_at": "2026-01-20T19:37:32Z",
+      "added_to_queue": "2026-04-17T14:05:50.837Z"
+    },
+    {
+      "name": "ntfstool",
+      "html_url": "https://github.com/thewhiteninja/ntfstool",
+      "description": "Forensics tool for NTFS (parser, mft, bitlocker, deleted files) ",
       "topics": [
-        "awesome",
-        "awesome-list",
-        "engineering-management",
-        "leadership",
-        "productivity",
-        "project-management"
+        "bitlocker",
+        "btree",
+        "compressed",
+        "disk",
+        "efs",
+        "fve",
+        "gpt",
+        "logfile",
+        "mbr",
+        "mft",
+        "ntfs",
+        "parser",
+        "reparse",
+        "smart",
+        "sparse",
+        "undelete",
+        "usn",
+        "vbr",
+        "vmk",
+        "vss"
       ],
-      "stargazers_count": 2628,
-      "pushed_at": "2026-04-05T17:17:17Z",
-      "added_to_queue": "2026-04-16T03:26:31.115Z"
+      "stargazers_count": 609,
+      "pushed_at": "2023-07-23T09:51:27Z",
+      "added_to_queue": "2026-04-17T14:06:18.803Z"
+    },
+    {
+      "name": "Super-UEFIinSecureBoot-Disk",
+      "html_url": "https://github.com/ValdikSS/Super-UEFIinSecureBoot-Disk",
+      "description": "Super UEFIinSecureBoot Disk: Boot any OS or .efi file without disabling UEFI Secure Boot",
+      "topics": [
+        "bootable-usb",
+        "gpt",
+        "grub2",
+        "iso",
+        "liveusb",
+        "mbr",
+        "multiboot",
+        "secureboot",
+        "uefi",
+        "uefi-boot",
+        "uefi-secureboot"
+      ],
+      "stargazers_count": 831,
+      "pushed_at": "2022-06-20T22:05:46Z",
+      "added_to_queue": "2026-04-17T14:06:18.803Z"
+    },
+    {
+      "name": "langchain-skills",
+      "html_url": "https://github.com/langchain-ai/langchain-skills",
+      "description": null,
+      "topics": [],
+      "stargazers_count": 592,
+      "pushed_at": "2026-04-09T17:23:44Z",
+      "added_to_queue": "2026-04-17T14:18:43.040Z"
+    },
+    {
+      "name": "django-vue3-admin",
+      "html_url": "https://github.com/XIE7654/django-vue3-admin",
+      "description": "django vue3 ts admin vben fastapi langchain",
+      "topics": [],
+      "stargazers_count": 709,
+      "pushed_at": "2026-03-19T00:56:55Z",
+      "added_to_queue": "2026-04-17T14:19:49.591Z"
+    },
+    {
+      "name": "langchain-aiplugin",
+      "html_url": "https://github.com/langchain-ai/langchain-aiplugin",
+      "description": null,
+      "topics": [],
+      "stargazers_count": 505,
+      "pushed_at": "2025-12-02T07:47:50Z",
+      "added_to_queue": "2026-04-17T14:19:49.591Z"
     }
   ]
 }
