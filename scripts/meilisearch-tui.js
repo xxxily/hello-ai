@@ -86,6 +86,7 @@ function printHeader() {
 function printHelp() {
   console.log(`${colors.dim}命令说明:${colors.reset}`)
   console.log(`  ${colors.green}直接输入关键词${colors.reset}  - 搜索项目`)
+  console.log(`  ${colors.yellow}:r <项目名>${colors.reset}      - 搜索同类相关项目`)
   console.log(`  ${colors.yellow}:c <分类>${colors.reset}      - 按分类过滤 (如: :c agents)`)
   console.log(`  ${colors.yellow}:s <排序>${colors.reset}      - 排序方式 (如: :s stars:desc)`)
   console.log(`  ${colors.yellow}:h <健康>${colors.reset}      - 按健康状态过滤 (如: :h Active)`)
@@ -159,6 +160,88 @@ async function getStats() {
     }
 
     return await response.json()
+  } catch (err) {
+    return { error: `请求失败: ${err.message}` }
+  }
+}
+
+/**
+ * 获取相关项目
+ */
+async function getSimilarProjects(projectName) {
+  // 1. 查找基准项目
+  const baseSearchParams = {
+    q: projectName,
+    limit: 1,
+    attributesToRetrieve: ['name', 'description', 'tags', 'topics', 'subcategory']
+  }
+
+  try {
+    const baseResponse = await fetch(`${MEILISEARCH_HOST}/indexes/${INDEX_NAME}/search`, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'Authorization': `Bearer ${MEILISEARCH_API_KEY}`
+      },
+      body: JSON.stringify(baseSearchParams)
+    })
+
+    if (!baseResponse.ok) {
+      return { error: `获取基准项目失败` }
+    }
+
+    const baseData = await baseResponse.json()
+    if (baseData.hits.length === 0) {
+      return { error: `未找到名称为 "${projectName}" 的项目` }
+    }
+
+    const baseProject = baseData.hits[0]
+    console.log(`${colors.dim}🔍 找到基准项目: ${colors.reset}${colors.bold}${baseProject.name}${colors.reset}`)
+
+    // 2. 构造特征查询
+    // 权重策略：重复 tags 和 topics 以增加其权重
+    const tagsPart = (baseProject.tags || []).join(' ')
+    const topicsPart = (baseProject.topics || []).join(' ')
+    const subPart = baseProject.subcategory || ''
+    
+    // 构造查询语料：重复两次标签和主题来提升它们的匹配优先级
+    const query = `${tagsPart} ${tagsPart} ${topicsPart} ${topicsPart} ${subPart}`.trim()
+    
+    if (!query) {
+      return { error: `项目 "${projectName}" 没有足够的标签或分类信息来进行相关搜索` }
+    }
+
+    console.log(`${colors.dim}🎯 提取特征词: ${colors.reset}${colors.blue}${query}${colors.reset}`)
+
+    // 3. 执行相似性搜索
+    const searchParams = {
+      q: query,
+      limit: 11, // 寻找 11 个，因为要排除掉自己
+      filter: `name != "${baseProject.name}"`, // 排除项目自身
+      attributesToHighlight: ['name', 'description'],
+      highlightPreTag: '**',
+      highlightPostTag: '**'
+    }
+
+    const response = await fetch(`${MEILISEARCH_HOST}/indexes/${INDEX_NAME}/search`, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'Authorization': `Bearer ${MEILISEARCH_API_KEY}`
+      },
+      body: JSON.stringify(searchParams)
+    })
+
+    if (!response.ok) {
+      const error = await response.text()
+      return { error: `相似搜索失败: ${error}` }
+    }
+
+    const results = await response.json()
+    // 注入查询信息以便显示
+    results.query = `相关项目: ${baseProject.name}`
+    return results
+
   } catch (err) {
     return { error: `请求失败: ${err.message}` }
   }
@@ -307,6 +390,19 @@ async function main() {
 
           case ':stats':
             await displayStats()
+            break
+
+          case ':r':
+          case ':related':
+            if (arg) {
+              clearScreen()
+              printHeader()
+              printHelp()
+              const results = await getSimilarProjects(arg)
+              displayResults(results)
+            } else {
+              console.log(`${colors.yellow}用法: :r <项目名>${colors.reset}`)
+            }
             break
 
           case ':clear':
