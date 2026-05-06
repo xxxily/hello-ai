@@ -2,7 +2,7 @@
 
 > End-user applications powered by AI.
 
-> 当前分类已收录 **834** 个相关项目。
+> 当前分类已收录 **833** 个相关项目。
 
 ## Chatbots & UIs
 
@@ -10,7 +10,7 @@
 
 功能强大的自托管AI Web界面，支持Ollama、OpenAI等多种LLM后端，内置RAG和MCP功能。
 
-- **Stars:** ⭐️ 135.5k
+- **Stars:** ⭐️ 135.7k
 - **Tags:** `LLM` `WebUI` `RAG` `Ollama`
 - **最后活动时间:** 2026-05-04
 
@@ -26,9 +26,9 @@
 
 轻量级ChatGPT聊天界面客户端，提供简洁的AI对话体验。
 
-- **Stars:** ⭐️ 52.8k
+- **Stars:** ⭐️ 53.0k
 - **Tags:** `chatgpt` `chatbot` `ui` `client`
-- **最后活动时间:** 2026-04-14
+- **最后活动时间:** 2026-05-05
 
 ### [text-generation-webui](https://github.com/oobabooga/text-generation-webui)
 
@@ -50,9 +50,9 @@
 
 超轻量级个人AI助手，提供简洁高效的智能对话体验。
 
-- **Stars:** ⭐️ 41.6k
+- **Stars:** ⭐️ 41.7k
 - **Tags:** `ai-assistant` `chatbot` `personal-ai`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-05
 
 ### [WeChatMsg](https://github.com/LC044/WeChatMsg)
 
@@ -98,17 +98,17 @@
 
 开源AI聊天平台，支持多种LLM模型，集成RAG检索增强和企业级搜索功能。
 
-- **Stars:** ⭐️ 28.9k
+- **Stars:** ⭐️ 29.0k
 - **Tags:** `AI Chat` `RAG` `Enterprise`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-06
 
 ### [SillyTavern](https://github.com/SillyTavern/SillyTavern)
 
 面向高级用户的LLM前端界面，支持多后端接入和丰富的角色扮演功能。
 
-- **Stars:** ⭐️ 26.9k
+- **Stars:** ⭐️ 27.0k
 - **Tags:** `LLM` `Chat` `Frontend`
-- **最后活动时间:** 2026-05-03
+- **最后活动时间:** 2026-05-05
 
 ### [xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
 
@@ -282,7 +282,7 @@ Node.js 的 Telegram Bot API 客户端，支持流式处理和 Promise，便于�
 
 开源WhatsApp集成API，支持OpenAI、Dify等AI平台对接。
 
-- **Stars:** ⭐️ 8.1k
+- **Stars:** ⭐️ 8.2k
 - **Tags:** `WhatsApp` `Chatbot` `OpenAI` `API`
 - **最后活动时间:** 2026-04-29
 
@@ -324,7 +324,7 @@ Node.js 的 Telegram Bot API 客户端，支持流式处理和 Promise，便于�
 
 - **Stars:** ⭐️ 7.5k
 - **Tags:** `chatbot` `bot-framework` `python` `async` `multi-platform`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-05
 
 ### [Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber)
 
@@ -362,9 +362,9 @@ Node.js 的 Telegram Bot API 客户端，支持流式处理和 Promise，便于�
 
 将大语言模型直接运行在手机上的应用，支持离线本地推理。
 
-- **Stars:** ⭐️ 6.8k
+- **Stars:** ⭐️ 6.9k
 - **Tags:** `Mobile AI` `Local LLM` `Privacy`
-- **最后活动时间:** 2026-05-02
+- **最后活动时间:** 2026-05-05
 
 ### [chatgpt-web-midjourney-proxy](https://github.com/Dooy/chatgpt-web-midjourney-proxy)
 
@@ -462,14 +462,6 @@ PHP跨平台聊天机器人开发框架，支持多渠道消息处理与对话�
 - **Tags:** `discord` `chatbot` `bot` `python` `modular`
 - **最后活动时间:** 2026-04-19
 
-### [53AIHub](https://github.com/53AI/53AIHub)
-
-开源AI门户平台，集成Coze、Dify、FastGPT等开发平台，实现AI智能体和工具的统一管理部署。
-
-- **Stars:** ⭐️ 5.5k
-- **Tags:** `AI Portal` `Agent Management` `Dify`
-- **最后活动时间:** 2026-03-04
-
 ### [open-canvas](https://github.com/langchain-ai/open-canvas)
 
 为LLM聊天、内容写作和编程提供更优用户体验的交互界面工具。
@@ -485,6 +477,14 @@ PHP跨平台聊天机器人开发框架，支持多渠道消息处理与对话�
 - **Stars:** ⭐️ 5.0k
 - **Tags:** `Answer Engine` `RAG` `Search`
 - **最后活动时间:** 2026-04-29
+
+### [53AIHub](https://github.com/53AI/53AIHub)
+
+开源AI门户平台，集成Coze、Dify、FastGPT等开发平台，实现AI智能体和工具的统一管理部署。
+
+- **Stars:** ⭐️ 5.0k
+- **Tags:** `AI Portal` `Agent Management` `Dify`
+- **最后活动时间:** 2026-03-04
 
 ### [GeminiProChat](https://github.com/babaohuang/GeminiProChat)
 
@@ -530,9 +530,9 @@ PHP跨平台聊天机器人开发框架，支持多渠道消息处理与对话�
 
 Android平台上功能强大的AI Agent应用，支持本地LLM和终端操作。
 
-- **Stars:** ⭐️ 4.4k
+- **Stars:** ⭐️ 4.5k
 - **Tags:** `Android` `AI Agent` `LLM`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-05
 
 ### [myGPTReader](https://github.com/myreader-io/myGPTReader)
 
@@ -572,7 +572,7 @@ WhatsApp REST API 服务，支持多账户、Webhooks、MCP 协议和 Chatwoot �
 
 - **Stars:** ⭐️ 3.9k
 - **Tags:** `whatsapp` `mcp` `rest-api` `golang` `chatbot`
-- **最后活动时间:** 2026-05-03
+- **最后活动时间:** 2026-05-05
 
 ### [chatgpt-android](https://github.com/skydoves/chatgpt-android)
 
@@ -612,7 +612,7 @@ OpenClaw AI助手中文本地化版本，支持Claude/ChatGPT接入，可在What
 
 - **Stars:** ⭐️ 3.8k
 - **Tags:** `AI助手` `多平台` `中文本地化`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-06
 
 ### [whatsapp-chatgpt](https://github.com/askrella/whatsapp-chatgpt)
 
@@ -630,6 +630,14 @@ OpenClaw AI助手中文本地化版本，支持Claude/ChatGPT接入，可在What
 - **Tags:** `telegram` `chatbot` `dotnet` `csharp` `bot-framework`
 - **最后活动时间:** 2026-05-01
 
+### [hermes-web-ui](https://github.com/EKKOLearnAI/hermes-web-ui)
+
+Hermes AI代理的Web仪表板，支持多平台聊天、会话管理、定时任务和用量分析，覆盖Telegram、Discord、Slack等渠道。
+
+- **Stars:** ⭐️ 3.6k
+- **Tags:** `ai-agent` `chat-ui` `llm` `multi-platform`
+- **最后活动时间:** 2026-05-05
+
 ### [deep-chat](https://github.com/OvidijusParsiunas/deep-chat)
 
 完全可定制的 AI 聊天组件，支持 React、Vue、Svelte 等框架，无缝集成 OpenAI、Claude、Gemini 等服务商。
@@ -637,14 +645,6 @@ OpenClaw AI助手中文本地化版本，支持Claude/ChatGPT接入，可在What
 - **Stars:** ⭐️ 3.6k
 - **Tags:** `Chatbot` `React` `Vue` `OpenAI` `Claude`
 - **最后活动时间:** 2026-04-22
-
-### [hermes-web-ui](https://github.com/EKKOLearnAI/hermes-web-ui)
-
-Hermes AI代理的Web仪表板，支持多平台聊天、会话管理、定时任务和用量分析，覆盖Telegram、Discord、Slack等渠道。
-
-- **Stars:** ⭐️ 3.5k
-- **Tags:** `ai-agent` `chat-ui` `llm` `multi-platform`
-- **最后活动时间:** 2026-05-05
 
 ### [chat-ollama](https://github.com/sugarforever/chat-ollama)
 
@@ -748,7 +748,7 @@ Cherry Studio的移动端版本，提供AI助手和聊天机器人功能的移�
 
 - **Stars:** ⭐️ 2.5k
 - **Tags:** `LLM` `Chatbot` `Flutter` `Cross-platform`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-05
 
 ### [HuixiangDou](https://github.com/InternLM/HuixiangDou)
 
@@ -780,7 +780,7 @@ Cherry Studio的移动端版本，提供AI助手和聊天机器人功能的移�
 
 - **Stars:** ⭐️ 2.4k
 - **Tags:** `llm` `react-native` `chatbot` `frontend`
-- **最后活动时间:** 2026-05-03
+- **最后活动时间:** 2026-05-04
 
 ### [bionic-gpt](https://github.com/bionic-gpt/bionic-gpt)
 
@@ -788,7 +788,7 @@ Cherry Studio的移动端版本，提供AI助手和聊天机器人功能的移�
 
 - **Stars:** ⭐️ 2.3k
 - **Tags:** `本地部署` `隐私保护` `企业级`
-- **最后活动时间:** 2026-04-22
+- **最后活动时间:** 2026-05-05
 
 ### [companion](https://github.com/The-Vibe-Company/companion)
 
@@ -820,7 +820,7 @@ Claude Code 和 Codex 的 Web 与移动端 UI 界面，支持远程启动会话�
 
 - **Stars:** ⭐️ 2.2k
 - **Tags:** `ai-chatbot` `live-support` `chat-application`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-05
 
 ### [elevenlabs-ui](https://github.com/elevenlabs/ui)
 
@@ -1020,7 +1020,7 @@ OpenWebUI的iOS和Android客户端，支持与自托管AI模型进行对话交�
 
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `OpenWebUI` `Mobile` `Self-hosted AI`
-- **最后活动时间:** 2026-05-03
+- **最后活动时间:** 2026-05-05
 
 ### [xiaozhi-android-client](https://github.com/TOM88812/xiaozhi-android-client)
 
@@ -1108,7 +1108,7 @@ Python 框架，用于快速构建功能完整的 Slack 应用和聊天机器人
 
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `slack` `chatbot` `python` `bot-framework` `asyncio`
-- **最后活动时间:** 2026-05-02
+- **最后活动时间:** 2026-05-05
 
 ### [bedrock-chat](https://github.com/aws-samples/bedrock-chat)
 
@@ -1124,7 +1124,7 @@ Python 框架，用于快速构建功能完整的 Slack 应用和聊天机器人
 
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `ai` `chat` `gpt` `openai` `claude`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-05
 
 ### [ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot)
 
@@ -1250,7 +1250,7 @@ AI对话式搜索引擎，支持DeepResearch、多模型接口和SearXNG聚合�
 
 只需一个Gemini API Key，10秒即可部署一个Gemini多模态对话网站，支持Serverless无服务器部署。
 
-- **Stars:** ⭐️ 984
+- **Stars:** ⭐️ 985
 - **Tags:** `gemini` `chatbot` `multimodal` `serverless`
 - **最后活动时间:** 2026-01-23
 
@@ -1290,7 +1290,7 @@ Rasa框架的前端管理界面，提供可视化对话流程管理和NLU调试�
 
 具有永久记忆能力的LLM助手，支持长期对话记忆存储。
 
-- **Stars:** ⭐️ 909
+- **Stars:** ⭐️ 910
 - **Tags:** `llm` `assistant` `chatbot` `memory`
 - **最后活动时间:** 2025-11-12
 
@@ -1366,14 +1366,6 @@ Python 聊天机器人库，提供简单易用的接口来构建对话式 AI 应
 - **Tags:** `ai` `chat` `expo` `react-native` `mobile`
 - **最后活动时间:** 2025-12-09
 
-### [MagicWX](https://github.com/Pangu-Immortal/MagicWX)
-
-Android端侧大模型推理应用，支持10个主流LLM一键下载与本地推理，完全离线运行无需服务器。
-
-- **Stars:** ⭐️ 848
-- **Tags:** `Android` `LLM` `本地推理` `离线运行`
-- **最后活动时间:** 2026-02-24
-
 ### [GenshinUID](https://github.com/KimigaiiWuyi/GenshinUID)
 
 支持多平台的原神游戏机器人插件，适配QQ、微信、Telegram、Discord等多种通讯平台。
@@ -1386,9 +1378,17 @@ Android端侧大模型推理应用，支持10个主流LLM一键下载与本地�
 
 面向 Gemini 的 Local-First AI 工作流 WebUI，支持多模态聊天、Canvas、文件处理、实时搜索和代码执行。
 
-- **Stars:** ⭐️ 836
+- **Stars:** ⭐️ 837
 - **Tags:** `gemini` `ai-workflow` `webui` `local-first`
 - **最后活动时间:** 2026-05-05
+
+### [MagicWX](https://github.com/Pangu-Immortal/MagicWX)
+
+Android端侧大模型推理应用，支持10个主流LLM一键下载与本地推理，完全离线运行无需服务器。
+
+- **Stars:** ⭐️ 835
+- **Tags:** `Android` `LLM` `本地推理` `离线运行`
+- **最后活动时间:** 2026-02-24
 
 ### [ClawPanel](https://github.com/zhaoxinyi02/ClawPanel)
 
@@ -1410,7 +1410,7 @@ OpenClaw AI助手可视化管理面板，支持20+通道统一管理，Go单二�
 
 Amazon Lex聊天机器人Web界面示例，支持语音和Vue组件。
 
-- **Stars:** ⭐️ 820
+- **Stars:** ⭐️ 821
 - **Tags:** `aws-lex` `chatbot` `vue` `web-ui`
 - **最后活动时间:** 2026-04-28
 
@@ -1442,7 +1442,7 @@ Amazon Lex聊天机器人Web界面示例，支持语音和Vue组件。
 
 在Android设备上本地运行GGUF格式的小型/大型语言模型的应用，支持完全离线推理。
 
-- **Stars:** ⭐️ 803
+- **Stars:** ⭐️ 804
 - **Tags:** `android` `llm` `on-device` `gguf` `local-inference`
 - **最后活动时间:** 2026-04-25
 
@@ -1474,7 +1474,7 @@ Amazon Lex聊天机器人Web界面示例，支持语音和Vue组件。
 
 OpenClaw的实时Web控制中心，支持语音对话、智能体看板管理、工作区文件控制和子智能体会话等功能。
 
-- **Stars:** ⭐️ 789
+- **Stars:** ⭐️ 791
 - **Tags:** `ai-agent` `dashboard` `voice` `web-ui` `self-hosted`
 - **最后活动时间:** 2026-05-03
 
@@ -1514,7 +1514,7 @@ OpenClaw的实时Web控制中心，支持语音对话、智能体看板管理、
 
 一款跨平台AI编程助手客户端，支持Codex、Claude Code、Qwen等多种AI模型，提供端到端加密保护用户隐私。
 
-- **Stars:** ⭐️ 761
+- **Stars:** ⭐️ 766
 - **Tags:** `ai-client` `claude` `codex` `multi-platform` `encryption`
 - **最后活动时间:** 2026-05-05
 
@@ -1538,7 +1538,7 @@ TypeScript/JavaScript 库，用于与 Twitch API、聊天和事件订阅交互�
 
 AI无关的多用户多角色聊天平台，专为与虚构角色对话设计，支持大规模部署。
 
-- **Stars:** ⭐️ 727
+- **Stars:** ⭐️ 728
 - **Tags:** `ai` `chatbot` `typescript` `nodejs`
 - **最后活动时间:** 2026-05-05
 
@@ -1574,6 +1574,14 @@ AI角色扮演聊天机器人框架，支持多种AI角色和沉浸式对话体�
 - **Tags:** `ai-chatbot` `ai-character` `roleplay` `agent`
 - **最后活动时间:** 2026-05-04
 
+### [jarvis](https://github.com/isair/jarvis)
+
+100%私有的离线AI语音助手，支持自然对话、记忆上下文、网页搜索、Chrome控制等功能，可扩展MCP工具集成。
+
+- **Stars:** ⭐️ 703
+- **Tags:** `ai-assistant` `voice-assistant` `offline-ai` `mcp` `privacy`
+- **最后活动时间:** 2026-05-05
+
 ### [langchain-supabase-website-chatbot](https://github.com/mayooear/langchain-supabase-website-chatbot)
 
 基于LangChain和Supabase构建的网站聊天机器人模板，支持Next.js和TypeScript。
@@ -1594,7 +1602,7 @@ AI角色扮演聊天机器人框架，支持多种AI角色和沉浸式对话体�
 
 MLX Studio 是一款集图像生成/编辑、聊天/代码于一体的 AI 应用，专为 Apple Silicon 优化。
 
-- **Stars:** ⭐️ 665
+- **Stars:** ⭐️ 676
 - **Tags:** `mlx` `llm` `image-generation` `chat` `apple-silicon` `inference`
 - **最后活动时间:** 2026-05-05
 
@@ -1626,7 +1634,7 @@ MLX Studio 是一款集图像生成/编辑、聊天/代码于一体的 AI 应用
 
 为 SST/OpenCode 提供的移动优先 Web UI，支持 Git 集成、浏览器终端和隔离工作空间。
 
-- **Stars:** ⭐️ 624
+- **Stars:** ⭐️ 625
 - **Tags:** `ai-agents` `web-ui` `developer-tools`
 - **最后活动时间:** 2026-04-26
 
@@ -1636,15 +1644,7 @@ MLX Studio 是一款集图像生成/编辑、聊天/代码于一体的 AI 应用
 
 - **Stars:** ⭐️ 614
 - **Tags:** `chatbots` `conversational-ai` `react`
-- **最后活动时间:** 2026-04-30
-
-### [jarvis](https://github.com/isair/jarvis)
-
-100%私有的离线AI语音助手，支持自然对话、记忆上下文、网页搜索、Chrome控制等功能，可扩展MCP工具集成。
-
-- **Stars:** ⭐️ 613
-- **Tags:** `ai-assistant` `voice-assistant` `offline-ai` `mcp` `privacy`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-05
 
 ### [wechat-gptbot](https://github.com/iuiaoin/wechat-gptbot)
 
@@ -1670,21 +1670,21 @@ MLX Studio 是一款集图像生成/编辑、聊天/代码于一体的 AI 应用
 - **Tags:** `browser-ai` `pwa` `zero-infrastructure` `ai-assistant`
 - **最后活动时间:** 2026-02-26
 
+### [star-xd](https://github.com/XdKing2/star-xd)
+
+功能丰富的WhatsApp机器人，集成AI功能、媒体工具和群组管理能力。
+
+- **Stars:** ⭐️ 585
+- **Tags:** `whatsapp-bot` `chatbot` `ai-bot` `baileys` `messaging`
+- **最后活动时间:** 2026-04-01
+
 ### [chats](https://github.com/sdcb/chats)
 
 强大的LLM前端与AI网关，支持21+主流AI模型提供商，提供统一的聊天界面和API接入能力。
 
 - **Stars:** ⭐️ 582
 - **Tags:** `AI Gateway` `LLM` `Chatbot` `Multi-provider`
-- **最后活动时间:** 2026-05-03
-
-### [star-xd](https://github.com/XdKing2/star-xd)
-
-功能丰富的WhatsApp机器人，集成AI功能、媒体工具和群组管理能力。
-
-- **Stars:** ⭐️ 577
-- **Tags:** `whatsapp-bot` `chatbot` `ai-bot` `baileys` `messaging`
-- **最后活动时间:** 2026-04-01
+- **最后活动时间:** 2026-05-06
 
 ### [line-bot-mcp-server](https://github.com/line/line-bot-mcp-server)
 
@@ -1706,7 +1706,7 @@ MCP 服务器，将 AI Agent 连接到 LINE 官方账号，实现智能客服和
 
 基于Vue3+TypeScript的轻量级AI聊天应用MVP模板，支持SSE流式输出、Markdown渲染，可快速二次开发。
 
-- **Stars:** ⭐️ 553
+- **Stars:** ⭐️ 554
 - **Tags:** `Vue3` `Chatbot` `MVP`
 - **最后活动时间:** 2026-04-21
 
@@ -1734,20 +1734,28 @@ MCP 服务器，将 AI Agent 连接到 LINE 官方账号，实现智能客服和
 - **Tags:** `android` `autoreply` `chatbot` `whatsapp` `messenger` `privacy`
 - **最后活动时间:** 2026-05-05
 
-### [PureChat](https://github.com/Hyk260/PureChat)
-
-集成传统即时通讯与 AI 功能的全功能聊天应用，支持多种大语言模型。
-
-- **Stars:** ⭐️ 534
-- **Tags:** `chat` `chatgpt` `ollama` `vue3` `electron`
-- **最后活动时间:** 2026-03-06
-
 ### [cv-santiago](https://github.com/santifer/cv-santiago)
 
 集成AI聊天功能的交互式个人简历，使用Claude API实现与AI虚拟形象的对话体验。
 
-- **Stars:** ⭐️ 533
+- **Stars:** ⭐️ 535
 - **Tags:** `ai` `chatbot` `claude` `portfolio` `react` `typescript`
+- **最后活动时间:** 2026-05-04
+
+### [PureChat](https://github.com/Hyk260/PureChat)
+
+集成传统即时通讯与 AI 功能的全功能聊天应用，支持多种大语言模型。
+
+- **Stars:** ⭐️ 533
+- **Tags:** `chat` `chatgpt` `ollama` `vue3` `electron`
+- **最后活动时间:** 2026-03-06
+
+### [kanna](https://github.com/jakemor/kanna)
+
+为 Claude Code 和 Codex 提供的精美 Web 界面，提升 AI 编程助手的交互体验。
+
+- **Stars:** ⭐️ 533
+- **Tags:** `claude` `codex` `web-ui` `ai-interface`
 - **最后活动时间:** 2026-05-04
 
 ### [telepush](https://github.com/muety/telepush)
@@ -1758,13 +1766,13 @@ MCP 服务器，将 AI Agent 连接到 LINE 官方账号，实现智能客服和
 - **Tags:** `telegram` `chatbot` `push-notifications` `devops`
 - **最后活动时间:** 2026-02-27
 
-### [kanna](https://github.com/jakemor/kanna)
+### [wechat-acp](https://github.com/formulahendry/wechat-acp)
 
-为 Claude Code 和 Codex 提供的精美 Web 界面，提升 AI 编程助手的交互体验。
+将微信聊天消息桥接至ACP兼容的AI智能体，支持Claude、Codex、Copilot、Qwen、Gemini等多种模型。
 
-- **Stars:** ⭐️ 532
-- **Tags:** `claude` `codex` `web-ui` `ai-interface`
-- **最后活动时间:** 2026-05-04
+- **Stars:** ⭐️ 514
+- **Tags:** `wechat` `acp` `agent-client-protocol` `chatbot` `bridge`
+- **最后活动时间:** 2026-05-02
 
 ### [hostedgpt](https://github.com/AllYourBot/hostedgpt)
 
@@ -1782,21 +1790,13 @@ MCP 服务器，将 AI Agent 连接到 LINE 官方账号，实现智能客服和
 - **Tags:** `chatgpt` `openai` `slack` `chatbot` `ai` `python`
 - **最后活动时间:** 2026-05-03
 
-### [wechat-acp](https://github.com/formulahendry/wechat-acp)
-
-将微信聊天消息桥接至ACP兼容的AI智能体，支持Claude、Codex、Copilot、Qwen、Gemini等多种模型。
-
-- **Stars:** ⭐️ 512
-- **Tags:** `wechat` `acp` `agent-client-protocol` `chatbot` `bridge`
-- **最后活动时间:** 2026-05-02
-
 ## Creative Apps
 
 ### [open-design](https://github.com/nexu-io/open-design)
 
 本地优先的开源设计工具，作为 Claude Design 的替代方案。支持多种 AI 编码代理（Claude Code、Cursor、Copilot 等），内置 71 种设计系统和沙盒预览功能。
 
-- **Stars:** ⭐️ 24.9k
+- **Stars:** ⭐️ 26.9k
 - **Tags:** `ai-design` `claude-code` `cursor` `design-systems` `coding-agents`
 - **最后活动时间:** 2026-05-05
 
@@ -1814,7 +1814,7 @@ AI驱动的UI生成工具，通过自然语言描述即可实时生成用户界�
 
 - **Stars:** ⭐️ 18.8k
 - **Tags:** `Audiobook` `Voice Cloning` `Multilingual`
-- **最后活动时间:** 2026-05-03
+- **最后活动时间:** 2026-05-05
 
 ### [nuclear](https://github.com/nukeop/nuclear)
 
@@ -1822,13 +1822,13 @@ AI驱动的UI生成工具，通过自然语言描述即可实时生成用户界�
 
 - **Stars:** ⭐️ 17.4k
 - **Tags:** `music-player` `mcp-server` `ai` `desktop-app` `streaming`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-05
 
 ### [Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)
 
 将 Claude Code 变身为完整游戏开发工作室，包含 48 个 AI 代理和 36 个工作流技能。
 
-- **Stars:** ⭐️ 17.2k
+- **Stars:** ⭐️ 17.3k
 - **Tags:** `game-development` `claude-code` `ai-agents` `gamedev`
 - **最后活动时间:** 2026-05-03
 
@@ -1860,9 +1860,9 @@ ComfyUI扩展管理器，提供自定义节点的安装、删除、启用和禁�
 
 AI原生PPT生成应用，支持模板上传、智能素材解析、一句话自动生成PPT及语音修改。
 
-- **Stars:** ⭐️ 14.3k
+- **Stars:** ⭐️ 14.4k
 - **Tags:** `AI PPT` `Slides Generator` `LLM`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-05
 
 ### [logocreator](https://github.com/Nutlope/logocreator)
 
@@ -1916,9 +1916,9 @@ AI驱动的长篇小说生成器，支持多章节自动衔接、伏笔埋设与
 
 AI原生设计编辑器，开源的Figma替代方案，支持智能化设计工作流。
 
-- **Stars:** ⭐️ 4.6k
+- **Stars:** ⭐️ 4.7k
 - **Tags:** `ai-design` `figma-alternative` `design-editor`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-05
 
 ### [KataGo](https://github.com/lightvector/KataGo)
 
@@ -1966,15 +1966,15 @@ AI驱动的在线工具，用于生成Notion风格头像。简单易用的创意
 
 - **Stars:** ⭐️ 3.1k
 - **Tags:** `国际象棋` `AlphaZero` `深度强化学习` `GPU`
-- **最后活动时间:** 2026-05-03
+- **最后活动时间:** 2026-05-05
 
 ### [CADAM](https://github.com/Adam-CAD/CADAM)
 
 开源文本转 CAD Web 应用，通过 AI 智能体生成 3D 模型。
 
-- **Stars:** ⭐️ 3.0k
+- **Stars:** ⭐️ 3.1k
 - **Tags:** `ai` `cad` `llms` `text-to-cad` `agents`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-06
 
 ### [openbr](https://github.com/biometrics/openbr)
 
@@ -2000,14 +2000,6 @@ Claude Opus 4.6 编写的无依赖 C 编译器，支持 x86/ARM/RISC-V 后端，
 - **Tags:** `compiler` `rust` `ai-generated` `systems-programming`
 - **最后活动时间:** 2026-02-05
 
-### [hacker-podcast](https://github.com/miantiao-me/hacker-podcast)
-
-AI驱动的Hacker News中文播客，自动生成总结和音频内容。
-
-- **Stars:** ⭐️ 2.5k
-- **Tags:** `ai` `ai-agent` `hacker-news` `nextjs`
-- **最后活动时间:** 2026-02-25
-
 ### [openpencil](https://github.com/ZSeven-W/openpencil)
 
 开源AI原生矢量设计工具，支持并发Agent团队协作，通过Design-as-Code理念将提示词转化为UI设计。
@@ -2015,6 +2007,14 @@ AI驱动的Hacker News中文播客，自动生成总结和音频内容。
 - **Stars:** ⭐️ 2.5k
 - **Tags:** `AI设计工具` `Agent团队` `矢量设计`
 - **最后活动时间:** 2026-05-05
+
+### [hacker-podcast](https://github.com/miantiao-me/hacker-podcast)
+
+AI驱动的Hacker News中文播客，自动生成总结和音频内容。
+
+- **Stars:** ⭐️ 2.5k
+- **Tags:** `ai` `ai-agent` `hacker-news` `nextjs`
+- **最后活动时间:** 2026-02-25
 
 ### [Uncodixfy](https://github.com/cyxzdev/Uncodixfy)
 
@@ -2068,7 +2068,7 @@ Photoshop AI插件，集成Stable Diffusion、ComfyUI、Flux等多种AI图像生
 
 全自动YouTube Shorts视频生产流水线，从新闻抓取到AI生成画面、语音合成、字幕添加和自动上传一站式完成。
 
-- **Stars:** ⭐️ 1.9k
+- **Stars:** ⭐️ 2.0k
 - **Tags:** `ai-video` `automation` `content-creation` `youtube-shorts`
 - **最后活动时间:** 2026-05-01
 
@@ -2110,7 +2110,7 @@ Stable Diffusion区域提示词扩展，支持对图像不同区域应用独立�
 
 - **Stars:** ⭐️ 1.7k
 - **Tags:** `music` `playlist` `self-hosted`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-05
 
 ### [page-ui](https://github.com/PageAI-Pro/page-ui)
 
@@ -2232,6 +2232,14 @@ Blender插件，将Stable Diffusion集成到3D渲染工作流中。
 - **Tags:** `ai` `game-ai` `2048` `algorithm`
 - **最后活动时间:** 2026-03-18
 
+### [AI-Novel-Writing-Assistant](https://github.com/ExplosiveCoderflome/AI-Novel-Writing-Assistant)
+
+AI Native 长篇小说创作系统，集成 Agent、世界观引擎和 RAG 技术，帮助作者从灵感走向完整小说。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `novel-writing` `agent-workflow` `rag` `story-generation` `creative-writing`
+- **最后活动时间:** 2026-05-05
+
 ### [nightingale](https://github.com/rzru/nightingale)
 
 基于机器学习的卡拉OK应用，集成Whisper语音识别和Demucs音源分离技术，支持实时评分功能。
@@ -2239,14 +2247,6 @@ Blender插件，将Stable Diffusion集成到3D渲染工作流中。
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `Karaoke` `Whisper` `Rust` `Bevy`
 - **最后活动时间:** 2026-04-08
-
-### [AI-Novel-Writing-Assistant](https://github.com/ExplosiveCoderflome/AI-Novel-Writing-Assistant)
-
-AI Native 长篇小说创作系统，集成 Agent、世界观引擎和 RAG 技术，帮助作者从灵感走向完整小说。
-
-- **Stars:** ⭐️ 1.1k
-- **Tags:** `novel-writing` `agent-workflow` `rag` `story-generation` `creative-writing`
-- **最后活动时间:** 2026-05-03
 
 ### [BlendArMocap](https://github.com/cgtinker/BlendArMocap)
 
@@ -2296,27 +2296,27 @@ Android相机应用，采用计算摄影技术和GPU加速实现增强图像处�
 - **Tags:** `ai-writing` `ai-agents` `creative-writing-ai` `agentic-workflow`
 - **最后活动时间:** 2025-11-24
 
-### [meshgen](https://github.com/huggingface/meshgen)
-
-在Blender中直接使用AI Agent进行3D建模和创作的工具，让AI辅助设计工作流更加高效。
-
-- **Stars:** ⭐️ 867
-- **Tags:** `blender` `ai-agent` `3d-generation` `creative-tools`
-- **最后活动时间:** 2026-04-02
-
 ### [RedBox](https://github.com/Jamailar/RedBox)
 
 小红书自动化AI工具，支持图文下载、AI转写仿写、账号追踪克隆、AI群聊及内容创作全流程自动化。
 
-- **Stars:** ⭐️ 866
+- **Stars:** ⭐️ 869
 - **Tags:** `ai-agents` `content-creation` `xiaohongshu-scraper`
 - **最后活动时间:** 2026-04-29
+
+### [meshgen](https://github.com/huggingface/meshgen)
+
+在Blender中直接使用AI Agent进行3D建模和创作的工具，让AI辅助设计工作流更加高效。
+
+- **Stars:** ⭐️ 868
+- **Tags:** `blender` `ai-agent` `3d-generation` `creative-tools`
+- **最后活动时间:** 2026-04-02
 
 ### [sunone_aimbot](https://github.com/SunOner/sunone_aimbot)
 
 基于AI的FPS游戏自瞄工具，使用YOLO和TensorRT实现实时目标检测与追踪。支持多款主流FPS游戏。
 
-- **Stars:** ⭐️ 855
+- **Stars:** ⭐️ 856
 - **Tags:** `ai` `computer-vision` `yolo` `tensorrt` `object-detection`
 - **最后活动时间:** 2026-01-28
 
@@ -2340,9 +2340,17 @@ Android相机应用，采用计算摄影技术和GPU加速实现增强图像处�
 
 AI驱动的学术论文配图生成平台，上传论文后自动分析内容生成Prompt，一键生成高质量科研配图。
 
-- **Stars:** ⭐️ 802
+- **Stars:** ⭐️ 810
 - **Tags:** `ai` `academic` `figure-generation` `image-generation` `research`
 - **最后活动时间:** 2026-03-27
+
+### [oh-story-claudecode](https://github.com/worldwonderer/oh-story-claudecode)
+
+网文写作AI助手Skill包，覆盖网络小说扫榜、拆文、写作、去AI味、封面图生成全流程。
+
+- **Stars:** ⭐️ 780
+- **Tags:** `ai-writing` `creative-writing` `claude-code` `novel-writing`
+- **最后活动时间:** 2026-05-05
 
 ### [chatgpt-tarot-divination](https://github.com/dreamhunter2333/chatgpt-tarot-divination)
 
@@ -2351,14 +2359,6 @@ AI驱动的学术论文配图生成平台，上传论文后自动分析内容生
 - **Stars:** ⭐️ 767
 - **Tags:** `chatgpt` `tarot` `divination` `fortune-telling`
 - **最后活动时间:** 2025-12-30
-
-### [oh-story-claudecode](https://github.com/worldwonderer/oh-story-claudecode)
-
-网文写作AI助手Skill包，覆盖网络小说扫榜、拆文、写作、去AI味、封面图生成全流程。
-
-- **Stars:** ⭐️ 765
-- **Tags:** `ai-writing` `creative-writing` `claude-code` `novel-writing`
-- **最后活动时间:** 2026-05-05
 
 ### [linesight](https://github.com/Linesight-RL/linesight)
 
@@ -2372,7 +2372,7 @@ AI驱动的学术论文配图生成平台，上传论文后自动分析内容生
 
 AI智能小说创作平台，支持OpenAI、Gemini、Anthropic等多模型，集成专业富文本编辑器与后台管理功能。
 
-- **Stars:** ⭐️ 725
+- **Stars:** ⭐️ 726
 - **Tags:** `novel-writing` `ai-writing` `creative-tools` `openai` `gemini`
 - **最后活动时间:** 2026-04-15
 
@@ -2428,7 +2428,7 @@ Google I/O 2023展示的AI设计卡牌游戏，使用Flutter和Firebase构建，
 
 开源的表情包搜索引擎，支持本地自托管，使用语义搜索和向量数据库技术实现智能图片检索。
 
-- **Stars:** ⭐️ 661
+- **Stars:** ⭐️ 662
 - **Tags:** `semantic-search` `vector-database` `self-hosted`
 - **最后活动时间:** 2026-05-03
 
@@ -2468,7 +2468,7 @@ Google I/O 2023展示的AI设计卡牌游戏，使用Flutter和Firebase构建，
 
 一款将热敏打印机与LLM结合的D&D/TTRPG创意工具，可生成并打印游戏内容，为桌面角色扮演游戏提供智能化辅助。
 
-- **Stars:** ⭐️ 612
+- **Stars:** ⭐️ 613
 - **Tags:** `llm` `dnd-tools` `ttrpg` `thermal-printer` `creative`
 - **最后活动时间:** 2026-02-21
 
@@ -2476,7 +2476,7 @@ Google I/O 2023展示的AI设计卡牌游戏，使用Flutter和Firebase构建，
 
 基于AI的绿幕抠像运行时和OFX插件，专为DaVinci Resolve设计，支持Apple Silicon和NVIDIA RTX加速。
 
-- **Stars:** ⭐️ 607
+- **Stars:** ⭐️ 609
 - **Tags:** `ai` `computer-vision` `keying` `video-editing` `davinci-resolve`
 - **最后活动时间:** 2026-05-03
 
@@ -2484,7 +2484,7 @@ Google I/O 2023展示的AI设计卡牌游戏，使用Flutter和Firebase构建，
 
 AI驱动的狼人杀社交推理游戏，所有玩家由DeepSeek、Qwen、Gemini等顶级LLM控制。
 
-- **Stars:** ⭐️ 584
+- **Stars:** ⭐️ 585
 - **Tags:** `AI游戏` `LLM` `狼人杀`
 - **最后活动时间:** 2026-04-28
 
@@ -2532,7 +2532,7 @@ AI驱动的低代码UI生成平台，基于TailwindCSS，支持拖拽可视化�
 
 云原生网络欺骗服务器与反爬虫工具，使用AI生成HTML模板创建逼真假网站。
 
-- **Stars:** ⭐️ 526
+- **Stars:** ⭐️ 527
 - **Tags:** `ai-security` `honeypot` `cybersecurity` `deception`
 - **最后活动时间:** 2026-05-03
 
@@ -2540,9 +2540,9 @@ AI驱动的低代码UI生成平台，基于TailwindCSS，支持拖拽可视化�
 
 一款轻量级AI视频编辑器，集成TTS语音合成、视频翻译等智能功能，支持网页端和桌面端免费使用。
 
-- **Stars:** ⭐️ 516
+- **Stars:** ⭐️ 518
 - **Tags:** `video-editor` `tts` `ai-video` `creative-tools`
-- **最后活动时间:** 2026-05-03
+- **最后活动时间:** 2026-05-05
 
 ### [Fabric](https://github.com/Fabric-Project/Fabric)
 
@@ -2576,7 +2576,7 @@ Uber开源的提升建模和因果推断机器学习库，支持多种因果推�
 
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `ai` `optimization` `constraint-solver` `java` `kotlin`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-05
 
 ### [openappsec](https://github.com/openappsec/openappsec)
 
@@ -2592,7 +2592,7 @@ AI 原生企业合规平台，开源替代 Vanta 和 Drata。
 
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `ai` `compliance` `soc2` `gdpr` `security`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-05
 
 ### [intelligent-audit-system](https://github.com/Ricky-7-Yan/intelligent-audit-system)
 
@@ -2614,7 +2614,7 @@ AI 原生企业合规平台，开源替代 Vanta 和 Drata。
 
 斯坦福大学利用机器学习优化视频流媒体传输的研究项目，提升直播体验。
 
-- **Stars:** ⭐️ 909
+- **Stars:** ⭐️ 908
 - **Tags:** `video-streaming` `machine-learning` `stanford`
 - **最后活动时间:** 2025-11-07
 
@@ -2648,7 +2648,7 @@ WWW 2022论文，基于Transformer的加密流量分类模型，用于网络流�
 
 开源工作流自动化平台，原生支持AI能力和MCP协议，支持400+集成，可自托管或云端部署。
 
-- **Stars:** ⭐️ 186.7k
+- **Stars:** ⭐️ 186.8k
 - **Tags:** `工作流自动化` `低代码` `AI集成` `MCP`
 - **最后活动时间:** 2026-05-05
 
@@ -2656,7 +2656,7 @@ WWW 2022论文，基于Transformer的加密流量分类模型，用于网络流�
 
 高性能自托管照片和视频管理解决方案，支持AI智能分类、人脸识别、自动标签等功能。
 
-- **Stars:** ⭐️ 99.7k
+- **Stars:** ⭐️ 99.8k
 - **Tags:** `self-hosted` `photo-management` `machine-learning` `face-recognition` `google-photos-alternative`
 - **最后活动时间:** 2026-05-05
 
@@ -2688,7 +2688,7 @@ WWW 2022论文，基于Transformer的加密流量分类模型，用于网络流�
 
 AI驱动的舆情监控与热点筛选工具，支持多平台聚合、AI智能筛选和多渠道推送。
 
-- **Stars:** ⭐️ 56.6k
+- **Stars:** ⭐️ 56.7k
 - **Tags:** `AI舆情` `RSS聚合` `MCP` `热点监控`
 - **最后活动时间:** 2026-04-30
 
@@ -2728,7 +2728,7 @@ AI驱动的低代码开发平台，支持零代码搭建系统与代码生成，
 
 基于机器学习的智能文档管理系统，支持OCR识别、自动分类和全文检索，让纸质文档数字化管理变得简单高效。
 
-- **Stars:** ⭐️ 40.2k
+- **Stars:** ⭐️ 40.3k
 - **Tags:** `OCR` `文档管理` `机器学习`
 - **最后活动时间:** 2026-05-05
 
@@ -2738,7 +2738,7 @@ AI驱动的低代码开发平台，支持零代码搭建系统与代码生成，
 
 - **Stars:** ⭐️ 39.6k
 - **Tags:** `照片管理` `自托管` `智能搜索`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-05
 
 ### [Folo](https://github.com/RSSNext/Folo)
 
@@ -2762,7 +2762,7 @@ AI驱动的RSS阅读器，提供智能内容聚合和个性化阅读体验。
 
 - **Stars:** ⭐️ 34.3k
 - **Tags:** `Analytics` `AI Assistant` `Product Analytics`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-06
 
 ### [Vane](https://github.com/ItzCrazyKns/Vane)
 
@@ -2810,7 +2810,7 @@ AI驱动的求职自动化代理，智能定制简历并批量申请职位，提
 
 - **Stars:** ⭐️ 26.9k
 - **Tags:** `简历优化` `NLP` `求职`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-05
 
 ### [SmsForwarder](https://github.com/pppscn/SmsForwarder)
 
@@ -2832,9 +2832,9 @@ AI驱动的智能数据库客户端，支持自然语言生成SQL查询，兼容
 
 自托管智能书签管理应用，支持AI自动标签分类和全文搜索，可保存链接、笔记和图片。
 
-- **Stars:** ⭐️ 24.9k
+- **Stars:** ⭐️ 25.0k
 - **Tags:** `书签管理` `自托管` `AI标签`
-- **最后活动时间:** 2026-04-30
+- **最后活动时间:** 2026-05-04
 
 ### [nextai-translator](https://github.com/nextai-translator/nextai-translator)
 
@@ -2848,7 +2848,7 @@ AI驱动的智能数据库客户端，支持自然语言生成SQL查询，兼容
 
 基于多智能体系统的AI个性化学习助手，结合知识图谱和RAG技术提供智能辅导服务。
 
-- **Stars:** ⭐️ 23.3k
+- **Stars:** ⭐️ 23.4k
 - **Tags:** `AI Tutor` `Multi-Agent` `RAG`
 - **最后活动时间:** 2026-05-05
 
@@ -2922,7 +2922,7 @@ Google Gemini 和 AI Studio 的全能增强插件，集成时间轴导航、文�
 
 - **Stars:** ⭐️ 17.7k
 - **Tags:** `chrome-extension` `gemini` `ai-studio` `productivity`
-- **最后活动时间:** 2026-05-03
+- **最后活动时间:** 2026-05-05
 
 ### [frontend-slides](https://github.com/zarazhangrui/frontend-slides)
 
@@ -2946,7 +2946,7 @@ AI驱动的数据可视化工具，通过自然语言创建丰富的图表和可
 
 - **Stars:** ⭐️ 15.2k
 - **Tags:** `data-visualization` `ai-tools` `charts` `analytics`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-05
 
 ### [openwork](https://github.com/different-ai/openwork)
 
@@ -2954,7 +2954,7 @@ AI驱动的数据可视化工具，通过自然语言创建丰富的图表和可
 
 - **Stars:** ⭐️ 14.7k
 - **Tags:** `open-source` `team-collaboration` `productivity`
-- **最后活动时间:** 2026-05-03
+- **最后活动时间:** 2026-05-05
 
 ### [languagetool](https://github.com/languagetool-org/languagetool)
 
@@ -2962,7 +2962,7 @@ AI驱动的数据可视化工具，通过自然语言创建丰富的图表和可
 
 - **Stars:** ⭐️ 14.4k
 - **Tags:** `nlp` `grammar-checker` `spellcheck` `proofreading`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-05
 
 ### [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)
 
@@ -2978,7 +2978,7 @@ AI驱动的数据可视化工具，通过自然语言创建丰富的图表和可
 
 - **Stars:** ⭐️ 14.1k
 - **Tags:** `RAG` `NotebookLM` `Productivity`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-06
 
 ### [PentestGPT](https://github.com/GreyDGL/PentestGPT)
 
@@ -3002,7 +3002,7 @@ AI原生电子表格全栈框架，支持通过自然语言直接驱动电子表
 
 - **Stars:** ⭐️ 12.6k
 - **Tags:** `page-builder` `no-code` `visual-editor` `react`
-- **最后活动时间:** 2026-05-03
+- **最后活动时间:** 2026-05-05
 
 ### [md](https://github.com/doocs/md)
 
@@ -3028,6 +3028,14 @@ AI原生电子表格全栈框架，支持通过自然语言直接驱动电子表
 - **Tags:** `AI Search` `Perplexity Alternative` `Open Source`
 - **最后活动时间:** 2026-03-20
 
+### [ppt-master](https://github.com/hugohe3/ppt-master)
+
+AI驱动的PPT生成工具，可将任意文档自动转换为精美可编辑的演示文稿。
+
+- **Stars:** ⭐️ 11.6k
+- **Tags:** `ai` `pptx` `slide-generation` `document-to-slides` `presentation`
+- **最后活动时间:** 2026-05-05
+
 ### [meetily](https://github.com/Zackriya-Solutions/meetily)
 
 隐私优先的AI会议助手，支持实时语音转录和本地总结，100%本地处理无需云端依赖。
@@ -3042,14 +3050,6 @@ AI原生电子表格全栈框架，支持通过自然语言直接驱动电子表
 
 - **Stars:** ⭐️ 11.4k
 - **Tags:** `ocr` `translator` `visual-novel`
-- **最后活动时间:** 2026-05-05
-
-### [ppt-master](https://github.com/hugohe3/ppt-master)
-
-AI驱动的PPT生成工具，可将任意文档自动转换为精美可编辑的演示文稿。
-
-- **Stars:** ⭐️ 11.4k
-- **Tags:** `ai` `pptx` `slide-generation` `document-to-slides` `presentation`
 - **最后活动时间:** 2026-05-05
 
 ### [pm-skills](https://github.com/phuryn/pm-skills)
@@ -3074,7 +3074,7 @@ AI驱动的PPT生成工具，可将任意文档自动转换为精美可编辑的
 
 - **Stars:** ⭐️ 10.6k
 - **Tags:** `AI邮件` `生产力工具` `Gmail`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-05
 
 ### [harper](https://github.com/Automattic/harper)
 
@@ -3082,7 +3082,7 @@ AI驱动的PPT生成工具，可将任意文档自动转换为精美可编辑的
 
 - **Stars:** ⭐️ 10.4k
 - **Tags:** `grammar-checker` `nlp` `offline` `privacy` `rust` `webassembly`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-05
 
 ### [blinko](https://github.com/blinkospace/blinko)
 
@@ -3096,7 +3096,7 @@ AI驱动的PPT生成工具，可将任意文档自动转换为精美可编辑的
 
 Obsidian插件，将Claude AI嵌入笔记库作为智能协作助手，提升写作与开发效率。
 
-- **Stars:** ⭐️ 10.1k
+- **Stars:** ⭐️ 10.2k
 - **Tags:** `Claude` `Obsidian Plugin` `Note-taking` `AI Assistant`
 - **最后活动时间:** 2026-05-05
 
@@ -3106,15 +3106,7 @@ Obsidian插件，将Claude AI嵌入笔记库作为智能协作助手，提升写
 
 - **Stars:** ⭐️ 9.8k
 - **Tags:** `Translation` `Android` `Offline` `Whisper`
-- **最后活动时间:** 2026-04-27
-
-### [AiToEarn](https://github.com/yikart/AiToEarn)
-
-AI驱动的内容自动发布工具，支持抖音、快手、小红书、视频号等多平台一键发布。
-
-- **Stars:** ⭐️ 9.8k
-- **Tags:** `auto-publish` `content-automation` `social-media` `electron`
-- **最后活动时间:** 2026-04-20
+- **最后活动时间:** 2026-05-05
 
 ### [PandaWiki](https://github.com/chaitin/PandaWiki)
 
@@ -3139,6 +3131,14 @@ AI大模型驱动的开源知识库系统，支持AI创作、问答、搜索，�
 - **Stars:** ⭐️ 9.2k
 - **Tags:** `ai-translation` `epub` `bilingual`
 - **最后活动时间:** 2026-04-28
+
+### [AiToEarn](https://github.com/yikart/AiToEarn)
+
+AI驱动的内容自动发布工具，支持抖音、快手、小红书、视频号等多平台一键发布。
+
+- **Stars:** ⭐️ 9.2k
+- **Tags:** `auto-publish` `content-automation` `social-media` `electron`
+- **最后活动时间:** 2026-04-20
 
 ### [PPTist](https://github.com/pipipi-pikachu/PPTist)
 
@@ -3242,7 +3242,7 @@ Obsidian笔记应用的AI助手插件，提供智能写作和知识管理功能�
 
 - **Stars:** ⭐️ 6.9k
 - **Tags:** `obsidian-plugin` `copilot` `ai-assistant` `chatgpt`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-05
 
 ### [seomachine](https://github.com/TheCraigHewitt/seomachine)
 
@@ -3338,7 +3338,7 @@ AI驱动的智能摘要工具，支持URL、YouTube视频、播客和文件的�
 
 - **Stars:** ⭐️ 5.8k
 - **Tags:** `business-intelligence` `data-analytics` `agentic` `dbt`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-05
 
 ### [Read Frog](https://github.com/mengxi-ream/read-frog)
 
@@ -3362,7 +3362,7 @@ AI驱动的文档自动分析工具，支持OpenAI、Ollama等多种AI服务，�
 
 - **Stars:** ⭐️ 5.6k
 - **Tags:** `monitoring` `ai-insights` `kubernetes` `docker` `dashboard`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-05
 
 ### [AiNiee](https://github.com/NEKOparapa/AiNiee)
 
@@ -3474,7 +3474,7 @@ AI驱动的无代码平台，用于构建数据库、自动化和应用，支持
 
 - **Stars:** ⭐️ 4.8k
 - **Tags:** `Markdown` `ChatGPT` `Office`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-05
 
 ### [Rath](https://github.com/Kanaries/Rath)
 
@@ -3516,21 +3516,13 @@ AI驱动的无代码平台，用于构建数据库、自动化和应用，支持
 - **Tags:** `AI` `iOS` `Screenshot` `Automation`
 - **最后活动时间:** 2026-04-14
 
-### [obs-backgroundremoval](https://github.com/royshil/obs-backgroundremoval)
+### [openui](https://github.com/thesysdev/openui)
 
-OBS直播/录屏背景移除插件，基于ONNX实现实时人像分割，支持GPU加速，轻松替换背景。
-
-- **Stars:** ⭐️ 4.3k
-- **Tags:** `background-removal` `obs-plugin` `onnx` `video-segmentation`
-- **最后活动时间:** 2026-04-07
-
-### [excalidraw-mcp](https://github.com/excalidraw/excalidraw-mcp)
-
-快速流式Excalidraw MCP应用，让AI助手能够创建和操作手绘风格图表。
+生成式UI开放标准，让AI通过自然语言描述快速创建和渲染用户界面组件，加速前端开发流程。
 
 - **Stars:** ⭐️ 4.3k
-- **Tags:** `mcp` `excalidraw` `diagrams` `drawing`
-- **最后活动时间:** 2026-03-24
+- **Tags:** `Generative UI` `AI Agent` `LLM`
+- **最后活动时间:** 2026-05-04
 
 ### [claude-ads](https://github.com/AgriciDaniel/claude-ads)
 
@@ -3540,6 +3532,30 @@ Claude Code 广告审计优化技能包，支持 Google、Meta、TikTok 等 6 �
 - **Tags:** `claude-code` `advertising` `digital-marketing` `ppc`
 - **最后活动时间:** 2026-04-24
 
+### [obs-backgroundremoval](https://github.com/royshil/obs-backgroundremoval)
+
+OBS直播/录屏背景移除插件，基于ONNX实现实时人像分割，支持GPU加速，轻松替换背景。
+
+- **Stars:** ⭐️ 4.3k
+- **Tags:** `background-removal` `obs-plugin` `onnx` `video-segmentation`
+- **最后活动时间:** 2026-04-07
+
+### [claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian)
+
+Claude与Obsidian知识库深度集成工具，支持持久化Wiki构建、自动研究和知识管理。
+
+- **Stars:** ⭐️ 4.3k
+- **Tags:** `claude` `obsidian` `knowledge-management` `second-brain`
+- **最后活动时间:** 2026-04-24
+
+### [excalidraw-mcp](https://github.com/excalidraw/excalidraw-mcp)
+
+快速流式Excalidraw MCP应用，让AI助手能够创建和操作手绘风格图表。
+
+- **Stars:** ⭐️ 4.3k
+- **Tags:** `mcp` `excalidraw` `diagrams` `drawing`
+- **最后活动时间:** 2026-03-24
+
 ### [wave](https://github.com/h2oai/wave)
 
 H2O.ai推出的实时Web应用和仪表板框架，专为Python和R设计，广泛用于AI/ML模型可视化与监控。
@@ -3548,29 +3564,13 @@ H2O.ai推出的实时Web应用和仪表板框架，专为Python和R设计，广�
 - **Tags:** `python` `realtime` `dashboard` `visualization` `ai`
 - **最后活动时间:** 2026-04-28
 
-### [claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian)
-
-Claude与Obsidian知识库深度集成工具，支持持久化Wiki构建、自动研究和知识管理。
-
-- **Stars:** ⭐️ 4.2k
-- **Tags:** `claude` `obsidian` `knowledge-management` `second-brain`
-- **最后活动时间:** 2026-04-24
-
-### [openui](https://github.com/thesysdev/openui)
-
-生成式UI开放标准，让AI通过自然语言描述快速创建和渲染用户界面组件，加速前端开发流程。
-
-- **Stars:** ⭐️ 4.1k
-- **Tags:** `Generative UI` `AI Agent` `LLM`
-- **最后活动时间:** 2026-05-04
-
 ### [ciso-assistant-community](https://github.com/intuitem/ciso-assistant-community)
 
 一站式 GRC 平台，支持 100+ 合规框架，通过 MCP 集成 AI Agent 实现智能风险管理。
 
 - **Stars:** ⭐️ 4.0k
 - **Tags:** `mcp` `grc` `compliance` `risk-management` `cybersecurity`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-05
 
 ### [segment-geospatial](https://github.com/opengeos/segment-geospatial)
 
@@ -3610,7 +3610,7 @@ AI视频播放器专为英语学习者设计，结合GPT提供智能字幕和生
 
 - **Stars:** ⭐️ 3.9k
 - **Tags:** `dashboard` `data-visualization` `ai-assistant` `analytics`
-- **最后活动时间:** 2026-05-01
+- **最后活动时间:** 2026-05-05
 
 ### [WebODM](https://github.com/OpenDroneMap/WebODM)
 
@@ -3668,14 +3668,6 @@ AI开发者内容聚合器，监控X和YouTube上的顶级AI开发者，将内�
 - **Tags:** `llm` `reading` `books` `productivity`
 - **最后活动时间:** 2025-11-18
 
-### [claude-scholar](https://github.com/Galaxy-Dawn/claude-scholar)
-
-半自动化研究助手，支持Claude Code和Codex CLI，覆盖学术研究和软件开发全流程，提升研究效率。
-
-- **Stars:** ⭐️ 3.6k
-- **Tags:** `AI Agents` `Research` `Claude Code`
-- **最后活动时间:** 2026-04-29
-
 ### [OpenJarvis](https://github.com/open-jarvis/OpenJarvis)
 
 个人AI助手，可在个人设备上本地运行，保护隐私的同时提供智能服务。
@@ -3708,13 +3700,21 @@ AI约束求解器，用于优化车辆路径、员工排班、任务分配等规
 - **Tags:** `constraint-solver` `optimization` `scheduling` `java`
 - **最后活动时间:** 2026-04-27
 
+### [claude-scholar](https://github.com/Galaxy-Dawn/claude-scholar)
+
+半自动化研究助手，支持Claude Code和Codex CLI，覆盖学术研究和软件开发全流程，提升研究效率。
+
+- **Stars:** ⭐️ 3.5k
+- **Tags:** `AI Agents` `Research` `Claude Code`
+- **最后活动时间:** 2026-04-29
+
 ### [yudao-ui-admin-vue3](https://github.com/yudaocode/yudao-ui-admin-vue3)
 
 基于 Vue3 的企业级管理后台，支持 AI 大模型集成、工作流、多租户等丰富功能。
 
-- **Stars:** ⭐️ 3.4k
+- **Stars:** ⭐️ 3.5k
 - **Tags:** `vue3` `admin-dashboard` `ai-integration` `enterprise`
-- **最后活动时间:** 2026-04-19
+- **最后活动时间:** 2026-05-03
 
 ### [AI-Youtube-Shorts-Generator](https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator)
 
@@ -3810,7 +3810,7 @@ B站直播智能录制工具，支持自动切片、弹幕渲染和多模态模�
 
 - **Stars:** ⭐️ 3.1k
 - **Tags:** `LLM` `Local-first` `SQLite` `Notion替代`
-- **最后活动时间:** 2026-04-28
+- **最后活动时间:** 2026-05-05
 
 ### [WebPlotDigitizer](https://github.com/automeris-io/WebPlotDigitizer)
 
@@ -3860,14 +3860,6 @@ AI驱动的国际化翻译工具，仅需两行JS即可实现HTML自动翻译，
 - **Tags:** `ai-translation` `i18n` `localization` `javascript`
 - **最后活动时间:** 2026-04-07
 
-### [ai-trend-publish](https://github.com/liyown/ai-trend-publish)
-
-全自动 AI 内容生成与发布系统，支持微信公众号自动化、多源数据抓取和智能内容分析。
-
-- **Stars:** ⭐️ 2.9k
-- **Tags:** `ai` `content-generation` `automation` `wechat`
-- **最后活动时间:** 2026-04-01
-
 ### [zotero-mcp](https://github.com/54yyyu/zotero-mcp)
 
 通过 MCP 协议连接 Zotero 文献库与 Claude 等 AI 助手，支持论文讨论、摘要和引用分析。
@@ -3875,6 +3867,14 @@ AI驱动的国际化翻译工具，仅需两行JS即可实现HTML自动翻译，
 - **Stars:** ⭐️ 2.9k
 - **Tags:** `mcp` `zotero` `claude` `research-tools`
 - **最后活动时间:** 2026-04-09
+
+### [ai-trend-publish](https://github.com/liyown/ai-trend-publish)
+
+全自动 AI 内容生成与发布系统，支持微信公众号自动化、多源数据抓取和智能内容分析。
+
+- **Stars:** ⭐️ 2.9k
+- **Tags:** `ai` `content-generation` `automation` `wechat`
+- **最后活动时间:** 2026-04-01
 
 ### [papermerge](https://github.com/ciur/papermerge)
 
@@ -3954,7 +3954,7 @@ YC S25项目，随时随地与AI智能体对话的跨平台生产力工具。
 
 - **Stars:** ⭐️ 2.6k
 - **Tags:** `subtitle-translation` `ai-translation` `desktop-app` `productivity`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-05
 
 ### [docs](https://github.com/sismics/docs)
 
@@ -3972,14 +3972,6 @@ YC S25项目，随时随地与AI智能体对话的跨平台生产力工具。
 - **Tags:** `social-media` `content-curation` `agent`
 - **最后活动时间:** 2026-05-04
 
-### [wechat-bot](https://github.com/cixingguangming55555/wechat-bot)
-
-国产大模型免费工具集，支持Claude、GLM、Kimi、MiniMax等多种模型的代理与调用。
-
-- **Stars:** ⭐️ 2.5k
-- **Tags:** `claude` `llm-proxy` `chatbot` `ai-tools`
-- **最后活动时间:** 2026-02-09
-
 ### [agentic-inbox](https://github.com/cloudflare/agentic-inbox)
 
 一个自托管的AI智能邮件客户端，完全运行在Cloudflare Workers上，提供智能邮件管理功能。
@@ -3987,6 +3979,14 @@ YC S25项目，随时随地与AI智能体对话的跨平台生产力工具。
 - **Stars:** ⭐️ 2.5k
 - **Tags:** `ai-agent` `email-client` `cloudflare-workers` `self-hosted`
 - **最后活动时间:** 2026-04-23
+
+### [wechat-bot](https://github.com/cixingguangming55555/wechat-bot)
+
+国产大模型免费工具集，支持Claude、GLM、Kimi、MiniMax等多种模型的代理与调用。
+
+- **Stars:** ⭐️ 2.5k
+- **Tags:** `claude` `llm-proxy` `chatbot` `ai-tools`
+- **最后活动时间:** 2026-02-09
 
 ### [audiveris](https://github.com/Audiveris/audiveris)
 
@@ -4088,7 +4088,7 @@ Vue低代码可视化AI表单设计器，支持拖拽式表单创建，兼容PC�
 
 开源的AI订阅使用追踪工具，帮助用户监控和优化Claude、Copilot、Cursor等AI服务的订阅支出。
 
-- **Stars:** ⭐️ 2.2k
+- **Stars:** ⭐️ 2.3k
 - **Tags:** `subscription` `usage-tracker` `ai-tools` `productivity`
 - **最后活动时间:** 2026-05-05
 
@@ -4100,14 +4100,6 @@ Vue低代码可视化AI表单设计器，支持拖拽式表单创建，兼容PC�
 - **Tags:** `document-management` `ocr` `nlp` `stanford-corenlp` `self-hosted`
 - **最后活动时间:** 2026-05-05
 
-### [Paper2Any](https://github.com/OpenDCAI/Paper2Any)
-
-将论文、文本或主题转换为可编辑的研究图表、技术路线图和演示幻灯片的AI工具。
-
-- **Stars:** ⭐️ 2.2k
-- **Tags:** `Agent` `AI-PPT` `LangGraph`
-- **最后活动时间:** 2026-04-27
-
 ### [VisionClaw](https://github.com/Intent-Lab/VisionClaw)
 
 为Meta Ray-Ban智能眼镜打造的实时AI助手，结合语音、视觉和代理操作能力。
@@ -4115,6 +4107,14 @@ Vue低代码可视化AI表单设计器，支持拖拽式表单创建，兼容PC�
 - **Stars:** ⭐️ 2.2k
 - **Tags:** `smart-glasses` `voice-assistant` `gemini` `vision-ai`
 - **最后活动时间:** 2026-04-03
+
+### [Paper2Any](https://github.com/OpenDCAI/Paper2Any)
+
+将论文、文本或主题转换为可编辑的研究图表、技术路线图和演示幻灯片的AI工具。
+
+- **Stars:** ⭐️ 2.2k
+- **Tags:** `Agent` `AI-PPT` `LangGraph`
+- **最后活动时间:** 2026-04-27
 
 ### [obsidian-smart-composer](https://github.com/glowingjade/obsidian-smart-composer)
 
@@ -4124,14 +4124,6 @@ Obsidian AI聊天助手，支持上下文感知的智能写作辅助和一键编
 - **Tags:** `Obsidian` `AI Assistant` `Semantic Search`
 - **最后活动时间:** 2026-02-16
 
-### [clawfeed](https://github.com/kevinho/clawfeed)
-
-AI驱动的新闻摘要工具，支持从Twitter/RSS源获取信息并生成结构化摘要，配备Web仪表板界面。
-
-- **Stars:** ⭐️ 2.2k
-- **Tags:** `ai` `news-digest` `twitter` `rss` `summarization`
-- **最后活动时间:** 2026-03-04
-
 ### [MrRSS](https://github.com/WCY-dt/MrRSS)
 
 现代化跨平台AI RSS阅读器，支持智能内容聚合与推荐。
@@ -4139,6 +4131,14 @@ AI驱动的新闻摘要工具，支持从Twitter/RSS源获取信息并生成结�
 - **Stars:** ⭐️ 2.2k
 - **Tags:** `rss-reader` `feed-reader` `ai-reader` `cross-platform`
 - **最后活动时间:** 2026-04-20
+
+### [clawfeed](https://github.com/kevinho/clawfeed)
+
+AI驱动的新闻摘要工具，支持从Twitter/RSS源获取信息并生成结构化摘要，配备Web仪表板界面。
+
+- **Stars:** ⭐️ 2.2k
+- **Tags:** `ai` `news-digest` `twitter` `rss` `summarization`
+- **最后活动时间:** 2026-03-04
 
 ### [notesGPT](https://github.com/Nutlope/notesGPT)
 
@@ -4170,7 +4170,7 @@ Obsidian笔记库模板，专为使用Claude Code作为思考伙伴的工程师�
 
 - **Stars:** ⭐️ 2.1k
 - **Tags:** `ctf` `cybersecurity` `ai-tools` `rust` `tauri`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-05
 
 ### [GalTransl](https://github.com/GalTransl/GalTransl)
 
@@ -4179,6 +4179,14 @@ Obsidian笔记库模板，专为使用Claude Code作为思考伙伴的工程师�
 - **Stars:** ⭐️ 2.1k
 - **Tags:** `visual-novel` `translation` `gpt-4` `claude`
 - **最后活动时间:** 2026-05-03
+
+### [OSS-DocumentScanner](https://github.com/Akylas/OSS-DocumentScanner)
+
+开源文档扫描应用，集成OCR文字识别和图像处理功能。
+
+- **Stars:** ⭐️ 2.1k
+- **Tags:** `document-scanner` `ocr` `tesseract` `opencv` `android`
+- **最后活动时间:** 2026-05-05
 
 ### [OSS-DocumentScanner](https://github.com/ossdocumentscanner/OSS-DocumentScanner)
 
@@ -4196,13 +4204,13 @@ Obsidian笔记库模板，专为使用Claude Code作为思考伙伴的工程师�
 - **Tags:** `ai-agents` `graph-of-thoughts` `knowledge-graph` `mindmap` `second-brain`
 - **最后活动时间:** 2026-03-16
 
-### [OSS-DocumentScanner](https://github.com/Akylas/OSS-DocumentScanner)
+### [Horizon](https://github.com/Thysrael/Horizon)
 
-开源文档扫描应用，集成OCR文字识别和图像处理功能。
+全自动 AI 科技新闻聚合与摘要生成器，利用 LLM 自动生成中英双语每日简报。
 
 - **Stars:** ⭐️ 2.0k
-- **Tags:** `document-scanner` `ocr` `tesseract` `opencv` `android`
-- **最后活动时间:** 2026-04-23
+- **Tags:** `LLM` `News Aggregator` `Summarizer`
+- **最后活动时间:** 2026-05-06
 
 ### [md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill)
 
@@ -4211,6 +4219,14 @@ AI驱动的Markdown转微信公众号排版工具，支持多主题样式和批�
 - **Stars:** ⭐️ 2.0k
 - **Tags:** `claude-skills` `markdown-converter` `wechat` `cli-tool`
 - **最后活动时间:** 2026-04-30
+
+### [vexa](https://github.com/Vexa-ai/vexa)
+
+开源会议转录API，支持Google Meet、Teams和Zoom，提供实时WebSocket转录和MCP服务器供AI代理调用。
+
+- **Stars:** ⭐️ 2.0k
+- **Tags:** `Meeting Transcription` `STT` `MCP Server` `Productivity`
+- **最后活动时间:** 2026-05-03
 
 ### [MyBrain](https://github.com/mhss1/MyBrain)
 
@@ -4228,13 +4244,21 @@ AI驱动的Markdown转微信公众号排版工具，支持多主题样式和批�
 - **Tags:** `蜜罐` `网络安全` `LLM安全` `欺骗防御`
 - **最后活动时间:** 2026-05-05
 
-### [vexa](https://github.com/Vexa-ai/vexa)
+### [text-to-cad](https://github.com/earthtojake/text-to-cad)
 
-开源会议转录API，支持Google Meet、Teams和Zoom，提供实时WebSocket转录和MCP服务器供AI代理调用。
+开源的AI驱动CAD模型生成工具，支持通过文本描述快速创建CAD设计。
 
 - **Stars:** ⭐️ 2.0k
-- **Tags:** `Meeting Transcription` `STT` `MCP Server` `Productivity`
-- **最后活动时间:** 2026-05-03
+- **Tags:** `text-to-cad` `ai-agents` `cad` `wasm`
+- **最后活动时间:** 2026-05-04
+
+### [interview-guide](https://github.com/Snailclimb/interview-guide)
+
+基于 Spring Boot 和 Spring AI 构建的智能面试助手，支持简历智能分析、AI模拟面试和知识库RAG检索功能，适合学习与实践。
+
+- **Stars:** ⭐️ 1.9k
+- **Tags:** `springai` `rag` `pgvector` `interview` `java` `springboot`
+- **最后活动时间:** 2026-05-01
 
 ### [xhs_ai_publisher](https://github.com/BetaStreetOmnis/xhs_ai_publisher)
 
@@ -4259,14 +4283,6 @@ Tesseract OCR的Gtk/Qt图形前端，支持PDF文档OCR识别。
 - **Stars:** ⭐️ 1.9k
 - **Tags:** `ocr` `tesseract-ocr` `gtk` `qt` `pdf`
 - **最后活动时间:** 2026-01-15
-
-### [interview-guide](https://github.com/Snailclimb/interview-guide)
-
-基于 Spring Boot 和 Spring AI 构建的智能面试助手，支持简历智能分析、AI模拟面试和知识库RAG检索功能，适合学习与实践。
-
-- **Stars:** ⭐️ 1.9k
-- **Tags:** `springai` `rag` `pgvector` `interview` `java` `springboot`
-- **最后活动时间:** 2026-05-01
 
 ### [HealthGPT](https://github.com/StanfordBDHG/HealthGPT)
 
@@ -4300,14 +4316,6 @@ Tesseract OCR的Gtk/Qt图形前端，支持PDF文档OCR识别。
 - **Tags:** `audio-transcription` `whisper` `speaker-diarization` `gui` `productivity`
 - **最后活动时间:** 2026-04-17
 
-### [text-to-cad](https://github.com/earthtojake/text-to-cad)
-
-开源的AI驱动CAD模型生成工具，支持通过文本描述快速创建CAD设计。
-
-- **Stars:** ⭐️ 1.9k
-- **Tags:** `text-to-cad` `ai-agents` `cad` `wasm`
-- **最后活动时间:** 2026-05-04
-
 ### [alphagenome](https://github.com/google-deepmind/alphagenome)
 
 Google DeepMind开发的AlphaGenome模型API，用于基因组学研究和分析。
@@ -4338,7 +4346,7 @@ AI驱动的自主红队框架，实现从侦察到漏洞利用的全自动化安
 
 - **Stars:** ⭐️ 1.8k
 - **Tags:** `AI Agent` `Red Team` `Security`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-05
 
 ### [AdvancedLiterateMachinery](https://github.com/AlibabaResearch/AdvancedLiterateMachinery)
 
@@ -4476,14 +4484,6 @@ AI 文旅智能体应用，帮助用户解决旅行规划中的信息过载和�
 - **Tags:** `waf` `api-security` `ai-security` `web-security` `cybersecurity`
 - **最后活动时间:** 2026-04-26
 
-### [Horizon](https://github.com/Thysrael/Horizon)
-
-全自动 AI 科技新闻聚合与摘要生成器，利用 LLM 自动生成中英双语每日简报。
-
-- **Stars:** ⭐️ 1.6k
-- **Tags:** `LLM` `News Aggregator` `Summarizer`
-- **最后活动时间:** 2026-05-05
-
 ### [AntigravityManager](https://github.com/Draculabo/AntigravityManager)
 
 基于Electron的AI服务账户管理工具，支持Gemini等AI平台的账户切换、进度备份和应用生命周期控制。
@@ -4524,13 +4524,21 @@ AI 文旅智能体应用，帮助用户解决旅行规划中的信息过载和�
 - **Tags:** `ai` `document-analysis` `translation` `literature` `productivity`
 - **最后活动时间:** 2026-03-09
 
+### [ai-marketing-claude](https://github.com/zubair-trabzada/ai-marketing-claude)
+
+Claude Code的AI营销套件，包含15个营销技能，支持网站审计、文案生成、邮件序列、广告活动等。
+
+- **Stars:** ⭐️ 1.6k
+- **Tags:** `ai-marketing` `claude-code` `automation` `seo`
+- **最后活动时间:** 2026-03-02
+
 ### [learnhouse](https://github.com/learnhouse/learnhouse)
 
 AI驱动的开源学习平台，提供现代化的在线教育解决方案。
 
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `lms` `education` `ai` `learning-platform` `open-source`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-05
 
 ### [CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)
 
@@ -4540,14 +4548,6 @@ AI驱动的开源学习平台，提供现代化的在线教育解决方案。
 - **Tags:** `ai-news` `cloudflare-workers` `gemini` `content-aggregation`
 - **最后活动时间:** 2026-05-03
 
-### [ai-marketing-claude](https://github.com/zubair-trabzada/ai-marketing-claude)
-
-Claude Code的AI营销套件，包含15个营销技能，支持网站审计、文案生成、邮件序列、广告活动等。
-
-- **Stars:** ⭐️ 1.6k
-- **Tags:** `ai-marketing` `claude-code` `automation` `seo`
-- **最后活动时间:** 2026-03-02
-
 ### [Text_select_captcha](https://github.com/MgArcher/Text_select_captcha)
 
 基于PyTorch训练的文字点选验证码识别系统，支持多种验证码类型。
@@ -4555,6 +4555,14 @@ Claude Code的AI营销套件，包含15个营销技能，支持网站审计、�
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `captcha-recognition` `pytorch` `ocr` `deep-learning`
 - **最后活动时间:** 2026-05-01
+
+### [qiaomu-anything-to-notebooklm](https://github.com/joeseesun/qiaomu-anything-to-notebooklm)
+
+Claude技能工具，支持将微信文章、网页、YouTube、PDF等多种内容源转换为NotebookLM格式，用于生成播客、PPT、思维导图等。
+
+- **Stars:** ⭐️ 1.6k
+- **Tags:** `claude` `mcp` `notebooklm` `automation` `skill`
+- **最后活动时间:** 2026-04-28
 
 ### [dataline](https://github.com/RamiAwar/dataline)
 
@@ -4564,13 +4572,13 @@ AI驱动的数据分析与可视化工具，支持CSV、Postgres、MySQL、Snowf
 - **Tags:** `ai` `data-visualization` `sql` `llm`
 - **最后活动时间:** 2026-02-11
 
-### [qiaomu-anything-to-notebooklm](https://github.com/joeseesun/qiaomu-anything-to-notebooklm)
+### [open-wearables](https://github.com/the-momentum/open-wearables)
 
-Claude技能工具，支持将微信文章、网页、YouTube、PDF等多种内容源转换为NotebookLM格式，用于生成播客、PPT、思维导图等。
+自托管的可穿戴健康数据统一平台，提供AI就绪的API接口。支持Apple Watch、Garmin、Suunto等主流设备的数据整合。
 
 - **Stars:** ⭐️ 1.6k
-- **Tags:** `claude` `mcp` `notebooklm` `automation` `skill`
-- **最后活动时间:** 2026-04-28
+- **Tags:** `healthcare-ai` `wearables` `fitness-api` `self-hosted`
+- **最后活动时间:** 2026-05-05
 
 ### [ytb2bili](https://github.com/difyz9/ytb2bili)
 
@@ -4596,14 +4604,6 @@ AI 驱动的作业助手，支持自主学习和作业解答。
 - **Tags:** `ocr` `translation` `game` `tesseract`
 - **最后活动时间:** 2026-05-04
 
-### [open-wearables](https://github.com/the-momentum/open-wearables)
-
-自托管的可穿戴健康数据统一平台，提供AI就绪的API接口。支持Apple Watch、Garmin、Suunto等主流设备的数据整合。
-
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `healthcare-ai` `wearables` `fitness-api` `self-hosted`
-- **最后活动时间:** 2026-04-30
-
 ### [globalthreatmap](https://github.com/unicodeveloper/globalthreatmap)
 
 全球威胁情报地图工具，实时展示战争、冲突和军事基地信息，结合AI技术提供智能分析能力。
@@ -4612,14 +4612,6 @@ AI 驱动的作业助手，支持自主学习和作业解答。
 - **Tags:** `osint` `ai-agents` `intelligence` `real-time`
 - **最后活动时间:** 2026-04-20
 
-### [maestro](https://github.com/murtaza-nasir/maestro)
-
-AI驱动的研究应用，旨在简化和加速复杂研究任务的执行流程。
-
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `ai-research` `productivity` `research-tools` `automation`
-- **最后活动时间:** 2026-04-16
-
 ### [uni2ts](https://github.com/SalesforceAIResearch/uni2ts)
 
 通用时间序列预测Transformer统一训练框架，支持预训练模型。
@@ -4627,6 +4619,14 @@ AI驱动的研究应用，旨在简化和加速复杂研究任务的执行流程
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `time-series-forecasting` `transformers` `deep-learning` `pre-trained-models`
 - **最后活动时间:** 2026-01-29
+
+### [maestro](https://github.com/murtaza-nasir/maestro)
+
+AI驱动的研究应用，旨在简化和加速复杂研究任务的执行流程。
+
+- **Stars:** ⭐️ 1.5k
+- **Tags:** `ai-research` `productivity` `research-tools` `automation`
+- **最后活动时间:** 2026-04-16
 
 ### [knowledge](https://github.com/KnowledgeCanvas/knowledge)
 
@@ -4652,13 +4652,13 @@ Claude技能工具，支持将微信文章、网页、YouTube、PDF等多种来�
 - **Tags:** `claude` `notebooklm` `mcp` `automation`
 - **最后活动时间:** 2026-04-18
 
-### [scrapeghost](https://github.com/jamesturk/scrapeghost)
+### [claude-usage](https://github.com/phuryn/claude-usage)
 
-利用GPT API进行智能网页抓取的实验性库，简化结构化数据提取流程。
+本地仪表盘工具，用于追踪Claude Code的token使用量、成本和会话历史，帮助Pro和Max订阅用户全面了解使用情况。
 
 - **Stars:** ⭐️ 1.4k
-- **Tags:** `web-scraping` `gpt` `data-extraction` `automation`
-- **最后活动时间:** 2026-01-14
+- **Tags:** `claude-code` `dashboard` `token-tracking` `productivity`
+- **最后活动时间:** 2026-04-24
 
 ### [TranslateBooksWithLLMs](https://github.com/hydropix/TranslateBooksWithLLMs)
 
@@ -4668,13 +4668,13 @@ Claude技能工具，支持将微信文章、网页、YouTube、PDF等多种来�
 - **Tags:** `Translation` `LLM` `Document Processing` `Multi-model`
 - **最后活动时间:** 2026-05-04
 
-### [claude-usage](https://github.com/phuryn/claude-usage)
+### [scrapeghost](https://github.com/jamesturk/scrapeghost)
 
-本地仪表盘工具，用于追踪Claude Code的token使用量、成本和会话历史，帮助Pro和Max订阅用户全面了解使用情况。
+利用GPT API进行智能网页抓取的实验性库，简化结构化数据提取流程。
 
 - **Stars:** ⭐️ 1.4k
-- **Tags:** `claude-code` `dashboard` `token-tracking` `productivity`
-- **最后活动时间:** 2026-04-24
+- **Tags:** `web-scraping` `gpt` `data-extraction` `automation`
+- **最后活动时间:** 2026-01-14
 
 ### [ai-to-pptx](https://github.com/SmartSchoolAI/ai-to-pptx)
 
@@ -4732,14 +4732,6 @@ AI驱动的学术论文图表自动生成工具，支持论文配图、幻灯片
 - **Tags:** `Claude Code` `PKM` `Obsidian` `AI Agents`
 - **最后活动时间:** 2026-02-18
 
-### [GEOFlow](https://github.com/yaojingang/GEOFlow)
-
-开源地理内容生产系统，集成AI任务、审核流程与发布功能，支持OpenAI兼容接口。
-
-- **Stars:** ⭐️ 1.4k
-- **Tags:** `geo` `cms` `ai` `openai-compatible`
-- **最后活动时间:** 2026-05-03
-
 ### [boss-helper](https://github.com/Ocyss/boss-helper)
 
 Boss直聘智能助手，集成GPT自动打招呼、批量投递、高级筛选等求职优化功能。
@@ -4747,6 +4739,14 @@ Boss直聘智能助手，集成GPT自动打招呼、批量投递、高级筛选�
 - **Stars:** ⭐️ 1.4k
 - **Tags:** `job-search` `gpt` `automation` `productivity`
 - **最后活动时间:** 2026-03-26
+
+### [GEOFlow](https://github.com/yaojingang/GEOFlow)
+
+开源地理内容生产系统，集成AI任务、审核流程与发布功能，支持OpenAI兼容接口。
+
+- **Stars:** ⭐️ 1.4k
+- **Tags:** `geo` `cms` `ai` `openai-compatible`
+- **最后活动时间:** 2026-05-03
 
 ### [blue_archive_auto_script](https://github.com/pur1fying/blue_archive_auto_script)
 
@@ -4796,14 +4796,6 @@ Kibana告警与报告应用，支持Elasticsearch异常检测、定时报告生�
 - **Tags:** `anomaly-detection` `elasticsearch` `kibana` `alerting` `monitoring`
 - **最后活动时间:** 2026-01-21
 
-### [AntSK](https://github.com/shuyu-labs/AntSK)
-
-基于.NET 9和Semantic Kernel的AI知识库应用，支持本地离线运行和RAG检索增强。
-
-- **Stars:** ⭐️ 1.3k
-- **Tags:** `.NET` `Semantic Kernel` `RAG` `Knowledge Base` `Offline AI`
-- **最后活动时间:** 2025-11-06
-
 ### [MetaScreener](https://github.com/ChaokunHong/MetaScreener)
 
 AI驱动的文献筛选工具，用于系统综述中的摘要和PDF高效筛选，支持多种LLM后端。
@@ -4826,7 +4818,7 @@ AI图像视频管理应用，支持语义搜索和智能组织，兼容SD-Webui�
 
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `crm` `ai-agent` `mcp` `laravel` `self-hosted`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-05
 
 ### [eyeballer](https://github.com/BishopFox/eyeballer)
 
@@ -4842,7 +4834,7 @@ AI图像视频管理应用，支持语义搜索和智能组织，兼容SD-Webui�
 
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `ai` `cybersecurity` `threat-intelligence` `threat-detection` `osint`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-05
 
 ### [BuilderPulse](https://github.com/BuilderPulse/BuilderPulse)
 
@@ -4898,7 +4890,7 @@ Microsoft Word 插件，将 AI 和 Agent 能力集成到文档编辑中。
 
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `word-addin` `chatgpt` `copilot` `office` `ai-assistant`
-- **最后活动时间:** 2026-05-03
+- **最后活动时间:** 2026-05-05
 
 ### [stardist](https://github.com/stardist/stardist)
 
@@ -4916,14 +4908,6 @@ Microsoft Word 插件，将 AI 和 Agent 能力集成到文档编辑中。
 - **Tags:** `network-security` `machine-learning` `deep-packet-inspection`
 - **最后活动时间:** 2026-04-23
 
-### [DocFlow](https://github.com/xun082/DocFlow)
-
-AI驱动的文档协作平台，支持实时协作、智能写作辅助和灵活的插件系统。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `nextjs` `tiptap` `ai-writing` `collaboration` `documentation`
-- **最后活动时间:** 2026-03-27
-
 ### [wenyan-mcp](https://github.com/caol64/wenyan-mcp)
 
 MCP服务器，让AI自动将Markdown文章排版后发布至微信公众号，简化内容发布流程。
@@ -4931,6 +4915,14 @@ MCP服务器，让AI自动将Markdown文章排版后发布至微信公众号，�
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `MCP` `微信公众号` `内容发布`
 - **最后活动时间:** 2026-04-29
+
+### [DocFlow](https://github.com/xun082/DocFlow)
+
+AI驱动的文档协作平台，支持实时协作、智能写作辅助和灵活的插件系统。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `nextjs` `tiptap` `ai-writing` `collaboration` `documentation`
+- **最后活动时间:** 2026-03-27
 
 ### [FoloUp](https://github.com/FoloUp/FoloUp)
 
@@ -4956,6 +4948,14 @@ AI驱动的语音面试官平台，可自动化进行候选人面试和评估。
 - **Tags:** `ai` `docker` `media-stack` `selfhosted` `jellyfin`
 - **最后活动时间:** 2026-04-01
 
+### [MouseTooltipTranslator](https://github.com/ttop32/MouseTooltipTranslator)
+
+Chrome 浏览器划词翻译扩展，支持 PDF、电子书、Netflix 双语字幕、YouTube 等多场景，集成 OCR 和 TTS 功能。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `翻译` `浏览器扩展` `OCR`
+- **最后活动时间:** 2026-05-05
+
 ### [deep-eye](https://github.com/zakirkun/deep-eye)
 
 AI驱动的漏洞扫描与渗透测试工具，集成多种大模型实现自动化漏洞挖掘和智能载荷生成。
@@ -4963,14 +4963,6 @@ AI驱动的漏洞扫描与渗透测试工具，集成多种大模型实现自动
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `安全测试` `渗透测试` `漏洞扫描`
 - **最后活动时间:** 2026-02-03
-
-### [MouseTooltipTranslator](https://github.com/ttop32/MouseTooltipTranslator)
-
-Chrome 浏览器划词翻译扩展，支持 PDF、电子书、Netflix 双语字幕、YouTube 等多场景，集成 OCR 和 TTS 功能。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `翻译` `浏览器扩展` `OCR`
-- **最后活动时间:** 2026-05-04
 
 ### [aso-skills](https://github.com/Eronred/aso-skills)
 
@@ -4988,6 +4980,14 @@ Claude Code 法律助手技能，支持合同审查、风险分析、NDA 生成�
 - **Tags:** `legal-ai` `claude-skill` `contract-review` `compliance`
 - **最后活动时间:** 2026-03-27
 
+### [zotero-AI-Butler](https://github.com/steven-jianhao-li/zotero-AI-Butler)
+
+Zotero智能插件，自动调用大模型精读论文并生成结构化笔记，支持主流LLM平台，帮助用户快速理解学术文献。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `Zotero` `论文阅读` `知识管理`
+- **最后活动时间:** 2026-05-05
+
 ### [todo-for-ai](https://github.com/todo-for-ai/todo-for-ai)
 
 专为AI助手设计的任务管理系统，支持项目管理、团队协作和MCP协议集成。
@@ -4995,14 +4995,6 @@ Claude Code 法律助手技能，支持合同审查、风险分析、NDA 生成�
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `Task Management` `MCP` `AI Assistant` `Productivity`
 - **最后活动时间:** 2026-03-30
-
-### [zotero-AI-Butler](https://github.com/steven-jianhao-li/zotero-AI-Butler)
-
-Zotero智能插件，自动调用大模型精读论文并生成结构化笔记，支持主流LLM平台，帮助用户快速理解学术文献。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `Zotero` `论文阅读` `知识管理`
-- **最后活动时间:** 2026-05-03
 
 ### [polis](https://github.com/compdemocracy/polis)
 
@@ -5042,6 +5034,14 @@ AI驱动的电子书内容提取与思维导图生成工具，支持EPUB和PDF�
 
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `media` `automation` `llm` `self-hosted`
+- **最后活动时间:** 2026-05-06
+
+### [natively-cluely-ai-assistant](https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant)
+
+免费开源的AI面试助手和会议助理，支持实时转录、本地RAG和隐身模式，是Cluely和Final Round AI的优秀替代方案。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `ai-assistant` `meeting-assistant` `interview` `rag` `open-source`
 - **最后活动时间:** 2026-05-05
 
 ### [home-gallery](https://github.com/xemle/home-gallery)
@@ -5059,14 +5059,6 @@ AI辅助家谱研究工具，提供结构化提示词、知识库模板和档案
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `genealogy` `research` `claude-code` `templates`
 - **最后活动时间:** 2026-03-18
-
-### [natively-cluely-ai-assistant](https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant)
-
-免费开源的AI面试助手和会议助理，支持实时转录、本地RAG和隐身模式，是Cluely和Final Round AI的优秀替代方案。
-
-- **Stars:** ⭐️ 1.1k
-- **Tags:** `ai-assistant` `meeting-assistant` `interview` `rag` `open-source`
-- **最后活动时间:** 2026-05-04
 
 ### [PaddleHelix](https://github.com/PaddlePaddle/PaddleHelix)
 
@@ -5106,7 +5098,7 @@ Obsidian智能助手插件，通过隐私优先的AI技术让你的第二大脑�
 
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `Obsidian` `RAG` `Privacy` `AI Assistant`
-- **最后活动时间:** 2026-04-29
+- **最后活动时间:** 2026-05-05
 
 ### [zen](https://github.com/sheshbabu/zen)
 
@@ -5156,14 +5148,6 @@ GPT团队管理和自动邀请工具，简化团队协作和成员管理流程�
 - **Tags:** `chrome-extension` `translation` `subtitle` `video` `multilingual`
 - **最后活动时间:** 2026-02-14
 
-### [GeoIntel](https://github.com/atiilla/GeoIntel)
-
-利用Google Gemini API进行AI驱动的地理位置分析，通过照片识别拍摄地点。
-
-- **Stars:** ⭐️ 1.0k
-- **Tags:** `gemini` `geolocation` `osint` `image-analysis`
-- **最后活动时间:** 2026-03-09
-
 ### [withoutbg](https://github.com/withoutbg/withoutbg)
 
 开源图像背景移除工具包，支持多种AI模型和ONNX推理，提供Docker部署方案。
@@ -5172,21 +5156,13 @@ GPT团队管理和自动邀请工具，简化团队协作和成员管理流程�
 - **Tags:** `background-removal` `image-matting` `onnx` `python`
 - **最后活动时间:** 2026-04-16
 
-### [xiaoyaosearch](https://github.com/dtsola/xiaoyaosearch)
+### [GeoIntel](https://github.com/atiilla/GeoIntel)
 
-AI驱动的本地文件搜索工具，支持自然语言理解和图像识别。让文件搜索像聊天一样简单直观。
-
-- **Stars:** ⭐️ 1.0k
-- **Tags:** `AI搜索` `多模态` `本地文件`
-- **最后活动时间:** 2026-04-28
-
-### [Foxel](https://github.com/DrizzleTime/Foxel)
-
-支持 AI 语义搜索的私有云存储方案，适合个人和团队使用。
+利用Google Gemini API进行AI驱动的地理位置分析，通过照片识别拍摄地点。
 
 - **Stars:** ⭐️ 1.0k
-- **Tags:** `cloud-storage` `semantic-search` `photos` `self-hosted`
-- **最后活动时间:** 2026-05-04
+- **Tags:** `gemini` `geolocation` `osint` `image-analysis`
+- **最后活动时间:** 2026-03-09
 
 ### [evil-read-arxiv](https://github.com/juliye2025/evil-read-arxiv)
 
@@ -5194,6 +5170,14 @@ AI驱动的本地文件搜索工具，支持自然语言理解和图像识别。
 
 - **Stars:** ⭐️ 1.0k
 - **Tags:** `arxiv` `obsidian` `claude-code` `research`
+- **最后活动时间:** 2026-05-04
+
+### [Foxel](https://github.com/DrizzleTime/Foxel)
+
+支持 AI 语义搜索的私有云存储方案，适合个人和团队使用。
+
+- **Stars:** ⭐️ 1.0k
+- **Tags:** `cloud-storage` `semantic-search` `photos` `self-hosted`
 - **最后活动时间:** 2026-05-04
 
 ### [stride-gpt](https://github.com/mrwadams/stride-gpt)
@@ -5250,7 +5234,7 @@ Obsidian笔记软件的启动模板集合，支持LLM集成、第二大脑构建
 
 - **Stars:** ⭐️ 1.0k
 - **Tags:** `chatgpt` `translation` `novel` `openai` `kotlin`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-05
 
 ### [CameraTraps](https://github.com/microsoft/CameraTraps)
 
@@ -5314,13 +5298,13 @@ Obsidian 智能多语言 AI 助手，为知识库提供快速智能交互。
 
 - **Stars:** ⭐️ 978
 - **Tags:** `IOCR` `Image Search` `Java AI`
-- **最后活动时间:** 2026-04-25
+- **最后活动时间:** 2026-05-05
 
 ### [gemini-nexus](https://github.com/yeahhe365/gemini-nexus)
 
 深度集成Google Gemini的Chrome扩展，支持图像AI处理和浏览器自动化。
 
-- **Stars:** ⭐️ 971
+- **Stars:** ⭐️ 970
 - **Tags:** `chrome-extension` `gemini` `browser-automation`
 - **最后活动时间:** 2026-04-15
 
@@ -5352,7 +5336,7 @@ Obsidian 智能多语言 AI 助手，为知识库提供快速智能交互。
 
 微信公众号全自动AI写作工具，支持全网热搜聚合、趋势分析、爆款选题和一键生成排版发布，覆盖小红书、抖音等多平台。
 
-- **Stars:** ⭐️ 954
+- **Stars:** ⭐️ 961
 - **Tags:** `ai-agents` `wechat` `content-generation` `automation`
 - **最后活动时间:** 2026-04-30
 
@@ -5372,11 +5356,19 @@ AI 驱动的渗透测试助手，自动化侦察、笔记记录和漏洞分析�
 - **Tags:** `No-Code` `Workflow` `AI Agent`
 - **最后活动时间:** 2026-04-21
 
+### [xiaoyaosearch](https://github.com/dtsola/xiaoyaosearch)
+
+AI驱动的本地文件搜索工具，支持自然语言理解和图像识别。让文件搜索像聊天一样简单直观。
+
+- **Stars:** ⭐️ 939
+- **Tags:** `AI搜索` `多模态` `本地文件`
+- **最后活动时间:** 2026-04-28
+
 ### [cellm](https://github.com/getcellm/cellm)
 
 在Excel公式中使用大语言模型，将LLM能力直接集成到电子表格工作流中。
 
-- **Stars:** ⭐️ 930
+- **Stars:** ⭐️ 931
 - **Tags:** `ai` `excel` `llm` `productivity`
 - **最后活动时间:** 2026-05-01
 
@@ -5384,7 +5376,7 @@ AI 驱动的渗透测试助手，自动化侦察、笔记记录和漏洞分析�
 
 安全运营协作平台，内置命令自动化和AI辅助摘要功能，帮助安全团队高效完成渗透测试和漏洞管理。
 
-- **Stars:** ⭐️ 929
+- **Stars:** ⭐️ 930
 - **Tags:** `security-automation` `ai-assisted` `penetration-testing` `cybersecurity`
 - **最后活动时间:** 2026-05-05
 
@@ -5412,11 +5404,19 @@ AI 驱动的渗透测试助手，自动化侦察、笔记记录和漏洞分析�
 - **Tags:** `TTS` `有声书` `电子书`
 - **最后活动时间:** 2026-02-08
 
+### [pentest-ai-agents](https://github.com/0xSteph/pentest-ai-agents)
+
+将Claude Code转化为渗透测试助手，支持授权安全测试、漏洞研究、检测构建和报告撰写。
+
+- **Stars:** ⭐️ 918
+- **Tags:** `ai-security` `penetration-testing` `claude-code` `ethical-hacking` `security-tools`
+- **最后活动时间:** 2026-05-03
+
 ### [tutor-gpt](https://github.com/plastic-labs/tutor-gpt)
 
 基于心智理论推理的AI智能导师系统，通过理解学习者思维提供个性化教学。
 
-- **Stars:** ⭐️ 902
+- **Stars:** ⭐️ 903
 - **Tags:** `AI Education` `Smart Tutor` `Theory of Mind`
 - **最后活动时间:** 2026-02-20
 
@@ -5432,7 +5432,7 @@ AI 驱动的渗透测试助手，自动化侦察、笔记记录和漏洞分析�
 
 基于主动学习的系统性文献综述工具，利用AI加速学术文献筛选与研究分析。
 
-- **Stars:** ⭐️ 885
+- **Stars:** ⭐️ 886
 - **Tags:** `Active Learning` `Literature Review` `Research`
 - **最后活动时间:** 2026-04-27
 
@@ -5440,23 +5440,15 @@ AI 驱动的渗透测试助手，自动化侦察、笔记记录和漏洞分析�
 
 产品分析与用户行为分析工具，支持点击流预测、行为分割和马尔可夫链模拟。
 
-- **Stars:** ⭐️ 883
+- **Stars:** ⭐️ 884
 - **Tags:** `product-analytics` `predictive-analytics` `machine-learning`
 - **最后活动时间:** 2025-12-08
-
-### [pentest-ai-agents](https://github.com/0xSteph/pentest-ai-agents)
-
-将Claude Code转化为渗透测试助手，支持授权安全测试、漏洞研究、检测构建和报告撰写。
-
-- **Stars:** ⭐️ 881
-- **Tags:** `ai-security` `penetration-testing` `claude-code` `ethical-hacking` `security-tools`
-- **最后活动时间:** 2026-05-03
 
 ### [gemma-gem](https://github.com/kessler/gemma-gem)
 
 基于WebGPU在浏览器本地运行Google Gemma 4模型的Chrome扩展，无需API密钥，数据完全本地化。
 
-- **Stars:** ⭐️ 876
+- **Stars:** ⭐️ 883
 - **Tags:** `ai` `gemma4` `llm` `chrome-extension` `webgpu`
 - **最后活动时间:** 2026-04-28
 
@@ -5466,7 +5458,7 @@ AI 驱动的渗透测试助手，自动化侦察、笔记记录和漏洞分析�
 
 - **Stars:** ⭐️ 870
 - **Tags:** `ids` `ips` `network-security` `machine-learning`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-05
 
 ### [wealth-tracker](https://github.com/nicejade/wealth-tracker)
 
@@ -5524,6 +5516,14 @@ AI驱动的Anki闪卡增强工具，支持自动生成解释、记忆口诀、�
 - **Tags:** `Anki` `LLM` `DALL-E` `教育`
 - **最后活动时间:** 2026-04-01
 
+### [mcp-google-sheets](https://github.com/xing5/mcp-google-sheets)
+
+MCP服务器，让AI模型能够创建和修改Google表格，实现智能化的数据处理和自动化办公。
+
+- **Stars:** ⭐️ 844
+- **Tags:** `mcp` `mcp-server` `google` `spreadsheet` `google-drive`
+- **最后活动时间:** 2026-03-15
+
 ### [MONAILabel](https://github.com/Project-MONAI/MONAILabel)
 
 智能医学图像标注与学习工具，支持主动学习和3D分割。
@@ -5531,14 +5531,6 @@ AI驱动的Anki闪卡增强工具，支持自动生成解释、记忆口诀、�
 - **Stars:** ⭐️ 843
 - **Tags:** `medical-imaging` `deep-learning` `segmentation` `active-learning`
 - **最后活动时间:** 2026-04-06
-
-### [mcp-google-sheets](https://github.com/xing5/mcp-google-sheets)
-
-MCP服务器，让AI模型能够创建和修改Google表格，实现智能化的数据处理和自动化办公。
-
-- **Stars:** ⭐️ 840
-- **Tags:** `mcp` `mcp-server` `google` `spreadsheet` `google-drive`
-- **最后活动时间:** 2026-03-15
 
 ### [WellAlly-health](https://github.com/huifer/WellAlly-health)
 
@@ -5555,6 +5547,14 @@ MCP服务器，让AI模型能够创建和修改Google表格，实现智能化的
 - **Stars:** ⭐️ 835
 - **Tags:** `ocr` `tts` `transcription` `webui` `file-converter`
 - **最后活动时间:** 2025-11-11
+
+### [openless](https://github.com/appergb/openless)
+
+开源语音输入工具，按住说话松开即得AI润色后的文字，支持macOS和Windows系统。
+
+- **Stars:** ⭐️ 835
+- **Tags:** `voice-input` `speech-to-text` `llm` `productivity` `rust` `tauri`
+- **最后活动时间:** 2026-05-05
 
 ### [note-companion](https://github.com/Nexus-JPF/note-companion)
 
@@ -5632,9 +5632,17 @@ AI驱动的创业加速器引擎，支持文档上传、RAG对话、智能文档
 
 ChatGPT网页端增强插件，优化长会话卡顿问题，支持聊天记录导出、消息搜索跳转、Prompt管理和时间线导航。
 
-- **Stars:** ⭐️ 811
+- **Stars:** ⭐️ 812
 - **Tags:** `chatgpt` `browser-extension` `prompt-management` `openai`
 - **最后活动时间:** 2026-04-29
+
+### [llmwiki](https://github.com/lucasastorian/llmwiki)
+
+Karpathy LLM Wiki的开源实现，支持上传文档、通过MCP连接Claude账户，自动生成知识库。
+
+- **Stars:** ⭐️ 812
+- **Tags:** `llm` `mcp` `knowledge-base` `rag` `agents` `claude`
+- **最后活动时间:** 2026-04-27
 
 ### [smaug](https://github.com/alexknowshtml/smaug)
 
@@ -5644,19 +5652,11 @@ AI驱动的Twitter/X书签归档工具，支持多模型分析并导出为Markdo
 - **Tags:** `twitter` `bookmarks` `ai-analysis` `markdown`
 - **最后活动时间:** 2026-02-03
 
-### [llmwiki](https://github.com/lucasastorian/llmwiki)
-
-Karpathy LLM Wiki的开源实现，支持上传文档、通过MCP连接Claude账户，自动生成知识库。
-
-- **Stars:** ⭐️ 803
-- **Tags:** `llm` `mcp` `knowledge-base` `rag` `agents` `claude`
-- **最后活动时间:** 2026-04-27
-
 ### [mcp-gsc](https://github.com/AminForou/mcp-gsc)
 
 结合Claude AI与Google Search Console的SEO分析工具，为SEO从业者提供智能洞察。
 
-- **Stars:** ⭐️ 786
+- **Stars:** ⭐️ 788
 - **Tags:** `claude` `google-search-console` `mcp-server` `seo`
 - **最后活动时间:** 2026-04-30
 
@@ -5792,7 +5792,7 @@ Claude Code插件，提供自主AI文案撰写功能，自动化营销内容生�
 
 基于 Rust 和 TypeScript 构建的现代化 OCR 平台，提供直观界面和 API，支持快速文档识别与文字提取。
 
-- **Stars:** ⭐️ 730
+- **Stars:** ⭐️ 731
 - **Tags:** `OCR` `Rust` `Document Processing`
 - **最后活动时间:** 2026-05-05
 
@@ -5800,7 +5800,7 @@ Claude Code插件，提供自主AI文案撰写功能，自动化营销内容生�
 
 基于大语言模型的B站视频广告检测插件，智能识别并一键跳过植入广告。
 
-- **Stars:** ⭐️ 730
+- **Stars:** ⭐️ 731
 - **Tags:** `ad-detection` `bilibili` `llm` `chrome-extension`
 - **最后活动时间:** 2026-05-02
 
@@ -5816,7 +5816,7 @@ Claude Code插件，提供自主AI文案撰写功能，自动化营销内容生�
 
 基于大语言模型的EPUB电子书翻译工具，支持原文与译文左右对照显示，生成适合语言学习的双语书籍。
 
-- **Stars:** ⭐️ 724
+- **Stars:** ⭐️ 725
 - **Tags:** `ai` `epub` `translation` `llm`
 - **最后活动时间:** 2026-04-30
 
@@ -5826,7 +5826,7 @@ AI驱动的轻量级RSS阅读器，支持GitHub Pages、Vercel、Docker等多种
 
 - **Stars:** ⭐️ 722
 - **Tags:** `RSS阅读器` `AI` `自托管`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-05
 
 ### [life-system](https://github.com/davidhariri/life-system)
 
@@ -5836,22 +5836,6 @@ AI驱动的轻量级RSS阅读器，支持GitHub Pages、Vercel、Docker等多种
 - **Tags:** `life-management` `productivity` `claude-code`
 - **最后活动时间:** 2026-02-18
 
-### [openless](https://github.com/appergb/openless)
-
-开源语音输入工具，按住说话松开即得AI润色后的文字，支持macOS和Windows系统。
-
-- **Stars:** ⭐️ 719
-- **Tags:** `voice-input` `speech-to-text` `llm` `productivity` `rust` `tauri`
-- **最后活动时间:** 2026-05-04
-
-### [ultimateALPR-SDK](https://github.com/DoubangoTelecom/ultimateALPR-SDK)
-
-高性能车牌识别SDK，支持多平台和多字符集，适用于边缘设备和云端部署。
-
-- **Stars:** ⭐️ 718
-- **Tags:** `alpr` `license-plate-recognition` `deep-learning` `computer-vision`
-- **最后活动时间:** 2025-11-05
-
 ### [powerbi-modeling-mcp](https://github.com/microsoft/powerbi-modeling-mcp)
 
 Power BI建模MCP服务器，让AI代理能够进行数据建模和商业智能分析。
@@ -5860,21 +5844,29 @@ Power BI建模MCP服务器，让AI代理能够进行数据建模和商业智能�
 - **Tags:** `mcp` `powerbi` `data-modeling`
 - **最后活动时间:** 2026-04-22
 
+### [ClaudeSync](https://github.com/jahwag/ClaudeSync)
+
+Python自动化工具，实现本地文件与Claude.ai项目之间的双向同步，提升Claude工作流效率。
+
+- **Stars:** ⭐️ 717
+- **Tags:** `claude` `productivity` `sync` `python`
+- **最后活动时间:** 2026-03-08
+
 ### [iris](https://github.com/SciTools/iris)
 
 强大的Python包，用于分析和可视化地球科学数据，支持气象学和海洋学研究。
 
 - **Stars:** ⭐️ 716
 - **Tags:** `data-analysis` `earth-science` `meteorology` `visualization`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-05
 
-### [ClaudeSync](https://github.com/jahwag/ClaudeSync)
+### [intlayer](https://github.com/aymericzip/intlayer)
 
-Python自动化工具，实现本地文件与Claude.ai项目之间的双向同步，提升Claude工作流效率。
+面向JS应用的组件级国际化解决方案，支持AI翻译和可视化编辑，类型安全。
 
-- **Stars:** ⭐️ 715
-- **Tags:** `claude` `productivity` `sync` `python`
-- **最后活动时间:** 2026-03-08
+- **Stars:** ⭐️ 712
+- **Tags:** `i18n` `internationalization` `ai-translation` `typescript`
+- **最后活动时间:** 2026-05-05
 
 ### [stenoai](https://github.com/ruzin/stenoai)
 
@@ -5884,14 +5876,6 @@ Python自动化工具，实现本地文件与Claude.ai项目之间的双向同�
 - **Tags:** `Meeting Notes` `Privacy` `Local LLM`
 - **最后活动时间:** 2026-05-01
 
-### [intlayer](https://github.com/aymericzip/intlayer)
-
-面向JS应用的组件级国际化解决方案，支持AI翻译和可视化编辑，类型安全。
-
-- **Stars:** ⭐️ 711
-- **Tags:** `i18n` `internationalization` `ai-translation` `typescript`
-- **最后活动时间:** 2026-05-05
-
 ### [second-brain-skills](https://github.com/coleam00/second-brain-skills)
 
 将Claude Code转变为第二大脑的技能集合，帮助用户更高效地管理和组织个人知识。
@@ -5899,14 +5883,6 @@ Python自动化工具，实现本地文件与Claude.ai项目之间的双向同�
 - **Stars:** ⭐️ 711
 - **Tags:** `claude` `second-brain` `productivity` `knowledge-management`
 - **最后活动时间:** 2026-01-24
-
-### [MedgeClaw](https://github.com/xjtulyc/MedgeClaw)
-
-开源生物医学 AI 研究助手，集成 140 个科学技能，支持 RNA-seq、药物发现等研究流程。
-
-- **Stars:** ⭐️ 705
-- **Tags:** `biomedical` `ai-research` `claude-code` `drug-discovery`
-- **最后活动时间:** 2026-03-12
 
 ### [omni](https://github.com/getomnico/omni)
 
@@ -5968,7 +5944,7 @@ WordPress AI插件，利用计算机视觉和NLP技术实现内容自动分类�
 
 Nextcloud 智能媒体标签插件，支持人脸识别、物体识别和音乐流派分类。
 
-- **Stars:** ⭐️ 676
+- **Stars:** ⭐️ 677
 - **Tags:** `face-recognition` `object-recognition` `nextcloud` `media-tagging`
 - **最后活动时间:** 2026-04-25
 
@@ -5980,21 +5956,37 @@ Nextcloud 智能媒体标签插件，支持人脸识别、物体识别和音乐�
 - **Tags:** `chrome-extension` `llm` `memory` `chatgpt` `claude`
 - **最后活动时间:** 2026-03-23
 
+### [obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain)
+
+Claude Code驱动的Obsidian知识管理技能，将笔记库转化为AI优先的第二大脑，支持31种命令和定时智能体。
+
+- **Stars:** ⭐️ 670
+- **Tags:** `ai-agent` `claude` `obsidian` `knowledge-management` `second-brain`
+- **最后活动时间:** 2026-05-03
+
+### [translate-book](https://github.com/deusyu/translate-book)
+
+基于 Claude Code 的书籍翻译工具，支持 PDF/DOCX/EPUB 格式，使用并行子代理实现高效的多语言翻译。
+
+- **Stars:** ⭐️ 667
+- **Tags:** `claude` `translation` `pdf` `epub`
+- **最后活动时间:** 2026-04-28
+
+### [ppt-agent-skills](https://github.com/sunbigfly/ppt-agent-skills)
+
+一个基于多智能体的演示文稿生成框架，采用代码驱动方式像构建软件工程一样生成PPT。支持HTML到PPTX转换，实现智能化的幻灯片自动生成。
+
+- **Stars:** ⭐️ 666
+- **Tags:** `ai-agents` `multi-agent` `presentation-generator` `slide-generator`
+- **最后活动时间:** 2026-04-09
+
 ### [xyne](https://github.com/xynehq/xyne)
 
 AI驱动的企业级搜索引擎，支持RAG技术，是Glean的开源替代方案。帮助团队快速检索和整合工作知识。
 
 - **Stars:** ⭐️ 665
 - **Tags:** `Enterprise Search` `RAG` `Open Source`
-- **最后活动时间:** 2026-05-04
-
-### [translate-book](https://github.com/deusyu/translate-book)
-
-基于 Claude Code 的书籍翻译工具，支持 PDF/DOCX/EPUB 格式，使用并行子代理实现高效的多语言翻译。
-
-- **Stars:** ⭐️ 663
-- **Tags:** `claude` `translation` `pdf` `epub`
-- **最后活动时间:** 2026-04-28
+- **最后活动时间:** 2026-05-05
 
 ### [RSSBox](https://github.com/versun/RSSBox)
 
@@ -6004,29 +5996,21 @@ AI驱动的企业级搜索引擎，支持RAG技术，是Glean的开源替代方�
 - **Tags:** `rss` `ai` `summary` `translate` `django`
 - **最后活动时间:** 2026-04-13
 
-### [ppt-agent-skills](https://github.com/sunbigfly/ppt-agent-skills)
+### [slides-grab](https://github.com/NomaDamas/slides-grab)
 
-一个基于多智能体的演示文稿生成框架，采用代码驱动方式像构建软件工程一样生成PPT。支持HTML到PPTX转换，实现智能化的幻灯片自动生成。
+专为 Claude Code 和 Codex 设计的幻灯片生成工具，集成编辑器和代码检查功能。
 
-- **Stars:** ⭐️ 662
-- **Tags:** `ai-agents` `multi-agent` `presentation-generator` `slide-generator`
-- **最后活动时间:** 2026-04-09
+- **Stars:** ⭐️ 661
+- **Tags:** `slides` `ppt` `presentation` `ai-generation`
+- **最后活动时间:** 2026-05-01
 
 ### [dailypaper-skills](https://github.com/huangkiki/dailypaper-skills)
 
 基于Claude Code Skills打造的学术论文处理流水线，帮助研究者高效管理和处理学术文献。
 
-- **Stars:** ⭐️ 659
+- **Stars:** ⭐️ 660
 - **Tags:** `claude-code` `paper-pipeline` `productivity` `academic`
 - **最后活动时间:** 2026-03-20
-
-### [slides-grab](https://github.com/NomaDamas/slides-grab)
-
-专为 Claude Code 和 Codex 设计的幻灯片生成工具，集成编辑器和代码检查功能。
-
-- **Stars:** ⭐️ 659
-- **Tags:** `slides` `ppt` `presentation` `ai-generation`
-- **最后活动时间:** 2026-05-01
 
 ### [deep-license-plate-recognition](https://github.com/parkpow/deep-license-plate-recognition)
 
@@ -6044,6 +6028,14 @@ AI驱动的企业级搜索引擎，支持RAG技术，是Glean的开源替代方�
 - **Tags:** `llm` `public-opinion` `sentiment-analysis` `data-analysis`
 - **最后活动时间:** 2026-04-07
 
+### [sciwrite](https://github.com/labarba/sciwrite)
+
+基于《Writing in the Sciences》方法论的AI辅助学术论文写作审查Agent技能。
+
+- **Stars:** ⭐️ 650
+- **Tags:** `academic-writing` `ai-agent` `scientific-writing` `productivity`
+- **最后活动时间:** 2026-04-05
+
 ### [medspacy](https://github.com/medspacy/medspacy)
 
 基于spaCy的临床文本NLP处理库，专为医疗健康领域优化。
@@ -6060,13 +6052,13 @@ AI驱动的企业级搜索引擎，支持RAG技术，是Glean的开源替代方�
 - **Tags:** `mcp` `jira` `confluence` `productivity` `integration`
 - **最后活动时间:** 2026-04-14
 
-### [sciwrite](https://github.com/labarba/sciwrite)
+### [MedgeClaw](https://github.com/xjtulyc/MedgeClaw)
 
-基于《Writing in the Sciences》方法论的AI辅助学术论文写作审查Agent技能。
+开源生物医学 AI 研究助手，集成 140 个科学技能，支持 RNA-seq、药物发现等研究流程。
 
-- **Stars:** ⭐️ 647
-- **Tags:** `academic-writing` `ai-agent` `scientific-writing` `productivity`
-- **最后活动时间:** 2026-04-05
+- **Stars:** ⭐️ 642
+- **Tags:** `biomedical` `ai-research` `claude-code` `drug-discovery`
+- **最后活动时间:** 2026-03-12
 
 ### [mLLMCelltype](https://github.com/cafferychen777/mLLMCelltype)
 
@@ -6084,6 +6076,22 @@ AI驱动的企业级搜索引擎，支持RAG技术，是Glean的开源替代方�
 - **Tags:** `ocr` `paddleocr` `subtitle` `video-processing`
 - **最后活动时间:** 2025-12-30
 
+### [k-dense-byok](https://github.com/K-Dense-AI/k-dense-byok)
+
+基于 Claude Scientific Skills 的 AI 科研助手，支持桌面端运行。
+
+- **Stars:** ⭐️ 631
+- **Tags:** `ai-scientist` `claude-skills` `desktop-app`
+- **最后活动时间:** 2026-05-05
+
+### [lap](https://github.com/julyx10/lap)
+
+离线优先的照片管理器，支持大型本地图库。内置人脸识别和图像搜索等AI功能，注重隐私保护。
+
+- **Stars:** ⭐️ 631
+- **Tags:** `face-recognition` `image-search` `photo-management` `offline-first`
+- **最后活动时间:** 2026-05-03
+
 ### [shots-studio](https://github.com/AnsahMohammad/shots-studio)
 
 一款AI驱动的Android截图管理应用，支持智能截图分类、搜索和整理功能。
@@ -6092,21 +6100,13 @@ AI驱动的企业级搜索引擎，支持RAG技术，是Glean的开源替代方�
 - **Tags:** `ai` `screenshot` `android` `flutter`
 - **最后活动时间:** 2026-04-14
 
-### [k-dense-byok](https://github.com/K-Dense-AI/k-dense-byok)
-
-基于 Claude Scientific Skills 的 AI 科研助手，支持桌面端运行。
-
-- **Stars:** ⭐️ 629
-- **Tags:** `ai-scientist` `claude-skills` `desktop-app`
-- **最后活动时间:** 2026-05-01
-
 ### [PyVRP](https://github.com/PyVRP/PyVRP)
 
 开源的车辆路径问题求解器，提供最先进的优化算法，支持路径规划和物流优化场景。
 
 - **Stars:** ⭐️ 627
 - **Tags:** `optimization` `vehicle-routing` `solver` `operations-research`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-05
 
 ### [d1-manager](https://github.com/JacobLinCool/d1-manager)
 
@@ -6123,14 +6123,6 @@ VS Code音乐扩展，利用AI分析编程生产力并推荐最佳编码背景�
 - **Stars:** ⭐️ 626
 - **Tags:** `ai-playlists` `music` `productivity` `vscode-extension`
 - **最后活动时间:** 2026-04-15
-
-### [lap](https://github.com/julyx10/lap)
-
-离线优先的照片管理器，支持大型本地图库。内置人脸识别和图像搜索等AI功能，注重隐私保护。
-
-- **Stars:** ⭐️ 622
-- **Tags:** `face-recognition` `image-search` `photo-management` `offline-first`
-- **最后活动时间:** 2026-05-03
 
 ### [slides-grab](https://github.com/vkehfdl1/slides-grab)
 
@@ -6160,9 +6152,17 @@ VS Code音乐扩展，利用AI分析编程生产力并推荐最佳编码背景�
 
 通过游戏和视觉媒体学习语言的沉浸式工具包，集成OCR和AI翻译功能，帮助用户在娱乐中高效学习外语。
 
-- **Stars:** ⭐️ 609
+- **Stars:** ⭐️ 611
 - **Tags:** `language-learning` `ocr` `translation` `immersion`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-05
+
+### [matcha](https://github.com/floatpane/matcha)
+
+一款基于AI智能体的终端邮件客户端，支持自主代理功能，让你无需离开命令行即可管理收件箱和发送邮件。
+
+- **Stars:** ⭐️ 605
+- **Tags:** `ai` `autonomous-agents` `email-client` `terminal` `tui`
+- **最后活动时间:** 2026-05-05
 
 ### [CityLearn](https://github.com/citylearn-project/CityLearn)
 
@@ -6172,6 +6172,14 @@ VS Code音乐扩展，利用AI分析编程生产力并推荐最佳编码背景�
 - **Tags:** `reinforcement-learning` `smart-grid` `demand-response`
 - **最后活动时间:** 2026-04-08
 
+### [ophel](https://github.com/urzeye/ophel)
+
+将AI对话转化为可组织、可复用的工作流，支持ChatGPT、Claude、Gemini等主流AI平台。
+
+- **Stars:** ⭐️ 599
+- **Tags:** `ai-workflow` `browser-extension` `chatgpt` `claude` `gemini` `prompt-management`
+- **最后活动时间:** 2026-05-05
+
 ### [nextcrm-app](https://github.com/pdovhomilja/nextcrm-app)
 
 开源 CRM 系统，集成 AI 功能，支持项目管理、发票、文档和邮件客户端。
@@ -6179,14 +6187,6 @@ VS Code音乐扩展，利用AI分析编程生产力并推荐最佳编码背景�
 - **Stars:** ⭐️ 596
 - **Tags:** `crm` `nextjs` `open-source` `ai` `productivity`
 - **最后活动时间:** 2026-05-05
-
-### [ophel](https://github.com/urzeye/ophel)
-
-将AI对话转化为可组织、可复用的工作流，支持ChatGPT、Claude、Gemini等主流AI平台。
-
-- **Stars:** ⭐️ 594
-- **Tags:** `ai-workflow` `browser-extension` `chatgpt` `claude` `gemini` `prompt-management`
-- **最后活动时间:** 2026-05-04
 
 ### [GPTZero](https://github.com/BurhanUlTayyab/GPTZero)
 
@@ -6248,7 +6248,7 @@ Obsidian插件，支持从图片和PDF中提取文本，便于知识管理和检
 
 Markdown排版助手，一键适配微信公众号、网页与图片，支持MCP协议集成。
 
-- **Stars:** ⭐️ 574
+- **Stars:** ⭐️ 573
 - **Tags:** `markdown` `mcp` `productivity` `wechat`
 - **最后活动时间:** 2026-04-29
 
@@ -6260,6 +6260,14 @@ AI驱动的SRE平台，可自动进行事件调查和根因分析，帮助团队
 - **Tags:** `ai-ops` `ai-sre` `incident-management` `observability`
 - **最后活动时间:** 2026-03-03
 
+### [ChattyPlay-Agent](https://github.com/P1kaj1uu/ChattyPlay-Agent)
+
+一站式智能工具集，集成ChatGPT对话、AI绘画、MCP服务和Agent功能，支持多平台视频解析、论文爬取和AI思维导图等效率工具。
+
+- **Stars:** ⭐️ 569
+- **Tags:** `agent` `chatgpt` `ai-drawing` `mcp` `aigc` `typescript`
+- **最后活动时间:** 2026-04-30
+
 ### [hi-kid](https://github.com/xiaochong/hi-kid)
 
 面向非英语国家儿童的AI英语学习桌面应用，支持离线AI语音对话练习听说能力。
@@ -6267,6 +6275,14 @@ AI驱动的SRE平台，可自动进行事件调查和根因分析，帮助团队
 - **Stars:** ⭐️ 568
 - **Tags:** `ai` `english-learning` `local-ai` `voice-chat` `kids-education`
 - **最后活动时间:** 2026-04-24
+
+### [AntiCAP](https://github.com/81NewArk/AntiCAP)
+
+验证码识别工具，支持点选、滑块、算术、旋转等多种验证码类型的OCR识别。
+
+- **Stars:** ⭐️ 564
+- **Tags:** `ocr` `captcha` `recognition` `automation`
+- **最后活动时间:** 2026-01-20
 
 ### [PaperMemory](https://github.com/vict0rsch/PaperMemory)
 
@@ -6276,29 +6292,13 @@ AI驱动的SRE平台，可自动进行事件调查和根因分析，帮助团队
 - **Tags:** `arxiv` `reference-manager` `chrome-extension` `productivity` `research`
 - **最后活动时间:** 2026-04-29
 
-### [ChattyPlay-Agent](https://github.com/P1kaj1uu/ChattyPlay-Agent)
-
-一站式智能工具集，集成ChatGPT对话、AI绘画、MCP服务和Agent功能，支持多平台视频解析、论文爬取和AI思维导图等效率工具。
-
-- **Stars:** ⭐️ 561
-- **Tags:** `agent` `chatgpt` `ai-drawing` `mcp` `aigc` `typescript`
-- **最后活动时间:** 2026-04-30
-
-### [AntiCAP](https://github.com/81NewArk/AntiCAP)
-
-验证码识别工具，支持点选、滑块、算术、旋转等多种验证码类型的OCR识别。
-
-- **Stars:** ⭐️ 560
-- **Tags:** `ocr` `captcha` `recognition` `automation`
-- **最后活动时间:** 2026-01-20
-
 ### [monoscope](https://github.com/monoscope-tech/monoscope)
 
 开源可观测性平台，支持日志、追踪和指标的采集与存储，通过LLM实现自然语言查询功能。
 
-- **Stars:** ⭐️ 560
+- **Stars:** ⭐️ 563
 - **Tags:** `observability` `llm` `monitoring` `opentelemetry`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-05
 
 ### [bioSkills](https://github.com/GPTomics/bioSkills)
 
@@ -6308,6 +6308,22 @@ AI驱动的SRE平台，可自动进行事件调查和根因分析，帮助团队
 - **Tags:** `bioinformatics` `claude-code` `ai-skills` `computational-biology`
 - **最后活动时间:** 2026-04-07
 
+### [vulnrepo](https://github.com/kac89/vulnrepo)
+
+端到端加密的漏洞报告生成器，支持本地AI/LLM辅助，集成多种安全工具导入导出功能。
+
+- **Stars:** ⭐️ 552
+- **Tags:** `security` `vulnerability` `pentest` `local-ai` `ollama`
+- **最后活动时间:** 2026-05-04
+
+### [jobsync](https://github.com/Gsync/jobsync)
+
+自托管的开源求职追踪器，集成AI简历审核、职位匹配和应用分析功能，帮助求职者高效管理求职过程。
+
+- **Stars:** ⭐️ 552
+- **Tags:** `ai` `job-search` `resume-analyzer` `nextjs` `ollama`
+- **最后活动时间:** 2026-05-05
+
 ### [github-profile-analyzer](https://github.com/0xarchit/github-profile-analyzer)
 
 AI驱动的GitHub个人资料分析工具，基于用户仓库贡献提供智能评价和洞察。
@@ -6315,22 +6331,6 @@ AI驱动的GitHub个人资料分析工具，基于用户仓库贡献提供智能
 - **Stars:** ⭐️ 552
 - **Tags:** `github` `ai` `profile-analyzer` `productivity`
 - **最后活动时间:** 2026-04-18
-
-### [vulnrepo](https://github.com/kac89/vulnrepo)
-
-端到端加密的漏洞报告生成器，支持本地AI/LLM辅助，集成多种安全工具导入导出功能。
-
-- **Stars:** ⭐️ 551
-- **Tags:** `security` `vulnerability` `pentest` `local-ai` `ollama`
-- **最后活动时间:** 2026-04-19
-
-### [jobsync](https://github.com/Gsync/jobsync)
-
-自托管的开源求职追踪器，集成AI简历审核、职位匹配和应用分析功能，帮助求职者高效管理求职过程。
-
-- **Stars:** ⭐️ 551
-- **Tags:** `ai` `job-search` `resume-analyzer` `nextjs` `ollama`
-- **最后活动时间:** 2026-05-02
 
 ### [openchatbi](https://github.com/zhongyu09/openchatbi)
 
@@ -6352,9 +6352,17 @@ AI驱动的GitHub个人资料分析工具，基于用户仓库贡献提供智能
 
 基于TFLite和OpenCV的Android文档扫描应用，支持智能分割和PDF生成，注重隐私保护。
 
-- **Stars:** ⭐️ 547
+- **Stars:** ⭐️ 548
 - **Tags:** `document-scanner` `tflite` `opencv` `segmentation` `android`
 - **最后活动时间:** 2026-05-03
+
+### [hackerai](https://github.com/hackerai-tech/hackerai)
+
+AI驱动的渗透测试助手，帮助安全研究人员自动化安全测试流程。支持智能漏洞分析和渗透测试建议。
+
+- **Stars:** ⭐️ 545
+- **Tags:** `ai-agents` `ai-tools` `penetration-testing` `security`
+- **最后活动时间:** 2026-05-06
 
 ### [ai-web-extensions](https://github.com/adamlui/ai-web-extensions)
 
@@ -6372,19 +6380,11 @@ AI浏览器扩展和用户脚本合集，通过ChatGPT等模型增强网页浏�
 - **Tags:** `academic-writing` `llm` `paper-generation` `latex`
 - **最后活动时间:** 2026-04-03
 
-### [hackerai](https://github.com/hackerai-tech/hackerai)
-
-AI驱动的渗透测试助手，帮助安全研究人员自动化安全测试流程。支持智能漏洞分析和渗透测试建议。
-
-- **Stars:** ⭐️ 541
-- **Tags:** `ai-agents` `ai-tools` `penetration-testing` `security`
-- **最后活动时间:** 2026-05-05
-
 ### [Raycast-Easydict](https://github.com/tisfeng/Raycast-Easydict)
 
 Raycast词典翻译扩展，支持48+语言，集成OpenAI、DeepL、Google、百度等AI翻译服务。
 
-- **Stars:** ⭐️ 539
+- **Stars:** ⭐️ 538
 - **Tags:** `raycast` `translation` `dictionary` `openai` `deepl` `productivity`
 - **最后活动时间:** 2026-04-11
 
@@ -6392,9 +6392,9 @@ Raycast词典翻译扩展，支持48+语言，集成OpenAI、DeepL、Google、�
 
 跨元素、温度和压力的深度学习原子模型，用于材料科学领域的AI研究。
 
-- **Stars:** ⭐️ 537
+- **Stars:** ⭐️ 538
 - **Tags:** `ai4science` `materials-science` `foundation-models` `machine-learning-force-field`
-- **最后活动时间:** 2026-05-01
+- **最后活动时间:** 2026-05-05
 
 ### [timefold-quickstarts](https://github.com/TimefoldAI/timefold-quickstarts)
 
@@ -6408,7 +6408,7 @@ Timefold快速入门项目，解决车辆路径规划、员工排班、任务分
 
 本地优先的AI写作助手，支持macOS和Windows，集成Ollama和WebLLM实现离线AI能力。
 
-- **Stars:** ⭐️ 532
+- **Stars:** ⭐️ 533
 - **Tags:** `ai-writing` `local-ai` `ollama` `webllm` `markdown`
 - **最后活动时间:** 2026-04-22
 
@@ -6472,17 +6472,17 @@ AI驱动的CMS核心系统，为个人博客和创作者网站提供AI摘要、�
 
 实时游戏翻译工具，结合OCR识别与AI翻译技术，支持Windows平台游戏内实时翻译。
 
-- **Stars:** ⭐️ 514
+- **Stars:** ⭐️ 515
 - **Tags:** `ocr` `game-translation` `ai-translation` `real-time`
 - **最后活动时间:** 2026-04-25
 
-### [obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain)
+### [pagible](https://github.com/aimeos/pagible)
 
-Claude Code驱动的Obsidian知识管理技能，将笔记库转化为AI优先的第二大脑，支持31种命令和定时智能体。
+基于AI驱动的云原生Laravel CMS，支持JSON:API和GraphQL API，提供多租户、模板和主题功能。
 
-- **Stars:** ⭐️ 510
-- **Tags:** `ai-agent` `claude` `obsidian` `knowledge-management` `second-brain`
-- **最后活动时间:** 2026-05-03
+- **Stars:** ⭐️ 513
+- **Tags:** `ai` `cms` `laravel` `headless-cms` `graphql`
+- **最后活动时间:** 2026-05-05
 
 ### [ResidualMaskingNetwork](https://github.com/phamquiluan/ResidualMaskingNetwork)
 
@@ -6491,14 +6491,6 @@ ICPR 2020 论文实现，使用残差掩码网络进行面部表情识别。
 - **Stars:** ⭐️ 509
 - **Tags:** `facial-expression-recognition` `emotion-detection` `pytorch` `computer-vision`
 - **最后活动时间:** 2025-11-23
-
-### [pagible](https://github.com/aimeos/pagible)
-
-基于AI驱动的云原生Laravel CMS，支持JSON:API和GraphQL API，提供多租户、模板和主题功能。
-
-- **Stars:** ⭐️ 509
-- **Tags:** `ai` `cms` `laravel` `headless-cms` `graphql`
-- **最后活动时间:** 2026-05-03
 
 ### [WordDumb](https://github.com/xxyzz/WordDumb)
 
@@ -6610,7 +6602,7 @@ Claude Code驱动的Obsidian知识管理技能，将笔记库转化为AI优先�
 
 专注于组合优化问题的强化学习PyTorch库，覆盖TSP、车辆路径规划等经典问题，集成多种先进算法。
 
-- **Stars:** ⭐️ 867
+- **Stars:** ⭐️ 868
 - **Tags:** `reinforcement-learning` `combinatorial-optimization` `pytorch` `operations-research`
 - **最后活动时间:** 2026-01-22
 
@@ -6628,7 +6620,7 @@ AlphaFold 3的PyTorch实现，用于生物分子相互作用的高精度结构�
 
 - **Stars:** ⭐️ 801
 - **Tags:** `deep-learning` `protein-structure` `generative-model` `biotechnology`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-05
 
 ### [REINVENT4](https://github.com/MolecularAI/REINVENT4)
 
@@ -6654,27 +6646,27 @@ AlphaFold 3的PyTorch实现，用于生物分子相互作用的高精度结构�
 - **Tags:** `molecular-dynamics` `pytorch` `neural-networks` `computational-chemistry`
 - **最后活动时间:** 2026-04-21
 
-### [Finding-missing-person-using-AI](https://github.com/gaganmanku96/Finding-missing-person-using-AI)
-
-基于人脸识别和图像处理技术的失踪人员追踪系统，结合机器学习与PostgreSQL数据库实现智能匹配。
-
-- **Stars:** ⭐️ 585
-- **Tags:** `face-recognition` `image-processing` `machine-learning` `missing-person`
-- **最后活动时间:** 2026-03-13
-
 ### [Intrusion-Detection-System-Using-Machine-Learning](https://github.com/Western-OC2-Lab/Intrusion-Detection-System-Using-Machine-Learning)
 
 基于机器学习的入侵检测系统，集成多种算法（XGBoost、随机森林、集成学习等）进行网络安全威胁检测。
 
-- **Stars:** ⭐️ 584
+- **Stars:** ⭐️ 585
 - **Tags:** `intrusion-detection` `machine-learning` `cybersecurity` `xgboost` `ensemble-learning`
 - **最后活动时间:** 2026-04-01
+
+### [Finding-missing-person-using-AI](https://github.com/gaganmanku96/Finding-missing-person-using-AI)
+
+基于人脸识别和图像处理技术的失踪人员追踪系统，结合机器学习与PostgreSQL数据库实现智能匹配。
+
+- **Stars:** ⭐️ 584
+- **Tags:** `face-recognition` `image-processing` `machine-learning` `missing-person`
+- **最后活动时间:** 2026-03-13
 
 ### [state](https://github.com/ArcInstitute/state)
 
 机器学习模型，用于预测不同环境下的细胞扰动响应，应用于生物医学研究。
 
-- **Stars:** ⭐️ 567
+- **Stars:** ⭐️ 568
 - **Tags:** `machine-learning` `biology` `perturbation-prediction` `computational-biology`
 - **最后活动时间:** 2026-05-04
 
@@ -6684,5 +6676,5 @@ AlphaFold 3的PyTorch实现，用于生物分子相互作用的高精度结构�
 
 - **Stars:** ⭐️ 526
 - **Tags:** `deep-learning` `computational-pathology` `medical-image-analysis` `histopathology`
-- **最后活动时间:** 2026-05-01
+- **最后活动时间:** 2026-05-04
 
