@@ -2,7 +2,7 @@
 
 > AI tools directly integrated with desktop OS or local environments.
 
-> 当前分类已收录 **277** 个相关项目。
+> 当前分类已收录 **279** 个相关项目。
 
 ## Browser Automations
 
@@ -10,9 +10,9 @@
 
 AI与人类协同浏览网页的浏览器，让AI和人类作为一个整体实体共同浏览和操作网络。
 
-- **Stars:** ⭐️ 542
+- **Stars:** ⭐️ 546
 - **Tags:** `ai` `browser` `human-ai-collaboration` `electron`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-06
 
 ## Local GUI Apps
 
@@ -20,15 +20,15 @@ AI与人类协同浏览网页的浏览器，让AI和人类作为一个整体实�
 
 跨平台个人AI助手，支持任意操作系统。注重数据隐私，让用户完全掌控自己的数据。
 
-- **Stars:** ⭐️ 368.6k
+- **Stars:** ⭐️ 369.0k
 - **Tags:** `AI助手` `跨平台` `隐私保护`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-06
 
 ### [cc-switch](https://github.com/farion1231/cc-switch)
 
 跨平台桌面应用，统一管理 Claude Code、Codex、Gemini CLI 等多种 AI 编程助手，支持 MCP 协议和技能管理。
 
-- **Stars:** ⭐️ 59.8k
+- **Stars:** ⭐️ 61.2k
 - **Tags:** `AI编程助手` `MCP` `跨平台` `桌面应用`
 - **最后活动时间:** 2026-05-02
 
@@ -38,7 +38,7 @@ AI与人类协同浏览网页的浏览器，让AI和人类作为一个整体实�
 
 - **Stars:** ⭐️ 59.6k
 - **Tags:** `LLM` `RAG` `本地部署` `向量数据库`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-06
 
 ### [textgen](https://github.com/oobabooga/textgen)
 
@@ -46,15 +46,15 @@ AI与人类协同浏览网页的浏览器，让AI和人类作为一个整体实�
 
 - **Stars:** ⭐️ 46.9k
 - **Tags:** `llm` `local-llm` `text-generation` `offline` `gui`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-06
 
 ### [siyuan](https://github.com/siyuan-note/siyuan)
 
 隐私优先的个人知识管理软件，支持AI智能问答与OCR识别。完全开源自托管，集成多种AI能力。
 
-- **Stars:** ⭐️ 43.6k
+- **Stars:** ⭐️ 43.7k
 - **Tags:** `知识管理` `AI笔记` `本地优先`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-06
 
 ### [Jan](https://github.com/janhq/jan)
 
@@ -62,23 +62,23 @@ AI与人类协同浏览网页的浏览器，让AI和人类作为一个整体实�
 
 - **Stars:** ⭐️ 42.4k
 - **Tags:** `LLM` `ChatGPT` `Offline` `Privacy`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-06
 
 ### [ShareX](https://github.com/ShareX/ShareX)
 
 功能强大的开源截图录屏工具，内置OCR文字识别功能，支持多种上传目标。
 
-- **Stars:** ⭐️ 37.2k
+- **Stars:** ⭐️ 37.3k
 - **Tags:** `screen-capture` `ocr` `screenshot` `productivity`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-06
 
 ### [gallery](https://github.com/google-ai-edge/gallery)
 
 展示设备端ML/GenAI用例的画廊应用，支持用户在本地尝试和使用各种AI模型。
 
-- **Stars:** ⭐️ 22.6k
+- **Stars:** ⭐️ 22.7k
 - **Tags:** `On-device ML` `GenAI` `Local Models`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-06
 
 ### [pot-desktop](https://github.com/pot-app/pot-desktop)
 
@@ -116,9 +116,9 @@ Windows 10/11通用窗口超分辨率放大工具，支持Anime4K、FSR等多种
 
 原神游戏自动化工具，集成AI自动钓鱼、自动任务、自动采集等功能，支持全自动游戏体验。
 
-- **Stars:** ⭐️ 13.4k
+- **Stars:** ⭐️ 13.5k
 - **Tags:** `game-automation` `ai-fishing` `genshin-impact` `desktop-automation`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-05
 
 ### [Easydict](https://github.com/tisfeng/Easydict)
 
@@ -126,7 +126,7 @@ Windows 10/11通用窗口超分辨率放大工具，支持Anime4K、FSR等多种
 
 - **Stars:** ⭐️ 13.1k
 - **Tags:** `OCR` `翻译` `macOS`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-06
 
 ### [note-gen](https://github.com/codexu/note-gen)
 
@@ -190,7 +190,7 @@ Ubuntu 官方虚拟机编排工具，快速创建和管理 Ubuntu 实例。
 
 - **Stars:** ⭐️ 9.1k
 - **Tags:** `virtual-machine` `ubuntu` `container`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-06
 
 ### [SimpMusic](https://github.com/maxrave-dev/SimpMusic)
 
@@ -198,7 +198,7 @@ Ubuntu 官方虚拟机编排工具，快速创建和管理 Ubuntu 实例。
 
 - **Stars:** ⭐️ 9.0k
 - **Tags:** `music` `youtube-music` `cross-platform`
-- **最后活动时间:** 2026-05-03
+- **最后活动时间:** 2026-05-06
 
 ### [Sparkle](https://github.com/sparkle-project/Sparkle)
 
@@ -246,7 +246,7 @@ macOS 轻量级纯文本编辑器，支持语法高亮和编码转换。
 
 - **Stars:** ⭐️ 8.0k
 - **Tags:** `text-editor` `macos` `swift`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-06
 
 ### [MochiDiffusion](https://github.com/MochiDiffusion/MochiDiffusion)
 
@@ -276,9 +276,9 @@ AI浏览器，便捷运行和管理各类AI模型与应用。
 
 OpenClaw AI智能体的桌面图形界面应用，将命令行AI编排转换为桌面体验，无需终端操作。
 
-- **Stars:** ⭐️ 7.0k
+- **Stars:** ⭐️ 7.1k
 - **Tags:** `AI Agents` `Desktop App` `GUI`
-- **最后活动时间:** 2026-05-03
+- **最后活动时间:** 2026-05-06
 
 ### [STranslate](https://github.com/STranslate/STranslate)
 
@@ -304,6 +304,14 @@ OpenClaw AI智能体的桌面图形界面应用，将命令行AI编排转换为�
 - **Tags:** `LLM` `Playground` `Local`
 - **最后活动时间:** 2026-02-06
 
+### [llm_wiki](https://github.com/nashsu/llm_wiki)
+
+跨平台桌面应用，利用LLM将文档自动转化为有序互联的知识库，采用增量构建方式替代传统RAG方案。
+
+- **Stars:** ⭐️ 6.1k
+- **Tags:** `llm` `knowledge-base` `desktop-app` `rag`
+- **最后活动时间:** 2026-05-06
+
 ### [Everywhere](https://github.com/DearVa/Everywhere)
 
 桌面端上下文感知 AI 助手，集成多种 LLM 和 MCP 工具，提供智能响应体验。
@@ -312,21 +320,13 @@ OpenClaw AI智能体的桌面图形界面应用，将命令行AI编排转换为�
 - **Tags:** `AI助手` `MCP` `桌面应用`
 - **最后活动时间:** 2026-05-05
 
-### [llm_wiki](https://github.com/nashsu/llm_wiki)
-
-跨平台桌面应用，利用LLM将文档自动转化为有序互联的知识库，采用增量构建方式替代传统RAG方案。
-
-- **Stars:** ⭐️ 5.8k
-- **Tags:** `llm` `knowledge-base` `desktop-app` `rag`
-- **最后活动时间:** 2026-05-01
-
 ### [QOwnNotes](https://github.com/pbek/QOwnNotes)
 
 一款支持Markdown的纯文本笔记管理工具，集成Nextcloud/ownCloud，具备本地优先和LLM功能支持。
 
 - **Stars:** ⭐️ 5.7k
 - **Tags:** `note-taking` `markdown` `local-first` `llm`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-06
 
 ### [bob-plugin-openai-translator](https://github.com/nextai-translator/bob-plugin-openai-translator)
 
@@ -350,7 +350,7 @@ Claude Code 的桌面图形界面应用，支持可视化聊天、代码编辑�
 
 - **Stars:** ⭐️ 5.3k
 - **Tags:** `Voice Input` `Speech-to-Text` `Desktop App`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-06
 
 ### [5ire](https://github.com/nanbingxyz/5ire)
 
@@ -374,7 +374,7 @@ Claude Code 的桌面图形界面应用，支持可视化聊天、代码编辑�
 
 - **Stars:** ⭐️ 4.8k
 - **Tags:** `OCR` `Translation` `Deep Learning` `Desktop App`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-06
 
 ### [Text-Grab](https://github.com/TheJoeFin/Text-Grab)
 
@@ -390,7 +390,7 @@ Windows 平台 OCR 文字识别工具，支持后台静默识别和通知，完�
 
 - **Stars:** ⭐️ 4.5k
 - **Tags:** `ai` `ai-agents` `llms` `on-device-ai`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-07
 
 ### [quotio](https://github.com/nguyenphutrong/quotio)
 
@@ -412,9 +412,9 @@ macOS菜单栏应用，统一管理多个AI订阅账户，支持实时配额追�
 
 OpenCode AI代理的桌面和Web界面，提供本地AI代理交互体验。
 
-- **Stars:** ⭐️ 3.8k
+- **Stars:** ⭐️ 3.9k
 - **Tags:** `ai-agent` `desktop` `gui` `opencode`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-06
 
 ### [LLPlayer](https://github.com/umlx5h/LLPlayer)
 
@@ -430,7 +430,7 @@ OpenCode AI代理的桌面和Web界面，提供本地AI代理交互体验。
 
 - **Stars:** ⭐️ 3.4k
 - **Tags:** `knowledge-management` `local-llm` `productivity`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-06
 
 ### [Open-Claude-Cowork](https://github.com/DevAgentForge/Open-Claude-Cowork)
 
@@ -478,7 +478,23 @@ Windows平台Whisper独立可执行程序，无需Python环境即可使用语音
 
 - **Stars:** ⭐️ 2.8k
 - **Tags:** `development-environment` `local-development` `ai-agent` `developer-tools`
+- **最后活动时间:** 2026-05-06
+
+### [vibeproxy](https://github.com/automazeio/vibeproxy)
+
+原生 macOS 菜单栏应用，无需 API 密钥即可将 Claude Code 和 ChatGPT 订阅用于各类 AI 编程工具。
+
+- **Stars:** ⭐️ 2.7k
+- **Tags:** `claude-code` `macos` `proxy` `chatgpt` `ai-coding`
 - **最后活动时间:** 2026-05-05
+
+### [TablePro](https://github.com/TableProApp/TablePro)
+
+一款快速的原生 macOS 数据库客户端，内置 AI 助手功能，支持 MySQL、PostgreSQL、MongoDB、Redis 等多种数据库。
+
+- **Stars:** ⭐️ 2.7k
+- **Tags:** `database` `macos` `ai-assistant` `sql` `native-app`
+- **最后活动时间:** 2026-05-06
 
 ### [mindforger](https://github.com/dvorka/mindforger)
 
@@ -496,29 +512,13 @@ Windows平台Whisper独立可执行程序，无需Python环境即可使用语音
 - **Tags:** `OCR` `Translation` `Deep Learning` `Desktop App`
 - **最后活动时间:** 2026-04-08
 
-### [vibeproxy](https://github.com/automazeio/vibeproxy)
-
-原生 macOS 菜单栏应用，无需 API 密钥即可将 Claude Code 和 ChatGPT 订阅用于各类 AI 编程工具。
-
-- **Stars:** ⭐️ 2.7k
-- **Tags:** `claude-code` `macos` `proxy` `chatgpt` `ai-coding`
-- **最后活动时间:** 2026-05-05
-
 ### [clawpanel](https://github.com/qingchencloud/clawpanel)
 
 基于Tauri v2构建的跨平台AI助手桌面应用，支持工具调用、图片识别和多模态交互，一键安装配置。
 
-- **Stars:** ⭐️ 2.6k
+- **Stars:** ⭐️ 2.7k
 - **Tags:** `AI助手` `多模态` `Tauri`
 - **最后活动时间:** 2026-04-26
-
-### [TablePro](https://github.com/TableProApp/TablePro)
-
-一款快速的原生 macOS 数据库客户端，内置 AI 助手功能，支持 MySQL、PostgreSQL、MongoDB、Redis 等多种数据库。
-
-- **Stars:** ⭐️ 2.5k
-- **Tags:** `database` `macos` `ai-assistant` `sql` `native-app`
-- **最后活动时间:** 2026-05-05
 
 ### [MarkFlowy](https://github.com/drl990114/MarkFlowy)
 
@@ -526,7 +526,7 @@ AI驱动的跨平台Markdown编辑器，集成ChatGPT和DeepSeek，支持Windows
 
 - **Stars:** ⭐️ 2.3k
 - **Tags:** `Markdown` `AI Editor` `Cross-platform`
-- **最后活动时间:** 2026-04-24
+- **最后活动时间:** 2026-05-06
 
 ### [TablePro](https://github.com/datlechin/TablePro)
 
@@ -548,9 +548,9 @@ ComfyUI官方桌面应用，支持Windows和macOS系统，为AI图像生成工�
 
 一款桌面宠物应用，能够实时响应你的Claude Code会话状态，展示思考、打字、杂耍、睡觉等可爱动画效果。
 
-- **Stars:** ⭐️ 2.1k
+- **Stars:** ⭐️ 2.2k
 - **Tags:** `claude-code` `desktop-pet` `electron` `pixel-art`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-06
 
 ### [fastsdcpu](https://github.com/rupeshs/fastsdcpu)
 
@@ -652,7 +652,7 @@ Obsidian AI文本生成插件，支持多种AI提供商，帮助用户在笔记�
 
 桌面应用，统一管理Claude Code、Cursor、Gemini CLI、Codex等20+平台的AI编码智能体技能。
 
-- **Stars:** ⭐️ 1.6k
+- **Stars:** ⭐️ 1.7k
 - **Tags:** `ai` `claude-code` `cursor` `desktop-app` `skills` `tauri`
 - **最后活动时间:** 2026-05-02
 
@@ -678,7 +678,7 @@ Open WebUI桌面客户端，提供本地化的AI聊天界面体验。
 
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `ai-gateway` `android` `termux` `openai` `claude`
-- **最后活动时间:** 2026-04-29
+- **最后活动时间:** 2026-05-05
 
 ### [dsnote](https://github.com/mkiol/dsnote)
 
@@ -712,14 +712,6 @@ OpenClaw AI助手离线安装U盘工具，支持DeepSeek、Kimi等AI助手的便
 - **Tags:** `ai-aimbot` `onnx` `yolov8` `aim-assist` `accessibility`
 - **最后活动时间:** 2026-01-20
 
-### [MulimgViewer](https://github.com/nachifur/MulimgViewer)
-
-支持多图像同时查看的对比工具，便于图像拼接与比较，集成深度学习与计算机视觉技术。
-
-- **Stars:** ⭐️ 1.4k
-- **Tags:** `computer-vision` `deep-learning` `image-viewer` `image-comparison`
-- **最后活动时间:** 2026-05-02
-
 ### [claude-prism](https://github.com/delibae/claude-prism)
 
 一款离线优先的科研写作桌面应用，集成Claude AI、LaTeX和Python，支持100多种科研技能，注重隐私保护。
@@ -727,6 +719,14 @@ OpenClaw AI助手离线安装U盘工具，支持DeepSeek、Kimi等AI助手的便
 - **Stars:** ⭐️ 1.4k
 - **Tags:** `claude` `scientific-writing` `latex` `offline` `desktop-app` `tauri`
 - **最后活动时间:** 2026-04-10
+
+### [MulimgViewer](https://github.com/nachifur/MulimgViewer)
+
+支持多图像同时查看的对比工具，便于图像拼接与比较，集成深度学习与计算机视觉技术。
+
+- **Stars:** ⭐️ 1.4k
+- **Tags:** `computer-vision` `deep-learning` `image-viewer` `image-comparison`
+- **最后活动时间:** 2026-05-06
 
 ### [edit-mind](https://github.com/IliasHad/edit-mind)
 
@@ -752,6 +752,14 @@ Android应用，轻松选择和管理您首选的AI数字助手，支持语音�
 - **Tags:** `offline-ai` `image-generation` `voice-chat` `stable-diffusion`
 - **最后活动时间:** 2026-02-10
 
+### [CodexDesktop-Rebuild](https://github.com/Haleclipse/CodexDesktop-Rebuild)
+
+跨平台 Codex 桌面应用，提供本地 GUI 界面便捷访问 Codex AI 功能。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `desktop-app` `codex` `gui` `cross-platform`
+- **最后活动时间:** 2026-05-06
+
 ### [chops](https://github.com/Shpigford/chops)
 
 macOS 应用程序，用于跨 Claude Code、Cursor、Codex 等平台管理和组织 AI Agent 技能。
@@ -760,29 +768,21 @@ macOS 应用程序，用于跨 Claude Code、Cursor、Codex 等平台管理和�
 - **Tags:** `macos` `ai-tools` `skills-management` `swiftui`
 - **最后活动时间:** 2026-04-29
 
-### [CodexDesktop-Rebuild](https://github.com/Haleclipse/CodexDesktop-Rebuild)
-
-跨平台 Codex 桌面应用，提供本地 GUI 界面便捷访问 Codex AI 功能。
-
-- **Stars:** ⭐️ 1.3k
-- **Tags:** `desktop-app` `codex` `gui` `cross-platform`
-- **最后活动时间:** 2026-05-02
-
 ### [gaia](https://github.com/amd/gaia)
 
 本地PC端AI Agent构建平台，支持AMD Ryzen AI，注重隐私保护的本地化部署方案。
 
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `Local AI` `Privacy` `AMD`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-06
 
 ### [SnapOtter](https://github.com/snapotter-hq/SnapOtter)
 
 自托管图像处理工具，内置本地AI功能，提供45+种图像处理工具。支持Docker部署，100%本地运行，保护隐私安全。
 
-- **Stars:** ⭐️ 1.2k
+- **Stars:** ⭐️ 1.3k
 - **Tags:** `ai` `image-processing` `self-hosted` `docker` `privacy`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-06
 
 ### [LlamaBarn](https://github.com/ggml-org/LlamaBarn)
 
@@ -798,7 +798,7 @@ macOS 应用程序，用于跨 Claude Code、Cursor、Codex 等平台管理和�
 
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `ai-agents` `claude-code` `desktop-app` `infinite-canvas` `electron`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-06
 
 ### [Hunyuan3D-2-WinPortable](https://github.com/YanWenKun/Hunyuan3D-2-WinPortable)
 
@@ -808,13 +808,13 @@ macOS 应用程序，用于跨 Claude Code、Cursor、Codex 等平台管理和�
 - **Tags:** `hunyuan3d` `windows` `3d-generation` `portable`
 - **最后活动时间:** 2025-11-19
 
-### [my-neuro](https://github.com/morettt/my-neuro)
+### [hermes-desktop](https://github.com/fathah/hermes-desktop)
 
-可定制的AI桌面伴侣，支持Live2D角色、语音对话、长期记忆和视觉识别。
+Hermes智能体的桌面伴侣应用，提供本地化AI助手体验。
 
 - **Stars:** ⭐️ 1.2k
-- **Tags:** `Desktop` `Voice` `Live2D`
-- **最后活动时间:** 2026-05-05
+- **Tags:** `desktop-companion` `hermes-agent` `local-gui`
+- **最后活动时间:** 2026-05-06
 
 ### [amical](https://github.com/amicalhq/amical)
 
@@ -823,6 +823,14 @@ macOS 应用程序，用于跨 Claude Code、Cursor、Codex 等平台管理和�
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `speech-to-text` `dictation` `whisper` `local-ai`
 - **最后活动时间:** 2026-05-03
+
+### [my-neuro](https://github.com/morettt/my-neuro)
+
+可定制的AI桌面伴侣，支持Live2D角色、语音对话、长期记忆和视觉识别。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `Desktop` `Voice` `Live2D`
+- **最后活动时间:** 2026-05-05
 
 ### [aider-desk](https://github.com/hotovo/aider-desk)
 
@@ -846,13 +854,13 @@ macOS 应用程序，用于跨 Claude Code、Cursor、Codex 等平台管理和�
 
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `Claude Code` `Desktop App` `Tauri`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-06
 
 ### [ai-tools-mng](https://github.com/cubezhao/ai-tools-mng)
 
 跨平台桌面应用，统一管理Cursor、Windsurf、Claude Code等多平台AI账号与订阅。
 
-- **Stars:** ⭐️ 1.1k
+- **Stars:** ⭐️ 1.2k
 - **Tags:** `AI Management` `Desktop App` `Tauri`
 - **最后活动时间:** 2026-04-20
 
@@ -886,15 +894,23 @@ macOS 应用程序，用于跨 Claude Code、Cursor、Codex 等平台管理和�
 
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `ai-assistant` `local-first` `privacy` `flutter` `task-management`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-06
 
 ### [HiPixel](https://github.com/okooo5km/HiPixel)
 
 基于 SwiftUI 构建的 macOS 原生应用，利用 AI 模型实现图像超分辨率放大，提供本地化的高质量图像增强体验。
 
-- **Stars:** ⭐️ 1.0k
+- **Stars:** ⭐️ 1.1k
 - **Tags:** `macOS` `Super-Resolution` `SwiftUI`
 - **最后活动时间:** 2026-03-13
+
+### [gemma-chat](https://github.com/ammaarreshi/gemma-chat)
+
+专为 Apple Silicon 优化的本地 AI 聊天与编程助手，基于 Gemma 4 和 MLX，支持 Ollama。
+
+- **Stars:** ⭐️ 1.0k
+- **Tags:** `local-llm` `gemma` `mlx` `coding-agent` `apple-silicon`
+- **最后活动时间:** 2026-04-28
 
 ### [MTools](https://github.com/HG-ha/MTools)
 
@@ -916,7 +932,7 @@ macOS本地语音转文字应用，支持设备端AI推理，完全离线运行�
 
 一款本地优先的AI知识库应用，作为NotebookLM的轻量级替代方案。支持本地运行，更好地理解和组织您的知识。
 
-- **Stars:** ⭐️ 993
+- **Stars:** ⭐️ 995
 - **Tags:** `知识库` `NotebookLM` `本地优先`
 - **最后活动时间:** 2026-02-12
 
@@ -934,39 +950,31 @@ macOS本地语音转文字应用，支持设备端AI推理，完全离线运行�
 
 - **Stars:** ⭐️ 962
 - **Tags:** `automation` `ocr` `image-recognition` `autohotkey`
-- **最后活动时间:** 2026-05-05
-
-### [gemma-chat](https://github.com/ammaarreshi/gemma-chat)
-
-专为 Apple Silicon 优化的本地 AI 聊天与编程助手，基于 Gemma 4 和 MLX，支持 Ollama。
-
-- **Stars:** ⭐️ 959
-- **Tags:** `local-llm` `gemma` `mlx` `coding-agent` `apple-silicon`
-- **最后活动时间:** 2026-04-28
+- **最后活动时间:** 2026-05-06
 
 ### [PotPlayer_ChatGPT_Translate](https://github.com/Felix3322/PotPlayer_ChatGPT_Translate)
 
 PotPlayer实时字幕翻译插件，集成OpenAI API兼容模型，支持观看视频时即时翻译字幕。
 
-- **Stars:** ⭐️ 952
+- **Stars:** ⭐️ 953
 - **Tags:** `Subtitle Translation` `PotPlayer` `LLM` `Real-time`
 - **最后活动时间:** 2026-04-19
-
-### [hermes-desktop](https://github.com/fathah/hermes-desktop)
-
-Hermes智能体的桌面伴侣应用，提供本地化AI助手体验。
-
-- **Stars:** ⭐️ 952
-- **Tags:** `desktop-companion` `hermes-agent` `local-gui`
-- **最后活动时间:** 2026-05-03
 
 ### [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui)
 
 逆向工程重建的Claude.ai生成式UI，支持在原生macOS窗口中展示交互式HTML/SVG组件。
 
-- **Stars:** ⭐️ 950
+- **Stars:** ⭐️ 951
 - **Tags:** `claude` `generative-ui` `macos` `reverse-engineering`
 - **最后活动时间:** 2026-03-15
+
+### [SnapX](https://github.com/SnapXL/SnapX)
+
+跨平台截图工具，集成OCR文字识别和快速分享功能。
+
+- **Stars:** ⭐️ 915
+- **Tags:** `screenshot` `ocr` `cross-platform` `screen-capture`
+- **最后活动时间:** 2026-05-04
 
 ### [skales](https://github.com/skalesapp/skales)
 
@@ -975,14 +983,6 @@ Hermes智能体的桌面伴侣应用，提供本地化AI助手体验。
 - **Stars:** ⭐️ 913
 - **Tags:** `AI Agent` `Desktop` `Automation`
 - **最后活动时间:** 2026-05-05
-
-### [SnapX](https://github.com/SnapXL/SnapX)
-
-跨平台截图工具，集成OCR文字识别和快速分享功能。
-
-- **Stars:** ⭐️ 911
-- **Tags:** `screenshot` `ocr` `cross-platform` `screen-capture`
-- **最后活动时间:** 2026-05-04
 
 ### [ai-file-sorter](https://github.com/hyperfield/ai-file-sorter)
 
@@ -996,9 +996,17 @@ Hermes智能体的桌面伴侣应用，提供本地化AI助手体验。
 
 跨平台桌面应用，统一管理智能体技能并同步到多个AI编程工具的全局技能目录。
 
-- **Stars:** ⭐️ 881
+- **Stars:** ⭐️ 885
 - **Tags:** `agent-skills` `desktop-app` `ai-tools`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-06
+
+### [macai](https://github.com/Renset/macai)
+
+原生macOS AI聊天应用，支持多种AI提供商（ChatGPT、Claude、Gemini、DeepSeek等）。
+
+- **Stars:** ⭐️ 882
+- **Tags:** `macOS` `Chat` `Multi-provider`
+- **最后活动时间:** 2026-01-16
 
 ### [voquill](https://github.com/josiahsrc/voquill)
 
@@ -1007,14 +1015,6 @@ Hermes智能体的桌面伴侣应用，提供本地化AI助手体验。
 - **Stars:** ⭐️ 879
 - **Tags:** `Dictation` `Local AI` `Desktop`
 - **最后活动时间:** 2026-04-22
-
-### [macai](https://github.com/Renset/macai)
-
-原生macOS AI聊天应用，支持多种AI提供商（ChatGPT、Claude、Gemini、DeepSeek等）。
-
-- **Stars:** ⭐️ 875
-- **Tags:** `macOS` `Chat` `Multi-provider`
-- **最后活动时间:** 2026-01-16
 
 ### [AI-Playground](https://github.com/intel/AI-Playground)
 
@@ -1036,9 +1036,17 @@ Intel Arc GPU驱动的AI PC应用，支持本地图像生成、风格化处理�
 
 跨平台桌面应用，集成AI助手功能，帮助开发者清理开发产物、管理本地开发工具并检测常见环境问题。
 
-- **Stars:** ⭐️ 829
+- **Stars:** ⭐️ 831
 - **Tags:** `developer-tools` `assistants-ai` `vibe-coding` `desktop-app`
 - **最后活动时间:** 2026-05-05
+
+### [youwee](https://github.com/vanloctech/youwee)
+
+跨平台视频下载器，支持1800+网站，集成AI视频摘要和后处理功能，基于Tauri构建。
+
+- **Stars:** ⭐️ 830
+- **Tags:** `video-downloader` `ai-summary` `tauri` `yt-dlp`
+- **最后活动时间:** 2026-04-26
 
 ### [org-ai](https://github.com/rksm/org-ai)
 
@@ -1047,14 +1055,6 @@ Emacs个人AI助手，支持ChatGPT、LLaMA文本生成及DALL-E图像生成。
 - **Stars:** ⭐️ 819
 - **Tags:** `emacs` `ai-assistant` `llm`
 - **最后活动时间:** 2026-01-07
-
-### [youwee](https://github.com/vanloctech/youwee)
-
-跨平台视频下载器，支持1800+网站，集成AI视频摘要和后处理功能，基于Tauri构建。
-
-- **Stars:** ⭐️ 815
-- **Tags:** `video-downloader` `ai-summary` `tauri` `yt-dlp`
-- **最后活动时间:** 2026-04-26
 
 ### [pibooth](https://github.com/pibooth/pibooth)
 
@@ -1088,11 +1088,19 @@ Emacs个人AI助手，支持ChatGPT、LLaMA文本生成及DALL-E图像生成。
 - **Tags:** `agent` `desktop` `llm` `local` `mcp`
 - **最后活动时间:** 2026-05-05
 
+### [Capso](https://github.com/lzhgus/Capso)
+
+macOS开源截图和录屏工具，内置OCR文字识别功能，是CleanShot X的免费原生替代方案。
+
+- **Stars:** ⭐️ 774
+- **Tags:** `screenshot` `ocr` `macos` `screen-recording` `swift`
+- **最后活动时间:** 2026-05-02
+
 ### [OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper)
 
 macOS原生语音听写应用，基于Whisper模型实现高精度语音转文字。
 
-- **Stars:** ⭐️ 765
+- **Stars:** ⭐️ 766
 - **Tags:** `Dictation` `macOS` `Whisper`
 - **最后活动时间:** 2026-03-22
 
@@ -1116,7 +1124,7 @@ Mac平台原生AI聊天应用，提供流畅的桌面端AI对话体验。
 
 一款本地离线OCR软件，基于DeepSeek-OCR AI实现图像和PDF文件的文字识别，支持多语言处理且无需联网即可运行。
 
-- **Stars:** ⭐️ 730
+- **Stars:** ⭐️ 733
 - **Tags:** `OCR` `Local-AI` `Offline` `DeepSeek`
 - **最后活动时间:** 2026-04-25
 
@@ -1124,15 +1132,23 @@ Mac平台原生AI聊天应用，提供流畅的桌面端AI对话体验。
 
 Zotero MCP插件，实现AI助手与文献库深度集成，支持智能检索和问答分析。
 
-- **Stars:** ⭐️ 726
+- **Stars:** ⭐️ 731
 - **Tags:** `MCP` `Zotero` `Literature Management` `AI Integration`
 - **最后活动时间:** 2026-03-22
+
+### [JamTools](https://github.com/fandesfyf/JamTools)
+
+跨平台开源工具集，集成OCR文字识别、多语言翻译、聊天机器人等AI功能，同时支持截屏录屏、文件传输和格式转换。
+
+- **Stars:** ⭐️ 723
+- **Tags:** `ocr` `chatbot` `translator` `screencapture` `python` `cross-platform`
+- **最后活动时间:** 2026-05-06
 
 ### [widgets](https://github.com/widget-js/widgets)
 
 基于 Vue3 构建的 Windows 桌面小组件工具，集成 AI 助手、剪贴板历史、待办事项等实用功能。
 
-- **Stars:** ⭐️ 706
+- **Stars:** ⭐️ 707
 - **Tags:** `desktop-widgets` `vue3` `ai-assistant` `chatgpt`
 - **最后活动时间:** 2026-04-06
 
@@ -1180,7 +1196,7 @@ Yak是一款开源的桌面级AI智能体应用，支持本地运行LLM、MCP协
 
 Codex CLI + Claude Code 代理工作站，集成任务调度、Git Worktree 和远程控制功能。
 
-- **Stars:** ⭐️ 664
+- **Stars:** ⭐️ 666
 - **Tags:** `claude-code` `codex` `agent-workstation` `tauri`
 - **最后活动时间:** 2026-04-28
 
@@ -1192,13 +1208,13 @@ macOS原生应用，用于管理CLI AI会话。支持浏览、搜索、组织和
 - **Tags:** `claude-code` `codex-cli` `gemini-cli` `swiftui`
 - **最后活动时间:** 2026-03-31
 
-### [LinJun](https://github.com/wangdabaoqq/LinJun)
+### [MyAgents](https://github.com/hAcKlyc/MyAgents)
 
-跨平台 GUI 工具，统一管理 Claude、Gemini、Codex、Copilot、Kiro 等多种 AI 编码代理。
+优雅易用的Agent桌面应用，一站式Agent工作台与任务管理中心。
 
-- **Stars:** ⭐️ 646
-- **Tags:** `ai-agent` `gui` `claude` `copilot` `cross-platform`
-- **最后活动时间:** 2026-04-24
+- **Stars:** ⭐️ 652
+- **Tags:** `ai-agents` `desktop-app` `agent-workbench` `claude-code`
+- **最后活动时间:** 2026-05-05
 
 ### [op](https://github.com/WallBreaker2/op)
 
@@ -1207,6 +1223,14 @@ Windows平台自动化工具，支持GDI/DX/OpenGL截图、图像识别和OCR找
 - **Stars:** ⭐️ 644
 - **Tags:** `automation` `ocr` `image-recognition` `windows`
 - **最后活动时间:** 2026-05-01
+
+### [LinJun](https://github.com/wangdabaoqq/LinJun)
+
+跨平台 GUI 工具，统一管理 Claude、Gemini、Codex、Copilot、Kiro 等多种 AI 编码代理。
+
+- **Stars:** ⭐️ 643
+- **Tags:** `ai-agent` `gui` `claude` `copilot` `cross-platform`
+- **最后活动时间:** 2026-04-24
 
 ### [MoePeek](https://github.com/cosZone/MoePeek)
 
@@ -1224,14 +1248,6 @@ Obsidian插件，支持本地Ollama和类OpenAI GPT模型，注重隐私与离�
 - **Tags:** `obsidian` `local-llm` `ollama` `privacy`
 - **最后活动时间:** 2026-05-02
 
-### [MyAgents](https://github.com/hAcKlyc/MyAgents)
-
-优雅易用的Agent桌面应用，一站式Agent工作台与任务管理中心。
-
-- **Stars:** ⭐️ 630
-- **Tags:** `ai-agents` `desktop-app` `agent-workbench` `claude-code`
-- **最后活动时间:** 2026-05-05
-
 ### [claude-code-now](https://github.com/orange2ai/claude-code-now)
 
 极速 Claude Code 启动器，支持 Dock 一键启动和任意文件夹快速调用。
@@ -1244,9 +1260,17 @@ Obsidian插件，支持本地Ollama和类OpenAI GPT模型，注重隐私与离�
 
 社区驱动的Perplexity AI桌面应用，基于Electron构建，提供便捷的AI对话体验。
 
-- **Stars:** ⭐️ 622
+- **Stars:** ⭐️ 623
 - **Tags:** `ai` `chatbot` `electron` `perplexity` `desktop-app`
 - **最后活动时间:** 2026-04-11
+
+### [codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux)
+
+在 Linux 系统上运行 OpenAI Codex Desktop 的自动化安装工具，帮助开发者在 Linux 环境中使用 Codex。
+
+- **Stars:** ⭐️ 601
+- **Tags:** `openai` `codex` `linux` `desktop` `installer`
+- **最后活动时间:** 2026-05-06
 
 ### [SunnyCapturer](https://github.com/XMuli/SunnyCapturer)
 
@@ -1264,13 +1288,13 @@ Obsidian插件，支持本地Ollama和类OpenAI GPT模型，注重隐私与离�
 - **Tags:** `ai` `desktop-app` `agent-skills` `productivity`
 - **最后活动时间:** 2026-03-07
 
-### [codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux)
+### [voxt](https://github.com/hehehai/voxt)
 
-在 Linux 系统上运行 OpenAI Codex Desktop 的自动化安装工具，帮助开发者在 Linux 环境中使用 Codex。
+macOS语音输入与翻译应用，按住说话松开粘贴，支持会议转录和语音助手功能。
 
-- **Stars:** ⭐️ 581
-- **Tags:** `openai` `codex` `linux` `desktop` `installer`
-- **最后活动时间:** 2026-05-05
+- **Stars:** ⭐️ 568
+- **Tags:** `voice-assistant` `whisper` `stt` `macos` `transcription`
+- **最后活动时间:** 2026-05-06
 
 ### [Image-Processing-Node-Editor](https://github.com/Kazuhito00/Image-Processing-Node-Editor)
 
@@ -1284,9 +1308,9 @@ Obsidian插件，支持本地Ollama和类OpenAI GPT模型，注重隐私与离�
 
 极简AI搜索引擎，完全在浏览器本地运行，结合WebLLM和SearXNG实现智能问答与网络搜索。
 
-- **Stars:** ⭐️ 561
+- **Stars:** ⭐️ 562
 - **Tags:** `AI搜索` `本地运行` `隐私保护`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-07
 
 ### [swama](https://github.com/Trans-N-ai/swama)
 
@@ -1295,14 +1319,6 @@ Obsidian插件，支持本地Ollama和类OpenAI GPT模型，注重隐私与离�
 - **Stars:** ⭐️ 558
 - **Tags:** `llm` `mlx` `macos` `swift` `inference-engine`
 - **最后活动时间:** 2026-04-06
-
-### [voxt](https://github.com/hehehai/voxt)
-
-macOS语音输入与翻译应用，按住说话松开粘贴，支持会议转录和语音助手功能。
-
-- **Stars:** ⭐️ 558
-- **Tags:** `voice-assistant` `whisper` `stt` `macos` `transcription`
-- **最后活动时间:** 2026-05-05
 
 ### [AQBot](https://github.com/AQBot-Desktop/AQBot)
 
@@ -1332,7 +1348,7 @@ macOS语音输入与翻译应用，按住说话松开粘贴，支持会议转录
 
 ComfyUI Windows便携版整合包，预装40+自定义节点，开箱即用。
 
-- **Stars:** ⭐️ 517
+- **Stars:** ⭐️ 519
 - **Tags:** `comfyui` `stable-diffusion` `portable`
 - **最后活动时间:** 2026-04-17
 
@@ -1348,7 +1364,7 @@ ComfyUI Windows便携版整合包，预装40+自定义节点，开箱即用。
 
 本地全能AI平台，支持LLM推理、聊天界面、语音识别合成、智能体工作流、RAG检索和图像生成，无需云端订阅即可运行。
 
-- **Stars:** ⭐️ 503
+- **Stars:** ⭐️ 504
 - **Tags:** `local-ai` `llm` `rag` `ai-agents` `self-hosted`
 - **最后活动时间:** 2026-05-05
 
@@ -1356,7 +1372,7 @@ ComfyUI Windows便携版整合包，预装40+自定义节点，开箱即用。
 
 Mac平台语音驱动AI助手，支持语音交互和智能辅助功能。
 
-- **Stars:** ⭐️ 501
+- **Stars:** ⭐️ 504
 - **Tags:** `ai-assistant` `voice-assistant` `mac` `speech-recognition`
 - **最后活动时间:** 2026-04-24
 
@@ -1374,9 +1390,9 @@ Mac平台语音驱动AI助手，支持语音交互和智能辅助功能。
 
 将电脑变成个人AI助手，记录、搜索和自动化操作，完全本地运行保护隐私，打造个人数字记忆。
 
-- **Stars:** ⭐️ 18.5k
+- **Stars:** ⭐️ 18.6k
 - **Tags:** `Privacy` `Automation` `Local AI`
-- **最后活动时间:** 2026-05-06
+- **最后活动时间:** 2026-05-07
 
 ### [omlx](https://github.com/jundot/omlx)
 
@@ -1384,7 +1400,7 @@ Mac平台语音驱动AI助手，支持语音交互和智能辅助功能。
 
 - **Stars:** ⭐️ 12.4k
 - **Tags:** `Apple Silicon` `MLX` `Local Inference`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-06
 
 ### [CodexBar](https://github.com/steipete/CodexBar)
 
@@ -1392,7 +1408,7 @@ macOS菜单栏应用，无需登录即可查看OpenAI Codex和Claude Code的使�
 
 - **Stars:** ⭐️ 11.7k
 - **Tags:** `macOS` `Usage Stats` `Menu Bar`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-06
 
 ### [WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme)
 
@@ -1406,7 +1422,7 @@ macOS 风格的 GTK 主题，适用于所有基于 GTK 的桌面环境。
 
 Windows平台智能体框架，实现跨应用的GUI自动化操作与智能决策。
 
-- **Stars:** ⭐️ 8.5k
+- **Stars:** ⭐️ 8.6k
 - **Tags:** `Agent` `Automation` `Windows` `GUI`
 - **最后活动时间:** 2026-04-29
 
@@ -1416,7 +1432,7 @@ Windows平台智能体框架，实现跨应用的GUI自动化操作与智能决�
 
 - **Stars:** ⭐️ 5.2k
 - **Tags:** `macos` `autonomous-agents` `offline` `swift` `mlx`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-06
 
 ### [autoMate](https://github.com/yuruotong1/autoMate)
 
@@ -1446,9 +1462,9 @@ ChatGPT 驱动的 Siri 快捷指令，支持连续对话、自定义 Prompt 和�
 
 Peekaboo 是一个 macOS 命令行工具和 MCP 服务器，让 AI 智能体能够截取应用或系统截图，并通过本地或远程 AI 模型进行视觉问答。
 
-- **Stars:** ⭐️ 3.2k
+- **Stars:** ⭐️ 3.3k
 - **Tags:** `ai` `macos` `mcp` `screenshots` `swift`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-07
 
 ### [Queryable](https://github.com/mazzzystar/Queryable)
 
@@ -1462,7 +1478,7 @@ Peekaboo 是一个 macOS 命令行工具和 MCP 服务器，让 AI 智能体能�
 
 macOS本地语音转文字工具，按住Control键录音，松开即可转录并粘贴，基于WhisperKit和本地LLM。
 
-- **Stars:** ⭐️ 2.5k
+- **Stars:** ⭐️ 2.6k
 - **Tags:** `speech-to-text` `whisper` `macos` `local-ai` `voice-input`
 - **最后活动时间:** 2026-04-28
 
@@ -1488,7 +1504,7 @@ macOS屏幕文字识别工具，一键将屏幕任意区域的文字提取到剪
 
 - **Stars:** ⭐️ 2.3k
 - **Tags:** `grammar-checker` `local-llm` `gemini` `cross-platform`
-- **最后活动时间:** 2026-03-01
+- **最后活动时间:** 2026-05-06
 
 ### [OpenDAN-Personal-AI-OS](https://github.com/fiatrete/OpenDAN-Personal-AI-OS)
 
@@ -1566,8 +1582,16 @@ Linux原生系统级语音转文字工具，快速、准确且保护隐私。支
 
 macOS 开源日语输入法，集成 Zenzai 神经网络假名汉字转换器，支持 LLM 驱动的智能转换功能。
 
-- **Stars:** ⭐️ 901
+- **Stars:** ⭐️ 902
 - **Tags:** `ime` `macos` `swift` `llm` `japanese`
+- **最后活动时间:** 2026-04-29
+
+### [notchi](https://github.com/sk-ruban/notchi)
+
+macOS 刘海区域工具栏应用，集成 Claude Code 等编程工具，提升开发效率。
+
+- **Stars:** ⭐️ 842
+- **Tags:** `claude-code` `swift` `macos` `notch` `developer-tools`
 - **最后活动时间:** 2026-04-29
 
 ### [chromex](https://github.com/GENEXIS-AI/chromex)
@@ -1578,19 +1602,11 @@ macOS 开源日语输入法，集成 Zenzai 神经网络假名汉字转换器，
 - **Tags:** `chrome-extension` `codex` `browser-assistant` `voice`
 - **最后活动时间:** 2026-05-05
 
-### [notchi](https://github.com/sk-ruban/notchi)
-
-macOS 刘海区域工具栏应用，集成 Claude Code 等编程工具，提升开发效率。
-
-- **Stars:** ⭐️ 836
-- **Tags:** `claude-code` `swift` `macos` `notch` `developer-tools`
-- **最后活动时间:** 2026-04-29
-
 ### [MFCMouseEffect](https://github.com/sqmw/MFCMouseEffect)
 
 跨平台鼠标特效与输入可视化引擎，支持点击/轨迹/滚轮等效果展示，具备手势识别自动映射快捷键功能，可扩展WASM插件。
 
-- **Stars:** ⭐️ 701
+- **Stars:** ⭐️ 703
 - **Tags:** `gesture-recognition` `input-visualization` `cross-platform` `wasm` `automation`
 - **最后活动时间:** 2026-04-25
 
@@ -1606,7 +1622,7 @@ macOS 刘海区域工具栏应用，集成 Claude Code 等编程工具，提升�
 
 基于Python的桌面语音助手，集成语音识别与文本转语音功能，可执行系统级命令并处理异步用户交互。
 
-- **Stars:** ⭐️ 675
+- **Stars:** ⭐️ 678
 - **Tags:** `Voice Assistant` `Speech Recognition` `Desktop AI`
 - **最后活动时间:** 2026-01-20
 
@@ -1614,7 +1630,7 @@ macOS 刘海区域工具栏应用，集成 Claude Code 等编程工具，提升�
 
 基于大模型（Qwen3）驱动的智能拼音输入法，结合RIME框架实现更精准的中文输入体验。
 
-- **Stars:** ⭐️ 638
+- **Stars:** ⭐️ 639
 - **Tags:** `IME` `LLM` `Pinyin` `Qwen3` `RIME`
 - **最后活动时间:** 2026-04-15
 
@@ -1630,7 +1646,7 @@ macOS 刘海区域工具栏应用，集成 Claude Code 等编程工具，提升�
 
 macOS 语音优先 AI 助手，灵感来自钢铁侠 JARVIS。支持语音交互，让用户通过对话控制电脑完成任务。
 
-- **Stars:** ⭐️ 525
+- **Stars:** ⭐️ 527
 - **Tags:** `voice-assistant` `claude` `macos` `ai` `python`
 - **最后活动时间:** 2026-03-30
 
@@ -1640,9 +1656,9 @@ macOS 语音优先 AI 助手，灵感来自钢铁侠 JARVIS。支持语音交互
 
 开源AI智能体，将Gemini能力带入终端，支持MCP协议，提供便捷的命令行交互体验。
 
-- **Stars:** ⭐️ 103.2k
+- **Stars:** ⭐️ 103.3k
 - **Tags:** `CLI` `Gemini` `MCP`
-- **最后活动时间:** 2026-05-06
+- **最后活动时间:** 2026-05-07
 
 ### [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)
 
@@ -1658,13 +1674,13 @@ Google Workspace统一命令行工具，内置AI代理技能实现智能自动�
 
 - **Stars:** ⭐️ 25.8k
 - **Tags:** `CLI` `Google Workspace` `AI Agent`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-06
 
 ### [waveterm](https://github.com/wavetermdev/waveterm)
 
 一款开源的AI集成跨平台终端，支持智能命令补全和工作流自动化，提升开发者效率。
 
-- **Stars:** ⭐️ 20.1k
+- **Stars:** ⭐️ 20.2k
 - **Tags:** `Terminal` `AI` `Cross-platform` `Developer Tools`
 - **最后活动时间:** 2026-05-05
 
@@ -1672,9 +1688,17 @@ Google Workspace统一命令行工具，内置AI代理技能实现智能自动�
 
 基于Ghostty的macOS终端，专为AI编程代理设计，支持垂直标签页和通知功能。
 
-- **Stars:** ⭐️ 16.2k
+- **Stars:** ⭐️ 16.3k
 - **Tags:** `Terminal` `AI Agents` `macOS`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-07
+
+### [DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)
+
+基于DeepSeek模型的终端编码智能体，提供流畅的命令行交互体验。
+
+- **Stars:** ⭐️ 13.8k
+- **Tags:** `deepseek` `coding-agent` `terminal` `tui` `rust`
+- **最后活动时间:** 2026-05-07
 
 ### [shell_gpt](https://github.com/TheR1D/shell_gpt)
 
@@ -1682,7 +1706,7 @@ Google Workspace统一命令行工具，内置AI代理技能实现智能自动�
 
 - **Stars:** ⭐️ 12.0k
 - **Tags:** `CLI` `GPT` `LLM` `Productivity`
-- **最后活动时间:** 2026-04-11
+- **最后活动时间:** 2026-05-06
 
 ### [llm](https://github.com/simonw/llm)
 
@@ -1706,7 +1730,7 @@ Python驱动的智能Shell终端，支持AI集成，为数据科学家提供强�
 
 - **Stars:** ⭐️ 9.3k
 - **Tags:** `Shell` `Python` `AI Integration` `Terminal`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-05
 
 ### [ipatool](https://github.com/majd/ipatool)
 
@@ -1728,7 +1752,7 @@ macOS 开发者命令行工具，自动化管理 Mac 系统操作。
 
 为Claude Code CLI设计的可定制状态栏工具，支持powerline样式和多种主题，提升终端开发体验。
 
-- **Stars:** ⭐️ 8.7k
+- **Stars:** ⭐️ 8.8k
 - **Tags:** `Claude Code` `状态栏` `终端工具`
 - **最后活动时间:** 2026-05-04
 
@@ -1755,14 +1779,6 @@ macOS 开发者命令行工具，自动化管理 Mac 系统操作。
 - **Stars:** ⭐️ 7.3k
 - **Tags:** `Multi-Agent` `CLI` `Management`
 - **最后活动时间:** 2026-03-28
-
-### [DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)
-
-基于DeepSeek模型的终端编码智能体，提供流畅的命令行交互体验。
-
-- **Stars:** ⭐️ 6.9k
-- **Tags:** `deepseek` `coding-agent` `terminal` `tui` `rust`
-- **最后活动时间:** 2026-05-05
 
 ### [apfel](https://github.com/Arthur-Ficial/apfel)
 
@@ -1802,7 +1818,7 @@ LM Studio命令行工具，在终端中便捷管理和运行本地大语言模�
 
 - **Stars:** ⭐️ 4.3k
 - **Tags:** `terminal-agent` `cli` `autonomous-agents` `local-tools`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-06
 
 ### [oh-my-pi](https://github.com/can1357/oh-my-pi)
 
@@ -1810,7 +1826,7 @@ LM Studio命令行工具，在终端中便捷管理和运行本地大语言模�
 
 - **Stars:** ⭐️ 4.0k
 - **Tags:** `终端工具` `AI编程` `多模型`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-06
 
 ### [gptel](https://github.com/karthink/gptel)
 
@@ -1842,7 +1858,7 @@ Emacs的简洁可扩展LLM客户端，支持多种后端和org-mode集成。
 
 - **Stars:** ⭐️ 3.0k
 - **Tags:** `CLI` `Grok` `Agent`
-- **最后活动时间:** 2026-05-03
+- **最后活动时间:** 2026-05-06
 
 ### [CCometixLine](https://github.com/Haleclipse/CCometixLine)
 
@@ -1858,7 +1874,7 @@ Rust 编写的 Claude Code 状态栏工具，实时显示 Claude Code 运行状�
 
 - **Stars:** ⭐️ 2.6k
 - **Tags:** `日志分析` `TUI` `OpenTelemetry` `LLM`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-06
 
 ### [chatblade](https://github.com/npiv/chatblade)
 
@@ -1890,7 +1906,7 @@ Ollama的终端客户端，提供简洁的命令行界面与本地大模型交�
 
 - **Stars:** ⭐️ 2.3k
 - **Tags:** `AI Agent` `Terminal` `TUI` `Session Manager`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-06
 
 ### [engshell](https://github.com/emcf/engshell)
 
@@ -1938,7 +1954,7 @@ Ollama的终端客户端，提供简洁的命令行界面与本地大模型交�
 
 - **Stars:** ⭐️ 1.9k
 - **Tags:** `AI Agent` `Coding Assistant` `Terminal` `Local-first`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-06
 
 ### [tmuxai](https://github.com/alvinunreal/tmuxai)
 
@@ -1952,9 +1968,9 @@ AI驱动的非侵入式终端助手，集成tmux提升命令行效率。
 
 类似 htop 的 AI 编码代理监控工具，实时监控 Claude Code 和 Codex CLI 会话、Token 使用和速率限制。
 
-- **Stars:** ⭐️ 1.7k
+- **Stars:** ⭐️ 1.8k
 - **Tags:** `ai-agents` `monitoring` `terminal` `tui` `rust` `developer-tools`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-06
 
 ### [tlm](https://github.com/yusufcanb/tlm)
 
@@ -1978,7 +1994,7 @@ AI驱动的非侵入式终端助手，集成tmux提升命令行效率。
 
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `Emacs` `LLM` `AI Agent`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-06
 
 ### [localgpt](https://github.com/localgpt-app/localgpt)
 
@@ -2000,9 +2016,9 @@ Tmux持久化侧边栏插件，可跨所有会话实时显示AI代理的运行�
 
 Python CLI工具，将Claude Code的JSONL转录文件转换为可读的HTML格式，便于查看和分析。
 
-- **Stars:** ⭐️ 990
+- **Stars:** ⭐️ 996
 - **Tags:** `claude-code` `cli-tool` `transcript-converter`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-06
 
 ### [ellama](https://github.com/s-kostyaev/ellama)
 
@@ -2024,7 +2040,7 @@ Emacs大语言模型交互工具，在编辑器内直接使用LLM辅助编程与
 
 开源命令行AI模型访问工具，支持多提供商、提示注入研究和安全评估，兼容多平台终端。
 
-- **Stars:** ⭐️ 918
+- **Stars:** ⭐️ 919
 - **Tags:** `CLI` `Multi-provider` `Security Research` `Terminal`
 - **最后活动时间:** 2026-03-13
 
@@ -2040,15 +2056,15 @@ Emacs大语言模型交互工具，在编辑器内直接使用LLM辅助编程与
 
 开源的vibe-island替代品，专为重度AI代码智能体用户设计的终端工作环境，支持Claude Code、Codex、OpenCode等多种AI编程工具。
 
-- **Stars:** ⭐️ 888
+- **Stars:** ⭐️ 898
 - **Tags:** `agent` `claude-code` `codex` `terminal` `vibe-coding`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-06
 
 ### [ssh-ai-chat](https://github.com/miantiao-me/ssh-ai-chat)
 
 通过SSH协议与AI对话，为终端用户提供简洁的AI交互方式。
 
-- **Stars:** ⭐️ 811
+- **Stars:** ⭐️ 813
 - **Tags:** `ai` `ssh` `cli` `llm` `tui`
 - **最后活动时间:** 2025-12-20
 
@@ -2088,31 +2104,31 @@ Emacs大语言模型交互工具，在编辑器内直接使用LLM辅助编程与
 
 统一的TUI/CLI工具，支持索引和搜索11+种AI编程助手的本地会话历史记录，包括Codex、Claude、Gemini、Cursor等。
 
-- **Stars:** ⭐️ 738
+- **Stars:** ⭐️ 744
 - **Tags:** `TUI` `Search` `Session History`
-- **最后活动时间:** 2026-05-05
-
-### [muxy](https://github.com/muxy-app/muxy)
-
-基于SwiftUI和libghostty构建的轻量级Mac终端，专为AI开发工作流优化，支持多智能体环境。
-
-- **Stars:** ⭐️ 721
-- **Tags:** `terminal` `macos` `swiftui` `ghostty` `multiplexer`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-06
 
 ### [hermes-hud](https://github.com/joeynyc/hermes-hud)
 
 AI智能体意识监控终端界面，提供实时状态展示和可视化监控功能。
 
-- **Stars:** ⭐️ 720
+- **Stars:** ⭐️ 728
 - **Tags:** `ai-agent` `tui` `terminal` `dashboard` `monitoring`
 - **最后活动时间:** 2026-04-17
+
+### [muxy](https://github.com/muxy-app/muxy)
+
+基于SwiftUI和libghostty构建的轻量级Mac终端，专为AI开发工作流优化，支持多智能体环境。
+
+- **Stars:** ⭐️ 725
+- **Tags:** `terminal` `macos` `swiftui` `ghostty` `multiplexer`
+- **最后活动时间:** 2026-05-06
 
 ### [zev](https://github.com/dtnewman/zev)
 
 基于LLM的终端命令助手，帮助用户快速记忆和查找命令行指令。
 
-- **Stars:** ⭐️ 719
+- **Stars:** ⭐️ 720
 - **Tags:** `CLI工具` `命令助手` `LLM`
 - **最后活动时间:** 2026-04-21
 
@@ -2120,15 +2136,15 @@ AI智能体意识监控终端界面，提供实时状态展示和可视化监控
 
 集成AI功能的Shell终端，支持多种主题配置，为Linux桌面用户提供智能化的命令行体验。
 
-- **Stars:** ⭐️ 705
+- **Stars:** ⭐️ 706
 - **Tags:** `shell` `ai` `linux` `terminal`
-- **最后活动时间:** 2026-05-02
+- **最后活动时间:** 2026-05-06
 
 ### [mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama)
 
 功能丰富的终端TUI客户端，支持通过Ollama与MCP服务器交互。具备智能体模式、多服务器支持和人机协作功能。
 
-- **Stars:** ⭐️ 692
+- **Stars:** ⭐️ 693
 - **Tags:** `MCP` `Ollama` `TUI` `本地LLM`
 - **最后活动时间:** 2026-04-28
 
@@ -2136,7 +2152,7 @@ AI智能体意识监控终端界面，提供实时状态展示和可视化监控
 
 微信本地数据查询命令行工具，支持查询聊天记录、联系人、收藏等内容，专为LLM集成设计，方便将个人数据导入AI应用。
 
-- **Stars:** ⭐️ 665
+- **Stars:** ⭐️ 685
 - **Tags:** `wechat` `cli` `llm` `data-export` `local-data`
 - **最后活动时间:** 2026-04-06
 
@@ -2170,7 +2186,15 @@ GPU加速的终端画板，将所有会话置于无限画布上。支持Claude�
 
 - **Stars:** ⭐️ 596
 - **Tags:** `terminal` `rust` `gpu` `developer-tools` `ai-agents`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-06
+
+### [docsagent](https://github.com/docsagent/docsagent)
+
+本地优先的AI文档助手，支持安全索引和对话式检索数千份桌面文档，零云端泄露风险。
+
+- **Stars:** ⭐️ 577
+- **Tags:** `local-ai` `documents` `mcp` `cli` `search`
+- **最后活动时间:** 2026-05-06
 
 ### [snow-cli](https://github.com/MayDay-wpf/snow-cli)
 
@@ -2178,23 +2202,15 @@ GPU加速的终端画板，将所有会话置于无限画布上。支持Claude�
 
 - **Stars:** ⭐️ 576
 - **Tags:** `ai-agents` `ai-coding` `terminal`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-06
 
 ### [VTCode](https://github.com/vinhnx/VTCode)
 
 语义化AI编码智能体，在终端中提供智能代码生成与辅助功能。
 
-- **Stars:** ⭐️ 569
+- **Stars:** ⭐️ 576
 - **Tags:** `coding-agent` `semantic-ai` `terminal` `rust` `tui`
 - **最后活动时间:** 2026-05-03
-
-### [docsagent](https://github.com/docsagent/docsagent)
-
-本地优先的AI文档助手，支持安全索引和对话式检索数千份桌面文档，零云端泄露风险。
-
-- **Stars:** ⭐️ 563
-- **Tags:** `local-ai` `documents` `mcp` `cli` `search`
-- **最后活动时间:** 2026-04-12
 
 ### [wechat-cli](https://github.com/freestylefly/wechat-cli)
 
@@ -2208,7 +2224,7 @@ GPU加速的终端画板，将所有会话置于无限画布上。支持Claude�
 
 专为 Claude Code 设计的终端会话管理工具，类似 tmux 的体验，帮助开发者高效管理多个 AI 编程会话。
 
-- **Stars:** ⭐️ 525
+- **Stars:** ⭐️ 526
 - **Tags:** `claude` `claude-code` `terminal` `tmux`
 - **最后活动时间:** 2026-04-20
 
@@ -2218,7 +2234,7 @@ GPU加速的终端画板，将所有会话置于无限画布上。支持Claude�
 
 - **Stars:** ⭐️ 524
 - **Tags:** `Fish` `Shell` `LLM`
-- **最后活动时间:** 2026-05-01
+- **最后活动时间:** 2026-05-06
 
 ## 未分类 (Others)
 
@@ -2228,5 +2244,5 @@ GPU加速的终端画板，将所有会话置于无限画布上。支持Claude�
 
 - **Stars:** ⭐️ 48.5k
 - **Tags:** `desktop` `rust` `tauri` `chatgpt`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-06
 
