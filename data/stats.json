@@ -1,6 +1,6 @@
 {
-  "totalProjects": 8931,
-  "totalRawProjects": 18653,
+  "totalProjects": 8992,
+  "totalRawProjects": 18734,
   "recencyThresholdMonths": 6,
   "categories": {
     "trending": {
@@ -15,59 +15,59 @@
     },
     "agents": {
       "name": "🤖 智能体与编排",
-      "count": 1345,
-      "rawCount": 1685
+      "count": 1366,
+      "rawCount": 1708
     },
     "rag_data": {
       "name": "🔍 RAG与检索",
-      "count": 406,
-      "rawCount": 652
+      "count": 411,
+      "rawCount": 657
     },
     "infrastructure": {
       "name": "☁️ 基础设施与部署",
-      "count": 915,
-      "rawCount": 1506
+      "count": 919,
+      "rawCount": 1510
     },
     "finetuning": {
       "name": "🔧 微调与训练",
-      "count": 354,
+      "count": 353,
       "rawCount": 894
     },
     "multimodal": {
       "name": "👁️ 多模态与音视频",
-      "count": 840,
-      "rawCount": 2699
+      "count": 842,
+      "rawCount": 2704
     },
     "devtools": {
       "name": "🛠️ 开发工具与SDK",
-      "count": 1984,
-      "rawCount": 3309
+      "count": 1993,
+      "rawCount": 3318
     },
     "applications": {
       "name": "🎨 AI终端应用",
-      "count": 836,
-      "rawCount": 1545
+      "count": 845,
+      "rawCount": 1556
     },
     "learning": {
       "name": "📚 学习与资源",
-      "count": 1197,
-      "rawCount": 4100
+      "count": 1201,
+      "rawCount": 4113
     },
     "desktop_tools": {
       "name": "💻 桌面与操作系统级应用",
-      "count": 279,
-      "rawCount": 384
+      "count": 280,
+      "rawCount": 387
     },
     "robotics_iot": {
       "name": "🦾 机器人与物联网",
-      "count": 474,
-      "rawCount": 1045
+      "count": 479,
+      "rawCount": 1050
     },
     "finance_business": {
       "name": "💼 商业与量化",
-      "count": 170,
-      "rawCount": 321
+      "count": 172,
+      "rawCount": 324
     }
   },
-  "lastUpdated": "2026-05-07T01:39:20.566Z"
+  "lastUpdated": "2026-05-08T05:55:14.731Z"
 }

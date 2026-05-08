@@ -2,7 +2,7 @@
 
 > AI applied to financial analysis, quantitative trading, and enterprise.
 
-> 当前分类已收录 **170** 个相关项目。
+> 当前分类已收录 **172** 个相关项目。
 
 ## Enterprise Solutions
 
@@ -12,7 +12,7 @@
 
 - **Stars:** ⭐️ 45.6k
 - **Tags:** `crm` `ai` `open-source` `typescript` `react`
-- **最后活动时间:** 2026-05-06
+- **最后活动时间:** 2026-05-08
 
 ### [ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro)
 
@@ -36,7 +36,7 @@
 
 - **Stars:** ⭐️ 15.1k
 - **Tags:** `Text-to-SQL` `BI` `RAG`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-08
 
 ### [growthbook](https://github.com/growthbook/growthbook)
 
@@ -44,7 +44,7 @@
 
 - **Stars:** ⭐️ 7.7k
 - **Tags:** `ab-testing` `feature-flags` `analytics` `experimentation` `statistics`
-- **最后活动时间:** 2026-05-06
+- **最后活动时间:** 2026-05-07
 
 ### [FinRobot](https://github.com/AI4Finance-Foundation/FinRobot)
 
@@ -60,7 +60,7 @@
 
 - **Stars:** ⭐️ 5.9k
 - **Tags:** `analytics` `ai` `privacy` `dashboard`
-- **最后活动时间:** 2026-05-06
+- **最后活动时间:** 2026-05-07
 
 ### [supersonic](https://github.com/tencentmusic/supersonic)
 
@@ -92,15 +92,15 @@
 
 - **Stars:** ⭐️ 2.4k
 - **Tags:** `kyc` `identity-verification` `ocr` `risk-management` `orchestration`
-- **最后活动时间:** 2026-04-27
+- **最后活动时间:** 2026-05-07
 
 ### [CordysCRM](https://github.com/1Panel-dev/CordysCRM)
 
 新一代开源AI CRM系统，深度融合数字化与智能化能力，支持私有化部署，配备AI助理提供7×24小时智能服务。
 
-- **Stars:** ⭐️ 2.1k
+- **Stars:** ⭐️ 2.2k
 - **Tags:** `ai-crm` `crm` `open-source` `enterprise`
-- **最后活动时间:** 2026-04-24
+- **最后活动时间:** 2026-05-07
 
 ### [steedos-platform](https://github.com/steedos/steedos-platform)
 
@@ -108,7 +108,7 @@ AI原生企业应用基础设施平台，支持通过提示词快速生成企业
 
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `低代码` `企业应用` `AI原生`
-- **最后活动时间:** 2026-05-06
+- **最后活动时间:** 2026-05-07
 
 ### [BeeCount](https://github.com/TNT-Likely/BeeCount)
 
@@ -140,7 +140,7 @@ Meta开源的AI/ML驱动营销组合建模(MMM)工具包，帮助营销人员减
 
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `entity-resolution` `machine-learning` `deduplication` `data-quality`
-- **最后活动时间:** 2026-04-30
+- **最后活动时间:** 2026-05-07
 
 ### [himarket](https://github.com/higress-group/himarket)
 
@@ -156,13 +156,13 @@ Meta开源的AI/ML驱动营销组合建模(MMM)工具包，帮助营销人员减
 
 - **Stars:** ⭐️ 1.0k
 - **Tags:** `FinOps` `No-Code` `Cloud`
-- **最后活动时间:** 2026-05-06
+- **最后活动时间:** 2026-05-07
 
 ### [OpenDerisk](https://github.com/derisk-ai/OpenDerisk)
 
 AI原生风险智能系统，提供7×24小时全面深入的应用系统风险监控与保护。
 
-- **Stars:** ⭐️ 924
+- **Stars:** ⭐️ 925
 - **Tags:** `Risk Management` `Multi-Agent` `DevOps`
 - **最后活动时间:** 2026-04-26
 
@@ -178,7 +178,7 @@ AI原生风险智能系统，提供7×24小时全面深入的应用系统风险�
 
 AI驱动的测试自动化平台，结合LangChain与MCP实现测试用例自动生成与管理。
 
-- **Stars:** ⭐️ 834
+- **Stars:** ⭐️ 836
 - **Tags:** `test-automation` `langchain` `mcp` `enterprise`
 - **最后活动时间:** 2026-05-06
 
@@ -186,7 +186,7 @@ AI驱动的测试自动化平台，结合LangChain与MCP实现测试用例自动
 
 开放技能市场，为AI代理提供原生加密货币访问能力。连接AI代理与区块链金融服务。
 
-- **Stars:** ⭐️ 821
+- **Stars:** ⭐️ 822
 - **Tags:** `crypto` `skills-marketplace` `ai-agents` `binance`
 - **最后活动时间:** 2026-04-28
 
@@ -194,9 +194,9 @@ AI驱动的测试自动化平台，结合LangChain与MCP实现测试用例自动
 
 基于Laravel 12的AI驱动开源电商系统，支持多AI模型智能自动化、多语言和多货币。
 
-- **Stars:** ⭐️ 621
+- **Stars:** ⭐️ 622
 - **Tags:** `ai-ecommerce` `laravel` `multi-language` `open-source`
-- **最后活动时间:** 2026-05-03
+- **最后活动时间:** 2026-05-08
 
 ### [AI-Bank-Statement-Document-Automation-By-LLM-And-Personal-Finanical-Analysis-Prediction](https://github.com/johnsonhk88/AI-Bank-Statement-Document-Automation-By-LLM-And-Personal-Finanical-Analysis-Prediction)
 
@@ -236,17 +236,17 @@ AI驱动的财务自动化平台，为现代CFO提供智能化的财务控制、
 
 面向分析师、量化交易者和AI代理的金融数据平台，支持股票、加密货币、衍生品等多类资产分析。
 
-- **Stars:** ⭐️ 67.1k
+- **Stars:** ⭐️ 67.2k
 - **Tags:** `finance` `quantitative-finance` `machine-learning` `ai`
-- **最后活动时间:** 2026-05-06
+- **最后活动时间:** 2026-05-08
 
 ### [daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
 
 LLM驱动的A股/港股/美股智能分析系统，整合多数据源行情与实时新闻，支持定时推送。
 
-- **Stars:** ⭐️ 34.3k
+- **Stars:** ⭐️ 34.5k
 - **Tags:** `Stock Analysis` `LLM` `Quant`
-- **最后活动时间:** 2026-05-06
+- **最后活动时间:** 2026-05-07
 
 ### [dexter](https://github.com/virattt/dexter)
 
@@ -256,6 +256,14 @@ LLM驱动的A股/港股/美股智能分析系统，整合多数据源行情与�
 - **Tags:** `Finance` `Agent` `Research`
 - **最后活动时间:** 2026-05-03
 
+### [FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)
+
+现代化金融终端应用，集成机器学习功能提供高级市场分析、投资研究和经济数据工具，支持交互式数据探索。
+
+- **Stars:** ⭐️ 20.2k
+- **Tags:** `Finance` `Machine Learning` `Quantitative`
+- **最后活动时间:** 2026-05-06
+
 ### [prophet](https://github.com/facebook/prophet)
 
 Meta开源的时间序列预测工具，擅长处理多重季节性和非线性增长的数据预测。
@@ -264,19 +272,11 @@ Meta开源的时间序列预测工具，擅长处理多重季节性和非线性�
 - **Tags:** `时间序列` `预测` `机器学习`
 - **最后活动时间:** 2026-04-08
 
-### [FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)
-
-现代化金融终端应用，集成机器学习功能提供高级市场分析、投资研究和经济数据工具，支持交互式数据探索。
-
-- **Stars:** ⭐️ 20.1k
-- **Tags:** `Finance` `Machine Learning` `Quantitative`
-- **最后活动时间:** 2026-05-06
-
 ### [akshare](https://github.com/akfamily/akshare)
 
 优雅简洁的Python财经数据接口库，提供股票、期货、债券等金融数据的开源接口。
 
-- **Stars:** ⭐️ 18.9k
+- **Stars:** ⭐️ 19.0k
 - **Tags:** `finance` `financial-data` `quant` `stock` `python`
 - **最后活动时间:** 2026-05-02
 
@@ -292,17 +292,9 @@ Meta开源的时间序列预测工具，擅长处理多重季节性和非线性�
 
 AI赋能的股票分析工具，支持A股、港股、美股行情获取与AI情绪分析，数据本地存储，兼容多种AI平台。
 
-- **Stars:** ⭐️ 5.5k
+- **Stars:** ⭐️ 5.6k
 - **Tags:** `stock-analysis` `ai` `deepseek` `ollama` `openai` `golang`
-- **最后活动时间:** 2026-05-06
-
-### [HQChart](https://github.com/jones2000/HQChart)
-
-专业级H5/小程序K线图与走势图可视化库，支持沪深/港股/数字货币/期货/美股行情展示。
-
-- **Stars:** ⭐️ 3.3k
-- **Tags:** `kline` `chart` `stock` `trading-view` `javascript`
-- **最后活动时间:** 2026-05-06
+- **最后活动时间:** 2026-05-07
 
 ### [prediction-market-analysis](https://github.com/Jon-Becker/prediction-market-analysis)
 
@@ -312,11 +304,19 @@ AI赋能的股票分析工具，支持A股、港股、美股行情获取与AI情
 - **Tags:** `prediction-markets` `data-science` `statistics`
 - **最后活动时间:** 2026-04-18
 
+### [HQChart](https://github.com/jones2000/HQChart)
+
+专业级H5/小程序K线图与走势图可视化库，支持沪深/港股/数字货币/期货/美股行情展示。
+
+- **Stars:** ⭐️ 3.3k
+- **Tags:** `kline` `chart` `stock` `trading-view` `javascript`
+- **最后活动时间:** 2026-05-06
+
 ### [tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp)
 
 MCP集成工具，将Claude Code连接到TradingView桌面端，实现AI辅助的图表分析和个人工作流自动化。
 
-- **Stars:** ⭐️ 2.6k
+- **Stars:** ⭐️ 2.7k
 - **Tags:** `tradingview` `mcp` `claude-code` `chart-analysis`
 - **最后活动时间:** 2026-04-04
 
@@ -334,7 +334,7 @@ MCP集成工具，将Claude Code连接到TradingView桌面端，实现AI辅助�
 
 - **Stars:** ⭐️ 2.3k
 - **Tags:** `mcp-server` `tradingview` `market-analysis` `claude-desktop` `cryptocurrency`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-07
 
 ### [MarS](https://github.com/microsoft/MarS)
 
@@ -356,7 +356,7 @@ MCP集成工具，将Claude Code连接到TradingView桌面端，实现AI辅助�
 
 为股票投资者和交易员设计的Claude Code技能集，支持市场分析、技术图表、经济日历和交易策略开发。
 
-- **Stars:** ⭐️ 1.2k
+- **Stars:** ⭐️ 1.3k
 - **Tags:** `trading` `market-analysis` `claude-skills` `finance`
 - **最后活动时间:** 2026-05-04
 
@@ -366,7 +366,7 @@ MCP集成工具，将Claude Code连接到TradingView桌面端，实现AI辅助�
 
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `Crypto` `AI Ratings` `Trading Signals` `News Aggregation`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-06
 
 ### [jcp](https://github.com/run-bigpig/jcp)
 
@@ -382,7 +382,7 @@ MCP集成工具，将Claude Code连接到TradingView桌面端，实现AI辅助�
 
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `marketing` `bayesian` `mmm` `clv` `python`
-- **最后活动时间:** 2026-05-06
+- **最后活动时间:** 2026-05-07
 
 ### [finance](https://github.com/yorkeccak/finance)
 
@@ -406,7 +406,7 @@ MCP集成工具，将Claude Code连接到TradingView桌面端，实现AI辅助�
 
 - **Stars:** ⭐️ 745
 - **Tags:** `ai` `machine-learning` `stock-market` `prediction` `signal-analysis`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-07
 
 ### [sports-betting](https://github.com/georgedouzas/sports-betting)
 
@@ -440,6 +440,14 @@ MCP集成工具，将Claude Code连接到TradingView桌面端，实现AI辅助�
 - **Tags:** `mcp` `mcp-server` `stock-exchange` `financial-data` `market-analysis`
 - **最后活动时间:** 2026-05-02
 
+### [FinanceMCP](https://github.com/guangxiangdebizi/FinanceMCP)
+
+为LLM提供金融数据访问能力的MCP服务器，支持股票、基金、加密货币等多维度金融数据分析。
+
+- **Stars:** ⭐️ 554
+- **Tags:** `mcp` `mcp-server` `llm` `finance` `data`
+- **最后活动时间:** 2026-04-21
+
 ### [Polymarket_data](https://github.com/SII-WANGZJ/Polymarket_data)
 
 包含11亿条Polymarket交易记录的综合数据集，已处理为多种分析就绪格式，适用于市场研究、行为研究和量化分析。
@@ -447,14 +455,6 @@ MCP集成工具，将Claude Code连接到TradingView桌面端，实现AI辅助�
 - **Stars:** ⭐️ 553
 - **Tags:** `polymarket` `prediction-market` `trading-data` `quantitative-analysis` `dataset`
 - **最后活动时间:** 2026-01-01
-
-### [FinanceMCP](https://github.com/guangxiangdebizi/FinanceMCP)
-
-为LLM提供金融数据访问能力的MCP服务器，支持股票、基金、加密货币等多维度金融数据分析。
-
-- **Stars:** ⭐️ 552
-- **Tags:** `mcp` `mcp-server` `llm` `finance` `data`
-- **最后活动时间:** 2026-04-21
 
 ### [toad](https://github.com/amphibian-dev/toad)
 
@@ -486,7 +486,7 @@ MCP集成工具，将Claude Code连接到TradingView桌面端，实现AI辅助�
 
 基于多智能体LLM的金融交易框架，利用多个AI智能体协同进行金融交易决策与分析。
 
-- **Stars:** ⭐️ 70.3k
+- **Stars:** ⭐️ 71.1k
 - **Tags:** `Multi-Agent` `LLM` `Quantitative Trading`
 - **最后活动时间:** 2026-05-01
 
@@ -502,15 +502,15 @@ AI驱动的对冲基金团队，利用多智能体协作进行量化交易决策
 
 开源加密货币量化交易机器人，支持策略回测、技术指标分析和自动化交易。
 
-- **Stars:** ⭐️ 49.9k
+- **Stars:** ⭐️ 50.0k
 - **Tags:** `trading-bot` `cryptocurrency` `algorithmic-trading` `python`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-07
 
 ### [qlib](https://github.com/microsoft/qlib)
 
 微软开源的AI量化投资平台，覆盖量化研究全流程，支持多种机器学习建模范式。
 
-- **Stars:** ⭐️ 42.1k
+- **Stars:** ⭐️ 42.2k
 - **Tags:** `量化投资` `机器学习` `深度学习`
 - **最后活动时间:** 2026-04-22
 
@@ -528,13 +528,13 @@ AI驱动的对冲基金团队，利用多智能体协作进行量化交易决策
 
 - **Stars:** ⭐️ 26.0k
 - **Tags:** `quantitative-finance` `algorithmic-trading` `trading-bot`
-- **最后活动时间:** 2026-05-06
+- **最后活动时间:** 2026-05-08
 
 ### [TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)
 
 基于多智能体LLM的中文金融交易框架，支持多角色协作进行市场分析和交易决策。
 
-- **Stars:** ⭐️ 25.8k
+- **Stars:** ⭐️ 25.9k
 - **Tags:** `Multi-Agent` `LLM` `Trading` `Finance`
 - **最后活动时间:** 2026-04-20
 
@@ -542,7 +542,7 @@ AI驱动的对冲基金团队，利用多智能体协作进行量化交易决策
 
 生产级Rust原生高性能交易引擎，支持确定性事件驱动架构，集成机器学习功能，覆盖加密货币、股票、外汇等多市场。
 
-- **Stars:** ⭐️ 22.5k
+- **Stars:** ⭐️ 22.6k
 - **Tags:** `Quantitative Trading` `Machine Learning` `Rust`
 - **最后活动时间:** 2026-05-07
 
@@ -552,7 +552,7 @@ QuantConnect开源的算法交易引擎，支持Python和C#，提供完整的回
 
 - **Stars:** ⭐️ 18.8k
 - **Tags:** `量化交易` `算法交易` `金融`
-- **最后活动时间:** 2026-05-06
+- **最后活动时间:** 2026-05-07
 
 ### [hummingbot](https://github.com/hummingbot/hummingbot)
 
@@ -590,7 +590,7 @@ AI驱动的量化投资研究平台，支持完全本地部署的自动量化交
 
 AI量化交易研究项目，探索AI能否战胜市场，提供实盘交易基准测试与技术报告。
 
-- **Stars:** ⭐️ 14.0k
+- **Stars:** ⭐️ 14.1k
 - **Tags:** `ai-trading` `quantitative-finance` `algorithmic-trading`
 - **最后活动时间:** 2026-05-06
 
@@ -638,7 +638,7 @@ Python量化交易回测框架，支持快速验证和优化交易策略，适�
 
 用Python编写的高级加密货币交易机器人框架，支持量化交易策略开发和回测。
 
-- **Stars:** ⭐️ 7.8k
+- **Stars:** ⭐️ 7.9k
 - **Tags:** `trading-bot` `crypto` `algorithmic-trading` `quantitative-finance`
 - **最后活动时间:** 2026-05-02
 
@@ -686,7 +686,7 @@ Python量化交易回测框架，支持快速验证和优化交易策略，适�
 
 可扩展的Python量化回测与交易框架，支持多种证券类型，适用于算法交易策略开发与验证。
 
-- **Stars:** ⭐️ 6.3k
+- **Stars:** ⭐️ 6.4k
 - **Tags:** `backtest` `quant` `trading` `python`
 - **最后活动时间:** 2026-04-30
 
@@ -704,7 +704,7 @@ Python量化交易回测框架，支持快速验证和优化交易策略，适�
 
 - **Stars:** ⭐️ 5.9k
 - **Tags:** `ai-trading` `trading-bot` `cryptocurrency` `backtest`
-- **最后活动时间:** 2026-05-06
+- **最后活动时间:** 2026-05-07
 
 ### [PyPortfolioOpt](https://github.com/PyPortfolio/PyPortfolioOpt)
 
@@ -713,6 +713,14 @@ Python金融投资组合优化库，支持经典有效前沿、Black-Litterman�
 - **Stars:** ⭐️ 5.7k
 - **Tags:** `portfolio-optimization` `quantitative-finance` `python`
 - **最后活动时间:** 2026-04-20
+
+### [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)
+
+基于多智能体和群体智能技术的个人交易代理，支持量化回测和自动化交易策略执行。
+
+- **Stars:** ⭐️ 5.6k
+- **Tags:** `multi-agent` `trading` `quantitative-finance` `backtesting` `swarm`
+- **最后活动时间:** 2026-05-08
 
 ### [ai_quant_trade](https://github.com/charliedream1/ai_quant_trade)
 
@@ -728,7 +736,7 @@ Python金融投资组合优化库，支持经典有效前沿、Black-Litterman�
 
 - **Stars:** ⭐️ 5.5k
 - **Tags:** `algorithmic-trading` `crypto-trading` `trading-bot`
-- **最后活动时间:** 2026-05-06
+- **最后活动时间:** 2026-05-07
 
 ### [tf-quant-finance](https://github.com/google/tf-quant-finance)
 
@@ -737,14 +745,6 @@ Python金融投资组合优化库，支持经典有效前沿、Black-Litterman�
 - **Stars:** ⭐️ 5.3k
 - **Tags:** `tensorflow` `quantitative-finance` `gpu` `derivatives` `pricing`
 - **最后活动时间:** 2026-02-12
-
-### [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)
-
-基于多智能体和群体智能技术的个人交易代理，支持量化回测和自动化交易策略执行。
-
-- **Stars:** ⭐️ 5.3k
-- **Tags:** `multi-agent` `trading` `quantitative-finance` `backtesting` `swarm`
-- **最后活动时间:** 2026-05-06
 
 ### [awesome-quant](https://github.com/thuquant/awesome-quant)
 
@@ -768,7 +768,7 @@ Python金融投资组合优化库，支持经典有效前沿、Black-Litterman�
 
 - **Stars:** ⭐️ 4.7k
 - **Tags:** `quant` `futures` `python` `trading`
-- **最后活动时间:** 2026-04-29
+- **最后活动时间:** 2026-05-07
 
 ### [adata](https://github.com/1nchaos/adata)
 
@@ -806,9 +806,9 @@ Python金融投资组合优化库，支持经典有效前沿、Black-Litterman�
 
 文件驱动的AI交易智能体引擎，支持加密货币和证券市场。
 
-- **Stars:** ⭐️ 3.9k
+- **Stars:** ⭐️ 4.0k
 - **Tags:** `trading-agent` `crypto` `quantitative`
-- **最后活动时间:** 2026-05-06
+- **最后活动时间:** 2026-05-07
 
 ### [Finance](https://github.com/shashankvemuri/Finance)
 
@@ -822,9 +822,9 @@ Python金融投资组合优化库，支持经典有效前沿、Black-Litterman�
 
 AI驱动的本地优先量化交易平台，支持研究、回测和实盘交易，集成LLM和多智能体技术。
 
-- **Stars:** ⭐️ 3.3k
+- **Stars:** ⭐️ 3.7k
 - **Tags:** `AI-Trading` `LLM` `Multi-Agent`
-- **最后活动时间:** 2026-05-06
+- **最后活动时间:** 2026-05-07
 
 ### [pybroker](https://github.com/edtechre/pybroker)
 
@@ -856,7 +856,7 @@ AI原生模块化量化交易基础设施，支持多种深度强化学习算法
 
 - **Stars:** ⭐️ 3.1k
 - **Tags:** `Quantitative Trading` `Backtesting` `Finance`
-- **最后活动时间:** 2026-05-06
+- **最后活动时间:** 2026-05-07
 
 ### [DataFrame](https://github.com/hosseinmoein/DataFrame)
 
@@ -864,7 +864,7 @@ AI原生模块化量化交易基础设施，支持多种深度强化学习算法
 
 - **Stars:** ⭐️ 3.0k
 - **Tags:** `cpp` `dataframe` `data-analysis` `machine-learning` `financial-analysis`
-- **最后活动时间:** 2026-05-06
+- **最后活动时间:** 2026-05-07
 
 ### [openctp](https://github.com/openctp/openctp)
 
@@ -894,7 +894,7 @@ AI原生模块化量化交易基础设施，支持多种深度强化学习算法
 
 利用群体智能和AI代理构建自主对冲基金，自动化完成市场分析、风险管理和交易执行。
 
-- **Stars:** ⭐️ 2.3k
+- **Stars:** ⭐️ 2.4k
 - **Tags:** `ai` `hedgefund` `quant` `trading` `ai-agents`
 - **最后活动时间:** 2026-04-13
 
@@ -960,7 +960,7 @@ R语言因果推断包，用于时间序列数据的干预效果分析和因果�
 
 - **Stars:** ⭐️ 1.8k
 - **Tags:** `algorithmic-trading` `quantitative-finance` `trading-bot` `python`
-- **最后活动时间:** 2026-05-06
+- **最后活动时间:** 2026-05-08
 
 ### [chan.py](https://github.com/Vespa314/chan.py)
 
@@ -969,6 +969,14 @@ R语言因果推断包，用于时间序列数据的干预效果分析和因果�
 - **Stars:** ⭐️ 1.7k
 - **Tags:** `chanlun` `quant` `stock` `machinelearning` `python`
 - **最后活动时间:** 2025-12-26
+
+### [atlas-gic](https://github.com/chrisworsey55/atlas-gic)
+
+使用Karpathy风格自研究的自我改进AI交易智能体。
+
+- **Stars:** ⭐️ 1.7k
+- **Tags:** `trading-agents` `ai-trading` `autonomous`
+- **最后活动时间:** 2026-03-20
 
 ### [RustQuant](https://github.com/avhz/RustQuant)
 
@@ -985,14 +993,6 @@ Python时间序列分析库，提供R语言auto.arima的等效功能，支持ARI
 - **Stars:** ⭐️ 1.7k
 - **Tags:** `time-series` `arima` `forecasting` `python`
 - **最后活动时间:** 2025-11-17
-
-### [atlas-gic](https://github.com/chrisworsey55/atlas-gic)
-
-使用Karpathy风格自研究的自我改进AI交易智能体。
-
-- **Stars:** ⭐️ 1.7k
-- **Tags:** `trading-agents` `ai-trading` `autonomous`
-- **最后活动时间:** 2026-03-20
 
 ### [intelligent-trading-bot](https://github.com/asavinov/intelligent-trading-bot)
 
@@ -1032,7 +1032,7 @@ Python时间序列分析库，提供R语言auto.arima的等效功能，支持ARI
 
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `algorithmic-trading` `backtesting` `trading-bot` `ai-trading`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-08
 
 ### [finance-skills](https://github.com/himself65/finance-skills)
 
@@ -1048,7 +1048,7 @@ Python时间序列分析库，提供R语言auto.arima的等效功能，支持ARI
 
 - **Stars:** ⭐️ 1.4k
 - **Tags:** `Quantitative Finance` `LLM4Fin` `Trading`
-- **最后活动时间:** 2026-05-06
+- **最后活动时间:** 2026-05-07
 
 ### [open-trading-api](https://github.com/koreainvestment/open-trading-api)
 
@@ -1065,6 +1065,14 @@ Python时间序列分析库，提供R语言auto.arima的等效功能，支持ARI
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `financial-data` `quantitative-trading` `python` `stock-market`
 - **最后活动时间:** 2026-01-29
+
+### [ai-market-maker](https://github.com/olaxbt/ai-market-maker)
+
+基于AI的加密货币做市商系统，采用多智能体架构实现自动化交易策略。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `ai-trading` `multiagent` `market-maker` `crypto`
+- **最后活动时间:** 2026-05-06
 
 ### [aiagents-stock](https://github.com/oficcejo/aiagents-stock)
 
@@ -1106,29 +1114,37 @@ Python时间序列分析库，提供R语言auto.arima的等效功能，支持ARI
 - **Tags:** `machine-learning` `quant-finance` `numerai` `cryptocurrency`
 - **最后活动时间:** 2026-03-14
 
+### [investing-algorithm-framework](https://github.com/coding-kitties/investing-algorithm-framework)
+
+用于开发、回测和部署自动化交易算法和交易机器人的框架，支持加密货币和量化交易策略。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `algorithmic-trading` `backtesting` `trading-bot` `quantitative-finance`
+- **最后活动时间:** 2026-05-05
+
 ### [akquant](https://github.com/akfamily/akquant)
 
 基于Rust和Python的高性能量化研究与交易框架，支持回测和金融数据分析。
 
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `quantitative-trading` `backtest` `rust` `finance`
-- **最后活动时间:** 2026-05-06
+- **最后活动时间:** 2026-05-07
 
 ### [LangAlpha](https://github.com/ginlix-ai/LangAlpha)
 
 基于Claude的金融AI助手，结合LangChain和LangGraph实现投资分析和交易策略自动化。
 
-- **Stars:** ⭐️ 1.0k
+- **Stars:** ⭐️ 1.1k
 - **Tags:** `langchain` `langgraph` `finance` `trading` `llm-agent`
 - **最后活动时间:** 2026-05-07
 
-### [investing-algorithm-framework](https://github.com/coding-kitties/investing-algorithm-framework)
+### [OpenClaw-Trading-Hub](https://github.com/radioman/OpenClaw-Trading-Hub)
 
-用于开发、回测和部署自动化交易算法和交易机器人的框架，支持加密货币和量化交易策略。
+基于OpenClaw的免费AI量化交易机器人，支持PocketOption平台自动化交易。
 
-- **Stars:** ⭐️ 1.0k
-- **Tags:** `algorithmic-trading` `backtesting` `trading-bot` `quantitative-finance`
-- **最后活动时间:** 2026-05-05
+- **Stars:** ⭐️ 976
+- **Tags:** `trading-bot` `quantitative` `openclaw` `automation`
+- **最后活动时间:** 2026-05-03
 
 ### [Hyper-Alpha-Arena](https://github.com/HammerGPT/Hyper-Alpha-Arena)
 
@@ -1142,7 +1158,7 @@ AI驱动的自动交易平台，支持Hyperliquid和币安合约的智能交易�
 
 终端优先的TradingView策略实验室，支持下载市场数据、回测Python策略，并使用Optuna进行超参数优化。
 
-- **Stars:** ⭐️ 941
+- **Stars:** ⭐️ 942
 - **Tags:** `algorithmic-trading` `backtesting` `hyperparameter-optimization` `trading-strategy`
 - **最后活动时间:** 2026-03-26
 
@@ -1150,9 +1166,9 @@ AI驱动的自动交易平台，支持Hyperliquid和币安合约的智能交易�
 
 AI驱动的量化交易数据系统，支持实时市场数据分析、技术指标计算和Wyckoff分析方法。
 
-- **Stars:** ⭐️ 933
+- **Stars:** ⭐️ 936
 - **Tags:** `AI` `Quantitative Trading` `Technical Analysis` `Binance`
-- **最后活动时间:** 2026-05-02
+- **最后活动时间:** 2026-05-08
 
 ### [stock-scanner](https://github.com/DR-lin-eng/stock-scanner)
 
@@ -1178,6 +1194,14 @@ JavaScript/TypeScript技术指标库，提供RSI、MACD、移动平均线等多�
 - **Tags:** `technical-analysis` `trading` `indicators` `quantitative-finance`
 - **最后活动时间:** 2026-05-06
 
+### [tradememory-protocol](https://github.com/mnemox-ai/tradememory-protocol)
+
+为AI交易代理提供决策审计追踪和持久化记忆，支持结果加权召回和SHA-256防篡改检测。
+
+- **Stars:** ⭐️ 818
+- **Tags:** `ai-agents` `mcp` `mcp-server` `trading` `memory`
+- **最后活动时间:** 2026-04-10
+
 ### [jin-ce-zhi-suan](https://github.com/ScottZt/jin-ce-zhi-suan)
 
 量化交易辅助工具，提供本地化行情数据服务与历史回测功能，通过AI辅助将主观想法转化为可验证的交易规则。
@@ -1186,19 +1210,11 @@ JavaScript/TypeScript技术指标库，提供RSI、MACD、移动平均线等多�
 - **Tags:** `quantitative-trading` `backtesting` `trading-bot` `data-analysis`
 - **最后活动时间:** 2026-05-06
 
-### [tradememory-protocol](https://github.com/mnemox-ai/tradememory-protocol)
-
-为AI交易代理提供决策审计追踪和持久化记忆，支持结果加权召回和SHA-256防篡改检测。
-
-- **Stars:** ⭐️ 809
-- **Tags:** `ai-agents` `mcp` `mcp-server` `trading` `memory`
-- **最后活动时间:** 2026-04-10
-
 ### [aat](https://github.com/AsyncAlgoTrading/aat)
 
 异步事件驱动的算法交易框架，支持Python和C++，提供回测引擎、风险管理及加密货币/股票市场交易功能。
 
-- **Stars:** ⭐️ 808
+- **Stars:** ⭐️ 809
 - **Tags:** `algorithmic-trading` `backtest-engine` `trading-bot` `cryptocurrency`
 - **最后活动时间:** 2026-03-30
 
@@ -1222,17 +1238,17 @@ JavaScript/TypeScript技术指标库，提供RSI、MACD、移动平均线等多�
 
 AI原生交易平台命令行工具，提供实时行情数据、投资组合管理和交易功能。
 
-- **Stars:** ⭐️ 791
+- **Stars:** ⭐️ 801
 - **Tags:** `ai-native` `trading` `cli` `tui`
-- **最后活动时间:** 2026-05-03
+- **最后活动时间:** 2026-05-07
 
 ### [QuantaAlpha](https://github.com/QuantaAlpha/QuantaAlpha)
 
 结合LLM智能与进化策略的量化因子挖掘框架，支持自动挖掘、演化和验证alpha因子。
 
-- **Stars:** ⭐️ 770
+- **Stars:** ⭐️ 780
 - **Tags:** `量化交易` `因子挖掘` `LLM`
-- **最后活动时间:** 2026-05-06
+- **最后活动时间:** 2026-05-07
 
 ### [nof1-tracker](https://github.com/terryso/nof1-tracker)
 
@@ -1254,7 +1270,7 @@ AI原生交易平台命令行工具，提供实时行情数据、投资组合管
 
 Alpaca官方MCP服务器，让用户通过LLM工具直接用自然语言进行股票、ETF、加密货币和期权交易，支持数据分析和策略构建。
 
-- **Stars:** ⭐️ 708
+- **Stars:** ⭐️ 709
 - **Tags:** `MCP` `AI Trading` `Quantitative Finance`
 - **最后活动时间:** 2026-04-17
 
@@ -1286,7 +1302,7 @@ C++17量化交易框架，集成libtorch/LSTM/CUDA支持深度学习策略，支
 
 基于Backtrader的算法交易回测框架，内置20+策略和MCP服务器支持。
 
-- **Stars:** ⭐️ 640
+- **Stars:** ⭐️ 642
 - **Tags:** `algorithmic-trading` `backtrader` `mcp-server` `quantitative-finance`
 - **最后活动时间:** 2026-03-28
 
@@ -1310,7 +1326,7 @@ C++17量化交易框架，集成libtorch/LSTM/CUDA支持深度学习策略，支
 
 基于Transformer的动量交易策略模型，可解释的量化交易架构。
 
-- **Stars:** ⭐️ 615
+- **Stars:** ⭐️ 616
 - **Tags:** `transformer` `trading` `quantitative-finance` `deep-learning`
 - **最后活动时间:** 2026-03-19
 
@@ -1320,13 +1336,13 @@ C++17量化交易框架，集成libtorch/LSTM/CUDA支持深度学习策略，支
 
 - **Stars:** ⭐️ 583
 - **Tags:** `Stock` `Multi-Agent` `MCP`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-07
 
 ### [outsmart-cli](https://github.com/outsmartchad/outsmart-cli)
 
 专为AI代理设计的Solana交易CLI工具，支持18个DEX适配器和12个SWQoS交易处理器，可实现买卖、流动性池、狙击、创建池等操作。
 
-- **Stars:** ⭐️ 575
+- **Stars:** ⭐️ 576
 - **Tags:** `algo-trading` `solana` `dex` `tradingbot` `cli`
 - **最后活动时间:** 2026-03-07
 
@@ -1342,7 +1358,7 @@ C++17量化交易框架，集成libtorch/LSTM/CUDA支持深度学习策略，支
 
 开源加密货币量化交易机器人配置管理工具，支持策略回测、FreqAI机器学习策略优化、多交易所接入及Web界面管理。
 
-- **Stars:** ⭐️ 567
+- **Stars:** ⭐️ 568
 - **Tags:** `Quantitative Trading` `Machine Learning` `Crypto Bot`
 - **最后活动时间:** 2026-03-13
 
@@ -1350,7 +1366,7 @@ C++17量化交易框架，集成libtorch/LSTM/CUDA支持深度学习策略，支
 
 量化投资策略分析工具包，提供金融数据可视化、策略回测、绩效归因和风险管理等完整的量化分析功能。
 
-- **Stars:** ⭐️ 562
+- **Stars:** ⭐️ 564
 - **Tags:** `quantitative-finance` `portfolio-optimization` `python` `data-visualization`
 - **最后活动时间:** 2026-05-05
 
