@@ -45,7 +45,7 @@ onMounted(() => {
   left: 0;
   width: 100vw;
   height: 100vh;
-  background: #030816;
+  background: var(--vp-c-bg);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -70,7 +70,7 @@ onMounted(() => {
   transform: translate(-50%, -50%);
   width: 300px;
   height: 300px;
-  background: radial-gradient(circle, rgba(0, 242, 254, 0.15) 0%, transparent 70%);
+  background: var(--hello-logo-halo);
   filter: blur(40px);
   z-index: -1;
   animation: pulse 4s ease-in-out infinite;
@@ -87,8 +87,8 @@ onMounted(() => {
   height: 80px;
   margin: 0 auto 30px;
   border-radius: 50%;
-  border: 2px solid rgba(0, 242, 254, 0.1);
-  border-top-color: #00f2fe;
+  border: 2px solid var(--hello-c-brand-soft);
+  border-top-color: var(--hello-c-brand);
   animation: spin 1s linear infinite;
 }
 
@@ -99,8 +99,8 @@ onMounted(() => {
   right: 10px;
   bottom: 10px;
   border-radius: 50%;
-  border: 2px solid rgba(79, 172, 254, 0.1);
-  border-bottom-color: #4facfe;
+  border: 2px solid var(--hello-c-brand-soft);
+  border-bottom-color: var(--hello-c-brand-2);
   animation: spin 2s linear reverse infinite;
 }
 
@@ -111,32 +111,32 @@ onMounted(() => {
 .glitch-text {
   font-size: 2.5rem;
   font-weight: 900;
-  color: #fff;
-  letter-spacing: 2px;
+  color: var(--vp-c-text-1);
+  letter-spacing: 0;
   margin-bottom: 15px;
   position: relative;
-  text-shadow: 0 0 10px rgba(0, 242, 254, 0.5);
+  text-shadow: var(--hello-title-shadow);
 }
 
 .status-msg {
   font-size: 0.8rem;
-  color: #8a9bb3;
+  color: var(--vp-c-text-2);
   margin-bottom: 5px;
-  letter-spacing: 1px;
+  letter-spacing: 0;
 }
 
-.cyan { color: #00f2fe; font-weight: bold; }
+.cyan { color: var(--hello-c-brand); font-weight: bold; }
 
 .action-msg {
   font-size: 1.1rem;
-  color: #d1d8e0;
+  color: var(--vp-c-text-1);
   margin-bottom: 30px;
 }
 
 .progress-bar {
   width: 100%;
   height: 4px;
-  background: rgba(255, 255, 255, 0.05);
+  background: var(--vp-c-bg-soft);
   border-radius: 2px;
   margin-bottom: 40px;
   overflow: hidden;
@@ -145,8 +145,8 @@ onMounted(() => {
 .progress-fill {
   height: 100%;
   width: 0%;
-  background: linear-gradient(90deg, #00f2fe, #4facfe);
-  box-shadow: 0 0 10px rgba(0, 242, 254, 0.5);
+  background: linear-gradient(90deg, var(--hello-c-brand), var(--hello-c-brand-2));
+  box-shadow: 0 0 10px var(--hello-c-brand-glow);
   animation: load 1s ease-in-out forwards;
 }
 
@@ -156,19 +156,19 @@ onMounted(() => {
 
 .manual-link {
   font-size: 0.9rem;
-  color: #8a9bb3;
+  color: var(--vp-c-text-2);
 }
 
 .manual-link a {
-  color: #00f2fe;
+  color: var(--hello-c-brand);
   text-decoration: none;
-  border-bottom: 1px solid rgba(0, 242, 254, 0.3);
+  border-bottom: 1px solid var(--hello-border-strong);
   transition: all 0.3s ease;
 }
 
 .manual-link a:hover {
-  color: #fff;
-  border-bottom-color: #fff;
-  text-shadow: 0 0 8px rgba(0, 242, 254, 0.8);
+  color: var(--hello-link-hover);
+  border-bottom-color: var(--hello-link-hover);
+  text-shadow: var(--hello-title-shadow);
 }
 </style>

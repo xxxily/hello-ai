@@ -2,7 +2,7 @@ import zhNav from './nav/zh'
 import zhSidebar from './sidebar/zh'
 
 export default {
-  appearance: 'dark',
+  appearance: { initialValue: 'light' },
   title: 'Hello-AI',
   description: '这个是个帮助自己链接到广阔AI世界的项目，也希望能帮助到你。',
   lang: 'zh-CN',
