@@ -8,17 +8,17 @@
 
 汇集各类免费API的精选列表，包含多个AI和机器学习相关的API资源，是开发者寻找集成接口的实用参考。
 
-- **Stars:** ⭐️ 433.3k
+- **Stars:** ⭐️ 433.6k
 - **Tags:** `api` `public-apis` `free` `list`
-- **最后活动时间:** 2026-05-08
+- **最后活动时间:** 2026-05-09
 
 ## [openclaw](https://github.com/openclaw/openclaw)
 
 跨平台个人AI助手，支持任意操作系统。注重数据隐私，让用户完全掌控自己的数据。
 
-- **Stars:** ⭐️ 369.9k
+- **Stars:** ⭐️ 370.2k
 - **Tags:** `AI助手` `跨平台` `隐私保护`
-- **最后活动时间:** 2026-05-08
+- **最后活动时间:** 2026-05-09
 
 ## [tensorflow](https://github.com/tensorflow/tensorflow)
 
@@ -26,23 +26,23 @@ Google开源的端到端机器学习框架，支持构建和部署深度学习�
 
 - **Stars:** ⭐️ 195.0k
 - **Tags:** `Deep Learning` `Machine Learning` `Neural Network`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-10
 
 ## [claw-code](https://github.com/ultraworkers/claw-code)
 
 基于Rust构建的AI编程助手工具，史上最快突破10万星标的仓库。集成oh-my-codex提供智能代码补全与辅助功能。
 
-- **Stars:** ⭐️ 190.7k
+- **Stars:** ⭐️ 190.9k
 - **Tags:** `rust` `code-assistant` `ai-coding` `codex`
-- **最后活动时间:** 2026-05-06
+- **最后活动时间:** 2026-05-09
 
 ## [n8n](https://github.com/n8n-io/n8n)
 
 开源工作流自动化平台，原生支持AI能力和MCP协议，支持400+集成，可自托管或云端部署。
 
-- **Stars:** ⭐️ 187.1k
+- **Stars:** ⭐️ 187.2k
 - **Tags:** `工作流自动化` `低代码` `AI集成` `MCP`
-- **最后活动时间:** 2026-05-08
+- **最后活动时间:** 2026-05-09
 
 ## [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
 
@@ -50,13 +50,13 @@ Google开源的端到端机器学习框架，支持构建和部署深度学习�
 
 - **Stars:** ⭐️ 184.1k
 - **Tags:** `Agent` `Automation` `Autonomous`
-- **最后活动时间:** 2026-05-08
+- **最后活动时间:** 2026-05-10
 
 ## [superpowers](https://github.com/obra/superpowers)
 
 一个智能体技能框架和软件开发方法论，帮助开发者构建更高效的AI代理系统。
 
-- **Stars:** ⭐️ 182.8k
+- **Stars:** ⭐️ 183.8k
 - **Tags:** `agent-framework` `agentic-skills` `ai-agent`
 - **最后活动时间:** 2026-05-08
 
@@ -64,17 +64,17 @@ Google开源的端到端机器学习框架，支持构建和部署深度学习�
 
 全面的AI编程代理性能优化系统，涵盖技能、记忆、安全和研究优先开发模式，支持多种AI编程工具。
 
-- **Stars:** ⭐️ 175.9k
+- **Stars:** ⭐️ 176.7k
 - **Tags:** `Claude Code` `AI Agents` `Developer Tools`
-- **最后活动时间:** 2026-05-03
+- **最后活动时间:** 2026-05-09
 
 ## [ollama](https://github.com/ollama/ollama)
 
 轻量级本地大模型运行工具，支持Llama、Qwen、DeepSeek等多种开源模型，一键部署即开即用。
 
-- **Stars:** ⭐️ 171.0k
+- **Stars:** ⭐️ 171.1k
 - **Tags:** `LLM` `Local Deployment` `Model Inference`
-- **最后活动时间:** 2026-05-08
+- **最后活动时间:** 2026-05-09
 
 ## [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
@@ -88,9 +88,9 @@ Google开源的端到端机器学习框架，支持构建和部署深度学习�
 
 开源提示词分享与发现平台，支持自托管，帮助用户收集和管理社区优质提示词资源。
 
-- **Stars:** ⭐️ 161.8k
+- **Stars:** ⭐️ 161.9k
 - **Tags:** `提示工程` `ChatGPT` `开源平台`
-- **最后活动时间:** 2026-05-08
+- **最后活动时间:** 2026-05-09
 
 ## [transformers](https://github.com/huggingface/transformers)
 
@@ -98,15 +98,15 @@ Hugging Face官方深度学习模型框架，支持文本、视觉、音频和�
 
 - **Stars:** ⭐️ 160.4k
 - **Tags:** `PyTorch` `Transformers` `预训练模型`
-- **最后活动时间:** 2026-05-08
+- **最后活动时间:** 2026-05-09
 
 ## [opencode](https://github.com/anomalyco/opencode)
 
 开源的AI编程智能体，帮助开发者自动化代码编写和开发任务。
 
-- **Stars:** ⭐️ 157.0k
+- **Stars:** ⭐️ 157.5k
 - **Tags:** `coding-agent` `ai-assistant` `developer-tools`
-- **最后活动时间:** 2026-05-08
+- **最后活动时间:** 2026-05-09
 
 ## [JavaGuide](https://github.com/Snailclimb/JavaGuide)
 
@@ -114,7 +114,7 @@ Java面试与后端开发指南，涵盖AI应用开发、Agent、MCP等前沿技
 
 - **Stars:** ⭐️ 155.5k
 - **Tags:** `java` `interview` `agent` `mcp` `system-design`
-- **最后活动时间:** 2026-05-08
+- **最后活动时间:** 2026-05-09
 
 ## [langflow](https://github.com/langflow-ai/langflow)
 
@@ -122,29 +122,29 @@ Java面试与后端开发指南，涵盖AI应用开发、Agent、MCP等前沿技
 
 - **Stars:** ⭐️ 147.9k
 - **Tags:** `Visual Builder` `Workflow` `LLM`
-- **最后活动时间:** 2026-05-09
-
-## [dify](https://github.com/langgenius/dify)
-
-生产级AI智能体工作流开发平台，支持低代码快速构建AI应用，提供可视化编排、RAG集成、多模型支持。
-
-- **Stars:** ⭐️ 140.6k
-- **Tags:** `Workflow` `Low-code` `RAG`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-10
 
 ## [hermes-agent](https://github.com/NousResearch/hermes-agent)
 
 支持多主流大语言模型的智能AI代理，提供个性化交互体验，能够伴随用户持续成长进化。
 
-- **Stars:** ⭐️ 139.2k
+- **Stars:** ⭐️ 141.3k
 - **Tags:** `AI Agent` `LLM` `Claude` `ChatGPT`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-10
+
+## [dify](https://github.com/langgenius/dify)
+
+生产级AI智能体工作流开发平台，支持低代码快速构建AI应用，提供可视化编排、RAG集成、多模型支持。
+
+- **Stars:** ⭐️ 140.8k
+- **Tags:** `Workflow` `Low-code` `RAG`
+- **最后活动时间:** 2026-05-10
 
 ## [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 
 全面收录Cursor、Devin、Windsurf等热门AI工具的系统提示词与内部模型，为开发者提供深入理解AI Agent工作原理的珍贵参考资料。
 
-- **Stars:** ⭐️ 136.9k
+- **Stars:** ⭐️ 137.0k
 - **Tags:** `System Prompts` `AI Tools` `Prompt Engineering`
 - **最后活动时间:** 2026-05-07
 
@@ -152,23 +152,23 @@ Java面试与后端开发指南，涵盖AI应用开发、Agent、MCP等前沿技
 
 功能强大的自托管AI Web界面，支持Ollama、OpenAI等多种LLM后端，内置RAG和MCP功能。
 
-- **Stars:** ⭐️ 136.2k
+- **Stars:** ⭐️ 136.3k
 - **Tags:** `LLM` `WebUI` `RAG` `Ollama`
-- **最后活动时间:** 2026-05-08
+- **最后活动时间:** 2026-05-09
 
 ## [LangChain](https://github.com/langchain-ai/langchain)
 
 用于构建上下文感知推理应用程序的流行框架，是开发LLM应用的核心工具。
 
-- **Stars:** ⭐️ 136.2k
+- **Stars:** ⭐️ 136.3k
 - **Tags:** `Framework` `LLM` `Python`
-- **最后活动时间:** 2026-05-08
+- **最后活动时间:** 2026-05-10
 
 ## [hello-algo](https://github.com/krahets/hello-algo)
 
 动画图解的数据结构与算法教程，支持多种编程语言实现，适合AI开发者夯实算法基础。
 
-- **Stars:** ⭐️ 126.0k
+- **Stars:** ⭐️ 126.1k
 - **Tags:** `algorithm` `data-structure` `education` `programming`
 - **最后活动时间:** 2026-04-18
 
@@ -176,41 +176,41 @@ Java面试与后端开发指南，涵盖AI应用开发、Agent、MCP等前沿技
 
 将文件和Office文档转换为Markdown的Python工具，支持PDF等多种格式，可集成到RAG和AI工作流中。
 
-- **Stars:** ⭐️ 121.9k
+- **Stars:** ⭐️ 122.3k
 - **Tags:** `Markdown` `Document Conversion` `RAG`
+- **最后活动时间:** 2026-04-20
+
+## [andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
+
+基于 Andrej Karpathy 对 LLM 编程陷阱的观察总结，用于改进 Claude Code 行为的提示工程文件。
+
+- **Stars:** ⭐️ 122.2k
+- **Tags:** `prompt-engineering` `llm` `claude` `coding-assistant`
 - **最后活动时间:** 2026-04-20
 
 ## [claude-code](https://github.com/anthropics/claude-code)
 
 Anthropic官方AI编程智能体，在终端中通过自然语言命令理解代码库、执行任务和处理Git工作流。
 
-- **Stars:** ⭐️ 121.6k
+- **Stars:** ⭐️ 122.0k
 - **Tags:** `AI编程` `终端工具` `代码智能体`
-- **最后活动时间:** 2026-05-07
-
-## [andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
-
-基于 Andrej Karpathy 对 LLM 编程陷阱的观察总结，用于改进 Claude Code 行为的提示工程文件。
-
-- **Stars:** ⭐️ 119.9k
-- **Tags:** `prompt-engineering` `llm` `claude` `coding-assistant`
-- **最后活动时间:** 2026-04-20
+- **最后活动时间:** 2026-05-09
 
 ## [firecrawl](https://github.com/firecrawl/firecrawl)
 
 专为AI设计的网页数据API，将网站转换为LLM可用的Markdown或结构化数据，是RAG应用的理想数据源。
 
-- **Stars:** ⭐️ 117.0k
+- **Stars:** ⭐️ 117.5k
 - **Tags:** `网页爬取` `数据提取` `LLM数据`
-- **最后活动时间:** 2026-05-08
+- **最后活动时间:** 2026-05-09
 
 ## [ComfyUI](https://github.com/Comfy-Org/ComfyUI)
 
 最强大的模块化扩散模型GUI工具，基于节点的工作流界面，灵活构建复杂图像生成流程。
 
-- **Stars:** ⭐️ 112.0k
+- **Stars:** ⭐️ 112.2k
 - **Tags:** `Stable-Diffusion` `GUI` `Image-Generation`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-10
 
 ## [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
 
@@ -224,17 +224,17 @@ Anthropic官方AI编程智能体，在终端中通过自然语言命令理解代
 
 精选LLM应用集合，涵盖AI智能体和RAG技术，支持多种模型提供商，适合开发者学习参考。
 
-- **Stars:** ⭐️ 109.3k
+- **Stars:** ⭐️ 109.5k
 - **Tags:** `LLM Apps` `Agents` `RAG` `Python`
-- **最后活动时间:** 2026-05-08
+- **最后活动时间:** 2026-05-09
 
 ## [llama.cpp](https://github.com/ggml-org/llama.cpp)
 
 高性能C/C++实现的LLM推理引擎，支持GGML格式，广泛用于本地部署。
 
-- **Stars:** ⭐️ 109.0k
+- **Stars:** ⭐️ 109.2k
 - **Tags:** `推理` `C++` `GGML`
-- **最后活动时间:** 2026-05-08
+- **最后活动时间:** 2026-05-09
 
 ## [papers-we-love](https://github.com/papers-we-love/papers-we-love)
 
