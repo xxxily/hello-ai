@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Hello-AI Explore：从活跃 AI 开源项目中搜索、筛选、对比并发现潜力项目。"
+    />
+    <title>Hello-AI Explore</title>
+    <link rel="icon" href="/assets/img/logo.png" />
+    <link rel="stylesheet" href="./assets/style.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <a class="brand" href="./" aria-label="Hello-AI Explore">
+          <img src="/assets/img/logo.png" alt="" width="36" height="36" />
+          <span>
+            <strong>Hello-AI</strong>
+            <small>Explore</small>
+          </span>
+        </a>
+
+        <nav class="main-nav" aria-label="Explore views">
+          <button class="nav-button" type="button" data-route="radar">Radar</button>
+          <button class="nav-button" type="button" data-route="explore">Explorer</button>
+          <button class="nav-button" type="button" data-route="compare">Compare</button>
+          <button class="nav-button" type="button" data-route="saved">Saved</button>
+        </nav>
+
+        <a class="docs-link" href="/home/">Docs</a>
+      </header>
+
+      <section class="command-band" aria-label="Project search">
+        <div class="command-inner">
+          <div class="command-copy">
+            <p class="kicker">AI PROJECT RADAR</p>
+            <h1>发现、判断、组合 AI 项目</h1>
+          </div>
+
+          <label class="search-box" for="globalSearch">
+            <span class="search-symbol">⌕</span>
+            <input
+              id="globalSearch"
+              type="search"
+              autocomplete="off"
+              spellcheck="false"
+              placeholder="搜索 agent、RAG、MCP、Claude Code、本地模型..."
+            />
+          </label>
+
+          <div class="stat-strip" id="statStrip" aria-live="polite"></div>
+          <div class="quick-strip" id="quickStrip" aria-label="Quick searches"></div>
+        </div>
+      </section>
+
+      <main id="appMain" class="app-main" tabindex="-1"></main>
+    </div>
+
+    <aside id="detailDrawer" class="detail-drawer" aria-hidden="true"></aside>
+    <div id="drawerBackdrop" class="drawer-backdrop" hidden></div>
+    <div id="compareTray" class="compare-tray" hidden></div>
+    <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+
+    <script type="module" src="./assets/app.js"></script>
+  </body>
+</html>
