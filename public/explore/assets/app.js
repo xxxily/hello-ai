@@ -187,6 +187,12 @@ function bindEvents() {
       case 'export-compare':
         exportProjects(state.compare, 'hello-ai-compare.md');
         break;
+      case 'copy-link':
+        copyCurrentLink();
+        break;
+      case 'copy-brief':
+        copyResultBrief();
+        break;
       case 'copy-project':
         if (id) copyProjectMarkdown(id);
         break;
@@ -546,6 +552,7 @@ function renderExplorer() {
               .join('')}
           </select>
         </div>
+        ${renderResultBrief()}
         ${resultsHtml}
       </div>
     </section>
@@ -697,6 +704,95 @@ function renderResultLabel() {
   if (!state.catalog) return '索引加载中';
   if (state.resultsStale) return '匹配中';
   return `${formatNumber(state.total)} 个匹配项目`;
+}
+
+function renderResultBrief() {
+  if (!state.catalog || state.resultsStale || !state.results.length) return '';
+
+  const projects = getCurrentResultProjects();
+  const highlights = pickResultHighlights(projects);
+  if (!highlights.length) return '';
+
+  const filterSummary = renderReadableFilterSummary();
+  return `
+    <section class="brief-panel" aria-label="Explorer result brief">
+      <div class="brief-header">
+        <div>
+          <span class="eyebrow">SELECTION BRIEF</span>
+          <h2>选型简报</h2>
+          <p>${escapeHtml(filterSummary || '从当前匹配结果中提取最值得先看的项目。')}</p>
+        </div>
+        <div class="brief-actions">
+          <button class="action-button" type="button" data-action="copy-link">复制链接</button>
+          <button class="action-button" type="button" data-action="copy-brief">复制简报</button>
+        </div>
+      </div>
+      <div class="brief-grid">
+        ${highlights.map(renderBriefCard).join('')}
+      </div>
+    </section>
+  `;
+}
+
+function renderBriefCard(item) {
+  const project = item.project;
+  return `
+    <button class="brief-card" type="button" data-action="detail" data-id="${attr(project.id)}">
+      <span>${escapeHtml(item.label)}</span>
+      <strong>${escapeHtml(project.name)}</strong>
+      <small>${escapeHtml(item.reason)}</small>
+    </button>
+  `;
+}
+
+function pickResultHighlights(projects) {
+  const used = new Set();
+  const picks = [];
+  const addPick = (label, reason, sortedProjects) => {
+    const project = sortedProjects.find(item => !used.has(item.id));
+    if (!project) return;
+    used.add(project.id);
+    picks.push({ label, reason: reason(project), project });
+  };
+
+  addPick(
+    '最值得先试',
+    project => `${project.scores?.potential ?? '-'} signal / ${formatStars(project.stars)} stars`,
+    [...projects].sort((a, b) => (b.scores?.potential || 0) - (a.scores?.potential || 0) || b.stars - a.stars)
+  );
+  addPick(
+    '最近还在动',
+    project => `${formatDate(project.lastUpdated)} 更新 / ${formatStars(project.stars)} stars`,
+    [...projects].sort((a, b) => dateMs(b.lastUpdated) - dateMs(a.lastUpdated) || (b.scores?.potential || 0) - (a.scores?.potential || 0))
+  );
+  addPick(
+    '成熟样本',
+    project => `${formatStars(project.stars)} stars / ${project.categoryCleanName || project.categoryName}`,
+    [...projects].sort((a, b) => b.stars - a.stars || dateMs(b.lastUpdated) - dateMs(a.lastUpdated))
+  );
+
+  return picks;
+}
+
+function getCurrentResultProjects(limit = state.results.length) {
+  return state.results
+    .slice(0, limit)
+    .map(id => state.catalogById.get(id))
+    .filter(Boolean);
+}
+
+function renderReadableFilterSummary() {
+  const labels = [];
+  if (state.query) labels.push(`关键词 ${state.query}`);
+  if (state.category !== 'all') {
+    const category = state.facets.categories?.find(item => item.id === state.category);
+    labels.push(category?.cleanName || state.category);
+  }
+  if (state.subcategory !== 'all') labels.push(state.subcategory);
+  if (state.tag !== 'all') labels.push(`#${state.tag}`);
+  if (state.freshness !== 'all') labels.push(state.freshness.replace('d', ' 天内更新'));
+  if (state.stars !== 'all') labels.push(`${formatStars(Number(state.stars))}+ stars`);
+  return labels.length ? `${labels.join(' / ')}，共 ${formatNumber(state.total)} 个匹配项目。` : '';
 }
 
 function renderProjectCard(project, options = {}) {
@@ -1180,12 +1276,53 @@ async function copyProjectMarkdown(id) {
     `- Tags: ${(detail.tags || []).join(', ') || '-'}`
   ].join('\n');
 
+  await copyText(markdown, '项目摘要已复制');
+}
+
+async function copyCurrentLink() {
+  await copyText(window.location.href, '筛选链接已复制');
+}
+
+async function copyResultBrief() {
+  await ensureCatalog();
+  const projects = getCurrentResultProjects(8);
+  if (!projects.length) {
+    showToast('没有可复制的结果');
+    return;
+  }
+
+  const markdown = [
+    '# Hello-AI Explore 选型简报',
+    '',
+    renderReadableFilterSummary() || '当前 Explorer 结果',
+    '',
+    `链接: ${window.location.href}`,
+    '',
+    ...projects.flatMap((project, index) => [
+      `## ${index + 1}. ${project.name}`,
+      '',
+      project.description || '',
+      '',
+      `- GitHub: ${project.url}`,
+      `- Stars: ${formatStars(project.stars)}`,
+      `- Updated: ${formatDate(project.lastUpdated)}`,
+      `- Signal: ${project.scores?.potential ?? '-'}`,
+      `- Category: ${project.categoryCleanName || project.categoryName} / ${project.subcategory}`,
+      `- Tags: ${(project.tags || []).slice(0, 8).join(', ') || '-'}`,
+      ''
+    ])
+  ].join('\n');
+
+  await copyText(markdown, '选型简报已复制');
+}
+
+async function copyText(text, successMessage) {
   try {
-    await navigator.clipboard.writeText(markdown);
-    showToast('项目摘要已复制');
+    await navigator.clipboard.writeText(text);
+    showToast(successMessage);
   } catch {
     const textarea = document.createElement('textarea');
-    textarea.value = markdown;
+    textarea.value = text;
     textarea.setAttribute('readonly', '');
     textarea.style.position = 'fixed';
     textarea.style.opacity = '0';
@@ -1193,7 +1330,7 @@ async function copyProjectMarkdown(id) {
     textarea.select();
     document.execCommand('copy');
     textarea.remove();
-    showToast('项目摘要已复制');
+    showToast(successMessage);
   }
 }
 

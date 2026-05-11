@@ -755,6 +755,85 @@ h1 {
   font-size: 11px;
 }
 
+.brief-panel {
+  display: grid;
+  gap: 12px;
+  margin-bottom: 16px;
+  padding: 14px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background:
+    linear-gradient(135deg, color-mix(in srgb, var(--accent-soft) 34%, transparent), transparent 70%),
+    var(--surface);
+}
+
+.brief-header {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 14px;
+}
+
+.brief-header h2 {
+  margin: 3px 0 0;
+  font-family: var(--display);
+  font-size: 24px;
+}
+
+.brief-header p {
+  margin: 5px 0 0;
+  color: var(--ink-soft);
+  font-size: 13px;
+}
+
+.brief-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  justify-content: flex-end;
+}
+
+.brief-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.brief-card {
+  display: grid;
+  gap: 5px;
+  min-width: 0;
+  padding: 12px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--surface-strong);
+  color: inherit;
+  cursor: pointer;
+  text-align: left;
+}
+
+.brief-card:hover {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+}
+
+.brief-card span {
+  color: var(--accent-strong);
+  font-family: var(--mono);
+  font-size: 11px;
+}
+
+.brief-card strong {
+  font-size: 16px;
+  overflow-wrap: anywhere;
+}
+
+.brief-card small {
+  color: var(--ink-muted);
+  font-family: var(--mono);
+  font-size: 11px;
+}
+
 .load-more,
 .export-button {
   display: inline-flex;
@@ -1067,7 +1146,8 @@ h1 {
   .project-grid.compact,
   .path-grid,
   .task-grid,
-  .category-grid {
+  .category-grid,
+  .brief-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
@@ -1112,11 +1192,21 @@ h1 {
   .path-grid,
   .task-grid,
   .category-grid,
+  .brief-grid,
   .signal-grid,
   .decision-grid,
   .compare-summary,
   .compare-grid {
     grid-template-columns: 1fr;
+  }
+
+  .brief-header {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .brief-actions {
+    justify-content: flex-start;
   }
 
   .metric-row {
