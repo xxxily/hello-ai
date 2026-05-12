@@ -25,22 +25,22 @@
 *Summary of high-quality open-source AI projects collected from the internet:*
 
 - 📁 **Total Collected**: 18839 projects
-- ⚡ **Active Shown**: 9090 projects (updated within the last 6 months)
+- ⚡ **Active Shown**: 9068 projects (updated within the last 6 months)
 - 🏷️ **Categories (Active / Total)**:
   - 🔥 Trending: 30 / 30
-  - 🧠 Foundation Models: 145 / 547
-  - 🤖 Agents & Orchestration: 1382 / 1725
-  - 🔍 RAG & Data Engineering: 416 / 661
-  - ☁️ Infrastructure & Deployment: 929 / 1521
+  - 🧠 Foundation Models: 143 / 547
+  - 🤖 Agents & Orchestration: 1381 / 1725
+  - 🔍 RAG & Data Engineering: 414 / 661
+  - ☁️ Infrastructure & Deployment: 928 / 1521
   - 🔧 Fine-tuning & Training: 355 / 895
-  - 👁️ Multimodal (Audio/Video): 853 / 2716
-  - 🛠️ Developer Tools & SDKs: 2014 / 3338
-  - 🎨 AI Applications: 858 / 1570
-  - 📚 Learning Resources: 1208 / 4126
+  - 👁️ Multimodal (Audio/Video): 847 / 2716
+  - 🛠️ Developer Tools & SDKs: 2011 / 3338
+  - 🎨 AI Applications: 857 / 1570
+  - 📚 Learning Resources: 1202 / 4126
   - 💻 Desktop & OS Apps: 289 / 396
   - 🦾 Robotics & IoT: 483 / 1053
   - 💼 Business & Finance: 172 / 325
-- 📅 **Last Updated**: 2026-05-10
+- 📅 **Last Updated**: 2026-05-12
 <!-- STATS_END -->
 
 ## Overview

@@ -2,7 +2,7 @@
 
 > Tutorials, courses, and awesome lists.
 
-> 当前分类已收录 **1208** 个相关项目。
+> 当前分类已收录 **1202** 个相关项目。
 
 ## Awesome Lists
 
@@ -2037,14 +2037,6 @@ IJCAI 2024 论文，基于大语言模型的多智能体系统研究综述。
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `multi-agents` `llm` `survey` `agent`
 - **最后活动时间:** 2026-04-19
-
-### [a-list-of-claude-code-agents](https://github.com/hesreallyhim/a-list-of-claude-code-agents)
-
-社区贡献的 Claude Code 子代理列表，汇集各类实用代理配置。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `claude-code` `agents` `awesome-list` `community`
-- **最后活动时间:** 2025-11-10
 
 ### [Awesome-Unified-Multimodal-Models](https://github.com/AIDC-AI/Awesome-Unified-Multimodal-Models)
 
@@ -6032,14 +6024,6 @@ LangChain4j官方示例代码库，帮助Java开发者快速上手构建LLM应�
 - **Tags:** `langchain4j` `java` `examples` `llm`
 - **最后活动时间:** 2026-04-30
 
-### [NYU-DLSP21](https://github.com/Atcold/NYU-DLSP21)
-
-纽约大学2021春季深度学习课程，由Yann LeCun教授主讲，涵盖能量模型等前沿主题。
-
-- **Stars:** ⭐️ 1.7k
-- **Tags:** `deep-learning` `nyu` `ebm` `yann-lecun`
-- **最后活动时间:** 2025-11-11
-
 ### [bwapi](https://github.com/bwapi/bwapi)
 
 星际争霸Brood War API，为游戏AI研究和机器人开发提供编程接口。
@@ -8570,14 +8554,6 @@ CVPR 2025论文实现，改进DETR匹配机制实现快速收敛的实时目标�
 - **Tags:** `arxiv` `deep-learning` `computer-vision` `papers`
 - **最后活动时间:** 2026-05-06
 
-### [Awesome-Knowledge-Graph-Reasoning](https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning)
-
-知识图谱推理研究资源合集，包含论文、代码与数据集。
-
-- **Stars:** ⭐️ 1.4k
-- **Tags:** `knowledge-graph` `reasoning` `research` `awesome-list`
-- **最后活动时间:** 2025-11-11
-
 ### [PointCNN](https://github.com/yangyanli/PointCNN)
 
 NeurIPS 2018论文实现，提出点云数据X变换卷积方法，广泛应用于自动驾驶和机器人领域。
@@ -8850,14 +8826,6 @@ Meta发布的无监督目标检测与实例分割方法，无需人工标注即�
 - **Tags:** `depth-estimation` `unsupervised-learning` `pytorch` `computer-vision`
 - **最后活动时间:** 2026-04-15
 
-### [tabm](https://github.com/yandex-research/tabm)
-
-ICLR 2025 论文实现，通过参数高效集成方法推进表格数据深度学习技术。
-
-- **Stars:** ⭐️ 1.0k
-- **Tags:** `tabular-data` `deep-learning` `ensemble` `iclr2025`
-- **最后活动时间:** 2025-11-10
-
 ### [Awesome-DLMs](https://github.com/VILA-Lab/Awesome-DLMs)
 
 扩散语言模型综述论文的官方仓库，系统梳理该领域最新研究进展与方法。
@@ -8986,14 +8954,6 @@ Transformer模型在时间序列预测任务中的应用实现。
 - **Tags:** `transformer` `time-series` `forecasting`
 - **最后活动时间:** 2026-04-08
 
-### [aella-data-explorer](https://github.com/context-labs/aella-data-explorer)
-
-LAION研究论文数据集可视化探索工具，帮助研究人员浏览和分析AI领域学术文献。
-
-- **Stars:** ⭐️ 900
-- **Tags:** `dataset` `visualization` `research` `laion`
-- **最后活动时间:** 2025-11-11
-
 ### [TTUR](https://github.com/bioinf-jku/TTUR)
 
 GAN训练的两时间尺度更新规则实现，用于改善生成对抗网络的训练稳定性和收敛性，是深度学习训练的重要技术。
@@ -9113,14 +9073,6 @@ ECCV 2024论文项目，通过几何优化实现单图像相机标定，结合�
 - **Stars:** ⭐️ 813
 - **Tags:** `causal-inference` `machine-learning` `causal-models`
 - **最后活动时间:** 2026-05-07
-
-### [acezero](https://github.com/nianticlabs/acezero)
-
-ECCV 2024 Oral论文，基于学习的结构运动方法，通过隐式场景表示估计相机参数。
-
-- **Stars:** ⭐️ 806
-- **Tags:** `structure-from-motion` `3d-reconstruction` `camera-pose` `computer-vision` `eccv2024`
-- **最后活动时间:** 2025-11-10
 
 ### [Awesome-Latent-Space](https://github.com/YU-deep/Awesome-Latent-Space)
 

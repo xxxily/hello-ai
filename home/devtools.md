@@ -2,7 +2,7 @@
 
 > Tools for developers building AI software.
 
-> 当前分类已收录 **2014** 个相关项目。
+> 当前分类已收录 **2011** 个相关项目。
 
 ## Evaluation Metrics
 
@@ -8540,14 +8540,6 @@ PyTorch向量量化和标量量化实现，用于深度学习模型压缩和离�
 - **Tags:** `vector-quantization` `pytorch` `deep-learning` `compression`
 - **最后活动时间:** 2026-05-08
 
-### [copilot-api](https://github.com/ericc-ch/copilot-api)
-
-将GitHub Copilot转换为OpenAI/Anthropic兼容API服务器，可用于Claude Code。
-
-- **Stars:** ⭐️ 3.9k
-- **Tags:** `Copilot` `API` `Compatible`
-- **最后活动时间:** 2025-11-10
-
 ### [ruby_llm](https://github.com/crmne/ruby_llm)
 
 优雅的 Ruby AI API 统一封装库，支持 15+ 主流提供商，提供 Agents、Chat、Vision、Embeddings 等完整功能。
@@ -10515,14 +10507,6 @@ Google Cloud 官方 Java/Kotlin 代码示例集合，涵盖 Vision、Translate�
 - **Stars:** ⭐️ 1.9k
 - **Tags:** `google-cloud` `java` `kotlin` `vision` `automl` `samples`
 - **最后活动时间:** 2026-05-08
-
-### [nomic](https://github.com/nomic-ai/nomic)
-
-Nomic开发者API SDK，提供嵌入向量、文本聚类、主题建模等NLP能力。
-
-- **Stars:** ⭐️ 1.9k
-- **Tags:** `embeddings` `clustering` `topic-modeling` `nlp`
-- **最后活动时间:** 2025-11-11
 
 ### [async-openai](https://github.com/64bit/async-openai)
 
@@ -14051,14 +14035,6 @@ Stable-Baselines3官方扩展包，提供实验性强化学习算法实现，支
 - **Stars:** ⭐️ 715
 - **Tags:** `reinforcement-learning` `pytorch` `stable-baselines` `machine-learning` `robotics`
 - **最后活动时间:** 2026-04-23
-
-### [time-series-autoencoder](https://github.com/JulesBelveze/time-series-autoencoder)
-
-基于PyTorch的双注意力LSTM自编码器，专为多变量时间序列预测设计，支持注意力机制。
-
-- **Stars:** ⭐️ 714
-- **Tags:** `PyTorch` `时间序列` `LSTM` `自编码器`
-- **最后活动时间:** 2025-11-11
 
 ### [littleballoffur](https://github.com/benedekrozemberczki/littleballoffur)
 

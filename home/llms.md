@@ -2,7 +2,7 @@
 
 > Core large language models and foundation models.
 
-> 当前分类已收录 **145** 个相关项目。
+> 当前分类已收录 **143** 个相关项目。
 
 ## Foundation Models
 
@@ -111,14 +111,6 @@ Meta DINOv3官方PyTorch实现，先进的自监督视觉模型。
 - **Stars:** ⭐️ 4.4k
 - **Tags:** `llm-architecture` `memory` `sparse-models`
 - **最后活动时间:** 2026-01-14
-
-### [LLaDA](https://github.com/ML-GSAI/LLaDA)
-
-大语言扩散模型的官方PyTorch实现，创新性地将扩散模型应用于语言建模领域。
-
-- **Stars:** ⭐️ 3.8k
-- **Tags:** `Diffusion Models` `LLM` `PyTorch`
-- **最后活动时间:** 2025-11-12
 
 ### [TransformerLens](https://github.com/TransformerLensOrg/TransformerLens)
 
@@ -673,14 +665,6 @@ DeepMind AlphaFold 3蛋白质结构预测模型的推理管道，用于生物分
 - **Stars:** ⭐️ 7.1k
 - **Tags:** `中文大模型` `LLaMA-2` `长上下文`
 - **最后活动时间:** 2026-04-19
-
-### [DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2)
-
-突破闭源模型壁垒的代码智能大模型，支持多种编程语言的高性能代码生成与理解。
-
-- **Stars:** ⭐️ 6.6k
-- **Tags:** `code-generation` `llm` `open-source` `code-intelligence`
-- **最后活动时间:** 2025-11-11
 
 ### [OLMo](https://github.com/allenai/OLMo)
 

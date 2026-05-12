@@ -17,6 +17,7 @@ try {
 
 export default [
   { text: '快速开始', link: '/home/' },
+  { text: 'Explore', link: '/explore/' },
   {
     text: '相关连接',
     ariaLabel: '相关连接',

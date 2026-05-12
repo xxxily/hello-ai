@@ -1,5 +1,6 @@
 const DATA_BASE = './data/';
 const ROUTES = new Set(['radar', 'explore', 'compare', 'saved']);
+const MOBILE_HEADER_QUERY = '(max-width: 760px)';
 const STORE_KEYS = {
   saved: 'hello-ai-explore-saved',
   compare: 'hello-ai-explore-compare',
@@ -48,12 +49,14 @@ let detailPromise = null;
 let searchWorker = null;
 let searchSeq = 0;
 let toastTimer = null;
+let filterPanelScrollTimer = null;
 
 init();
 
 function init() {
   readHash();
   bindEvents();
+  updateMobileHeaderState();
   render();
   loadBaseData();
 }
@@ -81,6 +84,10 @@ function bindEvents() {
     state.resultsStale = true;
     render();
   });
+
+  window.addEventListener('scroll', updateMobileHeaderState, { passive: true });
+  window.addEventListener('resize', updateMobileHeaderState);
+  document.addEventListener('scroll', updateFilterPanelScrollState, { passive: true, capture: true });
 
   els.search.addEventListener('input', () => {
     state.query = els.search.value.trim();
@@ -216,6 +223,22 @@ function bindEvents() {
   });
 
   els.backdrop.addEventListener('click', closeDrawer);
+}
+
+function updateMobileHeaderState() {
+  const isCompact = window.matchMedia(MOBILE_HEADER_QUERY).matches && window.scrollY > 18;
+  document.body.classList.toggle('is-mobile-scrolled', isCompact);
+}
+
+function updateFilterPanelScrollState(event) {
+  const target = event.target;
+  if (!(target instanceof HTMLElement) || !target.classList.contains('filter-panel')) return;
+
+  target.classList.add('is-scrolling');
+  clearTimeout(filterPanelScrollTimer);
+  filterPanelScrollTimer = setTimeout(() => {
+    document.querySelector('.filter-panel')?.classList.remove('is-scrolling');
+  }, 160);
 }
 
 async function loadJson(file) {

@@ -2,7 +2,7 @@
 
 > Computer vision, image generation, audio, text-to-speech.
 
-> 当前分类已收录 **853** 个相关项目。
+> 当前分类已收录 **847** 个相关项目。
 
 ## Audio & Speech (TTS/STT)
 
@@ -2286,14 +2286,6 @@ Whisper 语音识别模型的易用图形界面，针对各类 GPU 进行优化�
 - **Tags:** `whisper` `speech-recognition` `transcription` `gpu`
 - **最后活动时间:** 2026-02-15
 
-### [parrots](https://github.com/shibing624/parrots)
-
-自动语音识别与语音合成引擎，支持中英语音识别和多角色语音合成，准确率高。
-
-- **Stars:** ⭐️ 526
-- **Tags:** `asr` `tts` `speech-recognition` `speech-synthesis`
-- **最后活动时间:** 2025-11-11
-
 ### [CleanS2S](https://github.com/opendilab/CleanS2S)
 
 单文件实现的流式全双工语音交互智能体，支持高质量实时语音对话。
@@ -2679,14 +2671,6 @@ Meta Segment Anything Model 3 (SAM 3) 的官方仓库，提供模型推理、微
 - **Stars:** ⭐️ 9.4k
 - **Tags:** `segment-anything` `image-segmentation` `computer-vision` `meta-ai` `sam`
 - **最后活动时间:** 2026-05-03
-
-### [VAR](https://github.com/FoundationVision/VAR)
-
-NeurIPS 2024最佳论文官方实现，提出视觉自回归建模方法，超越扩散模型的新一代图像生成范式。
-
-- **Stars:** ⭐️ 8.7k
-- **Tags:** `Autoregressive` `Image Generation` `SOTA`
-- **最后活动时间:** 2025-11-10
 
 ### [awesome-3D-gaussian-splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting)
 
@@ -4592,14 +4576,6 @@ AI生成内容展示平台，汇集有趣的AI生成作品，基于Next.js 14和
 - **Tags:** `ai-generated` `showcase` `nextjs` `visualization`
 - **最后活动时间:** 2026-05-07
 
-### [DiffusionDPO](https://github.com/SalesforceAIResearch/DiffusionDPO)
-
-Salesforce开源的扩散模型对齐方法，将DPO技术应用于图像生成模型，实现更符合人类偏好的生成效果。
-
-- **Stars:** ⭐️ 685
-- **Tags:** `Diffusion Models` `DPO` `Model Alignment`
-- **最后活动时间:** 2025-11-10
-
 ### [MHR](https://github.com/facebookresearch/MHR)
 
 Meta开发的参数化全身数字人体模型，包含骨骼模型、3D网格、姿态校正和面部混合变形，专为计算机视觉和图形学社区设计。
@@ -4735,14 +4711,6 @@ SIGGRAPH Asia 2024 论文实现，从单张角色绘画生成 3D 动画。
 - **Stars:** ⭐️ 644
 - **Tags:** `flutter` `wallpaper` `ai` `image-generation`
 - **最后活动时间:** 2026-05-08
-
-### [Liquid](https://github.com/FoundationVision/Liquid)
-
-IJCV收录的多模态大语言模型，实现可扩展的统一文本到图像生成。
-
-- **Stars:** ⭐️ 642
-- **Tags:** `Multimodal LLM` `Text-to-Image` `Generative AI`
-- **最后活动时间:** 2025-11-10
 
 ### [SeeSR](https://github.com/cswry/SeeSR)
 
@@ -4967,14 +4935,6 @@ ComfyUI的平价API调用节点集合，支持Seedance2.0等多种图像生成�
 - **Stars:** ⭐️ 555
 - **Tags:** `comfyui` `image-generation` `api-nodes`
 - **最后活动时间:** 2026-05-09
-
-### [MST-plus-plus](https://github.com/caiyuanhao1998/MST-plus-plus)
-
-CVPRW 2022获奖项目，多阶段光谱Transformer用于高效光谱图像重建，附带完整工具箱。
-
-- **Stars:** ⭐️ 551
-- **Tags:** `hyperspectral` `spectral-reconstruction` `transformer`
-- **最后活动时间:** 2025-11-11
 
 ### [TRIDENT](https://github.com/mahmoodlab/TRIDENT)
 
@@ -6323,14 +6283,6 @@ ICCV 2025论文实现，利用时空扩散模型从稀疏视角视频生成4D一
 - **Stars:** ⭐️ 599
 - **Tags:** `4d-synthesis` `diffusion` `human-avatar` `novel-view-synthesis`
 - **最后活动时间:** 2026-04-10
-
-### [radial-attention](https://github.com/mit-han-lab/radial-attention)
-
-NeurIPS 2025论文，提出O(nlogn)稀疏注意力机制，支持长视频高效生成和主流视频模型。
-
-- **Stars:** ⭐️ 591
-- **Tags:** `Sparse Attention` `Video Generation` `Efficient ML`
-- **最后活动时间:** 2025-11-11
 
 ### [sleap](https://github.com/talmolab/sleap)
 

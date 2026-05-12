@@ -1,10 +1,11 @@
 import DefaultTheme from 'vitepress/theme'
 import './custom.css'
 import { watch, nextTick } from 'vue'
-import { useRoute } from 'vitepress'
+import { useRoute, useRouter, withBase } from 'vitepress'
 
 let mermaidLoading = null
 let colorModeObserver = null
+const nativeExplorePath = withBase('/explore/')
 const mermaidSources = [
   'https://cdn.anzz.site/npm/mermaid@10.9.1/dist/mermaid.min.js',
   'https://cdn.jsdelivr.net/npm/mermaid@10.9.1/dist/mermaid.min.js',
@@ -116,6 +117,15 @@ export default {
       observeColorMode()
 
       const route = useRoute()
+      const router = useRouter()
+      router.onBeforeRouteChange = (href) => {
+        const targetPath = new URL(href, window.location.href).pathname
+        if (targetPath === '/explore' || targetPath === '/explore/' || targetPath === '/explore/index.html') {
+          window.location.href = nativeExplorePath
+          return false
+        }
+      }
+
       watch(
         () => route.path,
         () => {

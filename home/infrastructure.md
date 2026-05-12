@@ -2,7 +2,7 @@
 
 > Hardware integration, cloud infra, and model serving.
 
-> 当前分类已收录 **929** 个相关项目。
+> 当前分类已收录 **928** 个相关项目。
 
 ## Cloud & Hosting
 
@@ -2159,14 +2159,6 @@ IPython并行计算框架，支持交互式并行数据处理与模型训练加�
 - **Stars:** ⭐️ 2.6k
 - **Tags:** `parallel-computing` `ipython` `distributed` `python`
 - **最后活动时间:** 2026-05-09
-
-### [blis](https://github.com/flame/blis)
-
-高性能线性代数库，为AI框架提供底层矩阵运算加速支持。
-
-- **Stars:** ⭐️ 2.6k
-- **Tags:** `blas` `linear-algebra` `high-performance-computing` `matrix-operations`
-- **最后活动时间:** 2025-11-11
 
 ### [aimet](https://github.com/quic/aimet)
 

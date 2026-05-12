@@ -2,7 +2,7 @@
 
 > Retrieval Augmented Generation and Database solutions.
 
-> 当前分类已收录 **416** 个相关项目。
+> 当前分类已收录 **414** 个相关项目。
 
 ## Data Parsers
 
@@ -1208,14 +1208,6 @@ RagFlow文档批量上传与解析自动化工具，支持将文档自动上传�
 - **Tags:** `graphrag` `knowledge-graph` `claude-code` `codex`
 - **最后活动时间:** 2026-05-09
 
-### [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)
-
-基于Langchain的本地知识库问答应用，支持ChatGLM、Qwen、Llama等多种大语言模型，提供完整的RAG和Agent功能。
-
-- **Stars:** ⭐️ 38.0k
-- **Tags:** `RAG` `LangChain` `知识库` `ChatGLM`
-- **最后活动时间:** 2025-11-10
-
 ### [GitNexus](https://github.com/abhigyanpatwari/GitNexus)
 
 零服务器代码智能引擎，在浏览器中运行的知识图谱创建器，内置Graph RAG智能体。
@@ -1823,14 +1815,6 @@ AI驱动的数据处理框架，结合LLM和嵌入技术实现语义搜索与查
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `语义搜索` `Rust` `本地优先`
 - **最后活动时间:** 2026-01-27
-
-### [dsRAG](https://github.com/D-Star-AI/dsRAG)
-
-高性能非结构化数据检索引擎，专为大规模数据处理优化。
-
-- **Stars:** ⭐️ 1.6k
-- **Tags:** `rag` `retrieval` `unstructured-data` `search`
-- **最后活动时间:** 2025-11-10
 
 ### [awesome-search](https://github.com/frutik/awesome-search)
 

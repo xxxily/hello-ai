@@ -2,7 +2,7 @@
 
 > Autonomous agents and multi-agent systems.
 
-> 当前分类已收录 **1382** 个相关项目。
+> 当前分类已收录 **1381** 个相关项目。
 
 ## Agent Frameworks
 
@@ -4597,14 +4597,6 @@ MCP服务器，用于管理Facebook和Instagram广告投放，让AI助手能够�
 - **Stars:** ⭐️ 866
 - **Tags:** `Claude` `Agent` `Command Center`
 - **最后活动时间:** 2026-03-24
-
-### [xpander.ai](https://github.com/xpander-ai/xpander.ai)
-
-AI代理的运行时和控制平面平台。快速构建、运行和部署可靠的AI代理，支持任意环境部署。
-
-- **Stars:** ⭐️ 866
-- **Tags:** `ai-agents` `agent-runtime` `agentic-ai` `llm`
-- **最后活动时间:** 2025-11-11
 
 ### [opsdroid](https://github.com/opsdroid/opsdroid)
 

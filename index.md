@@ -13,6 +13,9 @@ hero:
     - theme: brand
       text: "> /START_CONNECTION"
       link: /home/
+    - theme: alt
+      text: "> /EXPLORE_RADAR"
+      link: /explore/
 
 features:
 - title: 🌌 降维打击 (Dimensional Strike)

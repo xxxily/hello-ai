@@ -1,5 +1,5 @@
 {
-  "totalProjects": 9090,
+  "totalProjects": 9068,
   "totalRawProjects": 18839,
   "recencyThresholdMonths": 6,
   "categories": {
@@ -10,22 +10,22 @@
     },
     "llms": {
       "name": "🧠 基础大模型",
-      "count": 145,
+      "count": 143,
       "rawCount": 547
     },
     "agents": {
       "name": "🤖 智能体与编排",
-      "count": 1382,
+      "count": 1381,
       "rawCount": 1725
     },
     "rag_data": {
       "name": "🔍 RAG与检索",
-      "count": 416,
+      "count": 414,
       "rawCount": 661
     },
     "infrastructure": {
       "name": "☁️ 基础设施与部署",
-      "count": 929,
+      "count": 928,
       "rawCount": 1521
     },
     "finetuning": {
@@ -35,22 +35,22 @@
     },
     "multimodal": {
       "name": "👁️ 多模态与音视频",
-      "count": 853,
+      "count": 847,
       "rawCount": 2716
     },
     "devtools": {
       "name": "🛠️ 开发工具与SDK",
-      "count": 2014,
+      "count": 2011,
       "rawCount": 3338
     },
     "applications": {
       "name": "🎨 AI终端应用",
-      "count": 858,
+      "count": 857,
       "rawCount": 1570
     },
     "learning": {
       "name": "📚 学习与资源",
-      "count": 1208,
+      "count": 1202,
       "rawCount": 4126
     },
     "desktop_tools": {
@@ -69,5 +69,5 @@
       "rawCount": 325
     }
   },
-  "lastUpdated": "2026-05-10T06:12:03.299Z"
+  "lastUpdated": "2026-05-12T04:49:52.766Z"
 }

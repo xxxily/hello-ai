@@ -1,5 +1,32 @@
+import fs from 'fs'
+import path from 'path'
 import zhNav from './nav/zh'
 import zhSidebar from './sidebar/zh'
+
+const exploreHtmlPath = path.resolve(process.cwd(), 'public/explore/index.html')
+
+function nativeExploreRoutePlugin() {
+  const serveExplore = (req, res, next) => {
+    const pathname = req.url ? new URL(req.url, 'http://localhost').pathname : ''
+
+    if (pathname === '/explore' || pathname === '/explore/' || pathname === '/explore/index.html') {
+      res.statusCode = 200
+      res.setHeader('Content-Type', 'text/html; charset=utf-8')
+      res.end(fs.readFileSync(exploreHtmlPath, 'utf-8'))
+      return
+    }
+
+    next()
+  }
+
+  return {
+    name: 'native-explore-route',
+    enforce: 'pre',
+    configureServer(server) {
+      server.middlewares.use(serveExplore)
+    },
+  }
+}
 
 export default {
   appearance: { initialValue: 'light' },
@@ -78,4 +105,7 @@ export default {
   /* 只需兼容现代浏览器 */
   // evergreen: true,
   plugins: [],
+  vite: {
+    plugins: [nativeExploreRoutePlugin()],
+  },
 }

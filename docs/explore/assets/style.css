@@ -102,13 +102,20 @@ a {
   border-bottom: 1px solid var(--line);
   background: color-mix(in srgb, var(--surface) 88%, transparent);
   backdrop-filter: blur(18px);
+  transition:
+    min-height 180ms ease,
+    padding 180ms ease;
 }
 
 .brand {
   display: inline-flex;
   align-items: center;
   gap: 10px;
+  min-width: 0;
   text-decoration: none;
+  transition:
+    opacity 160ms ease,
+    transform 160ms ease;
 }
 
 .brand img {
@@ -690,7 +697,36 @@ h1 {
   top: 88px;
   display: grid;
   gap: 20px;
+  max-height: calc(100vh - 108px);
+  overflow-y: auto;
+  overscroll-behavior: contain;
   padding-right: 8px;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.filter-panel::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+}
+
+.filter-panel.is-scrolling {
+  scrollbar-width: thin;
+  scrollbar-color: color-mix(in srgb, var(--line-strong) 70%, transparent) transparent;
+}
+
+.filter-panel.is-scrolling::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+.filter-panel.is-scrolling::-webkit-scrollbar-thumb {
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--line-strong) 70%, transparent);
+}
+
+.filter-panel.is-scrolling::-webkit-scrollbar-track {
+  background: transparent;
 }
 
 .filter-group {
@@ -1153,6 +1189,8 @@ h1 {
 
   .filter-panel {
     position: static;
+    max-height: none;
+    overflow: visible;
     padding-right: 0;
   }
 }
@@ -1160,13 +1198,71 @@ h1 {
 @media (max-width: 760px) {
   .topbar {
     grid-template-columns: 1fr auto;
+    gap: 8px;
+    min-height: 64px;
+    padding: 8px;
+  }
+
+  .brand {
+    overflow: hidden;
+  }
+
+  .brand img {
+    width: 30px;
+    height: 30px;
+  }
+
+  .brand strong {
+    font-size: 17px;
+  }
+
+  .brand small {
+    font-size: 9px;
   }
 
   .main-nav {
     grid-column: 1 / -1;
     justify-content: flex-start;
+    min-width: 0;
     overflow-x: auto;
     padding-bottom: 2px;
+    scrollbar-width: none;
+  }
+
+  .main-nav::-webkit-scrollbar {
+    display: none;
+  }
+
+  .nav-button,
+  .docs-link {
+    flex: 0 0 auto;
+    min-height: 34px;
+    padding: 7px 10px;
+    white-space: nowrap;
+  }
+
+  .docs-link {
+    justify-self: end;
+  }
+
+  body.is-mobile-scrolled .topbar {
+    grid-template-columns: minmax(0, 1fr) auto;
+    min-height: 48px;
+    padding: 7px 8px;
+  }
+
+  body.is-mobile-scrolled .brand {
+    display: none;
+  }
+
+  body.is-mobile-scrolled .main-nav {
+    grid-column: 1;
+    grid-row: 1;
+  }
+
+  body.is-mobile-scrolled .docs-link {
+    grid-column: 2;
+    grid-row: 1;
   }
 
   .command-inner {

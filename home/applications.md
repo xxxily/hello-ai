@@ -2,7 +2,7 @@
 
 > End-user applications powered by AI.
 
-> 当前分类已收录 **858** 个相关项目。
+> 当前分类已收录 **857** 个相关项目。
 
 ## Chatbots & UIs
 
@@ -5699,14 +5699,6 @@ Obsidian AI 助手插件，超越简单聊天，提供智能笔记整理和组�
 - **Stars:** ⭐️ 836
 - **Tags:** `obsidian` `ai-assistant` `note-taking` `ocr`
 - **最后活动时间:** 2026-05-10
-
-### [filewizard](https://github.com/LoredCast/filewizard)
-
-集成OCR识别、语音转录和TTS功能的文件转换WebUI工具。
-
-- **Stars:** ⭐️ 835
-- **Tags:** `ocr` `tts` `transcription` `webui` `file-converter`
-- **最后活动时间:** 2025-11-11
 
 ### [reddit-ai-trends](https://github.com/liyedanpdx/reddit-ai-trends)
 

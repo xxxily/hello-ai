@@ -21,6 +21,7 @@ yarn-error.log*
 .meilisearch-keys.json
 .vitepress/cache
 .agents/*
+.playwright-cli/
 
 # Deployment scripts (private)
 scripts/deploy-*.sh
