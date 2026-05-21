@@ -1,3 +1,2720 @@
 {
-  "queue": []
+  "queue": [
+    {
+      "name": "blog_demos",
+      "html_url": "https://github.com/zq2599/blog_demos",
+      "description": "CSDN博客专家程序员欣宸的github，这里有六百多篇原创文章的详细分类和汇总，以及对应的源码，内容涉及Java、Docker、Kubernetes、DevOPS等方面",
+      "topics": [
+        "docker",
+        "docker-java",
+        "docker-jib",
+        "flink",
+        "java",
+        "jenkins",
+        "kubernetes",
+        "kubernetes-java",
+        "kubernetes-jenkins-maven",
+        "spring",
+        "spring-cloud",
+        "spring-cloud-kubernetes",
+        "springboot"
+      ],
+      "stargazers_count": 4758,
+      "pushed_at": "2026-03-09T15:27:30Z",
+      "added_to_queue": "2026-05-21T16:39:46.634Z"
+    },
+    {
+      "name": "helm-charts",
+      "html_url": "https://github.com/elastic/helm-charts",
+      "description": "You know, for Kubernetes",
+      "topics": [],
+      "stargazers_count": 1916,
+      "pushed_at": "2023-04-24T18:01:01Z",
+      "added_to_queue": "2026-05-21T16:39:46.634Z"
+    },
+    {
+      "name": "podinfo",
+      "html_url": "https://github.com/stefanprodan/podinfo",
+      "description": "Go microservice template for Kubernetes",
+      "topics": [
+        "cuelang",
+        "e2e-testing",
+        "gitops",
+        "golang",
+        "helm",
+        "kubernetes",
+        "kustomize",
+        "microservice"
+      ],
+      "stargazers_count": 5907,
+      "pushed_at": "2026-05-20T10:17:00Z",
+      "added_to_queue": "2026-05-21T16:39:46.634Z"
+    },
+    {
+      "name": "AzureDevOps-Zero-to-Hero",
+      "html_url": "https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero",
+      "description": "A central hub for artifacts, agendas, and resources related to the \"Azure DevOps Zero to Hero\" series on Tech Tutorials with Piyush YouTube channel. Access code snippets, agendas, notes, graphics, and community discussions. Stay updated on new episodes and collaborate with fellow learners.",
+      "topics": [
+        "agile",
+        "azure",
+        "azure-devops",
+        "cicd",
+        "cloud",
+        "devops",
+        "docker",
+        "kubernetes",
+        "terrform"
+      ],
+      "stargazers_count": 1234,
+      "pushed_at": "2025-09-18T04:16:48Z",
+      "added_to_queue": "2026-05-21T16:39:46.634Z"
+    },
+    {
+      "name": "django-DefectDojo",
+      "html_url": "https://github.com/DefectDojo/django-DefectDojo",
+      "description": "Open-Source Unified Vulnerability Management, DevSecOps & ASPM",
+      "topics": [
+        "analytics",
+        "appsec",
+        "automation",
+        "devsecops",
+        "django",
+        "hacktoberfest",
+        "kubernetes",
+        "owasp",
+        "python",
+        "security",
+        "security-automation",
+        "security-orchestration",
+        "vulnerability-correlation",
+        "vulnerability-databases",
+        "vulnerability-management"
+      ],
+      "stargazers_count": 4709,
+      "pushed_at": "2026-05-21T13:42:56Z",
+      "added_to_queue": "2026-05-21T16:39:46.634Z"
+    },
+    {
+      "name": "boilerplates",
+      "html_url": "https://github.com/ChristianLempa/boilerplates",
+      "description": "Create reusable templates and turn them into configurable workloads for homelabs and self-hosted infrastructure. Free and Open-Source.",
+      "topics": [
+        "ansible",
+        "bash",
+        "docker",
+        "docker-compose",
+        "docker-swarm",
+        "kubernetes",
+        "packer",
+        "python",
+        "terraform"
+      ],
+      "stargazers_count": 7743,
+      "pushed_at": "2026-05-17T17:00:54Z",
+      "added_to_queue": "2026-05-21T16:39:46.634Z"
+    },
+    {
+      "name": "CKA-2024",
+      "html_url": "https://github.com/piyushsachdeva/CKA-2024",
+      "description": "This repository contains the notes and code snippets of the CKA 2025 YouTube Playlist. The content is based on the latest 2025 curriculum and includes hands-on demos, assignments, and exam-based scenarios. I will be covering everything from the basics to the advanced level.",
+      "topics": [
+        "cka",
+        "cncf",
+        "docker",
+        "k8s",
+        "kubernetes",
+        "kubernetes-tutorial"
+      ],
+      "stargazers_count": 1053,
+      "pushed_at": "2025-07-25T20:00:06Z",
+      "added_to_queue": "2026-05-21T16:39:46.634Z"
+    },
+    {
+      "name": "kubernetes-network-policy-recipes",
+      "html_url": "https://github.com/ahmetb/kubernetes-network-policy-recipes",
+      "description": "Example recipes for Kubernetes Network Policies that you can just copy paste",
+      "topics": [
+        "kubernetes",
+        "networking",
+        "security"
+      ],
+      "stargazers_count": 6139,
+      "pushed_at": "2025-02-07T08:38:37Z",
+      "added_to_queue": "2026-05-21T16:39:46.634Z"
+    },
+    {
+      "name": "operator-sdk",
+      "html_url": "https://github.com/operator-framework/operator-sdk",
+      "description": "SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.",
+      "topics": [
+        "kubernetes",
+        "operator",
+        "sdk"
+      ],
+      "stargazers_count": 7647,
+      "pushed_at": "2026-05-20T09:28:44Z",
+      "added_to_queue": "2026-05-21T16:39:46.634Z"
+    },
+    {
+      "name": "kubernetes-troubleshooting-zero-to-hero",
+      "html_url": "https://github.com/iam-veeramalla/kubernetes-troubleshooting-zero-to-hero",
+      "description": "Learn how to troubleshoot the most common Kubernetes Issues",
+      "topics": [],
+      "stargazers_count": 952,
+      "pushed_at": "2024-08-08T15:53:39Z",
+      "added_to_queue": "2026-05-21T16:39:46.634Z"
+    },
+    {
+      "name": "kubevirt",
+      "html_url": "https://github.com/kubevirt/kubevirt",
+      "description": "Kubernetes Virtualization API and runtime in order to define and manage virtual machines.",
+      "topics": [
+        "hacktoberfest",
+        "kubernetes",
+        "libvirt",
+        "virtualization",
+        "vms"
+      ],
+      "stargazers_count": 6863,
+      "pushed_at": "2026-05-21T16:15:05Z",
+      "added_to_queue": "2026-05-21T16:39:46.635Z"
+    },
+    {
+      "name": "enhancements",
+      "html_url": "https://github.com/kubernetes/enhancements",
+      "description": "Enhancements tracking repo for Kubernetes",
+      "topics": [
+        "enhancements",
+        "k8s-sig-architecture",
+        "kubernetes",
+        "kubernetes-releases"
+      ],
+      "stargazers_count": 3878,
+      "pushed_at": "2026-05-21T13:04:52Z",
+      "added_to_queue": "2026-05-21T16:39:46.635Z"
+    },
+    {
+      "name": "contrib",
+      "html_url": "https://github.com/kubernetes-retired/contrib",
+      "description": "[EOL] This is a place for various components in the Kubernetes ecosystem that aren't part of the Kubernetes core.",
+      "topics": [],
+      "stargazers_count": 2443,
+      "pushed_at": "2019-04-17T03:02:05Z",
+      "added_to_queue": "2026-05-21T16:39:46.635Z"
+    },
+    {
+      "name": "kubebuilder",
+      "html_url": "https://github.com/kubernetes-sigs/kubebuilder",
+      "description": "Kubebuilder - SDK for building Kubernetes APIs using CRDs",
+      "topics": [
+        "k8s-sig-api-machinery"
+      ],
+      "stargazers_count": 9154,
+      "pushed_at": "2026-05-21T15:11:01Z",
+      "added_to_queue": "2026-05-21T16:39:46.635Z"
+    },
+    {
+      "name": "aws-load-balancer-controller",
+      "html_url": "https://github.com/kubernetes-sigs/aws-load-balancer-controller",
+      "description": "A Kubernetes controller for Elastic Load Balancers",
+      "topics": [
+        "aws",
+        "gateway-api",
+        "ingress",
+        "ingress-resource",
+        "k8s-sig-aws",
+        "kubernetes",
+        "kubernetes-ingress-controller"
+      ],
+      "stargazers_count": 4292,
+      "pushed_at": "2026-05-21T02:48:44Z",
+      "added_to_queue": "2026-05-21T16:39:46.635Z"
+    },
+    {
+      "name": "container.training",
+      "html_url": "https://github.com/jpetazzo/container.training",
+      "description": "Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.",
+      "topics": [
+        "compose",
+        "docker",
+        "dockerfiles",
+        "elk",
+        "helm",
+        "kubernetes",
+        "labs",
+        "slides",
+        "stern",
+        "swarm",
+        "training",
+        "workshop"
+      ],
+      "stargazers_count": 3928,
+      "pushed_at": "2026-05-13T05:46:12Z",
+      "added_to_queue": "2026-05-21T16:39:46.635Z"
+    },
+    {
+      "name": "cloud-custodian",
+      "html_url": "https://github.com/cloud-custodian/cloud-custodian",
+      "description": "Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources",
+      "topics": [
+        "aws",
+        "azure",
+        "cloud",
+        "cloud-computing",
+        "compliance",
+        "finops",
+        "gcp",
+        "kubernetes",
+        "management",
+        "oci",
+        "rules-engine",
+        "serverless",
+        "tencent-cloud",
+        "terraform"
+      ],
+      "stargazers_count": 5988,
+      "pushed_at": "2026-05-20T05:31:05Z",
+      "added_to_queue": "2026-05-21T16:39:46.635Z"
+    },
+    {
+      "name": "kuboard-press",
+      "html_url": "https://github.com/eip-work/kuboard-press",
+      "description": "Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.23.4 安装手册，(k8s install) 在线答疑，持续更新。",
+      "topics": [
+        "docker",
+        "k8s",
+        "kubernetes",
+        "kubernetes-kuboard"
+      ],
+      "stargazers_count": 24998,
+      "pushed_at": "2026-04-04T06:25:52Z",
+      "added_to_queue": "2026-05-21T16:39:46.635Z"
+    },
+    {
+      "name": "Kubernetes-Certified-Administrator",
+      "html_url": "https://github.com/walidshaari/Kubernetes-Certified-Administrator",
+      "description": "Online resources that will help you prepare for taking the CNCF CKA  2020 \"Kubernetes Certified Administrator\" Certification exam. with time, This is not likely the comprehensive up to date list  - please make a pull request if there something that should be added here.",
+      "topics": [
+        "certification",
+        "certification-exam",
+        "cka",
+        "ckad",
+        "cncf",
+        "exam",
+        "exam-objectives",
+        "k8s",
+        "kubernetes",
+        "kubernetes-certified-administrator",
+        "kubernetes-cluster",
+        "kubernetes-native"
+      ],
+      "stargazers_count": 4409,
+      "pushed_at": "2025-01-05T06:27:45Z",
+      "added_to_queue": "2026-05-21T16:39:46.635Z"
+    },
+    {
+      "name": "DevOps-Bash-tools",
+      "html_url": "https://github.com/HariSekhon/DevOps-Bash-tools",
+      "description": "1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux..",
+      "topics": [
+        "api",
+        "aws",
+        "bash",
+        "ci",
+        "cloudera",
+        "devops",
+        "docker",
+        "gcp",
+        "git",
+        "github",
+        "hacktoberfest",
+        "hadoop",
+        "jenkins",
+        "kafka",
+        "kubernetes",
+        "linux",
+        "mysql",
+        "perl",
+        "postgresql",
+        "terraform"
+      ],
+      "stargazers_count": 8283,
+      "pushed_at": "2026-05-04T22:26:35Z",
+      "added_to_queue": "2026-05-21T16:39:46.635Z"
+    },
+    {
+      "name": "calico",
+      "html_url": "https://github.com/projectcalico/calico",
+      "description": "Cloud native networking and network security",
+      "topics": [
+        "cats",
+        "cni",
+        "cni-plugin",
+        "ebpf",
+        "host-protection",
+        "identity-aware-policy",
+        "k8s",
+        "kubernetes",
+        "kubernetes-networking",
+        "kubernetes-windows",
+        "network-policy",
+        "networking",
+        "observability",
+        "openstack",
+        "security",
+        "windows",
+        "xdp"
+      ],
+      "stargazers_count": 7213,
+      "pushed_at": "2026-05-21T16:35:27Z",
+      "added_to_queue": "2026-05-21T16:39:46.635Z"
+    },
+    {
+      "name": "layer5",
+      "html_url": "https://github.com/layer5io/layer5",
+      "description": "Layer5, expect more from your infrastructure",
+      "topics": [
+        "cloud",
+        "cloud-native",
+        "cncf",
+        "configuration-management",
+        "design-patterns",
+        "design-system",
+        "gatsbyjs",
+        "hacktoberfest",
+        "internship",
+        "kanvas",
+        "kubernetes",
+        "lfx",
+        "management-plane",
+        "meshery",
+        "orchestration",
+        "playground",
+        "visual-designer",
+        "visualization"
+      ],
+      "stargazers_count": 1044,
+      "pushed_at": "2026-05-21T13:17:52Z",
+      "added_to_queue": "2026-05-21T16:39:46.635Z"
+    },
+    {
+      "name": "velero",
+      "html_url": "https://github.com/velero-io/velero",
+      "description": "Backup and migrate Kubernetes applications and their persistent volumes",
+      "topics": [
+        "backup",
+        "disaster-recovery",
+        "hacktoberfest",
+        "kubernetes",
+        "velero"
+      ],
+      "stargazers_count": 10027,
+      "pushed_at": "2026-05-21T05:19:43Z",
+      "added_to_queue": "2026-05-21T16:39:46.635Z"
+    },
+    {
+      "name": "terraform-aws-eks-blueprints",
+      "html_url": "https://github.com/aws-ia/terraform-aws-eks-blueprints",
+      "description": "Configure and deploy complete EKS clusters.",
+      "topics": [
+        "aws-eks-cluster",
+        "bottlerocket",
+        "eks",
+        "eks-addons",
+        "eks-clusters",
+        "eks-fargate",
+        "fargate",
+        "kubernetes",
+        "terraform"
+      ],
+      "stargazers_count": 3021,
+      "pushed_at": "2026-05-15T11:53:28Z",
+      "added_to_queue": "2026-05-21T16:39:46.635Z"
+    },
+    {
+      "name": "kubernetes-client",
+      "html_url": "https://github.com/fabric8io/kubernetes-client",
+      "description": "Java client for Kubernetes & OpenShift ",
+      "topics": [
+        "dsl",
+        "java",
+        "java-client",
+        "kubernetes",
+        "kubernetes-client",
+        "kubernetes-model",
+        "mock-server",
+        "mocking-kubernetes",
+        "openshift",
+        "openshift-client"
+      ],
+      "stargazers_count": 3655,
+      "pushed_at": "2026-05-21T11:34:46Z",
+      "added_to_queue": "2026-05-21T16:39:46.635Z"
+    },
+    {
+      "name": "kubernetes-in-action",
+      "html_url": "https://github.com/luksa/kubernetes-in-action",
+      "description": "Code from the Kubernetes in Action book",
+      "topics": [],
+      "stargazers_count": 1980,
+      "pushed_at": "2024-06-02T23:09:31Z",
+      "added_to_queue": "2026-05-21T16:39:46.635Z"
+    },
+    {
+      "name": "eksctl",
+      "html_url": "https://github.com/eksctl-io/eksctl",
+      "description": "The official CLI for Amazon EKS",
+      "topics": [
+        "amazon-web-services",
+        "aws-cloudformation",
+        "aws-ec2",
+        "aws-eks",
+        "eks",
+        "kubernetes",
+        "kubernetes-cluster",
+        "kubernetes-deployment",
+        "kubernetes-setup"
+      ],
+      "stargazers_count": 5202,
+      "pushed_at": "2026-05-21T06:25:36Z",
+      "added_to_queue": "2026-05-21T16:39:46.635Z"
+    },
+    {
+      "name": "strimzi-kafka-operator",
+      "html_url": "https://github.com/strimzi/strimzi-kafka-operator",
+      "description": "Apache Kafka® running on Kubernetes",
+      "topics": [
+        "data-stream",
+        "data-streaming",
+        "data-streams",
+        "hacktoberfest",
+        "kafka",
+        "kafka-connect",
+        "kafka-streams",
+        "kubernetes",
+        "kubernetes-controller",
+        "kubernetes-operator",
+        "messaging",
+        "openshift"
+      ],
+      "stargazers_count": 5813,
+      "pushed_at": "2026-05-21T09:11:39Z",
+      "added_to_queue": "2026-05-21T16:39:46.635Z"
+    },
+    {
+      "name": "retail-store-sample-app",
+      "html_url": "https://github.com/aws-containers/retail-store-sample-app",
+      "description": "💼 Sample application for demonstrating container platforms and related technology",
+      "topics": [
+        "amazon-eks",
+        "aws",
+        "containers",
+        "docker",
+        "docker-compose",
+        "golang",
+        "java",
+        "javascript",
+        "kubernetes",
+        "microservices-architecture",
+        "microservices-demo"
+      ],
+      "stargazers_count": 561,
+      "pushed_at": "2026-05-18T09:57:17Z",
+      "added_to_queue": "2026-05-21T16:39:46.635Z"
+    },
+    {
+      "name": "actions-runner-controller",
+      "html_url": "https://github.com/actions/actions-runner-controller",
+      "description": "Kubernetes controller for GitHub Actions self-hosted runners",
+      "topics": [
+        "github-actions",
+        "kubernetes",
+        "operator"
+      ],
+      "stargazers_count": 6259,
+      "pushed_at": "2026-05-20T16:40:37Z",
+      "added_to_queue": "2026-05-21T16:39:46.635Z"
+    },
+    {
+      "name": "keda",
+      "html_url": "https://github.com/kedacore/keda",
+      "description": " KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes ",
+      "topics": [
+        "autoscaling",
+        "event-driven",
+        "hacktoberfest",
+        "keda",
+        "kubernetes",
+        "serverless"
+      ],
+      "stargazers_count": 10208,
+      "pushed_at": "2026-05-21T14:33:44Z",
+      "added_to_queue": "2026-05-21T16:39:46.635Z"
+    },
+    {
+      "name": "authelia",
+      "html_url": "https://github.com/authelia/authelia",
+      "description": "The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™",
+      "topics": [
+        "2fa",
+        "authentication",
+        "docker",
+        "golang",
+        "kubernetes",
+        "ldap",
+        "mfa",
+        "multifactor",
+        "oauth2",
+        "openid-connect",
+        "passkeys",
+        "push-notifications",
+        "security",
+        "sso",
+        "sso-authentication",
+        "totp",
+        "two-factor",
+        "two-factor-authentication",
+        "webauthn",
+        "yubikey"
+      ],
+      "stargazers_count": 27847,
+      "pushed_at": "2026-05-21T10:25:48Z",
+      "added_to_queue": "2026-05-21T16:39:46.635Z"
+    },
+    {
+      "name": "kubernetes-handbook",
+      "html_url": "https://github.com/feiskyer/kubernetes-handbook",
+      "description": "Kubernetes Handbook （Kubernetes指南）   https://kubernetes.feisky.xyz",
+      "topics": [
+        "books",
+        "cloud-native",
+        "containers",
+        "docker",
+        "gitbook",
+        "handbook",
+        "kubernetes",
+        "kubernetes-handbook",
+        "microservice",
+        "service-mesh"
+      ],
+      "stargazers_count": 5543,
+      "pushed_at": "2025-11-25T03:33:03Z",
+      "added_to_queue": "2026-05-21T16:39:46.635Z"
+    },
+    {
+      "name": "pulumi",
+      "html_url": "https://github.com/pulumi/pulumi",
+      "description": "Pulumi - Infrastructure as Code in any programming language 🚀",
+      "topics": [
+        "aws",
+        "azure",
+        "cloud",
+        "cloud-computing",
+        "containers",
+        "csharp",
+        "dotnet",
+        "fsharp",
+        "gcp",
+        "go",
+        "golang",
+        "iac",
+        "infrastructure-as-code",
+        "javascript",
+        "kubernetes",
+        "python",
+        "serverless",
+        "typescript"
+      ],
+      "stargazers_count": 25221,
+      "pushed_at": "2026-05-21T16:38:29Z",
+      "added_to_queue": "2026-05-21T16:39:46.635Z"
+    },
+    {
+      "name": "kyverno",
+      "html_url": "https://github.com/kyverno/kyverno",
+      "description": "Unified Policy as Code",
+      "topics": [
+        "compliance",
+        "governance",
+        "kubernetes",
+        "policy-as-code",
+        "security"
+      ],
+      "stargazers_count": 7769,
+      "pushed_at": "2026-05-21T13:40:07Z",
+      "added_to_queue": "2026-05-21T16:39:46.635Z"
+    },
+    {
+      "name": "DevOps-Bootcamp",
+      "html_url": "https://github.com/kunal-kushwaha/DevOps-Bootcamp",
+      "description": "This repository consists of the code samples, assignments, and notes for the DevOps bootcamp of WeMakeDevs.",
+      "topics": [
+        "ci-cd",
+        "cloud",
+        "cloud-computing",
+        "cloud-native",
+        "devops",
+        "docker",
+        "infrastructure",
+        "interview-preparation",
+        "k3s",
+        "kubernetes",
+        "linux",
+        "monitoring",
+        "networking",
+        "testing",
+        "tools"
+      ],
+      "stargazers_count": 2381,
+      "pushed_at": "2024-07-18T09:11:07Z",
+      "added_to_queue": "2026-05-21T16:39:46.635Z"
+    },
+    {
+      "name": "checkov",
+      "html_url": "https://github.com/bridgecrewio/checkov",
+      "description": "Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.",
+      "topics": [
+        "aws",
+        "aws-security",
+        "azure",
+        "cloudformation",
+        "compliance",
+        "devops",
+        "gcp",
+        "hacktoberfest",
+        "infrastructure-as-code",
+        "kubernetes",
+        "scans",
+        "static-analysis",
+        "terraform"
+      ],
+      "stargazers_count": 8735,
+      "pushed_at": "2026-05-19T21:10:41Z",
+      "added_to_queue": "2026-05-21T16:39:46.635Z"
+    },
+    {
+      "name": "kube-bench",
+      "html_url": "https://github.com/aquasecurity/kube-bench",
+      "description": "Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark",
+      "topics": [
+        "cis-benchmark",
+        "cis-kubernetes-benchmark",
+        "cis-security",
+        "hacktoberfest",
+        "kube-bench",
+        "kubernetes",
+        "kubernetes-security",
+        "openshift"
+      ],
+      "stargazers_count": 8049,
+      "pushed_at": "2026-05-20T08:37:49Z",
+      "added_to_queue": "2026-05-21T16:39:46.635Z"
+    },
+    {
+      "name": "kata-containers",
+      "html_url": "https://github.com/kata-containers/kata-containers",
+      "description": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",
+      "topics": [
+        "acrn",
+        "containers",
+        "cri",
+        "cri-o",
+        "docker",
+        "firecracker",
+        "k8s",
+        "kubernetes",
+        "kvm",
+        "oci",
+        "qemu",
+        "security",
+        "virtual-machine",
+        "virtualization"
+      ],
+      "stargazers_count": 7958,
+      "pushed_at": "2026-05-21T15:55:07Z",
+      "added_to_queue": "2026-05-21T16:39:46.635Z"
+    },
+    {
+      "name": "cloudstack",
+      "html_url": "https://github.com/apache/cloudstack",
+      "description": "Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform",
+      "topics": [
+        "cloud",
+        "cloudstack",
+        "iaas",
+        "infrastructure",
+        "java",
+        "kubernetes",
+        "kvm",
+        "libvirt",
+        "orchestration",
+        "python",
+        "virtual-machine",
+        "virtualization",
+        "vmware",
+        "vsphere",
+        "xcp-ng",
+        "xenserver"
+      ],
+      "stargazers_count": 2918,
+      "pushed_at": "2026-05-21T15:01:46Z",
+      "added_to_queue": "2026-05-21T16:39:46.635Z"
+    },
+    {
+      "name": "external-secrets",
+      "html_url": "https://github.com/external-secrets/external-secrets",
+      "description": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+      "topics": [
+        "external-secrets",
+        "hacktoberfest",
+        "kubernetes",
+        "kubernetes-secrets",
+        "secrets-manager"
+      ],
+      "stargazers_count": 6619,
+      "pushed_at": "2026-05-18T13:58:51Z",
+      "added_to_queue": "2026-05-21T16:39:46.635Z"
+    },
+    {
+      "name": "kubernetes-engine-samples",
+      "html_url": "https://github.com/GoogleCloudPlatform/kubernetes-engine-samples",
+      "description": "Sample applications for Google Kubernetes Engine (GKE)",
+      "topics": [
+        "samples"
+      ],
+      "stargazers_count": 1349,
+      "pushed_at": "2026-05-20T04:11:57Z",
+      "added_to_queue": "2026-05-21T16:39:46.635Z"
+    },
+    {
+      "name": "docs",
+      "html_url": "https://github.com/knative/docs",
+      "description": "User documentation for Knative components.",
+      "topics": [
+        "documentation",
+        "faas",
+        "hacktoberfest",
+        "istio",
+        "knative",
+        "kubernetes",
+        "paas",
+        "serverless"
+      ],
+      "stargazers_count": 5044,
+      "pushed_at": "2026-05-21T00:22:33Z",
+      "added_to_queue": "2026-05-21T16:39:46.635Z"
+    },
+    {
+      "name": "kubernetes-plugin",
+      "html_url": "https://github.com/jenkinsci/kubernetes-plugin",
+      "description": "Jenkins plugin to run dynamic agents in a Kubernetes/Docker environment",
+      "topics": [
+        "agent",
+        "cloud",
+        "kubernetes"
+      ],
+      "stargazers_count": 2307,
+      "pushed_at": "2026-05-20T19:48:57Z",
+      "added_to_queue": "2026-05-21T16:39:46.635Z"
+    },
+    {
+      "name": "terraform-google-kubernetes-engine",
+      "html_url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
+      "description": "Configures opinionated GKE clusters",
+      "topics": [
+        "cft-terraform",
+        "compute",
+        "containers"
+      ],
+      "stargazers_count": 1264,
+      "pushed_at": "2026-05-19T22:52:07Z",
+      "added_to_queue": "2026-05-21T16:39:46.635Z"
+    },
+    {
+      "name": "DescomplicandoKubernetes",
+      "html_url": "https://github.com/badtuxx/DescomplicandoKubernetes",
+      "description": null,
+      "topics": [],
+      "stargazers_count": 4031,
+      "pushed_at": "2024-06-30T14:14:15Z",
+      "added_to_queue": "2026-05-21T16:39:47.394Z"
+    },
+    {
+      "name": "yugabyte-db",
+      "html_url": "https://github.com/yugabyte/yugabyte-db",
+      "description": "YugabyteDB - the cloud native distributed SQL database for mission-critical applications.",
+      "topics": [
+        "cloud-native",
+        "cpp",
+        "database",
+        "distributed-database",
+        "distributed-sql",
+        "distributed-sql-database",
+        "high-performance",
+        "kubernetes",
+        "multi-cloud",
+        "multi-region",
+        "scale-out",
+        "sql"
+      ],
+      "stargazers_count": 10292,
+      "pushed_at": "2026-05-21T16:37:02Z",
+      "added_to_queue": "2026-05-21T16:39:47.394Z"
+    },
+    {
+      "name": "karpenter-provider-aws",
+      "html_url": "https://github.com/aws/karpenter-provider-aws",
+      "description": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",
+      "topics": [],
+      "stargazers_count": 7633,
+      "pushed_at": "2026-05-20T19:02:05Z",
+      "added_to_queue": "2026-05-21T16:39:47.394Z"
+    },
+    {
+      "name": "serving",
+      "html_url": "https://github.com/knative/serving",
+      "description": "Kubernetes-based, scale-to-zero, request-driven compute",
+      "topics": [
+        "app",
+        "autoscaler",
+        "container",
+        "developer-productivity",
+        "function",
+        "knative",
+        "kubernetes",
+        "networking",
+        "scale",
+        "serverless",
+        "serverless-containers"
+      ],
+      "stargazers_count": 6051,
+      "pushed_at": "2026-05-21T03:15:25Z",
+      "added_to_queue": "2026-05-21T16:39:47.394Z"
+    },
+    {
+      "name": "che",
+      "html_url": "https://github.com/eclipse-che/che",
+      "description": "Kubernetes based Cloud Development Environments for Enterprise Teams",
+      "topics": [
+        "cloud",
+        "cloud-ide",
+        "containers",
+        "devtools",
+        "eclipse",
+        "ide",
+        "kubernetes"
+      ],
+      "stargazers_count": 7161,
+      "pushed_at": "2026-05-21T11:46:03Z",
+      "added_to_queue": "2026-05-21T16:39:47.394Z"
+    },
+    {
+      "name": "flux2-kustomize-helm-example",
+      "html_url": "https://github.com/fluxcd/flux2-kustomize-helm-example",
+      "description": "A GitOps workflow example for multi-env deployments with Flux, Kustomize and Helm.",
+      "topics": [
+        "example",
+        "flux2",
+        "fluxcd",
+        "gitops",
+        "helm",
+        "kubernetes",
+        "kustomize"
+      ],
+      "stargazers_count": 1262,
+      "pushed_at": "2026-04-28T09:46:22Z",
+      "added_to_queue": "2026-05-21T16:39:47.394Z"
+    },
+    {
+      "name": "microservices",
+      "html_url": "https://github.com/eazybytes/microservices",
+      "description": "Microservices With Spring, Docker, Kubernetes - Code Examples",
+      "topics": [
+        "docker",
+        "docker-compose",
+        "java",
+        "kubernetes",
+        "microservice",
+        "spring",
+        "spring-boot",
+        "spring-cloud"
+      ],
+      "stargazers_count": 1210,
+      "pushed_at": "2025-12-07T13:22:42Z",
+      "added_to_queue": "2026-05-21T16:39:47.394Z"
+    },
+    {
+      "name": "k3s-ansible",
+      "html_url": "https://github.com/timothystewart6/k3s-ansible",
+      "description": "The easiest way to bootstrap a self-hosted High Availability Kubernetes cluster.  A fully automated HA k3s etcd install with kube-vip, MetalLB, and more.  Build. Destroy. Repeat.",
+      "topics": [
+        "etcd",
+        "high-availability",
+        "k3s",
+        "k3s-cluster",
+        "k8s",
+        "kube-vip",
+        "kubernetes",
+        "metallb",
+        "rancher"
+      ],
+      "stargazers_count": 2975,
+      "pushed_at": "2026-01-07T21:31:59Z",
+      "added_to_queue": "2026-05-21T16:39:47.394Z"
+    },
+    {
+      "name": "openwhisk",
+      "html_url": "https://github.com/apache/openwhisk",
+      "description": "Apache OpenWhisk is an open source serverless cloud platform",
+      "topics": [
+        "apache",
+        "cloud",
+        "docker",
+        "faas",
+        "functions",
+        "functions-as-a-service",
+        "kubernetes",
+        "openwhisk",
+        "serverless",
+        "serverless-architectures",
+        "serverless-functions"
+      ],
+      "stargazers_count": 6777,
+      "pushed_at": "2026-05-07T14:42:56Z",
+      "added_to_queue": "2026-05-21T16:39:47.394Z"
+    },
+    {
+      "name": "DevSecOps",
+      "html_url": "https://github.com/sottlmarek/DevSecOps",
+      "description": "Ultimate DevSecOps library",
+      "topics": [
+        "automation",
+        "awesome",
+        "awesome-list",
+        "aws",
+        "azure",
+        "ci-cd",
+        "cloud",
+        "containers",
+        "cybersecurity",
+        "devops",
+        "devsecops",
+        "docker",
+        "gcp",
+        "k8s",
+        "kubernetes",
+        "security",
+        "serverless",
+        "ssdlc",
+        "tool"
+      ],
+      "stargazers_count": 6731,
+      "pushed_at": "2026-03-05T10:46:42Z",
+      "added_to_queue": "2026-05-21T16:39:47.394Z"
+    },
+    {
+      "name": "cri-o",
+      "html_url": "https://github.com/cri-o/cri-o",
+      "description": "Open Container Initiative-based implementation of Kubernetes Container Runtime Interface",
+      "topics": [
+        "container-runtime-interface",
+        "crun",
+        "hacktoberfest",
+        "k8s-sig-node",
+        "kata-containers",
+        "kubernetes",
+        "oci",
+        "oci-runtime",
+        "runc"
+      ],
+      "stargazers_count": 5613,
+      "pushed_at": "2026-05-21T15:51:10Z",
+      "added_to_queue": "2026-05-21T16:39:47.394Z"
+    },
+    {
+      "name": "staffjoy",
+      "html_url": "https://github.com/spring2go/staffjoy",
+      "description": "微服务(Microservices)和云原生架构教学案例项目，基于Spring Boot和Kubernetes技术栈",
+      "topics": [
+        "cloud-native",
+        "kubernetes",
+        "microservice",
+        "spring-boot"
+      ],
+      "stargazers_count": 1903,
+      "pushed_at": "2023-12-16T06:28:02Z",
+      "added_to_queue": "2026-05-21T16:39:47.394Z"
+    },
+    {
+      "name": "argo-rollouts",
+      "html_url": "https://github.com/argoproj/argo-rollouts",
+      "description": "Progressive Delivery for Kubernetes",
+      "topics": [
+        "argo-rollouts",
+        "argoproj",
+        "bluegreen",
+        "canary",
+        "deployments",
+        "experiments",
+        "gitops",
+        "hacktoberfest",
+        "kubernetes",
+        "progressive-delivery"
+      ],
+      "stargazers_count": 3479,
+      "pushed_at": "2026-05-21T14:15:50Z",
+      "added_to_queue": "2026-05-21T16:39:47.394Z"
+    },
+    {
+      "name": "cni",
+      "html_url": "https://github.com/containernetworking/cni",
+      "description": "Container Network Interface - networking for Linux containers",
+      "topics": [
+        "containers",
+        "docker",
+        "kubernetes",
+        "networking"
+      ],
+      "stargazers_count": 6047,
+      "pushed_at": "2025-12-15T08:34:29Z",
+      "added_to_queue": "2026-05-21T16:39:47.394Z"
+    },
+    {
+      "name": "karmada",
+      "html_url": "https://github.com/karmada-io/karmada",
+      "description": "Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration",
+      "topics": [
+        "cloud-computing",
+        "cloud-native",
+        "containers",
+        "k8s",
+        "kubernetes",
+        "multi-cluster",
+        "multicloud"
+      ],
+      "stargazers_count": 5478,
+      "pushed_at": "2026-05-21T12:43:54Z",
+      "added_to_queue": "2026-05-21T16:39:47.394Z"
+    },
+    {
+      "name": "k8s-for-docker-desktop",
+      "html_url": "https://github.com/denverdino/k8s-for-docker-desktop",
+      "description": "为Docker Desktop for Mac/Windows开启Kubernetes和Istio。",
+      "topics": [
+        "china",
+        "docker",
+        "helm",
+        "istio",
+        "k8s",
+        "kubernetes",
+        "mac",
+        "windows"
+      ],
+      "stargazers_count": 5056,
+      "pushed_at": "2026-05-19T06:31:49Z",
+      "added_to_queue": "2026-05-21T16:39:47.394Z"
+    },
+    {
+      "name": "kubelabs",
+      "html_url": "https://github.com/collabnix/kubelabs",
+      "description": "Get Started with Kubernetes",
+      "topics": [
+        "beginners",
+        "hacktoberfest",
+        "hacktoberfest2020",
+        "helm",
+        "kubernetes",
+        "kubetools"
+      ],
+      "stargazers_count": 3093,
+      "pushed_at": "2026-03-20T11:22:09Z",
+      "added_to_queue": "2026-05-21T16:39:47.394Z"
+    },
+    {
+      "name": "examples",
+      "html_url": "https://github.com/confluentinc/examples",
+      "description": "Apache Kafka, Apache Flink and Confluent Platform examples and demos",
+      "topics": [
+        "avro",
+        "cdc",
+        "cloud",
+        "confluent",
+        "connect",
+        "connector",
+        "debezium",
+        "demo",
+        "docker",
+        "examples",
+        "jdbc",
+        "kafka",
+        "kubernetes",
+        "microservices",
+        "monitoring",
+        "quickstart",
+        "replicator",
+        "schema-registry",
+        "sql"
+      ],
+      "stargazers_count": 2053,
+      "pushed_at": "2026-05-20T01:34:10Z",
+      "added_to_queue": "2026-05-21T16:39:47.394Z"
+    },
+    {
+      "name": "chaos-mesh",
+      "html_url": "https://github.com/chaos-mesh/chaos-mesh",
+      "description": "A Chaos Engineering Platform for Kubernetes.",
+      "topics": [
+        "chaos",
+        "chaos-engineering",
+        "chaos-experiments",
+        "chaos-mesh",
+        "chaos-testing",
+        "cloud-native",
+        "cncf",
+        "fault-injection",
+        "golang",
+        "kubernetes",
+        "microservices",
+        "operator",
+        "site-reliability-engineering"
+      ],
+      "stargazers_count": 7710,
+      "pushed_at": "2026-05-03T04:42:24Z",
+      "added_to_queue": "2026-05-21T16:40:36.386Z"
+    },
+    {
+      "name": "openebs",
+      "html_url": "https://github.com/openebs/openebs",
+      "description": "A popular & widely deployed Open Source Container Native Storage platform for Stateful Persistent Applications on Kubernetes.",
+      "topics": [
+        "block-storage",
+        "blockstorage",
+        "cloud-native",
+        "containerization",
+        "csi",
+        "devops",
+        "docker",
+        "ebs",
+        "ebs-volumes",
+        "filesystems",
+        "k8s",
+        "k8s-sig-storage",
+        "kubernetes",
+        "openebs",
+        "persistent-storage",
+        "persistent-workloads",
+        "pod",
+        "spdk",
+        "storage",
+        "storage-container"
+      ],
+      "stargazers_count": 9750,
+      "pushed_at": "2026-05-21T12:23:42Z",
+      "added_to_queue": "2026-05-21T16:40:36.386Z"
+    },
+    {
+      "name": "pouch",
+      "html_url": "https://github.com/AliyunContainerService/pouch",
+      "description": "An Efficient Enterprise-class Container Engine",
+      "topics": [
+        "cloud-native",
+        "containers",
+        "efficiency",
+        "go",
+        "isolation",
+        "kubernetes",
+        "oci",
+        "package",
+        "security"
+      ],
+      "stargazers_count": 4653,
+      "pushed_at": "2024-08-22T02:06:07Z",
+      "added_to_queue": "2026-05-21T16:40:36.386Z"
+    },
+    {
+      "name": "manageiq",
+      "html_url": "https://github.com/ManageIQ/manageiq",
+      "description": "ManageIQ Open-Source Management Platform",
+      "topics": [
+        "amazon",
+        "ansible",
+        "aws",
+        "azure",
+        "cloud",
+        "containers",
+        "foreman",
+        "google-cloud",
+        "kubernetes",
+        "manageiq",
+        "management",
+        "nuage",
+        "openshift",
+        "openstack",
+        "ovirt",
+        "rails",
+        "rhev",
+        "ruby",
+        "vmware"
+      ],
+      "stargazers_count": 1397,
+      "pushed_at": "2026-05-20T21:38:11Z",
+      "added_to_queue": "2026-05-21T16:40:36.386Z"
+    },
+    {
+      "name": "helm-charts",
+      "html_url": "https://github.com/jenkinsci/helm-charts",
+      "description": "Jenkins helm charts",
+      "topics": [
+        "charts",
+        "helm",
+        "helm-charts",
+        "jenkins",
+        "kubernetes"
+      ],
+      "stargazers_count": 656,
+      "pushed_at": "2026-05-18T09:25:42Z",
+      "added_to_queue": "2026-05-21T16:40:36.386Z"
+    },
+    {
+      "name": "agones",
+      "html_url": "https://github.com/agones-dev/agones",
+      "description": "Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes",
+      "topics": [
+        "agones",
+        "dedicated-game-servers",
+        "dedicated-gameservers",
+        "game-development",
+        "game-server",
+        "go",
+        "golang",
+        "kubernetes",
+        "multiplayer"
+      ],
+      "stargazers_count": 6850,
+      "pushed_at": "2026-05-20T22:14:55Z",
+      "added_to_queue": "2026-05-21T16:40:36.386Z"
+    },
+    {
+      "name": "continuous-deployment-on-kubernetes",
+      "html_url": "https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes",
+      "description": "Get up and running with Jenkins on Google Kubernetes Engine",
+      "topics": [
+        "continuous-delivery",
+        "google-cloud",
+        "kubernetes"
+      ],
+      "stargazers_count": 1602,
+      "pushed_at": "2025-05-30T20:05:33Z",
+      "added_to_queue": "2026-05-21T16:40:36.386Z"
+    },
+    {
+      "name": "KubeOperator",
+      "html_url": "https://github.com/KubeOperator/KubeOperator",
+      "description": "KubeOperator 是一个开源的轻量级 Kubernetes 发行版，专注于帮助企业规划、部署和运营生产级别的 K8s 集群。",
+      "topics": [
+        "ansible",
+        "containers",
+        "docker",
+        "k8s",
+        "kubeapps",
+        "kubernetes",
+        "kubernetes-installer",
+        "lightweight",
+        "openstack",
+        "paas",
+        "terraform",
+        "vmware-vsphere"
+      ],
+      "stargazers_count": 4988,
+      "pushed_at": "2024-07-02T10:27:56Z",
+      "added_to_queue": "2026-05-21T16:40:36.386Z"
+    },
+    {
+      "name": "kafdrop",
+      "html_url": "https://github.com/obsidiandynamics/kafdrop",
+      "description": "Kafka Web UI",
+      "topics": [
+        "consumer-group",
+        "consumer-producer",
+        "docker",
+        "event-sourcing",
+        "event-streaming",
+        "kafka",
+        "kafka-tools",
+        "kafka-ui",
+        "kafka-utils",
+        "kubernetes",
+        "pub-sub",
+        "topic",
+        "web-ui",
+        "zookeeper"
+      ],
+      "stargazers_count": 6134,
+      "pushed_at": "2026-05-20T19:38:08Z",
+      "added_to_queue": "2026-05-21T16:40:36.386Z"
+    },
+    {
+      "name": "examples",
+      "html_url": "https://github.com/pulumi/examples",
+      "description": "Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi",
+      "topics": [
+        "aws",
+        "azure",
+        "gcp",
+        "kubernetes",
+        "serverless"
+      ],
+      "stargazers_count": 2576,
+      "pushed_at": "2026-05-21T11:39:18Z",
+      "added_to_queue": "2026-05-21T16:40:36.386Z"
+    },
+    {
+      "name": "kruise",
+      "html_url": "https://github.com/openkruise/kruise",
+      "description": "Automated management of large-scale applications on Kubernetes (incubating project under CNCF)",
+      "topics": [
+        "cloud-native",
+        "cloudnative",
+        "cncf",
+        "container",
+        "k8s",
+        "kruise",
+        "kubernetes",
+        "openkruise",
+        "workload",
+        "workloads"
+      ],
+      "stargazers_count": 5247,
+      "pushed_at": "2026-05-20T06:16:30Z",
+      "added_to_queue": "2026-05-21T16:40:36.386Z"
+    },
+    {
+      "name": "kubectl-aliases",
+      "html_url": "https://github.com/ahmetb/kubectl-aliases",
+      "description": "Programmatically generated handy kubectl aliases.",
+      "topics": [
+        "kubectl",
+        "kubernetes"
+      ],
+      "stargazers_count": 3691,
+      "pushed_at": "2025-05-11T17:04:45Z",
+      "added_to_queue": "2026-05-21T16:40:36.386Z"
+    },
+    {
+      "name": "kubernetes-starter",
+      "html_url": "https://github.com/liuyi01/kubernetes-starter",
+      "description": "kubernetes入门，包括kubernetes概念，架构设计，集群环境搭建，认证授权等。",
+      "topics": [
+        "k8s",
+        "k8s-cluster",
+        "kubernetes",
+        "kubernetes-setup"
+      ],
+      "stargazers_count": 1206,
+      "pushed_at": "2020-05-07T02:47:26Z",
+      "added_to_queue": "2026-05-21T16:40:36.386Z"
+    },
+    {
+      "name": "rainbond",
+      "html_url": "https://github.com/goodrain/rainbond",
+      "description": "A container platform that needs no Kubernetes learning, Build, deploy, assemble, and manage apps on Kubernetes, no K8s expertise needed, all in a graphical platform.",
+      "topics": [
+        "application",
+        "cloud-native",
+        "cloud-native-applications",
+        "continuous-delivery",
+        "devops",
+        "heroku",
+        "hybrid-cloud",
+        "k8s",
+        "kubernetes",
+        "microservice-architecture",
+        "microservice-governance",
+        "multi-cloud",
+        "multi-cluster",
+        "paas",
+        "rainbond",
+        "saas",
+        "service-mesh"
+      ],
+      "stargazers_count": 6173,
+      "pushed_at": "2026-05-21T13:53:37Z",
+      "added_to_queue": "2026-05-21T16:40:36.386Z"
+    },
+    {
+      "name": "cortex",
+      "html_url": "https://github.com/cortexproject/cortex",
+      "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus.",
+      "topics": [
+        "cncf",
+        "hacktoberfest",
+        "kubernetes",
+        "monitoring",
+        "prometheus"
+      ],
+      "stargazers_count": 5802,
+      "pushed_at": "2026-05-21T16:21:29Z",
+      "added_to_queue": "2026-05-21T16:40:36.386Z"
+    },
+    {
+      "name": "litmus",
+      "html_url": "https://github.com/litmuschaos/litmus",
+      "description": "Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.io/a4Zu_sH4TZGeih-xCimi3Q",
+      "topics": [
+        "chaos-engineering",
+        "chaos-experiments",
+        "chaos-testing",
+        "chaoshub",
+        "cloud-native",
+        "cncf",
+        "devops",
+        "fault-injection",
+        "fault-simulation",
+        "golang",
+        "google-summer-of-code",
+        "hacktoberfest",
+        "k8s",
+        "kubernetes",
+        "lfx",
+        "litmuschaos",
+        "operator-sdk",
+        "reliability-engineering",
+        "resilience-testing",
+        "site-reliability-engineering"
+      ],
+      "stargazers_count": 5405,
+      "pushed_at": "2026-05-19T09:33:42Z",
+      "added_to_queue": "2026-05-21T16:40:36.386Z"
+    },
+    {
+      "name": "homelab",
+      "html_url": "https://github.com/khuedoan/homelab",
+      "description": "Fully automated homelab from empty disk to running services with a single command.",
+      "topics": [
+        "ansible",
+        "argocd",
+        "devops",
+        "docker",
+        "fedora",
+        "gitops",
+        "helm",
+        "home-operations",
+        "homelab",
+        "k3s",
+        "k8s-at-home",
+        "kubernetes",
+        "netboot",
+        "pxe",
+        "self-hosting",
+        "terraform"
+      ],
+      "stargazers_count": 9239,
+      "pushed_at": "2026-02-27T06:08:56Z",
+      "added_to_queue": "2026-05-21T16:40:36.386Z"
+    },
+    {
+      "name": "gatekeeper",
+      "html_url": "https://github.com/open-policy-agent/gatekeeper",
+      "description": "🐊 Policy Controller for Kubernetes",
+      "topics": [
+        "admission",
+        "cncf",
+        "gatekeeper",
+        "hacktoberfest",
+        "kubernetes",
+        "mutation",
+        "opa",
+        "policy",
+        "policy-engine",
+        "security",
+        "validation"
+      ],
+      "stargazers_count": 4214,
+      "pushed_at": "2026-05-20T21:27:57Z",
+      "added_to_queue": "2026-05-21T16:40:36.386Z"
+    },
+    {
+      "name": "aws-ebs-csi-driver",
+      "html_url": "https://github.com/kubernetes-sigs/aws-ebs-csi-driver",
+      "description": "CSI driver for Amazon EBS https://aws.amazon.com/ebs/",
+      "topics": [
+        "aws",
+        "csi",
+        "ebs",
+        "k8s-sig-aws",
+        "kubernetes"
+      ],
+      "stargazers_count": 1128,
+      "pushed_at": "2026-05-21T16:32:48Z",
+      "added_to_queue": "2026-05-21T16:40:36.386Z"
+    },
+    {
+      "name": "cp-helm-charts",
+      "html_url": "https://github.com/confluentinc/cp-helm-charts",
+      "description": "The Confluent Platform Helm charts enable you to deploy Confluent Platform services on Kubernetes for development, test, and proof of concept environments.",
+      "topics": [
+        "apache-kafka",
+        "helm",
+        "helm-charts",
+        "kafka-connect",
+        "kafka-rest-proxy",
+        "ksql",
+        "ksql-server",
+        "kubernetes",
+        "statefulsets",
+        "zookeeper"
+      ],
+      "stargazers_count": 795,
+      "pushed_at": "2024-02-16T04:18:40Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "k8s-mastery",
+      "html_url": "https://github.com/rinormaloku/k8s-mastery",
+      "description": "Repository for the article \"Learn Kubernetes in Under 3 Hours\"",
+      "topics": [
+        "flask-application",
+        "introduction",
+        "kubernetes",
+        "microservices",
+        "react",
+        "spring-boot"
+      ],
+      "stargazers_count": 904,
+      "pushed_at": "2023-02-15T23:44:31Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "wayne",
+      "html_url": "https://github.com/Qihoo360/wayne",
+      "description": "Kubernetes multi-cluster management and publishing platform",
+      "topics": [
+        "docker",
+        "kubernetes",
+        "kubernetes-cluster",
+        "wayne"
+      ],
+      "stargazers_count": 3704,
+      "pushed_at": "2022-05-31T00:52:04Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "traefik-helm-chart",
+      "html_url": "https://github.com/traefik/traefik-helm-chart",
+      "description": "Traefik Proxy Helm Chart",
+      "topics": [
+        "helm-chart",
+        "kubernetes",
+        "traefik",
+        "traefik-v2"
+      ],
+      "stargazers_count": 1366,
+      "pushed_at": "2026-05-21T09:42:08Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "microk8s",
+      "html_url": "https://github.com/canonical/microk8s",
+      "description": "MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge.",
+      "topics": [
+        "cicd",
+        "developer-workstations",
+        "hacktoberfest",
+        "iot",
+        "k8s",
+        "kubernetes",
+        "snap"
+      ],
+      "stargazers_count": 9292,
+      "pushed_at": "2026-05-21T11:08:18Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "101",
+      "html_url": "https://github.com/cncamp/101",
+      "description": "A basic instruction for Kubernetes setup and understanding.",
+      "topics": [
+        "k8s",
+        "kubernetes"
+      ],
+      "stargazers_count": 918,
+      "pushed_at": "2026-05-07T23:05:33Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "talos",
+      "html_url": "https://github.com/siderolabs/talos",
+      "description": "Talos Linux is a modern Linux distribution built for Kubernetes.",
+      "topics": [
+        "cloud-native",
+        "containerd",
+        "go",
+        "grpc",
+        "kubernetes",
+        "kubernetes-distribution",
+        "linux",
+        "linux-distribution",
+        "musl"
+      ],
+      "stargazers_count": 10464,
+      "pushed_at": "2026-05-21T16:17:52Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "kubekey",
+      "html_url": "https://github.com/kubesphere/kubekey",
+      "description": "Install Kubernetes, and related cloud-native add-ons, it supports all-in-one, multi-node, and HA 🔥 ⎈ 🐳",
+      "topics": [
+        "hacktoberfest",
+        "installer",
+        "k8s",
+        "kubeadm",
+        "kubernetes",
+        "kubernetes-cluster",
+        "kubernetes-deployment"
+      ],
+      "stargazers_count": 2815,
+      "pushed_at": "2026-05-21T09:02:40Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "argo-events",
+      "html_url": "https://github.com/argoproj/argo-events",
+      "description": "Event-driven Automation Framework for Kubernetes",
+      "topics": [
+        "argo",
+        "automation-framework",
+        "cloud-native",
+        "cloudevents",
+        "event-driven",
+        "event-source",
+        "eventing-framework",
+        "kubernetes",
+        "pipelines",
+        "triggers",
+        "workflow-automation",
+        "workflows"
+      ],
+      "stargazers_count": 2660,
+      "pushed_at": "2026-05-21T00:31:24Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "amazon-vpc-cni-k8s",
+      "html_url": "https://github.com/aws/amazon-vpc-cni-k8s",
+      "description": "Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS",
+      "topics": [
+        "cni-plugin",
+        "kubernetes",
+        "pod-networking"
+      ],
+      "stargazers_count": 2438,
+      "pushed_at": "2026-05-21T05:13:06Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "opencost",
+      "html_url": "https://github.com/opencost/opencost",
+      "description": "Cost monitoring for Kubernetes workloads and cloud costs",
+      "topics": [
+        "aws",
+        "azure",
+        "cncf",
+        "cost",
+        "cost-optimization",
+        "finops",
+        "gcp",
+        "k8s",
+        "kubernetes",
+        "monitoring",
+        "opencost",
+        "prometheus"
+      ],
+      "stargazers_count": 6551,
+      "pushed_at": "2026-05-20T22:32:00Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "headlamp",
+      "html_url": "https://github.com/kubernetes-sigs/headlamp",
+      "description": "A Kubernetes web UI that is fully-featured, user-friendly and extensible",
+      "topics": [
+        "cloud-native",
+        "dashboard",
+        "debugging",
+        "devops",
+        "headlamp",
+        "k8s",
+        "kinvolk",
+        "kubernetes",
+        "kubernetes-dashboard",
+        "kubernetes-debugging",
+        "kubernetes-monitoring",
+        "kubernetes-ui",
+        "orchestration",
+        "plugins"
+      ],
+      "stargazers_count": 6443,
+      "pushed_at": "2026-05-21T15:57:45Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "bank-of-anthos",
+      "html_url": "https://github.com/GoogleCloudPlatform/bank-of-anthos",
+      "description": "Retail banking sample application showcasing Kubernetes and Google Cloud",
+      "topics": [
+        "fsi",
+        "gcp",
+        "google-cloud",
+        "kubernetes",
+        "reference-architecture",
+        "sample-app",
+        "samples"
+      ],
+      "stargazers_count": 1327,
+      "pushed_at": "2026-05-19T22:03:12Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "jx",
+      "html_url": "https://github.com/jenkins-x/jx",
+      "description": "Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Cloud Native pipelines from Tekton",
+      "topics": [
+        "accelerator",
+        "cicd",
+        "continuous-delivery",
+        "continuous-integration",
+        "devops",
+        "environments",
+        "gitops",
+        "golang",
+        "hacktoberfest",
+        "kubernetes",
+        "openshift",
+        "pipeline",
+        "tekton"
+      ],
+      "stargazers_count": 4692,
+      "pushed_at": "2026-05-13T07:57:20Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "descheduler",
+      "html_url": "https://github.com/kubernetes-sigs/descheduler",
+      "description": "Descheduler for Kubernetes",
+      "topics": [
+        "k8s-sig-scheduling",
+        "kubernetes"
+      ],
+      "stargazers_count": 5416,
+      "pushed_at": "2026-05-20T12:35:23Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "flagger",
+      "html_url": "https://github.com/fluxcd/flagger",
+      "description": "Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)",
+      "topics": [
+        "ab-testing",
+        "aws-appmesh",
+        "canary",
+        "contour",
+        "gitops",
+        "gloo",
+        "istio",
+        "kubernetes",
+        "linkerd",
+        "nginx",
+        "progressive-delivery"
+      ],
+      "stargazers_count": 5349,
+      "pushed_at": "2026-05-18T20:46:27Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "vagrant-kubeadm-kubernetes",
+      "html_url": "https://github.com/techiescamp/vagrant-kubeadm-kubernetes",
+      "description": "Vagrantfile & Scripts to setup Kubernetes Cluster using Kubeadm for CKA, CKAD and CKS practice environment",
+      "topics": [
+        "cka",
+        "ckad",
+        "cks",
+        "kubeadm",
+        "kubeadm-cluster",
+        "kubeadmin-kubernetes",
+        "kubernetes",
+        "kubernetes-cluster",
+        "kubernetes-setup"
+      ],
+      "stargazers_count": 848,
+      "pushed_at": "2026-05-12T10:00:36Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "cloud-on-k8s",
+      "html_url": "https://github.com/elastic/cloud-on-k8s",
+      "description": "Elastic Cloud on Kubernetes",
+      "topics": [
+        "elasticsearch",
+        "go",
+        "kibana",
+        "kubernetes",
+        "kubernetes-operators"
+      ],
+      "stargazers_count": 2843,
+      "pushed_at": "2026-05-21T11:23:07Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "fission",
+      "html_url": "https://github.com/fission/fission",
+      "description": "Fast and Simple Serverless Functions for Kubernetes",
+      "topics": [
+        "cloud-native",
+        "containers",
+        "devops",
+        "docker",
+        "faas",
+        "fission",
+        "functions",
+        "functions-as-a-service",
+        "go",
+        "hacktoberfest",
+        "kubernetes",
+        "lambda",
+        "serverless",
+        "serverless-functions"
+      ],
+      "stargazers_count": 8858,
+      "pushed_at": "2026-05-20T12:56:05Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "meshery.io",
+      "html_url": "https://github.com/meshery/meshery.io",
+      "description": "Website for Meshery",
+      "topics": [
+        "best-practices",
+        "catalog",
+        "cloud-native",
+        "cloud-native-architectures",
+        "cloud-native-management",
+        "cncf",
+        "cncf-shapes",
+        "control-plane",
+        "front-end",
+        "hacktoberfest",
+        "jekyll",
+        "kubernetes",
+        "management-plane",
+        "meshery",
+        "meshery-designs",
+        "ui",
+        "ui-design",
+        "ui-development",
+        "ux",
+        "ux-design"
+      ],
+      "stargazers_count": 756,
+      "pushed_at": "2026-05-21T11:42:12Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "compose-spec",
+      "html_url": "https://github.com/compose-spec/compose-spec",
+      "description": "The Compose specification",
+      "topics": [
+        "compose",
+        "containers",
+        "docker",
+        "kubernetes",
+        "specification"
+      ],
+      "stargazers_count": 2668,
+      "pushed_at": "2026-05-20T00:22:35Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "sealed-secrets",
+      "html_url": "https://github.com/bitnami-labs/sealed-secrets",
+      "description": "A Kubernetes controller and tool for one-way encrypted Secrets",
+      "topics": [
+        "devops-workflow",
+        "encrypt-secrets",
+        "gitops",
+        "kubernetes",
+        "kubernetes-secrets"
+      ],
+      "stargazers_count": 9109,
+      "pushed_at": "2026-05-21T15:23:23Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "cyclops",
+      "html_url": "https://github.com/cyclops-ui/cyclops",
+      "description": "Developer Friendly Kubernetes 👁️",
+      "topics": [
+        "aks",
+        "cloud",
+        "crd-controller",
+        "deployment",
+        "devops",
+        "eks",
+        "gke",
+        "go",
+        "golang",
+        "hacktoberfest",
+        "helm",
+        "json-schema",
+        "kubernetes",
+        "kubernetes-cluster",
+        "kubernetes-controller",
+        "kubernetes-operator",
+        "platform-engineering",
+        "react",
+        "typescript",
+        "typescript-react"
+      ],
+      "stargazers_count": 3320,
+      "pushed_at": "2026-01-22T09:59:04Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "awesome-cloudnative-trainings",
+      "html_url": "https://github.com/joseadanof/awesome-cloudnative-trainings",
+      "description": "Awesome Trainings from Cloud Native Computing Foundation Projects and Kubernetes related software",
+      "topics": [
+        "cloud-native",
+        "cncf",
+        "containers",
+        "continuous-learning",
+        "devops",
+        "devsecops",
+        "istio",
+        "k8s",
+        "kubernetes",
+        "linux-foundation",
+        "service-mesh"
+      ],
+      "stargazers_count": 2365,
+      "pushed_at": "2025-02-23T18:28:52Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "DevOps",
+      "html_url": "https://github.com/Pradumnasaraf/DevOps",
+      "description": "I created this repository to keep my learning, notes, and code in one place for various tools in DevOps. Now, it's helping thousands of learners, practitioners, and professionals every day in their DevOps journey.",
+      "topics": [
+        "argocd",
+        "bash-script",
+        "ci-cd",
+        "devops",
+        "docker",
+        "docker-compose",
+        "git",
+        "github-actions",
+        "gitops",
+        "go",
+        "grafana",
+        "helm",
+        "jenkins",
+        "kubernetes",
+        "linux",
+        "networking",
+        "portainer",
+        "prometheus",
+        "yaml"
+      ],
+      "stargazers_count": 3207,
+      "pushed_at": "2026-04-03T15:31:40Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "gateway",
+      "html_url": "https://github.com/envoyproxy/gateway",
+      "description": "Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway",
+      "topics": [
+        "api-gateway",
+        "cncf",
+        "envoy",
+        "gateway-api",
+        "go-control-plane",
+        "hacktoberfest",
+        "kubernetes"
+      ],
+      "stargazers_count": 2731,
+      "pushed_at": "2026-05-21T09:21:14Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "flux2",
+      "html_url": "https://github.com/fluxcd/flux2",
+      "description": "Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.",
+      "topics": [
+        "continuous-delivery",
+        "gitops",
+        "gitops-toolkit",
+        "helm",
+        "kubernetes",
+        "kustomize"
+      ],
+      "stargazers_count": 8134,
+      "pushed_at": "2026-05-20T11:46:21Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "PrometheusAlert",
+      "html_url": "https://github.com/feiyu563/PrometheusAlert",
+      "description": "Prometheus Alert是开源的运维告警中心消息转发系统,支持主流的监控系统Prometheus,Zabbix,日志系统Graylog和数据可视化系统Grafana发出的预警消息,支持钉钉,微信,华为云短信,腾讯云短信,腾讯云电话,阿里云短信,阿里云电话等",
+      "topics": [
+        "alert",
+        "alertmanager",
+        "aliyun",
+        "aliyunsdk",
+        "dingding",
+        "dingtalk",
+        "feishu",
+        "grafana",
+        "graylog",
+        "kubernetes",
+        "monitor",
+        "phone",
+        "phonecall",
+        "phonemessage",
+        "prometheus",
+        "prometheus-alert",
+        "prometheus-alertmanager-webhook",
+        "weixin",
+        "weixinsdk",
+        "zabbix"
+      ],
+      "stargazers_count": 3283,
+      "pushed_at": "2026-02-19T18:13:52Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "ebook",
+      "html_url": "https://github.com/dolotech/ebook",
+      "description": "学习资料",
+      "topics": [
+        "c",
+        "ethereum",
+        "golang",
+        "kubernetes",
+        "linux",
+        "vim"
+      ],
+      "stargazers_count": 2073,
+      "pushed_at": "2021-12-02T03:11:16Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "kubeless",
+      "html_url": "https://github.com/vmware-archive/kubeless",
+      "description": "Kubernetes Native Serverless Framework",
+      "topics": [
+        "faas",
+        "function-as-a-service",
+        "golang",
+        "kubeless",
+        "kubernetes",
+        "serverless",
+        "serverless-architectures"
+      ],
+      "stargazers_count": 6852,
+      "pushed_at": "2021-12-15T09:33:43Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "etcd-operator",
+      "html_url": "https://github.com/coreos/etcd-operator",
+      "description": "etcd operator creates/configures/manages etcd clusters atop Kubernetes",
+      "topics": [
+        "etcd",
+        "kubernetes",
+        "operator"
+      ],
+      "stargazers_count": 1758,
+      "pushed_at": "2020-04-03T03:49:52Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "ntopng",
+      "html_url": "https://github.com/ntop/ntopng",
+      "description": "Web-based Traffic and Security Network Traffic Monitoring",
+      "topics": [
+        "docker",
+        "ebpf",
+        "ipfix",
+        "kubernetes",
+        "netflow",
+        "network",
+        "ntopng",
+        "packet-analyser",
+        "packet-processing",
+        "realtime",
+        "sflow",
+        "snmp",
+        "traffic-monitoring"
+      ],
+      "stargazers_count": 7816,
+      "pushed_at": "2026-05-21T13:11:59Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "kubeadm",
+      "html_url": "https://github.com/kubernetes/kubeadm",
+      "description": "Aggregator for issues filed against kubeadm",
+      "topics": [
+        "best-practice",
+        "building-block",
+        "conformant",
+        "getting-started",
+        "installer",
+        "kubernetes"
+      ],
+      "stargazers_count": 3977,
+      "pushed_at": "2026-05-12T09:41:34Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "gateway-api",
+      "html_url": "https://github.com/kubernetes-sigs/gateway-api",
+      "description": "Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.",
+      "topics": [
+        "gateway-api",
+        "k8s-sig-network",
+        "kubernetes",
+        "networking",
+        "sig-network"
+      ],
+      "stargazers_count": 2861,
+      "pushed_at": "2026-05-21T12:18:49Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "scope",
+      "html_url": "https://github.com/weaveworks/scope",
+      "description": "Monitoring, visualisation & management for Docker & Kubernetes",
+      "topics": [
+        "containers",
+        "docker",
+        "ecs",
+        "kubernetes",
+        "mesos",
+        "microservices",
+        "monitoring",
+        "visualization"
+      ],
+      "stargazers_count": 5915,
+      "pushed_at": "2023-07-07T03:37:03Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "yas",
+      "html_url": "https://github.com/nashtech-garage/yas",
+      "description": "YAS: Yet Another Shop, a sample microservices project in Java",
+      "topics": [
+        "docker",
+        "ecommerce",
+        "hacktoberfest",
+        "java",
+        "keycloak",
+        "kubernetes",
+        "microservices",
+        "sample-project",
+        "shop",
+        "spring-boot"
+      ],
+      "stargazers_count": 1965,
+      "pushed_at": "2026-03-10T04:11:39Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "kubeapps",
+      "html_url": "https://github.com/vmware-tanzu/kubeapps",
+      "description": "A web-based UI for deploying and managing applications in Kubernetes clusters",
+      "topics": [
+        "carvel",
+        "deployment",
+        "flux",
+        "helm",
+        "kubernetes"
+      ],
+      "stargazers_count": 5117,
+      "pushed_at": "2026-01-13T17:40:50Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "contour",
+      "html_url": "https://github.com/projectcontour/contour",
+      "description": "Contour is a Kubernetes ingress controller using Envoy proxy.",
+      "topics": [
+        "cncf",
+        "contour",
+        "envoy",
+        "gateway-api",
+        "hacktoberfest",
+        "http-proxy",
+        "ingress-controller",
+        "kubernetes"
+      ],
+      "stargazers_count": 3928,
+      "pushed_at": "2026-05-19T02:54:20Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "awx-operator",
+      "html_url": "https://github.com/ansible/awx-operator",
+      "description": "An Ansible AWX operator for Kubernetes built with Operator SDK and Ansible. 🤖",
+      "topics": [
+        "awx",
+        "awx-operator",
+        "hacktoberfest",
+        "kubernetes",
+        "kubernetes-operator",
+        "openshift",
+        "operator-sdk",
+        "operators"
+      ],
+      "stargazers_count": 1482,
+      "pushed_at": "2026-05-06T21:40:56Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "emissary",
+      "html_url": "https://github.com/emissary-ingress/emissary",
+      "description": "open source Kubernetes-native API gateway for microservices built on the Envoy Proxy",
+      "topics": [
+        "ambassador",
+        "api-gateway",
+        "api-management",
+        "cloud-native",
+        "docker",
+        "envoy",
+        "envoy-proxy",
+        "gateway-api",
+        "kubernetes",
+        "kubernetes-annotations",
+        "kubernetes-ingress",
+        "microservice"
+      ],
+      "stargazers_count": 4502,
+      "pushed_at": "2026-05-20T19:54:13Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "DCA",
+      "html_url": "https://github.com/Evalle/DCA",
+      "description": "Docker Certified Associate Exam Preparation Guide",
+      "topics": [
+        "certificate",
+        "certificates",
+        "certification",
+        "docker",
+        "docker-certified-associate",
+        "exam",
+        "examination",
+        "kubernetes",
+        "kubernetes-pod",
+        "preparation",
+        "registry",
+        "storage",
+        "swarm"
+      ],
+      "stargazers_count": 1410,
+      "pushed_at": "2026-04-26T19:17:39Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "longhorn",
+      "html_url": "https://github.com/longhorn/longhorn",
+      "description": "Cloud-Native distributed storage built on and for Kubernetes",
+      "topics": [
+        "cncf",
+        "distributed-systems",
+        "high-availability",
+        "k8s-sig-storage",
+        "kubernetes",
+        "longhorn",
+        "storage"
+      ],
+      "stargazers_count": 7732,
+      "pushed_at": "2026-05-21T02:37:51Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "istio-tutorial",
+      "html_url": "https://github.com/redhat-scholars/istio-tutorial",
+      "description": "Istio Tutorial for https://dn.dev/master",
+      "topics": [
+        "envoy",
+        "istio",
+        "kubernetes",
+        "microservices",
+        "openshift",
+        "tracing"
+      ],
+      "stargazers_count": 1207,
+      "pushed_at": "2024-10-17T11:00:24Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "docker-spark",
+      "html_url": "https://github.com/big-data-europe/docker-spark",
+      "description": "Apache Spark docker image ",
+      "topics": [
+        "apache-spark",
+        "docker",
+        "k8s-spark",
+        "kubernetes",
+        "spark-kubernetes"
+      ],
+      "stargazers_count": 2049,
+      "pushed_at": "2026-04-20T23:29:19Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "cloudnative-pg",
+      "html_url": "https://github.com/cloudnative-pg/cloudnative-pg",
+      "description": "CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance",
+      "topics": [
+        "automated-failover",
+        "business-continuity",
+        "database",
+        "database-management",
+        "devops",
+        "disaster-recovery",
+        "failover",
+        "high-availability",
+        "json-logging",
+        "k8s",
+        "kubectl-plugin",
+        "kubernetes",
+        "operator",
+        "postgres",
+        "postgresql",
+        "prometheus-exporter",
+        "replication",
+        "self-healing",
+        "sql",
+        "switchover"
+      ],
+      "stargazers_count": 8651,
+      "pushed_at": "2026-05-21T15:55:27Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "weave",
+      "html_url": "https://github.com/weaveworks/weave",
+      "description": "Simple, resilient multi-host containers networking and more.",
+      "topics": [
+        "container-networking",
+        "docker",
+        "go",
+        "kubernetes"
+      ],
+      "stargazers_count": 6613,
+      "pushed_at": "2024-08-09T08:45:55Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "kubernetes-elasticsearch-cluster",
+      "html_url": "https://github.com/pires/kubernetes-elasticsearch-cluster",
+      "description": "Elasticsearch cluster on top of Kubernetes made easy.",
+      "topics": [
+        "document-database",
+        "elasticsearch",
+        "kubernetes"
+      ],
+      "stargazers_count": 1503,
+      "pushed_at": "2018-11-07T10:15:41Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "laf",
+      "html_url": "https://github.com/labring/laf",
+      "description": "Laf is a vibrant cloud development platform that provides essential tools like cloud functions, databases, and storage solutions. It enables developers to quickly unleash their creativity and bring innovative ideas to life with ease.",
+      "topics": [
+        "cloudbase",
+        "faas",
+        "firebase",
+        "kubernetes",
+        "minio",
+        "mongodb",
+        "serverless",
+        "supabase",
+        "typescript"
+      ],
+      "stargazers_count": 7559,
+      "pushed_at": "2025-12-01T08:01:13Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "postgres-operator",
+      "html_url": "https://github.com/CrunchyData/postgres-operator",
+      "description": "Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.",
+      "topics": [
+        "data-infrastructure",
+        "database",
+        "database-as-a-service",
+        "database-management",
+        "disaster-recovery",
+        "high-availability",
+        "kubernetes",
+        "kubernetes-operator",
+        "operator",
+        "pgo",
+        "postgres",
+        "postgres-operator",
+        "postgresql",
+        "postgresql-clusters",
+        "postgresql-metrics",
+        "postgresql-monitoring"
+      ],
+      "stargazers_count": 4405,
+      "pushed_at": "2026-05-20T05:30:27Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "cloud-provider-openstack",
+      "html_url": "https://github.com/kubernetes/cloud-provider-openstack",
+      "description": null,
+      "topics": [
+        "cloud-controller-manager",
+        "csi-plugin",
+        "k8s-sig-cloud-provider",
+        "k8s-sig-storage",
+        "kubernetes",
+        "openstack"
+      ],
+      "stargazers_count": 712,
+      "pushed_at": "2026-05-14T17:30:30Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "ckad-crash-course",
+      "html_url": "https://github.com/bmuschko/ckad-crash-course",
+      "description": "In-depth and hands-on practice for acing the exam.",
+      "topics": [
+        "certification",
+        "kubernetes",
+        "training"
+      ],
+      "stargazers_count": 970,
+      "pushed_at": "2026-05-19T16:51:45Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "Cloud-DevOps-Learning-Resources",
+      "html_url": "https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources",
+      "description": "This repo includes Books and imp notes related to GCP, Azure, AWS, Docker, K8s, and DevOps. More, exam and interview prep notes.",
+      "topics": [
+        "ansible",
+        "aws",
+        "azure",
+        "azure-devops",
+        "cicd",
+        "cloudcomputing",
+        "cloudnative",
+        "cloudsecurity",
+        "containers",
+        "devops",
+        "devops-tools",
+        "devsecops",
+        "docker",
+        "gcp",
+        "jenkins",
+        "kubernetes",
+        "linux",
+        "multicloud",
+        "notes",
+        "terraform"
+      ],
+      "stargazers_count": 1917,
+      "pushed_at": "2024-06-24T08:44:49Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "virtual-kubelet",
+      "html_url": "https://github.com/virtual-kubelet/virtual-kubelet",
+      "description": "Virtual Kubelet is an open source Kubernetes kubelet implementation.",
+      "topics": [
+        "cncf",
+        "kubernetes"
+      ],
+      "stargazers_count": 4511,
+      "pushed_at": "2026-04-27T21:48:19Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "multus-cni",
+      "html_url": "https://github.com/k8snetworkplumbingwg/multus-cni",
+      "description": "A CNI meta-plugin for multi-homed pods in Kubernetes",
+      "topics": [
+        "cni",
+        "cni-plugin",
+        "containerized-vnf",
+        "controlplane",
+        "dataplane",
+        "kubernetes",
+        "kubernetes-networking",
+        "multiple-network",
+        "vnf"
+      ],
+      "stargazers_count": 2861,
+      "pushed_at": "2026-04-29T15:29:33Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "Reloader",
+      "html_url": "https://github.com/stakater/Reloader",
+      "description": "A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!",
+      "topics": [
+        "configmap",
+        "daemonset",
+        "deploymentconfigs",
+        "deployments",
+        "k8s",
+        "kubernetes",
+        "openshift",
+        "pods",
+        "secrets",
+        "statefulsets",
+        "watch-changes"
+      ],
+      "stargazers_count": 10062,
+      "pushed_at": "2026-05-21T16:35:31Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "k8s-tutorials",
+      "html_url": "https://github.com/guangzhengli/k8s-tutorials",
+      "description": "k8s tutorials | k8s 教程",
+      "topics": [
+        "configmap",
+        "container",
+        "deployment",
+        "docker",
+        "helm",
+        "ingress",
+        "k8s",
+        "k9s",
+        "kubernetes",
+        "minikube",
+        "pod",
+        "secret",
+        "services",
+        "tutorial"
+      ],
+      "stargazers_count": 5815,
+      "pushed_at": "2025-11-17T02:05:42Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "ThreatMapper",
+      "html_url": "https://github.com/deepfence/ThreatMapper",
+      "description": "Open Source Cloud Native Application Protection Platform (CNAPP)",
+      "topics": [
+        "cloud-native",
+        "cloudsecurity",
+        "cnapp",
+        "compliance",
+        "containers",
+        "cspm",
+        "cwpp",
+        "devops",
+        "devsecops",
+        "kubernetes",
+        "observability",
+        "registry-scanning",
+        "scanning-tool",
+        "secops",
+        "security-tools",
+        "threat-analysis",
+        "vulnerability-detection",
+        "vulnerability-management",
+        "vulnerability-scanners"
+      ],
+      "stargazers_count": 5268,
+      "pushed_at": "2026-05-13T07:51:41Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "eventing",
+      "html_url": "https://github.com/knative/eventing",
+      "description": "Event-driven application platform for Kubernetes",
+      "topics": [
+        "binding",
+        "cloudevents",
+        "developer-productivity",
+        "event-driven",
+        "eventing",
+        "events",
+        "knative",
+        "kubernetes"
+      ],
+      "stargazers_count": 1547,
+      "pushed_at": "2026-05-21T03:29:25Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "learning_mind_map",
+      "html_url": "https://github.com/0voice/learning_mind_map",
+      "description": "2021年【思维导图】盒子，C/C++，Golang，Linux，云原生，数据库，DPDK，音视频开发，TCP/IP，数据结构，计算机原理等",
+      "topics": [
+        "cpp",
+        "kubernetes",
+        "linux",
+        "tcp-ip"
+      ],
+      "stargazers_count": 2798,
+      "pushed_at": "2024-05-20T12:08:26Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "helm-charts",
+      "html_url": "https://github.com/codecentric/helm-charts",
+      "description": "A curated set of Helm charts brought to you by codecentric",
+      "topics": [
+        "charts",
+        "helm",
+        "jenkins",
+        "keycloak",
+        "kubernetes",
+        "mailhog"
+      ],
+      "stargazers_count": 729,
+      "pushed_at": "2026-05-04T08:18:10Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    },
+    {
+      "name": "kubetools",
+      "html_url": "https://github.com/collabnix/kubetools",
+      "description": "Kubetools - Curated List of Kubernetes Tools",
+      "topics": [
+        "grafana",
+        "hacktoberfest",
+        "hacktoberfest2020",
+        "helm",
+        "helmcharts",
+        "helmpack",
+        "iot",
+        "jenkins",
+        "k8s-cluster",
+        "kubernetes",
+        "kubernetes-cli",
+        "kubernetes-clusters",
+        "kubernetes-operational",
+        "kubernetes-resource",
+        "monitoring",
+        "monitoring-tool",
+        "prometheus",
+        "thanos"
+      ],
+      "stargazers_count": 3427,
+      "pushed_at": "2026-05-16T12:18:37Z",
+      "added_to_queue": "2026-05-21T16:40:36.387Z"
+    }
+  ]
 }

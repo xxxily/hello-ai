@@ -2,7 +2,7 @@
 
 > Hardware integration, cloud infra, and model serving.
 
-> 当前分类已收录 **928** 个相关项目。
+> 当前分类已收录 **930** 个相关项目。
 
 ## Cloud & Hosting
 
@@ -10,33 +10,33 @@
 
 AI驱动的全栈可观测性平台，提供实时监控和智能告警功能。支持容器、Kubernetes等多种环境的自动化运维。
 
-- **Stars:** ⭐️ 78.8k
+- **Stars:** ⭐️ 78.9k
 - **Tags:** `Observability` `Monitoring` `Machine Learning`
-- **最后活动时间:** 2026-05-10
+- **最后活动时间:** 2026-05-21
 
 ### [daytona](https://github.com/daytonaio/daytona)
 
 专为AI智能体设计的安全沙箱基础设施，提供代码执行能力和隔离环境，保障AI生成代码的安全运行。
 
-- **Stars:** ⭐️ 72.3k
+- **Stars:** ⭐️ 72.5k
 - **Tags:** `AI沙箱` `代码执行` `基础设施`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-21
 
 ### [appwrite](https://github.com/appwrite/appwrite)
 
 完整的云端基础设施平台，支持Web、移动和AI应用开发，包含认证、数据库、存储等服务。
 
-- **Stars:** ⭐️ 56.0k
+- **Stars:** ⭐️ 56.1k
 - **Tags:** `backend-as-a-service` `cloud` `serverless` `ai-infrastructure`
-- **最后活动时间:** 2026-05-10
+- **最后活动时间:** 2026-05-21
 
 ### [kong](https://github.com/Kong/kong)
 
 云原生API和AI网关，支持LLM请求路由、MCP协议和OpenAI代理，统一管理AI应用流量。
 
-- **Stars:** ⭐️ 43.3k
+- **Stars:** ⭐️ 43.4k
 - **Tags:** `API Gateway` `AI Gateway` `LLM`
-- **最后活动时间:** 2026-03-27
+- **最后活动时间:** 2026-05-21
 
 ### [spark](https://github.com/apache/spark)
 
@@ -58,17 +58,17 @@ Apache Spark统一大数据分析引擎，内置MLlib机器学习库，支持大
 
 现代化Linux服务器运维面板，支持一键部署Ollama等AI应用，简化VPS管理流程。
 
-- **Stars:** ⭐️ 35.4k
+- **Stars:** ⭐️ 35.5k
 - **Tags:** `Docker` `服务器管理` `Ollama`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-21
 
 ### [nacos](https://github.com/alibaba/nacos)
 
 阿里巴巴开源的服务发现与配置管理平台，支持MCP注册和AI Agent注册，助力AI云原生应用构建。
 
-- **Stars:** ⭐️ 32.9k
+- **Stars:** ⭐️ 33.0k
 - **Tags:** `服务发现` `MCP注册` `AI云原生`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-21
 
 ### [rustfs](https://github.com/rustfs/rustfs)
 
@@ -82,9 +82,9 @@ Apache Spark统一大数据分析引擎，内置MLlib机器学习库，支持大
 
 领先的数据集成平台，支持从API、数据库和文件到数据仓库的ETL/ELT数据管道构建，为AI/ML系统提供可靠的数据基础设施。
 
-- **Stars:** ⭐️ 21.2k
+- **Stars:** ⭐️ 21.3k
 - **Tags:** `data-integration` `data-pipeline` `etl` `elt` `data-engineering`
-- **最后活动时间:** 2026-05-10
+- **最后活动时间:** 2026-05-21
 
 ### [sub2api](https://github.com/Wei-Shaw/sub2api)
 
@@ -106,17 +106,9 @@ HTTP 请求分析工具，用于识别和阻止 AI 爬虫，保护网站资源�
 
 基于Kubernetes的AI原生云操作系统，支持从云端IDE开发到生产部署的完整应用生命周期管理，非常适合构建和扩展现代AI应用。
 
-- **Stars:** ⭐️ 17.6k
+- **Stars:** ⭐️ 17.7k
 - **Tags:** `Kubernetes` `Cloud OS` `AI Infrastructure`
-- **最后活动时间:** 2026-05-09
-
-### [questdb](https://github.com/questdb/questdb)
-
-高性能开源时序数据库，专为金融分析和物联网监控等高频数据处理场景设计。
-
-- **Stars:** ⭐️ 16.9k
-- **Tags:** `time-series-database` `sql` `high-performance` `financial-analysis`
-- **最后活动时间:** 2026-05-10
+- **最后活动时间:** 2026-05-21
 
 ### [kubesphere](https://github.com/kubesphere/kubesphere)
 
@@ -126,13 +118,21 @@ HTTP 请求分析工具，用于识别和阻止 AI 爬虫，保护网站资源�
 - **Tags:** `Kubernetes` `Cloud Native` `DevOps` `LLM`
 - **最后活动时间:** 2026-05-06
 
+### [questdb](https://github.com/questdb/questdb)
+
+高性能开源时序数据库，专为金融分析和物联网监控等高频数据处理场景设计。
+
+- **Stars:** ⭐️ 16.9k
+- **Tags:** `time-series-database` `sql` `high-performance` `financial-analysis`
+- **最后活动时间:** 2026-05-10
+
 ### [argo-workflows](https://github.com/argoproj/argo-workflows)
 
 Kubernetes原生工作流引擎，专为机器学习流水线和MLOps场景设计，支持DAG编排和GitOps自动化部署。
 
 - **Stars:** ⭐️ 16.7k
 - **Tags:** `MLOps` `Kubernetes` `Workflow`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-21
 
 ### [apisix](https://github.com/apache/apisix)
 
@@ -140,7 +140,7 @@ Kubernetes原生工作流引擎，专为机器学习流水线和MLOps场景设�
 
 - **Stars:** ⭐️ 16.6k
 - **Tags:** `api-gateway` `ai-gateway` `kubernetes` `cloud-native`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-21
 
 ### [dagger](https://github.com/dagger/dagger)
 
@@ -154,7 +154,7 @@ Kubernetes原生工作流引擎，专为机器学习流水线和MLOps场景设�
 
 n8n打造的开源自托管AI入门套件，提供完整工具链，帮助快速搭建安全、自主可控的本地AI环境。
 
-- **Stars:** ⭐️ 14.8k
+- **Stars:** ⭐️ 14.9k
 - **Tags:** `Self-hosted` `AI Agents` `Low-code`
 - **最后活动时间:** 2026-01-06
 
@@ -180,15 +180,15 @@ n8n打造的开源自托管AI入门套件，提供完整工具链，帮助快速
 
 - **Stars:** ⭐️ 12.8k
 - **Tags:** `big-data` `sql` `query-engine` `distributed-systems` `data-lake`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-21
 
 ### [ubicloud](https://github.com/ubicloud/ubicloud)
 
 开源的AWS替代方案，提供弹性计算、块存储、K8s、AI推理服务等完整的云基础设施服务。
 
-- **Stars:** ⭐️ 12.0k
+- **Stars:** ⭐️ 12.1k
 - **Tags:** `cloud` `kubernetes` `ai-inference` `open-source`
-- **最后活动时间:** 2026-05-08
+- **最后活动时间:** 2026-05-21
 
 ### [kubeshark](https://github.com/kubeshark/kubeshark)
 
@@ -196,7 +196,7 @@ Kubernetes集群网络可观测性工具，使用eBPF捕获流量，支持AI代�
 
 - **Stars:** ⭐️ 11.9k
 - **Tags:** `kubernetes` `network-observability` `ebpf` `mcp` `devops`
-- **最后活动时间:** 2026-05-06
+- **最后活动时间:** 2026-05-21
 
 ### [keep](https://github.com/keephq/keep)
 
@@ -218,9 +218,9 @@ Kubernetes集群网络可观测性工具，使用eBPF捕获流量，支持AI代�
 
 通用AI应用沙箱平台，提供多语言SDK和Docker/K8s运行时，支持Coding Agent、代码执行和RL训练场景。
 
-- **Stars:** ⭐️ 10.5k
+- **Stars:** ⭐️ 10.7k
 - **Tags:** `Sandbox` `AI Infrastructure` `Kubernetes`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-21
 
 ### [skypilot](https://github.com/skypilot-org/skypilot)
 
@@ -228,7 +228,7 @@ Kubernetes集群网络可观测性工具，使用eBPF捕获流量，支持AI代�
 
 - **Stars:** ⭐️ 10.0k
 - **Tags:** `GPU Management` `Cloud Infrastructure` `Distributed Training`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-21
 
 ### [moltworker](https://github.com/cloudflare/moltworker)
 
@@ -252,7 +252,7 @@ Kubernetes集群网络可观测性工具，使用eBPF捕获流量，支持AI代�
 
 - **Stars:** ⭐️ 9.0k
 - **Tags:** `event-streaming` `kafka` `rust` `stream-processing` `ai-infrastructure`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-21
 
 ### [delta](https://github.com/delta-io/delta)
 
@@ -268,7 +268,7 @@ Kubernetes集群网络可观测性工具，使用eBPF捕获流量，支持AI代�
 
 - **Stars:** ⭐️ 8.7k
 - **Tags:** `data-pipelines` `etl` `data-engineering` `orchestration`
-- **最后活动时间:** 2026-04-24
+- **最后活动时间:** 2026-05-14
 
 ### [beam](https://github.com/apache/beam)
 
@@ -276,7 +276,7 @@ Apache Beam是统一的批处理和流式数据处理编程模型，广泛用于
 
 - **Stars:** ⭐️ 8.6k
 - **Tags:** `apache-beam` `data-processing` `ml-pipelines` `streaming`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-21
 
 ### [docker-stacks](https://github.com/jupyter/docker-stacks)
 
@@ -324,7 +324,7 @@ AI驱动的新一代开源实时可观测性系统，支持监控、告警和LLM
 
 - **Stars:** ⭐️ 7.2k
 - **Tags:** `Observability` `Monitoring` `LLM` `Alerting`
-- **最后活动时间:** 2026-05-07
+- **最后活动时间:** 2026-05-20
 
 ### [feast](https://github.com/feast-dev/feast)
 
@@ -332,7 +332,7 @@ AI驱动的新一代开源实时可观测性系统，支持监控、告警和LLM
 
 - **Stars:** ⭐️ 7.0k
 - **Tags:** `Feature Store` `MLOps` `Machine Learning`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-21
 
 ### [AIInfra](https://github.com/Infrasys-AI/AIInfra)
 
@@ -348,7 +348,7 @@ AI基础设施资源合集，涵盖从底层芯片到软件栈的AI大模型训�
 
 - **Stars:** ⭐️ 6.9k
 - **Tags:** `Federated Learning` `Distributed Training` `Privacy` `Framework`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-21
 
 ### [Agent Starter Pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)
 
@@ -356,7 +356,7 @@ AI基础设施资源合集，涵盖从底层芯片到软件栈的AI大模型训�
 
 - **Stars:** ⭐️ 6.4k
 - **Tags:** `AI Agents` `GCP` `CI/CD` `Observability`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-19
 
 ### [materialize](https://github.com/MaterializeInc/materialize)
 
@@ -374,29 +374,29 @@ AI基础设施资源合集，涵盖从底层芯片到软件栈的AI大模型训�
 - **Tags:** `Docker` `Deep Learning` `Environment`
 - **最后活动时间:** 2026-03-25
 
+### [volcano](https://github.com/volcano-sh/volcano)
+
+CNCF云原生批处理系统，专为AI/ML工作负载设计，支持Kubernetes上的大规模训练和推理任务调度。
+
+- **Stars:** ⭐️ 5.6k
+- **Tags:** `kubernetes` `machine-learning` `batch-systems` `ai-training`
+- **最后活动时间:** 2026-05-21
+
 ### [cubefs](https://github.com/cubefs/cubefs)
 
 云原生分布式存储系统，专为AI场景优化的存储解决方案，支持对象存储和Kubernetes集成。
 
 - **Stars:** ⭐️ 5.6k
 - **Tags:** `cloud-native-storage` `ai-native-storage` `kubernetes` `distributed-storage`
-- **最后活动时间:** 2026-04-23
-
-### [volcano](https://github.com/volcano-sh/volcano)
-
-CNCF云原生批处理系统，专为AI/ML工作负载设计，支持Kubernetes上的大规模训练和推理任务调度。
-
-- **Stars:** ⭐️ 5.5k
-- **Tags:** `kubernetes` `machine-learning` `batch-systems` `ai-training`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-12
 
 ### [rivet](https://github.com/rivet-dev/rivet)
 
 专为AI智能体和协作应用设计的有状态Actor运行时基础设施。
 
-- **Stars:** ⭐️ 5.5k
+- **Stars:** ⭐️ 5.6k
 - **Tags:** `actor-model` `ai-infrastructure` `stateful`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-21
 
 ### [CubeSandbox](https://github.com/TencentCloud/CubeSandbox)
 
@@ -420,7 +420,7 @@ CNCF云原生批处理系统，专为AI/ML工作负载设计，支持Kubernetes�
 
 - **Stars:** ⭐️ 5.0k
 - **Tags:** `MLOps` `Kubernetes` `大模型训练` `分布式推理`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-20
 
 ### [Olares](https://github.com/beclab/Olares)
 
@@ -428,7 +428,7 @@ CNCF云原生批处理系统，专为AI/ML工作负载设计，支持Kubernetes�
 
 - **Stars:** ⭐️ 4.5k
 - **Tags:** `ai-agents` `local-ai` `self-hosted` `home-cloud`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-21
 
 ### [nvidia-container-toolkit](https://github.com/NVIDIA/nvidia-container-toolkit)
 
@@ -444,7 +444,7 @@ Kubernetes 原生的机器学习工作流编排平台，提供可视化界面和
 
 - **Stars:** ⭐️ 4.1k
 - **Tags:** `Kubeflow` `MLOps` `Kubernetes` `Pipeline`
-- **最后活动时间:** 2026-05-08
+- **最后活动时间:** 2026-05-20
 
 ### [aws-sdk-pandas](https://github.com/aws/aws-sdk-pandas)
 
@@ -452,7 +452,7 @@ AWS官方pandas集成库，轻松连接Athena、Redshift、S3等AWS数据服务�
 
 - **Stars:** ⭐️ 4.1k
 - **Tags:** `aws` `pandas` `data-engineering` `etl` `python`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-19
 
 ### [deepflow](https://github.com/deepflowio/deepflow)
 
@@ -460,7 +460,7 @@ AWS官方pandas集成库，轻松连接Athena、Redshift、S3等AWS数据服务�
 
 - **Stars:** ⭐️ 4.1k
 - **Tags:** `eBPF` `Observability` `Kubernetes` `LLM Monitoring`
-- **最后活动时间:** 2026-05-10
+- **最后活动时间:** 2026-05-21
 
 ### [octelium](https://github.com/octelium/octelium)
 
@@ -468,7 +468,7 @@ AWS官方pandas集成库，轻松连接Athena、Redshift、S3等AWS数据服务�
 
 - **Stars:** ⭐️ 3.8k
 - **Tags:** `Zero Trust` `AI Gateway` `VPN`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-20
 
 ### [ChatGPT-Telegram-Workers](https://github.com/tbxark/ChatGPT-Telegram-Workers)
 
@@ -516,7 +516,7 @@ undefined
 
 - **Stars:** ⭐️ 3.1k
 - **Tags:** `apache-spark` `kubernetes` `kubernetes-operator` `machine-learning`
-- **最后活动时间:** 2026-05-08
+- **最后活动时间:** 2026-05-20
 
 ### [heavydb](https://github.com/heavyai/heavydb)
 
@@ -534,6 +534,14 @@ Kubernetes智能告警平台，提供AI增强的告警分组、自动修复和�
 - **Tags:** `Kubernetes` `Prometheus` `AIOps` `Monitoring`
 - **最后活动时间:** 2026-05-09
 
+### [harbor](https://github.com/av/harbor)
+
+一键部署完整LLM技术栈，集成数百个AI服务，支持Docker容器化本地自托管。
+
+- **Stars:** ⭐️ 3.0k
+- **Tags:** `Docker` `LLM` `Self-hosted`
+- **最后活动时间:** 2026-05-21
+
 ### [gravitino](https://github.com/apache/gravitino)
 
 强大的开源数据目录系统，支持构建高性能、地理分布式的联邦元数据湖和AI模型目录管理。
@@ -542,21 +550,21 @@ Kubernetes智能告警平台，提供AI增强的告警分组、自动修复和�
 - **Tags:** `Data Catalog` `Lakehouse` `Metadata` `AI Catalog`
 - **最后活动时间:** 2026-04-24
 
-### [harbor](https://github.com/av/harbor)
-
-一键部署完整LLM技术栈，集成数百个AI服务，支持Docker容器化本地自托管。
-
-- **Stars:** ⭐️ 2.9k
-- **Tags:** `Docker` `LLM` `Self-hosted`
-- **最后活动时间:** 2026-05-09
-
 ### [cloudpods](https://github.com/yunionio/cloudpods)
 
 开源云原生融合云平台，支持多云、私有云和裸金属统一管理，提供完整的IaaS基础设施解决方案。
 
 - **Stars:** ⭐️ 2.9k
 - **Tags:** `multi-cloud` `kubernetes` `hybridcloud` `infrastructure`
-- **最后活动时间:** 2026-05-08
+- **最后活动时间:** 2026-05-21
+
+### [kite](https://github.com/kite-org/kite)
+
+轻量级Kubernetes仪表板，整合多集群管理、企业级用户治理和AI智能体于一体的平台级解决方案。
+
+- **Stars:** ⭐️ 2.7k
+- **Tags:** `kubernetes` `ai-agent` `dashboard` `multi-cluster`
+- **最后活动时间:** 2026-05-21
 
 ### [docker-python](https://github.com/Kaggle/docker-python)
 
@@ -572,7 +580,7 @@ Kaggle官方Python Docker镜像，预装常用机器学习与数据科学库。
 
 - **Stars:** ⭐️ 2.7k
 - **Tags:** `clickhouse` `olap` `sql` `data-science`
-- **最后活动时间:** 2026-05-08
+- **最后活动时间:** 2026-05-21
 
 ### [gpu-operator](https://github.com/NVIDIA/gpu-operator)
 
@@ -590,29 +598,29 @@ NVIDIA官方Kubernetes GPU运算符，自动化管理集群中的GPU资源配置
 - **Tags:** `AI Agents` `Production Deployment` `AWS Bedrock`
 - **最后活动时间:** 2026-04-23
 
-### [kite](https://github.com/kite-org/kite)
-
-轻量级Kubernetes仪表板，整合多集群管理、企业级用户治理和AI智能体于一体的平台级解决方案。
-
-- **Stars:** ⭐️ 2.7k
-- **Tags:** `kubernetes` `ai-agent` `dashboard` `multi-cluster`
-- **最后活动时间:** 2026-05-09
-
 ### [kuberay](https://github.com/ray-project/kuberay)
 
 在Kubernetes上运行Ray应用的工具包，支持分布式机器学习与深度学习工作负载。
 
 - **Stars:** ⭐️ 2.5k
 - **Tags:** `kubernetes` `ray` `deep-learning` `machine-learning`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-21
 
 ### [hivemind](https://github.com/learning-at-home/hivemind)
 
 PyTorch 去中心化深度学习框架，支持全球志愿者协同训练模型。
 
-- **Stars:** ⭐️ 2.4k
+- **Stars:** ⭐️ 2.5k
 - **Tags:** `distributed-training` `decentralized` `pytorch`
 - **最后活动时间:** 2026-01-11
+
+### [nono](https://github.com/always-further/nono)
+
+内核级AI智能体沙箱安全工具，提供能力隔离、安全密钥管理和不可变审计链，防范提示注入等安全威胁。
+
+- **Stars:** ⭐️ 2.4k
+- **Tags:** `Agent Security` `Sandbox` `Zero-Trust`
+- **最后活动时间:** 2026-05-21
 
 ### [awesome-argo](https://github.com/akuity/awesome-argo)
 
@@ -621,6 +629,14 @@ Argo生态系统精选资源列表，涵盖Argo Workflows、ArgoCD等云原生�
 - **Stars:** ⭐️ 2.4k
 - **Tags:** `argo` `argocd` `kubernetes` `mlops` `gitops` `workflow-orchestration`
 - **最后活动时间:** 2026-02-28
+
+### [oracle-ai-developer-hub](https://github.com/oracle-devrel/oracle-ai-developer-hub)
+
+Oracle AI开发者技术资源中心，提供构建AI应用、智能体和RAG系统的完整指南，涵盖Oracle AI数据库与OCI云服务的实战示例。
+
+- **Stars:** ⭐️ 2.4k
+- **Tags:** `oracle` `ai` `agents` `rag` `kubernetes` `cloud`
+- **最后活动时间:** 2026-05-20
 
 ### [boinc](https://github.com/BOINC/boinc)
 
@@ -644,14 +660,6 @@ Argo生态系统精选资源列表，涵盖Argo Workflows、ArgoCD等云原生�
 
 - **Stars:** ⭐️ 2.3k
 - **Tags:** `geospatial` `cluster-computing` `spatial-analysis` `spatial-query`
-- **最后活动时间:** 2026-05-09
-
-### [nono](https://github.com/always-further/nono)
-
-内核级AI智能体沙箱安全工具，提供能力隔离、安全密钥管理和不可变审计链，防范提示注入等安全威胁。
-
-- **Stars:** ⭐️ 2.3k
-- **Tags:** `Agent Security` `Sandbox` `Zero-Trust`
 - **最后活动时间:** 2026-05-09
 
 ### [sagemaker-python-sdk](https://github.com/aws/sagemaker-python-sdk)
@@ -684,7 +692,7 @@ AWS SageMaker官方Python SDK，支持在云端训练和部署机器学习模型
 
 - **Stars:** ⭐️ 2.2k
 - **Tags:** `distributed-computing` `spark` `dask` `ray` `machine-learning`
-- **最后活动时间:** 2026-05-08
+- **最后活动时间:** 2026-05-19
 
 ### [cloudflare-ai-web](https://github.com/Jazee6/cloudflare-ai-web)
 
@@ -724,7 +732,15 @@ Apache DataFusion分布式查询引擎，支持大规模数据处理。适用于
 
 - **Stars:** ⭐️ 2.0k
 - **Tags:** `Stream Processing` `Python` `ML Pipeline`
-- **最后活动时间:** 2026-05-07
+- **最后活动时间:** 2026-05-20
+
+### [openmeter](https://github.com/openmeterio/openmeter)
+
+专为 AI 和 API 设计的实时用量计量与计费平台，支持百万级事件的实时聚合与基于用量的计费。
+
+- **Stars:** ⭐️ 2.0k
+- **Tags:** `metering` `billing` `ai-usage` `usage-based-billing`
+- **最后活动时间:** 2026-05-21
 
 ### [SREWorks](https://github.com/alibaba/SREWorks)
 
@@ -734,21 +750,13 @@ Apache DataFusion分布式查询引擎，支持大规模数据处理。适用于
 - **Tags:** `aiops` `kubernetes` `devops` `cloudnative` `sre`
 - **最后活动时间:** 2025-12-13
 
-### [openmeter](https://github.com/openmeterio/openmeter)
-
-专为 AI 和 API 设计的实时用量计量与计费平台，支持百万级事件的实时聚合与基于用量的计费。
-
-- **Stars:** ⭐️ 2.0k
-- **Tags:** `metering` `billing` `ai-usage` `usage-based-billing`
-- **最后活动时间:** 2026-05-09
-
 ### [fluid](https://github.com/fluid-cloudnative/fluid)
 
 CNCF项目，为云原生大数据/AI应用提供数据抽象与加速，支持Kubernetes环境下的分布式缓存。
 
 - **Stars:** ⭐️ 1.9k
 - **Tags:** `kubernetes` `data-abstraction` `distributed-cache` `cncf` `ai-infrastructure`
-- **最后活动时间:** 2026-05-08
+- **最后活动时间:** 2026-05-20
 
 ### [Bytez](https://github.com/Bytez-com/docs)
 
@@ -774,6 +782,14 @@ CNCF项目，为云原生大数据/AI应用提供数据抽象与加速，支持K
 - **Tags:** `Kubernetes` `AI` `Dashboard`
 - **最后活动时间:** 2026-05-03
 
+### [terraform-skill](https://github.com/antonbabenko/terraform-skill)
+
+Claude Agent 的 Terraform 和 OpenTofu 技能扩展，支持测试、模块管理和生产级最佳实践。
+
+- **Stars:** ⭐️ 1.9k
+- **Tags:** `Claude` `Terraform` `Infrastructure` `DevOps`
+- **最后活动时间:** 2026-05-19
+
 ### [awesome-spark](https://github.com/awesome-spark/awesome-spark)
 
 Apache Spark资源精选列表，包含MLlib机器学习库，是大规模数据处理和机器学习管道的重要基础设施。
@@ -790,13 +806,13 @@ Apache Spark资源精选列表，包含MLlib机器学习库，是大规模数据
 - **Tags:** `AI Storage` `Kubernetes` `Distributed`
 - **最后活动时间:** 2026-05-09
 
-### [terraform-skill](https://github.com/antonbabenko/terraform-skill)
+### [agent-safehouse](https://github.com/eugene1g/agent-safehouse)
 
-Claude Agent 的 Terraform 和 OpenTofu 技能扩展，支持测试、模块管理和生产级最佳实践。
+为本地AI代理提供沙箱安全隔离环境，限制其仅能读写必要的文件和资源，保护系统安全。
 
 - **Stars:** ⭐️ 1.8k
-- **Tags:** `Claude` `Terraform` `Infrastructure` `DevOps`
-- **最后活动时间:** 2026-04-22
+- **Tags:** `AI代理` `沙箱安全` `安全隔离`
+- **最后活动时间:** 2026-05-20
 
 ### [radar](https://github.com/skyhook-io/radar)
 
@@ -814,14 +830,6 @@ Claude Agent 的 Terraform 和 OpenTofu 技能扩展，支持测试、模块管�
 - **Tags:** `file-sharing` `self-hosted` `mcp` `e2ee`
 - **最后活动时间:** 2026-05-01
 
-### [agent-safehouse](https://github.com/eugene1g/agent-safehouse)
-
-为本地AI代理提供沙箱安全隔离环境，限制其仅能读写必要的文件和资源，保护系统安全。
-
-- **Stars:** ⭐️ 1.7k
-- **Tags:** `AI代理` `沙箱安全` `安全隔离`
-- **最后活动时间:** 2026-05-07
-
 ### [repo2docker](https://github.com/jupyterhub/repo2docker)
 
 将Git仓库自动转换为Jupyter就绪的Docker镜像，简化数据科学和机器学习环境的部署流程。
@@ -836,7 +844,7 @@ Claude Agent 的 Terraform 和 OpenTofu 技能扩展，支持测试、模块管�
 
 - **Stars:** ⭐️ 1.7k
 - **Tags:** `jupyterhub` `kubernetes` `data-science`
-- **最后活动时间:** 2026-05-06
+- **最后活动时间:** 2026-05-20
 
 ### [koordinator](https://github.com/koordinator-sh/koordinator)
 
@@ -874,9 +882,9 @@ Dask分布式任务调度器，为大规模机器学习和数据处理提供强�
 
 基于Kafka的Python流式DataFrame库，适用于实时机器学习数据处理管道。
 
-- **Stars:** ⭐️ 1.5k
+- **Stars:** ⭐️ 1.6k
 - **Tags:** `kafka` `stream-processing` `python` `real-time-data`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-21
 
 ### [semaphore](https://github.com/semaphoreio/semaphore)
 
@@ -884,15 +892,15 @@ Dask分布式任务调度器，为大规模机器学习和数据处理提供强�
 
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `ci-cd` `continuous-delivery` `ai-development` `devops`
-- **最后活动时间:** 2026-05-08
+- **最后活动时间:** 2026-05-21
 
-### [comfyui-deploy](https://github.com/BennyKok/comfyui-deploy)
+### [nixopus](https://github.com/nixopus/nixopus)
 
-开源的ComfyUI部署平台，类似Vercel的一键部署体验，专为AI图像生成工作流设计。
+完全代理式的生产应用部署平台，让你无需考虑基础设施即可在自有或共享服务器上运行应用。
 
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `ComfyUI` `Deployment` `AI-Infrastructure`
-- **最后活动时间:** 2025-11-13
+- **Stars:** ⭐️ 1.4k
+- **Tags:** `ai-agents` `deployment` `infrastructure` `mcp` `self-hosted`
+- **最后活动时间:** 2026-05-16
 
 ### [bittensor](https://github.com/opentensor/bittensor)
 
@@ -908,15 +916,7 @@ Dask分布式任务调度器，为大规模机器学习和数据处理提供强�
 
 - **Stars:** ⭐️ 1.4k
 - **Tags:** `ai` `agent` `agentic-ai` `java` `low-code`
-- **最后活动时间:** 2026-05-07
-
-### [nixopus](https://github.com/nixopus/nixopus)
-
-完全代理式的生产应用部署平台，让你无需考虑基础设施即可在自有或共享服务器上运行应用。
-
-- **Stars:** ⭐️ 1.4k
-- **Tags:** `ai-agents` `deployment` `infrastructure` `mcp` `self-hosted`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-18
 
 ### [gloo](https://github.com/pytorch/gloo)
 
@@ -940,7 +940,7 @@ AWS上的多LLM多RAG聊天机器人部署方案，支持Amazon Bedrock、OpenAI
 
 - **Stars:** ⭐️ 1.4k
 - **Tags:** `AWS` `LLM` `RAG` `Chatbot` `CDK`
-- **最后活动时间:** 2026-04-24
+- **最后活动时间:** 2026-05-21
 
 ### [AI-Horde](https://github.com/Haidra-Org/AI-Horde)
 
@@ -972,7 +972,7 @@ AWS官方生成式AI业务用例实现方案，涵盖Claude、Llama等模型和R
 
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `AWS` `Generative AI` `LLM` `RAG`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-19
 
 ### [kusion](https://github.com/KusionStack/kusion)
 
@@ -997,6 +997,14 @@ AI 原生后端即服务平台，专注前端开发，后端由 AI 自动处理�
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `baas` `ai-native` `backend` `cloud-platform`
 - **最后活动时间:** 2026-05-08
+
+### [agent-vault](https://github.com/Infisical/agent-vault)
+
+专为AI代理设计的HTTP凭证代理与密钥保险库，安全管理代理认证凭据。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `ai-agents` `secrets-management` `agents`
+- **最后活动时间:** 2026-05-20
 
 ### [KAI-Scheduler](https://github.com/kai-scheduler/KAI-Scheduler)
 
@@ -1036,7 +1044,7 @@ AWS官方深度学习容器，一站式AI/ML云端部署解决方案。
 
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `aws` `deep-learning` `containers` `deployment`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-21
 
 ### [gondolin](https://github.com/earendil-works/gondolin)
 
@@ -1046,21 +1054,21 @@ AWS官方深度学习容器，一站式AI/ML云端部署解决方案。
 - **Tags:** `sandbox` `microvm` `agent-security`
 - **最后活动时间:** 2026-05-08
 
-### [wuying-agentbay-sdk](https://github.com/agentbay-ai/wuying-agentbay-sdk)
-
-专为AI智能体打造的云端沙箱环境SDK，提供安全隔离的运行环境用于AI代理测试和部署。
-
-- **Stars:** ⭐️ 1.1k
-- **Tags:** `sandbox` `ai-agents` `cloud` `sdk`
-- **最后活动时间:** 2026-05-09
-
 ### [E2B Infra](https://github.com/e2b-dev/infra)
 
 E2B云平台底层基础设施，为AI智能体提供安全的代码执行沙箱环境。
 
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `Sandbox` `Cloud` `MicroVM`
-- **最后活动时间:** 2026-05-10
+- **最后活动时间:** 2026-05-21
+
+### [wuying-agentbay-sdk](https://github.com/agentbay-ai/wuying-agentbay-sdk)
+
+专为AI智能体打造的云端沙箱环境SDK，提供安全隔离的运行环境用于AI代理测试和部署。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `sandbox` `ai-agents` `cloud` `sdk`
+- **最后活动时间:** 2026-05-19
 
 ### [targets](https://github.com/ropensci/targets)
 
@@ -1068,7 +1076,15 @@ R语言函数式声明式工作流管道工具，类似Makefile，支持高性�
 
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `pipeline` `workflow` `r` `reproducibility` `data-science`
-- **最后活动时间:** 2026-04-29
+- **最后活动时间:** 2026-05-13
+
+### [azure-skills](https://github.com/microsoft/azure-skills)
+
+微软官方Azure代理插件，提供Azure场景的技能和MCP服务器配置。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `azure` `mcp` `agent-skills` `cloud`
+- **最后活动时间:** 2026-05-20
 
 ### [sandbox-sdk](https://github.com/cloudflare/sandbox-sdk)
 
@@ -1076,7 +1092,7 @@ R语言函数式声明式工作流管道工具，类似Makefile，支持高性�
 
 - **Stars:** ⭐️ 1.0k
 - **Tags:** `sandbox` `code-interpreter` `edge-computing` `containers`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-21
 
 ### [manifests](https://github.com/kubeflow/manifests)
 
@@ -1085,14 +1101,6 @@ Kubeflow AI参考平台的部署清单，支持企业级多租户和安全配置
 - **Stars:** ⭐️ 1.0k
 - **Tags:** `kubeflow` `kubernetes` `deployment` `mlops`
 - **最后活动时间:** 2026-05-07
-
-### [agent-vault](https://github.com/Infisical/agent-vault)
-
-专为AI代理设计的HTTP凭证代理与密钥保险库，安全管理代理认证凭据。
-
-- **Stars:** ⭐️ 1.0k
-- **Tags:** `ai-agents` `secrets-management` `agents`
-- **最后活动时间:** 2026-05-09
 
 ### [kaito](https://github.com/kaito-project/kaito)
 
@@ -1110,6 +1118,14 @@ Kubernetes AI工具链操作器，简化AI模型在Kubernetes集群上的部署�
 - **Tags:** `microservices` `spring-ai` `ai-agent` `cloud-native`
 - **最后活动时间:** 2026-05-09
 
+### [hera](https://github.com/argoproj-labs/hera)
+
+Python原生集成库，让Python代码轻松编排到Argo Workflows上运行，支持纯Python构建和提交工作流。
+
+- **Stars:** ⭐️ 905
+- **Tags:** `Argo Workflows` `Python` `Kubernetes` `MLOps`
+- **最后活动时间:** 2026-05-19
+
 ### [vibe](https://github.com/lynaghk/vibe)
 
 macOS上的轻量级Linux虚拟机工具，用于安全沙箱化运行LLM智能体。
@@ -1117,22 +1133,6 @@ macOS上的轻量级Linux虚拟机工具，用于安全沙箱化运行LLM智能�
 - **Stars:** ⭐️ 898
 - **Tags:** `Sandbox` `LLM Agents` `Virtualization`
 - **最后活动时间:** 2026-05-09
-
-### [azure-skills](https://github.com/microsoft/azure-skills)
-
-微软官方Azure代理插件，提供Azure场景的技能和MCP服务器配置。
-
-- **Stars:** ⭐️ 898
-- **Tags:** `azure` `mcp` `agent-skills` `cloud`
-- **最后活动时间:** 2026-05-08
-
-### [hera](https://github.com/argoproj-labs/hera)
-
-Python原生集成库，让Python代码轻松编排到Argo Workflows上运行，支持纯Python构建和提交工作流。
-
-- **Stars:** ⭐️ 897
-- **Tags:** `Argo Workflows` `Python` `Kubernetes` `MLOps`
-- **最后活动时间:** 2026-05-02
 
 ### [kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server)
 
@@ -1142,29 +1142,37 @@ Kubernetes MCP服务器，让AI助手能够管理和操作K8s集群。
 - **Tags:** `kubernetes` `mcp` `mcp-server` `devops`
 - **最后活动时间:** 2026-04-08
 
-### [covalent](https://github.com/AgnostiqHQ/covalent)
+### [kernel-images](https://github.com/kernel/kernel-images)
 
-Python工作流编排工具，支持机器学习、高性能计算和量子计算任务的异构环境调度。
+面向自动化和Web智能体的浏览器即服务基础设施。
 
-- **Stars:** ⭐️ 861
-- **Tags:** `workflow` `orchestration` `machine-learning` `quantum-computing`
-- **最后活动时间:** 2026-04-27
-
-### [bacalhau](https://github.com/bacalhau-project/bacalhau)
-
-分布式计算框架，支持AI数据管道、批处理和去中心化计算任务的高效执行平台。
-
-- **Stars:** ⭐️ 857
-- **Tags:** `distributed-computing` `ai-pipeline` `data-processing`
-- **最后活动时间:** 2026-05-08
+- **Stars:** ⭐️ 877
+- **Tags:** `browser-automation` `infrastructure` `docker` `unikernel`
+- **最后活动时间:** 2026-05-21
 
 ### [n8n-install](https://github.com/kossakovsky/n8n-install)
 
 一键部署自托管AI自动化平台，集成n8n、Ollama、Flowise、RAG等30+工具。
 
-- **Stars:** ⭐️ 849
+- **Stars:** ⭐️ 864
 - **Tags:** `Self-hosted` `Docker` `Ollama` `RAG`
-- **最后活动时间:** 2026-04-28
+- **最后活动时间:** 2026-05-17
+
+### [covalent](https://github.com/AgnostiqHQ/covalent)
+
+Python工作流编排工具，支持机器学习、高性能计算和量子计算任务的异构环境调度。
+
+- **Stars:** ⭐️ 862
+- **Tags:** `workflow` `orchestration` `machine-learning` `quantum-computing`
+- **最后活动时间:** 2026-05-18
+
+### [bacalhau](https://github.com/bacalhau-project/bacalhau)
+
+分布式计算框架，支持AI数据管道、批处理和去中心化计算任务的高效执行平台。
+
+- **Stars:** ⭐️ 859
+- **Tags:** `distributed-computing` `ai-pipeline` `data-processing`
+- **最后活动时间:** 2026-05-20
 
 ### [data-on-eks](https://github.com/awslabs/data-on-eks)
 
@@ -1174,6 +1182,14 @@ Python工作流编排工具，支持机器学习、高性能计算和量子计�
 - **Tags:** `kubernetes` `eks` `mlflow` `kubeflow`
 - **最后活动时间:** 2026-05-09
 
+### [onyxia](https://github.com/InseeFrLab/onyxia)
+
+Kubernetes 原生的数据科学开发环境，为 AI/ML 工作负载提供完整的容器化开发平台。
+
+- **Stars:** ⭐️ 826
+- **Tags:** `kubernetes` `data-science` `datalab` `helm`
+- **最后活动时间:** 2026-05-21
+
 ### [flake](https://github.com/nixified-ai/flake)
 
 Nix Flake配置集合，为众多AI项目提供便捷的包管理和开发环境。
@@ -1181,14 +1197,6 @@ Nix Flake配置集合，为众多AI项目提供便捷的包管理和开发环境
 - **Stars:** ⭐️ 826
 - **Tags:** `nix` `nixos` `ai` `flake` `dev-environment`
 - **最后活动时间:** 2026-05-09
-
-### [onyxia](https://github.com/InseeFrLab/onyxia)
-
-Kubernetes 原生的数据科学开发环境，为 AI/ML 工作负载提供完整的容器化开发平台。
-
-- **Stars:** ⭐️ 824
-- **Tags:** `kubernetes` `data-science` `datalab` `helm`
-- **最后活动时间:** 2026-05-07
 
 ### [k8m](https://github.com/weibaohui/k8m)
 
@@ -1214,22 +1222,6 @@ Kubeflow命令行工具，简化Kubernetes上的机器学习任务管理，支�
 - **Tags:** `Kubeflow` `Kubernetes` `深度学习`
 - **最后活动时间:** 2026-05-07
 
-### [kernel-images](https://github.com/kernel/kernel-images)
-
-面向自动化和Web智能体的浏览器即服务基础设施。
-
-- **Stars:** ⭐️ 804
-- **Tags:** `browser-automation` `infrastructure` `docker` `unikernel`
-- **最后活动时间:** 2026-05-08
-
-### [oracle-ai-developer-hub](https://github.com/oracle-devrel/oracle-ai-developer-hub)
-
-Oracle AI开发者技术资源中心，提供构建AI应用、智能体和RAG系统的完整指南，涵盖Oracle AI数据库与OCI云服务的实战示例。
-
-- **Stars:** ⭐️ 798
-- **Tags:** `oracle` `ai` `agents` `rag` `kubernetes` `cloud`
-- **最后活动时间:** 2026-05-09
-
 ### [gcloud-mcp](https://github.com/googleapis/gcloud-mcp)
 
 Google Cloud MCP 服务器，让 AI 智能体能够与 Google Cloud 服务进行交互操作。
@@ -1242,7 +1234,7 @@ Google Cloud MCP 服务器，让 AI 智能体能够与 Google Cloud 服务进行
 
 轻量级虚拟机沙箱基础设施，用于安全执行不可信代码，支持CLI、API和Python SDK，是AI智能体代码执行的安全底座。
 
-- **Stars:** ⭐️ 780
+- **Stars:** ⭐️ 781
 - **Tags:** `sandbox` `agents` `security` `virtual-machine`
 - **最后活动时间:** 2025-12-14
 
@@ -1266,9 +1258,9 @@ JupyterHub 的 Docker 参考部署方案，为数据科学和机器学习团队�
 
 Google Cloud Vertex AI官方示例代码库，包含Jupyter notebooks和代码示例，全面演示机器学习和生成式AI工作流开发。
 
-- **Stars:** ⭐️ 728
+- **Stars:** ⭐️ 730
 - **Tags:** `vertex-ai` `gemini` `generative-ai` `mlops`
-- **最后活动时间:** 2026-05-08
+- **最后活动时间:** 2026-05-19
 
 ### [heir](https://github.com/google/heir)
 
@@ -1286,21 +1278,21 @@ Google Cloud Vertex AI官方示例代码库，包含Jupyter notebooks和代码�
 - **Tags:** `ai-infrastructure` `cache` `rust` `distributed-systems`
 - **最后活动时间:** 2026-05-09
 
-### [BharatMLStack](https://github.com/Meesho/BharatMLStack)
-
-开源端到端机器学习基础设施栈，支持实时和批量ML工作负载的大规模部署。
-
-- **Stars:** ⭐️ 695
-- **Tags:** `ml-infrastructure` `feature-store` `mlops` `machine-learning`
-- **最后活动时间:** 2026-05-05
-
 ### [vertex-ai-mlops](https://github.com/statmike/vertex-ai-mlops)
 
 Google Cloud Vertex AI 端到端 MLOps 工作流模板，涵盖机器学习模型训练、部署和运维全流程。
 
-- **Stars:** ⭐️ 690
+- **Stars:** ⭐️ 694
 - **Tags:** `MLOps` `Vertex AI` `GCP` `Deep Learning`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-20
+
+### [BharatMLStack](https://github.com/Meesho/BharatMLStack)
+
+开源端到端机器学习基础设施栈，支持实时和批量ML工作负载的大规模部署。
+
+- **Stars:** ⭐️ 692
+- **Tags:** `ml-infrastructure` `feature-store` `mlops` `machine-learning`
+- **最后活动时间:** 2026-05-18
 
 ### [worker-comfyui](https://github.com/runpod-workers/worker-comfyui)
 
@@ -1314,7 +1306,7 @@ Google Cloud Vertex AI 端到端 MLOps 工作流模板，涵盖机器学习模�
 
 Databricks ML 项目启动模板，开箱即用的生产级最佳实践配置。
 
-- **Stars:** ⭐️ 677
+- **Stars:** ⭐️ 680
 - **Tags:** `databricks` `mlops` `machine-learning`
 - **最后活动时间:** 2026-05-01
 
@@ -1338,9 +1330,9 @@ Databricks ML 项目启动模板，开箱即用的生产级最佳实践配置。
 
 MacOS上的轻量级Linux虚拟机，专为LLM Agent沙箱隔离设计，保障安全运行环境。
 
-- **Stars:** ⭐️ 642
+- **Stars:** ⭐️ 645
 - **Tags:** `Sandbox` `VM` `Agent Security`
-- **最后活动时间:** 2026-05-06
+- **最后活动时间:** 2026-05-20
 
 ### [vibe](https://github.com/mondaycom/vibe)
 
@@ -1362,7 +1354,7 @@ Dify平台的Kubernetes Helm部署方案，支持在K8s集群中快速部署LLM�
 
 Azure MLOps 企业级解决方案加速器，提供生产就绪的机器学习模型部署模板。
 
-- **Stars:** ⭐️ 630
+- **Stars:** ⭐️ 631
 - **Tags:** `azure` `mlops` `machine-learning` `devops`
 - **最后活动时间:** 2026-05-06
 
@@ -1378,9 +1370,9 @@ Azure MLOps 企业级解决方案加速器，提供生产就绪的机器学习�
 
 为ArcGIS系统提供深度学习框架的安装支持与环境配置工具。
 
-- **Stars:** ⭐️ 616
+- **Stars:** ⭐️ 619
 - **Tags:** `Deep Learning` `ArcGIS` `Infrastructure` `Installation`
-- **最后活动时间:** 2025-11-21
+- **最后活动时间:** 2026-05-21
 
 ### [cloud-run-mcp](https://github.com/GoogleCloudPlatform/cloud-run-mcp)
 
@@ -1389,6 +1381,14 @@ MCP 服务器，支持将 AI 应用一键部署到 Google Cloud Run，简化云�
 - **Stars:** ⭐️ 607
 - **Tags:** `mcp` `mcp-server` `google-cloud` `cloud-run`
 - **最后活动时间:** 2026-05-09
+
+### [self-host-n8n-on-gcr](https://github.com/datawranglerai/self-host-n8n-on-gcr)
+
+在 Google Cloud 上自托管 n8n 的解决方案，支持 AI Agent 工作流的低成本无服务器部署。
+
+- **Stars:** ⭐️ 606
+- **Tags:** `n8n` `Self-hosting` `Google Cloud` `AI Agents`
+- **最后活动时间:** 2026-05-13
 
 ### [venice](https://github.com/linkedin/venice)
 
@@ -1406,29 +1406,37 @@ JupyterHub的Kubernetes动态Pod生成器，支持为每个用户创建独立的
 - **Tags:** `jupyter` `jupyterhub` `kubernetes` `data-science`
 - **最后活动时间:** 2026-05-04
 
-### [self-host-n8n-on-gcr](https://github.com/datawranglerai/self-host-n8n-on-gcr)
-
-在 Google Cloud 上自托管 n8n 的解决方案，支持 AI Agent 工作流的低成本无服务器部署。
-
-- **Stars:** ⭐️ 599
-- **Tags:** `n8n` `Self-hosting` `Google Cloud` `AI Agents`
-- **最后活动时间:** 2026-04-01
-
 ### [arc](https://github.com/Basekick-Labs/arc)
 
 高性能分析型数据库，基于 DuckDB SQL 引擎和 Parquet 存储，支持 AI、IoT、日志分析等场景，单二进制部署无厂商锁定。
 
-- **Stars:** ⭐️ 589
+- **Stars:** ⭐️ 598
 - **Tags:** `DuckDB` `Parquet` `OLAP` `Analytics`
-- **最后活动时间:** 2026-05-08
+- **最后活动时间:** 2026-05-21
 
 ### [redun](https://github.com/insitro/redun)
 
 支持AWS/GCP的数据科学工作流引擎，提供任务调度与Docker容器编排能力。
 
-- **Stars:** ⭐️ 585
+- **Stars:** ⭐️ 588
 - **Tags:** `workflow-engine` `data-engineering` `etl` `ml`
 - **最后活动时间:** 2026-04-16
+
+### [openclaw-ansible](https://github.com/openclaw/openclaw-ansible)
+
+OpenClaw 自动化部署方案，集成 Tailscale VPN、UFW 防火墙和 Docker 隔离，提供安全加固的一键安装体验。
+
+- **Stars:** ⭐️ 581
+- **Tags:** `openclaw` `ansible` `deployment` `docker` `vpn` `security`
+- **最后活动时间:** 2026-05-06
+
+### [matchlock](https://github.com/jingkaihe/matchlock)
+
+基于Linux沙箱的AI代理工作负载安全隔离方案，保障AI系统运行环境的安全性。
+
+- **Stars:** ⭐️ 580
+- **Tags:** `security` `sandbox` `ai-agents` `linux`
+- **最后活动时间:** 2026-05-19
 
 ### [ollama-helm](https://github.com/otwld/ollama-helm)
 
@@ -1438,21 +1446,13 @@ JupyterHub的Kubernetes动态Pod生成器，支持为每个用户创建独立的
 - **Tags:** `Helm` `Kubernetes` `LLM部署`
 - **最后活动时间:** 2026-05-08
 
-### [openclaw-ansible](https://github.com/openclaw/openclaw-ansible)
+### [leash](https://github.com/strongdm/leash)
 
-OpenClaw 自动化部署方案，集成 Tailscale VPN、UFW 防火墙和 Docker 隔离，提供安全加固的一键安装体验。
+StrongDM推出的AI代理安全沙盒工具，为AI代理提供安全的容器化运行环境。
 
-- **Stars:** ⭐️ 576
-- **Tags:** `openclaw` `ansible` `deployment` `docker` `vpn` `security`
-- **最后活动时间:** 2026-05-06
-
-### [matchlock](https://github.com/jingkaihe/matchlock)
-
-基于Linux沙箱的AI代理工作负载安全隔离方案，保障AI系统运行环境的安全性。
-
-- **Stars:** ⭐️ 570
-- **Tags:** `security` `sandbox` `ai-agents` `linux`
-- **最后活动时间:** 2026-05-02
+- **Stars:** ⭐️ 564
+- **Tags:** `ai-agents` `sandbox` `security` `container`
+- **最后活动时间:** 2026-04-06
 
 ### [Slurm-web](https://github.com/rackslab/Slurm-web)
 
@@ -1461,14 +1461,6 @@ Slurm HPC 和 AI 集群的开源 Web 管理界面，提供可视化监控和管�
 - **Stars:** ⭐️ 562
 - **Tags:** `slurm` `hpc` `cluster-management` `webui`
 - **最后活动时间:** 2026-05-08
-
-### [leash](https://github.com/strongdm/leash)
-
-StrongDM推出的AI代理安全沙盒工具，为AI代理提供安全的容器化运行环境。
-
-- **Stars:** ⭐️ 556
-- **Tags:** `ai-agents` `sandbox` `security` `container`
-- **最后活动时间:** 2026-04-06
 
 ### [databricks-sdk-py](https://github.com/databricks/databricks-sdk-py)
 
@@ -1494,27 +1486,27 @@ Databricks官方Python SDK，用于在Databricks数据智能平台上构建AI和
 - **Tags:** `ml-competitions` `benchmarks` `machine-learning-platform`
 - **最后活动时间:** 2026-04-28
 
+### [sagemaker-training-toolkit](https://github.com/aws/sagemaker-training-toolkit)
+
+AWS SageMaker官方训练工具包，支持在Docker容器中训练机器学习模型。
+
+- **Stars:** ⭐️ 536
+- **Tags:** `aws` `sagemaker` `machine-learning` `training` `docker`
+- **最后活动时间:** 2026-01-16
+
 ### [generative-ai-cdk-constructs](https://github.com/awslabs/generative-ai-cdk-constructs)
 
 AWS官方提供的生成式AI CDK构造库，包含RAG、Agent、知识库等常见GenAI架构模式的示例实现。
 
 - **Stars:** ⭐️ 535
 - **Tags:** `AWS` `CDK` `GenAI` `RAG`
-- **最后活动时间:** 2026-05-10
-
-### [sagemaker-training-toolkit](https://github.com/aws/sagemaker-training-toolkit)
-
-AWS SageMaker官方训练工具包，支持在Docker容器中训练机器学习模型。
-
-- **Stars:** ⭐️ 535
-- **Tags:** `aws` `sagemaker` `machine-learning` `training` `docker`
-- **最后活动时间:** 2026-01-16
+- **最后活动时间:** 2026-05-21
 
 ### [unbody](https://github.com/unbody-io/unbody)
 
 AI 时代的模块化后端平台，专为构建知识驱动的 AI 原生应用设计。
 
-- **Stars:** ⭐️ 528
+- **Stars:** ⭐️ 529
 - **Tags:** `ai-backend` `knowledge-base` `vector-database` `rag`
 - **最后活动时间:** 2026-04-14
 
@@ -1533,6 +1525,14 @@ Cerebrium无服务器GPU平台示例代码，涵盖LLM、ML模型部署实践。
 - **Stars:** ⭐️ 522
 - **Tags:** `serverless-gpu` `llm-deployment` `mlops` `ai-inference`
 - **最后活动时间:** 2026-05-08
+
+### [code-on-incus](https://github.com/mensfeld/code-on-incus)
+
+为AI Agent提供隔离的沙箱环境，支持root权限、Docker和systemd，内置主动防御机制自动检测并阻止威胁。
+
+- **Stars:** ⭐️ 520
+- **Tags:** `ai-sandbox` `llm-security` `container-security` `agentic-ai` `code-sandbox`
+- **最后活动时间:** 2026-05-21
 
 ### [caddy-defender](https://github.com/JasonLovesDoggo/caddy-defender)
 
@@ -1558,6 +1558,14 @@ Google Cloud平台上的机器学习示例集合，涵盖ML工作流的完整实
 - **Tags:** `ai` `crdt` `database` `decentralized` `p2p`
 - **最后活动时间:** 2026-05-09
 
+### [openclaw-billing-proxy](https://github.com/zacdcook/openclaw-billing-proxy)
+
+OpenClaw API 计费代理，支持通过 Claude Code 订阅计费路由请求。
+
+- **Stars:** ⭐️ 501
+- **Tags:** `openclaw` `billing` `api-proxy` `claude`
+- **最后活动时间:** 2026-04-10
+
 ## Hardware Acceleration
 
 ### [ColossalAI](https://github.com/hpcaitech/ColossalAI)
@@ -1566,7 +1574,7 @@ Google Cloud平台上的机器学习示例集合，涵盖ML工作流的完整实
 
 - **Stars:** ⭐️ 41.4k
 - **Tags:** `Distributed Training` `LLM` `Deep Learning`
-- **最后活动时间:** 2026-04-27
+- **最后活动时间:** 2026-05-18
 
 ### [jax](https://github.com/jax-ml/jax)
 
@@ -1584,20 +1592,28 @@ Google开源的高性能机器学习框架，支持自动微分、向量化、JI
 - **Tags:** `gpu-programming` `differentiable-programming` `high-performance`
 - **最后活动时间:** 2026-04-06
 
+### [llmfit](https://github.com/AlexsJones/llmfit)
+
+一键检测硬件兼容性，从数百个模型中找到适合本地运行的模型。
+
+- **Stars:** ⭐️ 26.5k
+- **Tags:** `硬件适配` `模型选择` `本地AI`
+- **最后活动时间:** 2026-05-20
+
+### [modular](https://github.com/modular/modular)
+
+Modular平台包含MAX和Mojo编程语言，为AI开发提供高性能基础设施和统一的执行环境。
+
+- **Stars:** ⭐️ 26.2k
+- **Tags:** `mojo` `ai-infrastructure` `programming-language` `machine-learning` `max`
+- **最后活动时间:** 2026-05-20
+
 ### [mlx](https://github.com/ml-explore/mlx)
 
 Apple官方推出的数组计算框架，专为Apple Silicon芯片优化的机器学习基础设施。
 
 - **Stars:** ⭐️ 26.1k
 - **Tags:** `Apple Silicon` `ML Framework` `Hardware Acceleration`
-- **最后活动时间:** 2026-05-09
-
-### [modular](https://github.com/modular/modular)
-
-Modular平台包含MAX和Mojo编程语言，为AI开发提供高性能基础设施和统一的执行环境。
-
-- **Stars:** ⭐️ 26.1k
-- **Tags:** `mojo` `ai-infrastructure` `programming-language` `machine-learning` `max`
 - **最后活动时间:** 2026-05-09
 
 ### [hashcat](https://github.com/hashcat/hashcat)
@@ -1608,35 +1624,27 @@ Modular平台包含MAX和Mojo编程语言，为AI开发提供高性能基础设�
 - **Tags:** `password-recovery` `gpu-acceleration` `security` `cuda` `opencl`
 - **最后活动时间:** 2026-02-20
 
-### [llmfit](https://github.com/AlexsJones/llmfit)
-
-一键检测硬件兼容性，从数百个模型中找到适合本地运行的模型。
-
-- **Stars:** ⭐️ 25.6k
-- **Tags:** `硬件适配` `模型选择` `本地AI`
-- **最后活动时间:** 2026-05-06
-
 ### [ncnn](https://github.com/Tencent/ncnn)
 
 专为移动端优化的高性能神经网络推理框架，支持Android、iOS及多种硬件架构。
 
-- **Stars:** ⭐️ 23.2k
+- **Stars:** ⭐️ 23.3k
 - **Tags:** `Inference` `Mobile AI` `Edge Computing`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-21
 
 ### [onnxruntime](https://github.com/microsoft/onnxruntime)
 
 微软开源的高性能ML推理和训练加速器，跨平台支持，兼容PyTorch、TensorFlow等主流框架。
 
-- **Stars:** ⭐️ 20.5k
+- **Stars:** ⭐️ 20.6k
 - **Tags:** `ONNX` `Inference` `Cross-platform` `Acceleration`
-- **最后活动时间:** 2026-05-10
+- **最后活动时间:** 2026-05-21
 
 ### [airllm](https://github.com/lyogavin/airllm)
 
 在单张4GB GPU上运行70B大语言模型的推理优化方案，突破显存限制。
 
-- **Stars:** ⭐️ 17.4k
+- **Stars:** ⭐️ 18.2k
 - **Tags:** `LLM Inference` `GPU Optimization` `Model Serving`
 - **最后活动时间:** 2026-03-10
 
@@ -1660,17 +1668,17 @@ Modular平台包含MAX和Mojo编程语言，为AI开发提供高性能基础设�
 
 阿里巴巴开源的高性能轻量级推理引擎，支持端侧LLM与边缘AI。
 
-- **Stars:** ⭐️ 15.1k
+- **Stars:** ⭐️ 15.2k
 - **Tags:** `Inference` `Edge AI` `Embedded`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-21
 
 ### [ggml](https://github.com/ggml-org/ggml)
 
 专为边缘设备优化的张量计算库，支持在CPU和Apple Silicon上高效运行大语言模型，是llama.cpp等项目的核心依赖。
 
-- **Stars:** ⭐️ 14.6k
+- **Stars:** ⭐️ 14.7k
 - **Tags:** `Tensor Library` `Edge AI` `LLM Inference`
-- **最后活动时间:** 2026-05-07
+- **最后活动时间:** 2026-05-21
 
 ### [ZLUDA](https://github.com/vosen/ZLUDA)
 
@@ -1758,7 +1766,7 @@ NVIDIA开源的高性能CUDA模板库，专为深度学习线性代数运算优�
 
 - **Stars:** ⭐️ 9.7k
 - **Tags:** `cuda` `deep-learning` `gpu` `nvidia` `linear-algebra`
-- **最后活动时间:** 2026-05-07
+- **最后活动时间:** 2026-05-21
 
 ### [accelerate](https://github.com/huggingface/accelerate)
 
@@ -1774,7 +1782,7 @@ NVIDIA RAPIDS生态的GPU DataFrame库，提供类似Pandas的API，实现大规
 
 - **Stars:** ⭐️ 9.6k
 - **Tags:** `GPU加速` `DataFrame` `RAPIDS`
-- **最后活动时间:** 2026-05-10
+- **最后活动时间:** 2026-05-21
 
 ### [apex](https://github.com/NVIDIA/apex)
 
@@ -1806,7 +1814,7 @@ PyTorch量化工具库，提供k-bit量化支持，是LLM量化和高效推理�
 
 - **Stars:** ⭐️ 8.2k
 - **Tags:** `Quantization` `PyTorch` `LLM`
-- **最后活动时间:** 2026-05-08
+- **最后活动时间:** 2026-05-21
 
 ### [tensorrtx](https://github.com/wang-xinyu/tensorrtx)
 
@@ -1870,7 +1878,7 @@ NVIDIA开发的GPU加速数据处理库，为深度学习训练和推理提供�
 
 - **Stars:** ⭐️ 5.7k
 - **Tags:** `deep-learning` `gpu` `data-processing` `image-processing`
-- **最后活动时间:** 2026-05-08
+- **最后活动时间:** 2026-05-21
 
 ### [flashinfer](https://github.com/flashinfer-ai/flashinfer)
 
@@ -1880,6 +1888,14 @@ NVIDIA开发的GPU加速数据处理库，为深度学习训练和推理提供�
 - **Tags:** `CUDA` `LLM Inference` `GPU Kernels` `Attention`
 - **最后活动时间:** 2026-05-09
 
+### [mlx-lm](https://github.com/ml-explore/mlx-lm)
+
+基于Apple MLX框架的大语言模型推理库，专为Apple Silicon芯片优化加速。
+
+- **Stars:** ⭐️ 5.4k
+- **Tags:** `MLX` `Apple Silicon` `LLM`
+- **最后活动时间:** 2026-05-19
+
 ### [tpu](https://github.com/tensorflow/tpu)
 
 Google Cloud TPU官方参考模型和工具集，支持大规模AI模型训练加速。
@@ -1888,13 +1904,13 @@ Google Cloud TPU官方参考模型和工具集，支持大规模AI模型训练�
 - **Tags:** `TPU` `Hardware` `Google Cloud`
 - **最后活动时间:** 2026-03-25
 
-### [mlx-lm](https://github.com/ml-explore/mlx-lm)
+### [cuml](https://github.com/rapidsai/cuml)
 
-基于Apple MLX框架的大语言模型推理库，专为Apple Silicon芯片优化加速。
+NVIDIA RAPIDS机器学习库，提供GPU加速的经典ML算法实现，包括聚类、分类、回归等。
 
 - **Stars:** ⭐️ 5.2k
-- **Tags:** `MLX` `Apple Silicon` `LLM`
-- **最后活动时间:** 2026-05-04
+- **Tags:** `cuda` `machine-learning` `gpu` `rapids`
+- **最后活动时间:** 2026-05-21
 
 ### [rust-cuda](https://github.com/Rust-GPU/rust-cuda)
 
@@ -1903,14 +1919,6 @@ Google Cloud TPU官方参考模型和工具集，支持大规模AI模型训练�
 - **Stars:** ⭐️ 5.2k
 - **Tags:** `cuda` `gpu` `rust` `gpgpu`
 - **最后活动时间:** 2026-04-29
-
-### [cuml](https://github.com/rapidsai/cuml)
-
-NVIDIA RAPIDS机器学习库，提供GPU加速的经典ML算法实现，包括聚类、分类、回归等。
-
-- **Stars:** ⭐️ 5.2k
-- **Tags:** `cuda` `machine-learning` `gpu` `rapids`
-- **最后活动时间:** 2026-05-09
 
 ### [gpustack](https://github.com/gpustack/gpustack)
 
@@ -1928,6 +1936,14 @@ NVIDIA RAPIDS机器学习库，提供GPU加速的经典ML算法实现，包括�
 - **Tags:** `GPU` `CUDA` `OpenCL` `HPC`
 - **最后活动时间:** 2026-03-07
 
+### [nccl](https://github.com/NVIDIA/nccl)
+
+NVIDIA开源的多GPU集合通信原语库，为深度学习分布式训练提供高效通信支持。
+
+- **Stars:** ⭐️ 4.7k
+- **Tags:** `cuda` `gpu` `distributed-training` `communication`
+- **最后活动时间:** 2026-05-20
+
 ### [AITemplate](https://github.com/facebookincubator/AITemplate)
 
 Meta开源的AI推理框架，将神经网络渲染为高性能CUDA/HIP C++代码，专为NVIDIA和AMD GPU推理优化。
@@ -1935,14 +1951,6 @@ Meta开源的AI推理框架，将神经网络渲染为高性能CUDA/HIP C++代�
 - **Stars:** ⭐️ 4.7k
 - **Tags:** `inference` `cuda` `gpu` `optimization`
 - **最后活动时间:** 2026-04-09
-
-### [nccl](https://github.com/NVIDIA/nccl)
-
-NVIDIA开源的多GPU集合通信原语库，为深度学习分布式训练提供高效通信支持。
-
-- **Stars:** ⭐️ 4.7k
-- **Tags:** `cuda` `gpu` `distributed-training` `communication`
-- **最后活动时间:** 2026-05-09
 
 ### [mlx-vlm](https://github.com/Blaizzy/mlx-vlm)
 
@@ -1952,6 +1960,14 @@ NVIDIA开源的多GPU集合通信原语库，为深度学习分布式训练提�
 - **Tags:** `MLX` `Vision Language` `Apple Silicon`
 - **最后活动时间:** 2026-05-09
 
+### [jetson-containers](https://github.com/dusty-nv/jetson-containers)
+
+为NVIDIA Jetson设备提供开箱即用的机器学习容器镜像，支持PyTorch、TensorFlow等主流框架。
+
+- **Stars:** ⭐️ 4.7k
+- **Tags:** `NVIDIA` `Jetson` `Docker` `ML Containers`
+- **最后活动时间:** 2026-05-18
+
 ### [LACT](https://github.com/ilya-zlobintsev/LACT)
 
 Linux GPU配置与监控工具，支持AMD和NVIDIA显卡，适用于AI开发者的GPU资源管理与性能调优。
@@ -1959,14 +1975,6 @@ Linux GPU配置与监控工具，支持AMD和NVIDIA显卡，适用于AI开发者
 - **Stars:** ⭐️ 4.7k
 - **Tags:** `gpu` `nvidia` `amdgpu` `linux` `monitoring`
 - **最后活动时间:** 2026-05-09
-
-### [jetson-containers](https://github.com/dusty-nv/jetson-containers)
-
-为NVIDIA Jetson设备提供开箱即用的机器学习容器镜像，支持PyTorch、TensorFlow等主流框架。
-
-- **Stars:** ⭐️ 4.6k
-- **Tags:** `NVIDIA` `Jetson` `Docker` `ML Containers`
-- **最后活动时间:** 2026-05-06
 
 ### [tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn)
 
@@ -1998,7 +2006,7 @@ Intel开源的深度神经网络库，针对多种CPU架构和硬件加速器进
 
 - **Stars:** ⭐️ 4.0k
 - **Tags:** `Deep Learning` `Neural Network` `Hardware Acceleration`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-21
 
 ### [Nunchaku](https://github.com/nunchaku-ai/nunchaku)
 
@@ -2012,17 +2020,17 @@ ICLR2025 Spotlight，面向4-bit扩散模型的量化方法，通过低秩组件
 
 NVIDIA官方Kubernetes设备插件，支持在K8s集群中调度和管理GPU资源，是AI/ML工作负载部署的核心基础设施组件。
 
-- **Stars:** ⭐️ 3.7k
+- **Stars:** ⭐️ 3.8k
 - **Tags:** `kubernetes` `nvidia` `gpu` `device-plugin`
-- **最后活动时间:** 2026-05-08
+- **最后活动时间:** 2026-05-21
 
 ### [tvm-cn](https://github.com/hyperai/tvm-cn)
 
 TVM深度学习编译器框架的中文文档，涵盖模型优化、跨平台部署和硬件加速等核心内容。
 
-- **Stars:** ⭐️ 3.7k
+- **Stars:** ⭐️ 3.8k
 - **Tags:** `deep-learning` `gpu` `machine-learning` `tvm` `compiler`
-- **最后活动时间:** 2026-03-12
+- **最后活动时间:** 2026-05-20
 
 ### [zml](https://github.com/zml/zml)
 
@@ -2056,6 +2064,14 @@ Hugging Face官方硬件优化工具包，加速Transformers和Diffusers模型�
 - **Tags:** `模型优化` `推理加速` `量化`
 - **最后活动时间:** 2026-05-07
 
+### [TransformerEngine](https://github.com/NVIDIA/TransformerEngine)
+
+NVIDIA推出的Transformer模型加速库，支持FP8/FP4低精度训练与推理，显著提升Hopper/Ada/Blackwell GPU性能并降低显存占用。
+
+- **Stars:** ⭐️ 3.3k
+- **Tags:** `deep-learning` `gpu` `cuda` `pytorch` `transformers`
+- **最后活动时间:** 2026-05-21
+
 ### [SageAttention](https://github.com/thu-ml/SageAttention)
 
 ICLR2025/ICML2025/NeurIPS2025 Spotlight，量化注意力机制实现2-5倍加速，无损端到端性能。
@@ -2063,14 +2079,6 @@ ICLR2025/ICML2025/NeurIPS2025 Spotlight，量化注意力机制实现2-5倍加�
 - **Stars:** ⭐️ 3.3k
 - **Tags:** `Attention` `Quantization` `Acceleration`
 - **最后活动时间:** 2026-01-17
-
-### [TransformerEngine](https://github.com/NVIDIA/TransformerEngine)
-
-NVIDIA推出的Transformer模型加速库，支持FP8/FP4低精度训练与推理，显著提升Hopper/Ada/Blackwell GPU性能并降低显存占用。
-
-- **Stars:** ⭐️ 3.3k
-- **Tags:** `deep-learning` `gpu` `cuda` `pytorch` `transformers`
-- **最后活动时间:** 2026-05-09
 
 ### [cuda-python](https://github.com/NVIDIA/cuda-python)
 
@@ -2086,7 +2094,7 @@ NVIDIA官方CUDA Python绑定库，让Python开发者能够充分利用GPU并行
 
 - **Stars:** ⭐️ 3.2k
 - **Tags:** `deep-learning` `gpu` `jit` `python` `neural-network`
-- **最后活动时间:** 2026-04-14
+- **最后活动时间:** 2026-05-21
 
 ### [ComputeLibrary](https://github.com/ARM-software/ComputeLibrary)
 
@@ -2094,7 +2102,7 @@ Arm官方推出的计算机视觉与机器学习函数库，针对Arm CPU/GPU进
 
 - **Stars:** ⭐️ 3.1k
 - **Tags:** `machine-learning` `computer-vision` `arm` `simd` `neural-network`
-- **最后活动时间:** 2026-05-08
+- **最后活动时间:** 2026-05-20
 
 ### [how-to-optim-algorithm-in-cuda](https://github.com/BBuf/how-to-optim-algorithm-in-cuda)
 
@@ -2264,6 +2272,14 @@ NVIDIA RAPIDS图分析库，提供GPU加速的大规模图计算和图神经网�
 - **Tags:** `graph-analytics` `cuda` `gpu` `rapids` `graph-neural-network`
 - **最后活动时间:** 2026-05-09
 
+### [dstack](https://github.com/dstackai/dstack)
+
+开源GPU控制平面，支持在多云和本地环境运行AI开发、训练和推理任务，简化LLM和深度学习工作负载编排。
+
+- **Stars:** ⭐️ 2.1k
+- **Tags:** `GPU` `ML Infrastructure` `Training` `Inference`
+- **最后活动时间:** 2026-05-21
+
 ### [cubecl](https://github.com/tracel-ai/cubecl)
 
 多平台高性能计算语言扩展，支持CUDA、WebGPU等后端，为Rust提供GPU加速计算能力。
@@ -2272,21 +2288,13 @@ NVIDIA RAPIDS图分析库，提供GPU加速的大规模图计算和图神经网�
 - **Tags:** `GPU` `CUDA` `WebGPU` `Rust`
 - **最后活动时间:** 2026-05-08
 
-### [dstack](https://github.com/dstackai/dstack)
-
-开源GPU控制平面，支持在多云和本地环境运行AI开发、训练和推理任务，简化LLM和深度学习工作负载编排。
-
-- **Stars:** ⭐️ 2.1k
-- **Tags:** `GPU` `ML Infrastructure` `Training` `Inference`
-- **最后活动时间:** 2026-05-09
-
 ### [vllm-ascend](https://github.com/vllm-project/vllm-ascend)
 
 vLLM在华为昇腾NPU上的硬件适配插件，支持在Ascend硬件上高效运行大模型推理服务。
 
-- **Stars:** ⭐️ 2.0k
+- **Stars:** ⭐️ 2.1k
 - **Tags:** `vLLM` `Ascend` `硬件加速`
-- **最后活动时间:** 2026-05-10
+- **最后活动时间:** 2026-05-21
 
 ### [pycuda](https://github.com/inducer/pycuda)
 
@@ -2350,7 +2358,7 @@ GPU over IP 网络桥接工具，允许 CPU-only 机器远程挂载和使用远�
 
 - **Stars:** ⭐️ 1.9k
 - **Tags:** `GPU` `CUDA` `Networking` `MLOps`
-- **最后活动时间:** 2026-01-04
+- **最后活动时间:** 2026-05-20
 
 ### [AdaptiveCpp](https://github.com/AdaptiveCpp/AdaptiveCpp)
 
@@ -2440,22 +2448,6 @@ NVIDIA GPU监控指标导出器，集成DCGM为Prometheus提供GPU性能数据�
 - **Tags:** `gpu-computing` `opencl` `gpgpu` `hpc` `parallel-computing`
 - **最后活动时间:** 2026-04-22
 
-### [tfhe-rs](https://github.com/zama-ai/tfhe-rs)
-
-纯Rust实现的TFHE全同态加密方案，支持在加密数据上进行布尔和整数运算。为隐私保护AI和机密机器学习提供核心密码学基础设施。
-
-- **Stars:** ⭐️ 1.6k
-- **Tags:** `homomorphic-encryption` `cryptography` `privacy-preserving` `rust`
-- **最后活动时间:** 2026-05-08
-
-### [Enzyme](https://github.com/EnzymeAD/Enzyme)
-
-高性能自动微分编译器，支持LLVM和MLIR，为PyTorch、TensorFlow等深度学习框架提供梯度计算优化。
-
-- **Stars:** ⭐️ 1.6k
-- **Tags:** `Automatic Differentiation` `Compiler` `Deep Learning` `LLVM`
-- **最后活动时间:** 2026-05-08
-
 ### [picolm](https://github.com/RightNow-AI/picolm)
 
 在10美元的开发板上运行10亿参数大语言模型的轻量级推理方案，支持256MB RAM的嵌入式设备。
@@ -2463,6 +2455,22 @@ NVIDIA GPU监控指标导出器，集成DCGM为Prometheus提供GPU性能数据�
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `LLM` `Embedded` `Quantization` `Edge AI`
 - **最后活动时间:** 2026-02-22
+
+### [Enzyme](https://github.com/EnzymeAD/Enzyme)
+
+高性能自动微分编译器，支持LLVM和MLIR，为PyTorch、TensorFlow等深度学习框架提供梯度计算优化。
+
+- **Stars:** ⭐️ 1.6k
+- **Tags:** `Automatic Differentiation` `Compiler` `Deep Learning` `LLVM`
+- **最后活动时间:** 2026-05-21
+
+### [tfhe-rs](https://github.com/zama-ai/tfhe-rs)
+
+纯Rust实现的TFHE全同态加密方案，支持在加密数据上进行布尔和整数运算。为隐私保护AI和机密机器学习提供核心密码学基础设施。
+
+- **Stars:** ⭐️ 1.6k
+- **Tags:** `homomorphic-encryption` `cryptography` `privacy-preserving` `rust`
+- **最后活动时间:** 2026-05-08
 
 ### [Anemll](https://github.com/Anemll/Anemll)
 
@@ -2510,7 +2518,7 @@ PyTorch神经网络量化库，支持PTQ和QAT量化方法，优化模型在FPGA
 
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `quantization` `pytorch` `fpga`
-- **最后活动时间:** 2026-05-08
+- **最后活动时间:** 2026-05-20
 
 ### [mllm](https://github.com/UbiquitousLearning/mllm)
 
@@ -2526,7 +2534,15 @@ PyTorch神经网络量化库，支持PTQ和QAT量化方法，优化模型在FPGA
 
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `GPU监控` `Prometheus` `NVIDIA`
-- **最后活动时间:** 2026-05-06
+- **最后活动时间:** 2026-05-19
+
+### [tt-metal](https://github.com/tenstorrent/tt-metal)
+
+Tenstorrent AI加速器底层编程框架，支持LLaMA、DeepSeek、Stable Diffusion等主流模型的硬件加速优化。
+
+- **Stars:** ⭐️ 1.5k
+- **Tags:** `AI加速器` `硬件优化` `LLM`
+- **最后活动时间:** 2026-05-21
 
 ### [lightning-thunder](https://github.com/Lightning-AI/lightning-thunder)
 
@@ -2543,14 +2559,6 @@ PyTorch编译器，加速训练和推理过程。提供内置的性能、内存�
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `GPU` `CUDA` `Parallel Computing`
 - **最后活动时间:** 2026-04-29
-
-### [tt-metal](https://github.com/tenstorrent/tt-metal)
-
-Tenstorrent AI加速器底层编程框架，支持LLaMA、DeepSeek、Stable Diffusion等主流模型的硬件加速优化。
-
-- **Stars:** ⭐️ 1.4k
-- **Tags:** `AI加速器` `硬件优化` `LLM`
-- **最后活动时间:** 2026-05-10
 
 ### [deepops](https://github.com/NVIDIA/deepops)
 
@@ -2576,6 +2584,14 @@ Julia语言的CUDA编程接口，提供完整的GPU计算支持和高性能并�
 - **Tags:** `CUDA` `Julia` `GPU`
 - **最后活动时间:** 2026-05-05
 
+### [FastFlowLM](https://github.com/FastFlowLM/FastFlowLM)
+
+专为AMD Ryzen AI NPU优化的本地LLM运行工具，类似Ollama但深度适配AMD硬件，充分发挥NPU加速能力。
+
+- **Stars:** ⭐️ 1.4k
+- **Tags:** `AMD` `NPU` `本地部署`
+- **最后活动时间:** 2026-05-20
+
 ### [compute-runtime](https://github.com/intel/compute-runtime)
 
 Intel显卡计算运行时，支持oneAPI Level Zero和OpenCL驱动，为AI计算提供底层GPU加速支持。
@@ -2598,7 +2614,7 @@ Intel开源的高精度LLM量化工具包，支持MXFP4、NVFP4、GGUF等多种�
 
 - **Stars:** ⭐️ 1.4k
 - **Tags:** `GPU` `RDMA` `LLM` `HPC`
-- **最后活动时间:** 2026-05-10
+- **最后活动时间:** 2026-05-21
 
 ### [autokernel](https://github.com/RightNow-AI/autokernel)
 
@@ -2614,7 +2630,7 @@ Intel推出的Scikit-learn加速扩展，通过oneAPI无缝提升机器学习算
 
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `Scikit-learn` `GPU Acceleration` `Intel` `Performance`
-- **最后活动时间:** 2026-05-07
+- **最后活动时间:** 2026-05-21
 
 ### [NVIDIA-patcher](https://github.com/dartraiden/NVIDIA-patcher)
 
@@ -2623,14 +2639,6 @@ Intel推出的Scikit-learn加速扩展，通过oneAPI无缝提升机器学习算
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `nvidia` `gpu` `hardware-acceleration` `driver-patch`
 - **最后活动时间:** 2026-05-05
-
-### [FastFlowLM](https://github.com/FastFlowLM/FastFlowLM)
-
-专为AMD Ryzen AI NPU优化的本地LLM运行工具，类似Ollama但深度适配AMD硬件，充分发挥NPU加速能力。
-
-- **Stars:** ⭐️ 1.3k
-- **Tags:** `AMD` `NPU` `本地部署`
-- **最后活动时间:** 2026-05-06
 
 ### [eve](https://github.com/jfalcou/eve)
 
@@ -2832,13 +2840,13 @@ NVIDIA量子计算编程框架，支持异构量子-经典混合工作流和量�
 - **Tags:** `pytorch` `distributed` `llm-training` `scalable`
 - **最后活动时间:** 2026-03-03
 
-### [LuisaCompute](https://github.com/LuisaGroup/LuisaCompute)
+### [raft](https://github.com/rapidsai/raft)
 
-高性能跨平台渲染框架，支持CUDA、DirectX、Metal等多种后端，可用于AI图形计算加速。
+NVIDIA提供的CUDA加速机器学习基础算法库，涵盖向量搜索、聚类、线性代数等核心原语，是高性能AI应用的基础构建块。
 
 - **Stars:** ⭐️ 1.0k
-- **Tags:** `cuda` `gpu` `rendering` `raytracing` `cross-platform`
-- **最后活动时间:** 2026-05-09
+- **Tags:** `CUDA` `向量搜索` `GPU加速`
+- **最后活动时间:** 2026-05-21
 
 ### [MindPipe](https://github.com/MAC-AutoML/MindPipe)
 
@@ -2846,14 +2854,14 @@ NVIDIA量子计算编程框架，支持异构量子-经典混合工作流和量�
 
 - **Stars:** ⭐️ 1.0k
 - **Tags:** `model-compression` `quantization` `pruning` `llm-deployment` `hardware-acceleration`
-- **最后活动时间:** 2026-05-06
+- **最后活动时间:** 2026-05-20
 
-### [raft](https://github.com/rapidsai/raft)
+### [LuisaCompute](https://github.com/LuisaGroup/LuisaCompute)
 
-NVIDIA提供的CUDA加速机器学习基础算法库，涵盖向量搜索、聚类、线性代数等核心原语，是高性能AI应用的基础构建块。
+高性能跨平台渲染框架，支持CUDA、DirectX、Metal等多种后端，可用于AI图形计算加速。
 
 - **Stars:** ⭐️ 1.0k
-- **Tags:** `CUDA` `向量搜索` `GPU加速`
+- **Tags:** `cuda` `gpu` `rendering` `raytracing` `cross-platform`
 - **最后活动时间:** 2026-05-09
 
 ### [TheRock](https://github.com/ROCm/TheRock)
@@ -2879,6 +2887,14 @@ ICML2025论文实现，无需训练的稀疏注意力机制，可加速任意模
 - **Stars:** ⭐️ 989
 - **Tags:** `MoE` `Optimization` `Inference`
 - **最后活动时间:** 2026-04-11
+
+### [InferenceX](https://github.com/SemiAnalysisAI/InferenceX)
+
+开源连续推理基准测试工具，支持Qwen3.5、DeepSeek、GPT等主流模型在GB200、H100、MI355X等多种硬件平台上的性能对比评测。
+
+- **Stars:** ⭐️ 987
+- **Tags:** `Benchmark` `Inference` `GPU`
+- **最后活动时间:** 2026-05-21
 
 ### [finn](https://github.com/Xilinx/finn)
 
@@ -2928,6 +2944,14 @@ Haskell高性能数组计算嵌入式语言，支持GPU加速和并行计算。
 - **Tags:** `haskell` `gpu` `cuda` `parallel-computing`
 - **最后活动时间:** 2026-04-02
 
+### [libxsmm](https://github.com/libxsmm/libxsmm)
+
+专注于密集和稀疏矩阵运算的优化库，为深度学习提供高性能计算原语。
+
+- **Stars:** ⭐️ 955
+- **Tags:** `blas` `simd` `matrix-multiplication` `deep-learning` `intel`
+- **最后活动时间:** 2026-05-09
+
 ### [cuda-tile](https://github.com/NVIDIA/cuda-tile)
 
 基于MLIR的CUDA内核优化编译器基础设施，专注于张量核心单元的Tile计算模式优化，提升AI推理性能。
@@ -2935,14 +2959,6 @@ Haskell高性能数组计算嵌入式语言，支持GPU加速和并行计算。
 - **Stars:** ⭐️ 955
 - **Tags:** `mlir` `cuda` `compiler` `tensor-core` `gpu-optimization`
 - **最后活动时间:** 2026-04-01
-
-### [libxsmm](https://github.com/libxsmm/libxsmm)
-
-专注于密集和稀疏矩阵运算的优化库，为深度学习提供高性能计算原语。
-
-- **Stars:** ⭐️ 952
-- **Tags:** `blas` `simd` `matrix-multiplication` `deep-learning` `intel`
-- **最后活动时间:** 2026-03-18
 
 ### [CUDA-Agent](https://github.com/BytedTsinghua-SIA/CUDA-Agent)
 
@@ -2960,14 +2976,6 @@ PyTorch官方使用的CPU/GPU性能分析库，提供时间线追踪和硬件性
 - **Tags:** `profiling` `gpu` `pytorch` `performance` `tracing`
 - **最后活动时间:** 2026-05-08
 
-### [InferenceX](https://github.com/SemiAnalysisAI/InferenceX)
-
-开源连续推理基准测试工具，支持Qwen3.5、DeepSeek、GPT等主流模型在GB200、H100、MI355X等多种硬件平台上的性能对比评测。
-
-- **Stars:** ⭐️ 943
-- **Tags:** `Benchmark` `Inference` `GPU`
-- **最后活动时间:** 2026-05-10
-
 ### [hqq](https://github.com/dropbox/hqq)
 
 半二次量化官方实现，高效压缩大模型同时保持性能。
@@ -2980,9 +2988,9 @@ PyTorch官方使用的CPU/GPU性能分析库，提供时间线追踪和硬件性
 
 基于MLIR的机器学习编译器，专为Sophgo TPU加速器优化，支持LLM模型部署。
 
-- **Stars:** ⭐️ 915
+- **Stars:** ⭐️ 921
 - **Tags:** `compiler` `mlir` `tpu` `llm`
-- **最后活动时间:** 2026-04-29
+- **最后活动时间:** 2026-05-11
 
 ### [kvcached](https://github.com/ovg-project/kvcached)
 
@@ -2996,7 +3004,7 @@ PyTorch官方使用的CPU/GPU性能分析库，提供时间线追踪和硬件性
 
 ICLR 2024 Spotlight论文，简单高效的LLM量化技术，优化模型部署效率。
 
-- **Stars:** ⭐️ 896
+- **Stars:** ⭐️ 898
 - **Tags:** `quantization` `large-language-models` `optimization`
 - **最后活动时间:** 2025-11-26
 
@@ -3012,7 +3020,7 @@ ICLR 2024 Spotlight论文，简单高效的LLM量化技术，优化模型部署�
 
 开源深度学习编译器栈，专为Kendryte AI加速器设计，支持神经网络模型优化部署。
 
-- **Stars:** ⭐️ 879
+- **Stars:** ⭐️ 882
 - **Tags:** `ai-compiler` `deep-learning` `neural-network` `llm`
 - **最后活动时间:** 2026-03-26
 
@@ -3040,20 +3048,20 @@ ComfyUI自定义节点，提供一键虚拟显存和多GPU集成支持，支持U
 - **Tags:** `ComfyUI` `Multi-GPU` `Stable Diffusion` `VRAM优化`
 - **最后活动时间:** 2026-05-08
 
+### [nvbench](https://github.com/NVIDIA/nvbench)
+
+NVIDIA CUDA内核基准测试库，帮助开发者精确测量和分析GPU内核性能。
+
+- **Stars:** ⭐️ 864
+- **Tags:** `cuda` `benchmark` `gpu` `nvidia` `performance`
+- **最后活动时间:** 2026-05-21
+
 ### [causal-conv1d](https://github.com/Dao-AILab/causal-conv1d)
 
 高性能CUDA因果深度可分离一维卷积实现，提供PyTorch接口，适用于Mamba等状态空间模型。
 
 - **Stars:** ⭐️ 864
 - **Tags:** `cuda` `pytorch` `convolution` `mamba` `state-space-model`
-- **最后活动时间:** 2026-05-09
-
-### [nvbench](https://github.com/NVIDIA/nvbench)
-
-NVIDIA CUDA内核基准测试库，帮助开发者精确测量和分析GPU内核性能。
-
-- **Stars:** ⭐️ 860
-- **Tags:** `cuda` `benchmark` `gpu` `nvidia` `performance`
 - **最后活动时间:** 2026-05-09
 
 ### [helion](https://github.com/pytorch/helion)
@@ -3080,6 +3088,14 @@ C++代数多重网格库，用于求解大规模稀疏线性系统，支持CUDA�
 - **Tags:** `LLM` `Quantization` `Inference` `GPU`
 - **最后活动时间:** 2026-05-09
 
+### [framework](https://github.com/mni-ml/framework)
+
+一个用Rust后端和TypeScript API构建的机器学习库，支持CUDA和WebGPU，适合深入理解ML框架内部原理。
+
+- **Stars:** ⭐️ 834
+- **Tags:** `machine-learning` `rust` `cuda` `webgpu` `ml-framework`
+- **最后活动时间:** 2026-04-20
+
 ### [sleef](https://github.com/shibatch/sleef)
 
 SIMD数学函数库，提供向量化的基础函数和DFT实现，支持多种CPU架构。
@@ -3087,6 +3103,14 @@ SIMD数学函数库，提供向量化的基础函数和DFT实现，支持多种C
 - **Stars:** ⭐️ 827
 - **Tags:** `simd` `math-library` `fft` `vectorization` `cuda`
 - **最后活动时间:** 2025-12-25
+
+### [cudnn-frontend](https://github.com/NVIDIA/cudnn-frontend)
+
+cuDNN的C++封装库，为深度学习提供GPU加速的底层API接口，简化神经网络计算开发。
+
+- **Stars:** ⭐️ 822
+- **Tags:** `cudnn` `deep-learning` `gpu` `nvidia` `neural-network`
+- **最后活动时间:** 2026-05-21
 
 ### [RyzenAI-SW](https://github.com/amd/RyzenAI-SW)
 
@@ -3104,13 +3128,13 @@ AMD Ryzen AI 软件套件，提供在 AMD Ryzen AI PC 上优化和部署 AI 推�
 - **Tags:** `hpc` `parallel-computing` `scientific-computing` `course`
 - **最后活动时间:** 2026-01-29
 
-### [framework](https://github.com/mni-ml/framework)
+### [jax-js](https://github.com/ekzhang/jax-js)
 
-一个用Rust后端和TypeScript API构建的机器学习库，支持CUDA和WebGPU，适合深入理解ML框架内部原理。
+JAX的JavaScript实现，支持WebGPU和Wasm，让机器学习模型可直接在浏览器中高效运行。
 
-- **Stars:** ⭐️ 811
-- **Tags:** `machine-learning` `rust` `cuda` `webgpu` `ml-framework`
-- **最后活动时间:** 2026-04-20
+- **Stars:** ⭐️ 810
+- **Tags:** `JAX` `Machine Learning` `WebGPU` `JavaScript`
+- **最后活动时间:** 2026-05-20
 
 ### [dgx-spark-playbooks](https://github.com/NVIDIA/dgx-spark-playbooks)
 
@@ -3120,22 +3144,6 @@ NVIDIA DGX Spark设备AI/ML工作负载部署指南集合，专为Blackwell架�
 - **Tags:** `nvidia` `dgx` `blackwell` `ai-infrastructure` `gpu`
 - **最后活动时间:** 2026-04-29
 
-### [jax-js](https://github.com/ekzhang/jax-js)
-
-JAX的JavaScript实现，支持WebGPU和Wasm，让机器学习模型可直接在浏览器中高效运行。
-
-- **Stars:** ⭐️ 804
-- **Tags:** `JAX` `Machine Learning` `WebGPU` `JavaScript`
-- **最后活动时间:** 2026-04-15
-
-### [cudnn-frontend](https://github.com/NVIDIA/cudnn-frontend)
-
-cuDNN的C++封装库，为深度学习提供GPU加速的底层API接口，简化神经网络计算开发。
-
-- **Stars:** ⭐️ 796
-- **Tags:** `cudnn` `deep-learning` `gpu` `nvidia` `neural-network`
-- **最后活动时间:** 2026-05-08
-
 ### [ocl](https://github.com/cogciprocate/ocl)
 
 Rust 语言的 OpenCL 绑定库，为 AI 和科学计算提供 GPU 加速能力。
@@ -3143,14 +3151,6 @@ Rust 语言的 OpenCL 绑定库，为 AI 和科学计算提供 GPU 加速能力�
 - **Stars:** ⭐️ 783
 - **Tags:** `opencl` `rust` `gpgpu` `gpu-computing`
 - **最后活动时间:** 2026-02-23
-
-### [PatrickStar](https://github.com/Tencent/PatrickStar)
-
-支持更大、更快、更绿色的NLP预训练模型，降低AI训练门槛。
-
-- **Stars:** ⭐️ 776
-- **Tags:** `bert` `pretraining` `nlp` `pytorch`
-- **最后活动时间:** 2025-11-18
 
 ### [gpu-jupyter](https://github.com/iot-salzburg/gpu-jupyter)
 
@@ -3200,21 +3200,21 @@ Intel AI参考模型，针对Intel处理器和GPU优化的深度学习工作负�
 - **Tags:** `cuda` `gemm` `optimization` `gpu` `matrix-multiplication`
 - **最后活动时间:** 2026-02-24
 
-### [parca-agent](https://github.com/parca-dev/parca-agent)
-
-基于eBPF的持续性能分析工具，支持CPU和GPU性能监控，适用于Kubernetes环境下的AI工作负载优化。
-
-- **Stars:** ⭐️ 722
-- **Tags:** `profiling` `gpu` `kubernetes` `observability` `cuda`
-- **最后活动时间:** 2026-05-08
-
 ### [lava](https://github.com/lava-nc/lava)
 
 Intel开源的神经形态计算软件框架，支持类脑计算和脉冲神经网络开发，适用于Loihi等神经形态硬件。
 
-- **Stars:** ⭐️ 721
+- **Stars:** ⭐️ 723
 - **Tags:** `neuromorphic-computing` `neural-networks` `deep-learning` `spiking-neural-networks`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-13
+
+### [parca-agent](https://github.com/parca-dev/parca-agent)
+
+基于eBPF的持续性能分析工具，支持CPU和GPU性能监控，适用于Kubernetes环境下的AI工作负载优化。
+
+- **Stars:** ⭐️ 723
+- **Tags:** `profiling` `gpu` `kubernetes` `observability` `cuda`
+- **最后活动时间:** 2026-05-20
 
 ### [DCGM](https://github.com/NVIDIA/DCGM)
 
@@ -3268,9 +3268,9 @@ RAPIDS内存管理器，为CUDA应用提供高效的GPU内存分配和管理。
 
 零依赖的C语言机器学习框架，提供现代Python API，支持CUDA加速，专注于执行和内存控制。
 
-- **Stars:** ⭐️ 686
+- **Stars:** ⭐️ 685
 - **Tags:** `machine-learning` `neural-network` `cuda` `ml-framework`
-- **最后活动时间:** 2026-05-08
+- **最后活动时间:** 2026-05-20
 
 ### [optiland](https://github.com/optiland/optiland)
 
@@ -3348,9 +3348,9 @@ IBM量子计算高性能电路模拟器，支持噪声模型和GPU加速，是�
 
 Intel oneAPI数据分析库，提供高性能机器学习算法和数据分析功能，支持AI训练与推理加速。
 
-- **Stars:** ⭐️ 646
+- **Stars:** ⭐️ 647
 - **Tags:** `machine-learning` `data-analytics` `oneapi` `cpp`
-- **最后活动时间:** 2026-05-06
+- **最后活动时间:** 2026-05-20
 
 ### [cuCollections](https://github.com/NVIDIA/cuCollections)
 
@@ -3436,7 +3436,7 @@ NeurIPS 2025论文，LLM与DiT的无损压缩方案，提升GPU推理效率。
 
 AI辅助生成的深度学习系统，基于CUDA和CUTASS构建高性能计算框架。
 
-- **Stars:** ⭐️ 619
+- **Stars:** ⭐️ 620
 - **Tags:** `cuda` `cutlass` `deep-learning` `pytorch`
 - **最后活动时间:** 2026-02-02
 
@@ -3448,6 +3448,14 @@ Transformer模型的硬件实现，可在FPGA上运行microGPT，吞吐量达50k
 - **Tags:** `hardware` `transformer` `fpga` `microgpt` `acceleration`
 - **最后活动时间:** 2026-05-02
 
+### [aws-neuron-sdk](https://github.com/aws-neuron/aws-neuron-sdk)
+
+AWS专用机器学习芯片SDK，支持PyTorch和TensorFlow原生集成，提供高性能低成本推理。
+
+- **Stars:** ⭐️ 605
+- **Tags:** `aws` `machine-learning` `hardware-acceleration`
+- **最后活动时间:** 2026-05-20
+
 ### [AI-windows-whl](https://github.com/wildminder/AI-windows-whl)
 
 为Windows平台预编译的AI加速库whl包，包含Flash-attention、SageAttention、NATTEN、xFormer等核心组件，简化AI开发环境配置。
@@ -3456,13 +3464,13 @@ Transformer模型的硬件实现，可在FPGA上运行microGPT，吞吐量达50k
 - **Tags:** `ai` `flash-attention` `windows` `precompiled` `gpu-acceleration`
 - **最后活动时间:** 2026-04-01
 
-### [aws-neuron-sdk](https://github.com/aws-neuron/aws-neuron-sdk)
+### [attorch](https://github.com/BobMcDear/attorch)
 
-AWS专用机器学习芯片SDK，支持PyTorch和TensorFlow原生集成，提供高性能低成本推理。
+基于OpenAI Triton实现的PyTorch神经网络模块子集，提供高效的GPU加速计算。
 
-- **Stars:** ⭐️ 602
-- **Tags:** `aws` `machine-learning` `hardware-acceleration`
-- **最后活动时间:** 2026-05-10
+- **Stars:** ⭐️ 599
+- **Tags:** `triton` `pytorch` `cuda` `deep-learning`
+- **最后活动时间:** 2026-05-13
 
 ### [ginkgo](https://github.com/ginkgo-project/ginkgo)
 
@@ -3536,6 +3544,14 @@ ComfyUI扩展插件，支持本地、远程和云端的多GPU分布式处理。
 - **Tags:** `comfyui` `multi-gpu` `distributed-computing` `stable-diffusion`
 - **最后活动时间:** 2026-04-26
 
+### [rkllama](https://github.com/NotPunchnox/rkllama)
+
+专为Rockchip NPU优化的Ollama替代方案，支持在Orange Pi等开发板上高效运行LLM和深度学习模型。
+
+- **Stars:** ⭐️ 539
+- **Tags:** `llm` `npu` `rockchip` `edge-ai` `llm-inference`
+- **最后活动时间:** 2026-05-18
+
 ### [nvshmem](https://github.com/NVIDIA/nvshmem)
 
 NVIDIA开发的并行编程接口，支持GPU间高效通信，可显著降低多进程通信开销，适用于深度学习分布式训练场景。
@@ -3560,6 +3576,14 @@ NVIDIA Jetson系列开发板的开源硬件底板设计，支持Jetson Nano、TX
 - **Tags:** `nvidia` `jetson` `edge-ai` `hardware`
 - **最后活动时间:** 2025-12-31
 
+### [pytorch](https://github.com/Ascend/pytorch)
+
+华为昇腾PyTorch适配器(torch_npu)，为PyTorch提供昇腾NPU硬件加速支持。
+
+- **Stars:** ⭐️ 522
+- **Tags:** `pytorch` `ascend` `deep-learning` `hardware-acceleration`
+- **最后活动时间:** 2026-05-21
+
 ### [ROCm-docker](https://github.com/ROCm/ROCm-docker)
 
 AMD ROCm 软件平台的 Docker 镜像集合，为 AI/ML 工作负载提供 GPU 加速环境支持。
@@ -3567,22 +3591,6 @@ AMD ROCm 软件平台的 Docker 镜像集合，为 AI/ML 工作负载提供 GPU 
 - **Stars:** ⭐️ 519
 - **Tags:** `docker` `rocm` `gpu` `amd` `deep-learning`
 - **最后活动时间:** 2026-01-27
-
-### [rkllama](https://github.com/NotPunchnox/rkllama)
-
-专为Rockchip NPU优化的Ollama替代方案，支持在Orange Pi等开发板上高效运行LLM和深度学习模型。
-
-- **Stars:** ⭐️ 519
-- **Tags:** `llm` `npu` `rockchip` `edge-ai` `llm-inference`
-- **最后活动时间:** 2026-05-03
-
-### [pytorch](https://github.com/Ascend/pytorch)
-
-华为昇腾PyTorch适配器(torch_npu)，为PyTorch提供昇腾NPU硬件加速支持。
-
-- **Stars:** ⭐️ 515
-- **Tags:** `pytorch` `ascend` `deep-learning` `hardware-acceleration`
-- **最后活动时间:** 2026-05-09
 
 ### [mscclpp](https://github.com/microsoft/mscclpp)
 
@@ -3638,17 +3646,17 @@ PyTorch分布式训练容错库，支持HSDP、LocalSGD、DiLoCo等多种分布�
 
 Google开源的端到端机器学习框架，支持构建和部署深度学习模型，广泛应用于CV、NLP、推荐系统等领域。
 
-- **Stars:** ⭐️ 195.0k
+- **Stars:** ⭐️ 195.2k
 - **Tags:** `Deep Learning` `Machine Learning` `Neural Network`
-- **最后活动时间:** 2026-05-10
+- **最后活动时间:** 2026-05-21
 
 ### [ollama](https://github.com/ollama/ollama)
 
 轻量级本地大模型运行工具，支持Llama、Qwen、DeepSeek等多种开源模型，一键部署即开即用。
 
-- **Stars:** ⭐️ 171.1k
+- **Stars:** ⭐️ 171.9k
 - **Tags:** `LLM` `Local Deployment` `Model Inference`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-21
 
 ### [llama.cpp](https://github.com/ggml-org/llama.cpp)
 
@@ -3662,9 +3670,9 @@ Google开源的端到端机器学习框架，支持构建和部署深度学习�
 
 开源深度学习框架，提供强大的GPU加速和动态计算图支持，广泛应用于神经网络研究和生产环境。
 
-- **Stars:** ⭐️ 99.8k
+- **Stars:** ⭐️ 100.1k
 - **Tags:** `Deep Learning` `Neural Network` `GPU`
-- **最后活动时间:** 2026-05-10
+- **最后活动时间:** 2026-05-21
 
 ### [fastapi](https://github.com/fastapi/fastapi)
 
@@ -3678,9 +3686,9 @@ Google开源的端到端机器学习框架，支持构建和部署深度学习�
 
 高吞吐量LLM推理和服务引擎，采用PagedAttention技术优化显存利用率，广泛用于生产环境大模型部署。
 
-- **Stars:** ⭐️ 79.5k
+- **Stars:** ⭐️ 80.7k
 - **Tags:** `LLM推理` `模型服务` `高性能`
-- **最后活动时间:** 2026-05-10
+- **最后活动时间:** 2026-05-21
 
 ### [keras](https://github.com/keras-team/keras)
 
@@ -3688,31 +3696,31 @@ Google开源的端到端机器学习框架，支持构建和部署深度学习�
 
 - **Stars:** ⭐️ 64.1k
 - **Tags:** `深度学习` `Keras` `神经网络`
-- **最后活动时间:** 2026-05-08
+- **最后活动时间:** 2026-05-20
 
 ### [litellm](https://github.com/BerriAI/litellm)
 
 统一LLM API网关和SDK，支持100+大模型API标准化调用，提供成本追踪、负载均衡等企业级功能。
 
-- **Stars:** ⭐️ 46.3k
+- **Stars:** ⭐️ 47.8k
 - **Tags:** `AI Gateway` `LLM Proxy` `OpenAI Compatible`
-- **最后活动时间:** 2026-05-10
+- **最后活动时间:** 2026-05-21
 
 ### [LocalAI](https://github.com/mudler/LocalAI)
 
 免费开源的OpenAI API替代方案，支持本地部署无需GPU，兼容OpenAI API接口。
 
-- **Stars:** ⭐️ 46.2k
+- **Stars:** ⭐️ 46.4k
 - **Tags:** `LLM` `Self-hosted` `OpenAI API` `Local Inference`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-21
 
 ### [airflow](https://github.com/apache/airflow)
 
 Apache旗下开源工作流编排平台，支持以代码方式定义、调度和监控数据管道与ML工作流，是MLOps领域的核心基础设施工具。
 
-- **Stars:** ⭐️ 45.3k
+- **Stars:** ⭐️ 45.5k
 - **Tags:** `MLOps` `工作流编排` `数据管道`
-- **最后活动时间:** 2026-05-10
+- **最后活动时间:** 2026-05-21
 
 ### [exo](https://github.com/exo-explore/exo)
 
@@ -3726,9 +3734,9 @@ Apache旗下开源工作流编排平台，支持以代码方式定义、调度�
 
 AI计算引擎，提供分布式运行时和AI库加速机器学习工作负载，支持深度学习、强化学习和LLM推理等场景。
 
-- **Stars:** ⭐️ 42.5k
+- **Stars:** ⭐️ 42.6k
 - **Tags:** `分布式计算` `机器学习` `LLM`
-- **最后活动时间:** 2026-05-10
+- **最后活动时间:** 2026-05-21
 
 ### [BitNet](https://github.com/microsoft/BitNet)
 
@@ -3776,7 +3784,7 @@ Facebook AI Research推出的下一代目标检测与分割平台，支持Mask R
 
 - **Stars:** ⭐️ 33.0k
 - **Tags:** `microservices` `api-gateway` `go` `cloud-native`
-- **最后活动时间:** 2026-04-27
+- **最后活动时间:** 2026-05-19
 
 ### [new-api](https://github.com/QuantumNous/new-api)
 
@@ -3790,17 +3798,17 @@ Facebook AI Research推出的下一代目标检测与分割平台，支持Mask R
 
 高性能的大语言模型和多模态模型服务框架，专注于推理优化和高效部署，提供卓越的服务性能。
 
-- **Stars:** ⭐️ 27.6k
+- **Stars:** ⭐️ 28.1k
 - **Tags:** `Inference` `LLM` `CUDA` `Serving`
-- **最后活动时间:** 2026-05-10
+- **最后活动时间:** 2026-05-21
 
 ### [mlflow](https://github.com/mlflow/mlflow)
 
 开源AI工程平台，支持调试、评估、监控和优化生产级AI应用，提供完整的机器学习生命周期管理。
 
-- **Stars:** ⭐️ 25.8k
+- **Stars:** ⭐️ 26.0k
 - **Tags:** `MLOps` `LLMOps` `模型管理`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-21
 
 ### [kratos](https://github.com/go-kratos/kratos)
 
@@ -3808,7 +3816,7 @@ Facebook AI Research推出的下一代目标检测与分割平台，支持Mask R
 
 - **Stars:** ⭐️ 25.7k
 - **Tags:** `microservices` `go` `grpc` `mcp` `cloud-native`
-- **最后活动时间:** 2026-04-04
+- **最后活动时间:** 2026-05-20
 
 ### [llamafile](https://github.com/mozilla-ai/llamafile)
 
@@ -3824,39 +3832,39 @@ Mozilla开源项目，将LLM打包为单一可执行文件，实现一键分发�
 
 - **Stars:** ⭐️ 23.9k
 - **Tags:** `deep-learning` `machine-learning` `neural-network` `distributed-training`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-21
 
 ### [mlc-llm](https://github.com/mlc-ai/mlc-llm)
 
 通用LLM部署引擎，通过机器学习编译技术实现跨平台高效推理，支持多种硬件后端。
 
-- **Stars:** ⭐️ 22.6k
+- **Stars:** ⭐️ 22.7k
 - **Tags:** `LLM部署` `模型编译` `TVM` `推理优化`
-- **最后活动时间:** 2026-04-22
+- **最后活动时间:** 2026-05-11
 
 ### [prefect](https://github.com/PrefectHQ/prefect)
 
 Python工作流编排框架，用于构建弹性的数据管道和ML工作流，支持可观测性与自动化。
 
-- **Stars:** ⭐️ 22.3k
+- **Stars:** ⭐️ 22.4k
 - **Tags:** `Workflow` `Orchestration` `MLOps`
-- **最后活动时间:** 2026-05-10
+- **最后活动时间:** 2026-05-21
 
 ### [onnx](https://github.com/onnx/onnx)
 
 机器学习互操作的开放标准，支持PyTorch、TensorFlow等主流框架间的模型转换与跨平台部署，是AI生态的核心基础设施。
 
-- **Stars:** ⭐️ 20.8k
+- **Stars:** ⭐️ 20.9k
 - **Tags:** `ONNX` `Interoperability` `Model Format`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-21
 
 ### [NemoClaw](https://github.com/NVIDIA/NemoClaw)
 
 在 NVIDIA OpenShell 中安全运行 OpenClaw 的托管推理方案，提供安全的模型推理环境。
 
-- **Stars:** ⭐️ 20.2k
+- **Stars:** ⭐️ 20.6k
 - **Tags:** `nvidia` `inference` `openclaw` `security`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-21
 
 ### [taipy](https://github.com/Avaiga/taipy)
 
@@ -3870,33 +3878,41 @@ Python工作流编排框架，用于构建弹性的数据管道和ML工作流，
 
 端到端实时通信基础设施，专为连接人类与AI设计，支持语音、视频和WebRTC通信。
 
-- **Stars:** ⭐️ 18.6k
+- **Stars:** ⭐️ 18.8k
 - **Tags:** `realtime` `webrtc` `voice-ai` `media-server`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-20
 
 ### [web-llm](https://github.com/mlc-ai/web-llm)
 
 基于WebGPU的浏览器端LLM推理引擎，无需服务器即可在浏览器中运行大模型，实现完全客户端AI推理。
 
-- **Stars:** ⭐️ 17.9k
+- **Stars:** ⭐️ 18.0k
 - **Tags:** `WebGPU` `浏览器AI` `本地推理`
-- **最后活动时间:** 2026-05-06
+- **最后活动时间:** 2026-05-19
 
 ### [openfang](https://github.com/RightNow-AI/openfang)
 
 开源智能体操作系统，基于Rust构建，支持MCP协议，为AI智能体提供底层运行环境。
 
-- **Stars:** ⭐️ 17.3k
+- **Stars:** ⭐️ 17.6k
 - **Tags:** `Agent OS` `MCP` `Rust`
-- **最后活动时间:** 2026-05-01
+- **最后活动时间:** 2026-05-14
 
 ### [kubeflow](https://github.com/kubeflow/kubeflow)
 
 Kubernetes上的机器学习工具包，提供完整的ML工作流编排与模型部署能力。
 
-- **Stars:** ⭐️ 15.6k
+- **Stars:** ⭐️ 15.7k
 - **Tags:** `kubernetes` `machine-learning` `ml-ops`
 - **最后活动时间:** 2026-05-07
+
+### [dagster](https://github.com/dagster-io/dagster)
+
+现代化数据资产编排平台，专为数据工程和机器学习工作流设计，支持数据管道的开发、部署与监控。
+
+- **Stars:** ⭐️ 15.5k
+- **Tags:** `数据编排` `MLOps` `ETL`
+- **最后活动时间:** 2026-05-21
 
 ### [iii](https://github.com/iii-hq/iii)
 
@@ -3906,21 +3922,13 @@ Kubernetes上的机器学习工具包，提供完整的ML工作流编排与模�
 - **Tags:** `backend-framework` `agents` `genai` `primitives`
 - **最后活动时间:** 2026-05-09
 
-### [dagster](https://github.com/dagster-io/dagster)
-
-现代化数据资产编排平台，专为数据工程和机器学习工作流设计，支持数据管道的开发、部署与监控。
-
-- **Stars:** ⭐️ 15.5k
-- **Tags:** `数据编排` `MLOps` `ETL`
-- **最后活动时间:** 2026-05-08
-
 ### [burn](https://github.com/tracel-ai/burn)
 
 新一代Rust深度学习框架，兼顾灵活性、效率和可移植性，支持CUDA、Metal、Vulkan、WebGPU等多后端。
 
-- **Stars:** ⭐️ 15.1k
+- **Stars:** ⭐️ 15.2k
 - **Tags:** `Deep-Learning` `Rust` `Cross-Platform`
-- **最后活动时间:** 2026-05-08
+- **最后活动时间:** 2026-05-21
 
 ### [horovod](https://github.com/horovod/horovod)
 
@@ -3936,7 +3944,15 @@ AI优先的身份认证与访问管理平台，支持MCP网关、OAuth 2.1、OID
 
 - **Stars:** ⭐️ 13.6k
 - **Tags:** `IAM` `MCP Gateway` `Authentication` `SSO`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-19
+
+### [nano-vllm](https://github.com/GeeeekExplorer/nano-vllm)
+
+轻量级vLLM实现，专注于大语言模型的高效推理，适合学习和轻量级部署场景。
+
+- **Stars:** ⭐️ 13.5k
+- **Tags:** `LLM` `推理引擎` `PyTorch`
+- **最后活动时间:** 2026-04-26
 
 ### [or-tools](https://github.com/google/or-tools)
 
@@ -3950,17 +3966,17 @@ Google开源的运筹学优化工具套件，提供线性规划、约束规划�
 
 开源机器学习编译器框架，支持跨平台GPU加速和深度学习模型优化部署。
 
-- **Stars:** ⭐️ 13.3k
+- **Stars:** ⭐️ 13.4k
 - **Tags:** `machine-learning` `compiler` `deep-learning` `gpu` `tensor`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-21
 
-### [nano-vllm](https://github.com/GeeeekExplorer/nano-vllm)
+### [9router](https://github.com/decolua/9router)
 
-轻量级vLLM实现，专注于大语言模型的高效推理，适合学习和轻量级部署场景。
+统一路由工具，连接Claude Code、Cursor、Copilot等AI编程工具到40+服务商和100+模型，简化多模型接入。
 
-- **Stars:** ⭐️ 13.3k
-- **Tags:** `LLM` `推理引擎` `PyTorch`
-- **最后活动时间:** 2026-04-26
+- **Stars:** ⭐️ 13.1k
+- **Tags:** `AI Router` `Code Assistant` `Multi-Model` `API Gateway`
+- **最后活动时间:** 2026-05-21
 
 ### [OpenLLM](https://github.com/bentoml/OpenLLM)
 
@@ -3968,15 +3984,15 @@ Google开源的运筹学优化工具套件，提供线性规划、约束规划�
 
 - **Stars:** ⭐️ 12.3k
 - **Tags:** `LLM` `Inference` `OpenAI-Compatible`
-- **最后活动时间:** 2026-04-27
+- **最后活动时间:** 2026-05-18
 
 ### [gateway](https://github.com/Portkey-AI/gateway)
 
 高性能AI网关，统一接入200+大语言模型和50+AI防护栏，提供单一API接口实现智能路由与安全管控。
 
-- **Stars:** ⭐️ 11.7k
+- **Stars:** ⭐️ 11.8k
 - **Tags:** `AI-Gateway` `LLM` `Guardrails`
-- **最后活动时间:** 2026-03-25
+- **最后活动时间:** 2026-05-19
 
 ### [claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service)
 
@@ -3986,21 +4002,21 @@ Google开源的运筹学优化工具套件，提供线性规划、约束规划�
 - **Tags:** `API Relay` `Multi-Model` `Claude`
 - **最后活动时间:** 2026-05-06
 
-### [bisheng](https://github.com/dataelement/bisheng)
-
-开源企业级LLM DevOps平台，提供GenAI工作流、RAG、Agent、模型管理与微调等全方位功能。
-
-- **Stars:** ⭐️ 11.3k
-- **Tags:** `LLM平台` `RAG` `Agent` `工作流`
-- **最后活动时间:** 2026-05-10
-
 ### [tensorzero](https://github.com/tensorzero/tensorzero)
 
 开源工业级LLM应用技术栈，集成LLM网关、可观测性、优化和评估功能，为生产级AI应用提供完整基础设施。
 
-- **Stars:** ⭐️ 11.3k
+- **Stars:** ⭐️ 11.4k
 - **Tags:** `LLMOps` `LLM-Gateway` `Observability`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-21
+
+### [bisheng](https://github.com/dataelement/bisheng)
+
+开源企业级LLM DevOps平台，提供GenAI工作流、RAG、Agent、模型管理与微调等全方位功能。
+
+- **Stars:** ⭐️ 11.4k
+- **Tags:** `LLM平台` `RAG` `Agent` `工作流`
+- **最后活动时间:** 2026-05-21
 
 ### [wandb](https://github.com/wandb/wandb)
 
@@ -4008,7 +4024,7 @@ AI开发者平台，提供模型训练跟踪、超参数调优和模型版本管
 
 - **Stars:** ⭐️ 11.1k
 - **Tags:** `MLOps` `Experiment Tracking` `Model Management`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-21
 
 ### [kedro](https://github.com/kedro-org/kedro)
 
@@ -4016,7 +4032,7 @@ AI开发者平台，提供模型训练跟踪、超参数调优和模型版本管
 
 - **Stars:** ⭐️ 10.9k
 - **Tags:** `MLOps` `流水线` `机器学习` `Python`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-21
 
 ### [text-generation-inference](https://github.com/huggingface/text-generation-inference)
 
@@ -4038,9 +4054,9 @@ Mistral AI官方推理库，提供高效的大模型推理能力支持。
 
 NVIDIA开源的云端和边缘推理服务器，提供优化的AI模型部署解决方案。
 
-- **Stars:** ⭐️ 10.6k
+- **Stars:** ⭐️ 10.7k
 - **Tags:** `inference` `deep-learning` `gpu` `model-serving`
-- **最后活动时间:** 2026-05-08
+- **最后活动时间:** 2026-05-21
 
 ### [WasmEdge](https://github.com/WasmEdge/WasmEdge)
 
@@ -4048,7 +4064,7 @@ NVIDIA开源的云端和边缘推理服务器，提供优化的AI模型部署解
 
 - **Stars:** ⭐️ 10.6k
 - **Tags:** `WebAssembly` `Runtime` `Edge AI` `Serverless`
-- **最后活动时间:** 2026-05-08
+- **最后活动时间:** 2026-05-21
 
 ### [yolov3](https://github.com/ultralytics/yolov3)
 
@@ -4064,15 +4080,15 @@ YOLOv3目标检测模型的PyTorch实现，支持导出至ONNX、CoreML、TFLite
 
 - **Stars:** ⭐️ 10.3k
 - **Tags:** `On-Device AI` `Cross-Platform` `Edge AI`
-- **最后活动时间:** 2026-05-10
+- **最后活动时间:** 2026-05-21
 
 ### [openvino](https://github.com/openvinotoolkit/openvino)
 
 Intel开源的AI推理优化工具包，支持跨平台高性能部署计算机视觉、NLP和生成式AI模型。
 
-- **Stars:** ⭐️ 10.2k
+- **Stars:** ⭐️ 10.3k
 - **Tags:** `模型推理` `优化部署` `Intel`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-21
 
 ### [metaflow](https://github.com/Netflix/metaflow)
 
@@ -4080,7 +4096,7 @@ Netflix开源的ML基础设施框架，支持分布式训练、LLM工作流和�
 
 - **Stars:** ⭐️ 10.1k
 - **Tags:** `MLOps` `分布式训练` `LLM工作流`
-- **最后活动时间:** 2026-05-10
+- **最后活动时间:** 2026-05-18
 
 ### [pytorch3d](https://github.com/facebookresearch/pytorch3d)
 
@@ -4088,15 +4104,15 @@ FAIR官方3D深度学习库，提供可复用的3D数据处理组件和渲染功
 
 - **Stars:** ⭐️ 9.9k
 - **Tags:** `pytorch` `3d-deep-learning` `point-cloud` `rendering`
-- **最后活动时间:** 2026-03-18
+- **最后活动时间:** 2026-05-15
 
 ### [PowerInfer](https://github.com/Tiiny-AI/PowerInfer)
 
 面向本地部署的高速大语言模型推理引擎，显著提升本地LLM服务性能。
 
-- **Stars:** ⭐️ 9.4k
+- **Stars:** ⭐️ 9.5k
 - **Tags:** `LLM推理` `本地部署` `高性能`
-- **最后活动时间:** 2026-01-24
+- **最后活动时间:** 2026-05-11
 
 ### [cog](https://github.com/replicate/cog)
 
@@ -4104,7 +4120,7 @@ FAIR官方3D深度学习库，提供可复用的3D数据处理组件和渲染功
 
 - **Stars:** ⭐️ 9.4k
 - **Tags:** `ML Ops` `Docker` `Model Deployment`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-21
 
 ### [oneflow](https://github.com/Oneflow-Inc/oneflow)
 
@@ -4120,13 +4136,13 @@ FAIR官方3D深度学习库，提供可复用的3D数据处理组件和渲染功
 
 - **Stars:** ⭐️ 9.3k
 - **Tags:** `LLM推理` `模型部署` `OpenAI兼容`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-21
 
 ### [coai](https://github.com/coaidev/coai)
 
 新一代多租户AI一站式解决方案，内置管理和计费系统。支持200+模型和35+提供商的企业级统一LLM网关，具备负载均衡、成本管理和文件解析等功能。
 
-- **Stars:** ⭐️ 9.1k
+- **Stars:** ⭐️ 9.2k
 - **Tags:** `AI Gateway` `LLM` `Multi-tenant`
 - **最后活动时间:** 2026-03-12
 
@@ -4136,7 +4152,7 @@ FAIR官方3D深度学习库，提供可复用的3D数据处理组件和渲染功
 
 - **Stars:** ⭐️ 8.9k
 - **Tags:** `Model-as-a-Service` `Multi-modal` `Deep Learning`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-21
 
 ### [vowpal_wabbit](https://github.com/VowpalWabbit/vowpal_wabbit)
 
@@ -4150,7 +4166,7 @@ FAIR官方3D深度学习库，提供可复用的3D数据处理组件和渲染功
 
 一站式AI模型服务化平台，轻松构建推理API和LLM应用，支持生产级多模型管道部署。
 
-- **Stars:** ⭐️ 8.6k
+- **Stars:** ⭐️ 8.7k
 - **Tags:** `模型服务` `MLOps` `LLM推理`
 - **最后活动时间:** 2026-05-07
 
@@ -4192,7 +4208,7 @@ AI原生API网关，专为AI应用设计，支持云原生架构和Envoy代理�
 
 - **Stars:** ⭐️ 7.5k
 - **Tags:** `机器学习` `AutoML` `分布式计算`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-21
 
 ### [qiskit](https://github.com/Qiskit/qiskit)
 
@@ -4216,7 +4232,7 @@ TensorFlow官方可视化工具包，用于机器学习模型训练监控与分�
 
 - **Stars:** ⭐️ 7.2k
 - **Tags:** `tensorflow` `visualization` `machine-learning` `deep-learning`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-12
 
 ### [monty](https://github.com/pydantic/monty)
 
@@ -4226,6 +4242,14 @@ TensorFlow官方可视化工具包，用于机器学习模型训练监控与分�
 - **Tags:** `python-interpreter` `rust` `ai-sandbox` `code-execution`
 - **最后活动时间:** 2026-05-08
 
+### [openllmetry](https://github.com/traceloop/openllmetry)
+
+基于OpenTelemetry的GenAI/LLM应用可观测性开源方案，提供全面的监控和追踪能力。
+
+- **Stars:** ⭐️ 7.1k
+- **Tags:** `Observability` `OpenTelemetry` `Monitoring`
+- **最后活动时间:** 2026-05-20
+
 ### [mistral.rs](https://github.com/EricLBuehler/mistral.rs)
 
 基于Rust的高性能LLM推理引擎，提供快速灵活的大语言模型部署能力。
@@ -4234,21 +4258,21 @@ TensorFlow官方可视化工具包，用于机器学习模型训练监控与分�
 - **Tags:** `LLM` `Inference` `Rust`
 - **最后活动时间:** 2026-04-15
 
-### [openllmetry](https://github.com/traceloop/openllmetry)
-
-基于OpenTelemetry的GenAI/LLM应用可观测性开源方案，提供全面的监控和追踪能力。
-
-- **Stars:** ⭐️ 7.1k
-- **Tags:** `Observability` `OpenTelemetry` `Monitoring`
-- **最后活动时间:** 2026-05-08
-
 ### [flyte](https://github.com/flyteorg/flyte)
 
 动态弹性的AI工作流编排平台，用于协调数据、模型和计算资源，支持Kubernetes原生部署和LLM工作流管理。
 
 - **Stars:** ⭐️ 7.0k
 - **Tags:** `Orchestration` `MLOps` `Kubernetes`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-21
+
+### [guardrails](https://github.com/guardrails-ai/guardrails)
+
+为大语言模型添加安全护栏的框架，确保AI输出符合规范与安全要求。
+
+- **Stars:** ⭐️ 6.9k
+- **Tags:** `LLM Safety` `Guardrails` `AI Security`
+- **最后活动时间:** 2026-05-19
 
 ### [gemma.cpp](https://github.com/google/gemma.cpp)
 
@@ -4257,14 +4281,6 @@ Google官方推出的轻量级C++推理引擎，专为Gemma大模型设计，支
 - **Stars:** ⭐️ 6.9k
 - **Tags:** `inference-engine` `gemma` `cpp` `llm` `local-deployment`
 - **最后活动时间:** 2026-05-08
-
-### [guardrails](https://github.com/guardrails-ai/guardrails)
-
-为大语言模型添加安全护栏的框架，确保AI输出符合规范与安全要求。
-
-- **Stars:** ⭐️ 6.8k
-- **Tags:** `LLM Safety` `Guardrails` `AI Security`
-- **最后活动时间:** 2026-05-04
 
 ### [angel](https://github.com/Angel-ML/angel)
 
@@ -4288,7 +4304,7 @@ Google官方推出的轻量级C++推理引擎，专为Gemma大模型设计，支
 
 - **Stars:** ⭐️ 6.7k
 - **Tags:** `mlops` `machine-learning` `deep-learning` `experiment-management`
-- **最后活动时间:** 2026-05-08
+- **最后活动时间:** 2026-05-20
 
 ### [zeppelin](https://github.com/apache/zeppelin)
 
@@ -4298,29 +4314,29 @@ Google官方推出的轻量级C++推理引擎，专为Gemma大模型设计，支
 - **Tags:** `notebook` `big-data` `spark` `data-analytics` `visualization`
 - **最后活动时间:** 2026-05-08
 
+### [manifest](https://github.com/mnfst/manifest)
+
+智能LLM路由方案，通过智能调度降低高达70%的API调用成本，支持可观测性监控。
+
+- **Stars:** ⭐️ 6.6k
+- **Tags:** `LLM Router` `Cost Optimization` `Observability`
+- **最后活动时间:** 2026-05-21
+
 ### [ClawRouter](https://github.com/BlockRunAI/ClawRouter)
 
 面向AI智能体原生的LLM路由器，支持41+模型且路由延迟低于1ms，集成USDC微支付功能。
 
 - **Stars:** ⭐️ 6.5k
 - **Tags:** `LLM路由` `AI Agents` `微支付`
-- **最后活动时间:** 2026-05-09
-
-### [9router](https://github.com/decolua/9router)
-
-统一路由工具，连接Claude Code、Cursor、Copilot等AI编程工具到40+服务商和100+模型，简化多模型接入。
-
-- **Stars:** ⭐️ 6.5k
-- **Tags:** `AI Router` `Code Assistant` `Multi-Model` `API Gateway`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-18
 
 ### [plano](https://github.com/katanemo/plano)
 
 面向智能体应用的AI原生代理和数据平面，内置编排、安全、可观测性和智能LLM路由功能。
 
-- **Stars:** ⭐️ 6.4k
+- **Stars:** ⭐️ 6.5k
 - **Tags:** `ai-gateway` `llm-routing` `proxy`
-- **最后活动时间:** 2026-05-07
+- **最后活动时间:** 2026-05-19
 
 ### [mmcv](https://github.com/open-mmlab/mmcv)
 
@@ -4334,9 +4350,9 @@ OpenMMLab计算机视觉基础库，提供高质量的CV模型训练基础设施
 
 TensorFlow官方高性能模型服务系统，支持模型版本管理和多模型并行部署，专为生产环境设计。
 
-- **Stars:** ⭐️ 6.3k
+- **Stars:** ⭐️ 6.4k
 - **Tags:** `TensorFlow` `模型部署` `生产环境`
-- **最后活动时间:** 2026-05-06
+- **最后活动时间:** 2026-05-12
 
 ### [free_chatgpt_api](https://github.com/popjane/free_chatgpt_api)
 
@@ -4353,14 +4369,6 @@ TensorFlow官方高性能模型服务系统，支持模型版本管理和多模�
 - **Stars:** ⭐️ 6.3k
 - **Tags:** `RWKV` `LLM` `OpenAI-API` `本地部署`
 - **最后活动时间:** 2026-05-08
-
-### [manifest](https://github.com/mnfst/manifest)
-
-智能LLM路由方案，通过智能调度降低高达70%的API调用成本，支持可观测性监控。
-
-- **Stars:** ⭐️ 6.3k
-- **Tags:** `LLM Router` `Cost Optimization` `Observability`
-- **最后活动时间:** 2026-05-09
 
 ### [greptimedb](https://github.com/GreptimeTeam/greptimedb)
 
@@ -4384,15 +4392,15 @@ TensorFlow官方高性能模型服务系统，支持模型版本管理和多模�
 
 - **Stars:** ⭐️ 5.7k
 - **Tags:** `serverless` `faas` `kubernetes` `model-serving` `real-time-inference`
-- **最后活动时间:** 2026-05-08
+- **最后活动时间:** 2026-05-19
 
 ### [helicone](https://github.com/Helicone/helicone)
 
 开源LLM可观测性平台，一行代码即可实现AI应用的监控、评估和实验管理。
 
-- **Stars:** ⭐️ 5.6k
+- **Stars:** ⭐️ 5.7k
 - **Tags:** `LLMOps` `Observability` `Monitoring` `OpenAI`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-18
 
 ### [kgateway](https://github.com/kgateway-dev/kgateway)
 
@@ -4400,7 +4408,23 @@ TensorFlow官方高性能模型服务系统，支持模型版本管理和多模�
 
 - **Stars:** ⭐️ 5.5k
 - **Tags:** `api-gateway` `ai-gateway` `kubernetes` `envoy`
-- **最后活动时间:** 2026-05-08
+- **最后活动时间:** 2026-05-21
+
+### [Daft](https://github.com/Eventual-Inc/Daft)
+
+高性能AI数据引擎，支持图像、音频、视频和结构化数据的大规模处理，专为AI和多模态工作负载优化。
+
+- **Stars:** ⭐️ 5.5k
+- **Tags:** `Data Engine` `Multimodal` `Distributed Computing`
+- **最后活动时间:** 2026-05-21
+
+### [kserve](https://github.com/kserve/kserve)
+
+CNCF旗下标准化AI模型推理平台，支持在Kubernetes上部署生成式和预测式AI模型，提供企业级模型服务解决方案。
+
+- **Stars:** ⭐️ 5.5k
+- **Tags:** `Kubernetes` `Model-Serving` `LLM-Inference`
+- **最后活动时间:** 2026-05-21
 
 ### [composer](https://github.com/mosaicml/composer)
 
@@ -4410,29 +4434,21 @@ MosaicML推出的模型训练加速库，提供高效的深度学习训练优化
 - **Tags:** `deep-learning` `pytorch` `ml-training`
 - **最后活动时间:** 2026-04-29
 
-### [Daft](https://github.com/Eventual-Inc/Daft)
-
-高性能AI数据引擎，支持图像、音频、视频和结构化数据的大规模处理，专为AI和多模态工作负载优化。
-
-- **Stars:** ⭐️ 5.5k
-- **Tags:** `Data Engine` `Multimodal` `Distributed Computing`
-- **最后活动时间:** 2026-05-09
-
-### [kserve](https://github.com/kserve/kserve)
-
-CNCF旗下标准化AI模型推理平台，支持在Kubernetes上部署生成式和预测式AI模型，提供企业级模型服务解决方案。
-
-- **Stars:** ⭐️ 5.4k
-- **Tags:** `Kubernetes` `Model-Serving` `LLM-Inference`
-- **最后活动时间:** 2026-05-08
-
 ### [zenml](https://github.com/zenml-io/zenml)
 
 开源MLOps平台，用于构建可生产的机器学习管道和AI代理工作流，支持从实验到生产的全生命周期管理。
 
 - **Stars:** ⭐️ 5.4k
 - **Tags:** `MLOps` `Pipeline` `LLMOps`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-21
+
+### [Mooncake](https://github.com/kvcache-ai/Mooncake)
+
+Moonshot AI开源的LLM推理服务平台，支持KVCache分离架构，为Kimi提供高性能推理服务。
+
+- **Stars:** ⭐️ 5.4k
+- **Tags:** `模型推理` `KVCache` `RDMA`
+- **最后活动时间:** 2026-05-21
 
 ### [genai-stack](https://github.com/docker/genai-stack)
 
@@ -4442,21 +4458,29 @@ CNCF旗下标准化AI模型推理平台，支持在Kubernetes上部署生成式�
 - **Tags:** `langchain` `ollama` `neo4j` `docker` `genai`
 - **最后活动时间:** 2026-03-30
 
-### [Mooncake](https://github.com/kvcache-ai/Mooncake)
-
-Moonshot AI开源的LLM推理服务平台，支持KVCache分离架构，为Kimi提供高性能推理服务。
-
-- **Stars:** ⭐️ 5.3k
-- **Tags:** `模型推理` `KVCache` `RDMA`
-- **最后活动时间:** 2026-05-09
-
 ### [SynapseML](https://github.com/microsoft/SynapseML)
 
 微软开源的分布式机器学习库，基于Apache Spark构建，支持深度学习、模型部署和认知服务集成。
 
 - **Stars:** ⭐️ 5.2k
 - **Tags:** `Machine Learning` `Apache Spark` `Deep Learning` `Model Deployment`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-20
+
+### [bifrost](https://github.com/maximhq/bifrost)
+
+高性能企业级AI网关，比LiteLLM快50倍，支持1000+模型、自适应负载均衡和护栏功能。
+
+- **Stars:** ⭐️ 5.1k
+- **Tags:** `ai-gateway` `load-balancing` `guardrails`
+- **最后活动时间:** 2026-05-21
+
+### [OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+
+多提供商LLM智能网关，提供OpenAI兼容接口，支持智能路由、负载均衡、重试回退、策略限流和可观测性功能。
+
+- **Stars:** ⭐️ 5.1k
+- **Tags:** `LLM Gateway` `Model Routing` `Rate Limiting`
+- **最后活动时间:** 2026-05-21
 
 ### [ds4](https://github.com/antirez/ds4)
 
@@ -4502,17 +4526,9 @@ HuggingFace出品的高性能文本嵌入模型推理解决方案，支持大规
 
 Kubernetes 原生 MLOps 框架，支持大规模机器学习模型的打包、部署、监控和管理。
 
-- **Stars:** ⭐️ 4.7k
+- **Stars:** ⭐️ 4.8k
 - **Tags:** `mlops` `kubernetes` `model-serving` `machine-learning`
 - **最后活动时间:** 2026-03-23
-
-### [bifrost](https://github.com/maximhq/bifrost)
-
-高性能企业级AI网关，比LiteLLM快50倍，支持1000+模型、自适应负载均衡和护栏功能。
-
-- **Stars:** ⭐️ 4.7k
-- **Tags:** `ai-gateway` `load-balancing` `guardrails`
-- **最后活动时间:** 2026-05-09
 
 ### [vllm-omni](https://github.com/vllm-project/vllm-omni)
 
@@ -4536,7 +4552,7 @@ Kubernetes 原生 MLOps 框架，支持大规模机器学习模型的打包、�
 
 - **Stars:** ⭐️ 4.5k
 - **Tags:** `推理引擎` `量化` `优化`
-- **最后活动时间:** 2026-05-08
+- **最后活动时间:** 2026-05-19
 
 ### [lite.ai.toolkit](https://github.com/xlite-dev/lite.ai.toolkit)
 
@@ -4552,7 +4568,7 @@ OpenVINO 预训练深度学习模型库，提供高质量、极快推理的各�
 
 - **Stars:** ⭐️ 4.4k
 - **Tags:** `deep-learning` `model-zoo` `openvino` `pretrained-models` `inference`
-- **最后活动时间:** 2026-04-29
+- **最后活动时间:** 2026-05-12
 
 ### [LMOps](https://github.com/microsoft/LMOps)
 
@@ -4560,7 +4576,7 @@ OpenVINO 预训练深度学习模型库，提供高质量、极快推理的各�
 
 - **Stars:** ⭐️ 4.4k
 - **Tags:** `LLM运维` `多模态` `提示工程`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-21
 
 ### [logfire](https://github.com/pydantic/logfire)
 
@@ -4570,13 +4586,13 @@ OpenVINO 预训练深度学习模型库，提供高质量、极快推理的各�
 - **Tags:** `Observability` `LLM` `OpenTelemetry` `Monitoring`
 - **最后活动时间:** 2026-05-09
 
-### [OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+### [semantic-router](https://github.com/vllm-project/semantic-router)
 
-多提供商LLM智能网关，提供OpenAI兼容接口，支持智能路由、负载均衡、重试回退、策略限流和可观测性功能。
+系统级智能路由器，支持云端、数据中心和边缘场景的混合模型路由，集成语义分类、PII检测和提示词防护功能。
 
 - **Stars:** ⭐️ 4.2k
-- **Tags:** `LLM Gateway` `Model Routing` `Rate Limiting`
-- **最后活动时间:** 2026-05-08
+- **Tags:** `LLM路由` `AI网关` `Kubernetes`
+- **最后活动时间:** 2026-05-21
 
 ### [mcpo](https://github.com/open-webui/mcpo)
 
@@ -4618,13 +4634,13 @@ SGLang的精简实现版本，帮助开发者深入理解现代LLM服务系统�
 - **Tags:** `LLM Serving` `Educational`
 - **最后活动时间:** 2026-03-13
 
-### [semantic-router](https://github.com/vllm-project/semantic-router)
+### [lemonade](https://github.com/lemonade-sdk/lemonade)
 
-系统级智能路由器，支持云端、数据中心和边缘场景的混合模型路由，集成语义分类、PII检测和提示词防护功能。
+本地AI应用发现与运行平台，支持GPU/NPU优化的LLM本地部署。
 
 - **Stars:** ⭐️ 4.1k
-- **Tags:** `LLM路由` `AI网关` `Kubernetes`
-- **最后活动时间:** 2026-05-09
+- **Tags:** `Local LLM` `GPU` `MCP Server`
+- **最后活动时间:** 2026-05-21
 
 ### [LightLLM](https://github.com/ModelTC/LightLLM)
 
@@ -4632,7 +4648,7 @@ SGLang的精简实现版本，帮助开发者深入理解现代LLM服务系统�
 
 - **Stars:** ⭐️ 4.1k
 - **Tags:** `Inference` `Serving` `Triton`
-- **最后活动时间:** 2026-05-10
+- **最后活动时间:** 2026-05-21
 
 ### [dlrm](https://github.com/facebookresearch/dlrm)
 
@@ -4650,6 +4666,14 @@ NVIDIA官方生成式AI参考工作流，针对GPU加速基础设施和微服务
 - **Tags:** `GPU Acceleration` `Microservices` `LLM Inference`
 - **最后活动时间:** 2026-03-30
 
+### [optillm](https://github.com/algorithmicsuperintelligence/optillm)
+
+LLM推理优化代理服务器，支持Chain-of-Thought、MoE、MCTS等优化策略，提升模型推理效率。
+
+- **Stars:** ⭐️ 4.0k
+- **Tags:** `LLM` `Inference` `Optimization` `Proxy`
+- **最后活动时间:** 2026-05-07
+
 ### [llama-swap](https://github.com/mostlygeek/llama-swap)
 
 为本地LLM服务器提供可靠的模型切换能力，兼容OpenAI/Anthropic API格式。
@@ -4666,13 +4690,13 @@ NVIDIA官方生成式AI参考工作流，针对GPU加速基础设施和微服务
 - **Tags:** `model-serving` `inference` `api` `fastapi`
 - **最后活动时间:** 2026-05-04
 
-### [lemonade](https://github.com/lemonade-sdk/lemonade)
+### [lorax](https://github.com/predibase/lorax)
 
-本地AI应用发现与运行平台，支持GPU/NPU优化的LLM本地部署。
+多LoRA推理服务器，单GPU高效服务数千个微调模型，大幅降低部署成本。
 
-- **Stars:** ⭐️ 3.9k
-- **Tags:** `Local LLM` `GPU` `MCP Server`
-- **最后活动时间:** 2026-05-09
+- **Stars:** ⭐️ 3.8k
+- **Tags:** `LoRA` `LLM推理` `模型服务`
+- **最后活动时间:** 2026-05-15
 
 ### [maestro](https://github.com/Netflix/maestro)
 
@@ -4680,7 +4704,7 @@ Netflix开源的工作流编排器，支持机器学习流水线、MLOps和智�
 
 - **Stars:** ⭐️ 3.8k
 - **Tags:** `Workflow` `MLOps` `Orchestration` `Data Pipelines`
-- **最后活动时间:** 2026-05-01
+- **最后活动时间:** 2026-05-14
 
 ### [atmosphere](https://github.com/Atmosphere/atmosphere)
 
@@ -4688,7 +4712,7 @@ JVM 平台的传输无关实时框架，支持 WebSocket、SSE、MCP 等多种�
 
 - **Stars:** ⭐️ 3.8k
 - **Tags:** `mcp` `websocket` `java` `spring-boot` `real-time`
-- **最后活动时间:** 2026-05-08
+- **最后活动时间:** 2026-05-21
 
 ### [iree](https://github.com/iree-org/iree)
 
@@ -4696,7 +4720,15 @@ JVM 平台的传输无关实时框架，支持 WebSocket、SSE、MCP 等多种�
 
 - **Stars:** ⭐️ 3.8k
 - **Tags:** `MLIR` `Compiler` `Cross-Platform`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-21
+
+### [archestra](https://github.com/archestra-ai/archestra)
+
+企业级AI平台，提供安全护栏、MCP注册中心、网关和编排器，适用于生产环境。
+
+- **Stars:** ⭐️ 3.7k
+- **Tags:** `MCP` `Agent` `Enterprise` `Kubernetes`
+- **最后活动时间:** 2026-05-21
 
 ### [vidgear](https://github.com/abhiTronix/vidgear)
 
@@ -4706,6 +4738,14 @@ JVM 平台的传输无关实时框架，支持 WebSocket、SSE、MCP 等多种�
 - **Tags:** `video-processing` `streaming` `opencv` `ffmpeg`
 - **最后活动时间:** 2026-05-03
 
+### [FastDeploy](https://github.com/PaddlePaddle/FastDeploy)
+
+基于PaddlePaddle的高性能LLM/VLM推理部署工具包，提供高效的模型服务化能力。
+
+- **Stars:** ⭐️ 3.7k
+- **Tags:** `LLM Serving` `Inference` `Deployment` `PaddlePaddle`
+- **最后活动时间:** 2026-05-21
+
 ### [local-ai-packaged](https://github.com/coleam00/local-ai-packaged)
 
 一站式本地AI运行包，整合Ollama、Supabase、n8n、Open WebUI等工具，轻松部署私有AI环境。
@@ -4714,14 +4754,6 @@ JVM 平台的传输无关实时框架，支持 WebSocket、SSE、MCP 等多种�
 - **Tags:** `local-ai` `ollama` `docker` `self-hosted` `ai-tools`
 - **最后活动时间:** 2026-02-26
 
-### [FastDeploy](https://github.com/PaddlePaddle/FastDeploy)
-
-基于PaddlePaddle的高性能LLM/VLM推理部署工具包，提供高效的模型服务化能力。
-
-- **Stars:** ⭐️ 3.7k
-- **Tags:** `LLM Serving` `Inference` `Deployment` `PaddlePaddle`
-- **最后活动时间:** 2026-05-09
-
 ### [axonhub](https://github.com/looplj/axonhub)
 
 开源AI网关，支持100+大语言模型，内置故障转移、负载均衡、成本控制和端到端追踪功能。
@@ -4729,14 +4761,6 @@ JVM 平台的传输无关实时框架，支持 WebSocket、SSE、MCP 等多种�
 - **Stars:** ⭐️ 3.7k
 - **Tags:** `AI Gateway` `LLM` `负载均衡`
 - **最后活动时间:** 2026-05-10
-
-### [archestra](https://github.com/archestra-ai/archestra)
-
-企业级AI平台，提供安全护栏、MCP注册中心、网关和编排器，适用于生产环境。
-
-- **Stars:** ⭐️ 3.6k
-- **Tags:** `MCP` `Agent` `Enterprise` `Kubernetes`
-- **最后活动时间:** 2026-05-09
 
 ### [antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy)
 
@@ -4768,15 +4792,7 @@ Rust实现的模块化数据流处理框架，支持分布式计算和迭代算�
 
 - **Stars:** ⭐️ 3.6k
 - **Tags:** `Graph Computing` `Graph Neural Networks` `Big Data`
-- **最后活动时间:** 2026-04-21
-
-### [optillm](https://github.com/algorithmicsuperintelligence/optillm)
-
-LLM推理优化代理服务器，支持Chain-of-Thought、MoE、MCTS等优化策略，提升模型推理效率。
-
-- **Stars:** ⭐️ 3.5k
-- **Tags:** `LLM` `Inference` `Optimization` `Proxy`
-- **最后活动时间:** 2026-05-07
+- **最后活动时间:** 2026-05-18
 
 ### [openai-gemini](https://github.com/PublicAffairs/openai-gemini)
 
@@ -4793,6 +4809,14 @@ LLM推理优化代理服务器，支持Chain-of-Thought、MoE、MCTS等优化策
 - **Stars:** ⭐️ 3.5k
 - **Tags:** `视频生成` `推理加速` `扩散模型`
 - **最后活动时间:** 2026-05-10
+
+### [RLinf](https://github.com/RLinf/RLinf)
+
+面向具身智能和智能体AI的强化学习基础设施框架，支持VLA-RL等前沿研究方向。
+
+- **Stars:** ⭐️ 3.4k
+- **Tags:** `reinforcement-learning` `embodied-ai` `agentic-ai` `infrastructure`
+- **最后活动时间:** 2026-05-21
 
 ### [unitycatalog](https://github.com/unitycatalog/unitycatalog)
 
@@ -4818,14 +4842,6 @@ LLM推理优化代理服务器，支持Chain-of-Thought、MoE、MCTS等优化策
 - **Tags:** `LLM` `Inference` `GPU` `Model Serving`
 - **最后活动时间:** 2026-05-09
 
-### [RLinf](https://github.com/RLinf/RLinf)
-
-面向具身智能和智能体AI的强化学习基础设施框架，支持VLA-RL等前沿研究方向。
-
-- **Stars:** ⭐️ 3.3k
-- **Tags:** `reinforcement-learning` `embodied-ai` `agentic-ai` `infrastructure`
-- **最后活动时间:** 2026-05-09
-
 ### [whisper-asr-webservice](https://github.com/ahmetoner/whisper-asr-webservice)
 
 OpenAI Whisper语音识别的Docker化Web服务API，便于快速部署和集成。
@@ -4848,7 +4864,7 @@ AI原生应用运行时引擎，支持多线程和持久化场景图，实现智
 
 - **Stars:** ⭐️ 3.2k
 - **Tags:** `AI Runtime` `Agent Framework` `Multi-threaded`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-21
 
 ### [llm-d](https://github.com/llm-d/llm-d)
 
@@ -4864,7 +4880,15 @@ AI原生应用运行时引擎，支持多线程和持久化场景图，实现智
 
 - **Stars:** ⭐️ 3.1k
 - **Tags:** `deployment` `fastapi` `machine-learning`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-21
+
+### [rocketride-server](https://github.com/rocketride-org/rocketride-server)
+
+高性能AI流水线引擎，采用C++核心与50+可扩展节点，支持多模型提供商和向量数据库的LLM工作流构建。
+
+- **Stars:** ⭐️ 3.1k
+- **Tags:** `Pipeline` `Agent` `LLM` `C++`
+- **最后活动时间:** 2026-05-21
 
 ### [graphjin](https://github.com/dosco/graphjin)
 
@@ -4904,7 +4928,15 @@ NVIDIA官方的PyTorch模型编译器，利用TensorRT优化深度学习模型�
 
 - **Stars:** ⭐️ 3.0k
 - **Tags:** `tensorrt` `deep-learning` `inference` `nvidia` `pytorch`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-21
+
+### [spiceai](https://github.com/spiceai/spiceai)
+
+Rust 编写的便携式加速 SQL 查询、搜索和 LLM 推理引擎，为数据驱动的 AI 应用和智能体提供基础设施支持。
+
+- **Stars:** ⭐️ 2.9k
+- **Tags:** `SQL` `LLM推理` `数据联邦` `Rust`
+- **最后活动时间:** 2026-05-21
 
 ### [ultralyticsPro](https://github.com/iscyy/ultralyticsPro)
 
@@ -4922,13 +4954,29 @@ YOLO系列目标检测模型改进合集，支持YOLO11/v8/v10/v7/v5及RT-DETR�
 - **Tags:** `分布式推理` `集群计算` `LLM`
 - **最后活动时间:** 2026-04-14
 
-### [spiceai](https://github.com/spiceai/spiceai)
+### [lmnr](https://github.com/lmnr-ai/lmnr)
 
-Rust 编写的便携式加速 SQL 查询、搜索和 LLM 推理引擎，为数据驱动的 AI 应用和智能体提供基础设施支持。
+专为AI智能体打造的开源可观测性平台，提供全链路追踪、评估和监控能力，YC S24孵化项目。
 
 - **Stars:** ⭐️ 2.9k
-- **Tags:** `SQL` `LLM推理` `数据联邦` `Rust`
-- **最后活动时间:** 2026-05-10
+- **Tags:** `可观测性` `LLMOps` `监控`
+- **最后活动时间:** 2026-05-21
+
+### [docker-agent](https://github.com/docker/docker-agent)
+
+AI智能体构建与运行时平台，借助Docker容器化优势，让Agent的构建、测试和生产部署更加简单高效。
+
+- **Stars:** ⭐️ 2.9k
+- **Tags:** `Docker` `Runtime` `Deployment`
+- **最后活动时间:** 2026-05-21
+
+### [tract](https://github.com/sonos/tract)
+
+轻量级、自包含的TensorFlow和ONNX推理引擎，使用Rust编写，适合嵌入式和边缘部署。
+
+- **Stars:** ⭐️ 2.9k
+- **Tags:** `Rust` `ONNX` `TensorFlow` `推理引擎`
+- **最后活动时间:** 2026-05-21
 
 ### [uvicorn-gunicorn-fastapi-docker](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker)
 
@@ -4938,37 +4986,13 @@ Rust 编写的便携式加速 SQL 查询、搜索和 LLM 推理引擎，为数�
 - **Tags:** `fastapi` `docker` `model-serving` `python` `asgi`
 - **最后活动时间:** 2026-03-25
 
-### [tract](https://github.com/sonos/tract)
-
-轻量级、自包含的TensorFlow和ONNX推理引擎，使用Rust编写，适合嵌入式和边缘部署。
-
-- **Stars:** ⭐️ 2.9k
-- **Tags:** `Rust` `ONNX` `TensorFlow` `推理引擎`
-- **最后活动时间:** 2026-05-08
-
-### [docker-agent](https://github.com/docker/docker-agent)
-
-AI智能体构建与运行时平台，借助Docker容器化优势，让Agent的构建、测试和生产部署更加简单高效。
-
-- **Stars:** ⭐️ 2.9k
-- **Tags:** `Docker` `Runtime` `Deployment`
-- **最后活动时间:** 2026-05-09
-
-### [lmnr](https://github.com/lmnr-ai/lmnr)
-
-专为AI智能体打造的开源可观测性平台，提供全链路追踪、评估和监控能力，YC S24孵化项目。
-
-- **Stars:** ⭐️ 2.9k
-- **Tags:** `可观测性` `LLMOps` `监控`
-- **最后活动时间:** 2026-05-08
-
 ### [ramalama](https://github.com/containers/ramalama)
 
 基于容器技术的AI模型部署工具，简化本地服务和生产环境推理，支持llama.cpp、vLLM等多种引擎。
 
 - **Stars:** ⭐️ 2.8k
 - **Tags:** `容器化` `模型部署` `推理引擎`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-21
 
 ### [one-hub](https://github.com/MartialBE/one-hub)
 
@@ -4994,6 +5018,14 @@ Pythonic框架，简化AI服务的构建与部署流程，提供高效的模型�
 - **Tags:** `Text Embeddings` `Model Serving` `Reranking`
 - **最后活动时间:** 2026-03-24
 
+### [agentgateway](https://github.com/agentgateway/agentgateway)
+
+新一代AI代理网关，支持MCP服务器和AI代理的代理与路由。
+
+- **Stars:** ⭐️ 2.8k
+- **Tags:** `ai-gateway` `mcp` `agents` `kubernetes` `rust`
+- **最后活动时间:** 2026-05-20
+
 ### [claude-code-hub](https://github.com/ding113/claude-code-hub)
 
 Claude Code与Codex API代理服务，提供智能负载均衡、用户管理和使用统计。
@@ -5016,7 +5048,7 @@ AI API身份网关，作为反向代理标准化设备指纹和遥测数据，�
 
 - **Stars:** ⭐️ 2.7k
 - **Tags:** `point-cloud` `pytorch` `deep-learning` `segmentation`
-- **最后活动时间:** 2026-03-16
+- **最后活动时间:** 2026-05-18
 
 ### [BigDL](https://github.com/intel/BigDL)
 
@@ -5034,13 +5066,13 @@ AI API身份网关，作为反向代理标准化设备指纹和遥测数据，�
 - **Tags:** `privacy-preserving` `federated-learning` `differential-privacy` `secure-computation`
 - **最后活动时间:** 2026-04-24
 
-### [agentgateway](https://github.com/agentgateway/agentgateway)
+### [neural-compressor](https://github.com/intel/neural-compressor)
 
-新一代AI代理网关，支持MCP服务器和AI代理的代理与路由。
+Intel 开发的 SOTA 模型压缩工具，支持 INT8/FP8/INT4 等低比特量化、稀疏化和剪枝，优化 LLM 在各种硬件上的部署效率。
 
-- **Stars:** ⭐️ 2.7k
-- **Tags:** `ai-gateway` `mcp` `agents` `kubernetes` `rust`
-- **最后活动时间:** 2026-05-08
+- **Stars:** ⭐️ 2.6k
+- **Tags:** `Quantization` `LLM` `Model Compression` `Intel`
+- **最后活动时间:** 2026-05-21
 
 ### [Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer)
 
@@ -5050,13 +5082,13 @@ AI API身份网关，作为反向代理标准化设备指纹和遥测数据，�
 - **Tags:** `Model Optimization` `Quantization` `Inference`
 - **最后活动时间:** 2026-05-10
 
-### [neural-compressor](https://github.com/intel/neural-compressor)
+### [sail](https://github.com/lakehq/sail)
 
-Intel 开发的 SOTA 模型压缩工具，支持 INT8/FP8/INT4 等低比特量化、稀疏化和剪枝，优化 LLM 在各种硬件上的部署效率。
+LakeSail推出的统一计算框架，将批处理、流处理和AI计算密集型工作负载整合在一起，基于Rust和Apache Arrow构建。
 
 - **Stars:** ⭐️ 2.6k
-- **Tags:** `Quantization` `LLM` `Model Compression` `Intel`
-- **最后活动时间:** 2026-05-09
+- **Tags:** `artificial-intelligence` `machine-learning` `data-engineering` `distributed-computing`
+- **最后活动时间:** 2026-05-21
 
 ### [neural-compressor](https://github.com/intel/neural-compressor)
 
@@ -5072,7 +5104,15 @@ Intel 开发的 SOTA 模型压缩工具，支持 INT8/FP8/INT4 等低比特量�
 
 - **Stars:** ⭐️ 2.6k
 - **Tags:** `ai-gateway` `api-gateway` `go` `microservice` `graphql`
-- **最后活动时间:** 2026-05-08
+- **最后活动时间:** 2026-05-20
+
+### [aimet](https://github.com/qualcomm/aimet)
+
+高通开源的神经网络模型优化库，提供先进的量化和压缩技术，支持模型剪枝与部署优化。
+
+- **Stars:** ⭐️ 2.6k
+- **Tags:** `quantization` `compression` `deep-learning` `pruning` `neural-network`
+- **最后活动时间:** 2026-05-21
 
 ### [connector-x](https://github.com/sfu-db/connector-x)
 
@@ -5120,15 +5160,23 @@ Apache项目，帮助定义可测试、模块化的数据流，支持ML/LLM工�
 
 - **Stars:** ⭐️ 2.5k
 - **Tags:** `Dataflow` `MLOps` `ETL`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-20
 
-### [sail](https://github.com/lakehq/sail)
+### [openlit](https://github.com/openlit/openlit)
 
-LakeSail推出的统一计算框架，将批处理、流处理和AI计算密集型工作负载整合在一起，基于Rust和Apache Arrow构建。
+OpenTelemetry原生AI工程平台，提供LLM可观测性、GPU监控、护栏和提示词管理等一站式解决方案。
 
-- **Stars:** ⭐️ 2.4k
-- **Tags:** `artificial-intelligence` `machine-learning` `data-engineering` `distributed-computing`
-- **最后活动时间:** 2026-05-09
+- **Stars:** ⭐️ 2.5k
+- **Tags:** `LLM Observability` `OpenTelemetry` `AI Engineering`
+- **最后活动时间:** 2026-05-18
+
+### [Rapid-MLX](https://github.com/raullenchai/Rapid-MLX)
+
+Apple Silicon上最快的本地AI推理引擎，比Ollama快4.2倍，支持工具调用和OpenAI API替换。
+
+- **Stars:** ⭐️ 2.5k
+- **Tags:** `mlx` `llm-inference` `apple-silicon` `openai-api` `tool-calling` `local-llm`
+- **最后活动时间:** 2026-05-20
 
 ### [tensorflow-federated](https://github.com/google-parfait/tensorflow-federated)
 
@@ -5136,14 +5184,6 @@ Google开源的去中心化机器学习框架，支持在分布式数据上进�
 
 - **Stars:** ⭐️ 2.4k
 - **Tags:** `federated-learning` `tensorflow` `decentralized-ml`
-- **最后活动时间:** 2026-05-09
-
-### [openlit](https://github.com/openlit/openlit)
-
-OpenTelemetry原生AI工程平台，提供LLM可观测性、GPU监控、护栏和提示词管理等一站式解决方案。
-
-- **Stars:** ⭐️ 2.4k
-- **Tags:** `LLM Observability` `OpenTelemetry` `AI Engineering`
 - **最后活动时间:** 2026-05-09
 
 ### [AIstudioProxyAPI](https://github.com/CJackHwang/AIstudioProxyAPI)
@@ -5170,13 +5210,21 @@ Google端侧AI框架，TensorFlow Lite继任者，支持边缘平台高性能ML�
 - **Tags:** `edge-ai` `on-device-ml` `tensorflow-lite` `model-deployment`
 - **最后活动时间:** 2026-05-09
 
+### [EAGLE](https://github.com/SafeAILab/EAGLE)
+
+推测解码官方实现，显著加速大语言模型推理(ICML/EMNLP/NeurIPS系列论文)。
+
+- **Stars:** ⭐️ 2.4k
+- **Tags:** `speculative-decoding` `llm-inference` `inference-acceleration`
+- **最后活动时间:** 2026-02-20
+
 ### [ailia-models](https://github.com/ailia-ai/ailia-models)
 
 ailia SDK 的预训练模型集合，涵盖图像分类、目标检测、姿态估计等多种 SOTA 模型。
 
 - **Stars:** ⭐️ 2.3k
 - **Tags:** `Pre-trained Models` `Inference` `Multi-task`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-20
 
 ### [folib](https://github.com/BoCloud/folib)
 
@@ -5186,14 +5234,6 @@ ailia SDK 的预训练模型集合，涵盖图像分类、目标检测、姿态�
 - **Tags:** `aimodels` `artifact-repository` `huggingface` `docker-registry` `maven`
 - **最后活动时间:** 2025-12-24
 
-### [EAGLE](https://github.com/SafeAILab/EAGLE)
-
-推测解码官方实现，显著加速大语言模型推理(ICML/EMNLP/NeurIPS系列论文)。
-
-- **Stars:** ⭐️ 2.3k
-- **Tags:** `speculative-decoding` `llm-inference` `inference-acceleration`
-- **最后活动时间:** 2026-02-20
-
 ### [langserve](https://github.com/langchain-ai/langserve)
 
 LangChain官方部署工具，将LangChain应用快速打包为生产级REST API服务。
@@ -5202,6 +5242,14 @@ LangChain官方部署工具，将LangChain应用快速打包为生产级REST API
 - **Tags:** `LangChain` `Deployment` `FastAPI` `LLM`
 - **最后活动时间:** 2026-05-05
 
+### [instill-core](https://github.com/instill-ai/instill-core)
+
+全栈AI基础设施工具，提供数据、模型和流水线编排能力，支持低代码方式快速构建AI应用。
+
+- **Stars:** ⭐️ 2.3k
+- **Tags:** `AI基础设施` `流水线编排` `低代码`
+- **最后活动时间:** 2026-05-20
+
 ### [Olive](https://github.com/microsoft/Olive)
 
 微软开源的ML模型优化工具，简化模型微调、量化、转换和部署流程，支持CPU/GPU/NPU。
@@ -5209,14 +5257,6 @@ LangChain官方部署工具，将LangChain应用快速打包为生产级REST API
 - **Stars:** ⭐️ 2.3k
 - **Tags:** `model-optimization` `quantization` `finetuning` `onnx`
 - **最后活动时间:** 2026-05-09
-
-### [instill-core](https://github.com/instill-ai/instill-core)
-
-全栈AI基础设施工具，提供数据、模型和流水线编排能力，支持低代码方式快速构建AI应用。
-
-- **Stars:** ⭐️ 2.3k
-- **Tags:** `AI基础设施` `流水线编排` `低代码`
-- **最后活动时间:** 2026-05-06
 
 ### [metamcp](https://github.com/metatool-ai/metamcp)
 
@@ -5242,21 +5282,29 @@ vLLM官方Kubernetes集群部署方案，提供生产级LLM推理服务部署与
 - **Tags:** `vllm` `kubernetes` `llm-serving` `inference` `production`
 - **最后活动时间:** 2026-04-23
 
-### [CGraph](https://github.com/ChunelFeng/CGraph)
-
-跨平台无依赖的C++/Python并行计算DAG框架，适用于AI工作流和Agent流水线编排。
-
-- **Stars:** ⭐️ 2.3k
-- **Tags:** `dag` `pipeline` `workflow` `ai-agents` `parallel-computing`
-- **最后活动时间:** 2026-05-09
-
 ### [inference](https://github.com/roboflow/inference)
 
 计算机视觉推理服务器，支持YOLO等模型在边缘设备上的部署。
 
 - **Stars:** ⭐️ 2.3k
 - **Tags:** `computer-vision` `inference` `object-detection` `yolo`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-21
+
+### [CGraph](https://github.com/ChunelFeng/CGraph)
+
+跨平台无依赖的C++/Python并行计算DAG框架，适用于AI工作流和Agent流水线编排。
+
+- **Stars:** ⭐️ 2.3k
+- **Tags:** `dag` `pipeline` `workflow` `ai-agents` `parallel-computing`
+- **最后活动时间:** 2026-05-10
+
+### [fairlearn](https://github.com/fairlearn/fairlearn)
+
+评估和改进机器学习模型公平性的Python库，促进负责任AI发展。
+
+- **Stars:** ⭐️ 2.2k
+- **Tags:** `fairness` `responsible-ai` `machine-learning` `python`
+- **最后活动时间:** 2026-05-11
 
 ### [ort](https://github.com/pykeio/ort)
 
@@ -5265,14 +5313,6 @@ Rust 语言实现的高性能 ONNX 模型推理和训练框架。
 - **Stars:** ⭐️ 2.2k
 - **Tags:** `onnx` `inference` `rust` `machine-learning` `ai-training`
 - **最后活动时间:** 2026-05-09
-
-### [fairlearn](https://github.com/fairlearn/fairlearn)
-
-评估和改进机器学习模型公平性的Python库，促进负责任AI发展。
-
-- **Stars:** ⭐️ 2.2k
-- **Tags:** `fairness` `responsible-ai` `machine-learning` `python`
-- **最后活动时间:** 2026-05-05
 
 ### [cc-mirror](https://github.com/numman-ali/cc-mirror)
 
@@ -5288,7 +5328,7 @@ Rust编写的本地AI模型推理框架，支持即时、可控的预训练模�
 
 - **Stars:** ⭐️ 2.2k
 - **Tags:** `Rust` `LLM` `Local AI` `Whisper`
-- **最后活动时间:** 2026-05-10
+- **最后活动时间:** 2026-05-21
 
 ### [tfx](https://github.com/tensorflow/tfx)
 
@@ -5296,7 +5336,7 @@ TensorFlow Extended 端到端生产级 ML 流水线平台，支持模型训练�
 
 - **Stars:** ⭐️ 2.2k
 - **Tags:** `tensorflow` `mlops` `ml-pipeline` `production`
-- **最后活动时间:** 2026-05-08
+- **最后活动时间:** 2026-05-20
 
 ### [dify-plus](https://github.com/YFGaia/dify-plus)
 
@@ -5338,14 +5378,6 @@ Dify企业级增强版，集成管理中心并针对企业场景优化。
 - **Tags:** `ONNX` `Edge AI` `Stable Diffusion` `WASM`
 - **最后活动时间:** 2026-01-20
 
-### [llama_deploy](https://github.com/run-llama/llama_deploy)
-
-LlamaIndex 官方部署工具，将智能体工作流快速部署到生产环境。
-
-- **Stars:** ⭐️ 2.1k
-- **Tags:** `agents` `deployment` `llamaindex` `llm` `multi-agents`
-- **最后活动时间:** 2026-04-06
-
 ### [WAAS](https://github.com/schibsted/WAAS)
 
 Whisper即服务工具，提供GUI界面和带队列管理的API服务。
@@ -5353,6 +5385,14 @@ Whisper即服务工具，提供GUI界面和带队列管理的API服务。
 - **Stars:** ⭐️ 2.1k
 - **Tags:** `whisper` `api` `gui` `speech-to-text` `service`
 - **最后活动时间:** 2026-04-27
+
+### [llama_deploy](https://github.com/run-llama/llama_deploy)
+
+LlamaIndex 官方部署工具，将智能体工作流快速部署到生产环境。
+
+- **Stars:** ⭐️ 2.1k
+- **Tags:** `agents` `deployment` `llamaindex` `llm` `multi-agents`
+- **最后活动时间:** 2026-04-06
 
 ### [mcphub](https://github.com/samanhappy/mcphub)
 
@@ -5362,13 +5402,13 @@ MCP服务器统一管理平台，支持多服务器动态编排、灵活路由�
 - **Tags:** `mcp` `mcp-gateway` `mcp-router` `orchestration`
 - **最后活动时间:** 2026-05-09
 
-### [Rapid-MLX](https://github.com/raullenchai/Rapid-MLX)
+### [openrelay](https://github.com/romgX/openrelay)
 
-Apple Silicon上最快的本地AI推理引擎，比Ollama快4.2倍，支持工具调用和OpenAI API替换。
+免费AI模型代理服务，提供数百个免费模型配额，支持一键接入本地项目，兼容多种主流AI工具和IDE。
 
 - **Stars:** ⭐️ 2.0k
-- **Tags:** `mlx` `llm-inference` `apple-silicon` `openai-api` `tool-calling` `local-llm`
-- **最后活动时间:** 2026-05-10
+- **Tags:** `ai-proxy` `llm-proxy` `model-router` `openai` `claude`
+- **最后活动时间:** 2026-05-15
 
 ### [spikingjelly](https://github.com/fangwei123456/spikingjelly)
 
@@ -5376,15 +5416,7 @@ Apple Silicon上最快的本地AI推理引擎，比Ollama快4.2倍，支持工�
 
 - **Stars:** ⭐️ 2.0k
 - **Tags:** `脉冲神经网络` `PyTorch` `深度学习框架`
-- **最后活动时间:** 2026-05-10
-
-### [rocketride-server](https://github.com/rocketride-org/rocketride-server)
-
-高性能AI流水线引擎，采用C++核心与50+可扩展节点，支持多模型提供商和向量数据库的LLM工作流构建。
-
-- **Stars:** ⭐️ 2.0k
-- **Tags:** `Pipeline` `Agent` `LLM` `C++`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-21
 
 ### [diffrax](https://github.com/patrick-kidger/diffrax)
 
@@ -5392,7 +5424,7 @@ Apple Silicon上最快的本地AI推理引擎，比Ollama快4.2倍，支持工�
 
 - **Stars:** ⭐️ 2.0k
 - **Tags:** `jax` `differential-equations` `neural-differential-equations`
-- **最后活动时间:** 2026-05-01
+- **最后活动时间:** 2026-05-13
 
 ### [iris.c](https://github.com/antirez/iris.c)
 
@@ -5402,21 +5434,29 @@ FLUX.2图像生成模型的纯C语言推理实现，轻量高效。
 - **Tags:** `flux` `inference` `c-language` `image-generation`
 - **最后活动时间:** 2026-02-13
 
-### [opacus](https://github.com/meta-pytorch/opacus)
-
-PyTorch差分隐私训练库，支持在保护数据隐私的前提下训练深度学习模型。
-
-- **Stars:** ⭐️ 1.9k
-- **Tags:** `differential-privacy` `pytorch` `privacy-preserving-ml`
-- **最后活动时间:** 2026-05-05
-
 ### [deepmd-kit](https://github.com/deepmodeling/deepmd-kit)
 
 基于深度学习的分子动力学模拟框架，用于多体势能表示和材料科学计算，支持多种深度学习框架后端。
 
 - **Stars:** ⭐️ 1.9k
 - **Tags:** `Deep Learning` `Molecular Dynamics` `Computational Chemistry`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-20
+
+### [opacus](https://github.com/meta-pytorch/opacus)
+
+PyTorch差分隐私训练库，支持在保护数据隐私的前提下训练深度学习模型。
+
+- **Stars:** ⭐️ 1.9k
+- **Tags:** `differential-privacy` `pytorch` `privacy-preserving-ml`
+- **最后活动时间:** 2026-05-20
+
+### [headroom](https://github.com/chopratejas/headroom)
+
+LLM应用上下文优化层，通过智能压缩技术解决上下文窗口限制，支持OpenAI、Anthropic等多种提供商。
+
+- **Stars:** ⭐️ 1.9k
+- **Tags:** `Context Optimization` `Token Compression` `LLM Proxy`
+- **最后活动时间:** 2026-05-21
 
 ### [petastorm](https://github.com/uber/petastorm)
 
@@ -5434,22 +5474,6 @@ PyTorch差分隐私训练库，支持在保护数据隐私的前提下训练深�
 - **Tags:** `distributed-training` `deep-learning` `parallelization` `neural-network`
 - **最后活动时间:** 2026-05-07
 
-### [openrelay](https://github.com/romgX/openrelay)
-
-免费AI模型代理服务，提供数百个免费模型配额，支持一键接入本地项目，兼容多种主流AI工具和IDE。
-
-- **Stars:** ⭐️ 1.9k
-- **Tags:** `ai-proxy` `llm-proxy` `model-router` `openai` `claude`
-- **最后活动时间:** 2026-05-09
-
-### [aioway](https://github.com/rentruewang/aioway)
-
-基于RDBMS理念的深度学习框架，支持声明式、可解释、可扩展的模型部署。
-
-- **Stars:** ⭐️ 1.8k
-- **Tags:** `deep-learning` `pytorch` `scalable`
-- **最后活动时间:** 2026-05-09
-
 ### [nndeploy](https://github.com/nndeploy/nndeploy)
 
 简单易用且高性能的 AI 部署框架，支持 TensorRT、ONNXRuntime、OpenVINO 等多种推理后端和低代码工作流编排。
@@ -5457,6 +5481,22 @@ PyTorch差分隐私训练库，支持在保护数据隐私的前提下训练深�
 - **Stars:** ⭐️ 1.8k
 - **Tags:** `部署框架` `TensorRT` `多后端` `LLM`
 - **最后活动时间:** 2026-04-25
+
+### [aioway](https://github.com/rentruewang/aioway)
+
+基于RDBMS理念的深度学习框架，支持声明式、可解释、可扩展的模型部署。
+
+- **Stars:** ⭐️ 1.8k
+- **Tags:** `deep-learning` `pytorch` `scalable`
+- **最后活动时间:** 2026-05-21
+
+### [toolhive](https://github.com/stacklok/toolhive)
+
+企业级MCP服务器运行管理平台，专注于AI安全与基础设施部署，支持Kubernetes环境。
+
+- **Stars:** ⭐️ 1.8k
+- **Tags:** `MCP` `AI Security` `Kubernetes`
+- **最后活动时间:** 2026-05-21
 
 ### [torch-mlir](https://github.com/llvm/torch-mlir)
 
@@ -5482,14 +5522,6 @@ NVIDIA TensorRT加速的YOLO模型部署工具包，支持多版本YOLO模型的
 - **Tags:** `llm` `routing` `model-selection` `optimization`
 - **最后活动时间:** 2026-05-09
 
-### [toolhive](https://github.com/stacklok/toolhive)
-
-企业级MCP服务器运行管理平台，专注于AI安全与基础设施部署，支持Kubernetes环境。
-
-- **Stars:** ⭐️ 1.8k
-- **Tags:** `MCP` `AI Security` `Kubernetes`
-- **最后活动时间:** 2026-05-10
-
 ### [gollama](https://github.com/sammcj/gollama)
 
 Go语言编写的Ollama模型管理工具，支持模型查看、删除等操作。
@@ -5506,6 +5538,14 @@ Go语言编写的Ollama模型管理工具，支持模型查看、删除等操作
 - **Tags:** `api` `rest` `openapi` `laravel`
 - **最后活动时间:** 2026-05-07
 
+### [aphrodite-engine](https://github.com/dphnAI/aphrodite-engine)
+
+大规模LLM推理引擎，支持CUDA、ROCm、TPU等多种硬件加速，具备LoRA和推测解码等高级特性。
+
+- **Stars:** ⭐️ 1.7k
+- **Tags:** `inference-engine` `llm` `cuda` `rocm` `tpu` `lora`
+- **最后活动时间:** 2026-05-08
+
 ### [aphrodite-engine](https://github.com/aphrodite-engine/aphrodite-engine)
 
 大规模LLM推理引擎，支持CUDA、TPU、ROCm等多种硬件加速和推测解码。
@@ -5513,14 +5553,6 @@ Go语言编写的Ollama模型管理工具，支持模型查看、删除等操作
 - **Stars:** ⭐️ 1.7k
 - **Tags:** `inference-engine` `llm` `cuda` `tpu` `lora` `speculative-decoding`
 - **最后活动时间:** 2026-05-08
-
-### [headroom](https://github.com/chopratejas/headroom)
-
-LLM应用上下文优化层，通过智能压缩技术解决上下文窗口限制，支持OpenAI、Anthropic等多种提供商。
-
-- **Stars:** ⭐️ 1.7k
-- **Tags:** `Context Optimization` `Token Compression` `LLM Proxy`
-- **最后活动时间:** 2026-05-10
 
 ### [APIPark](https://github.com/APIParkLab/APIPark)
 
@@ -5544,7 +5576,7 @@ Kubernetes上的自动化机器学习平台，支持超参数调优和神经架�
 
 - **Stars:** ⭐️ 1.7k
 - **Tags:** `feature-store` `machine-learning-database` `mlops` `feature-engineering`
-- **最后活动时间:** 2026-05-06
+- **最后活动时间:** 2026-05-20
 
 ### [mlrun](https://github.com/mlrun/mlrun)
 
@@ -5552,15 +5584,31 @@ Kubernetes上的自动化机器学习平台，支持超参数调优和神经架�
 
 - **Stars:** ⭐️ 1.7k
 - **Tags:** `MLOps` `Kubernetes` `Model-Serving`
-- **最后活动时间:** 2026-05-08
+- **最后活动时间:** 2026-05-21
+
+### [ai-gateway](https://github.com/envoyproxy/ai-gateway)
+
+基于Envoy Gateway构建的AI网关，统一管理生成式AI服务访问，支持多LLM提供商接入。
+
+- **Stars:** ⭐️ 1.7k
+- **Tags:** `AI Gateway` `Envoy` `LLM`
+- **最后活动时间:** 2026-05-21
 
 ### [beta9](https://github.com/beam-cloud/beta9)
 
 超快速无服务器GPU推理平台，专为AI/ML工作负载设计，支持自动扩缩容。
 
-- **Stars:** ⭐️ 1.6k
+- **Stars:** ⭐️ 1.7k
 - **Tags:** `Serverless` `GPU` `LLM推理`
-- **最后活动时间:** 2026-03-25
+- **最后活动时间:** 2026-05-21
+
+### [whichllm](https://github.com/Andyyyy64/whichllm)
+
+根据你的硬件配置找到最适合运行的本地LLM模型，基于真实基准测试排名，一键运行。
+
+- **Stars:** ⭐️ 1.6k
+- **Tags:** `local-llm` `benchmarks` `ollama` `gpu`
+- **最后活动时间:** 2026-05-19
 
 ### [LlamaEdge](https://github.com/LlamaEdge/LlamaEdge)
 
@@ -5586,28 +5634,12 @@ Kubernetes上的自动化机器学习平台，支持超参数调优和神经架�
 - **Tags:** `model-compression` `quantization` `pruning` `nas`
 - **最后活动时间:** 2026-01-04
 
-### [ai-gateway](https://github.com/envoyproxy/ai-gateway)
-
-基于Envoy Gateway构建的AI网关，统一管理生成式AI服务访问，支持多LLM提供商接入。
-
-- **Stars:** ⭐️ 1.6k
-- **Tags:** `AI Gateway` `Envoy` `LLM`
-- **最后活动时间:** 2026-05-08
-
 ### [graalpython](https://github.com/oracle/graalpython)
 
 高性能可嵌入的Python 3运行时，专为Java环境设计，支持在Java应用中运行Python AI/ML模型。
 
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `graalvm` `python` `java` `embeddable`
-- **最后活动时间:** 2026-05-09
-
-### [uzu](https://github.com/trymirai/uzu)
-
-高性能AI模型推理引擎，使用Rust编写，支持Metal加速。
-
-- **Stars:** ⭐️ 1.6k
-- **Tags:** `Inference` `Rust` `High-Performance`
 - **最后活动时间:** 2026-05-09
 
 ### [CompressAI](https://github.com/InterDigitalInc/CompressAI)
@@ -5618,13 +5650,21 @@ Kubernetes上的自动化机器学习平台，支持超参数调优和神经架�
 - **Tags:** `compression` `deep-learning` `pytorch`
 - **最后活动时间:** 2026-05-09
 
+### [uzu](https://github.com/trymirai/uzu)
+
+高性能AI模型推理引擎，使用Rust编写，支持Metal加速。
+
+- **Stars:** ⭐️ 1.6k
+- **Tags:** `Inference` `Rust` `High-Performance`
+- **最后活动时间:** 2026-05-09
+
 ### [inference](https://github.com/mlcommons/inference)
 
 MLPerf推理基准参考实现，提供机器学习模型推理性能的标准化评测。
 
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `mlperf` `inference` `benchmark` `machine-learning`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-20
 
 ### [paddler](https://github.com/intentee/paddler)
 
@@ -5632,7 +5672,15 @@ MLPerf推理基准参考实现，提供机器学习模型推理性能的标准�
 
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `负载均衡` `LLM部署` `自托管`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-19
+
+### [codex-lb](https://github.com/Soju06/codex-lb)
+
+ChatGPT/Codex多账号负载均衡代理工具，支持用量追踪、仪表盘和OpenCode兼容端点。
+
+- **Stars:** ⭐️ 1.6k
+- **Tags:** `load-balancer` `openai` `chatgpt` `api-proxy` `dashboard`
+- **最后活动时间:** 2026-05-21
 
 ### [kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server)
 
@@ -5658,6 +5706,14 @@ GPT-SoVITS ONNX推理引擎与模型转换器，支持高效语音合成模型�
 - **Tags:** `tts` `onnx` `voice-cloning` `gpt-sovits`
 - **最后活动时间:** 2026-04-18
 
+### [react-native-executorch](https://github.com/software-mansion/react-native-executorch)
+
+基于ExecuTorch的React Native端侧AI推理框架，支持LLM、OCR、语音等多种模型。
+
+- **Stars:** ⭐️ 1.5k
+- **Tags:** `executorch` `react-native` `on-device-ai` `llm-inference` `ocr`
+- **最后活动时间:** 2026-05-21
+
 ### [tensorstore](https://github.com/google/tensorstore)
 
 用于高效读写大型多维数组的库，专为机器学习和科学计算场景优化，支持大规模张量数据存储。
@@ -5665,14 +5721,6 @@ GPT-SoVITS ONNX推理引擎与模型转换器，支持高效语音合成模型�
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `tensor` `storage` `machine-learning` `data-structures` `numpy`
 - **最后活动时间:** 2026-04-14
-
-### [react-native-executorch](https://github.com/software-mansion/react-native-executorch)
-
-基于ExecuTorch的React Native端侧AI推理框架，支持LLM、OCR、语音等多种模型。
-
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `executorch` `react-native` `on-device-ai` `llm-inference` `ocr`
-- **最后活动时间:** 2026-05-09
 
 ### [streaming](https://github.com/mosaicml/streaming)
 
@@ -5688,7 +5736,7 @@ GPT-SoVITS ONNX推理引擎与模型转换器，支持高效语音合成模型�
 
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `riemannian-geometry` `manifold` `deep-learning` `machine-learning` `statistics`
-- **最后活动时间:** 2026-04-01
+- **最后活动时间:** 2026-05-14
 
 ### [inference-network](https://github.com/inference-labs-inc/inference-network)
 
@@ -5720,7 +5768,7 @@ OpenMMLab 深度学习模型训练基础库，提供统一的训练框架。
 
 - **Stars:** ⭐️ 1.4k
 - **Tags:** `decentralized-ai` `machine-learning` `neural-networks` `blockchain` `p2p`
-- **最后活动时间:** 2026-05-06
+- **最后活动时间:** 2026-05-20
 
 ### [concrete-ml](https://github.com/zama-ai/concrete-ml)
 
@@ -5736,7 +5784,7 @@ Go语言加速机器学习框架，支持高性能ML模型训练与推理。
 
 - **Stars:** ⭐️ 1.4k
 - **Tags:** `go` `golang` `machine-learning` `xla`
-- **最后活动时间:** 2026-05-10
+- **最后活动时间:** 2026-05-21
 
 ### [mlops-python-package](https://github.com/fmind/mlops-python-package)
 
@@ -5800,7 +5848,7 @@ CNCF开源DevOps工具，用于打包和版本管理AI/ML模型、数据集和�
 
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `mlops` `model-serving` `kubernetes` `devops`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-21
 
 ### [turboquant](https://github.com/0xSero/turboquant)
 
@@ -5818,13 +5866,21 @@ CNCF开源DevOps工具，用于打包和版本管理AI/ML模型、数据集和�
 - **Tags:** `llm` `compression` `quantization` `pytorch`
 - **最后活动时间:** 2026-02-26
 
+### [xllm](https://github.com/jd-opensource/xllm)
+
+高性能LLM推理引擎，针对多种AI加速器优化，支持DeepSeek、GLM、Qwen等主流大模型的高效部署。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `Inference` `LLM` `Accelerator`
+- **最后活动时间:** 2026-05-21
+
 ### [parallax](https://github.com/GradientHQ/parallax)
 
 分布式模型服务框架，支持在任何环境构建AI推理集群。
 
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `distributed-inference` `llm-serving` `model-serving`
-- **最后活动时间:** 2026-04-12
+- **最后活动时间:** 2026-05-18
 
 ### [keras-core](https://github.com/keras-team/keras-core)
 
@@ -5833,14 +5889,6 @@ Keras API的多后端实现，支持TensorFlow、JAX和PyTorch三大框架，提
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `keras` `deep-learning` `tensorflow` `pytorch` `jax`
 - **最后活动时间:** 2026-03-10
-
-### [xllm](https://github.com/jd-opensource/xllm)
-
-高性能LLM推理引擎，针对多种AI加速器优化，支持DeepSeek、GLM、Qwen等主流大模型的高效部署。
-
-- **Stars:** ⭐️ 1.3k
-- **Tags:** `Inference` `LLM` `Accelerator`
-- **最后活动时间:** 2026-05-09
 
 ### [spark-vllm-docker](https://github.com/eugr/spark-vllm-docker)
 
@@ -5858,13 +5906,13 @@ Keras API的多后端实现，支持TensorFlow、JAX和PyTorch三大框架，提
 - **Tags:** `gemini` `openai` `api-proxy` `load-balancing` `multimodal`
 - **最后活动时间:** 2026-04-24
 
-### [codex-lb](https://github.com/Soju06/codex-lb)
+### [ClawVault](https://github.com/tophant-ai/ClawVault)
 
-ChatGPT/Codex多账号负载均衡代理工具，支持用量追踪、仪表盘和OpenCode兼容端点。
+AI安全控制平台，提供原子级访问控制，确保AI操作全程可视可控。
 
 - **Stars:** ⭐️ 1.2k
-- **Tags:** `load-balancer` `openai` `chatgpt` `api-proxy` `dashboard`
-- **最后活动时间:** 2026-05-09
+- **Tags:** `ai-security` `access-control` `openclaw`
+- **最后活动时间:** 2026-05-21
 
 ### [uni-api](https://github.com/yym68686/uni-api)
 
@@ -5890,14 +5938,6 @@ NeurIPS'24 Spotlight，通过动态稀疏注意力计算将长上下文LLM推理
 - **Tags:** `tensor` `deep-learning` `interoperability` `memory`
 - **最后活动时间:** 2026-05-03
 
-### [tabbyAPI](https://github.com/theroyallab/tabbyAPI)
-
-Exllama官方API服务器，兼容OpenAI接口格式，轻量高效，适合本地LLM推理部署。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `llm-serving` `openai-compatible` `exllama` `api-server`
-- **最后活动时间:** 2026-05-05
-
 ### [kubetorch](https://github.com/run-house/kubetorch)
 
 在Kubernetes上分布式运行AI工作负载的Python工具，像PyTorch一样简单管理ML基础设施。支持训练、推理和数据处理的无缝部署。
@@ -5906,21 +5946,13 @@ Exllama官方API服务器，兼容OpenAI接口格式，轻量高效，适合本�
 - **Tags:** `Kubernetes` `PyTorch` `Distributed AI` `ML Infrastructure`
 - **最后活动时间:** 2026-04-13
 
-### [langtrace](https://github.com/Scale3-Labs/langtrace)
+### [tabbyAPI](https://github.com/theroyallab/tabbyAPI)
 
-基于OpenTelemetry的LLM应用可观测性工具，提供实时追踪、评估和监控功能，支持LangChain、OpenAI等主流框架。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `Observability` `OpenTelemetry` `LLMOps`
-- **最后活动时间:** 2025-11-17
-
-### [ezkl](https://github.com/zkonduit/ezkl)
-
-一个用于深度学习模型和计算图的零知识证明推理引擎(ZKML)，支持Python、JavaScript和命令行调用。
+Exllama官方API服务器，兼容OpenAI接口格式，轻量高效，适合本地LLM推理部署。
 
 - **Stars:** ⭐️ 1.2k
-- **Tags:** `ai` `cryptography` `zero-knowledge` `zkml`
-- **最后活动时间:** 2026-02-20
+- **Tags:** `llm-serving` `openai-compatible` `exllama` `api-server`
+- **最后活动时间:** 2026-05-05
 
 ### [kubeai](https://github.com/kubeai-project/kubeai)
 
@@ -5930,6 +5962,14 @@ Kubernetes AI 推理运算符，支持 VLM、LLM、Embedding 和语音识别模�
 - **Tags:** `Kubernetes` `Inference` `LLM`
 - **最后活动时间:** 2026-03-31
 
+### [ezkl](https://github.com/zkonduit/ezkl)
+
+一个用于深度学习模型和计算图的零知识证明推理引擎(ZKML)，支持Python、JavaScript和命令行调用。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `ai` `cryptography` `zero-knowledge` `zkml`
+- **最后活动时间:** 2026-02-20
+
 ### [llmgateway](https://github.com/theopenco/llmgateway)
 
 统一管理多个LLM提供商API请求的网关，提供智能路由、速率限制、成本分析和安全防护功能。
@@ -5938,21 +5978,13 @@ Kubernetes AI 推理运算符，支持 VLM、LLM、Embedding 和语音识别模�
 - **Tags:** `API网关` `多提供商` `企业级`
 - **最后活动时间:** 2026-05-09
 
-### [ClawVault](https://github.com/tophant-ai/ClawVault)
-
-AI安全控制平台，提供原子级访问控制，确保AI操作全程可视可控。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `ai-security` `access-control` `openclaw`
-- **最后活动时间:** 2026-05-06
-
 ### [pruna](https://github.com/PrunaAI/pruna)
 
 模型优化框架，帮助开发者构建更快、更高效的AI模型，支持视觉、语言和语音模型。
 
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `model-optimization` `deep-learning` `llm` `computer-vision` `speech`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-21
 
 ### [cache-dit](https://github.com/vipshop/cache-dit)
 
@@ -5976,7 +6008,7 @@ PyTorch原生DiT推理引擎，支持混合缓存加速和大规模并行。专�
 
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `model-serving` `inference-server` `machine-learning`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-21
 
 ### [clewdr](https://github.com/Xerxes-2/clewdr)
 
@@ -6042,6 +6074,14 @@ LLM部署评估工具，帮助优化大模型在实际推理场景中的性能�
 - **Tags:** `LLM Evaluation` `Deployment` `Inference`
 - **最后活动时间:** 2026-05-09
 
+### [rtp-llm](https://github.com/alibaba/rtp-llm)
+
+阿里巴巴开源的高性能大语言模型推理引擎，专为多样化应用场景优化，提供卓越的推理性能。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `LLM` `推理引擎` `阿里巴巴`
+- **最后活动时间:** 2026-05-21
+
 ### [openfhe-development](https://github.com/openfheorg/openfhe-development)
 
 开源全同态加密库，支持隐私保护计算和安全多方计算，适用于AI隐私保护场景。
@@ -6050,13 +6090,13 @@ LLM部署评估工具，帮助优化大模型在实际推理场景中的性能�
 - **Tags:** `cryptography` `homomorphic-encryption` `privacy` `fhe`
 - **最后活动时间:** 2026-05-09
 
-### [rtp-llm](https://github.com/alibaba/rtp-llm)
+### [kvpress](https://github.com/NVIDIA/kvpress)
 
-阿里巴巴开源的高性能大语言模型推理引擎，专为多样化应用场景优化，提供卓越的推理性能。
+简化LLM KV缓存压缩，支持长上下文推理优化。
 
 - **Stars:** ⭐️ 1.1k
-- **Tags:** `LLM` `推理引擎` `阿里巴巴`
-- **最后活动时间:** 2026-05-10
+- **Tags:** `kv-cache` `compression` `llm` `long-context`
+- **最后活动时间:** 2026-05-18
 
 ### [awesome-mojo](https://github.com/mojicians/awesome-mojo)
 
@@ -6066,13 +6106,13 @@ Mojo编程语言的精选资源列表，Mojo是专为AI开发设计的高性能�
 - **Tags:** `mojo` `ai` `programming-language` `python-compatible`
 - **最后活动时间:** 2026-05-08
 
-### [kvpress](https://github.com/NVIDIA/kvpress)
+### [wllama](https://github.com/ngxson/wllama)
 
-简化LLM KV缓存压缩，支持长上下文推理优化。
+llama.cpp的WebAssembly绑定，实现浏览器端LLM推理能力。
 
 - **Stars:** ⭐️ 1.1k
-- **Tags:** `kv-cache` `compression` `llm` `long-context`
-- **最后活动时间:** 2026-05-05
+- **Tags:** `wasm` `webassembly` `llm` `browser-inference`
+- **最后活动时间:** 2026-05-17
 
 ### [fizz-gateway-node](https://github.com/fizzgate/fizz-gateway-node)
 
@@ -6088,15 +6128,23 @@ CSGHub后端服务，支持数据集和模型管理、模型推理、微调及�
 
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `模型管理` `推理服务` `平台`
-- **最后活动时间:** 2026-05-10
+- **最后活动时间:** 2026-05-21
 
-### [wllama](https://github.com/ngxson/wllama)
+### [MCPJungle](https://github.com/mcpjungle/MCPJungle)
 
-llama.cpp的WebAssembly绑定，实现浏览器端LLM推理能力。
+自托管的MCP网关，为AI代理提供统一的MCP服务器管理和注册服务。
 
 - **Stars:** ⭐️ 1.1k
-- **Tags:** `wasm` `webassembly` `llm` `browser-inference`
-- **最后活动时间:** 2026-05-09
+- **Tags:** `MCP` `网关` `基础设施`
+- **最后活动时间:** 2026-05-20
+
+### [mesh-llm](https://github.com/Mesh-LLM/mesh-llm)
+
+基于llama.cpp的分布式LLM推理框架，支持跨机器协同推理，提供完整的端到端演示。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `llm` `distributed-inference` `llama.cpp`
+- **最后活动时间:** 2026-05-21
 
 ### [optimum-quanto](https://github.com/huggingface/optimum-quanto)
 
@@ -6106,6 +6154,22 @@ PyTorch 模型量化后端，支持高效模型部署和推理优化。
 - **Tags:** `quantization` `pytorch` `model-optimization` `inference`
 - **最后活动时间:** 2026-04-02
 
+### [TorchBench](https://github.com/pytorch/benchmark)
+
+PyTorch官方性能评估基准测试集合，用于评估和优化PyTorch模型性能。
+
+- **Stars:** ⭐️ 1.0k
+- **Tags:** `pytorch` `benchmark` `performance`
+- **最后活动时间:** 2026-05-21
+
+### [onnxruntime-genai](https://github.com/microsoft/onnxruntime-genai)
+
+ONNX Runtime 的生成式 AI 扩展，提供高效的模型推理与部署能力。
+
+- **Stars:** ⭐️ 1.0k
+- **Tags:** `onnx` `generative-ai` `model-inference` `optimization`
+- **最后活动时间:** 2026-05-21
+
 ### [codex2api](https://github.com/james-6-23/codex2api)
 
 Codex2API 是一个基于 Go + Gin + React/Vite 的 Codex 反向代理与管理后台，支持 API 转发和额度管理。
@@ -6114,21 +6178,13 @@ Codex2API 是一个基于 Go + Gin + React/Vite 的 Codex 反向代理与管理�
 - **Tags:** `api-proxy` `codex` `reverse-proxy` `infrastructure`
 - **最后活动时间:** 2026-05-08
 
-### [TorchBench](https://github.com/pytorch/benchmark)
+### [VoAPI](https://github.com/VoAPI/VoAPI)
 
-PyTorch官方性能评估基准测试集合，用于评估和优化PyTorch模型性能。
-
-- **Stars:** ⭐️ 1.0k
-- **Tags:** `pytorch` `benchmark` `performance`
-- **最后活动时间:** 2026-05-07
-
-### [onnxruntime-genai](https://github.com/microsoft/onnxruntime-genai)
-
-ONNX Runtime 的生成式 AI 扩展，提供高效的模型推理与部署能力。
+新一代AI大模型API聚合分发系统，支持多模型统一接口管理，具备高扩展性和高性能。
 
 - **Stars:** ⭐️ 1.0k
-- **Tags:** `onnx` `generative-ai` `model-inference` `optimization`
-- **最后活动时间:** 2026-05-09
+- **Tags:** `api-gateway` `openai` `claude` `ai-agents` `api-aggregation`
+- **最后活动时间:** 2026-01-27
 
 ### [monarch](https://github.com/meta-pytorch/monarch)
 
@@ -6154,14 +6210,6 @@ NVIDIA推理传输库，优化AI模型推理过程中的数据传输性能。
 - **Tags:** `nvidia` `inference` `gpu-optimization` `transfer-library`
 - **最后活动时间:** 2026-05-08
 
-### [MCPJungle](https://github.com/mcpjungle/MCPJungle)
-
-自托管的MCP网关，为AI代理提供统一的MCP服务器管理和注册服务。
-
-- **Stars:** ⭐️ 1.0k
-- **Tags:** `MCP` `网关` `基础设施`
-- **最后活动时间:** 2026-05-09
-
 ### [litert-torch](https://github.com/google-ai-edge/litert-torch)
 
 支持PyTorch模型转换为LiteRT格式的工具，用于端侧部署优化。
@@ -6177,14 +6225,6 @@ MCP 协议服务器，让 AI Agent 能够连接和操作 MongoDB 数据库及 At
 - **Stars:** ⭐️ 1.0k
 - **Tags:** `mcp` `mcp-server` `mongodb` `mongodb-atlas`
 - **最后活动时间:** 2026-05-08
-
-### [VoAPI](https://github.com/VoAPI/VoAPI)
-
-新一代AI大模型API聚合分发系统，支持多模型统一接口管理，具备高扩展性和高性能。
-
-- **Stars:** ⭐️ 1.0k
-- **Tags:** `api-gateway` `openai` `claude` `ai-agents` `api-aggregation`
-- **最后活动时间:** 2026-01-27
 
 ### [TenSEAL](https://github.com/OpenMined/TenSEAL)
 
@@ -6234,6 +6274,22 @@ Claude Code的高性能代理服务，提供API转发与流量管理功能。
 - **Tags:** `yolo` `inference-engine` `onnx` `cpp` `object-detection`
 - **最后活动时间:** 2026-04-13
 
+### [compose-for-agents](https://github.com/docker/compose-for-agents)
+
+使用 Docker Compose 构建和运行 AI 智能体，提供开箱即用的编排示例。
+
+- **Stars:** ⭐️ 962
+- **Tags:** `ai-agents` `docker` `docker-compose` `llm` `self-hosted`
+- **最后活动时间:** 2026-04-20
+
+### [Nanoflow](https://github.com/efeslab/Nanoflow)
+
+面向吞吐量的高性能LLM服务框架。针对CUDA优化，专为大规模语言模型推理设计。
+
+- **Stars:** ⭐️ 961
+- **Tags:** `llm-serving` `inference` `cuda` `high-performance`
+- **最后活动时间:** 2026-03-29
+
 ### [Fast-dLLM](https://github.com/NVlabs/Fast-dLLM)
 
 无需训练即可加速扩散LLM推理的方法，支持KV缓存与并行解码。
@@ -6242,6 +6298,14 @@ Claude Code的高性能代理服务，提供API转发与流量管理功能。
 - **Tags:** `llm` `inference` `acceleration` `kv-cache`
 - **最后活动时间:** 2026-05-06
 
+### [onnx2tf](https://github.com/PINTO0309/onnx2tf)
+
+强大的模型转换工具，支持 ONNX 到 TFLite、TensorFlow、PyTorch 等多种格式的相互转换，支持 Core ML 导出。
+
+- **Stars:** ⭐️ 959
+- **Tags:** `onnx` `tensorflow` `pytorch` `model-converter` `coreml`
+- **最后活动时间:** 2026-04-01
+
 ### [openinference](https://github.com/Arize-ai/openinference)
 
 专为AI应用设计的OpenTelemetry可观测性工具，支持LangChain、LlamaIndex等主流框架的追踪与监控。
@@ -6249,22 +6313,6 @@ Claude Code的高性能代理服务，提供API转发与流量管理功能。
 - **Stars:** ⭐️ 957
 - **Tags:** `Observability` `OpenTelemetry` `LLMOps`
 - **最后活动时间:** 2026-05-10
-
-### [Nanoflow](https://github.com/efeslab/Nanoflow)
-
-面向吞吐量的高性能LLM服务框架。针对CUDA优化，专为大规模语言模型推理设计。
-
-- **Stars:** ⭐️ 957
-- **Tags:** `llm-serving` `inference` `cuda` `high-performance`
-- **最后活动时间:** 2026-03-29
-
-### [onnx2tf](https://github.com/PINTO0309/onnx2tf)
-
-强大的模型转换工具，支持 ONNX 到 TFLite、TensorFlow、PyTorch 等多种格式的相互转换，支持 Core ML 导出。
-
-- **Stars:** ⭐️ 957
-- **Tags:** `onnx` `tensorflow` `pytorch` `model-converter` `coreml`
-- **最后活动时间:** 2026-04-01
 
 ### [YOLOs-CPP](https://github.com/Geekgineer/YOLOs-CPP)
 
@@ -6281,22 +6329,6 @@ Claude Code的高性能代理服务，提供API转发与流量管理功能。
 - **Stars:** ⭐️ 952
 - **Tags:** `llm-inference` `checkpoint` `model-serving` `middleware`
 - **最后活动时间:** 2026-02-28
-
-### [compose-for-agents](https://github.com/docker/compose-for-agents)
-
-使用 Docker Compose 构建和运行 AI 智能体，提供开箱即用的编排示例。
-
-- **Stars:** ⭐️ 948
-- **Tags:** `ai-agents` `docker` `docker-compose` `llm` `self-hosted`
-- **最后活动时间:** 2026-04-20
-
-### [mesh-llm](https://github.com/Mesh-LLM/mesh-llm)
-
-基于llama.cpp的分布式LLM推理框架，支持跨机器协同推理，提供完整的端到端演示。
-
-- **Stars:** ⭐️ 942
-- **Tags:** `llm` `distributed-inference` `llama.cpp`
-- **最后活动时间:** 2026-05-10
 
 ### [zzz-api](https://github.com/xing61/zzz-api)
 
@@ -6322,6 +6354,14 @@ NVIDIA Triton推理服务器的TensorRT-LLM后端，提供高性能LLM推理部�
 - **Tags:** `tensorrt` `triton` `llm-inference` `nvidia`
 - **最后活动时间:** 2026-05-07
 
+### [transcriptionstream](https://github.com/transcriptionstream/transcriptionstream)
+
+开箱即用的自托管离线转录服务，支持说话人分离和LLM摘要生成。完全本地化运行，保护隐私数据安全。
+
+- **Stars:** ⭐️ 933
+- **Tags:** `转录服务` `说话人分离` `自托管`
+- **最后活动时间:** 2026-01-18
+
 ### [openpcc](https://github.com/openpcc/openpcc)
 
 可验证隐私AI推理的开源框架。保护数据隐私的同时执行模型推理。
@@ -6329,14 +6369,6 @@ NVIDIA Triton推理服务器的TensorRT-LLM后端，提供高性能LLM推理部�
 - **Stars:** ⭐️ 933
 - **Tags:** `privacy` `inference` `secure-computation`
 - **最后活动时间:** 2026-01-08
-
-### [transcriptionstream](https://github.com/transcriptionstream/transcriptionstream)
-
-开箱即用的自托管离线转录服务，支持说话人分离和LLM摘要生成。完全本地化运行，保护隐私数据安全。
-
-- **Stars:** ⭐️ 932
-- **Tags:** `转录服务` `说话人分离` `自托管`
-- **最后活动时间:** 2026-01-18
 
 ### [NVFlare](https://github.com/NVIDIA/NVFlare)
 
@@ -6354,6 +6386,14 @@ NVIDIA开发的联邦学习应用运行环境，支持去中心化的隐私保�
 - **Tags:** `MCP` `OpenAI` `中间件`
 - **最后活动时间:** 2025-12-08
 
+### [AI-Gateway](https://github.com/Azure-Samples/AI-Gateway)
+
+基于Azure API Management和Microsoft Foundry的AI网关实验室，支持探索AI模型、MCP服务器和智能体开发。
+
+- **Stars:** ⭐️ 925
+- **Tags:** `AI Gateway` `MCP` `Agents` `Azure`
+- **最后活动时间:** 2026-05-19
+
 ### [Paddle2ONNX](https://github.com/PaddlePaddle/Paddle2ONNX)
 
 飞桨模型转换为ONNX格式的工具，支持分类、检测、OCR等多种模型导出。
@@ -6370,14 +6410,6 @@ NVIDIA开发的联邦学习应用运行环境，支持去中心化的隐私保�
 - **Tags:** `ASR` `实时语音` `模型部署`
 - **最后活动时间:** 2026-05-10
 
-### [mindnlp](https://github.com/mindspore-lab/mindnlp)
-
-MindSpore与HuggingFace无缝集成库，支持在昇腾平台上运行Transformers和Diffusers模型。
-
-- **Stars:** ⭐️ 918
-- **Tags:** `mindspore` `huggingface` `transformers` `llm` `deep-learning`
-- **最后活动时间:** 2026-03-08
-
 ### [Serving](https://github.com/PaddlePaddle/Serving)
 
 飞桨服务化部署框架，支持高性能模型推理服务部署，提供DAG流水线和微服务架构。
@@ -6386,13 +6418,13 @@ MindSpore与HuggingFace无缝集成库，支持在昇腾平台上运行Transform
 - **Tags:** `model-serving` `deep-learning` `deployment` `paddle`
 - **最后活动时间:** 2026-02-20
 
-### [AI-Gateway](https://github.com/Azure-Samples/AI-Gateway)
+### [mindnlp](https://github.com/mindspore-lab/mindnlp)
 
-基于Azure API Management和Microsoft Foundry的AI网关实验室，支持探索AI模型、MCP服务器和智能体开发。
+MindSpore与HuggingFace无缝集成库，支持在昇腾平台上运行Transformers和Diffusers模型。
 
-- **Stars:** ⭐️ 916
-- **Tags:** `AI Gateway` `MCP` `Agents` `Azure`
-- **最后活动时间:** 2026-05-09
+- **Stars:** ⭐️ 917
+- **Tags:** `mindspore` `huggingface` `transformers` `llm` `deep-learning`
+- **最后活动时间:** 2026-03-08
 
 ### [oryx](https://github.com/ML-course/master)
 
@@ -6408,13 +6440,13 @@ MindSpore与HuggingFace无缝集成库，支持在昇腾平台上运行Transform
 
 - **Stars:** ⭐️ 909
 - **Tags:** `experiment-management` `machine-learning` `deepmind`
-- **最后活动时间:** 2026-04-24
+- **最后活动时间:** 2026-05-18
 
 ### [ZhiLight](https://github.com/zhihu/ZhiLight)
 
 高性能LLM推理加速引擎，针对Llama及其变体模型进行深度优化。
 
-- **Stars:** ⭐️ 906
+- **Stars:** ⭐️ 905
 - **Tags:** `Inference` `CUDA` `LLM Serving`
 - **最后活动时间:** 2026-03-18
 
@@ -6432,7 +6464,7 @@ MindSpore与HuggingFace无缝集成库，支持在昇腾平台上运行Transform
 
 - **Stars:** ⭐️ 900
 - **Tags:** `model-serving` `inference` `gpu` `rust`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-20
 
 ### [fal](https://github.com/fal-ai/fal)
 
@@ -6474,29 +6506,29 @@ VLLM、Sglang、llama.cpp等LLM推理引擎的可视化控制面板，简化本�
 - **Tags:** `vllm` `llm` `inference` `local-ai` `dashboard`
 - **最后活动时间:** 2026-05-08
 
+### [chatllm.cpp](https://github.com/foldl/chatllm.cpp)
+
+纯C++实现的本地LLM推理框架，支持CPU和GPU实时聊天推理，轻量高效。
+
+- **Stars:** ⭐️ 881
+- **Tags:** `LLM` `Inference` `C++` `Local`
+- **最后活动时间:** 2026-05-21
+
 ### [dmlc-core](https://github.com/dmlc/dmlc-core)
 
 分布式机器学习核心组件库，为XGBoost等框架提供可扩展的基础设施支持。
 
-- **Stars:** ⭐️ 878
+- **Stars:** ⭐️ 877
 - **Tags:** `distributed-ml` `xgboost` `scalable`
-- **最后活动时间:** 2026-04-27
+- **最后活动时间:** 2026-05-18
 
 ### [model_server](https://github.com/openvinotoolkit/model_server)
 
 专为OpenVINO优化的可扩展推理服务器。支持边缘和云端部署，提供DAG流水线能力。
 
-- **Stars:** ⭐️ 875
+- **Stars:** ⭐️ 876
 - **Tags:** `openvino` `inference` `edge-ai` `kubernetes`
-- **最后活动时间:** 2026-05-10
-
-### [chatllm.cpp](https://github.com/foldl/chatllm.cpp)
-
-纯C++实现的本地LLM推理框架，支持CPU和GPU实时聊天推理，轻量高效。
-
-- **Stars:** ⭐️ 874
-- **Tags:** `LLM` `Inference` `C++` `Local`
-- **最后活动时间:** 2026-05-08
+- **最后活动时间:** 2026-05-21
 
 ### [restheart](https://github.com/SoftInstigate/restheart)
 
@@ -6546,6 +6578,14 @@ OpenAI兼容的API代理服务，聚合14+AI提供商的免费额度并支持自
 - **Tags:** `llm` `distributed-inference` `llama.cpp`
 - **最后活动时间:** 2026-04-23
 
+### [Yatai](https://github.com/bentoml/Yatai)
+
+Kubernetes上的大规模模型部署平台。与BentoML深度集成，简化容器化模型服务管理。
+
+- **Stars:** ⭐️ 844
+- **Tags:** `model-deployment` `kubernetes` `bentoml` `mlops`
+- **最后活动时间:** 2026-05-15
+
 ### [ccNexus](https://github.com/lich0821/ccNexus)
 
 专为Claude Code和Codex CLI设计的智能API网关，支持端点轮换、用量监控，并可无缝集成OpenAI、Gemini等多个AI平台。
@@ -6553,14 +6593,6 @@ OpenAI兼容的API代理服务，聚合14+AI提供商的免费额度并支持自
 - **Stars:** ⭐️ 843
 - **Tags:** `API Gateway` `Claude Code` `Load Balancing`
 - **最后活动时间:** 2026-04-21
-
-### [Yatai](https://github.com/bentoml/Yatai)
-
-Kubernetes上的大规模模型部署平台。与BentoML深度集成，简化容器化模型服务管理。
-
-- **Stars:** ⭐️ 841
-- **Tags:** `model-deployment` `kubernetes` `bentoml` `mlops`
-- **最后活动时间:** 2026-05-09
 
 ### [tokenspeed](https://github.com/lightseekorg/tokenspeed)
 
@@ -6590,7 +6622,7 @@ Kubernetes上的大规模模型部署平台。与BentoML深度集成，简化容
 
 模块化、可观测的Go后端框架，内置MCP服务器支持，便于构建AI集成应用。
 
-- **Stars:** ⭐️ 834
+- **Stars:** ⭐️ 833
 - **Tags:** `go` `mcp` `mcp-server` `framework` `observability`
 - **最后活动时间:** 2026-02-24
 
@@ -6598,17 +6630,17 @@ Kubernetes上的大规模模型部署平台。与BentoML深度集成，简化容
 
 一站式AI模型部署平台，支持本地或远程快速部署模型、Agent、RAG和数据库管道。
 
-- **Stars:** ⭐️ 825
+- **Stars:** ⭐️ 829
 - **Tags:** `模型部署` `MLOps` `RAG`
-- **最后活动时间:** 2026-05-07
+- **最后活动时间:** 2026-05-15
 
 ### [coderunner](https://github.com/instavm/coderunner)
 
 为AI代理设计的本地沙箱环境，支持安全隔离的代码执行和容器化运行，保障AI代码执行的安全性。
 
-- **Stars:** ⭐️ 824
+- **Stars:** ⭐️ 827
 - **Tags:** `Sandbox` `Claude Code` `MCP` `Containerization`
-- **最后活动时间:** 2026-04-14
+- **最后活动时间:** 2026-05-16
 
 ### [Stan Math Library](https://github.com/stan-dev/math)
 
@@ -6686,7 +6718,7 @@ ComfyUI官方命令行管理工具，简化Stable Diffusion工作流的安装、
 
 完整的本地私有LLM服务器部署文档，支持聊天、RAG、MCP、图像生成和TTS等功能。
 
-- **Stars:** ⭐️ 757
+- **Stars:** ⭐️ 772
 - **Tags:** `LLM Server` `Self-hosted` `Docker`
 - **最后活动时间:** 2026-03-02
 
@@ -6730,6 +6762,14 @@ YOLOv5跨平台推理运行时，支持TensorRT、ONNXRuntime、TVM等多种加�
 - **Tags:** `rate-limiter` `caching` `kubernetes` `llm` `cloud-native`
 - **最后活动时间:** 2025-12-21
 
+### [rvllm](https://github.com/m0at/rvllm)
+
+高性能 Rust 实现的 LLM 推理引擎，可作为 vLLM 的直接替代方案。
+
+- **Stars:** ⭐️ 722
+- **Tags:** `llm` `inference` `rust` `vllm` `serving`
+- **最后活动时间:** 2026-05-17
+
 ### [clove](https://github.com/mirrorange/clove)
 
 Claude.ai 反向代理服务，帮助开发者更灵活地调用 Claude API 服务。
@@ -6762,6 +6802,14 @@ MCP服务集中管理平台，支持容器化部署、服务监控和令牌验�
 - **Tags:** `llm-inference` `low-latency` `runtime` `optimization`
 - **最后活动时间:** 2026-03-08
 
+### [LightCompress](https://github.com/ModelTC/LightCompress)
+
+强大的大模型压缩工具包，支持LLM、VLM和视频生成模型的量化、剪枝和Token缩减。已被EMNLP 2024和AAAI 2026收录。
+
+- **Stars:** ⭐️ 715
+- **Tags:** `Model Compression` `Quantization` `LLM` `Pruning`
+- **最后活动时间:** 2026-05-14
+
 ### [mlx-omni-server](https://github.com/madroidmaq/mlx-omni-server)
 
 基于Apple MLX框架的本地推理服务器，提供OpenAI兼容API，专为Apple Silicon优化。
@@ -6770,14 +6818,6 @@ MCP服务集中管理平台，支持容器化部署、服务监控和令牌验�
 - **Tags:** `mlx` `local-inference` `openai-api` `apple-silicon`
 - **最后活动时间:** 2026-05-09
 
-### [LightCompress](https://github.com/ModelTC/LightCompress)
-
-强大的大模型压缩工具包，支持LLM、VLM和视频生成模型的量化、剪枝和Token缩减。已被EMNLP 2024和AAAI 2026收录。
-
-- **Stars:** ⭐️ 713
-- **Tags:** `Model Compression` `Quantization` `LLM` `Pruning`
-- **最后活动时间:** 2026-05-08
-
 ### [lws](https://github.com/kubernetes-sigs/lws)
 
 Kubernetes API用于部署LLM推理工作负载，支持Leader-Worker模式的Pod组复制管理。
@@ -6785,14 +6825,6 @@ Kubernetes API用于部署LLM推理工作负载，支持Leader-Worker模式的Po
 - **Stars:** ⭐️ 712
 - **Tags:** `llm-inference` `kubernetes` `model-serving`
 - **最后活动时间:** 2026-05-05
-
-### [rvllm](https://github.com/m0at/rvllm)
-
-高性能 Rust 实现的 LLM 推理引擎，可作为 vLLM 的直接替代方案。
-
-- **Stars:** ⭐️ 709
-- **Tags:** `llm` `inference` `rust` `vllm` `serving`
-- **最后活动时间:** 2026-04-28
 
 ### [catwalk](https://github.com/charmbracelet/catwalk)
 
@@ -6806,7 +6838,7 @@ LLM推理提供商和模型的集合工具，支持多种推理后端和模型�
 
 MLOps实战课程，教授如何构建、开发与维护企业级机器学习运维代码库。
 
-- **Stars:** ⭐️ 695
+- **Stars:** ⭐️ 700
 - **Tags:** `mlops` `machine-learning` `devops` `best-practices`
 - **最后活动时间:** 2026-04-27
 
@@ -6846,9 +6878,17 @@ Kubeflow流水线的数据科学工具包，简化机器学习工作流的部署
 
 面向所有人的无服务器LLM服务框架。支持HuggingFace模型，降低大模型部署门槛。
 
-- **Stars:** ⭐️ 680
+- **Stars:** ⭐️ 682
 - **Tags:** `serverless` `llm-serving` `huggingface` `model-serving`
 - **最后活动时间:** 2026-05-04
+
+### [timber](https://github.com/kossisoroyce/timber)
+
+经典ML模型的AOT编译器，将XGBoost、LightGBM等模型编译为C99推理代码，比Python快336倍。
+
+- **Stars:** ⭐️ 680
+- **Tags:** `Model Serving` `Compiler` `Inference`
+- **最后活动时间:** 2026-04-16
 
 ### [ml-metadata](https://github.com/google/ml-metadata)
 
@@ -6865,14 +6905,6 @@ ML工作流元数据记录与检索工具，帮助管理机器学习开发流程
 - **Stars:** ⭐️ 678
 - **Tags:** `key-value-store` `ai-infrastructure` `data-storage` `high-performance`
 - **最后活动时间:** 2026-05-07
-
-### [timber](https://github.com/kossisoroyce/timber)
-
-经典ML模型的AOT编译器，将XGBoost、LightGBM等模型编译为C99推理代码，比Python快336倍。
-
-- **Stars:** ⭐️ 677
-- **Tags:** `Model Serving` `Compiler` `Inference`
-- **最后活动时间:** 2026-04-16
 
 ### [MinivLLM](https://github.com/Wenyueh/MinivLLM)
 
@@ -6944,15 +6976,23 @@ AI DIAL核心组件，提供统一的API接口访问多种聊天模型、嵌入�
 
 - **Stars:** ⭐️ 656
 - **Tags:** `Model Gateway` `API Proxy` `LLM Serving`
-- **最后活动时间:** 2026-05-08
+- **最后活动时间:** 2026-05-21
+
+### [SwiftLM](https://github.com/SharpAI/SwiftLM)
+
+专为Apple Silicon设计的原生MLX Swift LLM推理服务器，支持OpenAI兼容API和100B+ MoE模型。
+
+- **Stars:** ⭐️ 653
+- **Tags:** `mlx` `swift` `llm-inference` `apple-silicon` `openai-api` `on-device-ai`
+- **最后活动时间:** 2026-05-19
 
 ### [ck](https://github.com/mlcommons/ck)
 
 社区驱动的AI/ML自动化与基准测试平台，基于MLPerf方法论帮助优化AI工作负载在不同硬件和软件环境中的性能。
 
-- **Stars:** ⭐️ 646
+- **Stars:** ⭐️ 647
 - **Tags:** `mlperf` `mlops` `benchmarking` `automation` `ai-optimization`
-- **最后活动时间:** 2026-05-07
+- **最后活动时间:** 2026-05-19
 
 ### [stablehlo](https://github.com/openxla/stablehlo)
 
@@ -6970,6 +7010,14 @@ AI DIAL核心组件，提供统一的API接口访问多种聊天模型、嵌入�
 - **Tags:** `neuroscience` `spiking-neural-networks` `simulation`
 - **最后活动时间:** 2026-05-07
 
+### [mcp-gateway](https://github.com/microsoft/mcp-gateway)
+
+MCP服务器的反向代理和管理层，支持Kubernetes环境下的可扩展、会话感知的状态路由和生命周期管理。
+
+- **Stars:** ⭐️ 643
+- **Tags:** `MCP` `LLM Infrastructure` `Kubernetes`
+- **最后活动时间:** 2026-05-18
+
 ### [Gemini-FastAPI](https://github.com/Nativu5/Gemini-FastAPI)
 
 将 Gemini 模型封装为 OpenAI 兼容的 API 接口，方便开发者无缝切换使用。
@@ -6977,14 +7025,6 @@ AI DIAL核心组件，提供统一的API接口访问多种聊天模型、嵌入�
 - **Stars:** ⭐️ 640
 - **Tags:** `fastapi` `gemini` `openai-api` `api-wrapper`
 - **最后活动时间:** 2026-04-13
-
-### [SwiftLM](https://github.com/SharpAI/SwiftLM)
-
-专为Apple Silicon设计的原生MLX Swift LLM推理服务器，支持OpenAI兼容API和100B+ MoE模型。
-
-- **Stars:** ⭐️ 636
-- **Tags:** `mlx` `swift` `llm-inference` `apple-silicon` `openai-api` `on-device-ai`
-- **最后活动时间:** 2026-05-08
 
 ### [backend.ai](https://github.com/lablup/backend.ai)
 
@@ -7001,14 +7041,6 @@ AI DIAL核心组件，提供统一的API接口访问多种聊天模型、嵌入�
 - **Stars:** ⭐️ 632
 - **Tags:** `ollama` `api-gateway` `load-balancer` `proxy` `llm-serving`
 - **最后活动时间:** 2026-04-23
-
-### [mcp-gateway](https://github.com/microsoft/mcp-gateway)
-
-MCP服务器的反向代理和管理层，支持Kubernetes环境下的可扩展、会话感知的状态路由和生命周期管理。
-
-- **Stars:** ⭐️ 627
-- **Tags:** `MCP` `LLM Infrastructure` `Kubernetes`
-- **最后活动时间:** 2026-05-07
 
 ### [icechunk](https://github.com/earth-mover/icechunk)
 
@@ -7030,7 +7062,7 @@ Ollama多实例代理服务器，提供API密钥安全管理、智能负载均�
 
 新型快速高质量量化方法，可在保持精度的同时压缩大语言模型。
 
-- **Stars:** ⭐️ 616
+- **Stars:** ⭐️ 617
 - **Tags:** `quantization` `llm-compression` `model-optimization`
 - **最后活动时间:** 2026-05-08
 
@@ -7057,6 +7089,14 @@ Ollama多实例代理服务器，提供API密钥安全管理、智能负载均�
 - **Stars:** ⭐️ 612
 - **Tags:** `linear-algebra` `matrix` `machine-learning` `java`
 - **最后活动时间:** 2026-05-01
+
+### [zerobox](https://github.com/afshinm/zerobox)
+
+轻量级跨平台进程沙箱工具，为AI智能体提供文件、网络和凭证控制的安全隔离环境。
+
+- **Stars:** ⭐️ 612
+- **Tags:** `sandbox` `security` `llm-sandbox` `mcp` `process-isolation` `rust`
+- **最后活动时间:** 2026-05-17
 
 ### [OpenTrit-CHN](https://github.com/jakerdliu/OpenTrit-CHN)
 
@@ -7098,14 +7138,6 @@ Intel开源的深度学习流媒体分析框架，基于GStreamer构建云端和
 - **Tags:** `deep-learning` `gstreamer` `inference` `openvino` `edge-ai`
 - **最后活动时间:** 2026-05-08
 
-### [fastapi-ml-skeleton](https://github.com/eightBEC/fastapi-ml-skeleton)
-
-FastAPI机器学习模型服务骨架应用，快速构建生产级ML API服务。
-
-- **Stars:** ⭐️ 602
-- **Tags:** `fastapi` `model-serving` `production-ml`
-- **最后活动时间:** 2026-01-08
-
 ### [hugot](https://github.com/knights-analytics/hugot)
 
 Golang语言的ONNX Transformer推理管道，支持在Go环境中运行NLP模型。
@@ -7114,13 +7146,13 @@ Golang语言的ONNX Transformer推理管道，支持在Go环境中运行NLP模�
 - **Tags:** `golang` `onnx` `transformer-inference`
 - **最后活动时间:** 2026-05-08
 
-### [ai-gateway](https://github.com/Helicone/ai-gateway)
+### [fastapi-ml-skeleton](https://github.com/eightBEC/fastapi-ml-skeleton)
 
-快速、轻量的开源AI网关，提供负载均衡、缓存、限流和可观测性功能。
+FastAPI机器学习模型服务骨架应用，快速构建生产级ML API服务。
 
-- **Stars:** ⭐️ 589
-- **Tags:** `ai-gateway` `llm` `load-balancing` `rate-limiting` `observability`
-- **最后活动时间:** 2025-11-21
+- **Stars:** ⭐️ 601
+- **Tags:** `fastapi` `model-serving` `production-ml`
+- **最后活动时间:** 2026-01-08
 
 ### [openscoring](https://github.com/openscoring/openscoring)
 
@@ -7142,17 +7174,9 @@ AI模型安全运行沙盒工具，让你的AI模型在隔离环境中运行，�
 
 基于JAX+Equinox的非线性优化库，支持根查找、最小二乘等优化任务。
 
-- **Stars:** ⭐️ 577
+- **Stars:** ⭐️ 582
 - **Tags:** `optimization` `jax` `deep-learning` `equinox`
-- **最后活动时间:** 2026-05-05
-
-### [zerobox](https://github.com/afshinm/zerobox)
-
-轻量级跨平台进程沙箱工具，为AI智能体提供文件、网络和凭证控制的安全隔离环境。
-
-- **Stars:** ⭐️ 576
-- **Tags:** `sandbox` `security` `llm-sandbox` `mcp` `process-isolation` `rust`
-- **最后活动时间:** 2026-04-19
+- **最后活动时间:** 2026-05-13
 
 ### [model-runner](https://github.com/docker/model-runner)
 
@@ -7222,7 +7246,7 @@ Diffusion Transformer推理优化论文与代码合集，涵盖采样加速、�
 
 Polyaxon的ML追踪与可视化引擎，支持数据漂移检测、模型可解释性分析和交互式仪表盘。
 
-- **Stars:** ⭐️ 532
+- **Stars:** ⭐️ 533
 - **Tags:** `MLOps` `Visualization` `Drift Detection`
 - **最后活动时间:** 2026-04-26
 
@@ -7238,9 +7262,9 @@ Polyaxon的ML追踪与可视化引擎，支持数据漂移检测、模型可解�
 
 开源大模型微调、构建和部署的一站式工具，支持Docker和Kubernetes环境下的LLM服务化。
 
-- **Stars:** ⭐️ 522
+- **Stars:** ⭐️ 523
 - **Tags:** `LLM` `Deployment` `Docker`
-- **最后活动时间:** 2026-05-08
+- **最后活动时间:** 2026-05-18
 
 ### [UncommonRoute](https://github.com/CommonstackAI/UncommonRoute)
 
@@ -7249,6 +7273,22 @@ Polyaxon的ML追踪与可视化引擎，支持数据漂移检测、模型可解�
 - **Stars:** ⭐️ 522
 - **Tags:** `llm` `model-routing` `cost-optimization` `openai` `router`
 - **最后活动时间:** 2026-05-08
+
+### [vmlx](https://github.com/jjang-ai/vmlx)
+
+MLX 模型压缩与缓存系统，支持 L2 磁盘缓存、L1 分页和连续批处理优化。
+
+- **Stars:** ⭐️ 517
+- **Tags:** `mlx` `llm` `kvcache-optimization` `mcp-server` `openai-api`
+- **最后活动时间:** 2026-05-21
+
+### [crater](https://github.com/raids-lab/crater)
+
+云原生 AI 训练与推理平台，支持 Kubernetes 部署，集成 PyTorch、TensorFlow、vLLM 等主流框架。
+
+- **Stars:** ⭐️ 516
+- **Tags:** `kubernetes` `ai-training` `inference` `pytorch` `vllm` `ray`
+- **最后活动时间:** 2026-05-19
 
 ### [skops](https://github.com/skops-dev/skops)
 
@@ -7282,21 +7322,21 @@ Pandas和Spark数据框稳定性监控工具，支持数据漂移检测和统计
 - **Tags:** `Data Monitoring` `Drift Detection` `Spark`
 - **最后活动时间:** 2026-01-09
 
-### [crater](https://github.com/raids-lab/crater)
-
-云原生 AI 训练与推理平台，支持 Kubernetes 部署，集成 PyTorch、TensorFlow、vLLM 等主流框架。
-
-- **Stars:** ⭐️ 511
-- **Tags:** `kubernetes` `ai-training` `inference` `pytorch` `vllm` `ray`
-- **最后活动时间:** 2026-05-07
-
 ### [model_analyzer](https://github.com/triton-inference-server/model_analyzer)
 
 Triton推理服务器模型分析工具，帮助理解模型的计算和内存需求。
 
 - **Stars:** ⭐️ 510
 - **Tags:** `inference` `gpu` `performance-analysis` `deep-learning`
-- **最后活动时间:** 2026-05-08
+- **最后活动时间:** 2026-05-13
+
+### [openvino.genai](https://github.com/openvinotoolkit/openvino.genai)
+
+基于OpenVINO运行时的生成式AI推理框架，提供简洁的C++/Python API，支持高效部署大语言模型。
+
+- **Stars:** ⭐️ 509
+- **Tags:** `generative-ai` `openvino` `inference` `llm`
+- **最后活动时间:** 2026-05-21
 
 ### [FAST](https://github.com/FAST-Imaging/FAST)
 
@@ -7314,14 +7354,6 @@ Triton推理服务器模型分析工具，帮助理解模型的计算和内存�
 - **Tags:** `mcp` `monitoring` `ebpf` `ai-security`
 - **最后活动时间:** 2026-01-16
 
-### [claude-code-mux](https://github.com/9j/claude-code-mux)
-
-高性能Rust构建的AI路由代理，支持15+提供商的自动故障转移和优先级路由。
-
-- **Stars:** ⭐️ 508
-- **Tags:** `ai-proxy` `rust` `multi-provider`
-- **最后活动时间:** 2025-11-19
-
 ### [melior](https://github.com/mlir-rs/melior)
 
 Rust语言的MLIR绑定库，为机器学习编译器基础设施提供原生支持，适用于构建高性能AI模型优化工具。
@@ -7338,22 +7370,6 @@ Rust语言的MLIR绑定库，为机器学习编译器基础设施提供原生支
 - **Tags:** `pytorch` `fastapi` `streamlit` `model-serving` `docker`
 - **最后活动时间:** 2026-03-27
 
-### [openvino.genai](https://github.com/openvinotoolkit/openvino.genai)
-
-基于OpenVINO运行时的生成式AI推理框架，提供简洁的C++/Python API，支持高效部署大语言模型。
-
-- **Stars:** ⭐️ 503
-- **Tags:** `generative-ai` `openvino` `inference` `llm`
-- **最后活动时间:** 2026-05-09
-
-### [ScaleLLM](https://github.com/vectorch-ai/ScaleLLM)
-
-面向生产环境的高性能大语言模型推理系统，支持Llama3等主流模型，优化GPU利用率与推理延迟。
-
-- **Stars:** ⭐️ 502
-- **Tags:** `llm-inference` `serving` `gpu` `cuda` `production`
-- **最后活动时间:** 2025-12-19
-
 ### [restai](https://github.com/apocas/restai)
 
 开源AIaaS平台，支持多种公共和本地LLM，集成RAG、嵌入、图像音频生成、聊天部署等完整功能。
@@ -7362,14 +7378,6 @@ Rust语言的MLIR绑定库，为机器学习编译器基础设施提供原生支
 - **Tags:** `ai-platform` `llm` `rag` `ollama` `openai-api`
 - **最后活动时间:** 2026-05-09
 
-### [LPLB](https://github.com/deepseek-ai/LPLB)
-
-基于线性规划的MoE模型专家并行负载均衡器，优化大模型推理时的负载分配。
-
-- **Stars:** ⭐️ 502
-- **Tags:** `moe` `load-balancing` `llm` `distributed-systems`
-- **最后活动时间:** 2025-11-19
-
 ### [willow-inference-server](https://github.com/toverainc/willow-inference-server)
 
 开源高性能本地推理服务器，支持ASR语音识别、TTS语音合成和LLM大语言模型推理，提供WebRTC、REST和WebSocket接口。
@@ -7377,6 +7385,14 @@ Rust语言的MLIR绑定库，为机器学习编译器基础设施提供原生支
 - **Stars:** ⭐️ 501
 - **Tags:** `inference-server` `llm` `speech-recognition` `tts` `whisper`
 - **最后活动时间:** 2026-02-12
+
+### [ScaleLLM](https://github.com/vectorch-ai/ScaleLLM)
+
+面向生产环境的高性能大语言模型推理系统，支持Llama3等主流模型，优化GPU利用率与推理延迟。
+
+- **Stars:** ⭐️ 501
+- **Tags:** `llm-inference` `serving` `gpu` `cuda` `production`
+- **最后活动时间:** 2025-12-19
 
 ### [flash-tokenizer](https://github.com/NLPOptimize/flash-tokenizer)
 
@@ -7426,9 +7442,9 @@ Python实现的分块压缩N维数组库，广泛用于机器学习和科学计�
 
 LLVM机器学习引导优化基础设施，利用ML技术提升编译器优化效果。
 
-- **Stars:** ⭐️ 775
+- **Stars:** ⭐️ 778
 - **Tags:** `llvm` `compiler-optimization` `machine-learning`
-- **最后活动时间:** 2026-04-22
+- **最后活动时间:** 2026-05-15
 
 ### [xprof](https://github.com/openxla/xprof)
 
