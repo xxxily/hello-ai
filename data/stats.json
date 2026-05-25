@@ -1,6 +1,6 @@
 {
-  "totalProjects": 9298,
-  "totalRawProjects": 19138,
+  "totalProjects": 9456,
+  "totalRawProjects": 19372,
   "recencyThresholdMonths": 6,
   "categories": {
     "trending": {
@@ -10,64 +10,64 @@
     },
     "llms": {
       "name": "🧠 基础大模型",
-      "count": 143,
-      "rawCount": 561
+      "count": 145,
+      "rawCount": 577
     },
     "agents": {
       "name": "🤖 智能体与编排",
-      "count": 1458,
-      "rawCount": 1798
+      "count": 1500,
+      "rawCount": 1848
     },
     "rag_data": {
       "name": "🔍 RAG与检索",
-      "count": 424,
-      "rawCount": 667
+      "count": 432,
+      "rawCount": 675
     },
     "infrastructure": {
       "name": "☁️ 基础设施与部署",
-      "count": 939,
-      "rawCount": 1535
+      "count": 951,
+      "rawCount": 1552
     },
     "finetuning": {
       "name": "🔧 微调与训练",
-      "count": 360,
-      "rawCount": 911
+      "count": 362,
+      "rawCount": 918
     },
     "multimodal": {
       "name": "👁️ 多模态与音视频",
-      "count": 850,
-      "rawCount": 2738
+      "count": 867,
+      "rawCount": 2761
     },
     "devtools": {
       "name": "🛠️ 开发工具与SDK",
-      "count": 2061,
-      "rawCount": 3404
+      "count": 2091,
+      "rawCount": 3443
     },
     "applications": {
       "name": "🎨 AI终端应用",
-      "count": 869,
-      "rawCount": 1591
+      "count": 881,
+      "rawCount": 1611
     },
     "learning": {
       "name": "📚 学习与资源",
-      "count": 1231,
-      "rawCount": 4153
+      "count": 1253,
+      "rawCount": 4191
     },
     "desktop_tools": {
       "name": "💻 桌面与操作系统级应用",
-      "count": 302,
-      "rawCount": 409
+      "count": 306,
+      "rawCount": 412
     },
     "robotics_iot": {
       "name": "🦾 机器人与物联网",
-      "count": 493,
-      "rawCount": 1071
+      "count": 499,
+      "rawCount": 1081
     },
     "finance_business": {
       "name": "💼 商业与量化",
-      "count": 181,
-      "rawCount": 334
+      "count": 183,
+      "rawCount": 338
     }
   },
-  "lastUpdated": "2026-05-22T13:03:07.361Z"
+  "lastUpdated": "2026-05-25T03:14:05.384Z"
 }
