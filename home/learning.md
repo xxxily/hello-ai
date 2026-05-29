@@ -2,7 +2,7 @@
 
 > Tutorials, courses, and awesome lists.
 
-> 当前分类已收录 **1263** 个相关项目。
+> 当前分类已收录 **1267** 个相关项目。
 
 ## Awesome Lists
 
@@ -10,15 +10,15 @@
 
 汇集各类免费API的精选列表，包含多个AI和机器学习相关的API资源，是开发者寻找集成接口的实用参考。
 
-- **Stars:** ⭐️ 437.2k
+- **Stars:** ⭐️ 437.7k
 - **Tags:** `api` `public-apis` `free` `list`
-- **最后活动时间:** 2026-05-26
+- **最后活动时间:** 2026-05-28
 
 ### [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 
 精选LLM应用集合，涵盖AI智能体和RAG技术，支持多种模型提供商，适合开发者学习参考。
 
-- **Stars:** ⭐️ 111.8k
+- **Stars:** ⭐️ 112.1k
 - **Tags:** `LLM Apps` `Agents` `RAG` `Python`
 - **最后活动时间:** 2026-05-23
 
@@ -26,9 +26,9 @@
 
 MCP服务器资源合集，汇集各类Model Context Protocol服务器实现，帮助开发者集成AI模型与外部工具交互能力。
 
-- **Stars:** ⭐️ 87.9k
+- **Stars:** ⭐️ 88.1k
 - **Tags:** `MCP` `AI` `资源合集`
-- **最后活动时间:** 2026-05-26
+- **最后活动时间:** 2026-05-27
 
 ### [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
 
@@ -42,9 +42,9 @@ MCP服务器资源合集，汇集各类Model Context Protocol服务器实现，�
 
 高质量开放数据集精选列表，涵盖多个主题领域，为AI/ML研究和开发提供丰富的数据资源参考。
 
-- **Stars:** ⭐️ 75.6k
+- **Stars:** ⭐️ 75.7k
 - **Tags:** `datasets` `opendata` `AI`
-- **最后活动时间:** 2026-05-23
+- **最后活动时间:** 2026-05-28
 
 ### [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 
@@ -90,7 +90,7 @@ ChatGPT中文调教指南，涵盖多种使用场景和提示词技巧，帮助�
 
 Claude Code 精选资源合集，汇集技能、钩子、命令编排器及插件，助力开发者高效使用 Claude Code 进行智能编程。
 
-- **Stars:** ⭐️ 44.9k
+- **Stars:** ⭐️ 45.1k
 - **Tags:** `Claude Code` `Awesome List` `Coding Agent`
 - **最后活动时间:** 2026-04-27
 
@@ -102,6 +102,14 @@ DeepSeek API集成指南，展示如何将DeepSeek大模型集成到各类流行
 - **Tags:** `deepseek` `llm` `api-integration`
 - **最后活动时间:** 2026-02-23
 
+### [500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)
+
+精选500个AI智能体项目合集，涵盖医疗、金融、教育等多个行业的实际应用案例。
+
+- **Stars:** ⭐️ 31.3k
+- **Tags:** `ai-agents` `awesome-list` `genai` `use-cases`
+- **最后活动时间:** 2026-01-13
+
 ### [awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)
 
 OpenClaw用例社区合集，收集了各种让生活更便捷的AI Agent应用场景和实践案例。
@@ -110,29 +118,21 @@ OpenClaw用例社区合集，收集了各种让生活更便捷的AI Agent应用�
 - **Tags:** `Awesome List` `Use Cases` `Community`
 - **最后活动时间:** 2026-03-24
 
-### [500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)
-
-精选500个AI智能体项目合集，涵盖医疗、金融、教育等多个行业的实际应用案例。
-
-- **Stars:** ⭐️ 31.2k
-- **Tags:** `ai-agents` `awesome-list` `genai` `use-cases`
-- **最后活动时间:** 2026-01-13
-
 ### [awesome-datascience](https://github.com/academic/awesome-datascience)
 
 数据科学领域的精选资源列表，涵盖机器学习、深度学习、数据可视化等核心主题，适合学习和实践参考。
 
 - **Stars:** ⭐️ 29.3k
 - **Tags:** `data-science` `machine-learning` `awesome-list`
-- **最后活动时间:** 2026-05-26
+- **最后活动时间:** 2026-05-28
 
 ### [claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
 
 Anthropic 官方维护的 Claude Code 插件目录，收录高质量插件资源，提供便捷的插件发现和使用指南。
 
-- **Stars:** ⭐️ 27.9k
+- **Stars:** ⭐️ 28.5k
 - **Tags:** `Claude Code` `MCP` `插件目录` `官方资源`
-- **最后活动时间:** 2026-05-26
+- **最后活动时间:** 2026-05-28
 
 ### [awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
 
@@ -146,15 +146,15 @@ Anthropic 官方维护的 Claude Code 插件目录，收录高质量插件资源
 
 涵盖AI安全、道德黑客、漏洞研究等领域的综合资源合集，包含数千个实用资源。
 
-- **Stars:** ⭐️ 26.5k
+- **Stars:** ⭐️ 26.6k
 - **Tags:** `ai-security` `cybersecurity` `ethical-hacking` `awesome-list`
-- **最后活动时间:** 2026-05-10
+- **最后活动时间:** 2026-05-28
 
 ### [awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing)
 
 提升AI研究论文写作质量的精选资源列表，帮助研究者高效完成学术写作与润色。
 
-- **Stars:** ⭐️ 25.4k
+- **Stars:** ⭐️ 26.1k
 - **Tags:** `ai-research` `academic-writing` `research-tools`
 - **最后活动时间:** 2026-05-18
 
@@ -162,17 +162,17 @@ Anthropic 官方维护的 Claude Code 插件目录，收录高质量插件资源
 
 每周更新的机器学习Python库精选榜单，涵盖深度学习、NLP、数据科学等热门领域。
 
-- **Stars:** ⭐️ 23.5k
+- **Stars:** ⭐️ 23.6k
 - **Tags:** `Machine Learning` `Python` `Curated List`
-- **最后活动时间:** 2026-05-21
+- **最后活动时间:** 2026-05-28
 
 ### [awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)
 
 收录500+AI智能体技能，兼容Claude Code、Cursor等多种AI开发工具。
 
-- **Stars:** ⭐️ 23.2k
+- **Stars:** ⭐️ 23.5k
 - **Tags:** `AI Agents` `Claude Code` `Skills`
-- **最后活动时间:** 2026-05-24
+- **最后活动时间:** 2026-05-27
 
 ### [Awesome-Chinese-LLM](https://github.com/AiHubCN/Awesome-Chinese-LLM)
 
@@ -182,6 +182,14 @@ Anthropic 官方维护的 Claude Code 插件目录，收录高质量插件资源
 - **Tags:** `llm` `chinese` `chatglm` `llama` `nlp` `awesome-list`
 - **最后活动时间:** 2026-05-10
 
+### [awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates)
+
+收录280+个免费n8n自动化模板，涵盖AI智能体、RAG聊天机器人等多种场景。
+
+- **Stars:** ⭐️ 22.6k
+- **Tags:** `n8n` `AI自动化` `工作流模板`
+- **最后活动时间:** 2026-04-09
+
 ### [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)
 
 中文大语言模型资源精选，收录可私有化部署的小规模模型、垂直领域微调及数据集教程。
@@ -190,29 +198,21 @@ Anthropic 官方维护的 Claude Code 插件目录，收录高质量插件资源
 - **Tags:** `中文LLM` `资源合集` `私有化部署`
 - **最后活动时间:** 2026-04-23
 
-### [awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates)
-
-收录280+个免费n8n自动化模板，涵盖AI智能体、RAG聊天机器人等多种场景。
-
-- **Stars:** ⭐️ 22.5k
-- **Tags:** `n8n` `AI自动化` `工作流模板`
-- **最后活动时间:** 2026-04-09
-
 ### [free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources)
 
 精选免费LLM API资源汇总，涵盖OpenAI、Claude、Gemini等主流模型接口，帮助开发者快速找到可用的免费推理服务。
 
-- **Stars:** ⭐️ 22.3k
+- **Stars:** ⭐️ 22.5k
 - **Tags:** `LLM` `API` `免费资源`
-- **最后活动时间:** 2026-05-26
+- **最后活动时间:** 2026-05-28
 
 ### [awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents)
 
 收录100+个专业Claude Code子代理的精选列表，覆盖多种开发场景，为开发者提供丰富的AI代理模板参考。
 
-- **Stars:** ⭐️ 20.6k
+- **Stars:** ⭐️ 20.8k
 - **Tags:** `Claude` `AI Agents` `Awesome List`
-- **最后活动时间:** 2026-05-25
+- **最后活动时间:** 2026-05-27
 
 ### [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning)
 
@@ -226,7 +226,7 @@ Anthropic 官方维护的 Claude Code 插件目录，收录高质量插件资源
 
 自然语言处理精选资源合集，涵盖NLP核心概念、数据集、模型架构及实践教程。
 
-- **Stars:** ⭐️ 18.6k
+- **Stars:** ⭐️ 18.7k
 - **Tags:** `NLP` `自然语言处理` `资源合集`
 - **最后活动时间:** 2026-05-21
 
@@ -266,7 +266,7 @@ PyTorch相关资源的综合列表，涵盖模型实现、辅助库、教程等�
 
 Kubernetes 精选资源列表，涵盖云原生部署、机器学习、监控等多个领域的优质学习资源。
 
-- **Stars:** ⭐️ 15.9k
+- **Stars:** ⭐️ 16.0k
 - **Tags:** `kubernetes` `docker` `machine-learning` `cloud-native`
 - **最后活动时间:** 2026-04-28
 
@@ -290,7 +290,7 @@ Kubernetes 精选资源列表，涵盖云原生部署、机器学习、监控等
 
 AI学习资源精选合集，涵盖课程、书籍、视频讲座和论文，适合系统性构建AI知识体系。
 
-- **Stars:** ⭐️ 13.9k
+- **Stars:** ⭐️ 14.0k
 - **Tags:** `AI` `机器学习` `资源合集`
 - **最后活动时间:** 2026-05-17
 
@@ -298,7 +298,7 @@ AI学习资源精选合集，涵盖课程、书籍、视频讲座和论文，适
 
 精选Claude技能、资源和工具列表，专注于定制化Claude AI工作流，特别是Claude Code。
 
-- **Stars:** ⭐️ 12.9k
+- **Stars:** ⭐️ 13.0k
 - **Tags:** `Claude` `技能列表` `资源合集`
 - **最后活动时间:** 2026-04-28
 
@@ -318,13 +318,21 @@ AI应用案例合集，展示RAG、智能体、工作流等多种AI应用场景�
 - **Tags:** `Agents` `RAG` `LLM` `MCP`
 - **最后活动时间:** 2026-05-09
 
+### [awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills)
+
+Codex CLI和API的实用技能精选列表，助力自动化工作流程。
+
+- **Stars:** ⭐️ 12.4k
+- **Tags:** `codex` `coding-agents` `skills` `automation`
+- **最后活动时间:** 2026-05-15
+
 ### [ai-money-maker-handbook](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)
 
 AI副业赚钱大集合，教你如何利用AI做副业项目赚取额外收益，包含丰富的实践案例和指导。
 
-- **Stars:** ⭐️ 12.2k
+- **Stars:** ⭐️ 12.3k
 - **Tags:** `AI副业` `赚钱指南` `教程`
-- **最后活动时间:** 2026-05-26
+- **最后活动时间:** 2026-05-29
 
 ### [awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai)
 
@@ -333,14 +341,6 @@ AI副业赚钱大集合，教你如何利用AI做副业项目赚取额外收益�
 - **Stars:** ⭐️ 12.1k
 - **Tags:** `Generative AI` `Awesome List` `LLM`
 - **最后活动时间:** 2026-05-22
-
-### [awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills)
-
-Codex CLI和API的实用技能精选列表，助力自动化工作流程。
-
-- **Stars:** ⭐️ 11.8k
-- **Tags:** `codex` `coding-agents` `skills` `automation`
-- **最后活动时间:** 2026-05-15
 
 ### [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
 
@@ -380,7 +380,7 @@ Nano Banana Pro AI图像模型的提示词工程资源合集，包含精选示�
 
 - **Stars:** ⭐️ 10.0k
 - **Tags:** `Prompt Engineering` `Image Generation` `Awesome List`
-- **最后活动时间:** 2026-04-21
+- **最后活动时间:** 2026-05-27
 
 ### [awesome-java](https://github.com/CodingDocs/awesome-java)
 
@@ -418,7 +418,7 @@ LangChain生态系统的精选工具与项目列表，帮助开发者快速上�
 
 精选Claude Skills资源列表，汇集自定义AI工作流工具，针对Claude Code优化。
 
-- **Stars:** ⭐️ 9.2k
+- **Stars:** ⭐️ 9.3k
 - **Tags:** `Claude` `Awesome List` `AI Workflows`
 - **最后活动时间:** 2026-04-01
 
@@ -436,7 +436,7 @@ LangChain生态系统的精选工具与项目列表，帮助开发者快速上�
 
 - **Stars:** ⭐️ 9.0k
 - **Tags:** `api` `open-source` `public-api` `resources`
-- **最后活动时间:** 2026-05-21
+- **最后活动时间:** 2026-05-27
 
 ### [ai-collection](https://github.com/ai-collection/ai-collection)
 
@@ -444,7 +444,7 @@ LangChain生态系统的精选工具与项目列表，帮助开发者快速上�
 
 - **Stars:** ⭐️ 9.0k
 - **Tags:** `generative-ai` `awesome-list` `ai-applications`
-- **最后活动时间:** 2026-05-26
+- **最后活动时间:** 2026-05-29
 
 ### [awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills)
 
@@ -468,15 +468,15 @@ LangChain生态系统的精选工具与项目列表，帮助开发者快速上�
 
 - **Stars:** ⭐️ 8.4k
 - **Tags:** `LLM` `Resources` `Awesome`
-- **最后活动时间:** 2026-05-25
+- **最后活动时间:** 2026-05-27
 
 ### [awesome-prompts](https://github.com/ai-boost/awesome-prompts)
 
 精选ChatGPT提示词合集，收录高评分GPTs提示词，涵盖提示词工程、安全防护及前沿论文资源。
 
-- **Stars:** ⭐️ 8.0k
+- **Stars:** ⭐️ 8.1k
 - **Tags:** `Prompt` `ChatGPT` `提示词`
-- **最后活动时间:** 2026-05-26
+- **最后活动时间:** 2026-05-29
 
 ### [awesome-web-scraping](https://github.com/lorien/awesome-web-scraping)
 
@@ -484,7 +484,7 @@ LangChain生态系统的精选工具与项目列表，帮助开发者快速上�
 
 - **Stars:** ⭐️ 7.9k
 - **Tags:** `web-scraping` `crawling` `data-collection`
-- **最后活动时间:** 2026-05-23
+- **最后活动时间:** 2026-05-28
 
 ### [awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers)
 
@@ -498,7 +498,7 @@ LangChain生态系统的精选工具与项目列表，帮助开发者快速上�
 
 OpenCode.ai 的精选资源列表，汇集插件、主题、智能体和项目资源。
 
-- **Stars:** ⭐️ 7.3k
+- **Stars:** ⭐️ 7.4k
 - **Tags:** `awesome-list` `opencode` `ai-agents`
 - **最后活动时间:** 2026-03-21
 
@@ -506,9 +506,9 @@ OpenCode.ai 的精选资源列表，汇集插件、主题、智能体和项目�
 
 MCP协议中文资源精选合集，涵盖服务器、客户端、工具及多模型集成指南，助力Claude、DeepSeek等模型实践。
 
-- **Stars:** ⭐️ 7.1k
+- **Stars:** ⭐️ 7.2k
 - **Tags:** `MCP` `Claude` `资源合集` `中文`
-- **最后活动时间:** 2026-03-31
+- **最后活动时间:** 2026-05-29
 
 ### [technical-books](https://github.com/doocs/technical-books)
 
@@ -530,7 +530,7 @@ MCP协议中文资源精选合集，涵盖服务器、客户端、工具及多�
 
 精选MCP客户端集合，帮助开发者快速发现和选择适合的Model Context Protocol客户端工具。
 
-- **Stars:** ⭐️ 6.4k
+- **Stars:** ⭐️ 6.5k
 - **Tags:** `MCP` `Awesome List` `Tools`
 - **最后活动时间:** 2026-04-30
 
@@ -574,20 +574,20 @@ Java框架、库和软件资源合集，包含机器学习相关资源，适合�
 - **Tags:** `java` `machine-learning` `awesome-list` `frameworks`
 - **最后活动时间:** 2026-05-08
 
-### [Awesome-AITools](https://github.com/ikaijua/Awesome-AITools)
-
-精选AI实用工具合集，涵盖ChatGPT、Claude、Gemini等主流模型相关工具资源。
-
-- **Stars:** ⭐️ 6.0k
-- **Tags:** `AI Tools` `Awesome List` `ChatGPT`
-- **最后活动时间:** 2026-05-26
-
 ### [Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)
 
 精心整理的提示工程资源合集，涵盖GPT、ChatGPT等大语言模型的提示技巧。
 
 - **Stars:** ⭐️ 6.0k
 - **Tags:** `提示工程` `资源合集` `LLM`
+- **最后活动时间:** 2026-05-28
+
+### [Awesome-AITools](https://github.com/ikaijua/Awesome-AITools)
+
+精选AI实用工具合集，涵盖ChatGPT、Claude、Gemini等主流模型相关工具资源。
+
+- **Stars:** ⭐️ 6.0k
+- **Tags:** `AI Tools` `Awesome List` `ChatGPT`
 - **最后活动时间:** 2026-05-26
 
 ### [awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts)
@@ -606,14 +606,6 @@ Java框架、库和软件资源合集，包含机器学习相关资源，适合�
 - **Tags:** `LLMOps` `MLOps` `Awesome List`
 - **最后活动时间:** 2026-05-21
 
-### [awesome-pretrained-chinese-nlp-models](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models)
-
-高质量中文预训练模型与大模型资源集合，涵盖BERT、GPT等多种架构。
-
-- **Stars:** ⭐️ 5.6k
-- **Tags:** `Awesome List` `Pretrained Models` `Chinese NLP`
-- **最后活动时间:** 2026-05-15
-
 ### [awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers)
 
 精选的模型上下文协议（MCP）服务器列表，帮助开发者快速发现和集成 MCP 工具。
@@ -621,6 +613,14 @@ Java框架、库和软件资源合集，包含机器学习相关资源，适合�
 - **Stars:** ⭐️ 5.6k
 - **Tags:** `mcp` `awesome` `model-context-protocol` `servers`
 - **最后活动时间:** 2026-05-06
+
+### [awesome-pretrained-chinese-nlp-models](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models)
+
+高质量中文预训练模型与大模型资源集合，涵盖BERT、GPT等多种架构。
+
+- **Stars:** ⭐️ 5.6k
+- **Tags:** `Awesome List` `Pretrained Models` `Chinese NLP`
+- **最后活动时间:** 2026-05-15
 
 ### [API-mega-list](https://github.com/cporter202/API-mega-list)
 
@@ -644,7 +644,7 @@ Java框架、库和软件资源合集，包含机器学习相关资源，适合�
 
 - **Stars:** ⭐️ 5.3k
 - **Tags:** `ai` `jobs` `internship` `machine-learning`
-- **最后活动时间:** 2026-05-25
+- **最后活动时间:** 2026-05-28
 
 ### [awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools)
 
@@ -658,7 +658,7 @@ Java框架、库和软件资源合集，包含机器学习相关资源，适合�
 
 精选LLM/VLM推理论文与代码合集，涵盖Flash-Attention、Paged-Attention、量化等技术。
 
-- **Stars:** ⭐️ 5.2k
+- **Stars:** ⭐️ 5.3k
 - **Tags:** `Inference` `Awesome-List` `LLM`
 - **最后活动时间:** 2026-04-20
 
@@ -684,7 +684,7 @@ AI编程代理技能资源精选列表，涵盖Claude、Codex、Copilot等主流
 
 - **Stars:** ⭐️ 5.1k
 - **Tags:** `Graph Neural Networks` `Deep Learning` `Research Papers`
-- **最后活动时间:** 2026-05-25
+- **最后活动时间:** 2026-05-28
 
 ### [Awesome-Geospatial](https://github.com/sacridini/Awesome-Geospatial)
 
@@ -692,15 +692,15 @@ AI编程代理技能资源精选列表，涵盖Claude、Codex、Copilot等主流
 
 - **Stars:** ⭐️ 5.1k
 - **Tags:** `geospatial` `gis` `remote-sensing` `awesome-list`
-- **最后活动时间:** 2026-05-22
+- **最后活动时间:** 2026-05-28
 
 ### [awesome-codex-subagents](https://github.com/VoltAgent/awesome-codex-subagents)
 
 收录130+专业Codex子代理的资源列表，覆盖多种开发场景。
 
-- **Stars:** ⭐️ 4.9k
+- **Stars:** ⭐️ 5.0k
 - **Tags:** `awesome-list` `ai-agents` `codex` `subagents` `codex-skills`
-- **最后活动时间:** 2026-05-25
+- **最后活动时间:** 2026-05-27
 
 ### [ml-road](https://github.com/yanshengjia/ml-road)
 
@@ -726,6 +726,14 @@ AI编程代理技能资源精选列表，涵盖Claude、Codex、Copilot等主流
 - **Tags:** `robotics` `learning` `moocs`
 - **最后活动时间:** 2026-05-11
 
+### [awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis)
+
+汇总永久免费的LLM API资源列表，包含多种AI服务商的免费API密钥和接入方式。
+
+- **Stars:** ⭐️ 4.6k
+- **Tags:** `llm` `api` `openai` `anthropic` `gemini` `ollama`
+- **最后活动时间:** 2026-05-27
+
 ### [datascience](https://github.com/r0f1/datascience)
 
 Python数据科学资源精选列表，涵盖数据分析、机器学习、深度学习、统计学等领域。
@@ -742,19 +750,11 @@ Python数据科学资源精选列表，涵盖数据分析、机器学习、深�
 - **Tags:** `awesome-list` `agentic-patterns` `ai-agents`
 - **最后活动时间:** 2026-05-07
 
-### [awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis)
-
-汇总永久免费的LLM API资源列表，包含多种AI服务商的免费API密钥和接入方式。
-
-- **Stars:** ⭐️ 4.6k
-- **Tags:** `llm` `api` `openai` `anthropic` `gemini` `ollama`
-- **最后活动时间:** 2026-05-22
-
 ### [awesome-vibe-coding](https://github.com/filipecalegario/awesome-vibe-coding)
 
 精选的Vibe Coding资源列表，汇集了与AI协作编程的各类工具、框架和最佳实践参考。
 
-- **Stars:** ⭐️ 4.5k
+- **Stars:** ⭐️ 4.6k
 - **Tags:** `Awesome List` `AI Coding` `Vibe Coding` `Cursor`
 - **最后活动时间:** 2026-04-16
 
@@ -772,7 +772,7 @@ Agent Skills终极指南，涵盖快速入门教程、核心技能解析与实�
 
 - **Stars:** ⭐️ 4.5k
 - **Tags:** `python` `awesome-list` `machine-learning` `data-science`
-- **最后活动时间:** 2026-05-22
+- **最后活动时间:** 2026-05-28
 
 ### [Awesome-Incremental-Learning](https://github.com/xialeiliu/Awesome-Incremental-Learning)
 
@@ -780,7 +780,15 @@ Agent Skills终极指南，涵盖快速入门教程、核心技能解析与实�
 
 - **Stars:** ⭐️ 4.5k
 - **Tags:** `incremental-learning` `machine-learning` `continual-learning` `deep-learning`
-- **最后活动时间:** 2026-03-18
+- **最后活动时间:** 2026-05-26
+
+### [models.dev](https://github.com/anomalyco/models.dev)
+
+开源 AI 模型数据库，提供全面的模型信息查询与比较资源。
+
+- **Stars:** ⭐️ 4.4k
+- **Tags:** `ai-models` `database` `open-source` `model-directory`
+- **最后活动时间:** 2026-05-29
 
 ### [awesome-ai-ml-resources](https://github.com/armankhondker/awesome-ai-ml-resources)
 
@@ -806,6 +814,14 @@ RLHF（人类反馈强化学习）精选资源列表，持续更新大模型对�
 - **Tags:** `rlhf` `reinforcement-learning` `large-language-models`
 - **最后活动时间:** 2026-05-20
 
+### [awesome-openclaw-usecases-zh](https://github.com/AlexAnys/awesome-openclaw-usecases-zh)
+
+OpenClaw AI智能体中文用例大全，涵盖40+真实场景，包括自动化办公、内容创作、运维等实用案例。
+
+- **Stars:** ⭐️ 4.3k
+- **Tags:** `AI Agent` `Use Cases` `Chinese Guide`
+- **最后活动时间:** 2026-05-11
+
 ### [Data-Science-Roadmap](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap)
 
 从零到精通的数据科学学习路线图，涵盖机器学习、深度学习、NLP等AI核心领域。
@@ -813,22 +829,6 @@ RLHF（人类反馈强化学习）精选资源列表，持续更新大模型对�
 - **Stars:** ⭐️ 4.3k
 - **Tags:** `Data Science` `Machine Learning` `Roadmap`
 - **最后活动时间:** 2025-12-06
-
-### [awesome-openclaw-usecases-zh](https://github.com/AlexAnys/awesome-openclaw-usecases-zh)
-
-OpenClaw AI智能体中文用例大全，涵盖40+真实场景，包括自动化办公、内容创作、运维等实用案例。
-
-- **Stars:** ⭐️ 4.2k
-- **Tags:** `AI Agent` `Use Cases` `Chinese Guide`
-- **最后活动时间:** 2026-05-11
-
-### [models.dev](https://github.com/anomalyco/models.dev)
-
-开源 AI 模型数据库，提供全面的模型信息查询与比较资源。
-
-- **Stars:** ⭐️ 4.2k
-- **Tags:** `ai-models` `database` `open-source` `model-directory`
-- **最后活动时间:** 2026-05-26
 
 ### [Data-science](https://github.com/CodeCutTech/Data-science)
 
@@ -844,7 +844,7 @@ OpenClaw AI智能体中文用例大全，涵盖40+真实场景，包括自动化
 
 - **Stars:** ⭐️ 4.2k
 - **Tags:** `algorithmic-trading` `quantitative-trading` `backtesting` `trading-strategies`
-- **最后活动时间:** 2026-05-18
+- **最后活动时间:** 2026-05-27
 
 ### [awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers)
 
@@ -876,7 +876,7 @@ OpenClaw 中文官方技能库，按场景分类整理，支持中文自然语�
 
 - **Stars:** ⭐️ 4.0k
 - **Tags:** `XAI` `Awesome List` `Responsible AI`
-- **最后活动时间:** 2026-03-16
+- **最后活动时间:** 2026-05-27
 
 ### [every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui)
 
@@ -972,7 +972,7 @@ AI爬虫和机器人屏蔽列表，帮助网站管理员管理AI访问权限。
 
 - **Stars:** ⭐️ 3.6k
 - **Tags:** `anomaly-detection` `industrial-inspection` `computer-vision` `deep-learning`
-- **最后活动时间:** 2026-05-19
+- **最后活动时间:** 2026-05-27
 
 ### [free-programming-resources](https://github.com/liyupi/free-programming-resources)
 
@@ -1026,9 +1026,9 @@ AI爬虫和机器人屏蔽列表，帮助网站管理员管理AI访问权限。
 
 精选的用户脚本合集，包含ChatGPT、隐私保护、广告屏蔽等多种实用脚本资源。
 
-- **Stars:** ⭐️ 3.3k
+- **Stars:** ⭐️ 3.4k
 - **Tags:** `awesome-list` `userscripts` `chatgpt` `javascript`
-- **最后活动时间:** 2026-05-21
+- **最后活动时间:** 2026-05-29
 
 ### [awesome-kan](https://github.com/mintisan/awesome-kan)
 
@@ -1036,7 +1036,7 @@ Kolmogorov-Arnold Network (KAN) 相关资源的综合合集，涵盖库、项目
 
 - **Stars:** ⭐️ 3.2k
 - **Tags:** `KAN` `neural-network` `deep-learning` `awesome-list`
-- **最后活动时间:** 2026-04-02
+- **最后活动时间:** 2026-05-28
 
 ### [Awesome-LLMs-for-Video-Understanding](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding)
 
@@ -1060,7 +1060,15 @@ IEEE TCSVT收录的视频理解大模型资源汇总，包含最新论文、代�
 
 - **Stars:** ⭐️ 3.2k
 - **Tags:** `Context Engineering` `LLM` `Agents` `RAG`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-28
+
+### [ai-engineering-toolkit](https://github.com/Sumanth077/ai-engineering-toolkit)
+
+精选100+AI工程师构建LLM应用所需的库和框架资源列表。
+
+- **Stars:** ⭐️ 3.2k
+- **Tags:** `Awesome List` `AI Engineering` `LLM`
+- **最后活动时间:** 2026-05-11
 
 ### [TSFpaper](https://github.com/ddz16/TSFpaper)
 
@@ -1069,14 +1077,6 @@ IEEE TCSVT收录的视频理解大模型资源汇总，包含最新论文、代�
 - **Stars:** ⭐️ 3.1k
 - **Tags:** `time-series-forecasting` `spatio-temporal` `deep-learning` `transformer`
 - **最后活动时间:** 2026-03-29
-
-### [ai-engineering-toolkit](https://github.com/Sumanth077/ai-engineering-toolkit)
-
-精选100+AI工程师构建LLM应用所需的库和框架资源列表。
-
-- **Stars:** ⭐️ 3.1k
-- **Tags:** `Awesome List` `AI Engineering` `LLM`
-- **最后活动时间:** 2026-05-11
 
 ### [Awesome-Super-Resolution](https://github.com/ChaofWang/Awesome-Super-Resolution)
 
@@ -1092,7 +1092,7 @@ IEEE TCSVT收录的视频理解大模型资源汇总，包含最新论文、代�
 
 - **Stars:** ⭐️ 3.0k
 - **Tags:** `ChatGPT` `OpenAI` `Awesome List`
-- **最后活动时间:** 2026-05-25
+- **最后活动时间:** 2026-05-26
 
 ### [awesome-mlss](https://github.com/awesome-mlss/awesome-mlss)
 
@@ -1150,6 +1150,14 @@ AIGC、CV、LLM面试问题与答案合集，包含算法、深度学习、自�
 - **Tags:** `deep-learning` `interview` `aigc` `pytorch` `awesome`
 - **最后活动时间:** 2026-03-05
 
+### [awesome-harness-engineering](https://github.com/walkinglabs/awesome-harness-engineering)
+
+AI智能体线束工程领域的精选资源列表，汇集了构建和管理AI Agent所需的工具、框架与最佳实践指南。
+
+- **Stars:** ⭐️ 2.8k
+- **Tags:** `agentic-ai` `ai-agents` `harness-engineering` `llm`
+- **最后活动时间:** 2026-05-22
+
 ### [Awesome-AI4Med](https://github.com/FreedomIntelligence/Awesome-AI4Med)
 
 医疗AI领域的精选资源合集，涵盖医学LLM、多模态系统、数据集和基准测试等内容。
@@ -1157,14 +1165,6 @@ AIGC、CV、LLM面试问题与答案合集，包含算法、深度学习、自�
 - **Stars:** ⭐️ 2.8k
 - **Tags:** `medical-ai` `llm` `multimodal` `datasets` `awesome-list`
 - **最后活动时间:** 2026-05-11
-
-### [awesome-harness-engineering](https://github.com/walkinglabs/awesome-harness-engineering)
-
-AI智能体线束工程领域的精选资源列表，汇集了构建和管理AI Agent所需的工具、框架与最佳实践指南。
-
-- **Stars:** ⭐️ 2.7k
-- **Tags:** `agentic-ai` `ai-agents` `harness-engineering` `llm`
-- **最后活动时间:** 2026-05-22
 
 ### [Awesome-World-Models](https://github.com/knightnemo/Awesome-World-Models)
 
@@ -1194,9 +1194,9 @@ CV算法工程师成长笔记，涵盖计算机视觉、深度学习、模型部
 
 为独立开发者精选的技术栈和工具合集，包含AI、LLM、云服务等热门工具，帮助提升开发效率。
 
-- **Stars:** ⭐️ 2.5k
+- **Stars:** ⭐️ 2.6k
 - **Tags:** `独立开发者` `工具集` `AI工具`
-- **最后活动时间:** 2026-05-25
+- **最后活动时间:** 2026-05-27
 
 ### [collection-claude-code-source-code](https://github.com/chauncygu/collection-claude-code-source-code)
 
@@ -1206,14 +1206,6 @@ Claude Code开源项目资源合集，收集最新的Claude Code相关开源项�
 - **Tags:** `claude-code` `awesome-list` `open-source`
 - **最后活动时间:** 2026-04-11
 
-### [Deep-Learning-for-Tracking-and-Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
-
-深度学习目标跟踪与检测资源合集，包含论文、数据集和代码实现。
-
-- **Stars:** ⭐️ 2.5k
-- **Tags:** `object-tracking` `object-detection` `awesome-list` `deep-learning`
-- **最后活动时间:** 2026-03-09
-
 ### [Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising](https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising)
 
 工业级搜索、推荐和广告领域的深度学习论文精选，涵盖Embedding、排序、LLM等核心方向。
@@ -1221,6 +1213,14 @@ Claude Code开源项目资源合集，收集最新的Claude Code相关开源项�
 - **Stars:** ⭐️ 2.5k
 - **Tags:** `Deep Learning` `Search` `Recommendation` `Papers`
 - **最后活动时间:** 2026-04-25
+
+### [Deep-Learning-for-Tracking-and-Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
+
+深度学习目标跟踪与检测资源合集，包含论文、数据集和代码实现。
+
+- **Stars:** ⭐️ 2.5k
+- **Tags:** `object-tracking` `object-detection` `awesome-list` `deep-learning`
+- **最后活动时间:** 2026-03-09
 
 ### [awesome-public-real-time-datasets](https://github.com/bytewax/awesome-public-real-time-datasets)
 
@@ -1286,6 +1286,14 @@ LLM后训练技术精选资源汇总，涵盖推理能力、强化学习与规�
 - **Tags:** `awesome-list` `chatgpt` `resources` `openai`
 - **最后活动时间:** 2026-03-30
 
+### [awesome-humanoid-robot-learning](https://github.com/YanjieZe/awesome-humanoid-robot-learning)
+
+人形机器人学习领域的论文精选列表，汇集最新研究成果。
+
+- **Stars:** ⭐️ 2.4k
+- **Tags:** `awesome-list` `humanoid-robot` `machine-learning` `research-papers`
+- **最后活动时间:** 2026-05-24
+
 ### [awesome-neural-rendering](https://github.com/weihaox/awesome-neural-rendering)
 
 神经渲染技术资源精选列表，涵盖NeRF、3D重建等前沿研究方向。
@@ -1293,14 +1301,6 @@ LLM后训练技术精选资源汇总，涵盖推理能力、强化学习与规�
 - **Stars:** ⭐️ 2.4k
 - **Tags:** `neural-rendering` `nerf` `awesome-list` `3d-vision`
 - **最后活动时间:** 2026-03-07
-
-### [awesome-humanoid-robot-learning](https://github.com/YanjieZe/awesome-humanoid-robot-learning)
-
-人形机器人学习领域的论文精选列表，汇集最新研究成果。
-
-- **Stars:** ⭐️ 2.3k
-- **Tags:** `awesome-list` `humanoid-robot` `machine-learning` `research-papers`
-- **最后活动时间:** 2026-05-24
 
 ### [Awesome-Video-Diffusion-Models](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models)
 
@@ -1310,14 +1310,6 @@ LLM后训练技术精选资源汇总，涵盖推理能力、强化学习与规�
 - **Tags:** `diffusion-models` `text-to-video` `awesome-list`
 - **最后活动时间:** 2026-04-15
 
-### [prompt-in-context-learning](https://github.com/EgoAlpha/prompt-in-context-learning)
-
-上下文学习与提示工程资源合集，涵盖ChatGPT、GPT-3等大语言模型的最新技术与实践。
-
-- **Stars:** ⭐️ 2.2k
-- **Tags:** `Prompt Engineering` `In-Context Learning` `Resources`
-- **最后活动时间:** 2026-05-26
-
 ### [awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection)
 
 遥感变化检测领域的综合资源列表，涵盖数据集、工具、方法和论文。
@@ -1325,6 +1317,14 @@ LLM后训练技术精选资源汇总，涵盖推理能力、强化学习与规�
 - **Stars:** ⭐️ 2.2k
 - **Tags:** `remote-sensing` `change-detection` `deep-learning` `awesome-list`
 - **最后活动时间:** 2026-04-16
+
+### [prompt-in-context-learning](https://github.com/EgoAlpha/prompt-in-context-learning)
+
+上下文学习与提示工程资源合集，涵盖ChatGPT、GPT-3等大语言模型的最新技术与实践。
+
+- **Stars:** ⭐️ 2.2k
+- **Tags:** `Prompt Engineering` `In-Context Learning` `Resources`
+- **最后活动时间:** 2026-05-29
 
 ### [Awesome-LLM-3D](https://github.com/ActiveVisionLab/Awesome-LLM-3D)
 
@@ -1358,6 +1358,14 @@ LLM后训练技术精选资源汇总，涵盖推理能力、强化学习与规�
 - **Tags:** `self-evolving` `multi-agent-systems` `llms` `survey`
 - **最后活动时间:** 2026-05-16
 
+### [Awesome-Books-Notes](https://github.com/wx-chevalier/Awesome-Books-Notes)
+
+计算机科学与技术领域优秀书籍归档，涵盖AI、软件工程、Web开发等多个方向，附带读书笔记。
+
+- **Stars:** ⭐️ 2.1k
+- **Tags:** `Books` `AI` `Software Engineering`
+- **最后活动时间:** 2026-05-13
+
 ### [deeplearning-biology](https://github.com/hussius/deeplearning-biology)
 
 生物领域深度学习实现资源汇总，涵盖基因组学、药物发现等方向。
@@ -1365,14 +1373,6 @@ LLM后训练技术精选资源汇总，涵盖推理能力、强化学习与规�
 - **Stars:** ⭐️ 2.1k
 - **Tags:** `deep-learning` `biology` `awesome-list`
 - **最后活动时间:** 2026-03-04
-
-### [Awesome-Books-Notes](https://github.com/wx-chevalier/Awesome-Books-Notes)
-
-计算机科学与技术领域优秀书籍归档，涵盖AI、软件工程、Web开发等多个方向，附带读书笔记。
-
-- **Stars:** ⭐️ 2.1k
-- **Tags:** `Books` `AI` `Software Engineering`
-- **最后活动时间:** 2026-05-06
 
 ### [awesome-ml4co](https://github.com/Thinklab-SJTU/awesome-ml4co)
 
@@ -1404,7 +1404,7 @@ LLM长上下文建模领域必读论文和博客精选，涵盖长度外推、�
 
 - **Stars:** ⭐️ 2.1k
 - **Tags:** `llm` `long-context` `awesome-list` `papers`
-- **最后活动时间:** 2026-05-17
+- **最后活动时间:** 2026-05-28
 
 ### [Awesome-World-Model](https://github.com/LMD0311/Awesome-World-Model)
 
@@ -1414,6 +1414,14 @@ LLM长上下文建模领域必读论文和博客精选，涵盖长度外推、�
 - **Tags:** `autonomous-driving` `world-model` `awesome-list`
 - **最后活动时间:** 2026-05-24
 
+### [awesome-autoresearch](https://github.com/alvinreal/awesome-autoresearch)
+
+精选的自主研究系统资源列表，涵盖自动改进循环、研究智能体和科学发现系统，灵感源自Karpathy的autoresearch理念。
+
+- **Stars:** ⭐️ 2.1k
+- **Tags:** `autonomous-agents` `ai-research` `awesome-list` `self-improving-systems`
+- **最后活动时间:** 2026-05-28
+
 ### [Embodied_AI_Paper_List](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List)
 
 具身智能论文与资源列表，涵盖感知、推理、导航与操控。
@@ -1421,14 +1429,6 @@ LLM长上下文建模领域必读论文和博客精选，涵盖长度外推、�
 - **Stars:** ⭐️ 2.1k
 - **Tags:** `embodied-ai` `robotics` `awesome-list`
 - **最后活动时间:** 2026-05-25
-
-### [awesome-autoresearch](https://github.com/alvinreal/awesome-autoresearch)
-
-精选的自主研究系统资源列表，涵盖自动改进循环、研究智能体和科学发现系统，灵感源自Karpathy的autoresearch理念。
-
-- **Stars:** ⭐️ 2.1k
-- **Tags:** `autonomous-agents` `ai-research` `awesome-list` `self-improving-systems`
-- **最后活动时间:** 2026-05-19
 
 ### [awesome-NeRF-and-3DGS-SLAM](https://github.com/3D-Vision-World/awesome-NeRF-and-3DGS-SLAM)
 
@@ -1460,15 +1460,15 @@ LLM长上下文建模领域必读论文和博客精选，涵盖长度外推、�
 
 - **Stars:** ⭐️ 2.0k
 - **Tags:** `llm` `safety` `security` `privacy` `awesome-list`
-- **最后活动时间:** 2026-05-02
+- **最后活动时间:** 2026-05-27
 
 ### [awesome-local-llm](https://github.com/rafska/awesome-local-llm)
 
 精选的本地运行大语言模型资源清单，涵盖平台、工具、实践和资源，帮助开发者在本地部署和使用LLM。
 
-- **Stars:** ⭐️ 1.9k
+- **Stars:** ⭐️ 2.0k
 - **Tags:** `LLM` `Local AI` `Self-hosted`
-- **最后活动时间:** 2026-05-19
+- **最后活动时间:** 2026-05-28
 
 ### [awesome-digital-human](https://github.com/weihaox/awesome-digital-human)
 
@@ -1478,6 +1478,14 @@ LLM长上下文建模领域必读论文和博客精选，涵盖长度外推、�
 - **Tags:** `digital-human` `avatar` `virtual-try-on` `3d-modeling`
 - **最后活动时间:** 2026-04-18
 
+### [taches-cc-resources](https://github.com/glittercowboy/taches-cc-resources)
+
+精选的 Claude Code 自定义资源合集，包含命令、提示词、技能和子代理等实用内容。
+
+- **Stars:** ⭐️ 1.9k
+- **Tags:** `claude-code` `prompts` `resources` `subagents` `anthropic`
+- **最后活动时间:** 2026-04-01
+
 ### [Awesome-Dataset-Distillation](https://github.com/Guang000/Awesome-Dataset-Distillation)
 
 数据集蒸馏领域的精选论文列表，涵盖核心方法与应用场景。
@@ -1486,13 +1494,13 @@ LLM长上下文建模领域必读论文和博客精选，涵盖长度外推、�
 - **Tags:** `awesome-list` `deep-learning` `dataset-distillation`
 - **最后活动时间:** 2026-05-25
 
-### [taches-cc-resources](https://github.com/glittercowboy/taches-cc-resources)
+### [Agent-Learning-Hub](https://github.com/datawhalechina/Agent-Learning-Hub)
 
-精选的 Claude Code 自定义资源合集，包含命令、提示词、技能和子代理等实用内容。
+AI Agent 学习路线与资料库收集，涵盖智能体开发的核心知识点和优质资源。
 
 - **Stars:** ⭐️ 1.9k
-- **Tags:** `claude-code` `prompts` `resources` `subagents` `anthropic`
-- **最后活动时间:** 2026-04-01
+- **Tags:** `ai-agent` `learning-resources` `awesome-list`
+- **最后活动时间:** 2026-05-25
 
 ### [awesome-android-ai-dev-sources](https://github.com/Gracker/awesome-android-ai-dev-sources)
 
@@ -1556,7 +1564,7 @@ LLM长上下文建模领域必读论文和博客精选，涵盖长度外推、�
 
 - **Stars:** ⭐️ 1.8k
 - **Tags:** `llm` `autonomous-driving` `world-model`
-- **最后活动时间:** 2026-05-22
+- **最后活动时间:** 2026-05-28
 
 ### [Awesome-Remote-Sensing-Foundation-Models](https://github.com/Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models)
 
@@ -1602,7 +1610,7 @@ LangChain与LangGraph生态系统的精选资源索引，涵盖概念、项目�
 
 精选AI编程工具列表，涵盖AI代码生成、开发助手等前沿工具。
 
-- **Stars:** ⭐️ 1.7k
+- **Stars:** ⭐️ 1.8k
 - **Tags:** `AI Tools` `Code Generation` `Awesome List`
 - **最后活动时间:** 2026-04-25
 
@@ -1622,6 +1630,14 @@ AI学习书籍与PDF资源合集，涵盖机器学习、深度学习、强化学
 - **Tags:** `AI书籍` `机器学习` `深度学习`
 - **最后活动时间:** 2026-02-08
 
+### [Awesome-World-Models](https://github.com/leofan90/Awesome-World-Models)
+
+世界模型论文与代码资源大全，涵盖视频生成、具身智能和自动驾驶应用。
+
+- **Stars:** ⭐️ 1.7k
+- **Tags:** `world-model` `embodied-ai` `video-prediction`
+- **最后活动时间:** 2026-05-29
+
 ### [awesome-segment-anything](https://github.com/Hedlen/awesome-segment-anything)
 
 Segment Anything相关论文、项目和资源精选合集，涵盖图像分割、目标检测等多个领域。
@@ -1636,15 +1652,7 @@ Segment Anything相关论文、项目和资源精选合集，涵盖图像分割�
 
 - **Stars:** ⭐️ 1.7k
 - **Tags:** `Awesome List` `Indie Hacker` `Tools`
-- **最后活动时间:** 2026-05-25
-
-### [Awesome-World-Models](https://github.com/leofan90/Awesome-World-Models)
-
-世界模型论文与代码资源大全，涵盖视频生成、具身智能和自动驾驶应用。
-
-- **Stars:** ⭐️ 1.7k
-- **Tags:** `world-model` `embodied-ai` `video-prediction`
-- **最后活动时间:** 2026-05-22
+- **最后活动时间:** 2026-05-28
 
 ### [visual-slam-roadmap](https://github.com/changh95/visual-slam-roadmap)
 
@@ -1662,6 +1670,22 @@ Segment Anything相关论文、项目和资源精选合集，涵盖图像分割�
 - **Tags:** `machine-learning` `compilers` `optimization` `research`
 - **最后活动时间:** 2026-01-21
 
+### [Awesome-CVPR-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-CVPR2026-CVPR2025-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision)
+
+CVPR 2020-2026低层视觉论文与代码精选合集，涵盖超分辨率、去模糊、去噪、图像修复等核心方向。
+
+- **Stars:** ⭐️ 1.7k
+- **Tags:** `CVPR` `Low-Level Vision` `Image Restoration`
+- **最后活动时间:** 2026-05-29
+
+### [ai-engineering-interview-questions](https://github.com/amitshekhariitbhu/ai-engineering-interview-questions)
+
+AI工程面试题库速查表，涵盖智能体、大模型、RAG、微调和量化等核心主题的问答资源。
+
+- **Stars:** ⭐️ 1.7k
+- **Tags:** `interview` `ai-engineering` `llm` `rag` `fine-tuning`
+- **最后活动时间:** 2026-05-29
+
 ### [awesome-ai-ml-dl](https://github.com/neomatrix369/awesome-ai-ml-dl)
 
 AI、机器学习和深度学习精选资源列表，包含学习笔记和优质资源汇总。
@@ -1670,13 +1694,13 @@ AI、机器学习和深度学习精选资源列表，包含学习笔记和优质
 - **Tags:** `Awesome List` `AI` `Deep Learning`
 - **最后活动时间:** 2026-03-09
 
-### [Awesome-CVPR-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-CVPR2026-CVPR2025-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision)
+### [relayAPI](https://github.com/zzsting88/relayAPI)
 
-CVPR 2020-2026低层视觉论文与代码精选合集，涵盖超分辨率、去模糊、去噪、图像修复等核心方向。
+AI API中转站推荐与评测资源列表，汇总各类AI模型API代理服务，帮助开发者选择合适的API中转方案。
 
 - **Stars:** ⭐️ 1.7k
-- **Tags:** `CVPR` `Low-Level Vision` `Image Restoration`
-- **最后活动时间:** 2026-05-24
+- **Tags:** `ai-api` `api-gateway` `llm-proxy` `openai-api`
+- **最后活动时间:** 2026-05-26
 
 ### [Awesome-GPT-Store](https://github.com/Anil-matcha/Awesome-GPT-Store)
 
@@ -1686,13 +1710,13 @@ CVPR 2020-2026低层视觉论文与代码精选合集，涵盖超分辨率、去
 - **Tags:** `awesome-list` `gpts` `gpt-store` `chatgpt`
 - **最后活动时间:** 2026-04-23
 
-### [ai-engineering-interview-questions](https://github.com/amitshekhariitbhu/ai-engineering-interview-questions)
+### [awesome-neuroscience](https://github.com/analyticalmonk/awesome-neuroscience)
 
-AI工程面试题库速查表，涵盖智能体、大模型、RAG、微调和量化等核心主题的问答资源。
+神经科学资源精选列表，涵盖脑科学、EEG/MEG分析等与AI交叉领域的研究工具。
 
 - **Stars:** ⭐️ 1.6k
-- **Tags:** `interview` `ai-engineering` `llm` `rag` `fine-tuning`
-- **最后活动时间:** 2026-05-26
+- **Tags:** `neuroscience` `brain` `eeg` `python`
+- **最后活动时间:** 2026-05-23
 
 ### [Awesome-explainable-AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
 
@@ -1701,14 +1725,6 @@ AI工程面试题库速查表，涵盖智能体、大模型、RAG、微调和量
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `XAI` `Explainable-AI` `Interpretability`
 - **最后活动时间:** 2026-03-07
-
-### [awesome-neuroscience](https://github.com/analyticalmonk/awesome-neuroscience)
-
-神经科学资源精选列表，涵盖脑科学、EEG/MEG分析等与AI交叉领域的研究工具。
-
-- **Stars:** ⭐️ 1.6k
-- **Tags:** `neuroscience` `brain` `eeg` `python`
-- **最后活动时间:** 2026-05-23
 
 ### [awesome-colab-notebooks](https://github.com/amrzv/awesome-colab-notebooks)
 
@@ -1758,13 +1774,13 @@ AI安全领域精选资源合集，涵盖AI系统安全、对抗攻击、模型�
 - **Tags:** `awesome-list` `ai-research` `autonomous-agents` `self-improving-systems`
 - **最后活动时间:** 2026-04-04
 
-### [Agent-Learning-Hub](https://github.com/datawhalechina/Agent-Learning-Hub)
+### [awesome-ai-for-science](https://github.com/ai-boost/awesome-ai-for-science)
 
-AI Agent 学习路线与资料库收集，涵盖智能体开发的核心知识点和优质资源。
+精选AI驱动科学发现的工具、库、论文和数据集列表，涵盖物理、化学、生物学、材料科学等领域。
 
 - **Stars:** ⭐️ 1.6k
-- **Tags:** `ai-agent` `learning-resources` `awesome-list`
-- **最后活动时间:** 2026-05-25
+- **Tags:** `ai-for-science` `awesome-list` `scientific-ai` `bioinformatics`
+- **最后活动时间:** 2026-05-29
 
 ### [awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering)
 
@@ -1773,22 +1789,6 @@ AI Agent 学习路线与资料库收集，涵盖智能体开发的核心知识�
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `Prompt工程` `资源合集` `GPT`
 - **最后活动时间:** 2026-02-23
-
-### [awesome-ai-for-science](https://github.com/ai-boost/awesome-ai-for-science)
-
-精选AI驱动科学发现的工具、库、论文和数据集列表，涵盖物理、化学、生物学、材料科学等领域。
-
-- **Stars:** ⭐️ 1.6k
-- **Tags:** `ai-for-science` `awesome-list` `scientific-ai` `bioinformatics`
-- **最后活动时间:** 2026-05-25
-
-### [relayAPI](https://github.com/zzsting88/relayAPI)
-
-AI API中转站推荐与评测资源列表，汇总各类AI模型API代理服务，帮助开发者选择合适的API中转方案。
-
-- **Stars:** ⭐️ 1.6k
-- **Tags:** `ai-api` `api-gateway` `llm-proxy` `openai-api`
-- **最后活动时间:** 2026-05-22
 
 ### [free-for-life](https://github.com/wdhdev/free-for-life)
 
@@ -1814,6 +1814,14 @@ AI API中转站推荐与评测资源列表，汇总各类AI模型API代理服务
 - **Tags:** `Robotics` `URDF` `Awesome List`
 - **最后活动时间:** 2026-05-14
 
+### [awesome-gpt-image](https://github.com/ZeroLu/awesome-gpt-image)
+
+精选的GPT Image 2提示词和示例集合，汇集了X平台顶级创作者的优秀作品。
+
+- **Stars:** ⭐️ 1.5k
+- **Tags:** `gpt-image` `prompt-engineering` `image-generation`
+- **最后活动时间:** 2026-05-28
+
 ### [awesome-image-registration](https://github.com/Awesome-Image-Registration-Organization/awesome-image-registration)
 
 图像配准相关的书籍、论文、视频和工具箱精选资源，涵盖医学图像、自然图像和点云配准。
@@ -1836,23 +1844,7 @@ AI API中转站推荐与评测资源列表，汇总各类AI模型API代理服务
 
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `category-theory` `machine-learning` `papers`
-- **最后活动时间:** 2026-04-17
-
-### [awesome-gpt-image](https://github.com/ZeroLu/awesome-gpt-image)
-
-精选的GPT Image 2提示词和示例集合，汇集了X平台顶级创作者的优秀作品。
-
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `gpt-image` `prompt-engineering` `image-generation`
-- **最后活动时间:** 2026-05-26
-
-### [awesome-llm-interpretability](https://github.com/JShollaj/awesome-llm-interpretability)
-
-精选的大语言模型可解释性资源列表，涵盖论文与工具。
-
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `awesome-list` `interpretability` `llm-research`
-- **最后活动时间:** 2026-02-24
+- **最后活动时间:** 2026-05-27
 
 ### [awesome-multi-agent-papers](https://github.com/kyegomez/awesome-multi-agent-papers)
 
@@ -1862,13 +1854,21 @@ AI API中转站推荐与评测资源列表，汇总各类AI模型API代理服务
 - **Tags:** `Multi-Agent` `Papers` `Research`
 - **最后活动时间:** 2026-05-17
 
-### [awesome-llm-agents](https://github.com/kaushikb11/awesome-llm-agents)
+### [no-cost-ai](https://github.com/zebbern/no-cost-ai)
 
-精选LLM智能体框架资源列表，汇集主流智能体开发框架和工具。
+收录80+免费AI服务资源清单，涵盖聊天、图像、视频、语音及API等多种类型。帮助用户零成本体验AI能力。
 
 - **Stars:** ⭐️ 1.5k
-- **Tags:** `Awesome List` `LLM Agents` `Frameworks`
-- **最后活动时间:** 2026-05-24
+- **Tags:** `Free Resources` `AI Services` `Curated List`
+- **最后活动时间:** 2026-03-14
+
+### [awesome-llm-interpretability](https://github.com/JShollaj/awesome-llm-interpretability)
+
+精选的大语言模型可解释性资源列表，涵盖论文与工具。
+
+- **Stars:** ⭐️ 1.5k
+- **Tags:** `awesome-list` `interpretability` `llm-research`
+- **最后活动时间:** 2026-02-24
 
 ### [awesome-matlab-robotics](https://github.com/mathworks-robotics/awesome-matlab-robotics)
 
@@ -1878,29 +1878,13 @@ MATLAB和Simulink机器人开发资源精选列表，包含教程和实用工具
 - **Tags:** `robotics` `matlab` `awesome-list`
 - **最后活动时间:** 2026-04-02
 
-### [Awesome-LLM4Cybersecurity](https://github.com/tmylla/Awesome-LLM4Cybersecurity)
+### [awesome-llm-agents](https://github.com/kaushikb11/awesome-llm-agents)
 
-LLM在网络安全领域应用的资源汇总，涵盖安全检测、威胁分析等应用场景。
-
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `llm` `cybersecurity` `awesome-list` `security`
-- **最后活动时间:** 2026-05-06
-
-### [no-cost-ai](https://github.com/zebbern/no-cost-ai)
-
-收录80+免费AI服务资源清单，涵盖聊天、图像、视频、语音及API等多种类型。帮助用户零成本体验AI能力。
+精选LLM智能体框架资源列表，汇集主流智能体开发框架和工具。
 
 - **Stars:** ⭐️ 1.5k
-- **Tags:** `Free Resources` `AI Services` `Curated List`
-- **最后活动时间:** 2026-03-14
-
-### [ai_all_resources](https://github.com/nivu/ai_all_resources)
-
-精选人工智能学习资源列表，涵盖深度学习、机器学习、神经网络等领域。
-
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `awesome-list` `deep-learning` `machine-learning` `resources`
-- **最后活动时间:** 2026-04-03
+- **Tags:** `Awesome List` `LLM Agents` `Frameworks`
+- **最后活动时间:** 2026-05-24
 
 ### [awesome-claude](https://github.com/webfuse-com/awesome-claude)
 
@@ -1910,13 +1894,21 @@ Anthropic Claude相关资源精选列表，涵盖工具、框架和学习资料�
 - **Tags:** `Awesome` `Claude` `Resources`
 - **最后活动时间:** 2026-05-15
 
-### [Awesome-LLMs-Datasets](https://github.com/lmmlzn/Awesome-LLMs-Datasets)
+### [ai_all_resources](https://github.com/nivu/ai_all_resources)
 
-精选 LLM 文本数据集汇总，涵盖各类代表性大语言模型训练数据资源。
+精选人工智能学习资源列表，涵盖深度学习、机器学习、神经网络等领域。
 
 - **Stars:** ⭐️ 1.5k
-- **Tags:** `llm` `datasets` `awesome-list` `training-data`
-- **最后活动时间:** 2026-03-11
+- **Tags:** `awesome-list` `deep-learning` `machine-learning` `resources`
+- **最后活动时间:** 2026-04-03
+
+### [Awesome-LLM4Cybersecurity](https://github.com/tmylla/Awesome-LLM4Cybersecurity)
+
+LLM在网络安全领域应用的资源汇总，涵盖安全检测、威胁分析等应用场景。
+
+- **Stars:** ⭐️ 1.5k
+- **Tags:** `llm` `cybersecurity` `awesome-list` `security`
+- **最后活动时间:** 2026-05-06
 
 ### [NL2SQL_Handbook](https://github.com/HKUSTDial/NL2SQL_Handbook)
 
@@ -1925,6 +1917,22 @@ Anthropic Claude相关资源精选列表，涵盖工具、框架和学习资料�
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `nl2sql` `text-to-sql` `llms` `awesome-list`
 - **最后活动时间:** 2026-05-06
+
+### [Awesome-LLMs-Datasets](https://github.com/lmmlzn/Awesome-LLMs-Datasets)
+
+精选 LLM 文本数据集汇总，涵盖各类代表性大语言模型训练数据资源。
+
+- **Stars:** ⭐️ 1.5k
+- **Tags:** `llm` `datasets` `awesome-list` `training-data`
+- **最后活动时间:** 2026-03-11
+
+### [AgentsMeetRL](https://github.com/thinkwee/AgentsMeetRL)
+
+智能体强化学习精选资源列表，涵盖多智能体、工具学习、RLHF等前沿主题。
+
+- **Stars:** ⭐️ 1.5k
+- **Tags:** `强化学习` `智能体` `资源列表`
+- **最后活动时间:** 2026-05-26
 
 ### [awesome-web-agents](https://github.com/steel-dev/awesome-web-agents)
 
@@ -1940,15 +1948,7 @@ AI伦理、政策与监管资源地图，汇集全球AI治理指南、伦理框�
 
 - **Stars:** ⭐️ 1.4k
 - **Tags:** `ai-ethics` `ai-policy` `regulation` `guidelines`
-- **最后活动时间:** 2026-05-22
-
-### [AgentsMeetRL](https://github.com/thinkwee/AgentsMeetRL)
-
-智能体强化学习精选资源列表，涵盖多智能体、工具学习、RLHF等前沿主题。
-
-- **Stars:** ⭐️ 1.4k
-- **Tags:** `强化学习` `智能体` `资源列表`
-- **最后活动时间:** 2026-05-23
+- **最后活动时间:** 2026-05-28
 
 ### [data-scientist-handbook](https://github.com/andresvourakis/data-scientist-handbook)
 
@@ -1974,14 +1974,6 @@ AI伦理、政策与监管资源地图，汇集全球AI治理指南、伦理框�
 - **Tags:** `embodied-ai` `robotics` `jobs`
 - **最后活动时间:** 2026-02-25
 
-### [awesome-captcha](https://github.com/ZYSzys/awesome-captcha)
-
-验证码库与破解工具精选列表，涵盖验证码生成、识别与安全测试相关资源。
-
-- **Stars:** ⭐️ 1.4k
-- **Tags:** `captcha` `captcha-solver` `computer-vision` `security`
-- **最后活动时间:** 2026-04-17
-
 ### [awesome-japanese-llm](https://github.com/llm-jp/awesome-japanese-llm)
 
 日语大语言模型资源汇总，涵盖日本语LLM的全面概述和多模态视觉语言模型。
@@ -1989,6 +1981,14 @@ AI伦理、政策与监管资源地图，汇集全球AI治理指南、伦理框�
 - **Stars:** ⭐️ 1.4k
 - **Tags:** `Japanese LLM` `Awesome List` `Multimodal`
 - **最后活动时间:** 2026-05-24
+
+### [awesome-captcha](https://github.com/ZYSzys/awesome-captcha)
+
+验证码库与破解工具精选列表，涵盖验证码生成、识别与安全测试相关资源。
+
+- **Stars:** ⭐️ 1.4k
+- **Tags:** `captcha` `captcha-solver` `computer-vision` `security`
+- **最后活动时间:** 2026-04-17
 
 ### [offensive-ai-compilation](https://github.com/jiep/offensive-ai-compilation)
 
@@ -2010,15 +2010,15 @@ AI伦理、政策与监管资源地图，汇集全球AI治理指南、伦理框�
 
 AI工具学习资源合集，涵盖ChatGPT、Claude、Gemini、GPT-4等主流AI模型和Stable Diffusion绘画工具的使用指南。
 
-- **Stars:** ⭐️ 1.3k
+- **Stars:** ⭐️ 1.4k
 - **Tags:** `AI资源` `学习指南` `AIGC`
-- **最后活动时间:** 2026-05-25
+- **最后活动时间:** 2026-05-26
 
 ### [awesome-audio-dsp](https://github.com/BillyDM/awesome-audio-dsp)
 
 精选的音频DSP和插件开发资源列表，涵盖音频处理算法、VST插件开发等，对多模态AI中的语音处理有参考价值。
 
-- **Stars:** ⭐️ 1.3k
+- **Stars:** ⭐️ 1.4k
 - **Tags:** `audio` `dsp` `audio-processing` `vst` `awesome-list`
 - **最后活动时间:** 2026-05-25
 
@@ -2068,7 +2068,7 @@ RAG技术资源精选列表，汇集了检索增强生成领域的前沿论文�
 
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `robotics` `simulator` `awesome-list` `simulation`
-- **最后活动时间:** 2026-05-20
+- **最后活动时间:** 2026-05-27
 
 ### [awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search)
 
@@ -2094,6 +2094,14 @@ TKDE2025论文配套资源，全面收录LLM-based Text-to-SQL领域的综述、
 - **Tags:** `awesome-list` `deep-learning` `nlp` `natural-language-processing`
 - **最后活动时间:** 2026-01-24
 
+### [Awesome-Agent-Skills-for-Empirical-Research](https://github.com/brycewang-stanford/Awesome-Agent-Skills-for-Empirical-Research)
+
+精选23000+AI代理技能库，覆盖8大社会科学学科的实证研究，由Stanford REAP维护。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `awesome-list` `agent-skills` `academic-research` `ai-agent`
+- **最后活动时间:** 2026-05-25
+
 ### [awesome-lidar](https://github.com/szenergy/awesome-lidar)
 
 LiDAR技术资源大全，包含厂商、数据集、点云处理算法和仿真器。
@@ -2101,6 +2109,14 @@ LiDAR技术资源大全，包含厂商、数据集、点云处理算法和仿真
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `awesome-list` `lidar` `point-cloud` `autonomous-driving`
 - **最后活动时间:** 2026-03-16
+
+### [awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering)
+
+AI Agent Harness工程领域的精选资源列表，涵盖工具、模式、评估、内存、MCP、权限、可观测性和编排等核心主题。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `ai-agents` `awesome-list` `harness-engineering` `mcp` `agent-orchestration`
+- **最后活动时间:** 2026-05-28
 
 ### [awesome-llm-skills](https://github.com/Prat011/awesome-llm-skills)
 
@@ -2110,14 +2126,6 @@ LiDAR技术资源大全，包含厂商、数据集、点云处理算法和仿真
 - **Tags:** `Awesome List` `LLM` `AI Agents`
 - **最后活动时间:** 2026-04-22
 
-### [LLM_MultiAgents_Survey_Papers](https://github.com/taichengguo/LLM_MultiAgents_Survey_Papers)
-
-IJCAI 2024 论文，基于大语言模型的多智能体系统研究综述。
-
-- **Stars:** ⭐️ 1.3k
-- **Tags:** `multi-agents` `llm` `survey` `agent`
-- **最后活动时间:** 2026-04-19
-
 ### [Awesome-Unified-Multimodal-Models](https://github.com/AIDC-AI/Awesome-Unified-Multimodal-Models)
 
 统一多模态模型精选资源列表，涵盖最新研究进展和开源项目。
@@ -2125,6 +2133,14 @@ IJCAI 2024 论文，基于大语言模型的多智能体系统研究综述。
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `Awesome List` `Multimodal` `Resources`
 - **最后活动时间:** 2026-03-24
+
+### [LLM_MultiAgents_Survey_Papers](https://github.com/taichengguo/LLM_MultiAgents_Survey_Papers)
+
+IJCAI 2024 论文，基于大语言模型的多智能体系统研究综述。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `multi-agents` `llm` `survey` `agent`
+- **最后活动时间:** 2026-04-19
 
 ### [awesome-vlm-architectures](https://github.com/gokayfem/awesome-vlm-architectures)
 
@@ -2134,22 +2150,6 @@ IJCAI 2024 论文，基于大语言模型的多智能体系统研究综述。
 - **Tags:** `Awesome List` `VLM架构` `多模态`
 - **最后活动时间:** 2026-01-11
 
-### [awesome-3d-diffusion](https://github.com/cwchenwang/awesome-3d-diffusion)
-
-3D生成扩散模型论文精选合集，涵盖最新的3D内容生成AI研究进展。
-
-- **Stars:** ⭐️ 1.3k
-- **Tags:** `diffusion-models` `3d-generation` `deep-learning` `awesome-list`
-- **最后活动时间:** 2026-01-16
-
-### [Awesome-Agent-Skills-for-Empirical-Research](https://github.com/brycewang-stanford/Awesome-Agent-Skills-for-Empirical-Research)
-
-精选23000+AI代理技能库，覆盖8大社会科学学科的实证研究，由Stanford REAP维护。
-
-- **Stars:** ⭐️ 1.3k
-- **Tags:** `awesome-list` `agent-skills` `academic-research` `ai-agent`
-- **最后活动时间:** 2026-05-25
-
 ### [Awesome-Agentic-Reasoning](https://github.com/weitianxin/Awesome-Agentic-Reasoning)
 
 基于智能体推理综述论文的精选资源列表，涵盖Agent与推理结合的前沿研究。
@@ -2157,6 +2157,14 @@ IJCAI 2024 论文，基于大语言模型的多智能体系统研究综述。
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `agentic-reasoning` `agent` `awesome-list` `survey`
 - **最后活动时间:** 2026-03-09
+
+### [awesome-3d-diffusion](https://github.com/cwchenwang/awesome-3d-diffusion)
+
+3D生成扩散模型论文精选合集，涵盖最新的3D内容生成AI研究进展。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `diffusion-models` `3d-generation` `deep-learning` `awesome-list`
+- **最后活动时间:** 2026-01-16
 
 ### [AwesomeAnimeResearch](https://github.com/SerialLain3170/AwesomeAnimeResearch)
 
@@ -2180,7 +2188,7 @@ IJCAI 2024 论文，基于大语言模型的多智能体系统研究综述。
 
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `rag` `retrieval-augmented-generation` `generative-ai` `awesome-list`
-- **最后活动时间:** 2026-05-23
+- **最后活动时间:** 2026-05-27
 
 ### [phase-recovery](https://github.com/kqwang/phase-recovery)
 
@@ -2196,7 +2204,7 @@ Meta AI Segment Anything Model (SAM)的首个综合调研资源，涵盖SAM模�
 
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `segment-anything` `sam` `computer-vision` `awesome-list` `survey`
-- **最后活动时间:** 2026-05-08
+- **最后活动时间:** 2026-05-27
 
 ### [ai-game-devtools](https://github.com/Yuan-ManX/ai-game-devtools)
 
@@ -2220,7 +2228,15 @@ Google Earth Engine社区数据集精选列表，涵盖遥感与地理空间数�
 
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `awesome-list` `remote-sensing` `geospatial` `earth-engine`
-- **最后活动时间:** 2026-05-26
+- **最后活动时间:** 2026-05-29
+
+### [system-prompts-and-models-of-ai-tools-chinese](https://github.com/IsHexx/system-prompts-and-models-of-ai-tools-chinese)
+
+AI编程工具中文提示词合集，涵盖Cursor、Devin、VSCode Agent等工具的系统提示词，为中文开发者提供参考资源。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `Prompts` `Chinese` `Collection`
+- **最后活动时间:** 2026-01-18
 
 ### [Awesome-Foundation-Models](https://github.com/uncbiag/Awesome-Foundation-Models)
 
@@ -2246,14 +2262,6 @@ Google Earth Engine社区数据集精选列表，涵盖遥感与地理空间数�
 - **Tags:** `awesome-list` `computer-vision` `deep-learning` `papers`
 - **最后活动时间:** 2026-01-24
 
-### [system-prompts-and-models-of-ai-tools-chinese](https://github.com/IsHexx/system-prompts-and-models-of-ai-tools-chinese)
-
-AI编程工具中文提示词合集，涵盖Cursor、Devin、VSCode Agent等工具的系统提示词，为中文开发者提供参考资源。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `Prompts` `Chinese` `Collection`
-- **最后活动时间:** 2026-01-18
-
 ### [awesome-causal-inference](https://github.com/matteocourthoud/awesome-causal-inference)
 
 因果推断资源精选列表。汇集库、工具、教程和实际应用案例。
@@ -2268,6 +2276,14 @@ AI编程工具中文提示词合集，涵盖Cursor、Devin、VSCode Agent等工�
 
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `conference` `korean` `ai` `replay`
+- **最后活动时间:** 2026-05-28
+
+### [AIProductHome](https://github.com/Eternaldeath/AIProductHome)
+
+精心收集各类AI工具和产品的资源列表，帮助用户发现优质AI应用。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `ai` `ai-tools` `awesome-list` `productivity`
 - **最后活动时间:** 2026-04-26
 
 ### [Call-for-Reviewers](https://github.com/jiahaoli57/Call-for-Reviewers)
@@ -2278,13 +2294,13 @@ AI编程工具中文提示词合集，涵盖Cursor、Devin、VSCode Agent等工�
 - **Tags:** `academic` `conferences` `reviewers` `machine-learning` `ai-research`
 - **最后活动时间:** 2026-02-06
 
-### [AIProductHome](https://github.com/Eternaldeath/AIProductHome)
+### [Supervisor-Skills](https://github.com/HKUSTDial/Supervisor-Skills)
 
-精心收集各类AI工具和产品的资源列表，帮助用户发现优质AI应用。
+将博导十年科研经验转化为可调用的AI技能，覆盖从Idea构思到论文投稿的完整科研流程，是你的AI科研副导师。
 
 - **Stars:** ⭐️ 1.1k
-- **Tags:** `ai` `ai-tools` `awesome-list` `productivity`
-- **最后活动时间:** 2026-04-26
+- **Tags:** `ai-research` `research-skills` `phd-research` `academic-writing`
+- **最后活动时间:** 2026-04-29
 
 ### [Awesome-AI-Agents](https://github.com/Jenqyang/Awesome-AI-Agents)
 
@@ -2301,14 +2317,6 @@ AI编程工具中文提示词合集，涵盖Cursor、Devin、VSCode Agent等工�
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `multimodal-llm` `diffusion-models` `awesome-list`
 - **最后活动时间:** 2026-05-19
-
-### [awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering)
-
-AI Agent Harness工程领域的精选资源列表，涵盖工具、模式、评估、内存、MCP、权限、可观测性和编排等核心主题。
-
-- **Stars:** ⭐️ 1.1k
-- **Tags:** `ai-agents` `awesome-list` `harness-engineering` `mcp` `agent-orchestration`
-- **最后活动时间:** 2026-05-26
 
 ### [awesome-data-analysis](https://github.com/PavelGrigoryevDS/awesome-data-analysis)
 
@@ -2332,15 +2340,15 @@ AI Agent Harness工程领域的精选资源列表，涵盖工具、模式、评�
 
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `chatgpt` `awesome-list` `openai` `chatbot` `llm`
-- **最后活动时间:** 2026-05-26
+- **最后活动时间:** 2026-05-28
 
-### [awesome-hallucination-detection](https://github.com/EdinburghNLP/awesome-hallucination-detection)
+### [awesome-twitter-data](https://github.com/shaypal5/awesome-twitter-data)
 
-LLM幻觉检测论文精选列表，汇总了检测大语言模型幻觉现象的前沿研究成果。
+Twitter数据集和相关资源汇总，适用于社交媒体分析和情感挖掘研究。
 
 - **Stars:** ⭐️ 1.1k
-- **Tags:** `LLM` `Hallucination` `NLP`
-- **最后活动时间:** 2026-05-25
+- **Tags:** `twitter` `dataset` `social-media` `sentiment-analysis`
+- **最后活动时间:** 2026-05-29
 
 ### [awesome-polars](https://github.com/ddotta/awesome-polars)
 
@@ -2350,13 +2358,13 @@ Polars数据处理库的精选资源合集，涵盖教程、工具、示例和�
 - **Tags:** `polars` `data-science` `awesome-list`
 - **最后活动时间:** 2026-05-19
 
-### [Supervisor-Skills](https://github.com/HKUSTDial/Supervisor-Skills)
+### [awesome-hallucination-detection](https://github.com/EdinburghNLP/awesome-hallucination-detection)
 
-将博导十年科研经验转化为可调用的AI技能，覆盖从Idea构思到论文投稿的完整科研流程，是你的AI科研副导师。
+LLM幻觉检测论文精选列表，汇总了检测大语言模型幻觉现象的前沿研究成果。
 
 - **Stars:** ⭐️ 1.1k
-- **Tags:** `ai-research` `research-skills` `phd-research` `academic-writing`
-- **最后活动时间:** 2026-04-29
+- **Tags:** `LLM` `Hallucination` `NLP`
+- **最后活动时间:** 2026-05-25
 
 ### [ai-engineer-handbook](https://github.com/DataExpert-io/ai-engineer-handbook)
 
@@ -2406,13 +2414,21 @@ AI工程师必备资源合集，包含精选链接、书籍和创作者推荐，
 - **Tags:** `reinforcement-learning` `cybersecurity` `awesome-list`
 - **最后活动时间:** 2026-05-20
 
+### [game-datasets](https://github.com/leomaurodesenv/game-datasets)
+
+精选的游戏数据集和AI工具列表，涵盖游戏数据挖掘和人工智能应用资源。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `game-ai` `datasets` `awesome-list` `data-mining`
+- **最后活动时间:** 2026-03-11
+
 ### [Awesome-Multimodal-Object-Tracking](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)
 
 持续更新的多模态目标追踪领域资源列表，聚焦单目标追踪的最新研究进展。
 
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `multimodal` `object-tracking` `awesome-list`
-- **最后活动时间:** 2026-05-22
+- **最后活动时间:** 2026-05-27
 
 ### [awesome-gradient-boosting-papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)
 
@@ -2422,13 +2438,13 @@ AI工程师必备资源合集，包含精选链接、书籍和创作者推荐，
 - **Tags:** `gradient-boosting` `xgboost` `lightgbm`
 - **最后活动时间:** 2026-01-05
 
-### [game-datasets](https://github.com/leomaurodesenv/game-datasets)
+### [awesome-ai-security](https://github.com/ottosulin/awesome-ai-security)
 
-精选的游戏数据集和AI工具列表，涵盖游戏数据挖掘和人工智能应用资源。
+AI安全领域的精选资源合集，涵盖对抗攻击、模型安全、隐私保护等前沿研究方向。
 
 - **Stars:** ⭐️ 1.0k
-- **Tags:** `game-ai` `datasets` `awesome-list` `data-mining`
-- **最后活动时间:** 2026-03-11
+- **Tags:** `ai-security` `adversarial-ml` `model-security` `privacy`
+- **最后活动时间:** 2026-05-27
 
 ### [Awesome-MCP-Servers](https://github.com/YuzeHao2023/Awesome-MCP-Servers)
 
@@ -2462,14 +2478,6 @@ Weekly Robotics 通讯精选项目合集，涵盖机器人、ROS、自动化等�
 - **Tags:** `Awesome` `Workflow` `AI Agents` `Automation`
 - **最后活动时间:** 2026-04-28
 
-### [awesome-ai-security](https://github.com/ottosulin/awesome-ai-security)
-
-AI安全领域的精选资源合集，涵盖对抗攻击、模型安全、隐私保护等前沿研究方向。
-
-- **Stars:** ⭐️ 1.0k
-- **Tags:** `ai-security` `adversarial-ml` `model-security` `privacy`
-- **最后活动时间:** 2026-05-24
-
 ### [awesome-llm-role-playing-with-persona](https://github.com/Neph0s/awesome-llm-role-playing-with-persona)
 
 LLM角色扮演资源精选列表，涵盖论文、数据集和工具。
@@ -2477,6 +2485,14 @@ LLM角色扮演资源精选列表，涵盖论文、数据集和工具。
 - **Stars:** ⭐️ 1.0k
 - **Tags:** `awesome-list` `llm` `role-playing` `persona`
 - **最后活动时间:** 2026-04-09
+
+### [awesome-design-skills](https://github.com/bergside/awesome-design-skills)
+
+收录67个精选DESIGN.md和SKILL.md设计技能文件，适用于Claude Design、Cursor、Codex等主流AI编程工具。
+
+- **Stars:** ⭐️ 1.0k
+- **Tags:** `agent-skills` `agentic-ai` `awesome-list` `claude-design` `cursor`
+- **最后活动时间:** 2026-05-25
 
 ### [Awesome-Deep-Graph-Clustering](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering)
 
@@ -2486,13 +2502,13 @@ LLM角色扮演资源精选列表，涵盖论文、数据集和工具。
 - **Tags:** `graph-clustering` `deep-learning` `graph-neural-networks` `awesome-list`
 - **最后活动时间:** 2026-03-30
 
-### [Awesome-Out-Of-Distribution-Detection](https://github.com/huytransformer/Awesome-Out-Of-Distribution-Detection)
+### [Awesome-AI-Agents-for-Healthcare](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare)
 
-分布外检测领域的精选资源列表，涵盖论文、教程、开源库等高质量学习资料。
+医疗健康领域智能体AI的最新进展资源汇总。
 
 - **Stars:** ⭐️ 1.0k
-- **Tags:** `OOD Detection` `Awesome List` `Robustness`
-- **最后活动时间:** 2026-04-03
+- **Tags:** `healthcare` `ai-agents` `awesome-list` `medical`
+- **最后活动时间:** 2026-05-19
 
 ### [Awesome-MCoT](https://github.com/yaotingwangofficial/Awesome-MCoT)
 
@@ -2502,13 +2518,21 @@ LLM角色扮演资源精选列表，涵盖论文、数据集和工具。
 - **Tags:** `Chain-of-Thought` `Multimodal Reasoning` `Survey`
 - **最后活动时间:** 2026-05-22
 
-### [Awesome-AI-Agents-for-Healthcare](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare)
+### [Awesome-Out-Of-Distribution-Detection](https://github.com/huytransformer/Awesome-Out-Of-Distribution-Detection)
 
-医疗健康领域智能体AI的最新进展资源汇总。
+分布外检测领域的精选资源列表，涵盖论文、教程、开源库等高质量学习资料。
 
 - **Stars:** ⭐️ 1.0k
-- **Tags:** `healthcare` `ai-agents` `awesome-list` `medical`
-- **最后活动时间:** 2026-05-19
+- **Tags:** `OOD Detection` `Awesome List` `Robustness`
+- **最后活动时间:** 2026-04-03
+
+### [awesome-devops-mcp-servers](https://github.com/rohitg00/awesome-devops-mcp-servers)
+
+精选的DevOps相关MCP服务器列表，专注于DevOps工具和能力。
+
+- **Stars:** ⭐️ 992
+- **Tags:** `ai` `devops` `mcp` `llm` `cloudnative`
+- **最后活动时间:** 2026-05-12
 
 ### [awesome-time-series-papers](https://github.com/TSCenter/awesome-time-series-papers)
 
@@ -2518,21 +2542,21 @@ LLM角色扮演资源精选列表，涵盖论文、数据集和工具。
 - **Tags:** `time-series` `anomaly-detection` `forecasting` `deep-learning`
 - **最后活动时间:** 2026-04-25
 
-### [awesome-devops-mcp-servers](https://github.com/rohitg00/awesome-devops-mcp-servers)
-
-精选的DevOps相关MCP服务器列表，专注于DevOps工具和能力。
-
-- **Stars:** ⭐️ 991
-- **Tags:** `ai` `devops` `mcp` `llm` `cloudnative`
-- **最后活动时间:** 2026-05-12
-
 ### [awesome-openclaw-usecases-moltbook](https://github.com/EvoLinkAI/awesome-openclaw-usecases-moltbook)
 
 OpenClaw实际应用案例合集，收录Moltbook平台的真实自动化示例。
 
-- **Stars:** ⭐️ 987
+- **Stars:** ⭐️ 989
 - **Tags:** `awesome-list` `openclaw` `examples` `automation`
 - **最后活动时间:** 2026-04-23
+
+### [Awesome-Robotics-Manipulation](https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation)
+
+机器人操作领域综合论文与代码资源列表，涵盖扩散策略、模仿学习等前沿方向。
+
+- **Stars:** ⭐️ 988
+- **Tags:** `robot-manipulation` `diffusion-policy` `imitation-learning`
+- **最后活动时间:** 2026-05-03
 
 ### [awesome-active-learning](https://github.com/SupeRuier/awesome-active-learning)
 
@@ -2542,35 +2566,27 @@ OpenClaw实际应用案例合集，收录Moltbook平台的真实自动化示例�
 - **Tags:** `active-learning` `awesome-list` `machine-learning` `human-in-the-loop`
 - **最后活动时间:** 2026-03-16
 
-### [Awesome-Robotics-Manipulation](https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation)
-
-机器人操作领域综合论文与代码资源列表，涵盖扩散策略、模仿学习等前沿方向。
-
-- **Stars:** ⭐️ 984
-- **Tags:** `robot-manipulation` `diffusion-policy` `imitation-learning`
-- **最后活动时间:** 2026-05-03
-
 ### [awesome-biomechanics](https://github.com/modenaxe/awesome-biomechanics)
 
 生物力学与人体运动分析资源精选列表，涵盖数据集、处理工具、仿真软件和教育资源。
 
-- **Stars:** ⭐️ 983
+- **Stars:** ⭐️ 984
 - **Tags:** `awesome-list` `biomechanics` `dataset` `human-motion`
 - **最后活动时间:** 2026-04-10
 
-### [awesome-design-skills](https://github.com/bergside/awesome-design-skills)
+### [awesome-ai-agents-2026](https://github.com/caramaschiHG/awesome-ai-agents-2026)
 
-收录67个精选DESIGN.md和SKILL.md设计技能文件，适用于Claude Design、Cursor、Codex等主流AI编程工具。
+2026年最全面的AI智能体资源列表，涵盖300+框架与工具，按20+类别分类并每月更新。
 
-- **Stars:** ⭐️ 977
-- **Tags:** `agent-skills` `agentic-ai` `awesome-list` `claude-design` `cursor`
-- **最后活动时间:** 2026-05-25
+- **Stars:** ⭐️ 981
+- **Tags:** `ai-agents` `awesome-list` `llm` `langchain`
+- **最后活动时间:** 2026-04-02
 
 ### [awesome-engineering-articles](https://github.com/ashishps1/awesome-engineering-articles)
 
 精选300+篇顶级科技公司工程博客文章合集，涵盖AI、分布式系统、数据库等核心技术领域。
 
-- **Stars:** ⭐️ 969
+- **Stars:** ⭐️ 971
 - **Tags:** `ai` `system-design` `distributed-systems` `data-engineering`
 - **最后活动时间:** 2026-03-01
 
@@ -2582,21 +2598,21 @@ OpenClaw实际应用案例合集，收录Moltbook平台的真实自动化示例�
 - **Tags:** `Japanese` `NLP` `LLM` `Awesome List`
 - **最后活动时间:** 2026-05-24
 
+### [awesome-autoresearch](https://github.com/WecoAI/awesome-autoresearch)
+
+精选AutoResearch用例集合，包含优化追踪和开源实现，涵盖自动化机器学习与自改进AI。
+
+- **Stars:** ⭐️ 964
+- **Tags:** `ai-research` `automated-machine-learning` `autonomous-agents` `awesome-list`
+- **最后活动时间:** 2026-05-24
+
 ### [Time-Series-Works-Conferences](https://github.com/lixus7/Time-Series-Works-Conferences)
 
 汇总顶会时间序列研究论文，涵盖预测、异常检测、时空建模等多个方向。
 
 - **Stars:** ⭐️ 961
 - **Tags:** `time-series` `awesome-list` `deep-learning` `paper-list`
-- **最后活动时间:** 2026-05-21
-
-### [awesome-autoresearch](https://github.com/WecoAI/awesome-autoresearch)
-
-精选AutoResearch用例集合，包含优化追踪和开源实现，涵盖自动化机器学习与自改进AI。
-
-- **Stars:** ⭐️ 961
-- **Tags:** `ai-research` `automated-machine-learning` `autonomous-agents` `awesome-list`
-- **最后活动时间:** 2026-05-24
+- **最后活动时间:** 2026-05-26
 
 ### [awesome-multimodal-in-medical-imaging](https://github.com/richard-peng-xia/awesome-multimodal-in-medical-imaging)
 
@@ -2614,29 +2630,21 @@ OpenClaw实际应用案例合集，收录Moltbook平台的真实自动化示例�
 - **Tags:** `machine-unlearning` `data-privacy` `gdpr` `llm-unlearning` `privacy`
 - **最后活动时间:** 2026-05-07
 
-### [awesome-ai-agents-2026](https://github.com/caramaschiHG/awesome-ai-agents-2026)
+### [awesome-openclaw](https://github.com/SamurAIGPT/awesome-openclaw)
 
-2026年最全面的AI智能体资源列表，涵盖300+框架与工具，按20+类别分类并每月更新。
+OpenClaw开源AI代理平台精选资源列表，涵盖教程、工具和集成指南，支持50+平台的自托管AI助手部署。
 
-- **Stars:** ⭐️ 948
-- **Tags:** `ai-agents` `awesome-list` `llm` `langchain`
-- **最后活动时间:** 2026-04-02
+- **Stars:** ⭐️ 947
+- **Tags:** `AI Agent` `Awesome List` `Self-hosted`
+- **最后活动时间:** 2026-05-15
 
 ### [Awesome-LLM-Learning](https://github.com/kebijuelun/Awesome-LLM-Learning)
 
 大语言模型学习资源精选列表，涵盖LLM学习的各个方面。
 
-- **Stars:** ⭐️ 942
+- **Stars:** ⭐️ 943
 - **Tags:** `llm` `awesome-list` `learning-resources`
 - **最后活动时间:** 2026-01-05
-
-### [awesome-openclaw](https://github.com/SamurAIGPT/awesome-openclaw)
-
-OpenClaw开源AI代理平台精选资源列表，涵盖教程、工具和集成指南，支持50+平台的自托管AI助手部署。
-
-- **Stars:** ⭐️ 940
-- **Tags:** `AI Agent` `Awesome List` `Self-hosted`
-- **最后活动时间:** 2026-05-15
 
 ### [awesome-AutoML](https://github.com/windmaple/awesome-AutoML)
 
@@ -2658,7 +2666,7 @@ AutoML 自动化机器学习资源合集，涵盖研究论文、工具框架与�
 
 AI论文精选列表，涵盖计算机视觉、NLP、机器人、数据库等多个领域。
 
-- **Stars:** ⭐️ 930
+- **Stars:** ⭐️ 932
 - **Tags:** `ai-papers` `computer-vision` `nlp` `robotics`
 - **最后活动时间:** 2026-02-24
 
@@ -2666,7 +2674,7 @@ AI论文精选列表，涵盖计算机视觉、NLP、机器人、数据库等多
 
 人形机器人学习资源汇总，涵盖相关论文、代码与项目。
 
-- **Stars:** ⭐️ 925
+- **Stars:** ⭐️ 926
 - **Tags:** `humanoid-robot` `robot-learning` `awesome-list`
 - **最后活动时间:** 2026-03-16
 
@@ -2674,17 +2682,25 @@ AI论文精选列表，涵盖计算机视觉、NLP、机器人、数据库等多
 
 专注于AI记忆系统的精选知识库，涵盖LLM记忆、智能体记忆、长期记忆、推理检索等前沿研究与工程实践。
 
-- **Stars:** ⭐️ 914
+- **Stars:** ⭐️ 925
 - **Tags:** `AI Memory` `LLM` `Agent` `RAG` `Long-term Memory`
-- **最后活动时间:** 2026-05-25
+- **最后活动时间:** 2026-05-27
 
 ### [awesome-3d-4d-world-models](https://github.com/worldbench/awesome-3d-4d-world-models)
 
 3D与4D世界建模领域的综述与资源列表，涵盖自动驾驶与具身智能。
 
-- **Stars:** ⭐️ 913
+- **Stars:** ⭐️ 922
 - **Tags:** `3d-generation` `world-models` `autonomous-driving`
 - **最后活动时间:** 2026-05-19
+
+### [AI-ML-Cheatsheets](https://github.com/analyticalrohit/AI-ML-Cheatsheets)
+
+斯坦福大学AI/ML速查表合集，涵盖人工智能、深度学习、LLM、机器学习、概率统计等核心领域的知识点总结。
+
+- **Stars:** ⭐️ 899
+- **Tags:** `artificial-intelligence` `machine-learning` `deep-learning` `cheatsheet`
+- **最后活动时间:** 2026-01-06
 
 ### [awesome-decision-transformer](https://github.com/opendilab/awesome-decision-transformer)
 
@@ -2702,45 +2718,37 @@ Decision Transformer资源精选合集，涵盖强化学习、模仿学习等前
 - **Tags:** `ai-tools` `artificial-intelligence` `resources`
 - **最后活动时间:** 2026-05-09
 
+### [awesome-ai-agent-papers](https://github.com/VoltAgent/awesome-ai-agent-papers)
+
+精选2026年AI智能体研究论文合集，涵盖智能体工程、记忆机制、评估方法、工作流和自主系统等核心主题。
+
+- **Stars:** ⭐️ 897
+- **Tags:** `ai-agents` `awesome-list` `llm` `research-papers`
+- **最后活动时间:** 2026-05-25
+
 ### [awesome-LLM-game-agent-papers](https://github.com/git-disl/awesome-LLM-game-agent-papers)
 
 基于大语言模型的游戏智能体研究综述，涵盖游戏 AI 领域的最新进展。
 
-- **Stars:** ⭐️ 891
+- **Stars:** ⭐️ 896
 - **Tags:** `game-agent` `llm-based-agent` `survey` `large-language-models`
-- **最后活动时间:** 2026-05-22
+- **最后活动时间:** 2026-05-28
 
 ### [awesome-ralph](https://github.com/snwfdhmp/awesome-ralph)
 
 Ralph AI编程技术的精选资源列表，介绍如何让AI编程代理在自动化循环中运行直至满足规范要求。
 
-- **Stars:** ⭐️ 889
+- **Stars:** ⭐️ 890
 - **Tags:** `ai-coding` `claude-code` `ralph-loop` `vibe-coding`
 - **最后活动时间:** 2026-02-03
-
-### [AI-ML-Cheatsheets](https://github.com/analyticalrohit/AI-ML-Cheatsheets)
-
-斯坦福大学AI/ML速查表合集，涵盖人工智能、深度学习、LLM、机器学习、概率统计等核心领域的知识点总结。
-
-- **Stars:** ⭐️ 887
-- **Tags:** `artificial-intelligence` `machine-learning` `deep-learning` `cheatsheet`
-- **最后活动时间:** 2026-01-06
 
 ### [awesome-computational-social-science](https://github.com/gesiscss/awesome-computational-social-science)
 
 计算社会科学精选资源列表，涵盖网络分析、文本挖掘、Python/R工具等，适合数据科学和社会科学研究者。
 
-- **Stars:** ⭐️ 885
+- **Stars:** ⭐️ 890
 - **Tags:** `computational-social-science` `network-analysis` `text-mining` `data-science`
 - **最后活动时间:** 2026-05-17
-
-### [awesome-ai-agent-papers](https://github.com/VoltAgent/awesome-ai-agent-papers)
-
-精选2026年AI智能体研究论文合集，涵盖智能体工程、记忆机制、评估方法、工作流和自主系统等核心主题。
-
-- **Stars:** ⭐️ 882
-- **Tags:** `ai-agents` `awesome-list` `llm` `research-papers`
-- **最后活动时间:** 2026-05-25
 
 ### [awesome-mcp-list](https://github.com/MobinX/awesome-mcp-list)
 
@@ -2750,11 +2758,19 @@ Ralph AI编程技术的精选资源列表，介绍如何让AI编程代理在自�
 - **Tags:** `mcp` `awesome-list` `resources`
 - **最后活动时间:** 2026-03-11
 
+### [awesome-cuda-books](https://github.com/alternbits/awesome-cuda-books)
+
+精选CUDA编程书籍清单，涵盖GPU计算基础、并行编程优化和深度学习加速等核心主题，是AI开发者掌握GPU编程的必备资源。
+
+- **Stars:** ⭐️ 876
+- **Tags:** `cuda` `gpu-programming` `gpu-computing` `nvidia` `parallel-computing`
+- **最后活动时间:** 2026-05-19
+
 ### [Awesome-Open-Vocabulary-Semantic-Segmentation](https://github.com/Qinying-Liu/Awesome-Open-Vocabulary-Semantic-Segmentation)
 
 开放词汇语义分割领域的精选论文资源列表，涵盖零样本分割等前沿研究方向。
 
-- **Stars:** ⭐️ 873
+- **Stars:** ⭐️ 874
 - **Tags:** `semantic-segmentation` `open-vocabulary` `awesome-list` `computer-vision`
 - **最后活动时间:** 2026-05-20
 
@@ -2762,23 +2778,15 @@ Ralph AI编程技术的精选资源列表，介绍如何让AI编程代理在自�
 
 精选大语言模型用于漏洞检测的资源列表，涵盖相关论文、工具和数据集。
 
-- **Stars:** ⭐️ 866
+- **Stars:** ⭐️ 872
 - **Tags:** `llm` `vulnerability-detection` `security` `awesome-list`
-- **最后活动时间:** 2026-05-24
-
-### [awesome-cuda-books](https://github.com/alternbits/awesome-cuda-books)
-
-精选CUDA编程书籍清单，涵盖GPU计算基础、并行编程优化和深度学习加速等核心主题，是AI开发者掌握GPU编程的必备资源。
-
-- **Stars:** ⭐️ 863
-- **Tags:** `cuda` `gpu-programming` `gpu-computing` `nvidia` `parallel-computing`
-- **最后活动时间:** 2026-05-19
+- **最后活动时间:** 2026-05-26
 
 ### [awesome-hosting](https://github.com/dalisoft/awesome-hosting)
 
 按最低价格排序的优质托管服务清单，涵盖 AI/LLM 部署所需的云服务、VPS 和 Serverless 平台。
 
-- **Stars:** ⭐️ 854
+- **Stars:** ⭐️ 856
 - **Tags:** `Hosting` `Cloud` `LLM部署` `VPS`
 - **最后活动时间:** 2026-05-23
 
@@ -2786,7 +2794,7 @@ Ralph AI编程技术的精选资源列表，介绍如何让AI编程代理在自�
 
 多任务学习领域的精选资源列表，涵盖数据集、代码库和前沿论文。
 
-- **Stars:** ⭐️ 835
+- **Stars:** ⭐️ 837
 - **Tags:** `Multi-Task Learning` `Awesome List` `Deep Learning`
 - **最后活动时间:** 2026-03-03
 
@@ -2794,7 +2802,7 @@ Ralph AI编程技术的精选资源列表，介绍如何让AI编程代理在自�
 
 标准化 Agent 技能集合，帮助 AI 编程助手掌握现代 Android 开发技术栈。
 
-- **Stars:** ⭐️ 823
+- **Stars:** ⭐️ 827
 - **Tags:** `android` `agent-skills` `kotlin` `jetpack-compose`
 - **最后活动时间:** 2026-03-28
 
@@ -2818,17 +2826,33 @@ Ralph AI编程技术的精选资源列表，介绍如何让AI编程代理在自�
 
 追踪Claude Code版本的提示词、功能标志和元数据变化，了解最新特性。
 
-- **Stars:** ⭐️ 818
+- **Stars:** ⭐️ 819
 - **Tags:** `Claude-Code` `Changelog` `System-Prompts`
-- **最后活动时间:** 2026-05-23
+- **最后活动时间:** 2026-05-29
 
 ### [Deep-learning-in-cloud](https://github.com/zszazi/Deep-learning-in-cloud)
 
 深度学习云服务提供商精选列表，涵盖GPU云计算和MLOps平台资源。
 
-- **Stars:** ⭐️ 812
+- **Stars:** ⭐️ 813
 - **Tags:** `cloud-gpus` `deep-learning` `mlops` `gpu-computing`
 - **最后活动时间:** 2026-03-04
+
+### [ai-directories](https://github.com/best-of-ai/ai-directories)
+
+AI工具提交目录的精选列表，帮助开发者推广和分发AI产品到各大平台。
+
+- **Stars:** ⭐️ 810
+- **Tags:** `ai-tools` `ai-directories` `awesome-list` `marketing`
+- **最后活动时间:** 2026-05-15
+
+### [awesome-uncertainty-deeplearning](https://github.com/ENSTA-U2IS-AI/awesome-uncertainty-deeplearning)
+
+深度学习预测不确定性估计资源合集，涵盖论文、数据集和代码实现。
+
+- **Stars:** ⭐️ 810
+- **Tags:** `uncertainty-estimation` `deep-learning` `awesome-list` `uncertainty-quantification`
+- **最后活动时间:** 2026-05-14
 
 ### [awesome-machine-learning](https://github.com/onmyway133/awesome-machine-learning)
 
@@ -2836,15 +2860,7 @@ Ralph AI编程技术的精选资源列表，介绍如何让AI编程代理在自�
 
 - **Stars:** ⭐️ 809
 - **Tags:** `machine-learning` `coreml` `ai` `resources`
-- **最后活动时间:** 2026-01-24
-
-### [ai-directories](https://github.com/best-of-ai/ai-directories)
-
-AI工具提交目录的精选列表，帮助开发者推广和分发AI产品到各大平台。
-
-- **Stars:** ⭐️ 808
-- **Tags:** `ai-tools` `ai-directories` `awesome-list` `marketing`
-- **最后活动时间:** 2026-05-15
+- **最后活动时间:** 2026-05-26
 
 ### [AITreasureBox](https://github.com/superiorlu/AITreasureBox)
 
@@ -2854,21 +2870,21 @@ AI资源百宝箱，汇集AI工具、项目、论文和教程等优质资源，�
 - **Tags:** `资源合集` `AI工具` `学习资源`
 - **最后活动时间:** 2026-05-24
 
-### [awesome-uncertainty-deeplearning](https://github.com/ENSTA-U2IS-AI/awesome-uncertainty-deeplearning)
-
-深度学习预测不确定性估计资源合集，涵盖论文、数据集和代码实现。
-
-- **Stars:** ⭐️ 806
-- **Tags:** `uncertainty-estimation` `deep-learning` `awesome-list` `uncertainty-quantification`
-- **最后活动时间:** 2026-05-14
-
 ### [VLA-Diffusion-Policy-Robotics](https://github.com/iLearn-Lab/VLA-Diffusion-Policy-Robotics)
 
 机器人操作领域扩散模型的优秀资源与论文合集，涵盖视觉-语言-动作模型的前沿研究。
 
-- **Stars:** ⭐️ 805
+- **Stars:** ⭐️ 806
 - **Tags:** `diffusion-models` `robotics` `vision-language-action` `machine-learning`
 - **最后活动时间:** 2026-04-07
+
+### [GUI-Agents-Paper-List](https://github.com/OSU-NLP-Group/GUI-Agents-Paper-List)
+
+GUI智能体领域的论文精选列表，汇集了图形界面自动化代理的前沿研究成果。
+
+- **Stars:** ⭐️ 803
+- **Tags:** `gui-agents` `paper-list` `autonomous-agents`
+- **最后活动时间:** 2026-05-12
 
 ### [VLA-Diffusion-Policy-Robotics](https://github.com/EmbodiedMind/VLA-Diffusion-Policy-Robotics)
 
@@ -2886,6 +2902,14 @@ AI资源百宝箱，汇集AI工具、项目、论文和教程等优质资源，�
 - **Tags:** `active-learning` `machine-learning` `deep-learning` `papers`
 - **最后活动时间:** 2026-03-26
 
+### [Books](https://github.com/Rishabh-creator601/Books)
+
+涵盖深度学习、机器学习、计算机视觉、NLP等AI领域的编程书籍与资料合集。
+
+- **Stars:** ⭐️ 795
+- **Tags:** `deep-learning` `machine-learning` `computer-vision` `nlp`
+- **最后活动时间:** 2026-01-02
+
 ### [genmusic_demo_list](https://github.com/affige/genmusic_demo_list)
 
 自动音乐生成研究的演示网站汇总列表，涵盖多种AI音乐生成项目。
@@ -2894,21 +2918,37 @@ AI资源百宝箱，汇集AI工具、项目、论文和教程等优质资源，�
 - **Tags:** `music-generation` `awesome-list` `ai-music`
 - **最后活动时间:** 2026-05-20
 
-### [Books](https://github.com/Rishabh-creator601/Books)
-
-涵盖深度学习、机器学习、计算机视觉、NLP等AI领域的编程书籍与资料合集。
-
-- **Stars:** ⭐️ 787
-- **Tags:** `deep-learning` `machine-learning` `computer-vision` `nlp`
-- **最后活动时间:** 2026-01-02
-
 ### [awesome-chatgpt](https://github.com/uhub/awesome-chatgpt)
 
 精选ChatGPT相关项目列表，涵盖工具、应用、资源等多个方向。
 
 - **Stars:** ⭐️ 785
 - **Tags:** `chatgpt` `awesome-list` `resources` `curated-list`
+- **最后活动时间:** 2026-05-29
+
+### [Awesome-Auto-Research-Tools](https://github.com/handsome-rich/Awesome-Auto-Research-Tools)
+
+精选的自动化研究工具合集，涵盖文献搜索、论文阅读、实验管理和代码生成，帮助研究人员加速工作流程。
+
+- **Stars:** ⭐️ 782
+- **Tags:** `research-tools` `automation` `awesome-list` `productivity`
 - **最后活动时间:** 2026-05-25
+
+### [awesome-data-llm](https://github.com/OpenDataBox/awesome-data-llm)
+
+LLM × DATA综述论文官方仓库，系统整理了大模型数据相关的数据获取、去重、过滤、混合、选择、合成与转换等核心技术资源。
+
+- **Stars:** ⭐️ 781
+- **Tags:** `llm` `data-processing` `data-synthesis` `vlm` `survey`
+- **最后活动时间:** 2026-03-24
+
+### [Awesome-Prompt-Adapter-Learning-for-VLMs-CLIP](https://github.com/zhengli97/Awesome-Prompt-Adapter-Learning-for-VLMs-CLIP)
+
+视觉语言模型（如CLIP）的提示学习和适配器学习方法精选列表，涵盖零样本和少样本学习论文资源。
+
+- **Stars:** ⭐️ 778
+- **Tags:** `prompt-learning` `adapter-learning` `vision-language-model` `CLIP`
+- **最后活动时间:** 2026-05-28
 
 ### [awesome-ai-apps](https://github.com/rohitg00/awesome-ai-apps)
 
@@ -2926,21 +2966,13 @@ AI资源百宝箱，汇集AI工具、项目、论文和教程等优质资源，�
 - **Tags:** `awesome-list` `photogrammetry` `computer-vision`
 - **最后活动时间:** 2026-05-18
 
-### [awesome-data-llm](https://github.com/OpenDataBox/awesome-data-llm)
+### [Awesome-Spiking-Neural-Networks](https://github.com/TheBrainLab/Awesome-Spiking-Neural-Networks)
 
-LLM × DATA综述论文官方仓库，系统整理了大模型数据相关的数据获取、去重、过滤、混合、选择、合成与转换等核心技术资源。
+脉冲神经网络论文与代码精选列表，涵盖顶会顶刊论文及持续更新的相关资源。
 
-- **Stars:** ⭐️ 777
-- **Tags:** `llm` `data-processing` `data-synthesis` `vlm` `survey`
+- **Stars:** ⭐️ 776
+- **Tags:** `awesome-list` `snn` `spiking-neural-network` `neuromorphic-computing` `deep-learning`
 - **最后活动时间:** 2026-03-24
-
-### [Awesome-Prompt-Adapter-Learning-for-VLMs-CLIP](https://github.com/zhengli97/Awesome-Prompt-Adapter-Learning-for-VLMs-CLIP)
-
-视觉语言模型（如CLIP）的提示学习和适配器学习方法精选列表，涵盖零样本和少样本学习论文资源。
-
-- **Stars:** ⭐️ 777
-- **Tags:** `prompt-learning` `adapter-learning` `vision-language-model` `CLIP`
-- **最后活动时间:** 2026-05-08
 
 ### [Awesome-Prompt-Adapter-Learning-for-VLMs](https://github.com/zhengli97/Awesome-Prompt-Adapter-Learning-for-VLMs)
 
@@ -2950,21 +2982,21 @@ LLM × DATA综述论文官方仓库，系统整理了大模型数据相关的数
 - **Tags:** `Prompt Learning` `Adapter` `VLM`
 - **最后活动时间:** 2026-04-16
 
-### [Awesome-Spiking-Neural-Networks](https://github.com/TheBrainLab/Awesome-Spiking-Neural-Networks)
-
-脉冲神经网络论文与代码精选列表，涵盖顶会顶刊论文及持续更新的相关资源。
-
-- **Stars:** ⭐️ 773
-- **Tags:** `awesome-list` `snn` `spiking-neural-network` `neuromorphic-computing` `deep-learning`
-- **最后活动时间:** 2026-03-24
-
 ### [awesome-spring-ai](https://github.com/spring-ai-community/awesome-spring-ai)
 
 Spring AI开发资源精选列表，汇集构建生成式AI应用的工具、教程和项目资源。
 
-- **Stars:** ⭐️ 770
+- **Stars:** ⭐️ 773
 - **Tags:** `Spring AI` `Java` `资源合集`
 - **最后活动时间:** 2025-12-21
+
+### [agents-radar](https://github.com/duanyytop/agents-radar)
+
+追踪Claude Code、Codex、Gemini CLI等AI智能体生态动态，每日自动生成中文摘要。
+
+- **Stars:** ⭐️ 771
+- **Tags:** `Agents` `Tracking` `News`
+- **最后活动时间:** 2026-05-29
 
 ### [awesome-ai-coding](https://github.com/wsxiaoys/awesome-ai-coding)
 
@@ -2994,7 +3026,7 @@ TMLR 2025综述论文资源列表，聚焦大语言模型高效推理方法与�
 
 Ilya Sutskever推荐的AI学习资源合集，包含论文、博客和网站等高质量学习材料。
 
-- **Stars:** ⭐️ 765
+- **Stars:** ⭐️ 766
 - **Tags:** `ai` `machine-learning` `deep-learning` `resources`
 - **最后活动时间:** 2025-12-29
 
@@ -3002,23 +3034,15 @@ Ilya Sutskever推荐的AI学习资源合集，包含论文、博客和网站等�
 
 精选LLM增强推荐系统论文列表，涵盖预训练、提示调优等前沿研究方向。
 
-- **Stars:** ⭐️ 761
+- **Stars:** ⭐️ 762
 - **Tags:** `awesome-list` `llm` `recommender-system` `papers`
 - **最后活动时间:** 2026-03-15
-
-### [agents-radar](https://github.com/duanyytop/agents-radar)
-
-追踪Claude Code、Codex、Gemini CLI等AI智能体生态动态，每日自动生成中文摘要。
-
-- **Stars:** ⭐️ 759
-- **Tags:** `Agents` `Tracking` `News`
-- **最后活动时间:** 2026-05-25
 
 ### [awesome-text-to-image-studies](https://github.com/AlonzoLeeeooo/awesome-text-to-image-studies)
 
 文生图领域研究论文合集，涵盖扩散模型等前沿文本到图像生成技术。
 
-- **Stars:** ⭐️ 759
+- **Stars:** ⭐️ 760
 - **Tags:** `text-to-image` `awesome-list` `diffusion-models`
 - **最后活动时间:** 2026-04-25
 
@@ -3026,9 +3050,25 @@ Ilya Sutskever推荐的AI学习资源合集，包含论文、博客和网站等�
 
 智能体深度研究资源精选，涵盖RAG、推理和搜索智能体等前沿方向。
 
-- **Stars:** ⭐️ 757
+- **Stars:** ⭐️ 758
 - **Tags:** `deep-research` `agentic-rag` `reasoning-agent` `search-agent`
 - **最后活动时间:** 2026-05-02
+
+### [awesome-local-llms](https://github.com/vince-lam/awesome-local-llms)
+
+本地LLM推理项目对比清单，评估开源项目的活跃度与流行度。
+
+- **Stars:** ⭐️ 758
+- **Tags:** `llm` `local-inference` `awesome-list`
+- **最后活动时间:** 2026-05-23
+
+### [awesome-claude-plugins](https://github.com/quemsah/awesome-claude-plugins)
+
+Claude Code插件生态精选列表，自动收集GitHub上的插件采用指标，方便开发者发现优质插件。
+
+- **Stars:** ⭐️ 758
+- **Tags:** `awesome-list` `claude-code` `claude-plugins` `ai-tools`
+- **最后活动时间:** 2026-05-28
 
 ### [awesome](https://github.com/shenwei356/awesome)
 
@@ -3038,59 +3078,27 @@ Ilya Sutskever推荐的AI学习资源合集，包含论文、博客和网站等�
 - **Tags:** `awesome-list` `machine-learning` `data-science` `bioinformatics`
 - **最后活动时间:** 2026-04-27
 
-### [GUI-Agents-Paper-List](https://github.com/OSU-NLP-Group/GUI-Agents-Paper-List)
-
-GUI智能体领域的论文精选列表，汇集了图形界面自动化代理的前沿研究成果。
-
-- **Stars:** ⭐️ 757
-- **Tags:** `gui-agents` `paper-list` `autonomous-agents`
-- **最后活动时间:** 2026-05-05
-
-### [awesome-local-llms](https://github.com/vince-lam/awesome-local-llms)
-
-本地LLM推理项目对比清单，评估开源项目的活跃度与流行度。
-
-- **Stars:** ⭐️ 754
-- **Tags:** `llm` `local-inference` `awesome-list`
-- **最后活动时间:** 2026-05-23
-
 ### [Awesome-Papers-Autonomous-Agent](https://github.com/lafmdp/Awesome-Papers-Autonomous-Agent)
 
 自主智能Agent论文精选合集，涵盖基于RL和LLM的Agent研究前沿。
 
-- **Stars:** ⭐️ 745
+- **Stars:** ⭐️ 746
 - **Tags:** `autonomous-agent` `llm-agent` `reinforcement-learning` `papers`
 - **最后活动时间:** 2026-04-23
-
-### [awesome-claude-plugins](https://github.com/quemsah/awesome-claude-plugins)
-
-Claude Code插件生态精选列表，自动收集GitHub上的插件采用指标，方便开发者发现优质插件。
-
-- **Stars:** ⭐️ 742
-- **Tags:** `awesome-list` `claude-code` `claude-plugins` `ai-tools`
-- **最后活动时间:** 2026-05-25
-
-### [Awesome-Auto-Research-Tools](https://github.com/handsome-rich/Awesome-Auto-Research-Tools)
-
-精选的自动化研究工具合集，涵盖文献搜索、论文阅读、实验管理和代码生成，帮助研究人员加速工作流程。
-
-- **Stars:** ⭐️ 739
-- **Tags:** `research-tools` `automation` `awesome-list` `productivity`
-- **最后活动时间:** 2026-05-25
 
 ### [Awesome-Model-Merging-Methods-Theories-Applications](https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications)
 
 大语言模型和多模态模型融合方法的综合资源列表，涵盖方法、理论、应用和前沿机遇。
 
-- **Stars:** ⭐️ 738
+- **Stars:** ⭐️ 740
 - **Tags:** `Model Merging` `LLMs` `Knowledge Fusion`
-- **最后活动时间:** 2026-05-23
+- **最后活动时间:** 2026-05-27
 
 ### [Awesome-Controllable-Video-Generation](https://github.com/mayuelala/Awesome-Controllable-Video-Generation)
 
 可控视频生成领域的综合调研资源，收录相关论文和代码。
 
-- **Stars:** ⭐️ 736
+- **Stars:** ⭐️ 739
 - **Tags:** `video-generation` `survey` `awesome-list` `controllable`
 - **最后活动时间:** 2026-04-13
 
@@ -3098,7 +3106,7 @@ Claude Code插件生态精选列表，自动收集GitHub上的插件采用指标
 
 CVPR 2024论文精选合集，包含论文、代码和演示，涵盖计算机视觉前沿研究方向。
 
-- **Stars:** ⭐️ 734
+- **Stars:** ⭐️ 735
 - **Tags:** `cvpr2024` `computer-vision` `awesome-list`
 - **最后活动时间:** 2026-04-15
 
@@ -3110,6 +3118,22 @@ Mamba架构精选资源合集，收录论文、教程、视频等前沿资料。
 - **Tags:** `mamba` `state-space-model` `deep-learning` `awesome-list`
 - **最后活动时间:** 2026-04-19
 
+### [free-ai-agents-resources](https://github.com/avinash201199/free-ai-agents-resources)
+
+2026年AI智能体学习资源大全，汇集AI Agents和LLM相关的免费学习资料。
+
+- **Stars:** ⭐️ 731
+- **Tags:** `ai-agents` `llms` `resources`
+- **最后活动时间:** 2026-02-28
+
+### [Awesome-RL-VLA](https://github.com/Denghaoyuan123/Awesome-RL-VLA)
+
+关于视觉-语言-动作模型强化学习在机器人操作领域应用的论文与资源精选列表。
+
+- **Stars:** ⭐️ 729
+- **Tags:** `reinforcement-learning` `vision-language-action` `robotics` `awesome-list`
+- **最后活动时间:** 2026-05-18
+
 ### [awesome-large-audio-models](https://github.com/EmulationAI/awesome-large-audio-models)
 
 大音频模型资源合集，涵盖语音识别、音乐生成等音频AI应用。
@@ -3118,29 +3142,21 @@ Mamba架构精选资源合集，收录论文、教程、视频等前沿资料。
 - **Tags:** `audio-ai` `speech-recognition` `music-generation` `awesome-list`
 - **最后活动时间:** 2026-05-10
 
-### [free-ai-agents-resources](https://github.com/avinash201199/free-ai-agents-resources)
-
-2026年AI智能体学习资源大全，汇集AI Agents和LLM相关的免费学习资料。
-
-- **Stars:** ⭐️ 725
-- **Tags:** `ai-agents` `llms` `resources`
-- **最后活动时间:** 2026-02-28
-
-### [Awesome-RL-VLA](https://github.com/Denghaoyuan123/Awesome-RL-VLA)
-
-关于视觉-语言-动作模型强化学习在机器人操作领域应用的论文与资源精选列表。
-
-- **Stars:** ⭐️ 724
-- **Tags:** `reinforcement-learning` `vision-language-action` `robotics` `awesome-list`
-- **最后活动时间:** 2026-05-18
-
 ### [free-ai-coding](https://github.com/inmve/free-ai-coding)
 
 精选AI编程工具列表，汇总免费使用Claude、GPT、Gemini等顶级模型的编码工具。
 
-- **Stars:** ⭐️ 722
+- **Stars:** ⭐️ 726
 - **Tags:** `Awesome List` `Free Tools` `LLM`
 - **最后活动时间:** 2025-12-05
+
+### [awesome-vibe-coding](https://github.com/ai-for-developers/awesome-vibe-coding)
+
+Vibe Coding工具和资源精选合集，涵盖AI IDE和AI应用构建器。
+
+- **Stars:** ⭐️ 724
+- **Tags:** `ai` `vibe-coding` `ai-tools` `awesome-list` `ai-ide`
+- **最后活动时间:** 2026-04-18
 
 ### [Awesome-RGBT-Fusion](https://github.com/yuanmaoxun/Awesome-RGBT-Fusion)
 
@@ -3150,27 +3166,27 @@ RGB-T多模态融合方法资源合集，涵盖行人检测、语义分割、目
 - **Tags:** `rgb-t` `multispectral` `deep-learning` `fusion`
 - **最后活动时间:** 2026-04-17
 
-### [awesome-vibe-coding](https://github.com/ai-for-developers/awesome-vibe-coding)
-
-Vibe Coding工具和资源精选合集，涵盖AI IDE和AI应用构建器。
-
-- **Stars:** ⭐️ 719
-- **Tags:** `ai` `vibe-coding` `ai-tools` `awesome-list` `ai-ide`
-- **最后活动时间:** 2026-04-18
-
 ### [Awesome-AI-Security](https://github.com/TalEliyahu/Awesome-AI-Security)
 
 AI安全领域的精选资源合集，涵盖研究论文、工具和最佳实践，助力构建安全的AI系统。
 
-- **Stars:** ⭐️ 711
+- **Stars:** ⭐️ 714
 - **Tags:** `ai-security` `cybersecurity` `adversarial-ml`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-28
+
+### [awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers)
+
+全面的MCP服务器资源合集，涵盖各类Model Context Protocol服务器实现。
+
+- **Stars:** ⭐️ 712
+- **Tags:** `MCP` `Awesome` `Collection`
+- **最后活动时间:** 2026-05-28
 
 ### [Awesome-KV-Cache-Compression](https://github.com/October2001/Awesome-KV-Cache-Compression)
 
 KV Cache压缩必读论文精选列表，持续更新中。
 
-- **Stars:** ⭐️ 710
+- **Stars:** ⭐️ 711
 - **Tags:** `kv-cache` `compression` `large-language-models` `papers`
 - **最后活动时间:** 2026-04-15
 
@@ -3178,7 +3194,7 @@ KV Cache压缩必读论文精选列表，持续更新中。
 
 移动机器人领域精选资源合集，涵盖AI、计算机视觉、SLAM、自动驾驶等方向。
 
-- **Stars:** ⭐️ 707
+- **Stars:** ⭐️ 709
 - **Tags:** `robotics` `mobile-robotics` `slam` `awesome-list`
 - **最后活动时间:** 2026-05-24
 
@@ -3186,23 +3202,15 @@ KV Cache压缩必读论文精选列表，持续更新中。
 
 蒙特卡洛树搜索论文精选列表，包含实现代码，覆盖强化学习与博弈论应用。
 
-- **Stars:** ⭐️ 702
+- **Stars:** ⭐️ 703
 - **Tags:** `monte-carlo-tree-search` `reinforcement-learning` `awesome-list` `research`
 - **最后活动时间:** 2026-01-13
-
-### [awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers)
-
-全面的MCP服务器资源合集，涵盖各类Model Context Protocol服务器实现。
-
-- **Stars:** ⭐️ 701
-- **Tags:** `MCP` `Awesome` `Collection`
-- **最后活动时间:** 2026-05-26
 
 ### [awesome-open-data-annotation](https://github.com/zenml-io/awesome-open-data-annotation)
 
 开源数据标注与标签工具精选列表，助力AI数据准备工作。
 
-- **Stars:** ⭐️ 700
+- **Stars:** ⭐️ 701
 - **Tags:** `数据标注` `Awesome列表` `开源工具`
 - **最后活动时间:** 2026-04-07
 
@@ -3218,9 +3226,25 @@ MCP安全资源精选列表，收录漏洞研究、渗透测试和安全实践�
 
 强化学习探索策略资源精选列表，涵盖探索-利用权衡、稀疏奖励等核心主题。
 
-- **Stars:** ⭐️ 690
+- **Stars:** ⭐️ 691
 - **Tags:** `awesome-list` `exploration` `reinforcement-learning` `sparse-reward`
 - **最后活动时间:** 2026-05-21
+
+### [awesome-openclaw](https://github.com/alvinreal/awesome-openclaw)
+
+OpenClaw 资源精选列表，收录官方项目、技能插件、仪表板、部署工具、记忆系统和指南等 AI 智能体相关资源。
+
+- **Stars:** ⭐️ 690
+- **Tags:** `ai-agents` `llm` `awesome-list` `openclaw`
+- **最后活动时间:** 2026-05-09
+
+### [best-of-atomistic-machine-learning](https://github.com/JuDFTteam/best-of-atomistic-machine-learning)
+
+原子级机器学习项目排名列表，涵盖AI在材料科学和化学领域的应用。
+
+- **Stars:** ⭐️ 689
+- **Tags:** `ai4science` `machine-learning` `materials-science` `computational-chemistry`
+- **最后活动时间:** 2026-05-28
 
 ### [awesome-chatgpt-project](https://github.com/xianyu110/awesome-chatgpt-project)
 
@@ -3230,27 +3254,11 @@ ChatGPT项目精选合集，包含注册教程、成品项目和使用技巧。
 - **Tags:** `chatgpt` `awesome-list` `chatbot` `resources`
 - **最后活动时间:** 2026-05-09
 
-### [awesome-openclaw](https://github.com/alvinreal/awesome-openclaw)
-
-OpenClaw 资源精选列表，收录官方项目、技能插件、仪表板、部署工具、记忆系统和指南等 AI 智能体相关资源。
-
-- **Stars:** ⭐️ 688
-- **Tags:** `ai-agents` `llm` `awesome-list` `openclaw`
-- **最后活动时间:** 2026-05-09
-
-### [best-of-atomistic-machine-learning](https://github.com/JuDFTteam/best-of-atomistic-machine-learning)
-
-原子级机器学习项目排名列表，涵盖AI在材料科学和化学领域的应用。
-
-- **Stars:** ⭐️ 685
-- **Tags:** `ai4science` `machine-learning` `materials-science` `computational-chemistry`
-- **最后活动时间:** 2026-05-21
-
 ### [awesome-optimization](https://github.com/ebrahimpichka/awesome-optimization)
 
 数学优化资源精选列表，涵盖凸优化、线性规划、整数规划等核心课程、书籍和开源框架。对机器学习算法优化具有重要参考价值。
 
-- **Stars:** ⭐️ 685
+- **Stars:** ⭐️ 687
 - **Tags:** `optimization` `mathematical-programming` `operations-research`
 - **最后活动时间:** 2026-05-18
 
@@ -3258,17 +3266,17 @@ OpenClaw 资源精选列表，收录官方项目、技能插件、仪表板、�
 
 计算神经科学开源资源合集，涵盖神经模拟、脑成像数据和神经元模型等内容，为类脑AI研究提供重要参考。
 
-- **Stars:** ⭐️ 682
+- **Stars:** ⭐️ 683
 - **Tags:** `computational-neuroscience` `neural-simulations` `brain-inspired`
 - **最后活动时间:** 2026-03-15
 
-### [Awesome-MLLM-Reasoning-Collection](https://github.com/lwpyh/Awesome-MLLM-Reasoning-Collection)
+### [awesome-flow-matching](https://github.com/dongzhuoyao/awesome-flow-matching)
 
-多模态推理论文、代码、数据集和基准测试的资源合集。
+Flow Matching 和随机插值相关研究的精选资源汇总，涵盖生成模型的前沿技术。
 
-- **Stars:** ⭐️ 680
-- **Tags:** `awesome-list` `multimodal` `reasoning` `benchmark`
-- **最后活动时间:** 2026-04-01
+- **Stars:** ⭐️ 675
+- **Tags:** `flow-matching` `generative-models` `diffusion-models` `machine-learning`
+- **最后活动时间:** 2026-04-12
 
 ### [Awesome-Lists-and-CheatSheets](https://github.com/wx-chevalier/Awesome-Lists-and-CheatSheets)
 
@@ -3278,19 +3286,11 @@ OpenClaw 资源精选列表，收录官方项目、技能插件、仪表板、�
 - **Tags:** `awesome-list` `AI` `algorithm` `software-architecture`
 - **最后活动时间:** 2026-05-13
 
-### [awesome-flow-matching](https://github.com/dongzhuoyao/awesome-flow-matching)
-
-Flow Matching 和随机插值相关研究的精选资源汇总，涵盖生成模型的前沿技术。
-
-- **Stars:** ⭐️ 671
-- **Tags:** `flow-matching` `generative-models` `diffusion-models` `machine-learning`
-- **最后活动时间:** 2026-04-12
-
 ### [claude-skills-collection](https://github.com/abubakarsiddik31/claude-skills-collection)
 
 精选Claude技能集合，包含官方和社区构建的模块化能力扩展。
 
-- **Stars:** ⭐️ 666
+- **Stars:** ⭐️ 669
 - **Tags:** `Claude` `Skills` `Collection`
 - **最后活动时间:** 2026-05-16
 
@@ -3298,17 +3298,17 @@ Flow Matching 和随机插值相关研究的精选资源汇总，涵盖生成模
 
 场景图生成论文资源合集，涵盖MLLM在场景图生成与应用领域的最新研究进展。
 
-- **Stars:** ⭐️ 664
+- **Stars:** ⭐️ 669
 - **Tags:** `scene-graph` `mllm` `scene-graph-generation` `computer-vision`
-- **最后活动时间:** 2026-05-19
+- **最后活动时间:** 2026-05-24
 
 ### [ai_wiki](https://github.com/charliedream1/ai_wiki)
 
 AI全栈知识资源库，涵盖大模型、深度学习、NLP、图像识别等领域，收录工程实践案例与前沿技术动态。
 
-- **Stars:** ⭐️ 663
+- **Stars:** ⭐️ 666
 - **Tags:** `知识库` `资源汇总` `AI全栈`
-- **最后活动时间:** 2026-05-24
+- **最后活动时间:** 2026-05-28
 
 ### [awesome-gpt-security](https://github.com/cckuailong/awesome-gpt-security)
 
@@ -3318,11 +3318,19 @@ AI全栈知识资源库，涵盖大模型、深度学习、NLP、图像识别等
 - **Tags:** `security` `llm` `gpt` `awesome-list`
 - **最后活动时间:** 2026-05-11
 
+### [awesome-claude-design](https://github.com/rohitg00/awesome-claude-design)
+
+Claude Design 提示词资源合集，包含设计风格分类、混搭配方、技能模板和社区见解。
+
+- **Stars:** ⭐️ 658
+- **Tags:** `claude-code` `ai-design` `awesome-list` `design-system` `prompt-engineering`
+- **最后活动时间:** 2026-04-23
+
 ### [Awesome-Adaptation-of-Agentic-AI](https://github.com/pat-jj/Awesome-Adaptation-of-Agentic-AI)
 
 智能体AI适配资源精选列表，聚焦Agent适应性问题。
 
-- **Stars:** ⭐️ 652
+- **Stars:** ⭐️ 655
 - **Tags:** `agentic-ai` `adaptation` `agent-learning`
 - **最后活动时间:** 2026-01-21
 
@@ -3330,7 +3338,7 @@ AI全栈知识资源库，涵盖大模型、深度学习、NLP、图像识别等
 
 ACM MM 2020发布的无人机地理定位基准数据集，涵盖全球72所大学的1652栋建筑，支持跨视角多源图像检索研究。
 
-- **Stars:** ⭐️ 650
+- **Stars:** ⭐️ 652
 - **Tags:** `geo-localization` `drone` `image-retrieval` `remote-sensing` `pytorch`
 - **最后活动时间:** 2026-03-29
 
@@ -3346,17 +3354,17 @@ CVPR 2023精选论文合集，附带代码实现链接。
 
 基于真实商业项目和数十万行AI辅助代码编写的实战指南，涵盖编码标准和最佳实践。
 
-- **Stars:** ⭐️ 645
+- **Stars:** ⭐️ 647
 - **Tags:** `ai-agents` `awesome` `coding-standards` `vibe-coding` `guide`
 - **最后活动时间:** 2026-01-27
 
-### [awesome-claude-design](https://github.com/rohitg00/awesome-claude-design)
+### [Embodied-AI](https://github.com/Octoday-Hub/Embodied-AI)
 
-Claude Design 提示词资源合集，包含设计风格分类、混搭配方、技能模板和社区见解。
+具身智能知识索引与产业地图，汇集论文、研究、工具和社区资源，是学习具身智能的优质资源库。
 
-- **Stars:** ⭐️ 640
-- **Tags:** `claude-code` `ai-design` `awesome-list` `design-system` `prompt-engineering`
-- **最后活动时间:** 2026-04-23
+- **Stars:** ⭐️ 647
+- **Tags:** `embodied-ai` `robotics` `awesome-list` `research`
+- **最后活动时间:** 2026-05-26
 
 ### [LLMs-local](https://github.com/0xSojalSec/LLMs-local)
 
@@ -3366,21 +3374,29 @@ Claude Design 提示词资源合集，包含设计风格分类、混搭配方、
 - **Tags:** `awesome-list` `local-llm` `resources`
 - **最后活动时间:** 2025-12-17
 
-### [Awesome-Tabular-LLMs](https://github.com/SpursGoZmy/Awesome-Tabular-LLMs)
-
-整理了表格相关任务的大语言模型论文合集，涵盖Table QA等表格理解任务。
-
-- **Stars:** ⭐️ 630
-- **Tags:** `llm` `tabular-data` `awesome-list` `table-understanding`
-- **最后活动时间:** 2026-04-09
-
 ### [awesome-ai-summerschool](https://github.com/hazratali/awesome-ai-summerschool)
 
 人工智能、机器学习和医疗健康领域的暑期学校列表。
 
-- **Stars:** ⭐️ 629
+- **Stars:** ⭐️ 632
 - **Tags:** `awesome-list` `summer-school` `ai-education` `machine-learning`
 - **最后活动时间:** 2026-05-25
+
+### [Awesome-Tabular-LLMs](https://github.com/SpursGoZmy/Awesome-Tabular-LLMs)
+
+整理了表格相关任务的大语言模型论文合集，涵盖Table QA等表格理解任务。
+
+- **Stars:** ⭐️ 631
+- **Tags:** `llm` `tabular-data` `awesome-list` `table-understanding`
+- **最后活动时间:** 2026-04-09
+
+### [awesome-agent-orchestrators](https://github.com/andyrewlee/awesome-agent-orchestrators)
+
+智能体编排工具精选列表，汇集多智能体协调、并行执行等相关框架和工具。
+
+- **Stars:** ⭐️ 623
+- **Tags:** `awesome-list` `agent-orchestration` `multi-agent-systems`
+- **最后活动时间:** 2026-05-11
 
 ### [Awesome-LLM-in-Social-Science](https://github.com/ValueByte-AI/Awesome-LLM-in-Social-Science)
 
@@ -3402,7 +3418,7 @@ GPU资源精选列表，涵盖GPU编程、优化和相关技术的优质资源�
 
 在线机器学习资源精选列表，汇集持续学习和数据流处理相关的重要资源。
 
-- **Stars:** ⭐️ 616
+- **Stars:** ⭐️ 617
 - **Tags:** `Awesome List` `Online Learning` `Machine Learning`
 - **最后活动时间:** 2026-03-31
 
@@ -3418,9 +3434,17 @@ GPU资源精选列表，涵盖GPU编程、优化和相关技术的优质资源�
 
 大型多模态推理模型发展历程与未来展望的资源汇总。
 
-- **Stars:** ⭐️ 611
+- **Stars:** ⭐️ 612
 - **Tags:** `awesome-list` `multimodal` `reasoning` `survey`
 - **最后活动时间:** 2026-01-09
+
+### [Collaborative_Perception](https://github.com/Little-Podi/Collaborative_Perception)
+
+自动驾驶场景下协作/多智能体感知研究的论文精选列表。
+
+- **Stars:** ⭐️ 608
+- **Tags:** `autonomous-driving` `collaborative-perception` `paper-list` `v2x`
+- **最后活动时间:** 2026-05-12
 
 ### [awesome-multi-modal-reinforcement-learning](https://github.com/opendilab/awesome-multi-modal-reinforcement-learning)
 
@@ -3430,13 +3454,13 @@ GPU资源精选列表，涵盖GPU编程、优化和相关技术的优质资源�
 - **Tags:** `multi-modal` `reinforcement-learning` `deep-learning`
 - **最后活动时间:** 2025-12-15
 
-### [Collaborative_Perception](https://github.com/Little-Podi/Collaborative_Perception)
+### [awesome-openclaw-skills](https://github.com/sundial-org/awesome-openclaw-skills)
 
-自动驾驶场景下协作/多智能体感知研究的论文精选列表。
+OpenClaw平台最热门和实用的AI技能精选列表，帮助开发者快速发现和使用高质量的智能体技能。
 
 - **Stars:** ⭐️ 607
-- **Tags:** `autonomous-driving` `collaborative-perception` `paper-list` `v2x`
-- **最后活动时间:** 2026-05-12
+- **Tags:** `awesome-list` `ai-skills` `openclaw` `agent-skills`
+- **最后活动时间:** 2026-03-07
 
 ### [stable-diffusion-webui-extensions](https://github.com/AUTOMATIC1111/stable-diffusion-webui-extensions)
 
@@ -3444,37 +3468,21 @@ Stable Diffusion WebUI官方扩展索引库，汇集各类功能插件以增强�
 
 - **Stars:** ⭐️ 606
 - **Tags:** `Stable Diffusion` `扩展插件` `资源索引`
-- **最后活动时间:** 2026-05-24
-
-### [awesome-ai-dev-platform-opensource](https://github.com/AIxBlock-2023/awesome-ai-dev-platform-opensource)
-
-去中心化AI模型产品化开源平台，支持快速部署和分布式资源利用。
-
-- **Stars:** ⭐️ 605
-- **Tags:** `ai` `mlops` `automation` `blockchain` `distributed-computing`
-- **最后活动时间:** 2025-11-29
-
-### [awesome-openclaw-skills](https://github.com/sundial-org/awesome-openclaw-skills)
-
-OpenClaw平台最热门和实用的AI技能精选列表，帮助开发者快速发现和使用高质量的智能体技能。
-
-- **Stars:** ⭐️ 605
-- **Tags:** `awesome-list` `ai-skills` `openclaw` `agent-skills`
-- **最后活动时间:** 2026-03-07
+- **最后活动时间:** 2026-05-27
 
 ### [awesome-a2a](https://github.com/ai-boost/awesome-a2a)
 
 Agent2Agent资源精选列表，汇集A2A智能体、工具、服务器与客户端资源。
 
-- **Stars:** ⭐️ 603
+- **Stars:** ⭐️ 605
 - **Tags:** `A2A` `Awesome-List` `Agents`
-- **最后活动时间:** 2026-05-26
+- **最后活动时间:** 2026-05-29
 
 ### [Vision-Language-Models-Overview](https://github.com/zli12321/Vision-Language-Models-Overview)
 
 视觉语言模型前沿论文和代码仓库合集，持续更新中。
 
-- **Stars:** ⭐️ 600
+- **Stars:** ⭐️ 605
 - **Tags:** `Survey` `Vision Language` `Paper Collection`
 - **最后活动时间:** 2026-05-25
 
@@ -3482,9 +3490,25 @@ Agent2Agent资源精选列表，汇集A2A智能体、工具、服务器与客户
 
 AI行业与学术研究综述资源，涵盖人工智能领域的最新动态与深度分析。
 
-- **Stars:** ⭐️ 599
+- **Stars:** ⭐️ 600
 - **Tags:** `ai` `machine-learning` `research` `industry-review`
 - **最后活动时间:** 2026-03-10
+
+### [Awesome-MLLM-Reasoning-Collection](https://github.com/lwpyh/Awesome-MLLM-Reasoning-Collection)
+
+多模态推理论文、代码、数据集和基准测试的资源合集。
+
+- **Stars:** ⭐️ 597
+- **Tags:** `awesome-list` `multimodal` `reasoning` `benchmark`
+- **最后活动时间:** 2026-04-01
+
+### [GNN-Communication-Networks](https://github.com/jwwthu/GNN-Communication-Networks)
+
+通信网络领域图神经网络应用的资源合集，汇集图深度学习在通信网络中的研究与实践。
+
+- **Stars:** ⭐️ 596
+- **Tags:** `gnn` `communication-networks` `graph-neural-network`
+- **最后活动时间:** 2026-03-31
 
 ### [nlp-paper](https://github.com/changwookjun/nlp-paper)
 
@@ -3494,35 +3518,27 @@ NLP领域论文资源合集，涵盖BERT、Transformer、迁移学习等核心�
 - **Tags:** `nlp` `transformer` `paper-collection`
 - **最后活动时间:** 2026-02-04
 
+### [Awesome-Hyperbolic-Representation-and-Deep-Learning](https://github.com/marlin-codes/Awesome-Hyperbolic-Representation-and-Deep-Learning)
+
+双曲嵌入与双曲深度学习论文资源列表，涵盖图神经网络、知识图谱、推荐系统等应用领域。
+
+- **Stars:** ⭐️ 595
+- **Tags:** `hyperbolic-geometry` `graph-neural-networks` `representation-learning` `awesome-list`
+- **最后活动时间:** 2026-05-22
+
 ### [awesome-human-distillation](https://github.com/mliu98/awesome-human-distillation)
 
 精心策划的人类蒸馏智能体技能目录，收录Claude Code等场景下的技能提炼方法与最佳实践。
 
 - **Stars:** ⭐️ 594
 - **Tags:** `agent-skills` `awesome-list` `claude-code` `human-distillation`
-- **最后活动时间:** 2026-05-25
-
-### [GNN-Communication-Networks](https://github.com/jwwthu/GNN-Communication-Networks)
-
-通信网络领域图神经网络应用的资源合集，汇集图深度学习在通信网络中的研究与实践。
-
-- **Stars:** ⭐️ 593
-- **Tags:** `gnn` `communication-networks` `graph-neural-network`
-- **最后活动时间:** 2026-03-31
-
-### [Awesome-Hyperbolic-Representation-and-Deep-Learning](https://github.com/marlin-codes/Awesome-Hyperbolic-Representation-and-Deep-Learning)
-
-双曲嵌入与双曲深度学习论文资源列表，涵盖图神经网络、知识图谱、推荐系统等应用领域。
-
-- **Stars:** ⭐️ 593
-- **Tags:** `hyperbolic-geometry` `graph-neural-networks` `representation-learning` `awesome-list`
-- **最后活动时间:** 2026-05-22
+- **最后活动时间:** 2026-05-28
 
 ### [awesome-llm-unlearning](https://github.com/chrisliu298/awesome-llm-unlearning)
 
 大语言模型机器遗忘领域的精选资源合集，涵盖LLM遗忘技术的论文、方法和工具。对AI安全与对齐研究具有重要参考价值。
 
-- **Stars:** ⭐️ 590
+- **Stars:** ⭐️ 591
 - **Tags:** `LLM` `Machine Unlearning` `AI Safety` `Alignment`
 - **最后活动时间:** 2026-05-12
 
@@ -3554,15 +3570,39 @@ Text-to-3D和Diffusion-to-3D领域的精选资源合集，涵盖NeRF、3DGS等�
 
 时序动作检测与提案生成的精选资源列表，涵盖弱监督时序动作检测等前沿研究方向。
 
-- **Stars:** ⭐️ 586
+- **Stars:** ⭐️ 587
 - **Tags:** `temporal-action-detection` `video-understanding` `computer-vision` `deep-learning`
 - **最后活动时间:** 2026-05-19
+
+### [awesome-vla-wam](https://github.com/DravenALG/awesome-vla-wam)
+
+视觉-语言-行动模型(VLA)与世界行动模型(WAM)研究的精选资源列表，涵盖前沿AI研究论文与项目。
+
+- **Stars:** ⭐️ 584
+- **Tags:** `vla` `world-models` `robotics` `vision-language` `awesome-list`
+- **最后活动时间:** 2026-05-18
+
+### [awesome-ontology](https://github.com/ozekik/awesome-ontology)
+
+本体相关资源精选列表，涵盖知识图谱、语义网、RDF等领域的工具和学习资料。
+
+- **Stars:** ⭐️ 581
+- **Tags:** `ontology` `knowledge-graph` `semantic-web` `rdf`
+- **最后活动时间:** 2026-04-25
+
+### [awesome-fsrs](https://github.com/open-spaced-repetition/awesome-fsrs)
+
+FSRS（Free Spaced Repetition Scheduler）算法的精选资源列表，该算法使用机器学习优化记忆预测和间隔重复调度。
+
+- **Stars:** ⭐️ 577
+- **Tags:** `fsrs` `spaced-repetition` `machine-learning` `memory-algorithm`
+- **最后活动时间:** 2026-05-25
 
 ### [awesome-agent-skills](https://github.com/skillmatic-ai/awesome-agent-skills)
 
 AI Agent技能模块的权威资源列表，涵盖Claude Code、Cursor、Codex等主流AI工具的技能架构与最佳实践。
 
-- **Stars:** ⭐️ 573
+- **Stars:** ⭐️ 576
 - **Tags:** `ai-agents` `awesome-list` `agent-skills` `claude-code`
 - **最后活动时间:** 2026-05-14
 
@@ -3570,17 +3610,9 @@ AI Agent技能模块的权威资源列表，涵盖Claude Code、Cursor、Codex�
 
 孟加拉语计算资源合集，包含工具、数据集和相关资源。
 
-- **Stars:** ⭐️ 571
+- **Stars:** ⭐️ 570
 - **Tags:** `bangla` `awesome-list` `nlp-resources` `bengali`
 - **最后活动时间:** 2026-05-16
-
-### [awesome-fsrs](https://github.com/open-spaced-repetition/awesome-fsrs)
-
-FSRS（Free Spaced Repetition Scheduler）算法的精选资源列表，该算法使用机器学习优化记忆预测和间隔重复调度。
-
-- **Stars:** ⭐️ 571
-- **Tags:** `fsrs` `spaced-repetition` `machine-learning` `memory-algorithm`
-- **最后活动时间:** 2026-05-25
 
 ### [Reinforcement-Learning-Papers](https://github.com/yingchengyang/Reinforcement-Learning-Papers)
 
@@ -3590,29 +3622,29 @@ FSRS（Free Spaced Repetition Scheduler）算法的精选资源列表，该算�
 - **Tags:** `reinforcement-learning` `papers` `awesome-list`
 - **最后活动时间:** 2026-02-06
 
-### [awesome-ontology](https://github.com/ozekik/awesome-ontology)
-
-本体相关资源精选列表，涵盖知识图谱、语义网、RDF等领域的工具和学习资料。
-
-- **Stars:** ⭐️ 564
-- **Tags:** `ontology` `knowledge-graph` `semantic-web` `rdf`
-- **最后活动时间:** 2026-04-25
-
-### [Embodied-AI](https://github.com/Octoday-Hub/Embodied-AI)
-
-具身智能知识索引与产业地图，汇集论文、研究、工具和社区资源，是学习具身智能的优质资源库。
-
-- **Stars:** ⭐️ 564
-- **Tags:** `embodied-ai` `robotics` `awesome-list` `research`
-- **最后活动时间:** 2026-05-26
-
 ### [Awesome-Deep-Neural-Network-Compression](https://github.com/csyhhu/Awesome-Deep-Neural-Network-Compression)
 
 深度神经网络量化和压缩技术的精选资源汇总，包含论文、代码和工具。
 
 - **Stars:** ⭐️ 563
 - **Tags:** `neural-network-compression` `quantization` `deep-learning`
-- **最后活动时间:** 2026-05-21
+- **最后活动时间:** 2026-05-26
+
+### [Awesome-Video-World-Models-with-AR-Diffusion](https://github.com/gracezhao1997/Awesome-Video-World-Models-with-AR-Diffusion)
+
+精选视频世界模型与自回归扩散技术资源列表，涵盖算法、应用和基础设施，适合研究人员和从业者参考。
+
+- **Stars:** ⭐️ 561
+- **Tags:** `video-generation` `world-models` `diffusion-models` `generative-ai` `autoregressive`
+- **最后活动时间:** 2026-05-27
+
+### [awesome-data-agents](https://github.com/HKUSTDial/awesome-data-agents)
+
+持续更新的数据智能体论文列表，涵盖LLM在数据分析、NL2SQL、数据清洗等领域的最新研究进展。
+
+- **Stars:** ⭐️ 560
+- **Tags:** `data-agents` `llm` `nl2sql` `text-to-sql` `data-analysis`
+- **最后活动时间:** 2026-04-20
 
 ### [AI-Infinity](https://github.com/meetpateltech/AI-Infinity)
 
@@ -3622,13 +3654,13 @@ AI工具合集，帮助用户探索人工智能的无限可能性。
 - **Tags:** `ai-tools` `chatgpt` `ai`
 - **最后活动时间:** 2026-02-17
 
-### [awesome-agent-orchestrators](https://github.com/andyrewlee/awesome-agent-orchestrators)
+### [awesome-computer-use](https://github.com/ranpox/awesome-computer-use)
 
-智能体编排工具精选列表，汇集多智能体协调、并行执行等相关框架和工具。
+计算机使用GUI智能体的资源合集，包含视频、博客、论文和项目等多种学习材料。
 
 - **Stars:** ⭐️ 557
-- **Tags:** `awesome-list` `agent-orchestration` `multi-agent-systems`
-- **最后活动时间:** 2026-05-11
+- **Tags:** `computer-use` `gui-agents` `awesome-list`
+- **最后活动时间:** 2026-04-15
 
 ### [awesome-dspy](https://github.com/ganarajpr/awesome-dspy)
 
@@ -3638,29 +3670,21 @@ AI工具合集，帮助用户探索人工智能的无限可能性。
 - **Tags:** `dspy` `llm` `prompt-engineering` `language-models`
 - **最后活动时间:** 2025-12-10
 
-### [awesome-data-agents](https://github.com/HKUSTDial/awesome-data-agents)
+### [ai-learning-roadmaps](https://github.com/bishwaghimire/ai-learning-roadmaps)
 
-持续更新的数据智能体论文列表，涵盖LLM在数据分析、NL2SQL、数据清洗等领域的最新研究进展。
-
-- **Stars:** ⭐️ 556
-- **Tags:** `data-agents` `llm` `nl2sql` `text-to-sql` `data-analysis`
-- **最后活动时间:** 2026-04-20
-
-### [Awesome-Video-World-Models-with-AR-Diffusion](https://github.com/gracezhao1997/Awesome-Video-World-Models-with-AR-Diffusion)
-
-精选视频世界模型与自回归扩散技术资源列表，涵盖算法、应用和基础设施，适合研究人员和从业者参考。
-
-- **Stars:** ⭐️ 556
-- **Tags:** `video-generation` `world-models` `diffusion-models` `generative-ai` `autoregressive`
-- **最后活动时间:** 2026-05-18
-
-### [awesome-computer-use](https://github.com/ranpox/awesome-computer-use)
-
-计算机使用GUI智能体的资源合集，包含视频、博客、论文和项目等多种学习材料。
+一个完整的AI学习资源中心，涵盖人工智能、机器学习、深度学习和数据科学的书籍、学习路线图及精选资源，适合从入门到进阶的学习者。
 
 - **Stars:** ⭐️ 555
-- **Tags:** `computer-use` `gui-agents` `awesome-list`
-- **最后活动时间:** 2026-04-15
+- **Tags:** `ai-learning` `machine-learning` `deep-learning` `roadmap` `data-science`
+- **最后活动时间:** 2026-03-28
+
+### [awesome-arabic](https://github.com/01walid/awesome-arabic)
+
+阿拉伯语计算资源精选列表，涵盖NLP工具和开发资源。
+
+- **Stars:** ⭐️ 552
+- **Tags:** `arabic` `nlp` `natural-language-processing` `awesome-list`
+- **最后活动时间:** 2026-04-25
 
 ### [semantic-python-overview](https://github.com/pysemtec/semantic-python-overview)
 
@@ -3670,29 +3694,29 @@ Python语义技术项目精选列表，涵盖RDF、OWL、知识图谱、推理�
 - **Tags:** `python` `semantic-web` `knowledge-graph` `rdf` `owl`
 - **最后活动时间:** 2025-12-07
 
-### [awesome-arabic](https://github.com/01walid/awesome-arabic)
-
-阿拉伯语计算资源精选列表，涵盖NLP工具和开发资源。
-
-- **Stars:** ⭐️ 551
-- **Tags:** `arabic` `nlp` `natural-language-processing` `awesome-list`
-- **最后活动时间:** 2026-04-25
-
-### [awesome-vla-wam](https://github.com/DravenALG/awesome-vla-wam)
-
-视觉-语言-行动模型(VLA)与世界行动模型(WAM)研究的精选资源列表，涵盖前沿AI研究论文与项目。
-
-- **Stars:** ⭐️ 551
-- **Tags:** `vla` `world-models` `robotics` `vision-language` `awesome-list`
-- **最后活动时间:** 2026-05-18
-
 ### [awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers)
 
 时间序列分割领域的论文精选列表，涵盖异常检测、深度学习、无监督学习等方向，适合研究人员和从业者参考。
 
-- **Stars:** ⭐️ 548
+- **Stars:** ⭐️ 550
 - **Tags:** `Time Series` `Deep Learning` `Paper List`
 - **最后活动时间:** 2026-04-05
+
+### [awesome-sentiment-analysis](https://github.com/laugustyniak/awesome-sentiment-analysis)
+
+情感分析及相关领域的全面资源合集，包含词典、分类器等工具。
+
+- **Stars:** ⭐️ 550
+- **Tags:** `sentiment-analysis` `nlp` `text-mining` `opinion-mining`
+- **最后活动时间:** 2026-04-03
+
+### [Awesome-LVLM-Attack](https://github.com/liudaizong/Awesome-LVLM-Attack)
+
+大型视觉语言模型攻击方法论文、技术与资源的精选汇总列表。
+
+- **Stars:** ⭐️ 548
+- **Tags:** `adversarial-attacks` `large-vision-language-models` `security` `awesome-list`
+- **最后活动时间:** 2026-05-26
 
 ### [awesome_computer_science](https://github.com/apeman/awesome_computer_science)
 
@@ -3702,29 +3726,21 @@ Python语义技术项目精选列表，涵盖RDF、OWL、知识图谱、推理�
 - **Tags:** `computer-science` `curriculum` `awesome-list`
 - **最后活动时间:** 2026-05-20
 
-### [awesome-sentiment-analysis](https://github.com/laugustyniak/awesome-sentiment-analysis)
-
-情感分析及相关领域的全面资源合集，包含词典、分类器等工具。
-
-- **Stars:** ⭐️ 548
-- **Tags:** `sentiment-analysis` `nlp` `text-mining` `opinion-mining`
-- **最后活动时间:** 2026-04-03
-
-### [Awesome-LVLM-Attack](https://github.com/liudaizong/Awesome-LVLM-Attack)
-
-大型视觉语言模型攻击方法论文、技术与资源的精选汇总列表。
-
-- **Stars:** ⭐️ 547
-- **Tags:** `adversarial-attacks` `large-vision-language-models` `security` `awesome-list`
-- **最后活动时间:** 2026-05-26
-
 ### [Awesome-Document-Image-Rectification](https://github.com/fh2019ustc/Awesome-Document-Image-Rectification)
 
 文档图像矫正论文精选列表，涵盖文档去扭曲、展平等研究方向。
 
-- **Stars:** ⭐️ 547
+- **Stars:** ⭐️ 548
 - **Tags:** `awesome-list` `document-dewarping` `deep-learning` `document-image-processing`
 - **最后活动时间:** 2026-04-15
+
+### [Books](https://github.com/ThisIsSakshi/Books)
+
+免费的编程与AI学习资源合集，涵盖深度学习、机器学习算法、系统设计等领域的书籍和PDF资料。
+
+- **Stars:** ⭐️ 545
+- **Tags:** `deep-learning` `machine-learning` `free-books` `resources`
+- **最后活动时间:** 2026-02-16
 
 ### [awesome-ai](https://github.com/hades217/awesome-ai)
 
@@ -3734,21 +3750,21 @@ Python语义技术项目精选列表，涵盖RDF、OWL、知识图谱、推理�
 - **Tags:** `awesome-list` `artificial-intelligence` `machine-learning` `resources`
 - **最后活动时间:** 2026-05-06
 
-### [Books](https://github.com/ThisIsSakshi/Books)
-
-免费的编程与AI学习资源合集，涵盖深度学习、机器学习算法、系统设计等领域的书籍和PDF资料。
-
-- **Stars:** ⭐️ 541
-- **Tags:** `deep-learning` `machine-learning` `free-books` `resources`
-- **最后活动时间:** 2026-02-16
-
 ### [awesome-fm4co](https://github.com/ai4co/awesome-fm4co)
 
 组合优化领域基础模型的精选论文列表，涵盖神经组合优化前沿研究。
 
 - **Stars:** ⭐️ 538
 - **Tags:** `awesome-list` `foundation-models` `combinatorial-optimization` `machine-learning`
-- **最后活动时间:** 2026-05-19
+- **最后活动时间:** 2026-05-28
+
+### [awesome-agent-skills](https://github.com/JackyST0/awesome-agent-skills)
+
+精选AI Agent技能列表，适用于Cursor、Claude Code、GitHub Copilot等AI编程工具。
+
+- **Stars:** ⭐️ 538
+- **Tags:** `agent-skills` `awesome-list` `ai` `cursor` `copilot`
+- **最后活动时间:** 2026-05-25
 
 ### [ElectrophysiologyData](https://github.com/openlists/ElectrophysiologyData)
 
@@ -3762,17 +3778,25 @@ Python语义技术项目精选列表，涵盖RDF、OWL、知识图谱、推理�
 
 由Agentic AI驱动的AIGC精选周刊，持续追踪人工智能生成内容领域的前沿动态。
 
-- **Stars:** ⭐️ 534
+- **Stars:** ⭐️ 535
 - **Tags:** `ai` `agent` `newsletter` `aigc`
-- **最后活动时间:** 2026-05-24
+- **最后活动时间:** 2026-05-27
 
-### [ai-learning-roadmaps](https://github.com/bishwaghimire/ai-learning-roadmaps)
+### [Awesome-World-Model-for-Robotics-Policy](https://github.com/NTUMARS/Awesome-World-Model-for-Robotics-Policy)
 
-一个完整的AI学习资源中心，涵盖人工智能、机器学习、深度学习和数据科学的书籍、学习路线图及精选资源，适合从入门到进阶的学习者。
+机器人策略世界模型领域的精选资源列表，涵盖世界模型在机器人学习与决策中的应用研究。
 
 - **Stars:** ⭐️ 534
-- **Tags:** `ai-learning` `machine-learning` `deep-learning` `roadmap` `data-science`
-- **最后活动时间:** 2026-03-28
+- **Tags:** `world-model` `robotics` `reinforcement-learning` `awesome-list`
+- **最后活动时间:** 2026-05-16
+
+### [Awesome-AGI-Agents](https://github.com/yzfly/Awesome-AGI-Agents)
+
+AGI智能体精选资源合集，涵盖Agent框架、工具和研究方向的全面整理。
+
+- **Stars:** ⭐️ 531
+- **Tags:** `agents` `agi` `ai-agents` `llm`
+- **最后活动时间:** 2026-05-29
 
 ### [DMG-Data-Science-Awesome](https://github.com/multigroupco/DMG-Data-Science-Awesome)
 
@@ -3782,6 +3806,22 @@ Python语义技术项目精选列表，涵盖RDF、OWL、知识图谱、推理�
 - **Tags:** `data-science` `machine-learning` `generative-ai` `awesome-list`
 - **最后活动时间:** 2026-05-11
 
+### [free-ai-resources-x](https://github.com/CelaDaniel/free-ai-resources-x)
+
+精选免费AI工具、API、数据集和学习资源合集，涵盖机器学习、深度学习、生成式AI等领域。
+
+- **Stars:** ⭐️ 530
+- **Tags:** `ai-tools` `awesome-list` `machine-learning` `deep-learning` `generative-ai`
+- **最后活动时间:** 2026-05-21
+
+### [Awesome-RL-for-Video-Generation](https://github.com/wendell0218/Awesome-RL-for-Video-Generation)
+
+精选强化学习在视频生成领域应用的论文列表，涵盖DPO、GRPO、PPO等方法。
+
+- **Stars:** ⭐️ 530
+- **Tags:** `reinforcement-learning` `video-generation` `awesome-list`
+- **最后活动时间:** 2026-04-15
+
 ### [DMG-Data-Science-Awesome](https://github.com/Developer-MultiGroup/DMG-Data-Science-Awesome)
 
 数据科学资源精选，涵盖机器学习、生成式AI等领域。
@@ -3789,22 +3829,6 @@ Python语义技术项目精选列表，涵盖RDF、OWL、知识图谱、推理�
 - **Stars:** ⭐️ 529
 - **Tags:** `data-science` `machine-learning` `generative-ai`
 - **最后活动时间:** 2026-02-02
-
-### [awesome-agent-skills](https://github.com/JackyST0/awesome-agent-skills)
-
-精选AI Agent技能列表，适用于Cursor、Claude Code、GitHub Copilot等AI编程工具。
-
-- **Stars:** ⭐️ 529
-- **Tags:** `agent-skills` `awesome-list` `ai` `cursor` `copilot`
-- **最后活动时间:** 2026-05-25
-
-### [free-ai-resources-x](https://github.com/CelaDaniel/free-ai-resources-x)
-
-精选免费AI工具、API、数据集和学习资源合集，涵盖机器学习、深度学习、生成式AI等领域。
-
-- **Stars:** ⭐️ 529
-- **Tags:** `ai-tools` `awesome-list` `machine-learning` `deep-learning` `generative-ai`
-- **最后活动时间:** 2026-05-21
 
 ### [Awesome-LLM-Resources-List](https://github.com/ilsilfverskiold/Awesome-LLM-Resources-List)
 
@@ -3822,6 +3846,38 @@ Python语义技术项目精选列表，涵盖RDF、OWL、知识图谱、推理�
 - **Tags:** `ai-agents` `rails` `code-patterns` `learning`
 - **最后活动时间:** 2026-05-25
 
+### [edge-ai](https://github.com/crespum/edge-ai)
+
+嵌入式AI资源精选列表，汇集边缘计算AI开发所需的框架、工具和学习资料。
+
+- **Stars:** ⭐️ 525
+- **Tags:** `Edge AI` `Embedded AI` `Awesome List`
+- **最后活动时间:** 2026-05-01
+
+### [Compendium-of-free-ML-reading-resources](https://github.com/Carl-McBride-Ellis/Compendium-of-free-ML-reading-resources)
+
+免费机器学习阅读资源汇编，涵盖分类、回归、神经网络等主题。
+
+- **Stars:** ⭐️ 524
+- **Tags:** `machine-learning` `free-resources` `education`
+- **最后活动时间:** 2026-05-09
+
+### [awesome-copilot-agents](https://github.com/Code-and-Sorts/awesome-copilot-agents)
+
+精选的GitHub Copilot资源合集，包含指令、提示词、技能、MCP配置和Agent模板，助力提升AI编程体验。
+
+- **Stars:** ⭐️ 524
+- **Tags:** `github-copilot` `ai-agents` `prompt-engineering` `mcp` `awesome-list`
+- **最后活动时间:** 2026-04-29
+
+### [awesome-ai-tools-for-ui](https://github.com/maxbogo/awesome-ai-tools-for-ui)
+
+精选AI工具列表，专注于构建美观UI/UX的AI工具和资源。
+
+- **Stars:** ⭐️ 524
+- **Tags:** `awesome-list` `ai-tools` `ui-design` `claude` `cursor`
+- **最后活动时间:** 2026-05-17
+
 ### [awesome-full-stack-machine-learning-courses](https://github.com/leehanchung/awesome-full-stack-machine-learning-courses)
 
 精选公开可访问的机器学习工程课程列表，涵盖CalTech、MIT、Stanford等顶尖名校课程。
@@ -3838,37 +3894,21 @@ Python语义技术项目精选列表，涵盖RDF、OWL、知识图谱、推理�
 - **Tags:** `autonomous-driving` `world-models` `survey`
 - **最后活动时间:** 2025-12-23
 
-### [Compendium-of-free-ML-reading-resources](https://github.com/Carl-McBride-Ellis/Compendium-of-free-ML-reading-resources)
+### [awesome-infrared-small-targets](https://github.com/Tianfang-Zhang/awesome-infrared-small-targets)
 
-免费机器学习阅读资源汇编，涵盖分类、回归、神经网络等主题。
-
-- **Stars:** ⭐️ 522
-- **Tags:** `machine-learning` `free-resources` `education`
-- **最后活动时间:** 2026-05-09
-
-### [awesome-copilot-agents](https://github.com/Code-and-Sorts/awesome-copilot-agents)
-
-精选的GitHub Copilot资源合集，包含指令、提示词、技能、MCP配置和Agent模板，助力提升AI编程体验。
+红外小目标检测方法精选资源列表，涵盖计算机视觉与深度学习领域的目标检测技术。
 
 - **Stars:** ⭐️ 522
-- **Tags:** `github-copilot` `ai-agents` `prompt-engineering` `mcp` `awesome-list`
-- **最后活动时间:** 2026-04-29
+- **Tags:** `infrared-detection` `computer-vision` `deep-learning` `target-detection`
+- **最后活动时间:** 2026-05-28
 
-### [Awesome-RL-for-Video-Generation](https://github.com/wendell0218/Awesome-RL-for-Video-Generation)
+### [artificial-intelligence](https://github.com/yanshengjia/artificial-intelligence)
 
-精选强化学习在视频生成领域应用的论文列表，涵盖DPO、GRPO、PPO等方法。
-
-- **Stars:** ⭐️ 522
-- **Tags:** `reinforcement-learning` `video-generation` `awesome-list`
-- **最后活动时间:** 2026-04-15
-
-### [edge-ai](https://github.com/crespum/edge-ai)
-
-嵌入式AI资源精选列表，汇集边缘计算AI开发所需的框架、工具和学习资料。
+精选人工智能项目合集，涵盖人脸识别、遗传算法、神经网络等多个方向。
 
 - **Stars:** ⭐️ 521
-- **Tags:** `Edge AI` `Embedded AI` `Awesome List`
-- **最后活动时间:** 2026-05-01
+- **Tags:** `artificial-intelligence` `neural-network` `awesome-list`
+- **最后活动时间:** 2026-03-28
 
 ### [awesome-ai-extensions](https://github.com/kklt92/awesome-ai-extensions)
 
@@ -3886,21 +3926,29 @@ Python语义技术项目精选列表，涵盖RDF、OWL、知识图谱、推理�
 - **Tags:** `awesome-list` `novel-class-discovery` `deep-learning` `research`
 - **最后活动时间:** 2026-02-15
 
-### [artificial-intelligence](https://github.com/yanshengjia/artificial-intelligence)
+### [Awesome-Healthcare-Foundation-Models](https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models)
 
-精选人工智能项目合集，涵盖人脸识别、遗传算法、神经网络等多个方向。
+医疗健康领域基础模型的精选资源列表，汇集相关研究论文与项目。
 
-- **Stars:** ⭐️ 520
-- **Tags:** `artificial-intelligence` `neural-network` `awesome-list`
-- **最后活动时间:** 2026-03-28
+- **Stars:** ⭐️ 515
+- **Tags:** `awesome-list` `healthcare` `foundation-models` `medical-ai`
+- **最后活动时间:** 2026-04-25
 
-### [awesome-infrared-small-targets](https://github.com/Tianfang-Zhang/awesome-infrared-small-targets)
+### [awesome-materials-informatics](https://github.com/tilde-lab/awesome-materials-informatics)
 
-红外小目标检测方法精选资源列表，涵盖计算机视觉与深度学习领域的目标检测技术。
+材料信息学领域的精选资源列表，涵盖计算材料科学中的机器学习、数据驱动材料发现等前沿研究方向。
 
-- **Stars:** ⭐️ 519
-- **Tags:** `infrared-detection` `computer-vision` `deep-learning` `target-detection`
-- **最后活动时间:** 2026-02-03
+- **Stars:** ⭐️ 515
+- **Tags:** `materials-science` `machine-learning` `computational-materials` `awesome-list`
+- **最后活动时间:** 2026-03-24
+
+### [Awesome-Memory-for-Agents](https://github.com/TsinghuaC3I/Awesome-Memory-for-Agents)
+
+关于语言智能体内存机制的研究论文精选合集，涵盖记忆架构、检索策略等核心主题。
+
+- **Stars:** ⭐️ 515
+- **Tags:** `memory` `agents` `llm` `papers` `awesome-list`
+- **最后活动时间:** 2026-05-21
 
 ### [Awesome-Traffic-Agent-Trajectory-Prediction](https://github.com/Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction)
 
@@ -3910,14 +3958,6 @@ Python语义技术项目精选列表，涵盖RDF、OWL、知识图谱、推理�
 - **Tags:** `trajectory-prediction` `autonomous-driving` `deep-learning` `awesome-list`
 - **最后活动时间:** 2025-12-30
 
-### [awesome-materials-informatics](https://github.com/tilde-lab/awesome-materials-informatics)
-
-材料信息学领域的精选资源列表，涵盖计算材料科学中的机器学习、数据驱动材料发现等前沿研究方向。
-
-- **Stars:** ⭐️ 514
-- **Tags:** `materials-science` `machine-learning` `computational-materials` `awesome-list`
-- **最后活动时间:** 2026-03-24
-
 ### [open-model-database](https://github.com/OpenModelDB/open-model-database)
 
 一个开放免费的AI模型数据库，为开发者提供模型资源的集中查询和检索服务。
@@ -3926,37 +3966,37 @@ Python语义技术项目精选列表，涵盖RDF、OWL、知识图谱、推理�
 - **Tags:** `ai-models` `model-database` `open-source`
 - **最后活动时间:** 2026-02-19
 
-### [awesome-ai-tools-for-ui](https://github.com/maxbogo/awesome-ai-tools-for-ui)
+### [awosome-bioinformatics](https://github.com/openbiox/awosome-bioinformatics)
 
-精选AI工具列表，专注于构建美观UI/UX的AI工具和资源。
+生物信息学学习资源精选列表，涵盖数据分析与下一代测序技术相关内容。
 
 - **Stars:** ⭐️ 514
-- **Tags:** `awesome-list` `ai-tools` `ui-design` `claude` `cursor`
-- **最后活动时间:** 2026-05-17
-
-### [Awesome-Healthcare-Foundation-Models](https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models)
-
-医疗健康领域基础模型的精选资源列表，汇集相关研究论文与项目。
-
-- **Stars:** ⭐️ 512
-- **Tags:** `awesome-list` `healthcare` `foundation-models` `medical-ai`
-- **最后活动时间:** 2026-04-25
-
-### [Awesome-Memory-for-Agents](https://github.com/TsinghuaC3I/Awesome-Memory-for-Agents)
-
-关于语言智能体内存机制的研究论文精选合集，涵盖记忆架构、检索策略等核心主题。
-
-- **Stars:** ⭐️ 510
-- **Tags:** `memory` `agents` `llm` `papers` `awesome-list`
-- **最后活动时间:** 2026-05-21
+- **Tags:** `bioinformatics` `data-analysis` `next-generation-sequencing`
+- **最后活动时间:** 2026-05-07
 
 ### [AI-ML-Book-References](https://github.com/Ramakm/AI-ML-Book-References)
 
 为AI爱好者精心整理的机器学习与深度学习书籍推荐清单，涵盖神经网络、NLP、系统设计等多个技术领域。
 
-- **Stars:** ⭐️ 504
+- **Stars:** ⭐️ 506
 - **Tags:** `ai` `machine-learning` `deep-learning` `books` `nlp`
 - **最后活动时间:** 2026-01-16
+
+### [awesome-edge-computing](https://github.com/qijianpeng/awesome-edge-computing)
+
+边缘计算资源精选列表，涵盖框架、模拟器、工具等，包含边缘智能和雾计算相关内容。
+
+- **Stars:** ⭐️ 503
+- **Tags:** `Edge Computing` `Fog Computing` `Awesome List`
+- **最后活动时间:** 2026-04-24
+
+### [best-of-ml-rust](https://github.com/e-tornike/best-of-ml-rust)
+
+Rust机器学习库的精选排名列表，涵盖各类ML框架和工具。
+
+- **Stars:** ⭐️ 503
+- **Tags:** `rust` `machine-learning` `awesome-list`
+- **最后活动时间:** 2026-05-01
 
 ### [Awesome-AGI](https://github.com/ArronAI007/Awesome-AGI)
 
@@ -3965,30 +4005,6 @@ AGI学习资料汇总，涵盖LLM大语言模型和AIGC生成式AI的精选资�
 - **Stars:** ⭐️ 503
 - **Tags:** `agi` `llm` `aigc` `awesome-list` `resources`
 - **最后活动时间:** 2026-05-15
-
-### [awesome-edge-computing](https://github.com/qijianpeng/awesome-edge-computing)
-
-边缘计算资源精选列表，涵盖框架、模拟器、工具等，包含边缘智能和雾计算相关内容。
-
-- **Stars:** ⭐️ 501
-- **Tags:** `Edge Computing` `Fog Computing` `Awesome List`
-- **最后活动时间:** 2026-04-24
-
-### [best-of-ml-rust](https://github.com/e-tornike/best-of-ml-rust)
-
-Rust机器学习库的精选排名列表，涵盖各类ML框架和工具。
-
-- **Stars:** ⭐️ 501
-- **Tags:** `rust` `machine-learning` `awesome-list`
-- **最后活动时间:** 2026-05-01
-
-### [Awesome-World-Model-for-Robotics-Policy](https://github.com/NTUMARS/Awesome-World-Model-for-Robotics-Policy)
-
-机器人策略世界模型领域的精选资源列表，涵盖世界模型在机器人学习与决策中的应用研究。
-
-- **Stars:** ⭐️ 500
-- **Tags:** `world-model` `robotics` `reinforcement-learning` `awesome-list`
-- **最后活动时间:** 2026-05-16
 
 ### [Awesome-VLA-Robotics](https://github.com/Jiaaqiliu/Awesome-VLA-Robotics)
 
@@ -4006,7 +4022,7 @@ JavaScript算法与数据结构实现集合，包含详细解释和延伸阅读�
 
 - **Stars:** ⭐️ 196.0k
 - **Tags:** `algorithm` `data-structures` `javascript` `interview-preparation`
-- **最后活动时间:** 2026-05-20
+- **最后活动时间:** 2026-05-28
 
 ### [JavaGuide](https://github.com/Snailclimb/JavaGuide)
 
@@ -4014,13 +4030,13 @@ Java面试与后端开发指南，涵盖AI应用开发、Agent、MCP等前沿技
 
 - **Stars:** ⭐️ 155.9k
 - **Tags:** `java` `interview` `agent` `mcp` `system-design`
-- **最后活动时间:** 2026-05-22
+- **最后活动时间:** 2026-05-28
 
 ### [hello-algo](https://github.com/krahets/hello-algo)
 
 动画图解的数据结构与算法教程，支持多种编程语言实现，适合AI开发者夯实算法基础。
 
-- **Stars:** ⭐️ 126.4k
+- **Stars:** ⭐️ 126.5k
 - **Tags:** `algorithm` `data-structure` `education` `programming`
 - **最后活动时间:** 2026-04-18
 
@@ -4028,15 +4044,15 @@ Java面试与后端开发指南，涵盖AI应用开发、Agent、MCP等前沿技
 
 微软官方生成式AI入门教程，21节课程系统讲解LLM、提示工程与语义搜索，从理论到实践全面覆盖。
 
-- **Stars:** ⭐️ 111.4k
+- **Stars:** ⭐️ 111.5k
 - **Tags:** `生成式AI` `微软` `入门教程`
-- **最后活动时间:** 2026-05-23
+- **最后活动时间:** 2026-05-28
 
 ### [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
 
 从零开始用PyTorch实现类ChatGPT大语言模型，逐步讲解LLM架构原理，深入理解模型内部机制。
 
-- **Stars:** ⭐️ 96.0k
+- **Stars:** ⭐️ 96.2k
 - **Tags:** `LLM` `PyTorch` `GPT` `Deep Learning`
 - **最后活动时间:** 2026-05-23
 
@@ -4046,13 +4062,13 @@ Java面试与后端开发指南，涵盖AI应用开发、Agent、MCP等前沿技
 
 - **Stars:** ⭐️ 86.0k
 - **Tags:** `机器学习` `Python` `教育`
-- **最后活动时间:** 2026-05-23
+- **最后活动时间:** 2026-05-26
 
 ### [llm-course](https://github.com/mlabonne/llm-course)
 
 系统学习大语言模型的完整课程，包含学习路线图和实践性Colab笔记本，从基础到高级应用全覆盖。
 
-- **Stars:** ⭐️ 79.6k
+- **Stars:** ⭐️ 79.7k
 - **Tags:** `LLM` `Course` `Roadmap`
 - **最后活动时间:** 2026-02-05
 
@@ -4062,7 +4078,7 @@ TensorFlow官方模型库，包含多种预训练模型和示例代码，涵盖�
 
 - **Stars:** ⭐️ 77.7k
 - **Tags:** `tensorflow` `deep-learning` `pretrained-models` `computer-vision`
-- **最后活动时间:** 2026-05-22
+- **最后活动时间:** 2026-05-26
 
 ### [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
 
@@ -4084,25 +4100,25 @@ TensorFlow官方模型库，包含多种预训练模型和示例代码，涵盖�
 
 微软官方AI智能体入门教程，12节课程涵盖AutoGen、Semantic Kernel等主流框架，帮助开发者快速掌握Agent开发技能。
 
-- **Stars:** ⭐️ 65.6k
+- **Stars:** ⭐️ 65.9k
 - **Tags:** `AI Agents` `AutoGen` `Semantic Kernel` `教程`
 - **最后活动时间:** 2026-05-25
-
-### [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
-
-30天Python编程挑战，循序渐进学习Python编程语言，涵盖数据科学、机器学习等主题。
-
-- **Stars:** ⭐️ 63.2k
-- **Tags:** `python` `data-science` `ml` `tutorial`
-- **最后活动时间:** 2026-04-04
 
 ### [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
 
 从零构建类Claude Code智能体框架的教学项目，深入理解AI Agent开发原理。
 
-- **Stars:** ⭐️ 62.8k
+- **Stars:** ⭐️ 63.4k
 - **Tags:** `Agent` `Claude` `Tutorial` `Python`
-- **最后活动时间:** 2026-05-26
+- **最后活动时间:** 2026-05-29
+
+### [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
+
+30天Python编程挑战，循序渐进学习Python编程语言，涵盖数据科学、机器学习等主题。
+
+- **Stars:** ⭐️ 63.3k
+- **Tags:** `python` `data-science` `ml` `tutorial`
+- **最后活动时间:** 2026-04-04
 
 ### [leetcode-master](https://github.com/youngyangyang04/leetcode-master)
 
@@ -4116,15 +4132,15 @@ LeetCode刷题攻略，涵盖200道经典题目，提供60万字详细图解和5
 
 Claude Code 最佳实践集合，分享高效使用 Claude Code 的技巧和经验。
 
-- **Stars:** ⭐️ 55.0k
+- **Stars:** ⭐️ 55.4k
 - **Tags:** `claude-code` `best-practices` `tutorial`
-- **最后活动时间:** 2026-05-25
+- **最后活动时间:** 2026-05-28
 
 ### [hello-agents](https://github.com/datawhalechina/hello-agents)
 
 从零开始构建智能体的系统教程，涵盖智能体原理、LLM基础、RAG技术等核心内容，适合初学者循序渐进学习AI Agent开发。
 
-- **Stars:** ⭐️ 53.7k
+- **Stars:** ⭐️ 54.4k
 - **Tags:** `Agent` `LLM` `RAG` `教程`
 - **最后活动时间:** 2026-05-26
 
@@ -4148,15 +4164,15 @@ Claude Code 最佳实践集合，分享高效使用 Claude Code 的技巧和经�
 
 Anthropic 官方的 Claude 使用示例合集，展示高效使用 Claude 的各种技巧和方法。
 
-- **Stars:** ⭐️ 44.3k
+- **Stars:** ⭐️ 44.5k
 - **Tags:** `claude` `tutorials` `examples`
-- **最后活动时间:** 2026-05-24
+- **最后活动时间:** 2026-05-28
 
 ### [data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 
 免费的9周数据工程课程，涵盖Docker、Kafka、Spark、dbt等生产级数据管道构建技术。
 
-- **Stars:** ⭐️ 41.1k
+- **Stars:** ⭐️ 41.4k
 - **Tags:** `data-engineering` `course` `docker` `kafka` `spark` `free`
 - **最后活动时间:** 2026-05-03
 
@@ -4164,7 +4180,7 @@ Anthropic 官方的 Claude 使用示例合集，展示高效使用 Claude 的各
 
 微软推出的数据科学入门课程，10周20节课涵盖数据分析、可视化等核心技能，适合AI学习入门。
 
-- **Stars:** ⭐️ 35.4k
+- **Stars:** ⭐️ 35.5k
 - **Tags:** `data-science` `python` `pandas` `data-visualization` `beginners`
 - **最后活动时间:** 2026-05-22
 
@@ -4172,7 +4188,7 @@ Anthropic 官方的 Claude 使用示例合集，展示高效使用 Claude 的各
 
 专注于LLM、RAG和AI Agent的深度教程合集，涵盖大模型应用开发的实战案例与最佳实践。
 
-- **Stars:** ⭐️ 35.3k
+- **Stars:** ⭐️ 35.4k
 - **Tags:** `LLM` `RAG` `Agents` `Tutorials`
 - **最后活动时间:** 2026-05-21
 
@@ -4180,7 +4196,7 @@ Anthropic 官方的 Claude 使用示例合集，展示高效使用 Claude 的各
 
 Claude Code的可视化示例驱动指南，从基础概念到高级代理，提供即用型模板。
 
-- **Stars:** ⭐️ 34.3k
+- **Stars:** ⭐️ 34.5k
 - **Tags:** `claude-code` `guide` `tutorial` `documentation`
 - **最后活动时间:** 2026-05-26
 
@@ -4188,7 +4204,7 @@ Claude Code的可视化示例驱动指南，从基础概念到高级代理，提
 
 从零开始构建大模型的教程项目，涵盖Agent、LLM和RAG核心技术。
 
-- **Stars:** ⭐️ 30.6k
+- **Stars:** ⭐️ 30.7k
 - **Tags:** `LLM` `教程` `RAG`
 - **最后活动时间:** 2026-05-06
 
@@ -4196,7 +4212,7 @@ Claude Code的可视化示例驱动指南，从基础概念到高级代理，提
 
 Hugging Face官方AI智能体课程，系统学习Agent开发与部署。
 
-- **Stars:** ⭐️ 28.9k
+- **Stars:** ⭐️ 29.0k
 - **Tags:** `agents` `huggingface` `langchain` `course` `llamaindex`
 - **最后活动时间:** 2026-05-26
 
@@ -4204,7 +4220,7 @@ Hugging Face官方AI智能体课程，系统学习Agent开发与部署。
 
 O'Reilly官方书籍《Hands-On Large Language Models》配套代码仓库。深入讲解大语言模型的原理与实践应用。
 
-- **Stars:** ⭐️ 26.5k
+- **Stars:** ⭐️ 26.6k
 - **Tags:** `LLM` `Book` `Artificial Intelligence` `O'Reilly`
 - **最后活动时间:** 2026-04-24
 
@@ -4222,7 +4238,7 @@ O'Reilly官方书籍《Hands-On Large Language Models》配套代码仓库。深
 
 - **Stars:** ⭐️ 26.1k
 - **Tags:** `algorithms` `competitive-programming` `data-structures`
-- **最后活动时间:** 2026-05-25
+- **最后活动时间:** 2026-05-27
 
 ### [pumpkin-book](https://github.com/datawhalechina/pumpkin-book)
 
@@ -4256,6 +4272,14 @@ Rust语言实现的所有经典算法与数据结构集合，适合学习算法�
 - **Tags:** `procedural-generation` `algorithm` `machine-learning` `gamedev`
 - **最后活动时间:** 2026-03-22
 
+### [cs249r_book](https://github.com/harvard-edge/cs249r_book)
+
+哈佛CS249r课程教材，专注于机器学习系统设计。涵盖云端、边缘设备与嵌入式ML系统的构建与优化。
+
+- **Stars:** ⭐️ 24.5k
+- **Tags:** `Machine Learning` `Systems` `TinyML` `Course`
+- **最后活动时间:** 2026-05-28
+
 ### [llm-action](https://github.com/liguodongiot/llm-action)
 
 分享大模型技术原理与实战经验，涵盖工程化与应用落地全流程。
@@ -4264,13 +4288,13 @@ Rust语言实现的所有经典算法与数据结构集合，适合学习算法�
 - **Tags:** `LLM` `工程化` `实战`
 - **最后活动时间:** 2026-05-25
 
-### [cs249r_book](https://github.com/harvard-edge/cs249r_book)
+### [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
 
-哈佛CS249r课程教材，专注于机器学习系统设计。涵盖云端、边缘设备与嵌入式ML系统的构建与优化。
+从零开始学习AI工程的完整教程，涵盖LLM、AI智能体、计算机视觉、强化学习等核心主题，带你从学习到实践再到交付。
 
-- **Stars:** ⭐️ 24.3k
-- **Tags:** `Machine Learning` `Systems` `TinyML` `Course`
-- **最后活动时间:** 2026-05-25
+- **Stars:** ⭐️ 24.1k
+- **Tags:** `ai-engineering` `llm` `ai-agents` `deep-learning` `generative-ai` `mcp` `tutorial`
+- **最后活动时间:** 2026-05-27
 
 ### [learnopencv](https://github.com/spmallick/learnopencv)
 
@@ -4278,13 +4302,13 @@ OpenCV学习资源库，提供丰富的C++和Python示例代码，涵盖计算�
 
 - **Stars:** ⭐️ 22.9k
 - **Tags:** `OpenCV` `Computer Vision` `Deep Learning` `Python`
-- **最后活动时间:** 2026-05-17
+- **最后活动时间:** 2026-05-26
 
 ### [GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents)
 
 从基础到高级的生成式AI智能体实战教程，涵盖LangChain、LangGraph等主流框架，是构建智能交互式AI系统的全面指南。
 
-- **Stars:** ⭐️ 22.2k
+- **Stars:** ⭐️ 22.3k
 - **Tags:** `Agents` `LangChain` `LangGraph` `Tutorials`
 - **最后活动时间:** 2026-05-23
 
@@ -4300,7 +4324,7 @@ OpenCV学习资源库，提供丰富的C++和Python示例代码，涵盖计算�
 
 深度学习笔记合集，涵盖PyTorch、李沐课程、吴恩达课程及大模型Agent等核心内容。
 
-- **Stars:** ⭐️ 21.3k
+- **Stars:** ⭐️ 21.4k
 - **Tags:** `深度学习` `PyTorch` `笔记`
 - **最后活动时间:** 2026-04-27
 
@@ -4311,14 +4335,6 @@ OpenCV学习资源库，提供丰富的C++和Python示例代码，涵盖计算�
 - **Stars:** ⭐️ 20.5k
 - **Tags:** `AI Agents` `Production` `MLOps`
 - **最后活动时间:** 2026-05-23
-
-### [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
-
-从零开始学习AI工程的完整教程，涵盖LLM、AI智能体、计算机视觉、强化学习等核心主题，带你从学习到实践再到交付。
-
-- **Stars:** ⭐️ 20.2k
-- **Tags:** `ai-engineering` `llm` `ai-agents` `deep-learning` `generative-ai` `mcp` `tutorial`
-- **最后活动时间:** 2026-05-26
 
 ### [nndl.github.io](https://github.com/nndl/nndl.github.io)
 
@@ -4334,7 +4350,7 @@ OpenCV学习资源库，提供丰富的C++和Python示例代码，涵盖计算�
 
 - **Stars:** ⭐️ 18.8k
 - **Tags:** `deep-learning` `neural-network` `machine-learning` `book` `tutorial`
-- **最后活动时间:** 2026-05-26
+- **最后活动时间:** 2026-05-28
 
 ### [ml-engineering](https://github.com/stas00/ml-engineering)
 
@@ -4348,7 +4364,7 @@ OpenCV学习资源库，提供丰富的C++和Python示例代码，涵盖计算�
 
 Zero to Mastery深度学习课程完整资料，涵盖PyTorch基础到实战项目的系统教程。
 
-- **Stars:** ⭐️ 17.9k
+- **Stars:** ⭐️ 18.0k
 - **Tags:** `PyTorch` `Deep Learning` `Course`
 - **最后活动时间:** 2026-02-11
 
@@ -4366,15 +4382,23 @@ Google 官方 Gemini API 示例代码与使用指南，帮助开发者快速上�
 
 - **Stars:** ⭐️ 17.3k
 - **Tags:** `gemini` `gemini-api` `examples` `tutorial`
-- **最后活动时间:** 2026-05-26
+- **最后活动时间:** 2026-05-28
 
 ### [Generative-AI-Google-Cloud](https://github.com/GoogleCloudPlatform/generative-ai)
 
 Google Cloud官方生成式AI示例代码，涵盖Vertex AI上的Gemini模型应用开发。
 
-- **Stars:** ⭐️ 16.9k
+- **Stars:** ⭐️ 17.0k
 - **Tags:** `Google Cloud` `Vertex AI` `Gemini`
-- **最后活动时间:** 2026-05-22
+- **最后活动时间:** 2026-05-28
+
+### [Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
+
+强化学习数学基础教材，系统讲解RL核心理论与数学原理。
+
+- **Stars:** ⭐️ 16.3k
+- **Tags:** `reinforcement-learning` `artificial-intelligence` `book` `tutorial`
+- **最后活动时间:** 2026-05-26
 
 ### [Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs)
 
@@ -4384,29 +4408,29 @@ Google Cloud官方生成式AI示例代码，涵盖Vertex AI上的Gemini模型应
 - **Tags:** `LLM理论` `书籍` `学习资源`
 - **最后活动时间:** 2025-12-12
 
-### [Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
-
-强化学习数学基础教材，系统讲解RL核心理论与数学原理。
-
-- **Stars:** ⭐️ 16.3k
-- **Tags:** `reinforcement-learning` `artificial-intelligence` `book` `tutorial`
-- **最后活动时间:** 2026-05-09
-
 ### [mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)
 
 模型上下文协议(MCP)基础入门课程，提供多语言实战示例，帮助构建模块化AI工作流。
 
 - **Stars:** ⭐️ 16.2k
 - **Tags:** `MCP` `Tutorial` `Multi-language`
-- **最后活动时间:** 2026-05-23
+- **最后活动时间:** 2026-05-26
 
 ### [easy-vibe](https://github.com/datawhalechina/easy-vibe)
 
 Vibe Coding零基础入门教程，涵盖产品原型、AI与全栈多平台开发，从零开始学习AI辅助编程。
 
-- **Stars:** ⭐️ 14.8k
+- **Stars:** ⭐️ 15.1k
 - **Tags:** `Vibe Coding` `AI` `LLM` `Agent` `MCP`
-- **最后活动时间:** 2026-05-26
+- **最后活动时间:** 2026-05-29
+
+### [ai-guide](https://github.com/liyupi/ai-guide)
+
+程序员鱼皮的AI资源大全与Vibe Coding零基础教程，涵盖大模型玩法、Prompt、AI编程及产品变现指南。
+
+- **Stars:** ⭐️ 14.8k
+- **Tags:** `AI教程` `Prompt` `RAG` `MCP`
+- **最后活动时间:** 2026-05-25
 
 ### [mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)
 
@@ -4420,17 +4444,9 @@ DataTalks.Club推出的免费MLOps课程，涵盖模型部署、监控和工作�
 
 纯Python编写的计算机代数系统，提供符号数学计算能力。广泛应用于科学计算、机器学习数学基础和AI算法研究。
 
-- **Stars:** ⭐️ 14.6k
+- **Stars:** ⭐️ 14.7k
 - **Tags:** `computer-algebra` `symbolic-math` `python` `scientific-computing`
 - **最后活动时间:** 2026-05-23
-
-### [ai-guide](https://github.com/liyupi/ai-guide)
-
-程序员鱼皮的AI资源大全与Vibe Coding零基础教程，涵盖大模型玩法、Prompt、AI编程及产品变现指南。
-
-- **Stars:** ⭐️ 14.6k
-- **Tags:** `AI教程` `Prompt` `RAG` `MCP`
-- **最后活动时间:** 2026-05-25
 
 ### [easy-rl](https://github.com/datawhalechina/easy-rl)
 
@@ -4444,7 +4460,7 @@ DataTalks.Club推出的免费MLOps课程，涵盖模型部署、监控和工作�
 
 包含100道NumPy练习题及答案，适合AI/ML学习者掌握数值计算基础技能。
 
-- **Stars:** ⭐️ 14.1k
+- **Stars:** ⭐️ 14.2k
 - **Tags:** `numpy` `exercises` `python` `machine-learning`
 - **最后活动时间:** 2026-04-29
 
@@ -4622,7 +4638,7 @@ NVIDIA官方CUDA示例代码库，涵盖CUDA工具包的各种功能演示，适
 
 - **Stars:** ⭐️ 9.2k
 - **Tags:** `cuda` `gpu-programming` `nvidia` `tutorial`
-- **最后活动时间:** 2026-05-13
+- **最后活动时间:** 2026-05-27
 
 ### [PyTorch Tutorials](https://github.com/pytorch/tutorials)
 
@@ -4676,9 +4692,17 @@ MIT官方深度学习入门课程实验材料，涵盖计算机视觉、强化�
 
 Apple MLX框架示例代码集合，展示如何在Apple Silicon上运行机器学习模型。
 
-- **Stars:** ⭐️ 8.6k
+- **Stars:** ⭐️ 8.7k
 - **Tags:** `MLX` `Apple Silicon` `Examples`
 - **最后活动时间:** 2026-04-06
+
+### [blog](https://github.com/digoal/blog)
+
+涵盖数据库、AI 与企业级技术深度博客，提供 PostgreSQL、MongoDB 等技术实践教程。
+
+- **Stars:** ⭐️ 8.5k
+- **Tags:** `database` `postgresql` `ai` `tutorial`
+- **最后活动时间:** 2026-05-29
 
 ### [training-data-analyst](https://github.com/GoogleCloudPlatform/training-data-analyst)
 
@@ -4687,22 +4711,6 @@ Google Cloud 官方数据分析与机器学习课程实验代码库，涵盖 Big
 - **Stars:** ⭐️ 8.5k
 - **Tags:** `GCP` `Data Analysis` `Machine Learning` `Tutorials`
 - **最后活动时间:** 2026-04-23
-
-### [blog](https://github.com/digoal/blog)
-
-涵盖数据库、AI 与企业级技术深度博客，提供 PostgreSQL、MongoDB 等技术实践教程。
-
-- **Stars:** ⭐️ 8.5k
-- **Tags:** `database` `postgresql` `ai` `tutorial`
-- **最后活动时间:** 2026-05-26
-
-### [Machine-Learning-Interviews](https://github.com/alirezadir/Machine-Learning-Interviews)
-
-机器学习与AI技术面试指南，涵盖深度学习、AI智能体、系统设计等核心知识点。
-
-- **Stars:** ⭐️ 8.3k
-- **Tags:** `Machine Learning` `Interview` `Deep Learning` `AI Agents`
-- **最后活动时间:** 2025-11-28
 
 ### [examples](https://github.com/tensorflow/examples)
 
@@ -4716,7 +4724,7 @@ TensorFlow官方示例代码库，包含各种深度学习任务的入门示例�
 
 RAG技术全栈指南，大模型应用开发实战教程。
 
-- **Stars:** ⭐️ 7.9k
+- **Stars:** ⭐️ 8.0k
 - **Tags:** `RAG` `LangChain` `教程`
 - **最后活动时间:** 2026-05-23
 
@@ -4736,14 +4744,6 @@ GitHub Copilot AI配对编程完整教程，涵盖Python、JavaScript、C#等多
 - **Tags:** `Transformer` `可视化` `LLM`
 - **最后活动时间:** 2026-05-21
 
-### [Elements of Mathematics](https://github.com/Visualize-ML/Book3_Elements-of-Mathematics)
-
-《数学要素》鸢尾花书系列，从基础数学到机器学习的系统性数学教材。
-
-- **Stars:** ⭐️ 7.5k
-- **Tags:** `mathematics` `linear-algebra` `machine-learning` `data-science`
-- **最后活动时间:** 2026-05-01
-
 ### [codefather](https://github.com/liyupi/codefather)
 
 程序员鱼皮的编程学习宝典，涵盖Java、Python、前端等编程学习路线，以及AI应用开发、RAG实战、MCP开发、Prompt工程等AI开发教程。
@@ -4751,6 +4751,14 @@ GitHub Copilot AI配对编程完整教程，涵盖Python、JavaScript、C#等多
 - **Stars:** ⭐️ 7.5k
 - **Tags:** `AI开发` `学习路线` `教程资源`
 - **最后活动时间:** 2026-04-27
+
+### [Elements of Mathematics](https://github.com/Visualize-ML/Book3_Elements-of-Mathematics)
+
+《数学要素》鸢尾花书系列，从基础数学到机器学习的系统性数学教材。
+
+- **Stars:** ⭐️ 7.5k
+- **Tags:** `mathematics` `linear-algebra` `machine-learning` `data-science`
+- **最后活动时间:** 2026-05-01
 
 ### [Machine-Learning-Specialization-Coursera](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera)
 
@@ -4767,6 +4775,14 @@ GitHub Copilot AI配对编程完整教程，涵盖Python、JavaScript、C#等多
 - **Stars:** ⭐️ 7.1k
 - **Tags:** `recommender-system` `recommendation-algorithms` `deep-learning` `tensorflow`
 - **最后活动时间:** 2026-04-16
+
+### [learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering)
+
+Harness Engineering 官方风格入门教程，从零开始学习 AI Agent 开发与编排。
+
+- **Stars:** ⭐️ 7.1k
+- **Tags:** `agent` `agentic-ai` `ai-agent` `llm` `tutorial`
+- **最后活动时间:** 2026-05-28
 
 ### [learning](https://github.com/amitness/learning)
 
@@ -4790,7 +4806,7 @@ TensorFlow.js官方示例集合，展示如何在浏览器和Node.js中构建机
 
 - **Stars:** ⭐️ 6.8k
 - **Tags:** `tensorflow-js` `machine-learning` `javascript` `examples`
-- **最后活动时间:** 2026-05-22
+- **最后活动时间:** 2026-05-28
 
 ### [smol-course](https://github.com/huggingface/smol-course)
 
@@ -4808,21 +4824,13 @@ TensorFlow.js官方示例集合，展示如何在浏览器和Node.js中构建机
 - **Tags:** `llm` `interview` `learning` `rag`
 - **最后活动时间:** 2026-05-26
 
-### [learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering)
-
-Harness Engineering 官方风格入门教程，从零开始学习 AI Agent 开发与编排。
-
-- **Stars:** ⭐️ 6.6k
-- **Tags:** `agent` `agentic-ai` `ai-agent` `llm` `tutorial`
-- **最后活动时间:** 2026-05-23
-
 ### [bestJavaer](https://github.com/crisxuan/bestJavaer)
 
 一个开发者在AI时代的个人实验室，记录AI文章、工具资源、Agent实验、模型观察与踩坑复盘，包含真实有趣的AI作品。
 
 - **Stars:** ⭐️ 6.6k
 - **Tags:** `ai-lab` `agent` `llm` `tutorials`
-- **最后活动时间:** 2026-05-24
+- **最后活动时间:** 2026-05-27
 
 ### [Practical_RL](https://github.com/yandexdataschool/Practical_RL)
 
@@ -4848,13 +4856,13 @@ TensorFlow官方文档，包含深度学习教程、API参考和最佳实践指�
 - **Tags:** `tensorflow` `documentation` `deep-learning` `tutorials`
 - **最后活动时间:** 2026-05-12
 
-### [ai-notes](https://github.com/swyxio/ai-notes)
+### [llm-beginner](https://github.com/nndl/llm-beginner)
 
-面向软件工程师的AI学习笔记，涵盖GPT、多模态、提示工程等主题。
+LLM与Agent入门教程，帮助初学者快速上手大语言模型和智能体开发。
 
-- **Stars:** ⭐️ 6.2k
-- **Tags:** `AI Learning` `GPT` `Prompt Engineering`
-- **最后活动时间:** 2026-02-16
+- **Stars:** ⭐️ 6.3k
+- **Tags:** `llm` `agent` `tutorial` `beginner`
+- **最后活动时间:** 2026-05-28
 
 ### [llm_engineering](https://github.com/ed-donner/llm_engineering)
 
@@ -4862,7 +4870,15 @@ LLM工程精通课程的配套代码仓库，涵盖大语言模型工程实践�
 
 - **Stars:** ⭐️ 6.2k
 - **Tags:** `LLM` `Engineering` `Course`
-- **最后活动时间:** 2026-05-19
+- **最后活动时间:** 2026-05-28
+
+### [ai-notes](https://github.com/swyxio/ai-notes)
+
+面向软件工程师的AI学习笔记，涵盖GPT、多模态、提示工程等主题。
+
+- **Stars:** ⭐️ 6.2k
+- **Tags:** `AI Learning` `GPT` `Prompt Engineering`
+- **最后活动时间:** 2026-02-16
 
 ### [AI-Crash-Course](https://github.com/henrythe9th/AI-Crash-Course)
 
@@ -4876,7 +4892,7 @@ LLM工程精通课程的配套代码仓库，涵盖大语言模型工程实践�
 
 生产级 Agentic RAG 课程，专注于构建可部署的智能检索增强生成系统。
 
-- **Stars:** ⭐️ 6.0k
+- **Stars:** ⭐️ 6.1k
 - **Tags:** `rag` `agentic` `production` `course`
 - **最后活动时间:** 2026-04-05
 
@@ -4900,7 +4916,7 @@ LLM工程精通课程的配套代码仓库，涵盖大语言模型工程实践�
 
 综合性AI项目集合，涵盖机器学习、深度学习、生成式AI、计算机视觉、NLP等多个领域的实践项目。
 
-- **Stars:** ⭐️ 5.6k
+- **Stars:** ⭐️ 5.7k
 - **Tags:** `machine-learning` `deep-learning` `generative-ai` `computer-vision` `nlp`
 - **最后活动时间:** 2026-04-07
 
@@ -4928,6 +4944,14 @@ Kevin Murphy所著《Probabilistic Machine Learning》系列书籍官方资源�
 - **Tags:** `machine-learning` `probabilistic` `book`
 - **最后活动时间:** 2025-12-10
 
+### [agentic-design-patterns](https://github.com/xindoo/agentic-design-patterns)
+
+谷歌Agent设计模式中文版，系统讲解AI代理的设计模式与最佳实践。
+
+- **Stars:** ⭐️ 5.5k
+- **Tags:** `agentic-patterns` `ai-agent` `design-patterns` `tutorial`
+- **最后活动时间:** 2026-05-05
+
 ### [mianshiya](https://github.com/liyupi/mianshiya)
 
 持续维护的企业面试题库网站，涵盖AI大模型、AI Agent、RAG、LLM、Prompt工程等AI相关面试题，帮助求职者备战AI岗位面试。
@@ -4942,23 +4966,23 @@ Kevin Murphy所著《Probabilistic Machine Learning》系列书籍官方资源�
 
 - **Stars:** ⭐️ 5.4k
 - **Tags:** `artificial-life` `agent-based-simulation` `cuda` `simulation`
-- **最后活动时间:** 2026-05-22
-
-### [agentic-design-patterns](https://github.com/xindoo/agentic-design-patterns)
-
-谷歌Agent设计模式中文版，系统讲解AI代理的设计模式与最佳实践。
-
-- **Stars:** ⭐️ 5.3k
-- **Tags:** `agentic-patterns` `ai-agent` `design-patterns` `tutorial`
-- **最后活动时间:** 2026-05-05
+- **最后活动时间:** 2026-05-28
 
 ### [llm-zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp)
 
 免费的LLM实战课程，10周学习如何构建基于知识库的AI问答系统，涵盖LLM实际应用的完整流程。
 
-- **Stars:** ⭐️ 5.3k
+- **Stars:** ⭐️ 5.4k
 - **Tags:** `LLM课程` `RAG` `实战教程` `免费`
-- **最后活动时间:** 2026-05-26
+- **最后活动时间:** 2026-05-28
+
+### [AgentGuide](https://github.com/adongwanai/AgentGuide)
+
+AI Agent开发完整指南，涵盖LangGraph实战、高级RAG技术及大模型面试题库。
+
+- **Stars:** ⭐️ 5.3k
+- **Tags:** `AI Agent` `RAG` `LangGraph`
+- **最后活动时间:** 2026-05-28
 
 ### [interpretable-ml-book](https://github.com/christophM/interpretable-ml-book)
 
@@ -4968,6 +4992,14 @@ Kevin Murphy所著《Probabilistic Machine Learning》系列书籍官方资源�
 - **Tags:** `Interpretable ML` `Book` `Machine Learning`
 - **最后活动时间:** 2026-05-18
 
+### [vibe-vibe](https://github.com/datawhalechina/vibe-vibe)
+
+系统化Vibe Coding开源教程，从零基础到全栈实战，帮助借助AI实现创意想法。
+
+- **Stars:** ⭐️ 5.3k
+- **Tags:** `Vibe Coding` `AI教程` `Coding Assistant`
+- **最后活动时间:** 2026-04-30
+
 ### [start-machine-learning](https://github.com/louisfb01/start-machine-learning)
 
 机器学习与人工智能入门完整指南，适合零基础学习者，涵盖深度学习、神经网络等核心内容。
@@ -4975,22 +5007,6 @@ Kevin Murphy所著《Probabilistic Machine Learning》系列书籍官方资源�
 - **Stars:** ⭐️ 5.3k
 - **Tags:** `machine-learning` `deep-learning` `tutorial`
 - **最后活动时间:** 2026-01-23
-
-### [vibe-vibe](https://github.com/datawhalechina/vibe-vibe)
-
-系统化Vibe Coding开源教程，从零基础到全栈实战，帮助借助AI实现创意想法。
-
-- **Stars:** ⭐️ 5.2k
-- **Tags:** `Vibe Coding` `AI教程` `Coding Assistant`
-- **最后活动时间:** 2026-04-30
-
-### [AgentGuide](https://github.com/adongwanai/AgentGuide)
-
-AI Agent开发完整指南，涵盖LangGraph实战、高级RAG技术及大模型面试题库。
-
-- **Stars:** ⭐️ 5.2k
-- **Tags:** `AI Agent` `RAG` `LangGraph`
-- **最后活动时间:** 2026-05-25
 
 ### [machine-learning-book](https://github.com/rasbt/machine-learning-book)
 
@@ -5000,6 +5016,14 @@ AI Agent开发完整指南，涵盖LangGraph实战、高级RAG技术及大模型
 - **Tags:** `machine-learning` `pytorch` `scikit-learn`
 - **最后活动时间:** 2026-05-25
 
+### [agents](https://github.com/ed-donner/agents)
+
+完整的AI智能体工程课程仓库，涵盖智能体开发的最佳实践和方法论。
+
+- **Stars:** ⭐️ 5.2k
+- **Tags:** `ai-agents` `course` `tutorial` `engineering`
+- **最后活动时间:** 2026-05-28
+
 ### [datascience](https://github.com/sreeharierk/datascience)
 
 数据科学免费学习资源汇编，涵盖机器学习、深度学习、计算机视觉和自然语言处理等领域。
@@ -5007,14 +5031,6 @@ AI Agent开发完整指南，涵盖LangGraph实战、高级RAG技术及大模型
 - **Stars:** ⭐️ 5.2k
 - **Tags:** `data-science` `machine-learning` `deep-learning` `computer-vision` `nlp`
 - **最后活动时间:** 2026-02-01
-
-### [agents](https://github.com/ed-donner/agents)
-
-完整的AI智能体工程课程仓库，涵盖智能体开发的最佳实践和方法论。
-
-- **Stars:** ⭐️ 5.1k
-- **Tags:** `ai-agents` `course` `tutorial` `engineering`
-- **最后活动时间:** 2026-05-19
 
 ### [LLM-Engineers-Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook)
 
@@ -5038,7 +5054,7 @@ Hugging Face 深度强化学习课程，涵盖深度强化学习理论与实践�
 
 - **Stars:** ⭐️ 4.9k
 - **Tags:** `deep-reinforcement-learning` `reinforcement-learning` `deep-learning`
-- **最后活动时间:** 2026-04-17
+- **最后活动时间:** 2026-05-26
 
 ### [tiny-universe](https://github.com/datawhalechina/tiny-universe)
 
@@ -5062,13 +5078,13 @@ Hugging Face 深度强化学习课程，涵盖深度强化学习理论与实践�
 
 - **Stars:** ⭐️ 4.7k
 - **Tags:** `AI学习` `社区平台` `教程`
-- **最后活动时间:** 2026-05-26
+- **最后活动时间:** 2026-05-28
 
 ### [MLQuestions](https://github.com/andrewekhalel/MLQuestions)
 
 机器学习与计算机视觉工程师技术面试问题合集，帮助求职者准备面试。
 
-- **Stars:** ⭐️ 4.6k
+- **Stars:** ⭐️ 4.7k
 - **Tags:** `interview` `machine-learning` `computer-vision`
 - **最后活动时间:** 2026-01-24
 
@@ -5086,7 +5102,7 @@ SLAM技术手册开源发布，系统讲解定位与建图理论与实践。
 
 - **Stars:** ⭐️ 4.5k
 - **Tags:** `slam` `handbook` `robotics` `tutorial`
-- **最后活动时间:** 2026-04-21
+- **最后活动时间:** 2026-05-28
 
 ### [awesome-openclaw-tutorial](https://github.com/xianyu110/awesome-openclaw-tutorial)
 
@@ -5096,14 +5112,6 @@ SLAM技术手册开源发布，系统讲解定位与建图理论与实践。
 - **Tags:** `tutorial` `openclaw` `chinese` `guide`
 - **最后活动时间:** 2026-04-16
 
-### [Person_reID_baseline_pytorch](https://github.com/layumi/Person_reID_baseline_pytorch)
-
-PyTorch行人重识别基线实现，涵盖度量学习与图像检索核心技术。
-
-- **Stars:** ⭐️ 4.4k
-- **Tags:** `person-reid` `pytorch` `metric-learning` `computer-vision`
-- **最后活动时间:** 2026-02-16
-
 ### [LLM-RL-Visualized](https://github.com/changyeyu/LLM-RL-Visualized)
 
 100+原创LLM/强化学习算法原理图解，直观展示大模型与强化学习核心算法架构。
@@ -5111,6 +5119,14 @@ PyTorch行人重识别基线实现，涵盖度量学习与图像检索核心技�
 - **Stars:** ⭐️ 4.4k
 - **Tags:** `LLM` `Reinforcement Learning` `Visualization`
 - **最后活动时间:** 2026-05-23
+
+### [Person_reID_baseline_pytorch](https://github.com/layumi/Person_reID_baseline_pytorch)
+
+PyTorch行人重识别基线实现，涵盖度量学习与图像检索核心技术。
+
+- **Stars:** ⭐️ 4.4k
+- **Tags:** `person-reid` `pytorch` `metric-learning` `computer-vision`
+- **最后活动时间:** 2026-02-16
 
 ### [stanford-cme-295-transformers-large-language-models](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models)
 
@@ -5128,14 +5144,6 @@ PyTorch行人重识别基线实现，涵盖度量学习与图像检索核心技�
 - **Tags:** `PyTorch` `LLM` `Reasoning`
 - **最后活动时间:** 2026-05-25
 
-### [llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
-
-免费学习构建生产级LLM与RAG系统的完整课程，涵盖LLMOps最佳实践与12个实战课程。
-
-- **Stars:** ⭐️ 4.3k
-- **Tags:** `LLMOps` `RAG` `Course` `MLOps`
-- **最后活动时间:** 2026-04-20
-
 ### [maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium)
 
 AI/ML研究工程师成长指南，涵盖数学、算法、深度学习等核心知识体系。
@@ -5144,13 +5152,13 @@ AI/ML研究工程师成长指南，涵盖数学、算法、深度学习等核心
 - **Tags:** `deep-learning` `machine-learning` `mathematics`
 - **最后活动时间:** 2026-05-13
 
-### [pytorch-doc-zh](https://github.com/apachecn/pytorch-doc-zh)
+### [llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
 
-PyTorch官方文档的中文翻译版本，方便中文开发者学习和使用。
+免费学习构建生产级LLM与RAG系统的完整课程，涵盖LLMOps最佳实践与12个实战课程。
 
-- **Stars:** ⭐️ 4.2k
-- **Tags:** `pytorch` `documentation` `chinese` `deep-learning`
-- **最后活动时间:** 2026-01-07
+- **Stars:** ⭐️ 4.3k
+- **Tags:** `LLMOps` `RAG` `Course` `MLOps`
+- **最后活动时间:** 2026-04-20
 
 ### [GenAI-Showcase](https://github.com/mongodb-developer/GenAI-Showcase)
 
@@ -5160,13 +5168,21 @@ PyTorch官方文档的中文翻译版本，方便中文开发者学习和使用�
 - **Tags:** `generative-ai` `llm` `agents` `rag`
 - **最后活动时间:** 2026-05-22
 
+### [pytorch-doc-zh](https://github.com/apachecn/pytorch-doc-zh)
+
+PyTorch官方文档的中文翻译版本，方便中文开发者学习和使用。
+
+- **Stars:** ⭐️ 4.2k
+- **Tags:** `pytorch` `documentation` `chinese` `deep-learning`
+- **最后活动时间:** 2026-01-07
+
 ### [tiny-llm](https://github.com/skyzh/tiny-llm)
 
 面向系统工程师的LLM推理服务课程，在Apple Silicon上构建迷你版vLLM和Qwen。
 
 - **Stars:** ⭐️ 4.2k
 - **Tags:** `Course` `Inference` `Apple Silicon`
-- **最后活动时间:** 2026-05-21
+- **最后活动时间:** 2026-05-28
 
 ### [llms-from-scratch-cn](https://github.com/datawhalechina/llms-from-scratch-cn)
 
@@ -5175,6 +5191,14 @@ PyTorch官方文档的中文翻译版本，方便中文开发者学习和使用�
 - **Stars:** ⭐️ 4.2k
 - **Tags:** `LLM` `Tutorial` `From Scratch`
 - **最后活动时间:** 2026-03-26
+
+### [AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh)
+
+Claude Code 与 Codex 中文完整教程，包含36篇教程和18万字内容，覆盖从入门到企业实战的三线学习路径。
+
+- **Stars:** ⭐️ 4.2k
+- **Tags:** `ai-tutorial` `claude` `claude-code` `ai-agent`
+- **最后活动时间:** 2026-05-25
 
 ### [pytorch-tutorial](https://github.com/xiaotudui/pytorch-tutorial)
 
@@ -5192,14 +5216,6 @@ AI开发实战教程合集，涵盖Agents、LLM、OpenAI和Anthropic等主题的
 - **Tags:** `Tutorial` `Agents` `LLM`
 - **最后活动时间:** 2026-05-14
 
-### [AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh)
-
-Claude Code 与 Codex 中文完整教程，包含36篇教程和18万字内容，覆盖从入门到企业实战的三线学习路径。
-
-- **Stars:** ⭐️ 4.1k
-- **Tags:** `ai-tutorial` `claude` `claude-code` `ai-agent`
-- **最后活动时间:** 2026-05-25
-
 ### [AI-Guide-and-Demos-zh_CN](https://github.com/Hoper-J/AI-Guide-and-Demos-zh_CN)
 
 AI/LLM 入门完整指南，包含教程、演示代码及李宏毅2024生成式AI课程作业，支持无显卡学习。
@@ -5207,6 +5223,14 @@ AI/LLM 入门完整指南，包含教程、演示代码及李宏毅2024生成式
 - **Stars:** ⭐️ 4.1k
 - **Tags:** `tutorial` `llm` `ai-guide` `chinese`
 - **最后活动时间:** 2026-05-20
+
+### [ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch)
+
+从零构建AI智能体的教程项目，深入讲解函数调用、记忆机制和ReAct模式，使用本地LLM消除黑盒理解。
+
+- **Stars:** ⭐️ 4.1k
+- **Tags:** `AI Agents` `Tutorial` `LLM`
+- **最后活动时间:** 2026-04-26
 
 ### [python](https://github.com/flypythoncom/python)
 
@@ -5224,21 +5248,13 @@ PyTorch版LeetCode，从零实现softmax、attention、GPT-2等核心组件。
 - **Tags:** `pytorch` `interview` `deep-learning`
 - **最后活动时间:** 2026-05-25
 
-### [ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch)
-
-从零构建AI智能体的教程项目，深入讲解函数调用、记忆机制和ReAct模式，使用本地LLM消除黑盒理解。
-
-- **Stars:** ⭐️ 4.0k
-- **Tags:** `AI Agents` `Tutorial` `LLM`
-- **最后活动时间:** 2026-04-26
-
 ### [HuggingFace Transformers Course](https://github.com/huggingface/course)
 
 Hugging Face官方Transformers课程，系统讲解Transformer架构与NLP核心技术，适合初学者入门。
 
 - **Stars:** ⭐️ 3.9k
 - **Tags:** `Transformers` `NLP` `深度学习`
-- **最后活动时间:** 2026-05-13
+- **最后活动时间:** 2026-05-28
 
 ### [hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book)
 
@@ -5262,7 +5278,7 @@ AIGC算法工程师面试宝典，涵盖LLM、深度学习、计算机视觉、�
 
 - **Stars:** ⭐️ 3.8k
 - **Tags:** `Interview` `AIGC` `LLM`
-- **最后活动时间:** 2026-05-26
+- **最后活动时间:** 2026-05-28
 
 ### [ai-engineering-field-guide](https://github.com/alexeygrigorev/ai-engineering-field-guide)
 
@@ -5278,7 +5294,7 @@ AI工程师面试指南，涵盖2025-2026年的面试题、实战挑战和招聘
 
 - **Stars:** ⭐️ 3.8k
 - **Tags:** `machine-learning` `course` `education` `tutorial`
-- **最后活动时间:** 2026-05-20
+- **最后活动时间:** 2026-05-26
 
 ### [PhiCookBook](https://github.com/microsoft/PhiCookBook)
 
@@ -5286,7 +5302,7 @@ AI工程师面试指南，涵盖2025-2026年的面试题、实战挑战和招聘
 
 - **Stars:** ⭐️ 3.7k
 - **Tags:** `phi-4` `small-language-model` `language-model` `microsoft` `cookbook`
-- **最后活动时间:** 2026-05-22
+- **最后活动时间:** 2026-05-26
 
 ### [Claude-Code-x-OpenClaw-Guide-Zh](https://github.com/KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh)
 
@@ -5312,14 +5328,6 @@ Datawhale整理的AI面试题库，涵盖机器学习、CV、NLP、推荐系统�
 - **Tags:** `tutorials` `machine-learning` `nlp` `computer-vision`
 - **最后活动时间:** 2026-05-23
 
-### [Book5_Essentials-of-Probability-and-Statistics](https://github.com/Visualize-ML/Book5_Essentials-of-Probability-and-Statistics)
-
-鸢尾花书系列第五册《统计至简》，涵盖概率统计基础到机器学习的完整知识体系，适合中文读者学习。
-
-- **Stars:** ⭐️ 3.7k
-- **Tags:** `machine-learning` `statistics` `probability` `pca` `regression`
-- **最后活动时间:** 2026-05-01
-
 ### [AI-ML-Roadmap-from-scratch](https://github.com/aadi1011/AI-ML-Roadmap-from-scratch)
 
 从零到精通的AI/ML完整学习路线图，涵盖机器学习、深度学习、生成式AI、NLP、强化学习等核心领域。
@@ -5328,11 +5336,19 @@ Datawhale整理的AI面试题库，涵盖机器学习、CV、NLP、推荐系统�
 - **Tags:** `AI Roadmap` `Machine Learning` `Tutorial`
 - **最后活动时间:** 2026-05-03
 
+### [Book5_Essentials-of-Probability-and-Statistics](https://github.com/Visualize-ML/Book5_Essentials-of-Probability-and-Statistics)
+
+鸢尾花书系列第五册《统计至简》，涵盖概率统计基础到机器学习的完整知识体系，适合中文读者学习。
+
+- **Stars:** ⭐️ 3.7k
+- **Tags:** `machine-learning` `statistics` `probability` `pca` `regression`
+- **最后活动时间:** 2026-05-01
+
 ### [thorough-pytorch](https://github.com/datawhalechina/thorough-pytorch)
 
 Datawhale出品的PyTorch入门教程，提供完整的中文在线阅读文档，适合深度学习初学者。
 
-- **Stars:** ⭐️ 3.6k
+- **Stars:** ⭐️ 3.7k
 - **Tags:** `pytorch` `deep-learning` `tutorial` `python`
 - **最后活动时间:** 2026-01-18
 
@@ -5358,7 +5374,7 @@ fast.ai 2022深度学习课程的Jupyter笔记本教材。
 
 - **Stars:** ⭐️ 3.5k
 - **Tags:** `deep-learning` `fastai` `machine-learning` `jupyter-notebooks`
-- **最后活动时间:** 2026-05-25
+- **最后活动时间:** 2026-05-28
 
 ### [ml-course](https://github.com/girafe-ai/ml-course)
 
@@ -5372,7 +5388,7 @@ fast.ai 2022深度学习课程的Jupyter笔记本教材。
 
 42万字深度剖析 Claude Code 架构的电子书，15章内容涵盖从对话循环到构建自定义 Agent Harness 的完整知识体系。
 
-- **Stars:** ⭐️ 3.4k
+- **Stars:** ⭐️ 3.5k
 - **Tags:** `ai-agent` `claude-code` `llm` `mcp` `agent-architecture`
 - **最后活动时间:** 2026-04-06
 
@@ -5404,9 +5420,9 @@ fast.ai 2022深度学习课程的Jupyter笔记本教材。
 
 邱锡鹏《神经网络与深度学习》书籍的配套实践代码，提供PyTorch和PaddlePaddle双框架实现，适合深度学习入门者学习。
 
-- **Stars:** ⭐️ 3.3k
+- **Stars:** ⭐️ 3.4k
 - **Tags:** `deep-learning` `pytorch` `paddlepaddle` `tutorial` `neural-network`
-- **最后活动时间:** 2026-05-26
+- **最后活动时间:** 2026-05-28
 
 ### [Book7_Visualizations-for-Machine-Learning](https://github.com/Visualize-ML/Book7_Visualizations-for-Machine-Learning)
 
@@ -5486,7 +5502,7 @@ Keras官方文档网站，提供丰富的深度学习教程与代码示例。
 
 - **Stars:** ⭐️ 3.0k
 - **Tags:** `keras` `deep-learning` `documentation` `tutorials`
-- **最后活动时间:** 2026-05-20
+- **最后活动时间:** 2026-05-27
 
 ### [AlphaTree-graphic-deep-neural-network](https://github.com/weslynn/AlphaTree-graphic-deep-neural-network)
 
@@ -5560,14 +5576,6 @@ AI助手资源聚合站，提供7天从零掌握AI私人助理的完整教程，
 - **Tags:** `robotics` `education` `control` `planning`
 - **最后活动时间:** 2026-02-18
 
-### [Generative-AI-for-beginners-dotnet](https://github.com/microsoft/Generative-AI-for-beginners-dotnet)
-
-面向.NET开发者的生成式AI入门教程，教你如何将AI真正应用到.NET应用程序中。
-
-- **Stars:** ⭐️ 2.8k
-- **Tags:** `.NET` `Azure AI` `Semantic Kernel`
-- **最后活动时间:** 2026-04-23
-
 ### [second-brain-ai-assistant-course](https://github.com/decodingai-magazine/second-brain-ai-assistant-course)
 
 系统化AI助手开发课程，涵盖LLM、智能体、RAG、微调和LLMOps全栈技术。
@@ -5576,11 +5584,27 @@ AI助手资源聚合站，提供7天从零掌握AI私人助理的完整教程，
 - **Tags:** `Course` `LLMOps` `RAG`
 - **最后活动时间:** 2026-04-06
 
+### [Generative-AI-for-beginners-dotnet](https://github.com/microsoft/Generative-AI-for-beginners-dotnet)
+
+面向.NET开发者的生成式AI入门教程，教你如何将AI真正应用到.NET应用程序中。
+
+- **Stars:** ⭐️ 2.8k
+- **Tags:** `.NET` `Azure AI` `Semantic Kernel`
+- **最后活动时间:** 2026-04-23
+
+### [claw0](https://github.com/shareAI-lab/claw0)
+
+从零开始学习构建AI Agent的教程项目，手把手教你打造智能代理。
+
+- **Stars:** ⭐️ 2.8k
+- **Tags:** `ai-agent` `tutorial` `learning`
+- **最后活动时间:** 2026-03-18
+
 ### [secure-code-game](https://github.com/skills/secure-code-game)
 
 通过游戏化方式学习安全编码的交互式教程，涵盖AI安全与代码漏洞防护。
 
-- **Stars:** ⭐️ 2.7k
+- **Stars:** ⭐️ 2.8k
 - **Tags:** `secure-coding` `ai-security` `cybersecurity` `training`
 - **最后活动时间:** 2026-05-23
 
@@ -5600,13 +5624,13 @@ TVM和MLIR编译器学习资源合集，涵盖AI模型编译与优化技术。
 - **Tags:** `statistical-learning` `machine-learning` `tutorial`
 - **最后活动时间:** 2025-12-30
 
-### [claw0](https://github.com/shareAI-lab/claw0)
+### [examples](https://github.com/spring-ai-alibaba/examples)
 
-从零开始学习构建AI Agent的教程项目，手把手教你打造智能代理。
+Spring AI 和 Spring AI Alibaba 的官方示例代码集合，帮助开发者快速上手 AI 应用开发。
 
 - **Stars:** ⭐️ 2.7k
-- **Tags:** `ai-agent` `tutorial` `learning`
-- **最后活动时间:** 2026-03-18
+- **Tags:** `spring-ai` `java` `examples` `ai-framework`
+- **最后活动时间:** 2026-04-21
 
 ### [qxresearch-event-1](https://github.com/qxresearch/qxresearch-event-1)
 
@@ -5616,13 +5640,13 @@ TVM和MLIR编译器学习资源合集，涵盖AI模型编译与优化技术。
 - **Tags:** `machine-learning` `python` `chatbot` `ai-project`
 - **最后活动时间:** 2026-05-20
 
-### [examples](https://github.com/spring-ai-alibaba/examples)
+### [danghuangshang](https://github.com/wanikua/danghuangshang)
 
-Spring AI 和 Spring AI Alibaba 的官方示例代码集合，帮助开发者快速上手 AI 应用开发。
+以明朝六部架构为灵感的AI智能体编排教程，教你从零搭建多智能体协作系统。
 
 - **Stars:** ⭐️ 2.7k
-- **Tags:** `spring-ai` `java` `examples` `ai-framework`
-- **最后活动时间:** 2026-04-21
+- **Tags:** `Multi-Agent` `Tutorial` `AI Orchestration`
+- **最后活动时间:** 2026-05-22
 
 ### [Book6_First-Course-in-Data-Science](https://github.com/Visualize-ML/Book6_First-Course-in-Data-Science)
 
@@ -5632,19 +5656,19 @@ Spring AI 和 Spring AI Alibaba 的官方示例代码集合，帮助开发者快
 - **Tags:** `data-science` `machine-learning` `python` `data-visualization`
 - **最后活动时间:** 2026-05-01
 
-### [danghuangshang](https://github.com/wanikua/danghuangshang)
+### [cookbook](https://github.com/huggingface/cookbook)
 
-以明朝六部架构为灵感的AI智能体编排教程，教你从零搭建多智能体协作系统。
+开源AI实战手册，提供丰富的AI开发教程和最佳实践指南。
 
 - **Stars:** ⭐️ 2.7k
-- **Tags:** `Multi-Agent` `Tutorial` `AI Orchestration`
-- **最后活动时间:** 2026-05-22
+- **Tags:** `ai` `cookbook` `tutorial` `machine-learning`
+- **最后活动时间:** 2026-05-26
 
 ### [LLMs-from-scratch-CN](https://github.com/MLNLP-World/LLMs-from-scratch-CN)
 
 《Build a Large Language Model (From Scratch)》中文翻译项目，帮助中文开发者从零开始学习大语言模型的构建原理。
 
-- **Stars:** ⭐️ 2.6k
+- **Stars:** ⭐️ 2.7k
 - **Tags:** `llm` `tutorial` `chinese` `from-scratch`
 - **最后活动时间:** 2026-04-19
 
@@ -5662,7 +5686,23 @@ AI智能体项目与教程合集，涵盖多智能体系统、记忆机制、规
 
 - **Stars:** ⭐️ 2.6k
 - **Tags:** `ai-agents` `multi-agent` `tutorials`
+- **最后活动时间:** 2026-05-28
+
+### [copilot-cli-for-beginners](https://github.com/github/copilot-cli-for-beginners)
+
+GitHub Copilot CLI 入门教程，帮助开发者快速掌握 AI 命令行助手的各项功能与最佳实践。
+
+- **Stars:** ⭐️ 2.6k
+- **Tags:** `copilot` `cli` `tutorial`
 - **最后活动时间:** 2026-05-26
+
+### [agent-academy](https://github.com/microsoft/agent-academy)
+
+使用Copilot Studio构建AI智能体的精选教程课程，帮助开发者快速入门智能体开发。
+
+- **Stars:** ⭐️ 2.6k
+- **Tags:** `copilot` `agents` `tutorial` `microsoft`
+- **最后活动时间:** 2026-05-27
 
 ### [CVprojects](https://github.com/enpeizhao/CVprojects)
 
@@ -5672,14 +5712,6 @@ AI智能体项目与教程合集，涵盖多智能体系统、记忆机制、规
 - **Tags:** `computer-vision` `deep-learning` `python` `cuda` `tensorrt`
 - **最后活动时间:** 2025-12-26
 
-### [copilot-cli-for-beginners](https://github.com/github/copilot-cli-for-beginners)
-
-GitHub Copilot CLI 入门教程，帮助开发者快速掌握 AI 命令行助手的各项功能与最佳实践。
-
-- **Stars:** ⭐️ 2.6k
-- **Tags:** `copilot` `cli` `tutorial`
-- **最后活动时间:** 2026-05-25
-
 ### [Hands-On-Large-Language-Models-CN](https://github.com/bbruceyuan/Hands-On-Large-Language-Models-CN)
 
 《Hands-On Large Language Models》中文翻译版，动手学习大模型的实践教程。
@@ -5687,14 +5719,6 @@ GitHub Copilot CLI 入门教程，帮助开发者快速掌握 AI 命令行助手
 - **Stars:** ⭐️ 2.6k
 - **Tags:** `llms` `tutorial` `transformers` `chinese`
 - **最后活动时间:** 2026-05-04
-
-### [agent-academy](https://github.com/microsoft/agent-academy)
-
-使用Copilot Studio构建AI智能体的精选教程课程，帮助开发者快速入门智能体开发。
-
-- **Stars:** ⭐️ 2.6k
-- **Tags:** `copilot` `agents` `tutorial` `microsoft`
-- **最后活动时间:** 2026-05-26
 
 ### [aicodeguide](https://github.com/automata/aicodeguide)
 
@@ -5726,7 +5750,7 @@ Google Cloud高级解决方案实验室ML沉浸式课程笔记本，涵盖Tensor
 
 - **Stars:** ⭐️ 2.5k
 - **Tags:** `claude` `agent-commands` `prompts`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-05-28
 
 ### [machine-learning-deep-learning-notes](https://github.com/loveunk/machine-learning-deep-learning-notes)
 
@@ -5744,6 +5768,14 @@ Google Cloud高级解决方案实验室ML沉浸式课程笔记本，涵盖Tensor
 - **Tags:** `ai-agent` `claude` `architecture` `source-code-analysis` `llm`
 - **最后活动时间:** 2026-05-05
 
+### [ai-marketing-skills](https://github.com/ericosiu/ai-marketing-skills)
+
+开源AI营销技能集合，涵盖增长实验、销售管道、内容运营、外联、SEO和财务自动化等实用技能。
+
+- **Stars:** ⭐️ 2.5k
+- **Tags:** `ai-marketing` `automation` `growth` `seo` `sales`
+- **最后活动时间:** 2026-05-28
+
 ### [MONAI Tutorials](https://github.com/Project-MONAI/tutorials)
 
 MONAI医疗影像AI框架官方教程，涵盖深度学习工作流程。
@@ -5752,21 +5784,13 @@ MONAI医疗影像AI框架官方教程，涵盖深度学习工作流程。
 - **Tags:** `medical-imaging` `monai` `deep-learning`
 - **最后活动时间:** 2026-05-05
 
-### [ai-marketing-skills](https://github.com/ericosiu/ai-marketing-skills)
+### [Cybersecurity-Projects](https://github.com/CarterPerez-dev/Cybersecurity-Projects)
 
-开源AI营销技能集合，涵盖增长实验、销售管道、内容运营、外联、SEO和财务自动化等实用技能。
+60个网络安全项目集合，包含认证路线图和AI在安全领域的应用。
 
 - **Stars:** ⭐️ 2.5k
-- **Tags:** `ai-marketing` `automation` `growth` `seo` `sales`
+- **Tags:** `cybersecurity` `projects` `learning` `certification` `ai-security`
 - **最后活动时间:** 2026-05-24
-
-### [Minigrid](https://github.com/Farama-Foundation/Minigrid)
-
-专为强化学习设计的轻量级网格世界环境，支持OpenAI Gym接口，适合RL算法研究与教学。
-
-- **Stars:** ⭐️ 2.5k
-- **Tags:** `reinforcement-learning` `gym` `gridworld` `environment`
-- **最后活动时间:** 2026-05-11
 
 ### [Triton-Puzzles](https://github.com/gpu-mode/Triton-Puzzles)
 
@@ -5776,6 +5800,14 @@ MONAI医疗影像AI框架官方教程，涵盖深度学习工作流程。
 - **Tags:** `triton` `gpu-programming` `puzzle` `machine-learning`
 - **最后活动时间:** 2026-04-01
 
+### [Minigrid](https://github.com/Farama-Foundation/Minigrid)
+
+专为强化学习设计的轻量级网格世界环境，支持OpenAI Gym接口，适合RL算法研究与教学。
+
+- **Stars:** ⭐️ 2.5k
+- **Tags:** `reinforcement-learning` `gym` `gridworld` `environment`
+- **最后活动时间:** 2026-05-27
+
 ### [SZT-bigdata](https://github.com/geekyouth/SZT-bigdata)
 
 深圳地铁大数据客流分析系统，整合Hadoop、Spark、Flink、ClickHouse等技术栈，展示完整的大数据处理与分析流程。
@@ -5783,14 +5815,6 @@ MONAI医疗影像AI框架官方教程，涵盖深度学习工作流程。
 - **Stars:** ⭐️ 2.5k
 - **Tags:** `bigdata` `spark` `flink` `clickhouse` `elasticsearch` `kafka`
 - **最后活动时间:** 2026-05-12
-
-### [handy-ollama](https://github.com/datawhalechina/handy-ollama)
-
-Ollama动手实践教程，教你用CPU本地部署和运行大语言模型，涵盖Agent、RAG等核心主题。
-
-- **Stars:** ⭐️ 2.4k
-- **Tags:** `Ollama` `LLM` `RAG` `Tutorial`
-- **最后活动时间:** 2026-01-15
 
 ### [claude-agent-sdk-demos](https://github.com/anthropics/claude-agent-sdk-demos)
 
@@ -5800,13 +5824,21 @@ Claude Code SDK 示例代码集合，帮助开发者快速上手 Agent 开发。
 - **Tags:** `claude-code` `sdk` `demos` `tutorials`
 - **最后活动时间:** 2026-03-13
 
+### [handy-ollama](https://github.com/datawhalechina/handy-ollama)
+
+Ollama动手实践教程，教你用CPU本地部署和运行大语言模型，涵盖Agent、RAG等核心主题。
+
+- **Stars:** ⭐️ 2.4k
+- **Tags:** `Ollama` `LLM` `RAG` `Tutorial`
+- **最后活动时间:** 2026-01-15
+
 ### [CUDALibrarySamples](https://github.com/NVIDIA/CUDALibrarySamples)
 
 NVIDIA官方CUDA库示例代码集合，涵盖cuBLAS、cuFFT、cuRAND等GPU计算库的使用方法。
 
 - **Stars:** ⭐️ 2.4k
 - **Tags:** `cuda` `gpu` `nvidia` `linear-algebra`
-- **最后活动时间:** 2026-05-12
+- **最后活动时间:** 2026-05-28
 
 ### [MLE-Flashcards](https://github.com/b7leung/MLE-Flashcards)
 
@@ -5836,9 +5868,17 @@ NVIDIA官方CUDA库示例代码集合，涵盖cuBLAS、cuFFT、cuRAND等GPU计�
 
 AI基础设施知识分享与代码练习，涵盖PyTorch、vLLM、SGLang框架入门、性能加速与大模型基础。
 
-- **Stars:** ⭐️ 2.3k
+- **Stars:** ⭐️ 2.4k
 - **Tags:** `ai-infrastructure` `pytorch` `vllm` `sglang` `tutorial`
 - **最后活动时间:** 2026-05-08
+
+### [claude-certified-architect](https://github.com/paullarionov/claude-certified-architect)
+
+Claude认证架构师基础考试的学习资料和备考资源集合。
+
+- **Stars:** ⭐️ 2.3k
+- **Tags:** `claude` `certification` `study-materials` `architect`
+- **最后活动时间:** 2026-05-18
 
 ### [generative-ai](https://github.com/genieincodebottle/generative-ai)
 
@@ -5864,6 +5904,14 @@ AI工程师技术面试学习资源，涵盖人工智能、计算机科学和Pyt
 - **Tags:** `recommendation-algorithms` `deep-learning` `ctr-prediction` `recommender-system`
 - **最后活动时间:** 2026-04-15
 
+### [drl-zh](https://github.com/alessiodm/drl-zh)
+
+深度强化学习从零到精通的中文教程，系统讲解DRL核心算法与实践。
+
+- **Stars:** ⭐️ 2.3k
+- **Tags:** `deep-reinforcement-learning` `reinforcement-learning` `tutorials`
+- **最后活动时间:** 2026-05-26
+
 ### [AI-Tutorial-Codes-Included](https://github.com/Marktechpost/AI-Tutorial-Codes-Included)
 
 AI项目教程代码和Notebook合集，涵盖深度学习、机器学习、神经网络等主题。
@@ -5888,6 +5936,14 @@ HanLP作者新书详细笔记，通俗易懂地讲解NLP核心算法与工程实
 - **Tags:** `nlp` `deep-learning` `chinese` `tutorial`
 - **最后活动时间:** 2026-01-09
 
+### [Beginner-Data-Science-Projects](https://github.com/tkarim45/Beginner-Data-Science-Projects)
+
+面向初学者的数据科学实战项目合集，涵盖机器学习、深度学习和神经网络等核心主题。
+
+- **Stars:** ⭐️ 2.3k
+- **Tags:** `data-science` `machine-learning` `deep-learning` `neural-network`
+- **最后活动时间:** 2026-05-19
+
 ### [openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples)
 
 OpenAI Apps SDK官方示例应用集合，帮助开发者快速上手构建AI应用。
@@ -5895,22 +5951,6 @@ OpenAI Apps SDK官方示例应用集合，帮助开发者快速上手构建AI应
 - **Stars:** ⭐️ 2.3k
 - **Tags:** `openai` `sdk` `examples` `tutorial`
 - **最后活动时间:** 2026-04-15
-
-### [claude-certified-architect](https://github.com/paullarionov/claude-certified-architect)
-
-Claude认证架构师基础考试的学习资料和备考资源集合。
-
-- **Stars:** ⭐️ 2.2k
-- **Tags:** `claude` `certification` `study-materials` `architect`
-- **最后活动时间:** 2026-05-18
-
-### [Beginner-Data-Science-Projects](https://github.com/tkarim45/Beginner-Data-Science-Projects)
-
-面向初学者的数据科学实战项目合集，涵盖机器学习、深度学习和神经网络等核心主题。
-
-- **Stars:** ⭐️ 2.2k
-- **Tags:** `data-science` `machine-learning` `deep-learning` `neural-network`
-- **最后活动时间:** 2026-05-19
 
 ### [AI-Engineering.academy](https://github.com/adithya-s-k/AI-Engineering.academy)
 
@@ -5928,13 +5968,13 @@ AI工程化学习平台，系统讲解微调、量化、推理等大模型核心
 - **Tags:** `llm` `tutorial` `learning` `llm101`
 - **最后活动时间:** 2026-05-04
 
-### [Cybersecurity-Projects](https://github.com/CarterPerez-dev/Cybersecurity-Projects)
+### [hands-on-modern-rl](https://github.com/walkinglabs/hands-on-modern-rl)
 
-60个网络安全项目集合，包含认证路线图和AI在安全领域的应用。
+开源实战课程，从基础强化学习概念到LLM对齐、RLVR及高级智能体系统的完整学习路径。
 
 - **Stars:** ⭐️ 2.2k
-- **Tags:** `cybersecurity` `projects` `learning` `certification` `ai-security`
-- **最后活动时间:** 2026-05-24
+- **Tags:** `reinforcement-learning` `llm-alignment` `agents` `tutorial`
+- **最后活动时间:** 2026-05-28
 
 ### [PRPs-agentic-eng](https://github.com/Wirasm/PRPs-agentic-eng)
 
@@ -5942,7 +5982,7 @@ AI工程化学习平台，系统讲解微调、量化、推理等大模型核心
 
 - **Stars:** ⭐️ 2.2k
 - **Tags:** `Prompts` `Agentic` `Workflows` `Best Practices`
-- **最后活动时间:** 2026-03-02
+- **最后活动时间:** 2026-05-28
 
 ### [SimpleHTR](https://github.com/githubharald/SimpleHTR)
 
@@ -5952,21 +5992,13 @@ AI工程化学习平台，系统讲解微调、量化、推理等大模型核心
 - **Tags:** `handwriting-recognition` `ocr` `tensorflow` `deep-learning`
 - **最后活动时间:** 2026-01-31
 
-### [theLMbook](https://github.com/aburkov/theLMbook)
-
-《百页语言模型书》官方代码仓库，由Andriy Burkov撰写的语言模型入门指南，深入浅出讲解大语言模型核心原理。
-
-- **Stars:** ⭐️ 2.1k
-- **Tags:** `language-models` `llm` `machine-learning` `nlp` `book`
-- **最后活动时间:** 2026-02-08
-
 ### [Python](https://github.com/Tanu-N-Prabhu/Python)
 
 从零开始学习Python和机器学习的教程资源库，涵盖数据分析、可视化及常用算法实践。
 
-- **Stars:** ⭐️ 2.1k
+- **Stars:** ⭐️ 2.2k
 - **Tags:** `machine-learning` `python` `data-analysis` `numpy` `pandas`
-- **最后活动时间:** 2026-05-26
+- **最后活动时间:** 2026-05-29
 
 ### [the-turing-way](https://github.com/the-turing-way/the-turing-way)
 
@@ -5976,21 +6008,13 @@ AI工程化学习平台，系统讲解微调、量化、推理等大模型核心
 - **Tags:** `data-science` `reproducibility` `open-science` `community`
 - **最后活动时间:** 2026-05-25
 
-### [amazon-bedrock-workshop](https://github.com/aws-samples/amazon-bedrock-workshop)
+### [theLMbook](https://github.com/aburkov/theLMbook)
 
-Amazon Bedrock基础模型服务的实战工作坊，帮助开发者快速上手使用AWS的AI模型服务。
-
-- **Stars:** ⭐️ 2.1k
-- **Tags:** `aws` `bedrock` `llm` `generative-ai` `workshop`
-- **最后活动时间:** 2026-04-23
-
-### [hands-on-modern-rl](https://github.com/walkinglabs/hands-on-modern-rl)
-
-开源实战课程，从基础强化学习概念到LLM对齐、RLVR及高级智能体系统的完整学习路径。
+《百页语言模型书》官方代码仓库，由Andriy Burkov撰写的语言模型入门指南，深入浅出讲解大语言模型核心原理。
 
 - **Stars:** ⭐️ 2.1k
-- **Tags:** `reinforcement-learning` `llm-alignment` `agents` `tutorial`
-- **最后活动时间:** 2026-05-26
+- **Tags:** `language-models` `llm` `machine-learning` `nlp` `book`
+- **最后活动时间:** 2026-02-08
 
 ### [Linear-Algebra-Made-Easy](https://github.com/Visualize-ML/Linear-Algebra-Made-Easy---Learn-with-Python-and-Visualization)
 
@@ -5999,6 +6023,22 @@ Amazon Bedrock基础模型服务的实战工作坊，帮助开发者快速上手
 - **Stars:** ⭐️ 2.1k
 - **Tags:** `linear-algebra` `python` `visualization` `machine-learning` `mathematics`
 - **最后活动时间:** 2026-05-01
+
+### [how-to-train-your-gpt](https://github.com/raiyanyahya/how-to-train-your-gpt)
+
+从零开始构建现代大语言模型的教程，每行代码都有详细注释，用通俗易懂的方式讲解Transformer架构和训练过程。
+
+- **Stars:** ⭐️ 2.1k
+- **Tags:** `llm` `gpt` `transformers` `deep-learning` `pytorch` `tutorial`
+- **最后活动时间:** 2026-05-27
+
+### [amazon-bedrock-workshop](https://github.com/aws-samples/amazon-bedrock-workshop)
+
+Amazon Bedrock基础模型服务的实战工作坊，帮助开发者快速上手使用AWS的AI模型服务。
+
+- **Stars:** ⭐️ 2.1k
+- **Tags:** `aws` `bedrock` `llm` `generative-ai` `workshop`
+- **最后活动时间:** 2026-04-23
 
 ### [PFLlib](https://github.com/TsingZ0/PFLlib)
 
@@ -6032,14 +6072,6 @@ Open LLM Leaderboard团队编写的LLM评估实践指南，涵盖评估理论与
 - **Tags:** `machine-learning` `course` `tutorial` `ml`
 - **最后活动时间:** 2026-05-18
 
-### [statistical-learning-method-solutions-manual](https://github.com/datawhalechina/statistical-learning-method-solutions-manual)
-
-《统计学习方法》习题解答手册，提供机器学习核心算法的详细解题思路与实现。
-
-- **Stars:** ⭐️ 2.1k
-- **Tags:** `machine-learning` `statistical-learning` `tutorial`
-- **最后活动时间:** 2026-05-08
-
 ### [CUDA-Programming](https://github.com/brucefan1983/CUDA-Programming)
 
 CUDA编程书籍配套示例代码，涵盖GPU编程核心概念和实践技巧。
@@ -6047,6 +6079,14 @@ CUDA编程书籍配套示例代码，涵盖GPU编程核心概念和实践技巧�
 - **Stars:** ⭐️ 2.1k
 - **Tags:** `cuda` `gpu-programming` `tutorial` `cpp`
 - **最后活动时间:** 2025-12-14
+
+### [statistical-learning-method-solutions-manual](https://github.com/datawhalechina/statistical-learning-method-solutions-manual)
+
+《统计学习方法》习题解答手册，提供机器学习核心算法的详细解题思路与实现。
+
+- **Stars:** ⭐️ 2.1k
+- **Tags:** `machine-learning` `statistical-learning` `tutorial`
+- **最后活动时间:** 2026-05-08
 
 ### [TorchLeet](https://github.com/Exorust/TorchLeet)
 
@@ -6060,17 +6100,9 @@ PyTorch版LeetCode练习平台，提供深度学习编程练习和算法实现�
 
 面向产品经理的Claude Code交互式教程，帮助PM高效使用AI编程工具。
 
-- **Stars:** ⭐️ 2.0k
+- **Stars:** ⭐️ 2.1k
 - **Tags:** `claude-code` `course` `product-manager` `tutorial`
 - **最后活动时间:** 2026-05-25
-
-### [transformers.js-examples](https://github.com/huggingface/transformers.js-examples)
-
-Transformers.js的示例应用和演示集合，展示浏览器端ML应用开发。
-
-- **Stars:** ⭐️ 2.0k
-- **Tags:** `transformers` `javascript` `examples` `demo`
-- **最后活动时间:** 2026-02-17
 
 ### [hello-claw](https://github.com/datawhalechina/hello-claw)
 
@@ -6079,6 +6111,14 @@ Transformers.js的示例应用和演示集合，展示浏览器端ML应用开发
 - **Stars:** ⭐️ 2.0k
 - **Tags:** `OpenClaw` `LLM` `教程` `AI助手`
 - **最后活动时间:** 2026-05-10
+
+### [transformers.js-examples](https://github.com/huggingface/transformers.js-examples)
+
+Transformers.js的示例应用和演示集合，展示浏览器端ML应用开发。
+
+- **Stars:** ⭐️ 2.0k
+- **Tags:** `transformers` `javascript` `examples` `demo`
+- **最后活动时间:** 2026-02-17
 
 ### [MATLAB-Simulink-Challenge-Project-Hub](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub)
 
@@ -6110,6 +6150,14 @@ MIT并行计算与科学机器学习课程资料，涵盖微分方程、神经OD
 
 - **Stars:** ⭐️ 2.0k
 - **Tags:** `scientific-machine-learning` `neural-ode` `parallel-computing` `differential-equations`
+- **最后活动时间:** 2026-05-27
+
+### [cookbook](https://github.com/Liquid4All/cookbook)
+
+Liquid AI 基础模型(LFM)和 LEAP SDK 的示例与端到端教程集合，支持 Android、iOS 和边缘设备部署。
+
+- **Stars:** ⭐️ 2.0k
+- **Tags:** `language-model` `liquid-ai` `tutorial` `edge-computing`
 - **最后活动时间:** 2026-05-22
 
 ### [ML_course](https://github.com/epfml/ML_course)
@@ -6120,21 +6168,13 @@ EPFL 机器学习课程，涵盖机器学习核心理论与实践。
 - **Tags:** `machine-learning` `course` `epfl`
 - **最后活动时间:** 2025-12-15
 
-### [cookbook](https://github.com/Liquid4All/cookbook)
-
-Liquid AI 基础模型(LFM)和 LEAP SDK 的示例与端到端教程集合，支持 Android、iOS 和边缘设备部署。
-
-- **Stars:** ⭐️ 2.0k
-- **Tags:** `language-model` `liquid-ai` `tutorial` `edge-computing`
-- **最后活动时间:** 2026-05-22
-
 ### [azureml-examples](https://github.com/Azure/azureml-examples)
 
 Azure机器学习官方示例集合，包含丰富的实践案例和GitHub Actions自动化测试。
 
 - **Stars:** ⭐️ 2.0k
 - **Tags:** `Azure ML` `Cloud` `Examples`
-- **最后活动时间:** 2026-05-26
+- **最后活动时间:** 2026-05-29
 
 ### [Advanced-Deep-Learning-with-Keras](https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras)
 
@@ -6150,7 +6190,7 @@ TinyFish Web智能体的示例应用与配方集合，开源学习资源。
 
 - **Stars:** ⭐️ 2.0k
 - **Tags:** `cookbook` `web-agents` `examples` `typescript`
-- **最后活动时间:** 2026-05-19
+- **最后活动时间:** 2026-05-26
 
 ### [AAAMLP-CN](https://github.com/ytzfhqs/AAAMLP-CN)
 
@@ -6175,6 +6215,14 @@ Claude Code 全能指南，涵盖配置、提示工程、命令、钩子、工�
 - **Stars:** ⭐️ 1.9k
 - **Tags:** `claude-code` `tutorial` `guide` `prompt-engineering` `mcp`
 - **最后活动时间:** 2026-05-06
+
+### [machine-learning-refined](https://github.com/neonwatty/machine-learning-refined)
+
+从零开始掌握机器学习和深度学习核心概念，使用Python从底层构建关键模型和算法。
+
+- **Stars:** ⭐️ 1.9k
+- **Tags:** `machine-learning` `deep-learning` `python` `tutorial`
+- **最后活动时间:** 2025-12-22
 
 ### [rlhf-book](https://github.com/natolambert/rlhf-book)
 
@@ -6208,14 +6256,6 @@ C++20高性能编程实践教程，涵盖CUDA、SIMD、协程等HPC核心技术�
 - **Tags:** `cpp20` `cuda` `hpc` `benchmark` `tutorial`
 - **最后活动时间:** 2025-12-23
 
-### [machine-learning-refined](https://github.com/neonwatty/machine-learning-refined)
-
-从零开始掌握机器学习和深度学习核心概念，使用Python从底层构建关键模型和算法。
-
-- **Stars:** ⭐️ 1.9k
-- **Tags:** `machine-learning` `deep-learning` `python` `tutorial`
-- **最后活动时间:** 2025-12-22
-
 ### [python-weekly](https://github.com/chinesehuazhou/python-weekly)
 
 免费的Python周刊，分享AI、机器学习、开源项目、教程等精选内容，帮助开发者跟踪Python生态最新动态。
@@ -6240,14 +6280,6 @@ Transformers库快速入门教程，涵盖文本分类、NER、问答等NLP任�
 - **Tags:** `machine-learning` `tensorflow` `pytorch` `notes` `tutorial`
 - **最后活动时间:** 2025-12-23
 
-### [how-to-train-your-gpt](https://github.com/raiyanyahya/how-to-train-your-gpt)
-
-从零开始构建现代大语言模型的教程，每行代码都有详细注释，用通俗易懂的方式讲解Transformer架构和训练过程。
-
-- **Stars:** ⭐️ 1.9k
-- **Tags:** `llm` `gpt` `transformers` `deep-learning` `pytorch` `tutorial`
-- **最后活动时间:** 2026-05-24
-
 ### [Introduction-to-Autonomous-Robots](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots)
 
 自主机器人入门教材，涵盖机器人感知、规划和控制基础知识。
@@ -6262,7 +6294,7 @@ LLM实战课程，涵盖微调、LangChain、向量数据库、模型剪枝等�
 
 - **Stars:** ⭐️ 1.8k
 - **Tags:** `LLM` `Fine-tuning` `LangChain` `Course`
-- **最后活动时间:** 2026-05-15
+- **最后活动时间:** 2026-05-28
 
 ### [galaxy](https://github.com/galaxyproject/galaxy)
 
@@ -6270,7 +6302,7 @@ LLM实战课程，涵盖微调、LangChain、向量数据库、模型剪枝等�
 
 - **Stars:** ⭐️ 1.8k
 - **Tags:** `bioinformatics` `genomics` `workflow` `data-science` `pipeline`
-- **最后活动时间:** 2026-05-23
+- **最后活动时间:** 2026-05-28
 
 ### [snake](https://github.com/chynl/snake)
 
@@ -6296,14 +6328,6 @@ LLM实战课程，涵盖微调、LangChain、向量数据库、模型剪枝等�
 - **Tags:** `deep-learning` `course` `neural-networks`
 - **最后活动时间:** 2025-12-12
 
-### [nlp-in-python-tutorial](https://github.com/adashofdata/nlp-in-python-tutorial)
-
-使用自然语言处理技术分析单口喜剧演员风格的Python教程。
-
-- **Stars:** ⭐️ 1.7k
-- **Tags:** `nlp` `python` `tutorial` `text-analysis`
-- **最后活动时间:** 2026-02-13
-
 ### [langchain4j-examples](https://github.com/langchain4j/langchain4j-examples)
 
 LangChain4j官方示例代码库，帮助Java开发者快速上手构建LLM应用。
@@ -6312,21 +6336,37 @@ LangChain4j官方示例代码库，帮助Java开发者快速上手构建LLM应�
 - **Tags:** `langchain4j` `java` `examples` `llm`
 - **最后活动时间:** 2026-05-15
 
+### [nlp-in-python-tutorial](https://github.com/adashofdata/nlp-in-python-tutorial)
+
+使用自然语言处理技术分析单口喜剧演员风格的Python教程。
+
+- **Stars:** ⭐️ 1.7k
+- **Tags:** `nlp` `python` `tutorial` `text-analysis`
+- **最后活动时间:** 2026-02-13
+
+### [claude-code-cheat-sheet](https://github.com/Njengah/claude-code-cheat-sheet)
+
+Claude Code使用技巧大全，包含实用技巧、工作流程和最佳实践。
+
+- **Stars:** ⭐️ 1.7k
+- **Tags:** `Claude` `Tutorial` `Tips`
+- **最后活动时间:** 2026-05-27
+
 ### [teachablemachine-community](https://github.com/googlecreativelab/teachablemachine-community)
 
 Google Teachable Machine的示例代码库，提供机器学习代码片段和实践案例。
 
 - **Stars:** ⭐️ 1.7k
 - **Tags:** `teachable-machine` `machine-learning` `education` `tensorflow`
-- **最后活动时间:** 2026-04-14
+- **最后活动时间:** 2026-05-28
 
-### [Thinking_in_Java_MindMapping](https://github.com/LjyYano/Thinking_in_Java_MindMapping)
+### [potencializando-estudos-carreira-com-ia](https://github.com/digitalinnovationone/potencializando-estudos-carreira-com-ia)
 
-编程笔记与AI学习资源合集，涵盖数据结构、算法、并发编程、JVM以及大厂面试等内容，同时包含ChatGPT、Claude等AI学习心得。
+关于如何利用AI提升学习和职业发展的课程，内容涵盖从聊天机器人到智能代理的实践应用。
 
 - **Stars:** ⭐️ 1.7k
-- **Tags:** `ai` `java` `jvm` `chatgpt` `claude` `spring`
-- **最后活动时间:** 2026-05-01
+- **Tags:** `ai-course` `chatbots` `agents` `career` `tutorial`
+- **最后活动时间:** 2026-05-05
 
 ### [build-your-own-openclaw](https://github.com/czl9707/build-your-own-openclaw)
 
@@ -6336,6 +6376,22 @@ Google Teachable Machine的示例代码库，提供机器学习代码片段和�
 - **Tags:** `ai-agent` `tutorial` `llm` `python`
 - **最后活动时间:** 2026-05-20
 
+### [Thinking_in_Java_MindMapping](https://github.com/LjyYano/Thinking_in_Java_MindMapping)
+
+编程笔记与AI学习资源合集，涵盖数据结构、算法、并发编程、JVM以及大厂面试等内容，同时包含ChatGPT、Claude等AI学习心得。
+
+- **Stars:** ⭐️ 1.7k
+- **Tags:** `ai` `java` `jvm` `chatgpt` `claude` `spring`
+- **最后活动时间:** 2026-05-01
+
+### [claude-howto-zh-cn](https://github.com/lhfer/claude-howto-zh-cn)
+
+Claude Code 中文全面上手指南，面向中国小白用户，包含学习路径与本地化校验护栏。
+
+- **Stars:** ⭐️ 1.7k
+- **Tags:** `claude-code` `tutorial` `chinese` `guide`
+- **最后活动时间:** 2026-05-27
+
 ### [bwapi](https://github.com/bwapi/bwapi)
 
 星际争霸Brood War API，为游戏AI研究和机器人开发提供编程接口。
@@ -6344,6 +6400,14 @@ Google Teachable Machine的示例代码库，提供机器学习代码片段和�
 - **Tags:** `starcraft` `game-ai` `broodwar` `c-plus-plus`
 - **最后活动时间:** 2026-05-08
 
+### [accelerated-computing-hub](https://github.com/NVIDIA/accelerated-computing-hub)
+
+NVIDIA官方策划的GPU通用编程教育资源合集，涵盖CUDA编程和AI加速计算核心知识。
+
+- **Stars:** ⭐️ 1.7k
+- **Tags:** `gpu` `cuda` `nvidia` `education` `parallel-computing`
+- **最后活动时间:** 2026-05-18
+
 ### [onnxruntime-inference-examples](https://github.com/microsoft/onnxruntime-inference-examples)
 
 ONNX Runtime推理示例代码集合，展示机器学习模型的高效部署推理。
@@ -6351,22 +6415,6 @@ ONNX Runtime推理示例代码集合，展示机器学习模型的高效部署�
 - **Stars:** ⭐️ 1.7k
 - **Tags:** `onnx` `inference` `machine-learning`
 - **最后活动时间:** 2026-02-24
-
-### [accelerated-computing-hub](https://github.com/NVIDIA/accelerated-computing-hub)
-
-NVIDIA官方策划的GPU通用编程教育资源合集，涵盖CUDA编程和AI加速计算核心知识。
-
-- **Stars:** ⭐️ 1.6k
-- **Tags:** `gpu` `cuda` `nvidia` `education` `parallel-computing`
-- **最后活动时间:** 2026-05-18
-
-### [claude-howto-zh-cn](https://github.com/lhfer/claude-howto-zh-cn)
-
-Claude Code 中文全面上手指南，面向中国小白用户，包含学习路径与本地化校验护栏。
-
-- **Stars:** ⭐️ 1.6k
-- **Tags:** `claude-code` `tutorial` `chinese` `guide`
-- **最后活动时间:** 2026-05-23
 
 ### [train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch)
 
@@ -6422,14 +6470,6 @@ Claude Code 中文全面上手指南，面向中国小白用户，包含学习�
 
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `machine-learning` `probabilistic` `book`
-- **最后活动时间:** 2025-12-10
-
-### [machine-learning-visualized](https://github.com/gavinkhung/machine-learning-visualized)
-
-从第一性原理出发实现机器学习算法，配有Jupyter Notebook和NumPy可视化教程。
-
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `machine-learning` `jupyter-notebook` `neural-network` `numpy` `python`
 - **最后活动时间:** 2026-05-26
 
 ### [handson-mlp](https://github.com/ageron/handson-mlp)
@@ -6439,6 +6479,14 @@ Claude Code 中文全面上手指南，面向中国小白用户，包含学习�
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `Machine Learning` `PyTorch` `Hugging Face` `Tutorial`
 - **最后活动时间:** 2026-03-19
+
+### [machine-learning-visualized](https://github.com/gavinkhung/machine-learning-visualized)
+
+从第一性原理出发实现机器学习算法，配有Jupyter Notebook和NumPy可视化教程。
+
+- **Stars:** ⭐️ 1.5k
+- **Tags:** `machine-learning` `jupyter-notebook` `neural-network` `numpy` `python`
+- **最后活动时间:** 2026-05-26
 
 ### [ganlab](https://github.com/poloclub/ganlab)
 
@@ -6456,6 +6504,14 @@ Figma MCP 服务器使用指南，帮助开发者快速上手 MCP 协议与 Figm
 - **Tags:** `mcp` `figma` `guide` `tutorial`
 - **最后活动时间:** 2026-05-18
 
+### [ai-hero](https://github.com/ai-hero-dev/ai-hero)
+
+AI Hero开源示例与课程资料，通过单一仓库学习AI工程化开发。
+
+- **Stars:** ⭐️ 1.5k
+- **Tags:** `ai` `typescript` `course` `tutorial`
+- **最后活动时间:** 2026-05-28
+
 ### [PythonNumericalDemos](https://github.com/GeostatsGuy/PythonNumericalDemos)
 
 空间数据分析、地质统计学和机器学习的Python演示代码集合。
@@ -6464,13 +6520,13 @@ Figma MCP 服务器使用指南，帮助开发者快速上手 MCP 协议与 Figm
 - **Tags:** `python` `machine-learning` `geostatistics` `data-analytics`
 - **最后活动时间:** 2026-03-03
 
-### [machine-learning-list](https://github.com/elicit/machine-learning-list)
+### [ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
 
-从基础到前沿的基础模型学习路线图，系统化学习Transformer和大语言模型。
+系统化AI Agent学习指南，覆盖LangChain、LangGraph、Coze、Dify、MCP等主流框架，从入门到企业级落地实战。
 
 - **Stars:** ⭐️ 1.5k
-- **Tags:** `machine-learning` `transformers` `language-model` `curriculum`
-- **最后活动时间:** 2025-11-27
+- **Tags:** `tutorial` `agent` `langchain` `llm` `rag`
+- **最后活动时间:** 2026-05-28
 
 ### [OptML_course](https://github.com/epfml/OptML_course)
 
@@ -6480,6 +6536,14 @@ EPFL机器学习优化课程CS-439，涵盖优化算法理论与实践。
 - **Tags:** `machine-learning` `optimization` `course` `epfl`
 - **最后活动时间:** 2026-05-23
 
+### [Claude-Code-Source-Study](https://github.com/luyao618/Claude-Code-Source-Study)
+
+深入剖析 Claude Code 源码，学习业界领先的 AI Agent 实现方案与架构设计。
+
+- **Stars:** ⭐️ 1.5k
+- **Tags:** `claude-code` `source-code` `ai-agent` `study`
+- **最后活动时间:** 2026-05-27
+
 ### [PyTorchStepByStep](https://github.com/dvgodoy/PyTorchStepByStep)
 
 《Deep Learning with PyTorch Step-by-Step》书籍配套代码，面向初学者的PyTorch深度学习教程。
@@ -6487,14 +6551,6 @@ EPFL机器学习优化课程CS-439，涵盖优化算法理论与实践。
 - **Stars:** ⭐️ 1.4k
 - **Tags:** `pytorch` `deep-learning` `tutorial` `book`
 - **最后活动时间:** 2026-02-19
-
-### [amazon-bedrock-samples](https://github.com/aws-samples/amazon-bedrock-samples)
-
-Amazon Bedrock官方示例代码库，涵盖基础模型使用、嵌入、RAG、LangChain集成等实用教程。
-
-- **Stars:** ⭐️ 1.4k
-- **Tags:** `Bedrock` `AWS` `RAG`
-- **最后活动时间:** 2026-05-15
 
 ### [rag-from-scratch](https://github.com/pguso/rag-from-scratch)
 
@@ -6504,21 +6560,13 @@ Amazon Bedrock官方示例代码库，涵盖基础模型使用、嵌入、RAG、
 - **Tags:** `RAG` `教程` `LLM`
 - **最后活动时间:** 2026-03-11
 
-### [Claude-Code-Source-Study](https://github.com/luyao618/Claude-Code-Source-Study)
+### [amazon-bedrock-samples](https://github.com/aws-samples/amazon-bedrock-samples)
 
-深入剖析 Claude Code 源码，学习业界领先的 AI Agent 实现方案与架构设计。
-
-- **Stars:** ⭐️ 1.4k
-- **Tags:** `claude-code` `source-code` `ai-agent` `study`
-- **最后活动时间:** 2026-05-26
-
-### [data-science-on-gcp](https://github.com/GoogleCloudPlatform/data-science-on-gcp)
-
-《Google Cloud Platform数据科学》书籍配套源码，涵盖数据处理和机器学习实践。
+Amazon Bedrock官方示例代码库，涵盖基础模型使用、嵌入、RAG、LangChain集成等实用教程。
 
 - **Stars:** ⭐️ 1.4k
-- **Tags:** `data-science` `google-cloud` `data-engineering` `machine-learning`
-- **最后活动时间:** 2026-02-20
+- **Tags:** `Bedrock` `AWS` `RAG`
+- **最后活动时间:** 2026-05-15
 
 ### [langchain-course](https://github.com/emarco177/langchain-course)
 
@@ -6528,13 +6576,21 @@ Amazon Bedrock官方示例代码库，涵盖基础模型使用、嵌入、RAG、
 - **Tags:** `LangChain` `LangGraph` `Agent` `RAG`
 - **最后活动时间:** 2026-04-02
 
-### [ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
+### [data-science-on-gcp](https://github.com/GoogleCloudPlatform/data-science-on-gcp)
 
-系统化AI Agent学习指南，覆盖LangChain、LangGraph、Coze、Dify、MCP等主流框架，从入门到企业级落地实战。
+《Google Cloud Platform数据科学》书籍配套源码，涵盖数据处理和机器学习实践。
 
 - **Stars:** ⭐️ 1.4k
-- **Tags:** `tutorial` `agent` `langchain` `llm` `rag`
-- **最后活动时间:** 2026-05-25
+- **Tags:** `data-science` `google-cloud` `data-engineering` `machine-learning`
+- **最后活动时间:** 2026-02-20
+
+### [the-art-of-debugging](https://github.com/stas00/the-art-of-debugging)
+
+调试艺术开源书籍，涵盖GDB、Python、PyTorch等调试技术与方法论。
+
+- **Stars:** ⭐️ 1.4k
+- **Tags:** `debugging` `gdb` `python` `pytorch` `linux`
+- **最后活动时间:** 2026-04-10
 
 ### [learn-opencode](https://github.com/vbgate/learn-opencode)
 
@@ -6544,13 +6600,13 @@ OpenCode中文实战课程，从入门到实战工作流全覆盖，提供完整
 - **Tags:** `Tutorial` `OpenCode` `Chinese`
 - **最后活动时间:** 2026-03-31
 
-### [the-art-of-debugging](https://github.com/stas00/the-art-of-debugging)
+### [AcademicForge](https://github.com/HughYau/AcademicForge)
 
-调试艺术开源书籍，涵盖GDB、Python、PyTorch等调试技术与方法论。
+面向学术写作与研究的能力技能集合，助力AI辅助科研工作流。
 
 - **Stars:** ⭐️ 1.4k
-- **Tags:** `debugging` `gdb` `python` `pytorch` `linux`
-- **最后活动时间:** 2026-04-10
+- **Tags:** `ai` `research-tool` `academic-writing` `skills`
+- **最后活动时间:** 2026-05-25
 
 ### [generative_ai_with_langchain](https://github.com/benman1/generative_ai_with_langchain)
 
@@ -6584,21 +6640,21 @@ scikit-learn机器学习在线课程，系统讲解Python ML实践。
 - **Tags:** `reinforcement-learning` `pytorch` `deep-learning`
 - **最后活动时间:** 2026-03-25
 
-### [rl_games](https://github.com/Denys88/rl_games)
-
-强化学习算法实现库，包含多种深度强化学习方法的PyTorch实现。
-
-- **Stars:** ⭐️ 1.3k
-- **Tags:** `reinforcement-learning` `pytorch` `deep-learning`
-- **最后活动时间:** 2026-05-25
-
 ### [e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook)
 
 E2B沙箱使用示例和教程合集，支持AI代理代码执行。
 
-- **Stars:** ⭐️ 1.3k
+- **Stars:** ⭐️ 1.4k
 - **Tags:** `ai` `ai-agents` `code-interpreter` `e2b` `llm`
-- **最后活动时间:** 2026-05-21
+- **最后活动时间:** 2026-05-26
+
+### [rl_games](https://github.com/Denys88/rl_games)
+
+强化学习算法实现库，包含多种深度强化学习方法的PyTorch实现。
+
+- **Stars:** ⭐️ 1.4k
+- **Tags:** `reinforcement-learning` `pytorch` `deep-learning`
+- **最后活动时间:** 2026-05-25
 
 ### [Machine-Learning-with-Python](https://github.com/devAmoghS/Machine-Learning-with-Python)
 
@@ -6607,6 +6663,22 @@ E2B沙箱使用示例和教程合集，支持AI代理代码执行。
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `machine-learning` `deep-learning` `python` `beginner-friendly` `exercises`
 - **最后活动时间:** 2026-04-14
+
+### [AI-fundamentals](https://github.com/ForceInjection/AI-fundamentals)
+
+AI基础知识合集，涵盖GPU架构、CUDA编程、大模型原理及AI Agent相关知识，适合入门学习。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `ai-agent` `ai-infra` `cuda` `gpu` `llm`
+- **最后活动时间:** 2026-05-26
+
+### [evals-skills](https://github.com/hamelsmu/evals-skills)
+
+AI评估课程配套技能库，面向工程师和产品经理的AI系统评估实践指南。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `ai-evaluation` `course` `testing` `llm`
+- **最后活动时间:** 2026-03-03
 
 ### [deep-q-learning](https://github.com/keon/deep-q-learning)
 
@@ -6640,14 +6712,6 @@ Full Stack Deep Learning课程官网源码，涵盖深度学习全栈开发的�
 - **Tags:** `deep-learning` `education` `full-stack` `tutorial`
 - **最后活动时间:** 2026-04-17
 
-### [evals-skills](https://github.com/hamelsmu/evals-skills)
-
-AI评估课程配套技能库，面向工程师和产品经理的AI系统评估实践指南。
-
-- **Stars:** ⭐️ 1.3k
-- **Tags:** `ai-evaluation` `course` `testing` `llm`
-- **最后活动时间:** 2026-03-03
-
 ### [beyond-nanogpt](https://github.com/tanishqkumar/beyond-nanogpt)
 
 现代深度学习关键思想的精简注释实现，适合深入理解前沿研究。
@@ -6655,14 +6719,6 @@ AI评估课程配套技能库，面向工程师和产品经理的AI系统评估�
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `deep-learning` `nanogpt` `tutorial` `implementation`
 - **最后活动时间:** 2026-01-29
-
-### [AI-fundamentals](https://github.com/ForceInjection/AI-fundamentals)
-
-AI基础知识合集，涵盖GPU架构、CUDA编程、大模型原理及AI Agent相关知识，适合入门学习。
-
-- **Stars:** ⭐️ 1.3k
-- **Tags:** `ai-agent` `ai-infra` `cuda` `gpu` `llm`
-- **最后活动时间:** 2026-05-26
 
 ### [spring-ai-examples](https://github.com/spring-projects/spring-ai-examples)
 
@@ -6687,6 +6743,14 @@ Spring AI 框架示例代码集合，帮助开发者快速上手 AI 应用开发
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `machine-learning` `roadmap` `tutorial`
 - **最后活动时间:** 2026-04-22
+
+### [claude-code-from-scratch](https://github.com/Windy3f3f3f3f/claude-code-from-scratch)
+
+从零开始构建 Claude Code 核心架构的教程项目，用约3000行 TypeScript 复现 coding agent 精髓，包含11章分步教程。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `ai-agent` `claude` `coding-agent` `llm` `tutorial` `typescript`
+- **最后活动时间:** 2026-05-12
 
 ### [info8010-deep-learning](https://github.com/glouppe/info8010-deep-learning)
 
@@ -6720,14 +6784,6 @@ DeepMind Genie 世界模型的极简实现版本，适合学习与研究。
 - **Tags:** `music-information-retrieval` `audio` `machine-learning` `jupyter`
 - **最后活动时间:** 2026-05-19
 
-### [claude-code-from-scratch](https://github.com/Windy3f3f3f3f/claude-code-from-scratch)
-
-从零开始构建 Claude Code 核心架构的教程项目，用约3000行 TypeScript 复现 coding agent 精髓，包含11章分步教程。
-
-- **Stars:** ⭐️ 1.3k
-- **Tags:** `ai-agent` `claude` `coding-agent` `llm` `tutorial` `typescript`
-- **最后活动时间:** 2026-05-12
-
 ### [notebooks](https://github.com/dataflowr/notebooks)
 
 深度学习课程代码笔记，基于PyTorch实现核心算法与实践项目。
@@ -6735,14 +6791,6 @@ DeepMind Genie 世界模型的极简实现版本，适合学习与研究。
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `deep-learning` `pytorch` `tutorial`
 - **最后活动时间:** 2026-02-10
-
-### [AcademicForge](https://github.com/HughYau/AcademicForge)
-
-面向学术写作与研究的能力技能集合，助力AI辅助科研工作流。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `ai` `research-tool` `academic-writing` `skills`
-- **最后活动时间:** 2026-05-25
 
 ### [Hands-On-AI-Engineering](https://github.com/Sumanth077/Hands-On-AI-Engineering)
 
@@ -6768,6 +6816,14 @@ Weights & Biases 官方深度学习示例项目集合，展示如何使用 wandb
 - **Tags:** `wandb` `deep-learning` `examples` `mlops`
 - **最后活动时间:** 2026-05-20
 
+### [agent-skills-with-anthropic](https://github.com/datawhalechina/agent-skills-with-anthropic)
+
+吴恩达DeepLearning.AI课程中文翻译与知识整理项目，涵盖Anthropic智能体技能课程的内容翻译、知识点梳理和示例代码解读。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `agents` `anthropic` `tutorial` `deep-learning` `course`
+- **最后活动时间:** 2026-03-30
+
 ### [Deep-Learning-Experiments](https://github.com/roatienza/Deep-Learning-Experiments)
 
 深度学习实验与笔记合集，包含视频、文档和代码，涵盖视觉、语音、NLP等领域。
@@ -6792,14 +6848,6 @@ AI基础知识合集，涵盖GPU架构、CUDA编程、大模型基础及AI Agent
 - **Tags:** `machine-learning` `simulation` `education`
 - **最后活动时间:** 2026-05-22
 
-### [agent-skills-with-anthropic](https://github.com/datawhalechina/agent-skills-with-anthropic)
-
-吴恩达DeepLearning.AI课程中文翻译与知识整理项目，涵盖Anthropic智能体技能课程的内容翻译、知识点梳理和示例代码解读。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `agents` `anthropic` `tutorial` `deep-learning` `course`
-- **最后活动时间:** 2026-03-30
-
 ### [PytorchGeometricTutorial](https://github.com/AntonioLonga/PytorchGeometricTutorial)
 
 PyTorch Geometric图神经网络教程，涵盖几何深度学习核心算法与实践。
@@ -6822,7 +6870,7 @@ Intel oneAPI工具包示例代码集合，涵盖AI、GPU计算、深度学习等
 
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `oneAPI` `示例代码` `Intel`
-- **最后活动时间:** 2026-05-19
+- **最后活动时间:** 2026-05-29
 
 ### [R-algorithms](https://github.com/TheAlgorithms/R)
 
@@ -6872,21 +6920,13 @@ Together AI开源模型实战教程，展示如何快速上手使用各类开源
 - **Tags:** `open-source-models` `llm` `together-ai` `cookbook`
 - **最后活动时间:** 2026-03-05
 
-### [DeepLearningFromScratch](https://github.com/qiaohaoforever/DeepLearningFromScratch)
+### [Foundations-of-Medical-LLMs](https://github.com/ZJU4HealthCare/Foundations-of-Medical-LLMs)
 
-《深度学习入门》书籍配套代码资源，基于Python从零实现深度学习理论与算法。
-
-- **Stars:** ⭐️ 1.1k
-- **Tags:** `deep-learning` `python` `tutorial` `machine-learning`
-- **最后活动时间:** 2025-11-29
-
-### [CatBoost-Tutorials](https://github.com/catboost/tutorials)
-
-CatBoost梯度提升库官方教程，包含Jupyter Notebook示例和Kaggle实战案例。
+医学大语言模型学习基础资源，涵盖医疗领域LLM的核心概念与实践方法。
 
 - **Stars:** ⭐️ 1.1k
-- **Tags:** `catboost` `machine-learning` `gradient-boosting` `kaggle`
-- **最后活动时间:** 2026-03-09
+- **Tags:** `medical-llm` `healthcare-ai` `llm` `medical-nlp`
+- **最后活动时间:** 2026-05-27
 
 ### [ai](https://github.com/tylerprogramming/ai)
 
@@ -6895,6 +6935,14 @@ AutoGen框架实践教程合集，包含多个AI智能体项目示例和详细�
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `autogen` `ai-agent` `tutorial` `lmstudio`
 - **最后活动时间:** 2025-12-14
+
+### [CatBoost-Tutorials](https://github.com/catboost/tutorials)
+
+CatBoost梯度提升库官方教程，包含Jupyter Notebook示例和Kaggle实战案例。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `catboost` `machine-learning` `gradient-boosting` `kaggle`
+- **最后活动时间:** 2026-03-09
 
 ### [ai-dev-tools-zoomcamp](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp)
 
@@ -6912,22 +6960,6 @@ AutoGen框架实践教程合集，包含多个AI智能体项目示例和详细�
 - **Tags:** `deep-learning` `llm` `nlp` `computer-vision` `tutorial`
 - **最后活动时间:** 2026-05-03
 
-### [elasticsearch-labs](https://github.com/elastic/elasticsearch-labs)
-
-Elasticsearch官方AI应用示例与笔记本，涵盖向量搜索与生成式AI实践。
-
-- **Stars:** ⭐️ 1.1k
-- **Tags:** `elasticsearch` `vector-search` `genai` `langchain` `rag`
-- **最后活动时间:** 2026-05-19
-
-### [spark-nlp-workshop](https://github.com/JohnSnowLabs/spark-nlp-workshop)
-
-John Snow Labs的Spark NLP实战教程，提供可运行的NLP示例代码。
-
-- **Stars:** ⭐️ 1.1k
-- **Tags:** `nlp` `spark` `spark-nlp` `natural-language-processing`
-- **最后活动时间:** 2026-05-20
-
 ### [pyre-code](https://github.com/whwangovo/pyre-code)
 
 一个自托管的机器学习编程练习平台，包含68道从ReLU到流匹配的练习题，涵盖注意力机制、训练、RLHF、扩散模型等内容，支持浏览器即时反馈。
@@ -6936,6 +6968,22 @@ John Snow Labs的Spark NLP实战教程，提供可运行的NLP示例代码。
 - **Tags:** `machine-learning` `coding-practice` `deep-learning` `education` `self-hosted`
 - **最后活动时间:** 2026-05-12
 
+### [elasticsearch-labs](https://github.com/elastic/elasticsearch-labs)
+
+Elasticsearch官方AI应用示例与笔记本，涵盖向量搜索与生成式AI实践。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `elasticsearch` `vector-search` `genai` `langchain` `rag`
+- **最后活动时间:** 2026-05-26
+
+### [spark-nlp-workshop](https://github.com/JohnSnowLabs/spark-nlp-workshop)
+
+John Snow Labs的Spark NLP实战教程，提供可运行的NLP示例代码。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `nlp` `spark` `spark-nlp` `natural-language-processing`
+- **最后活动时间:** 2026-05-27
+
 ### [fromthetensor](https://github.com/jla524/fromthetensor)
 
 从Tensor基础到Stable Diffusion的10周深度学习课程大纲，涵盖PyTorch和Transformers等核心内容。
@@ -6943,14 +6991,6 @@ John Snow Labs的Spark NLP实战教程，提供可运行的NLP示例代码。
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `deep-learning` `pytorch` `transformers` `course`
 - **最后活动时间:** 2026-04-05
-
-### [Foundations-of-Medical-LLMs](https://github.com/ZJU4HealthCare/Foundations-of-Medical-LLMs)
-
-医学大语言模型学习基础资源，涵盖医疗领域LLM的核心概念与实践方法。
-
-- **Stars:** ⭐️ 1.1k
-- **Tags:** `medical-llm` `healthcare-ai` `llm` `medical-nlp`
-- **最后活动时间:** 2026-05-25
 
 ### [aima-exercises](https://github.com/aimacode/aima-exercises)
 
@@ -6976,13 +7016,21 @@ John Snow Labs的Spark NLP实战教程，提供可运行的NLP示例代码。
 - **Tags:** `quantum-computing` `machine-learning` `qiskit`
 - **最后活动时间:** 2026-05-07
 
+### [ai-agent-interview-guide](https://github.com/bcefghj/ai-agent-interview-guide)
+
+AI Agent 面试全攻略，包含200+面试题、企业级项目代码、简历模板及STAR面试稿，配有漫画图解。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `ai-agent` `interview-guide` `career` `tutorial`
+- **最后活动时间:** 2026-04-01
+
 ### [devops-ai-guidelines](https://github.com/VersusControl/devops-ai-guidelines)
 
 DevOps AI学习路径指南，包含实践技巧和企业级规范。
 
-- **Stars:** ⭐️ 1.0k
+- **Stars:** ⭐️ 1.1k
 - **Tags:** `ai` `devops` `aws` `langchain` `prompt-engineering`
-- **最后活动时间:** 2026-05-20
+- **最后活动时间:** 2026-05-28
 
 ### [Hands-On-Graph-Neural-Networks-Using-Python](https://github.com/PacktPublishing/Hands-On-Graph-Neural-Networks-Using-Python)
 
@@ -7024,22 +7072,6 @@ Data Professor YouTube频道的R和Python编程代码合集，涵盖数据科学
 - **Tags:** `data-science` `machine-learning` `python` `scikit-learn`
 - **最后活动时间:** 2026-01-10
 
-### [ai-agent-interview-guide](https://github.com/bcefghj/ai-agent-interview-guide)
-
-AI Agent 面试全攻略，包含200+面试题、企业级项目代码、简历模板及STAR面试稿，配有漫画图解。
-
-- **Stars:** ⭐️ 1.0k
-- **Tags:** `ai-agent` `interview-guide` `career` `tutorial`
-- **最后活动时间:** 2026-04-01
-
-### [Deep-Learning-in-Hebrew](https://github.com/AvrahamRaviv/Deep-Learning-in-Hebrew)
-
-一本完整的希伯来语机器学习与深度学习书籍，为希伯来语读者提供系统性的AI学习资源。
-
-- **Stars:** ⭐️ 1.0k
-- **Tags:** `deep-learning` `machine-learning` `hebrew` `book` `tutorial`
-- **最后活动时间:** 2026-01-15
-
 ### [llm-internals](https://github.com/amitshekhariitbhu/llm-internals)
 
 循序渐进学习大语言模型内部原理，涵盖从分词、注意力机制到推理优化的完整知识体系。
@@ -7055,6 +7087,14 @@ AI Agent 面试全攻略，包含200+面试题、企业级项目代码、简历�
 - **Stars:** ⭐️ 1.0k
 - **Tags:** `scaling` `llm` `tpu` `jax`
 - **最后活动时间:** 2026-05-23
+
+### [Deep-Learning-in-Hebrew](https://github.com/AvrahamRaviv/Deep-Learning-in-Hebrew)
+
+一本完整的希伯来语机器学习与深度学习书籍，为希伯来语读者提供系统性的AI学习资源。
+
+- **Stars:** ⭐️ 1.0k
+- **Tags:** `deep-learning` `machine-learning` `hebrew` `book` `tutorial`
+- **最后活动时间:** 2026-01-15
 
 ### [Causal-Inference-and-Discovery-in-Python](https://github.com/PacktPublishing/Causal-Inference-and-Discovery-in-Python)
 
@@ -7072,6 +7112,22 @@ Packt出版的《Python因果推断与发现》配套资源。系统讲解因果
 - **Tags:** `Prompt Engineering` `ChatGPT` `GPT-4`
 - **最后活动时间:** 2026-05-13
 
+### [AI-Study-Group](https://github.com/ArturoNereu/AI-Study-Group)
+
+AI学习资源合集，涵盖智能体、深度学习和机器学习等核心主题的文档和教程。
+
+- **Stars:** ⭐️ 1.0k
+- **Tags:** `ai` `machine-learning` `deeplearning` `agentic-ai`
+- **最后活动时间:** 2026-05-28
+
+### [CUDATutorial](https://github.com/PaddleJitLab/CUDATutorial)
+
+CUDA高性能编程自学教程，涵盖GPU编程核心概念与实践。
+
+- **Stars:** ⭐️ 998
+- **Tags:** `cuda` `gpu-programming` `high-performance` `tutorial`
+- **最后活动时间:** 2026-01-14
+
 ### [sample-factory](https://github.com/alex-petrenko/sample-factory)
 
 高吞吐量同步与异步强化学习框架，专为大规模并行训练优化设计。
@@ -7080,21 +7136,13 @@ Packt出版的《Python因果推断与发现》配套资源。系统讲解因果
 - **Tags:** `reinforcement-learning` `high-throughput` `distributed-training`
 - **最后活动时间:** 2026-01-29
 
-### [CUDATutorial](https://github.com/PaddleJitLab/CUDATutorial)
-
-CUDA高性能编程自学教程，涵盖GPU编程核心概念与实践。
-
-- **Stars:** ⭐️ 994
-- **Tags:** `cuda` `gpu-programming` `high-performance` `tutorial`
-- **最后活动时间:** 2026-01-14
-
 ### [efficient-dl-systems](https://github.com/mryab/efficient-dl-systems)
 
 高效深度学习系统课程资料，涵盖分布式训练、推理优化和ML系统基础设施。
 
 - **Stars:** ⭐️ 992
 - **Tags:** `deep-learning` `distributed-training` `mlops` `cuda`
-- **最后活动时间:** 2026-03-14
+- **最后活动时间:** 2026-05-28
 
 ### [spark-scala-tutorial](https://github.com/deanwampler/spark-scala-tutorial)
 
@@ -7104,29 +7152,37 @@ CUDA高性能编程自学教程，涵盖GPU编程核心概念与实践。
 - **Tags:** `spark` `scala` `tutorial` `bigdata` `jupyter`
 - **最后活动时间:** 2026-01-05
 
+### [obsidian-ai-orange-book](https://github.com/alchaincyf/obsidian-ai-orange-book)
+
+结合Obsidian与Claude Code打造AI驱动的第二大脑知识管理系统，橙皮书系列教程教你用AI重建个人知识库。
+
+- **Stars:** ⭐️ 987
+- **Tags:** `obsidian` `claude` `knowledge-management` `ai-tutorial` `second-brain`
+- **最后活动时间:** 2026-04-21
+
 ### [llms-interview-questions](https://github.com/Devinterview-io/llms-interview-questions)
 
 LLM与机器学习面试题库，涵盖数据科学、机器学习等领域的面试准备资源，助力2026年技术面试。
 
-- **Stars:** ⭐️ 980
+- **Stars:** ⭐️ 982
 - **Tags:** `LLM` `Interview` `Machine Learning` `Data Science`
 - **最后活动时间:** 2026-02-17
-
-### [AI-Study-Group](https://github.com/ArturoNereu/AI-Study-Group)
-
-AI学习资源合集，涵盖智能体、深度学习和机器学习等核心主题的文档和教程。
-
-- **Stars:** ⭐️ 980
-- **Tags:** `ai` `machine-learning` `deeplearning` `agentic-ai`
-- **最后活动时间:** 2026-05-15
 
 ### [realtime-phone-agents-course](https://github.com/neural-maze/realtime-phone-agents-course)
 
 实时AI语音代理开发教程，涵盖FastRTC低延迟流媒体、Twilio电话集成和GPU部署。
 
-- **Stars:** ⭐️ 976
+- **Stars:** ⭐️ 977
 - **Tags:** `voice-agents` `twilio` `fastrtc` `tutorial`
 - **最后活动时间:** 2026-01-10
+
+### [practical-mlops-book](https://github.com/paiml/practical-mlops-book)
+
+O'Reilly出版的MLOps实战书籍，涵盖机器学习运维的云端部署与最佳实践。
+
+- **Stars:** ⭐️ 969
+- **Tags:** `mlops` `machine-learning` `cloud` `python`
+- **最后活动时间:** 2026-03-26
 
 ### [Ultimate-Data-Science-Toolkit](https://github.com/bansalkanav/Ultimate-Data-Science-Toolkit---From-Python-Basics-to-GenerativeAI)
 
@@ -7136,13 +7192,13 @@ AI学习资源合集，涵盖智能体、深度学习和机器学习等核心主
 - **Tags:** `data-science` `machine-learning` `deep-learning` `generative-ai` `mlops` `python`
 - **最后活动时间:** 2026-04-08
 
-### [practical-mlops-book](https://github.com/paiml/practical-mlops-book)
+### [50-Final-Year-Projects-with-Source-Code](https://github.com/Projects-Developer/50-Final-Year-Projects-with-Source-Code)
 
-O'Reilly出版的MLOps实战书籍，涵盖机器学习运维的云端部署与最佳实践。
+包含50个毕业设计项目的完整源码、文档和视频教程，涵盖机器学习、区块链、恶意软件检测等多个AI相关领域。
 
 - **Stars:** ⭐️ 966
-- **Tags:** `mlops` `machine-learning` `cloud` `python`
-- **最后活动时间:** 2026-03-26
+- **Tags:** `machine-learning` `python` `deep-learning` `computer-vision` `final-year-projects`
+- **最后活动时间:** 2026-01-22
 
 ### [start-llms](https://github.com/louisfb01/start-llms)
 
@@ -7152,14 +7208,6 @@ O'Reilly出版的MLOps实战书籍，涵盖机器学习运维的云端部署与�
 - **Tags:** `llm` `fine-tuning` `rag` `tutorial`
 - **最后活动时间:** 2026-01-23
 
-### [50-Final-Year-Projects-with-Source-Code](https://github.com/Projects-Developer/50-Final-Year-Projects-with-Source-Code)
-
-包含50个毕业设计项目的完整源码、文档和视频教程，涵盖机器学习、区块链、恶意软件检测等多个AI相关领域。
-
-- **Stars:** ⭐️ 960
-- **Tags:** `machine-learning` `python` `deep-learning` `computer-vision` `final-year-projects`
-- **最后活动时间:** 2026-01-22
-
 ### [vectordb-recipes](https://github.com/lancedb/vectordb-recipes)
 
 多模态AI、RAG和智能体的向量搜索教程资源库，包含丰富的示例和实践指南。
@@ -7168,19 +7216,11 @@ O'Reilly出版的MLOps实战书籍，涵盖机器学习运维的云端部署与�
 - **Tags:** `Vector Database` `RAG` `Multimodal` `Tutorials`
 - **最后活动时间:** 2026-04-24
 
-### [obsidian-ai-orange-book](https://github.com/alchaincyf/obsidian-ai-orange-book)
-
-结合Obsidian与Claude Code打造AI驱动的第二大脑知识管理系统，橙皮书系列教程教你用AI重建个人知识库。
-
-- **Stars:** ⭐️ 952
-- **Tags:** `obsidian` `claude` `knowledge-management` `ai-tutorial` `second-brain`
-- **最后活动时间:** 2026-04-21
-
 ### [LLM-Interview-Questions-and-Answers-Hub](https://github.com/KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub)
 
 100+大语言模型面试题及答案合集，助力AI工程师求职准备。
 
-- **Stars:** ⭐️ 940
+- **Stars:** ⭐️ 944
 - **Tags:** `interview-questions` `llm` `ai-engineer`
 - **最后活动时间:** 2026-02-09
 
@@ -7204,7 +7244,7 @@ ChatGPT Plus会员订阅与充值教程指南。
 
 《Causal Inference for the Brave and True》中文翻译版。适用于计量经济学和策略评估领域。
 
-- **Stars:** ⭐️ 934
+- **Stars:** ⭐️ 935
 - **Tags:** `causal-inference` `chinese` `econometrics` `tutorial`
 - **最后活动时间:** 2026-03-16
 
@@ -7232,6 +7272,14 @@ Streamlit官方LLM应用示例集合，快速上手大模型应用开发。
 - **Tags:** `Streamlit` `示例代码` `入门教程`
 - **最后活动时间:** 2025-12-08
 
+### [pytorch_fundamentals](https://github.com/analyticalrohit/pytorch_fundamentals)
+
+PyTorch入门教程，涵盖张量初始化、操作、索引和重塑等核心概念。
+
+- **Stars:** ⭐️ 920
+- **Tags:** `PyTorch` `Deep Learning` `Tutorial`
+- **最后活动时间:** 2026-01-06
+
 ### [dl-engineer-guidebook](https://github.com/ypwhs/dl-engineer-guidebook)
 
 深度学习工程师生存指南，涵盖环境配置、硬件选型、框架安装等实用内容。
@@ -7240,19 +7288,11 @@ Streamlit官方LLM应用示例集合，快速上手大模型应用开发。
 - **Tags:** `deep-learning` `guidebook` `tensorflow` `pytorch`
 - **最后活动时间:** 2025-12-24
 
-### [pytorch_fundamentals](https://github.com/analyticalrohit/pytorch_fundamentals)
-
-PyTorch入门教程，涵盖张量初始化、操作、索引和重塑等核心概念。
-
-- **Stars:** ⭐️ 916
-- **Tags:** `PyTorch` `Deep Learning` `Tutorial`
-- **最后活动时间:** 2026-01-06
-
 ### [Data-Science-EBooks](https://github.com/aniketpotabatti/Data-Science-EBooks)
 
 数据科学与机器学习电子书合集，涵盖深度学习、NLP、计算机视觉等AI核心领域。
 
-- **Stars:** ⭐️ 914
+- **Stars:** ⭐️ 917
 - **Tags:** `machine-learning` `deep-learning` `ebooks` `data-science`
 - **最后活动时间:** 2025-11-30
 
@@ -7260,7 +7300,7 @@ PyTorch入门教程，涵盖张量初始化、操作、索引和重塑等核心�
 
 《Modern Computer Vision with PyTorch》书籍配套代码，涵盖现代计算机视觉技术实践。
 
-- **Stars:** ⭐️ 911
+- **Stars:** ⭐️ 909
 - **Tags:** `PyTorch` `Computer Vision` `Tutorial`
 - **最后活动时间:** 2026-03-02
 
@@ -7284,7 +7324,7 @@ iOS平台AI/AR开发资源合集，涵盖CoreML、Vision、ARKit等框架的实�
 
 基于Tiny Shakespeare数据集的字符级语言扩散模型，适合学习扩散模型原理。
 
-- **Stars:** ⭐️ 903
+- **Stars:** ⭐️ 904
 - **Tags:** `diffusion-model` `language-model` `educational`
 - **最后活动时间:** 2026-01-16
 
@@ -7310,14 +7350,6 @@ Model Context Protocol (MCP)学习课程，帮助开发者掌握AI模型上下�
 
 - **Stars:** ⭐️ 901
 - **Tags:** `data-science` `textbook` `statistics` `python`
-- **最后活动时间:** 2026-05-05
-
-### [potencializando-estudos-carreira-com-ia](https://github.com/digitalinnovationone/potencializando-estudos-carreira-com-ia)
-
-关于如何利用AI提升学习和职业发展的课程，内容涵盖从聊天机器人到智能代理的实践应用。
-
-- **Stars:** ⭐️ 890
-- **Tags:** `ai-course` `chatbots` `agents` `career` `tutorial`
 - **最后活动时间:** 2026-05-05
 
 ### [OpenAIWorkshop](https://github.com/microsoft/OpenAIWorkshop)
@@ -7352,6 +7384,22 @@ LLM学习笔记合集，涵盖模型推理、Transformer架构解析、KV Cache�
 - **Tags:** `deep-learning` `pytorch` `tutorial`
 - **最后活动时间:** 2026-04-07
 
+### [agentic-ai](https://github.com/datawhalechina/agentic-ai)
+
+吴恩达老师DeepLearning.AI出品的Agentic AI系列课程中文翻译与知识整理教程，包含课程内容翻译、知识点梳理和示例代码解读。
+
+- **Stars:** ⭐️ 865
+- **Tags:** `agentic-ai` `deep-learning` `tutorial` `chinese`
+- **最后活动时间:** 2026-05-19
+
+### [llm-course](https://github.com/andysingal/llm-course)
+
+大语言模型学习课程，涵盖LLM的核心概念和实践应用。
+
+- **Stars:** ⭐️ 865
+- **Tags:** `llm` `course` `tutorial` `machine-learning`
+- **最后活动时间:** 2026-05-27
+
 ### [ai_projects](https://github.com/miguelgfierro/ai_projects)
 
 AI项目代码示例集合，涵盖机器学习、深度学习、神经网络等多个领域的编程练习。
@@ -7359,14 +7407,6 @@ AI项目代码示例集合，涵盖机器学习、深度学习、神经网络等
 - **Stars:** ⭐️ 864
 - **Tags:** `machine-learning` `deep-learning` `neural-networks` `examples` `data-science`
 - **最后活动时间:** 2026-02-09
-
-### [llm-course](https://github.com/andysingal/llm-course)
-
-大语言模型学习课程，涵盖LLM的核心概念和实践应用。
-
-- **Stars:** ⭐️ 864
-- **Tags:** `llm` `course` `tutorial` `machine-learning`
-- **最后活动时间:** 2026-05-21
 
 ### [optuna-examples](https://github.com/optuna/optuna-examples)
 
@@ -7376,13 +7416,13 @@ Optuna超参数优化框架的官方示例代码集合，涵盖分布式优化�
 - **Tags:** `hyperparameter-optimization` `machine-learning` `python` `examples`
 - **最后活动时间:** 2026-05-22
 
-### [agentic-ai](https://github.com/datawhalechina/agentic-ai)
+### [engenharia-de-software-com-ia-aplicada](https://github.com/unipds-engenharia-de-ia-aplicada/engenharia-de-software-com-ia-aplicada)
 
-吴恩达老师DeepLearning.AI出品的Agentic AI系列课程中文翻译与知识整理教程，包含课程内容翻译、知识点梳理和示例代码解读。
+软件工程与AI应用研究生课程的代码示例和参考资料，涵盖LangChain.js等AI开发技术。
 
 - **Stars:** ⭐️ 849
-- **Tags:** `agentic-ai` `deep-learning` `tutorial` `chinese`
-- **最后活动时间:** 2026-05-19
+- **Tags:** `ai` `langchain-js` `javascript` `typescript`
+- **最后活动时间:** 2026-05-29
 
 ### [openai-responses-starter-app](https://github.com/openai/openai-responses-starter-app)
 
@@ -7392,27 +7432,35 @@ OpenAI Responses API入门模板应用，帮助开发者快速上手构建响应
 - **Tags:** `openai` `responses-api` `starter` `tutorial`
 - **最后活动时间:** 2025-12-15
 
+### [Daily-LLM](https://github.com/zkywsg/Daily-LLM)
+
+机器学习、深度学习、大模型、多模态技术教程合集，涵盖Python、PyTorch、TensorFlow及算法面试。
+
+- **Stars:** ⭐️ 843
+- **Tags:** `deep-learning` `llm` `machine-learning` `nlp` `pytorch`
+- **最后活动时间:** 2026-05-04
+
+### [codespaces-jupyter](https://github.com/github/codespaces-jupyter)
+
+GitHub Codespaces上的机器学习和数据科学探索环境，提供开箱即用的Jupyter Notebook开发体验。
+
+- **Stars:** ⭐️ 843
+- **Tags:** `machine-learning` `data-science` `jupyter` `codespaces`
+- **最后活动时间:** 2026-04-20
+
 ### [computer-vision-course](https://github.com/huggingface/computer-vision-course)
 
 Hugging Face社区驱动的计算机视觉系统课程，涵盖CNN、Transformer、生成式AI等核心技术，适合开发者与研究者学习。
 
 - **Stars:** ⭐️ 842
 - **Tags:** `计算机视觉` `深度学习` `课程`
-- **最后活动时间:** 2026-04-20
-
-### [Daily-LLM](https://github.com/zkywsg/Daily-LLM)
-
-机器学习、深度学习、大模型、多模态技术教程合集，涵盖Python、PyTorch、TensorFlow及算法面试。
-
-- **Stars:** ⭐️ 841
-- **Tags:** `deep-learning` `llm` `machine-learning` `nlp` `pytorch`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-05-26
 
 ### [cookbook](https://github.com/EleutherAI/cookbook)
 
 深度学习实践指南，提供真实模型开发中的实用技巧和工具。
 
-- **Stars:** ⭐️ 841
+- **Stars:** ⭐️ 842
 - **Tags:** `deep-learning` `practical` `tutorial`
 - **最后活动时间:** 2026-03-15
 
@@ -7424,27 +7472,35 @@ Manning出版社《Grokking Machine Learning》书籍配套代码仓库。
 - **Tags:** `machine-learning` `book` `grokking`
 - **最后活动时间:** 2026-04-03
 
-### [codespaces-jupyter](https://github.com/github/codespaces-jupyter)
-
-GitHub Codespaces上的机器学习和数据科学探索环境，提供开箱即用的Jupyter Notebook开发体验。
-
-- **Stars:** ⭐️ 840
-- **Tags:** `machine-learning` `data-science` `jupyter` `codespaces`
-- **最后活动时间:** 2026-04-20
-
 ### [tutorials](https://github.com/triton-inference-server/tutorials)
 
 Triton推理服务器官方教程和示例集合。帮助快速上手模型部署与服务化。
 
-- **Stars:** ⭐️ 839
+- **Stars:** ⭐️ 840
 - **Tags:** `triton` `inference-server` `tutorial` `deployment`
 - **最后活动时间:** 2026-05-08
+
+### [diy-llm](https://github.com/datawhalechina/diy-llm)
+
+系统性大语言模型构建课程，覆盖预训练数据工程、Tokenizer、Transformer、MoE、GPU编程(CUDA/Triton)、分布式训练、推理优化及对齐(SFT/RLHF/GRPO)等核心内容。
+
+- **Stars:** ⭐️ 837
+- **Tags:** `llm` `transformer` `cuda` `triton` `distributed-training` `rlhf` `sft`
+- **最后活动时间:** 2026-05-22
+
+### [applied-ai-engineering-samples](https://github.com/GoogleCloudPlatform/applied-ai-engineering-samples)
+
+Google Cloud官方生成式AI代码示例集，含丰富Jupyter notebooks演示Vertex AI上LLM应用开发。
+
+- **Stars:** ⭐️ 836
+- **Tags:** `Vertex AI` `LLM` `Google Cloud` `代码示例`
+- **最后活动时间:** 2026-01-06
 
 ### [MachineLearning-QandAI-book](https://github.com/rasbt/MachineLearning-QandAI-book)
 
 机器学习问答式学习书籍，深入浅出讲解深度神经网络和Transformer架构。
 
-- **Stars:** ⭐️ 835
+- **Stars:** ⭐️ 836
 - **Tags:** `machine-learning` `deep-learning` `transformers` `book`
 - **最后活动时间:** 2025-12-17
 
@@ -7456,27 +7512,11 @@ Triton推理服务器官方教程和示例集合。帮助快速上手模型部�
 - **Tags:** `contextual-bandits` `multiarmed-bandits` `reinforcement-learning` `exploration-exploitation`
 - **最后活动时间:** 2026-02-22
 
-### [applied-ai-engineering-samples](https://github.com/GoogleCloudPlatform/applied-ai-engineering-samples)
-
-Google Cloud官方生成式AI代码示例集，含丰富Jupyter notebooks演示Vertex AI上LLM应用开发。
-
-- **Stars:** ⭐️ 834
-- **Tags:** `Vertex AI` `LLM` `Google Cloud` `代码示例`
-- **最后活动时间:** 2026-01-06
-
-### [engenharia-de-software-com-ia-aplicada](https://github.com/unipds-engenharia-de-ia-aplicada/engenharia-de-software-com-ia-aplicada)
-
-软件工程与AI应用研究生课程的代码示例和参考资料，涵盖LangChain.js等AI开发技术。
-
-- **Stars:** ⭐️ 832
-- **Tags:** `ai` `langchain-js` `javascript` `typescript`
-- **最后活动时间:** 2026-05-12
-
 ### [FineTuningLLMs](https://github.com/dvgodoy/FineTuningLLMs)
 
 《A Hands-On Guide to Fine-Tuning LLMs》书籍官方代码库，涵盖PyTorch和Hugging Face的LLM微调实战指南。
 
-- **Stars:** ⭐️ 827
+- **Stars:** ⭐️ 829
 - **Tags:** `Fine-tuning` `PyTorch` `Hugging Face` `LLM`
 - **最后活动时间:** 2026-02-28
 
@@ -7496,19 +7536,19 @@ Enki开源学习课程，涵盖AI、算法、区块链、数据科学等多个�
 - **Tags:** `AI` `Education` `Curriculum`
 - **最后活动时间:** 2026-03-31
 
-### [diy-llm](https://github.com/datawhalechina/diy-llm)
+### [codex-cli-best-practice](https://github.com/shanraisshan/codex-cli-best-practice)
 
-系统性大语言模型构建课程，覆盖预训练数据工程、Tokenizer、Transformer、MoE、GPU编程(CUDA/Triton)、分布式训练、推理优化及对齐(SFT/RLHF/GRPO)等核心内容。
+从随意编码到智能体工程的实践指南，帮助开发者掌握 Codex CLI 的最佳实践与技巧。
 
-- **Stars:** ⭐️ 823
-- **Tags:** `llm` `transformer` `cuda` `triton` `distributed-training` `rlhf` `sft`
-- **最后活动时间:** 2026-05-22
+- **Stars:** ⭐️ 819
+- **Tags:** `codex-cli` `agentic-coding` `ai-agents` `openai`
+- **最后活动时间:** 2026-04-28
 
 ### [claude-code-design-guide](https://github.com/6551Team/claude-code-design-guide)
 
 从早期互联网设计模式到 AI Agent 实现的深度指南，专为开发者打造的 Claude Code 设计模式解析。
 
-- **Stars:** ⭐️ 816
+- **Stars:** ⭐️ 818
 - **Tags:** `claude-code` `ai-agent` `design-patterns` `tutorial`
 - **最后活动时间:** 2026-04-15
 
@@ -7516,9 +7556,17 @@ Enki开源学习课程，涵盖AI、算法、区块链、数据科学等多个�
 
 大语言模型工程 essentials 课程材料，涵盖LLM开发与部署核心技能。
 
-- **Stars:** ⭐️ 813
+- **Stars:** ⭐️ 814
 - **Tags:** `llm` `engineering` `course` `ai`
 - **最后活动时间:** 2026-03-30
+
+### [ai-assisted-devops](https://github.com/iam-veeramalla/ai-assisted-devops)
+
+学习资源：DevOps工程师如何利用生成式AI提升日常工作生产力。
+
+- **Stars:** ⭐️ 808
+- **Tags:** `devops` `genai` `learning` `productivity` `tutorial`
+- **最后活动时间:** 2026-05-13
 
 ### [course-content-dl](https://github.com/NeuromatchAcademy/course-content-dl)
 
@@ -7552,22 +7600,6 @@ NMA深度学习课程内容，涵盖CNN、RNN、Transformer和强化学习等核
 - **Tags:** `attention` `nlp` `computer-vision` `deep-learning` `pytorch`
 - **最后活动时间:** 2026-03-26
 
-### [codex-cli-best-practice](https://github.com/shanraisshan/codex-cli-best-practice)
-
-从随意编码到智能体工程的实践指南，帮助开发者掌握 Codex CLI 的最佳实践与技巧。
-
-- **Stars:** ⭐️ 805
-- **Tags:** `codex-cli` `agentic-coding` `ai-agents` `openai`
-- **最后活动时间:** 2026-04-28
-
-### [ai-assisted-devops](https://github.com/iam-veeramalla/ai-assisted-devops)
-
-学习资源：DevOps工程师如何利用生成式AI提升日常工作生产力。
-
-- **Stars:** ⭐️ 803
-- **Tags:** `devops` `genai` `learning` `productivity` `tutorial`
-- **最后活动时间:** 2026-05-13
-
 ### [causalAI](https://github.com/altdeep/causalAI)
 
 Altdeep.ai 因果建模机器学习研讨会开源课程资源。
@@ -7575,6 +7607,14 @@ Altdeep.ai 因果建模机器学习研讨会开源课程资源。
 - **Stars:** ⭐️ 800
 - **Tags:** `causality` `machine-learning` `causal-inference`
 - **最后活动时间:** 2025-12-01
+
+### [agents-from-scratch](https://github.com/pguso/agents-from-scratch)
+
+从零开始构建 AI 智能体的教程，使用本地 LLM，无需框架和云 API。
+
+- **Stars:** ⭐️ 796
+- **Tags:** `ai-agents` `ai-education` `llm` `local-llm` `python`
+- **最后活动时间:** 2026-01-14
 
 ### [Autopilot-Notes](https://github.com/gotonote/Autopilot-Notes)
 
@@ -7592,29 +7632,29 @@ Altdeep.ai 因果建模机器学习研讨会开源课程资源。
 - **Tags:** `mlops` `machine-learning` `devops`
 - **最后活动时间:** 2026-05-24
 
+### [base-llm](https://github.com/datawhalechina/base-llm)
+
+从NLP到LLM的全栈算法教程，涵盖BERT、Transformer、LoRA微调、TensorRT部署等核心内容，适合系统学习大语言模型技术。
+
+- **Stars:** ⭐️ 790
+- **Tags:** `llm` `nlp` `tutorial` `fine-tuning` `transformer` `pytorch`
+- **最后活动时间:** 2026-04-22
+
 ### [Time-Series-Forecasting-and-Deep-Learning](https://github.com/DaoSword/Time-Series-Forecasting-and-Deep-Learning)
 
 时间序列预测与深度学习的资源合集，涵盖机器学习预测方法。
 
 - **Stars:** ⭐️ 789
 - **Tags:** `time-series-forecasting` `deep-learning` `machine-learning` `tutorial`
+- **最后活动时间:** 2026-05-28
+
+### [ai-system-design-guide](https://github.com/ombharatiya/ai-system-design-guide)
+
+面向工程师的AI系统设计指南，涵盖生产级AI系统架构、RAG、评估方法及面试准备等内容。
+
+- **Stars:** ⭐️ 783
+- **Tags:** `ai` `system-design` `llm` `rag` `evals`
 - **最后活动时间:** 2026-05-25
-
-### [agents-from-scratch](https://github.com/pguso/agents-from-scratch)
-
-从零开始构建 AI 智能体的教程，使用本地 LLM，无需框架和云 API。
-
-- **Stars:** ⭐️ 785
-- **Tags:** `ai-agents` `ai-education` `llm` `local-llm` `python`
-- **最后活动时间:** 2026-01-14
-
-### [base-llm](https://github.com/datawhalechina/base-llm)
-
-从NLP到LLM的全栈算法教程，涵盖BERT、Transformer、LoRA微调、TensorRT部署等核心内容，适合系统学习大语言模型技术。
-
-- **Stars:** ⭐️ 784
-- **Tags:** `llm` `nlp` `tutorial` `fine-tuning` `transformer` `pytorch`
-- **最后活动时间:** 2026-04-22
 
 ### [AI-Notes](https://github.com/wx-chevalier/AI-Notes)
 
@@ -7636,9 +7676,9 @@ TensorFlow深度学习框架的系列教程合集，适合初学者入门和实�
 
 支持自动反馈的交互式学习平台，结合GenAI为编程练习和文本练习提供智能评估与反馈。
 
-- **Stars:** ⭐️ 767
+- **Stars:** ⭐️ 768
 - **Tags:** `Education` `GenAI` `Auto-grading`
-- **最后活动时间:** 2026-05-26
+- **最后活动时间:** 2026-05-29
 
 ### [docs-l10n](https://github.com/tensorflow/docs-l10n)
 
@@ -7652,7 +7692,7 @@ TensorFlow 官方文档的多语言翻译项目，帮助开发者以母语学习
 
 机器人学与感知入门教材，基于因子图的机器人状态估计方法。
 
-- **Stars:** ⭐️ 761
+- **Stars:** ⭐️ 763
 - **Tags:** `robotics` `perception` `factor-graphs` `education`
 - **最后活动时间:** 2026-01-10
 
@@ -7660,9 +7700,17 @@ TensorFlow 官方文档的多语言翻译项目，帮助开发者以母语学习
 
 AI领域在线知识库，汇集优质学习资源和参考资料。
 
-- **Stars:** ⭐️ 756
+- **Stars:** ⭐️ 759
 - **Tags:** `ai` `knowledge-base` `learning-resources` `library`
-- **最后活动时间:** 2026-05-23
+- **最后活动时间:** 2026-05-29
+
+### [AI-Compass](https://github.com/tingaicompass/AI-Compass)
+
+AI技术学习导航指南，涵盖LLM、Agent、RL等核心概念，帮助开发者系统性掌握AI技术栈。
+
+- **Stars:** ⭐️ 754
+- **Tags:** `Learning` `LLM` `Agent` `NLP`
+- **最后活动时间:** 2026-05-22
 
 ### [Azure-AIGEN-demos](https://github.com/retkowsky/Azure-AIGEN-demos)
 
@@ -7670,37 +7718,45 @@ Azure AI Foundry官方示例与加速器集合，涵盖GPT-4、DALL-E、Sora等�
 
 - **Stars:** ⭐️ 753
 - **Tags:** `Azure` `OpenAI` `Demos` `GPT-4`
-- **最后活动时间:** 2026-05-20
-
-### [AI-Compass](https://github.com/tingaicompass/AI-Compass)
-
-AI技术学习导航指南，涵盖LLM、Agent、RL等核心概念，帮助开发者系统性掌握AI技术栈。
-
-- **Stars:** ⭐️ 748
-- **Tags:** `Learning` `LLM` `Agent` `NLP`
-- **最后活动时间:** 2026-05-22
-
-### [llm-apps-java-spring-ai](https://github.com/ThomasVitale/llm-apps-java-spring-ai)
-
-Spring AI构建生成式AI应用的示例集合，涵盖RAG、嵌入向量等核心技术。
-
-- **Stars:** ⭐️ 747
-- **Tags:** `Spring AI` `LLM` `RAG` `Java`
-- **最后活动时间:** 2026-04-05
+- **最后活动时间:** 2026-05-27
 
 ### [how-to-vibecoding](https://github.com/1EchA/how-to-vibecoding)
 
 Vibecoding系列教程，涵盖从环境搭建到多智能体协作，包括MCP、Skills和Agent分工治理。
 
-- **Stars:** ⭐️ 742
+- **Stars:** ⭐️ 749
 - **Tags:** `ai` `coding-agent` `mcp` `tutorial` `vibecoding`
 - **最后活动时间:** 2026-04-27
+
+### [road-to-machine-learning](https://github.com/NabidAlam/road-to-machine-learning)
+
+从零基础到进阶的机器学习完整学习指南，涵盖核心概念与实践内容。
+
+- **Stars:** ⭐️ 749
+- **Tags:** `machine-learning` `tutorial` `guide`
+- **最后活动时间:** 2026-05-27
+
+### [llm-apps-java-spring-ai](https://github.com/ThomasVitale/llm-apps-java-spring-ai)
+
+Spring AI构建生成式AI应用的示例集合，涵盖RAG、嵌入向量等核心技术。
+
+- **Stars:** ⭐️ 746
+- **Tags:** `Spring AI` `LLM` `RAG` `Java`
+- **最后活动时间:** 2026-04-05
+
+### [claude-architect-exam-guide](https://github.com/daronyondem/claude-architect-exam-guide)
+
+Claude认证架构师基础考试社区学习指南，帮助开发者系统备考Claude认证考试。
+
+- **Stars:** ⭐️ 745
+- **Tags:** `claude` `certification` `study-guide` `anthropic`
+- **最后活动时间:** 2026-05-26
 
 ### [firecrawl-app-examples](https://github.com/firecrawl/firecrawl-app-examples)
 
 Firecrawl应用示例集合，展示如何构建AI爬虫、RAG应用和数据处理项目。
 
-- **Stars:** ⭐️ 740
+- **Stars:** ⭐️ 743
 - **Tags:** `ai-scraping` `web-crawler` `rag` `examples`
 - **最后活动时间:** 2026-01-13
 
@@ -7732,7 +7788,7 @@ Julia语言科学机器学习教程，涵盖神经微分方程、ODE/PDE求解�
 
 故意设计存在漏洞的银行应用，用于学习Web应用、API和AI集成应用的安全测试与安全代码审查。
 
-- **Stars:** ⭐️ 734
+- **Stars:** ⭐️ 735
 - **Tags:** `ai-security` `penetration-testing` `secure-coding` `devsecops`
 - **最后活动时间:** 2026-05-05
 
@@ -7740,9 +7796,41 @@ Julia语言科学机器学习教程，涵盖神经微分方程、ODE/PDE求解�
 
 企业级生成式AI示例集合，包含ChatQnA、Copilot等实用案例，展示OPEA平台的Pipeline能力。
 
-- **Stars:** ⭐️ 733
+- **Stars:** ⭐️ 734
 - **Tags:** `GenAI` `RAG` `企业应用`
-- **最后活动时间:** 2026-05-22
+- **最后活动时间:** 2026-05-28
+
+### [easy-agent](https://github.com/ConardLi/easy-agent)
+
+从零开始完整复现Claude Code，帮助开发者深入理解AI编程助手的工作原理。
+
+- **Stars:** ⭐️ 734
+- **Tags:** `claude-code` `educational` `ai-agent` `open-source`
+- **最后活动时间:** 2026-05-17
+
+### [agentics](https://github.com/githubnext/agentics)
+
+GitHub智能体工作流示例集合，提供实用的Agentic Workflow参考模板。
+
+- **Stars:** ⭐️ 731
+- **Tags:** `agentic-workflows` `github-actions` `automation`
+- **最后活动时间:** 2026-05-27
+
+### [claude-code-ios-dev-guide](https://github.com/keskinonur/claude-code-ios-dev-guide)
+
+Claude Code CLI的iOS开发综合指南，涵盖PRD驱动工作流、扩展思考和规划模式优化。
+
+- **Stars:** ⭐️ 730
+- **Tags:** `claude-code` `ios-development` `swift` `swiftui` `claude-ai`
+- **最后活动时间:** 2026-01-04
+
+### [claude-code-engineering](https://github.com/huangjia2019/claude-code-engineering)
+
+展示如何将 Claude Code 用于实际工程工作的示例仓库，配套极客时间专栏，将 Claude Code 从对话工具转变为可设计、可复用的工程系统。
+
+- **Stars:** ⭐️ 730
+- **Tags:** `claude-code` `ai-engineering` `tutorial` `agentic-ai`
+- **最后活动时间:** 2026-05-24
 
 ### [LLM-PowerHouse](https://github.com/ghimiresunil/LLM-PowerHouse-A-Curated-Guide-for-Large-Language-Models-with-Custom-Training-and-Inferencing)
 
@@ -7752,14 +7840,6 @@ LLM训练与推理实战指南，包含精选教程、最佳实践与即用代�
 - **Tags:** `llm` `tutorial` `training` `inference`
 - **最后活动时间:** 2026-03-13
 
-### [claude-code-ios-dev-guide](https://github.com/keskinonur/claude-code-ios-dev-guide)
-
-Claude Code CLI的iOS开发综合指南，涵盖PRD驱动工作流、扩展思考和规划模式优化。
-
-- **Stars:** ⭐️ 728
-- **Tags:** `claude-code` `ios-development` `swift` `swiftui` `claude-ai`
-- **最后活动时间:** 2026-01-04
-
 ### [gen-ai-experiments](https://github.com/buildfastwithai/gen-ai-experiments)
 
 Jupyter笔记本集合，全面介绍各种AI工具和技术，适合学习和实验。
@@ -7768,13 +7848,13 @@ Jupyter笔记本集合，全面介绍各种AI工具和技术，适合学习和�
 - **Tags:** `Jupyter` `AI Tools` `Tutorials`
 - **最后活动时间:** 2026-04-23
 
-### [easy-agent](https://github.com/ConardLi/easy-agent)
+### [vision-transformers-cifar10](https://github.com/kentaroy47/vision-transformers-cifar10)
 
-从零开始完整复现Claude Code，帮助开发者深入理解AI编程助手的工作原理。
+在CIFAR-10/100数据集上训练视觉Transformer的完整教程与实践代码。
 
-- **Stars:** ⭐️ 726
-- **Tags:** `claude-code` `educational` `ai-agent` `open-source`
-- **最后活动时间:** 2026-05-17
+- **Stars:** ⭐️ 719
+- **Tags:** `vision-transformer` `cifar10` `tutorial` `pytorch`
+- **最后活动时间:** 2026-05-12
 
 ### [workshop-library](https://github.com/microsoft/workshop-library)
 
@@ -7784,27 +7864,11 @@ Microsoft Learn学生大使社区维护的AI与编程实战工作坊合集，涵
 - **Tags:** `workshops` `ai` `python`
 - **最后活动时间:** 2026-02-12
 
-### [vision-transformers-cifar10](https://github.com/kentaroy47/vision-transformers-cifar10)
-
-在CIFAR-10/100数据集上训练视觉Transformer的完整教程与实践代码。
-
-- **Stars:** ⭐️ 717
-- **Tags:** `vision-transformer` `cifar10` `tutorial` `pytorch`
-- **最后活动时间:** 2026-05-12
-
-### [agentics](https://github.com/githubnext/agentics)
-
-GitHub智能体工作流示例集合，提供实用的Agentic Workflow参考模板。
-
-- **Stars:** ⭐️ 713
-- **Tags:** `agentic-workflows` `github-actions` `automation`
-- **最后活动时间:** 2026-05-19
-
 ### [DeepLearningForAudioWithPython](https://github.com/musikalkemist/DeepLearningForAudioWithPython)
 
 基于Python的音频深度学习课程，包含代码示例和教学幻灯片，适合音频AI入门学习。
 
-- **Stars:** ⭐️ 709
+- **Stars:** ⭐️ 710
 - **Tags:** `deep-learning` `audio` `python` `tutorial`
 - **最后活动时间:** 2026-02-08
 
@@ -7816,14 +7880,6 @@ GitHub智能体工作流示例集合，提供实用的Agentic Workflow参考模�
 - **Tags:** `embedded-systems` `machine-learning` `computer-vision` `python` `deep-learning`
 - **最后活动时间:** 2026-05-05
 
-### [claude-code-engineering](https://github.com/huangjia2019/claude-code-engineering)
-
-展示如何将 Claude Code 用于实际工程工作的示例仓库，配套极客时间专栏，将 Claude Code 从对话工具转变为可设计、可复用的工程系统。
-
-- **Stars:** ⭐️ 706
-- **Tags:** `claude-code` `ai-engineering` `tutorial` `agentic-ai`
-- **最后活动时间:** 2026-05-24
-
 ### [Hands-On-Data-Analysis-with-Pandas-2nd-edition](https://github.com/stefmolin/Hands-On-Data-Analysis-with-Pandas-2nd-edition)
 
 《Pandas数据分析实战》第二版配套材料，涵盖数据处理和机器学习实践。
@@ -7831,6 +7887,14 @@ GitHub智能体工作流示例集合，提供实用的Agentic Workflow参考模�
 - **Stars:** ⭐️ 705
 - **Tags:** `pandas` `data-analysis` `machine-learning` `tutorial`
 - **最后活动时间:** 2026-04-11
+
+### [gpu-perf-engineering-resources](https://github.com/wafer-ai/gpu-perf-engineering-resources)
+
+GPU性能工程学习课程，从基础到前沿AI实验室实践，涵盖CUDA优化和深度学习加速技术。
+
+- **Stars:** ⭐️ 705
+- **Tags:** `gpu` `cuda` `performance` `deep-learning` `optimization`
+- **最后活动时间:** 2026-04-27
 
 ### [machine-learning-notes](https://github.com/luweiagi/machine-learning-notes)
 
@@ -7855,14 +7919,6 @@ GitHub智能体工作流示例集合，提供实用的Agentic Workflow参考模�
 - **Stars:** ⭐️ 700
 - **Tags:** `unsupervised-learning` `autoencoders` `clustering` `anomaly-detection`
 - **最后活动时间:** 2026-03-01
-
-### [gpu-perf-engineering-resources](https://github.com/wafer-ai/gpu-perf-engineering-resources)
-
-GPU性能工程学习课程，从基础到前沿AI实验室实践，涵盖CUDA优化和深度学习加速技术。
-
-- **Stars:** ⭐️ 698
-- **Tags:** `gpu` `cuda` `performance` `deep-learning` `optimization`
-- **最后活动时间:** 2026-04-27
 
 ### [CS-Notes](https://github.com/wx-chevalier/CS-Notes)
 
@@ -7892,7 +7948,7 @@ PyTorch实现的经典深度强化学习算法，包含DQN、DDPG、SAC、A2C、
 
 基于Jupyter Notebook的PyRosetta学习教程，涵盖蛋白质结构预测、设计与对接等生物分子计算。
 
-- **Stars:** ⭐️ 690
+- **Stars:** ⭐️ 691
 - **Tags:** `protein-folding` `protein-design` `computational-biology` `jupyter`
 - **最后活动时间:** 2026-02-27
 
@@ -7900,7 +7956,7 @@ PyTorch实现的经典深度强化学习算法，包含DQN、DDPG、SAC、A2C、
 
 深度学习蛋白质结构预测与设计的Colab笔记本合集，涵盖扩散模型、图神经网络等前沿技术。
 
-- **Stars:** ⭐️ 685
+- **Stars:** ⭐️ 686
 - **Tags:** `Deep Learning` `Protein Design` `Bioinformatics`
 - **最后活动时间:** 2026-04-17
 
@@ -7916,9 +7972,33 @@ Weights & Biases 提供的深度学习教育资源，涵盖模型训练、实验
 
 OpenAI结构化输出功能示例应用集合，帮助开发者学习如何让模型输出符合预期格式。
 
-- **Stars:** ⭐️ 675
+- **Stars:** ⭐️ 674
 - **Tags:** `openai` `structured-outputs` `examples` `tutorial`
 - **最后活动时间:** 2025-12-15
+
+### [OpenCV笔记](https://github.com/AccumulateMore/OpenCV)
+
+超级全面的OpenCV学习笔记与教程，涵盖计算机视觉核心知识点。
+
+- **Stars:** ⭐️ 672
+- **Tags:** `opencv` `tutorial` `computer-vision`
+- **最后活动时间:** 2026-04-27
+
+### [NABLA-SciML](https://github.com/jdtoscano94/NABLA-SciML)
+
+物理信息机器学习教程集合，涵盖PINNs、DeepONet等前沿方法，支持PyTorch和JAX框架。
+
+- **Stars:** ⭐️ 671
+- **Tags:** `physics-informed` `deep-learning` `pytorch` `jax` `tutorial`
+- **最后活动时间:** 2026-04-27
+
+### [algebrica](https://github.com/antoniolupetti/algebrica)
+
+开源数学知识库，专注于清晰结构和概念连贯性，适合AI/ML学习者参考。
+
+- **Stars:** ⭐️ 671
+- **Tags:** `mathematics` `knowledge-base` `ml` `nlp`
+- **最后活动时间:** 2026-05-28
 
 ### [tf-estimator-tutorials](https://github.com/GoogleCloudPlatform/tf-estimator-tutorials)
 
@@ -7928,59 +8008,27 @@ TensorFlow Estimator API系统教程，涵盖多种机器学习任务的标准�
 - **Tags:** `tensorflow` `machine-learning` `tutorial` `python`
 - **最后活动时间:** 2026-05-08
 
-### [NABLA-SciML](https://github.com/jdtoscano94/NABLA-SciML)
-
-物理信息机器学习教程集合，涵盖PINNs、DeepONet等前沿方法，支持PyTorch和JAX框架。
-
-- **Stars:** ⭐️ 669
-- **Tags:** `physics-informed` `deep-learning` `pytorch` `jax` `tutorial`
-- **最后活动时间:** 2026-04-27
-
-### [OpenCV笔记](https://github.com/AccumulateMore/OpenCV)
-
-超级全面的OpenCV学习笔记与教程，涵盖计算机视觉核心知识点。
-
-- **Stars:** ⭐️ 669
-- **Tags:** `opencv` `tutorial` `computer-vision`
-- **最后活动时间:** 2026-04-27
-
-### [algebrica](https://github.com/antoniolupetti/algebrica)
-
-开源数学知识库，专注于清晰结构和概念连贯性，适合AI/ML学习者参考。
-
-- **Stars:** ⭐️ 664
-- **Tags:** `mathematics` `knowledge-base` `ml` `nlp`
-- **最后活动时间:** 2026-05-25
-
 ### [demos](https://github.com/PennyLaneAI/demos)
 
 量子编程关键概念入门教程，涵盖量子机器学习、量子化学等前沿研究实现。
 
 - **Stars:** ⭐️ 663
 - **Tags:** `Quantum ML` `Tutorials` `PyTorch` `TensorFlow`
-- **最后活动时间:** 2026-05-25
+- **最后活动时间:** 2026-05-28
 
 ### [automate-for-growth](https://github.com/cporter202/automate-for-growth)
 
 内容增长自动化完整指南，涵盖Sora 2视频生成、品牌权威自动化、多平台发布和API集成。
 
-- **Stars:** ⭐️ 658
+- **Stars:** ⭐️ 660
 - **Tags:** `ai-learning` `social-media-automation` `content-creation`
 - **最后活动时间:** 2025-12-09
-
-### [claude-architect-exam-guide](https://github.com/daronyondem/claude-architect-exam-guide)
-
-Claude认证架构师基础考试社区学习指南，帮助开发者系统备考Claude认证考试。
-
-- **Stars:** ⭐️ 658
-- **Tags:** `claude` `certification` `study-guide` `anthropic`
-- **最后活动时间:** 2026-05-16
 
 ### [numpy-tutorials](https://github.com/numpy/numpy-tutorials)
 
 NumPy官方教程合集，涵盖数值计算与科学计算核心技能。
 
-- **Stars:** ⭐️ 654
+- **Stars:** ⭐️ 653
 - **Tags:** `numpy` `tutorial` `scientific-computing`
 - **最后活动时间:** 2026-02-13
 
@@ -8000,6 +8048,14 @@ NumPy官方教程合集，涵盖数值计算与科学计算核心技能。
 - **Tags:** `recommender-system` `mlops` `feature-store` `two-tower-neural-networks`
 - **最后活动时间:** 2026-04-06
 
+### [vibe-coding](https://github.com/LingyiChen-AI/vibe-coding)
+
+AI时代Vibe Coding实践指南，记录使用Claude Code从零开发AI漫剧生成平台的完整流程，涵盖技术选型与AI驱动开发。
+
+- **Stars:** ⭐️ 644
+- **Tags:** `vibe-coding` `claude-code` `ai-development` `tutorial`
+- **最后活动时间:** 2026-05-16
+
 ### [ZeroCostDL4Mic](https://github.com/HenriquesLab/ZeroCostDL4Mic)
 
 基于Google Colab的免费深度学习显微镜工具箱，零成本探索显微图像分析。
@@ -8007,22 +8063,6 @@ NumPy官方教程合集，涵盖数值计算与科学计算核心技能。
 - **Stars:** ⭐️ 642
 - **Tags:** `deep-learning` `microscopy` `google-colab` `image-analysis`
 - **最后活动时间:** 2026-03-29
-
-### [vibe-coding](https://github.com/LingyiChen-AI/vibe-coding)
-
-AI时代Vibe Coding实践指南，记录使用Claude Code从零开发AI漫剧生成平台的完整流程，涵盖技术选型与AI驱动开发。
-
-- **Stars:** ⭐️ 642
-- **Tags:** `vibe-coding` `claude-code` `ai-development` `tutorial`
-- **最后活动时间:** 2026-05-16
-
-### [road-to-machine-learning](https://github.com/NabidAlam/road-to-machine-learning)
-
-从零基础到进阶的机器学习完整学习指南，涵盖核心概念与实践内容。
-
-- **Stars:** ⭐️ 640
-- **Tags:** `machine-learning` `tutorial` `guide`
-- **最后活动时间:** 2026-05-12
 
 ### [geospatialdatascience](https://github.com/mszell/geospatialdatascience)
 
@@ -8044,9 +8084,17 @@ AI时代Vibe Coding实践指南，记录使用Claude Code从零开发AI漫剧生
 
 机器学习面试准备资源库，涵盖科技大厂和本地公司的常见面试问题，助你攻克机器学习工程师面试。
 
-- **Stars:** ⭐️ 622
+- **Stars:** ⭐️ 624
 - **Tags:** `machine-learning` `interview` `career`
 - **最后活动时间:** 2026-04-10
+
+### [ML-CaPsule](https://github.com/Niketkumardheeryan/ML-CaPsule)
+
+面向数据科学初学者的机器学习实战项目集合，涵盖ML、DL及部署技术，助力面试准备。
+
+- **Stars:** ⭐️ 623
+- **Tags:** `machine-learning` `deep-learning` `data-science` `python`
+- **最后活动时间:** 2026-05-20
 
 ### [NLPBook](https://github.com/NiuTrans/NLPBook)
 
@@ -8068,15 +8116,15 @@ AI基础设施全栈入门学习资料，涵盖从零开始学习AI基础设施�
 
 使用LaTeX/TikZ/Typst绘制的物理、化学和机器学习概念图解集合，帮助理解AI核心概念。
 
-- **Stars:** ⭐️ 619
+- **Stars:** ⭐️ 621
 - **Tags:** `machine-learning` `visualization` `latex` `tikz` `education`
-- **最后活动时间:** 2026-05-06
+- **最后活动时间:** 2026-05-27
 
 ### [Machine-Learning](https://github.com/xbeat/Machine-Learning)
 
 Cross Beat平台提供的Python、机器学习和AI教程中心，涵盖丰富的AI学习资源和实践指南。
 
-- **Stars:** ⭐️ 618
+- **Stars:** ⭐️ 619
 - **Tags:** `machine-learning` `python` `artificial-intelligence` `tutorials`
 - **最后活动时间:** 2026-05-22
 
@@ -8086,55 +8134,55 @@ ML、统计学与AI的学术笔记、博客文章与研究资源集合。
 
 - **Stars:** ⭐️ 616
 - **Tags:** `machine-learning` `deep-learning` `statistics` `research`
-- **最后活动时间:** 2026-05-16
+- **最后活动时间:** 2026-05-27
 
-### [ai-system-design-guide](https://github.com/ombharatiya/ai-system-design-guide)
+### [30-Agents-Every-AI-Engineer-Must-Build](https://github.com/PacktPublishing/30-Agents-Every-AI-Engineer-Must-Build)
 
-面向工程师的AI系统设计指南，涵盖生产级AI系统架构、RAG、评估方法及面试准备等内容。
+Packt出版的AI智能体实战教程，涵盖30个AI工程师必学的Agent构建项目，适合系统学习智能体开发。
 
-- **Stars:** ⭐️ 614
-- **Tags:** `ai` `system-design` `llm` `rag` `evals`
-- **最后活动时间:** 2026-05-25
+- **Stars:** ⭐️ 615
+- **Tags:** `ai-agents` `tutorial` `llm` `hands-on-projects`
+- **最后活动时间:** 2026-05-14
 
 ### [Get-Started-with-Web3](https://github.com/beihaili/Get-Started-with-Web3)
 
 开源双语AI原生Web3课程，涵盖钱包、比特币、以太坊、DeFi、L2、DAO、智能账户、llms.txt和MCP协议等内容。
 
-- **Stars:** ⭐️ 613
+- **Stars:** ⭐️ 614
 - **Tags:** `ai-native` `web3` `llms-txt` `mcp` `education`
 - **最后活动时间:** 2026-05-26
-
-### [Event-Extraction](https://github.com/zhang17173/Event-Extraction)
-
-基于法律裁判文书的事件抽取项目，涵盖NER、事件要素抽取和判决预测。
-
-- **Stars:** ⭐️ 612
-- **Tags:** `event-extraction` `nlp` `deep-learning` `legal-nlp`
-- **最后活动时间:** 2026-03-07
-
-### [ML-CaPsule](https://github.com/Niketkumardheeryan/ML-CaPsule)
-
-面向数据科学初学者的机器学习实战项目集合，涵盖ML、DL及部署技术，助力面试准备。
-
-- **Stars:** ⭐️ 612
-- **Tags:** `machine-learning` `deep-learning` `data-science` `python`
-- **最后活动时间:** 2026-05-20
-
-### [build-code-agent](https://github.com/jiji262/build-code-agent)
-
-从零构建 Code Agent 的深度教程，解析 Claude Code 源码实现原理，帮助开发者理解 AI 编程助手的核心架构。
-
-- **Stars:** ⭐️ 608
-- **Tags:** `code-agent` `claude-code` `tutorial` `llm`
-- **最后活动时间:** 2026-04-30
 
 ### [gpu-glossary](https://github.com/modal-labs/gpu-glossary)
 
 面向开发者的GPU技术文档，通俗易懂地解释GPU架构与编程概念。
 
-- **Stars:** ⭐️ 606
+- **Stars:** ⭐️ 611
 - **Tags:** `gpu` `documentation` `cuda` `gpu-architecture`
 - **最后活动时间:** 2026-05-25
+
+### [Event-Extraction](https://github.com/zhang17173/Event-Extraction)
+
+基于法律裁判文书的事件抽取项目，涵盖NER、事件要素抽取和判决预测。
+
+- **Stars:** ⭐️ 611
+- **Tags:** `event-extraction` `nlp` `deep-learning` `legal-nlp`
+- **最后活动时间:** 2026-03-07
+
+### [build-code-agent](https://github.com/jiji262/build-code-agent)
+
+从零构建 Code Agent 的深度教程，解析 Claude Code 源码实现原理，帮助开发者理解 AI 编程助手的核心架构。
+
+- **Stars:** ⭐️ 610
+- **Tags:** `code-agent` `claude-code` `tutorial` `llm`
+- **最后活动时间:** 2026-04-30
+
+### [Math-Model-and-Machine-Learning](https://github.com/QInzhengk/Math-Model-and-Machine-Learning)
+
+数学建模与机器学习/深度学习/大模型的中文笔记资料合集，持续更新中。
+
+- **Stars:** ⭐️ 605
+- **Tags:** `machine-learning` `deep-learning` `math-modeling`
+- **最后活动时间:** 2026-05-23
 
 ### [LearnWebGPU](https://github.com/eliemichel/LearnWebGPU)
 
@@ -8151,22 +8199,6 @@ Torch深度学习框架的视频教程系列，帮助开发者快速入门神经
 - **Stars:** ⭐️ 604
 - **Tags:** `torch` `deep-learning` `tutorial` `neural-network`
 - **最后活动时间:** 2025-12-29
-
-### [Math-Model-and-Machine-Learning](https://github.com/QInzhengk/Math-Model-and-Machine-Learning)
-
-数学建模与机器学习/深度学习/大模型的中文笔记资料合集，持续更新中。
-
-- **Stars:** ⭐️ 604
-- **Tags:** `machine-learning` `deep-learning` `math-modeling`
-- **最后活动时间:** 2026-05-23
-
-### [30-Agents-Every-AI-Engineer-Must-Build](https://github.com/PacktPublishing/30-Agents-Every-AI-Engineer-Must-Build)
-
-Packt出版的AI智能体实战教程，涵盖30个AI工程师必学的Agent构建项目，适合系统学习智能体开发。
-
-- **Stars:** ⭐️ 604
-- **Tags:** `ai-agents` `tutorial` `llm` `hands-on-projects`
-- **最后活动时间:** 2026-05-14
 
 ### [amazon-personalize-samples](https://github.com/aws-samples/amazon-personalize-samples)
 
@@ -8192,6 +8224,14 @@ Amazon Personalize官方示例代码库，提供Jupyter笔记本和教程帮助�
 - **Tags:** `vibe-coding` `claude-code` `ai-development` `tutorial`
 - **最后活动时间:** 2026-04-18
 
+### [copilot-camp](https://github.com/microsoft/copilot-camp)
+
+Microsoft 365 Copilot扩展开发实战教程，教你构建自定义引擎智能体的动手实验室。
+
+- **Stars:** ⭐️ 595
+- **Tags:** `copilot` `microsoft365` `agent` `tutorial` `llm`
+- **最后活动时间:** 2026-05-28
+
 ### [Transformers-for-Natural-Language-Processing](https://github.com/PacktPublishing/Transformers-for-Natural-Language-Processing)
 
 Packt出版的《Transformers for Natural Language Processing》书籍配套代码。
@@ -8208,14 +8248,6 @@ Packt出版的《Transformers for Natural Language Processing》书籍配套代�
 - **Tags:** `Statistics` `Probability` `Data Science` `Education`
 - **最后活动时间:** 2026-03-23
 
-### [copilot-camp](https://github.com/microsoft/copilot-camp)
-
-Microsoft 365 Copilot扩展开发实战教程，教你构建自定义引擎智能体的动手实验室。
-
-- **Stars:** ⭐️ 591
-- **Tags:** `copilot` `microsoft365` `agent` `tutorial` `llm`
-- **最后活动时间:** 2026-05-22
-
 ### [matrixcalc](https://github.com/mitmath/matrixcalc)
 
 MIT矩阵微积分课程，专为机器学习及深度学习数学基础设计。
@@ -8224,6 +8256,14 @@ MIT矩阵微积分课程，专为机器学习及深度学习数学基础设计�
 - **Tags:** `matrix-calculus` `machine-learning` `mathematics` `mit`
 - **最后活动时间:** 2026-01-31
 
+### [langgraph-course](https://github.com/emarco177/langgraph-course)
+
+LangGraph实战课程，涵盖Agentic RAG、ReAct和反思工作流等LLM智能体开发技术。
+
+- **Stars:** ⭐️ 582
+- **Tags:** `LangGraph` `Agents` `RAG` `Tutorial`
+- **最后活动时间:** 2026-04-02
+
 ### [AI-Interview-Code](https://github.com/bbruceyuan/AI-Interview-Code)
 
 LLM大模型与AI算法面试手写题合集，涵盖Self-Attention、AUC等核心知识点，比LeetCode更贴近业务实战。
@@ -8231,14 +8271,6 @@ LLM大模型与AI算法面试手写题合集，涵盖Self-Attention、AUC等核�
 - **Stars:** ⭐️ 582
 - **Tags:** `llm` `interview` `algorithms` `machine-learning`
 - **最后活动时间:** 2026-05-04
-
-### [langgraph-course](https://github.com/emarco177/langgraph-course)
-
-LangGraph实战课程，涵盖Agentic RAG、ReAct和反思工作流等LLM智能体开发技术。
-
-- **Stars:** ⭐️ 579
-- **Tags:** `LangGraph` `Agents` `RAG` `Tutorial`
-- **最后活动时间:** 2026-04-02
 
 ### [notebooks](https://github.com/ogrisel/notebooks)
 
@@ -8260,9 +8292,17 @@ undefined
 
 NLTK自然语言处理实战教程，涵盖Python NLP核心技术与实践案例。
 
-- **Stars:** ⭐️ 571
+- **Stars:** ⭐️ 572
 - **Tags:** `nlp` `nltk` `tutorial` `machine-learning`
 - **最后活动时间:** 2026-04-17
+
+### [StudyAnalysis-Skills](https://github.com/YuJunZhiXue/StudyAnalysis-Skills)
+
+AI Agent技能包，深度解析链接、文档或代码，生成教学级别的学习笔记。
+
+- **Stars:** ⭐️ 572
+- **Tags:** `agent-skills` `learning` `document-analysis` `tutorial`
+- **最后活动时间:** 2026-03-16
 
 ### [aima-javascript](https://github.com/aimacode/aima-javascript)
 
@@ -8271,14 +8311,6 @@ NLTK自然语言处理实战教程，涵盖Python NLP核心技术与实践案例
 - **Stars:** ⭐️ 571
 - **Tags:** `algorithms` `visualization` `artificial-intelligence` `education`
 - **最后活动时间:** 2026-02-20
-
-### [StudyAnalysis-Skills](https://github.com/YuJunZhiXue/StudyAnalysis-Skills)
-
-AI Agent技能包，深度解析链接、文档或代码，生成教学级别的学习笔记。
-
-- **Stars:** ⭐️ 569
-- **Tags:** `agent-skills` `learning` `document-analysis` `tutorial`
-- **最后活动时间:** 2026-03-16
 
 ### [ML-2021-notes](https://github.com/chsiang426/ML-2021-notes)
 
@@ -8292,7 +8324,7 @@ AI Agent技能包，深度解析链接、文档或代码，生成教学级别的
 
 面向初学者的深度学习开源项目集合，从入门到进阶，适合贡献者开启AI学习之旅。
 
-- **Stars:** ⭐️ 563
+- **Stars:** ⭐️ 566
 - **Tags:** `deep-learning` `neural-networks` `tensorflow` `opencv`
 - **最后活动时间:** 2026-05-24
 
@@ -8300,9 +8332,25 @@ AI Agent技能包，深度解析链接、文档或代码，生成教学级别的
 
 数据科学教程代码集合，包含机器学习和数据分析的实践示例与学习资源。
 
-- **Stars:** ⭐️ 563
+- **Stars:** ⭐️ 565
 - **Tags:** `data-science` `python` `tutorial` `machine-learning`
 - **最后活动时间:** 2026-05-26
+
+### [gpt-codex](https://github.com/xianyu110/gpt-codex)
+
+面向国内开发者的 OpenAI CodeX 完整教程网站，涵盖 GPT、Claude、Gemini 等主流模型的使用指南。
+
+- **Stars:** ⭐️ 563
+- **Tags:** `openai` `codex` `tutorial` `gpt` `claude`
+- **最后活动时间:** 2026-05-24
+
+### [multimodal-agents-course](https://github.com/the-ai-merge/multimodal-agents-course)
+
+多模态AI智能体教程项目，教你构建具有视觉和听觉能力的MCP智能体。
+
+- **Stars:** ⭐️ 562
+- **Tags:** `Multimodal` `AI Agent` `Tutorial`
+- **最后活动时间:** 2026-01-05
 
 ### [bayesian-analysis-recipes](https://github.com/ericmjl/bayesian-analysis-recipes)
 
@@ -8312,19 +8360,11 @@ PyMC3贝叶斯数据分析实例集合，提供实用的贝叶斯推断代码模
 - **Tags:** `bayesian-inference` `pymc3` `statistics` `tutorial`
 - **最后活动时间:** 2026-05-16
 
-### [multimodal-agents-course](https://github.com/the-ai-merge/multimodal-agents-course)
-
-多模态AI智能体教程项目，教你构建具有视觉和听觉能力的MCP智能体。
-
-- **Stars:** ⭐️ 561
-- **Tags:** `Multimodal` `AI Agent` `Tutorial`
-- **最后活动时间:** 2026-01-05
-
 ### [MachineLearning_notes](https://github.com/mdozmorov/MachineLearning_notes)
 
 机器学习与深度学习笔记资源合集，涵盖核心概念与实践内容。
 
-- **Stars:** ⭐️ 560
+- **Stars:** ⭐️ 561
 - **Tags:** `machine-learning` `deep-learning` `tutorial`
 - **最后活动时间:** 2026-05-04
 
@@ -8332,7 +8372,7 @@ PyMC3贝叶斯数据分析实例集合，提供实用的贝叶斯推断代码模
 
 AI Agent框架学习与实验平台，涵盖从基础到生产级部署的现代开源AI智能体框架对比与实践。
 
-- **Stars:** ⭐️ 559
+- **Stars:** ⭐️ 561
 - **Tags:** `ai-agents` `frameworks` `tutorial` `learning` `open-source`
 - **最后活动时间:** 2026-05-19
 
@@ -8342,7 +8382,15 @@ Hugging Face Hub官方文档，涵盖模型托管、数据集管理、Spaces部�
 
 - **Stars:** ⭐️ 558
 - **Tags:** `huggingface` `documentation` `machine-learning` `model-hub`
-- **最后活动时间:** 2026-05-26
+- **最后活动时间:** 2026-05-28
+
+### [LLM-Zero-to-Hundred](https://github.com/Farzad-R/LLM-Zero-to-Hundred)
+
+LLM聊天机器人项目合集，包含RAG、智能体开发及模型微调技术教程。
+
+- **Stars:** ⭐️ 555
+- **Tags:** `LLM` `RAG` `Fine-tuning` `Tutorial`
+- **最后活动时间:** 2026-04-29
 
 ### [aws-ml-enablement-workshop](https://github.com/aws-samples/aws-ml-enablement-workshop)
 
@@ -8351,14 +8399,6 @@ AWS机器学习赋能工作坊，涵盖跨组织团队组建与ML成长周期的
 - **Stars:** ⭐️ 555
 - **Tags:** `machine-learning` `aws` `sagemaker` `workshop`
 - **最后活动时间:** 2026-05-25
-
-### [LLM-Zero-to-Hundred](https://github.com/Farzad-R/LLM-Zero-to-Hundred)
-
-LLM聊天机器人项目合集，包含RAG、智能体开发及模型微调技术教程。
-
-- **Stars:** ⭐️ 554
-- **Tags:** `LLM` `RAG` `Fine-tuning` `Tutorial`
-- **最后活动时间:** 2026-04-29
 
 ### [MiniCPM-V-CookBook](https://github.com/OpenSQZ/MiniCPM-V-CookBook)
 
@@ -8372,39 +8412,39 @@ MiniCPM系列模型的实战指南，帮助开发者快速构建多模态AI应�
 
 《Building LLMs for Production》书籍配套代码笔记本，涵盖 RAG 和智能体开发。
 
-- **Stars:** ⭐️ 549
+- **Stars:** ⭐️ 550
 - **Tags:** `rag` `llm` `langchain` `llamaindex` `agents`
 - **最后活动时间:** 2026-01-25
-
-### [human-skill-tree](https://github.com/24kchengYe/human-skill-tree)
-
-AI驱动的终身学习技能树，涵盖K-12到职业发展的30+项技能，基于认知科学构建个性化学习路径。
-
-- **Stars:** ⭐️ 542
-- **Tags:** `ai-education` `ai-tutor` `skill-tree` `lifelong-learning` `mcp-server`
-- **最后活动时间:** 2026-03-25
-
-### [mlbookcamp-code](https://github.com/alexeygrigorev/mlbookcamp-code)
-
-Machine Learning Bookcamp书籍配套代码，实战导向的ML学习资源。
-
-- **Stars:** ⭐️ 541
-- **Tags:** `machine-learning` `book` `code-examples`
-- **最后活动时间:** 2026-04-27
 
 ### [agent_java_offer](https://github.com/guoguo-tju/agent_java_offer)
 
 公开的Java后端与AI Agent面试复习资料库，涵盖系统设计、算法、LangGraph和RAG等AI相关内容。
 
-- **Stars:** ⭐️ 541
+- **Stars:** ⭐️ 549
 - **Tags:** `ai-agent` `java` `langgraph` `rag` `system-design`
 - **最后活动时间:** 2026-04-23
+
+### [mlbookcamp-code](https://github.com/alexeygrigorev/mlbookcamp-code)
+
+Machine Learning Bookcamp书籍配套代码，实战导向的ML学习资源。
+
+- **Stars:** ⭐️ 543
+- **Tags:** `machine-learning` `book` `code-examples`
+- **最后活动时间:** 2026-04-27
+
+### [human-skill-tree](https://github.com/24kchengYe/human-skill-tree)
+
+AI驱动的终身学习技能树，涵盖K-12到职业发展的30+项技能，基于认知科学构建个性化学习路径。
+
+- **Stars:** ⭐️ 543
+- **Tags:** `ai-education` `ai-tutor` `skill-tree` `lifelong-learning` `mcp-server`
+- **最后活动时间:** 2026-03-25
 
 ### [haystack-cookbook](https://github.com/deepset-ai/haystack-cookbook)
 
 Haystack框架示例代码集合。包含RAG、代理和生成式AI的实用案例，帮助开发者快速上手。
 
-- **Stars:** ⭐️ 540
+- **Stars:** ⭐️ 541
 - **Tags:** `haystack-ai` `rag` `agentic` `python`
 - **最后活动时间:** 2026-05-26
 
@@ -8412,7 +8452,7 @@ Haystack框架示例代码集合。包含RAG、代理和生成式AI的实用案�
 
 C++机器学习实战教程，由Packt出版，涵盖ML算法的C++实现。
 
-- **Stars:** ⭐️ 540
+- **Stars:** ⭐️ 541
 - **Tags:** `cpp` `machine-learning` `book`
 - **最后活动时间:** 2026-03-02
 
@@ -8420,7 +8460,7 @@ C++机器学习实战教程，由Packt出版，涵盖ML算法的C++实现。
 
 机器人学习教程的完整源代码资源，涵盖机器学习在机器人领域的应用实践，适合学习者参与贡献。
 
-- **Stars:** ⭐️ 537
+- **Stars:** ⭐️ 540
 - **Tags:** `robot-learning` `machine-learning` `robotics` `tutorial`
 - **最后活动时间:** 2026-04-09
 
@@ -8452,17 +8492,25 @@ C++机器学习实战教程，由Packt出版，涵盖ML算法的C++实现。
 
 YouTube频道配套的Ollama开源模型实践项目集合，适合LLM入门学习。
 
-- **Stars:** ⭐️ 530
+- **Stars:** ⭐️ 531
 - **Tags:** `ollama` `llm` `tutorial` `youtube`
 - **最后活动时间:** 2026-05-02
 
-### [gpt-codex](https://github.com/xianyu110/gpt-codex)
+### [visionbook](https://github.com/Foundations-of-Computer-Vision/visionbook)
 
-面向国内开发者的 OpenAI CodeX 完整教程网站，涵盖 GPT、Claude、Gemini 等主流模型的使用指南。
+《计算机视觉基础》书籍资源，系统讲解计算机视觉核心理论与算法知识。
 
-- **Stars:** ⭐️ 527
-- **Tags:** `openai` `codex` `tutorial` `gpt` `claude`
+- **Stars:** ⭐️ 525
+- **Tags:** `computer-vision` `book` `tutorial`
 - **最后活动时间:** 2026-05-24
+
+### [LLM-Algorithm-Intern-Guide](https://github.com/Junvate/LLM-Algorithm-Intern-Guide)
+
+2026届大模型算法岗实习面试指南，涵盖DeepSeek/Qwen技术报告解析、PPO/RoPE/Transformer原理实现及RLHF核心内容。
+
+- **Stars:** ⭐️ 524
+- **Tags:** `llm` `interview` `algorithm` `transformer` `rlhf` `ppo` `deepseek` `qwen`
+- **最后活动时间:** 2026-03-28
 
 ### [VectorHub](https://github.com/superlinked/VectorHub)
 
@@ -8472,19 +8520,11 @@ YouTube频道配套的Ollama开源模型实践项目集合，适合LLM入门学�
 - **Tags:** `vector-search` `vector-database` `llm` `mlops`
 - **最后活动时间:** 2026-05-25
 
-### [visionbook](https://github.com/Foundations-of-Computer-Vision/visionbook)
-
-《计算机视觉基础》书籍资源，系统讲解计算机视觉核心理论与算法知识。
-
-- **Stars:** ⭐️ 520
-- **Tags:** `computer-vision` `book` `tutorial`
-- **最后活动时间:** 2026-05-24
-
 ### [claude-code-everyone-course](https://github.com/carlvellotti/claude-code-everyone-course)
 
 面向所有人的Claude Code教程，在Claude Code中学习Claude Code的互动式课程。
 
-- **Stars:** ⭐️ 520
+- **Stars:** ⭐️ 521
 - **Tags:** `claude-code` `course` `tutorial` `learning`
 - **最后活动时间:** 2026-04-06
 
@@ -8492,7 +8532,7 @@ YouTube频道配套的Ollama开源模型实践项目集合，适合LLM入门学�
 
 深度学习系统笔记，涵盖数学基础、神经网络组件、训练策略和模型压缩算法。
 
-- **Stars:** ⭐️ 517
+- **Stars:** ⭐️ 519
 - **Tags:** `deep-learning` `neural-network` `pytorch` `model-compression`
 - **最后活动时间:** 2026-05-10
 
@@ -8500,9 +8540,17 @@ YouTube频道配套的Ollama开源模型实践项目集合，适合LLM入门学�
 
 Flash Attention 教程项目，使用 Python、Triton、CUDA 和 CUTLASS 实现，帮助开发者理解和优化 Transformer 模型的注意力机制。
 
-- **Stars:** ⭐️ 517
+- **Stars:** ⭐️ 518
 - **Tags:** `flash-attention` `cuda` `triton` `transformer` `tutorial`
 - **最后活动时间:** 2026-01-20
+
+### [DeepUnderstandingOfDeepLearning](https://github.com/mikexcohen/DeepUnderstandingOfDeepLearning)
+
+深度学习课程配套Python代码，包含完整教程和实战项目，帮助初学者深入理解深度学习原理。
+
+- **Stars:** ⭐️ 516
+- **Tags:** `deep-learning` `python` `tutorial` `course`
+- **最后活动时间:** 2026-04-04
 
 ### [JuliaDataScience](https://github.com/JuliaDataScience/JuliaDataScience)
 
@@ -8512,29 +8560,13 @@ Julia数据科学开源书籍，涵盖数据处理、可视化等AI开发基础�
 - **Tags:** `julia` `data-science` `book` `tutorial`
 - **最后活动时间:** 2026-05-01
 
-### [DeepUnderstandingOfDeepLearning](https://github.com/mikexcohen/DeepUnderstandingOfDeepLearning)
-
-深度学习课程配套Python代码，包含完整教程和实战项目，帮助初学者深入理解深度学习原理。
-
-- **Stars:** ⭐️ 515
-- **Tags:** `deep-learning` `python` `tutorial` `course`
-- **最后活动时间:** 2026-04-04
-
 ### [claude-code-mastery](https://github.com/TheDecipherist/claude-code-mastery)
 
 Claude Code完整指南，涵盖CLAUDE.md配置、Hooks、Skills技能、MCP服务器及命令行使用。
 
-- **Stars:** ⭐️ 514
+- **Stars:** ⭐️ 516
 - **Tags:** `claude-code` `mcp-servers` `ai-agents` `developer-tools`
 - **最后活动时间:** 2026-05-07
-
-### [LLM-Algorithm-Intern-Guide](https://github.com/Junvate/LLM-Algorithm-Intern-Guide)
-
-2026届大模型算法岗实习面试指南，涵盖DeepSeek/Qwen技术报告解析、PPO/RoPE/Transformer原理实现及RLHF核心内容。
-
-- **Stars:** ⭐️ 513
-- **Tags:** `llm` `interview` `algorithm` `transformer` `rlhf` `ppo` `deepseek` `qwen`
-- **最后活动时间:** 2026-03-28
 
 ### [100x-LLM](https://github.com/Siddhant-Goswami/100x-LLM)
 
@@ -8582,7 +8614,7 @@ Kaggle NeurIPS聚合物预测竞赛银牌方案的可复现实现，展示GNN与
 
 计算机科学领域的经典论文集合，涵盖机器学习、分布式系统等前沿研究方向，适合深入理解AI理论基础。
 
-- **Stars:** ⭐️ 106.5k
+- **Stars:** ⭐️ 106.6k
 - **Tags:** `computer-science` `papers` `machine-learning` `research`
 - **最后活动时间:** 2026-05-17
 
@@ -8592,7 +8624,7 @@ Google官方AI研究仓库，包含机器学习、深度学习等前沿研究论
 
 - **Stars:** ⭐️ 38.0k
 - **Tags:** `google` `research` `machine-learning` `deep-learning`
-- **最后活动时间:** 2026-05-22
+- **最后活动时间:** 2026-05-28
 
 ### [CVPR2026-Papers-with-Code](https://github.com/amusi/CVPR2026-Papers-with-Code)
 
@@ -8606,7 +8638,7 @@ CVPR 2026论文与开源代码合集，涵盖目标检测、图像分割、Trans
 
 DeepMind论文的官方代码实现，涵盖前沿AI研究成果。
 
-- **Stars:** ⭐️ 14.9k
+- **Stars:** ⭐️ 15.0k
 - **Tags:** `DeepMind` `Research` `AI Papers`
 - **最后活动时间:** 2026-05-19
 
@@ -8746,6 +8778,14 @@ Google开源的基因组变异检测工具，利用深度神经网络分析DNA�
 - **Tags:** `Bioinformatics` `Genomics` `Deep Learning`
 - **最后活动时间:** 2026-03-19
 
+### [BiRefNet](https://github.com/ZhengPeng7/BiRefNet)
+
+发表于CAAI AIR'24的高分辨率二分图像分割模型，支持背景移除、显著目标检测等任务。
+
+- **Stars:** ⭐️ 3.6k
+- **Tags:** `image-segmentation` `background-removal` `salient-object-detection` `deep-learning`
+- **最后活动时间:** 2026-05-18
+
 ### [event-based_vision_resources](https://github.com/uzh-rpg/event-based_vision_resources)
 
 事件相机视觉技术资源合集，涵盖论文、数据集、代码和视频等。面向神经形态视觉领域的研究者与开发者。
@@ -8753,14 +8793,6 @@ Google开源的基因组变异检测工具，利用深度神经网络分析DNA�
 - **Stars:** ⭐️ 3.6k
 - **Tags:** `event-camera` `neuromorphic-vision` `computer-vision` `event-based`
 - **最后活动时间:** 2026-05-25
-
-### [BiRefNet](https://github.com/ZhengPeng7/BiRefNet)
-
-发表于CAAI AIR'24的高分辨率二分图像分割模型，支持背景移除、显著目标检测等任务。
-
-- **Stars:** ⭐️ 3.5k
-- **Tags:** `image-segmentation` `background-removal` `salient-object-detection` `deep-learning`
-- **最后活动时间:** 2026-05-18
 
 ### [DecryptPrompt](https://github.com/DSXiangLi/DecryptPrompt)
 
@@ -8802,13 +8834,21 @@ LLM智能体领域必读论文精选列表，涵盖多智能体系统、指令�
 - **Tags:** `LLM Agents` `Papers` `Survey`
 - **最后活动时间:** 2026-04-17
 
+### [claude-code-analysis](https://github.com/liuup/claude-code-analysis)
+
+Claude Code 工具的深度分析项目，帮助开发者理解其工作原理和实现方式。
+
+- **Stars:** ⭐️ 2.8k
+- **Tags:** `claude-code` `analysis` `ai-tools` `llm`
+- **最后活动时间:** 2026-04-02
+
 ### [daily-arXiv-ai-enhanced](https://github.com/dw-dengwei/daily-arXiv-ai-enhanced)
 
 每日自动抓取 arXiv 论文并使用 AI 生成摘要，通过 GitHub Pages 展示。
 
 - **Stars:** ⭐️ 2.8k
 - **Tags:** `arxiv` `paper-summary` `ai-tools` `research`
-- **最后活动时间:** 2026-05-26
+- **最后活动时间:** 2026-05-28
 
 ### [annotated_research_papers](https://github.com/AakashKumarNain/annotated_research_papers)
 
@@ -8817,14 +8857,6 @@ LLM智能体领域必读论文精选列表，涵盖多智能体系统、指令�
 - **Stars:** ⭐️ 2.8k
 - **Tags:** `deep-learning` `machine-learning` `research` `annotations`
 - **最后活动时间:** 2026-04-19
-
-### [claude-code-analysis](https://github.com/liuup/claude-code-analysis)
-
-Claude Code 工具的深度分析项目，帮助开发者理解其工作原理和实现方式。
-
-- **Stars:** ⭐️ 2.7k
-- **Tags:** `claude-code` `analysis` `ai-tools` `llm`
-- **最后活动时间:** 2026-04-02
 
 ### [awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
 
@@ -8840,7 +8872,7 @@ Claude Code 工具的深度分析项目，帮助开发者理解其工作原理�
 
 - **Stars:** ⭐️ 2.4k
 - **Tags:** `reinforcement-learning` `atari` `benchmark` `game-ai`
-- **最后活动时间:** 2026-05-21
+- **最后活动时间:** 2026-05-27
 
 ### [Objectron](https://github.com/google-research-datasets/Objectron)
 
@@ -8850,14 +8882,6 @@ Google发布的3D物体识别数据集，包含15K视频剪辑和4M标注图像�
 - **Tags:** `3d-vision` `dataset` `computer-vision` `ar` `object-detection`
 - **最后活动时间:** 2026-03-06
 
-### [MedicalNet](https://github.com/Tencent/MedicalNet)
-
-提供一系列3D-ResNet预训练模型，专注于医学影像领域的深度学习研究，支持迁移学习应用。
-
-- **Stars:** ⭐️ 2.2k
-- **Tags:** `medical-imaging` `deep-learning` `pretrained-models` `3d-cnn` `resnet`
-- **最后活动时间:** 2025-11-27
-
 ### [paperlib](https://github.com/Future-Scholars/paperlib)
 
 开源学术论文管理工具，帮助研究者高效管理和组织计算机视觉、神经语言处理等领域的学术文献。
@@ -8866,6 +8890,22 @@ Google发布的3D物体识别数据集，包含15K视频剪辑和4M标注图像�
 - **Tags:** `Paper Management` `Academic` `Research`
 - **最后活动时间:** 2026-04-01
 
+### [figures4papers](https://github.com/ChenLiu-1996/figures4papers)
+
+用于生成顶级AI会议和期刊高质量论文图表的Python脚本集合，支持CVPR、NeurIPS、ICML等会议。
+
+- **Stars:** ⭐️ 2.2k
+- **Tags:** `machine-learning` `scientific-figure` `python` `cvpr` `neurips`
+- **最后活动时间:** 2026-05-11
+
+### [claude-code-from-source](https://github.com/alejandrobalderas/claude-code-from-source)
+
+逆向工程分析 Anthropic Claude Code AI 编程代理的架构、模式与内部实现原理，深入理解其工作机制。
+
+- **Stars:** ⭐️ 2.2k
+- **Tags:** `claude-code` `reverse-engineering` `ai-agent` `architecture`
+- **最后活动时间:** 2026-04-04
+
 ### [RecSysPapers](https://github.com/tangxyw/RecSysPapers)
 
 推荐系统、广告、搜索领域的经典与前沿论文合集，涵盖召回、排序、多任务学习等核心主题。
@@ -8873,22 +8913,6 @@ Google发布的3D物体识别数据集，包含15K视频剪辑和4M标注图像�
 - **Stars:** ⭐️ 2.1k
 - **Tags:** `recommendation-system` `reinforcement-learning` `multi-task-learning` `papers`
 - **最后活动时间:** 2026-03-25
-
-### [claude-code-from-source](https://github.com/alejandrobalderas/claude-code-from-source)
-
-逆向工程分析 Anthropic Claude Code AI 编程代理的架构、模式与内部实现原理，深入理解其工作机制。
-
-- **Stars:** ⭐️ 2.1k
-- **Tags:** `claude-code` `reverse-engineering` `ai-agent` `architecture`
-- **最后活动时间:** 2026-04-04
-
-### [figures4papers](https://github.com/ChenLiu-1996/figures4papers)
-
-用于生成顶级AI会议和期刊高质量论文图表的Python脚本集合，支持CVPR、NeurIPS、ICML等会议。
-
-- **Stars:** ⭐️ 2.1k
-- **Tags:** `machine-learning` `scientific-figure` `python` `cvpr` `neurips`
-- **最后活动时间:** 2026-05-11
 
 ### [Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon)
 
@@ -8952,7 +8976,7 @@ TensorFlow上的高斯过程库，支持贝叶斯统计与变分推断。
 
 - **Stars:** ⭐️ 1.9k
 - **Tags:** `gaussian-processes` `bayesian-statistics` `tensorflow`
-- **最后活动时间:** 2026-05-26
+- **最后活动时间:** 2026-05-28
 
 ### [awesome-fraud-detection-papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
 
@@ -8978,14 +9002,6 @@ Google AI Language团队开源项目合集，包含多项NLP前沿研究成果�
 - **Tags:** `Google` `NLP` `Research`
 - **最后活动时间:** 2026-05-19
 
-### [FSL-Mate](https://github.com/tata1661/FSL-Mate)
-
-小样本学习资源合集，汇集论文、方法与实现，助力快速入门元学习领域。
-
-- **Stars:** ⭐️ 1.8k
-- **Tags:** `few-shot-learning` `meta-learning` `one-shot-learning` `research`
-- **最后活动时间:** 2026-04-18
-
 ### [OmniDocBench](https://github.com/opendatalab/OmniDocBench)
 
 CVPR 2025文档解析综合评测基准，为文档AI领域提供标准化评估体系。
@@ -8993,6 +9009,14 @@ CVPR 2025文档解析综合评测基准，为文档AI领域提供标准化评估
 - **Stars:** ⭐️ 1.8k
 - **Tags:** `Benchmark` `Document Parsing` `CVPR 2025`
 - **最后活动时间:** 2026-05-06
+
+### [FSL-Mate](https://github.com/tata1661/FSL-Mate)
+
+小样本学习资源合集，汇集论文、方法与实现，助力快速入门元学习领域。
+
+- **Stars:** ⭐️ 1.8k
+- **Tags:** `few-shot-learning` `meta-learning` `one-shot-learning` `research`
+- **最后活动时间:** 2026-04-18
 
 ### [TFB](https://github.com/decisionintelligence/TFB)
 
@@ -9008,7 +9032,7 @@ PVLDB 2024最佳论文提名，全面公平的时间序列预测方法基准测�
 
 - **Stars:** ⭐️ 1.7k
 - **Tags:** `quantum-computing` `quantum-algorithms` `quantum-chemistry` `python`
-- **最后活动时间:** 2026-05-06
+- **最后活动时间:** 2026-05-26
 
 ### [nlp-journey](https://github.com/msgi/nlp-journey)
 
@@ -9056,7 +9080,15 @@ NeurIPS 2023 Spotlight论文，蒙特卡洛树搜索(MCTS)算法的统一基准�
 
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `self-supervised-learning` `contrastive-learning` `simclr` `moco` `pytorch-lightning`
-- **最后活动时间:** 2026-05-18
+- **最后活动时间:** 2026-05-25
+
+### [Spiritual-Spell-Red-Teaming](https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming)
+
+针对多种 LLM（主要是 Claude）的红队测试与越狱技术研究仓库。
+
+- **Stars:** ⭐️ 1.5k
+- **Tags:** `red-teaming` `jailbreak` `security` `llm-safety`
+- **最后活动时间:** 2026-05-28
 
 ### [DEIM](https://github.com/Intellindust-AI-Lab/DEIM)
 
@@ -9065,14 +9097,6 @@ CVPR 2025论文实现，改进DETR匹配机制实现快速收敛的实时目标�
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `detr` `object-detection` `real-time` `transformer`
 - **最后活动时间:** 2026-03-24
-
-### [Spiritual-Spell-Red-Teaming](https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming)
-
-针对多种 LLM（主要是 Claude）的红队测试与越狱技术研究仓库。
-
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `red-teaming` `jailbreak` `security` `llm-safety`
-- **最后活动时间:** 2026-05-21
 
 ### [cv-arxiv-daily](https://github.com/Vincentqyw/cv-arxiv-daily)
 
@@ -9086,7 +9110,7 @@ CVPR 2025论文实现，改进DETR匹配机制实现快速收敛的实时目标�
 
 Claude自读源码的17章架构深度解析，涵盖Claude Code v2.1.88的技术细节，中英双语。
 
-- **Stars:** ⭐️ 1.4k
+- **Stars:** ⭐️ 1.5k
 - **Tags:** `claude` `architecture` `source-code` `llm` `documentation`
 - **最后活动时间:** 2026-04-01
 
@@ -9112,7 +9136,23 @@ LLM越狱攻击方法合集，收录最新论文、代码、数据集和评估�
 
 - **Stars:** ⭐️ 1.4k
 - **Tags:** `Jailbreak` `Security` `LLM Safety`
-- **最后活动时间:** 2026-03-30
+- **最后活动时间:** 2026-05-27
+
+### [Dive-into-Claude-Code](https://github.com/VILA-Lab/Dive-into-Claude-Code)
+
+Claude Code系统性分析与讨论，深入探讨AI智能体系统的设计与未来发展方向。
+
+- **Stars:** ⭐️ 1.4k
+- **Tags:** `claude` `ai-agents` `analysis` `llm`
+- **最后活动时间:** 2026-05-25
+
+### [PaperSpine](https://github.com/WUBING2023/PaperSpine)
+
+基于动机驱动的AI技能，帮助用户从学术论文中学习、构建核心论点，并通过证据感知的蓝图和修订矩阵重写手稿。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `academic-papers` `learning` `research` `writing`
+- **最后活动时间:** 2026-05-29
 
 ### [AlphaZero.jl](https://github.com/jonathan-laurent/AlphaZero.jl)
 
@@ -9122,21 +9162,13 @@ DeepMind AlphaZero算法的高性能Julia实现，简洁高效的通用框架。
 - **Tags:** `alphazero` `julia` `reinforcement-learning` `deep-learning`
 - **最后活动时间:** 2026-04-11
 
-### [Dive-into-Claude-Code](https://github.com/VILA-Lab/Dive-into-Claude-Code)
-
-Claude Code系统性分析与讨论，深入探讨AI智能体系统的设计与未来发展方向。
-
-- **Stars:** ⭐️ 1.3k
-- **Tags:** `claude` `ai-agents` `analysis` `llm`
-- **最后活动时间:** 2026-05-25
-
 ### [Mish](https://github.com/digantamisra98/Mish)
 
 BMVC 2020论文官方实现，提出了一种自正则化非单调神经网络激活函数，在图像分类和目标检测任务中表现优异。
 
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `Activation Function` `Deep Learning` `Research`
-- **最后活动时间:** 2026-04-28
+- **最后活动时间:** 2026-05-27
 
 ### [Autonomous-Agents](https://github.com/tmgthb/Autonomous-Agents)
 
@@ -9144,7 +9176,7 @@ BMVC 2020论文官方实现，提出了一种自正则化非单调神经网络�
 
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `Agents` `Research` `LLM`
-- **最后活动时间:** 2026-05-20
+- **最后活动时间:** 2026-05-26
 
 ### [llm-architecture-gallery](https://github.com/rasbt/llm-architecture-gallery)
 
@@ -9153,6 +9185,14 @@ LLM架构图库，展示各类大语言模型的架构设计与源数据。
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `llm` `architecture` `visualization`
 - **最后活动时间:** 2026-05-24
+
+### [pi-vs-claude-code](https://github.com/disler/pi-vs-claude-code)
+
+开源 PI Agent 与闭源 Claude Code Agent 的深度对比分析研究。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `comparison` `agent` `claude-code` `benchmark`
+- **最后活动时间:** 2026-05-11
 
 ### [OWASP Top 10 for LLM Applications](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications)
 
@@ -9176,15 +9216,7 @@ OWASP官方LLM应用安全Top 10清单，帮助开发者识别和防范大语言
 
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `llm` `papers` `daily-update` `research`
-- **最后活动时间:** 2026-05-26
-
-### [pi-vs-claude-code](https://github.com/disler/pi-vs-claude-code)
-
-开源 PI Agent 与闭源 Claude Code Agent 的深度对比分析研究。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `comparison` `agent` `claude-code` `benchmark`
-- **最后活动时间:** 2026-05-11
+- **最后活动时间:** 2026-05-28
 
 ### [NeuralPDE.jl](https://github.com/SciML/NeuralPDE.jl)
 
@@ -9224,7 +9256,7 @@ CVPR 2020论文实现，提供场景图生成方法的统一基准，支持自�
 
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `deep-learning` `graph-neural-networks` `protein-structure` `bioinformatics`
-- **最后活动时间:** 2026-05-23
+- **最后活动时间:** 2026-05-25
 
 ### [meshrcnn](https://github.com/facebookresearch/meshrcnn)
 
@@ -9238,7 +9270,7 @@ ICCV 2019论文Mesh R-CNN官方代码，实现从RGB图像检测物体并生成3
 
 时间序列预测基准研究，对比评估PatchTST、TFT、N-HiTS等深度学习架构与传统梯度提升方法的24小时负载预测性能。
 
-- **Stars:** ⭐️ 1.1k
+- **Stars:** ⭐️ 1.2k
 - **Tags:** `time-series` `deep-learning` `forecasting` `benchmark`
 - **最后活动时间:** 2026-04-08
 
@@ -9314,6 +9346,14 @@ Meta发布的无监督目标检测与实例分割方法，无需人工标注即�
 - **Tags:** `unsupervised-learning` `object-detection` `instance-segmentation`
 - **最后活动时间:** 2026-04-14
 
+### [Awesome-DLMs](https://github.com/VILA-Lab/Awesome-DLMs)
+
+扩散语言模型综述论文的官方仓库，系统梳理该领域最新研究进展与方法。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `diffusion-models` `language-models` `survey` `research`
+- **最后活动时间:** 2026-05-26
+
 ### [sumo-rl](https://github.com/LucasAlegre/sumo-rl)
 
 基于 SUMO 的交通信号控制强化学习环境，兼容 Gymnasium、PettingZoo 和主流 RL 库。
@@ -9321,14 +9361,6 @@ Meta发布的无监督目标检测与实例分割方法，无需人工标注即�
 - **Stars:** ⭐️ 1.0k
 - **Tags:** `reinforcement-learning` `traffic-control` `gymnasium` `sumo`
 - **最后活动时间:** 2026-03-08
-
-### [Awesome-DLMs](https://github.com/VILA-Lab/Awesome-DLMs)
-
-扩散语言模型综述论文的官方仓库，系统梳理该领域最新研究进展与方法。
-
-- **Stars:** ⭐️ 1.0k
-- **Tags:** `diffusion-models` `language-models` `survey` `research`
-- **最后活动时间:** 2026-05-19
 
 ### [Paper-Reading-ConvAI](https://github.com/iwangjian/Paper-Reading-ConvAI)
 
@@ -9386,6 +9418,14 @@ TPAMI 2024综述论文，全面介绍开放词汇学习领域的研究进展。
 - **Tags:** `open-vocabulary` `computer-vision` `deep-learning` `survey`
 - **最后活动时间:** 2026-05-12
 
+### [Diffusion-Planner](https://github.com/ZhengYinan-AIR/Diffusion-Planner)
+
+ICLR 2025 Oral论文实现，基于扩散模型的自动驾驶运动规划方法。
+
+- **Stars:** ⭐️ 986
+- **Tags:** `autonomous-driving` `diffusion-models` `motion-planning` `pytorch`
+- **最后活动时间:** 2026-03-10
+
 ### [Awesome-TimeSeries-SpatioTemporal-Diffusion-Model](https://github.com/yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model)
 
 扩散模型在时间序列和时空数据领域的论文与应用资源汇总，涵盖最新研究进展和实用资源。
@@ -9393,14 +9433,6 @@ TPAMI 2024综述论文，全面介绍开放词汇学习领域的研究进展。
 - **Stars:** ⭐️ 985
 - **Tags:** `diffusion-model` `time-series` `spatiotemporal` `deep-learning` `awesome-list`
 - **最后活动时间:** 2026-02-05
-
-### [Diffusion-Planner](https://github.com/ZhengYinan-AIR/Diffusion-Planner)
-
-ICLR 2025 Oral论文实现，基于扩散模型的自动驾驶运动规划方法。
-
-- **Stars:** ⭐️ 981
-- **Tags:** `autonomous-driving` `diffusion-models` `motion-planning` `pytorch`
-- **最后活动时间:** 2026-03-10
 
 ### [human_body_prior](https://github.com/nghorbani/human_body_prior)
 
@@ -9414,15 +9446,15 @@ VPoser：基于VAE的人体姿态先验模型，用于人体运动和姿态估�
 
 一本关于深度表征学习的专业书籍，深入讲解数据分布的深度表示方法。
 
-- **Stars:** ⭐️ 966
+- **Stars:** ⭐️ 967
 - **Tags:** `deep-learning` `representation-learning` `book`
-- **最后活动时间:** 2026-05-17
+- **最后活动时间:** 2026-05-28
 
 ### [Awesome-CV-MasterHub](https://github.com/cuixing158/Awesome-CV-MasterHub)
 
 计算机视觉前沿论文精选列表，涵盖图像分割、目标检测、图像生成、视频理解等核心方向。附带代码实现，适合AI研究者追踪最新进展。
 
-- **Stars:** ⭐️ 944
+- **Stars:** ⭐️ 945
 - **Tags:** `computer-vision` `image-segmentation` `object-detection` `vision-transformer`
 - **最后活动时间:** 2026-04-30
 
@@ -9430,7 +9462,7 @@ VPoser：基于VAE的人体姿态先验模型，用于人体运动和姿态估�
 
 分子与材料设计领域深度学习论文精选，涵盖扩散模型、GAN、Transformer等生成式AI方法。
 
-- **Stars:** ⭐️ 939
+- **Stars:** ⭐️ 940
 - **Tags:** `Generative AI` `Drug Design` `Materials Science`
 - **最后活动时间:** 2026-05-25
 
@@ -9446,17 +9478,17 @@ VPoser：基于VAE的人体姿态先验模型，用于人体运动和姿态估�
 
 原子系统深度神经网络工具包，支持量子化学与分子动力学计算。
 
-- **Stars:** ⭐️ 921
+- **Stars:** ⭐️ 922
 - **Tags:** `quantum-chemistry` `molecular-dynamics` `neural-network` `atomistic`
-- **最后活动时间:** 2026-05-23
+- **最后活动时间:** 2026-05-27
 
 ### [Awesome-Token-Compress](https://github.com/daixiangzi/Awesome-Token-Compress)
 
 收集ViT和VLM视觉语言模型Token压缩相关的前沿研究论文，涵盖视觉Transformer和视觉语言模型的最新进展。
 
-- **Stars:** ⭐️ 907
+- **Stars:** ⭐️ 909
 - **Tags:** `token-compression` `vision-transformer` `vlm` `efficient-transformers`
-- **最后活动时间:** 2026-05-20
+- **最后活动时间:** 2026-05-24
 
 ### [transformer](https://github.com/maxjcohen/transformer)
 
@@ -9498,6 +9530,14 @@ CVPR 2020论文，通过全局和局部细化实现类无关的高分辨率图�
 - **Tags:** `segmentation` `computer-vision` `deep-learning` `cvpr2020`
 - **最后活动时间:** 2026-01-02
 
+### [Awesome-Latent-Space](https://github.com/YU-deep/Awesome-Latent-Space)
+
+潜空间研究论文精选列表，涵盖深度学习中潜空间表示学习的核心理论与应用研究。
+
+- **Stars:** ⭐️ 883
+- **Tags:** `latent-space` `deep-learning` `representation-learning` `research-papers`
+- **最后活动时间:** 2026-05-20
+
 ### [ThinkMatch](https://github.com/Thinklab-SJTU/ThinkMatch)
 
 深度图匹配研究协议，提供神经图匹配算法的研究框架和基准测试工具。
@@ -9510,7 +9550,7 @@ CVPR 2020论文，通过全局和局部细化实现类无关的高分辨率图�
 
 CVPR 2025顶级论文精选合集，涵盖计算机视觉、多模态、目标检测等前沿研究方向，附带代码和演示。
 
-- **Stars:** ⭐️ 876
+- **Stars:** ⭐️ 877
 - **Tags:** `computer-vision` `cvpr2025` `transformers` `multimodal` `paper`
 - **最后活动时间:** 2026-04-15
 
@@ -9518,25 +9558,25 @@ CVPR 2025顶级论文精选合集，涵盖计算机视觉、多模态、目标�
 
 多变量时间序列Transformer模型，适用于复杂时序预测任务。
 
-- **Stars:** ⭐️ 872
+- **Stars:** ⭐️ 871
 - **Tags:** `time-series` `transformer` `multivariate`
 - **最后活动时间:** 2026-04-29
-
-### [Awesome-Latent-Space](https://github.com/YU-deep/Awesome-Latent-Space)
-
-潜空间研究论文精选列表，涵盖深度学习中潜空间表示学习的核心理论与应用研究。
-
-- **Stars:** ⭐️ 866
-- **Tags:** `latent-space` `deep-learning` `representation-learning` `research-papers`
-- **最后活动时间:** 2026-05-20
 
 ### [Transformers_And_LLM_Are_What_You_Dont_Need](https://github.com/valeman/Transformers_And_LLM_Are_What_You_Dont_Need)
 
 展示时间序列预测中非Transformer模型优势的研究合集，提供SOTA替代方案。
 
-- **Stars:** ⭐️ 858
+- **Stars:** ⭐️ 859
 - **Tags:** `time-series` `forecasting` `non-transformer-models`
 - **最后活动时间:** 2026-02-12
+
+### [OmegaWiki](https://github.com/skyllwt/OmegaWiki)
+
+基于Karpathy愿景实现的LLM Wiki平台，支持Claude Code驱动的全生命周期AI研究。
+
+- **Stars:** ⭐️ 847
+- **Tags:** `llm` `wiki` `research` `claude`
+- **最后活动时间:** 2026-05-26
 
 ### [ai-research-publications](https://github.com/aaryansamanta/ai-research-publications)
 
@@ -9550,7 +9590,7 @@ CVPR 2025顶级论文精选合集，涵盖计算机视觉、多模态、目标�
 
 费米子神经网络的官方实现，用于从头计算电子结构，将深度学习应用于量子化学领域。
 
-- **Stars:** ⭐️ 838
+- **Stars:** ⭐️ 841
 - **Tags:** `neural-networks` `quantum-chemistry` `deep-learning` `scientific-computing`
 - **最后活动时间:** 2026-05-21
 
@@ -9574,9 +9614,9 @@ ECCV 2024论文项目，通过几何优化实现单图像相机标定，结合�
 
 基于模拟的推断Python包，用于贝叶斯推断和参数估计。适合研究人员和从业者使用。
 
-- **Stars:** ⭐️ 826
+- **Stars:** ⭐️ 827
 - **Tags:** `bayesian-inference` `simulation-based-inference` `pytorch`
-- **最后活动时间:** 2026-05-22
+- **最后活动时间:** 2026-05-29
 
 ### [causallib](https://github.com/BiomedSciAI/causallib)
 
@@ -9585,14 +9625,6 @@ ECCV 2024论文项目，通过几何优化实现单图像相机标定，结合�
 - **Stars:** ⭐️ 818
 - **Tags:** `causal-inference` `machine-learning` `causal-models`
 - **最后活动时间:** 2026-05-26
-
-### [OmegaWiki](https://github.com/skyllwt/OmegaWiki)
-
-基于Karpathy愿景实现的LLM Wiki平台，支持Claude Code驱动的全生命周期AI研究。
-
-- **Stars:** ⭐️ 806
-- **Tags:** `llm` `wiki` `research` `claude`
-- **最后活动时间:** 2026-05-23
 
 ### [awesome-graph-explainability-papers](https://github.com/flyingdoog/awesome-graph-explainability-papers)
 
@@ -9606,7 +9638,7 @@ ECCV 2024论文项目，通过几何优化实现单图像相机标定，结合�
 
 视觉领域自回归模型的权威综述论文，涵盖图像生成、视频生成、点云处理等多个方向。
 
-- **Stars:** ⭐️ 797
+- **Stars:** ⭐️ 796
 - **Tags:** `autoregressive` `vision` `survey` `multimodal`
 - **最后活动时间:** 2026-05-05
 
@@ -9622,7 +9654,7 @@ ECCV 2024论文项目，通过几何优化实现单图像相机标定，结合�
 
 OpenAI 官方发布的模型行为规范文档，定义了 AI 模型应如何行为和响应。
 
-- **Stars:** ⭐️ 788
+- **Stars:** ⭐️ 790
 - **Tags:** `openai` `model-specification` `ai-safety`
 - **最后活动时间:** 2026-05-22
 
@@ -9670,7 +9702,7 @@ AlphaGenome 研究代码库，专注于基因组学领域的 AI 应用研究。
 
 AgentGym-RL 论文实现，通过多轮强化学习训练 LLM 智能体进行长序列决策。
 
-- **Stars:** ⭐️ 752
+- **Stars:** ⭐️ 758
 - **Tags:** `agent` `llm` `reinforcement-learning` `scaling`
 - **最后活动时间:** 2026-02-15
 
@@ -9682,27 +9714,27 @@ Google开源的联邦学习与联邦分析研究项目集合，涵盖分布式�
 - **Tags:** `federated-learning` `machine-learning` `privacy-preserving`
 - **最后活动时间:** 2026-03-25
 
-### [acl-anthology](https://github.com/acl-org/acl-anthology)
-
-ACL论文集数据与构建工具，为计算语言学研究者提供权威资源。
-
-- **Stars:** ⭐️ 727
-- **Tags:** `acl` `computational-linguistics` `research-papers` `nlp`
-- **最后活动时间:** 2026-05-25
-
 ### [Synthid-Bypass](https://github.com/00quebec/Synthid-Bypass)
 
 AI安全研究项目，展示了如何绕过Google Synthid水印检测机制，为AI生成内容溯源研究提供参考。
 
-- **Stars:** ⭐️ 720
+- **Stars:** ⭐️ 729
 - **Tags:** `ai-safety` `watermarking` `deepfake-detection` `research`
 - **最后活动时间:** 2026-05-04
+
+### [acl-anthology](https://github.com/acl-org/acl-anthology)
+
+ACL论文集数据与构建工具，为计算语言学研究者提供权威资源。
+
+- **Stars:** ⭐️ 728
+- **Tags:** `acl` `computational-linguistics` `research-papers` `nlp`
+- **最后活动时间:** 2026-05-27
 
 ### [Awesome-Skeleton-based-Action-Recognition](https://github.com/firework8/Awesome-Skeleton-based-Action-Recognition)
 
 基于骨架的动作识别领域精选论文列表，涵盖计算机视觉与行为理解前沿研究。
 
-- **Stars:** ⭐️ 707
+- **Stars:** ⭐️ 712
 - **Tags:** `action-recognition` `skeleton-based` `computer-vision` `deep-learning`
 - **最后活动时间:** 2026-05-05
 
@@ -9710,7 +9742,7 @@ AI安全研究项目，展示了如何绕过Google Synthid水印检测机制，�
 
 Nature论文配套代码，用于发现最先进强化学习算法的元学习研究项目。
 
-- **Stars:** ⭐️ 703
+- **Stars:** ⭐️ 705
 - **Tags:** `reinforcement-learning` `meta-learning` `research` `nature`
 - **最后活动时间:** 2025-12-02
 
@@ -9718,7 +9750,7 @@ Nature论文配套代码，用于发现最先进强化学习算法的元学习�
 
 语音识别基准测试框架，支持对比AWS、Google、DeepSpeech等多种ASR引擎的性能表现。
 
-- **Stars:** ⭐️ 691
+- **Stars:** ⭐️ 692
 - **Tags:** `语音识别` `基准测试` `ASR`
 - **最后活动时间:** 2026-03-19
 
@@ -9742,9 +9774,9 @@ Nature论文配套代码，用于发现最先进强化学习算法的元学习�
 
 面向多体量子系统的机器学习算法库，支持神经网络量子态和变分蒙特卡洛方法。
 
-- **Stars:** ⭐️ 674
+- **Stars:** ⭐️ 676
 - **Tags:** `量子计算` `JAX` `神经网络` `物理模拟`
-- **最后活动时间:** 2026-05-25
+- **最后活动时间:** 2026-05-28
 
 ### [yolo_research](https://github.com/positive666/yolo_research)
 
@@ -9758,7 +9790,7 @@ YOLO系列改进研究合集，涵盖v5/v7/v8，包含注意力机制、部署�
 
 顶级会议AIGC论文与代码合集，涵盖图像生成、视频生成、3D生成等前沿方向。
 
-- **Stars:** ⭐️ 663
+- **Stars:** ⭐️ 664
 - **Tags:** `AIGC` `Computer Vision` `Generative AI`
 - **最后活动时间:** 2026-05-25
 
@@ -9774,9 +9806,9 @@ NeurIPS 2025论文，提出用于LLM测试时扩展的思维原子方法，提�
 
 自动更新的 TTS 领域 arXiv 论文每日汇总，每 12 小时更新一次。
 
-- **Stars:** ⭐️ 648
+- **Stars:** ⭐️ 651
 - **Tags:** `arxiv` `tts-papers` `research`
-- **最后活动时间:** 2026-05-25
+- **最后活动时间:** 2026-05-27
 
 ### [Awesome-Deepfake-Generation-and-Detection](https://github.com/flyingby/Awesome-Deepfake-Generation-and-Detection)
 
@@ -9786,6 +9818,14 @@ NeurIPS 2025论文，提出用于LLM测试时扩展的思维原子方法，提�
 - **Tags:** `deepfake-detection` `deepfakes` `face-swap` `computer-vision` `generative-models`
 - **最后活动时间:** 2026-03-31
 
+### [minAlphaFold2](https://github.com/ChrisHayduk/minAlphaFold2)
+
+AlphaFold2模型与训练的极简PyTorch复现版本，适合学习蛋白质结构预测的深度学习实现原理。
+
+- **Stars:** ⭐️ 620
+- **Tags:** `pytorch` `alphafold` `protein-folding` `deep-learning`
+- **最后活动时间:** 2026-05-09
+
 ### [Awesome-Story-Generation](https://github.com/yingpengma/Awesome-Story-Generation)
 
 大语言模型时代的故事生成论文精选列表，汇集该领域前沿研究成果。
@@ -9793,6 +9833,14 @@ NeurIPS 2025论文，提出用于LLM测试时扩展的思维原子方法，提�
 - **Stars:** ⭐️ 619
 - **Tags:** `Story Generation` `LLM` `Paper List`
 - **最后活动时间:** 2026-03-20
+
+### [ChangeMamba](https://github.com/ChenHongruixuan/ChangeMamba)
+
+基于时空状态空间模型的遥感变化检测方法。IEEE TGRS 2024论文的官方实现。
+
+- **Stars:** ⭐️ 616
+- **Tags:** `change-detection` `remote-sensing` `mamba`
+- **最后活动时间:** 2026-04-24
 
 ### [RoadDetections](https://github.com/microsoft/RoadDetections)
 
@@ -9802,27 +9850,11 @@ NeurIPS 2025论文，提出用于LLM测试时扩展的思维原子方法，提�
 - **Tags:** `computer-vision` `road-detection` `aerial-imagery` `microsoft-maps`
 - **最后活动时间:** 2026-04-15
 
-### [ChangeMamba](https://github.com/ChenHongruixuan/ChangeMamba)
-
-基于时空状态空间模型的遥感变化检测方法。IEEE TGRS 2024论文的官方实现。
-
-- **Stars:** ⭐️ 614
-- **Tags:** `change-detection` `remote-sensing` `mamba`
-- **最后活动时间:** 2026-04-24
-
-### [minAlphaFold2](https://github.com/ChrisHayduk/minAlphaFold2)
-
-AlphaFold2模型与训练的极简PyTorch复现版本，适合学习蛋白质结构预测的深度学习实现原理。
-
-- **Stars:** ⭐️ 607
-- **Tags:** `pytorch` `alphafold` `protein-folding` `deep-learning`
-- **最后活动时间:** 2026-05-09
-
 ### [Ego4d](https://github.com/facebookresearch/Ego4d)
 
 Meta发布的自我中心视角视频数据集，包含特征提取与可视化工具，适用于第一人称视觉AI研究。
 
-- **Stars:** ⭐️ 598
+- **Stars:** ⭐️ 601
 - **Tags:** `dataset` `egocentric` `video-understanding` `computer-vision`
 - **最后活动时间:** 2026-05-20
 
@@ -9834,27 +9866,27 @@ Meta发布的自我中心视角视频数据集，包含特征提取与可视化�
 - **Tags:** `Time Series` `Anomaly Detection` `Benchmark`
 - **最后活动时间:** 2026-04-13
 
-### [Sentence-VAE](https://github.com/timbmg/Sentence-VAE)
-
-PyTorch复现论文《Generating Sentences from a Continuous Space》，实现句子生成的VAE模型。
-
-- **Stars:** ⭐️ 592
-- **Tags:** `vae` `nlp` `pytorch` `generative-model`
-- **最后活动时间:** 2026-04-18
-
 ### [eomt](https://github.com/tue-mps/eomt)
 
 CVPR 2025 Highlight论文，Encoder-only Mask Transformer用于图像分割任务。
 
-- **Stars:** ⭐️ 590
+- **Stars:** ⭐️ 592
 - **Tags:** `transformers` `image-segmentation` `vision-transformer` `vit`
 - **最后活动时间:** 2026-05-25
+
+### [Sentence-VAE](https://github.com/timbmg/Sentence-VAE)
+
+PyTorch复现论文《Generating Sentences from a Continuous Space》，实现句子生成的VAE模型。
+
+- **Stars:** ⭐️ 591
+- **Tags:** `vae` `nlp` `pytorch` `generative-model`
+- **最后活动时间:** 2026-04-18
 
 ### [JAXFLUIDS](https://github.com/tumaer/JAXFLUIDS)
 
 基于JAX的可微分流体动力学计算包，支持GPU/TPU加速的深度学习流体模拟。
 
-- **Stars:** ⭐️ 580
+- **Stars:** ⭐️ 583
 - **Tags:** `jax` `deep-learning` `cfd` `fluid-dynamics` `automatic-differentiation` `gpu`
 - **最后活动时间:** 2026-05-19
 
@@ -9894,7 +9926,7 @@ NeurIPS 2020论文实现，提供长尾分布分类、检测和实例分割的�
 
 ICLR 2026论文，从强化学习视角研究监督微调(SFT)的泛化问题。
 
-- **Stars:** ⭐️ 566
+- **Stars:** ⭐️ 567
 - **Tags:** `reinforcement-learning` `sft` `llm` `research`
 - **最后活动时间:** 2026-01-04
 
@@ -9902,7 +9934,7 @@ ICLR 2026论文，从强化学习视角研究监督微调(SFT)的泛化问题。
 
 ICCV 2023动态蛇形卷积官方实现，专为细长目标检测设计，适用于医学图像和遥感图像分析。
 
-- **Stars:** ⭐️ 556
+- **Stars:** ⭐️ 558
 - **Tags:** `dynamic-convolution` `iccv2023` `segmentation` `pytorch`
 - **最后活动时间:** 2026-04-24
 
@@ -9910,7 +9942,7 @@ ICCV 2023动态蛇形卷积官方实现，专为细长目标检测设计，适�
 
 图像伪造检测与定位领域的论文精选列表，涵盖复制移动检测、图像拼接检测等媒体取证研究方向。
 
-- **Stars:** ⭐️ 556
+- **Stars:** ⭐️ 557
 - **Tags:** `image-forensics` `deepfake-detection` `research-papers` `media-forensics`
 - **最后活动时间:** 2026-04-07
 
@@ -9918,17 +9950,9 @@ ICCV 2023动态蛇形卷积官方实现，专为细长目标检测设计，适�
 
 精选机器学习系统领域论文合集，涵盖ML系统架构、训练优化、推理部署等核心研究方向。
 
-- **Stars:** ⭐️ 555
+- **Stars:** ⭐️ 556
 - **Tags:** `machine-learning` `ml-systems` `research-papers`
 - **最后活动时间:** 2026-02-07
-
-### [Hyperspectral-Image-Super-Resolution-Benchmark](https://github.com/junjun-jiang/Hyperspectral-Image-Super-Resolution-Benchmark)
-
-高光谱图像超分辨率研究资源汇总，收集了该领域的论文、方法和基准测试。
-
-- **Stars:** ⭐️ 553
-- **Tags:** `hyperspectral` `super-resolution` `benchmark` `computer-vision`
-- **最后活动时间:** 2026-05-23
 
 ### [GNN-FakeNews](https://github.com/safe-graph/GNN-FakeNews)
 
@@ -9938,27 +9962,35 @@ ICCV 2023动态蛇形卷积官方实现，专为细长目标检测设计，适�
 - **Tags:** `gnn` `fake-news-detection` `social-media` `deep-learning`
 - **最后活动时间:** 2025-12-11
 
-### [Paper-List](https://github.com/YanjieZe/Paper-List)
+### [Hyperspectral-Image-Super-Resolution-Benchmark](https://github.com/junjun-jiang/Hyperspectral-Image-Super-Resolution-Benchmark)
 
-机器人学习与视觉领域论文阅读清单，涵盖前沿研究方向。
+高光谱图像超分辨率研究资源汇总，收集了该领域的论文、方法和基准测试。
 
-- **Stars:** ⭐️ 547
-- **Tags:** `robotics` `machine-learning` `computer-vision` `research`
-- **最后活动时间:** 2026-05-19
+- **Stars:** ⭐️ 552
+- **Tags:** `hyperspectral` `super-resolution` `benchmark` `computer-vision`
+- **最后活动时间:** 2026-05-23
 
 ### [llm-continual-learning-survey](https://github.com/Wang-ML-Lab/llm-continual-learning-survey)
 
 CSUR 2025综述论文：大语言模型持续学习的全面调研与前沿进展。
 
-- **Stars:** ⭐️ 545
+- **Stars:** ⭐️ 548
 - **Tags:** `llm` `continual-learning` `survey`
 - **最后活动时间:** 2025-12-23
+
+### [Paper-List](https://github.com/YanjieZe/Paper-List)
+
+机器人学习与视觉领域论文阅读清单，涵盖前沿研究方向。
+
+- **Stars:** ⭐️ 548
+- **Tags:** `robotics` `machine-learning` `computer-vision` `research`
+- **最后活动时间:** 2026-05-28
 
 ### [FBPINNs](https://github.com/benmoseley/FBPINNs)
 
 有限基物理信息神经网络实现，用于求解偏微分方程的正问题和逆问题。
 
-- **Stars:** ⭐️ 544
+- **Stars:** ⭐️ 545
 - **Tags:** `physics-informed-neural-networks` `jax` `scientific-computing` `pinn`
 - **最后活动时间:** 2026-03-26
 
@@ -9966,9 +9998,17 @@ CSUR 2025综述论文：大语言模型持续学习的全面调研与前沿进�
 
 MICCAI 2020论文实现，用于息肉分割的并行反向注意力网络，提供Jittor框架代码。
 
-- **Stars:** ⭐️ 544
+- **Stars:** ⭐️ 545
 - **Tags:** `medical-image-segmentation` `deep-learning` `polyp-segmentation` `reverse-attention`
 - **最后活动时间:** 2025-12-11
+
+### [daily-paper-reader](https://github.com/ziwenhahaha/daily-paper-reader)
+
+开源的每日 arXiv/OpenReview 论文推荐与 AI 阅读平台，支持自动更新、部署与论文问答功能。
+
+- **Stars:** ⭐️ 544
+- **Tags:** `arxiv` `paper-recommendation` `llm` `research-tool`
+- **最后活动时间:** 2026-05-26
 
 ### [3D-Registration-with-Maximal-Cliques](https://github.com/zhangxy0517/3D-Registration-with-Maximal-Cliques)
 
@@ -9982,7 +10022,7 @@ CVPR 2023 论文，提出基于最大团的三维点云配准方法，提升配�
 
 CVPR 2025 Oral论文，提出Overview-first-Look-Closely-next卷积网络，采用上下文混合动态卷积核。
 
-- **Stars:** ⭐️ 529
+- **Stars:** ⭐️ 531
 - **Tags:** `cvpr2025` `convolutional-neural-networks` `dynamic-convolution` `vision-models`
 - **最后活动时间:** 2026-05-02
 
@@ -10010,6 +10050,30 @@ ChatGPT代码解释器环境的内部技能文件集合，帮助理解其工作�
 - **Tags:** `chatgpt` `code-interpreter` `openai` `research`
 - **最后活动时间:** 2026-02-18
 
+### [alfred](https://github.com/askforalfred/alfred)
+
+AI基准测试数据集，用于评估智能体理解和执行日常任务的能力，专注于具身AI和指令理解研究。
+
+- **Stars:** ⭐️ 514
+- **Tags:** `embodied-ai` `benchmark` `instruction-following` `task-planning`
+- **最后活动时间:** 2026-02-05
+
+### [Multimodal-RAG-Survey](https://github.com/llm-lab-org/Multimodal-RAG-Survey)
+
+多模态检索增强生成（RAG）领域的综合调研论文，系统梳理了多模态RAG的技术方法与研究进展。
+
+- **Stars:** ⭐️ 514
+- **Tags:** `multimodal-learning` `rag` `retrieval-augmented-generation`
+- **最后活动时间:** 2026-02-20
+
+### [stable_signature](https://github.com/facebookresearch/stable_signature)
+
+论文官方实现：在潜在扩散模型中嵌入稳定水印，用于AI生成图像的溯源和版权保护。
+
+- **Stars:** ⭐️ 514
+- **Tags:** `watermarking` `stable-diffusion` `diffusion-models`
+- **最后活动时间:** 2026-05-11
+
 ### [ASR-TTS-paper-daily](https://github.com/halsay/ASR-TTS-paper-daily)
 
 每日更新自动语音识别(ASR)相关论文的精选资源库，涵盖语音识别与合成领域最新研究进展。
@@ -10018,45 +10082,13 @@ ChatGPT代码解释器环境的内部技能文件集合，帮助理解其工作�
 - **Tags:** `ASR` `TTS` `speech-recognition` `paper` `research`
 - **最后活动时间:** 2026-05-16
 
-### [alfred](https://github.com/askforalfred/alfred)
-
-AI基准测试数据集，用于评估智能体理解和执行日常任务的能力，专注于具身AI和指令理解研究。
-
-- **Stars:** ⭐️ 513
-- **Tags:** `embodied-ai` `benchmark` `instruction-following` `task-planning`
-- **最后活动时间:** 2026-02-05
-
-### [Multimodal-RAG-Survey](https://github.com/llm-lab-org/Multimodal-RAG-Survey)
-
-多模态检索增强生成（RAG）领域的综合调研论文，系统梳理了多模态RAG的技术方法与研究进展。
-
-- **Stars:** ⭐️ 513
-- **Tags:** `multimodal-learning` `rag` `retrieval-augmented-generation`
-- **最后活动时间:** 2026-02-20
-
-### [stable_signature](https://github.com/facebookresearch/stable_signature)
-
-论文官方实现：在潜在扩散模型中嵌入稳定水印，用于AI生成图像的溯源和版权保护。
-
-- **Stars:** ⭐️ 511
-- **Tags:** `watermarking` `stable-diffusion` `diffusion-models`
-- **最后活动时间:** 2026-05-11
-
 ### [SNN-Daily-Arxiv](https://github.com/SpikingChen/SNN-Daily-Arxiv)
 
 每日更新脉冲神经网络(Spiking Neural Networks)相关的arXiv论文，适合追踪SNN领域最新研究进展。
 
-- **Stars:** ⭐️ 508
+- **Stars:** ⭐️ 509
 - **Tags:** `spiking-neural-networks` `arxiv` `research-papers` `neuroscience`
 - **最后活动时间:** 2026-05-17
-
-### [daily-paper-reader](https://github.com/ziwenhahaha/daily-paper-reader)
-
-开源的每日 arXiv/OpenReview 论文推荐与 AI 阅读平台，支持自动更新、部署与论文问答功能。
-
-- **Stars:** ⭐️ 508
-- **Tags:** `arxiv` `paper-recommendation` `llm` `research-tool`
-- **最后活动时间:** 2026-05-25
 
 ### [Static-to-Dynamic-LLMEval](https://github.com/SeekingDream/Static-to-Dynamic-LLMEval)
 
