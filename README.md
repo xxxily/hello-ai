@@ -140,7 +140,7 @@ Open `.env` and adjust the core configurations:
   - *💡 Zero-Cost Prompt: If you are using a local LLM setup (e.g. Ollama via llama3), you can simply use `LLM_API_KEY=local-fallback`.*
 - **`LLM_PROVIDER=`**: Select a built-in provider preset (`openai`, `minimax`, `deepseek`, `ollama`). When omitted, auto-detected from `LLM_BASE_URL` or provider-specific API key env vars.
 - **`LLM_BASE_URL=`**: LLM endpoint (e.g. `https://api.openai.com/v1`, or local `http://127.0.0.1:11434/v1`).
-- **`LLM_MODEL=`**: Standard model identity to use (e.g. `gpt-4o-mini`, `MiniMax-M2.5`).
+- **`LLM_MODEL=`**: Standard model identity to use (e.g. `gpt-4o-mini`, `MiniMax-M3`).
 - **`DISCOVER_BATCH_SIZE`** / **`EVALUATE_BATCH_SIZE`** / **`UPDATE_STATUS_BATCH_SIZE`**: Modify limits per pull from GitHub, per LLM prompt, and for status update batching.
 - **`LOOP_INTERVAL_SECONDS`**: Configure the base idle time interval between consecutive `ai:loop-eval` cycles (default: 60s).
 - **`MAX_PAGES_DEFAULT`**: Default max pages to explore per topic (default: 5).
@@ -156,7 +156,7 @@ The evaluation engine supports any **OpenAI-compatible** LLM API. Built-in prese
 | Provider | `LLM_PROVIDER` | Default Model | API Key Env |
 |----------|----------------|---------------|-------------|
 | [OpenAI](https://openai.com) | `openai` | `gpt-4o-mini` | `OPENAI_API_KEY` or `LLM_API_KEY` |
-| [MiniMax](https://www.minimaxi.com) | `minimax` | `MiniMax-M2.5` | `MINIMAX_API_KEY` or `LLM_API_KEY` |
+| [MiniMax](https://www.minimaxi.com) | `minimax` | `MiniMax-M3` | `MINIMAX_API_KEY` or `LLM_API_KEY` |
 | [DeepSeek](https://deepseek.com) | `deepseek` | `deepseek-chat` | `DEEPSEEK_API_KEY` or `LLM_API_KEY` |
 | [Ollama](https://ollama.ai) (local) | `ollama` | `llama3` | N/A (uses `local-fallback`) |
 
