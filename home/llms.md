@@ -2,7 +2,7 @@
 
 > Core large language models and foundation models.
 
-> 当前分类已收录 **146** 个相关项目。
+> 当前分类已收录 **147** 个相关项目。
 
 ## Foundation Models
 
@@ -20,17 +20,17 @@
 
 Hugging Face官方深度学习模型框架，支持文本、视觉、音频和多模态模型的推理与训练，提供数千个预训练模型API。
 
-- **Stars:** ⭐️ 161.0k
+- **Stars:** ⭐️ 161.5k
 - **Tags:** `PyTorch` `Transformers` `预训练模型`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-06-12
 
 ### [minimind](https://github.com/jingyaogong/minimind)
 
 从零开始训练26M参数GPT模型的完整教程，仅需2小时即可完成。适合学习大模型底层原理的开发者。
 
-- **Stars:** ⭐️ 50.7k
+- **Stars:** ⭐️ 51.6k
 - **Tags:** `large-language-model` `gpt` `training-from-scratch`
-- **最后活动时间:** 2026-05-19
+- **最后活动时间:** 2026-06-01
 
 ### [heretic](https://github.com/p-e-w/heretic)
 
@@ -44,9 +44,9 @@ Hugging Face官方深度学习模型框架，支持文本、视觉、音频和�
 
 结合RNN和Transformer优势的创新架构，支持并行训练、线性时间复杂度、无限上下文长度，无需KV缓存。
 
-- **Stars:** ⭐️ 14.5k
+- **Stars:** ⭐️ 14.6k
 - **Tags:** `RNN` `Transformer` `LLM`
-- **最后活动时间:** 2026-05-26
+- **最后活动时间:** 2026-06-08
 
 ### [OpenMythos](https://github.com/kyegomez/OpenMythos)
 
@@ -76,9 +76,9 @@ Meta DINOv3官方PyTorch实现，先进的自监督视觉模型。
 
 面向表格数据的基础模型，可在几秒内完成分类任务，无需传统训练过程。
 
-- **Stars:** ⭐️ 7.2k
+- **Stars:** ⭐️ 7.3k
 - **Tags:** `foundation-models` `tabular-data` `machine-learning`
-- **最后活动时间:** 2026-05-28
+- **最后活动时间:** 2026-06-11
 
 ### [x-transformers](https://github.com/lucidrains/x-transformers)
 
@@ -86,15 +86,15 @@ Meta DINOv3官方PyTorch实现，先进的自监督视觉模型。
 
 - **Stars:** ⭐️ 5.9k
 - **Tags:** `transformers` `attention` `deep-learning` `pytorch`
-- **最后活动时间:** 2026-05-19
+- **最后活动时间:** 2026-06-08
 
 ### [flash-linear-attention](https://github.com/fla-org/flash-linear-attention)
 
 高效实现最先进的线性注意力模型，为大规模语言模型提供更高效的注意力机制。
 
-- **Stars:** ⭐️ 5.1k
+- **Stars:** ⭐️ 5.2k
 - **Tags:** `linear-attention` `large-language-models` `transformers` `efficient-attention`
-- **最后活动时间:** 2026-05-28
+- **最后活动时间:** 2026-06-11
 
 ### [Engram](https://github.com/deepseek-ai/Engram)
 
@@ -103,6 +103,14 @@ Meta DINOv3官方PyTorch实现，先进的自监督视觉模型。
 - **Stars:** ⭐️ 4.4k
 - **Tags:** `llm-architecture` `memory` `sparse-models`
 - **最后活动时间:** 2026-01-14
+
+### [simpletransformers](https://github.com/ThilinaRajapakse/simpletransformers)
+
+基于 Hugging Face Transformers 的简化库，提供简洁 API 实现文本分类、NER、问答等 NLP 任务。
+
+- **Stars:** ⭐️ 4.2k
+- **Tags:** `Transformers` `NLP` `Text Classification` `NER`
+- **最后活动时间:** 2026-05-31
 
 ### [TransformerLens](https://github.com/TransformerLensOrg/TransformerLens)
 
@@ -118,15 +126,7 @@ Meta DINOv3官方PyTorch实现，先进的自监督视觉模型。
 
 - **Stars:** ⭐️ 3.4k
 - **Tags:** `foundation-models` `structured-data` `machine-learning`
-- **最后活动时间:** 2026-05-26
-
-### [matmulfreellm](https://github.com/ridgerchu/matmulfreellm)
-
-无矩阵乘法大语言模型的实现，探索高效轻量的新型LLM架构。
-
-- **Stars:** ⭐️ 3.1k
-- **Tags:** `Efficient LLM` `Linear Transformer` `Research`
-- **最后活动时间:** 2025-12-02
+- **最后活动时间:** 2026-06-10
 
 ### [dllm](https://github.com/ZHZisZZ/dllm)
 
@@ -182,7 +182,7 @@ BitNet论文的PyTorch实现，探索1-bit量化Transformer在大语言模型中
 
 - **Stars:** ⭐️ 1.7k
 - **Tags:** `Neurosymbolic AI` `LLM` `Probabilistic Programming`
-- **最后活动时间:** 2026-05-18
+- **最后活动时间:** 2026-06-11
 
 ### [llm2vec](https://github.com/McGill-NLP/llm2vec)
 
@@ -192,14 +192,6 @@ BitNet论文的PyTorch实现，探索1-bit量化Transformer在大语言模型中
 - **Tags:** `llm` `text-encoder` `embeddings` `representation-learning`
 - **最后活动时间:** 2026-04-04
 
-### [coconut](https://github.com/facebookresearch/coconut)
-
-训练大语言模型在连续潜在空间中进行推理的研究项目。
-
-- **Stars:** ⭐️ 1.6k
-- **Tags:** `latent-reasoning` `llm-research` `continuous-space`
-- **最后活动时间:** 2026-04-08
-
 ### [MiniOneRec](https://github.com/AkaliKong/MiniOneRec)
 
 OneRec生成式推荐系统的最小复现版本，探索大模型在推荐系统中的应用。
@@ -208,13 +200,13 @@ OneRec生成式推荐系统的最小复现版本，探索大模型在推荐系�
 - **Tags:** `generative-recommendation` `llm` `recommender-system`
 - **最后活动时间:** 2026-05-14
 
-### [Functionary](https://github.com/MeetKai/functionary)
+### [coconut](https://github.com/facebookresearch/coconut)
 
-支持工具调用和结果解释的聊天语言模型，让 LLM 能够执行函数调用，是构建 AI 智能体的核心能力。
+训练大语言模型在连续潜在空间中进行推理的研究项目。
 
 - **Stars:** ⭐️ 1.6k
-- **Tags:** `function-calling` `agents` `llm`
-- **最后活动时间:** 2025-12-03
+- **Tags:** `latent-reasoning` `llm-research` `continuous-space`
+- **最后活动时间:** 2026-06-10
 
 ### [mamba.py](https://github.com/alxndrTL/mamba.py)
 
@@ -278,7 +270,7 @@ Meta AI推出的序列建模工具包，fairseq继任者，支持训练和部署
 
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `PyTorch` `序列建模` `深度学习`
-- **最后活动时间:** 2026-05-28
+- **最后活动时间:** 2026-06-10
 
 ### [z80ai](https://github.com/HarryR/z80ai)
 
@@ -296,6 +288,14 @@ TabTransformer的PyTorch实现，专为表格数据设计的注意力网络架�
 - **Tags:** `tabular-data` `transformer` `attention` `pytorch`
 - **最后活动时间:** 2026-01-08
 
+### [FlagGems](https://github.com/flagos-ai/FlagGems)
+
+基于Triton语言实现的大语言模型算子库，提供高性能GPU内核优化。
+
+- **Stars:** ⭐️ 1.0k
+- **Tags:** `triton` `llm` `kernels` `gpu`
+- **最后活动时间:** 2026-06-12
+
 ### [marin](https://github.com/marin-community/marin)
 
 开源基础模型研究与开发框架，支持大语言模型的训练和实验。
@@ -303,14 +303,6 @@ TabTransformer的PyTorch实现，专为表格数据设计的注意力网络架�
 - **Stars:** ⭐️ 1.0k
 - **Tags:** `foundation-models` `llm` `training-framework` `open-source`
 - **最后活动时间:** 2026-05-29
-
-### [FlagGems](https://github.com/flagos-ai/FlagGems)
-
-基于Triton语言实现的大语言模型算子库，提供高性能GPU内核优化。
-
-- **Stars:** ⭐️ 1.0k
-- **Tags:** `triton` `llm` `kernels` `gpu`
-- **最后活动时间:** 2026-05-28
 
 ### [turboquant-pytorch](https://github.com/tonbistudio/turboquant-pytorch)
 
@@ -320,19 +312,11 @@ Google TurboQuant的PyTorch实现，用于LLM KV缓存压缩，实现5倍压缩�
 - **Tags:** `llm` `kv-cache` `compression` `pytorch` `quantization`
 - **最后活动时间:** 2026-04-23
 
-### [caveman-compression](https://github.com/wilpel/caveman-compression)
-
-一种针对LLM上下文的语义压缩方法，通过移除可预测的语法结构来保留核心事实内容，有效优化上下文长度。
-
-- **Stars:** ⭐️ 969
-- **Tags:** `llm` `compression` `context` `semantic`
-- **最后活动时间:** 2025-12-03
-
 ### [gated_attention](https://github.com/qiuzh20/gated_attention)
 
 NeurIPS 2025 Oral论文官方实现，提出门控注意力机制，实现非线性、稀疏性和无注意力汇聚点，显著提升大语言模型性能。
 
-- **Stars:** ⭐️ 955
+- **Stars:** ⭐️ 961
 - **Tags:** `attention-mechanism` `large-language-models` `transformers` `neurips`
 - **最后活动时间:** 2025-12-20
 
@@ -340,7 +324,7 @@ NeurIPS 2025 Oral论文官方实现，提出门控注意力机制，实现非线
 
 MultiWOZ端到端对话模型源码，支持多领域任务型对话系统。
 
-- **Stars:** ⭐️ 947
+- **Stars:** ⭐️ 950
 - **Tags:** `dialogue-system` `nlp` `seq2seq` `machine-learning`
 - **最后活动时间:** 2026-04-18
 
@@ -360,21 +344,21 @@ PyTorch图与超图神经网络计算库，支持复杂关系建模，适用于�
 - **Tags:** `hypergraph` `graph-neural-networks` `pytorch` `deep-learning`
 - **最后活动时间:** 2025-12-31
 
+### [NEO](https://github.com/EvolvingLMMs-Lab/NEO)
+
+原生视觉语言模型系列，从第一性原理构建的编码器自由VLM架构。
+
+- **Stars:** ⭐️ 825
+- **Tags:** `VLM` `Multimodal` `Native`
+- **最后活动时间:** 2026-05-28
+
 ### [rotary-embedding-torch](https://github.com/lucidrains/rotary-embedding-torch)
 
 RoFormer论文中旋转位置编码的PyTorch实现，提升Transformer位置表示能力。
 
-- **Stars:** ⭐️ 813
+- **Stars:** ⭐️ 812
 - **Tags:** `rotary-embedding` `positional-encoding` `transformers` `pytorch`
 - **最后活动时间:** 2026-01-30
-
-### [calm](https://github.com/shaochenze/calm)
-
-连续自回归语言模型的官方实现，探索新型LLM架构的前沿研究项目。
-
-- **Stars:** ⭐️ 807
-- **Tags:** `autoregressive` `language-model` `architecture` `research`
-- **最后活动时间:** 2026-05-07
 
 ### [R-Zero](https://github.com/Chengsong-Huang/R-Zero)
 
@@ -384,6 +368,14 @@ ICLR论文项目，实现从零数据开始的自进化推理大语言模型。
 - **Tags:** `llm` `reasoning` `self-evolving` `zero-data`
 - **最后活动时间:** 2026-02-04
 
+### [calm](https://github.com/shaochenze/calm)
+
+连续自回归语言模型的官方实现，探索新型LLM架构的前沿研究项目。
+
+- **Stars:** ⭐️ 806
+- **Tags:** `autoregressive` `language-model` `architecture` `research`
+- **最后活动时间:** 2026-05-07
+
 ### [OpenOneRec](https://github.com/Kuaishou-OneRec/OpenOneRec)
 
 开源推荐系统基础模型与基准测试，加速生成式推荐领域发展。
@@ -391,14 +383,6 @@ ICLR论文项目，实现从零数据开始的自进化推理大语言模型。
 - **Stars:** ⭐️ 792
 - **Tags:** `Recommendation` `Foundation Models` `Benchmark`
 - **最后活动时间:** 2026-05-18
-
-### [NEO](https://github.com/EvolvingLMMs-Lab/NEO)
-
-原生视觉语言模型系列，从第一性原理构建的编码器自由VLM架构。
-
-- **Stars:** ⭐️ 778
-- **Tags:** `VLM` `Multimodal` `Native`
-- **最后活动时间:** 2026-05-28
 
 ### [moment](https://github.com/moment-timeseries-foundation-model/moment)
 
@@ -415,6 +399,14 @@ ICLR论文项目，实现从零数据开始的自进化推理大语言模型。
 - **Stars:** ⭐️ 702
 - **Tags:** `jax` `foundation-models` `deep-learning` `transformers`
 - **最后活动时间:** 2026-01-26
+
+### [progen](https://github.com/salesforce/progen)
+
+蛋白质生成模型的官方发布版本，用于蛋白质序列设计和生成。
+
+- **Stars:** ⭐️ 701
+- **Tags:** `protein-generation` `language-model` `bioinformatics` `generative-ai`
+- **最后活动时间:** 2026-06-02
 
 ### [recurrentgemma](https://github.com/google-deepmind/recurrentgemma)
 
@@ -460,9 +452,25 @@ ICLR 2025论文官方实现：门控Delta网络，使用Delta规则改进Mamba2�
 
 Julia语言实现的Transformer模型库，基于Flux深度学习框架。
 
-- **Stars:** ⭐️ 573
+- **Stars:** ⭐️ 572
 - **Tags:** `transformer` `julia` `flux` `deep-learning`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-06-11
+
+### [CodeRL](https://github.com/salesforce/CodeRL)
+
+NeurIPS 2022论文官方代码，通过预训练模型和深度强化学习掌握代码生成技术。
+
+- **Stars:** ⭐️ 571
+- **Tags:** `code-generation` `reinforcement-learning` `language-model` `program-synthesis`
+- **最后活动时间:** 2026-06-02
+
+### [microgpt-c](https://github.com/vixhal-baraiya/microgpt-c)
+
+纯C语言实现的最小化GPT训练与推理框架，零依赖，适合学习大模型底层原理。
+
+- **Stars:** ⭐️ 571
+- **Tags:** `gpt` `llm` `deep-learning` `c` `machine-learning`
+- **最后活动时间:** 2026-05-03
 
 ### [eb_jepa](https://github.com/facebookresearch/eb_jepa)
 
@@ -472,19 +480,11 @@ Julia语言实现的Transformer模型库，基于Flux深度学习框架。
 - **Tags:** `jepa` `representation-learning` `self-supervised` `vision`
 - **最后活动时间:** 2026-04-15
 
-### [microgpt-c](https://github.com/vixhal-baraiya/microgpt-c)
-
-纯C语言实现的最小化GPT训练与推理框架，零依赖，适合学习大模型底层原理。
-
-- **Stars:** ⭐️ 566
-- **Tags:** `gpt` `llm` `deep-learning` `c` `machine-learning`
-- **最后活动时间:** 2026-05-03
-
 ### [CL-bench](https://github.com/Tencent-Hunyuan/CL-bench)
 
 上下文学习基准测试工具，用于评估大语言模型的上下文学习能力。
 
-- **Stars:** ⭐️ 553
+- **Stars:** ⭐️ 556
 - **Tags:** `benchmark` `context-learning` `language-model` `llm-evaluation`
 - **最后活动时间:** 2026-05-12
 
@@ -526,7 +526,7 @@ Julia语言实现的Transformer模型库，基于Flux深度学习框架。
 
 OpenAI的对比语言-图像预训练模型，实现图像与文本的联合理解。
 
-- **Stars:** ⭐️ 33.6k
+- **Stars:** ⭐️ 33.8k
 - **Tags:** `deep-learning` `multimodal` `clip` `openai`
 - **最后活动时间:** 2026-03-25
 
@@ -550,7 +550,7 @@ OpenAI的对比语言-图像预训练模型，实现图像与文本的联合理�
 
 阿里云通义千问官方大语言模型，支持中英双语及多模态能力。提供预训练和对话模型，广泛应用于自然语言处理任务。
 
-- **Stars:** ⭐️ 21.2k
+- **Stars:** ⭐️ 21.3k
 - **Tags:** `LLM` `Alibaba` `Chinese`
 - **最后活动时间:** 2026-03-05
 
@@ -654,7 +654,7 @@ llama.cpp的Python绑定库，支持在本地高效运行LLaMA等大语言模型
 
 ONNX格式预训练模型集合，提供多种最先进模型的开箱即用版本。
 
-- **Stars:** ⭐️ 9.6k
+- **Stars:** ⭐️ 9.7k
 - **Tags:** `ONNX` `Pre-trained Models` `Deep Learning`
 - **最后活动时间:** 2026-05-01
 
@@ -670,9 +670,9 @@ ONNX格式预训练模型集合，提供多种最先进模型的开箱即用版�
 
 面向端侧设备的超高效大语言模型，在推理任务上实现3倍以上的生成加速，适合移动端和边缘设备部署。
 
-- **Stars:** ⭐️ 9.2k
+- **Stars:** ⭐️ 9.4k
 - **Tags:** `Edge AI` `Efficient LLM` `Mobile`
-- **最后活动时间:** 2026-05-26
+- **最后活动时间:** 2026-06-12
 
 ### [alphafold3](https://github.com/google-deepmind/alphafold3)
 
@@ -702,9 +702,9 @@ DeepMind AlphaFold 3蛋白质结构预测模型的推理管道，用于生物分
 
 基于预训练Transformer的时间序列预测模型，支持零样本预测能力，适用于多种时序预测场景。
 
-- **Stars:** ⭐️ 5.4k
+- **Stars:** ⭐️ 5.5k
 - **Tags:** `Time Series` `Forecasting` `Foundation Models`
-- **最后活动时间:** 2026-04-21
+- **最后活动时间:** 2026-06-11
 
 ### [gemma](https://github.com/google-deepmind/gemma)
 
@@ -713,6 +713,14 @@ Google DeepMind开源的轻量级大语言模型库，提供高效且可商用�
 - **Stars:** ⭐️ 5.3k
 - **Tags:** `LLM` `Google DeepMind` `Open Source`
 - **最后活动时间:** 2026-05-29
+
+### [CodeGen](https://github.com/salesforce/CodeGen)
+
+Salesforce开源的代码生成模型家族，TPU-v4训练，性能媲美OpenAI Codex。
+
+- **Stars:** ⭐️ 5.2k
+- **Tags:** `Code Generation` `Program Synthesis` `TPU` `Open Source`
+- **最后活动时间:** 2026-06-02
 
 ### [Huatuo-Llama-Med-Chinese](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese)
 
@@ -726,7 +734,7 @@ Google DeepMind开源的轻量级大语言模型库，提供高效且可商用�
 
 智谱AI推出的新一代基础大模型，具备智能体、推理和编程(ARC)能力，采用MoE架构。
 
-- **Stars:** ⭐️ 4.3k
+- **Stars:** ⭐️ 4.4k
 - **Tags:** `LLM` `MoE` `Agent` `Reasoning`
 - **最后活动时间:** 2026-02-01
 
@@ -744,7 +752,7 @@ TimeGPT-1首个生产级时间序列基础模型，基于1000亿数据点训练�
 
 - **Stars:** ⭐️ 3.9k
 - **Tags:** `Time Series` `Forecasting` `Foundation Model`
-- **最后活动时间:** 2026-05-21
+- **最后活动时间:** 2026-06-12
 
 ### [evo2](https://github.com/ArcInstitute/evo2)
 
@@ -760,13 +768,13 @@ Arc Institute发布的基因组建模与设计大模型，覆盖所有生命领�
 
 - **Stars:** ⭐️ 3.5k
 - **Tags:** `llm` `qwen` `language-model` `alibaba`
-- **最后活动时间:** 2026-05-11
+- **最后活动时间:** 2026-06-03
 
 ### [GLM-5](https://github.com/zai-org/GLM-5)
 
 智谱AI开源的第五代大语言模型，专注于从代码生成到智能体工程的全栈AI能力。支持复杂推理、代码编写和自主智能体任务执行。
 
-- **Stars:** ⭐️ 3.3k
+- **Stars:** ⭐️ 3.4k
 - **Tags:** `LLM` `Agentic AI` `Coding`
 - **最后活动时间:** 2026-05-15
 
@@ -778,13 +786,13 @@ Arc Institute发布的基因组建模与设计大模型，覆盖所有生命领�
 - **Tags:** `llm` `small-language-model` `open-source`
 - **最后活动时间:** 2026-04-15
 
-### [LLaVA-CoT](https://github.com/PKU-YuanGroup/LLaVA-CoT)
+### [CodeT5](https://github.com/salesforce/CodeT5)
 
-ICCV 2025 论文项目，具备自发系统性推理能力的视觉语言模型，在多模态理解任务中表现优异。
+开源代码大语言模型，专注于代码理解与生成任务，支持多种编程语言。
 
-- **Stars:** ⭐️ 2.1k
-- **Tags:** `vision-language-model` `reasoning` `multimodal` `open-source`
-- **最后活动时间:** 2025-12-12
+- **Stars:** ⭐️ 3.1k
+- **Tags:** `Code LLM` `Open Source` `Code Generation`
+- **最后活动时间:** 2026-06-02
 
 ### [Step-3.5-Flash](https://github.com/stepfun-ai/Step-3.5-Flash)
 
@@ -898,14 +906,6 @@ Emu3.5 原生多模态模型，作为世界学习者探索通用智能。
 - **Tags:** `electra` `chinese` `pretrained-model` `nlp`
 - **最后活动时间:** 2026-04-19
 
-### [giga-models](https://github.com/open-gigaai/giga-models)
-
-综合性多模态、生成式和感知模型仓库平台，提供丰富的预训练模型资源。
-
-- **Stars:** ⭐️ 1.0k
-- **Tags:** `multimodal-models` `generative-ai` `perceptual-models`
-- **最后活动时间:** 2025-12-08
-
 ### [Large-Time-Series-Model](https://github.com/thuml/Large-Time-Series-Model)
 
 ICML 2024论文官方代码，时间序列领域的大型生成预训练Transformer模型。
@@ -918,33 +918,33 @@ ICML 2024论文官方代码，时间序列领域的大型生成预训练Transfor
 
 Keras 3官方预训练模型中心，支持JAX、TensorFlow、PyTorch后端，涵盖LLM、CV等多种模型。
 
-- **Stars:** ⭐️ 980
+- **Stars:** ⭐️ 984
 - **Tags:** `Keras` `预训练模型` `多后端`
-- **最后活动时间:** 2026-05-28
+- **最后活动时间:** 2026-06-10
 
 ### [Time-MoE](https://github.com/Time-MoE/Time-MoE)
 
 ICLR 2025 Spotlight论文官方实现，十亿级时间序列基础模型，采用混合专家架构。
 
-- **Stars:** ⭐️ 971
+- **Stars:** ⭐️ 975
 - **Tags:** `deep-learning` `foundation-models` `time-series` `mixture-of-experts`
 - **最后活动时间:** 2026-03-21
-
-### [cosmos-reason1](https://github.com/nvidia-cosmos/cosmos-reason1)
-
-NVIDIA推出的物理常识推理模型，通过长链式思维推理理解物理世界并生成具身决策。
-
-- **Stars:** ⭐️ 948
-- **Tags:** `embodied-ai` `reasoning` `nvidia` `multimodal`
-- **最后活动时间:** 2026-01-06
 
 ### [tabicl](https://github.com/soda-inria/tabicl)
 
 最先进的表格数据基础模型，为结构化数据提供强大的深度学习能力。
 
-- **Stars:** ⭐️ 910
+- **Stars:** ⭐️ 952
 - **Tags:** `deep-learning` `foundation-models` `tabular-data` `machine-learning`
-- **最后活动时间:** 2026-05-01
+- **最后活动时间:** 2026-06-08
+
+### [cosmos-reason1](https://github.com/nvidia-cosmos/cosmos-reason1)
+
+NVIDIA推出的物理常识推理模型，通过长链式思维推理理解物理世界并生成具身决策。
+
+- **Stars:** ⭐️ 950
+- **Tags:** `embodied-ai` `reasoning` `nvidia` `multimodal`
+- **最后活动时间:** 2026-06-07
 
 ### [MiniGPT-4-ZH](https://github.com/RiseInRose/MiniGPT-4-ZH)
 
@@ -958,7 +958,7 @@ MiniGPT-4中文部署指南与翻译，完善了本地化部署细节。
 
 开源神经机器翻译模型和Web服务，支持多语言翻译。
 
-- **Stars:** ⭐️ 817
+- **Stars:** ⭐️ 825
 - **Tags:** `machine-translation` `nlp` `neural-machine-translation` `translation`
 - **最后活动时间:** 2026-02-23
 
@@ -982,7 +982,7 @@ Meta AI Research的代码生成模型工具包，包含预训练模型和完整�
 
 基于BERT架构的DNA序列预训练模型，将NLP技术应用于基因组分析，支持DNA序列分类和预测任务。
 
-- **Stars:** ⭐️ 751
+- **Stars:** ⭐️ 757
 - **Tags:** `Genomics` `Transformer` `Bio-AI`
 - **最后活动时间:** 2026-01-22
 
@@ -994,11 +994,19 @@ Meta AI Research的代码生成模型工具包，包含预训练模型和完整�
 - **Tags:** `alphafold` `protein-folding` `biomolecular` `deep-learning` `structural-biology`
 - **最后活动时间:** 2026-05-27
 
+### [xgen](https://github.com/salesforce/xgen)
+
+Salesforce开源LLM系列，支持8K长上下文，适合长文本任务。
+
+- **Stars:** ⭐️ 727
+- **Tags:** `salesforce` `long-context` `open-source` `llm`
+- **最后活动时间:** 2026-06-02
+
 ### [MacBERT](https://github.com/ymcui/MacBERT)
 
 改进的中文BERT预训练模型，采用掩码语言模型纠错策略，在多项中文NLP任务上表现优异。
 
-- **Stars:** ⭐️ 713
+- **Stars:** ⭐️ 714
 - **Tags:** `bert` `macbert` `chinese` `pretrained-model`
 - **最后活动时间:** 2026-04-19
 
@@ -1014,15 +1022,15 @@ Falcon-Perception 和 Falcon-OCR 模型的推理仓库，支持早期融合的�
 
 开源扩散语言模型，专注于代码生成任务。
 
-- **Stars:** ⭐️ 621
+- **Stars:** ⭐️ 631
 - **Tags:** `diffusion-models` `large-language-models` `code-generation`
-- **最后活动时间:** 2026-05-11
+- **最后活动时间:** 2026-05-31
 
 ### [Chinese-Mixtral](https://github.com/ymcui/Chinese-Mixtral)
 
 中文Mixtral混合专家大模型，支持32K/64K上下文，适用于长文本处理场景。
 
-- **Stars:** ⭐️ 612
+- **Stars:** ⭐️ 613
 - **Tags:** `mixtral` `moe` `chinese` `llm`
 - **最后活动时间:** 2026-04-19
 
@@ -1038,7 +1046,7 @@ Falcon-Perception 和 Falcon-OCR 模型的推理仓库，支持早期融合的�
 
 开放科学项目，用于评估基础模型在法律推理任务上的能力，涵盖多种法律场景。
 
-- **Stars:** ⭐️ 586
+- **Stars:** ⭐️ 593
 - **Tags:** `legal-ai` `llm-benchmark` `legal-reasoning` `foundation-models`
 - **最后活动时间:** 2026-03-30
 
@@ -1050,14 +1058,6 @@ Falcon-Perception 和 Falcon-OCR 模型的推理仓库，支持早期融合的�
 - **Tags:** `bert` `protein` `bioinformatics` `deep-learning` `transformers`
 - **最后活动时间:** 2026-04-07
 
-### [MiniMax-M2.1](https://github.com/MiniMax-AI/MiniMax-M2.1)
-
-MiniMax 推出的 SOTA 大模型，专为实际开发和智能体应用优化。
-
-- **Stars:** ⭐️ 546
-- **Tags:** `llm` `agent` `large-language-models` `ai-coding-models`
-- **最后活动时间:** 2026-01-28
-
 ### [OpenLTM](https://github.com/thuml/OpenLTM)
 
 大型时间序列模型的实现、预训练代码和数据集集合。
@@ -1065,6 +1065,14 @@ MiniMax 推出的 SOTA 大模型，专为实际开发和智能体应用优化。
 - **Stars:** ⭐️ 545
 - **Tags:** `deep-learning` `large-model` `time-series` `foundation-model`
 - **最后活动时间:** 2026-03-22
+
+### [MiniMax-M2.1](https://github.com/MiniMax-AI/MiniMax-M2.1)
+
+MiniMax 推出的 SOTA 大模型，专为实际开发和智能体应用优化。
+
+- **Stars:** ⭐️ 544
+- **Tags:** `llm` `agent` `large-language-models` `ai-coding-models`
+- **最后活动时间:** 2026-01-28
 
 ### [mlx-swift-lm](https://github.com/ml-explore/mlx-swift-lm)
 
@@ -1090,7 +1098,7 @@ MiniMax 推出的 SOTA 大模型，专为实际开发和智能体应用优化。
 
 - **Stars:** ⭐️ 66.3k
 - **Tags:** `GPT` `Free API` `Language Models`
-- **最后活动时间:** 2026-05-27
+- **最后活动时间:** 2026-06-11
 
 ### [Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder)
 

@@ -2,7 +2,7 @@
 
 > Autonomous agents and multi-agent systems.
 
-> 当前分类已收录 **1536** 个相关项目。
+> 当前分类已收录 **1533** 个相关项目。
 
 ## Agent Frameworks
 
@@ -10,57 +10,57 @@
 
 一个智能体技能框架和软件开发方法论，帮助开发者构建更高效的AI代理系统。
 
-- **Stars:** ⭐️ 211.1k
+- **Stars:** ⭐️ 225.3k
 - **Tags:** `agent-framework` `agentic-skills` `ai-agent`
-- **最后活动时间:** 2026-05-27
+- **最后活动时间:** 2026-06-11
 
 ### [ECC](https://github.com/affaan-m/ECC)
 
 AI Agent性能优化框架，为Claude Code、Codex、Cursor等编程智能体提供技能、记忆、安全和研究优先的开发能力。
 
-- **Stars:** ⭐️ 197.4k
+- **Stars:** ⭐️ 213.8k
 - **Tags:** `ai-agents` `claude-code` `mcp` `developer-tools`
-- **最后活动时间:** 2026-05-28
-
-### [langflow](https://github.com/langflow-ai/langflow)
-
-可视化AI智能体和工作流构建平台，支持拖拽式设计复杂的AI应用，无需编写代码即可快速部署。
-
-- **Stars:** ⭐️ 148.9k
-- **Tags:** `Visual Builder` `Workflow` `LLM`
-- **最后活动时间:** 2026-05-29
-
-### [dify](https://github.com/langgenius/dify)
-
-生产级AI智能体工作流开发平台，支持低代码快速构建AI应用，提供可视化编排、RAG集成、多模型支持。
-
-- **Stars:** ⭐️ 143.0k
-- **Tags:** `Workflow` `Low-code` `RAG`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-06-11
 
 ### [skills](https://github.com/anthropics/skills)
 
 Agent Skills 公共仓库，提供智能体技能模块的集合与共享。
 
-- **Stars:** ⭐️ 142.9k
+- **Stars:** ⭐️ 149.7k
 - **Tags:** `agent-skills` `ai-agent`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-06-09
+
+### [langflow](https://github.com/langflow-ai/langflow)
+
+可视化AI智能体和工作流构建平台，支持拖拽式设计复杂的AI应用，无需编写代码即可快速部署。
+
+- **Stars:** ⭐️ 149.6k
+- **Tags:** `Visual Builder` `Workflow` `LLM`
+- **最后活动时间:** 2026-06-12
+
+### [dify](https://github.com/langgenius/dify)
+
+生产级AI智能体工作流开发平台，支持低代码快速构建AI应用，提供可视化编排、RAG集成、多模型支持。
+
+- **Stars:** ⭐️ 144.9k
+- **Tags:** `Workflow` `Low-code` `RAG`
+- **最后活动时间:** 2026-06-12
 
 ### [LangChain](https://github.com/langchain-ai/langchain)
 
 用于构建上下文感知推理应用程序的流行框架，是开发LLM应用的核心工具。
 
-- **Stars:** ⭐️ 137.9k
+- **Stars:** ⭐️ 139.1k
 - **Tags:** `Framework` `LLM` `Python`
-- **最后活动时间:** 2026-05-28
+- **最后活动时间:** 2026-06-12
 
 ### [agency-agents](https://github.com/msitarzewski/agency-agents)
 
 完整的AI代理团队框架，包含前端开发、社区运营、创意注入等多种专业化智能体。
 
-- **Stars:** ⭐️ 105.8k
+- **Stars:** ⭐️ 111.9k
 - **Tags:** `ai-agents` `agent-framework` `automation` `multi-agent`
-- **最后活动时间:** 2026-04-12
+- **最后活动时间:** 2026-06-07
 
 ### [servers](https://github.com/modelcontextprotocol/servers)
 
@@ -74,31 +74,31 @@ Model Context Protocol (MCP) 服务器集合，为 AI 助手提供标准化的�
 
 Claude Code插件，自动捕获编码会话操作，通过AI压缩并注入相关上下文，实现Claude的长期记忆功能。
 
-- **Stars:** ⭐️ 79.5k
+- **Stars:** ⭐️ 81.9k
 - **Tags:** `Claude` `Memory` `RAG`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-06-11
 
 ### [lobehub](https://github.com/lobehub/lobehub)
 
 一站式AI智能体协作平台，支持多智能体协同、知识库管理和多模型集成。
 
-- **Stars:** ⭐️ 77.9k
+- **Stars:** ⭐️ 78.5k
 - **Tags:** `Agent` `Multi-Agent` `Knowledge-Base` `MCP`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-06-12
 
 ### [deer-flow](https://github.com/bytedance/deer-flow)
 
 字节跳动开源的SuperAgent框架，支持研究、编程和创作任务，处理分钟到小时级别的复杂任务。
 
-- **Stars:** ⭐️ 69.9k
+- **Stars:** ⭐️ 71.0k
 - **Tags:** `SuperAgent` `Multi-Agent` `LangGraph` `ByteDance`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-06-12
 
 ### [MetaGPT](https://github.com/FoundationAgents/MetaGPT)
 
 多智能体协作框架，让多个AI角色协同完成软件开发，实现自然语言编程的愿景。
 
-- **Stars:** ⭐️ 68.4k
+- **Stars:** ⭐️ 68.7k
 - **Tags:** `Multi-Agent` `LLM` `GPT` `Automation`
 - **最后活动时间:** 2026-01-21
 
@@ -106,15 +106,31 @@ Claude Code插件，自动捕获编码会话操作，通过AI压缩并注入相�
 
 强大的AI智能体编排框架，支持多种AI模型和IDE集成，提供统一TUI界面管理工作流程。
 
-- **Stars:** ⭐️ 60.0k
+- **Stars:** ⭐️ 62.0k
 - **Tags:** `AI Agents` `Orchestration` `TUI`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-06-12
+
+### [pi](https://github.com/earendil-works/pi)
+
+一个全面的AI智能体工具包，提供编码代理CLI、统一LLM API接口、TUI和Web UI库、Slack机器人及vLLM部署模块，助力开发者快速构建和部署AI应用。
+
+- **Stars:** ⭐️ 61.9k
+- **Tags:** `ai-agent` `llm` `toolkit` `cli` `vllm`
+- **最后活动时间:** 2026-06-12
+
+### [ruflo](https://github.com/ruvnet/ruflo)
+
+领先的Claude智能体编排平台，支持多智能体集群部署和自主工作流协调，具备企业级架构能力。
+
+- **Stars:** ⭐️ 59.0k
+- **Tags:** `Multi-Agent` `Claude` `编排平台`
+- **最后活动时间:** 2026-06-12
 
 ### [autogen](https://github.com/microsoft/autogen)
 
 微软开源的智能体编程框架，支持多智能体协作对话与复杂任务编排，轻松构建可定制的AI智能体应用。
 
-- **Stars:** ⭐️ 58.5k
+- **Stars:** ⭐️ 58.9k
 - **Tags:** `Multi-Agent` `Framework` `Microsoft` `LLM`
 - **最后活动时间:** 2026-04-15
 
@@ -122,33 +138,33 @@ Claude Code插件，自动捕获编码会话操作，通过AI压缩并注入相�
 
 为AI智能体提供通用记忆层，支持长期记忆存储与检索，让AI助手记住用户偏好实现个性化交互。
 
-- **Stars:** ⭐️ 57.0k
+- **Stars:** ⭐️ 58.4k
 - **Tags:** `Memory` `AI Agents` `LLM`
-- **最后活动时间:** 2026-05-28
+- **最后活动时间:** 2026-06-12
 
-### [pi](https://github.com/earendil-works/pi)
+### [agent-skills](https://github.com/addyosmani/agent-skills)
 
-一个全面的AI智能体工具包，提供编码代理CLI、统一LLM API接口、TUI和Web UI库、Slack机器人及vLLM部署模块，助力开发者快速构建和部署AI应用。
+为 AI 编程智能体提供生产级工程技能的工具集，支持多种主流 AI 编程助手。
 
-- **Stars:** ⭐️ 57.0k
-- **Tags:** `ai-agent` `llm` `toolkit` `cli` `vllm`
-- **最后活动时间:** 2026-05-28
-
-### [ruflo](https://github.com/ruvnet/ruflo)
-
-领先的Claude智能体编排平台，支持多智能体集群部署和自主工作流协调，具备企业级架构能力。
-
-- **Stars:** ⭐️ 56.2k
-- **Tags:** `Multi-Agent` `Claude` `编排平台`
-- **最后活动时间:** 2026-05-29
+- **Stars:** ⭐️ 55.6k
+- **Tags:** `agent-skills` `claude-code` `cursor` `ai-agent`
+- **最后活动时间:** 2026-06-11
 
 ### [Flowise](https://github.com/FlowiseAI/Flowise)
 
 可视化AI智能体构建平台，支持拖拽式创建LangChain工作流，无需编码即可构建RAG应用和聊天机器人。
 
-- **Stars:** ⭐️ 53.2k
+- **Stars:** ⭐️ 53.5k
 - **Tags:** `Low-code` `LangChain` `Visual Builder` `AI Agents`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-06-10
+
+### [crewAI](https://github.com/crewAIInc/crewAI)
+
+用于编排角色扮演自主AI智能体的框架，支持多智能体协同解决复杂任务。
+
+- **Stars:** ⭐️ 53.3k
+- **Tags:** `agents` `ai-agents` `llms`
+- **最后活动时间:** 2026-06-12
 
 ### [mempalace](https://github.com/MemPalace/mempalace)
 
@@ -158,14 +174,6 @@ Claude Code插件，自动捕获编码会话操作，通过AI压缩并注入相�
 - **Tags:** `ai` `memory` `llm` `mcp` `chromadb`
 - **最后活动时间:** 2026-05-27
 
-### [crewAI](https://github.com/crewAIInc/crewAI)
-
-用于编排角色扮演自主AI智能体的框架，支持多智能体协同解决复杂任务。
-
-- **Stars:** ⭐️ 52.4k
-- **Tags:** `agents` `ai-agents` `llms`
-- **最后活动时间:** 2026-05-28
-
 ### [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)
 
 OpenClaw技能精选合集，包含5400+个经过筛选分类的AI智能体技能，帮助开发者快速发现和使用预构建能力。
@@ -174,29 +182,29 @@ OpenClaw技能精选合集，包含5400+个经过筛选分类的AI智能体技�
 - **Tags:** `智能体技能` `Awesome List` `Agent`
 - **最后活动时间:** 2026-05-27
 
-### [agent-skills](https://github.com/addyosmani/agent-skills)
-
-为 AI 编程智能体提供生产级工程技能的工具集，支持多种主流 AI 编程助手。
-
-- **Stars:** ⭐️ 46.8k
-- **Tags:** `agent-skills` `claude-code` `cursor` `ai-agent`
-- **最后活动时间:** 2026-05-28
-
 ### [CLI-Anything](https://github.com/HKUDS/CLI-Anything)
 
 让所有软件都能被AI代理原生调用的CLI工具框架，推动软件代理化发展。
 
-- **Stars:** ⭐️ 41.1k
+- **Stars:** ⭐️ 42.8k
 - **Tags:** `cli` `agent-native` `ai-tools` `automation`
-- **最后活动时间:** 2026-05-23
+- **最后活动时间:** 2026-06-11
+
+### [taste-skill](https://github.com/Leonxlnx/taste-skill)
+
+赋予AI良好审美的技能模块，阻止AI生成平庸通用的内容，提升输出质量与创意水准。
+
+- **Stars:** ⭐️ 41.8k
+- **Tags:** `AI Taste` `Vibe Coding` `Quality`
+- **最后活动时间:** 2026-06-11
 
 ### [agno](https://github.com/agno-agi/agno)
 
 企业级智能体开发框架，支持大规模构建、运行和管理Agent系统，提供完整的开发工具链。
 
-- **Stars:** ⭐️ 40.4k
+- **Stars:** ⭐️ 40.7k
 - **Tags:** `AI Agents` `框架` `企业级`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-06-12
 
 ### [minds-platform](https://github.com/mindsdb/minds-platform)
 
@@ -218,55 +226,63 @@ AI分析查询引擎，支持在实时数据上构建自推理智能体，集成
 
 Claude Code智能自动化与多智能体编排框架，支持子代理协作工作流。
 
-- **Stars:** ⭐️ 36.1k
+- **Stars:** ⭐️ 36.6k
 - **Tags:** `Agents` `Orchestration` `Claude-Code`
-- **最后活动时间:** 2026-05-26
-
-### [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
-
-开源多模态AI智能体技术栈，连接前沿AI模型与智能体基础设施，支持浏览器操作与GUI自动化。
-
-- **Stars:** ⭐️ 35.6k
-- **Tags:** `Agent` `Multimodal` `GUI自动化`
-- **最后活动时间:** 2026-05-18
+- **最后活动时间:** 2026-06-12
 
 ### [multica](https://github.com/multica-ai/multica)
 
 开源的智能体管理平台，将编码代理转化为真正的团队成员，支持任务分配、进度追踪和技能复合。
 
-- **Stars:** ⭐️ 34.0k
+- **Stars:** ⭐️ 36.3k
 - **Tags:** `agent-platform` `coding-agents` `multi-agent`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-06-12
+
+### [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
+
+开源多模态AI智能体技术栈，连接前沿AI模型与智能体基础设施，支持浏览器操作与GUI自动化。
+
+- **Stars:** ⭐️ 36.3k
+- **Tags:** `Agent` `Multimodal` `GUI自动化`
+- **最后活动时间:** 2026-05-18
 
 ### [obsidian-skills](https://github.com/kepano/obsidian-skills)
 
 为AI代理提供Obsidian操作技能的工具集，增强代理与知识库的交互能力。
 
-- **Stars:** ⭐️ 33.4k
+- **Stars:** ⭐️ 35.4k
 - **Tags:** `Agent Skills` `Obsidian` `Knowledge Base`
-- **最后活动时间:** 2026-05-24
+- **最后活动时间:** 2026-06-08
 
-### [AstrBot](https://github.com/AstrBotDevs/AstrBot)
+### [CopilotKit](https://github.com/CopilotKit/CopilotKit)
 
-一站式IM聊天机器人框架，支持多平台接入和多LLM集成，具备插件系统和Agent能力。
+面向AI智能体和生成式UI的前端开发框架，支持React和Angular，提供AG-UI协议实现。
 
-- **Stars:** ⭐️ 33.3k
-- **Tags:** `Agent` `Chatbot` `LLM` `MCP`
-- **最后活动时间:** 2026-05-29
+- **Stars:** ⭐️ 34.8k
+- **Tags:** `AI Agent` `React` `Generative UI` `LLM`
+- **最后活动时间:** 2026-06-12
 
 ### [langgraph](https://github.com/langchain-ai/langgraph)
 
 LangChain团队开发的图编排框架，支持复杂多智能体工作流的状态管理和循环控制。
 
-- **Stars:** ⭐️ 33.3k
+- **Stars:** ⭐️ 34.5k
 - **Tags:** `LangChain` `Multi-Agent` `Workflow`
-- **最后活动时间:** 2026-05-28
+- **最后活动时间:** 2026-06-12
+
+### [AstrBot](https://github.com/AstrBotDevs/AstrBot)
+
+一站式IM聊天机器人框架，支持多平台接入和多LLM集成，具备插件系统和Agent能力。
+
+- **Stars:** ⭐️ 34.5k
+- **Tags:** `Agent` `Chatbot` `LLM` `MCP`
+- **最后活动时间:** 2026-06-10
 
 ### [ChatDev](https://github.com/OpenBMB/ChatDev)
 
 基于LLM多智能体协作的软件开发框架，让AI团队自主完成软件全流程开发。
 
-- **Stars:** ⭐️ 33.2k
+- **Stars:** ⭐️ 33.4k
 - **Tags:** `Multi-Agent` `Software Development` `LLM` `Collaboration`
 - **最后活动时间:** 2026-05-27
 
@@ -276,23 +292,15 @@ LangChain团队开发的图编排框架，支持复杂多智能体工作流的�
 
 - **Stars:** ⭐️ 31.9k
 - **Tags:** `Agent` `Workflow` `Orchestration`
-- **最后活动时间:** 2026-05-29
-
-### [CopilotKit](https://github.com/CopilotKit/CopilotKit)
-
-面向AI智能体和生成式UI的前端开发框架，支持React和Angular，提供AG-UI协议实现。
-
-- **Stars:** ⭐️ 31.8k
-- **Tags:** `AI Agent` `React` `Generative UI` `LLM`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-06-12
 
 ### [zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)
 
 快速、轻量且完全自主的AI个人助手基础设施，支持跨平台部署和组件替换。
 
-- **Stars:** ⭐️ 31.6k
+- **Stars:** ⭐️ 31.9k
 - **Tags:** `agent` `ai` `infrastructure` `rust`
-- **最后活动时间:** 2026-05-28
+- **最后活动时间:** 2026-06-12
 
 ### [github-mcp-server](https://github.com/github/github-mcp-server)
 
@@ -302,6 +310,14 @@ GitHub官方MCP服务器，让AI助手能够与GitHub仓库、Issues、PR等进�
 - **Tags:** `MCP` `GitHub` `Agent Tools`
 - **最后活动时间:** 2026-05-28
 
+### [sim](https://github.com/simstudioai/sim)
+
+AI智能体构建与编排平台，支持低代码开发与多LLM提供商集成，快速部署AI工作流。
+
+- **Stars:** ⭐️ 28.8k
+- **Tags:** `AI Agents` `Workflow Orchestration` `Multi-LLM` `Low-Code`
+- **最后活动时间:** 2026-06-12
+
 ### [nanoclaw](https://github.com/qwibitai/nanoclaw)
 
 轻量级AI智能体框架，支持容器化安全部署，可连接WhatsApp、Telegram、Slack等多平台。
@@ -310,13 +326,13 @@ GitHub官方MCP服务器，让AI助手能够与GitHub仓库、Issues、PR等进�
 - **Tags:** `AI Agent` `Multi-platform` `Anthropic SDK`
 - **最后活动时间:** 2026-05-09
 
-### [sim](https://github.com/simstudioai/sim)
+### [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
 
-AI智能体构建与编排平台，支持低代码开发与多LLM提供商集成，快速部署AI工作流。
+一套面向科研、工程、分析和金融领域的即用型AI智能体技能集合，支持生物信息学、药物发现、基因组学等多个科学计算场景。
 
-- **Stars:** ⭐️ 28.6k
-- **Tags:** `AI Agents` `Workflow Orchestration` `Multi-LLM` `Low-Code`
-- **最后活动时间:** 2026-05-29
+- **Stars:** ⭐️ 28.0k
+- **Tags:** `agent-skills` `ai-scientist` `claude` `scientific-computing` `bioinformatics`
+- **最后活动时间:** 2026-06-11
 
 ### [smolagents](https://github.com/huggingface/smolagents)
 
@@ -325,6 +341,14 @@ Hugging Face推出的轻量级智能体库，专注于让AI代理用代码进行
 - **Stars:** ⭐️ 27.6k
 - **Tags:** `agent-framework` `huggingface` `code-agents` `llm`
 - **最后活动时间:** 2026-05-26
+
+### [graphiti](https://github.com/getzep/graphiti)
+
+为AI智能体构建实时知识图谱的框架，支持动态知识整合与检索增强生成。
+
+- **Stars:** ⭐️ 27.3k
+- **Tags:** `agents` `knowledge-graph` `rag` `llms`
+- **最后活动时间:** 2026-06-11
 
 ### [agent-skills](https://github.com/vercel-labs/agent-skills)
 
@@ -338,25 +362,17 @@ Vercel官方推出的智能体技能集合，为AI代理提供标准化能力支
 
 OpenAI官方轻量级多智能体工作流框架，支持构建复杂AI代理协作系统，API简洁易用。
 
-- **Stars:** ⭐️ 26.7k
+- **Stars:** ⭐️ 27.1k
 - **Tags:** `Agents` `OpenAI` `Multi-Agent` `Framework`
-- **最后活动时间:** 2026-05-28
+- **最后活动时间:** 2026-06-11
 
-### [graphiti](https://github.com/getzep/graphiti)
+### [agentscope](https://github.com/agentscope-ai/agentscope)
 
-为AI智能体构建实时知识图谱的框架，支持动态知识整合与检索增强生成。
+构建可观察、可理解、可信任的智能体框架，支持多智能体协作和多模态能力。集成MCP协议和React智能体模式。
 
 - **Stars:** ⭐️ 26.7k
-- **Tags:** `agents` `knowledge-graph` `rag` `llms`
-- **最后活动时间:** 2026-05-21
-
-### [taste-skill](https://github.com/Leonxlnx/taste-skill)
-
-赋予AI良好审美的技能模块，阻止AI生成平庸通用的内容，提升输出质量与创意水准。
-
-- **Stars:** ⭐️ 26.6k
-- **Tags:** `AI Taste` `Vibe Coding` `Quality`
-- **最后活动时间:** 2026-05-26
+- **Tags:** `Agent Framework` `Multi-Agent` `MCP`
+- **最后活动时间:** 2026-06-12
 
 ### [vibe-kanban](https://github.com/BloopAI/vibe-kanban)
 
@@ -366,29 +382,21 @@ OpenAI官方轻量级多智能体工作流框架，支持构建复杂AI代理协
 - **Tags:** `Agent Management` `Kanban` `Productivity`
 - **最后活动时间:** 2026-04-24
 
-### [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
-
-一套面向科研、工程、分析和金融领域的即用型AI智能体技能集合，支持生物信息学、药物发现、基因组学等多个科学计算场景。
-
-- **Stars:** ⭐️ 26.4k
-- **Tags:** `agent-skills` `ai-scientist` `claude` `scientific-computing` `bioinformatics`
-- **最后活动时间:** 2026-05-28
-
-### [agentscope](https://github.com/agentscope-ai/agentscope)
-
-构建可观察、可理解、可信任的智能体框架，支持多智能体协作和多模态能力。集成MCP协议和React智能体模式。
-
-- **Stars:** ⭐️ 25.8k
-- **Tags:** `Agent Framework` `Multi-Agent` `MCP`
-- **最后活动时间:** 2026-05-28
-
 ### [haystack](https://github.com/deepset-ai/haystack)
 
 开源AI编排框架，用于构建生产级LLM应用，支持模块化管道设计、智能体工作流和RAG系统。
 
-- **Stars:** ⭐️ 25.4k
+- **Stars:** ⭐️ 25.5k
 - **Tags:** `Orchestration` `Agents` `RAG` `LLM` `NLP`
-- **最后活动时间:** 2026-05-28
+- **最后活动时间:** 2026-06-12
+
+### [OpenViking](https://github.com/volcengine/OpenViking)
+
+专为AI智能体设计的开源上下文数据库，统一管理记忆、资源和技能，支持自我进化。
+
+- **Stars:** ⭐️ 25.5k
+- **Tags:** `context-database` `agentic-rag` `memory`
+- **最后活动时间:** 2026-06-12
 
 ### [fastmcp](https://github.com/PrefectHQ/fastmcp)
 
@@ -398,29 +406,29 @@ OpenAI官方轻量级多智能体工作流框架，支持构建复杂AI代理协
 - **Tags:** `MCP` `Python` `Agent Framework`
 - **最后活动时间:** 2026-05-27
 
-### [OpenViking](https://github.com/volcengine/OpenViking)
-
-专为AI智能体设计的开源上下文数据库，统一管理记忆、资源和技能，支持自我进化。
-
-- **Stars:** ⭐️ 24.9k
-- **Tags:** `context-database` `agentic-rag` `memory`
-- **最后活动时间:** 2026-05-29
-
 ### [mastra](https://github.com/mastra-ai/mastra)
 
 Gatsby团队打造的TypeScript AI应用框架，支持构建智能体、工作流和聊天机器人等AI应用。
 
-- **Stars:** ⭐️ 24.5k
+- **Stars:** ⭐️ 25.0k
 - **Tags:** `TypeScript` `Agents` `Framework` `Workflows`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-06-12
 
 ### [beads](https://github.com/gastownhall/beads)
 
 为AI编程助手提供记忆增强功能，让编码智能体能够记住上下文和历史信息。
 
-- **Stars:** ⭐️ 24.2k
+- **Stars:** ⭐️ 24.5k
 - **Tags:** `agents` `claude-code` `coding` `memory`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-06-12
+
+### [opencli](https://github.com/jackwener/opencli)
+
+AI原生CLI运行时，可将任何网站或应用转换为标准化命令行接口，专为AI Agent设计，支持工具的无缝发现与执行。
+
+- **Stars:** ⭐️ 24.1k
+- **Tags:** `CLI` `AI Agent` `Tool Discovery`
+- **最后活动时间:** 2026-06-11
 
 ### [A2A](https://github.com/a2aproject/A2A)
 
@@ -442,17 +450,17 @@ Agent2Agent开放协议，实现智能体应用之间的通信与互操作性，
 
 构建有状态智能体的平台，支持高级记忆与自我改进能力。
 
-- **Stars:** ⭐️ 23.0k
+- **Stars:** ⭐️ 23.3k
 - **Tags:** `Agents` `Memory` `LLM`
 - **最后活动时间:** 2026-05-14
 
-### [opencli](https://github.com/jackwener/opencli)
+### [planning-with-files](https://github.com/OthmanAdi/planning-with-files)
 
-AI原生CLI运行时，可将任何网站或应用转换为标准化命令行接口，专为AI Agent设计，支持工具的无缝发现与执行。
+Claude Code技能实现Manus风格的持久化Markdown规划，支持复杂任务编排。
 
-- **Stars:** ⭐️ 23.0k
-- **Tags:** `CLI` `AI Agent` `Tool Discovery`
-- **最后活动时间:** 2026-05-28
+- **Stars:** ⭐️ 23.1k
+- **Tags:** `Agent Skills` `Claude Code` `Workflow`
+- **最后活动时间:** 2026-06-10
 
 ### [supermemory](https://github.com/supermemoryai/supermemory)
 
@@ -466,17 +474,25 @@ AI原生CLI运行时，可将任何网站或应用转换为标准化命令行接
 
 开源AI智能体与工作流自动化平台，内置约400个MCP服务器，支持无代码构建AI自动化流程。
 
-- **Stars:** ⭐️ 22.5k
+- **Stars:** ⭐️ 22.7k
 - **Tags:** `AI-Agent` `MCP` `Workflow-Automation` `No-Code`
-- **最后活动时间:** 2026-05-28
+- **最后活动时间:** 2026-06-12
 
-### [planning-with-files](https://github.com/OthmanAdi/planning-with-files)
+### [agentmemory](https://github.com/rohitg00/agentmemory)
 
-Claude Code技能实现Manus风格的持久化Markdown规划，支持复杂任务编排。
+为 AI 编程智能体提供持久化记忆能力的工具库，支持跨会话的状态保存与上下文管理。
 
-- **Stars:** ⭐️ 22.3k
-- **Tags:** `Agent Skills` `Claude Code` `Workflow`
-- **最后活动时间:** 2026-05-26
+- **Stars:** ⭐️ 22.4k
+- **Tags:** `ai-agent` `memory` `coding-assistant` `persistence`
+- **最后活动时间:** 2026-06-11
+
+### [skills](https://github.com/vercel-labs/skills)
+
+开源AI智能体技能工具，通过npx命令快速使用，帮助开发者轻松构建和管理智能体技能能力。
+
+- **Stars:** ⭐️ 22.1k
+- **Tags:** `AI Agents` `Developer Tools` `Skills`
+- **最后活动时间:** 2026-06-11
 
 ### [hyperframes](https://github.com/heygen-com/hyperframes)
 
@@ -502,6 +518,14 @@ MCP服务器，支持Claude Desktop/Code等工具自动构建n8n工作流。
 - **Tags:** `MCP` `n8n` `Claude` `Workflow`
 - **最后活动时间:** 2026-05-23
 
+### [MaxKB](https://github.com/1Panel-dev/MaxKB)
+
+开源企业级智能体平台，支持快速构建AI Agent应用，集成知识库管理、RAG检索增强等核心功能。
+
+- **Stars:** ⭐️ 21.2k
+- **Tags:** `Agent` `RAG` `Knowledge-Base` `Enterprise`
+- **最后活动时间:** 2026-06-12
+
 ### [rasa](https://github.com/RasaHQ/rasa)
 
 开源对话式AI框架，用于构建文本和语音对话系统，支持NLU和对话管理。
@@ -518,19 +542,11 @@ MCP服务器，支持Claude Desktop/Code等工具自动构建n8n工作流。
 - **Tags:** `agents` `claude-code` `coding` `memory`
 - **最后活动时间:** 2026-04-22
 
-### [MaxKB](https://github.com/1Panel-dev/MaxKB)
-
-开源企业级智能体平台，支持快速构建AI Agent应用，集成知识库管理、RAG检索增强等核心功能。
-
-- **Stars:** ⭐️ 21.1k
-- **Tags:** `Agent` `RAG` `Knowledge-Base` `Enterprise`
-- **最后活动时间:** 2026-05-29
-
 ### [coze-studio](https://github.com/coze-dev/coze-studio)
 
 一站式AI智能体开发平台，提供可视化工具简化Agent创建、调试和部署流程，支持低代码/无代码快速构建AI应用。
 
-- **Stars:** ⭐️ 20.9k
+- **Stars:** ⭐️ 21.0k
 - **Tags:** `Agent` `Low-Code` `RAG` `Workflow`
 - **最后活动时间:** 2026-04-20
 
@@ -542,21 +558,13 @@ Codex 技能目录，提供 AI 智能体技能扩展和能力增强框架。
 - **Tags:** `skills` `codex` `agents` `catalog`
 - **最后活动时间:** 2026-05-21
 
-### [skills](https://github.com/vercel-labs/skills)
-
-开源AI智能体技能工具，通过npx命令快速使用，帮助开发者轻松构建和管理智能体技能能力。
-
-- **Stars:** ⭐️ 20.5k
-- **Tags:** `AI Agents` `Developer Tools` `Skills`
-- **最后活动时间:** 2026-05-28
-
 ### [adk-python](https://github.com/google/adk-python)
 
 Google开源的Python智能体开发工具包，支持代码优先方式构建、评估和部署复杂AI智能体。
 
-- **Stars:** ⭐️ 19.9k
+- **Stars:** ⭐️ 20.1k
 - **Tags:** `Agent` `Multi-Agent` `AI Agents` `LLM`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-06-12
 
 ### [owl](https://github.com/camel-ai/owl)
 
@@ -582,14 +590,6 @@ AI智能体技能规范与文档，定义智能体能力标准的开放规范。
 - **Tags:** `agent-skills` `ai-agent` `specification` `agent-framework`
 - **最后活动时间:** 2026-05-20
 
-### [agentmemory](https://github.com/rohitg00/agentmemory)
-
-为 AI 编程智能体提供持久化记忆能力的工具库，支持跨会话的状态保存与上下文管理。
-
-- **Stars:** ⭐️ 19.4k
-- **Tags:** `ai-agent` `memory` `coding-assistant` `persistence`
-- **最后活动时间:** 2026-05-28
-
 ### [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills)
 
 面向科研、工程、金融和写作领域的Claude Agent技能集合，支持生物信息学、基因组学、材料科学等多学科研究场景。
@@ -602,17 +602,17 @@ AI智能体技能规范与文档，定义智能体能力标准的开放规范。
 
 开源智能体AI数据助手，专为下一代AI+数据产品打造。
 
-- **Stars:** ⭐️ 18.9k
+- **Stars:** ⭐️ 19.0k
 - **Tags:** `Agents` `Database` `RAG`
-- **最后活动时间:** 2026-05-27
+- **最后活动时间:** 2026-06-08
 
 ### [eliza](https://github.com/elizaOS/eliza)
 
 为所有人设计的自主智能体框架，支持多平台部署和插件扩展，让开发者轻松构建和部署AI智能体应用。
 
-- **Stars:** ⭐️ 18.5k
+- **Stars:** ⭐️ 18.6k
 - **Tags:** `Agent` `Framework` `Multi-platform`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-06-11
 
 ### [gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart)
 
@@ -636,7 +636,7 @@ AI智能体技能规范与文档，定义智能体能力标准的开放规范。
 
 - **Stars:** ⭐️ 18.1k
 - **Tags:** `AI Agents` `Customer Service` `Context Engineering`
-- **最后活动时间:** 2026-05-27
+- **最后活动时间:** 2026-06-11
 
 ### [DocsGPT](https://github.com/arc53/DocsGPT)
 
@@ -644,29 +644,29 @@ AI智能体技能规范与文档，定义智能体能力标准的开放规范。
 
 - **Stars:** ⭐️ 17.9k
 - **Tags:** `RAG` `Agent` `Enterprise` `Document Analysis`
-- **最后活动时间:** 2026-05-28
+- **最后活动时间:** 2026-06-11
 
 ### [langchainjs](https://github.com/langchain-ai/langchainjs)
 
 领先的AI智能体工程平台，提供构建LLM应用的完整框架和工具链。
 
-- **Stars:** ⭐️ 17.7k
+- **Stars:** ⭐️ 17.8k
 - **Tags:** `langchain` `llm` `agent-framework` `javascript`
-- **最后活动时间:** 2026-05-28
+- **最后活动时间:** 2026-06-11
 
 ### [pydantic-ai](https://github.com/pydantic/pydantic-ai)
 
 基于Pydantic的GenAI智能体开发框架，提供类型安全的Agent构建能力。简化AI应用开发流程，与Pydantic生态无缝集成。
 
-- **Stars:** ⭐️ 17.4k
+- **Stars:** ⭐️ 17.7k
 - **Tags:** `Agent Framework` `GenAI` `Python`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-06-12
 
 ### [agent-lightning](https://github.com/microsoft/agent-lightning)
 
 AI Agent训练框架，提供强化学习和MLOps支持，帮助开发者快速构建和训练智能体应用。
 
-- **Stars:** ⭐️ 17.2k
+- **Stars:** ⭐️ 17.3k
 - **Tags:** `Agent` `RL Training` `MLOps`
 - **最后活动时间:** 2026-04-29
 
@@ -674,17 +674,33 @@ AI Agent训练框架，提供强化学习和MLOps支持，帮助开发者快速�
 
 首个多智能体协作框架，专注于探索智能体的规模化定律和多智能体系统研究。
 
-- **Stars:** ⭐️ 17.1k
+- **Stars:** ⭐️ 17.2k
 - **Tags:** `Multi-Agent` `LLM` `AI Agents`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-06-12
 
 ### [Qwen-Agent](https://github.com/QwenLM/Qwen-Agent)
 
 基于通义千问的智能体框架，支持函数调用、MCP、代码解释器、RAG等功能，并提供Chrome扩展。
 
-- **Stars:** ⭐️ 16.4k
+- **Stars:** ⭐️ 16.5k
 - **Tags:** `agent-framework` `qwen` `llm` `function-calling` `rag` `mcp`
 - **最后活动时间:** 2026-03-04
+
+### [Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)
+
+上下文工程AI代理技能集合，涵盖多代理架构和生产级代理系统的上下文管理。
+
+- **Stars:** ⭐️ 16.5k
+- **Tags:** `Context Engineering` `Multi-Agent` `AI Agents`
+- **最后活动时间:** 2026-05-26
+
+### [LangBot](https://github.com/langbot-app/LangBot)
+
+生产级多平台智能机器人开发平台，支持Agent、知识库编排和插件系统，集成ChatGPT、DeepSeek、Claude等多种AI模型。
+
+- **Stars:** ⭐️ 16.3k
+- **Tags:** `Agent` `多平台机器人` `LLM` `RAG`
+- **最后活动时间:** 2026-06-12
 
 ### [RagaAI-Catalyst](https://github.com/raga-ai-hub/RagaAI-Catalyst)
 
@@ -694,61 +710,61 @@ AI智能体可观测性、监控和评估框架，支持多智能体系统追踪
 - **Tags:** `AI Observability` `Agent Monitoring` `LLM Tracing`
 - **最后活动时间:** 2026-02-11
 
-### [LangBot](https://github.com/langbot-app/LangBot)
+### [gastown](https://github.com/gastownhall/gastown)
 
-生产级多平台智能机器人开发平台，支持Agent、知识库编排和插件系统，集成ChatGPT、DeepSeek、Claude等多种AI模型。
+多智能体工作空间管理器，用于协调和管理多个AI代理的协作工作。
 
-- **Stars:** ⭐️ 16.1k
-- **Tags:** `Agent` `多平台机器人` `LLM` `RAG`
-- **最后活动时间:** 2026-05-28
-
-### [Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)
-
-上下文工程AI代理技能集合，涵盖多代理架构和生产级代理系统的上下文管理。
-
-- **Stars:** ⭐️ 16.1k
-- **Tags:** `Context Engineering` `Multi-Agent` `AI Agents`
-- **最后活动时间:** 2026-05-26
+- **Stars:** ⭐️ 15.9k
+- **Tags:** `multi-agent` `workspace-manager` `agent-orchestration`
+- **最后活动时间:** 2026-06-11
 
 ### [DeepCode](https://github.com/HKUDS/DeepCode)
 
 开放式智能体编码框架，支持论文转代码、文本转Web、文本转后端等多种AI生成能力。
 
-- **Stars:** ⭐️ 15.7k
+- **Stars:** ⭐️ 15.8k
 - **Tags:** `智能体编码` `Paper2Code` `代码生成`
 - **最后活动时间:** 2026-05-18
-
-### [gastown](https://github.com/gastownhall/gastown)
-
-多智能体工作空间管理器，用于协调和管理多个AI代理的协作工作。
-
-- **Stars:** ⭐️ 15.6k
-- **Tags:** `multi-agent` `workspace-manager` `agent-orchestration`
-- **最后活动时间:** 2026-05-28
 
 ### [mcp-toolbox](https://github.com/googleapis/mcp-toolbox)
 
 开源的MCP数据库服务器，支持PostgreSQL、MySQL、MongoDB等多种数据库，让AI智能体能够安全高效地访问和操作数据。
 
-- **Stars:** ⭐️ 15.4k
+- **Stars:** ⭐️ 15.6k
 - **Tags:** `mcp` `database` `ai-agents` `llm` `postgresql`
-- **最后活动时间:** 2026-05-28
+- **最后活动时间:** 2026-06-12
+
+### [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
+
+734+结构化AI代理网络安全技能库，映射MITRE ATT&CK框架，支持Claude、Copilot等20+平台。
+
+- **Stars:** ⭐️ 15.4k
+- **Tags:** `AI Agents` `Cybersecurity` `MITRE ATT&CK` `Skills Library`
+- **最后活动时间:** 2026-06-01
 
 ### [trigger.dev](https://github.com/triggerdotdev/trigger.dev)
 
 用于构建和部署AI智能体与工作流的平台，支持无服务器架构、自动化编排和MCP集成。
 
-- **Stars:** ⭐️ 15.1k
+- **Stars:** ⭐️ 15.3k
 - **Tags:** `AI Agents` `Workflow Automation` `MCP`
-- **最后活动时间:** 2026-05-28
+- **最后活动时间:** 2026-06-12
 
 ### [Memori](https://github.com/MemoriLabs/Memori)
 
 专为LLM和AI智能体设计的SQL原生记忆层，支持长短期记忆管理与状态持久化。
 
-- **Stars:** ⭐️ 15.0k
+- **Stars:** ⭐️ 15.3k
 - **Tags:** `Agent Memory` `LLM` `State Management`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-06-12
+
+### [rowboat](https://github.com/rowboatlabs/rowboat)
+
+开源AI协作助手，具备持久记忆能力，支持多代理编排与自动化工作流，提升生产力。
+
+- **Stars:** ⭐️ 14.9k
+- **Tags:** `AI Agents` `Memory` `Multi-Agent`
+- **最后活动时间:** 2026-06-11
 
 ### [genai-toolbox](https://github.com/googleapis/genai-toolbox)
 
@@ -764,15 +780,7 @@ AI智能体可观测性、监控和评估框架，支持多智能体系统追踪
 
 - **Stars:** ⭐️ 14.7k
 - **Tags:** `Chatbot` `Agents` `LLM`
-- **最后活动时间:** 2026-05-29
-
-### [rowboat](https://github.com/rowboatlabs/rowboat)
-
-开源AI协作助手，具备持久记忆能力，支持多代理编排与自动化工作流，提升生产力。
-
-- **Stars:** ⭐️ 14.7k
-- **Tags:** `AI Agents` `Memory` `Multi-Agent`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-06-11
 
 ### [gastown](https://github.com/steveyegge/gastown)
 
@@ -782,13 +790,29 @@ AI智能体可观测性、监控和评估框架，支持多智能体系统追踪
 - **Tags:** `multi-agent` `workspace` `agent-manager` `ai-agent`
 - **最后活动时间:** 2026-04-22
 
+### [hermes-webui](https://github.com/nesquena/hermes-webui)
+
+Hermes Agent 的 Web 界面，支持网页端和移动端使用，提供便捷的 AI 智能体交互体验。
+
+- **Stars:** ⭐️ 14.3k
+- **Tags:** `ai-agents` `hermes` `webui`
+- **最后活动时间:** 2026-06-12
+
 ### [ag-ui](https://github.com/ag-ui-protocol/ag-ui)
 
 智能体-用户交互协议，帮助开发者轻松将AI Agent集成到前端应用，实现流畅的人机协作体验。
 
-- **Stars:** ⭐️ 13.9k
+- **Stars:** ⭐️ 14.2k
 - **Tags:** `AI Agents` `Protocol` `Frontend`
-- **最后活动时间:** 2026-05-28
+- **最后活动时间:** 2026-06-12
+
+### [cli](https://github.com/larksuite/cli)
+
+飞书开放平台命令行工具，专为人类和AI Agent设计，提供200+命令和19个AI Agent技能，覆盖消息、文档、日历等核心业务场景。
+
+- **Stars:** ⭐️ 14.0k
+- **Tags:** `cli` `ai-agents` `lark` `feishu` `automation`
+- **最后活动时间:** 2026-06-12
 
 ### [xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp)
 
@@ -802,25 +826,25 @@ AI智能体可观测性、监控和评估框架，支持多智能体系统追踪
 
 为24/7主动型AI智能体设计的记忆系统，支持Claude与MCP协议，实现智能上下文感知与持久化存储。
 
-- **Stars:** ⭐️ 13.7k
+- **Stars:** ⭐️ 13.8k
 - **Tags:** `Agent Memory` `MCP` `Claude` `Proactive AI`
-- **最后活动时间:** 2026-04-22
+- **最后活动时间:** 2026-06-09
 
 ### [OpenHarness](https://github.com/HKUDS/OpenHarness)
 
 开源智能体框架，用于构建和管理AI代理应用。
 
-- **Stars:** ⭐️ 13.3k
+- **Stars:** ⭐️ 13.8k
 - **Tags:** `agent-framework` `ai-agents`
-- **最后活动时间:** 2026-05-27
+- **最后活动时间:** 2026-06-04
 
-### [cli](https://github.com/larksuite/cli)
+### [skills](https://github.com/google/skills)
 
-飞书开放平台命令行工具，专为人类和AI Agent设计，提供200+命令和19个AI Agent技能，覆盖消息、文档、日历等核心业务场景。
+Google产品和技术的AI智能体技能集合，为构建智能体提供预定义能力模块。
 
-- **Stars:** ⭐️ 13.0k
-- **Tags:** `cli` `ai-agents` `lark` `feishu` `automation`
-- **最后活动时间:** 2026-05-29
+- **Stars:** ⭐️ 13.6k
+- **Tags:** `agents` `google` `google-cloud` `skills` `ai-agents`
+- **最后活动时间:** 2026-06-11
 
 ### [gorilla](https://github.com/ShishirPatil/gorilla)
 
@@ -834,9 +858,17 @@ AI智能体可观测性、监控和评估框架，支持多智能体系统追踪
 
 开源数字人Agent框架，支持2.5D/3D数字人连接大语言模型与业务系统，兼容OpenAI和DeepSeek等主流模型。
 
-- **Stars:** ⭐️ 12.8k
+- **Stars:** ⭐️ 12.9k
 - **Tags:** `数字人` `Agent框架` `UE5` `Unity3D`
-- **最后活动时间:** 2026-04-27
+- **最后活动时间:** 2026-05-29
+
+### [E2B](https://github.com/e2b-dev/E2B)
+
+开源安全的AI智能体执行环境，为AI代理提供代码解释器和真实工具支持，助力企业级智能体开发。
+
+- **Stars:** ⭐️ 12.6k
+- **Tags:** `AI Agent` `Code Interpreter` `Sandbox`
+- **最后活动时间:** 2026-06-12
 
 ### [pipecat](https://github.com/pipecat-ai/pipecat)
 
@@ -846,14 +878,6 @@ AI智能体可观测性、监控和评估框架，支持多智能体系统追踪
 - **Tags:** `voice-assistant` `conversational-ai` `multimodal` `real-time`
 - **最后活动时间:** 2026-05-29
 
-### [E2B](https://github.com/e2b-dev/E2B)
-
-开源安全的AI智能体执行环境，为AI代理提供代码解释器和真实工具支持，助力企业级智能体开发。
-
-- **Stars:** ⭐️ 12.4k
-- **Tags:** `AI Agent` `Code Interpreter` `Sandbox`
-- **最后活动时间:** 2026-05-28
-
 ### [khazix-skills](https://github.com/KKKKhazix/khazix-skills)
 
 数字生命卡兹克开源的AI技能合集，提供多种可复用的AI Agent技能模块。
@@ -862,59 +886,43 @@ AI智能体可观测性、监控和评估框架，支持多智能体系统追踪
 - **Tags:** `ai-skills` `agents` `ai-tools`
 - **最后活动时间:** 2026-05-28
 
-### [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
+### [InsForge](https://github.com/InsForge/InsForge)
 
-734+结构化AI代理网络安全技能库，映射MITRE ATT&CK框架，支持Claude、Copilot等20+平台。
+专为AI智能体开发设计的后端平台，提供向量嵌入、实时通信、OAuth认证等能力，助力智能体快速构建全栈应用。
 
 - **Stars:** ⭐️ 11.7k
-- **Tags:** `AI Agents` `Cybersecurity` `MITRE ATT&CK` `Skills Library`
-- **最后活动时间:** 2026-05-13
-
-### [skills](https://github.com/google/skills)
-
-Google产品和技术的AI智能体技能集合，为构建智能体提供预定义能力模块。
-
-- **Stars:** ⭐️ 10.9k
-- **Tags:** `agents` `google` `google-cloud` `skills` `ai-agents`
-- **最后活动时间:** 2026-05-28
+- **Tags:** `AI Agents` `Backend` `Vectors` `Realtime`
+- **最后活动时间:** 2026-06-12
 
 ### [agent-framework](https://github.com/microsoft/agent-framework)
 
 构建、编排和部署AI代理及多代理工作流的框架，支持Python和.NET。
 
-- **Stars:** ⭐️ 10.8k
+- **Stars:** ⭐️ 11.3k
 - **Tags:** `agent-framework` `multi-agent` `orchestration` `python` `dotnet`
-- **最后活动时间:** 2026-05-29
-
-### [InsForge](https://github.com/InsForge/InsForge)
-
-专为AI智能体开发设计的后端平台，提供向量嵌入、实时通信、OAuth认证等能力，助力智能体快速构建全栈应用。
-
-- **Stars:** ⭐️ 10.7k
-- **Tags:** `AI Agents` `Backend` `Vectors` `Realtime`
-- **最后活动时间:** 2026-05-29
-
-### [valuecell](https://github.com/ValueCell-ai/valuecell)
-
-社区驱动的多智能体金融应用平台，支持股票、加密货币等金融场景的AI智能体协作。
-
-- **Stars:** ⭐️ 10.7k
-- **Tags:** `Multi-Agent` `Finance` `AI`
-- **最后活动时间:** 2026-03-09
+- **最后活动时间:** 2026-06-12
 
 ### [agents](https://github.com/livekit/agents)
 
 LiveKit推出的实时语音AI智能体开发框架，支持构建低延迟的语音和视频AI代理应用，适用于实时对话场景。
 
-- **Stars:** ⭐️ 10.7k
+- **Stars:** ⭐️ 11.0k
 - **Tags:** `Voice AI` `Real-time` `Multimodal`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-06-12
+
+### [valuecell](https://github.com/ValueCell-ai/valuecell)
+
+社区驱动的多智能体金融应用平台，支持股票、加密货币等金融场景的AI智能体协作。
+
+- **Stars:** ⭐️ 10.8k
+- **Tags:** `Multi-Agent` `Finance` `AI`
+- **最后活动时间:** 2026-03-09
 
 ### [PocketFlow](https://github.com/The-Pocket/PocketFlow)
 
 仅100行代码的极简LLM框架，专注于智能体构建智能体，支持工作流编排。
 
-- **Stars:** ⭐️ 10.7k
+- **Stars:** ⭐️ 10.8k
 - **Tags:** `LLM Framework` `Workflow` `Lightweight`
 - **最后活动时间:** 2026-03-27
 
@@ -922,9 +930,9 @@ LiveKit推出的实时语音AI智能体开发框架，支持构建低延迟的�
 
 开源对话式语音AI代理框架，支持多模态实时语音交互应用开发。
 
-- **Stars:** ⭐️ 10.6k
+- **Stars:** ⭐️ 10.7k
 - **Tags:** `voice-agent` `conversational-ai` `multimodal` `real-time`
-- **最后活动时间:** 2026-05-27
+- **最后活动时间:** 2026-06-09
 
 ### [skills](https://github.com/huggingface/skills)
 
@@ -962,9 +970,17 @@ Dify DSL工作流程精选合集，分享实用的AI智能体工作流配置。
 
 全栈MCP开发框架，支持构建ChatGPT/Claude的MCP应用和AI Agent服务器，覆盖客户端、网关、工具和UI完整链路。
 
-- **Stars:** ⭐️ 10.0k
+- **Stars:** ⭐️ 10.1k
 - **Tags:** `MCP` `AI Agents` `Claude`
-- **最后活动时间:** 2026-05-28
+- **最后活动时间:** 2026-06-11
+
+### [spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba)
+
+面向Java开发者的智能体AI框架，支持多智能体协作、图工作流和上下文工程。
+
+- **Stars:** ⭐️ 10.0k
+- **Tags:** `Agent Framework` `Java` `Multi-Agent`
+- **最后活动时间:** 2026-06-07
 
 ### [ai-town](https://github.com/a16z-infra/ai-town)
 
@@ -974,45 +990,29 @@ MIT开源的AI虚拟小镇 starter kit，让AI角色在其中生活、聊天和�
 - **Tags:** `ai-agents` `simulation` `virtual-world`
 - **最后活动时间:** 2026-03-21
 
-### [spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba)
+### [MemOS](https://github.com/MemTensor/MemOS)
 
-面向Java开发者的智能体AI框架，支持多智能体协作、图工作流和上下文工程。
+面向LLM和Agent系统的AI记忆操作系统，支持跨任务技能复用与演化的持久化记忆管理能力。
 
 - **Stars:** ⭐️ 9.8k
-- **Tags:** `Agent Framework` `Java` `Multi-Agent`
-- **最后活动时间:** 2026-05-29
+- **Tags:** `Agent Memory` `LLM` `RAG`
+- **最后活动时间:** 2026-06-12
 
 ### [adk-samples](https://github.com/google/adk-samples)
 
 使用Agent Development Kit构建的智能体示例集合，为开发者提供实用的AI Agent开发参考。
 
-- **Stars:** ⭐️ 9.5k
+- **Stars:** ⭐️ 9.6k
 - **Tags:** `adk` `agent-samples` `agents` `ai-agents`
-- **最后活动时间:** 2026-05-27
-
-### [MemOS](https://github.com/MemTensor/MemOS)
-
-面向LLM和Agent系统的AI记忆操作系统，支持跨任务技能复用与演化的持久化记忆管理能力。
-
-- **Stars:** ⭐️ 9.4k
-- **Tags:** `Agent Memory` `LLM` `RAG`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-06-11
 
 ### [voltagent](https://github.com/VoltAgent/voltagent)
 
 TypeScript开源AI智能体工程平台，提供完整开发框架，支持MCP、RAG、多智能体协作和LLM可观测性。
 
-- **Stars:** ⭐️ 9.2k
+- **Stars:** ⭐️ 9.6k
 - **Tags:** `TypeScript` `AI Agents` `MCP`
-- **最后活动时间:** 2026-05-25
-
-### [hermes-webui](https://github.com/nesquena/hermes-webui)
-
-Hermes Agent 的 Web 界面，支持网页端和移动端使用，提供便捷的 AI 智能体交互体验。
-
-- **Stars:** ⭐️ 9.1k
-- **Tags:** `ai-agents` `hermes` `webui`
-- **最后活动时间:** 2026-05-28
+- **最后活动时间:** 2026-06-08
 
 ### [AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs)
 
@@ -1034,9 +1034,17 @@ OpenClaw 技能目录，汇集各类可复用的 AI Agent 技能模块。
 
 企业级智能体工作流平台，支持多智能体编排与MCP协议，助力构建下一代超级智能体应用。
 
-- **Stars:** ⭐️ 8.5k
+- **Stars:** ⭐️ 8.6k
 - **Tags:** `Multi-Agent` `Workflow` `MCP` `Enterprise`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-06-11
+
+### [evolver](https://github.com/EvoMap/evolver)
+
+基于基因组进化协议的AI智能体自我进化引擎，支持智能体持续优化。
+
+- **Stars:** ⭐️ 8.5k
+- **Tags:** `self-evolution` `genome-evolution` `agent-optimization`
+- **最后活动时间:** 2026-06-12
 
 ### [mcp-agent](https://github.com/lastmile-ai/mcp-agent)
 
@@ -1046,37 +1054,29 @@ OpenClaw 技能目录，汇集各类可复用的 AI Agent 技能模块。
 - **Tags:** `MCP` `Agents` `Framework`
 - **最后活动时间:** 2026-01-25
 
+### [adk-go](https://github.com/google/adk-go)
+
+Google开源的Go语言AI智能体开发工具包，支持多智能体协作、MCP协议和Vertex AI集成。
+
+- **Stars:** ⭐️ 8.1k
+- **Tags:** `Agent SDK` `Go` `Google`
+- **最后活动时间:** 2026-06-12
+
+### [PraisonAI](https://github.com/MervinPraison/PraisonAI)
+
+低代码多智能体AI框架，支持100+大语言模型，具备规划、研究和编码能力，可自动部署到多平台。
+
+- **Stars:** ⭐️ 8.1k
+- **Tags:** `Multi-Agent` `Low-Code` `RAG`
+- **最后活动时间:** 2026-06-11
+
 ### [flowgram.ai](https://github.com/bytedance/flowgram.ai)
 
 可扩展的AI工作流开发框架，内置画布、表单、变量等组件，帮助开发者快速构建AI工作流平台。
 
 - **Stars:** ⭐️ 8.1k
 - **Tags:** `Workflow` `AI Automation` `No-Code` `TypeScript`
-- **最后活动时间:** 2026-05-28
-
-### [adk-go](https://github.com/google/adk-go)
-
-Google开源的Go语言AI智能体开发工具包，支持多智能体协作、MCP协议和Vertex AI集成。
-
-- **Stars:** ⭐️ 8.0k
-- **Tags:** `Agent SDK` `Go` `Google`
-- **最后活动时间:** 2026-05-28
-
-### [PraisonAI](https://github.com/MervinPraison/PraisonAI)
-
-低代码多智能体AI框架，支持100+大语言模型，具备规划、研究和编码能力，可自动部署到多平台。
-
-- **Stars:** ⭐️ 8.0k
-- **Tags:** `Multi-Agent` `Low-Code` `RAG`
-- **最后活动时间:** 2026-05-28
-
-### [Upsonic](https://github.com/Upsonic/Upsonic)
-
-专为金融和银行业设计的智能体框架，支持MCP协议、RAG集成，提供高可靠性的企业级AI解决方案。
-
-- **Stars:** ⭐️ 7.9k
-- **Tags:** `Agent Framework` `Fintech` `MCP`
-- **最后活动时间:** 2026-05-20
+- **最后活动时间:** 2026-06-08
 
 ### [Vision-Agents](https://github.com/GetStream/Vision-Agents)
 
@@ -1084,15 +1084,31 @@ Stream开源的视觉智能体框架，支持快速构建基于任意模型的�
 
 - **Stars:** ⭐️ 7.9k
 - **Tags:** `Vision AI` `Real-time` `Agent Framework`
-- **最后活动时间:** 2026-05-28
+- **最后活动时间:** 2026-06-11
+
+### [Upsonic](https://github.com/Upsonic/Upsonic)
+
+专为金融和银行业设计的智能体框架，支持MCP协议、RAG集成，提供高可靠性的企业级AI解决方案。
+
+- **Stars:** ⭐️ 7.9k
+- **Tags:** `Agent Framework` `Fintech` `MCP`
+- **最后活动时间:** 2026-06-09
+
+### [garden-skills](https://github.com/ConardLi/garden-skills)
+
+开源技能集合，涵盖网页设计、知识检索、图像生成等多种AI能力。
+
+- **Stars:** ⭐️ 7.8k
+- **Tags:** `agent-skills` `rag` `claude` `web-design` `image-generation`
+- **最后活动时间:** 2026-06-10
 
 ### [agent-squad](https://github.com/2FastLabs/agent-squad)
 
 灵活强大的多AI智能体管理框架，支持复杂对话处理和多模型编排。
 
-- **Stars:** ⭐️ 7.6k
+- **Stars:** ⭐️ 7.7k
 - **Tags:** `ai-agents` `agents` `ai-agents-framework` `orchestrator` `openai`
-- **最后活动时间:** 2026-05-22
+- **最后活动时间:** 2026-06-10
 
 ### [nullclaw](https://github.com/nullclaw/nullclaw)
 
@@ -1100,14 +1116,6 @@ Stream开源的视觉智能体框架，支持快速构建基于任意模型的�
 
 - **Stars:** ⭐️ 7.6k
 - **Tags:** `ai` `assistant` `zig` `autonomous` `infrastructure`
-- **最后活动时间:** 2026-05-28
-
-### [evolver](https://github.com/EvoMap/evolver)
-
-基于基因组进化协议的AI智能体自我进化引擎，支持智能体持续优化。
-
-- **Stars:** ⭐️ 7.6k
-- **Tags:** `self-evolution` `genome-evolution` `agent-optimization`
 - **最后活动时间:** 2026-05-28
 
 ### [agent-squad](https://github.com/awslabs/agent-squad)
@@ -1124,15 +1132,31 @@ Stream开源的视觉智能体框架，支持快速构建基于任意模型的�
 
 - **Stars:** ⭐️ 7.5k
 - **Tags:** `Autonomous Agents` `Runtime` `Golang`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-06-10
 
 ### [refly](https://github.com/refly-ai/refly)
 
 开源智能体技能构建器，通过可视化工作流定义技能，支持多平台运行。可将技能作为基础设施构建Slack/飞书机器人和API接口。
 
-- **Stars:** ⭐️ 7.3k
+- **Stars:** ⭐️ 7.4k
 - **Tags:** `Agent` `Workflow` `Automation`
 - **最后活动时间:** 2026-03-25
+
+### [hatchet](https://github.com/hatchet-dev/hatchet)
+
+一个强大的后台任务编排引擎，专门支持AI代理和持久化工作流的自动化执行与管理。
+
+- **Stars:** ⭐️ 7.3k
+- **Tags:** `workflow-engine` `ai-agents` `durable-execution` `orchestration`
+- **最后活动时间:** 2026-06-11
+
+### [EverOS](https://github.com/EverMind-AI/EverOS)
+
+为 OpenClaw 智能体提供长期记忆能力的操作系统，支持 RAG 检索和 MCP 协议，有效节省 token 消耗。
+
+- **Stars:** ⭐️ 7.3k
+- **Tags:** `agent-memory` `llm` `rag` `mcp` `long-term-memory`
+- **最后活动时间:** 2026-06-10
 
 ### [agent-orchestrator](https://github.com/ComposioHQ/agent-orchestrator)
 
@@ -1141,14 +1165,6 @@ Stream开源的视觉智能体框架，支持快速构建基于任意模型的�
 - **Stars:** ⭐️ 7.3k
 - **Tags:** `Multi-Agent` `Orchestration` `Claude Code`
 - **最后活动时间:** 2026-05-24
-
-### [hatchet](https://github.com/hatchet-dev/hatchet)
-
-一个强大的后台任务编排引擎，专门支持AI代理和持久化工作流的自动化执行与管理。
-
-- **Stars:** ⭐️ 7.2k
-- **Tags:** `workflow-engine` `ai-agents` `durable-execution` `orchestration`
-- **最后活动时间:** 2026-05-28
 
 ### [Star-Office-UI](https://github.com/ringhyacinth/Star-Office-UI)
 
@@ -1166,6 +1182,14 @@ Anthropic官方推出的Claude智能体开发SDK，支持构建具备工具调�
 - **Tags:** `claude` `agent` `sdk` `anthropic` `llm`
 - **最后活动时间:** 2026-05-28
 
+### [Bindu](https://github.com/GetBindu/Bindu)
+
+将AI智能体转化为可互操作、可观测、可组合的微服务，支持智能体间通信与编排。
+
+- **Stars:** ⭐️ 6.9k
+- **Tags:** `Agent Orchestration` `Microservice` `Agent Communication`
+- **最后活动时间:** 2026-06-08
+
 ### [openai-realtime-agents](https://github.com/openai/openai-realtime-agents)
 
 基于OpenAI Realtime API的高级智能体模式演示项目，展示实时语音交互的Agent架构。
@@ -1173,6 +1197,14 @@ Anthropic官方推出的Claude智能体开发SDK，支持构建具备工具调�
 - **Stars:** ⭐️ 6.9k
 - **Tags:** `openai` `realtime-api` `agents` `voice` `demo`
 - **最后活动时间:** 2026-01-07
+
+### [OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)
+
+专为 AI 智能体设计的命令行 Office 套件，支持读写和自动化 Word、Excel、PowerPoint 文件，无需安装 Office。
+
+- **Stars:** ⭐️ 6.9k
+- **Tags:** `agent` `ai` `cli` `office` `automation`
+- **最后活动时间:** 2026-06-11
 
 ### [paseo](https://github.com/getpaseo/paseo)
 
@@ -1188,15 +1220,7 @@ Anthropic官方推出的Claude智能体开发SDK，支持构建具备工具调�
 
 - **Stars:** ⭐️ 6.8k
 - **Tags:** `Multi-Agent` `Orchestration` `Enterprise` `Production-Ready`
-- **最后活动时间:** 2026-05-28
-
-### [Bindu](https://github.com/GetBindu/Bindu)
-
-将AI智能体转化为可互操作、可观测、可组合的微服务，支持智能体间通信与编排。
-
-- **Stars:** ⭐️ 6.8k
-- **Tags:** `Agent Orchestration` `Microservice` `Agent Communication`
-- **最后活动时间:** 2026-05-28
+- **最后活动时间:** 2026-06-11
 
 ### [julep](https://github.com/julep-ai/julep)
 
@@ -1205,14 +1229,6 @@ Anthropic官方推出的Claude智能体开发SDK，支持构建具备工具调�
 - **Stars:** ⭐️ 6.6k
 - **Tags:** `AI Agents` `Serverless` `工作流`
 - **最后活动时间:** 2026-03-13
-
-### [garden-skills](https://github.com/ConardLi/garden-skills)
-
-开源技能集合，涵盖网页设计、知识检索、图像生成等多种AI能力。
-
-- **Stars:** ⭐️ 6.6k
-- **Tags:** `agent-skills` `rag` `claude` `web-design` `image-generation`
-- **最后活动时间:** 2026-05-27
 
 ### [intentkit](https://github.com/crestalnetwork/intentkit)
 
@@ -1238,6 +1254,14 @@ Anthropic官方推出的Claude智能体开发SDK，支持构建具备工具调�
 - **Tags:** `agent` `self-evolving` `ai-agent`
 - **最后活动时间:** 2026-05-21
 
+### [open-multi-agent](https://github.com/open-multi-agent/open-multi-agent)
+
+TypeScript原生多智能体编排框架，支持从目标自动生成任务DAG，集成MCP协议和实时追踪功能。
+
+- **Stars:** ⭐️ 6.4k
+- **Tags:** `ai-agents` `multi-agent` `agent-framework` `mcp` `llm` `typescript`
+- **最后活动时间:** 2026-06-11
+
 ### [microsandbox](https://github.com/superradcompany/microsandbox)
 
 开源安全的本地优先沙箱环境，专为AI代理设计，支持多平台虚拟化和MCP协议。
@@ -1245,14 +1269,6 @@ Anthropic官方推出的Claude智能体开发SDK，支持构建具备工具调�
 - **Stars:** ⭐️ 6.3k
 - **Tags:** `ai-agents` `sandbox` `mcp` `container`
 - **最后活动时间:** 2026-05-29
-
-### [open-multi-agent](https://github.com/open-multi-agent/open-multi-agent)
-
-TypeScript原生多智能体编排框架，支持从目标自动生成任务DAG，集成MCP协议和实时追踪功能。
-
-- **Stars:** ⭐️ 6.3k
-- **Tags:** `ai-agents` `multi-agent` `agent-framework` `mcp` `llm` `typescript`
-- **最后活动时间:** 2026-05-28
 
 ### [NLWeb](https://github.com/nlweb-ai/NLWeb)
 
@@ -1262,14 +1278,6 @@ TypeScript原生多智能体编排框架，支持从目标自动生成任务DAG�
 - **Tags:** `natural-language` `web-interface` `nlp` `microsoft`
 - **最后活动时间:** 2026-05-11
 
-### [TaskWeaver](https://github.com/microsoft/TaskWeaver)
-
-微软开源的代码优先智能体框架，专为数据分析和任务自动化设计，支持将需求转化为可执行代码。
-
-- **Stars:** ⭐️ 6.2k
-- **Tags:** `Agent` `Data Analysis` `Microsoft`
-- **最后活动时间:** 2026-03-23
-
 ### [marvin](https://github.com/PrefectHQ/marvin)
 
 环境智能库，提供AI代理开发框架，支持结构化输出和聊天机器人构建。
@@ -1278,13 +1286,29 @@ TypeScript原生多智能体编排框架，支持从目标自动生成任务DAG�
 - **Tags:** `AI Agents` `Framework` `Python`
 - **最后活动时间:** 2026-05-12
 
+### [TaskWeaver](https://github.com/microsoft/TaskWeaver)
+
+微软开源的代码优先智能体框架，专为数据分析和任务自动化设计，支持将需求转化为可执行代码。
+
+- **Stars:** ⭐️ 6.2k
+- **Tags:** `Agent` `Data Analysis` `Microsoft`
+- **最后活动时间:** 2026-03-23
+
 ### [DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)
 
 Claude MCP 服务器，赋予 AI 终端控制、文件搜索和差异编辑能力。
 
-- **Stars:** ⭐️ 6.1k
+- **Stars:** ⭐️ 6.2k
 - **Tags:** `mcp` `claude` `terminal` `agent` `file-system`
-- **最后活动时间:** 2026-05-24
+- **最后活动时间:** 2026-06-10
+
+### [harness-sdk](https://github.com/strands-agents/harness-sdk)
+
+模型驱动的AI智能体开发框架，仅需几行代码即可快速构建自主代理与多智能体系统。
+
+- **Stars:** ⭐️ 6.1k
+- **Tags:** `agentic-ai` `agents` `mcp` `python`
+- **最后活动时间:** 2026-06-11
 
 ### [open-multi-agent](https://github.com/JackChen-me/open-multi-agent)
 
@@ -1318,14 +1342,6 @@ CrewAI 框架的官方示例集合，展示如何使用多智能体协作自动�
 - **Tags:** `AI Agents` `Sandbox` `Security` `MCP`
 - **最后活动时间:** 2026-04-24
 
-### [EverOS](https://github.com/EverMind-AI/EverOS)
-
-为 OpenClaw 智能体提供长期记忆能力的操作系统，支持 RAG 检索和 MCP 协议，有效节省 token 消耗。
-
-- **Stars:** ⭐️ 5.8k
-- **Tags:** `agent-memory` `llm` `rag` `mcp` `long-term-memory`
-- **最后活动时间:** 2026-05-27
-
 ### [AIOS](https://github.com/agiresearch/AIOS)
 
 AI 智能体操作系统，为 AI Agent 提供底层运行环境和管理能力。
@@ -1348,7 +1364,7 @@ MCP集成平台，让AI智能体能够可靠地使用各种工具，支持大规
 
 - **Stars:** ⭐️ 5.7k
 - **Tags:** `MCP` `AI Agents` `Tool Integration` `Open Source`
-- **最后活动时间:** 2026-05-26
+- **最后活动时间:** 2026-06-01
 
 ### [pyspur](https://github.com/PySpur-Dev/pyspur)
 
@@ -1362,9 +1378,17 @@ MCP集成平台，让AI智能体能够可靠地使用各种工具，支持大规
 
 基于Git生态的人机协作项目管理工具，支持人类与AI Agent协同管理任务。
 
-- **Stars:** ⭐️ 5.6k
+- **Stars:** ⭐️ 5.7k
 - **Tags:** `Agent Collaboration` `Project Management` `Markdown`
-- **最后活动时间:** 2026-05-07
+- **最后活动时间:** 2026-06-10
+
+### [hermes-workspace](https://github.com/outsourc-e/hermes-workspace)
+
+Hermes Agent 的原生 Web 工作空间，集成聊天、终端、记忆、技能和检查器功能，为 AI Agent 提供完整的交互界面。
+
+- **Stars:** ⭐️ 5.6k
+- **Tags:** `agent-ui` `ai-workspace` `hermes-agent` `react` `typescript`
+- **最后活动时间:** 2026-06-09
 
 ### [open-agents](https://github.com/vercel-labs/open-agents)
 
@@ -1372,7 +1396,7 @@ MCP集成平台，让AI智能体能够可靠地使用各种工具，支持大规
 
 - **Stars:** ⭐️ 5.6k
 - **Tags:** `agent` `ai` `cloud-agents` `template`
-- **最后活动时间:** 2026-05-26
+- **最后活动时间:** 2026-06-11
 
 ### [1code](https://github.com/21st-dev/1code)
 
@@ -1382,13 +1406,37 @@ MCP集成平台，让AI智能体能够可靠地使用各种工具，支持大规
 - **Tags:** `orchestration` `claude-code` `codex` `coding-agents`
 - **最后活动时间:** 2026-03-06
 
+### [Yuxi](https://github.com/xerrors/Yuxi)
+
+结合知识库管理的 Agent Harness 平台，集成 LightRAG 知识库与知识图谱，支持 DeepAgents、MinerU PDF 和 MCP。
+
+- **Stars:** ⭐️ 5.5k
+- **Tags:** `agent` `rag` `langchain` `knowledge-graph` `fastapi`
+- **最后活动时间:** 2026-06-11
+
 ### [holaOS](https://github.com/holaboss-ai/holaOS)
 
 面向长期任务的AI智能体运行环境，支持自我演进和持续工作，集成MCP协议和记忆管理功能。
 
-- **Stars:** ⭐️ 5.4k
+- **Stars:** ⭐️ 5.5k
 - **Tags:** `ai-agent` `agent-framework` `mcp` `llm`
-- **最后活动时间:** 2026-05-28
+- **最后活动时间:** 2026-06-02
+
+### [herdr](https://github.com/ogulcancelik/herdr)
+
+一款专为AI编程代理设计的终端多路复用器，支持同时管理和编排多个AI Agent在终端中协同工作。
+
+- **Stars:** ⭐️ 5.4k
+- **Tags:** `ai-agents` `agent-orchestration` `terminal` `rust` `cli`
+- **最后活动时间:** 2026-06-12
+
+### [worktrunk](https://github.com/max-sixty/worktrunk)
+
+专为AI智能体并行工作流设计的Git worktree管理CLI工具，支持Claude Code和Codex等多智能体协作场景。
+
+- **Stars:** ⭐️ 5.4k
+- **Tags:** `git` `agents` `worktrees` `developer-tools`
+- **最后活动时间:** 2026-06-12
 
 ### [inngest](https://github.com/inngest/inngest)
 
@@ -1398,29 +1446,13 @@ MCP集成平台，让AI智能体能够可靠地使用各种工具，支持大规
 - **Tags:** `workflow-engine` `serverless` `ai-workflows` `orchestration`
 - **最后活动时间:** 2026-05-29
 
-### [OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)
-
-专为 AI 智能体设计的命令行 Office 套件，支持读写和自动化 Word、Excel、PowerPoint 文件，无需安装 Office。
-
-- **Stars:** ⭐️ 5.4k
-- **Tags:** `agent` `ai` `cli` `office` `automation`
-- **最后活动时间:** 2026-05-28
-
 ### [ruoyi-ai](https://github.com/ageerle/ruoyi-ai)
 
 企业级AI应用开发框架，支持多厂商大模型接入、可视化流程编排、多智能体协同调度及高精度RAG检索能力。
 
-- **Stars:** ⭐️ 5.3k
+- **Stars:** ⭐️ 5.4k
 - **Tags:** `Agent` `RAG` `企业级`
-- **最后活动时间:** 2026-05-21
-
-### [Yuxi](https://github.com/xerrors/Yuxi)
-
-结合知识库管理的 Agent Harness 平台，集成 LightRAG 知识库与知识图谱，支持 DeepAgents、MinerU PDF 和 MCP。
-
-- **Stars:** ⭐️ 5.3k
-- **Tags:** `agent` `rag` `langchain` `knowledge-graph` `fastapi`
-- **最后活动时间:** 2026-05-26
+- **最后活动时间:** 2026-06-10
 
 ### [sandcastle](https://github.com/mattpocock/sandcastle)
 
@@ -1430,6 +1462,14 @@ TypeScript沙箱化编码智能体编排框架，支持安全运行AI编程代�
 - **Tags:** `coding-agents` `sandbox` `typescript` `ai-agents`
 - **最后活动时间:** 2026-05-28
 
+### [AReaL](https://github.com/areal-project/AReaL)
+
+为LLM智能体应用提供简单灵活的强化学习桥梁框架，支持多种RL算法与Agent场景。
+
+- **Stars:** ⭐️ 5.3k
+- **Tags:** `llm-agent` `reinforcement-learning` `agent-framework`
+- **最后活动时间:** 2026-06-12
+
 ### [mcp-atlassian](https://github.com/sooperset/mcp-atlassian)
 
 MCP服务器，支持AI助手与Atlassian工具无缝集成，可读取操作Confluence和Jira数据。
@@ -1437,6 +1477,14 @@ MCP服务器，支持AI助手与Atlassian工具无缝集成，可读取操作Con
 - **Stars:** ⭐️ 5.3k
 - **Tags:** `MCP` `Atlassian` `Jira`
 - **最后活动时间:** 2026-04-10
+
+### [mission-control](https://github.com/builderz-labs/mission-control)
+
+开源AI智能体编排仪表盘，支持管理智能体集群、追踪任务、监控成本和编排工作流。
+
+- **Stars:** ⭐️ 5.3k
+- **Tags:** `Agent Orchestration` `Dashboard` `Monitoring`
+- **最后活动时间:** 2026-06-08
 
 ### [ClawTeam](https://github.com/HKUDS/ClawTeam)
 
@@ -1446,22 +1494,6 @@ MCP服务器，支持AI助手与Atlassian工具无缝集成，可读取操作Con
 - **Tags:** `agent-swarm` `automation` `multi-agent`
 - **最后活动时间:** 2026-05-09
 
-### [worktrunk](https://github.com/max-sixty/worktrunk)
-
-专为AI智能体并行工作流设计的Git worktree管理CLI工具，支持Claude Code和Codex等多智能体协作场景。
-
-- **Stars:** ⭐️ 5.2k
-- **Tags:** `git` `agents` `worktrees` `developer-tools`
-- **最后活动时间:** 2026-05-29
-
-### [AReaL](https://github.com/areal-project/AReaL)
-
-为LLM智能体应用提供简单灵活的强化学习桥梁框架，支持多种RL算法与Agent场景。
-
-- **Stars:** ⭐️ 5.2k
-- **Tags:** `llm-agent` `reinforcement-learning` `agent-framework`
-- **最后活动时间:** 2026-05-28
-
 ### [n8n-skills](https://github.com/czlonkowski/n8n-skills)
 
 为Claude Code提供的n8n技能集，帮助构建无缺陷的n8n工作流自动化。
@@ -1469,6 +1501,14 @@ MCP服务器，支持AI助手与Atlassian工具无缝集成，可读取操作Con
 - **Stars:** ⭐️ 5.2k
 - **Tags:** `n8n` `Claude` `Workflow Automation`
 - **最后活动时间:** 2026-05-06
+
+### [honcho](https://github.com/plastic-labs/honcho)
+
+为AI智能体提供长期记忆存储和个性化上下文管理的记忆库，无缝集成LangChain、OpenAI等主流框架。
+
+- **Stars:** ⭐️ 5.1k
+- **Tags:** `Agent Memory` `状态管理` `向量数据库`
+- **最后活动时间:** 2026-06-11
 
 ### [Anthony Fu Skills](https://github.com/antfu/skills)
 
@@ -1478,6 +1518,14 @@ MCP服务器，支持AI助手与Atlassian工具无缝集成，可读取操作Con
 - **Tags:** `Agent` `Skills` `vibe-coding`
 - **最后活动时间:** 2026-05-01
 
+### [agents](https://github.com/cloudflare/agents)
+
+Cloudflare官方推出的AI智能体开发框架，支持在边缘端构建和部署持久化的AI Agent，集成Durable Objects和Workflows。
+
+- **Stars:** ⭐️ 5.1k
+- **Tags:** `AI Agents` `Cloudflare` `Serverless`
+- **最后活动时间:** 2026-06-12
+
 ### [Kode-CLI](https://github.com/shareAI-lab/Kode-CLI)
 
 面向后人类工作流设计的AI智能体命令行工具，为每个人机和计算机任务提供统一的智能体单元。
@@ -1485,6 +1533,14 @@ MCP服务器，支持AI助手与Atlassian工具无缝集成，可读取操作Con
 - **Stars:** ⭐️ 5.1k
 - **Tags:** `ai-agent` `cli` `automation` `workflow`
 - **最后活动时间:** 2026-05-11
+
+### [sandbox](https://github.com/agent-infra/sandbox)
+
+AI智能体一站式沙盒环境，集成浏览器、Shell、文件系统、MCP和VSCode服务器于单个Docker容器中，为AI Agent提供完整的执行环境。
+
+- **Stars:** ⭐️ 5.1k
+- **Tags:** `agent` `sandbox` `mcp` `docker` `browser-automation`
+- **最后活动时间:** 2026-05-29
 
 ### [ROMA](https://github.com/sentient-agi/ROMA)
 
@@ -1494,14 +1550,6 @@ MCP服务器，支持AI助手与Atlassian工具无缝集成，可读取操作Con
 - **Tags:** `Meta-Agent` `Multi-Agent` `Framework`
 - **最后活动时间:** 2026-02-16
 
-### [mission-control](https://github.com/builderz-labs/mission-control)
-
-开源AI智能体编排仪表盘，支持管理智能体集群、追踪任务、监控成本和编排工作流。
-
-- **Stars:** ⭐️ 5.1k
-- **Tags:** `Agent Orchestration` `Dashboard` `Monitoring`
-- **最后活动时间:** 2026-05-20
-
 ### [vibesdk](https://github.com/cloudflare/vibesdk)
 
 开源的vibe coding平台，支持text-to-app快速构建应用，基于Cloudflare全栈架构。
@@ -1510,6 +1558,14 @@ MCP服务器，支持AI助手与Atlassian工具无缝集成，可读取操作Con
 - **Tags:** `vibe-coding` `coding-agent` `text-to-app` `cloudflare`
 - **最后活动时间:** 2026-05-20
 
+### [nexent](https://github.com/ModelEngine-Group/nexent)
+
+零代码智能体自动生成平台，无需复杂编排即可快速构建AI Agent，支持运行控制、数据处理和MCP工具集成。
+
+- **Stars:** ⭐️ 5.0k
+- **Tags:** `Agent` `Zero-Code` `MCP`
+- **最后活动时间:** 2026-06-12
+
 ### [Yuxi-Know](https://github.com/xerrors/Yuxi-Know)
 
 结合LightRAG知识库的知识图谱智能体平台，支持DeepAgents、MinerU PDF与MCP协议。
@@ -1517,22 +1573,6 @@ MCP服务器，支持AI助手与Atlassian工具无缝集成，可读取操作Con
 - **Stars:** ⭐️ 5.0k
 - **Tags:** `agents` `knowledge-graph` `rag` `langchain` `neo4j`
 - **最后活动时间:** 2026-04-23
-
-### [hermes-workspace](https://github.com/outsourc-e/hermes-workspace)
-
-Hermes Agent 的原生 Web 工作空间，集成聊天、终端、记忆、技能和检查器功能，为 AI Agent 提供完整的交互界面。
-
-- **Stars:** ⭐️ 5.0k
-- **Tags:** `agent-ui` `ai-workspace` `hermes-agent` `react` `typescript`
-- **最后活动时间:** 2026-05-24
-
-### [agents](https://github.com/cloudflare/agents)
-
-Cloudflare官方推出的AI智能体开发框架，支持在边缘端构建和部署持久化的AI Agent，集成Durable Objects和Workflows。
-
-- **Stars:** ⭐️ 5.0k
-- **Tags:** `AI Agents` `Cloudflare` `Serverless`
-- **最后活动时间:** 2026-05-29
 
 ### [coral](https://github.com/withcoral/coral)
 
@@ -1550,6 +1590,22 @@ Cloudflare官方推出的AI智能体开发框架，支持在边缘端构建和�
 - **Tags:** `Agentic Workflow` `Browser Automation` `LLM Agents`
 - **最后活动时间:** 2026-03-03
 
+### [flue](https://github.com/withastro/flue)
+
+沙盒智能体框架，为AI Agent提供安全的隔离执行环境。
+
+- **Stars:** ⭐️ 4.9k
+- **Tags:** `agent` `sandbox` `framework`
+- **最后活动时间:** 2026-06-11
+
+### [solace-agent-mesh](https://github.com/SolaceLabs/solace-agent-mesh)
+
+事件驱动的多智能体AI系统框架，支持构建复杂的多步骤工作流和AI代理编排。
+
+- **Stars:** ⭐️ 4.9k
+- **Tags:** `Multi-Agent` `Event-Driven` `MCP`
+- **最后活动时间:** 2026-06-04
+
 ### [oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim)
 
 精简优化的 AI 编排框架，基于 oh-my-opencode 分支，大幅降低 Token 消耗，支持 Cerebras 等多种后端。
@@ -1558,29 +1614,21 @@ Cloudflare官方推出的AI智能体开发框架，支持在边缘端构建和�
 - **Tags:** `agentic-ai` `orchestration` `opencode`
 - **最后活动时间:** 2026-05-28
 
-### [sandbox](https://github.com/agent-infra/sandbox)
-
-AI智能体一站式沙盒环境，集成浏览器、Shell、文件系统、MCP和VSCode服务器于单个Docker容器中，为AI Agent提供完整的执行环境。
-
-- **Stars:** ⭐️ 4.8k
-- **Tags:** `agent` `sandbox` `mcp` `docker` `browser-automation`
-- **最后活动时间:** 2026-05-29
-
 ### [magic](https://github.com/dtyq/magic)
 
 开源一体化AI生产力平台，集成通用AI智能体、工作流引擎与在线协作系统，支持低代码快速构建AI应用。
 
-- **Stars:** ⭐️ 4.8k
+- **Stars:** ⭐️ 4.9k
 - **Tags:** `AI Agent` `Workflow` `Low-code` `Collaboration`
-- **最后活动时间:** 2026-05-18
+- **最后活动时间:** 2026-06-11
 
-### [lossless-claw](https://github.com/Martian-Engineering/lossless-claw)
+### [emdash](https://github.com/generalaction/emdash)
 
-OpenClaw 的无损上下文管理插件，提供 LCM 功能帮助 AI 智能体更好地管理和保持对话上下文连续性。
+YC W26孵化的开源智能体开发环境，支持并行运行多个编程智能体，兼容多种AI提供商。
 
 - **Stars:** ⭐️ 4.8k
-- **Tags:** `openclaw` `context-management` `ai-plugin` `memory`
-- **最后活动时间:** 2026-05-28
+- **Tags:** `Coding Agents` `Docker` `Orchestration`
+- **最后活动时间:** 2026-06-12
 
 ### [aci](https://github.com/aipotheosis-labs/aci)
 
@@ -1590,21 +1638,29 @@ OpenClaw 的无损上下文管理插件，提供 LCM 功能帮助 AI 智能体�
 - **Tags:** `MCP` `Tool Integration` `AI Agents`
 - **最后活动时间:** 2026-05-28
 
-### [nexent](https://github.com/ModelEngine-Group/nexent)
+### [lossless-claw](https://github.com/Martian-Engineering/lossless-claw)
 
-零代码智能体自动生成平台，无需复杂编排即可快速构建AI Agent，支持运行控制、数据处理和MCP工具集成。
+OpenClaw 的无损上下文管理插件，提供 LCM 功能帮助 AI 智能体更好地管理和保持对话上下文连续性。
+
+- **Stars:** ⭐️ 4.8k
+- **Tags:** `openclaw` `context-management` `ai-plugin` `memory`
+- **最后活动时间:** 2026-05-28
+
+### [oasis](https://github.com/camel-ai/oasis)
+
+开放智能体社会交互模拟平台，支持百万级AI智能体的大规模社会仿真实验，探索AI社会行为与交互模式。
+
+- **Stars:** ⭐️ 4.8k
+- **Tags:** `Multi-Agent` `LLM Agents` `Simulation`
+- **最后活动时间:** 2026-05-15
+
+### [agent-scripts](https://github.com/steipete/agent-scripts)
+
+为AI智能体提供共享脚本工具集，支持多仓库复用，简化智能体开发流程。
 
 - **Stars:** ⭐️ 4.7k
-- **Tags:** `Agent` `Zero-Code` `MCP`
-- **最后活动时间:** 2026-05-29
-
-### [solace-agent-mesh](https://github.com/SolaceLabs/solace-agent-mesh)
-
-事件驱动的多智能体AI系统框架，支持构建复杂的多步骤工作流和AI代理编排。
-
-- **Stars:** ⭐️ 4.7k
-- **Tags:** `Multi-Agent` `Event-Driven` `MCP`
-- **最后活动时间:** 2026-05-27
+- **Tags:** `ai-agents` `automation` `scripts`
+- **最后活动时间:** 2026-06-12
 
 ### [HiClaw](https://github.com/agentscope-ai/HiClaw)
 
@@ -1614,14 +1670,6 @@ OpenClaw 的无损上下文管理插件，提供 LCM 功能帮助 AI 智能体�
 - **Tags:** `multi-agent` `agent-framework` `collaborative-ai` `matrix`
 - **最后活动时间:** 2026-05-29
 
-### [oasis](https://github.com/camel-ai/oasis)
-
-开放智能体社会交互模拟平台，支持百万级AI智能体的大规模社会仿真实验，探索AI社会行为与交互模式。
-
-- **Stars:** ⭐️ 4.7k
-- **Tags:** `Multi-Agent` `LLM Agents` `Simulation`
-- **最后活动时间:** 2026-05-15
-
 ### [agent-os](https://github.com/buildermethods/agent-os)
 
 一个用于注入代码库标准并编写更好规格说明的系统，支持规格驱动开发流程。
@@ -1630,13 +1678,21 @@ OpenClaw 的无损上下文管理插件，提供 LCM 功能帮助 AI 智能体�
 - **Tags:** `agent` `spec-driven` `codebase`
 - **最后活动时间:** 2026-05-05
 
-### [emdash](https://github.com/generalaction/emdash)
+### [ag2](https://github.com/ag2ai/ag2)
 
-YC W26孵化的开源智能体开发环境，支持并行运行多个编程智能体，兼容多种AI提供商。
+开源AgentOS框架（原AutoGen），专注于构建多智能体协作系统，支持复杂工作流编排和LLM集成。
 
 - **Stars:** ⭐️ 4.7k
-- **Tags:** `Coding Agents` `Docker` `Orchestration`
-- **最后活动时间:** 2026-05-29
+- **Tags:** `Multi-Agent` `Agent Framework` `LLM` `Python`
+- **最后活动时间:** 2026-06-12
+
+### [zep](https://github.com/getzep/zep)
+
+AI助手的长期记忆层，提供知识图谱存储和对话历史管理，让AI应用具备持久记忆能力。
+
+- **Stars:** ⭐️ 4.7k
+- **Tags:** `Memory` `Knowledge Graph` `Agent`
+- **最后活动时间:** 2026-04-09
 
 ### [zerolang](https://github.com/vercel-labs/zerolang)
 
@@ -1646,22 +1702,6 @@ YC W26孵化的开源智能体开发环境，支持并行运行多个编程智�
 - **Tags:** `programming-language` `ai-agents` `agent-framework`
 - **最后活动时间:** 2026-05-28
 
-### [zep](https://github.com/getzep/zep)
-
-AI助手的长期记忆层，提供知识图谱存储和对话历史管理，让AI应用具备持久记忆能力。
-
-- **Stars:** ⭐️ 4.6k
-- **Tags:** `Memory` `Knowledge Graph` `Agent`
-- **最后活动时间:** 2026-04-09
-
-### [ag2](https://github.com/ag2ai/ag2)
-
-开源AgentOS框架（原AutoGen），专注于构建多智能体协作系统，支持复杂工作流编排和LLM集成。
-
-- **Stars:** ⭐️ 4.6k
-- **Tags:** `Multi-Agent` `Agent Framework` `LLM` `Python`
-- **最后活动时间:** 2026-05-29
-
 ### [youtu-agent](https://github.com/TencentCloudADP/youtu-agent)
 
 简洁强大的智能体框架，专注于开源模型支持，提供轻量级的Agent开发体验。
@@ -1669,6 +1709,14 @@ AI助手的长期记忆层，提供知识图谱存储和对话历史管理，让
 - **Stars:** ⭐️ 4.6k
 - **Tags:** `Agent Framework` `Open Source Models` `Python`
 - **最后活动时间:** 2026-03-21
+
+### [ouroboros](https://github.com/Q00/ouroboros)
+
+规范驱动开发的AI工具，通过规范定义而非传统提示词构建AI工作流，支持Claude Code、Codex CLI及MCP协议，适用于多智能体系统。
+
+- **Stars:** ⭐️ 4.6k
+- **Tags:** `Spec-Driven` `AI Agent` `Workflow Automation`
+- **最后活动时间:** 2026-06-11
 
 ### [gh-aw](https://github.com/github/gh-aw)
 
@@ -1702,21 +1750,13 @@ GitHub智能代理工作流，集成Claude Code、Copilot等AI工具。
 - **Tags:** `MCP` `Web Search` `Crawling` `AI Tools`
 - **最后活动时间:** 2026-05-22
 
-### [honcho](https://github.com/plastic-labs/honcho)
-
-为AI智能体提供长期记忆存储和个性化上下文管理的记忆库，无缝集成LangChain、OpenAI等主流框架。
-
-- **Stars:** ⭐️ 4.5k
-- **Tags:** `Agent Memory` `状态管理` `向量数据库`
-- **最后活动时间:** 2026-05-27
-
 ### [agency-swarm](https://github.com/VRSEN/agency-swarm)
 
 可靠的多智能体编排框架，支持复杂Agent协作与任务分配。
 
 - **Stars:** ⭐️ 4.4k
 - **Tags:** `Multi-Agent` `Orchestration` `Framework`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-06-12
 
 ### [TencentDB-Agent-Memory](https://github.com/Tencent/TencentDB-Agent-Memory)
 
@@ -1734,13 +1774,13 @@ Notion官方MCP服务器，为AI助手提供Notion数据访问能力，实现智
 - **Tags:** `mcp` `notion` `ai-integration` `knowledge-base`
 - **最后活动时间:** 2026-05-27
 
-### [ouroboros](https://github.com/Q00/ouroboros)
+### [koog](https://github.com/JetBrains/koog)
 
-规范驱动开发的AI工具，通过规范定义而非传统提示词构建AI工作流，支持Claude Code、Codex CLI及MCP协议，适用于多智能体系统。
+基于JVM的AI智能体开发框架，支持构建可预测、容错的企业级AI Agent，兼容OpenAI、Anthropic、Ollama等多种LLM后端。
 
 - **Stars:** ⭐️ 4.3k
-- **Tags:** `Spec-Driven` `AI Agent` `Workflow Automation`
-- **最后活动时间:** 2026-05-29
+- **Tags:** `AI Agents` `Kotlin` `LLM` `Multi-Agent`
+- **最后活动时间:** 2026-06-10
 
 ### [agent-service-toolkit](https://github.com/JoshuaC215/agent-service-toolkit)
 
@@ -1750,6 +1790,30 @@ Notion官方MCP服务器，为AI助手提供Notion数据访问能力，实现智
 - **Tags:** `Agents` `LangGraph` `Streamlit`
 - **最后活动时间:** 2026-03-07
 
+### [SenseNova-Skills](https://github.com/OpenSenseNova/SenseNova-Skills)
+
+模块化AI技能库，用于构建智能办公助手和生产力工作流自动化系统。
+
+- **Stars:** ⭐️ 4.3k
+- **Tags:** `agent` `ai-agents` `ai-assistant` `office-automation`
+- **最后活动时间:** 2026-06-11
+
+### [OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl)
+
+支持计划优先开发工作流的AI智能体框架，具备审批执行机制，支持多语言和自动测试功能。
+
+- **Stars:** ⭐️ 4.3k
+- **Tags:** `AI-Agents` `Automation` `Code-Generation` `Developer-Tools`
+- **最后活动时间:** 2026-03-25
+
+### [engram](https://github.com/Gentleman-Programming/engram)
+
+AI编程代理的持久化记忆系统，提供SQLite全文搜索、MCP服务器、HTTP API和终端界面。代理无关设计，易于集成。
+
+- **Stars:** ⭐️ 4.3k
+- **Tags:** `ai-agents` `memory-system` `mcp-server` `sqlite` `coding-assistant`
+- **最后活动时间:** 2026-05-29
+
 ### [ms-agent](https://github.com/modelscope/ms-agent)
 
 轻量级智能代理框架，支持复杂任务的自主执行、深度搜索和代码生成。
@@ -1758,22 +1822,6 @@ Notion官方MCP服务器，为AI助手提供Notion数据访问能力，实现智
 - **Tags:** `ai-agent` `framework` `code-generation` `deep-research`
 - **最后活动时间:** 2026-04-15
 
-### [httprunner](https://github.com/httprunner/httprunner)
-
-开源API/UI自动化测试框架，支持MCP服务器和AI智能体测试，具备丰富的插件机制和高度可扩展能力。
-
-- **Stars:** ⭐️ 4.3k
-- **Tags:** `testing` `mcp-server` `agent-tars` `ui-testing` `automation`
-- **最后活动时间:** 2025-12-11
-
-### [koog](https://github.com/JetBrains/koog)
-
-基于JVM的AI智能体开发框架，支持构建可预测、容错的企业级AI Agent，兼容OpenAI、Anthropic、Ollama等多种LLM后端。
-
-- **Stars:** ⭐️ 4.3k
-- **Tags:** `AI Agents` `Kotlin` `LLM` `Multi-Agent`
-- **最后活动时间:** 2026-05-29
-
 ### [hiclaw](https://github.com/alibaba/hiclaw)
 
 协作式多智能体操作系统，通过Matrix房间实现透明的人机协同任务编排与多Agent团队协作。
@@ -1781,6 +1829,14 @@ Notion官方MCP服务器，为AI助手提供Notion数据访问能力，实现智
 - **Stars:** ⭐️ 4.2k
 - **Tags:** `Multi-Agent` `Human-in-the-loop` `Matrix`
 - **最后活动时间:** 2026-04-24
+
+### [agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit)
+
+AI代理治理工具包，提供策略执行、零信任身份、执行沙箱和可靠性工程。完整覆盖OWASP Agentic Top 10安全标准。
+
+- **Stars:** ⭐️ 4.2k
+- **Tags:** `ai-agents` `ai-safety` `governance` `owasp` `security`
+- **最后活动时间:** 2026-06-12
 
 ### [image-blaster](https://github.com/neilsonnn/image-blaster)
 
@@ -1796,15 +1852,7 @@ Notion官方MCP服务器，为AI助手提供Notion数据访问能力，实现智
 
 - **Stars:** ⭐️ 4.2k
 - **Tags:** `Code Execution` `AI Agents` `Online Judge`
-- **最后活动时间:** 2026-05-08
-
-### [OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl)
-
-支持计划优先开发工作流的AI智能体框架，具备审批执行机制，支持多语言和自动测试功能。
-
-- **Stars:** ⭐️ 4.2k
-- **Tags:** `AI-Agents` `Automation` `Code-Generation` `Developer-Tools`
-- **最后活动时间:** 2026-03-25
+- **最后活动时间:** 2026-06-05
 
 ### [MemoryBear](https://github.com/SuanmoSuanyangTechnology/MemoryBear)
 
@@ -1830,22 +1878,6 @@ MCP服务器，使AI助手能够创建和编辑Draw.io图表和流程图。
 - **Tags:** `mcp` `drawio` `diagram` `ai-integration`
 - **最后活动时间:** 2026-05-22
 
-### [latitude-llm](https://github.com/latitude-dev/latitude-llm)
-
-开源的智能体工程平台，提供完整的Agent开发与部署解决方案。
-
-- **Stars:** ⭐️ 4.0k
-- **Tags:** `Agent` `LLM` `Platform`
-- **最后活动时间:** 2026-05-28
-
-### [langroid](https://github.com/langroid/langroid)
-
-轻量级多智能体LLM编程框架，支持任务编排、RAG检索增强生成和函数调用。
-
-- **Stars:** ⭐️ 4.0k
-- **Tags:** `Multi-Agent` `LLM Framework` `RAG`
-- **最后活动时间:** 2026-05-28
-
 ### [openclaw-mission-control](https://github.com/abhi1693/openclaw-mission-control)
 
 AI智能体编排仪表板，用于管理AI智能体、分配任务并通过OpenClaw网关协调多智能体协作。
@@ -1854,20 +1886,36 @@ AI智能体编排仪表板，用于管理AI智能体、分配任务并通过Open
 - **Tags:** `ai-agents` `orchestration` `automation`
 - **最后活动时间:** 2026-04-06
 
+### [langroid](https://github.com/langroid/langroid)
+
+轻量级多智能体LLM编程框架，支持任务编排、RAG检索增强生成和函数调用。
+
+- **Stars:** ⭐️ 4.0k
+- **Tags:** `Multi-Agent` `LLM Framework` `RAG`
+- **最后活动时间:** 2026-06-10
+
+### [latitude-llm](https://github.com/latitude-dev/latitude-llm)
+
+开源的智能体工程平台，提供完整的Agent开发与部署解决方案。
+
+- **Stars:** ⭐️ 4.0k
+- **Tags:** `Agent` `LLM` `Platform`
+- **最后活动时间:** 2026-05-28
+
+### [Clawith](https://github.com/dataelement/Clawith)
+
+OpenClaw团队版多智能体框架，支持LLM驱动的自主代理协作与编排。
+
+- **Stars:** ⭐️ 4.0k
+- **Tags:** `Agent` `LLM` `Multi-Agent`
+- **最后活动时间:** 2026-06-12
+
 ### [harness](https://github.com/revfactory/harness)
 
 一个元技能框架，可设计领域特定的智能体团队、定义专业代理并生成其使用的技能。
 
 - **Stars:** ⭐️ 4.0k
 - **Tags:** `claude-code` `agent-framework` `multi-agent` `automation`
-- **最后活动时间:** 2026-05-28
-
-### [agent-scripts](https://github.com/steipete/agent-scripts)
-
-为AI智能体提供共享脚本工具集，支持多仓库复用，简化智能体开发流程。
-
-- **Stars:** ⭐️ 3.9k
-- **Tags:** `ai-agents` `automation` `scripts`
 - **最后活动时间:** 2026-05-28
 
 ### [directories](https://github.com/leerob/directories)
@@ -1878,13 +1926,21 @@ MCP服务器和规则发现目录，帮助开发者快速找到适合AI助手的
 - **Tags:** `mcp` `model-context-protocol` `ai-agents` `directory`
 - **最后活动时间:** 2026-05-08
 
-### [Clawith](https://github.com/dataelement/Clawith)
+### [excel-mcp-server](https://github.com/haris-musa/excel-mcp-server)
 
-OpenClaw团队版多智能体框架，支持LLM驱动的自主代理协作与编排。
+基于 MCP 协议的 Excel 文件操作服务器，让 AI 模型能够读写和操作 Excel 文件。
 
 - **Stars:** ⭐️ 3.9k
-- **Tags:** `Agent` `LLM` `Multi-Agent`
-- **最后活动时间:** 2026-05-28
+- **Tags:** `MCP` `Excel` `LLM` `Automation`
+- **最后活动时间:** 2026-04-12
+
+### [awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent)
+
+Hermes Agent 技能、工具、集成和资源的精选列表，由 Nous Research 开发。
+
+- **Stars:** ⭐️ 3.9k
+- **Tags:** `ai-agents` `hermes-agent` `nous-research` `skills`
+- **最后活动时间:** 2026-05-16
 
 ### [open-slide](https://github.com/1weiho/open-slide)
 
@@ -1894,21 +1950,21 @@ OpenClaw团队版多智能体框架，支持LLM驱动的自主代理协作与编
 - **Tags:** `agent` `slides` `react`
 - **最后活动时间:** 2026-05-28
 
-### [excel-mcp-server](https://github.com/haris-musa/excel-mcp-server)
+### [mcp-context-forge](https://github.com/IBM/mcp-context-forge)
 
-基于 MCP 协议的 Excel 文件操作服务器，让 AI 模型能够读写和操作 Excel 文件。
+IBM开源的AI网关与代理服务，统一管理MCP、A2A及REST/gRPC接口，提供安全护栏和可观测性能力。
 
 - **Stars:** ⭐️ 3.9k
-- **Tags:** `MCP` `Excel` `LLM` `Automation`
-- **最后活动时间:** 2026-04-12
+- **Tags:** `MCP` `API Gateway` `Agents`
+- **最后活动时间:** 2026-06-12
 
-### [engram](https://github.com/Gentleman-Programming/engram)
+### [LazyLLM](https://github.com/LazyAGI/LazyLLM)
 
-AI编程代理的持久化记忆系统，提供SQLite全文搜索、MCP服务器、HTTP API和终端界面。代理无关设计，易于集成。
+最简单懒人的多智能体应用构建框架，集成LangChain、LlamaIndex，支持微调、RAG和知识图谱等功能。
 
 - **Stars:** ⭐️ 3.8k
-- **Tags:** `ai-agents` `memory-system` `mcp-server` `sqlite` `coding-assistant`
-- **最后活动时间:** 2026-05-28
+- **Tags:** `Multi-Agent` `Framework` `RAG`
+- **最后活动时间:** 2026-06-12
 
 ### [packrun](https://github.com/midday-ai/packrun)
 
@@ -1918,13 +1974,21 @@ AI编程代理的持久化记忆系统，提供SQLite全文搜索、MCP服务器
 - **Tags:** `package-manager` `agents` `npm`
 - **最后活动时间:** 2026-02-06
 
-### [LazyLLM](https://github.com/LazyAGI/LazyLLM)
+### [fast-agent](https://github.com/evalstate/fast-agent)
 
-最简单懒人的多智能体应用构建框架，集成LangChain、LlamaIndex，支持微调、RAG和知识图谱等功能。
+强大的AI智能体开发框架，支持MCP和ACP协议，提供完整的代码构建与评估能力，内置CLI和TUI界面。
 
 - **Stars:** ⭐️ 3.8k
-- **Tags:** `Multi-Agent` `Framework` `RAG`
-- **最后活动时间:** 2026-05-28
+- **Tags:** `Agent Framework` `MCP` `Python` `CLI`
+- **最后活动时间:** 2026-06-12
+
+### [docetl](https://github.com/ucbepic/docetl)
+
+基于LLM智能体的数据处理与ETL系统，支持文档分析、语义数据处理和非结构化数据工作流自动化。
+
+- **Stars:** ⭐️ 3.8k
+- **Tags:** `LLM` `ETL` `Agents` `Document Processing`
+- **最后活动时间:** 2026-06-12
 
 ### [mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian)
 
@@ -1933,14 +1997,6 @@ AI编程代理的持久化记忆系统，提供SQLite全文搜索、MCP服务器
 - **Stars:** ⭐️ 3.8k
 - **Tags:** `MCP` `Obsidian` `AI Integration`
 - **最后活动时间:** 2026-05-15
-
-### [fast-agent](https://github.com/evalstate/fast-agent)
-
-强大的AI智能体开发框架，支持MCP和ACP协议，提供完整的代码构建与评估能力，内置CLI和TUI界面。
-
-- **Stars:** ⭐️ 3.8k
-- **Tags:** `Agent Framework` `MCP` `Python` `CLI`
-- **最后活动时间:** 2026-05-28
 
 ### [mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare)
 
@@ -1958,22 +2014,6 @@ Claude Code的上下文管理框架，通过hooks实现状态持久化和智能�
 - **Tags:** `Claude Code` `MCP` `Agent Orchestration`
 - **最后活动时间:** 2026-01-26
 
-### [flue](https://github.com/withastro/flue)
-
-沙盒智能体框架，为AI Agent提供安全的隔离执行环境。
-
-- **Stars:** ⭐️ 3.8k
-- **Tags:** `agent` `sandbox` `framework`
-- **最后活动时间:** 2026-05-28
-
-### [mcp-context-forge](https://github.com/IBM/mcp-context-forge)
-
-IBM开源的AI网关与代理服务，统一管理MCP、A2A及REST/gRPC接口，提供安全护栏和可观测性能力。
-
-- **Stars:** ⭐️ 3.8k
-- **Tags:** `MCP` `API Gateway` `Agents`
-- **最后活动时间:** 2026-05-29
-
 ### [openclaw-docker-cn-im](https://github.com/justlovemaki/openclaw-docker-cn-im)
 
 OpenClaw AI机器人网关的中国IM平台整合Docker版本，预配置飞书、钉钉、QQ机器人、企业微信等主流平台插件，支持快速部署多平台AI机器人。
@@ -1982,13 +2022,21 @@ OpenClaw AI机器人网关的中国IM平台整合Docker版本，预配置飞书�
 - **Tags:** `ai-bot` `chatbot` `docker` `feishu` `dingtalk` `wechat-work`
 - **最后活动时间:** 2026-04-14
 
-### [docetl](https://github.com/ucbepic/docetl)
+### [openagents](https://github.com/openagents-org/openagents)
 
-基于LLM智能体的数据处理与ETL系统，支持文档分析、语义数据处理和非结构化数据工作流自动化。
+开源AI智能体网络框架，支持多智能体协作与开放协作场景。
 
 - **Stars:** ⭐️ 3.8k
-- **Tags:** `LLM` `ETL` `Agents` `Document Processing`
-- **最后活动时间:** 2026-05-20
+- **Tags:** `Agents` `Collaboration` `Framework`
+- **最后活动时间:** 2026-06-12
+
+### [agentscope-java](https://github.com/agentscope-ai/agentscope-java)
+
+面向Java开发者的智能体编程框架，提供Agent-Oriented范式构建LLM应用。
+
+- **Stars:** ⭐️ 3.8k
+- **Tags:** `Agent` `Java` `LLM` `Agentic`
+- **最后活动时间:** 2026-06-11
 
 ### [llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine)
 
@@ -1998,6 +2046,14 @@ OpenClaw AI机器人网关的中国IM平台整合Docker版本，预配置飞书�
 - **Tags:** `LLM` `Workflow` `CLI`
 - **最后活动时间:** 2026-04-30
 
+### [golutra](https://github.com/golutra/golutra)
+
+多智能体自动化工作流框架，支持ChatGPT、Claude、Gemini等多种AI模型，实现复杂的AI代理编排与自动化任务。
+
+- **Stars:** ⭐️ 3.7k
+- **Tags:** `agent` `multi-agent` `chatgpt` `claude` `openai` `automation`
+- **最后活动时间:** 2026-05-31
+
 ### [PromptX](https://github.com/Deepractice/PromptX)
 
 领先的AI智能体上下文平台，为AI代理提供上下文管理能力。
@@ -2005,6 +2061,14 @@ OpenClaw AI机器人网关的中国IM平台整合Docker版本，预配置飞书�
 - **Stars:** ⭐️ 3.7k
 - **Tags:** `ai-agent` `context-platform` `prompt-engineering` `llm`
 - **最后活动时间:** 2026-05-17
+
+### [tracecat](https://github.com/TracecatHQ/tracecat)
+
+专为安全团队打造的AI自动化平台，支持低代码工作流编排与智能体协作，实现安全运营智能化。
+
+- **Stars:** ⭐️ 3.7k
+- **Tags:** `AI自动化` `安全运营` `工作流编排`
+- **最后活动时间:** 2026-06-12
 
 ### [hermes-agent-self-evolution](https://github.com/NousResearch/hermes-agent-self-evolution)
 
@@ -2014,21 +2078,21 @@ Hermes Agent 的进化式自我优化框架，利用 DSPy 和 GEPA 技术自动�
 - **Tags:** `agent` `dspy` `self-improvement` `prompt-optimization`
 - **最后活动时间:** 2026-03-29
 
-### [tracecat](https://github.com/TracecatHQ/tracecat)
+### [OB1](https://github.com/NateBJones-Projects/OB1)
 
-专为安全团队打造的AI自动化平台，支持低代码工作流编排与智能体协作，实现安全运营智能化。
+开放式大脑基础设施层，提供统一数据库、AI网关和聊天通道，支持任意AI模型接入，无中间件无SaaS依赖。
 
-- **Stars:** ⭐️ 3.6k
-- **Tags:** `AI自动化` `安全运营` `工作流编排`
-- **最后活动时间:** 2026-05-29
+- **Stars:** ⭐️ 3.7k
+- **Tags:** `ai-agents` `mcp` `memory-layer` `personal-knowledge-management`
+- **最后活动时间:** 2026-06-11
 
-### [golutra](https://github.com/golutra/golutra)
+### [embabel-agent](https://github.com/embabel/embabel-agent)
 
-多智能体自动化工作流框架，支持ChatGPT、Claude、Gemini等多种AI模型，实现复杂的AI代理编排与自动化任务。
+面向JVM生态的AI智能体框架，支持Java、Kotlin和Spring，提供多智能体编排与协作能力。
 
-- **Stars:** ⭐️ 3.6k
-- **Tags:** `agent` `multi-agent` `chatgpt` `claude` `openai` `automation`
-- **最后活动时间:** 2026-05-27
+- **Stars:** ⭐️ 3.7k
+- **Tags:** `JVM` `Multi-Agent` `Spring` `Java`
+- **最后活动时间:** 2026-06-12
 
 ### [grammY](https://github.com/grammyjs/grammY)
 
@@ -2038,6 +2102,14 @@ Hermes Agent 的进化式自我优化框架，利用 DSPy 和 GEPA 技术自动�
 - **Tags:** `telegram-bot` `bot-framework` `typescript` `chatbot`
 - **最后活动时间:** 2026-05-16
 
+### [semantic-router](https://github.com/aurelio-labs/semantic-router)
+
+超快速AI决策引擎，用于多模态数据的智能处理与语义路由，适合构建智能Agent系统。
+
+- **Stars:** ⭐️ 3.6k
+- **Tags:** `semantic-routing` `ai-decision` `multimodal` `nlp`
+- **最后活动时间:** 2026-05-23
+
 ### [just-bash](https://github.com/vercel-labs/just-bash)
 
 专为AI智能体设计的Bash执行工具，让智能体能够安全地执行Shell命令。
@@ -2046,13 +2118,13 @@ Hermes Agent 的进化式自我优化框架，利用 DSPy 和 GEPA 技术自动�
 - **Tags:** `bash` `agents` `shell` `automation`
 - **最后活动时间:** 2026-05-26
 
-### [openagents](https://github.com/openagents-org/openagents)
+### [all-agentic-architectures](https://github.com/FareedKhan-dev/all-agentic-architectures)
 
-开源AI智能体网络框架，支持多智能体协作与开放协作场景。
+实现了17+种智能体架构，覆盖AI系统开发的不同阶段，适合构建实际应用的Agent系统。
 
 - **Stars:** ⭐️ 3.6k
-- **Tags:** `Agents` `Collaboration` `Framework`
-- **最后活动时间:** 2026-05-28
+- **Tags:** `Agent` `LangGraph` `LangChain`
+- **最后活动时间:** 2026-06-08
 
 ### [tinyagi](https://github.com/TinyAGI/tinyagi)
 
@@ -2062,37 +2134,13 @@ Hermes Agent 的进化式自我优化框架，利用 DSPy 和 GEPA 技术自动�
 - **Tags:** `agent` `orchestration` `automation` `agi`
 - **最后活动时间:** 2026-03-30
 
-### [semantic-router](https://github.com/aurelio-labs/semantic-router)
+### [claude-octopus](https://github.com/nyldn/claude-octopus)
 
-超快速AI决策引擎，用于多模态数据的智能处理与语义路由，适合构建智能Agent系统。
+Claude Code多LLM编排插件，支持8个提供商、47个命令和50种技能，实现智能工作流编排。
 
 - **Stars:** ⭐️ 3.6k
-- **Tags:** `semantic-routing` `ai-decision` `multimodal` `nlp`
-- **最后活动时间:** 2026-05-23
-
-### [awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent)
-
-Hermes Agent 技能、工具、集成和资源的精选列表，由 Nous Research 开发。
-
-- **Stars:** ⭐️ 3.5k
-- **Tags:** `ai-agents` `hermes-agent` `nous-research` `skills`
-- **最后活动时间:** 2026-05-16
-
-### [Acontext](https://github.com/memodb-io/Acontext)
-
-将Agent技能作为记忆层的上下文数据平台，为AI智能体提供可观测性能力和自演化学习支持。
-
-- **Stars:** ⭐️ 3.5k
-- **Tags:** `Agent Memory` `Context Engineering` `LLMOps` `Observability`
-- **最后活动时间:** 2026-05-26
-
-### [embabel-agent](https://github.com/embabel/embabel-agent)
-
-面向JVM生态的AI智能体框架，支持Java、Kotlin和Spring，提供多智能体编排与协作能力。
-
-- **Stars:** ⭐️ 3.5k
-- **Tags:** `JVM` `Multi-Agent` `Spring` `Java`
-- **最后活动时间:** 2026-05-28
+- **Tags:** `Claude` `Multi-LLM` `Orchestration` `Agent`
+- **最后活动时间:** 2026-06-12
 
 ### [skills](https://github.com/browserbase/skills)
 
@@ -2100,39 +2148,55 @@ Claude Agent SDK 配套的网页浏览工具，为 AI 智能体提供网络访�
 
 - **Stars:** ⭐️ 3.5k
 - **Tags:** `claude` `agent` `web-browsing` `sdk`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-06-12
+
+### [awesome-deepseek-agent](https://github.com/deepseek-ai/awesome-deepseek-agent)
+
+DeepSeek智能体相关资源合集，涵盖Agent框架与应用案例。
+
+- **Stars:** ⭐️ 3.5k
+- **Tags:** `deepseek` `agent` `llm`
+- **最后活动时间:** 2026-06-12
+
+### [Acontext](https://github.com/memodb-io/Acontext)
+
+将Agent技能作为记忆层的上下文数据平台，为AI智能体提供可观测性能力和自演化学习支持。
+
+- **Stars:** ⭐️ 3.5k
+- **Tags:** `Agent Memory` `Context Engineering` `LLMOps` `Observability`
+- **最后活动时间:** 2026-06-09
+
+### [Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills)
+
+为AI智能体提供多模态生成媒体技能，支持Claude Code、Cursor等工具的图像、视频和音频生成。
+
+- **Stars:** ⭐️ 3.5k
+- **Tags:** `mcp` `multimodal-ai` `ai-agents`
+- **最后活动时间:** 2026-06-12
 
 ### [SimpleMem](https://github.com/aiming-lab/SimpleMem)
 
 为LLM智能体提供高效终身记忆能力的框架，支持记忆压缩、语义检索和MCP协议集成。
 
-- **Stars:** ⭐️ 3.4k
+- **Stars:** ⭐️ 3.5k
 - **Tags:** `Agent` `Memory` `RAG` `MCP`
 - **最后活动时间:** 2026-05-21
-
-### [OB1](https://github.com/NateBJones-Projects/OB1)
-
-开放式大脑基础设施层，提供统一数据库、AI网关和聊天通道，支持任意AI模型接入，无中间件无SaaS依赖。
-
-- **Stars:** ⭐️ 3.4k
-- **Tags:** `ai-agents` `mcp` `memory-layer` `personal-knowledge-management`
-- **最后活动时间:** 2026-05-28
-
-### [claude-octopus](https://github.com/nyldn/claude-octopus)
-
-Claude Code多LLM编排插件，支持8个提供商、47个命令和50种技能，实现智能工作流编排。
-
-- **Stars:** ⭐️ 3.4k
-- **Tags:** `Claude` `Multi-LLM` `Orchestration` `Agent`
-- **最后活动时间:** 2026-05-28
 
 ### [dagu](https://github.com/dagucloud/dagu)
 
 本地优先的工作流引擎，内置AI代理可自动创建和调试工作流。支持从单机到分布式集群的无缝扩展。
 
-- **Stars:** ⭐️ 3.4k
+- **Stars:** ⭐️ 3.5k
 - **Tags:** `workflow-engine` `ai-agents` `dag` `task-automation`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-06-12
+
+### [skillhub](https://github.com/iflytek/skillhub)
+
+企业级自托管智能体技能注册中心，支持技能包版本管理、RBAC权限控制和审计日志。
+
+- **Stars:** ⭐️ 3.4k
+- **Tags:** `skill-registry` `agent-skills` `enterprise`
+- **最后活动时间:** 2026-06-12
 
 ### [MetaClaw](https://github.com/aiming-lab/MetaClaw)
 
@@ -2140,23 +2204,7 @@ Claude Code多LLM编排插件，支持8个提供商、47个命令和50种技能�
 
 - **Stars:** ⭐️ 3.4k
 - **Tags:** `AI Agent` `Continual Learning` `Meta-Learning`
-- **最后活动时间:** 2026-05-23
-
-### [all-agentic-architectures](https://github.com/FareedKhan-dev/all-agentic-architectures)
-
-实现了17+种智能体架构，覆盖AI系统开发的不同阶段，适合构建实际应用的Agent系统。
-
-- **Stars:** ⭐️ 3.4k
-- **Tags:** `Agent` `LangGraph` `LangChain`
-- **最后活动时间:** 2026-05-28
-
-### [Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills)
-
-为AI智能体提供多模态生成媒体技能，支持Claude Code、Cursor等工具的图像、视频和音频生成。
-
-- **Stars:** ⭐️ 3.3k
-- **Tags:** `mcp` `multimodal-ai` `ai-agents`
-- **最后活动时间:** 2026-05-19
+- **最后活动时间:** 2026-06-07
 
 ### [ii-agent](https://github.com/Intelligent-Internet/ii-agent)
 
@@ -2166,21 +2214,21 @@ Claude Code多LLM编排插件，支持8个提供商、47个命令和50种技能�
 - **Tags:** `Agent` `AI Framework` `LLM`
 - **最后活动时间:** 2026-04-13
 
-### [agentscope-java](https://github.com/agentscope-ai/agentscope-java)
-
-面向Java开发者的智能体编程框架，提供Agent-Oriented范式构建LLM应用。
-
-- **Stars:** ⭐️ 3.3k
-- **Tags:** `Agent` `Java` `LLM` `Agentic`
-- **最后活动时间:** 2026-05-27
-
 ### [metorial](https://github.com/metorial/metorial)
 
 基于MCP协议的AI模型集成平台，支持将任意AI模型连接到600+集成，为智能体工作流提供安全容器化环境。
 
 - **Stars:** ⭐️ 3.3k
 - **Tags:** `MCP` `AI Agent` `Integration` `Docker`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-06-12
+
+### [beeai-framework](https://github.com/i-am-bee/beeai-framework)
+
+生产级AI智能体开发框架，同时支持Python和TypeScript，简化多智能体系统构建。
+
+- **Stars:** ⭐️ 3.3k
+- **Tags:** `Agent Framework` `Multi-agent` `Production`
+- **最后活动时间:** 2026-06-10
 
 ### [gptscript](https://github.com/gptscript-ai/gptscript)
 
@@ -2190,13 +2238,13 @@ Claude Code多LLM编排插件，支持8个提供商、47个命令和50种技能�
 - **Tags:** `agent` `scripting` `automation`
 - **最后活动时间:** 2026-05-22
 
-### [beeai-framework](https://github.com/i-am-bee/beeai-framework)
+### [goclaw](https://github.com/nextlevelbuilder/goclaw)
 
-生产级AI智能体开发框架，同时支持Python和TypeScript，简化多智能体系统构建。
+轻量级多智能体AI网关，单二进制文件集成11+LLM提供商，支持团队协作与任务编排。
 
-- **Stars:** ⭐️ 3.3k
-- **Tags:** `Agent Framework` `Multi-agent` `Production`
-- **最后活动时间:** 2026-05-28
+- **Stars:** ⭐️ 3.2k
+- **Tags:** `多智能体` `AI网关` `Golang`
+- **最后活动时间:** 2026-06-07
 
 ### [Peekaboo](https://github.com/steipete/Peekaboo)
 
@@ -2206,13 +2254,13 @@ macOS MCP服务器，让AI智能体能够截图并进行视觉问答。
 - **Tags:** `mcp` `ai-agent` `screenshot` `visual-qa` `macos`
 - **最后活动时间:** 2026-05-05
 
-### [skillhub](https://github.com/iflytek/skillhub)
+### [qiushi-skill](https://github.com/HughYau/qiushi-skill)
 
-企业级自托管智能体技能注册中心，支持技能包版本管理、RBAC权限控制和审计日志。
+从教员思想中提炼方法论工具，系统性武装AI大脑的智能体技能框架。为AI Agent提供一套完整的思维原则和方法论工具集。
 
 - **Stars:** ⭐️ 3.2k
-- **Tags:** `skill-registry` `agent-skills` `enterprise`
-- **最后活动时间:** 2026-05-29
+- **Tags:** `ai-agents` `methodology` `skills` `workflow`
+- **最后活动时间:** 2026-05-01
 
 ### [mcp](https://github.com/microsoft/mcp)
 
@@ -2222,21 +2270,13 @@ macOS MCP服务器，让AI智能体能够截图并进行视觉问答。
 - **Tags:** `MCP` `Microsoft` `Agent Tools`
 - **最后活动时间:** 2026-05-28
 
-### [agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit)
+### [openai-agents-js](https://github.com/openai/openai-agents-js)
 
-AI代理治理工具包，提供策略执行、零信任身份、执行沙箱和可靠性工程。完整覆盖OWASP Agentic Top 10安全标准。
-
-- **Stars:** ⭐️ 3.2k
-- **Tags:** `ai-agents` `ai-safety` `governance` `owasp` `security`
-- **最后活动时间:** 2026-05-29
-
-### [goclaw](https://github.com/nextlevelbuilder/goclaw)
-
-轻量级多智能体AI网关，单二进制文件集成11+LLM提供商，支持团队协作与任务编排。
+OpenAI官方推出的轻量级多智能体工作流框架，支持语音代理和复杂编排，TypeScript原生支持。
 
 - **Stars:** ⭐️ 3.2k
-- **Tags:** `多智能体` `AI网关` `Golang`
-- **最后活动时间:** 2026-05-28
+- **Tags:** `Agent Framework` `OpenAI` `TypeScript`
+- **最后活动时间:** 2026-06-09
 
 ### [AGiXT](https://github.com/Josh-XT/AGiXT)
 
@@ -2244,15 +2284,7 @@ AI代理治理工具包，提供策略执行、零信任身份、执行沙箱和
 
 - **Stars:** ⭐️ 3.2k
 - **Tags:** `AI Agent` `LLM` `Automation` `OpenAI` `ChromaDB`
-- **最后活动时间:** 2026-05-26
-
-### [qiushi-skill](https://github.com/HughYau/qiushi-skill)
-
-从教员思想中提炼方法论工具，系统性武装AI大脑的智能体技能框架。为AI Agent提供一套完整的思维原则和方法论工具集。
-
-- **Stars:** ⭐️ 3.2k
-- **Tags:** `ai-agents` `methodology` `skills` `workflow`
-- **最后活动时间:** 2026-05-01
+- **最后活动时间:** 2026-06-02
 
 ### [agentfs](https://github.com/tursodatabase/agentfs)
 
@@ -2260,7 +2292,7 @@ AI代理治理工具包，提供策略执行、零信任身份、执行沙箱和
 
 - **Stars:** ⭐️ 3.2k
 - **Tags:** `agents` `filesystem` `sqlite`
-- **最后活动时间:** 2026-03-25
+- **最后活动时间:** 2026-06-03
 
 ### [ha-mcp](https://github.com/homeassistant-ai/ha-mcp)
 
@@ -2270,13 +2302,13 @@ AI代理治理工具包，提供策略执行、零信任身份、执行沙箱和
 - **Tags:** `mcp` `home-assistant` `smart-home` `iot`
 - **最后活动时间:** 2026-05-28
 
-### [openai-agents-js](https://github.com/openai/openai-agents-js)
+### [mirage](https://github.com/strukto-ai/mirage)
 
-OpenAI官方推出的轻量级多智能体工作流框架，支持语音代理和复杂编排，TypeScript原生支持。
+为AI代理打造的统一虚拟文件系统，支持Bash操作和多种AI框架集成，提供安全的沙箱环境。
 
 - **Stars:** ⭐️ 3.1k
-- **Tags:** `Agent Framework` `OpenAI` `TypeScript`
-- **最后活动时间:** 2026-05-29
+- **Tags:** `ai-agents` `virtual-filesystem` `agent-sandbox` `langchain`
+- **最后活动时间:** 2026-06-12
 
 ### [MemMachine](https://github.com/MemMachine/MemMachine)
 
@@ -2284,7 +2316,31 @@ AI Agent通用记忆层，提供可扩展、可互操作的存储与检索能力
 
 - **Stars:** ⭐️ 3.1k
 - **Tags:** `AI Agents` `Memory Management` `Knowledge Graph`
-- **最后活动时间:** 2026-05-28
+- **最后活动时间:** 2026-06-11
+
+### [ReMe](https://github.com/agentscope-ai/ReMe)
+
+智能体记忆管理工具包，支持记忆存储和RAG检索增强。
+
+- **Stars:** ⭐️ 3.1k
+- **Tags:** `agent` `ai-agents` `memory` `rag` `memoryscope`
+- **最后活动时间:** 2026-06-10
+
+### [BotSharp](https://github.com/SciSharp/BotSharp)
+
+.NET平台上的AI多智能体框架，支持构建企业级聊天机器人和多智能体系统。
+
+- **Stars:** ⭐️ 3.1k
+- **Tags:** `Multi-Agent` `.NET` `Chatbot`
+- **最后活动时间:** 2026-06-12
+
+### [EvoAgentX](https://github.com/EvoAgentX/EvoAgentX)
+
+构建自进化AI代理生态系统的框架，支持多代理协作。
+
+- **Stars:** ⭐️ 3.1k
+- **Tags:** `ai` `ai-agents` `llms` `multi-agent-systems` `rag`
+- **最后活动时间:** 2026-05-24
 
 ### [mcp-grafana](https://github.com/grafana/mcp-grafana)
 
@@ -2294,21 +2350,13 @@ MCP服务器，为AI助手提供Grafana集成能力，支持AI模型直接查询
 - **Tags:** `MCP` `Grafana` `AI Integration`
 - **最后活动时间:** 2026-05-29
 
-### [BotSharp](https://github.com/SciSharp/BotSharp)
+### [agentcore-samples](https://github.com/awslabs/agentcore-samples)
 
-.NET平台上的AI多智能体框架，支持构建企业级聊天机器人和多智能体系统。
+Amazon Bedrock Agentcore 是亚马逊官方的 AI 智能体生产级部署框架，提供身份认证、网关管理和内存管理等企业级能力。
 
 - **Stars:** ⭐️ 3.1k
-- **Tags:** `Multi-Agent` `.NET` `Chatbot`
-- **最后活动时间:** 2026-05-28
-
-### [EvoAgentX](https://github.com/EvoAgentX/EvoAgentX)
-
-构建自进化AI代理生态系统的框架，支持多代理协作。
-
-- **Stars:** ⭐️ 3.0k
-- **Tags:** `ai` `ai-agents` `llms` `multi-agent-systems` `rag`
-- **最后活动时间:** 2026-05-24
+- **Tags:** `agent` `bedrock` `production` `aws`
+- **最后活动时间:** 2026-06-12
 
 ### [Core](https://github.com/cheshire-cat-ai/core)
 
@@ -2318,13 +2366,13 @@ MCP服务器，为AI助手提供Grafana集成能力，支持AI模型直接查询
 - **Tags:** `Agent` `MCP` `Microservice`
 - **最后活动时间:** 2026-03-14
 
-### [ReMe](https://github.com/agentscope-ai/ReMe)
+### [anysearch-skill](https://github.com/anysearch-ai/anysearch-skill)
 
-智能体记忆管理工具包，支持记忆存储和RAG检索增强。
+为AI智能体提供的统一实时搜索引擎技能，支持多平台搜索能力集成。
 
 - **Stars:** ⭐️ 3.0k
-- **Tags:** `agent` `ai-agents` `memory` `rag` `memoryscope`
-- **最后活动时间:** 2026-05-28
+- **Tags:** `search` `agent-skills` `ai` `real-time`
+- **最后活动时间:** 2026-06-03
 
 ### [TF-Agents](https://github.com/tensorflow/agents)
 
@@ -2333,6 +2381,14 @@ TensorFlow强化学习库，支持上下文老虎机和强化学习算法。
 - **Stars:** ⭐️ 3.0k
 - **Tags:** `TensorFlow` `Reinforcement Learning` `DQN`
 - **最后活动时间:** 2026-01-16
+
+### [Maestro](https://github.com/RunMaestro/Maestro)
+
+AI智能体编排指挥中心，提供统一CLI协调管理多个AI代理，支持Claude Code、Codex等工具集成。
+
+- **Stars:** ⭐️ 3.0k
+- **Tags:** `Orchestration` `CLI` `Multi-Agent`
+- **最后活动时间:** 2026-06-12
 
 ### [n8n-nodes-mcp](https://github.com/nerding-io/n8n-nodes-mcp)
 
@@ -2348,7 +2404,23 @@ Meta团队开源的生产级强化学习智能体库，提供完整的RL算法�
 
 - **Stars:** ⭐️ 3.0k
 - **Tags:** `reinforcement-learning` `production-ready` `meta` `agent-library`
-- **最后活动时间:** 2026-05-18
+- **最后活动时间:** 2026-06-09
+
+### [langgraphjs](https://github.com/langchain-ai/langgraphjs)
+
+用于构建弹性语言智能体的图框架，支持TypeScript/Node.js，以图结构设计和编排AI工作流。
+
+- **Stars:** ⭐️ 3.0k
+- **Tags:** `Agents` `TypeScript` `Graph Framework`
+- **最后活动时间:** 2026-06-11
+
+### [agent-os](https://github.com/rivet-dev/agent-os)
+
+专为AI Agent设计的轻量级开源操作系统，基于WebAssembly和V8隔离技术，实现约6毫秒冷启动，成本仅为沙箱方案的1/32。
+
+- **Stars:** ⭐️ 3.0k
+- **Tags:** `agent` `ai` `llm` `webassembly` `v8` `sandbox`
+- **最后活动时间:** 2026-06-12
 
 ### [MiroFlow](https://github.com/MiroMindAI/MiroFlow)
 
@@ -2358,29 +2430,29 @@ Meta团队开源的生产级强化学习智能体库，提供完整的RL算法�
 - **Tags:** `Agent Framework` `Multi-Model` `Research`
 - **最后活动时间:** 2026-04-20
 
-### [langgraphjs](https://github.com/langchain-ai/langgraphjs)
+### [kagent](https://github.com/kagent-dev/kagent)
 
-用于构建弹性语言智能体的图框架，支持TypeScript/Node.js，以图结构设计和编排AI工作流。
-
-- **Stars:** ⭐️ 3.0k
-- **Tags:** `Agents` `TypeScript` `Graph Framework`
-- **最后活动时间:** 2026-05-29
-
-### [Maestro](https://github.com/RunMaestro/Maestro)
-
-AI智能体编排指挥中心，提供统一CLI协调管理多个AI代理，支持Claude Code、Codex等工具集成。
+云原生AI智能体框架，支持MCP协议，专为DevOps场景提供Agent编排与部署能力。
 
 - **Stars:** ⭐️ 3.0k
-- **Tags:** `Orchestration` `CLI` `Multi-Agent`
-- **最后活动时间:** 2026-05-29
+- **Tags:** `agents` `cloud-native` `MCP` `DevOps`
+- **最后活动时间:** 2026-06-12
 
-### [agent-os](https://github.com/rivet-dev/agent-os)
+### [pipeshub-ai](https://github.com/pipeshub-ai/pipeshub-ai)
 
-专为AI Agent设计的轻量级开源操作系统，基于WebAssembly和V8隔离技术，实现约6毫秒冷启动，成本仅为沙箱方案的1/32。
+企业级AI平台，支持企业搜索和工作流自动化，集成LangChain并连接多种工具。
 
-- **Stars:** ⭐️ 2.9k
-- **Tags:** `agent` `ai` `llm` `webassembly` `v8` `sandbox`
-- **最后活动时间:** 2026-04-29
+- **Stars:** ⭐️ 3.0k
+- **Tags:** `Agent` `RAG` `LangChain` `Enterprise`
+- **最后活动时间:** 2026-06-12
+
+### [claude_codex_bridge](https://github.com/SeemSeam/claude_codex_bridge)
+
+实时多AI协作工具，支持Claude、Codex和Gemini之间的协同工作，具备持久化上下文和最小化token开销。
+
+- **Stars:** ⭐️ 3.0k
+- **Tags:** `ai-collaboration` `claude-code` `multi-agent` `llm`
+- **最后活动时间:** 2026-06-12
 
 ### [aiox-core](https://github.com/SynkraAI/aiox-core)
 
@@ -2390,14 +2462,6 @@ AI编排系统核心框架，专为全栈开发设计，支持AI智能体的自�
 - **Tags:** `Orchestration` `Full Stack` `TypeScript`
 - **最后活动时间:** 2026-05-21
 
-### [pipeshub-ai](https://github.com/pipeshub-ai/pipeshub-ai)
-
-企业级AI平台，支持企业搜索和工作流自动化，集成LangChain并连接多种工具。
-
-- **Stars:** ⭐️ 2.9k
-- **Tags:** `Agent` `RAG` `LangChain` `Enterprise`
-- **最后活动时间:** 2026-05-29
-
 ### [ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator)
 
 自主AI智能体编排框架，支持Claude Code、Codex、Gemini等多种AI代理的统一协调与管理。
@@ -2406,37 +2470,21 @@ AI编排系统核心框架，专为全栈开发设计，支持AI智能体的自�
 - **Tags:** `AI Agents` `Orchestration` `Multi-Agent`
 - **最后活动时间:** 2026-05-26
 
-### [agentcore-samples](https://github.com/awslabs/agentcore-samples)
+### [acpx](https://github.com/openclaw/acpx)
 
-Amazon Bedrock Agentcore 是亚马逊官方的 AI 智能体生产级部署框架，提供身份认证、网关管理和内存管理等企业级能力。
-
-- **Stars:** ⭐️ 2.9k
-- **Tags:** `agent` `bedrock` `production` `aws`
-- **最后活动时间:** 2026-05-28
-
-### [kagent](https://github.com/kagent-dev/kagent)
-
-云原生AI智能体框架，支持MCP协议，专为DevOps场景提供Agent编排与部署能力。
+Agent Client Protocol的无头CLI客户端，用于管理有状态的AI智能体会话连接。
 
 - **Stars:** ⭐️ 2.9k
-- **Tags:** `agents` `cloud-native` `MCP` `DevOps`
-- **最后活动时间:** 2026-05-28
+- **Tags:** `agent-client-protocol` `cli` `ai-agent` `headless`
+- **最后活动时间:** 2026-06-11
 
-### [herdr](https://github.com/ogulcancelik/herdr)
+### [agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox)
 
-一款专为AI编程代理设计的终端多路复用器，支持同时管理和编排多个AI Agent在终端中协同工作。
-
-- **Stars:** ⭐️ 2.8k
-- **Tags:** `ai-agents` `agent-orchestration` `terminal` `rust` `cli`
-- **最后活动时间:** 2026-05-28
-
-### [claude_codex_bridge](https://github.com/SeemSeam/claude_codex_bridge)
-
-实时多AI协作工具，支持Claude、Codex和Gemini之间的协同工作，具备持久化上下文和最小化token开销。
+专为AI Agent运行时设计的隔离沙箱管理工具，支持有状态单例工作负载。
 
 - **Stars:** ⭐️ 2.8k
-- **Tags:** `ai-collaboration` `claude-code` `multi-agent` `llm`
-- **最后活动时间:** 2026-05-28
+- **Tags:** `AI Agent` `Sandbox` `Runtime`
+- **最后活动时间:** 2026-06-11
 
 ### [opengap](https://github.com/open-gitagent/opengap)
 
@@ -2446,6 +2494,22 @@ Amazon Bedrock Agentcore 是亚马逊官方的 AI 智能体生产级部署框架
 - **Tags:** `agent-framework` `ai-agents` `open-standard`
 - **最后活动时间:** 2026-05-28
 
+### [limboai](https://github.com/limbonaut/limboai)
+
+为Godot 4引擎提供行为树和状态机AI框架，用于构建智能游戏角色和NPC行为系统。
+
+- **Stars:** ⭐️ 2.8k
+- **Tags:** `behavior-tree` `state-machines` `godot` `game-ai`
+- **最后活动时间:** 2026-06-04
+
+### [agents-cli](https://github.com/google/agents-cli)
+
+Google Cloud 官方的 AI 代理开发 CLI 工具，帮助开发者快速创建、评估和部署 AI 代理。
+
+- **Stars:** ⭐️ 2.8k
+- **Tags:** `ai-agents` `google-cloud` `cli` `gemini` `agent-development`
+- **最后活动时间:** 2026-06-10
+
 ### [gitagent-protocol](https://github.com/open-gitagent/gitagent-protocol)
 
 一个框架无关、基于 Git 原生的 AI 智能体定义标准，支持定义智能体技能和行为规范，实现智能体的版本化管理。
@@ -2454,29 +2518,21 @@ Amazon Bedrock Agentcore 是亚马逊官方的 AI 智能体生产级部署框架
 - **Tags:** `agent-framework` `ai-agent` `git` `open-standard`
 - **最后活动时间:** 2026-05-13
 
-### [acpx](https://github.com/openclaw/acpx)
+### [Mini-Agent](https://github.com/MiniMax-AI/Mini-Agent)
 
-Agent Client Protocol的无头CLI客户端，用于管理有状态的AI智能体会话连接。
-
-- **Stars:** ⭐️ 2.8k
-- **Tags:** `agent-client-protocol` `cli` `ai-agent` `headless`
-- **最后活动时间:** 2026-05-28
-
-### [mirage](https://github.com/strukto-ai/mirage)
-
-为AI代理打造的统一虚拟文件系统，支持Bash操作和多种AI框架集成，提供安全的沙箱环境。
+极简但专业的单智能体演示项目，展示智能体核心执行流程和生产级特性，适合学习 Agent 架构设计。
 
 - **Stars:** ⭐️ 2.8k
-- **Tags:** `ai-agents` `virtual-filesystem` `agent-sandbox` `langchain`
-- **最后活动时间:** 2026-05-29
+- **Tags:** `Agent` `LLM` `Tutorial`
+- **最后活动时间:** 2026-02-14
 
-### [limboai](https://github.com/limbonaut/limboai)
+### [moltis](https://github.com/moltis-org/moltis)
 
-为Godot 4引擎提供行为树和状态机AI框架，用于构建智能游戏角色和NPC行为系统。
+Rust原生AI智能体框架，支持单二进制部署、沙箱安全、语音交互和MCP工具集成。
 
-- **Stars:** ⭐️ 2.8k
-- **Tags:** `behavior-tree` `state-machines` `godot` `game-ai`
-- **最后活动时间:** 2026-03-13
+- **Stars:** ⭐️ 2.7k
+- **Tags:** `Rust` `AI Agent` `MCP` `Voice`
+- **最后活动时间:** 2026-06-05
 
 ### [rivetkit](https://github.com/rivet-dev/rivetkit)
 
@@ -2494,14 +2550,6 @@ Agent Client Protocol的无头CLI客户端，用于管理有状态的AI智能体
 - **Tags:** `AI Agent` `Git` `开放标准`
 - **最后活动时间:** 2026-04-23
 
-### [moltis](https://github.com/moltis-org/moltis)
-
-Rust原生AI智能体框架，支持单二进制部署、沙箱安全、语音交互和MCP工具集成。
-
-- **Stars:** ⭐️ 2.7k
-- **Tags:** `Rust` `AI Agent` `MCP` `Voice`
-- **最后活动时间:** 2026-05-28
-
 ### [supabase-mcp](https://github.com/supabase-community/supabase-mcp)
 
 将Supabase数据库连接到AI助手的MCP服务器，实现数据库智能交互。
@@ -2518,14 +2566,6 @@ Google Flights 的 MCP 服务器和 Python 库，支持通过 Model Context Prot
 - **Tags:** `mcp` `mcp-server` `flights-api` `google-flights`
 - **最后活动时间:** 2026-05-29
 
-### [SenseNova-Skills](https://github.com/OpenSenseNova/SenseNova-Skills)
-
-模块化AI技能库，用于构建智能办公助手和生产力工作流自动化系统。
-
-- **Stars:** ⭐️ 2.7k
-- **Tags:** `agent` `ai-agents` `ai-assistant` `office-automation`
-- **最后活动时间:** 2026-05-27
-
 ### [open-agent-sdk-typescript](https://github.com/codeany-ai/open-agent-sdk-typescript)
 
 完全开源的 TypeScript Agent SDK，无 CLI 依赖，可作为 claude-agent-sdk 的替代方案。
@@ -2533,6 +2573,14 @@ Google Flights 的 MCP 服务器和 Python 库，支持通过 Model Context Prot
 - **Stars:** ⭐️ 2.7k
 - **Tags:** `agent-sdk` `typescript` `claude-agent` `open-source`
 - **最后活动时间:** 2026-04-03
+
+### [ragent](https://github.com/nageoffer/ragent)
+
+企业级Agentic RAG智能体，全链路覆盖文档解析、多路检索、意图识别、会话记忆与MCP工具调用。
+
+- **Stars:** ⭐️ 2.7k
+- **Tags:** `Agent` `RAG` `MCP` `SpringAI`
+- **最后活动时间:** 2026-06-10
 
 ### [myclaude](https://github.com/stellarlinkco/myclaude)
 
@@ -2542,21 +2590,13 @@ Google Flights 的 MCP 服务器和 Python 库，支持通过 Model Context Prot
 - **Tags:** `multi-agent` `orchestration` `claude-code` `workflow`
 - **最后活动时间:** 2026-05-04
 
-### [Mini-Agent](https://github.com/MiniMax-AI/Mini-Agent)
+### [pentestagent](https://github.com/GH05TCREW/pentestagent)
 
-极简但专业的单智能体演示项目，展示智能体核心执行流程和生产级特性，适合学习 Agent 架构设计。
-
-- **Stars:** ⭐️ 2.7k
-- **Tags:** `Agent` `LLM` `Tutorial`
-- **最后活动时间:** 2026-02-14
-
-### [agents-cli](https://github.com/google/agents-cli)
-
-Google Cloud 官方的 AI 代理开发 CLI 工具，帮助开发者快速创建、评估和部署 AI 代理。
+AI智能体驱动的黑盒安全测试框架，支持漏洞赏金、红队演练和渗透测试工作流，集成知识图谱和LLM能力。
 
 - **Stars:** ⭐️ 2.6k
-- **Tags:** `ai-agents` `google-cloud` `cli` `gemini` `agent-development`
-- **最后活动时间:** 2026-05-28
+- **Tags:** `AI智能体` `渗透测试` `安全自动化`
+- **最后活动时间:** 2026-05-27
 
 ### [ableton-mcp](https://github.com/ahujasid/ableton-mcp)
 
@@ -2566,29 +2606,21 @@ MCP服务器，用于将Ableton音乐制作软件与AI助手集成，支持AI控
 - **Tags:** `mcp` `ableton` `music-production` `ai-integration`
 - **最后活动时间:** 2026-01-28
 
-### [agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox)
-
-专为AI Agent运行时设计的隔离沙箱管理工具，支持有状态单例工作负载。
-
-- **Stars:** ⭐️ 2.6k
-- **Tags:** `AI Agent` `Sandbox` `Runtime`
-- **最后活动时间:** 2026-05-28
-
-### [awesome-deepseek-agent](https://github.com/deepseek-ai/awesome-deepseek-agent)
-
-DeepSeek智能体相关资源合集，涵盖Agent框架与应用案例。
-
-- **Stars:** ⭐️ 2.6k
-- **Tags:** `deepseek` `agent` `llm`
-- **最后活动时间:** 2026-05-23
-
 ### [HyperAgents](https://github.com/facebookresearch/HyperAgents)
 
 自引用自改进代理框架，可优化任意可计算任务的智能体系统。
 
-- **Stars:** ⭐️ 2.5k
+- **Stars:** ⭐️ 2.6k
 - **Tags:** `self-improving-agents` `ai-agent` `optimization`
 - **最后活动时间:** 2026-05-09
+
+### [agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+
+多AI编程代理统一管理工具，支持Claude Code、Gemini CLI、Copilot CLI等多种AI编码助手，提供TUI和Web界面，方便移动端访问。
+
+- **Stars:** ⭐️ 2.6k
+- **Tags:** `ai-agents` `claude-code` `cli` `orchestrator`
+- **最后活动时间:** 2026-06-11
 
 ### [griptape](https://github.com/griptape-ai/griptape)
 
@@ -2596,7 +2628,15 @@ DeepSeek智能体相关资源合集，涵盖Agent框架与应用案例。
 
 - **Stars:** ⭐️ 2.5k
 - **Tags:** `AI Agents` `Python` `Workflows`
-- **最后活动时间:** 2026-05-28
+- **最后活动时间:** 2026-06-12
+
+### [skills](https://github.com/microsoft/skills)
+
+为SDK提供技能、MCP服务器和自定义代理的配置集合，帮助编码代理更好地理解和执行任务。
+
+- **Stars:** ⭐️ 2.5k
+- **Tags:** `mcp` `agents` `skills` `sdk`
+- **最后活动时间:** 2026-06-10
 
 ### [wanwu](https://github.com/UnicomAI/wanwu)
 
@@ -2604,7 +2644,7 @@ DeepSeek智能体相关资源合集，涵盖Agent框架与应用案例。
 
 - **Stars:** ⭐️ 2.5k
 - **Tags:** `Agent` `RAG` `Workflow` `Golang`
-- **最后活动时间:** 2026-05-15
+- **最后活动时间:** 2026-06-08
 
 ### [collab-public](https://github.com/collaborator-ai/collab-public)
 
@@ -2614,6 +2654,14 @@ DeepSeek智能体相关资源合集，涵盖Agent框架与应用案例。
 - **Tags:** `agents` `ai` `ide` `terminal` `collaboration`
 - **最后活动时间:** 2026-05-17
 
+### [cascadeflow](https://github.com/lemony-ai/cascadeflow)
+
+AI代理级联运行时，在代理循环内优化成本、延迟、质量和策略决策，支持多种LLM后端。
+
+- **Stars:** ⭐️ 2.5k
+- **Tags:** `agent` `cost-optimization` `llm` `runtime`
+- **最后活动时间:** 2026-05-16
+
 ### [CodeMachine-CLI](https://github.com/moazbuilds/CodeMachine-CLI)
 
 开源AI编程智能体编排工具，支持将多个AI编码代理组织成可重复、长时间运行的工作流，提升开发自动化效率。
@@ -2622,13 +2670,13 @@ DeepSeek智能体相关资源合集，涵盖Agent框架与应用案例。
 - **Tags:** `AI Agents` `Workflow Orchestration` `CLI`
 - **最后活动时间:** 2026-02-25
 
-### [pentestagent](https://github.com/GH05TCREW/pentestagent)
+### [Awesome-finance-skills](https://github.com/RKiding/Awesome-finance-skills)
 
-AI智能体驱动的黑盒安全测试框架，支持漏洞赏金、红队演练和渗透测试工作流，集成知识图谱和LLM能力。
+开源免费的金融分析Agent技能集合，为AI智能体提供专业的金融领域能力支持。
 
 - **Stars:** ⭐️ 2.5k
-- **Tags:** `AI智能体` `渗透测试` `安全自动化`
-- **最后活动时间:** 2026-05-27
+- **Tags:** `agent` `finance` `fintech` `agent-skills`
+- **最后活动时间:** 2026-03-29
 
 ### [antfarm](https://github.com/snarktank/antfarm)
 
@@ -2638,61 +2686,77 @@ AI智能体驱动的黑盒安全测试框架，支持漏洞赏金、红队演练
 - **Tags:** `multi-agent` `agent-team` `automation`
 - **最后活动时间:** 2026-02-26
 
-### [agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+### [drawio-skill](https://github.com/Agents365-ai/drawio-skill)
 
-多AI编程代理统一管理工具，支持Claude Code、Gemini CLI、Copilot CLI等多种AI编码助手，提供TUI和Web界面，方便移动端访问。
+智能体技能模块，可将自然语言描述转换为专业draw.io图表，支持导出PNG/SVG/PDF格式。
 
-- **Stars:** ⭐️ 2.4k
-- **Tags:** `ai-agents` `claude-code` `cli` `orchestrator`
-- **最后活动时间:** 2026-05-29
-
-### [ragent](https://github.com/nageoffer/ragent)
-
-企业级Agentic RAG智能体，全链路覆盖文档解析、多路检索、意图识别、会话记忆与MCP工具调用。
-
-- **Stars:** ⭐️ 2.4k
-- **Tags:** `Agent` `RAG` `MCP` `SpringAI`
-- **最后活动时间:** 2026-05-24
-
-### [skills](https://github.com/microsoft/skills)
-
-为SDK提供技能、MCP服务器和自定义代理的配置集合，帮助编码代理更好地理解和执行任务。
-
-- **Stars:** ⭐️ 2.4k
-- **Tags:** `mcp` `agents` `skills` `sdk`
-- **最后活动时间:** 2026-05-28
+- **Stars:** ⭐️ 2.5k
+- **Tags:** `agent-skills` `drawio` `diagram` `natural-language` `claude-code`
+- **最后活动时间:** 2026-06-03
 
 ### [sentrux](https://github.com/sentrux/sentrux)
 
 实时架构传感器，帮助AI智能体闭环反馈以实现代码质量的递归自我改进。纯Rust构建，支持MCP协议集成。
 
-- **Stars:** ⭐️ 2.4k
+- **Stars:** ⭐️ 2.5k
 - **Tags:** `agent-framework` `mcp` `rust` `static-analysis` `code-quality`
 - **最后活动时间:** 2026-03-19
 
-### [cascadeflow](https://github.com/lemony-ai/cascadeflow)
+### [harbor](https://github.com/harbor-framework/harbor)
 
-AI代理级联运行时，在代理循环内优化成本、延迟、质量和策略决策，支持多种LLM后端。
-
-- **Stars:** ⭐️ 2.4k
-- **Tags:** `agent` `cost-optimization` `llm` `runtime`
-- **最后活动时间:** 2026-05-16
-
-### [Awesome-finance-skills](https://github.com/RKiding/Awesome-finance-skills)
-
-开源免费的金融分析Agent技能集合，为AI智能体提供专业的金融领域能力支持。
+用于运行智能体评估和创建RL环境的框架，支持终端基准测试。
 
 - **Stars:** ⭐️ 2.4k
-- **Tags:** `agent` `finance` `fintech` `agent-skills`
-- **最后活动时间:** 2026-03-29
+- **Tags:** `Agent Eval` `RL Environments` `Benchmark`
+- **最后活动时间:** 2026-06-12
+
+### [NeMo-Agent-Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit)
+
+NVIDIA开源AI智能体工具包，高效连接和优化多智能体协作系统。
+
+- **Stars:** ⭐️ 2.4k
+- **Tags:** `nvidia` `ai-agents` `agent-framework` `multi-agent` `nemo`
+- **最后活动时间:** 2026-06-12
+
+### [fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
+
+生产级FastAPI模板，集成LangGraph构建可扩展、安全的AI Agent服务。
+
+- **Stars:** ⭐️ 2.4k
+- **Tags:** `LangGraph` `FastAPI` `Agent` `Production`
+- **最后活动时间:** 2026-06-10
+
+### [yu-ai-agent](https://github.com/liyupi/yu-ai-agent)
+
+基于Spring Boot 3 + Spring AI构建的AI智能体应用，涵盖RAG、MCP、Tool Calling等核心技术实践。
+
+- **Stars:** ⭐️ 2.4k
+- **Tags:** `Spring AI` `AI Agent` `RAG` `MCP`
+- **最后活动时间:** 2026-01-07
 
 ### [zeroboot](https://github.com/zerobootdev/zeroboot)
 
 专为AI代理设计的亚毫秒级VM沙箱，通过写时复制分叉技术实现快速安全的代码执行环境。
 
-- **Stars:** ⭐️ 2.3k
+- **Stars:** ⭐️ 2.4k
 - **Tags:** `ai-agents` `sandbox` `vm` `code-execution` `firecracker`
 - **最后活动时间:** 2026-03-21
+
+### [claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills)
+
+Claude Code插件市场，包含340+插件和1367+智能体技能，支持MCP协议。
+
+- **Stars:** ⭐️ 2.4k
+- **Tags:** `claude` `plugins` `agent-skills`
+- **最后活动时间:** 2026-06-12
+
+### [burr](https://github.com/apache/burr)
+
+用于构建决策型AI应用的状态机框架，支持聊天机器人、智能体开发，提供企业级监控与持久化能力。
+
+- **Stars:** ⭐️ 2.4k
+- **Tags:** `state-machine` `agents` `llmops` `chatbot`
+- **最后活动时间:** 2026-06-09
 
 ### [claude_code_bridge](https://github.com/bfly123/claude_code_bridge)
 
@@ -2702,29 +2766,13 @@ AI代理级联运行时，在代理循环内优化成本、延迟、质量和策
 - **Tags:** `Multi-Agent` `Claude` `Collaboration`
 - **最后活动时间:** 2026-04-24
 
-### [NeMo-Agent-Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit)
+### [agentic-context-engine](https://github.com/kayba-ai/agentic-context-engine)
 
-NVIDIA开源AI智能体工具包，高效连接和优化多智能体协作系统。
-
-- **Stars:** ⭐️ 2.3k
-- **Tags:** `nvidia` `ai-agents` `agent-framework` `multi-agent` `nemo`
-- **最后活动时间:** 2026-05-29
-
-### [yu-ai-agent](https://github.com/liyupi/yu-ai-agent)
-
-基于Spring Boot 3 + Spring AI构建的AI智能体应用，涵盖RAG、MCP、Tool Calling等核心技术实践。
+让AI智能体从经验中学习的上下文引擎，支持记忆管理与经验积累。
 
 - **Stars:** ⭐️ 2.3k
-- **Tags:** `Spring AI` `AI Agent` `RAG` `MCP`
-- **最后活动时间:** 2026-01-07
-
-### [fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
-
-生产级FastAPI模板，集成LangGraph构建可扩展、安全的AI Agent服务。
-
-- **Stars:** ⭐️ 2.3k
-- **Tags:** `LangGraph` `FastAPI` `Agent` `Production`
-- **最后活动时间:** 2026-05-02
+- **Tags:** `Agent Memory` `Context` `Learning`
+- **最后活动时间:** 2026-06-09
 
 ### [agentic-project-management](https://github.com/sdi2200262/agentic-project-management)
 
@@ -2732,7 +2780,23 @@ NVIDIA开源AI智能体工具包，高效连接和优化多智能体协作系统
 
 - **Stars:** ⭐️ 2.3k
 - **Tags:** `Multi-Agent` `Workflow` `Project Management`
-- **最后活动时间:** 2026-05-20
+- **最后活动时间:** 2026-06-08
+
+### [linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server)
+
+MCP 服务器，让 Claude 等 AI 助手能够访问 LinkedIn 数据，支持抓取个人资料、公司信息和职位搜索。
+
+- **Stars:** ⭐️ 2.3k
+- **Tags:** `mcp` `mcp-server` `linkedin` `claude` `ai-assistant`
+- **最后活动时间:** 2026-06-11
+
+### [Vibe-Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills)
+
+集成式AI能力栈，包含340项技能、MCP入口点、智能体工作流和受控执行，支持规划、编码、研究和自动化任务。
+
+- **Stars:** ⭐️ 2.3k
+- **Tags:** `ai-agents` `mcp` `agent-orchestration` `skills`
+- **最后活动时间:** 2026-05-19
 
 ### [comfyui_LLM_party](https://github.com/heshengtao/comfyui_LLM_party)
 
@@ -2750,21 +2814,21 @@ LLM多智能体框架，帮助开发者轻松构建多智能体协作应用，�
 - **Tags:** `Multi-agent` `LLM` `Framework`
 - **最后活动时间:** 2026-04-24
 
+### [web-quality-skills](https://github.com/addyosmani/web-quality-skills)
+
+为AI代理提供网页质量优化技能，基于Lighthouse和Core Web Vitals进行性能测试与可访问性检测。
+
+- **Stars:** ⭐️ 2.3k
+- **Tags:** `agent-skills` `web-performance` `lighthouse`
+- **最后活动时间:** 2026-05-09
+
 ### [lagent](https://github.com/InternLM/lagent)
 
 轻量级LLM智能体构建框架，帮助开发者快速构建基于大语言模型的智能代理应用。
 
 - **Stars:** ⭐️ 2.3k
 - **Tags:** `Agent` `LLM` `Framework`
-- **最后活动时间:** 2026-05-28
-
-### [claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills)
-
-Claude Code插件市场，包含340+插件和1367+智能体技能，支持MCP协议。
-
-- **Stars:** ⭐️ 2.3k
-- **Tags:** `claude` `plugins` `agent-skills`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-06-11
 
 ### [CAMEL](https://github.com/SamurAIGPT/GPT-Agent)
 
@@ -2774,14 +2838,6 @@ Claude Code插件市场，包含340+插件和1367+智能体技能，支持MCP协
 - **Tags:** `camel` `agent-framework` `autogpt` `langchain`
 - **最后活动时间:** 2026-04-23
 
-### [agentic-context-engine](https://github.com/kayba-ai/agentic-context-engine)
-
-让AI智能体从经验中学习的上下文引擎，支持记忆管理与经验积累。
-
-- **Stars:** ⭐️ 2.2k
-- **Tags:** `Agent Memory` `Context` `Learning`
-- **最后活动时间:** 2026-05-24
-
 ### [openclaw-lark](https://github.com/larksuite/openclaw-lark)
 
 飞书官方出品的 OpenClaw 飞书/Lark Channel 插件，实现 AI 智能体与飞书平台的无缝集成。
@@ -2790,13 +2846,21 @@ Claude Code插件市场，包含340+插件和1367+智能体技能，支持MCP协
 - **Tags:** `openclaw` `lark` `feishu` `agent-plugin`
 - **最后活动时间:** 2026-05-20
 
-### [Vibe-Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills)
+### [agent-skills](https://github.com/supabase/agent-skills)
 
-集成式AI能力栈，包含340项技能、MCP入口点、智能体工作流和受控执行，支持规划、编码、研究和自动化任务。
+Vercel官方AI代理技能集合，为开发者提供可复用的代理能力模块。
 
 - **Stars:** ⭐️ 2.2k
-- **Tags:** `ai-agents` `mcp` `agent-orchestration` `skills`
-- **最后活动时间:** 2026-05-19
+- **Tags:** `Agent Skills` `Vercel` `AI Agents`
+- **最后活动时间:** 2026-06-09
+
+### [AgentsMesh](https://github.com/AgentsMesh/AgentsMesh)
+
+AI智能体舰队指挥中心，统一编排Claude Code、Codex CLI、Gemini CLI、Aider等多种AI代理的集中管理平台。
+
+- **Stars:** ⭐️ 2.2k
+- **Tags:** `agent-orchestration` `ai-agent` `multi-agent` `claude-code` `self-hosted`
+- **最后活动时间:** 2026-06-10
 
 ### [SkillOpt](https://github.com/microsoft/SkillOpt)
 
@@ -2806,37 +2870,37 @@ Claude Code插件市场，包含340+插件和1367+智能体技能，支持MCP协
 - **Tags:** `llm-agents` `skill-optimization` `prompt-engineering`
 - **最后活动时间:** 2026-05-29
 
-### [harbor](https://github.com/harbor-framework/harbor)
+### [agentfield](https://github.com/Agent-Field/agentfield)
 
-用于运行智能体评估和创建RL环境的框架，支持终端基准测试。
-
-- **Stars:** ⭐️ 2.2k
-- **Tags:** `Agent Eval` `RL Environments` `Benchmark`
-- **最后活动时间:** 2026-05-28
-
-### [agent-skills](https://github.com/supabase/agent-skills)
-
-Vercel官方AI代理技能集合，为开发者提供可复用的代理能力模块。
+AI后端框架，支持将AI代理作为微服务构建和运行，具备可扩展性、可观测性和身份认证能力。
 
 - **Stars:** ⭐️ 2.2k
-- **Tags:** `Agent Skills` `Vercel` `AI Agents`
-- **最后活动时间:** 2026-05-28
+- **Tags:** `Agent Framework` `Cloud Native` `Multi-Agent`
+- **最后活动时间:** 2026-06-11
 
-### [AgentsMesh](https://github.com/AgentsMesh/AgentsMesh)
+### [agent-skills](https://github.com/apify/agent-skills)
 
-AI智能体舰队指挥中心，统一编排Claude Code、Codex CLI、Gemini CLI、Aider等多种AI代理的集中管理平台。
-
-- **Stars:** ⭐️ 2.2k
-- **Tags:** `agent-orchestration` `ai-agent` `multi-agent` `claude-code` `self-hosted`
-- **最后活动时间:** 2026-05-27
-
-### [web-quality-skills](https://github.com/addyosmani/web-quality-skills)
-
-为AI代理提供网页质量优化技能，基于Lighthouse和Core Web Vitals进行性能测试与可访问性检测。
+Apify智能体技能集合，为AI代理提供丰富的预构建能力模块。
 
 - **Stars:** ⭐️ 2.1k
-- **Tags:** `agent-skills` `web-performance` `lighthouse`
-- **最后活动时间:** 2026-05-09
+- **Tags:** `agent-skills` `apify` `automation`
+- **最后活动时间:** 2026-06-02
+
+### [VCPToolBox](https://github.com/lioensky/VCPToolBox)
+
+将大语言模型改造为具备永久记忆、工具调用和多智能体协作能力的完整系统。
+
+- **Stars:** ⭐️ 2.1k
+- **Tags:** `agent-framework` `memory` `multi-agent` `llm`
+- **最后活动时间:** 2026-06-12
+
+### [boxlite](https://github.com/boxlite-ai/boxlite)
+
+为AI智能体提供安全沙箱环境，支持嵌入式部署、状态持久化和硬件隔离，确保智能体执行的安全性与可控性。
+
+- **Stars:** ⭐️ 2.1k
+- **Tags:** `Sandbox` `AI-Agents` `Security`
+- **最后活动时间:** 2026-06-12
 
 ### [carbon](https://github.com/crbnos/carbon)
 
@@ -2854,29 +2918,21 @@ AI智能体舰队指挥中心，统一编排Claude Code、Codex CLI、Gemini CLI
 - **Tags:** `AI Framework` `Java` `Agent` `LangChain Alternative`
 - **最后活动时间:** 2026-03-13
 
-### [VCPToolBox](https://github.com/lioensky/VCPToolBox)
+### [workflow](https://github.com/vercel/workflow)
 
-将大语言模型改造为具备永久记忆、工具调用和多智能体协作能力的完整系统。
-
-- **Stars:** ⭐️ 2.1k
-- **Tags:** `agent-framework` `memory` `multi-agent` `llm`
-- **最后活动时间:** 2026-05-28
-
-### [boxlite](https://github.com/boxlite-ai/boxlite)
-
-为AI智能体提供安全沙箱环境，支持嵌入式部署、状态持久化和硬件隔离，确保智能体执行的安全性与可控性。
+TypeScript工作流开发工具包，用于构建持久、可靠、可观测的应用程序和AI智能体。
 
 - **Stars:** ⭐️ 2.1k
-- **Tags:** `Sandbox` `AI-Agents` `Security`
-- **最后活动时间:** 2026-05-28
+- **Tags:** `Workflow` `AI Agents` `TypeScript` `Orchestration`
+- **最后活动时间:** 2026-06-12
 
-### [agent-skills](https://github.com/apify/agent-skills)
+### [Observal](https://github.com/BlazeUp-AI/Observal)
 
-Apify智能体技能集合，为AI代理提供丰富的预构建能力模块。
+AI智能体注册平台，提供一流的观测性和评估框架，支持多种LLM的监控与评测。
 
 - **Stars:** ⭐️ 2.1k
-- **Tags:** `agent-skills` `apify` `automation`
-- **最后活动时间:** 2026-05-27
+- **Tags:** `agents` `llm` `llm-evaluation` `llm-observability` `monitoring`
+- **最后活动时间:** 2026-06-12
 
 ### [dingtalk-openclaw-connector](https://github.com/DingTalk-Real-AI/dingtalk-openclaw-connector)
 
@@ -2886,13 +2942,21 @@ Apify智能体技能集合，为AI代理提供丰富的预构建能力模块。
 - **Tags:** `agents` `dingtalk` `openclaw` `connector`
 - **最后活动时间:** 2026-05-28
 
-### [workflow](https://github.com/vercel/workflow)
+### [forge](https://github.com/antoinezambelli/forge)
 
-TypeScript工作流开发工具包，用于构建持久、可靠、可观测的应用程序和AI智能体。
+Python框架，专注于自托管LLM工具调用和多步骤智能体工作流构建，支持llama-cpp、Ollama等本地模型。
 
 - **Stars:** ⭐️ 2.1k
-- **Tags:** `Workflow` `AI Agents` `TypeScript` `Orchestration`
-- **最后活动时间:** 2026-05-29
+- **Tags:** `agentic-ai` `tool-calling` `llm` `self-hosted` `python`
+- **最后活动时间:** 2026-06-12
+
+### [skills](https://github.com/expo/skills)
+
+AI Agent技能集合，专为Expo项目和Expo Application Services设计，帮助开发者快速构建智能体应用。
+
+- **Stars:** ⭐️ 2.1k
+- **Tags:** `ai-agent` `skills` `expo` `automation`
+- **最后活动时间:** 2026-06-11
 
 ### [Claude-Code-Workflow](https://github.com/catlog22/Claude-Code-Workflow)
 
@@ -2910,14 +2974,6 @@ JSON驱动的多智能体协作框架，支持Claude、Gemini、Qwen等多种LLM
 - **Tags:** `agent` `memory` `claude-code` `cursor` `portable`
 - **最后活动时间:** 2026-05-25
 
-### [linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server)
-
-MCP 服务器，让 Claude 等 AI 助手能够访问 LinkedIn 数据，支持抓取个人资料、公司信息和职位搜索。
-
-- **Stars:** ⭐️ 2.0k
-- **Tags:** `mcp` `mcp-server` `linkedin` `claude` `ai-assistant`
-- **最后活动时间:** 2026-05-28
-
 ### [tavily-mcp](https://github.com/tavily-ai/tavily-mcp)
 
 生产级MCP服务器，支持实时搜索、网页提取、站点地图和爬虫功能，为AI智能体提供强大的网络数据获取能力。
@@ -2925,6 +2981,14 @@ MCP 服务器，让 Claude 等 AI 助手能够访问 LinkedIn 数据，支持抓
 - **Stars:** ⭐️ 2.0k
 - **Tags:** `mcp` `search` `web-crawler` `ai-agents`
 - **最后活动时间:** 2026-05-28
+
+### [nasiko](https://github.com/Nasiko-Labs/nasiko)
+
+AI Agent开发者控制平台，为智能体提供完整的开发与管理基础设施。
+
+- **Stars:** ⭐️ 2.0k
+- **Tags:** `ai-agent` `control-plane` `developer-tools`
+- **最后活动时间:** 2026-06-08
 
 ### [openclaw-studio](https://github.com/grp06/openclaw-studio)
 
@@ -2934,21 +2998,21 @@ OpenClaw 的简洁 Web 仪表盘，用于连接 Gateway 和管理智能体，加
 - **Tags:** `agent` `dashboard` `workflow`
 - **最后活动时间:** 2026-03-19
 
-### [agentfield](https://github.com/Agent-Field/agentfield)
+### [HelloAgents](https://github.com/jjyaoao/HelloAgents)
 
-AI后端框架，支持将AI代理作为微服务构建和运行，具备可扩展性、可观测性和身份认证能力。
-
-- **Stars:** ⭐️ 2.0k
-- **Tags:** `Agent Framework` `Cloud Native` `Multi-Agent`
-- **最后活动时间:** 2026-05-28
-
-### [burr](https://github.com/apache/burr)
-
-用于构建决策型AI应用的状态机框架，支持聊天机器人、智能体开发，提供企业级监控与持久化能力。
+基于教程的Agent框架实现，支持LLM驱动的智能体开发。
 
 - **Stars:** ⭐️ 2.0k
-- **Tags:** `state-machine` `agents` `llmops` `chatbot`
-- **最后活动时间:** 2026-05-28
+- **Tags:** `agent` `agentic-ai` `llm` `agent-framework`
+- **最后活动时间:** 2026-06-08
+
+### [verl-agent](https://github.com/langfengQ/verl-agent)
+
+基于veRL扩展的LLM/VLM智能体强化学习训练框架，支持Group-in-Group策略优化，适用于智能体训练场景。
+
+- **Stars:** ⭐️ 2.0k
+- **Tags:** `LLM Agents` `Reinforcement Learning` `Agent Training` `veRL`
+- **最后活动时间:** 2026-06-09
 
 ### [agent-skills](https://github.com/supabase/agent-skills)
 
@@ -2966,14 +3030,6 @@ Vercel官方AI代理技能集合，为开发者提供可复用的代理能力模
 - **Tags:** `agent-skills` `claude` `claude-code` `agentic-workflow`
 - **最后活动时间:** 2026-05-13
 
-### [skills](https://github.com/expo/skills)
-
-AI Agent技能集合，专为Expo项目和Expo Application Services设计，帮助开发者快速构建智能体应用。
-
-- **Stars:** ⭐️ 2.0k
-- **Tags:** `ai-agent` `skills` `expo` `automation`
-- **最后活动时间:** 2026-05-28
-
 ### [deepclaude](https://github.com/aattaran/deepclaude)
 
 将Claude Code的自主智能体循环与DeepSeek、OpenRouter等后端结合，实现相同体验但成本降低17倍。
@@ -2990,6 +3046,14 @@ MCP服务器，让AI代理能够程序化创建和编辑Excalidraw图表，支�
 - **Tags:** `MCP` `Excalidraw` `AI Agent`
 - **最后活动时间:** 2026-05-16
 
+### [mcp_agent_mail](https://github.com/Dicklesworthstone/mcp_agent_mail)
+
+AI编码智能体的异步协调层，提供身份认证、收件箱和可搜索线程功能。
+
+- **Stars:** ⭐️ 2.0k
+- **Tags:** `agent-coordination` `mcp` `fastmcp` `multi-agent`
+- **最后活动时间:** 2026-06-05
+
 ### [claude-agent-acp](https://github.com/agentclientprotocol/claude-agent-acp)
 
 Claude Agent SDK的ACP客户端适配器，支持从任意ACP客户端调用Claude智能体能力。
@@ -2997,6 +3061,14 @@ Claude Agent SDK的ACP客户端适配器，支持从任意ACP客户端调用Clau
 - **Stars:** ⭐️ 2.0k
 - **Tags:** `claude` `agent-sdk` `acp` `anthropic`
 - **最后活动时间:** 2026-05-28
+
+### [executor](https://github.com/RhysSullivan/executor)
+
+为AI智能体提供缺失的集成层，支持在安全环境中调用OpenAPI、MCP、GraphQL及自定义JS函数，是构建实用AI代理的关键基础设施。
+
+- **Stars:** ⭐️ 2.0k
+- **Tags:** `AI Agents` `Integration` `OpenAPI` `MCP` `Security`
+- **最后活动时间:** 2026-06-12
 
 ### [codexmcp](https://github.com/GuDaStudio/codexmcp)
 
@@ -3006,13 +3078,13 @@ Claude Agent SDK的ACP客户端适配器，支持从任意ACP客户端调用Clau
 - **Tags:** `codex` `mcp` `multi-agent` `claude-code`
 - **最后活动时间:** 2026-01-13
 
-### [mcp_agent_mail](https://github.com/Dicklesworthstone/mcp_agent_mail)
+### [neuron-ai](https://github.com/neuron-core/neuron-ai)
 
-AI编码智能体的异步协调层，提供身份认证、收件箱和可搜索线程功能。
+PHP智能体框架，用于构建生产级AI应用。支持LLM、向量数据库、记忆组件的模块化集成，适合RAG和多智能体工作流开发。
 
 - **Stars:** ⭐️ 2.0k
-- **Tags:** `agent-coordination` `mcp` `fastmcp` `multi-agent`
-- **最后活动时间:** 2026-05-28
+- **Tags:** `PHP` `Agent Framework` `RAG` `LLM`
+- **最后活动时间:** 2026-06-11
 
 ### [DataAgent](https://github.com/spring-ai-alibaba/DataAgent)
 
@@ -3022,30 +3094,6 @@ Spring AI Alibaba数据代理，提供数据驱动的AI代理能力。
 - **Tags:** `spring-ai` `alibaba` `data-agent` `java`
 - **最后活动时间:** 2026-05-12
 
-### [harmonist](https://github.com/GammaLabTechnologies/harmonist)
-
-便携式AI智能体编排框架，支持186个智能体，零运行时依赖，提供机械协议强制执行。
-
-- **Stars:** ⭐️ 2.0k
-- **Tags:** `agent-framework` `ai-agents` `multi-agent-framework` `orchestration` `python`
-- **最后活动时间:** 2026-04-23
-
-### [drawio-skill](https://github.com/Agents365-ai/drawio-skill)
-
-智能体技能模块，可将自然语言描述转换为专业draw.io图表，支持导出PNG/SVG/PDF格式。
-
-- **Stars:** ⭐️ 1.9k
-- **Tags:** `agent-skills` `drawio` `diagram` `natural-language` `claude-code`
-- **最后活动时间:** 2026-05-19
-
-### [verl-agent](https://github.com/langfengQ/verl-agent)
-
-基于veRL扩展的LLM/VLM智能体强化学习训练框架，支持Group-in-Group策略优化，适用于智能体训练场景。
-
-- **Stars:** ⭐️ 1.9k
-- **Tags:** `LLM Agents` `Reinforcement Learning` `Agent Training` `veRL`
-- **最后活动时间:** 2026-05-28
-
 ### [agentkit](https://github.com/BCG-X-Official/agentkit)
 
 全栈AI Agent启动模板，集成Next.js、FastAPI和LangChain快速构建约束型智能体应用。
@@ -3053,14 +3101,6 @@ Spring AI Alibaba数据代理，提供数据驱动的AI代理能力。
 - **Stars:** ⭐️ 1.9k
 - **Tags:** `Agent` `Next.js` `FastAPI` `Template`
 - **最后活动时间:** 2026-03-18
-
-### [neuron-ai](https://github.com/neuron-core/neuron-ai)
-
-PHP智能体框架，用于构建生产级AI应用。支持LLM、向量数据库、记忆组件的模块化集成，适合RAG和多智能体工作流开发。
-
-- **Stars:** ⭐️ 1.9k
-- **Tags:** `PHP` `Agent Framework` `RAG` `LLM`
-- **最后活动时间:** 2026-05-28
 
 ### [OxyGent](https://github.com/jd-opensource/OxyGent)
 
@@ -3078,13 +3118,13 @@ PHP智能体框架，用于构建生产级AI应用。支持LLM、向量数据库
 - **Tags:** `Multi-Agent` `Orchestration` `Production`
 - **最后活动时间:** 2026-05-14
 
-### [MCP Memory Service](https://github.com/doobidoo/mcp-memory-service)
+### [agents-best-practices](https://github.com/DenisSergeevitch/agents-best-practices)
 
-开源 AI 智能体持久记忆服务，集成知识图谱和语义搜索，支持 LangGraph、CrewAI 等主流框架。
+面向Codex、Claude Code等AI智能体的最佳实践指南和技能设计资源。
 
 - **Stars:** ⭐️ 1.9k
-- **Tags:** `agent-memory` `mcp` `knowledge-graph` `vector-database`
-- **最后活动时间:** 2026-05-28
+- **Tags:** `ai-agents` `agent-skills` `claude-code` `codex` `prompt-engineering`
+- **最后活动时间:** 2026-06-06
 
 ### [yomo](https://github.com/yomorun/yomo)
 
@@ -3092,6 +3132,14 @@ PHP智能体框架，用于构建生产级AI应用。支持LLM、向量数据库
 
 - **Stars:** ⭐️ 1.9k
 - **Tags:** `AI Agent` `Serverless` `Edge AI`
+- **最后活动时间:** 2026-06-12
+
+### [MCP Memory Service](https://github.com/doobidoo/mcp-memory-service)
+
+开源 AI 智能体持久记忆服务，集成知识图谱和语义搜索，支持 LangGraph、CrewAI 等主流框架。
+
+- **Stars:** ⭐️ 1.9k
+- **Tags:** `agent-memory` `mcp` `knowledge-graph` `vector-database`
 - **最后活动时间:** 2026-05-28
 
 ### [DemoGPT](https://github.com/melih-unsal/DemoGPT)
@@ -3102,14 +3150,6 @@ PHP智能体框架，用于构建生产级AI应用。支持LLM、向量数据库
 - **Tags:** `Agent` `LangChain` `AutoGPT`
 - **最后活动时间:** 2026-04-01
 
-### [forge](https://github.com/antoinezambelli/forge)
-
-Python框架，专注于自托管LLM工具调用和多步骤智能体工作流构建，支持llama-cpp、Ollama等本地模型。
-
-- **Stars:** ⭐️ 1.9k
-- **Tags:** `agentic-ai` `tool-calling` `llm` `self-hosted` `python`
-- **最后活动时间:** 2026-05-26
-
 ### [AgentFlow](https://github.com/lupantech/AgentFlow)
 
 智能体系统优化框架，专注于LLM驱动的多智能体系统流程优化与工具增强。
@@ -3117,14 +3157,6 @@ Python框架，专注于自托管LLM工具调用和多步骤智能体工作流�
 - **Stars:** ⭐️ 1.9k
 - **Tags:** `agentic-ai` `multi-agent-systems` `llms` `optimization`
 - **最后活动时间:** 2026-02-08
-
-### [nasiko](https://github.com/Nasiko-Labs/nasiko)
-
-AI Agent开发者控制平台，为智能体提供完整的开发与管理基础设施。
-
-- **Stars:** ⭐️ 1.9k
-- **Tags:** `ai-agent` `control-plane` `developer-tools`
-- **最后活动时间:** 2026-05-19
 
 ### [AutoChain](https://github.com/Forethought-Technologies/AutoChain)
 
@@ -3134,6 +3166,14 @@ AI Agent开发者控制平台，为智能体提供完整的开发与管理基础
 - **Tags:** `agent` `llm` `framework`
 - **最后活动时间:** 2025-12-16
 
+### [SkillClaw](https://github.com/AMAP-ML/SkillClaw)
+
+让技能通过智能体进化器实现集体演化的AI技能框架，支持技能的自动化优化与迭代。
+
+- **Stars:** ⭐️ 1.9k
+- **Tags:** `agent-skills` `skill-evolution` `agentic-ai` `llm-agents`
+- **最后活动时间:** 2026-06-02
+
 ### [open-agent-platform](https://github.com/langchain-ai/open-agent-platform)
 
 开源无代码AI智能体构建平台，可视化创建和部署智能体应用。
@@ -3142,21 +3182,21 @@ AI Agent开发者控制平台，为智能体提供完整的开发与管理基础
 - **Tags:** `no-code` `agent-platform` `visual-builder`
 - **最后活动时间:** 2026-02-25
 
-### [executor](https://github.com/RhysSullivan/executor)
+### [js-reverse-mcp](https://github.com/zhizhuodemao/js-reverse-mcp)
 
-为AI智能体提供缺失的集成层，支持在安全环境中调用OpenAPI、MCP、GraphQL及自定义JS函数，是构建实用AI代理的关键基础设施。
+专为 AI Agent 设计的 JS 逆向 MCP Server，内置反检测功能，支持浏览器自动化操作与代码分析。
 
 - **Stars:** ⭐️ 1.9k
-- **Tags:** `AI Agents` `Integration` `OpenAPI` `MCP` `Security`
-- **最后活动时间:** 2026-05-29
+- **Tags:** `mcp` `ai-agent` `reverse-engineering` `browser-automation`
+- **最后活动时间:** 2026-05-18
 
-### [HelloAgents](https://github.com/jjyaoao/HelloAgents)
+### [openakita](https://github.com/openakita/openakita)
 
-基于教程的Agent框架实现，支持LLM驱动的智能体开发。
+开源 AI 助手框架，支持技能系统和智能体架构设计，可扩展的自动化助手开发平台。
 
 - **Stars:** ⭐️ 1.8k
-- **Tags:** `agent` `agentic-ai` `llm` `agent-framework`
-- **最后活动时间:** 2026-05-27
+- **Tags:** `Agent Framework` `AI Assistant` `Python`
+- **最后活动时间:** 2026-06-12
 
 ### [mux](https://github.com/coder/mux)
 
@@ -3165,14 +3205,6 @@ AI Agent开发者控制平台，为智能体提供完整的开发与管理基础
 - **Stars:** ⭐️ 1.8k
 - **Tags:** `Agent` `IDE` `Desktop`
 - **最后活动时间:** 2026-05-26
-
-### [openakita](https://github.com/openakita/openakita)
-
-开源 AI 助手框架，支持技能系统和智能体架构设计，可扩展的自动化助手开发平台。
-
-- **Stars:** ⭐️ 1.8k
-- **Tags:** `Agent Framework` `AI Assistant` `Python`
-- **最后活动时间:** 2026-05-28
 
 ### [awesome_ai_agents](https://github.com/jim-schwoebel/awesome_ai_agents)
 
@@ -3190,6 +3222,22 @@ AI Agent开发者控制平台，为智能体提供完整的开发与管理基础
 - **Tags:** `agent-skills` `ui-automation` `interface-design`
 - **最后活动时间:** 2026-05-28
 
+### [AssetOpsBench](https://github.com/IBM/AssetOpsBench)
+
+面向工业4.0资产运维的AI智能体基准测试框架，包含460+场景、4种专业智能体和多智能体编排蓝图，支持预测性维护和时序预测等应用。
+
+- **Stars:** ⭐️ 1.8k
+- **Tags:** `llm-agents` `predictive-maintenance` `iot` `model-context-protocol`
+- **最后活动时间:** 2026-06-11
+
+### [skills](https://github.com/cloudflare/skills)
+
+Cloudflare官方Agent技能库，教导AI智能体在Cloudflare平台上进行构建和部署。
+
+- **Stars:** ⭐️ 1.8k
+- **Tags:** `Agent Skills` `Cloudflare` `Deployment`
+- **最后活动时间:** 2026-06-11
+
 ### [figma-console-mcp](https://github.com/southleft/figma-console-mcp)
 
 基于MCP协议的Figma连接器，让AI能够提取、创建和调试设计元素。
@@ -3197,6 +3245,14 @@ AI Agent开发者控制平台，为智能体提供完整的开发与管理基础
 - **Stars:** ⭐️ 1.7k
 - **Tags:** `MCP` `Figma` `设计系统`
 - **最后活动时间:** 2026-05-22
+
+### [jido](https://github.com/agentjido/jido)
+
+基于Elixir构建的自主智能体框架，专为分布式自主行为和动态工作流设计。
+
+- **Stars:** ⭐️ 1.7k
+- **Tags:** `Agent` `Elixir` `Workflow` `Orchestration`
+- **最后活动时间:** 2026-06-09
 
 ### [coding-agent-template](https://github.com/vercel-labs/coding-agent-template)
 
@@ -3206,13 +3262,21 @@ AI Agent开发者控制平台，为智能体提供完整的开发与管理基础
 - **Tags:** `ai-agent` `coding` `multi-agent` `vercel` `sandbox`
 - **最后活动时间:** 2026-04-13
 
-### [jido](https://github.com/agentjido/jido)
+### [ClawManager](https://github.com/Yuan-lab-LLM/ClawManager)
 
-基于Elixir构建的自主智能体框架，专为分布式自主行为和动态工作流设计。
+Kubernetes原生AI智能体实例管理控制平面，提供AI访问治理、运行时编排和多运行时资源复用能力。
 
 - **Stars:** ⭐️ 1.7k
-- **Tags:** `Agent` `Elixir` `Workflow` `Orchestration`
-- **最后活动时间:** 2026-05-26
+- **Tags:** `kubernetes` `ai-agents` `agent-management` `openclaw`
+- **最后活动时间:** 2026-06-05
+
+### [skybridge](https://github.com/alpic-ai/skybridge)
+
+构建ChatGPT和MCP应用的框架，简化AI应用开发流程。
+
+- **Stars:** ⭐️ 1.7k
+- **Tags:** `chatgpt` `mcp` `agent-framework` `ai-apps`
+- **最后活动时间:** 2026-06-11
 
 ### [swarm](https://github.com/parruda/swarm)
 
@@ -3229,6 +3293,22 @@ AI Agent开发者控制平台，为智能体提供完整的开发与管理基础
 - **Stars:** ⭐️ 1.7k
 - **Tags:** `agent` `tui` `dotnet` `spectre-console`
 - **最后活动时间:** 2026-05-18
+
+### [BuildingAI](https://github.com/BidingCC/BuildingAI)
+
+积木式AI应用搭建平台，支持零代码快速构建企业智能体、AI客服等多种AI应用系统。
+
+- **Stars:** ⭐️ 1.7k
+- **Tags:** `低代码` `智能体` `RAG`
+- **最后活动时间:** 2026-06-08
+
+### [mcp](https://github.com/MicrosoftDocs/mcp)
+
+微软官方MCP服务器，为LLM和AI智能体提供实时可信的Microsoft文档与代码示例，支持权威文档检索能力。
+
+- **Stars:** ⭐️ 1.7k
+- **Tags:** `MCP` `AI智能体` `Microsoft`
+- **最后活动时间:** 2026-06-04
 
 ### [pay](https://github.com/solana-foundation/pay)
 
@@ -3254,29 +3334,13 @@ AI Agent开发者控制平台，为智能体提供完整的开发与管理基础
 - **Tags:** `AI Agent` `Solana` `Web3`
 - **最后活动时间:** 2026-05-14
 
-### [advanced-context-engineering-for-coding-agents](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents)
+### [slack-mcp-server](https://github.com/korotovsky/slack-mcp-server)
 
-面向编程智能体的高级上下文工程技术指南或框架。
-
-- **Stars:** ⭐️ 1.7k
-- **Tags:** `coding-agent` `context-engineering` `llm`
-- **最后活动时间:** 2025-12-03
-
-### [mcp](https://github.com/MicrosoftDocs/mcp)
-
-微软官方MCP服务器，为LLM和AI智能体提供实时可信的Microsoft文档与代码示例，支持权威文档检索能力。
+强大的MCP协议Slack服务器，让AI助手无缝连接Slack，支持DM、群聊和历史消息智能获取。
 
 - **Stars:** ⭐️ 1.7k
-- **Tags:** `MCP` `AI智能体` `Microsoft`
-- **最后活动时间:** 2026-05-23
-
-### [Observal](https://github.com/BlazeUp-AI/Observal)
-
-AI智能体注册平台，提供一流的观测性和评估框架，支持多种LLM的监控与评测。
-
-- **Stars:** ⭐️ 1.7k
-- **Tags:** `agents` `llm` `llm-evaluation` `llm-observability` `monitoring`
-- **最后活动时间:** 2026-05-29
+- **Tags:** `mcp` `mcp-server` `slack` `llm` `ai-assistant`
+- **最后活动时间:** 2026-05-21
 
 ### [openclaw-channel-dingtalk](https://github.com/soimy/openclaw-channel-dingtalk)
 
@@ -3286,13 +3350,21 @@ AI智能体注册平台，提供一流的观测性和评估框架，支持多种
 - **Tags:** `openclaw` `dingtalk` `agent-plugin` `chatbot`
 - **最后活动时间:** 2026-05-24
 
-### [skills](https://github.com/cloudflare/skills)
+### [harmonist](https://github.com/GammaLabTechnologies/harmonist)
 
-Cloudflare官方Agent技能库，教导AI智能体在Cloudflare平台上进行构建和部署。
+便携式AI智能体编排框架，支持186个智能体，零运行时依赖，提供机械协议强制执行。
 
 - **Stars:** ⭐️ 1.7k
-- **Tags:** `Agent Skills` `Cloudflare` `Deployment`
-- **最后活动时间:** 2026-05-04
+- **Tags:** `agent-framework` `ai-agents` `multi-agent-framework` `orchestration` `python`
+- **最后活动时间:** 2026-06-09
+
+### [antigravity-sdk-python](https://github.com/google-antigravity/antigravity-sdk-python)
+
+基于 Google Antigravity 的 Python SDK，用于构建功能强大的 AI 智能体，支持 Gemini API 和 MCP 协议。
+
+- **Stars:** ⭐️ 1.7k
+- **Tags:** `ai-agents` `python-sdk` `gemini` `mcp`
+- **最后活动时间:** 2026-06-11
 
 ### [clawflows](https://github.com/nikilster/clawflows)
 
@@ -3310,29 +3382,13 @@ macOS 桌面应用，通过纯 SSH 安全管理 Hermes AI 智能体，无需网�
 - **Tags:** `hermes` `agent-management` `ssh` `macos` `remote-development`
 - **最后活动时间:** 2026-05-26
 
-### [anysearch-skill](https://github.com/anysearch-ai/anysearch-skill)
+### [ax](https://github.com/google/ax)
 
-为AI智能体提供的统一实时搜索引擎技能，支持多平台搜索能力集成。
-
-- **Stars:** ⭐️ 1.7k
-- **Tags:** `search` `agent-skills` `ai` `real-time`
-- **最后活动时间:** 2026-05-25
-
-### [AssetOpsBench](https://github.com/IBM/AssetOpsBench)
-
-面向工业4.0资产运维的AI智能体基准测试框架，包含460+场景、4种专业智能体和多智能体编排蓝图，支持预测性维护和时序预测等应用。
-
-- **Stars:** ⭐️ 1.7k
-- **Tags:** `llm-agents` `predictive-maintenance` `iot` `model-context-protocol`
-- **最后活动时间:** 2026-05-27
-
-### [BuildingAI](https://github.com/BidingCC/BuildingAI)
-
-积木式AI应用搭建平台，支持零代码快速构建企业智能体、AI客服等多种AI应用系统。
+Google开源的分布式智能体运行时框架，为构建和部署AI Agent提供基础设施支持。
 
 - **Stars:** ⭐️ 1.6k
-- **Tags:** `低代码` `智能体` `RAG`
-- **最后活动时间:** 2026-05-15
+- **Tags:** `agent` `distributed` `runtime` `google`
+- **最后活动时间:** 2026-06-12
 
 ### [AgentDock](https://github.com/AgentDock/AgentDock)
 
@@ -3340,7 +3396,7 @@ macOS 桌面应用，通过纯 SSH 安全管理 Hermes AI 智能体，无需网�
 
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `AI Agents` `Workflow` `LLM` `TypeScript`
-- **最后活动时间:** 2026-03-17
+- **最后活动时间:** 2026-06-10
 
 ### [n8n-docs](https://github.com/n8n-io/n8n-docs)
 
@@ -3350,13 +3406,13 @@ n8n工作流自动化平台的官方文档，支持构建AI智能体和集成AI�
 - **Tags:** `workflow-automation` `ai-agents` `no-code` `integration`
 - **最后活动时间:** 2026-05-28
 
-### [slack-mcp-server](https://github.com/korotovsky/slack-mcp-server)
+### [mcp-brasil](https://github.com/Mcp-Brasil/mcp-brasil)
 
-强大的MCP协议Slack服务器，让AI助手无缝连接Slack，支持DM、群聊和历史消息智能获取。
+面向70个巴西公共API的MCP服务器，为AI智能体提供本地化数据访问能力。
 
 - **Stars:** ⭐️ 1.6k
-- **Tags:** `mcp` `mcp-server` `slack` `llm` `ai-assistant`
-- **最后活动时间:** 2026-05-21
+- **Tags:** `mcp` `mcp-server` `ai-agents` `claude` `api` `brazil`
+- **最后活动时间:** 2026-04-26
 
 ### [a2a-samples](https://github.com/a2aproject/a2a-samples)
 
@@ -3366,14 +3422,6 @@ Agent2Agent协议官方示例集合，展示如何实现智能体间的标准化
 - **Tags:** `A2A Protocol` `Agent Communication` `Interoperability`
 - **最后活动时间:** 2026-05-21
 
-### [mcphost](https://github.com/mark3labs/mcphost)
-
-CLI工具，让大语言模型通过MCP协议与外部工具交互，实现Agent能力扩展。
-
-- **Stars:** ⭐️ 1.6k
-- **Tags:** `llm` `mcp` `agent` `cli` `tools`
-- **最后活动时间:** 2026-04-13
-
 ### [golem](https://github.com/golemcloud/golem)
 
 Agent原生平台，用于构建AI智能体和分布式应用，支持持久化状态和容错执行。
@@ -3381,6 +3429,14 @@ Agent原生平台，用于构建AI智能体和分布式应用，支持持久化�
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `ai-agents` `agentic-ai` `wasm` `durable-execution` `serverless`
 - **最后活动时间:** 2026-05-28
+
+### [mcphost](https://github.com/mark3labs/mcphost)
+
+CLI工具，让大语言模型通过MCP协议与外部工具交互，实现Agent能力扩展。
+
+- **Stars:** ⭐️ 1.6k
+- **Tags:** `llm` `mcp` `agent` `cli` `tools`
+- **最后活动时间:** 2026-04-13
 
 ### [best-skills](https://github.com/xstongxue/best-skills)
 
@@ -3398,6 +3454,14 @@ Agent原生平台，用于构建AI智能体和分布式应用，支持持久化�
 - **Tags:** `agent` `obsidian` `knowledge-base` `llm`
 - **最后活动时间:** 2026-05-28
 
+### [adk-java](https://github.com/google/adk-java)
+
+Google开源的Java版AI智能体开发工具包，支持代码优先方式构建、评估和部署企业级多智能体协作系统。
+
+- **Stars:** ⭐️ 1.6k
+- **Tags:** `Agent` `Java` `Multi-Agent` `Google`
+- **最后活动时间:** 2026-06-11
+
 ### [Adala](https://github.com/HumanSignal/Adala)
 
 一个自主数据标注智能体框架，利用AI代理自动化数据标注流程，支持GPT-4等大语言模型。
@@ -3412,15 +3476,7 @@ Agent原生平台，用于构建AI智能体和分布式应用，支持持久化�
 
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `agents` `multi-agent-systems` `decentralized`
-- **最后活动时间:** 2026-05-28
-
-### [mcp-brasil](https://github.com/Mcp-Brasil/mcp-brasil)
-
-面向70个巴西公共API的MCP服务器，为AI智能体提供本地化数据访问能力。
-
-- **Stars:** ⭐️ 1.6k
-- **Tags:** `mcp` `mcp-server` `ai-agents` `claude` `api` `brazil`
-- **最后活动时间:** 2026-04-26
+- **最后活动时间:** 2026-06-05
 
 ### [Agently](https://github.com/AgentEra/Agently)
 
@@ -3438,21 +3494,13 @@ GenAI应用开发框架，支持结构化数据交互、事件驱动流程和多
 - **Tags:** `multi-agent` `agent-framework` `mcp` `ai-development`
 - **最后活动时间:** 2026-05-26
 
-### [adk-java](https://github.com/google/adk-java)
-
-Google开源的Java版AI智能体开发工具包，支持代码优先方式构建、评估和部署企业级多智能体协作系统。
-
-- **Stars:** ⭐️ 1.6k
-- **Tags:** `Agent` `Java` `Multi-Agent` `Google`
-- **最后活动时间:** 2026-05-28
-
 ### [DAMO-ConvAI](https://github.com/AlibabaResearch/DAMO-ConvAI)
 
 阿里巴巴达摩院对话AI官方代码库，提供完整的对话系统解决方案。
 
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `conversational-ai` `dialog-system` `nlp` `alibaba`
-- **最后活动时间:** 2026-01-22
+- **最后活动时间:** 2026-06-10
 
 ### [durable-streams](https://github.com/durable-streams/durable-streams)
 
@@ -3462,37 +3510,21 @@ Google开源的Java版AI智能体开发工具包，支持代码优先方式构�
 - **Tags:** `Real-time` `Durable` `Sessions`
 - **最后活动时间:** 2026-05-29
 
-### [js-reverse-mcp](https://github.com/zhizhuodemao/js-reverse-mcp)
+### [rulego](https://github.com/rulego/rulego)
 
-专为 AI Agent 设计的 JS 逆向 MCP Server，内置反检测功能，支持浏览器自动化操作与代码分析。
-
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `mcp` `ai-agent` `reverse-engineering` `browser-automation`
-- **最后活动时间:** 2026-05-18
-
-### [SkillClaw](https://github.com/AMAP-ML/SkillClaw)
-
-让技能通过智能体进化器实现集体演化的AI技能框架，支持技能的自动化优化与迭代。
+轻量级高性能规则引擎框架，支持MCP协议，可用于AI组件编排和工作流自动化。
 
 - **Stars:** ⭐️ 1.5k
-- **Tags:** `agent-skills` `skill-evolution` `agentic-ai` `llm-agents`
-- **最后活动时间:** 2026-05-28
+- **Tags:** `Rule Engine` `MCP` `Workflow` `Automation`
+- **最后活动时间:** 2026-06-11
 
-### [skybridge](https://github.com/alpic-ai/skybridge)
+### [designer-skills](https://github.com/Owl-Listener/designer-skills)
 
-构建ChatGPT和MCP应用的框架，简化AI应用开发流程。
-
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `chatgpt` `mcp` `agent-framework` `ai-apps`
-- **最后活动时间:** 2026-05-28
-
-### [PrismerCloud](https://github.com/Prismer-AI/PrismerCloud)
-
-一个支持MCP协议的自托管AI智能体云平台，集成了知识库、RAG检索和智能体记忆功能，可对接Claude、Cursor等多种LLM工具。
+设计师技能集合，包含用于设计流程的智能体技能、命令和插件，覆盖从研究到UI设计、交互和交付的全流程。
 
 - **Stars:** ⭐️ 1.5k
-- **Tags:** `ai-agents` `mcp-server` `rag` `knowledge-base` `self-hosted`
-- **最后活动时间:** 2026-05-18
+- **Tags:** `agentic` `design` `ai-skills` `agents`
+- **最后活动时间:** 2026-06-11
 
 ### [better-agents](https://github.com/langwatch/better-agents)
 
@@ -3500,15 +3532,15 @@ Google开源的Java版AI智能体开发工具包，支持代码优先方式构�
 
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `ai-agents` `agent-framework` `mcp` `llm`
-- **最后活动时间:** 2026-05-11
+- **最后活动时间:** 2026-06-03
 
-### [rulego](https://github.com/rulego/rulego)
+### [PrismerCloud](https://github.com/Prismer-AI/PrismerCloud)
 
-轻量级高性能规则引擎框架，支持MCP协议，可用于AI组件编排和工作流自动化。
+一个支持MCP协议的自托管AI智能体云平台，集成了知识库、RAG检索和智能体记忆功能，可对接Claude、Cursor等多种LLM工具。
 
 - **Stars:** ⭐️ 1.5k
-- **Tags:** `Rule Engine` `MCP` `Workflow` `Automation`
-- **最后活动时间:** 2026-05-27
+- **Tags:** `ai-agents` `mcp-server` `rag` `knowledge-base` `self-hosted`
+- **最后活动时间:** 2026-06-11
 
 ### [NagaAgent](https://github.com/RTGS2017/NagaAgent)
 
@@ -3517,6 +3549,22 @@ Google开源的Java版AI智能体开发工具包，支持代码优先方式构�
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `agents` `mcp` `mcp-client` `multi-agent`
 - **最后活动时间:** 2026-05-10
+
+### [n8n-ai-automations](https://github.com/lucaswalter/n8n-ai-automations)
+
+n8n工作流与AI智能体模板集合，包含丰富的自动化示例。
+
+- **Stars:** ⭐️ 1.5k
+- **Tags:** `n8n` `AI Agents` `Automation` `Templates`
+- **最后活动时间:** 2026-03-02
+
+### [agentic_coding_flywheel_setup](https://github.com/Dicklesworthstone/agentic_coding_flywheel_setup)
+
+快速配置多智能体AI开发环境的工具包，包含编码智能体、会话管理和协调基础设施。
+
+- **Stars:** ⭐️ 1.5k
+- **Tags:** `Multi-Agent` `Dev Environment` `Automation`
+- **最后活动时间:** 2026-06-12
 
 ### [Agentic-Design-Patterns](https://github.com/evoiz/Agentic-Design-Patterns)
 
@@ -3534,14 +3582,6 @@ AI智能体设计模式合集，涵盖多智能体协作、工具调用等核心
 - **Tags:** `mcp` `mcp-server` `open-data` `ai-assistant`
 - **最后活动时间:** 2026-05-18
 
-### [n8n-ai-automations](https://github.com/lucaswalter/n8n-ai-automations)
-
-n8n工作流与AI智能体模板集合，包含丰富的自动化示例。
-
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `n8n` `AI Agents` `Automation` `Templates`
-- **最后活动时间:** 2026-03-02
-
 ### [langgraph-swarm-py](https://github.com/langchain-ai/langgraph-swarm-py)
 
 基于LangGraph的多智能体框架，满足复杂多代理系统需求。
@@ -3549,22 +3589,6 @@ n8n工作流与AI智能体模板集合，包含丰富的自动化示例。
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `Multi-Agent` `LangGraph` `Python`
 - **最后活动时间:** 2026-05-26
-
-### [agentic_coding_flywheel_setup](https://github.com/Dicklesworthstone/agentic_coding_flywheel_setup)
-
-快速配置多智能体AI开发环境的工具包，包含编码智能体、会话管理和协调基础设施。
-
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `Multi-Agent` `Dev Environment` `Automation`
-- **最后活动时间:** 2026-05-28
-
-### [ClawManager](https://github.com/Yuan-lab-LLM/ClawManager)
-
-Kubernetes原生AI智能体实例管理控制平面，提供AI访问治理、运行时编排和多运行时资源复用能力。
-
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `kubernetes` `ai-agents` `agent-management` `openclaw`
-- **最后活动时间:** 2026-05-29
 
 ### [pica](https://github.com/withoneai/pica)
 
@@ -3574,13 +3598,13 @@ Kubernetes原生AI智能体实例管理控制平面，提供AI访问治理、运
 - **Tags:** `agentic-ai` `api` `integrations`
 - **最后活动时间:** 2026-02-20
 
-### [weclaw](https://github.com/fastclaw-ai/weclaw)
+### [bub](https://github.com/bubbuild/bub)
 
-微信ClawBot连接器，支持与各类AI智能体进行集成和交互的SDK工具。
+一个简洁的智能体框架，帮助构建与人类协作的 AI Agent 应用。
 
 - **Stars:** ⭐️ 1.5k
-- **Tags:** `wechat-bot` `agent-sdk` `messaging`
-- **最后活动时间:** 2026-04-01
+- **Tags:** `agent` `ai` `python` `agent-framework`
+- **最后活动时间:** 2026-06-12
 
 ### [code-mode](https://github.com/universal-tool-calling-protocol/code-mode)
 
@@ -3590,6 +3614,30 @@ Kubernetes原生AI智能体实例管理控制平面，提供AI访问治理、运
 - **Tags:** `ai-agents` `mcp` `model-context-protocol` `toolchain`
 - **最后活动时间:** 2026-05-03
 
+### [Memento-Skills](https://github.com/Memento-Teams/Memento-Skills)
+
+让AI智能体自主设计和创建其他智能体的技能框架。
+
+- **Stars:** ⭐️ 1.5k
+- **Tags:** `agent` `skills` `meta-agent`
+- **最后活动时间:** 2026-06-12
+
+### [concordia](https://github.com/google-deepmind/concordia)
+
+Google DeepMind开源的生成式社会模拟库，用于构建智能体社会行为研究。
+
+- **Stars:** ⭐️ 1.5k
+- **Tags:** `agent-based-simulation` `generative-agents` `multi-agent` `social-simulation`
+- **最后活动时间:** 2026-06-10
+
+### [weclaw](https://github.com/fastclaw-ai/weclaw)
+
+微信ClawBot连接器，支持与各类AI智能体进行集成和交互的SDK工具。
+
+- **Stars:** ⭐️ 1.5k
+- **Tags:** `wechat-bot` `agent-sdk` `messaging`
+- **最后活动时间:** 2026-04-01
+
 ### [octotools](https://github.com/octotools/octotools)
 
 可扩展工具的智能体框架，专为复杂推理任务设计，支持工具增强的大语言模型应用。
@@ -3597,14 +3645,6 @@ Kubernetes原生AI智能体实例管理控制平面，提供AI访问治理、运
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `agentic-framework` `complex-reasoning` `llms` `tool-augmented`
 - **最后活动时间:** 2026-05-02
-
-### [bub](https://github.com/bubbuild/bub)
-
-一个简洁的智能体框架，帮助构建与人类协作的 AI Agent 应用。
-
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `agent` `ai` `python` `agent-framework`
-- **最后活动时间:** 2026-05-27
 
 ### [loopgpt](https://github.com/farizrahman4u/loopgpt)
 
@@ -3614,14 +3654,6 @@ Kubernetes原生AI智能体实例管理控制平面，提供AI访问治理、运
 - **Tags:** `Auto-GPT` `Agent Framework` `LLM`
 - **最后活动时间:** 2026-04-06
 
-### [concordia](https://github.com/google-deepmind/concordia)
-
-Google DeepMind开源的生成式社会模拟库，用于构建智能体社会行为研究。
-
-- **Stars:** ⭐️ 1.4k
-- **Tags:** `agent-based-simulation` `generative-agents` `multi-agent` `social-simulation`
-- **最后活动时间:** 2026-05-06
-
 ### [KaibanJS](https://github.com/kaiban-ai/KaibanJS)
 
 JavaScript原生多智能体框架，采用看板式管理方法。让开发者能够轻松构建和协调多个AI代理协作完成任务。
@@ -3629,6 +3661,14 @@ JavaScript原生多智能体框架，采用看板式管理方法。让开发者�
 - **Stars:** ⭐️ 1.4k
 - **Tags:** `multi-agent-systems` `javascript` `agentic-framework` `kanban`
 - **最后活动时间:** 2026-05-15
+
+### [agentic-commerce-protocol](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol)
+
+由OpenAI和Stripe维护的智能体商务协议，连接买家、AI智能体与商家的开放标准。
+
+- **Stars:** ⭐️ 1.4k
+- **Tags:** `commerce-protocol` `openai` `stripe` `ai-agents`
+- **最后活动时间:** 2026-06-11
 
 ### [Agent-R1](https://github.com/AgentR1/Agent-R1)
 
@@ -3654,14 +3694,6 @@ JavaScript原生多智能体框架，采用看板式管理方法。让开发者�
 - **Tags:** `observability` `multi-agent` `claude-code` `monitoring`
 - **最后活动时间:** 2026-02-08
 
-### [agentic-commerce-protocol](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol)
-
-由OpenAI和Stripe维护的智能体商务协议，连接买家、AI智能体与商家的开放标准。
-
-- **Stars:** ⭐️ 1.4k
-- **Tags:** `commerce-protocol` `openai` `stripe` `ai-agents`
-- **最后活动时间:** 2026-05-22
-
 ### [skill-from-masters](https://github.com/GBSOSS/skill-from-masters)
 
 基于领域专家方法论构建AI技能的框架，让AI助手站在巨人的肩膀上提供专业服务。
@@ -3678,29 +3710,21 @@ JavaScript原生多智能体框架，采用看板式管理方法。让开发者�
 - **Tags:** `Sandbox` `AI Agents` `Security`
 - **最后活动时间:** 2026-03-30
 
-### [designer-skills](https://github.com/Owl-Listener/designer-skills)
+### [adk-docs](https://github.com/google/adk-docs)
 
-设计师技能集合，包含用于设计流程的智能体技能、命令和插件，覆盖从研究到UI设计、交互和交付的全流程。
-
-- **Stars:** ⭐️ 1.4k
-- **Tags:** `agentic` `design` `ai-skills` `agents`
-- **最后活动时间:** 2026-05-14
-
-### [Memento-Skills](https://github.com/Memento-Teams/Memento-Skills)
-
-让AI智能体自主设计和创建其他智能体的技能框架。
+Google开源的AI智能体开发工具包，采用代码优先方式构建、评估和部署复杂AI智能体。
 
 - **Stars:** ⭐️ 1.4k
-- **Tags:** `agent` `skills` `meta-agent`
-- **最后活动时间:** 2026-04-24
+- **Tags:** `AI Agents` `Google` `Agent Framework`
+- **最后活动时间:** 2026-06-12
 
-### [desktop](https://github.com/e2b-dev/desktop)
+### [OpenGenerativeUI](https://github.com/CopilotKit/OpenGenerativeUI)
 
-E2B桌面沙箱环境，专为LLM设计的安全计算机使用方案，支持图形界面操作。
+开源生成式UI框架，专为AI代理和Copilot应用设计，支持动态可视化界面生成。
 
 - **Stars:** ⭐️ 1.4k
-- **Tags:** `LLM` `Desktop` `Sandbox` `Computer Use`
-- **最后活动时间:** 2026-05-28
+- **Tags:** `generative-ui` `ai-agents` `typescript`
+- **最后活动时间:** 2026-06-10
 
 ### [Director](https://github.com/video-db/Director)
 
@@ -3710,20 +3734,12 @@ E2B桌面沙箱环境，专为LLM设计的安全计算机使用方案，支持�
 - **Tags:** `ai-agents` `video-editing` `framework`
 - **最后活动时间:** 2026-01-23
 
-### [dbos-transact-py](https://github.com/dbos-inc/dbos-transact-py)
+### [desktop](https://github.com/e2b-dev/desktop)
 
-轻量级持久化Python工作流引擎，专为AI智能体编排和微服务协调设计，支持可靠的任务执行。
-
-- **Stars:** ⭐️ 1.4k
-- **Tags:** `agentic-workflow` `workflow-engine` `orchestration` `python`
-- **最后活动时间:** 2026-05-29
-
-### [adk-docs](https://github.com/google/adk-docs)
-
-Google开源的AI智能体开发工具包，采用代码优先方式构建、评估和部署复杂AI智能体。
+E2B桌面沙箱环境，专为LLM设计的安全计算机使用方案，支持图形界面操作。
 
 - **Stars:** ⭐️ 1.4k
-- **Tags:** `AI Agents` `Google` `Agent Framework`
+- **Tags:** `LLM` `Desktop` `Sandbox` `Computer Use`
 - **最后活动时间:** 2026-05-28
 
 ### [npcpy](https://github.com/NPC-Worldwide/npcpy)
@@ -3732,7 +3748,31 @@ Google开源的AI智能体开发工具包，采用代码优先方式构建、评
 
 - **Stars:** ⭐️ 1.4k
 - **Tags:** `Agents` `LLM` `Multimodal`
-- **最后活动时间:** 2026-05-27
+- **最后活动时间:** 2026-06-11
+
+### [dbos-transact-py](https://github.com/dbos-inc/dbos-transact-py)
+
+轻量级持久化Python工作流引擎，专为AI智能体编排和微服务协调设计，支持可靠的任务执行。
+
+- **Stars:** ⭐️ 1.4k
+- **Tags:** `agentic-workflow` `workflow-engine` `orchestration` `python`
+- **最后活动时间:** 2026-05-29
+
+### [open-mercato](https://github.com/open-mercato/open-mercato)
+
+专为AI代理设计的工程基础框架，预置多租户、RBAC、事件流等企业级架构决策，让AI代理快速构建生产级应用。
+
+- **Stars:** ⭐️ 1.4k
+- **Tags:** `ai-agents` `framework` `ai-engineering` `typescript`
+- **最后活动时间:** 2026-06-12
+
+### [dust](https://github.com/dust-tt/dust)
+
+基于Rust构建的自定义AI智能体平台，帮助用户加速工作流程，支持大语言模型集成。
+
+- **Stars:** ⭐️ 1.4k
+- **Tags:** `Agents` `Rust` `Automation`
+- **最后活动时间:** 2026-06-12
 
 ### [mcp-obsidian](https://github.com/smithery-ai/mcp-obsidian)
 
@@ -3750,14 +3790,6 @@ MCP连接器，让Claude Desktop能够读取和搜索Obsidian知识库，实现A
 - **Tags:** `agent` `claude-code` `arxiv` `code-generation`
 - **最后活动时间:** 2026-04-03
 
-### [dust](https://github.com/dust-tt/dust)
-
-基于Rust构建的自定义AI智能体平台，帮助用户加速工作流程，支持大语言模型集成。
-
-- **Stars:** ⭐️ 1.4k
-- **Tags:** `Agents` `Rust` `Automation`
-- **最后活动时间:** 2026-05-29
-
 ### [imessage-kit](https://github.com/photon-hq/imessage-kit)
 
 一个类型安全的 macOS iMessage SDK，零依赖，可用于构建 AI 智能体的消息通信能力。
@@ -3765,6 +3797,22 @@ MCP连接器，让Claude Desktop能够读取和搜索Obsidian知识库，实现A
 - **Stars:** ⭐️ 1.4k
 - **Tags:** `imessage` `ai` `agent` `macos` `sdk`
 - **最后活动时间:** 2026-04-20
+
+### [n8n-as-code](https://github.com/EtienneLescot/n8n-as-code)
+
+为AI智能体赋予n8n工作流自动化能力，提供537个节点、7700+模板和Git式同步功能。
+
+- **Stars:** ⭐️ 1.4k
+- **Tags:** `AI Agent` `n8n` `工作流自动化`
+- **最后活动时间:** 2026-06-11
+
+### [full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template)
+
+生产级全栈AI Agent模板，集成5大AI框架，支持WebSocket流式输出、工具审批UI和多数据库。
+
+- **Stars:** ⭐️ 1.4k
+- **Tags:** `AI-Agent` `LangChain` `LangGraph` `FastAPI` `Template`
+- **最后活动时间:** 2026-06-09
 
 ### [server-bot-quick-start](https://github.com/poe-platform/server-bot-quick-start)
 
@@ -3774,6 +3822,14 @@ Poe平台服务端机器人开发教程，帮助开发者快速构建和部署AI
 - **Tags:** `poe` `bot` `tutorial` `chatbot`
 - **最后活动时间:** 2026-05-25
 
+### [chidori](https://github.com/ThousandBirdsInc/chidori)
+
+用于构建持久化AI智能体的响应式运行时框架。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `agents` `framework` `llmops` `orchestration`
+- **最后活动时间:** 2026-06-12
+
 ### [alphaclaw](https://github.com/chrysb/alphaclaw)
 
 OpenClaw AI Agent 快速部署工具，提供可视化配置界面和自动监控功能，无需命令行即可完成部署。
@@ -3782,29 +3838,37 @@ OpenClaw AI Agent 快速部署工具，提供可视化配置界面和自动监�
 - **Tags:** `ai-agent` `gateway` `openclaw` `deployment` `watchdog`
 - **最后活动时间:** 2026-05-26
 
-### [chidori](https://github.com/ThousandBirdsInc/chidori)
+### [trpc-agent-go](https://github.com/trpc-group/trpc-agent-go)
 
-用于构建持久化AI智能体的响应式运行时框架。
+基于Go语言的智能体系统框架，支持大语言模型和工具调用，可用于构建生产级AI智能体应用。
 
 - **Stars:** ⭐️ 1.3k
-- **Tags:** `agents` `framework` `llmops` `orchestration`
+- **Tags:** `Go` `Agent Framework` `MCP`
+- **最后活动时间:** 2026-06-12
+
+### [multi-agent-shogun](https://github.com/yohey-w/multi-agent-shogun)
+
+武士主题的多智能体编排系统，通过tmux实现Claude Code并行任务调度，采用层级架构设计。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `Multi-agent` `Claude Code` `Orchestration`
+- **最后活动时间:** 2026-06-06
+
+### [deepagentsjs](https://github.com/langchain-ai/deepagentsjs)
+
+JavaScript深度智能体框架，用于构建和部署AI代理应用。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `agents` `javascript` `ai-framework` `llm`
+- **最后活动时间:** 2026-06-11
+
+### [overstory](https://github.com/jayminwest/overstory)
+
+面向AI编程智能体的多智能体编排框架，支持Claude Code、Pi等多种运行时适配器的灵活插件化架构。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `Multi-Agent` `Orchestration` `Claude-Code`
 - **最后活动时间:** 2026-05-28
-
-### [open-mercato](https://github.com/open-mercato/open-mercato)
-
-专为AI代理设计的工程基础框架，预置多租户、RBAC、事件流等企业级架构决策，让AI代理快速构建生产级应用。
-
-- **Stars:** ⭐️ 1.3k
-- **Tags:** `ai-agents` `framework` `ai-engineering` `typescript`
-- **最后活动时间:** 2026-05-28
-
-### [OpenGenerativeUI](https://github.com/CopilotKit/OpenGenerativeUI)
-
-开源生成式UI框架，专为AI代理和Copilot应用设计，支持动态可视化界面生成。
-
-- **Stars:** ⭐️ 1.3k
-- **Tags:** `generative-ui` `ai-agents` `typescript`
-- **最后活动时间:** 2026-05-26
 
 ### [nanobot](https://github.com/obot-platform/nanobot)
 
@@ -3830,21 +3894,21 @@ OpenClaw AI Agent 快速部署工具，提供可视化配置界面和自动监�
 - **Tags:** `ai` `agent` `cli` `terminal` `rust` `multiplexer`
 - **最后活动时间:** 2026-05-25
 
-### [multi-agent-shogun](https://github.com/yohey-w/multi-agent-shogun)
+### [agency-orchestrator](https://github.com/jnMetaCode/agency-orchestrator)
 
-武士主题的多智能体编排系统，通过tmux实现Claude Code并行任务调度，采用层级架构设计。
-
-- **Stars:** ⭐️ 1.3k
-- **Tags:** `Multi-agent` `Claude Code` `Orchestration`
-- **最后活动时间:** 2026-05-23
-
-### [overstory](https://github.com/jayminwest/overstory)
-
-面向AI编程智能体的多智能体编排框架，支持Claude Code、Pi等多种运行时适配器的灵活插件化架构。
+零代码多AI角色协作编排器，支持211+专家角色和9个LLM提供商，一句话即可调度多个AI专家自动协作。
 
 - **Stars:** ⭐️ 1.3k
-- **Tags:** `Multi-Agent` `Orchestration` `Claude-Code`
-- **最后活动时间:** 2026-05-28
+- **Tags:** `agent-orchestration` `multi-agent` `yaml-workflow` `no-code`
+- **最后活动时间:** 2026-06-07
+
+### [babysitter](https://github.com/a5c-ai/babysitter)
+
+一个AI代理编排框架，通过确定性、无幻觉的自 orchestration 让代理工作流能够管理极其复杂的任务。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `agent-orchestration` `ai-agents` `agentic-workflow` `claude-code`
+- **最后活动时间:** 2026-06-12
 
 ### [nanobot](https://github.com/nanobot-ai/nanobot)
 
@@ -3854,14 +3918,6 @@ OpenClaw AI Agent 快速部署工具，提供可视化配置界面和自动监�
 - **Tags:** `mcp` `ai-agents` `agent-framework`
 - **最后活动时间:** 2026-05-01
 
-### [full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template)
-
-生产级全栈AI Agent模板，集成5大AI框架，支持WebSocket流式输出、工具审批UI和多数据库。
-
-- **Stars:** ⭐️ 1.3k
-- **Tags:** `AI-Agent` `LangChain` `LangGraph` `FastAPI` `Template`
-- **最后活动时间:** 2026-05-27
-
 ### [AgentNetworkProtocol](https://github.com/agent-network-protocol/AgentNetworkProtocol)
 
 开源的智能体通信协议，定义智能体之间的连接方式，构建开放安全的协作网络。
@@ -3869,6 +3925,14 @@ OpenClaw AI Agent 快速部署工具，提供可视化配置界面和自动监�
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `agent-protocol` `communication` `multi-agent` `networking`
 - **最后活动时间:** 2026-05-13
+
+### [skills](https://github.com/wondelai/skills)
+
+Claude Code 智能体技能框架，提供可复用的 Agent Skills 和插件系统，兼容 agentskills.io 标准。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `claude-code` `agent-skills` `ai-skills` `claude-plugins`
+- **最后活动时间:** 2026-06-11
 
 ### [world2agent](https://github.com/machinepulse-ai/world2agent)
 
@@ -3886,21 +3950,13 @@ OpenClaw AI Agent 快速部署工具，提供可视化配置界面和自动监�
 - **Tags:** `claude` `mcp` `agent-server` `claude-code`
 - **最后活动时间:** 2026-05-15
 
-### [n8n-as-code](https://github.com/EtienneLescot/n8n-as-code)
+### [ClawGUI](https://github.com/ZJU-REAL/ClawGUI)
 
-为AI智能体赋予n8n工作流自动化能力，提供537个节点、7700+模板和Git式同步功能。
-
-- **Stars:** ⭐️ 1.3k
-- **Tags:** `AI Agent` `n8n` `工作流自动化`
-- **最后活动时间:** 2026-05-29
-
-### [deepagentsjs](https://github.com/langchain-ai/deepagentsjs)
-
-JavaScript深度智能体框架，用于构建和部署AI代理应用。
+一个用于构建、评估和部署GUI智能体的框架，支持在线强化学习训练、标准化基准测试和真机部署。
 
 - **Stars:** ⭐️ 1.3k
-- **Tags:** `agents` `javascript` `ai-framework` `llm`
-- **最后活动时间:** 2026-05-28
+- **Tags:** `agent-rl` `gui-agents` `mobile-agent` `online-rl`
+- **最后活动时间:** 2026-06-03
 
 ### [sre](https://github.com/SmythOS/sre)
 
@@ -3910,13 +3966,13 @@ JavaScript深度智能体框架，用于构建和部署AI代理应用。
 - **Tags:** `agent-framework` `multi-agent` `cloud-native`
 - **最后活动时间:** 2026-04-03
 
-### [ClawGUI](https://github.com/ZJU-REAL/ClawGUI)
+### [tavily-python](https://github.com/tavily-ai/tavily-python)
 
-一个用于构建、评估和部署GUI智能体的框架，支持在线强化学习训练、标准化基准测试和真机部署。
+AI智能搜索与研究的Python SDK，提供搜索、提取、爬取等功能，专为AI代理设计。
 
 - **Stars:** ⭐️ 1.3k
-- **Tags:** `agent-rl` `gui-agents` `mobile-agent` `online-rl`
-- **最后活动时间:** 2026-05-21
+- **Tags:** `search` `agent` `python-sdk` `crawl`
+- **最后活动时间:** 2026-06-10
 
 ### [agents-starter](https://github.com/cloudflare/agents-starter)
 
@@ -3924,7 +3980,23 @@ JavaScript深度智能体框架，用于构建和部署AI代理应用。
 
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `ai-agents` `cloudflare` `starter-kit`
-- **最后活动时间:** 2026-05-21
+- **最后活动时间:** 2026-06-02
+
+### [agor](https://github.com/preset-io/agor)
+
+多人协作画布上编排Claude Code、Codex和Gemini会话，实时可视化AI智能体工作。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `agent-orchestration` `claude` `codex` `gemini`
+- **最后活动时间:** 2026-06-11
+
+### [BaseAI](https://github.com/CommandCodeAI/BaseAI)
+
+Web AI框架，用于构建具有记忆功能的无服务器自主AI智能体，支持本地优先开发和一键部署。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `AI Agents` `Serverless` `Framework`
+- **最后活动时间:** 2026-05-16
 
 ### [skillsbench](https://github.com/benchflow-ai/skillsbench)
 
@@ -3934,14 +4006,6 @@ JavaScript深度智能体框架，用于构建和部署AI代理应用。
 - **Tags:** `agents` `evaluation` `skills` `benchmark`
 - **最后活动时间:** 2026-05-28
 
-### [tavily-python](https://github.com/tavily-ai/tavily-python)
-
-AI智能搜索与研究的Python SDK，提供搜索、提取、爬取等功能，专为AI代理设计。
-
-- **Stars:** ⭐️ 1.3k
-- **Tags:** `search` `agent` `python-sdk` `crawl`
-- **最后活动时间:** 2026-04-27
-
 ### [agentflow](https://github.com/berabuddies/agentflow)
 
 一个用于程序化编排数千个智能体的图编排框架，支持大规模智能体工作流管理。
@@ -3950,14 +4014,6 @@ AI智能搜索与研究的Python SDK，提供搜索、提取、爬取等功能�
 - **Tags:** `agents` `orchestration` `workflow` `graph`
 - **最后活动时间:** 2026-05-23
 
-### [BaseAI](https://github.com/CommandCodeAI/BaseAI)
-
-Web AI框架，用于构建具有记忆功能的无服务器自主AI智能体，支持本地优先开发和一键部署。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `AI Agents` `Serverless` `Framework`
-- **最后活动时间:** 2026-05-16
-
 ### [Agent-MCP](https://github.com/rinadelph/Agent-MCP)
 
 基于MCP协议的多智能体系统框架，支持高效协调的AI协作开发。
@@ -3965,6 +4021,14 @@ Web AI框架，用于构建具有记忆功能的无服务器自主AI智能体，
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `multi-agent` `mcp` `agent-framework`
 - **最后活动时间:** 2026-03-28
+
+### [fim-one](https://github.com/fim-ai/fim-one)
+
+LLM驱动的代理运行时，支持动态DAG规划和并发执行，兼容OpenAI接口。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `ai-agents` `dag` `llm` `mcp` `react-agent`
+- **最后活动时间:** 2026-06-07
 
 ### [agentkit](https://github.com/coinbase/agentkit)
 
@@ -3982,13 +4046,13 @@ Web AI框架，用于构建具有记忆功能的无服务器自主AI智能体，
 - **Tags:** `ai` `meetings` `memory` `agent-skills`
 - **最后活动时间:** 2026-05-27
 
-### [agor](https://github.com/preset-io/agor)
+### [claw-empire](https://github.com/GreenSheep01201/claw-empire)
 
-多人协作画布上编排Claude Code、Codex和Gemini会话，实时可视化AI智能体工作。
+本地优先的AI代理办公模拟器，编排Claude Code、Codex CLI、Gemini CLI等多个AI代理作为虚拟自主公司运行。
 
 - **Stars:** ⭐️ 1.2k
-- **Tags:** `agent-orchestration` `claude` `codex` `gemini`
-- **最后活动时间:** 2026-05-29
+- **Tags:** `AI-Agents` `Agent-Orchestration` `CLI` `Automation`
+- **最后活动时间:** 2026-03-16
 
 ### [BaseAI](https://github.com/LangBaseInc/BaseAI)
 
@@ -3998,6 +4062,14 @@ Web AI框架，用于构建具有记忆功能的无服务器自主AI智能体，
 - **Tags:** `AI Agents` `Serverless` `Memory`
 - **最后活动时间:** 2026-04-09
 
+### [agent-teams-lite](https://github.com/Gentleman-Programming/agent-teams-lite)
+
+规范驱动的AI子智能体开发框架，包含编排器和9个专业化子智能体，零依赖纯Markdown实现。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `Multi-Agent` `Spec-Driven` `Orchestrator`
+- **最后活动时间:** 2026-03-26
+
 ### [agent-skill-creator](https://github.com/FrancyJGLisboa/agent-skill-creator)
 
 将任何工作流转换为可复用的AI代理技能，支持Claude Code、Copilot、Cursor等14+平台，一次编写到处运行。
@@ -4005,6 +4077,22 @@ Web AI框架，用于构建具有记忆功能的无服务器自主AI智能体，
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `ai-agent` `skills` `cross-platform` `claude-code`
 - **最后活动时间:** 2026-03-26
+
+### [clowder-ai](https://github.com/zts212653/clowder-ai)
+
+构建AI团队而非单一智能体的框架，强调硬性约束与软性引导相结合，实现共享使命的协作式AI系统。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `ai-agents` `multi-agent` `agent-framework` `ai-teams`
+- **最后活动时间:** 2026-06-12
+
+### [helmor](https://github.com/dohooo/helmor)
+
+开源本地多智能体软件开发工作台，支持Claude Code和Codex等编码代理的编排与协作。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `multi-agent` `agent-orchestration` `coding-agents` `developer-tools`
+- **最后活动时间:** 2026-06-12
 
 ### [imbox](https://github.com/martinrusev/imbox)
 
@@ -4022,22 +4110,6 @@ OpenClaw 原生工作流 Shell，将技能和工具转化为可组合的自动�
 - **Tags:** `openclaw` `workflow` `automation` `agent-framework` `pipeline`
 - **最后活动时间:** 2026-05-28
 
-### [fim-one](https://github.com/fim-ai/fim-one)
-
-LLM驱动的代理运行时，支持动态DAG规划和并发执行，兼容OpenAI接口。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `ai-agents` `dag` `llm` `mcp` `react-agent`
-- **最后活动时间:** 2026-05-29
-
-### [trpc-agent-go](https://github.com/trpc-group/trpc-agent-go)
-
-基于Go语言的智能体系统框架，支持大语言模型和工具调用，可用于构建生产级AI智能体应用。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `Go` `Agent Framework` `MCP`
-- **最后活动时间:** 2026-05-28
-
 ### [azure-mcp](https://github.com/Azure/azure-mcp)
 
 Azure MCP服务器，将Azure云服务能力集成到AI代理中，实现云端AI能力调用。
@@ -4046,13 +4118,21 @@ Azure MCP服务器，将Azure云服务能力集成到AI代理中，实现云端A
 - **Tags:** `mcp` `azure` `ai-agent` `cloud`
 - **最后活动时间:** 2026-02-06
 
-### [agent-teams-lite](https://github.com/Gentleman-Programming/agent-teams-lite)
+### [skills](https://github.com/NVIDIA/skills)
 
-规范驱动的AI子智能体开发框架，包含编排器和9个专业化子智能体，零依赖纯Markdown实现。
+NVIDIA发布的AI智能体技能集合，提供预构建的代理能力模块，帮助开发者快速构建和部署智能体应用。
 
 - **Stars:** ⭐️ 1.2k
-- **Tags:** `Multi-Agent` `Spec-Driven` `Orchestrator`
-- **最后活动时间:** 2026-03-26
+- **Tags:** `nvidia` `ai-agents` `agent-skills`
+- **最后活动时间:** 2026-06-12
+
+### [adk-js](https://github.com/google/adk-js)
+
+一个开源的TypeScript工具包，用于构建、评估和部署复杂的AI智能体，提供灵活的代码优先开发体验。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `Agent Framework` `TypeScript` `Multi-Agent`
+- **最后活动时间:** 2026-06-09
 
 ### [dbos-transact-ts](https://github.com/dbos-inc/dbos-transact-ts)
 
@@ -4070,6 +4150,14 @@ Azure MCP服务器，将Azure云服务能力集成到AI代理中，实现云端A
 - **Tags:** `Agent Framework` `Multi-Agent` `RL Training`
 - **最后活动时间:** 2026-05-28
 
+### [Sage](https://github.com/ZHangZHengEric/Sage)
+
+多智能体系统框架，支持多Agent协作与工作流编排，适用于处理复杂任务场景。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `Multi-Agent` `LLM` `Workflow`
+- **最后活动时间:** 2026-06-05
+
 ### [AIGC-Claw](https://github.com/HITsz-TMG/AIGC-Claw)
 
 FilmAgent多智能体框架，实现虚拟3D空间中的端到端电影自动化制作。基于DeepSeek和Unity3D构建，支持多智能体协作完成电影创作流程。
@@ -4078,13 +4166,13 @@ FilmAgent多智能体框架，实现虚拟3D空间中的端到端电影自动化
 - **Tags:** `agent` `multi-agent-systems` `deepseek` `unity3d` `filmmaking`
 - **最后活动时间:** 2026-05-08
 
-### [Sage](https://github.com/ZHangZHengEric/Sage)
+### [agents](https://github.com/inkeep/agents)
 
-多智能体系统框架，支持多Agent协作与工作流编排，适用于处理复杂任务场景。
+强大的AI智能体构建平台，支持无代码可视化编辑器与TypeScript SDK快速构建多智能体工作流。
 
 - **Stars:** ⭐️ 1.2k
-- **Tags:** `Multi-Agent` `LLM` `Workflow`
-- **最后活动时间:** 2026-05-26
+- **Tags:** `AI Agents` `No-Code` `TypeScript SDK`
+- **最后活动时间:** 2026-06-12
 
 ### [typedai](https://github.com/TrafficGuard/typedai)
 
@@ -4093,22 +4181,6 @@ TypeScript AI 平台，支持自主智能体、软件开发智能体和聊天机
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `ai-agents` `agents` `typescript` `llm` `ai-software-engineer`
 - **最后活动时间:** 2025-12-22
-
-### [antigravity-sdk-python](https://github.com/google-antigravity/antigravity-sdk-python)
-
-基于 Google Antigravity 的 Python SDK，用于构建功能强大的 AI 智能体，支持 Gemini API 和 MCP 协议。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `ai-agents` `python-sdk` `gemini` `mcp`
-- **最后活动时间:** 2026-05-28
-
-### [adk-js](https://github.com/google/adk-js)
-
-一个开源的TypeScript工具包，用于构建、评估和部署复杂的AI智能体，提供灵活的代码优先开发体验。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `Agent Framework` `TypeScript` `Multi-Agent`
-- **最后活动时间:** 2026-05-28
 
 ### [mcp-adapter](https://github.com/WordPress/mcp-adapter)
 
@@ -4124,7 +4196,15 @@ WordPress的MCP适配器，使AI模型能够通过MCP协议发现和调用WordPr
 
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `ai-worker` `team-collaboration` `personal-assistant`
-- **最后活动时间:** 2026-05-27
+- **最后活动时间:** 2026-06-11
+
+### [awesome-agent-harness](https://github.com/Picrew/awesome-agent-harness)
+
+AI Agent Harness 工程资源精选列表，涵盖项目、工具、基准测试和实用指南。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `agent` `ai-agent` `agent-framework`
+- **最后活动时间:** 2026-06-12
 
 ### [infiAgent](https://github.com/polyuiislab/infiAgent)
 
@@ -4142,13 +4222,21 @@ WordPress的MCP适配器，使AI模型能够通过MCP协议发现和调用WordPr
 - **Tags:** `agents` `agent-evaluation` `mcp` `ai`
 - **最后活动时间:** 2026-05-01
 
-### [agents](https://github.com/inkeep/agents)
+### [cq](https://github.com/mozilla-ai/cq)
 
-强大的AI智能体构建平台，支持无代码可视化编辑器与TypeScript SDK快速构建多智能体工作流。
+一个开放标准，让AI智能体能够持久化、共享和查询集体知识，避免重复发现相同错误。
 
 - **Stars:** ⭐️ 1.2k
-- **Tags:** `AI Agents` `No-Code` `TypeScript SDK`
-- **最后活动时间:** 2026-05-29
+- **Tags:** `agent-learning` `collective-knowledge` `agent-memory`
+- **最后活动时间:** 2026-06-11
+
+### [jarvis-registry](https://github.com/ascending-llc/jarvis-registry)
+
+企业级AI智能体网关，通过统一的MCP/Agent协议连接AI助手与企业工具，内置身份认证、访问控制和可观测性。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `agent-gateway` `mcp` `agent-orchestration` `enterprise-ai`
+- **最后活动时间:** 2026-06-12
 
 ### [autocontext](https://github.com/greyhaven-ai/autocontext)
 
@@ -4158,21 +4246,13 @@ WordPress的MCP适配器，使AI模型能够通过MCP协议发现和调用WordPr
 - **Tags:** `agents` `self-improving` `claude-code` `autoresearch`
 - **最后活动时间:** 2026-05-28
 
-### [ax](https://github.com/google/ax)
+### [connectonion](https://github.com/openonion/connectonion)
 
-Google开源的分布式智能体运行时框架，为构建和部署AI Agent提供基础设施支持。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `agent` `distributed` `runtime` `google`
-- **最后活动时间:** 2026-05-27
-
-### [claw-empire](https://github.com/GreenSheep01201/claw-empire)
-
-本地优先的AI代理办公模拟器，编排Claude Code、Codex CLI、Gemini CLI等多个AI代理作为虚拟自主公司运行。
+专注于AI Agent协作的框架，支持多智能体协同工作。
 
 - **Stars:** ⭐️ 1.2k
-- **Tags:** `AI-Agents` `Agent-Orchestration` `CLI` `Automation`
-- **最后活动时间:** 2026-03-16
+- **Tags:** `Agent` `Framework` `Collaboration`
+- **最后活动时间:** 2026-06-11
 
 ### [roast](https://github.com/Shopify/roast)
 
@@ -4182,14 +4262,6 @@ Google开源的分布式智能体运行时框架，为构建和部署AI Agent提
 - **Tags:** `ai-workflow` `ai-automation` `workflow-engine`
 - **最后活动时间:** 2026-04-17
 
-### [connectonion](https://github.com/openonion/connectonion)
-
-专注于AI Agent协作的框架，支持多智能体协同工作。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `Agent` `Framework` `Collaboration`
-- **最后活动时间:** 2026-05-16
-
 ### [agent-file](https://github.com/letta-ai/agent-file)
 
 用于序列化有状态AI代理的开放文件格式，支持持久化记忆和行为。可在兼容框架间共享、检查点和版本控制代理。
@@ -4198,22 +4270,6 @@ Google开源的分布式智能体运行时框架，为构建和部署AI Agent提
 - **Tags:** `ai-agents` `agent-serialization` `file-format` `checkpointing`
 - **最后活动时间:** 2026-03-24
 
-### [cq](https://github.com/mozilla-ai/cq)
-
-一个开放标准，让AI智能体能够持久化、共享和查询集体知识，避免重复发现相同错误。
-
-- **Stars:** ⭐️ 1.1k
-- **Tags:** `agent-learning` `collective-knowledge` `agent-memory`
-- **最后活动时间:** 2026-05-22
-
-### [Hephaestus](https://github.com/Ido-Levi/Hephaestus)
-
-半结构化智能体框架，工作流随智能体发现动态构建，而非预先定义。
-
-- **Stars:** ⭐️ 1.1k
-- **Tags:** `ai-agents` `autonomous-agents` `llm` `claude-code`
-- **最后活动时间:** 2025-12-01
-
 ### [maestro](https://github.com/its-maestro-baby/maestro)
 
 专为CLI智能体设计的终端控制台工具，类似Bloomberg终端的AI代理操作界面。
@@ -4221,22 +4277,6 @@ Google开源的分布式智能体运行时框架，为构建和部署AI Agent提
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `cli` `agents` `terminal` `automation`
 - **最后活动时间:** 2026-04-19
-
-### [helmor](https://github.com/dohooo/helmor)
-
-开源本地多智能体软件开发工作台，支持Claude Code和Codex等编码代理的编排与协作。
-
-- **Stars:** ⭐️ 1.1k
-- **Tags:** `multi-agent` `agent-orchestration` `coding-agents` `developer-tools`
-- **最后活动时间:** 2026-05-29
-
-### [skills](https://github.com/wondelai/skills)
-
-Claude Code 智能体技能框架，提供可复用的 Agent Skills 和插件系统，兼容 agentskills.io 标准。
-
-- **Stars:** ⭐️ 1.1k
-- **Tags:** `claude-code` `agent-skills` `ai-skills` `claude-plugins`
-- **最后活动时间:** 2026-05-15
 
 ### [skills](https://github.com/BankrBot/skills)
 
@@ -4270,6 +4310,30 @@ Apple Messages的命令行工具，让AI智能体能够发送和接收iMessage�
 - **Tags:** `AI` `Workflow` `Agents`
 - **最后活动时间:** 2026-01-13
 
+### [LightAgent](https://github.com/wanxingai/LightAgent)
+
+轻量级AI智能体框架，具备记忆、工具和思维树能力，支持多智能体协作和主流大模型。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `ai-agents` `multi-agent` `mcp` `llm`
+- **最后活动时间:** 2026-06-05
+
+### [takt](https://github.com/nrslib/takt)
+
+AI智能体协调拓扑定义工具，通过YAML配置智能体协作方式、人工干预节点和记录策略。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `agent-orchestration` `ai-agents` `multi-agent` `agent-team`
+- **最后活动时间:** 2026-06-12
+
+### [Xcode-Build-Optimization-Agent-Skill](https://github.com/AvdLee/Xcode-Build-Optimization-Agent-Skill)
+
+一个AI Agent技能模块，帮助开发者优化Xcode增量构建和完整构建性能，通过运行基准测试和调整构建设置提升开发效率。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `agent-skills` `xcode` `ios-development` `build-optimization`
+- **最后活动时间:** 2026-04-15
+
 ### [partykit](https://github.com/cloudflare/partykit)
 
 基于Cloudflare Workers的实时协作平台，支持构建多智能体系统和AI驱动的实时应用。
@@ -4277,14 +4341,6 @@ Apple Messages的命令行工具，让AI智能体能够发送和接收iMessage�
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `agents` `real-time` `collaboration` `durable-objects`
 - **最后活动时间:** 2026-05-11
-
-### [agents-best-practices](https://github.com/DenisSergeevitch/agents-best-practices)
-
-面向Codex、Claude Code等AI智能体的最佳实践指南和技能设计资源。
-
-- **Stars:** ⭐️ 1.1k
-- **Tags:** `ai-agents` `agent-skills` `claude-code` `codex` `prompt-engineering`
-- **最后活动时间:** 2026-05-15
 
 ### [vm0](https://github.com/vm0-ai/vm0)
 
@@ -4358,14 +4414,6 @@ Model Context Protocol (MCP) 官方教程资源，提供AI智能体与服务端�
 - **Tags:** `ai` `goap` `gamedev` `unity` `planning`
 - **最后活动时间:** 2026-04-21
 
-### [agency-orchestrator](https://github.com/jnMetaCode/agency-orchestrator)
-
-零代码多AI角色协作编排器，支持211+专家角色和9个LLM提供商，一句话即可调度多个AI专家自动协作。
-
-- **Stars:** ⭐️ 1.1k
-- **Tags:** `agent-orchestration` `multi-agent` `yaml-workflow` `no-code`
-- **最后活动时间:** 2026-05-18
-
 ### [agentstack](https://github.com/i-am-bee/agentstack)
 
 开源AI智能体部署平台，支持无厂商锁定的智能体基础设施搭建与分享。
@@ -4374,21 +4422,21 @@ Model Context Protocol (MCP) 官方教程资源，提供AI智能体与服务端�
 - **Tags:** `agents` `deployment` `infrastructure` `ai`
 - **最后活动时间:** 2026-05-19
 
-### [takt](https://github.com/nrslib/takt)
-
-AI智能体协调拓扑定义工具，通过YAML配置智能体协作方式、人工干预节点和记录策略。
-
-- **Stars:** ⭐️ 1.1k
-- **Tags:** `agent-orchestration` `ai-agents` `multi-agent` `agent-team`
-- **最后活动时间:** 2026-05-29
-
 ### [JamAIBase](https://github.com/EmbeddedLLM/JamAIBase)
 
 协作式AI电子表格平台，支持将单元格链接为强大的流水线，实时实验和评估LLM响应，帮助团队高效构建AI应用。
 
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `AI Spreadsheet` `LLM Ops` `RAG` `Agent Pipeline`
-- **最后活动时间:** 2026-05-23
+- **最后活动时间:** 2026-06-08
+
+### [sgr-agent-core](https://github.com/vamplabAI/sgr-agent-core)
+
+Schema-Guided Reasoning智能体框架，提供结构化输出和函数调用的代理系统设计能力。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `Agent` `Schema-Guided` `Function Calling` `LLM`
+- **最后活动时间:** 2026-05-07
 
 ### [brave-search-mcp-server](https://github.com/brave/brave-search-mcp-server)
 
@@ -4406,6 +4454,14 @@ MCP服务器，为AI助手提供Brave搜索API集成，增强AI的信息检索�
 - **Tags:** `ai-agents` `memory-system` `knowledge-management` `markdown`
 - **最后活动时间:** 2026-05-28
 
+### [awesome-pi-agent](https://github.com/qualisero/awesome-pi-agent)
+
+Pi 编程智能体的插件、钩子、工具、技能和资源合集，专注于 LLM 智能体开发。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `agentic-ai` `llm` `pi-agent`
+- **最后活动时间:** 2026-06-03
+
 ### [openclaw-runbook](https://github.com/digitalknk/openclaw-runbook)
 
 非官方 OpenClaw 运维手册，指导如何安全、低成本地日常运行 AI 智能体，涵盖安全加固和自托管最佳实践。
@@ -4414,14 +4470,6 @@ MCP服务器，为AI助手提供Brave搜索API集成，增强AI的信息检索�
 - **Tags:** `ai-agents` `runbook` `security` `self-hosting`
 - **最后活动时间:** 2026-05-26
 
-### [sgr-agent-core](https://github.com/vamplabAI/sgr-agent-core)
-
-Schema-Guided Reasoning智能体框架，提供结构化输出和函数调用的代理系统设计能力。
-
-- **Stars:** ⭐️ 1.1k
-- **Tags:** `Agent` `Schema-Guided` `Function Calling` `LLM`
-- **最后活动时间:** 2026-05-07
-
 ### [BubbleLab](https://github.com/bubblelabai/BubbleLab)
 
 开源工作流引擎，支持AI智能体编排与自动化，可独立运行、托管和扩展。
@@ -4429,6 +4477,30 @@ Schema-Guided Reasoning智能体框架，提供结构化输出和函数调用的
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `工作流` `AI智能体` `自动化`
 - **最后活动时间:** 2026-04-30
+
+### [humanize](https://github.com/PolyArch/humanize)
+
+从自动化创意工厂到实现的智能体工作流框架，专注于规范编码与LLM集成。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `agentic-workflow` `ai` `llm` `spec-coding`
+- **最后活动时间:** 2026-06-04
+
+### [tools](https://github.com/strands-agents/tools)
+
+为AI智能体提供强大能力的工具集，支持多种LLM提供商和MCP协议，即插即用。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `MCP` `Multi-Agent` `Tools`
+- **最后活动时间:** 2026-06-11
+
+### [octos](https://github.com/octos-org/octos)
+
+一个智能体操作系统项目，旨在为AI Agent提供底层系统级支持与编排能力。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `agent` `operating-system` `agentic`
+- **最后活动时间:** 2026-06-11
 
 ### [keeper.sh](https://github.com/ridafkih/keeper.sh)
 
@@ -4446,21 +4518,29 @@ Schema-Guided Reasoning智能体框架，提供结构化输出和函数调用的
 - **Tags:** `lowcode` `workflow-engine` `microservices-orchestration` `ai`
 - **最后活动时间:** 2026-04-29
 
-### [Xcode-Build-Optimization-Agent-Skill](https://github.com/AvdLee/Xcode-Build-Optimization-Agent-Skill)
+### [thClaws](https://github.com/thClaws/thClaws)
 
-一个AI Agent技能模块，帮助开发者优化Xcode增量构建和完整构建性能，通过运行基准测试和调整构建设置提升开发效率。
-
-- **Stars:** ⭐️ 1.1k
-- **Tags:** `agent-skills` `xcode` `ios-development` `build-optimization`
-- **最后活动时间:** 2026-04-15
-
-### [tools](https://github.com/strands-agents/tools)
-
-为AI智能体提供强大能力的工具集，支持多种LLM提供商和MCP协议，即插即用。
+开源的AI智能体编排平台，基于Rust原生开发，支持多提供商接入，可在本地机器上运行，注重数据主权与隐私保护。
 
 - **Stars:** ⭐️ 1.1k
-- **Tags:** `MCP` `Multi-Agent` `Tools`
-- **最后活动时间:** 2026-05-22
+- **Tags:** `ai-agent` `agent-framework` `rust` `multi-provider` `tauri`
+- **最后活动时间:** 2026-06-12
+
+### [mnemosyne](https://github.com/AxDSan/mnemosyne)
+
+零依赖、亚毫秒级AI记忆系统，专为Hermes智能体设计。支持高效记忆存储与检索。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `agents` `ai` `memory-system` `hermes`
+- **最后活动时间:** 2026-06-12
+
+### [oh-my-agent](https://github.com/first-fluke/oh-my-agent)
+
+便携式多智能体编排框架，支持跨Claude Code、Codex、Cursor等主流AI工具的技能工作流与标准化智能体团队协作。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `multi-agent` `agent-framework` `orchestration` `ai-agents`
+- **最后活动时间:** 2026-06-12
 
 ### [flock](https://github.com/Onelevenvy/flock)
 
@@ -4468,7 +4548,7 @@ Schema-Guided Reasoning智能体框架，提供结构化输出和函数调用的
 
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `Agent` `LowCode` `Workflow`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-06-11
 
 ### [meta-harness-tbench2-artifact](https://github.com/stanford-iris-lab/meta-harness-tbench2-artifact)
 
@@ -4486,6 +4566,14 @@ Terminal-Bench 2.0 基准测试工具，Claude Opus 4.6 达成 76.4% 准确率�
 - **Tags:** `mcp` `model-context-protocol` `ai-agents`
 - **最后活动时间:** 2026-05-09
 
+### [moai-adk](https://github.com/modu-ai/moai-adk)
+
+MoAI智能体开发套件，为构建Agentic工作流提供核心框架支持。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `智能体` `开发套件` `Claude`
+- **最后活动时间:** 2026-06-11
+
 ### [Ai-Agent-Skills](https://github.com/MoizIbnYousaf/Ai-Agent-Skills)
 
 精心策划的AI代理技能库，为Claude Code、Codex、Cursor等AI开发工具提供实用技能集合。
@@ -4502,6 +4590,14 @@ Terminal-Bench 2.0 基准测试工具，Claude Opus 4.6 达成 76.4% 准确率�
 - **Tags:** `agent` `documentation` `visualization`
 - **最后活动时间:** 2026-03-14
 
+### [MassGen](https://github.com/massgen/MassGen)
+
+开源多智能体扩展系统，在终端中自主编排前沿模型进行协作推理，支持工具调用和测试时扩展。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `Multi-Agent` `LLM Orchestration` `CLI`
+- **最后活动时间:** 2026-06-12
+
 ### [AgentOS](https://github.com/SpharxTeam/AgentOS)
 
 支持200K+上下文和10M记忆的AI代理操作系统，兼容LangChain、Claude和OpenAI API。
@@ -4509,6 +4605,14 @@ Terminal-Bench 2.0 基准测试工具，Claude Opus 4.6 达成 76.4% 准确率�
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `agent` `os` `memory` `framework`
 - **最后活动时间:** 2026-05-28
+
+### [dynamiq](https://github.com/dynamiq-ai/dynamiq)
+
+AI智能体与LLM应用的编排框架，支持RAG和Agent工作流构建。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `Agent Framework` `LLM Orchestration` `RAG`
+- **最后活动时间:** 2026-06-12
 
 ### [douyin-mcp-server](https://github.com/yzfly/douyin-mcp-server)
 
@@ -4518,22 +4622,6 @@ Terminal-Bench 2.0 基准测试工具，Claude Opus 4.6 达成 76.4% 准确率�
 - **Tags:** `mcp` `claude` `video-processing` `agentskills`
 - **最后活动时间:** 2026-01-30
 
-### [dynamiq](https://github.com/dynamiq-ai/dynamiq)
-
-AI智能体与LLM应用的编排框架，支持RAG和Agent工作流构建。
-
-- **Stars:** ⭐️ 1.1k
-- **Tags:** `Agent Framework` `LLM Orchestration` `RAG`
-- **最后活动时间:** 2026-05-28
-
-### [thClaws](https://github.com/thClaws/thClaws)
-
-开源的AI智能体编排平台，基于Rust原生开发，支持多提供商接入，可在本地机器上运行，注重数据主权与隐私保护。
-
-- **Stars:** ⭐️ 1.1k
-- **Tags:** `ai-agent` `agent-framework` `rust` `multi-provider` `tauri`
-- **最后活动时间:** 2026-05-29
-
 ### [claude-reflect](https://github.com/BayramAnnakov/claude-reflect)
 
 Claude Code自学习系统，自动捕获修正意见和偏好设置，实现AI代理的持续优化与进化。
@@ -4541,6 +4629,14 @@ Claude Code自学习系统，自动捕获修正意见和偏好设置，实现AI�
 - **Stars:** ⭐️ 1.0k
 - **Tags:** `claude-code` `self-learning` `memory`
 - **最后活动时间:** 2026-03-16
+
+### [SkillNet](https://github.com/zjunlp/SkillNet)
+
+AI技能创建、评估与连接平台。基于知识图谱和大语言模型，帮助构建和管理AI代理技能生态。
+
+- **Stars:** ⭐️ 1.0k
+- **Tags:** `AI Agents` `Skills` `Knowledge Graph` `LLM`
+- **最后活动时间:** 2026-05-27
 
 ### [mirobody](https://github.com/thetahealth/mirobody)
 
@@ -4558,30 +4654,6 @@ Claude Code自学习系统，自动捕获修正意见和偏好设置，实现AI�
 - **Tags:** `gpt-4` `autonomous-agents` `agent-platform` `openai`
 - **最后活动时间:** 2026-01-01
 
-### [MassGen](https://github.com/massgen/MassGen)
-
-开源多智能体扩展系统，在终端中自主编排前沿模型进行协作推理，支持工具调用和测试时扩展。
-
-- **Stars:** ⭐️ 1.0k
-- **Tags:** `Multi-Agent` `LLM Orchestration` `CLI`
-- **最后活动时间:** 2026-05-28
-
-### [moai-adk](https://github.com/modu-ai/moai-adk)
-
-MoAI智能体开发套件，为构建Agentic工作流提供核心框架支持。
-
-- **Stars:** ⭐️ 1.0k
-- **Tags:** `智能体` `开发套件` `Claude`
-- **最后活动时间:** 2026-05-27
-
-### [awesome-pi-agent](https://github.com/qualisero/awesome-pi-agent)
-
-Pi 编程智能体的插件、钩子、工具、技能和资源合集，专注于 LLM 智能体开发。
-
-- **Stars:** ⭐️ 1.0k
-- **Tags:** `agentic-ai` `llm` `pi-agent`
-- **最后活动时间:** 2026-04-05
-
 ### [OrgKernel](https://github.com/MetapriseAI/OrgKernel)
 
 AI Agent开源信任层，提供加密身份认证、执行令牌、哈希链审计日志与企业SSO联邦集成，为AI Agent平台构建安全基础。
@@ -4597,22 +4669,6 @@ AI Agent开源信任层，提供加密身份认证、执行令牌、哈希链审
 - **Stars:** ⭐️ 1.0k
 - **Tags:** `agent` `orchestration` `workflow` `automation`
 - **最后活动时间:** 2026-04-15
-
-### [LightAgent](https://github.com/wanxingai/LightAgent)
-
-轻量级AI智能体框架，具备记忆、工具和思维树能力，支持多智能体协作和主流大模型。
-
-- **Stars:** ⭐️ 1.0k
-- **Tags:** `ai-agents` `multi-agent` `mcp` `llm`
-- **最后活动时间:** 2026-05-28
-
-### [oh-my-agent](https://github.com/first-fluke/oh-my-agent)
-
-便携式多智能体编排框架，支持跨Claude Code、Codex、Cursor等主流AI工具的技能工作流与标准化智能体团队协作。
-
-- **Stars:** ⭐️ 1.0k
-- **Tags:** `multi-agent` `agent-framework` `orchestration` `ai-agents`
-- **最后活动时间:** 2026-05-29
 
 ### [kiwiq](https://github.com/rcortx/kiwiq)
 
@@ -4670,14 +4726,6 @@ TypeScript AI函数调用框架，利用编译器技术增强LLM函数调用能�
 - **Tags:** `Security` `Agents` `OpenClaw`
 - **最后活动时间:** 2026-05-28
 
-### [jarvis-registry](https://github.com/ascending-llc/jarvis-registry)
-
-企业级AI智能体网关，通过统一的MCP/Agent协议连接AI助手与企业工具，内置身份认证、访问控制和可观测性。
-
-- **Stars:** ⭐️ 1.0k
-- **Tags:** `agent-gateway` `mcp` `agent-orchestration` `enterprise-ai`
-- **最后活动时间:** 2026-05-29
-
 ### [GPTSwarm](https://github.com/metauto-ai/GPTSwarm)
 
 首个自改进代理解决方案。结合群体智能和多代理协作，实现AI系统的持续自我优化。
@@ -4710,6 +4758,14 @@ AI 代理桥接工具，支持 Claude、Codex 等通过 Telegram 进行交互。
 - **Tags:** `agent-workflows` `ai-skills` `knowledge-distillation` `prompt-engineering`
 - **最后活动时间:** 2026-05-04
 
+### [agents-flex](https://github.com/agents-flex/agents-flex)
+
+轻量级Java AI应用开发框架，支持LangChain4j、Spring-AI、Ollama集成，快速构建AI Agent应用。
+
+- **Stars:** ⭐️ 997
+- **Tags:** `Java` `AI Framework` `Agent`
+- **最后活动时间:** 2026-06-12
+
 ### [google-meta-ads-ga4-mcp](https://github.com/irinabuht12-oss/google-meta-ads-ga4-mcp)
 
 MCP服务器，支持Google Ads、Meta Ads和GA4的广告管理与数据分析，可对接ChatGPT、Claude、Cursor等AI助手。
@@ -4725,6 +4781,30 @@ MCP服务器，支持Google Ads、Meta Ads和GA4的广告管理与数据分析�
 - **Stars:** ⭐️ 993
 - **Tags:** `human-in-the-loop` `agent-ux` `interaction`
 - **最后活动时间:** 2026-05-25
+
+### [hermes-ecosystem](https://github.com/ksimback/hermes-ecosystem)
+
+Hermes Agent生态系统地图，汇集Nous Research的Hermes智能体相关工具、技能和集成资源。
+
+- **Stars:** ⭐️ 990
+- **Tags:** `hermes-agent` `nous-research` `ai-agents` `ecosystem`
+- **最后活动时间:** 2026-06-11
+
+### [Chorus](https://github.com/Chorus-AIDLC/Chorus)
+
+一个面向AI与人类协作的智能体框架，灵感源自AI驱动开发生命周期(AI-DLC)。支持多智能体任务管理与看板式工作流编排。
+
+- **Stars:** ⭐️ 989
+- **Tags:** `ai-agents` `multi-agent` `agent-framework` `task-management`
+- **最后活动时间:** 2026-06-12
+
+### [LatentMAS](https://github.com/Gen-Verse/LatentMAS)
+
+研究多智能体系统中的潜在协作机制，探索大语言模型下的潜在推理与协作模式。
+
+- **Stars:** ⭐️ 988
+- **Tags:** `Multi-Agent` `LLM` `Research`
+- **最后活动时间:** 2026-06-06
 
 ### [agent-sop](https://github.com/strands-agents/agent-sop)
 
@@ -4742,14 +4822,6 @@ MCP服务器，支持Google Ads、Meta Ads和GA4的广告管理与数据分析�
 - **Tags:** `llm` `reinforcement-learning` `agent` `tool-use`
 - **最后活动时间:** 2026-03-02
 
-### [agents-flex](https://github.com/agents-flex/agents-flex)
-
-轻量级Java AI应用开发框架，支持LangChain4j、Spring-AI、Ollama集成，快速构建AI Agent应用。
-
-- **Stars:** ⭐️ 984
-- **Tags:** `Java` `AI Framework` `Agent`
-- **最后活动时间:** 2026-05-28
-
 ### [typeui](https://github.com/bergside/typeui)
 
 为智能体工具提供设计系统技能的框架，帮助开发者构建更好的AI代理交互界面。
@@ -4757,6 +4829,22 @@ MCP服务器，支持Google Ads、Meta Ads和GA4的广告管理与数据分析�
 - **Stars:** ⭐️ 983
 - **Tags:** `agent-skills` `ai-tools` `design-system` `terminal`
 - **最后活动时间:** 2026-05-25
+
+### [optio](https://github.com/jonwiggins/optio)
+
+AI编码智能体的工作流编排工具，支持从任务定义到PR合并的全流程自动化。
+
+- **Stars:** ⭐️ 980
+- **Tags:** `ai-agents` `workflow-orchestration` `coding-agents`
+- **最后活动时间:** 2026-06-11
+
+### [token-savior](https://github.com/Mibayy/token-savior)
+
+MCP服务器，将Claude转化为高效编程智能体，实现100%基准测试通过率，大幅降低token消耗和运行时间。
+
+- **Stars:** ⭐️ 980
+- **Tags:** `mcp` `claude` `coding-agent` `memory`
+- **最后活动时间:** 2026-05-26
 
 ### [unreal-engine-mcp](https://github.com/flopperam/unreal-engine-mcp)
 
@@ -4774,37 +4862,29 @@ MCP服务器，支持Google Ads、Meta Ads和GA4的广告管理与数据分析�
 - **Tags:** `ai-agents` `voice-assistant` `digital-human` `webrtc` `rag`
 - **最后活动时间:** 2026-05-28
 
-### [optio](https://github.com/jonwiggins/optio)
+### [loki-mode](https://github.com/asklokesh/loki-mode)
 
-AI编码智能体的工作流编排工具，支持从任务定义到PR合并的全流程自动化。
+多智能体自主系统框架，支持代码审查、CI/CD集成，兼容多种AI模型提供商。
 
-- **Stars:** ⭐️ 971
-- **Tags:** `ai-agents` `workflow-orchestration` `coding-agents`
-- **最后活动时间:** 2026-05-07
+- **Stars:** ⭐️ 974
+- **Tags:** `ai-agents` `multi-agent` `autonomous` `code-review`
+- **最后活动时间:** 2026-06-11
 
-### [LatentMAS](https://github.com/Gen-Verse/LatentMAS)
+### [aegra](https://github.com/aegra/aegra)
 
-研究多智能体系统中的潜在协作机制，探索大语言模型下的潜在推理与协作模式。
+LangGraph Platform的开源替代方案，基于FastAPI和PostgreSQL构建的自托管AI智能体后端，零供应商锁定。
 
-- **Stars:** ⭐️ 966
-- **Tags:** `Multi-Agent` `LLM` `Research`
-- **最后活动时间:** 2026-05-01
+- **Stars:** ⭐️ 972
+- **Tags:** `langchain` `langgraph` `fastapi` `postgres` `ai-agent`
+- **最后活动时间:** 2026-06-09
 
 ### [Hexabot](https://github.com/hexabot-ai/Hexabot)
 
 开源AI自动化平台，整合工作流、智能体和多渠道对话能力，支持ChatGPT、Claude、Llama等多种LLM。
 
-- **Stars:** ⭐️ 965
+- **Stars:** ⭐️ 972
 - **Tags:** `ai-agent` `automation` `chatbot` `llm` `workflow`
-- **最后活动时间:** 2026-05-22
-
-### [octos](https://github.com/octos-org/octos)
-
-一个智能体操作系统项目，旨在为AI Agent提供底层系统级支持与编排能力。
-
-- **Stars:** ⭐️ 963
-- **Tags:** `agent` `operating-system` `agentic`
-- **最后活动时间:** 2026-05-27
+- **最后活动时间:** 2026-06-11
 
 ### [adk-web](https://github.com/google/adk-web)
 
@@ -4814,13 +4894,29 @@ Agent Development Kit 的内置开发者 UI，集成开发工具，简化智能�
 - **Tags:** `agent` `development-tools` `debugging` `ui`
 - **最后活动时间:** 2026-05-27
 
-### [loki-mode](https://github.com/asklokesh/loki-mode)
+### [Agents](https://github.com/microsoft/Agents)
 
-多智能体自主系统框架，支持代码审查、CI/CD集成，兼容多种AI模型提供商。
+微软M365 Agent SDK，简化构建全栈多渠道AI智能体，支持Teams、Copilot Studio等平台。
+
+- **Stars:** ⭐️ 956
+- **Tags:** `agents` `copilot` `botframework` `sdk` `teams`
+- **最后活动时间:** 2026-06-11
+
+### [fastclaw](https://github.com/fastclaw-ai/fastclaw)
+
+一个高效的多智能体框架，支持构建和编排多个AI代理协同工作，提供agent工厂和运行时环境。
+
+- **Stars:** ⭐️ 955
+- **Tags:** `multi-agent` `agent-framework` `agent-runtime`
+- **最后活动时间:** 2026-06-10
+
+### [ClawBio](https://github.com/ClawBio/ClawBio)
+
+首个生物信息学原生AI智能体技能库，本地优先、可复现，支持基因组学和群体遗传学分析。
 
 - **Stars:** ⭐️ 949
-- **Tags:** `ai-agents` `multi-agent` `autonomous` `code-review`
-- **最后活动时间:** 2026-05-29
+- **Tags:** `ai-agents` `bioinformatics` `genomics` `local-first` `reproducibility`
+- **最后活动时间:** 2026-06-11
 
 ### [waza](https://github.com/microsoft/waza)
 
@@ -4829,6 +4925,14 @@ AI智能体技能开发框架，支持创建、测试、测量和改进技能质
 - **Stars:** ⭐️ 946
 - **Tags:** `agent-skills` `agent-framework` `cli` `evaluation`
 - **最后活动时间:** 2026-05-26
+
+### [Duel-Agents](https://github.com/2aronS/Duel-Agents)
+
+Duel Agents 的 CLI、SDK 及 IDE 插件集合，支持 OpenAI 兼容接口与 Claude Code 集成，助力开发者快速构建与编排 AI 智能体。
+
+- **Stars:** ⭐️ 945
+- **Tags:** `ai-agents` `cli` `sdk` `typescript` `llm`
+- **最后活动时间:** 2026-06-05
 
 ### [kanban](https://github.com/cline/kanban)
 
@@ -4862,30 +4966,6 @@ MCP服务器，用于管理Facebook和Instagram广告投放，让AI助手能够�
 - **Tags:** `mcp` `meta-ads` `facebook` `instagram` `automation`
 - **最后活动时间:** 2026-05-27
 
-### [aegra](https://github.com/aegra/aegra)
-
-LangGraph Platform的开源替代方案，基于FastAPI和PostgreSQL构建的自托管AI智能体后端，零供应商锁定。
-
-- **Stars:** ⭐️ 938
-- **Tags:** `langchain` `langgraph` `fastapi` `postgres` `ai-agent`
-- **最后活动时间:** 2026-05-24
-
-### [Agents](https://github.com/microsoft/Agents)
-
-微软M365 Agent SDK，简化构建全栈多渠道AI智能体，支持Teams、Copilot Studio等平台。
-
-- **Stars:** ⭐️ 933
-- **Tags:** `agents` `copilot` `botframework` `sdk` `teams`
-- **最后活动时间:** 2026-05-23
-
-### [Chorus](https://github.com/Chorus-AIDLC/Chorus)
-
-一个面向AI与人类协作的智能体框架，灵感源自AI驱动开发生命周期(AI-DLC)。支持多智能体任务管理与看板式工作流编排。
-
-- **Stars:** ⭐️ 933
-- **Tags:** `ai-agents` `multi-agent` `agent-framework` `task-management`
-- **最后活动时间:** 2026-05-28
-
 ### [tensorlake](https://github.com/tensorlakeai/tensorlake)
 
 面向AI Agent应用的无服务器运行时，支持沙箱环境部署后台智能体应用。
@@ -4902,6 +4982,14 @@ LangGraph Platform的开源替代方案，基于FastAPI和PostgreSQL构建的自
 - **Tags:** `agent` `llm` `mcp` `rust` `workflow` `yaml`
 - **最后活动时间:** 2026-04-28
 
+### [LightMem](https://github.com/zjunlp/LightMem)
+
+ICLR 2026 论文，轻量级高效记忆增强生成框架，为AI智能体提供长期记忆和个性化能力。
+
+- **Stars:** ⭐️ 920
+- **Tags:** `Memory` `Agents` `LLM`
+- **最后活动时间:** 2026-06-11
+
 ### [mcp-framework](https://github.com/QuantGeekDev/mcp-framework)
 
 TypeScript框架，用于快速构建MCP（模型上下文协议）服务器，简化AI智能体集成。
@@ -4910,19 +4998,11 @@ TypeScript框架，用于快速构建MCP（模型上下文协议）服务器，�
 - **Tags:** `mcp` `anthropic` `claude` `typescript`
 - **最后活动时间:** 2026-04-16
 
-### [token-savior](https://github.com/Mibayy/token-savior)
-
-MCP服务器，将Claude转化为高效编程智能体，实现100%基准测试通过率，大幅降低token消耗和运行时间。
-
-- **Stars:** ⭐️ 914
-- **Tags:** `mcp` `claude` `coding-agent` `memory`
-- **最后活动时间:** 2026-05-26
-
 ### [Mava](https://github.com/instadeepai/Mava)
 
 基于JAX的多智能体强化学习研究框架，支持快速实验和高效训练。
 
-- **Stars:** ⭐️ 913
+- **Stars:** ⭐️ 914
 - **Tags:** `MARL` `JAX` `Multi-Agent`
 - **最后活动时间:** 2026-05-26
 
@@ -4930,7 +5010,7 @@ MCP服务器，将Claude转化为高效编程智能体，实现100%基准测试�
 
 Amazon推出的AWS服务，用于构建和部署高度可靠的AI智能体，可大规模自动化UI工作流程。
 
-- **Stars:** ⭐️ 911
+- **Stars:** ⭐️ 909
 - **Tags:** `ai-agents` `browser-automation` `aws` `workflow-automation`
 - **最后活动时间:** 2026-05-22
 
@@ -4942,13 +5022,13 @@ Amazon推出的AWS服务，用于构建和部署高度可靠的AI智能体，可
 - **Tags:** `ai-agent` `software-development` `automation`
 - **最后活动时间:** 2026-05-28
 
-### [humanize](https://github.com/PolyArch/humanize)
+### [cc-mini](https://github.com/e10nMa2k/cc-mini)
 
-从自动化创意工厂到实现的智能体工作流框架，专注于规范编码与LLM集成。
+超轻量级AI Agent脚手架工具，作为Claude Code的精简版本，快速构建智能体工作流。
 
-- **Stars:** ⭐️ 906
-- **Tags:** `agentic-workflow` `ai` `llm` `spec-coding`
-- **最后活动时间:** 2026-05-26
+- **Stars:** ⭐️ 908
+- **Tags:** `ai-agent` `scaffolding` `claude-code` `lightweight`
+- **最后活动时间:** 2026-06-10
 
 ### [Agents.jl](https://github.com/JuliaDynamics/Agents.jl)
 
@@ -4958,13 +5038,13 @@ Julia语言编写的高性能基于代理建模框架，支持复杂系统仿真
 - **Tags:** `agent-based-modeling` `simulation` `julia` `multi-agent`
 - **最后活动时间:** 2026-05-10
 
-### [hermes-ecosystem](https://github.com/ksimback/hermes-ecosystem)
+### [gascity](https://github.com/gastownhall/gascity)
 
-Hermes Agent生态系统地图，汇集Nous Research的Hermes智能体相关工具、技能和集成资源。
+多智能体编码工作流的编排构建SDK，支持灵活的Agent协作与任务调度。
 
 - **Stars:** ⭐️ 904
-- **Tags:** `hermes-agent` `nous-research` `ai-agents` `ecosystem`
-- **最后活动时间:** 2026-05-28
+- **Tags:** `multi-agent` `orchestration` `sdk` `coding-workflow`
+- **最后活动时间:** 2026-06-12
 
 ### [botbuilder-dotnet](https://github.com/microsoft/botbuilder-dotnet)
 
@@ -4982,6 +5062,14 @@ Hermes Agent生态系统地图，汇集Nous Research的Hermes智能体相关工�
 - **Tags:** `mcp` `mcp-server` `train-tickets`
 - **最后活动时间:** 2026-03-08
 
+### [cccc](https://github.com/ChesterRa/cccc)
+
+轻量级AI编码智能体编排工具，支持像群聊一样协调多个编码代理，提供消息追踪和远程操作，零基础设施一键安装。
+
+- **Stars:** ⭐️ 897
+- **Tags:** `Multi-Agent` `Orchestration` `Claude-Code` `LLM`
+- **最后活动时间:** 2026-06-11
+
 ### [opc-skills](https://github.com/ReScienceLab/opc-skills)
 
 面向独立创业者的AI智能体技能工具包，支持SEO和地理相关任务。
@@ -4989,14 +5077,6 @@ Hermes Agent生态系统地图，汇集Nous Research的Hermes智能体相关工�
 - **Stars:** ⭐️ 896
 - **Tags:** `agent-skills` `ai-tools` `claude-code` `llm-tools`
 - **最后活动时间:** 2026-05-28
-
-### [cc-mini](https://github.com/e10nMa2k/cc-mini)
-
-超轻量级AI Agent脚手架工具，作为Claude Code的精简版本，快速构建智能体工作流。
-
-- **Stars:** ⭐️ 896
-- **Tags:** `ai-agent` `scaffolding` `claude-code` `lightweight`
-- **最后活动时间:** 2026-05-22
 
 ### [yao-open-skills](https://github.com/yaojingang/yao-open-skills)
 
@@ -5013,6 +5093,14 @@ OpenYao 公开 Skill 合集，将决策分析、商业研究、文档生成等�
 - **Stars:** ⭐️ 891
 - **Tags:** `coding-agent` `agents` `llm` `python`
 - **最后活动时间:** 2026-04-07
+
+### [magic-context](https://github.com/cortexkit/magic-context)
+
+智能上下文管理工具，支持缓存感知的无限上下文、跨会话记忆和后台历史压缩功能。
+
+- **Stars:** ⭐️ 890
+- **Tags:** `agent-memory` `ai-agents` `context-management` `langchain`
+- **最后活动时间:** 2026-06-11
 
 ### [manim_skill](https://github.com/adithya-s-k/manim_skill)
 
@@ -5038,21 +5126,13 @@ OpenYao 公开 Skill 合集，将决策分析、商业研究、文档生成等�
 - **Tags:** `agents` `workflow-automation` `mcp` `rust` `low-code`
 - **最后活动时间:** 2026-05-28
 
-### [ClawBio](https://github.com/ClawBio/ClawBio)
+### [DiffMem](https://github.com/Growth-Kinetics/DiffMem)
 
-首个生物信息学原生AI智能体技能库，本地优先、可复现，支持基因组学和群体遗传学分析。
+基于Git的对话式AI Agent记忆存储系统，支持版本控制和记忆管理。
 
-- **Stars:** ⭐️ 881
-- **Tags:** `ai-agents` `bioinformatics` `genomics` `local-first` `reproducibility`
-- **最后活动时间:** 2026-05-28
-
-### [clawport-ui](https://github.com/JohnRiceML/clawport-ui)
-
-开源AI智能体指挥中心，专为Claude Code智能体团队设计的管理平台，基于OpenClaw构建。
-
-- **Stars:** ⭐️ 880
-- **Tags:** `Claude` `Agent` `Command Center`
-- **最后活动时间:** 2026-03-24
+- **Stars:** ⭐️ 883
+- **Tags:** `agent-memory` `conversational-ai` `git-based` `memory-storage`
+- **最后活动时间:** 2026-06-11
 
 ### [agent-kit](https://github.com/inngest/agent-kit)
 
@@ -5061,6 +5141,14 @@ OpenYao 公开 Skill 合集，将决策分析、商业研究、文档生成等�
 - **Stars:** ⭐️ 880
 - **Tags:** `Agent` `TypeScript` `MCP` `Multi-Agent`
 - **最后活动时间:** 2026-04-29
+
+### [clawport-ui](https://github.com/JohnRiceML/clawport-ui)
+
+开源AI智能体指挥中心，专为Claude Code智能体团队设计的管理平台，基于OpenClaw构建。
+
+- **Stars:** ⭐️ 879
+- **Tags:** `Claude` `Agent` `Command Center`
+- **最后活动时间:** 2026-03-24
 
 ### [annas-mcp](https://github.com/iosifache/annas-mcp)
 
@@ -5078,14 +5166,6 @@ OpenYao 公开 Skill 合集，将决策分析、商业研究、文档生成等�
 - **Tags:** `ai-agent` `ai-memory` `context-engineering` `java` `spring-ai`
 - **最后活动时间:** 2026-05-29
 
-### [DiffMem](https://github.com/Growth-Kinetics/DiffMem)
-
-基于Git的对话式AI Agent记忆存储系统，支持版本控制和记忆管理。
-
-- **Stars:** ⭐️ 877
-- **Tags:** `agent-memory` `conversational-ai` `git-based` `memory-storage`
-- **最后活动时间:** 2026-05-29
-
 ### [statespace](https://github.com/statespace-tech/statespace)
 
 为AI智能体构建Web API的框架，支持上下文工程和数据工程，简化智能体应用开发。
@@ -5093,14 +5173,6 @@ OpenYao 公开 Skill 合集，将决策分析、商业研究、文档生成等�
 - **Stars:** ⭐️ 875
 - **Tags:** `Agent` `API` `Rust`
 - **最后活动时间:** 2026-05-01
-
-### [LightMem](https://github.com/zjunlp/LightMem)
-
-ICLR 2026 论文，轻量级高效记忆增强生成框架，为AI智能体提供长期记忆和个性化能力。
-
-- **Stars:** ⭐️ 875
-- **Tags:** `Memory` `Agents` `LLM`
-- **最后活动时间:** 2026-05-04
 
 ### [secure-exec](https://github.com/rivet-dev/secure-exec)
 
@@ -5126,14 +5198,6 @@ ICLR 2026 论文，轻量级高效记忆增强生成框架，为AI智能体提�
 - **Tags:** `ai-agents` `multi-agent` `claude` `mcp` `agent-framework`
 - **最后活动时间:** 2026-05-07
 
-### [cccc](https://github.com/ChesterRa/cccc)
-
-轻量级AI编码智能体编排工具，支持像群聊一样协调多个编码代理，提供消息追踪和远程操作，零基础设施一键安装。
-
-- **Stars:** ⭐️ 865
-- **Tags:** `Multi-Agent` `Orchestration` `Claude-Code` `LLM`
-- **最后活动时间:** 2026-05-28
-
 ### [opsdroid](https://github.com/opsdroid/opsdroid)
 
 开源聊天机器人框架，支持多种平台集成，内置NLU能力，可构建智能对话机器人。
@@ -5157,6 +5221,14 @@ MCP服务器，为Claude提供基于本地知识图谱的持久化记忆能力�
 - **Stars:** ⭐️ 863
 - **Tags:** `mcp` `claude` `knowledge-graph` `ai-memory`
 - **最后活动时间:** 2025-12-22
+
+### [pydantic-deepagents](https://github.com/vstorm-co/pydantic-deepagents)
+
+基于Pydantic-AI构建的Python深度智能体框架，支持规划、文件操作、子代理委托和结构化输出，仅需10行代码即可构建生产级自主AI代理。
+
+- **Stars:** ⭐️ 859
+- **Tags:** `Agent Framework` `Pydantic` `MCP`
+- **最后活动时间:** 2026-06-10
 
 ### [vibeship-spawner-skills](https://github.com/vibeforge1111/vibeship-spawner-skills)
 
@@ -5182,6 +5254,14 @@ MCP服务器，为Claude提供基于本地知识图谱的持久化记忆能力�
 - **Tags:** `workflow` `MCP` `low-code` `automation`
 - **最后活动时间:** 2026-05-08
 
+### [agents-js](https://github.com/livekit/agents-js)
+
+使用Node.js构建实时多模态AI智能体的开发框架。
+
+- **Stars:** ⭐️ 854
+- **Tags:** `agents` `multimodal` `nodejs` `realtime`
+- **最后活动时间:** 2026-06-12
+
 ### [AgentHandover](https://github.com/sandroandric/AgentHandover)
 
 智能体学习框架，通过观察用户行为自动学习并传授自我改进的技能给AI代理。
@@ -5198,21 +5278,13 @@ MCP服务器，为Claude提供基于本地知识图谱的持久化记忆能力�
 - **Tags:** `企业级` `工作流` `RAG`
 - **最后活动时间:** 2026-05-25
 
-### [gascity](https://github.com/gastownhall/gascity)
+### [Foundry](https://github.com/promptise-com/Foundry)
 
-多智能体编码工作流的编排构建SDK，支持灵活的Agent协作与任务调度。
+代理智能的基础层框架，提供构建自主AI代理所需的核心运行时和上下文工程能力。
 
-- **Stars:** ⭐️ 847
-- **Tags:** `multi-agent` `orchestration` `sdk` `coding-workflow`
-- **最后活动时间:** 2026-05-29
-
-### [awesome-agent-harness](https://github.com/Picrew/awesome-agent-harness)
-
-AI Agent Harness 工程资源精选列表，涵盖项目、工具、基准测试和实用指南。
-
-- **Stars:** ⭐️ 846
-- **Tags:** `agent` `ai-agent` `agent-framework`
-- **最后活动时间:** 2026-05-28
+- **Stars:** ⭐️ 849
+- **Tags:** `agent-framework` `agent-runtime` `llm-agents` `mcp` `autonomous-agents`
+- **最后活动时间:** 2026-06-11
 
 ### [huashu-skills](https://github.com/alchaincyf/huashu-skills)
 
@@ -5221,14 +5293,6 @@ AI Agent Harness 工程资源精选列表，涵盖项目、工具、基准测试
 - **Stars:** ⭐️ 846
 - **Tags:** `ai-agent` `content-creation` `skills` `automation`
 - **最后活动时间:** 2026-04-21
-
-### [Foundry](https://github.com/promptise-com/Foundry)
-
-代理智能的基础层框架，提供构建自主AI代理所需的核心运行时和上下文工程能力。
-
-- **Stars:** ⭐️ 844
-- **Tags:** `agent-framework` `agent-runtime` `llm-agents` `mcp` `autonomous-agents`
-- **最后活动时间:** 2026-05-03
 
 ### [hermes-agent-control-room](https://github.com/CryptoDmitry/hermes-agent-control-room)
 
@@ -5246,13 +5310,13 @@ Hermes智能体控制中心模板，支持从单一VPS代理管理专业团队�
 - **Tags:** `mcp-server` `sql` `cloud-automation` `infrastructure-as-code`
 - **最后活动时间:** 2026-05-28
 
-### [agents-js](https://github.com/livekit/agents-js)
+### [Multi-Agent-Custom-Automation-Engine](https://github.com/microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator)
 
-使用Node.js构建实时多模态AI智能体的开发框架。
+基于Microsoft Agent Framework的多智能体自动化引擎，支持企业级AI任务编排。
 
-- **Stars:** ⭐️ 841
-- **Tags:** `agents` `multimodal` `nodejs` `realtime`
-- **最后活动时间:** 2026-05-28
+- **Stars:** ⭐️ 842
+- **Tags:** `Multi-Agent` `Azure` `Automation`
+- **最后活动时间:** 2026-06-12
 
 ### [claude_code_agent_farm](https://github.com/Dicklesworthstone/claude_code_agent_farm)
 
@@ -5261,6 +5325,14 @@ Hermes智能体控制中心模板，支持从单一VPS代理管理专业团队�
 - **Stars:** ⭐️ 838
 - **Tags:** `ai-agents` `automation` `orchestration` `tmux` `python`
 - **最后活动时间:** 2026-04-06
+
+### [ainativelang](https://github.com/sbhooley/ainativelang)
+
+AI 原生编程语言，将 AI 从对话转变为可结构化执行的工作流，支持多步骤、状态管理和工具调用。
+
+- **Stars:** ⭐️ 838
+- **Tags:** `ai-agents` `dsl` `workflow-engine` `llm-orchestration` `mcp`
+- **最后活动时间:** 2026-06-11
 
 ### [meltingpot](https://github.com/google-deepmind/meltingpot)
 
@@ -5294,14 +5366,6 @@ DeepMind推出的多智能体强化学习测试基准套件，提供丰富场景
 - **Tags:** `MCP` `AI Agent` `Framework` `Observability`
 - **最后活动时间:** 2026-05-08
 
-### [Multi-Agent-Custom-Automation-Engine](https://github.com/microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator)
-
-基于Microsoft Agent Framework的多智能体自动化引擎，支持企业级AI任务编排。
-
-- **Stars:** ⭐️ 828
-- **Tags:** `Multi-Agent` `Azure` `Automation`
-- **最后活动时间:** 2026-05-28
-
 ### [aegra](https://github.com/ibbybuilds/aegra)
 
 开源 LangGraph Platform 替代方案，基于 FastAPI 和 PostgreSQL 构建自托管 AI 智能体后端。零供应商锁定，完全掌控你的智能体基础设施。
@@ -5318,13 +5382,13 @@ DeepMind推出的多智能体强化学习测试基准套件，提供丰富场景
 - **Tags:** `MCP` `Search` `Agent`
 - **最后活动时间:** 2026-05-25
 
-### [pydantic-deepagents](https://github.com/vstorm-co/pydantic-deepagents)
+### [swarm-forge](https://github.com/unclebob/swarm-forge)
 
-基于Pydantic-AI构建的Python深度智能体框架，支持规划、文件操作、子代理委托和结构化输出，仅需10行代码即可构建生产级自主AI代理。
+轻量级多智能体协调工具，帮助开发者轻松编排多个AI Agent协同工作。
 
-- **Stars:** ⭐️ 822
-- **Tags:** `Agent Framework` `Pydantic` `MCP`
-- **最后活动时间:** 2026-05-28
+- **Stars:** ⭐️ 823
+- **Tags:** `multi-agent` `agent-coordination` `orchestration`
+- **最后活动时间:** 2026-06-11
 
 ### [metabot](https://github.com/xvirobotics/metabot)
 
@@ -5358,6 +5422,22 @@ Claude Code与Codex的多供应商代理管理工具，支持跨平台AI模型�
 - **Tags:** `multi-agent` `claude-code` `codex` `agent-management`
 - **最后活动时间:** 2026-01-12
 
+### [JaxMARL](https://github.com/FLAIROx/JaxMARL)
+
+基于JAX的多智能体强化学习库，支持高性能GPU加速训练。
+
+- **Stars:** ⭐️ 815
+- **Tags:** `marl` `multiagent-reinforcement-learning` `jax`
+- **最后活动时间:** 2026-06-10
+
+### [AgentForge](https://github.com/DataBassGit/AgentForge)
+
+可扩展的AGI智能体开发框架，支持构建自主智能体应用。
+
+- **Stars:** ⭐️ 815
+- **Tags:** `agent-framework` `agi` `autonomous-agents` `python`
+- **最后活动时间:** 2026-06-11
+
 ### [kweaver-core](https://github.com/kweaver-ai/kweaver-core)
 
 企业级决策智能体框架，提供语义建模、实时访问、运行时控制和TraceAI功能，帮助AI系统在复杂企业环境中可靠地推理和执行。
@@ -5374,6 +5454,14 @@ Claude Code与Codex的多供应商代理管理工具，支持跨平台AI模型�
 - **Tags:** `AI Agent` `MCP` `区块链`
 - **最后活动时间:** 2026-05-29
 
+### [software-agent-sdk](https://github.com/OpenHands/software-agent-sdk)
+
+简洁模块化的SDK，用于构建AI智能体应用。
+
+- **Stars:** ⭐️ 814
+- **Tags:** `ai-agent` `sdk` `agent-framework`
+- **最后活动时间:** 2026-06-12
+
 ### [WilmerAI](https://github.com/SomeOddCodeGuy/WilmerAI)
 
 一款老牌LLM语义路由器，支持多层提示词路由和复杂工作流，可扩展任何连接LLM的应用程序。
@@ -5381,14 +5469,6 @@ Claude Code与Codex的多供应商代理管理工具，支持跨平台AI模型�
 - **Stars:** ⭐️ 814
 - **Tags:** `llm` `semantic-router` `prompt-routing` `ai-workflow`
 - **最后活动时间:** 2026-05-14
-
-### [babysitter](https://github.com/a5c-ai/babysitter)
-
-一个AI代理编排框架，通过确定性、无幻觉的自 orchestration 让代理工作流能够管理极其复杂的任务。
-
-- **Stars:** ⭐️ 814
-- **Tags:** `agent-orchestration` `ai-agents` `agentic-workflow` `claude-code`
-- **最后活动时间:** 2026-05-29
 
 ### [axi](https://github.com/kunchenguid/axi)
 
@@ -5413,22 +5493,6 @@ AI智能体人机交互设计原则框架，相比MCP和传统CLI实现更高准
 - **Stars:** ⭐️ 812
 - **Tags:** `memory` `knowledge-base` `local` `agent`
 - **最后活动时间:** 2026-05-08
-
-### [clowder-ai](https://github.com/zts212653/clowder-ai)
-
-构建AI团队而非单一智能体的框架，强调硬性约束与软性引导相结合，实现共享使命的协作式AI系统。
-
-- **Stars:** ⭐️ 812
-- **Tags:** `ai-agents` `multi-agent` `agent-framework` `ai-teams`
-- **最后活动时间:** 2026-05-28
-
-### [JaxMARL](https://github.com/FLAIROx/JaxMARL)
-
-基于JAX的多智能体强化学习库，支持高性能GPU加速训练。
-
-- **Stars:** ⭐️ 811
-- **Tags:** `marl` `multiagent-reinforcement-learning` `jax`
-- **最后活动时间:** 2026-05-11
 
 ### [knowledge-agent-template](https://github.com/vercel-labs/knowledge-agent-template)
 
@@ -5462,14 +5526,6 @@ AI智能体开发平台，支持OpenAI/DeepSeek/文心/通义等多模型接入�
 - **Tags:** `ai-agent` `langchain` `langgraph` `llm` `docker`
 - **最后活动时间:** 2026-05-27
 
-### [AgentForge](https://github.com/DataBassGit/AgentForge)
-
-可扩展的AGI智能体开发框架，支持构建自主智能体应用。
-
-- **Stars:** ⭐️ 805
-- **Tags:** `agent-framework` `agi` `autonomous-agents` `python`
-- **最后活动时间:** 2026-05-28
-
 ### [agentscope-runtime](https://github.com/agentscope-ai/agentscope-runtime)
 
 生产级Agent应用运行时框架，提供安全的工具沙箱、Agent-as-a-Service API和可扩展部署能力。
@@ -5485,6 +5541,22 @@ MCP服务器，允许AI智能体通过AppleScript和JXA控制macOS系统，实�
 - **Stars:** ⭐️ 803
 - **Tags:** `mcp` `macos` `applescript` `agent` `automation`
 - **最后活动时间:** 2026-05-23
+
+### [AgentGym](https://github.com/WooooDyy/AgentGym)
+
+ACL 2025论文实现，提供跨多样化环境演进LLM智能体的训练与评估框架。
+
+- **Stars:** ⭐️ 801
+- **Tags:** `agent` `llm-based-agent` `large-language-models` `agent-training`
+- **最后活动时间:** 2026-05-30
+
+### [commonly](https://github.com/Team-Commonly/commonly)
+
+一个连接人类与AI代理的社交平台，支持通过HTTP接入任意AI代理。由AI团队自主构建和维护的开源项目。
+
+- **Stars:** ⭐️ 797
+- **Tags:** `agent-framework` `ai-agents` `multi-agent` `agentic-ai` `autonomous-agents`
+- **最后活动时间:** 2026-06-10
 
 ### [AgentCPM](https://github.com/OpenBMB/AgentCPM)
 
@@ -5542,6 +5614,14 @@ ClickHouse MCP 连接器，让 AI 助手能够查询和分析 ClickHouse 数据�
 - **Tags:** `swarm-intelligence` `multi-agent` `claude-code` `mcp`
 - **最后活动时间:** 2026-04-12
 
+### [samples](https://github.com/strands-agents/samples)
+
+基于 Strands Agents SDK 构建的智能体示例集合，支持多种 LLM 后端和多智能体系统开发。
+
+- **Stars:** ⭐️ 784
+- **Tags:** `Agents` `MCP` `Multi-Agent` `Python`
+- **最后活动时间:** 2026-06-04
+
 ### [xmcp](https://github.com/xdevplatform/xmcp)
 
 MCP服务器，为X(Twitter) API提供标准化接口，支持AI助手与X平台交互。
@@ -5549,6 +5629,14 @@ MCP服务器，为X(Twitter) API提供标准化接口，支持AI助手与X平台
 - **Stars:** ⭐️ 784
 - **Tags:** `mcp` `x-api` `twitter` `agent`
 - **最后活动时间:** 2026-04-09
+
+### [argo](https://github.com/xark-argo/argo)
+
+开源AI智能体平台，支持一键下载模型、离线RAG知识库和本地化部署，实现自主思考与任务规划的深度研究助手。
+
+- **Stars:** ⭐️ 784
+- **Tags:** `agent` `ai` `llm` `rag` `desktop` `local`
+- **最后活动时间:** 2026-01-06
 
 ### [OpenClaw-Admin](https://github.com/itq5/OpenClaw-Admin)
 
@@ -5558,6 +5646,14 @@ MCP服务器，为X(Twitter) API提供标准化接口，支持AI助手与X平台
 - **Tags:** `ai-agent` `dashboard` `management-platform` `vue3`
 - **最后活动时间:** 2026-04-27
 
+### [nuwax](https://github.com/nuwax-ai/nuwax)
+
+通用智能体操作系统，无代码构建私有AI智能体平台，支持RAG、工作流编排及MCP协议。
+
+- **Stars:** ⭐️ 782
+- **Tags:** `Agent OS` `No-Code` `MCP`
+- **最后活动时间:** 2026-06-12
+
 ### [blades](https://github.com/go-kratos/blades)
 
 基于Go语言构建的多模态AI智能体框架，支持多智能体协作与工作流编排，适合企业级AI应用开发。
@@ -5565,6 +5661,14 @@ MCP服务器，为X(Twitter) API提供标准化接口，支持AI助手与X平台
 - **Stars:** ⭐️ 780
 - **Tags:** `Agent框架` `Golang` `多模态`
 - **最后活动时间:** 2026-05-18
+
+### [helix](https://github.com/helixml/helix)
+
+私有智能体集群框架，每个Agent拥有独立桌面环境，支持Claude、Gemini等主流模型的自托管K8s部署。
+
+- **Stars:** ⭐️ 780
+- **Tags:** `Agent Fleet` `Self-hosted` `K8s`
+- **最后活动时间:** 2026-06-11
 
 ### [openclaw-supermemory](https://github.com/supermemoryai/openclaw-supermemory)
 
@@ -5582,6 +5686,14 @@ MCP服务器，为X(Twitter) API提供标准化接口，支持AI助手与X平台
 - **Tags:** `AI Agent` `LLMOps` `LangChain` `Multi-Model`
 - **最后活动时间:** 2026-04-16
 
+### [soulforge](https://github.com/proxysoul/soulforge)
+
+基于图结构的代码智能平台，支持多智能体协作编程，具备代码库感知能力，告别传统的grep搜索模式。
+
+- **Stars:** ⭐️ 778
+- **Tags:** `ai-agents` `code-intelligence` `lsp` `cli`
+- **最后活动时间:** 2026-06-12
+
 ### [fantasy](https://github.com/charmbracelet/fantasy)
 
 使用 Go 语言构建 AI 智能体的框架，支持多提供商、多模型统一 API 调用。
@@ -5590,37 +5702,13 @@ MCP服务器，为X(Twitter) API提供标准化接口，支持AI助手与X平台
 - **Tags:** `ai` `agents` `golang` `llm`
 - **最后活动时间:** 2026-05-28
 
-### [nuwax](https://github.com/nuwax-ai/nuwax)
+### [bytechef](https://github.com/bytechefhq/bytechef)
 
-通用智能体操作系统，无代码构建私有AI智能体平台，支持RAG、工作流编排及MCP协议。
-
-- **Stars:** ⭐️ 776
-- **Tags:** `Agent OS` `No-Code` `MCP`
-- **最后活动时间:** 2026-05-29
-
-### [helix](https://github.com/helixml/helix)
-
-私有智能体集群框架，每个Agent拥有独立桌面环境，支持Claude、Gemini等主流模型的自托管K8s部署。
-
-- **Stars:** ⭐️ 775
-- **Tags:** `Agent Fleet` `Self-hosted` `K8s`
-- **最后活动时间:** 2026-05-28
-
-### [argo](https://github.com/xark-argo/argo)
-
-开源AI智能体平台，支持一键下载模型、离线RAG知识库和本地化部署，实现自主思考与任务规划的深度研究助手。
-
-- **Stars:** ⭐️ 775
-- **Tags:** `agent` `ai` `llm` `rag` `desktop` `local`
-- **最后活动时间:** 2026-01-06
-
-### [SkillNet](https://github.com/zjunlp/SkillNet)
-
-AI技能创建、评估与连接平台。基于知识图谱和大语言模型，帮助构建和管理AI代理技能生态。
+开源AI原生低代码自动化平台，支持API编排、工作流自动化和AI智能体集成。
 
 - **Stars:** ⭐️ 772
-- **Tags:** `AI Agents` `Skills` `Knowledge Graph` `LLM`
-- **最后活动时间:** 2026-05-27
+- **Tags:** `Workflow` `Automation` `AI Agents` `Low-Code`
+- **最后活动时间:** 2026-06-12
 
 ### [HALO](https://github.com/context-labs/HALO)
 
@@ -5646,21 +5734,13 @@ AI技能创建、评估与连接平台。基于知识图谱和大语言模型，
 - **Tags:** `agent-as-a-judge` `llm-as-a-judge` `llms` `evaluation`
 - **最后活动时间:** 2026-03-28
 
-### [samples](https://github.com/strands-agents/samples)
+### [react-agent](https://github.com/langchain-ai/react-agent)
 
-基于 Strands Agents SDK 构建的智能体示例集合，支持多种 LLM 后端和多智能体系统开发。
+基于LangGraph的ReAct智能体模板，用于构建推理与行动结合的AI代理。
 
-- **Stars:** ⭐️ 766
-- **Tags:** `Agents` `MCP` `Multi-Agent` `Python`
-- **最后活动时间:** 2026-05-27
-
-### [bytechef](https://github.com/bytechefhq/bytechef)
-
-开源AI原生低代码自动化平台，支持API编排、工作流自动化和AI智能体集成。
-
-- **Stars:** ⭐️ 764
-- **Tags:** `Workflow` `Automation` `AI Agents` `Low-Code`
-- **最后活动时间:** 2026-05-29
+- **Stars:** ⭐️ 767
+- **Tags:** `langgraph` `react-agent` `agent` `llm`
+- **最后活动时间:** 2026-06-07
 
 ### [app-store-connect-cli-skills](https://github.com/rudrankriyam/app-store-connect-cli-skills)
 
@@ -5670,28 +5750,12 @@ AI技能创建、评估与连接平台。基于知识图谱和大语言模型，
 - **Tags:** `ai-skills` `agent-skills` `app-store-connect` `cicd` `automation`
 - **最后活动时间:** 2026-04-17
 
-### [software-agent-sdk](https://github.com/OpenHands/software-agent-sdk)
-
-简洁模块化的SDK，用于构建AI智能体应用。
-
-- **Stars:** ⭐️ 762
-- **Tags:** `ai-agent` `sdk` `agent-framework`
-- **最后活动时间:** 2026-05-29
-
 ### [nodeskclaw](https://github.com/NoDeskAI/nodeskclaw)
 
 人与 AI 员工协同工作的赛博办公室，提供可视化六边形拓扑工作区支持自主协作与技能进化。
 
 - **Stars:** ⭐️ 762
 - **Tags:** `ai-agents` `human-ai-collaboration` `workspace` `autonomous`
-- **最后活动时间:** 2026-05-28
-
-### [kiwifs](https://github.com/kiwifs/kiwifs)
-
-专为AI智能体和团队设计的Markdown文件系统，支持知识库管理和知识图谱构建，可与Obsidian等工具集成。
-
-- **Stars:** ⭐️ 762
-- **Tags:** `ai-agents` `knowledge-base` `knowledge-graph` `markdown` `filesystem`
 - **最后活动时间:** 2026-05-28
 
 ### [agent-plugins](https://github.com/awslabs/agent-plugins)
@@ -5717,14 +5781,6 @@ OpenClaw的多智能体演进版本，专注于构建多Agent协作系统与聊�
 - **Stars:** ⭐️ 754
 - **Tags:** `Multi-agent` `Chatbots` `Collaboration`
 - **最后活动时间:** 2026-03-21
-
-### [react-agent](https://github.com/langchain-ai/react-agent)
-
-基于LangGraph的ReAct智能体模板，用于构建推理与行动结合的AI代理。
-
-- **Stars:** ⭐️ 753
-- **Tags:** `langgraph` `react-agent` `agent` `llm`
-- **最后活动时间:** 2026-05-26
 
 ### [ocx](https://github.com/kdcokenny/ocx)
 
@@ -5774,6 +5830,14 @@ AI智能体技能公共仓库，提供可复用的Agent能力模块，助力智�
 - **Tags:** `agent` `science` `platform` `scientific-agents`
 - **最后活动时间:** 2026-03-04
 
+### [memorizz](https://github.com/RichmondAlake/memorizz)
+
+AI应用记忆层Python库，利用主流数据库优化Agent记忆管理与语义检索。
+
+- **Stars:** ⭐️ 744
+- **Tags:** `ai-memory` `semantic-search` `mongodb` `agent-framework`
+- **最后活动时间:** 2026-06-01
+
 ### [claude-agents-library](https://github.com/aiagentskit/claude-agents-library)
 
 Claude 代理库，提供 AI 代理构建的提示词模板和框架。
@@ -5790,14 +5854,6 @@ Microsoft 365的MCP服务器，让AI模型能够通过Graph API与Office服务�
 - **Tags:** `MCP` `Microsoft 365` `Agent` `Graph API`
 - **最后活动时间:** 2026-05-28
 
-### [memorizz](https://github.com/RichmondAlake/memorizz)
-
-AI应用记忆层Python库，利用主流数据库优化Agent记忆管理与语义检索。
-
-- **Stars:** ⭐️ 741
-- **Tags:** `ai-memory` `semantic-search` `mongodb` `agent-framework`
-- **最后活动时间:** 2026-05-24
-
 ### [arbiter](https://github.com/harnesslabs/arbiter)
 
 Rust编写的多智能体框架，用于设计、仿真和审计智能体系统。
@@ -5805,22 +5861,6 @@ Rust编写的多智能体框架，用于设计、仿真和审计智能体系统�
 - **Stars:** ⭐️ 741
 - **Tags:** `multi-agent` `simulation` `rust`
 - **最后活动时间:** 2026-05-02
-
-### [magic-context](https://github.com/cortexkit/magic-context)
-
-智能上下文管理工具，支持缓存感知的无限上下文、跨会话记忆和后台历史压缩功能。
-
-- **Stars:** ⭐️ 740
-- **Tags:** `agent-memory` `ai-agents` `context-management` `langchain`
-- **最后活动时间:** 2026-05-22
-
-### [Trace](https://github.com/microsoft/Trace)
-
-AI 智能体的端到端生成式优化框架，支持自动微分和提示优化。
-
-- **Stars:** ⭐️ 738
-- **Tags:** `agents` `optimization` `llm` `generative-optimization` `python`
-- **最后活动时间:** 2025-12-10
 
 ### [microsoft-365-agents-toolkit](https://github.com/OfficeDev/microsoft-365-agents-toolkit)
 
@@ -5862,6 +5902,14 @@ AI 智能体的端到端生成式优化框架，支持自动微分和提示优�
 - **Tags:** `Agent` `LangChain` `MCP` `RAG`
 - **最后活动时间:** 2026-04-15
 
+### [aiq](https://github.com/NVIDIA-AI-Blueprints/aiq)
+
+NVIDIA官方开源的AI智能体蓝图，连接企业数据、使用先进模型推理并输出可信商业洞察。
+
+- **Stars:** ⭐️ 727
+- **Tags:** `nvidia` `ai-agents` `enterprise` `blueprint`
+- **最后活动时间:** 2026-06-11
+
 ### [eino-ext](https://github.com/cloudwego/eino-ext)
 
 Eino AI框架的扩展组件库，提供多种实用扩展增强框架功能。
@@ -5878,21 +5926,37 @@ Eino AI框架的扩展组件库，提供多种实用扩展增强框架功能。
 - **Tags:** `AI Agents` `Kanban` `Project Management`
 - **最后活动时间:** 2026-05-26
 
-### [swarm-forge](https://github.com/unclebob/swarm-forge)
+### [openclaw-docs](https://github.com/yeuxuan/openclaw-docs)
 
-轻量级多智能体协调工具，帮助开发者轻松编排多个AI Agent协同工作。
+OpenClaw AI智能体框架的中文文档站，提供源码剖析和安装教程，支持WhatsApp、Telegram、Discord等多通道机器人部署。
+
+- **Stars:** ⭐️ 721
+- **Tags:** `AI Agent` `LLM` `Multi-channel Bot`
+- **最后活动时间:** 2026-06-05
+
+### [CORAL](https://github.com/Human-Agent-Society/CORAL)
+
+一个轻量级的多智能体自主进化基础设施，专为自动化研究设计。支持智能体自我改进和协同演化，适合构建自主研究系统。
+
+- **Stars:** ⭐️ 721
+- **Tags:** `multi-agent` `agent-framework` `self-evolving-agents` `llm-agents` `autonomous-agents`
+- **最后活动时间:** 2026-06-12
+
+### [bedrock-agentcore-sdk-python](https://github.com/aws/bedrock-agentcore-sdk-python)
+
+AWS官方Python SDK，将AI智能体转化为生产级应用，提供运行时、记忆、认证等框架无关的原语支持。
 
 - **Stars:** ⭐️ 720
-- **Tags:** `multi-agent` `agent-coordination` `orchestration`
-- **最后活动时间:** 2026-05-27
+- **Tags:** `aws` `ai-agents` `sdk` `python`
+- **最后活动时间:** 2026-06-11
 
-### [mnemosyne](https://github.com/AxDSan/mnemosyne)
+### [relay](https://github.com/AgentWorkforce/relay)
 
-零依赖、亚毫秒级AI记忆系统，专为Hermes智能体设计。支持高效记忆存储与检索。
+实时智能体通信框架，支持Agent之间的实时协作与消息传递，适用于构建多智能体系统。
 
-- **Stars:** ⭐️ 718
-- **Tags:** `agents` `ai` `memory-system` `hermes`
-- **最后活动时间:** 2026-05-29
+- **Stars:** ⭐️ 719
+- **Tags:** `agent-communication` `agentic-ai` `real-time` `multi-agent`
+- **最后活动时间:** 2026-06-12
 
 ### [open-ptc-agent](https://github.com/Chen-zexi/open-ptc-agent)
 
@@ -5901,14 +5965,6 @@ Eino AI框架的扩展组件库，提供多种实用扩展增强框架功能。
 - **Stars:** ⭐️ 717
 - **Tags:** `mcp` `agent` `langchain` `code-execution`
 - **最后活动时间:** 2026-01-21
-
-### [soulforge](https://github.com/proxysoul/soulforge)
-
-基于图结构的代码智能平台，支持多智能体协作编程，具备代码库感知能力，告别传统的grep搜索模式。
-
-- **Stars:** ⭐️ 717
-- **Tags:** `ai-agents` `code-intelligence` `lsp` `cli`
-- **最后活动时间:** 2026-05-27
 
 ### [HowToCook-mcp](https://github.com/worryzyy/HowToCook-mcp)
 
@@ -5922,7 +5978,7 @@ Eino AI框架的扩展组件库，提供多种实用扩展增强框架功能。
 
 透明开放的AI智能体守护进程，提供可组合的运行时框架，支持开发者构建可信赖的智能体应用。
 
-- **Stars:** ⭐️ 717
+- **Stars:** ⭐️ 715
 - **Tags:** `agent-framework` `ai-agent` `llm` `runtime`
 - **最后活动时间:** 2026-05-26
 
@@ -5934,14 +5990,6 @@ Eino AI框架的扩展组件库，提供多种实用扩展增强框架功能。
 - **Tags:** `llm` `algorithm-design` `automation`
 - **最后活动时间:** 2026-04-15
 
-### [bedrock-agentcore-sdk-python](https://github.com/aws/bedrock-agentcore-sdk-python)
-
-AWS官方Python SDK，将AI智能体转化为生产级应用，提供运行时、记忆、认证等框架无关的原语支持。
-
-- **Stars:** ⭐️ 713
-- **Tags:** `aws` `ai-agents` `sdk` `python`
-- **最后活动时间:** 2026-05-28
-
 ### [hermes-control-interface](https://github.com/xaspx/hermes-control-interface)
 
 一个为Hermes AI智能体栈设计的自托管Web控制面板，提供浏览器终端、文件管理、会话监控、定时任务和系统指标等功能。
@@ -5950,13 +5998,13 @@ AWS官方Python SDK，将AI智能体转化为生产级应用，提供运行时�
 - **Tags:** `ai-agents` `dashboard` `self-hosted` `web-interface`
 - **最后活动时间:** 2026-05-24
 
-### [openclaw-docs](https://github.com/yeuxuan/openclaw-docs)
+### [Fusion](https://github.com/Runfusion/Fusion)
 
-OpenClaw AI智能体框架的中文文档站，提供源码剖析和安装教程，支持WhatsApp、Telegram、Discord等多通道机器人部署。
+多节点Agent编排框架，帮助开发者更快更好地构建和协调多个AI智能体。
 
-- **Stars:** ⭐️ 710
-- **Tags:** `AI Agent` `LLM` `Multi-channel Bot`
-- **最后活动时间:** 2026-05-06
+- **Stars:** ⭐️ 707
+- **Tags:** `agent-orchestration` `multi-agent` `agent-framework`
+- **最后活动时间:** 2026-06-12
 
 ### [stash](https://github.com/alash3al/stash)
 
@@ -5982,13 +6030,13 @@ AI 智能体持久化记忆层，支持存储事件、事实和工作上下文�
 - **Tags:** `claude-code` `qa-agents` `automation` `testing`
 - **最后活动时间:** 2026-05-23
 
-### [relay](https://github.com/AgentWorkforce/relay)
+### [openswarm](https://github.com/openswarm-ai/openswarm)
 
-实时智能体通信框架，支持Agent之间的实时协作与消息传递，适用于构建多智能体系统。
+一个AI智能体集群的指挥控制中心，帮助用户高效管理和协调多个AI代理的协作运行。
 
-- **Stars:** ⭐️ 700
-- **Tags:** `agent-communication` `agentic-ai` `real-time` `multi-agent`
-- **最后活动时间:** 2026-05-29
+- **Stars:** ⭐️ 702
+- **Tags:** `ai-agents` `multi-agent` `agent-orchestration` `swarm-intelligence`
+- **最后活动时间:** 2026-06-12
 
 ### [CountBot](https://github.com/countbot-ai/CountBot)
 
@@ -6006,6 +6054,14 @@ AI 智能体持久化记忆层，支持存储事件、事实和工作上下文�
 - **Tags:** `agent-skills` `runtime-governance` `self-evolving` `enterprise-ai`
 - **最后活动时间:** 2026-05-28
 
+### [power-bi-agentic-development](https://github.com/data-goblin/power-bi-agentic-development)
+
+为 AI Agent 提供 Power BI 集成能力的技能库，包含子代理、钩子和语义模型支持，助力商业智能自动化开发。
+
+- **Stars:** ⭐️ 692
+- **Tags:** `agentic-development` `power-bi` `claude-code` `business-intelligence`
+- **最后活动时间:** 2026-06-11
+
 ### [memoripy](https://github.com/caspianmoon/memoripy)
 
 AI记忆层实现，支持短期/长期存储、语义聚类和记忆衰减机制。
@@ -6021,6 +6077,14 @@ AI记忆层实现，支持短期/长期存储、语义聚类和记忆衰减机�
 - **Stars:** ⭐️ 690
 - **Tags:** `Feishu` `AI Agent` `Chatbot` `Lark`
 - **最后活动时间:** 2026-03-30
+
+### [dapr-agents](https://github.com/dapr/dapr-agents)
+
+构建自主、弹性、可观测AI智能体的框架，内置工作流编排、安全、状态管理和遥测能力。
+
+- **Stars:** ⭐️ 690
+- **Tags:** `AI Agents` `Workflow` `Autonomous` `Dapr`
+- **最后活动时间:** 2026-06-11
 
 ### [cognetivy](https://github.com/meitarbe/cognetivy)
 
@@ -6046,6 +6110,14 @@ AI 智能体编排工具，提供记忆搜索、代码图谱查询和智能体�
 - **Tags:** `Orchestration` `Multi-Agent` `Claude Code`
 - **最后活动时间:** 2026-05-28
 
+### [mcp-gateway-registry](https://github.com/agentic-community/mcp-gateway-registry)
+
+企业级MCP网关与注册中心，集中管理AI开发工具，支持OAuth认证、动态工具发现，集成Keycloak/Entra，为AI智能体和编码助手提供统一安全的工具访问。
+
+- **Stars:** ⭐️ 688
+- **Tags:** `MCP` `AI Agents` `Gateway` `OAuth`
+- **最后活动时间:** 2026-06-11
+
 ### [reddit-mcp-buddy](https://github.com/karanb192/reddit-mcp-buddy)
 
 专为LLM优化的Reddit MCP服务器，支持浏览帖子、搜索内容和分析用户数据。
@@ -6062,21 +6134,13 @@ AI 智能体编排工具，提供记忆搜索、代码图谱查询和智能体�
 - **Tags:** `agents` `claude` `framework` `automation`
 - **最后活动时间:** 2026-02-04
 
-### [dapr-agents](https://github.com/dapr/dapr-agents)
+### [pipelex](https://github.com/Pipelex/pipelex)
 
-构建自主、弹性、可观测AI智能体的框架，内置工作流编排、安全、状态管理和遥测能力。
+声明式AI工作流语言，用于构建可组合的AI流程。面向开发者和普通用户的Agent编排工具。
 
-- **Stars:** ⭐️ 684
-- **Tags:** `AI Agents` `Workflow` `Autonomous` `Dapr`
-- **最后活动时间:** 2026-05-28
-
-### [aiq](https://github.com/NVIDIA-AI-Blueprints/aiq)
-
-NVIDIA官方开源的AI智能体蓝图，连接企业数据、使用先进模型推理并输出可信商业洞察。
-
-- **Stars:** ⭐️ 683
-- **Tags:** `nvidia` `ai-agents` `enterprise` `blueprint`
-- **最后活动时间:** 2026-05-29
+- **Stars:** ⭐️ 682
+- **Tags:** `Workflow` `DSL` `Orchestration`
+- **最后活动时间:** 2026-06-12
 
 ### [swarm-tools](https://github.com/joelhooks/swarm-tools)
 
@@ -6094,21 +6158,13 @@ NVIDIA官方开源的AI智能体蓝图，连接企业数据、使用先进模型
 - **Tags:** `ai-security` `agent-governance` `agentic-ai`
 - **最后活动时间:** 2026-05-28
 
-### [pipelex](https://github.com/Pipelex/pipelex)
+### [AutoAgents](https://github.com/liquidos-ai/AutoAgents)
 
-声明式AI工作流语言，用于构建可组合的AI流程。面向开发者和普通用户的Agent编排工具。
+一个用Rust编写的高性能多智能体框架，支持构建、部署和协调多个智能代理。适合复杂的AI工作流编排和分布式智能系统开发。
 
-- **Stars:** ⭐️ 677
-- **Tags:** `Workflow` `DSL` `Orchestration`
-- **最后活动时间:** 2026-05-29
-
-### [CORAL](https://github.com/Human-Agent-Society/CORAL)
-
-一个轻量级的多智能体自主进化基础设施，专为自动化研究设计。支持智能体自我改进和协同演化，适合构建自主研究系统。
-
-- **Stars:** ⭐️ 676
-- **Tags:** `multi-agent` `agent-framework` `self-evolving-agents` `llm-agents` `autonomous-agents`
-- **最后活动时间:** 2026-05-24
+- **Stars:** ⭐️ 673
+- **Tags:** `multi-agent` `ai-agents` `rust` `agent-framework` `llm`
+- **最后活动时间:** 2026-06-11
 
 ### [openclaw-dashboard](https://github.com/tugcantopaloglu/openclaw-dashboard)
 
@@ -6126,13 +6182,13 @@ NVIDIA官方开源的AI智能体蓝图，连接企业数据、使用先进模型
 - **Tags:** `ai-agent` `lightweight` `agent-framework`
 - **最后活动时间:** 2026-04-30
 
-### [mcp-gateway-registry](https://github.com/agentic-community/mcp-gateway-registry)
+### [altimate-code](https://github.com/AltimateAI/altimate-code)
 
-企业级MCP网关与注册中心，集中管理AI开发工具，支持OAuth认证、动态工具发现，集成Keycloak/Entra，为AI智能体和编码助手提供统一安全的工具访问。
+开源的智能体数据工程工具，支持dbt、SQL和云数据仓库。提供100+工具和AI驱动的自动化能力。
 
-- **Stars:** ⭐️ 669
-- **Tags:** `MCP` `AI Agents` `Gateway` `OAuth`
-- **最后活动时间:** 2026-05-29
+- **Stars:** ⭐️ 670
+- **Tags:** `agent` `ai` `data-engineering` `dbt` `llm` `sql`
+- **最后活动时间:** 2026-06-12
 
 ### [openclaw-backup](https://github.com/LeoYeAI/openclaw-backup)
 
@@ -6142,13 +6198,13 @@ OpenClaw AI智能体一键备份恢复工具，支持工作空间、凭证、技
 - **Tags:** `agent` `backup` `openclaw` `myclaw`
 - **最后活动时间:** 2026-03-03
 
-### [openswarm](https://github.com/openswarm-ai/openswarm)
+### [lix](https://github.com/opral/lix)
 
-一个AI智能体集群的指挥控制中心，帮助用户高效管理和协调多个AI代理的协作运行。
+专为AI代理设计的版本控制系统，支持代理协作和变更追踪。
 
-- **Stars:** ⭐️ 668
-- **Tags:** `ai-agents` `multi-agent` `agent-orchestration` `swarm-intelligence`
-- **最后活动时间:** 2026-05-28
+- **Stars:** ⭐️ 662
+- **Tags:** `version-control` `ai-agents` `change-detection` `collaboration`
+- **最后活动时间:** 2026-06-12
 
 ### [wren-engine](https://github.com/Canner/wren-engine)
 
@@ -6165,30 +6221,6 @@ AI智能体技能公共仓库，提供可复用的Agent能力模块，助力智�
 - **Stars:** ⭐️ 659
 - **Tags:** `agent-skills` `ai-agent` `automation`
 - **最后活动时间:** 2026-05-01
-
-### [commonly](https://github.com/Team-Commonly/commonly)
-
-一个连接人类与AI代理的社交平台，支持通过HTTP接入任意AI代理。由AI团队自主构建和维护的开源项目。
-
-- **Stars:** ⭐️ 659
-- **Tags:** `agent-framework` `ai-agents` `multi-agent` `agentic-ai` `autonomous-agents`
-- **最后活动时间:** 2026-05-27
-
-### [ainativelang](https://github.com/sbhooley/ainativelang)
-
-AI 原生编程语言，将 AI 从对话转变为可结构化执行的工作流，支持多步骤、状态管理和工具调用。
-
-- **Stars:** ⭐️ 659
-- **Tags:** `ai-agents` `dsl` `workflow-engine` `llm-orchestration` `mcp`
-- **最后活动时间:** 2026-05-27
-
-### [AutoAgents](https://github.com/liquidos-ai/AutoAgents)
-
-一个用Rust编写的高性能多智能体框架，支持构建、部署和协调多个智能代理。适合复杂的AI工作流编排和分布式智能系统开发。
-
-- **Stars:** ⭐️ 657
-- **Tags:** `multi-agent` `ai-agents` `rust` `agent-framework` `llm`
-- **最后活动时间:** 2026-05-28
 
 ### [upskill](https://github.com/huggingface/upskill)
 
@@ -6222,14 +6254,6 @@ MCP服务器，让AI助手通过原生C++插件控制虚幻引擎，支持自动
 - **Tags:** `mcp` `unreal-engine` `ai-automation` `game-development`
 - **最后活动时间:** 2026-05-26
 
-### [lix](https://github.com/opral/lix)
-
-专为AI代理设计的版本控制系统，支持代理协作和变更追踪。
-
-- **Stars:** ⭐️ 652
-- **Tags:** `version-control` `ai-agents` `change-detection` `collaboration`
-- **最后活动时间:** 2026-05-29
-
 ### [pipelock](https://github.com/luckyPipewrench/pipelock)
 
 开源AI代理防火墙，专为MCP安全设计。提供代理出口控制、数据防泄漏、SSRF防护和提示注入防御功能。
@@ -6262,22 +6286,6 @@ AI智能体支付的自愈基础设施，支持90.3%自动恢复，专为多智�
 - **Tags:** `agent` `agentic-ai` `ai-framework` `rust`
 - **最后活动时间:** 2026-05-29
 
-### [fastclaw](https://github.com/fastclaw-ai/fastclaw)
-
-一个高效的多智能体框架，支持构建和编排多个AI代理协同工作，提供agent工厂和运行时环境。
-
-- **Stars:** ⭐️ 640
-- **Tags:** `multi-agent` `agent-framework` `agent-runtime`
-- **最后活动时间:** 2026-05-26
-
-### [power-bi-agentic-development](https://github.com/data-goblin/power-bi-agentic-development)
-
-为 AI Agent 提供 Power BI 集成能力的技能库，包含子代理、钩子和语义模型支持，助力商业智能自动化开发。
-
-- **Stars:** ⭐️ 638
-- **Tags:** `agentic-development` `power-bi` `claude-code` `business-intelligence`
-- **最后活动时间:** 2026-05-28
-
 ### [LarAgent](https://github.com/MaestroError/LarAgent)
 
 为 Laravel 项目提供 AI Agent 能力的框架，让 PHP 开发者轻松集成智能体功能。
@@ -6286,13 +6294,13 @@ AI智能体支付的自愈基础设施，支持90.3%自动恢复，专为多智�
 - **Tags:** `ai-agents` `laravel` `php-framework`
 - **最后活动时间:** 2026-05-09
 
-### [Fusion](https://github.com/Runfusion/Fusion)
+### [wanman](https://github.com/chekusu/wanman)
 
-多节点Agent编排框架，帮助开发者更快更好地构建和协调多个AI智能体。
+受日本单人列车启发的开源智能体矩阵运行时，支持本地智能体协调自主多智能体工作流、任务执行和制品管理。
 
 - **Stars:** ⭐️ 637
-- **Tags:** `agent-orchestration` `multi-agent` `agent-framework`
-- **最后活动时间:** 2026-05-28
+- **Tags:** `agent` `multi-agent` `llm` `claude-code` `codex`
+- **最后活动时间:** 2026-06-12
 
 ### [one-skill-to-rule-them-all](https://github.com/rebelytics/one-skill-to-rule-them-all)
 
@@ -6326,6 +6334,14 @@ MCP服务器，用于AI智能体与Android设备交互，支持设备控制和�
 - **Tags:** `ai` `android` `automation` `mcp-server`
 - **最后活动时间:** 2026-05-14
 
+### [cyrus](https://github.com/cyrusagents/cyrus)
+
+支持多平台部署的Claude Code后台代理，可集成Linear、Slack、GitHub、GitLab等工具，同时支持Codex、Cursor和Gemini。
+
+- **Stars:** ⭐️ 631
+- **Tags:** `agent` `claude` `automation` `devtools`
+- **最后活动时间:** 2026-06-12
+
 ### [dexto](https://github.com/truffle-ai/dexto)
 
 编码智能体和通用智能体框架，支持构建和编排各类智能体应用。
@@ -6354,17 +6370,9 @@ AI Agent 的命令行管理工具，类似 kubectl 的智能体编排控制台�
 
 开源框架，用于开发实时多模态对话 AI 智能体。
 
-- **Stars:** ⭐️ 629
+- **Stars:** ⭐️ 628
 - **Tags:** `ai` `agents` `multimodal` `conversational-ai`
-- **最后活动时间:** 2026-05-28
-
-### [skills](https://github.com/NVIDIA/skills)
-
-NVIDIA发布的AI智能体技能集合，提供预构建的代理能力模块，帮助开发者快速构建和部署智能体应用。
-
-- **Stars:** ⭐️ 629
-- **Tags:** `nvidia` `ai-agents` `agent-skills`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-06-12
 
 ### [agent-skills](https://github.com/laravel/agent-skills)
 
@@ -6397,6 +6405,22 @@ Laravel官方代理技能集合，为AI代理提供专业的Laravel开发能力�
 - **Stars:** ⭐️ 618
 - **Tags:** `mcp-server` `faq` `php` `knowledge-base`
 - **最后活动时间:** 2026-05-28
+
+### [LLMTornado](https://github.com/lofcz/LLMTornado)
+
+.NET平台AI智能体开发框架，内置30+连接器，支持多智能体编排、RAG集成和Agent2Agent通信。
+
+- **Stars:** ⭐️ 617
+- **Tags:** `agent-framework` `dotnet` `multi-agent` `orchestration`
+- **最后活动时间:** 2026-06-09
+
+### [agentdojo](https://github.com/ethz-spylab/agentdojo)
+
+AgentDojo 是一个用于评估 LLM 智能体攻击与防御能力的动态环境基准测试平台，专注于提示注入等安全问题的研究。
+
+- **Stars:** ⭐️ 617
+- **Tags:** `llm-agents` `benchmark` `security` `prompt-injection` `evaluation`
+- **最后活动时间:** 2026-06-02
 
 ### [nanoAgent](https://github.com/sanbuphy/nanoAgent)
 
@@ -6446,6 +6470,14 @@ OpenClaw官方插件，用于导出Agent追踪数据到Opik平台。可监控Age
 - **Tags:** `ai-agent` `enterprise-ai` `scenario-mapping` `automation`
 - **最后活动时间:** 2026-04-01
 
+### [openclaw-office](https://github.com/WW-AI-Lab/openclaw-office)
+
+OpenClaw多智能体系统的可视化管理前端，通过WebSocket连接网关实现Agent协作的'数字办公室'可视化，提供完整的控制台管理界面。
+
+- **Stars:** ⭐️ 615
+- **Tags:** `multi-agent` `agent-visualization` `management-console`
+- **最后活动时间:** 2026-06-11
+
 ### [AgentTorch](https://github.com/AgentTorch/AgentTorch)
 
 一个用于大规模人群模拟的可微分智能体框架，支持自动微分和科学计算，适用于复杂系统的建模与仿真。
@@ -6462,29 +6494,13 @@ OpenClaw官方插件，用于导出Agent追踪数据到Opik平台。可监控Age
 - **Tags:** `agent-memory` `context-graph` `neo4j` `ai-agent`
 - **最后活动时间:** 2026-05-20
 
-### [LLMTornado](https://github.com/lofcz/LLMTornado)
+### [kiwifs](https://github.com/kiwifs/kiwifs)
 
-.NET平台AI智能体开发框架，内置30+连接器，支持多智能体编排、RAG集成和Agent2Agent通信。
+专为AI智能体和团队设计的Markdown文件系统，支持知识库管理和知识图谱构建，可与Obsidian等工具集成。
 
-- **Stars:** ⭐️ 612
-- **Tags:** `agent-framework` `dotnet` `multi-agent` `orchestration`
-- **最后活动时间:** 2026-05-19
-
-### [altimate-code](https://github.com/AltimateAI/altimate-code)
-
-开源的智能体数据工程工具，支持dbt、SQL和云数据仓库。提供100+工具和AI驱动的自动化能力。
-
-- **Stars:** ⭐️ 610
-- **Tags:** `agent` `ai` `data-engineering` `dbt` `llm` `sql`
-- **最后活动时间:** 2026-05-29
-
-### [cyrus](https://github.com/cyrusagents/cyrus)
-
-支持多平台部署的Claude Code后台代理，可集成Linear、Slack、GitHub、GitLab等工具，同时支持Codex、Cursor和Gemini。
-
-- **Stars:** ⭐️ 610
-- **Tags:** `agent` `claude` `automation` `devtools`
-- **最后活动时间:** 2026-05-29
+- **Stars:** ⭐️ 613
+- **Tags:** `ai-agents` `knowledge-base` `knowledge-graph` `markdown` `filesystem`
+- **最后活动时间:** 2026-06-11
 
 ### [hermes-lcm](https://github.com/stephenschoettler/hermes-lcm)
 
@@ -6501,14 +6517,6 @@ Hermes Agent的无损上下文管理插件，基于DAG的消息引擎确保零�
 - **Stars:** ⭐️ 606
 - **Tags:** `ai` `agents` `agent-framework` `mcp` `gaming`
 - **最后活动时间:** 2026-03-01
-
-### [wanman](https://github.com/chekusu/wanman)
-
-受日本单人列车启发的开源智能体矩阵运行时，支持本地智能体协调自主多智能体工作流、任务执行和制品管理。
-
-- **Stars:** ⭐️ 606
-- **Tags:** `agent` `multi-agent` `llm` `claude-code` `codex`
-- **最后活动时间:** 2026-05-28
 
 ### [tock](https://github.com/theopenconversationkit/tock)
 
@@ -6534,6 +6542,14 @@ Hermes Agent的无损上下文管理插件，基于DAG的消息引擎确保零�
 - **Tags:** `mcp` `nextjs` `nuxt` `svelte` `ai-server`
 - **最后活动时间:** 2026-03-24
 
+### [kani](https://github.com/zhudotexe/kani)
+
+高度可扩展的轻量级框架，专为工具调用型语言模型设计，发表于EMNLP 2023。
+
+- **Stars:** ⭐️ 604
+- **Tags:** `LLM` `Tool Use` `Function Calling`
+- **最后活动时间:** 2026-06-10
+
 ### [py_trees](https://github.com/splintered-reality/py_trees)
 
 行为树的Python实现，用于构建智能体决策逻辑和任务编排。
@@ -6542,13 +6558,13 @@ Hermes Agent的无损上下文管理插件，基于DAG的消息引擎确保零�
 - **Tags:** `behaviour-trees` `decision-making` `robotics`
 - **最后活动时间:** 2026-05-22
 
-### [openclaw-office](https://github.com/WW-AI-Lab/openclaw-office)
+### [Citadel](https://github.com/SethGammon/Citadel)
 
-OpenClaw多智能体系统的可视化管理前端，通过WebSocket连接网关实现Agent协作的'数字办公室'可视化，提供完整的控制台管理界面。
+Claude Code智能体编排框架，支持四层路由、会话持久化、并行智能体隔离、生命周期钩子等企业级特性。
 
 - **Stars:** ⭐️ 604
-- **Tags:** `multi-agent` `agent-visualization` `management-console`
-- **最后活动时间:** 2026-05-20
+- **Tags:** `agent-orchestration` `claude-code` `multi-agent` `automation`
+- **最后活动时间:** 2026-06-11
 
 ### [audit-harness](https://github.com/RickyTong1/audit-harness)
 
@@ -6574,14 +6590,6 @@ LLM-as-a-judge HTTP代理，用于保护生产环境中的AI智能体安全，�
 - **Tags:** `llm` `agent-security` `proxy` `ai-safety`
 - **最后活动时间:** 2026-05-22
 
-### [kani](https://github.com/zhudotexe/kani)
-
-高度可扩展的轻量级框架，专为工具调用型语言模型设计，发表于EMNLP 2023。
-
-- **Stars:** ⭐️ 602
-- **Tags:** `LLM` `Tool Use` `Function Calling`
-- **最后活动时间:** 2026-05-23
-
 ### [pipecat-flows](https://github.com/pipecat-ai/pipecat-flows)
 
 开源对话框架，用于构建结构化的 Pipecat 实时对话流程。
@@ -6594,9 +6602,17 @@ LLM-as-a-judge HTTP代理，用于保护生产环境中的AI智能体安全，�
 
 面向强化学习训练和基准测试的综合框架，专为通用工具使用的AI智能体开发而设计。
 
-- **Stars:** ⭐️ 588
+- **Stars:** ⭐️ 589
 - **Tags:** `mcp` `rl-training` `ai-agents` `benchmarking`
-- **最后活动时间:** 2026-05-18
+- **最后活动时间:** 2026-06-02
+
+### [AgentLab](https://github.com/ServiceNow/AgentLab)
+
+开源的Web智能体开发、测试与基准测试框架，专注于可扩展性和可复现性。
+
+- **Stars:** ⭐️ 588
+- **Tags:** `Framework` `Benchmark` `Web Agents`
+- **最后活动时间:** 2026-03-17
 
 ### [github-skill-forge](https://github.com/YuJunZhiXue/github-skill-forge)
 
@@ -6622,14 +6638,6 @@ LLM-as-a-judge HTTP代理，用于保护生产环境中的AI智能体安全，�
 - **Tags:** `ai-agent` `llm` `agent-framework`
 - **最后活动时间:** 2026-03-27
 
-### [AgentLab](https://github.com/ServiceNow/AgentLab)
-
-开源的Web智能体开发、测试与基准测试框架，专注于可扩展性和可复现性。
-
-- **Stars:** ⭐️ 585
-- **Tags:** `Framework` `Benchmark` `Web Agents`
-- **最后活动时间:** 2026-03-17
-
 ### [mcp-sequentialthinking-tools](https://github.com/spences10/mcp-sequentialthinking-tools)
 
 MCP顺序思维服务器，为AI代理提供分阶段工具选择推荐，优化复杂任务的执行流程。
@@ -6638,13 +6646,45 @@ MCP顺序思维服务器，为AI代理提供分阶段工具选择推荐，优化
 - **Tags:** `MCP` `Sequential Thinking` `AI Agents` `Tool Selection`
 - **最后活动时间:** 2026-05-28
 
-### [agentdojo](https://github.com/ethz-spylab/agentdojo)
+### [Wegent](https://github.com/wecode-ai/Wegent)
 
-AgentDojo 是一个用于评估 LLM 智能体攻击与防御能力的动态环境基准测试平台，专注于提示注入等安全问题的研究。
+一个开源的AI原生操作系统，用于定义、组织和运行智能体团队，支持多种大语言模型。
 
-- **Stars:** ⭐️ 583
-- **Tags:** `llm-agents` `benchmark` `security` `prompt-injection` `evaluation`
-- **最后活动时间:** 2026-03-30
+- **Stars:** ⭐️ 581
+- **Tags:** `agent` `ai` `llm` `agent-framework` `chatbot`
+- **最后活动时间:** 2026-06-12
+
+### [context-infrastructure](https://github.com/grapeot/context-infrastructure)
+
+一个为AI编程智能体设计的上下文与记忆系统，提供持久化记忆、个人规则、技能管理和定时观察功能。帮助AI编码助手保持上下文连贯性并记住用户偏好与工作习惯。
+
+- **Stars:** ⭐️ 579
+- **Tags:** `ai-agents` `memory-system` `context-management` `coding-assistant`
+- **最后活动时间:** 2026-06-12
+
+### [VectorizedMultiAgentSimulator](https://github.com/proroklab/VectorizedMultiAgentSimulator)
+
+基于PyTorch的向量化可微分模拟器，专为多智能体强化学习基准测试设计。
+
+- **Stars:** ⭐️ 577
+- **Tags:** `MARL` `Simulation` `Robotics`
+- **最后活动时间:** 2026-05-19
+
+### [MateClaw](https://github.com/matevip/mateclaw)
+
+基于 Spring AI Alibaba 构建的多智能体编排框架，支持 MCP 协议、技能与记忆系统，以及钉钉、飞书、Telegram 等多渠道接入。
+
+- **Stars:** ⭐️ 577
+- **Tags:** `multi-agent` `mcp-protocol` `spring-ai` `ai-agent` `agent-framework`
+- **最后活动时间:** 2026-06-12
+
+### [swarmclaw](https://github.com/swarmclawai/swarmclaw)
+
+开源自托管的AI智能体运行时和多智能体框架，支持自主智能体集群。内置智能体记忆、MCP工具、调度委托功能，兼容23+LLM提供商。
+
+- **Stars:** ⭐️ 576
+- **Tags:** `agent-framework` `multi-agent` `autonomous-agents` `mcp` `llm` `self-hosted`
+- **最后活动时间:** 2026-06-11
 
 ### [claude-agent-server](https://github.com/dzhng/claude-agent-server)
 
@@ -6662,37 +6702,13 @@ AgentDojo 是一个用于评估 LLM 智能体攻击与防御能力的动态环�
 - **Tags:** `rails` `ai-agents` `mcp` `developer-tools`
 - **最后活动时间:** 2026-05-25
 
-### [Citadel](https://github.com/SethGammon/Citadel)
-
-Claude Code智能体编排框架，支持四层路由、会话持久化、并行智能体隔离、生命周期钩子等企业级特性。
-
-- **Stars:** ⭐️ 572
-- **Tags:** `agent-orchestration` `claude-code` `multi-agent` `automation`
-- **最后活动时间:** 2026-05-07
-
-### [VectorizedMultiAgentSimulator](https://github.com/proroklab/VectorizedMultiAgentSimulator)
-
-基于PyTorch的向量化可微分模拟器，专为多智能体强化学习基准测试设计。
-
-- **Stars:** ⭐️ 571
-- **Tags:** `MARL` `Simulation` `Robotics`
-- **最后活动时间:** 2026-05-19
-
 ### [agent-sdk-go](https://github.com/Ingenimax/agent-sdk-go)
 
 强大的Go语言框架，用于构建生产级AI智能体应用。
 
 - **Stars:** ⭐️ 569
 - **Tags:** `golang` `ai-agent` `framework` `agentic-ai`
-- **最后活动时间:** 2026-05-02
-
-### [Wegent](https://github.com/wecode-ai/Wegent)
-
-一个开源的AI原生操作系统，用于定义、组织和运行智能体团队，支持多种大语言模型。
-
-- **Stars:** ⭐️ 569
-- **Tags:** `agent` `ai` `llm` `agent-framework` `chatbot`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-06-12
 
 ### [echokit_server](https://github.com/second-state/echokit_server)
 
@@ -6790,6 +6806,14 @@ Home Assistant MCP服务器代理，支持通过Cursor、VS Code、Claude Code�
 - **Tags:** `ai-security` `mcp` `penetration-testing` `agents` `cybersecurity`
 - **最后活动时间:** 2026-05-27
 
+### [AgentPilot](https://github.com/jbexta/AgentPilot)
+
+多功能AI工作流自动化平台，支持从单一LLM到复杂AI驱动工作流的创建、组织和执行。
+
+- **Stars:** ⭐️ 555
+- **Tags:** `AI Agent` `Workflow Automation` `Desktop Assistant`
+- **最后活动时间:** 2026-04-14
+
 ### [memoir](https://github.com/zhangfengcdt/memoir)
 
 为AI智能体提供类似Git的层级记忆版本控制系统，支持记忆分支、合并与回溯。
@@ -6798,14 +6822,6 @@ Home Assistant MCP服务器代理，支持通过Cursor、VS Code、Claude Code�
 - **Tags:** `agent-memory` `version-control` `ai-agents`
 - **最后活动时间:** 2026-05-26
 
-### [AgentPilot](https://github.com/jbexta/AgentPilot)
-
-多功能AI工作流自动化平台，支持从单一LLM到复杂AI驱动工作流的创建、组织和执行。
-
-- **Stars:** ⭐️ 553
-- **Tags:** `AI Agent` `Workflow Automation` `Desktop Assistant`
-- **最后活动时间:** 2026-04-14
-
 ### [figma-use](https://github.com/dannote/figma-use)
 
 为AI代理提供Figma命令行控制能力的工具，支持100多种命令，可创建形状、文本、组件并导出图像。
@@ -6813,6 +6829,14 @@ Home Assistant MCP服务器代理，支持通过Cursor、VS Code、Claude Code�
 - **Stars:** ⭐️ 553
 - **Tags:** `ai-agents` `figma` `cli` `design-automation`
 - **最后活动时间:** 2026-04-25
+
+### [second-brain](https://github.com/henrydaum/second-brain)
+
+智能体操作系统框架，结合本地文件智能、工作流自动化和 LLM 完成多模态任务。
+
+- **Stars:** ⭐️ 553
+- **Tags:** `ai-agent` `agentic-framework` `llm` `workflow-automation` `rag`
+- **最后活动时间:** 2026-06-11
 
 ### [google-docs-mcp](https://github.com/a-bonus/google-docs-mcp)
 
@@ -6829,6 +6853,14 @@ Home Assistant MCP服务器代理，支持通过Cursor、VS Code、Claude Code�
 - **Stars:** ⭐️ 551
 - **Tags:** `agent` `ai` `typescript`
 - **最后活动时间:** 2026-05-28
+
+### [vestige](https://github.com/samvallad33/vestige)
+
+为AI代理提供认知记忆能力的MCP服务器，集成FSRS-6间隔重复算法和29个大脑模块，支持Claude、Cursor等主流AI工具。
+
+- **Stars:** ⭐️ 550
+- **Tags:** `ai-memory` `mcp-server` `cognitive-science` `rust` `embeddings`
+- **最后活动时间:** 2026-06-11
 
 ### [minions](https://github.com/Agent-3-7/minions)
 
@@ -6902,13 +6934,13 @@ AI智能体技能测试运行器，支持agentskills.io风格的技能评估，�
 - **Tags:** `agent-evals` `agent-skills` `llm-evaluation` `typescript`
 - **最后活动时间:** 2026-05-20
 
-### [second-brain](https://github.com/henrydaum/second-brain)
+### [Open-Workflow-Library](https://github.com/oxbshw/Open-Workflow-Library)
 
-智能体操作系统框架，结合本地文件智能、工作流自动化和 LLM 完成多模态任务。
+开源工作流智能平台，支持自动化工作流的发现、验证、修复与生成，集成 n8n 与 LLM。
 
-- **Stars:** ⭐️ 542
-- **Tags:** `ai-agent` `agentic-framework` `llm` `workflow-automation` `rag`
-- **最后活动时间:** 2026-05-29
+- **Stars:** ⭐️ 541
+- **Tags:** `ai-agents` `workflow-automation` `llm` `n8n`
+- **最后活动时间:** 2026-05-24
 
 ### [library-skills](https://github.com/tiangolo/library-skills)
 
@@ -6917,14 +6949,6 @@ AI智能体技能测试运行器，支持agentskills.io风格的技能评估，�
 - **Stars:** ⭐️ 541
 - **Tags:** `agent-skills` `library` `automation`
 - **最后活动时间:** 2026-05-24
-
-### [vestige](https://github.com/samvallad33/vestige)
-
-为AI代理提供认知记忆能力的MCP服务器，集成FSRS-6间隔重复算法和29个大脑模块，支持Claude、Cursor等主流AI工具。
-
-- **Stars:** ⭐️ 540
-- **Tags:** `ai-memory` `mcp-server` `cognitive-science` `rust` `embeddings`
-- **最后活动时间:** 2026-05-28
 
 ### [fastagency](https://github.com/ag2ai/fastagency)
 
@@ -6950,29 +6974,29 @@ AI智能体技能测试运行器，支持agentskills.io风格的技能评估，�
 - **Tags:** `ai-agents` `sdk` `mcp`
 - **最后活动时间:** 2026-04-24
 
-### [Open-Workflow-Library](https://github.com/oxbshw/Open-Workflow-Library)
+### [ScienceClaw](https://github.com/AgentTeam-TaichuAI/ScienceClaw)
 
-开源工作流智能平台，支持自动化工作流的发现、验证、修复与生成，集成 n8n 与 LLM。
+基于 LangChain DeepAgents 构建的个人科研助手，支持生物信息学、药物发现等科研场景，提供沙箱环境和多智能体协作能力。
 
-- **Stars:** ⭐️ 538
-- **Tags:** `ai-agents` `workflow-automation` `llm` `n8n`
-- **最后活动时间:** 2026-05-24
-
-### [swarmclaw](https://github.com/swarmclawai/swarmclaw)
-
-开源自托管的AI智能体运行时和多智能体框架，支持自主智能体集群。内置智能体记忆、MCP工具、调度委托功能，兼容23+LLM提供商。
-
-- **Stars:** ⭐️ 532
-- **Tags:** `agent-framework` `multi-agent` `autonomous-agents` `mcp` `llm` `self-hosted`
-- **最后活动时间:** 2026-05-26
+- **Stars:** ⭐️ 536
+- **Tags:** `ai-agent` `langchain` `langgraph` `llm` `multi-agent` `mcp` `research-assistant`
+- **最后活动时间:** 2026-05-09
 
 ### [giselle](https://github.com/giselles-ai/giselle)
 
 开源AI应用构建平台，支持无代码方式创建智能体工作流，集成多种主流AI模型。
 
-- **Stars:** ⭐️ 531
+- **Stars:** ⭐️ 534
 - **Tags:** `Agent Builder` `No-Code` `Workflow`
-- **最后活动时间:** 2026-05-28
+- **最后活动时间:** 2026-06-05
+
+### [pgmcp](https://github.com/subnetmarco/pgmcp)
+
+MCP服务器，支持使用自然语言查询任意PostgreSQL数据库。
+
+- **Stars:** ⭐️ 533
+- **Tags:** `mcp-server` `postgres` `natural-language` `ai-agent`
+- **最后活动时间:** 2026-05-26
 
 ### [Gentleman-Skills](https://github.com/Gentleman-Programming/Gentleman-Skills)
 
@@ -6990,14 +7014,6 @@ AI智能体技能测试运行器，支持agentskills.io风格的技能评估，�
 - **Tags:** `sandbox` `ai-agents` `security` `multi-platform`
 - **最后活动时间:** 2026-05-28
 
-### [pgmcp](https://github.com/subnetmarco/pgmcp)
-
-MCP服务器，支持使用自然语言查询任意PostgreSQL数据库。
-
-- **Stars:** ⭐️ 529
-- **Tags:** `mcp-server` `postgres` `natural-language` `ai-agent`
-- **最后活动时间:** 2026-05-26
-
 ### [helixent](https://github.com/MagicCube/helixent)
 
 基于Bun运行时的轻量级AI Agent循环构建库，专注于ReAct风格智能体工作流开发。
@@ -7013,6 +7029,14 @@ MCP服务器，支持使用自然语言查询任意PostgreSQL数据库。
 - **Stars:** ⭐️ 529
 - **Tags:** `generative-agents` `llm-agents` `multi-agent-simulation` `human-in-the-loop`
 - **最后活动时间:** 2026-05-28
+
+### [rai](https://github.com/RobotecAI/rai)
+
+面向物理AI机器人的通用智能体框架，基于ROS 2实现复杂动作执行、语音交互和多模态协作能力。
+
+- **Stars:** ⭐️ 528
+- **Tags:** `ai-agents` `embodied-ai` `llm` `multimodal` `robotics` `ros2`
+- **最后活动时间:** 2026-06-04
 
 ### [LLM-Agents-Ecosystem-Handbook](https://github.com/oxbshw/LLM-Agents-Ecosystem-Handbook)
 
@@ -7030,13 +7054,21 @@ MCP服务器，支持使用自然语言查询任意PostgreSQL数据库。
 - **Tags:** `Airflow` `LLM` `AI Agents` `SDK`
 - **最后活动时间:** 2026-05-27
 
-### [MateClaw](https://github.com/matevip/mateclaw)
+### [MARTI](https://github.com/TsinghuaC3I/MARTI)
 
-基于 Spring AI Alibaba 构建的多智能体编排框架，支持 MCP 协议、技能与记忆系统，以及钉钉、飞书、Telegram 等多渠道接入。
+基于大语言模型的多智能体强化训练与推理框架，支持DeepSeek-R1、Llama、Qwen等多种模型，集成OpenRLHF和veRL进行强化学习训练。
 
 - **Stars:** ⭐️ 524
-- **Tags:** `multi-agent` `mcp-protocol` `spring-ai` `ai-agent` `agent-framework`
-- **最后活动时间:** 2026-05-29
+- **Tags:** `multi-agent-systems` `large-language-models` `reinforcement-learning` `agent-framework`
+- **最后活动时间:** 2026-04-14
+
+### [neuro-san-studio](https://github.com/cognizant-ai-lab/neuro-san-studio)
+
+一个用于构建和管理多智能体系统的可视化开发平台，支持基于LangChain的智能体编排与协作。
+
+- **Stars:** ⭐️ 523
+- **Tags:** `multi-agent` `agentic-framework` `ai-agents` `langchain`
+- **最后活动时间:** 2026-06-12
 
 ### [agentkits-marketing](https://github.com/aitytech/agentkits-marketing)
 
@@ -7070,14 +7102,6 @@ AI驱动的旅行搜索工具，提供MCP服务器支持Claude等AI助手查询�
 - **Tags:** `mcp` `claude-code` `travel` `ai-assistant`
 - **最后活动时间:** 2026-05-02
 
-### [neuro-san-studio](https://github.com/cognizant-ai-lab/neuro-san-studio)
-
-一个用于构建和管理多智能体系统的可视化开发平台，支持基于LangChain的智能体编排与协作。
-
-- **Stars:** ⭐️ 519
-- **Tags:** `multi-agent` `agentic-framework` `ai-agents` `langchain`
-- **最后活动时间:** 2026-05-29
-
 ### [a2a-x402](https://github.com/google-agentic-commerce/a2a-x402)
 
 为Agent-to-Agent协议引入加密货币支付能力，让AI智能体能够通过链上支付实现服务变现，复兴HTTP 402的支付理念。
@@ -7085,14 +7109,6 @@ AI驱动的旅行搜索工具，提供MCP服务器支持Claude等AI助手查询�
 - **Stars:** ⭐️ 518
 - **Tags:** `a2a` `agent-payments` `cryptocurrency` `agent-monetization`
 - **最后活动时间:** 2026-05-24
-
-### [rai](https://github.com/RobotecAI/rai)
-
-面向物理AI机器人的通用智能体框架，基于ROS 2实现复杂动作执行、语音交互和多模态协作能力。
-
-- **Stars:** ⭐️ 517
-- **Tags:** `ai-agents` `embodied-ai` `llm` `multimodal` `robotics` `ros2`
-- **最后活动时间:** 2026-04-27
 
 ### [mcp-redis](https://github.com/redis/mcp-redis)
 
@@ -7102,13 +7118,13 @@ Redis官方MCP服务器，为AI智能体应用提供自然语言接口，高效�
 - **Tags:** `mcp` `mcp-server` `redis` `llm` `genai` `database`
 - **最后活动时间:** 2026-05-28
 
-### [MARTI](https://github.com/TsinghuaC3I/MARTI)
+### [kiss_ai](https://github.com/ksenxx/kiss_ai)
 
-基于大语言模型的多智能体强化训练与推理框架，支持DeepSeek-R1、Llama、Qwen等多种模型，集成OpenRLHF和veRL进行强化学习训练。
+极简主义AI Agent框架，内置通用助手和软件工程助手KISS Sorcar。
 
-- **Stars:** ⭐️ 516
-- **Tags:** `multi-agent-systems` `large-language-models` `reinforcement-learning` `agent-framework`
-- **最后活动时间:** 2026-04-14
+- **Stars:** ⭐️ 517
+- **Tags:** `agent-framework` `software-engineering` `assistant`
+- **最后活动时间:** 2026-06-12
 
 ### [kibitz](https://github.com/kibitzsh/kibitz)
 
@@ -7117,6 +7133,14 @@ Redis官方MCP服务器，为AI智能体应用提供自然语言接口，高效�
 - **Stars:** ⭐️ 515
 - **Tags:** `agent-monitoring` `claude-code` `codex` `real-time`
 - **最后活动时间:** 2026-04-03
+
+### [Auto-Slides](https://github.com/Westlake-AGI-Lab/Auto-Slides)
+
+ICME 2026 论文官方实现，一个交互式多智能体系统，用于自动创建和定制学术研究演示文稿。
+
+- **Stars:** ⭐️ 514
+- **Tags:** `multi-agent` `presentation` `research` `automation`
+- **最后活动时间:** 2026-03-17
 
 ### [AFlow](https://github.com/FoundationAgents/AFlow)
 
@@ -7166,36 +7190,12 @@ ACL2026论文官方实现，多智能体框架用于辅助学术论文作者回�
 - **Tags:** `Agent` `LLM` `Framework`
 - **最后活动时间:** 2026-04-07
 
-### [ScienceClaw](https://github.com/AgentTeam-TaichuAI/ScienceClaw)
-
-基于 LangChain DeepAgents 构建的个人科研助手，支持生物信息学、药物发现等科研场景，提供沙箱环境和多智能体协作能力。
-
-- **Stars:** ⭐️ 511
-- **Tags:** `ai-agent` `langchain` `langgraph` `llm` `multi-agent` `mcp` `research-assistant`
-- **最后活动时间:** 2026-05-09
-
 ### [openclaw-a2a-gateway](https://github.com/win4r/openclaw-a2a-gateway)
 
 实现A2A协议的OpenClaw插件，提供智能体间双向通信网关能力。
 
 - **Stars:** ⭐️ 508
 - **Tags:** `agent-communication` `a2a-protocol` `agent-gateway`
-- **最后活动时间:** 2026-05-26
-
-### [kiss_ai](https://github.com/ksenxx/kiss_ai)
-
-极简主义AI Agent框架，内置通用助手和软件工程助手KISS Sorcar。
-
-- **Stars:** ⭐️ 505
-- **Tags:** `agent-framework` `software-engineering` `assistant`
-- **最后活动时间:** 2026-05-27
-
-### [context-infrastructure](https://github.com/grapeot/context-infrastructure)
-
-一个为AI编程智能体设计的上下文与记忆系统，提供持久化记忆、个人规则、技能管理和定时观察功能。帮助AI编码助手保持上下文连贯性并记住用户偏好与工作习惯。
-
-- **Stars:** ⭐️ 504
-- **Tags:** `ai-agents` `memory-system` `context-management` `coding-assistant`
 - **最后活动时间:** 2026-05-26
 
 ### [SOMAS](https://github.com/erwinmsmith/SOMAS)
@@ -7205,14 +7205,6 @@ ACL2026论文官方实现，多智能体框架用于辅助学术论文作者回�
 - **Stars:** ⭐️ 503
 - **Tags:** `multi-agent` `reinforcement-learning` `human-ai-interaction`
 - **最后活动时间:** 2026-05-19
-
-### [Auto-Slides](https://github.com/Westlake-AGI-Lab/Auto-Slides)
-
-ICME 2026 论文官方实现，一个交互式多智能体系统，用于自动创建和定制学术研究演示文稿。
-
-- **Stars:** ⭐️ 503
-- **Tags:** `multi-agent` `presentation` `research` `automation`
-- **最后活动时间:** 2026-03-17
 
 ### [symphony-ts](https://github.com/OasAIStudio/symphony-ts)
 
@@ -7240,43 +7232,43 @@ AI代理与人类的协作连接平台，提供共享记忆和上下文存储能
 
 ## Autonomous Agents
 
-### [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
-
-开源自主AI智能体，让LLM完全自主运行以完成复杂任务。
-
-- **Stars:** ⭐️ 184.6k
-- **Tags:** `Agent` `Automation` `Autonomous`
-- **最后活动时间:** 2026-05-29
-
 ### [hermes-agent](https://github.com/NousResearch/hermes-agent)
 
 支持多主流大语言模型的智能AI代理，提供个性化交互体验，能够伴随用户持续成长进化。
 
-- **Stars:** ⭐️ 171.9k
+- **Stars:** ⭐️ 191.3k
 - **Tags:** `AI Agent` `LLM` `Claude` `ChatGPT`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-06-12
+
+### [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
+
+开源自主AI智能体，让LLM完全自主运行以完成复杂任务。
+
+- **Stars:** ⭐️ 184.9k
+- **Tags:** `Agent` `Automation` `Autonomous`
+- **最后活动时间:** 2026-06-12
 
 ### [opencode](https://github.com/anomalyco/opencode)
 
 开源的AI编程智能体，帮助开发者自动化代码编写和开发任务。
 
-- **Stars:** ⭐️ 166.7k
+- **Stars:** ⭐️ 173.4k
 - **Tags:** `coding-agent` `ai-assistant` `developer-tools`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-06-12
 
 ### [codex](https://github.com/openai/codex)
 
 轻量级AI编程代理，在终端中运行，可自动完成代码编写、调试和重构任务。
 
-- **Stars:** ⭐️ 86.7k
+- **Stars:** ⭐️ 90.6k
 - **Tags:** `Coding Agent` `Terminal` `Automation`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-06-12
 
 ### [autoresearch](https://github.com/karpathy/autoresearch)
 
 在单GPU上自动运行研究的AI智能体，支持nanochat训练。
 
-- **Stars:** ⭐️ 84.0k
+- **Stars:** ⭐️ 86.3k
 - **Tags:** `ai-research` `autonomous-agents` `gpu-training`
 - **最后活动时间:** 2026-03-26
 
@@ -7284,9 +7276,9 @@ AI代理与人类的协作连接平台，提供共享记忆和上下文存储能
 
 AI驱动的自主开发代理平台，让AI能够像人类开发者一样完成代码编写、调试和部署任务。
 
-- **Stars:** ⭐️ 75.2k
+- **Stars:** ⭐️ 76.5k
 - **Tags:** `AI Agent` `Code Generation` `LLM`
-- **最后活动时间:** 2026-05-28
+- **最后活动时间:** 2026-06-12
 
 ### [open-interpreter](https://github.com/openinterpreter/open-interpreter)
 
@@ -7296,6 +7288,14 @@ AI驱动的自主开发代理平台，让AI能够像人类开发者一样完成�
 - **Tags:** `代码执行` `LLM` `自动化`
 - **最后活动时间:** 2026-05-17
 
+### [cline](https://github.com/cline/cline)
+
+IDE中的自主编程智能体，能够创建/编辑文件、执行命令、使用浏览器，每一步都需用户授权确认。
+
+- **Stars:** ⭐️ 63.1k
+- **Tags:** `Coding Agent` `IDE` `Autonomous`
+- **最后活动时间:** 2026-06-12
+
 ### [MiroFish](https://github.com/666ghj/MiroFish)
 
 简洁通用的群体智能引擎，结合LLM和多智能体模拟实现金融预测和舆情分析。
@@ -7304,53 +7304,45 @@ AI驱动的自主开发代理平台，让AI能够像人类开发者一样完成�
 - **Tags:** `swarm-intelligence` `multi-agent-simulation` `llms` `knowledge-graph`
 - **最后活动时间:** 2026-05-24
 
-### [cline](https://github.com/cline/cline)
+### [career-ops](https://github.com/santifer/career-ops)
 
-IDE中的自主编程智能体，能够创建/编辑文件、执行命令、使用浏览器，每一步都需用户授权确认。
+基于Claude Code构建的AI驱动求职系统，支持14种技能模式、Go仪表盘、PDF生成和批量处理功能。
 
-- **Stars:** ⭐️ 62.5k
-- **Tags:** `Coding Agent` `IDE` `Autonomous`
-- **最后活动时间:** 2026-05-29
+- **Stars:** ⭐️ 52.9k
+- **Tags:** `ai-agent` `claude` `job-search` `automation` `cli`
+- **最后活动时间:** 2026-06-11
 
 ### [huginn](https://github.com/huginn/huginn)
 
 开源自动化代理平台，可创建监控代理自动执行任务，支持RSS监控、网页抓取和事件触发，适合构建AI工作流自动化系统。
 
-- **Stars:** ⭐️ 49.3k
+- **Stars:** ⭐️ 49.5k
 - **Tags:** `automation` `agent` `monitoring` `scraper` `workflow`
-- **最后活动时间:** 2026-05-29
-
-### [career-ops](https://github.com/santifer/career-ops)
-
-基于Claude Code构建的AI驱动求职系统，支持14种技能模式、Go仪表盘、PDF生成和批量处理功能。
-
-- **Stars:** ⭐️ 47.7k
-- **Tags:** `ai-agent` `claude` `job-search` `automation` `cli`
-- **最后活动时间:** 2026-05-25
-
-### [cherry-studio](https://github.com/CherryHQ/cherry-studio)
-
-功能强大的AI生产力工具，集成智能对话、自主代理和300+助手。提供对前沿大语言模型的统一访问。
-
-- **Stars:** ⭐️ 46.5k
-- **Tags:** `AI生产力` `智能对话` `AI代理`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-06-12
 
 ### [goose](https://github.com/aaif-goose/goose)
 
 开源可扩展的AI智能体，超越代码建议，支持安装、执行、编辑和测试，可对接任意大语言模型。
 
-- **Stars:** ⭐️ 46.0k
+- **Stars:** ⭐️ 49.0k
 - **Tags:** `ai` `ai-agents` `mcp` `llm` `automation`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-06-12
+
+### [cherry-studio](https://github.com/CherryHQ/cherry-studio)
+
+功能强大的AI生产力工具，集成智能对话、自主代理和300+助手。提供对前沿大语言模型的统一访问。
+
+- **Stars:** ⭐️ 47.2k
+- **Tags:** `AI生产力` `智能对话` `AI代理`
+- **最后活动时间:** 2026-06-12
 
 ### [CowAgent](https://github.com/zhayujie/CowAgent)
 
 基于大模型的超级AI助理，支持主动思考、任务规划、长期记忆和知识库成长。支持微信、飞书、钉钉等多平台接入，可选择多种主流LLM模型。
 
-- **Stars:** ⭐️ 44.9k
+- **Stars:** ⭐️ 45.2k
 - **Tags:** `ai-agent` `chatgpt-on-wechat` `llm` `multi-agent` `wechat-bot`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-06-12
 
 ### [shannon](https://github.com/KeygraphHQ/shannon)
 
@@ -7364,7 +7356,7 @@ IDE中的自主编程智能体，能够创建/编辑文件、执行命令、使�
 
 多Agent舆情分析助手，从零实现不依赖框架，支持舆情监测、情感分析与趋势预测。
 
-- **Stars:** ⭐️ 41.1k
+- **Stars:** ⭐️ 41.4k
 - **Tags:** `多智能体` `舆情分析` `LLM`
 - **最后活动时间:** 2026-05-24
 
@@ -7376,13 +7368,21 @@ IDE中的自主编程智能体，能够创建/编辑文件、执行命令、使�
 - **Tags:** `AI Companion` `VTuber` `Voice Chat`
 - **最后活动时间:** 2026-05-29
 
+### [last30days-skill](https://github.com/mvanhorn/last30days-skill)
+
+AI研究技能Agent，可跨Reddit、X、YouTube等多平台搜索并生成综合摘要。
+
+- **Stars:** ⭐️ 40.0k
+- **Tags:** `AI Agent` `Research` `Social Media`
+- **最后活动时间:** 2026-06-10
+
 ### [CodeWhale](https://github.com/Hmbown/CodeWhale)
 
 基于 DeepSeek 模型的终端编码代理工具，支持在命令行中运行 AI 编程助手。
 
-- **Stars:** ⭐️ 35.7k
+- **Stars:** ⭐️ 38.1k
 - **Tags:** `cli` `deepseek` `llm` `coding-agent` `terminal`
-- **最后活动时间:** 2026-05-28
+- **最后活动时间:** 2026-06-12
 
 ### [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot)
 
@@ -7396,9 +7396,9 @@ IDE中的自主编程智能体，能够创建/编辑文件、执行命令、使�
 
 基于Anthropic Agents SDK的轻量级AI智能体，支持连接WhatsApp、Telegram、Slack等多平台，具备记忆和定时任务功能。
 
-- **Stars:** ⭐️ 29.5k
+- **Stars:** ⭐️ 29.8k
 - **Tags:** `ai-agents` `ai-assistant` `claude` `messaging` `automation`
-- **最后活动时间:** 2026-05-28
+- **最后活动时间:** 2026-06-11
 
 ### [openhuman](https://github.com/tinyhumansai/openhuman)
 
@@ -7420,17 +7420,9 @@ IDE中的自主编程智能体，能够创建/编辑文件、执行命令、使�
 
 自主AI研究代理，支持多种LLM提供商进行深度研究和信息收集。
 
-- **Stars:** ⭐️ 27.4k
+- **Stars:** ⭐️ 27.7k
 - **Tags:** `Agent` `Research` `LLM` `MCP`
 - **最后活动时间:** 2026-05-28
-
-### [last30days-skill](https://github.com/mvanhorn/last30days-skill)
-
-AI研究技能Agent，可跨Reddit、X、YouTube等多平台搜索并生成综合摘要。
-
-- **Stars:** ⭐️ 26.8k
-- **Tags:** `AI Agent` `Research` `Social Media`
-- **最后活动时间:** 2026-05-22
 
 ### [agenticSeek](https://github.com/Fosowl/agenticSeek)
 
@@ -7444,9 +7436,9 @@ AI研究技能Agent，可跨Reddit、X、YouTube等多平台搜索并生成综�
 
 开源AI安全智能体，自动发现并修复应用程序漏洞，结合LLM与渗透测试技术提升网络安全防护能力。
 
-- **Stars:** ⭐️ 25.7k
+- **Stars:** ⭐️ 25.9k
 - **Tags:** `安全` `AI Agent` `渗透测试`
-- **最后活动时间:** 2026-05-28
+- **最后活动时间:** 2026-06-09
 
 ### [Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)
 
@@ -7455,6 +7447,14 @@ AI研究技能Agent，可跨Reddit、X、YouTube等多平台搜索并生成综�
 - **Stars:** ⭐️ 25.4k
 - **Tags:** `phone-agent` `ai-agent` `mobile-automation`
 - **最后活动时间:** 2026-03-06
+
+### [qwen-code](https://github.com/QwenLM/qwen-code)
+
+开源AI终端智能体，在命令行中运行的代码助手，支持多种编程任务。
+
+- **Stars:** ⭐️ 25.1k
+- **Tags:** `ai-agent` `terminal` `code-assistant` `qwen`
+- **最后活动时间:** 2026-06-12
 
 ### [OmniParser](https://github.com/microsoft/OmniParser)
 
@@ -7472,19 +7472,19 @@ AI研究技能Agent，可跨Reddit、X、YouTube等多平台搜索并生成综�
 - **Tags:** `autonomous-agents` `workflow-automation` `coding-agents`
 - **最后活动时间:** 2026-05-20
 
-### [qwen-code](https://github.com/QwenLM/qwen-code)
+### [DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)
 
-开源AI终端智能体，在命令行中运行的代码助手，支持多种编程任务。
+DeepSeek原生AI编程代理，专为终端设计，支持前缀缓存稳定运行和工具调用。
 
-- **Stars:** ⭐️ 24.7k
-- **Tags:** `ai-agent` `terminal` `code-assistant` `qwen`
-- **最后活动时间:** 2026-05-29
+- **Stars:** ⭐️ 21.4k
+- **Tags:** `ai-agent` `coding-agent` `deepseek` `llm` `terminal` `cli`
+- **最后活动时间:** 2026-06-12
 
 ### [ralph](https://github.com/snarktank/ralph)
 
 自主AI智能体循环，持续运行直至完成所有PRD需求项，实现自动化任务执行。
 
-- **Stars:** ⭐️ 19.7k
+- **Stars:** ⭐️ 20.2k
 - **Tags:** `autonomous-agents` `prd-automation` `task-execution`
 - **最后活动时间:** 2026-02-02
 
@@ -7500,9 +7500,17 @@ OpenClaw/Hermes智能体的定制化大脑模块，提供智能决策能力。
 
 Unity官方机器学习智能体工具包，支持在游戏和仿真环境中训练智能代理，广泛应用于游戏AI和科研。
 
-- **Stars:** ⭐️ 19.4k
+- **Stars:** ⭐️ 19.5k
 - **Tags:** `Reinforcement Learning` `Deep Learning` `Unity` `Game AI`
-- **最后活动时间:** 2026-05-20
+- **最后活动时间:** 2026-06-11
+
+### [DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)
+
+阿里通义开源的深度研究智能体，专注于信息检索与深度分析，支持复杂研究任务的自动化执行。
+
+- **Stars:** ⭐️ 19.4k
+- **Tags:** `研究Agent` `阿里通义` `信息检索`
+- **最后活动时间:** 2026-02-27
 
 ### [SWE-agent](https://github.com/SWE-agent/SWE-agent)
 
@@ -7516,79 +7524,71 @@ Unity官方机器学习智能体工具包，支持在游戏和仿真环境中训
 
 简洁的深度研究Agent实现，结合搜索引擎和LLM进行迭代式主题深挖。
 
-- **Stars:** ⭐️ 19.0k
+- **Stars:** ⭐️ 19.1k
 - **Tags:** `Agent` `Research` `GPT` `O3-mini`
 - **最后活动时间:** 2026-04-11
-
-### [DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)
-
-阿里通义开源的深度研究智能体，专注于信息检索与深度分析，支持复杂研究任务的自动化执行。
-
-- **Stars:** ⭐️ 19.0k
-- **Tags:** `研究Agent` `阿里通义` `信息检索`
-- **最后活动时间:** 2026-02-27
 
 ### [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
 
 开源多智能体交互课堂平台，一键获得沉浸式多智能体学习体验，支持智能教学助手协同工作。
 
-- **Stars:** ⭐️ 18.1k
+- **Stars:** ⭐️ 18.5k
 - **Tags:** `multi-agent` `education` `interactive-learning` `ai-classroom`
-- **最后活动时间:** 2026-05-28
-
-### [agent-zero](https://github.com/agent0ai/agent-zero)
-
-自主AI智能体框架，支持Linux环境运行，具备自主决策和任务执行能力。
-
-- **Stars:** ⭐️ 17.8k
-- **Tags:** `Agent` `AI` `Autonomous`
-- **最后活动时间:** 2026-05-26
+- **最后活动时间:** 2026-06-12
 
 ### [pua](https://github.com/tanweai/pua)
 
 一个创意十足的AI Agent技能项目，模拟PIP场景来激发AI代理的高能动性表现，适合研究Agent行为和提示工程。
 
-- **Stars:** ⭐️ 17.8k
+- **Stars:** ⭐️ 18.1k
 - **Tags:** `agent` `agency` `prompt-engineering` `skills`
-- **最后活动时间:** 2026-05-13
+- **最后活动时间:** 2026-06-05
 
-### [pentagi](https://github.com/vxcontrol/pentagi)
+### [agent-zero](https://github.com/agent0ai/agent-zero)
 
-完全自主的AI渗透测试智能体系统，支持多智能体协作，实现安全测试自动化。
+自主AI智能体框架，支持Linux环境运行，具备自主决策和任务执行能力。
 
-- **Stars:** ⭐️ 17.3k
-- **Tags:** `Security` `Penetration Testing` `Multi-Agent`
-- **最后活动时间:** 2026-05-28
+- **Stars:** ⭐️ 18.0k
+- **Tags:** `Agent` `AI` `Autonomous`
+- **最后活动时间:** 2026-06-12
 
 ### [cua](https://github.com/trycua/cua)
 
 开源的计算机使用智能体基础设施，提供沙箱、SDK和基准测试，用于训练和评估能够控制完整桌面环境的AI智能体。
 
-- **Stars:** ⭐️ 17.3k
+- **Stars:** ⭐️ 17.9k
 - **Tags:** `Computer-Use Agent` `Desktop Automation` `Sandbox` `AI Agent`
-- **最后活动时间:** 2026-05-28
+- **最后活动时间:** 2026-06-12
 
-### [edict](https://github.com/cft0808/edict)
+### [pentagi](https://github.com/vxcontrol/pentagi)
 
-多智能体编排系统，配备9个专业AI代理、实时仪表盘、模型配置和完整审计追踪功能。
+完全自主的AI渗透测试智能体系统，支持多智能体协作，实现安全测试自动化。
 
-- **Stars:** ⭐️ 15.9k
-- **Tags:** `Multi-Agent` `AI Orchestration` `Dashboard`
-- **最后活动时间:** 2026-05-28
+- **Stars:** ⭐️ 17.7k
+- **Tags:** `Security` `Penetration Testing` `Multi-Agent`
+- **最后活动时间:** 2026-06-11
 
 ### [hindsight](https://github.com/vectorize-io/hindsight)
 
 一个能够学习的智能体记忆系统，为AI Agent提供持久化和智能化的记忆管理能力。
 
-- **Stars:** ⭐️ 15.1k
+- **Stars:** ⭐️ 16.2k
 - **Tags:** `Agent Memory` `Agentic AI` `Memory`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-06-12
+
+### [edict](https://github.com/cft0808/edict)
+
+多智能体编排系统，配备9个专业AI代理、实时仪表盘、模型配置和完整审计追踪功能。
+
+- **Stars:** ⭐️ 16.0k
+- **Tags:** `Multi-Agent` `AI Orchestration` `Dashboard`
+- **最后活动时间:** 2026-06-04
 
 ### [Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)
 
 个人AI代理基础设施，旨在增强人类能力的智能代理系统。
 
-- **Stars:** ⭐️ 14.5k
+- **Stars:** ⭐️ 15.8k
 - **Tags:** `ai-infrastructure` `agents` `productivity` `human-augmentation`
 - **最后活动时间:** 2026-05-20
 
@@ -7612,25 +7612,25 @@ Unity官方机器学习智能体工具包，支持在游戏和仿真环境中训
 
 微软开源的AI驱动研发自动化工具，专注于数据和模型的高价值R&D流程自动化。
 
-- **Stars:** ⭐️ 13.3k
+- **Stars:** ⭐️ 13.4k
 - **Tags:** `Agent` `Automation` `LLM` `Data Science`
-- **最后活动时间:** 2026-05-13
-
-### [DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)
-
-DeepSeek原生AI编程代理，专为终端设计，支持前缀缓存稳定运行和工具调用。
-
-- **Stars:** ⭐️ 13.0k
-- **Tags:** `ai-agent` `coding-agent` `deepseek` `llm` `terminal` `cli`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-06-05
 
 ### [AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw)
 
 全自动自主研究智能体，从想法到论文一键生成，支持多智能体辩论、引用验证与自我进化。
 
-- **Stars:** ⭐️ 13.0k
+- **Stars:** ⭐️ 13.4k
 - **Tags:** `autonomous-research` `paper-generation` `llm-agents`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-06-03
+
+### [GenericAgent](https://github.com/lsdefine/GenericAgent)
+
+AI驱动的PC桌面自动化智能体，支持智能任务执行和桌面操作自动化。
+
+- **Stars:** ⭐️ 12.8k
+- **Tags:** `ai-agent` `desktop-automation` `autonomous-agent`
+- **最后活动时间:** 2026-06-12
 
 ### [ironclaw](https://github.com/nearai/ironclaw)
 
@@ -7638,21 +7638,21 @@ DeepSeek原生AI编程代理，专为终端设计，支持前缀缓存稳定运�
 
 - **Stars:** ⭐️ 12.4k
 - **Tags:** `agent-os` `privacy` `security` `rust` `wasm`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-06-12
 
-### [GenericAgent](https://github.com/lsdefine/GenericAgent)
+### [ARIS](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
 
-AI驱动的PC桌面自动化智能体，支持智能任务执行和桌面操作自动化。
+轻量级 Markdown 技能集，支持跨模型评审循环和实验自动化，实现自主 ML 研究。兼容 Claude Code、Codex 等多种 LLM 智能体。
 
-- **Stars:** ⭐️ 12.2k
-- **Tags:** `ai-agent` `desktop-automation` `autonomous-agent`
-- **最后活动时间:** 2026-05-28
+- **Stars:** ⭐️ 12.0k
+- **Tags:** `autonomous-agent` `ml-research` `mcp`
+- **最后活动时间:** 2026-06-11
 
 ### [Agent-S](https://github.com/simular-ai/Agent-S)
 
 开源智能体框架，让AI能够像人类一样操作电脑，支持GUI交互和自动化任务执行。
 
-- **Stars:** ⭐️ 11.7k
+- **Stars:** ⭐️ 11.8k
 - **Tags:** `ai-agents` `computer-use` `gui-agents` `automation`
 - **最后活动时间:** 2026-05-13
 
@@ -7660,23 +7660,15 @@ AI驱动的PC桌面自动化智能体，支持智能任务执行和桌面操作�
 
 基于LLM的智能体，专为通用软件工程任务设计，可自动化代码开发流程。
 
-- **Stars:** ⭐️ 11.6k
+- **Stars:** ⭐️ 11.7k
 - **Tags:** `Agent` `LLM` `Software Engineering`
 - **最后活动时间:** 2026-02-05
-
-### [ARIS](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
-
-轻量级 Markdown 技能集，支持跨模型评审循环和实验自动化，实现自主 ML 研究。兼容 Claude Code、Codex 等多种 LLM 智能体。
-
-- **Stars:** ⭐️ 10.9k
-- **Tags:** `autonomous-agent` `ml-research` `mcp`
-- **最后活动时间:** 2026-05-29
 
 ### [UI-TARS](https://github.com/bytedance/UI-TARS)
 
 开创性的GUI自动化交互原生智能体，能够自主理解和操作图形用户界面。
 
-- **Stars:** ⭐️ 10.8k
+- **Stars:** ⭐️ 10.9k
 - **Tags:** `gui-agent` `autonomous-agent` `desktop-automation`
 - **最后活动时间:** 2026-01-27
 
@@ -7712,6 +7704,14 @@ AI驱动的PC桌面自动化智能体，支持智能任务执行和桌面操作�
 - **Tags:** `coding-agent` `claude` `terminal` `rust`
 - **最后活动时间:** 2026-05-27
 
+### [hexstrike-ai](https://github.com/0x4m4/hexstrike-ai)
+
+MCP服务器，让AI代理（Claude、GPT、Copilot等）自主运行150+网络安全工具，实现自动化渗透测试和漏洞发现。
+
+- **Stars:** ⭐️ 9.5k
+- **Tags:** `MCP` `AI Agents` `Cybersecurity` `Penetration Testing`
+- **最后活动时间:** 2026-04-27
+
 ### [ralph-claude-code](https://github.com/frankbria/ralph-claude-code)
 
 Claude Code的自主AI开发循环工具，具备智能退出检测能力。
@@ -7726,15 +7726,15 @@ Claude Code的自主AI开发循环工具，具备智能退出检测能力。
 
 - **Stars:** ⭐️ 9.2k
 - **Tags:** `Local` `Research` `Agent` `Privacy`
-- **最后活动时间:** 2026-04-21
+- **最后活动时间:** 2026-06-09
 
-### [hexstrike-ai](https://github.com/0x4m4/hexstrike-ai)
+### [Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker)
 
-MCP服务器，让AI代理（Claude、GPT、Copilot等）自主运行150+网络安全工具，实现自动化渗透测试和漏洞发现。
+开源情报聚合平台，整合卫星追踪、航班监控、地震监测等数据源，支持接入AI Agent进行智能分析与关联发现。
 
-- **Stars:** ⭐️ 9.0k
-- **Tags:** `MCP` `AI Agents` `Cybersecurity` `Penetration Testing`
-- **最后活动时间:** 2026-04-27
+- **Stars:** ⭐️ 9.2k
+- **Tags:** `osint` `ai-agent` `surveillance` `satellite` `data-aggregation`
+- **最后活动时间:** 2026-06-11
 
 ### [baritone](https://github.com/cabaletta/baritone)
 
@@ -7744,13 +7744,13 @@ Minecraft游戏中的智能寻路AI代理，使用A*算法实现自主导航和�
 - **Tags:** `minecraft` `pathfinding` `autonomous-agent` `astar` `game-ai`
 - **最后活动时间:** 2026-05-18
 
-### [Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker)
+### [MobileAgent](https://github.com/X-PLUG/MobileAgent)
 
-开源情报聚合平台，整合卫星追踪、航班监控、地震监测等数据源，支持接入AI Agent进行智能分析与关联发现。
+基于多模态大语言模型的移动端GUI智能体，实现移动设备的自主操作与自动化控制。
 
-- **Stars:** ⭐️ 8.9k
-- **Tags:** `osint` `ai-agent` `surveillance` `satellite` `data-aggregation`
-- **最后活动时间:** 2026-05-28
+- **Stars:** ⭐️ 8.8k
+- **Tags:** `Agent` `Multimodal` `Mobile` `Automation`
+- **最后活动时间:** 2026-05-14
 
 ### [kimi-cli](https://github.com/MoonshotAI/kimi-cli)
 
@@ -7759,14 +7759,6 @@ Kimi Code CLI 是一款智能命令行编程助手，帮助开发者通过终端
 - **Stars:** ⭐️ 8.8k
 - **Tags:** `cli` `ai-agent` `coding-assistant`
 - **最后活动时间:** 2026-05-28
-
-### [MobileAgent](https://github.com/X-PLUG/MobileAgent)
-
-基于多模态大语言模型的移动端GUI智能体，实现移动设备的自主操作与自动化控制。
-
-- **Stars:** ⭐️ 8.8k
-- **Tags:** `Agent` `Multimodal` `Mobile` `Automation`
-- **最后活动时间:** 2026-05-14
 
 ### [visual-explainer](https://github.com/nicobailon/visual-explainer)
 
@@ -7784,6 +7776,14 @@ AI智能体技能模块，可生成丰富的HTML页面或幻灯片，用于图�
 - **Tags:** `video-editing` `coding-agents` `automation`
 - **最后活动时间:** 2026-05-15
 
+### [mobilerun](https://github.com/droidrun/mobilerun)
+
+使用自然语言命令自动化移动设备的LLM智能体，支持多种大语言模型。
+
+- **Stars:** ⭐️ 8.5k
+- **Tags:** `ai-agents` `mobile-automation` `llm`
+- **最后活动时间:** 2026-06-11
+
 ### [evolution-api](https://github.com/evolution-foundation/evolution-api)
 
 开源的 WhatsApp 集成 API，支持与多种 AI 服务和自动化平台无缝对接，适用于构建智能客服和聊天机器人。
@@ -7792,13 +7792,13 @@ AI智能体技能模块，可生成丰富的HTML页面或幻灯片，用于图�
 - **Tags:** `whatsapp-api` `chatbot` `automation` `openai`
 - **最后活动时间:** 2026-05-19
 
-### [mobilerun](https://github.com/droidrun/mobilerun)
+### [MiroThinker](https://github.com/MiroMindAI/MiroThinker)
 
-使用自然语言命令自动化移动设备的LLM智能体，支持多种大语言模型。
+面向复杂研究和预测任务的深度研究Agent，在BrowseComp基准上表现优异。
 
-- **Stars:** ⭐️ 8.4k
-- **Tags:** `ai-agents` `mobile-automation` `llm`
-- **最后活动时间:** 2026-05-27
+- **Stars:** ⭐️ 8.3k
+- **Tags:** `AI Agent` `Deep Research` `Benchmark`
+- **最后活动时间:** 2026-04-25
 
 ### [droidrun](https://github.com/droidrun/droidrun)
 
@@ -7807,14 +7807,6 @@ AI智能体技能模块，可生成丰富的HTML页面或幻灯片，用于图�
 - **Stars:** ⭐️ 8.2k
 - **Tags:** `移动自动化` `Android` `AI Agent`
 - **最后活动时间:** 2026-04-22
-
-### [MiroThinker](https://github.com/MiroMindAI/MiroThinker)
-
-面向复杂研究和预测任务的深度研究Agent，在BrowseComp基准上表现优异。
-
-- **Stars:** ⭐️ 8.2k
-- **Tags:** `AI Agent` `Deep Research` `Benchmark`
-- **最后活动时间:** 2026-04-25
 
 ### [ClawWork](https://github.com/HKUDS/ClawWork)
 
@@ -7852,9 +7844,9 @@ OpenClaw AI协作助手，打造智能AI工作伙伴。
 
 自主小说写作CLI智能体，AI代理负责撰写、审核和修订小说，并设有人工审核关卡。
 
-- **Stars:** ⭐️ 6.7k
+- **Stars:** ⭐️ 7.2k
 - **Tags:** `ai-writing` `autonomous-agents` `novel-generation` `creative-writing-ai`
-- **最后活动时间:** 2026-05-27
+- **最后活动时间:** 2026-06-11
 
 ### [waha](https://github.com/devlikeapro/waha)
 
@@ -7888,6 +7880,14 @@ AlphaEvolve的开源实现，结合进化算法与LLM进行代码优化和科学
 - **Tags:** `evolutionary-algorithms` `coding-agent` `llm-engineering` `optimization`
 - **最后活动时间:** 2026-03-18
 
+### [osmedeus](https://github.com/j3ssie/osmedeus)
+
+现代化的安全编排引擎，集成LLM和Agentic AI能力，支持自动化安全工作流和侦察任务编排。
+
+- **Stars:** ⭐️ 6.4k
+- **Tags:** `Security` `LLM` `Workflow` `Automation`
+- **最后活动时间:** 2026-06-01
+
 ### [AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2)
 
 基于智能体树搜索的自动化科学发现系统，实现工作坊级别的全自动科研能力。支持端到端的科学假设生成与验证。
@@ -7896,13 +7896,13 @@ AlphaEvolve的开源实现，结合进化算法与LLM进行代码优化和科学
 - **Tags:** `ai-scientist` `autonomous-agents` `scientific-discovery` `tree-search`
 - **最后活动时间:** 2025-12-19
 
-### [osmedeus](https://github.com/j3ssie/osmedeus)
+### [DeepAudit](https://github.com/lintsinghua/DeepAudit)
 
-现代化的安全编排引擎，集成LLM和Agentic AI能力，支持自动化安全工作流和侦察任务编排。
+国内首个开源的代码漏洞挖掘多智能体系统，支持一键部署、自主协作审计和自动化沙箱PoC验证，让安全审计触手可及。
 
 - **Stars:** ⭐️ 6.4k
-- **Tags:** `Security` `LLM` `Workflow` `Automation`
-- **最后活动时间:** 2026-05-25
+- **Tags:** `代码审计` `多智能体` `安全扫描`
+- **最后活动时间:** 2026-04-01
 
 ### [OpenShell](https://github.com/NVIDIA/OpenShell)
 
@@ -7911,14 +7911,6 @@ AlphaEvolve的开源实现，结合进化算法与LLM进行代码优化和科学
 - **Stars:** ⭐️ 6.3k
 - **Tags:** `ai-agent` `autonomous-agents` `runtime` `security`
 - **最后活动时间:** 2026-05-29
-
-### [DeepAudit](https://github.com/lintsinghua/DeepAudit)
-
-国内首个开源的代码漏洞挖掘多智能体系统，支持一键部署、自主协作审计和自动化沙箱PoC验证，让安全审计触手可及。
-
-- **Stars:** ⭐️ 6.2k
-- **Tags:** `代码审计` `多智能体` `安全扫描`
-- **最后活动时间:** 2026-04-01
 
 ### [opensre](https://github.com/Tracer-Cloud/opensre)
 
@@ -7936,6 +7928,22 @@ AlphaEvolve的开源实现，结合进化算法与LLM进行代码优化和科学
 - **Tags:** `Local Search` `LLM Agents` `Privacy-first`
 - **最后活动时间:** 2026-03-24
 
+### [fara](https://github.com/microsoft/fara)
+
+Fara-7B是高效的计算机使用智能体模型，专为浏览器操作和计算机自动化任务设计优化。
+
+- **Stars:** ⭐️ 5.5k
+- **Tags:** `Agent` `Computer-Use` `LLM`
+- **最后活动时间:** 2026-05-29
+
+### [sphere-sdk](https://github.com/unicity-sphere/sphere-sdk)
+
+自主经济代理SDK，为AI代理提供身份、钱包和点对点协商结算能力，结合区块链实现隐私保护和快速交易。
+
+- **Stars:** ⭐️ 5.4k
+- **Tags:** `ai-agents` `blockchain` `sdk` `autonomous-agents`
+- **最后活动时间:** 2026-06-12
+
 ### [OpenClaw-RL](https://github.com/Gen-Verse/OpenClaw-RL)
 
 通过自然语言对话训练智能体的创新框架，支持RLHF和技能学习，让AI代理训练变得简单直观。
@@ -7948,17 +7956,17 @@ AlphaEvolve的开源实现，结合进化算法与LLM进行代码优化和科学
 
 主动式上下文感知AI伙伴，结合Context-Engineering技术实现智能记忆检索与主动式助手功能。
 
-- **Stars:** ⭐️ 5.3k
+- **Stars:** ⭐️ 5.4k
 - **Tags:** `Agent` `RAG` `Context Engineering`
 - **最后活动时间:** 2026-05-07
 
-### [fara](https://github.com/microsoft/fara)
+### [ai-data-science-team](https://github.com/business-science/ai-data-science-team)
 
-Fara-7B是高效的计算机使用智能体模型，专为浏览器操作和计算机自动化任务设计优化。
+AI驱动的数据科学智能体团队，以10倍效率完成数据分析、特征工程、模型训练等任务。
 
 - **Stars:** ⭐️ 5.3k
-- **Tags:** `Agent` `Computer-Use` `LLM`
-- **最后活动时间:** 2026-05-28
+- **Tags:** `Agents` `Data Science` `Automation`
+- **最后活动时间:** 2026-01-28
 
 ### [mindcraft](https://github.com/mindcraft-bots/mindcraft)
 
@@ -7968,21 +7976,21 @@ Fara-7B是高效的计算机使用智能体模型，专为浏览器操作和计�
 - **Tags:** `Minecraft` `LLM Agent` `Game AI`
 - **最后活动时间:** 2026-05-27
 
-### [ai-data-science-team](https://github.com/business-science/ai-data-science-team)
-
-AI驱动的数据科学智能体团队，以10倍效率完成数据分析、特征工程、模型训练等任务。
-
-- **Stars:** ⭐️ 5.2k
-- **Tags:** `Agents` `Data Science` `Automation`
-- **最后活动时间:** 2026-01-28
-
 ### [LobsterAI](https://github.com/netease-youdao/LobsterAI)
 
 全天候多场景AI代理，自动完成各类工作任务。
 
-- **Stars:** ⭐️ 5.2k
+- **Stars:** ⭐️ 5.3k
 - **Tags:** `ai-agent` `automation` `productivity`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-06-12
+
+### [openagent](https://github.com/the-open-agent/openagent)
+
+新一代个人AI助手，基于LLM、RAG和智能体循环构建，支持计算机操作、浏览器自动化和代码智能体。
+
+- **Stars:** ⭐️ 5.2k
+- **Tags:** `agent` `llm` `rag` `mcp` `multi-agent` `chatbot`
+- **最后活动时间:** 2026-06-11
 
 ### [node-DeepResearch](https://github.com/jina-ai/node-DeepResearch)
 
@@ -7992,13 +8000,21 @@ AI驱动的数据科学智能体团队，以10倍效率完成数据分析、特�
 - **Tags:** `autonomous-agent` `web-search` `reasoning` `research-agent`
 - **最后活动时间:** 2026-05-01
 
-### [openagent](https://github.com/the-open-agent/openagent)
+### [MaiBot](https://github.com/Mai-with-u/MaiBot)
 
-新一代个人AI助手，基于LLM、RAG和智能体循环构建，支持计算机操作、浏览器自动化和代码智能体。
+一款专注于群组聊天的多平台智能体机器人，支持DeepSeek等大模型，可作为赛博网友在QQ等平台进行智能对话。
 
 - **Stars:** ⭐️ 5.1k
-- **Tags:** `agent` `llm` `rag` `mcp` `multi-agent` `chatbot`
-- **最后活动时间:** 2026-05-28
+- **Tags:** `Agent` `Chatbot` `LLM` `QQ`
+- **最后活动时间:** 2026-06-12
+
+### [mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent)
+
+仅100行代码的极简AI Agent，可解决GitHub Issues或辅助命令行操作，SWE-bench验证得分超74%。
+
+- **Stars:** ⭐️ 5.1k
+- **Tags:** `Agent` `CLI` `SWE`
+- **最后活动时间:** 2026-06-11
 
 ### [Viper](https://github.com/FunnyWolf/Viper)
 
@@ -8006,15 +8022,7 @@ AI驱动的红队对抗模拟平台，结合LLM实现自动化渗透测试与安
 
 - **Stars:** ⭐️ 5.1k
 - **Tags:** `红队工具` `安全测试` `AI Agent`
-- **最后活动时间:** 2026-03-31
-
-### [MaiBot](https://github.com/Mai-with-u/MaiBot)
-
-一款专注于群组聊天的多平台智能体机器人，支持DeepSeek等大模型，可作为赛博网友在QQ等平台进行智能对话。
-
-- **Stars:** ⭐️ 5.0k
-- **Tags:** `Agent` `Chatbot` `LLM` `QQ`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-05-31
 
 ### [Kode-Agent](https://github.com/shareAI-lab/Kode-Agent)
 
@@ -8024,21 +8032,13 @@ AI驱动的红队对抗模拟平台，结合LLM实现自动化渗透测试与安
 - **Tags:** `ai-agent` `workflow-automation` `task-automation`
 - **最后活动时间:** 2026-01-23
 
-### [sphere-sdk](https://github.com/unicity-sphere/sphere-sdk)
-
-自主经济代理SDK，为AI代理提供身份、钱包和点对点协商结算能力，结合区块链实现隐私保护和快速交易。
-
-- **Stars:** ⭐️ 4.9k
-- **Tags:** `ai-agents` `blockchain` `sdk` `autonomous-agents`
-- **最后活动时间:** 2026-05-28
-
 ### [byterover-cli](https://github.com/campfirein/byterover-cli)
 
 为自主编程 Agent 提供可移植的记忆层，支持上下文持久化和知识管理。
 
 - **Stars:** ⭐️ 4.8k
 - **Tags:** `autonomous-agents` `memory` `mcp` `cli` `coding-assistant`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-06-03
 
 ### [autoresearch](https://github.com/uditgoenka/autoresearch)
 
@@ -8048,13 +8048,21 @@ AI驱动的红队对抗模拟平台，结合LLM实现自动化渗透测试与安
 - **Tags:** `autonomous-agent` `claude-code` `iteration`
 - **最后活动时间:** 2026-05-23
 
-### [mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent)
+### [openhanako](https://github.com/liliMozi/openhanako)
 
-仅100行代码的极简AI Agent，可解决GitHub Issues或辅助命令行操作，SWE-bench验证得分超74%。
+基于Electron构建的个人AI智能体，具备记忆、个性和自主能力。
 
 - **Stars:** ⭐️ 4.7k
-- **Tags:** `Agent` `CLI` `SWE`
-- **最后活动时间:** 2026-05-25
+- **Tags:** `personal-agent` `electron` `memory` `autonomous`
+- **最后活动时间:** 2026-06-11
+
+### [PPTAgent](https://github.com/icip-cas/PPTAgent)
+
+基于反思机制的PPT自动生成智能体框架，利用LLM和MCP实现演示文稿的智能创建。
+
+- **Stars:** ⭐️ 4.6k
+- **Tags:** `Agent` `PPT` `MCP`
+- **最后活动时间:** 2026-06-08
 
 ### [Integuru](https://github.com/Integuru-AI/Integuru)
 
@@ -8080,13 +8088,13 @@ AI驱动的红队对抗模拟平台，结合LLM实现自动化渗透测试与安
 - **Tags:** `autonomous-agent` `self-replication` `evolution` `ai`
 - **最后活动时间:** 2026-04-25
 
-### [PPTAgent](https://github.com/icip-cas/PPTAgent)
+### [CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI)
 
-基于反思机制的PPT自动生成智能体框架，利用LLM和MCP实现演示文稿的智能创建。
+AI原生安全测试平台，集成100+安全工具和智能编排引擎，支持角色化测试和技能系统，适用于渗透测试和红队演练。
 
-- **Stars:** ⭐️ 4.5k
-- **Tags:** `Agent` `PPT` `MCP`
-- **最后活动时间:** 2026-05-25
+- **Stars:** ⭐️ 4.4k
+- **Tags:** `AI安全` `渗透测试` `智能体`
+- **最后活动时间:** 2026-06-11
 
 ### [ENScan_GO](https://github.com/wgpsec/ENScan_GO)
 
@@ -8095,6 +8103,14 @@ AI驱动的红队对抗模拟平台，结合LLM实现自动化渗透测试与安
 - **Stars:** ⭐️ 4.4k
 - **Tags:** `mcp` `mcp-server` `cybersecurity` `red-team`
 - **最后活动时间:** 2026-03-30
+
+### [Decepticon](https://github.com/PurpleAILAB/Decepticon)
+
+基于多智能体的自主红队测试服务，利用AI进行渗透测试和安全漏洞检测。
+
+- **Stars:** ⭐️ 4.3k
+- **Tags:** `AI安全` `渗透测试` `多智能体`
+- **最后活动时间:** 2026-06-12
 
 ### [awesome-persona-distill-skills](https://github.com/xixu-me/awesome-persona-distill-skills)
 
@@ -8112,6 +8128,14 @@ AI智能体角色技能集合，包含同事、乔布斯等多种人格角色的
 - **Tags:** `ai-agent` `nodejs` `typescript` `automation`
 - **最后活动时间:** 2026-04-07
 
+### [DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze)
+
+首个自主数据科学智能体LLM，自动分析数据并生成专业分析报告，实现AI科学家能力。
+
+- **Stars:** ⭐️ 4.2k
+- **Tags:** `数据分析` `智能体` `AI科学家`
+- **最后活动时间:** 2026-04-13
+
 ### [open-claude-cowork](https://github.com/composio-community/open-claude-cowork)
 
 开源版Claude Cowork，支持500+ SaaS应用集成，实现AI驱动的智能工作流自动化。
@@ -8128,30 +8152,6 @@ AI智能体角色技能集合，包含同事、乔布斯等多种人格角色的
 - **Tags:** `Agent Memory` `MCP` `RAG` `Long-term Memory`
 - **最后活动时间:** 2026-04-23
 
-### [DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze)
-
-首个自主数据科学智能体LLM，自动分析数据并生成专业分析报告，实现AI科学家能力。
-
-- **Stars:** ⭐️ 4.2k
-- **Tags:** `数据分析` `智能体` `AI科学家`
-- **最后活动时间:** 2026-04-13
-
-### [openhanako](https://github.com/liliMozi/openhanako)
-
-基于Electron构建的个人AI智能体，具备记忆、个性和自主能力。
-
-- **Stars:** ⭐️ 4.2k
-- **Tags:** `personal-agent` `electron` `memory` `autonomous`
-- **最后活动时间:** 2026-05-28
-
-### [Decepticon](https://github.com/PurpleAILAB/Decepticon)
-
-基于多智能体的自主红队测试服务，利用AI进行渗透测试和安全漏洞检测。
-
-- **Stars:** ⭐️ 4.1k
-- **Tags:** `AI安全` `渗透测试` `多智能体`
-- **最后活动时间:** 2026-05-28
-
 ### [OpenManus-RL](https://github.com/OpenManus/OpenManus-RL)
 
 LLM智能体强化学习调优的直播开发项目，探索RL在Agent中的应用。
@@ -8160,13 +8160,13 @@ LLM智能体强化学习调优的直播开发项目，探索RL在Agent中的应�
 - **Tags:** `RL` `LLM Agents` `Open Source`
 - **最后活动时间:** 2026-05-05
 
-### [CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI)
+### [opensquilla](https://github.com/opensquilla/opensquilla)
 
-AI原生安全测试平台，集成100+安全工具和智能编排引擎，支持角色化测试和技能系统，适用于渗透测试和红队演练。
+高效能 AI 智能体，在相同预算下实现更高的智能密度。
 
 - **Stars:** ⭐️ 4.0k
-- **Tags:** `AI安全` `渗透测试` `智能体`
-- **最后活动时间:** 2026-05-29
+- **Tags:** `ai-agents` `llm` `mcp` `memory` `deep-learning`
+- **最后活动时间:** 2026-06-10
 
 ### [Paper2Poster](https://github.com/Paper2Poster/Paper2Poster)
 
@@ -8190,7 +8190,7 @@ NeurIPS 2025论文，多智能体协作自动将学术论文转换为精美海�
 
 - **Stars:** ⭐️ 3.7k
 - **Tags:** `agent-based-modeling` `simulation` `complex-systems` `multi-agent`
-- **最后活动时间:** 2026-05-22
+- **最后活动时间:** 2026-06-11
 
 ### [dograh](https://github.com/dograh-hq/dograh)
 
@@ -8200,21 +8200,29 @@ NeurIPS 2025论文，多智能体协作自动将学术论文转换为精美海�
 - **Tags:** `ai-agents` `voice-ai` `conversational-ai` `speech-to-text` `text-to-speech`
 - **最后活动时间:** 2026-05-28
 
-### [MIRIX](https://github.com/Mirix-AI/MIRIX)
-
-多智能体个人助手，实时追踪屏幕活动并智能回答问题，构建适应个人数字体验的知识库。
-
-- **Stars:** ⭐️ 3.6k
-- **Tags:** `Multi-Agent` `Personal-Assistant` `Memory-System`
-- **最后活动时间:** 2026-05-29
-
 ### [refact](https://github.com/smallcloudai/refact)
 
 端到端AI工程代理，集成开发者工具，支持自主规划、执行和迭代，适用于企业级自部署场景。
 
 - **Stars:** ⭐️ 3.6k
 - **Tags:** `AI Agent` `Developer Tools` `Self-hosted`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-05-30
+
+### [MIRIX](https://github.com/Mirix-AI/MIRIX)
+
+多智能体个人助手，实时追踪屏幕活动并智能回答问题，构建适应个人数字体验的知识库。
+
+- **Stars:** ⭐️ 3.5k
+- **Tags:** `Multi-Agent` `Personal-Assistant` `Memory-System`
+- **最后活动时间:** 2026-06-06
+
+### [we-mp-rss](https://github.com/rachelos/we-mp-rss)
+
+微信公众号RSS订阅源生成工具，支持AI Agent接入微信公众号，实现智能内容订阅与推送。
+
+- **Stars:** ⭐️ 3.5k
+- **Tags:** `wechat` `rss` `ai-agent` `automation`
+- **最后活动时间:** 2026-06-05
 
 ### [AgentBench](https://github.com/THUDM/AgentBench)
 
@@ -8228,17 +8236,9 @@ ICLR 2024发表的LLM智能体综合评测基准，全面评估大模型作为�
 
 层次化多智能体系统，支持深度研究和通用任务自动分解执行。
 
-- **Stars:** ⭐️ 3.4k
+- **Stars:** ⭐️ 3.5k
 - **Tags:** `multi-agent` `autonomous-agents` `task-planning` `hierarchical`
 - **最后活动时间:** 2026-05-04
-
-### [we-mp-rss](https://github.com/rachelos/we-mp-rss)
-
-微信公众号RSS订阅源生成工具，支持AI Agent接入微信公众号，实现智能内容订阅与推送。
-
-- **Stars:** ⭐️ 3.3k
-- **Tags:** `wechat` `rss` `ai-agent` `automation`
-- **最后活动时间:** 2026-05-25
 
 ### [EvoScientist](https://github.com/EvoScientist/EvoScientist)
 
@@ -8252,17 +8252,25 @@ ICLR 2024发表的LLM智能体综合评测基准，全面评估大模型作为�
 
 一款通用型生物医学AI智能体，能够自主完成生物医学研究任务和实验设计。
 
-- **Stars:** ⭐️ 3.1k
+- **Stars:** ⭐️ 3.2k
 - **Tags:** `agent` `ai` `biomedicine` `biomedical-ai`
-- **最后活动时间:** 2026-05-25
+- **最后活动时间:** 2026-06-08
+
+### [deepsec](https://github.com/vercel-labs/deepsec)
+
+基于编码智能体的安全工具，用于发现代码库中的漏洞。帮助开发者自动化安全审计流程。
+
+- **Stars:** ⭐️ 3.2k
+- **Tags:** `security` `ai-agent` `vulnerability` `code-analysis`
+- **最后活动时间:** 2026-05-30
 
 ### [TuriX-CUA](https://github.com/TurixAI/TuriX-CUA)
 
 基于Qwen3-VL实现的计算机使用代理，支持浏览器和桌面应用的GUI自动化智能交互。
 
-- **Stars:** ⭐️ 3.0k
+- **Stars:** ⭐️ 3.1k
 - **Tags:** `computer-use` `gui-agent` `mcp`
-- **最后活动时间:** 2026-05-25
+- **最后活动时间:** 2026-06-08
 
 ### [METATRON](https://github.com/sooryathejas/METATRON)
 
@@ -8288,13 +8296,13 @@ ICLR 2024发表的LLM智能体综合评测基准，全面评估大模型作为�
 - **Tags:** `rpa` `automation` `workflow` `enterprise`
 - **最后活动时间:** 2026-04-15
 
-### [deepsec](https://github.com/vercel-labs/deepsec)
+### [raptor](https://github.com/gadievron/raptor)
 
-基于编码智能体的安全工具，用于发现代码库中的漏洞。帮助开发者自动化安全审计流程。
+将Claude Code转化为通用AI安全代理，支持攻防安全操作，通过规则配置和子代理编排安全工具。
 
-- **Stars:** ⭐️ 3.0k
-- **Tags:** `security` `ai-agent` `vulnerability` `code-analysis`
-- **最后活动时间:** 2026-05-23
+- **Stars:** ⭐️ 2.9k
+- **Tags:** `Security` `Agent` `Claude` `Automation`
+- **最后活动时间:** 2026-06-11
 
 ### [OSWorld](https://github.com/xlang-ai/OSWorld)
 
@@ -8302,7 +8310,7 @@ NeurIPS 2024论文，真实计算机环境下的多模态智能体基准测试�
 
 - **Stars:** ⭐️ 2.9k
 - **Tags:** `Benchmark` `Multimodal Agents` `GUI`
-- **最后活动时间:** 2026-05-21
+- **最后活动时间:** 2026-06-10
 
 ### [ralphy](https://github.com/michaelshimeles/ralphy)
 
@@ -8312,13 +8320,13 @@ NeurIPS 2024论文，真实计算机环境下的多模态智能体基准测试�
 - **Tags:** `Autonomous` `Multi-Agent` `Automation`
 - **最后活动时间:** 2026-02-05
 
-### [raptor](https://github.com/gadievron/raptor)
+### [squad](https://github.com/bradygaster/squad)
 
-将Claude Code转化为通用AI安全代理，支持攻防安全操作，通过规则配置和子代理编排安全工具。
+多智能体协作框架，支持为任何项目组建AI Agent团队协同工作。
 
 - **Stars:** ⭐️ 2.8k
-- **Tags:** `Security` `Agent` `Claude` `Automation`
-- **最后活动时间:** 2026-05-29
+- **Tags:** `multi-agent` `ai-team` `agent-framework`
+- **最后活动时间:** 2026-06-11
 
 ### [YC-Killer](https://github.com/sahibzada-allahyar/YC-Killer)
 
@@ -8328,13 +8336,13 @@ NeurIPS 2024论文，真实计算机环境下的多模态智能体基准测试�
 - **Tags:** `ai-agents` `reinforcement-learning` `mcp` `open-source`
 - **最后活动时间:** 2026-05-11
 
-### [squad](https://github.com/bradygaster/squad)
+### [RAGEN](https://github.com/mll-lab-nu/RAGEN)
 
-多智能体协作框架，支持为任何项目组建AI Agent团队协同工作。
+利用强化学习训练LLM推理智能体的框架，支持在交互式随机环境中进行训练。
 
 - **Stars:** ⭐️ 2.7k
-- **Tags:** `multi-agent` `ai-team` `agent-framework`
-- **最后活动时间:** 2026-05-28
+- **Tags:** `Reinforcement Learning` `LLM Agents` `Reasoning`
+- **最后活动时间:** 2026-04-14
 
 ### [Open-Interface](https://github.com/AmberSahdev/Open-Interface)
 
@@ -8344,14 +8352,6 @@ NeurIPS 2024论文，真实计算机环境下的多模态智能体基准测试�
 - **Tags:** `llm` `automation` `gpt` `computer-control` `agent`
 - **最后活动时间:** 2026-02-25
 
-### [RAGEN](https://github.com/mll-lab-nu/RAGEN)
-
-利用强化学习训练LLM推理智能体的框架，支持在交互式随机环境中进行训练。
-
-- **Stars:** ⭐️ 2.7k
-- **Tags:** `Reinforcement Learning` `LLM Agents` `Reasoning`
-- **最后活动时间:** 2026-04-14
-
 ### [OpenSwarm](https://github.com/VRSEN/OpenSwarm)
 
 基于 Claude Code 的智能体工具，专注于非编程场景的自动化任务处理与编排。
@@ -8359,6 +8359,22 @@ NeurIPS 2024论文，真实计算机环境下的多模态智能体基准测试�
 - **Stars:** ⭐️ 2.6k
 - **Tags:** `claude-code` `agents` `automation` `workflow`
 - **最后活动时间:** 2026-05-29
+
+### [holmesgpt](https://github.com/HolmesGPT/holmesgpt)
+
+CNCF沙箱项目，基于LLM的SRE智能体，用于事件管理、故障排查和运维自动化。
+
+- **Stars:** ⭐️ 2.6k
+- **Tags:** `SRE` `DevOps` `LLM Agent`
+- **最后活动时间:** 2026-06-12
+
+### [mercury-agent](https://github.com/cosmicstack-labs/mercury-agent)
+
+具备权限控制、Token 预算管理和多渠道访问的自主 AI 代理，支持 CLI 和 Telegram 24/7 运行。
+
+- **Stars:** ⭐️ 2.6k
+- **Tags:** `ai-agent` `autonomous-agent` `telegram-bot` `llm`
+- **最后活动时间:** 2026-06-09
 
 ### [open-terminal](https://github.com/open-webui/open-terminal)
 
@@ -8368,6 +8384,14 @@ NeurIPS 2024论文，真实计算机环境下的多模态智能体基准测试�
 - **Tags:** `AI Agents` `Terminal` `API`
 - **最后活动时间:** 2026-04-17
 
+### [mobile-use](https://github.com/minitap-ai/mobile-use)
+
+让AI智能体像人类一样操作Android和iOS应用的自动化框架，支持移动端任务执行与自动化测试。
+
+- **Stars:** ⭐️ 2.6k
+- **Tags:** `AI Agent` `Mobile` `Automation`
+- **最后活动时间:** 2026-06-10
+
 ### [plexe](https://github.com/plexe-ai/plexe)
 
 通过自然语言提示自动构建机器学习模型的智能体平台，实现从Prompt到ML模型的自动化流程。
@@ -8376,13 +8400,13 @@ NeurIPS 2024论文，真实计算机环境下的多模态智能体基准测试�
 - **Tags:** `agentic-ai` `machine-learning` `mlops` `multiagent`
 - **最后活动时间:** 2026-03-06
 
-### [mobile-use](https://github.com/minitap-ai/mobile-use)
+### [awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh)
 
-让AI智能体像人类一样操作Android和iOS应用的自动化框架，支持移动端任务执行与自动化测试。
+AI Agent 中文学习地图，提供从零开始的结构化学习路径，包含必做练习和必修阅读，支持三语对照。
 
 - **Stars:** ⭐️ 2.6k
-- **Tags:** `AI Agent` `Mobile` `Automation`
-- **最后活动时间:** 2026-05-22
+- **Tags:** `ai-agents` `llm-agents` `mcp` `learning-roadmap` `tutorial`
+- **最后活动时间:** 2026-06-10
 
 ### [OpenClaw-Medical-Skills](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills)
 
@@ -8392,22 +8416,6 @@ OpenClaw平台最大的开源医疗AI技能库，为AI智能体提供专业的�
 - **Tags:** `medical-ai` `ai-skills` `claude-code` `healthcare`
 - **最后活动时间:** 2026-03-27
 
-### [holmesgpt](https://github.com/HolmesGPT/holmesgpt)
-
-CNCF沙箱项目，基于LLM的SRE智能体，用于事件管理、故障排查和运维自动化。
-
-- **Stars:** ⭐️ 2.5k
-- **Tags:** `SRE` `DevOps` `LLM Agent`
-- **最后活动时间:** 2026-05-28
-
-### [mercury-agent](https://github.com/cosmicstack-labs/mercury-agent)
-
-具备权限控制、Token 预算管理和多渠道访问的自主 AI 代理，支持 CLI 和 Telegram 24/7 运行。
-
-- **Stars:** ⭐️ 2.5k
-- **Tags:** `ai-agent` `autonomous-agent` `telegram-bot` `llm`
-- **最后活动时间:** 2026-05-25
-
 ### [OpenGame](https://github.com/leigest519/OpenGame)
 
 开放式的游戏智能体编程框架，支持AI代理在游戏环境中自主执行任务。
@@ -8416,6 +8424,14 @@ CNCF沙箱项目，基于LLM的SRE智能体，用于事件管理、故障排查�
 - **Tags:** `AI Agents` `Game AI` `Agentic Coding`
 - **最后活动时间:** 2026-04-22
 
+### [fogsight](https://github.com/fogsightai/fogsight)
+
+基于大语言模型的AI智能体与动画引擎，支持创意内容生成。
+
+- **Stars:** ⭐️ 2.5k
+- **Tags:** `ai-agent` `animation-engine` `llm`
+- **最后活动时间:** 2026-03-21
+
 ### [awesome-persona-skills](https://github.com/tmstack/awesome-persona-skills)
 
 AI人格技能集合，包含同事、老板、前任等多种人格技能定义，由女娲.skill生态系统生成。
@@ -8423,14 +8439,6 @@ AI人格技能集合，包含同事、老板、前任等多种人格技能定义
 - **Stars:** ⭐️ 2.5k
 - **Tags:** `ai-agent` `persona` `skills` `awesome-list`
 - **最后活动时间:** 2026-05-25
-
-### [fogsight](https://github.com/fogsightai/fogsight)
-
-基于大语言模型的AI智能体与动画引擎，支持创意内容生成。
-
-- **Stars:** ⭐️ 2.4k
-- **Tags:** `ai-agent` `animation-engine` `llm`
-- **最后活动时间:** 2026-03-21
 
 ### [fulling](https://github.com/FullAgent/fulling)
 
@@ -8446,7 +8454,31 @@ AI智能体精选资源列表，汇集各类自主Agent项目和框架。
 
 - **Stars:** ⭐️ 2.4k
 - **Tags:** `ai-agents` `autonomous-agents` `llm-agents` `agent-framework`
-- **最后活动时间:** 2026-05-27
+- **最后活动时间:** 2026-06-10
+
+### [ctf-skills](https://github.com/ljagiello/ctf-skills)
+
+AI Agent技能集合，用于解决CTF安全挑战，支持Web渗透、二进制漏洞、密码学、逆向工程、取证分析等多种安全领域。
+
+- **Stars:** ⭐️ 2.4k
+- **Tags:** `AI Agent` `Security` `CTF` `Claude Code`
+- **最后活动时间:** 2026-05-01
+
+### [super-agent-party](https://github.com/heshengtao/super-agent-party)
+
+全能AI伴侣平台，集成虚拟主播、直播、Discord/QQ机器人、Home Assistant等多种智能体能力。
+
+- **Stars:** ⭐️ 2.4k
+- **Tags:** `AI伴侣` `Neuro-sama` `VRM` `多平台机器人`
+- **最后活动时间:** 2026-06-11
+
+### [onecli](https://github.com/onecli/onecli)
+
+开源凭证保险库，让AI智能体安全访问各类服务而无需暴露密钥，支持MCP协议。
+
+- **Stars:** ⭐️ 2.4k
+- **Tags:** `AI Agents` `Security` `MCP`
+- **最后活动时间:** 2026-06-10
 
 ### [oracle](https://github.com/steipete/oracle)
 
@@ -8464,21 +8496,45 @@ AI智能体精选资源列表，汇集各类自主Agent项目和框架。
 - **Tags:** `agents` `mobile` `automation` `testing`
 - **最后活动时间:** 2026-05-28
 
-### [super-agent-party](https://github.com/heshengtao/super-agent-party)
+### [Mano-P](https://github.com/Mininglamp-AI/Mano-P)
 
-全能AI伴侣平台，集成虚拟主播、直播、Discord/QQ机器人、Home Assistant等多种智能体能力。
-
-- **Stars:** ⭐️ 2.3k
-- **Tags:** `AI伴侣` `Neuro-sama` `VRM` `多平台机器人`
-- **最后活动时间:** 2026-05-28
-
-### [onecli](https://github.com/onecli/onecli)
-
-开源凭证保险库，让AI智能体安全访问各类服务而无需暴露密钥，支持MCP协议。
+开源GUI视觉-语言-动作(VLA)智能体，支持在Apple M4设备本地运行，实现跨平台桌面自动化操作。OSWorld专项排名第一(58.2%)，数据完全本地处理。
 
 - **Stars:** ⭐️ 2.3k
-- **Tags:** `AI Agents` `Security` `MCP`
-- **最后活动时间:** 2026-05-28
+- **Tags:** `gui-automation` `vision-language-action` `edge-computing` `on-device-ai` `multimodal-ai`
+- **最后活动时间:** 2026-06-01
+
+### [bitterbot-desktop](https://github.com/Bitterbot-AI/bitterbot-desktop)
+
+本地优先的AI智能体桌面应用，具备持久记忆、情感智能和点对点技能经济系统。
+
+- **Stars:** ⭐️ 2.3k
+- **Tags:** `ai-agent` `local-first` `desktop-app` `p2p` `memory`
+- **最后活动时间:** 2026-06-10
+
+### [MathModelAgent](https://github.com/jihe520/MathModelAgent)
+
+专为数学建模设计的智能体，自动完成建模流程并生成可直接提交的完整论文。
+
+- **Stars:** ⭐️ 2.3k
+- **Tags:** `数学建模` `多智能体` `论文生成`
+- **最后活动时间:** 2026-06-07
+
+### [MiroFish-Offline](https://github.com/nikmcfly/MiroFish-Offline)
+
+离线多智能体仿真与预测引擎，集成Neo4j图数据库和Ollama本地模型栈，支持群体智能模拟。
+
+- **Stars:** ⭐️ 2.3k
+- **Tags:** `Multi-Agent` `Simulation` `Neo4j` `Ollama`
+- **最后活动时间:** 2026-03-24
+
+### [spacebot](https://github.com/spacedriveapp/spacebot)
+
+面向团队和社区的多用户AI代理，支持自动化工作流和企业级消息集成。
+
+- **Stars:** ⭐️ 2.3k
+- **Tags:** `AI Agent` `Automation` `Enterprise`
+- **最后活动时间:** 2026-05-09
 
 ### [skills](https://github.com/flutter/skills)
 
@@ -8488,22 +8544,6 @@ AI智能体精选资源列表，汇集各类自主Agent项目和框架。
 - **Tags:** `vue3` `agent-skills` `frontend` `ai-assistant`
 - **最后活动时间:** 2026-05-27
 
-### [spacebot](https://github.com/spacedriveapp/spacebot)
-
-面向团队和社区的多用户AI代理，支持自动化工作流和企业级消息集成。
-
-- **Stars:** ⭐️ 2.2k
-- **Tags:** `AI Agent` `Automation` `Enterprise`
-- **最后活动时间:** 2026-05-09
-
-### [MiroFish-Offline](https://github.com/nikmcfly/MiroFish-Offline)
-
-离线多智能体仿真与预测引擎，集成Neo4j图数据库和Ollama本地模型栈，支持群体智能模拟。
-
-- **Stars:** ⭐️ 2.2k
-- **Tags:** `Multi-Agent` `Simulation` `Neo4j` `Ollama`
-- **最后活动时间:** 2026-03-24
-
 ### [Paper2Agent](https://github.com/jmiao24/Paper2Agent)
 
 多智能体AI系统，自动将研究论文转化为可交互的AI智能体。
@@ -8511,14 +8551,6 @@ AI智能体精选资源列表，汇集各类自主Agent项目和框架。
 - **Stars:** ⭐️ 2.2k
 - **Tags:** `multi-agent` `research-automation` `llm`
 - **最后活动时间:** 2026-02-10
-
-### [RA.Aid](https://github.com/ai-christianson/RA.Aid)
-
-自主软件开发AI智能体，能够独立完成代码编写和软件开发任务。
-
-- **Stars:** ⭐️ 2.2k
-- **Tags:** `ai-agent` `autonomous-coding` `software-development`
-- **最后活动时间:** 2026-01-30
 
 ### [roubao](https://github.com/Turbo1123/roubao)
 
@@ -8528,6 +8560,14 @@ AI智能体精选资源列表，汇集各类自主Agent项目和框架。
 - **Tags:** `Android自动化` `移动智能体` `VLM`
 - **最后活动时间:** 2026-01-08
 
+### [RA.Aid](https://github.com/ai-christianson/RA.Aid)
+
+自主软件开发AI智能体，能够独立完成代码编写和软件开发任务。
+
+- **Stars:** ⭐️ 2.2k
+- **Tags:** `ai-agent` `autonomous-coding` `software-development`
+- **最后活动时间:** 2026-01-30
+
 ### [tabularis](https://github.com/TabularisDB/tabularis)
 
 轻量级跨平台数据库客户端，内置AI助手支持，支持MySQL、PostgreSQL和SQLite，可通过MCP协议与AI代理集成。
@@ -8536,14 +8576,6 @@ AI智能体精选资源列表，汇集各类自主Agent项目和框架。
 - **Tags:** `ai-agent` `database-client` `mcp` `rust` `tauri`
 - **最后活动时间:** 2026-05-29
 
-### [ctf-skills](https://github.com/ljagiello/ctf-skills)
-
-AI Agent技能集合，用于解决CTF安全挑战，支持Web渗透、二进制漏洞、密码学、逆向工程、取证分析等多种安全领域。
-
-- **Stars:** ⭐️ 2.2k
-- **Tags:** `AI Agent` `Security` `CTF` `Claude Code`
-- **最后活动时间:** 2026-05-01
-
 ### [skills](https://github.com/flutter/skills)
 
 专为 Vue 3 开发设计的 AI Agent 技能文件集合，帮助开发者更好地使用 AI 辅助前端开发。
@@ -8567,22 +8599,6 @@ AI Agent技能集合，用于解决CTF安全挑战，支持Web渗透、二进制
 - **Stars:** ⭐️ 2.2k
 - **Tags:** `vue3` `agent-skills` `frontend` `ai-assistant`
 - **最后活动时间:** 2026-05-22
-
-### [deep-research-web-ui](https://github.com/AnotiaWang/deep-research-web-ui)
-
-支持 DeepSeek R1 的 AI 研究助手，结合搜索引擎与网页抓取进行迭代式深度研究，提供友好的 Web UI 界面。
-
-- **Stars:** ⭐️ 2.2k
-- **Tags:** `Agent` `DeepSeek` `Research`
-- **最后活动时间:** 2026-05-20
-
-### [Mano-P](https://github.com/Mininglamp-AI/Mano-P)
-
-开源GUI视觉-语言-动作(VLA)智能体，支持在Apple M4设备本地运行，实现跨平台桌面自动化操作。OSWorld专项排名第一(58.2%)，数据完全本地处理。
-
-- **Stars:** ⭐️ 2.2k
-- **Tags:** `gui-automation` `vision-language-action` `edge-computing` `on-device-ai` `multimodal-ai`
-- **最后活动时间:** 2026-05-28
 
 ### [gelab-zero](https://github.com/stepfun-ai/gelab-zero)
 
@@ -8591,6 +8607,14 @@ AI Agent技能集合，用于解决CTF安全挑战，支持Web渗透、二进制
 - **Stars:** ⭐️ 2.2k
 - **Tags:** `gui-agents` `phone-use-agent` `autonomous-agents`
 - **最后活动时间:** 2026-05-11
+
+### [deep-research-web-ui](https://github.com/AnotiaWang/deep-research-web-ui)
+
+支持 DeepSeek R1 的 AI 研究助手，结合搜索引擎与网页抓取进行迭代式深度研究，提供友好的 Web UI 界面。
+
+- **Stars:** ⭐️ 2.2k
+- **Tags:** `Agent` `DeepSeek` `Research`
+- **最后活动时间:** 2026-06-04
 
 ### [FGA](https://github.com/Fate-Grand-Automata/FGA)
 
@@ -8608,14 +8632,6 @@ Fate/Grand Order 自动战斗 Android 应用，利用 OpenCV 图像识别技术�
 - **Tags:** `Multi-Agent` `LangGraph` `MCP` `Text2SQL`
 - **最后活动时间:** 2026-05-24
 
-### [MathModelAgent](https://github.com/jihe520/MathModelAgent)
-
-专为数学建模设计的智能体，自动完成建模流程并生成可直接提交的完整论文。
-
-- **Stars:** ⭐️ 2.1k
-- **Tags:** `数学建模` `多智能体` `论文生成`
-- **最后活动时间:** 2026-05-19
-
 ### [open-deep-research](https://github.com/btahir/open-deep-research)
 
 Gemini Deep Research的开源替代方案，基于搜索结果利用AI自动生成研究报告。
@@ -8624,13 +8640,13 @@ Gemini Deep Research的开源替代方案，基于搜索结果利用AI自动生�
 - **Tags:** `deep-research` `ai-agent` `report-generation`
 - **最后活动时间:** 2025-12-15
 
-### [opensquilla](https://github.com/opensquilla/opensquilla)
+### [mission-control](https://github.com/crshdn/mission-control)
 
-高效能 AI 智能体，在相同预算下实现更高的智能密度。
+全球首个自主产品引擎，AI代理可自动研究市场、生成功能并提交代码PR，支持自托管部署。
 
 - **Stars:** ⭐️ 2.1k
-- **Tags:** `ai-agents` `llm` `mcp` `memory` `deep-learning`
-- **最后活动时间:** 2026-05-28
+- **Tags:** `aiagent` `automation` `autonomous-agents` `code-generation`
+- **最后活动时间:** 2026-05-17
 
 ### [dataclaw](https://github.com/peteromallet/dataclaw)
 
@@ -8647,22 +8663,6 @@ Gemini Deep Research的开源替代方案，基于搜索结果利用AI自动生�
 - **Stars:** ⭐️ 2.1k
 - **Tags:** `data-agent` `self-learning` `context-aware`
 - **最后活动时间:** 2026-04-08
-
-### [bitterbot-desktop](https://github.com/Bitterbot-AI/bitterbot-desktop)
-
-本地优先的AI智能体桌面应用，具备持久记忆、情感智能和点对点技能经济系统。
-
-- **Stars:** ⭐️ 2.1k
-- **Tags:** `ai-agent` `local-first` `desktop-app` `p2p` `memory`
-- **最后活动时间:** 2026-05-29
-
-### [mission-control](https://github.com/crshdn/mission-control)
-
-全球首个自主产品引擎，AI代理可自动研究市场、生成功能并提交代码PR，支持自托管部署。
-
-- **Stars:** ⭐️ 2.1k
-- **Tags:** `aiagent` `automation` `autonomous-agents` `code-generation`
-- **最后活动时间:** 2026-05-17
 
 ### [claude-peers-mcp](https://github.com/louislva/claude-peers-mcp)
 
@@ -8688,21 +8688,37 @@ MCP 服务器，让多个 Claude Code 实例之间实现即时消息通信。
 - **Tags:** `Multi-Agent` `LangGraph` `Research`
 - **最后活动时间:** 2026-05-19
 
-### [beikeshop](https://github.com/beikeshop/beikeshop)
-
-基于Laravel的开源电商平台，集成AI智能体支持，支持多语言多货币及可视化自定义设计。
-
-- **Stars:** ⭐️ 1.9k
-- **Tags:** `ecommerce` `laravel` `chatgpt` `ai-agents`
-- **最后活动时间:** 2026-05-25
-
 ### [agi](https://github.com/hyperspaceai/agi)
 
 首个分布式AGI系统，数千个自主AI代理协作训练模型、通过P2P共享实验，推动AI突破。
 
 - **Stars:** ⭐️ 1.9k
 - **Tags:** `AGI` `AI Agents` `Distributed AI` `P2P`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-06-12
+
+### [llm-for-zotero](https://github.com/yilewang/llm-for-zotero)
+
+基于Zotero文献库的智能研究代理系统，帮助用户深度挖掘和分析学术文献。
+
+- **Stars:** ⭐️ 1.9k
+- **Tags:** `llm-agent` `zotero-plugin` `literature-analysis` `academic-research`
+- **最后活动时间:** 2026-06-11
+
+### [beikeshop](https://github.com/beikeshop/beikeshop)
+
+基于Laravel的开源电商平台，集成AI智能体支持，支持多语言多货币及可视化自定义设计。
+
+- **Stars:** ⭐️ 1.9k
+- **Tags:** `ecommerce` `laravel` `chatgpt` `ai-agents`
+- **最后活动时间:** 2026-06-11
+
+### [Memoh](https://github.com/memohai/Memoh)
+
+多成员、结构化长期记忆的容器化AI代理系统。支持复杂记忆管理和多代理协作。
+
+- **Stars:** ⭐️ 1.9k
+- **Tags:** `long-memory` `agent-system` `containerized` `ai`
+- **最后活动时间:** 2026-06-12
 
 ### [ShowUI](https://github.com/showlab/ShowUI)
 
@@ -8712,6 +8728,14 @@ CVPR 2025开源端到端视觉-语言-动作模型，专为GUI智能体和计算
 - **Tags:** `GUI Agent` `VLA` `CVPR 2025`
 - **最后活动时间:** 2026-04-24
 
+### [smallcode](https://github.com/Doorman11991/smallcode)
+
+专为小型LLM优化的AI编程智能体，使用4B活跃参数模型达到87%基准测试成绩。
+
+- **Stars:** ⭐️ 1.8k
+- **Tags:** `ai-coding-agent` `llm` `code-generation` `small-models`
+- **最后活动时间:** 2026-06-04
+
 ### [MobiAgent](https://github.com/IPADS-SAI/MobiAgent)
 
 面向移动设备的智能GUI操作智能体。
@@ -8719,6 +8743,22 @@ CVPR 2025开源端到端视觉-语言-动作模型，专为GUI智能体和计算
 - **Stars:** ⭐️ 1.8k
 - **Tags:** `agents` `mobile` `gui-agent` `automation`
 - **最后活动时间:** 2026-05-28
+
+### [LocalAGI](https://github.com/mudler/LocalAGI)
+
+强大的自托管AI智能体平台，可作为OpenAI API的完整替代方案，支持消费级硬件本地运行，注重隐私保护。
+
+- **Stars:** ⭐️ 1.8k
+- **Tags:** `Self-hosted` `Local AI` `Privacy`
+- **最后活动时间:** 2026-06-06
+
+### [stable-worldmodel](https://github.com/galilai-group/stable-worldmodel)
+
+一个可靠、极简且可扩展的世界模型研究评估库，支持JEPA架构，为自主智能体提供环境预测与规划能力。
+
+- **Stars:** ⭐️ 1.8k
+- **Tags:** `world-model` `jepa` `pytorch` `deep-learning` `evaluation`
+- **最后活动时间:** 2026-06-11
 
 ### [thepopebot](https://github.com/stephengpope/thepopebot)
 
@@ -8744,21 +8784,13 @@ CVPR 2025开源端到端视觉-语言-动作模型，专为GUI智能体和计算
 - **Tags:** `gui-agent` `gui-grounding` `gui-navigation` `mcp` `foundation-model`
 - **最后活动时间:** 2026-04-20
 
-### [LocalAGI](https://github.com/mudler/LocalAGI)
+### [jianying-editor-skill](https://github.com/luoluoluo22/jianying-editor-skill)
 
-强大的自托管AI智能体平台，可作为OpenAI API的完整替代方案，支持消费级硬件本地运行，注重隐私保护。
-
-- **Stars:** ⭐️ 1.8k
-- **Tags:** `Self-hosted` `Local AI` `Privacy`
-- **最后活动时间:** 2026-05-08
-
-### [awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh)
-
-AI Agent 中文学习地图，提供从零开始的结构化学习路径，包含必做练习和必修阅读，支持三语对照。
+Agent技能模块，用于自动化剪映视频编辑操作，实现AI驱动的视频编辑工作流。
 
 - **Stars:** ⭐️ 1.8k
-- **Tags:** `ai-agents` `llm-agents` `mcp` `learning-roadmap` `tutorial`
-- **最后活动时间:** 2026-05-27
+- **Tags:** `Agent` `视频编辑` `自动化`
+- **最后活动时间:** 2026-06-12
 
 ### [codex-autoresearch](https://github.com/leo-lilinxiao/codex-autoresearch)
 
@@ -8776,6 +8808,14 @@ AI Agent 中文学习地图，提供从零开始的结构化学习路径，包�
 - **Tags:** `self-evolving` `coding-agent` `autonomous`
 - **最后活动时间:** 2026-05-29
 
+### [Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI)
+
+基于AI智能体群的自主渗透测试框架，支持侦察、分类、漏洞利用和报告生成的全流程自动化，适用于漏洞赏金、持续监控和CTF场景。
+
+- **Stars:** ⭐️ 1.8k
+- **Tags:** `ai-agents` `penetration-testing` `cybersecurity` `autonomous-agents`
+- **最后活动时间:** 2026-06-06
+
 ### [CyberBattleSim](https://github.com/microsoft/CyberBattleSim)
 
 微软开源的网络攻防模拟平台，用于研究自动化智能体在抽象网络环境中的交互。
@@ -8783,14 +8823,6 @@ AI Agent 中文学习地图，提供从零开始的结构化学习路径，包�
 - **Stars:** ⭐️ 1.8k
 - **Tags:** `Cybersecurity` `Simulation` `Autonomous Agents`
 - **最后活动时间:** 2026-04-21
-
-### [Memoh](https://github.com/memohai/Memoh)
-
-多成员、结构化长期记忆的容器化AI代理系统。支持复杂记忆管理和多代理协作。
-
-- **Stars:** ⭐️ 1.8k
-- **Tags:** `long-memory` `agent-system` `containerized` `ai`
-- **最后活动时间:** 2026-05-28
 
 ### [background-agents](https://github.com/ColeMurray/background-agents)
 
@@ -8812,7 +8844,7 @@ AI Agent 中文学习地图，提供从零开始的结构化学习路径，包�
 
 AI驱动的多智能体研究助手，自动化完成假设生成、数据分析和报告撰写。
 
-- **Stars:** ⭐️ 1.7k
+- **Stars:** ⭐️ 1.8k
 - **Tags:** `Multi-Agent` `Research` `Data Analysis`
 - **最后活动时间:** 2026-04-27
 
@@ -8846,7 +8878,23 @@ OpenAI官方的计算机使用代理(CUA)示例应用，演示如何通过API让
 
 - **Stars:** ⭐️ 1.7k
 - **Tags:** `ai-agent` `autonomous-agent` `devops` `llm-agent` `infrastructure`
-- **最后活动时间:** 2026-05-27
+- **最后活动时间:** 2026-06-11
+
+### [OpenOmniBot](https://github.com/omnimind-ai/OpenOmniBot)
+
+端侧 AI 助手，能够操作终端并在 Android 世界中执行广泛的自动化任务。
+
+- **Stars:** ⭐️ 1.7k
+- **Tags:** `agent` `ai` `android` `automation` `on-device`
+- **最后活动时间:** 2026-06-11
+
+### [blitz-mac](https://github.com/blitzdotdev/blitz-mac)
+
+原生 macOS App Store Connect 工具，支持 MCP 协议，让 AI 智能体能够自动提交 iOS 应用到 App Store。
+
+- **Stars:** ⭐️ 1.7k
+- **Tags:** `app-store-connect` `mcp` `macos` `ai-agents`
+- **最后活动时间:** 2026-05-05
 
 ### [clawsweeper](https://github.com/openclaw/clawsweeper)
 
@@ -8864,30 +8912,6 @@ AI驱动的仓库维护机器人，自动扫描Issues和PRs并智能建议可关
 - **Tags:** `ai-agent` `autonomous-agent` `devops` `llm-agent` `infrastructure`
 - **最后活动时间:** 2026-04-23
 
-### [blitz-mac](https://github.com/blitzdotdev/blitz-mac)
-
-原生 macOS App Store Connect 工具，支持 MCP 协议，让 AI 智能体能够自动提交 iOS 应用到 App Store。
-
-- **Stars:** ⭐️ 1.7k
-- **Tags:** `app-store-connect` `mcp` `macos` `ai-agents`
-- **最后活动时间:** 2026-05-05
-
-### [llm-for-zotero](https://github.com/yilewang/llm-for-zotero)
-
-基于Zotero文献库的智能研究代理系统，帮助用户深度挖掘和分析学术文献。
-
-- **Stars:** ⭐️ 1.7k
-- **Tags:** `llm-agent` `zotero-plugin` `literature-analysis` `academic-research`
-- **最后活动时间:** 2026-05-28
-
-### [jianying-editor-skill](https://github.com/luoluoluo22/jianying-editor-skill)
-
-Agent技能模块，用于自动化剪映视频编辑操作，实现AI驱动的视频编辑工作流。
-
-- **Stars:** ⭐️ 1.6k
-- **Tags:** `Agent` `视频编辑` `自动化`
-- **最后活动时间:** 2026-04-13
-
 ### [core](https://github.com/RedPlanetHQ/core)
 
 个人智能管家构建平台，打造专属 AI 助手。
@@ -8896,29 +8920,37 @@ Agent技能模块，用于自动化剪映视频编辑操作，实现AI驱动的�
 - **Tags:** `ai` `butler` `agents` `typescript`
 - **最后活动时间:** 2026-05-28
 
-### [testkube](https://github.com/kubeshop/testkube)
-
-Testkube 是一个面向云原生应用的测试编排平台，集成 AI agents 实现智能自动化测试与 DevOps 流程。
-
-- **Stars:** ⭐️ 1.6k
-- **Tags:** `test-automation` `ai-agents` `kubernetes` `devops`
-- **最后活动时间:** 2026-05-28
-
 ### [OpenAdapt](https://github.com/OpenAdaptAI/OpenAdapt)
 
 开源生成式流程自动化工具，利用 LLM 和多模态模型实现 AI 驱动的智能流程自动化。
 
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `agents` `process-automation` `LLM` `multimodal`
-- **最后活动时间:** 2026-03-04
+- **最后活动时间:** 2026-06-12
 
-### [OpenOmniBot](https://github.com/omnimind-ai/OpenOmniBot)
+### [testkube](https://github.com/kubeshop/testkube)
 
-端侧 AI 助手，能够操作终端并在 Android 世界中执行广泛的自动化任务。
+Testkube 是一个面向云原生应用的测试编排平台，集成 AI agents 实现智能自动化测试与 DevOps 流程。
 
 - **Stars:** ⭐️ 1.6k
-- **Tags:** `agent` `ai` `android` `automation` `on-device`
-- **最后活动时间:** 2026-05-28
+- **Tags:** `test-automation` `ai-agents` `kubernetes` `devops`
+- **最后活动时间:** 2026-06-12
+
+### [hello-halo](https://github.com/openkursar/hello-halo)
+
+7×24小时桌面AI智能体，支持远程访问、文件管理和内置AI浏览器，为用户提供全天候视觉AI助手服务。
+
+- **Stars:** ⭐️ 1.6k
+- **Tags:** `AI Agent` `Desktop` `Remote Access`
+- **最后活动时间:** 2026-06-11
+
+### [Cairn](https://github.com/oritera/Cairn)
+
+一个AI驱动的通用状态空间搜索引擎，专注于自动化渗透测试和网络安全领域。支持CTF、红队演练等安全测试场景。
+
+- **Stars:** ⭐️ 1.6k
+- **Tags:** `ai-agent` `penetration-testing` `security-automation` `llm` `cybersecurity`
+- **最后活动时间:** 2026-06-02
 
 ### [agent](https://github.com/stakpak/agent)
 
@@ -8928,14 +8960,6 @@ Testkube 是一个面向云原生应用的测试编排平台，集成 AI agents 
 - **Tags:** `autonomous-agent` `ai-agent` `devops` `llm-agent`
 - **最后活动时间:** 2026-05-26
 
-### [dothething](https://github.com/fluffypony/dothething)
-
-一个自主AI智能体项目，用户只需描述任务，AI即可自动执行完成。
-
-- **Stars:** ⭐️ 1.6k
-- **Tags:** `autonomous-agent` `ai-agent` `automation`
-- **最后活动时间:** 2026-05-28
-
 ### [Claude-OSINT](https://github.com/elementalsouls/Claude-OSINT)
 
 为Claude设计的开源情报侦察技能包，包含90+侦察模块、48种密文正则模式和27个攻击路径模板，适用于授权红队测试和漏洞赏金项目。
@@ -8944,29 +8968,13 @@ Testkube 是一个面向云原生应用的测试编排平台，集成 AI agents 
 - **Tags:** `claude` `osint` `red-team` `security` `agent-skills`
 - **最后活动时间:** 2026-05-22
 
-### [hello-halo](https://github.com/openkursar/hello-halo)
-
-7×24小时桌面AI智能体，支持远程访问、文件管理和内置AI浏览器，为用户提供全天候视觉AI助手服务。
-
-- **Stars:** ⭐️ 1.6k
-- **Tags:** `AI Agent` `Desktop` `Remote Access`
-- **最后活动时间:** 2026-05-27
-
 ### [ai-manus](https://github.com/Simpleyyt/ai-manus)
 
 通用AI智能体系统，支持在沙箱环境中运行各种工具和操作。
 
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `ai-agents` `sandbox` `autonomous-agents`
-- **最后活动时间:** 2026-05-28
-
-### [smallcode](https://github.com/Doorman11991/smallcode)
-
-专为小型LLM优化的AI编程智能体，使用4B活跃参数模型达到87%基准测试成绩。
-
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `ai-coding-agent` `llm` `code-generation` `small-models`
-- **最后活动时间:** 2026-05-27
+- **最后活动时间:** 2026-06-07
 
 ### [lemonai](https://github.com/hexdocom/lemonai)
 
@@ -8983,6 +8991,14 @@ Testkube 是一个面向云原生应用的测试编排平台，集成 AI agents 
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `code-agent` `ai` `developer-tools`
 - **最后活动时间:** 2026-03-24
+
+### [terminator](https://github.com/mediar-ai/terminator)
+
+基于Playwright的Windows计算机操作智能体，支持原生桌面自动化。
+
+- **Stars:** ⭐️ 1.5k
+- **Tags:** `Computer Use` `Desktop` `Automation`
+- **最后活动时间:** 2026-06-02
 
 ### [droidclaw](https://github.com/unitedbyai/droidclaw)
 
@@ -9008,13 +9024,37 @@ Testkube 是一个面向云原生应用的测试编排平台，集成 AI agents 
 - **Tags:** `RPA` `Automation` `OCR` `NLP`
 - **最后活动时间:** 2026-05-28
 
-### [terminator](https://github.com/mediar-ai/terminator)
+### [ghost-os](https://github.com/ghostwright/ghost-os)
 
-基于Playwright的Windows计算机操作智能体，支持原生桌面自动化。
+为AI代理提供完整的计算机操作能力，支持自学习工作流和原生macOS集成，无需截图即可实现自动化操作。
 
 - **Stars:** ⭐️ 1.5k
-- **Tags:** `Computer Use` `Desktop` `Automation`
-- **最后活动时间:** 2026-04-21
+- **Tags:** `ai-agents` `computer-use` `automation` `macos` `mcp`
+- **最后活动时间:** 2026-03-23
+
+### [NanoResearch](https://github.com/OpenRaiser/NanoResearch)
+
+一个自主AI研究助手，能够自动化执行科学研究任务。支持Claude集成，具备智能体技能和自主研究能力。
+
+- **Stars:** ⭐️ 1.5k
+- **Tags:** `ai-agents` `autonomous-agents` `ai-scientist` `claude-code`
+- **最后活动时间:** 2026-05-26
+
+### [little-coder](https://github.com/itayinbarr/little-coder)
+
+专为小型语言模型优化的编程智能体，支持本地 LLM 和 Ollama，适合资源受限环境。
+
+- **Stars:** ⭐️ 1.5k
+- **Tags:** `coding-agent` `small-language-models` `local-llm` `ollama` `tool-use`
+- **最后活动时间:** 2026-06-08
+
+### [Data-Analysis-Agent](https://github.com/Zafer-Liu/Data-Analysis-Agent)
+
+面向商业分析师的智能数据分析体，支持自动化数据分析与可视化图表生成，助力商业决策。
+
+- **Stars:** ⭐️ 1.5k
+- **Tags:** `agent` `data-analysis` `ai-tools` `visualization` `business-intelligence`
+- **最后活动时间:** 2026-06-09
 
 ### [paperdebugger](https://github.com/PaperDebugger/paperdebugger)
 
@@ -9032,13 +9072,13 @@ Testkube 是一个面向云原生应用的测试编排平台，集成 AI agents 
 - **Tags:** `automation` `bot` `game-ai` `mmorpg`
 - **最后活动时间:** 2026-05-19
 
-### [ghost-os](https://github.com/ghostwright/ghost-os)
+### [MemoryOS](https://github.com/BAI-LAB/MemoryOS)
 
-为AI代理提供完整的计算机操作能力，支持自学习工作流和原生macOS集成，无需截图即可实现自动化操作。
+EMNLP 2025 Oral论文项目，为个性化AI智能体提供记忆操作系统，支持长期记忆与RAG检索增强。
 
 - **Stars:** ⭐️ 1.5k
-- **Tags:** `ai-agents` `computer-use` `automation` `macos` `mcp`
-- **最后活动时间:** 2026-03-23
+- **Tags:** `agent` `llm` `long-term-memory` `rag` `personalization`
+- **最后活动时间:** 2026-04-28
 
 ### [openvibe](https://github.com/vitalops/openvibe)
 
@@ -9048,13 +9088,13 @@ Testkube 是一个面向云原生应用的测试编排平台，集成 AI agents 
 - **Tags:** `autonomous-agents` `gpt` `llms` `chatgpt`
 - **最后活动时间:** 2026-05-15
 
-### [WebThinker](https://github.com/RUC-NLPIR/WebThinker)
+### [FinnewsHunter](https://github.com/DemonDamon/FinnewsHunter)
 
-NeurIPS 2025论文，赋予大推理模型深度研究能力，支持复杂网络搜索与报告生成。
+基于AgenticX的多智能体金融情报平台，支持实时新闻分析、情绪融合和Alpha因子挖掘。
 
 - **Stars:** ⭐️ 1.4k
-- **Tags:** `deep-research` `reasoning-agent` `web-search` `autonomous`
-- **最后活动时间:** 2025-12-08
+- **Tags:** `multi-agent` `sentiment-analysis` `fintech` `quant-finance`
+- **最后活动时间:** 2026-01-13
 
 ### [karpathy](https://github.com/K-Dense-AI/karpathy)
 
@@ -9063,6 +9103,14 @@ NeurIPS 2025论文，赋予大推理模型深度研究能力，支持复杂网�
 - **Stars:** ⭐️ 1.4k
 - **Tags:** `agentic-ai` `automl` `machine-learning`
 - **最后活动时间:** 2026-04-26
+
+### [ToolUniverse](https://github.com/mims-harvard/ToolUniverse)
+
+面向AI科学家的工具宇宙，支持MCP服务器、推理代理和自动化科学研究，助力AI驱动的科学发现。
+
+- **Stars:** ⭐️ 1.4k
+- **Tags:** `AI Scientists` `Tool-Use` `MCP`
+- **最后活动时间:** 2026-06-12
 
 ### [AgentEvolver](https://github.com/modelscope/AgentEvolver)
 
@@ -9088,14 +9136,6 @@ NeurIPS 2025论文，赋予大推理模型深度研究能力，支持复杂网�
 - **Tags:** `ai-penetration-testing` `gemini-ai` `langchain` `automation` `security`
 - **最后活动时间:** 2026-05-29
 
-### [FinnewsHunter](https://github.com/DemonDamon/FinnewsHunter)
-
-基于AgenticX的多智能体金融情报平台，支持实时新闻分析、情绪融合和Alpha因子挖掘。
-
-- **Stars:** ⭐️ 1.4k
-- **Tags:** `multi-agent` `sentiment-analysis` `fintech` `quant-finance`
-- **最后活动时间:** 2026-01-13
-
 ### [phantom](https://github.com/ghostwright/phantom)
 
 一个拥有独立计算机的AI协作伙伴，具备自我进化能力、持久化记忆和MCP服务器支持。基于Claude Agent SDK构建，支持安全凭证收集和邮件身份认证。
@@ -9103,14 +9143,6 @@ NeurIPS 2025论文，赋予大推理模型深度研究能力，支持复杂网�
 - **Stars:** ⭐️ 1.4k
 - **Tags:** `ai-agents` `autonomous-agents` `claude` `mcp` `llm`
 - **最后活动时间:** 2026-05-02
-
-### [MemoryOS](https://github.com/BAI-LAB/MemoryOS)
-
-EMNLP 2025 Oral论文项目，为个性化AI智能体提供记忆操作系统，支持长期记忆与RAG检索增强。
-
-- **Stars:** ⭐️ 1.4k
-- **Tags:** `agent` `llm` `long-term-memory` `rag` `personalization`
-- **最后活动时间:** 2026-04-28
 
 ### [TextWorld](https://github.com/microsoft/TextWorld)
 
@@ -9120,22 +9152,6 @@ EMNLP 2025 Oral论文项目，为个性化AI智能体提供记忆操作系统，
 - **Tags:** `text-based-game` `reinforcement-learning` `environment` `nlp`
 - **最后活动时间:** 2026-01-30
 
-### [AboutSecurity](https://github.com/wgpsec/AboutSecurity)
-
-渗透测试知识库，以 AI Agent 可执行的格式沉淀安全方法论，支持自动化安全测试与漏洞挖掘。
-
-- **Stars:** ⭐️ 1.4k
-- **Tags:** `security` `penetration-testing` `ai-agent` `pentest` `automation`
-- **最后活动时间:** 2026-05-27
-
-### [ToolUniverse](https://github.com/mims-harvard/ToolUniverse)
-
-面向AI科学家的工具宇宙，支持MCP服务器、推理代理和自动化科学研究，助力AI驱动的科学发现。
-
-- **Stars:** ⭐️ 1.4k
-- **Tags:** `AI Scientists` `Tool-Use` `MCP`
-- **最后活动时间:** 2026-05-27
-
 ### [ClawTeam-OpenClaw](https://github.com/win4r/ClawTeam-OpenClaw)
 
 多智能体群体协调框架，基于OpenClaw实现智能体集群协作与群体智能编排。
@@ -9143,6 +9159,14 @@ EMNLP 2025 Oral论文项目，为个性化AI智能体提供记忆操作系统，
 - **Stars:** ⭐️ 1.4k
 - **Tags:** `multi-agent` `swarm-intelligence` `agent-coordination` `swarm`
 - **最后活动时间:** 2026-05-28
+
+### [AboutSecurity](https://github.com/wgpsec/AboutSecurity)
+
+渗透测试知识库，以 AI Agent 可执行的格式沉淀安全方法论，支持自动化安全测试与漏洞挖掘。
+
+- **Stars:** ⭐️ 1.4k
+- **Tags:** `security` `penetration-testing` `ai-agent` `pentest` `automation`
+- **最后活动时间:** 2026-05-27
 
 ### [goal-driven](https://github.com/lidangzzz/goal-driven)
 
@@ -9160,21 +9184,13 @@ AI 驱动的 GitHub Action，可自动分析 Issue 并生成 Pull Request 代码
 - **Tags:** `GitHub Actions` `Automation` `Agent`
 - **最后活动时间:** 2026-03-05
 
-### [little-coder](https://github.com/itayinbarr/little-coder)
+### [dothething](https://github.com/fluffypony/dothething)
 
-专为小型语言模型优化的编程智能体，支持本地 LLM 和 Ollama，适合资源受限环境。
-
-- **Stars:** ⭐️ 1.4k
-- **Tags:** `coding-agent` `small-language-models` `local-llm` `ollama` `tool-use`
-- **最后活动时间:** 2026-05-23
-
-### [NanoResearch](https://github.com/OpenRaiser/NanoResearch)
-
-一个自主AI研究助手，能够自动化执行科学研究任务。支持Claude集成，具备智能体技能和自主研究能力。
+一个自主AI智能体项目，用户只需描述任务，AI即可自动执行完成。
 
 - **Stars:** ⭐️ 1.4k
-- **Tags:** `ai-agents` `autonomous-agents` `ai-scientist` `claude-code`
-- **最后活动时间:** 2026-05-26
+- **Tags:** `autonomous-agent` `ai-agent` `automation`
+- **最后活动时间:** 2026-06-12
 
 ### [AgentCPM-GUI](https://github.com/OpenBMB/AgentCPM-GUI)
 
@@ -9184,6 +9200,14 @@ AI 驱动的 GitHub Action，可自动分析 Issue 并生成 Pull Request 代码
 - **Tags:** `gui-agent` `android` `reinforcement-learning` `on-device`
 - **最后活动时间:** 2026-01-11
 
+### [continuous-claude](https://github.com/AnandChowdhary/continuous-claude)
+
+Claude Code 持续循环运行工具，可自主创建 PR、等待检查并自动合并。
+
+- **Stars:** ⭐️ 1.4k
+- **Tags:** `claude-code` `autonomous-agents` `continuous-ai` `automation`
+- **最后活动时间:** 2026-06-06
+
 ### [lil-agents](https://github.com/ryanstephen/lil-agents)
 
 运行在 macOS Dock 上的迷你 AI 伴侣应用，为桌面用户提供轻量级的智能助手体验。
@@ -9192,13 +9216,13 @@ AI 驱动的 GitHub Action，可自动分析 Issue 并生成 Pull Request 代码
 - **Tags:** `ai-agent` `macos` `desktop-assistant`
 - **最后活动时间:** 2026-04-06
 
-### [continuous-claude](https://github.com/AnandChowdhary/continuous-claude)
+### [AiSOC](https://github.com/beenuar/AiSOC)
 
-Claude Code 持续循环运行工具，可自主创建 PR、等待检查并自动合并。
+开源AI驱动的安全运营中心，支持告警融合、紫队演练、智能体辅助分流和MITRE ATT&CK调查，可自托管。
 
 - **Stars:** ⭐️ 1.3k
-- **Tags:** `claude-code` `autonomous-agents` `continuous-ai` `automation`
-- **最后活动时间:** 2026-05-09
+- **Tags:** `ai-security` `soc` `threat-detection` `incident-response` `cybersecurity`
+- **最后活动时间:** 2026-06-09
 
 ### [autobe](https://github.com/wrtnlabs/autobe)
 
@@ -9216,14 +9240,6 @@ OpenClaw的优雅替代方案，提供更美观的Web UI和内置IM支持。基�
 - **Tags:** `claude-code` `web-ui` `agent` `sandbox`
 - **最后活动时间:** 2026-05-27
 
-### [Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI)
-
-基于AI智能体群的自主渗透测试框架，支持侦察、分类、漏洞利用和报告生成的全流程自动化，适用于漏洞赏金、持续监控和CTF场景。
-
-- **Stars:** ⭐️ 1.3k
-- **Tags:** `ai-agents` `penetration-testing` `cybersecurity` `autonomous-agents`
-- **最后活动时间:** 2026-05-25
-
 ### [aideml](https://github.com/WecoAI/aideml)
 
 AIDE 是 AI 驱动的代码探索工具，自动化机器学习研发流程的智能体。
@@ -9231,6 +9247,14 @@ AIDE 是 AI 驱动的代码探索工具，自动化机器学习研发流程的�
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `ai` `data-science` `llm` `machine-learning`
 - **最后活动时间:** 2026-05-02
+
+### [agent-teams-ai](https://github.com/777genius/agent-teams-ai)
+
+多智能体协作平台，让AI代理像团队一样自主工作、互相沟通并互相审查工作成果。支持75+种LLM提供商，用户只需通过看板管理即可构建自己的AI公司。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `ai-agents` `multi-agent` `llm` `mcp` `autonomous-agents`
+- **最后活动时间:** 2026-06-11
 
 ### [InternAgent](https://github.com/InternScience/InternAgent)
 
@@ -9240,21 +9264,13 @@ AIDE 是 AI 驱动的代码探索工具，自动化机器学习研发流程的�
 - **Tags:** `AI Scientist` `Multi-Agent` `Scientific Discovery`
 - **最后活动时间:** 2026-05-07
 
-### [poetiq-arc-agi-solver](https://github.com/poetiq-ai/poetiq-arc-agi-solver)
+### [N.E.K.O](https://github.com/Project-N-E-K-O/N.E.K.O)
 
-ARC-AGI基准测试的突破性求解器，用于评估AI系统的抽象推理与泛化能力。
-
-- **Stars:** ⭐️ 1.3k
-- **Tags:** `arc-agi` `reasoning` `benchmark` `agi` `solver`
-- **最后活动时间:** 2025-12-16
-
-### [Cairn](https://github.com/oritera/Cairn)
-
-一个AI驱动的通用状态空间搜索引擎，专注于自动化渗透测试和网络安全领域。支持CTF、红队演练等安全测试场景。
+原生全模态AI伴侣系统，具备24/7环境感知、智能体能力和情感引擎，支持本地化部署。
 
 - **Stars:** ⭐️ 1.3k
-- **Tags:** `ai-agent` `penetration-testing` `security-automation` `llm` `cybersecurity`
-- **最后活动时间:** 2026-05-13
+- **Tags:** `ai-companion` `omni-modal` `ai-agents` `personal-assistant`
+- **最后活动时间:** 2026-06-12
 
 ### [OpenMOSS](https://github.com/uluckyXH/OpenMOSS)
 
@@ -9264,6 +9280,22 @@ ARC-AGI基准测试的突破性求解器，用于评估AI系统的抽象推理�
 - **Tags:** `Multi-Agent` `Autonomous` `Collaboration`
 - **最后活动时间:** 2026-05-06
 
+### [poetiq-arc-agi-solver](https://github.com/poetiq-ai/poetiq-arc-agi-solver)
+
+ARC-AGI基准测试的突破性求解器，用于评估AI系统的抽象推理与泛化能力。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `arc-agi` `reasoning` `benchmark` `agi` `solver`
+- **最后活动时间:** 2025-12-16
+
+### [nao](https://github.com/getnao/nao)
+
+开源分析代理，支持文本转SQL、数据分析和商业智能，可部署聊天界面和Slack机器人。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `agentic-analytics` `text-to-sql` `data-analysis` `analytics`
+- **最后活动时间:** 2026-06-11
+
 ### [Datus-agent](https://github.com/Datus-ai/Datus-agent)
 
 面向现代数据栈的CLI SQL客户端，支持AI原生上下文工程。
@@ -9271,6 +9303,14 @@ ARC-AGI基准测试的突破性求解器，用于评估AI系统的抽象推理�
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `sql-client` `data-engineering` `ai-agent`
 - **最后活动时间:** 2026-05-27
+
+### [auto-deep-researcher-24x7](https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7)
+
+一个自主AI代理，可7x24小时自动运行深度学习实验，支持零成本监控和Leader-Worker架构。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `autonomous-agent` `deep-learning` `experiment-automation` `mlops` `pytorch`
+- **最后活动时间:** 2026-06-03
 
 ### [dirac](https://github.com/dirac-run/dirac)
 
@@ -9280,13 +9320,13 @@ ARC-AGI基准测试的突破性求解器，用于评估AI系统的抽象推理�
 - **Tags:** `coding-agent` `ai-agent` `code-assistant` `automation`
 - **最后活动时间:** 2026-05-17
 
-### [Data-Analysis-Agent](https://github.com/Zafer-Liu/Data-Analysis-Agent)
+### [Agentshire](https://github.com/Agentshire/Agentshire)
 
-面向商业分析师的智能数据分析体，支持自动化数据分析与可视化图表生成，助力商业决策。
+将AI智能体可视化为3D NPC的游戏插件，支持社交模拟、地图编辑器和角色工坊，适用于游戏开发中的多智能体场景。
 
 - **Stars:** ⭐️ 1.2k
-- **Tags:** `agent` `data-analysis` `ai-tools` `visualization` `business-intelligence`
-- **最后活动时间:** 2026-05-23
+- **Tags:** `ai-agents` `multi-agents` `3d` `simulation` `gamedev`
+- **最后活动时间:** 2026-04-15
 
 ### [FlowBot](https://github.com/xlrpa/FlowBot)
 
@@ -9295,14 +9335,6 @@ ARC-AGI基准测试的突破性求解器，用于评估AI系统的抽象推理�
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `rpa` `wechat` `automation` `chatbot` `wework`
 - **最后活动时间:** 2026-03-24
-
-### [nao](https://github.com/getnao/nao)
-
-开源分析代理，支持文本转SQL、数据分析和商业智能，可部署聊天界面和Slack机器人。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `agentic-analytics` `text-to-sql` `data-analysis` `analytics`
-- **最后活动时间:** 2026-05-28
 
 ### [inspect_petri](https://github.com/meridianlabs-ai/inspect_petri)
 
@@ -9342,7 +9374,23 @@ Salesforce开源的企业级深度研究智能体系统，支持多智能体协�
 
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `Deep Research` `Multi-Agent` `Enterprise`
-- **最后活动时间:** 2026-01-30
+- **最后活动时间:** 2026-06-02
+
+### [pi_agent_rust](https://github.com/Dicklesworthstone/pi_agent_rust)
+
+高性能AI编程智能体CLI工具，使用纯Rust编写且零unsafe代码，提供强大的代码生成与辅助能力。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `ai-agents` `cli` `developer-tools` `rust`
+- **最后活动时间:** 2026-06-11
+
+### [boss-agent-cli](https://github.com/can4hou6joeng4/boss-agent-cli)
+
+基于AI Agent的BOSS直聘命令行工具，支持职位搜索、简历优化、MCP工具集成，实现智能化求职招聘工作流。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `ai-agent` `mcp` `job-search` `automation` `cli`
+- **最后活动时间:** 2026-06-12
 
 ### [FilmAgent](https://github.com/HITsz-TMG/FilmAgent)
 
@@ -9384,13 +9432,13 @@ Telegram MCP服务器，让AI客户端能够读取聊天、管理群组、发送
 - **Tags:** `vision` `inverse-graphics` `agent` `computer-vision`
 - **最后活动时间:** 2026-05-06
 
-### [N.E.K.O](https://github.com/Project-N-E-K-O/N.E.K.O)
+### [NeuroSploit](https://github.com/JoasASantos/NeuroSploit)
 
-原生全模态AI伴侣系统，具备24/7环境感知、智能体能力和情感引擎，支持本地化部署。
+AI驱动的渗透测试框架，利用大语言模型自动化安全测试与攻击模拟。
 
 - **Stars:** ⭐️ 1.1k
-- **Tags:** `ai-companion` `omni-modal` `ai-agents` `personal-assistant`
-- **最后活动时间:** 2026-05-28
+- **Tags:** `ai-agents` `cybersecurity` `pentesting` `llm` `security`
+- **最后活动时间:** 2026-03-29
 
 ### [LetsFG](https://github.com/LetsFG/LetsFG)
 
@@ -9408,6 +9456,14 @@ AI驱动的航班搜索与预订智能体，支持400+航空公司实时比价�
 - **Tags:** `ai` `unity` `automation` `chatgpt` `claude`
 - **最后活动时间:** 2026-05-29
 
+### [ApplyPilot](https://github.com/Pickle-Pixel/ApplyPilot)
+
+自动投递求职申请的AI智能体，支持任意网站和表单。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `agents` `job-application` `automation` `form-filling`
+- **最后活动时间:** 2026-03-08
+
 ### [yoyo-evolve](https://github.com/wong2/weixin-agent-sdk)
 
 自我进化的编程智能体，每天自动提交代码改进自身能力。
@@ -9424,13 +9480,13 @@ AI驱动的航班搜索与预订智能体，支持400+航空公司实时比价�
 - **Tags:** `agents` `autonomous-agents` `claude-code` `knowledge-graph`
 - **最后活动时间:** 2026-05-28
 
-### [NeuroSploit](https://github.com/JoasASantos/NeuroSploit)
+### [medical-research-skills](https://github.com/aipoch/medical-research-skills)
 
-AI驱动的渗透测试框架，利用大语言模型自动化安全测试与攻击模拟。
+为医学研究设计的AI智能体技能库，包含数百种技能，涵盖实验方案设计、数据分析、证据洞察和学术写作等功能。
 
 - **Stars:** ⭐️ 1.1k
-- **Tags:** `ai-agents` `cybersecurity` `pentesting` `llm` `security`
-- **最后活动时间:** 2026-03-29
+- **Tags:** `agent-skills` `medical-research` `bioinformatics` `clinical-research`
+- **最后活动时间:** 2026-06-10
 
 ### [news-aggregator-skill](https://github.com/cclank/news-aggregator-skill)
 
@@ -9448,6 +9504,14 @@ StrongDM 开源的非交互式编码智能体，适用于软件工厂场景的�
 - **Tags:** `coding-agent` `automation` `software-factory`
 - **最后活动时间:** 2026-03-17
 
+### [evo](https://github.com/evo-hq/evo)
+
+Claude Code和Codex插件，将代码库转化为自动研究循环。支持自动发现测量指标、基准测试和并行子代理树搜索。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `autonomous-agents` `claude-code` `codex` `llm-agents` `evolutionary-algorithms`
+- **最后活动时间:** 2026-06-12
+
 ### [ace](https://github.com/ace-agent/ace)
 
 通过Agentic Context Engineering（ACE）框架进化你的语言智能体，提供智能体上下文工程解决方案。
@@ -9464,13 +9528,13 @@ StrongDM 开源的非交互式编码智能体，适用于软件工厂场景的�
 - **Tags:** `agent` `3d-generation` `asset-generation` `autonomous`
 - **最后活动时间:** 2026-05-26
 
-### [pi_agent_rust](https://github.com/Dicklesworthstone/pi_agent_rust)
+### [Deep-Research-skills](https://github.com/Weizhena/Deep-Research-skills)
 
-高性能AI编程智能体CLI工具，使用纯Rust编写且零unsafe代码，提供强大的代码生成与辅助能力。
+为Claude Code和Open Code等AI编程助手设计的深度研究技能框架，支持人机协作控制的研究代理。
 
 - **Stars:** ⭐️ 1.1k
-- **Tags:** `ai-agents` `cli` `developer-tools` `rust`
-- **最后活动时间:** 2026-05-29
+- **Tags:** `claude-code` `llm-agent` `deep-research` `research-agent`
+- **最后活动时间:** 2026-05-07
 
 ### [agent](https://github.com/xataio/agent)
 
@@ -9480,6 +9544,14 @@ PostgreSQL专家级AI智能体，提供数据库相关的智能问答与操作�
 - **Tags:** `postgresql` `ai-agent` `database` `llm`
 - **最后活动时间:** 2026-04-20
 
+### [hack-skills](https://github.com/yaklang/hack-skills)
+
+帮助AI智能体学习实用黑客技能的训练项目。提升智能体在安全测试领域的实战能力。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `ai-agent` `hacking` `security` `training`
+- **最后活动时间:** 2026-06-04
+
 ### [DeepAgent](https://github.com/RUC-NLPIR/DeepAgent)
 
 WWW'26 Oral论文项目，一个具有可扩展工具集的通用推理Agent。支持复杂任务的自主推理与工具调用。
@@ -9488,13 +9560,13 @@ WWW'26 Oral论文项目，一个具有可扩展工具集的通用推理Agent。�
 - **Tags:** `reasoning-agent` `tool-use` `autonomous-agents`
 - **最后活动时间:** 2026-04-13
 
-### [AiSOC](https://github.com/beenuar/AiSOC)
+### [WorldX](https://github.com/YGYOOO/WorldX)
 
-开源AI驱动的安全运营中心，支持告警融合、紫队演练、智能体辅助分流和MITRE ATT&CK调查，可自托管。
+一句话生成AI自主驱动的虚拟世界，自动生成地图、角色并让故事自然涌现，支持多智能体模拟。
 
 - **Stars:** ⭐️ 1.1k
-- **Tags:** `ai-security` `soc` `threat-detection` `incident-response` `cybersecurity`
-- **最后活动时间:** 2026-05-29
+- **Tags:** `ai-agents` `generative-agents` `llm` `multi-agent-simulation` `game-ai`
+- **最后活动时间:** 2026-05-06
 
 ### [imsg](https://github.com/steipete/imsg)
 
@@ -9520,13 +9592,13 @@ AutoGLM 的现代化 Web 图形界面，让 AI 自动化操作 Android 设备，
 - **Tags:** `personality` `llm-agent` `mbti` `psychology`
 - **最后活动时间:** 2026-03-17
 
-### [ApplyPilot](https://github.com/Pickle-Pixel/ApplyPilot)
+### [PhoneClaw](https://github.com/kellyvv/PhoneClaw)
 
-自动投递求职申请的AI智能体，支持任意网站和表单。
+基于Gemma 4的设备端手机AI智能体，提供本地化AI助手体验。
 
 - **Stars:** ⭐️ 1.0k
-- **Tags:** `agents` `job-application` `automation` `form-filling`
-- **最后活动时间:** 2026-03-08
+- **Tags:** `ai-agent` `on-device-ai` `gemma` `mobile-ai`
+- **最后活动时间:** 2026-06-08
 
 ### [A-mem](https://github.com/agiresearch/A-mem)
 
@@ -9535,6 +9607,14 @@ AutoGLM 的现代化 Web 图形界面，让 AI 自动化操作 Android 设备，
 - **Stars:** ⭐️ 1.0k
 - **Tags:** `agent` `llm` `memory`
 - **最后活动时间:** 2025-12-12
+
+### [AgentSociety](https://github.com/tsinghua-fib-lab/AgentSociety)
+
+大规模社会模拟平台，通过LLM驱动的智能体理解人类行为与社会动态。
+
+- **Stars:** ⭐️ 1.0k
+- **Tags:** `Social Simulation` `LLM Agents` `Behavior Analysis`
+- **最后活动时间:** 2026-06-09
 
 ### [testzeus-hercules](https://github.com/test-zeus-ai/testzeus-hercules)
 
@@ -9552,6 +9632,14 @@ AutoGLM 的现代化 Web 图形界面，让 AI 自动化操作 Android 设备，
 - **Tags:** `Autonomous Agent` `MCP` `Self-evolving`
 - **最后活动时间:** 2026-04-09
 
+### [LuaN1aoAgent](https://github.com/SanMuzZzZz/LuaN1aoAgent)
+
+认知驱动的AI渗透测试智能体，基于DeepSeek V3，在XBOW基准测试中达到90%以上成功率。
+
+- **Stars:** ⭐️ 1.0k
+- **Tags:** `Cybersecurity` `Autonomous Agent` `Penetration Testing`
+- **最后活动时间:** 2026-04-13
+
 ### [cashclaw](https://github.com/moltlaunch/cashclaw)
 
 自主AI代理，能够接单工作、完成任务、获取报酬并持续自我学习进化。
@@ -9568,14 +9656,6 @@ AutoGLM 的现代化 Web 图形界面，让 AI 自动化操作 Android 设备，
 - **Tags:** `ai-agent` `autonomous-coding` `ai-experiment`
 - **最后活动时间:** 2026-02-13
 
-### [AgentSociety](https://github.com/tsinghua-fib-lab/AgentSociety)
-
-大规模社会模拟平台，通过LLM驱动的智能体理解人类行为与社会动态。
-
-- **Stars:** ⭐️ 1.0k
-- **Tags:** `Social Simulation` `LLM Agents` `Behavior Analysis`
-- **最后活动时间:** 2026-05-21
-
 ### [UI-Venus](https://github.com/inclusionAI/UI-Venus)
 
 原生UI智能体，仅通过截图输入实现精确的GUI元素定位和导航。
@@ -9584,29 +9664,13 @@ AutoGLM 的现代化 Web 图形界面，让 AI 自动化操作 Android 设备，
 - **Tags:** `ui-agent` `grounding` `multimodal`
 - **最后活动时间:** 2026-05-11
 
-### [Agentshire](https://github.com/Agentshire/Agentshire)
-
-将AI智能体可视化为3D NPC的游戏插件，支持社交模拟、地图编辑器和角色工坊，适用于游戏开发中的多智能体场景。
-
-- **Stars:** ⭐️ 999
-- **Tags:** `ai-agents` `multi-agents` `3d` `simulation` `gamedev`
-- **最后活动时间:** 2026-04-15
-
-### [agent-teams-ai](https://github.com/777genius/agent-teams-ai)
-
-多智能体协作平台，让AI代理像团队一样自主工作、互相沟通并互相审查工作成果。支持75+种LLM提供商，用户只需通过看板管理即可构建自己的AI公司。
-
-- **Stars:** ⭐️ 998
-- **Tags:** `ai-agents` `multi-agent` `llm` `mcp` `autonomous-agents`
-- **最后活动时间:** 2026-05-28
-
 ### [goat](https://github.com/goat-sdk/goat)
 
 专为AI智能体设计的金融工具包，支持区块链和加密货币操作。
 
-- **Stars:** ⭐️ 993
+- **Stars:** ⭐️ 995
 - **Tags:** `agents` `ai` `blockchain` `crypto` `finance`
-- **最后活动时间:** 2026-05-12
+- **最后活动时间:** 2026-05-30
 
 ### [Prometheus](https://github.com/EuniAI/Prometheus)
 
@@ -9616,22 +9680,6 @@ AutoGLM 的现代化 Web 图形界面，让 AI 自动化操作 Android 设备，
 - **Tags:** `ai-agent` `knowledge-graph` `code-reasoning`
 - **最后活动时间:** 2026-05-25
 
-### [auto-deep-researcher-24x7](https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7)
-
-一个自主AI代理，可7x24小时自动运行深度学习实验，支持零成本监控和Leader-Worker架构。
-
-- **Stars:** ⭐️ 987
-- **Tags:** `autonomous-agent` `deep-learning` `experiment-automation` `mlops` `pytorch`
-- **最后活动时间:** 2026-04-22
-
-### [PhoneClaw](https://github.com/kellyvv/PhoneClaw)
-
-基于Gemma 4的设备端手机AI智能体，提供本地化AI助手体验。
-
-- **Stars:** ⭐️ 982
-- **Tags:** `ai-agent` `on-device-ai` `gemma` `mobile-ai`
-- **最后活动时间:** 2026-05-28
-
 ### [cali](https://github.com/callstackincubator/cali)
 
 AI智能体辅助构建React Native应用，提升移动端开发效率。
@@ -9639,14 +9687,6 @@ AI智能体辅助构建React Native应用，提升移动端开发效率。
 - **Stars:** ⭐️ 981
 - **Tags:** `ai-agent` `react-native` `code-generation`
 - **最后活动时间:** 2026-04-12
-
-### [WorldX](https://github.com/YGYOOO/WorldX)
-
-一句话生成AI自主驱动的虚拟世界，自动生成地图、角色并让故事自然涌现，支持多智能体模拟。
-
-- **Stars:** ⭐️ 976
-- **Tags:** `ai-agents` `generative-agents` `llm` `multi-agent-simulation` `game-ai`
-- **最后活动时间:** 2026-05-06
 
 ### [ARPO](https://github.com/RUC-NLPIR/ARPO)
 
@@ -9664,21 +9704,13 @@ ICLR 2026论文项目，提出智能体强化策略优化方法，提升Agent决
 - **Tags:** `ai-agents` `autonomous-agents` `computer-use` `llm` `vision-agents`
 - **最后活动时间:** 2026-05-18
 
-### [LuaN1aoAgent](https://github.com/SanMuzZzZz/LuaN1aoAgent)
+### [jiuwenswarm](https://github.com/openJiuwen-ai/jiuwenswarm)
 
-认知驱动的AI渗透测试智能体，基于DeepSeek V3，在XBOW基准测试中达到90%以上成功率。
+基于openJiuwen构建的智能AI代理，将大语言模型能力通过日常通信应用直接触达用户。
 
-- **Stars:** ⭐️ 961
-- **Tags:** `Cybersecurity` `Autonomous Agent` `Penetration Testing`
-- **最后活动时间:** 2026-04-13
-
-### [boss-agent-cli](https://github.com/can4hou6joeng4/boss-agent-cli)
-
-基于AI Agent的BOSS直聘命令行工具，支持职位搜索、简历优化、MCP工具集成，实现智能化求职招聘工作流。
-
-- **Stars:** ⭐️ 942
-- **Tags:** `ai-agent` `mcp` `job-search` `automation` `cli`
-- **最后活动时间:** 2026-05-27
+- **Stars:** ⭐️ 929
+- **Tags:** `ai-agent` `llm` `communication` `chatbot`
+- **最后活动时间:** 2026-06-12
 
 ### [fairo](https://github.com/facebookresearch/fairo)
 
@@ -9704,13 +9736,13 @@ Claude AI 代码解释器环境中的技能文件集合，展示 Claude 的内�
 - **Tags:** `claude` `agent-skills` `code-interpreter` `ai-tools`
 - **最后活动时间:** 2025-12-12
 
-### [stable-worldmodel](https://github.com/galilai-group/stable-worldmodel)
+### [Friday](https://github.com/thesongzhu/Friday)
 
-一个可靠、极简且可扩展的世界模型研究评估库，支持JEPA架构，为自主智能体提供环境预测与规划能力。
+类AGI智能体项目，能够伴随用户成长，支持自动化工作流程和AI助手功能，可自托管部署。
 
-- **Stars:** ⭐️ 906
-- **Tags:** `world-model` `jepa` `pytorch` `deep-learning` `evaluation`
-- **最后活动时间:** 2026-05-26
+- **Stars:** ⭐️ 920
+- **Tags:** `agi` `ai-agent` `autonomous-agents` `ai-assistant` `openai`
+- **最后活动时间:** 2026-06-12
 
 ### [mcp-sequential-thinking](https://github.com/arben-adm/mcp-sequential-thinking)
 
@@ -9724,17 +9756,9 @@ Claude AI 代码解释器环境中的技能文件集合，展示 Claude 的内�
 
 基于ET框架的LOL风格球球大战游戏，内置AI Agent系统和行为树，支持Unity MCP集成。
 
-- **Stars:** ⭐️ 895
+- **Stars:** ⭐️ 897
 - **Tags:** `Game AI` `Agents` `Unity`
-- **最后活动时间:** 2026-05-28
-
-### [Deep-Research-skills](https://github.com/Weizhena/Deep-Research-skills)
-
-为Claude Code和Open Code等AI编程助手设计的深度研究技能框架，支持人机协作控制的研究代理。
-
-- **Stars:** ⭐️ 894
-- **Tags:** `claude-code` `llm-agent` `deep-research` `research-agent`
-- **最后活动时间:** 2026-05-07
+- **最后活动时间:** 2026-06-12
 
 ### [mcp-notion-server](https://github.com/suekou/mcp-notion-server)
 
@@ -9744,21 +9768,21 @@ Notion MCP服务器，让AI智能体能够读写和操作Notion工作空间内�
 - **Tags:** `mcp` `notion` `ai-agent` `productivity`
 - **最后活动时间:** 2026-05-22
 
-### [Friday](https://github.com/thesongzhu/Friday)
+### [pup](https://github.com/DataDog/pup)
 
-类AGI智能体项目，能够伴随用户成长，支持自动化工作流程和AI助手功能，可自托管部署。
+AI代理的CLI伴侣工具，提供200+命令覆盖33+款Datadog产品，增强AI代理的可观测性能力。
 
-- **Stars:** ⭐️ 893
-- **Tags:** `agi` `ai-agent` `autonomous-agents` `ai-assistant` `openai`
-- **最后活动时间:** 2026-05-29
+- **Stars:** ⭐️ 883
+- **Tags:** `cli` `ai-agents` `datadog` `observability`
+- **最后活动时间:** 2026-06-12
 
-### [medical-research-skills](https://github.com/aipoch/medical-research-skills)
+### [DeepGit](https://github.com/zamalali/DeepGit)
 
-为医学研究设计的AI智能体技能库，包含数百种技能，涵盖实验方案设计、数据分析、证据洞察和学术写作等功能。
+深度研究智能体，帮助用户发现最佳 GitHub 开源项目。
 
-- **Stars:** ⭐️ 886
-- **Tags:** `agent-skills` `medical-research` `bioinformatics` `clinical-research`
-- **最后活动时间:** 2026-05-28
+- **Stars:** ⭐️ 880
+- **Tags:** `agent` `github-search` `langchain` `langgraph` `llm`
+- **最后活动时间:** 2026-06-09
 
 ### [council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence)
 
@@ -9784,13 +9808,13 @@ Notion MCP服务器，让AI智能体能够读写和操作Notion工作空间内�
 - **Tags:** `agent` `ai-agents` `openclaw`
 - **最后活动时间:** 2026-05-29
 
-### [DeepGit](https://github.com/zamalali/DeepGit)
+### [paper-ppt-agent](https://github.com/CRui5in/paper-ppt-agent)
 
-深度研究智能体，帮助用户发现最佳 GitHub 开源项目。
+一个智能体工具，可从学术论文PDF或LaTeX源文件自动生成可编辑的PPT演示文稿。
 
-- **Stars:** ⭐️ 877
-- **Tags:** `agent` `github-search` `langchain` `langgraph` `llm`
-- **最后活动时间:** 2026-05-28
+- **Stars:** ⭐️ 875
+- **Tags:** `agent` `ppt-generation` `document-processing` `pdf`
+- **最后活动时间:** 2026-06-11
 
 ### [hok_env](https://github.com/tencent-ailab/hok_env)
 
@@ -9808,13 +9832,13 @@ NeurIPS 2025论文实现，为LLM智能体提供代理式记忆系统，增强�
 - **Tags:** `llm-agents` `memory-system` `agentic` `neurips2025`
 - **最后活动时间:** 2026-03-05
 
-### [jiuwenswarm](https://github.com/openJiuwen-ai/jiuwenswarm)
+### [WindowsAgentArena](https://github.com/microsoft/WindowsAgentArena)
 
-基于openJiuwen构建的智能AI代理，将大语言模型能力通过日常通信应用直接触达用户。
+Windows多模态AI智能体测试与基准评估平台。提供可扩展的OS环境用于桌面智能体能力评测。
 
 - **Stars:** ⭐️ 867
-- **Tags:** `ai-agent` `llm` `communication` `chatbot`
-- **最后活动时间:** 2026-05-29
+- **Tags:** `ai-agent` `benchmark` `multimodal` `windows` `desktop-agent`
+- **最后活动时间:** 2026-04-13
 
 ### [reaper](https://github.com/ghostsecurity/reaper)
 
@@ -9824,14 +9848,6 @@ NeurIPS 2025论文实现，为LLM智能体提供代理式记忆系统，增强�
 - **Tags:** `ai` `agentic` `security` `automation` `proxy`
 - **最后活动时间:** 2026-03-24
 
-### [WindowsAgentArena](https://github.com/microsoft/WindowsAgentArena)
-
-Windows多模态AI智能体测试与基准评估平台。提供可扩展的OS环境用于桌面智能体能力评测。
-
-- **Stars:** ⭐️ 861
-- **Tags:** `ai-agent` `benchmark` `multimodal` `windows` `desktop-agent`
-- **最后活动时间:** 2026-04-13
-
 ### [Kai](https://github.com/SimonSchubert/Kai)
 
 能够生成屏幕界面的AI助手，支持Android和iOS跨平台，兼容OpenAI接口。
@@ -9839,6 +9855,22 @@ Windows多模态AI智能体测试与基准评估平台。提供可扩展的OS环
 - **Stars:** ⭐️ 861
 - **Tags:** `ai-assistant` `kotlin-multiplatform` `gemma` `openai-compatible`
 - **最后活动时间:** 2026-05-28
+
+### [app-store-connect-cli-skills](https://github.com/rorkai/app-store-connect-cli-skills)
+
+为AI代理提供App Store Connect自动化技能，支持iOS/macOS应用的部署、TestFlight测试和CI/CD流程自动化。
+
+- **Stars:** ⭐️ 856
+- **Tags:** `ai-skills` `agent-skills` `automation` `app-store-connect` `cicd`
+- **最后活动时间:** 2026-06-02
+
+### [general-agentic-memory](https://github.com/VectorSpaceLab/general-agentic-memory)
+
+面向智能体的通用记忆系统，支持深度研究能力，为AI Agent提供持久化记忆存储。
+
+- **Stars:** ⭐️ 855
+- **Tags:** `agents` `memory-system` `ai-agents`
+- **最后活动时间:** 2026-03-14
 
 ### [steve-jobs-skill](https://github.com/alchaincyf/steve-jobs-skill)
 
@@ -9848,37 +9880,45 @@ Windows多模态AI智能体测试与基准评估平台。提供可扩展的OS环
 - **Tags:** `ai-agent` `persona` `steve-jobs` `cognitive-model`
 - **最后活动时间:** 2026-05-27
 
-### [general-agentic-memory](https://github.com/VectorSpaceLab/general-agentic-memory)
-
-面向智能体的通用记忆系统，支持深度研究能力，为AI Agent提供持久化记忆存储。
-
-- **Stars:** ⭐️ 852
-- **Tags:** `agents` `memory-system` `ai-agents`
-- **最后活动时间:** 2026-03-14
-
 ### [AutoR](https://github.com/AutoX-AI-Labs/AutoR)
 
 AI驱动的自动化研究执行框架，让AI处理执行过程、人类掌控研究方向，每次运行都生成可审查的研究成果。
 
-- **Stars:** ⭐️ 844
+- **Stars:** ⭐️ 852
 - **Tags:** `ai-agent` `research` `automation` `llm`
-- **最后活动时间:** 2026-05-12
-
-### [pup](https://github.com/DataDog/pup)
-
-AI代理的CLI伴侣工具，提供200+命令覆盖33+款Datadog产品，增强AI代理的可观测性能力。
-
-- **Stars:** ⭐️ 838
-- **Tags:** `cli` `ai-agents` `datadog` `observability`
-- **最后活动时间:** 2026-05-28
+- **最后活动时间:** 2026-06-02
 
 ### [agentic-soc-platform](https://github.com/FunnyWolf/agentic-soc-platform)
 
 基于 Agent 的安全运营中心平台，结合 LLM 和 LangGraph 实现自动化安全运营和威胁响应。
 
-- **Stars:** ⭐️ 837
+- **Stars:** ⭐️ 851
 - **Tags:** `Security` `SOC` `LLM` `Agent`
-- **最后活动时间:** 2026-05-28
+- **最后活动时间:** 2026-06-12
+
+### [SWE-AF](https://github.com/Agent-Field/SWE-AF)
+
+自主软件工程AI智能体舰队，支持PR规划、编码、测试和发布全流程，采用多智能体协作架构。
+
+- **Stars:** ⭐️ 850
+- **Tags:** `Autonomous Agents` `Multi-agent` `Software Engineering`
+- **最后活动时间:** 2026-06-01
+
+### [ScienceClaw](https://github.com/beita6969/ScienceClaw)
+
+一个自进化的AI科研助手，专为科学家设计。拥有285项技能、零幻觉特性和持久记忆，支持文献综述、元分析等科研任务。
+
+- **Stars:** ⭐️ 841
+- **Tags:** `ai-agent` `llm` `research-tools` `bioinformatics` `mcp`
+- **最后活动时间:** 2026-06-08
+
+### [pocketpaw](https://github.com/pocketpaw/pocketpaw)
+
+30秒快速部署的自托管个人AI助手，支持多智能体协作和7层安全防护，兼容多种AI后端。
+
+- **Stars:** ⭐️ 840
+- **Tags:** `AI Agent` `Self-hosted` `Personal Assistant`
+- **最后活动时间:** 2026-06-12
 
 ### [Molt-Pi-Maker](https://github.com/DmitrySolana/Molt-Pi-Maker)
 
@@ -9896,22 +9936,6 @@ AI驱动的智能生活管理助手，可自主处理膳食规划、购物安排
 - **Tags:** `ai-agent` `life-management` `automation` `autonomous`
 - **最后活动时间:** 2026-03-27
 
-### [evo](https://github.com/evo-hq/evo)
-
-Claude Code和Codex插件，将代码库转化为自动研究循环。支持自动发现测量指标、基准测试和并行子代理树搜索。
-
-- **Stars:** ⭐️ 830
-- **Tags:** `autonomous-agents` `claude-code` `codex` `llm-agents` `evolutionary-algorithms`
-- **最后活动时间:** 2026-05-28
-
-### [pocketpaw](https://github.com/pocketpaw/pocketpaw)
-
-30秒快速部署的自托管个人AI助手，支持多智能体协作和7层安全防护，兼容多种AI后端。
-
-- **Stars:** ⭐️ 827
-- **Tags:** `AI Agent` `Self-hosted` `Personal Assistant`
-- **最后活动时间:** 2026-05-28
-
 ### [boop-agent](https://github.com/raroque/boop-agent)
 
 基于Claude Agent SDK构建的iMessage智能代理，支持多智能体架构、记忆管理和自动化集成，可定制化程度高。
@@ -9920,13 +9944,29 @@ Claude Code和Codex插件，将代码库转化为自动研究循环。支持自�
 - **Tags:** `claude-agent` `imessage` `multi-agent` `automation`
 - **最后活动时间:** 2026-05-17
 
-### [ScienceClaw](https://github.com/beita6969/ScienceClaw)
+### [trustclaw](https://github.com/ComposioHQ/trustclaw)
 
-一个自进化的AI科研助手，专为科学家设计。拥有285项技能、零幻觉特性和持久记忆，支持文献综述、元分析等科研任务。
+可自托管的个人AI智能体，支持向量记忆、Composio工具集成和Telegram交互。
+
+- **Stars:** ⭐️ 827
+- **Tags:** `ai-agent` `vector-memory` `telegram-bot` `self-hosted`
+- **最后活动时间:** 2026-06-06
+
+### [OpenPhone](https://github.com/HKUDS/OpenPhone)
+
+面向移动端AI手机代理的基础模型，支持手机端的智能体自主操作。
+
+- **Stars:** ⭐️ 826
+- **Tags:** `mobile-agents` `ai-phone` `phone-agent` `foundation-models`
+- **最后活动时间:** 2026-03-14
+
+### [get-physics-done](https://github.com/psi-oss/get-physics-done)
+
+首个开源的AI物理学家智能体，专注于物理研究领域的自主推理与问题求解。
 
 - **Stars:** ⭐️ 825
-- **Tags:** `ai-agent` `llm` `research-tools` `bioinformatics` `mcp`
-- **最后活动时间:** 2026-05-25
+- **Tags:** `agentic-ai` `physics` `research` `open-source`
+- **最后活动时间:** 2026-06-11
 
 ### [x-mentor-skill](https://github.com/alchaincyf/x-mentor-skill)
 
@@ -9936,37 +9976,13 @@ Claude Code和Codex插件，将代码库转化为自动研究循环。支持自�
 - **Tags:** `ai-agent` `persona` `skill` `content-creation`
 - **最后活动时间:** 2026-05-28
 
-### [OpenPhone](https://github.com/HKUDS/OpenPhone)
+### [oxideterm](https://github.com/AnalyseDeCircuit/oxideterm)
 
-面向移动端AI手机代理的基础模型，支持手机端的智能体自主操作。
+一体化终端工作空间，集成AI代理、MCP协议和RAG功能。支持SSH、SFTP、远程IDE和文件管理，内置智能重连和30+主题。
 
-- **Stars:** ⭐️ 823
-- **Tags:** `mobile-agents` `ai-phone` `phone-agent` `foundation-models`
-- **最后活动时间:** 2026-03-14
-
-### [hack-skills](https://github.com/yaklang/hack-skills)
-
-帮助AI智能体学习实用黑客技能的训练项目。提升智能体在安全测试领域的实战能力。
-
-- **Stars:** ⭐️ 823
-- **Tags:** `ai-agent` `hacking` `security` `training`
-- **最后活动时间:** 2026-05-06
-
-### [app-store-connect-cli-skills](https://github.com/rorkai/app-store-connect-cli-skills)
-
-为AI代理提供App Store Connect自动化技能，支持iOS/macOS应用的部署、TestFlight测试和CI/CD流程自动化。
-
-- **Stars:** ⭐️ 822
-- **Tags:** `ai-skills` `agent-skills` `automation` `app-store-connect` `cicd`
-- **最后活动时间:** 2026-05-03
-
-### [SWE-AF](https://github.com/Agent-Field/SWE-AF)
-
-自主软件工程AI智能体舰队，支持PR规划、编码、测试和发布全流程，采用多智能体协作架构。
-
-- **Stars:** ⭐️ 814
-- **Tags:** `Autonomous Agents` `Multi-agent` `Software Engineering`
-- **最后活动时间:** 2026-05-28
+- **Stars:** ⭐️ 815
+- **Tags:** `terminal` `ai-agent` `mcp` `rag` `ssh` `rust`
+- **最后活动时间:** 2026-06-12
 
 ### [axe](https://github.com/jrswab/axe)
 
@@ -9984,6 +10000,14 @@ ForgeCAD公共配套工具包，提供CAD代理技能示例、文档链接和问
 - **Tags:** `agent-skills` `cad-automation` `parametric-cad`
 - **最后活动时间:** 2026-05-25
 
+### [OpenSwarm](https://github.com/unohee/OpenSwarm)
+
+基于Claude Code CLI的自主AI开发团队编排器，集成Discord控制和Linear项目管理，具备认知记忆能力。
+
+- **Stars:** ⭐️ 805
+- **Tags:** `autonomous-agents` `multi-agent` `claude-code` `orchestrator`
+- **最后活动时间:** 2026-06-11
+
 ### [agent-to-merchant-payments](https://github.com/Snaplii-Inc/agent-to-merchant-payments)
 
 为AI代理设计的支付解决方案，通过代币化支付层连接500+商户礼品卡，支持真实商业交易并节省高达10%费用。
@@ -9992,13 +10016,13 @@ ForgeCAD公共配套工具包，提供CAD代理技能示例、文档链接和问
 - **Tags:** `ai-agents` `payments` `commerce` `tokenization`
 - **最后活动时间:** 2026-05-29
 
-### [get-physics-done](https://github.com/psi-oss/get-physics-done)
+### [sashiko](https://github.com/sashiko-dev/sashiko)
 
-首个开源的AI物理学家智能体，专注于物理研究领域的自主推理与问题求解。
+基于AI Agent的Linux内核代码变更自动审查工具，利用智能体技术自动化代码审查流程。
 
-- **Stars:** ⭐️ 802
-- **Tags:** `agentic-ai` `physics` `research` `open-source`
-- **最后活动时间:** 2026-05-28
+- **Stars:** ⭐️ 804
+- **Tags:** `ai-agent` `code-review` `linux-kernel` `automation`
+- **最后活动时间:** 2026-06-11
 
 ### [beans](https://github.com/hmans/beans)
 
@@ -10008,13 +10032,13 @@ ForgeCAD公共配套工具包，提供CAD代理技能示例、文档链接和问
 - **Tags:** `agentic-ai` `issue-tracker` `markdown` `cli`
 - **最后活动时间:** 2026-04-06
 
-### [OpenSwarm](https://github.com/unohee/OpenSwarm)
+### [Open-AI-Design-Agent](https://github.com/Anil-matcha/Open-AI-Design-Agent)
 
-基于Claude Code CLI的自主AI开发团队编排器，集成Discord控制和Linear项目管理，具备认知记忆能力。
+开源AI设计智能体，可自主完成海报、社交媒体、品牌套件、广告创意和视频等多步骤创意任务，是Lovart AI、Runway Agent等商业产品的免费替代方案。
 
-- **Stars:** ⭐️ 791
-- **Tags:** `autonomous-agents` `multi-agent` `claude-code` `orchestrator`
-- **最后活动时间:** 2026-05-26
+- **Stars:** ⭐️ 794
+- **Tags:** `ai-design-agent` `ai-creative-agent` `autonomous-agents` `open-source`
+- **最后活动时间:** 2026-06-10
 
 ### [agent-desktop](https://github.com/lahfir/agent-desktop)
 
@@ -10056,6 +10080,14 @@ AI驱动的工作流自动化平台，专注于AppSec、模糊测试和攻击性
 - **Tags:** `digital-twin` `llm` `distillation` `persona` `chatbot`
 - **最后活动时间:** 2026-04-15
 
+### [OpenCUA](https://github.com/xlang-ai/OpenCUA)
+
+开源计算机使用智能体基础框架，提供基准测试、数据集和GUI自动化能力。
+
+- **Stars:** ⭐️ 777
+- **Tags:** `Computer-Use` `GUI Agent` `VLM`
+- **最后活动时间:** 2026-05-25
+
 ### [android_world](https://github.com/google-research/android_world)
 
 Android环境下的自主代理基准测试平台，为移动端AI代理研究提供标准化评估环境。
@@ -10072,14 +10104,6 @@ Android环境下的自主代理基准测试平台，为移动端AI代理研究�
 - **Tags:** `reinforcement-learning` `skills` `agents` `evolution`
 - **最后活动时间:** 2026-05-17
 
-### [OpenCUA](https://github.com/xlang-ai/OpenCUA)
-
-开源计算机使用智能体基础框架，提供基准测试、数据集和GUI自动化能力。
-
-- **Stars:** ⭐️ 773
-- **Tags:** `Computer-Use` `GUI Agent` `VLM`
-- **最后活动时间:** 2026-05-25
-
 ### [agents-deep-research](https://github.com/qx-labs/agents-deep-research)
 
 基于OpenAI Agents SDK实现的迭代式深度研究智能体，支持自动化信息检索与分析。
@@ -10095,6 +10119,14 @@ Android环境下的自主代理基准测试平台，为移动端AI代理研究�
 - **Stars:** ⭐️ 768
 - **Tags:** `agentic-framework` `autonomous` `orchestration-framework`
 - **最后活动时间:** 2026-05-29
+
+### [DeepResearcher](https://github.com/GAIR-NLP/DeepResearcher)
+
+一个通过强化学习在真实环境中进行深度研究的智能体框架，旨在自动化科学研究流程。
+
+- **Stars:** ⭐️ 767
+- **Tags:** `reinforcement-learning` `autonomous-agents` `research-automation`
+- **最后活动时间:** 2026-05-10
 
 ### [PhoneAgent](https://github.com/rounak/PhoneAgent)
 
@@ -10128,14 +10160,6 @@ Android环境下的自主代理基准测试平台，为移动端AI代理研究�
 - **Tags:** `multi-agent` `camel` `llm-agents` `agent-framework`
 - **最后活动时间:** 2026-01-16
 
-### [sashiko](https://github.com/sashiko-dev/sashiko)
-
-基于AI Agent的Linux内核代码变更自动审查工具，利用智能体技术自动化代码审查流程。
-
-- **Stars:** ⭐️ 759
-- **Tags:** `ai-agent` `code-review` `linux-kernel` `automation`
-- **最后活动时间:** 2026-05-28
-
 ### [viral-clips-crew](https://github.com/alexfazio/viral-clips-crew)
 
 基于CrewAI的智能视频编辑助手，自动化处理视频内容创作流程。
@@ -10144,13 +10168,21 @@ Android环境下的自主代理基准测试平台，为移动端AI代理研究�
 - **Tags:** `CrewAI` `Video Editing` `Agents`
 - **最后活动时间:** 2026-02-16
 
-### [DeepResearcher](https://github.com/GAIR-NLP/DeepResearcher)
+### [Wax](https://github.com/christopherkarani/Wax)
 
-一个通过强化学习在真实环境中进行深度研究的智能体框架，旨在自动化科学研究流程。
+专为 AI Agent 设计的单文件记忆层，在 Apple Silicon 上实现亚毫秒级 RAG，支持 MCP 协议。
 
 - **Stars:** ⭐️ 757
-- **Tags:** `reinforcement-learning` `autonomous-agents` `research-automation`
-- **最后活动时间:** 2026-05-10
+- **Tags:** `ai-agents` `rag` `vector-database` `coreml` `metal`
+- **最后活动时间:** 2026-05-24
+
+### [open-computer-use](https://github.com/coasty-ai/open-computer-use)
+
+SOTA级计算机使用代理，在OSWorld基准测试达82%，支持远程和本地部署的生产级方案。
+
+- **Stars:** ⭐️ 757
+- **Tags:** `computer-use-agent` `ai-agents` `claude` `gui-automation` `llm-agents`
+- **最后活动时间:** 2026-06-11
 
 ### [WorldSeed](https://github.com/AIScientists-Dev/WorldSeed)
 
@@ -10176,29 +10208,13 @@ Android环境下的自主代理基准测试平台，为移动端AI代理研究�
 - **Tags:** `AI Assistant` `Automation` `Productivity`
 - **最后活动时间:** 2026-05-28
 
-### [Open-AI-Design-Agent](https://github.com/Anil-matcha/Open-AI-Design-Agent)
+### [deep_research_bench](https://github.com/Ayanami0730/deep_research_bench)
 
-开源AI设计智能体，可自主完成海报、社交媒体、品牌套件、广告创意和视频等多步骤创意任务，是Lovart AI、Runway Agent等商业产品的免费替代方案。
+深度研究智能体综合评测基准，评估AI代理的研究能力。
 
-- **Stars:** ⭐️ 751
-- **Tags:** `ai-design-agent` `ai-creative-agent` `autonomous-agents` `open-source`
-- **最后活动时间:** 2026-05-17
-
-### [oxideterm](https://github.com/AnalyseDeCircuit/oxideterm)
-
-一体化终端工作空间，集成AI代理、MCP协议和RAG功能。支持SSH、SFTP、远程IDE和文件管理，内置智能重连和30+主题。
-
-- **Stars:** ⭐️ 747
-- **Tags:** `terminal` `ai-agent` `mcp` `rag` `ssh` `rust`
-- **最后活动时间:** 2026-05-28
-
-### [Wax](https://github.com/christopherkarani/Wax)
-
-专为 AI Agent 设计的单文件记忆层，在 Apple Silicon 上实现亚毫秒级 RAG，支持 MCP 协议。
-
-- **Stars:** ⭐️ 745
-- **Tags:** `ai-agents` `rag` `vector-database` `coreml` `metal`
-- **最后活动时间:** 2026-05-24
+- **Stars:** ⭐️ 752
+- **Tags:** `agent` `benchmark` `deep-research`
+- **最后活动时间:** 2026-05-11
 
 ### [cuga-agent](https://github.com/cuga-project/cuga-agent)
 
@@ -10224,13 +10240,13 @@ Android环境下的自主代理基准测试平台，为移动端AI代理研究�
 - **Tags:** `agent` `wechat` `automation` `mcp` `claude`
 - **最后活动时间:** 2026-05-19
 
-### [deep_research_bench](https://github.com/Ayanami0730/deep_research_bench)
+### [ai-sales-team-claude](https://github.com/zubair-trabzada/ai-sales-team-claude)
 
-深度研究智能体综合评测基准，评估AI代理的研究能力。
+基于Claude Code的AI销售团队，支持潜在客户研究、线索筛选、决策者识别、外联序列生成等功能，包含14项技能和5个并行智能体。
 
-- **Stars:** ⭐️ 734
-- **Tags:** `agent` `benchmark` `deep-research`
-- **最后活动时间:** 2026-05-11
+- **Stars:** ⭐️ 737
+- **Tags:** `ai-agent` `sales-automation` `claude` `lead-generation`
+- **最后活动时间:** 2026-03-27
 
 ### [clawe](https://github.com/getclawe/clawe)
 
@@ -10264,6 +10280,14 @@ Android环境下的自主代理基准测试平台，为移动端AI代理研究�
 - **Tags:** `search-agent` `open-source` `ai-agent`
 - **最后活动时间:** 2026-05-22
 
+### [deepxiv_sdk](https://github.com/DeepXiv/deepxiv_sdk)
+
+与arXiv论文对话的AI智能体Python SDK，让阅读研究论文如同与作者交流般自然流畅。
+
+- **Stars:** ⭐️ 722
+- **Tags:** `ai-agent` `arxiv` `research-papers` `python-sdk`
+- **最后活动时间:** 2026-05-22
+
 ### [opencode-telegram-bot](https://github.com/grinev/opencode-telegram-bot)
 
 通过Telegram远程运行和监控AI编程任务的移动客户端，支持定时任务，可作为轻量级OpenCode替代方案。
@@ -10272,21 +10296,13 @@ Android环境下的自主代理基准测试平台，为移动端AI代理研究�
 - **Tags:** `ai-agent` `coding-agent` `telegram` `autonomous-agent`
 - **最后活动时间:** 2026-05-27
 
-### [trustclaw](https://github.com/ComposioHQ/trustclaw)
+### [cheetahclaws](https://github.com/SafeRL-Lab/cheetahclaws)
 
-可自托管的个人AI智能体，支持向量记忆、Composio工具集成和Telegram交互。
+一个快速、易用的Python原生个人AI助手，支持多种模型，可7x24小时自主工作，具备记忆和技能系统。
 
-- **Stars:** ⭐️ 719
-- **Tags:** `ai-agent` `vector-memory` `telegram-bot` `self-hosted`
-- **最后活动时间:** 2026-05-15
-
-### [MemoMind](https://github.com/24kchengYe/MemoMind)
-
-为AI Agent提供本地记忆系统，支持GPU加速，完全私有化部署，零云端依赖，专为Claude Code设计。
-
-- **Stars:** ⭐️ 716
-- **Tags:** `agent-memory` `ai` `claude-code` `llm` `mcp` `memory`
-- **最后活动时间:** 2026-05-01
+- **Stars:** ⭐️ 721
+- **Tags:** `agentic-ai` `claude` `python` `autonomous` `ai-assistant`
+- **最后活动时间:** 2026-06-07
 
 ### [youclaw](https://github.com/CodePhiliaX/youclaw)
 
@@ -10304,13 +10320,21 @@ Android环境下的自主代理基准测试平台，为移动端AI代理研究�
 - **Tags:** `agent-skills` `subagents` `spec-driven` `automation`
 - **最后活动时间:** 2026-04-01
 
-### [deepxiv_sdk](https://github.com/DeepXiv/deepxiv_sdk)
+### [MCP-Kali-Server](https://github.com/Wh0am123/MCP-Kali-Server)
 
-与arXiv论文对话的AI智能体Python SDK，让阅读研究论文如同与作者交流般自然流畅。
+MCP配置工具，将AI代理连接到Linux机器进行渗透测试和安全审计。
 
-- **Stars:** ⭐️ 710
-- **Tags:** `ai-agent` `arxiv` `research-papers` `python-sdk`
-- **最后活动时间:** 2026-05-22
+- **Stars:** ⭐️ 712
+- **Tags:** `MCP` `安全测试` `渗透测试`
+- **最后活动时间:** 2026-03-17
+
+### [temporal-ai-agent](https://github.com/temporal-community/temporal-ai-agent)
+
+在Temporal工作流中运行的多轮对话AI智能体演示。
+
+- **Stars:** ⭐️ 711
+- **Tags:** `ai-agent` `temporal` `workflow`
+- **最后活动时间:** 2026-03-27
 
 ### [DB-GPT](https://github.com/TsinghuaDatabaseGroup/DB-GPT)
 
@@ -10344,6 +10368,14 @@ Android环境下的自主代理基准测试平台，为移动端AI代理研究�
 - **Tags:** `agent` `cli` `ai` `tool-calling` `automation`
 - **最后活动时间:** 2026-05-29
 
+### [MemoMind](https://github.com/24kchengYe/MemoMind)
+
+为AI Agent提供本地记忆系统，支持GPU加速，完全私有化部署，零云端依赖，专为Claude Code设计。
+
+- **Stars:** ⭐️ 706
+- **Tags:** `agent-memory` `ai` `claude-code` `llm` `mcp` `memory`
+- **最后活动时间:** 2026-06-03
+
 ### [microclaw](https://github.com/microclaw/microclaw)
 
 基于Rust构建的智能AI代理助手，可嵌入聊天环境中运行，灵感来自nanoclaw设计理念。
@@ -10352,36 +10384,20 @@ Android环境下的自主代理基准测试平台，为移动端AI代理研究�
 - **Tags:** `Agent` `Rust` `AI Assistant`
 - **最后活动时间:** 2026-05-27
 
+### [powermem](https://github.com/oceanbase/powermem)
+
+AI驱动的长期记忆系统，为AI代理提供精准、敏捷、经济的上下文管理能力，支持向量数据库存储。
+
+- **Stars:** ⭐️ 705
+- **Tags:** `Long-Term-Memory` `AI-Agents` `Vector-Database` `Context-Engineering`
+- **最后活动时间:** 2026-06-11
+
 ### [piclaw](https://github.com/rcarmo/piclaw)
 
 基于 Bun 构建的自托管 AI 编程代理，支持 Docker 部署和 VNC 远程操作，提供 Web UI 工作空间。
 
 - **Stars:** ⭐️ 702
 - **Tags:** `ai-agent` `coding-agent` `llm` `self-hosted`
-- **最后活动时间:** 2026-05-28
-
-### [MCP-Kali-Server](https://github.com/Wh0am123/MCP-Kali-Server)
-
-MCP配置工具，将AI代理连接到Linux机器进行渗透测试和安全审计。
-
-- **Stars:** ⭐️ 700
-- **Tags:** `MCP` `安全测试` `渗透测试`
-- **最后活动时间:** 2026-03-17
-
-### [cheetahclaws](https://github.com/SafeRL-Lab/cheetahclaws)
-
-一个快速、易用的Python原生个人AI助手，支持多种模型，可7x24小时自主工作，具备记忆和技能系统。
-
-- **Stars:** ⭐️ 699
-- **Tags:** `agentic-ai` `claude` `python` `autonomous` `ai-assistant`
-- **最后活动时间:** 2026-05-27
-
-### [open-computer-use](https://github.com/coasty-ai/open-computer-use)
-
-SOTA级计算机使用代理，在OSWorld基准测试达82%，支持远程和本地部署的生产级方案。
-
-- **Stars:** ⭐️ 699
-- **Tags:** `computer-use-agent` `ai-agents` `claude` `gui-automation` `llm-agents`
 - **最后活动时间:** 2026-05-28
 
 ### [ClawLink](https://github.com/CN-Syndra/ClawLink)
@@ -10400,14 +10416,6 @@ AI智能体社交网络平台，让您的AI智能体与其他用户的AI进行�
 - **Tags:** `ai-agents` `claude` `dashboard` `monitoring`
 - **最后活动时间:** 2026-04-05
 
-### [temporal-ai-agent](https://github.com/temporal-community/temporal-ai-agent)
-
-在Temporal工作流中运行的多轮对话AI智能体演示。
-
-- **Stars:** ⭐️ 697
-- **Tags:** `ai-agent` `temporal` `workflow`
-- **最后活动时间:** 2026-03-27
-
 ### [EurekaClaw](https://github.com/EurekaClaw/EurekaClaw)
 
 一个探索AGI和LLM智能体理论的开源项目，专注于智能体架构与实现研究。
@@ -10420,23 +10428,15 @@ AI智能体社交网络平台，让您的AI智能体与其他用户的AI进行�
 
 面向科学研究的多LLM智能体虚拟实验室，支持自动化科学实验与研究流程。
 
-- **Stars:** ⭐️ 685
+- **Stars:** ⭐️ 690
 - **Tags:** `LLM Agents` `Science Research` `Virtual Lab`
 - **最后活动时间:** 2025-12-31
-
-### [powermem](https://github.com/oceanbase/powermem)
-
-AI驱动的长期记忆系统，为AI代理提供精准、敏捷、经济的上下文管理能力，支持向量数据库存储。
-
-- **Stars:** ⭐️ 684
-- **Tags:** `Long-Term-Memory` `AI-Agents` `Vector-Database` `Context-Engineering`
-- **最后活动时间:** 2026-05-28
 
 ### [Sentient](https://github.com/existence-master/Sentient)
 
 开源个人AI助手，具备记忆、个性化和主动式AI能力，支持MCP协议。
 
-- **Stars:** ⭐️ 684
+- **Stars:** ⭐️ 687
 - **Tags:** `personal-assistant` `mcp` `memory` `proactive-ai`
 - **最后活动时间:** 2026-04-13
 
@@ -10444,9 +10444,17 @@ AI驱动的长期记忆系统，为AI代理提供精准、敏捷、经济的上�
 
 受生物启发的AI智能体记忆系统，支持记忆衰减、检索增强和记忆巩固，零依赖轻量实现。
 
-- **Stars:** ⭐️ 678
+- **Stars:** ⭐️ 685
 - **Tags:** `ai-agents` `memory` `biologically-inspired`
-- **最后活动时间:** 2026-05-28
+- **最后活动时间:** 2026-06-11
+
+### [research-companion](https://github.com/andrehuang/research-companion)
+
+为Claude Code设计的战略性研究思考智能体，支持想法评估、项目分类和结构化头脑风暴，帮助研究者决定研究方向。
+
+- **Stars:** ⭐️ 679
+- **Tags:** `ai-agent` `research` `claude` `llm`
+- **最后活动时间:** 2026-04-13
 
 ### [anton](https://github.com/mindsdb/anton)
 
@@ -10455,6 +10463,22 @@ AI驱动的长期记忆系统，为AI代理提供精准、敏捷、经济的上�
 - **Stars:** ⭐️ 676
 - **Tags:** `ai-agents` `code-generation` `coworker`
 - **最后活动时间:** 2026-05-27
+
+### [SWE-smith](https://github.com/SWE-bench/SWE-smith)
+
+NeurIPS 2025入选项目，专注于为软件工程智能体扩展训练数据的研究框架。
+
+- **Stars:** ⭐️ 674
+- **Tags:** `swe-agent` `data-scaling` `software-engineering` `language-model`
+- **最后活动时间:** 2026-06-08
+
+### [AI_Diplomacy](https://github.com/GoodStartLabs/AI_Diplomacy)
+
+前沿大模型玩外交棋盘游戏的研究项目，探索LLM在复杂策略博弈中的决策能力。
+
+- **Stars:** ⭐️ 670
+- **Tags:** `llm` `game-ai` `benchmark` `diplomacy`
+- **最后活动时间:** 2026-06-01
 
 ### [neuro-sdk](https://github.com/VedalAI/neuro-sdk)
 
@@ -10488,37 +10512,13 @@ AI驱动的红队资产测绘智能体，支持MCP协议接入Claude等AI平台�
 - **Tags:** `ai-agent` `mcp` `redteam` `vulnerability-scanner`
 - **最后活动时间:** 2026-04-09
 
-### [AI_Diplomacy](https://github.com/GoodStartLabs/AI_Diplomacy)
-
-前沿大模型玩外交棋盘游戏的研究项目，探索LLM在复杂策略博弈中的决策能力。
-
-- **Stars:** ⭐️ 666
-- **Tags:** `llm` `game-ai` `benchmark` `diplomacy`
-- **最后活动时间:** 2026-02-11
-
-### [research-companion](https://github.com/andrehuang/research-companion)
-
-为Claude Code设计的战略性研究思考智能体，支持想法评估、项目分类和结构化头脑风暴，帮助研究者决定研究方向。
-
-- **Stars:** ⭐️ 665
-- **Tags:** `ai-agent` `research` `claude` `llm`
-- **最后活动时间:** 2026-04-13
-
-### [SWE-smith](https://github.com/SWE-bench/SWE-smith)
-
-NeurIPS 2025入选项目，专注于为软件工程智能体扩展训练数据的研究框架。
-
-- **Stars:** ⭐️ 659
-- **Tags:** `swe-agent` `data-scaling` `software-engineering` `language-model`
-- **最后活动时间:** 2026-05-25
-
 ### [bolna](https://github.com/bolna-ai/bolna)
 
 开源的对话式语音AI代理平台，支持电话通话、功能调用和多平台集成，可构建低延迟的实时语音助手。
 
-- **Stars:** ⭐️ 657
+- **Stars:** ⭐️ 666
 - **Tags:** `voice-agents` `conversational-ai` `voice-assistant` `openai` `twilio`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-06-12
 
 ### [Open-Lovart](https://github.com/Anil-matcha/Open-Lovart)
 
@@ -10544,21 +10544,13 @@ NeurIPS 2025入选项目，专注于为软件工程智能体扩展训练数据�
 - **Tags:** `embodied-ai` `foundation-models` `autonomous-agents` `robotics`
 - **最后活动时间:** 2026-04-14
 
-### [ai-sales-team-claude](https://github.com/zubair-trabzada/ai-sales-team-claude)
-
-基于Claude Code的AI销售团队，支持潜在客户研究、线索筛选、决策者识别、外联序列生成等功能，包含14项技能和5个并行智能体。
-
-- **Stars:** ⭐️ 649
-- **Tags:** `ai-agent` `sales-automation` `claude` `lead-generation`
-- **最后活动时间:** 2026-03-27
-
 ### [agentic-data-scientist](https://github.com/K-Dense-AI/agentic-data-scientist)
 
 端到端自主数据科学家智能体，实现数据分析全流程自动化。
 
-- **Stars:** ⭐️ 647
+- **Stars:** ⭐️ 649
 - **Tags:** `agentic-ai` `data-science` `machine-learning`
-- **最后活动时间:** 2025-12-07
+- **最后活动时间:** 2026-05-29
 
 ### [research-skills](https://github.com/luwill/research-skills)
 
@@ -10567,6 +10559,14 @@ NeurIPS 2025入选项目，专注于为软件工程智能体扩展训练数据�
 - **Stars:** ⭐️ 643
 - **Tags:** `agent` `research` `automation` `ai-skills`
 - **最后活动时间:** 2026-05-11
+
+### [airecon](https://github.com/pikpikcu/airecon)
+
+自主网络安全智能体，结合本地大语言模型(Ollama)与Kali Linux沙盒环境，实现无需API密钥的自动化渗透测试和安全评估。
+
+- **Stars:** ⭐️ 643
+- **Tags:** `ai-agents` `ollama` `penetration-testing` `cybersecurity` `autonomous`
+- **最后活动时间:** 2026-04-23
 
 ### [computer-agent](https://github.com/suitedaces/computer-agent)
 
@@ -10584,6 +10584,14 @@ NeurIPS 2025入选项目，专注于为软件工程智能体扩展训练数据�
 - **Tags:** `ai` `assistant` `openclaw`
 - **最后活动时间:** 2026-05-26
 
+### [Oh-my--paper](https://github.com/LigphiDonk/Oh-my--paper)
+
+Claude Code插件，将终端转变为自主研究实验室。集成文献调研、实验执行和论文写作于一体。
+
+- **Stars:** ⭐️ 637
+- **Tags:** `autonomous-agents` `claude-code` `research-automation` `paper-writing`
+- **最后活动时间:** 2026-04-15
+
 ### [endstone](https://github.com/EndstoneMC/endstone)
 
 高性能Minecraft基岩版服务器，提供原生C++和Python插件API，适合构建AI智能体测试环境。
@@ -10592,6 +10600,14 @@ NeurIPS 2025入选项目，专注于为软件工程智能体扩展训练数据�
 - **Tags:** `minecraft` `server` `python-api` `plugin` `simulation`
 - **最后活动时间:** 2026-05-28
 
+### [BenchMARL](https://github.com/facebookresearch/BenchMARL)
+
+多智能体强化学习基准测试库，支持快速比较不同MARL算法、任务和模型，注重可复现性和标准化。
+
+- **Stars:** ⭐️ 635
+- **Tags:** `marl` `benchmark` `multi-agent` `reinforcement-learning` `pytorch`
+- **最后活动时间:** 2026-02-07
+
 ### [tablegpt-agent](https://github.com/tablegpt/tablegpt-agent)
 
 为TableGPT2预构建的AI智能体，专注于表格数据处理。
@@ -10599,6 +10615,14 @@ NeurIPS 2025入选项目，专注于为软件工程智能体扩展训练数据�
 - **Stars:** ⭐️ 635
 - **Tags:** `agent` `tablegpt` `data-analysis`
 - **最后活动时间:** 2026-04-28
+
+### [opendev](https://github.com/opendev-to/opendev)
+
+开源的终端编码智能体，可在命令行中自主完成代码编写和开发任务。
+
+- **Stars:** ⭐️ 635
+- **Tags:** `coding-agent` `terminal` `open-source`
+- **最后活动时间:** 2026-06-11
 
 ### [swe-agent](https://github.com/langtalks/swe-agent)
 
@@ -10624,14 +10648,6 @@ AI驱动的软件工程多智能体系统，通过研究者和开发者智能体
 - **Tags:** `ai-agent` `autonomous-agent` `llm-agent` `typescript` `usdc`
 - **最后活动时间:** 2026-05-28
 
-### [airecon](https://github.com/pikpikcu/airecon)
-
-自主网络安全智能体，结合本地大语言模型(Ollama)与Kali Linux沙盒环境，实现无需API密钥的自动化渗透测试和安全评估。
-
-- **Stars:** ⭐️ 632
-- **Tags:** `ai-agents` `ollama` `penetration-testing` `cybersecurity` `autonomous`
-- **最后活动时间:** 2026-04-23
-
 ### [pentest-agents](https://github.com/H-mmer/pentest-agents)
 
 漏洞赏金AI代理框架，支持Claude、GPT等多平台，包含48个代理和自主狩猎循环。
@@ -10655,14 +10671,6 @@ AI驱动的软件工程多智能体系统，通过研究者和开发者智能体
 - **Stars:** ⭐️ 625
 - **Tags:** `aiops` `incident-response` `automation` `agent`
 - **最后活动时间:** 2026-05-18
-
-### [BenchMARL](https://github.com/facebookresearch/BenchMARL)
-
-多智能体强化学习基准测试库，支持快速比较不同MARL算法、任务和模型，注重可复现性和标准化。
-
-- **Stars:** ⭐️ 624
-- **Tags:** `marl` `benchmark` `multi-agent` `reinforcement-learning` `pytorch`
-- **最后活动时间:** 2026-02-07
 
 ### [athena-core](https://github.com/Athena-AI-Lab/athena-core)
 
@@ -10704,13 +10712,13 @@ StarCraft II 游戏AI机器人开发库，支持Python 3，可用于强化学习
 - **Tags:** `ai` `bot` `starcraft2` `reinforcement-learning` `game-ai`
 - **最后活动时间:** 2026-04-25
 
-### [opendev](https://github.com/opendev-to/opendev)
+### [minecraft-mcp-server](https://github.com/yuniko-software/minecraft-mcp-server)
 
-开源的终端编码智能体，可在命令行中自主完成代码编写和开发任务。
+Minecraft MCP服务器，让AI助手通过自然语言控制游戏角色建造和探索。
 
-- **Stars:** ⭐️ 612
-- **Tags:** `coding-agent` `terminal` `open-source`
-- **最后活动时间:** 2026-05-26
+- **Stars:** ⭐️ 611
+- **Tags:** `minecraft` `mcp-server` `game-ai` `natural-language`
+- **最后活动时间:** 2026-04-04
 
 ### [ProactiveAgent](https://github.com/thunlp/ProactiveAgent)
 
@@ -10736,22 +10744,6 @@ AI驱动的自动化测试Agent，支持Android、iOS和Web应用的智能测试
 - **Tags:** `ai-agent` `testing` `automation`
 - **最后活动时间:** 2026-04-14
 
-### [Oh-my--paper](https://github.com/LigphiDonk/Oh-my--paper)
-
-Claude Code插件，将终端转变为自主研究实验室。集成文献调研、实验执行和论文写作于一体。
-
-- **Stars:** ⭐️ 599
-- **Tags:** `autonomous-agents` `claude-code` `research-automation` `paper-writing`
-- **最后活动时间:** 2026-04-15
-
-### [paper-ppt-agent](https://github.com/CRui5in/paper-ppt-agent)
-
-一个智能体工具，可从学术论文PDF或LaTeX源文件自动生成可编辑的PPT演示文稿。
-
-- **Stars:** ⭐️ 598
-- **Tags:** `agent` `ppt-generation` `document-processing` `pdf`
-- **最后活动时间:** 2026-05-26
-
 ### [openclaw-guardian](https://github.com/LeoYeAI/openclaw-guardian)
 
 智能守护代理，为OpenClaw网关提供自动监控、自修复、Git回滚和Discord告警功能。
@@ -10768,14 +10760,6 @@ Claude Code插件，将终端转变为自主研究实验室。集成文献调研
 - **Tags:** `ai-companion` `memory` `llm` `agent` `personality`
 - **最后活动时间:** 2026-05-16
 
-### [minecraft-mcp-server](https://github.com/yuniko-software/minecraft-mcp-server)
-
-Minecraft MCP服务器，让AI助手通过自然语言控制游戏角色建造和探索。
-
-- **Stars:** ⭐️ 590
-- **Tags:** `minecraft` `mcp-server` `game-ai` `natural-language`
-- **最后活动时间:** 2026-04-04
-
 ### [Agentic-SEO-Skill](https://github.com/Bhanunamikaze/Agentic-SEO-Skill)
 
 一个基于LLM的SEO分析技能框架，包含16个专业子技能、10个专家代理和33个实用脚本，支持Antigravity、Codex和Claude等主流AI平台。
@@ -10783,6 +10767,14 @@ Minecraft MCP服务器，让AI助手通过自然语言控制游戏角色建造�
 - **Stars:** ⭐️ 588
 - **Tags:** `ai-skill` `seo` `llm` `agents` `claude`
 - **最后活动时间:** 2026-05-26
+
+### [pi-computer-use](https://github.com/injaneity/pi-computer-use)
+
+基于AI编程智能体的计算机控制工具，可隐形操控应用程序执行任务。
+
+- **Stars:** ⭐️ 586
+- **Tags:** `computer-use` `coding-agent` `automation`
+- **最后活动时间:** 2026-06-11
 
 ### [infinite-agentic-loop](https://github.com/disler/infinite-agentic-loop)
 
@@ -10800,6 +10792,22 @@ Minecraft MCP服务器，让AI助手通过自然语言控制游戏角色建造�
 - **Tags:** `ai-agent` `rag` `financial-research` `equity-analysis` `llm-evaluation`
 - **最后活动时间:** 2026-05-26
 
+### [Multi-Agents-Debate](https://github.com/Skytliang/Multi-Agents-Debate)
+
+首个探索大语言模型多智能体辩论的开创性工作。
+
+- **Stars:** ⭐️ 579
+- **Tags:** `multi-agent` `debate` `llm` `nlp`
+- **最后活动时间:** 2025-12-16
+
+### [LAMBDA](https://github.com/AMA-CMFAI/LAMBDA)
+
+来自香港理工大学的学术项目，基于大模型的数据智能体，专注于利用大语言模型进行数据处理和分析任务。
+
+- **Stars:** ⭐️ 578
+- **Tags:** `Agents` `LLM` `Data Analysis`
+- **最后活动时间:** 2026-05-17
+
 ### [OpenAnt](https://github.com/knostic/OpenAnt)
 
 基于LLM的开源漏洞发现工具，帮助安全研究人员主动发现并验证安全缺陷，有效降低误报和漏报率。
@@ -10807,14 +10815,6 @@ Minecraft MCP服务器，让AI助手通过自然语言控制游戏角色建造�
 - **Stars:** ⭐️ 578
 - **Tags:** `ai` `cybersecurity` `sast` `vulnerability-scanner`
 - **最后活动时间:** 2026-05-29
-
-### [LAMBDA](https://github.com/AMA-CMFAI/LAMBDA)
-
-来自香港理工大学的学术项目，基于大模型的数据智能体，专注于利用大语言模型进行数据处理和分析任务。
-
-- **Stars:** ⭐️ 577
-- **Tags:** `Agents` `LLM` `Data Analysis`
-- **最后活动时间:** 2026-05-17
 
 ### [clawcompany](https://github.com/Claw-Company/clawcompany)
 
@@ -10824,14 +10824,6 @@ Minecraft MCP服务器，让AI助手通过自然语言控制游戏角色建造�
 - **Tags:** `multi-agent` `ai-company-os` `autonomous` `memory`
 - **最后活动时间:** 2026-04-25
 
-### [Multi-Agents-Debate](https://github.com/Skytliang/Multi-Agents-Debate)
-
-首个探索大语言模型多智能体辩论的开创性工作。
-
-- **Stars:** ⭐️ 573
-- **Tags:** `multi-agent` `debate` `llm` `nlp`
-- **最后活动时间:** 2025-12-16
-
 ### [omniclaw](https://github.com/omnuron/omniclaw)
 
 首个AI Agent支付网络，支持策略控制、无Gas费用，让自主智能体安全高效地进行支付与收益。
@@ -10839,6 +10831,30 @@ Minecraft MCP服务器，让AI助手通过自然语言控制游戏角色建造�
 - **Stars:** ⭐️ 572
 - **Tags:** `ai-agents` `ai-payments` `autonomous-agents` `mcp-servers`
 - **最后活动时间:** 2026-05-28
+
+### [PaperOrchestra](https://github.com/Ar9av/PaperOrchestra)
+
+基于Google论文实现的自动化AI研究论文写作工具，支持多种编程代理（Claude Code、Cursor等），无需API密钥和LLM SDK即可运行。
+
+- **Stars:** ⭐️ 572
+- **Tags:** `automated-paper-writing` `coding-agents` `multi-agent` `ai-research`
+- **最后活动时间:** 2026-06-02
+
+### [Denario](https://github.com/AstroPilot-AI/Denario)
+
+模块化多智能体系统，专为科学研究辅助而设计。
+
+- **Stars:** ⭐️ 571
+- **Tags:** `multi-agent` `scientific-research` `modular`
+- **最后活动时间:** 2026-06-02
+
+### [mathcode](https://github.com/math-ai-org/mathcode)
+
+MathCode是一个前沿的数学编程智能体，专注于数学推理和代码生成任务，基于大语言模型实现复杂问题的自动求解。
+
+- **Stars:** ⭐️ 570
+- **Tags:** `agent` `ai` `coding` `llm` `reasoning`
+- **最后活动时间:** 2026-06-04
 
 ### [kimi-writer](https://github.com/Doriandarko/kimi-writer)
 
@@ -10848,14 +10864,6 @@ Minecraft MCP服务器，让AI助手通过自然语言控制游戏角色建造�
 - **Tags:** `ai-writing` `creative-agent` `story-generation` `autonomous`
 - **最后活动时间:** 2026-01-29
 
-### [Denario](https://github.com/AstroPilot-AI/Denario)
-
-模块化多智能体系统，专为科学研究辅助而设计。
-
-- **Stars:** ⭐️ 567
-- **Tags:** `multi-agent` `scientific-research` `modular`
-- **最后活动时间:** 2026-05-07
-
 ### [mycoder](https://github.com/bhouston/mycoder)
 
 强大的命令行AI编程代理系统，安装简单，支持Claude等多种AI模型，可自主完成软件编码任务。
@@ -10864,13 +10872,13 @@ Minecraft MCP服务器，让AI助手通过自然语言控制游戏角色建造�
 - **Tags:** `agent` `ai` `coding` `claude` `swe-agent`
 - **最后活动时间:** 2026-01-07
 
-### [pi-computer-use](https://github.com/injaneity/pi-computer-use)
+### [elephant-agent](https://github.com/agentic-in/elephant-agent)
 
-基于AI编程智能体的计算机控制工具，可隐形操控应用程序执行任务。
+首个以个人模型为核心的自进化AI智能体，具备上下文记忆和自我演进能力。
 
-- **Stars:** ⭐️ 563
-- **Tags:** `computer-use` `coding-agent` `automation`
-- **最后活动时间:** 2026-05-22
+- **Stars:** ⭐️ 565
+- **Tags:** `agent` `self-evolution` `personal-ai` `llm` `memory`
+- **最后活动时间:** 2026-06-01
 
 ### [openclaw-auto-dream](https://github.com/LeoYeAI/openclaw-auto-dream)
 
@@ -10879,22 +10887,6 @@ Minecraft MCP服务器，让AI助手通过自然语言控制游戏角色建造�
 - **Stars:** ⭐️ 562
 - **Tags:** `ai-agent` `llm` `memory-management` `auto-dream`
 - **最后活动时间:** 2026-03-31
-
-### [mathcode](https://github.com/math-ai-org/mathcode)
-
-MathCode是一个前沿的数学编程智能体，专注于数学推理和代码生成任务，基于大语言模型实现复杂问题的自动求解。
-
-- **Stars:** ⭐️ 561
-- **Tags:** `agent` `ai` `coding` `llm` `reasoning`
-- **最后活动时间:** 2026-05-26
-
-### [elephant-agent](https://github.com/agentic-in/elephant-agent)
-
-首个以个人模型为核心的自进化AI智能体，具备上下文记忆和自我演进能力。
-
-- **Stars:** ⭐️ 560
-- **Tags:** `agent` `self-evolution` `personal-ai` `llm` `memory`
-- **最后活动时间:** 2026-05-29
 
 ### [a-evolve](https://github.com/A-EVO-Lab/a-evolve)
 
@@ -10936,14 +10928,6 @@ LLM 智能体新范式，通过递归代码生成统一规划与行动，实现�
 - **Tags:** `agents` `ai` `automation` `desktop-app` `mcp` `self-hosted` `tauri` `workflow`
 - **最后活动时间:** 2026-05-26
 
-### [PaperOrchestra](https://github.com/Ar9av/PaperOrchestra)
-
-基于Google论文实现的自动化AI研究论文写作工具，支持多种编程代理（Claude Code、Cursor等），无需API密钥和LLM SDK即可运行。
-
-- **Stars:** ⭐️ 550
-- **Tags:** `automated-paper-writing` `coding-agents` `multi-agent` `ai-research`
-- **最后活动时间:** 2026-05-26
-
 ### [cyrus](https://github.com/ceedaragents/cyrus)
 
 支持 Claude Code、Codex、Cursor、Gemini 的后台智能体，可集成 Linear、Slack、GitHub、GitLab 等平台，支持自主部署。
@@ -10951,6 +10935,22 @@ LLM 智能体新范式，通过递归代码生成统一规划与行动，实现�
 - **Stars:** ⭐️ 548
 - **Tags:** `agent` `claude-code` `codex` `cursor` `gemini` `automation`
 - **最后活动时间:** 2026-04-24
+
+### [netclaw](https://github.com/automateyournetwork/netclaw)
+
+AI驱动的网络分析智能体，可自动扫描和分析网络环境。
+
+- **Stars:** ⭐️ 548
+- **Tags:** `ai-agent` `network-analysis` `network-security`
+- **最后活动时间:** 2026-05-11
+
+### [Open-AgentRL](https://github.com/Gen-Verse/Open-AgentRL)
+
+ICML 2026论文项目，提供通用可扩展的智能体RL算法，支持终端、GUI、SWE和工具调用场景。
+
+- **Stars:** ⭐️ 545
+- **Tags:** `llm-agent` `reinforcement-learning` `gui-agent` `coding-agent`
+- **最后活动时间:** 2026-06-12
 
 ### [link-cli](https://github.com/stripe/link-cli)
 
@@ -10992,22 +10992,6 @@ AI驱动的社交媒体智能体，支持真实浏览器自动化操作，可自
 - **Tags:** `agents` `claude-code-skill` `ai-personality`
 - **最后活动时间:** 2026-05-23
 
-### [Cyber-AutoAgent](https://github.com/westonbrown/Cyber-AutoAgent)
-
-用于自主网络安全的AI智能体，支持自动化网络操作和安全任务。
-
-- **Stars:** ⭐️ 530
-- **Tags:** `cybersecurity` `autonomous-agent` `security-automation` `ai-agent`
-- **最后活动时间:** 2025-11-29
-
-### [Open-AgentRL](https://github.com/Gen-Verse/Open-AgentRL)
-
-ICML 2026论文项目，提供通用可扩展的智能体RL算法，支持终端、GUI、SWE和工具调用场景。
-
-- **Stars:** ⭐️ 530
-- **Tags:** `llm-agent` `reinforcement-learning` `gui-agent` `coding-agent`
-- **最后活动时间:** 2026-05-16
-
 ### [ChatbotX](https://github.com/ChatbotXIO/ChatbotX)
 
 一站式聊天营销平台，支持通过API、CLI和MCP构建智能体工作流，是ManyChat和Chatfuel的开源替代方案。
@@ -11023,14 +11007,6 @@ ICML 2026论文项目，提供通用可扩展的智能体RL算法，支持终端
 - **Stars:** ⭐️ 528
 - **Tags:** `ai-agents` `autonomous-agents` `multiagent-systems` `research-automation`
 - **最后活动时间:** 2026-05-14
-
-### [netclaw](https://github.com/automateyournetwork/netclaw)
-
-AI驱动的网络分析智能体，可自动扫描和分析网络环境。
-
-- **Stars:** ⭐️ 526
-- **Tags:** `ai-agent` `network-analysis` `network-security`
-- **最后活动时间:** 2026-05-11
 
 ### [talk-to-girlfriend-ai](https://github.com/arlanrakh/talk-to-girlfriend-ai)
 
@@ -11072,6 +11048,14 @@ AI驱动的网络分析智能体，可自动扫描和分析网络环境。
 - **Tags:** `ai-agent` `ai-employee` `llm` `chatbot` `enterprise`
 - **最后活动时间:** 2026-04-27
 
+### [TravelPlanner](https://github.com/OSU-NLP-Group/TravelPlanner)
+
+ICML'24 Spotlight论文，提供真实世界规划任务的语言智能体基准测试，用于评估大语言模型的规划与推理能力。
+
+- **Stars:** ⭐️ 521
+- **Tags:** `autonomous-agents` `language-agent` `benchmark` `planning`
+- **最后活动时间:** 2026-05-24
+
 ### [lyrie-ai](https://github.com/OTT-Cybersecurity-LLC/lyrie-ai)
 
 全球首个自主AI网络安全智能体，专注于威胁情报分析和零日漏洞检测，由OTT Cybersecurity LLC开发。
@@ -11084,17 +11068,17 @@ AI驱动的网络分析智能体，可自动扫描和分析网络环境。
 
 腾讯AI Lab开源的深度研究智能体，专注于复杂推理与知识检索任务。
 
-- **Stars:** ⭐️ 517
+- **Stars:** ⭐️ 518
 - **Tags:** `agent` `llm` `research-agent`
 - **最后活动时间:** 2026-04-29
 
-### [TravelPlanner](https://github.com/OSU-NLP-Group/TravelPlanner)
+### [meta-agents-research-environments](https://github.com/facebookresearch/meta-agents-research-environments)
 
-ICML'24 Spotlight论文，提供真实世界规划任务的语言智能体基准测试，用于评估大语言模型的规划与推理能力。
+Meta推出的AI智能体评估平台，提供动态演化的仿真环境来测试智能体的适应能力。区别于静态基准测试，该平台模拟真实世界挑战，支持多智能体系统和强化学习场景。
 
 - **Stars:** ⭐️ 516
-- **Tags:** `autonomous-agents` `language-agent` `benchmark` `planning`
-- **最后活动时间:** 2026-05-24
+- **Tags:** `agents` `autonomous-agents` `benchmark` `multi-agent-systems` `llm` `evaluation`
+- **最后活动时间:** 2026-06-09
 
 ### [ARTEMIS](https://github.com/Stanford-Trinity/ARTEMIS)
 
@@ -11128,14 +11112,6 @@ AI驱动的网络安全智能体工具，专注于自动化安全分析与威胁
 - **Tags:** `solana` `claude` `codex` `agent-skills` `blockchain`
 - **最后活动时间:** 2026-05-22
 
-### [meta-agents-research-environments](https://github.com/facebookresearch/meta-agents-research-environments)
-
-Meta推出的AI智能体评估平台，提供动态演化的仿真环境来测试智能体的适应能力。区别于静态基准测试，该平台模拟真实世界挑战，支持多智能体系统和强化学习场景。
-
-- **Stars:** ⭐️ 505
-- **Tags:** `agents` `autonomous-agents` `benchmark` `multi-agent-systems` `llm` `evaluation`
-- **最后活动时间:** 2026-05-21
-
 ### [milady](https://github.com/milady-ai/milady)
 
 基于 ElizaOS 和 OpenClaw 的自主 AI 智能体项目，支持多种智能体技能与插件扩展。
@@ -11158,9 +11134,9 @@ AI海洋世界多智能体平台，支持社交协作、任务分配与计算资
 
 让AI代理能够轻松访问和操作网站的开源工具，基于Playwright和Python构建，支持自动化在线任务。
 
-- **Stars:** ⭐️ 96.1k
+- **Stars:** ⭐️ 98.4k
 - **Tags:** `AI Agents` `Browser Automation` `LLM`
-- **最后活动时间:** 2026-05-26
+- **最后活动时间:** 2026-06-12
 
 ### [puppeteer](https://github.com/puppeteer/puppeteer)
 
@@ -11182,17 +11158,17 @@ AI海洋世界多智能体平台，支持社交协作、任务分配与计算资
 
 为 AI 编程 Agent 提供的 Chrome DevTools MCP 服务器，支持浏览器自动化和调试。
 
-- **Stars:** ⭐️ 42.2k
+- **Stars:** ⭐️ 43.4k
 - **Tags:** `mcp` `mcp-server` `chrome-devtools` `puppeteer` `browser-automation`
-- **最后活动时间:** 2026-05-28
+- **最后活动时间:** 2026-06-11
 
 ### [agent-browser](https://github.com/vercel-labs/agent-browser)
 
 专为AI智能体设计的浏览器自动化CLI工具，支持AI代理自主操控浏览器执行复杂任务。
 
-- **Stars:** ⭐️ 34.6k
+- **Stars:** ⭐️ 35.9k
 - **Tags:** `Browser Automation` `AI Agents` `CLI` `Web Scraping`
-- **最后活动时间:** 2026-05-28
+- **最后活动时间:** 2026-06-11
 
 ### [selenium](https://github.com/SeleniumHQ/selenium)
 
@@ -11218,29 +11194,37 @@ MCP服务器，让AI助手能够通过Playwright控制浏览器进行自动化�
 - **Tags:** `Headless Browser` `Browser Automation` `AI Agent`
 - **最后活动时间:** 2026-05-29
 
-### [stagehand](https://github.com/browserbase/stagehand)
+### [Agent-Reach](https://github.com/Panniantong/Agent-Reach)
 
-AI驱动的浏览器自动化框架，结合LLM与Playwright，支持自然语言控制浏览器操作。
+为AI智能体提供全网内容抓取能力的CLI工具，支持Twitter、Reddit、YouTube、B站、小红书等多平台零API获取数据。
 
-- **Stars:** ⭐️ 22.9k
-- **Tags:** `Browser Automation` `AI Agent` `Playwright` `LLM`
-- **最后活动时间:** 2026-05-29
+- **Stars:** ⭐️ 26.5k
+- **Tags:** `Web Scraper` `MCP` `CLI`
+- **最后活动时间:** 2026-06-12
 
 ### [CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
 
 隐身浏览器，通过所有机器人检测测试，可作为Playwright的即插即用替代方案，支持无头浏览器自动化和网页抓取。
 
-- **Stars:** ⭐️ 22.1k
+- **Stars:** ⭐️ 25.6k
 - **Tags:** `browser-automation` `stealth-browser` `headless-browser` `web-scraping`
-- **最后活动时间:** 2026-05-26
+- **最后活动时间:** 2026-06-09
+
+### [stagehand](https://github.com/browserbase/stagehand)
+
+AI驱动的浏览器自动化框架，结合LLM与Playwright，支持自然语言控制浏览器操作。
+
+- **Stars:** ⭐️ 23.1k
+- **Tags:** `Browser Automation` `AI Agent` `Playwright` `LLM`
+- **最后活动时间:** 2026-06-12
 
 ### [skyvern](https://github.com/Skyvern-AI/skyvern)
 
 基于AI和计算机视觉的浏览器自动化工具，使用LLM实现智能网页操作和工作流自动化，替代传统RPA方案。
 
-- **Stars:** ⭐️ 21.8k
+- **Stars:** ⭐️ 21.9k
 - **Tags:** `AI自动化` `浏览器` `RPA`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-06-12
 
 ### [automa](https://github.com/AutomaApp/automa)
 
@@ -11250,27 +11234,19 @@ AI驱动的浏览器自动化框架，结合LLM与Playwright，支持自然语�
 - **Tags:** `automation` `browser-automation` `workflow` `chrome-extension`
 - **最后活动时间:** 2026-03-02
 
-### [Agent-Reach](https://github.com/Panniantong/Agent-Reach)
-
-为AI智能体提供全网内容抓取能力的CLI工具，支持Twitter、Reddit、YouTube、B站、小红书等多平台零API获取数据。
-
-- **Stars:** ⭐️ 20.5k
-- **Tags:** `Web Scraper` `MCP` `CLI`
-- **最后活动时间:** 2026-05-18
-
 ### [page-agent](https://github.com/alibaba/page-agent)
 
 基于JavaScript的页面内GUI智能体，支持通过自然语言控制网页界面操作，适用于浏览器自动化场景。
 
-- **Stars:** ⭐️ 18.2k
+- **Stars:** ⭐️ 18.5k
 - **Tags:** `AI Agent` `Browser Automation` `MCP`
-- **最后活动时间:** 2026-05-28
+- **最后活动时间:** 2026-06-11
 
 ### [web-ui](https://github.com/browser-use/web-ui)
 
 在浏览器中运行AI智能体的Web界面工具，支持自动化网页交互和任务执行。
 
-- **Stars:** ⭐️ 16.0k
+- **Stars:** ⭐️ 16.1k
 - **Tags:** `AI-Agent` `Browser` `Web-UI` `Automation`
 - **最后活动时间:** 2026-05-15
 
@@ -11281,6 +11257,14 @@ AI驱动的浏览器自动化框架，结合LLM与Playwright，支持自然语�
 - **Stars:** ⭐️ 15.7k
 - **Tags:** `Web Scraping` `No-Code` `AI Extraction`
 - **最后活动时间:** 2026-05-26
+
+### [obscura](https://github.com/h4ckf0r0day/obscura)
+
+专为 AI 代理和网页抓取设计的无头浏览器，提供强大的自动化浏览能力。
+
+- **Stars:** ⭐️ 15.5k
+- **Tags:** `headless-browser` `web-scraping` `ai-agents` `automation`
+- **最后活动时间:** 2026-06-11
 
 ### [playwright-python](https://github.com/microsoft/playwright-python)
 
@@ -11297,14 +11281,6 @@ AI驱动的浏览器自动化框架，结合LLM与Playwright，支持自然语�
 - **Stars:** ⭐️ 14.0k
 - **Tags:** `llm` `browser-automation` `agents` `autonomous`
 - **最后活动时间:** 2026-05-20
-
-### [obscura](https://github.com/h4ckf0r0day/obscura)
-
-专为 AI 代理和网页抓取设计的无头浏览器，提供强大的自动化浏览能力。
-
-- **Stars:** ⭐️ 13.8k
-- **Tags:** `headless-browser` `web-scraping` `ai-agents` `automation`
-- **最后活动时间:** 2026-05-28
 
 ### [midscene](https://github.com/web-infra-dev/midscene)
 
@@ -11362,6 +11338,14 @@ AI驱动的跨平台UI自动化测试工具，通过视觉识别实现浏览器�
 - **Tags:** `automation` `workflow` `integration` `serverless` `low-code`
 - **最后活动时间:** 2026-05-28
 
+### [BrowserOS](https://github.com/browseros-ai/BrowserOS)
+
+开源的智能体浏览器，支持AI驱动的网页自动化操作，可作为ChatGPT Atlas和Perplexity Comet的替代方案。
+
+- **Stars:** ⭐️ 11.3k
+- **Tags:** `Agent` `Browser` `LLM`
+- **最后活动时间:** 2026-06-11
+
 ### [XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader)
 
 小红书内容提取与采集工具，支持MCP协议集成，可为AI智能体提供社交媒体数据访问能力。
@@ -11370,21 +11354,13 @@ AI驱动的跨平台UI自动化测试工具，通过视觉识别实现浏览器�
 - **Tags:** `mcp-server` `xiaohongshu` `content-extraction` `social-media`
 - **最后活动时间:** 2026-05-28
 
-### [BrowserOS](https://github.com/browseros-ai/BrowserOS)
-
-开源的智能体浏览器，支持AI驱动的网页自动化操作，可作为ChatGPT Atlas和Perplexity Comet的替代方案。
-
-- **Stars:** ⭐️ 11.1k
-- **Tags:** `Agent` `Browser` `LLM`
-- **最后活动时间:** 2026-05-28
-
 ### [robotgo](https://github.com/go-vgo/robotgo)
 
 Go语言跨平台RPA和GUI自动化工具，支持自动测试和计算机操作。
 
 - **Stars:** ⭐️ 10.7k
 - **Tags:** `ai` `automation` `rpa` `go` `opencv`
-- **最后活动时间:** 2026-04-17
+- **最后活动时间:** 2026-06-06
 
 ### [magentic-ui](https://github.com/microsoft/magentic-ui)
 
@@ -11392,7 +11368,7 @@ Go语言跨平台RPA和GUI自动化工具，支持自动测试和计算机操作
 
 - **Stars:** ⭐️ 9.9k
 - **Tags:** `Agents` `AutoGen` `Browser-Use`
-- **最后活动时间:** 2026-05-28
+- **最后活动时间:** 2026-06-11
 
 ### [openbrowser](https://github.com/ntegrals/openbrowser)
 
@@ -11410,6 +11386,14 @@ Go语言跨平台RPA和GUI自动化工具，支持自动测试和计算机操作
 - **Tags:** `browser-automation` `headless-chrome` `orchestrator`
 - **最后活动时间:** 2026-05-28
 
+### [docker-selenium](https://github.com/SeleniumHQ/docker-selenium)
+
+基于容器的Selenium Grid解决方案，支持大规模浏览器自动化测试，可用于AI智能体的网页交互任务。
+
+- **Stars:** ⭐️ 8.6k
+- **Tags:** `selenium` `browser-automation` `docker` `kubernetes`
+- **最后活动时间:** 2026-06-10
+
 ### [BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro)
 
 B站自动化任务工具，支持多种部署方式，集成 AI 功能实现智能任务执行。
@@ -11417,14 +11401,6 @@ B站自动化任务工具，支持多种部署方式，集成 AI 功能实现智
 - **Stars:** ⭐️ 8.6k
 - **Tags:** `bilibili` `automation` `browser-bot` `task-automation`
 - **最后活动时间:** 2026-05-19
-
-### [docker-selenium](https://github.com/SeleniumHQ/docker-selenium)
-
-基于容器的Selenium Grid解决方案，支持大规模浏览器自动化测试，可用于AI智能体的网页交互任务。
-
-- **Stars:** ⭐️ 8.6k
-- **Tags:** `selenium` `browser-automation` `docker` `kubernetes`
-- **最后活动时间:** 2026-05-27
 
 ### [helium](https://github.com/mherrmann/helium)
 
@@ -11538,21 +11514,21 @@ Windows平台的MCP服务器，支持AI模型控制计算机进行自动化操�
 - **Tags:** `mcp` `playwright` `browser-automation` `ai`
 - **最后活动时间:** 2025-12-13
 
+### [mobile-mcp](https://github.com/mobile-next/mobile-mcp)
+
+MCP服务器实现移动设备自动化，支持iOS和Android平台，让AI智能体能够控制模拟器和真机设备。
+
+- **Stars:** ⭐️ 5.2k
+- **Tags:** `MCP` `移动自动化` `iOS` `Android`
+- **最后活动时间:** 2026-06-09
+
 ### [astron-rpa](https://github.com/iflytek/astron-rpa)
 
 面向Agent的RPA自动化套件，支持低代码/无代码开发，集成MCP协议，适用于个人和企业级自动化场景。
 
 - **Stars:** ⭐️ 5.2k
 - **Tags:** `RPA` `Agent` `MCP` `Automation`
-- **最后活动时间:** 2026-04-21
-
-### [mobile-mcp](https://github.com/mobile-next/mobile-mcp)
-
-MCP服务器实现移动设备自动化，支持iOS和Android平台，让AI智能体能够控制模拟器和真机设备。
-
-- **Stars:** ⭐️ 5.1k
-- **Tags:** `MCP` `移动自动化` `iOS` `Android`
-- **最后活动时间:** 2026-05-28
+- **最后活动时间:** 2026-06-10
 
 ### [browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting)
 
@@ -11690,13 +11666,21 @@ Rust版Puppeteer，提供高级API控制无头Chrome/Chromium浏览器，适用�
 - **Tags:** `headless-browser` `browser-automation` `puppeteer` `rust`
 - **最后活动时间:** 2026-02-03
 
+### [anything-analyzer](https://github.com/Mouseww/anything-analyzer)
+
+全能协议分析工具，集成浏览器抓包、MITM代理、指纹伪装和AI分析功能，通过MCP Server无缝对接AI Agent和IDE。
+
+- **Stars:** ⭐️ 2.9k
+- **Tags:** `ai-tools` `protocol-analysis` `mitm-proxy` `mcp-server`
+- **最后活动时间:** 2026-06-03
+
 ### [vibium](https://github.com/VibiumDev/vibium)
 
 面向AI智能体和人类的浏览器自动化工具。
 
 - **Stars:** ⭐️ 2.8k
 - **Tags:** `browser-automation` `web-agents` `automation`
-- **最后活动时间:** 2026-05-27
+- **最后活动时间:** 2026-06-10
 
 ### [DrissionPage](https://github.com/micropython/micropython-lib)
 
@@ -11705,14 +11689,6 @@ Rust版Puppeteer，提供高级API控制无头Chrome/Chromium浏览器，适用�
 - **Stars:** ⭐️ 2.8k
 - **Tags:** `web-automation` `browser-automation` `python` `automation-framework`
 - **最后活动时间:** 2026-05-08
-
-### [anything-analyzer](https://github.com/Mouseww/anything-analyzer)
-
-全能协议分析工具，集成浏览器抓包、MITM代理、指纹伪装和AI分析功能，通过MCP Server无缝对接AI Agent和IDE。
-
-- **Stars:** ⭐️ 2.7k
-- **Tags:** `ai-tools` `protocol-analysis` `mitm-proxy` `mcp-server`
-- **最后活动时间:** 2026-05-28
 
 ### [playwright-skill](https://github.com/lackeyjb/playwright-skill)
 
@@ -11736,7 +11712,7 @@ MCP服务器，为AI代理提供统一的公共网络访问解决方案，支持
 
 - **Stars:** ⭐️ 2.4k
 - **Tags:** `MCP` `Web Scraping` `AI Agents`
-- **最后活动时间:** 2026-04-20
+- **最后活动时间:** 2026-06-11
 
 ### [hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)
 
@@ -11745,6 +11721,14 @@ MCP服务器，为AI代理提供统一的公共网络访问解决方案，支持
 - **Stars:** ⭐️ 2.3k
 - **Tags:** `Captcha` `Multimodal` `Agent` `YOLO`
 - **最后活动时间:** 2026-01-28
+
+### [OpenOutreach](https://github.com/eracle/OpenOutreach)
+
+AI驱动的LinkedIn自动化营销工具，自动寻找潜在客户并执行外联任务。
+
+- **Stars:** ⭐️ 2.1k
+- **Tags:** `LinkedIn` `AI Agent` `Marketing Automation`
+- **最后活动时间:** 2026-06-11
 
 ### [fantoccini](https://github.com/jonhoo/fantoccini)
 
@@ -11760,14 +11744,6 @@ MCP服务器，为AI代理提供统一的公共网络访问解决方案，支持
 
 - **Stars:** ⭐️ 2.0k
 - **Tags:** `Web Agent` `Browser Automation` `Serverless`
-- **最后活动时间:** 2026-05-28
-
-### [OpenOutreach](https://github.com/eracle/OpenOutreach)
-
-AI驱动的LinkedIn自动化营销工具，自动寻找潜在客户并执行外联任务。
-
-- **Stars:** ⭐️ 2.0k
-- **Tags:** `LinkedIn` `AI Agent` `Marketing Automation`
 - **最后活动时间:** 2026-05-28
 
 ### [open-operator](https://github.com/browserbase/open-operator)
@@ -11814,9 +11790,9 @@ AI驱动的LinkedIn自动化营销工具，自动寻找潜在客户并执行外�
 
 为AI智能体打造的高性能浏览器操作引擎，基于Rust构建，速度提升10倍，支持高效可靠的浏览器自动化任务。
 
-- **Stars:** ⭐️ 1.5k
+- **Stars:** ⭐️ 1.6k
 - **Tags:** `AI Agents` `Browser Automation` `Rust`
-- **最后活动时间:** 2026-05-28
+- **最后活动时间:** 2026-06-11
 
 ### [playwright-java](https://github.com/microsoft/playwright-java)
 
@@ -11936,7 +11912,7 @@ Oxylabs开发的AI浏览器代理工具，支持通过自然语言指令自动�
 
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `ai-agent` `browser` `natural-language` `desktop`
-- **最后活动时间:** 2026-05-26
+- **最后活动时间:** 2026-06-03
 
 ### [AIPex](https://github.com/AIPexStudio/AIPex)
 
@@ -12030,9 +12006,9 @@ AI驱动的测试自动化框架，利用LLM实现智能化浏览器测试和自
 
 基于AI规划的浏览器自动化系统，结合LLM实现智能网页导航与自主决策操作。
 
-- **Stars:** ⭐️ 863
+- **Stars:** ⭐️ 864
 - **Tags:** `agents` `browser-automation` `llm` `ai-planning`
-- **最后活动时间:** 2026-03-11
+- **最后活动时间:** 2026-06-01
 
 ### [tiktodv3](https://github.com/kangoka/tiktodv3)
 
@@ -12082,6 +12058,14 @@ Windows高性能屏幕捕获库，专为AI智能体和计算机使用场景设�
 - **Tags:** `screen-capture` `computer-use-agent` `low-latency` `python`
 - **最后活动时间:** 2026-03-18
 
+### [surf](https://github.com/e2b-dev/surf)
+
+基于OpenAI的计算机使用AI Agent，通过自然语言指令与E2B虚拟桌面环境交互。
+
+- **Stars:** ⭐️ 808
+- **Tags:** `Agent` `Desktop` `OpenAI` `E2B`
+- **最后活动时间:** 2026-03-16
+
 ### [jvppeteer](https://github.com/fanyong920/jvppeteer)
 
 Java版本的Puppeteer实现，支持Chrome和Firefox的无头浏览器自动化操作，适用于网页爬虫和自动化测试场景。
@@ -12089,14 +12073,6 @@ Java版本的Puppeteer实现，支持Chrome和Firefox的无头浏览器自动化
 - **Stars:** ⭐️ 806
 - **Tags:** `puppeteer` `browser-automation` `java` `web-scraping`
 - **最后活动时间:** 2026-05-20
-
-### [surf](https://github.com/e2b-dev/surf)
-
-基于OpenAI的计算机使用AI Agent，通过自然语言指令与E2B虚拟桌面环境交互。
-
-- **Stars:** ⭐️ 795
-- **Tags:** `Agent` `Desktop` `OpenAI` `E2B`
-- **最后活动时间:** 2026-03-16
 
 ### [blast](https://github.com/stanford-mast/blast)
 
@@ -12218,6 +12194,14 @@ AI驱动的网页抓取编辑器，支持可视化工作流构建和自然语言
 - **Tags:** `ai-assistant` `browser` `claude` `pwa` `typescript`
 - **最后活动时间:** 2026-02-26
 
+### [frontman](https://github.com/frontman-ai/frontman)
+
+运行在浏览器和前端框架中的AI智能体，支持React、Vue、Svelte等框架的热重载和可视化编辑。
+
+- **Stars:** ⭐️ 582
+- **Tags:** `ai-agent` `browser` `frontend` `visual-editing`
+- **最后活动时间:** 2026-06-11
+
 ### [n8n-nodes-puppeteer](https://github.com/drudge/n8n-nodes-puppeteer)
 
 n8n工作流平台的Puppeteer浏览器自动化节点，支持网页抓取、截图、PDF生成和代理服务器配置。
@@ -12225,14 +12209,6 @@ n8n工作流平台的Puppeteer浏览器自动化节点，支持网页抓取、�
 - **Stars:** ⭐️ 576
 - **Tags:** `browser-automation` `puppeteer` `n8n` `web-scraping`
 - **最后活动时间:** 2026-05-08
-
-### [frontman](https://github.com/frontman-ai/frontman)
-
-运行在浏览器和前端框架中的AI智能体，支持React、Vue、Svelte等框架的热重载和可视化编辑。
-
-- **Stars:** ⭐️ 568
-- **Tags:** `ai-agent` `browser` `frontend` `visual-editing`
-- **最后活动时间:** 2026-05-28
 
 ### [auto-commenter](https://github.com/rokpiy/auto-commenter)
 
@@ -12296,7 +12272,7 @@ YouTube平台的MCP服务器，让AI智能体能够搜索、获取和分析YouTu
 
 基于Godot 4构建的上帝模拟沙盒游戏，采用多智能体AI社交模拟系统，AI角色具备独立思考和记忆能力。
 
-- **Stars:** ⭐️ 2.3k
+- **Stars:** ⭐️ 2.4k
 - **Tags:** `multi-agent` `ai-simulation` `godot` `social-simulation`
 - **最后活动时间:** 2026-04-10
 
