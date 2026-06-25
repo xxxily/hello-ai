@@ -2,7 +2,7 @@
 
 > AI applied to financial analysis, quantitative trading, and enterprise.
 
-> 当前分类已收录 **189** 个相关项目。
+> 当前分类已收录 **186** 个相关项目。
 
 ## Enterprise Solutions
 
@@ -272,6 +272,14 @@ LLM驱动的A股/港股/美股智能分析系统，整合多数据源行情与�
 - **Tags:** `Stock Analysis` `LLM` `Quant`
 - **最后活动时间:** 2026-06-11
 
+### [FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)
+
+现代化金融终端应用，集成机器学习功能提供高级市场分析、投资研究和经济数据工具，支持交互式数据探索。
+
+- **Stars:** ⭐️ 27.5k
+- **Tags:** `Finance` `Machine Learning` `Quantitative`
+- **最后活动时间:** 2026-06-24
+
 ### [dexter](https://github.com/virattt/dexter)
 
 专注于金融领域的自主研究代理，提供深度金融分析能力。
@@ -279,14 +287,6 @@ LLM驱动的A股/港股/美股智能分析系统，整合多数据源行情与�
 - **Stars:** ⭐️ 27.0k
 - **Tags:** `Finance` `Agent` `Research`
 - **最后活动时间:** 2026-06-10
-
-### [FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)
-
-现代化金融终端应用，集成机器学习功能提供高级市场分析、投资研究和经济数据工具，支持交互式数据探索。
-
-- **Stars:** ⭐️ 26.4k
-- **Tags:** `Finance` `Machine Learning` `Quantitative`
-- **最后活动时间:** 2026-06-11
 
 ### [Kronos](https://github.com/shiyu-coder/Kronos)
 
@@ -468,9 +468,9 @@ AI投资分析技能，整合51位投资大佬方法论，22维数据×180条量
 
 开源AI项目，通过分析特朗普社交媒体帖子预测美股走势，模型命中率高达61.3%，包含3150万模型参数。
 
-- **Stars:** ⭐️ 767
+- **Stars:** ⭐️ 787
 - **Tags:** `ai` `machine-learning` `stock-market` `prediction` `signal-analysis`
-- **最后活动时间:** 2026-06-11
+- **最后活动时间:** 2026-06-24
 
 ### [sports-betting](https://github.com/georgedouzas/sports-betting)
 
@@ -722,14 +722,6 @@ Python封装的TA-Lib技术分析库，提供丰富的金融技术指标计算�
 - **Tags:** `algorithmic-trading` `quantitative-finance` `trading`
 - **最后活动时间:** 2026-05-19
 
-### [backtesting.py](https://github.com/kernc/backtesting.py)
-
-Python量化交易回测框架，支持快速验证和优化交易策略，适用于算法交易和金融研究。
-
-- **Stars:** ⭐️ 8.5k
-- **Tags:** `backtesting` `algorithmic-trading` `trading-strategies` `finance`
-- **最后活动时间:** 2025-12-20
-
 ### [jesse](https://github.com/jesse-ai/jesse)
 
 用Python编写的高级加密货币交易机器人框架，支持量化交易策略开发和回测。
@@ -810,6 +802,14 @@ AI驱动的本地优先量化交易平台，支持研究、回测和实盘交易
 - **Tags:** `ai-trading` `trading-bot` `cryptocurrency` `backtest`
 - **最后活动时间:** 2026-06-11
 
+### [PyPortfolioOpt](https://github.com/PyPortfolio/PyPortfolioOpt)
+
+Python金融投资组合优化库，支持经典有效前沿、Black-Litterman模型和层次风险平价等优化策略。
+
+- **Stars:** ⭐️ 5.8k
+- **Tags:** `portfolio-optimization` `quantitative-finance` `python`
+- **最后活动时间:** 2026-06-19
+
 ### [ai_quant_trade](https://github.com/charliedream1/ai_quant_trade)
 
 股票AI操盘手一站式平台，涵盖机器学习、深度学习、强化学习、图网络等AI技术在量化交易中的完整应用，包含策略实例与实盘代码。
@@ -817,14 +817,6 @@ AI驱动的本地优先量化交易平台，支持研究、回测和实盘交易
 - **Stars:** ⭐️ 5.8k
 - **Tags:** `quantitative-trading` `machine-learning` `deep-learning` `reinforcement-learning` `trading-bot`
 - **最后活动时间:** 2026-06-07
-
-### [PyPortfolioOpt](https://github.com/PyPortfolio/PyPortfolioOpt)
-
-Python金融投资组合优化库，支持经典有效前沿、Black-Litterman模型和层次风险平价等优化策略。
-
-- **Stars:** ⭐️ 5.8k
-- **Tags:** `portfolio-optimization` `quantitative-finance` `python`
-- **最后活动时间:** 2026-04-20
 
 ### [Superalgos](https://github.com/Superalgos/Superalgos)
 
@@ -897,14 +889,6 @@ Python金融投资组合优化库，支持经典有效前沿、Black-Litterman�
 - **Stars:** ⭐️ 4.2k
 - **Tags:** `Time Series` `Forecasting` `PyTorch` `Deep Learning`
 - **最后活动时间:** 2026-06-11
-
-### [hftbacktest](https://github.com/nkaz001/hftbacktest)
-
-开源高频交易回测引擎，支持限价订单、队列位置和延迟模拟，提供Binance和Bybit实盘示例。
-
-- **Stars:** ⭐️ 4.1k
-- **Tags:** `algorithmic-trading` `backtesting` `hft` `market-making` `crypto-trading`
-- **最后活动时间:** 2025-12-23
 
 ### [Finance](https://github.com/shashankvemuri/Finance)
 
@@ -1266,6 +1250,14 @@ A股多Agent投研框架，7位AI分析师进行多空辩论决策，适配A股�
 - **Tags:** `trading-bot` `quantitative` `openclaw` `automation`
 - **最后活动时间:** 2026-05-03
 
+### [binance_grid_trader](https://github.com/51bitquant/binance_grid_trader)
+
+币安网格交易策略机器人，支持现货和合约交易，可配置网格参数实现自动化量化交易。
+
+- **Stars:** ⭐️ 965
+- **Tags:** `binance` `grid-trading` `trading-bot` `quantitative-finance`
+- **最后活动时间:** 2026-06-07
+
 ### [Hyper-Alpha-Arena](https://github.com/HammerGPT/Hyper-Alpha-Arena)
 
 AI驱动的自动交易平台，支持Hyperliquid和币安合约的智能交易策略。
@@ -1273,14 +1265,6 @@ AI驱动的自动交易平台，支持Hyperliquid和币安合约的智能交易�
 - **Stars:** ⭐️ 963
 - **Tags:** `ai-trading` `trading-bot` `cryptocurrency`
 - **最后活动时间:** 2026-04-22
-
-### [binance_grid_trader](https://github.com/51bitquant/binance_grid_trader)
-
-币安网格交易策略机器人，支持现货和合约交易，可配置网格参数实现自动化量化交易。
-
-- **Stars:** ⭐️ 959
-- **Tags:** `binance` `grid-trading` `trading-bot` `quantitative-finance`
-- **最后活动时间:** 2026-06-07
 
 ### [TradingView-Machine-Learning-GUI](https://github.com/TreborNamor/TradingView-Machine-Learning-GUI)
 
@@ -1425,14 +1409,6 @@ C++17量化交易框架，集成libtorch/LSTM/CUDA支持深度学习策略，支
 - **Stars:** ⭐️ 660
 - **Tags:** `C++` `LibTorch` `LSTM` `Quantitative-Trading`
 - **最后活动时间:** 2026-03-05
-
-### [ContestTrade](https://github.com/FinStep-AI/ContestTrade)
-
-基于内部竞赛机制的多智能体交易系统。
-
-- **Stars:** ⭐️ 646
-- **Tags:** `multi-agent` `trading` `quantitative-finance`
-- **最后活动时间:** 2025-12-22
 
 ### [Machine-Learning-for-Asset-Managers](https://github.com/emoen/Machine-Learning-for-Asset-Managers)
 

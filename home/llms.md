@@ -2,7 +2,7 @@
 
 > Core large language models and foundation models.
 
-> 当前分类已收录 **148** 个相关项目。
+> 当前分类已收录 **146** 个相关项目。
 
 ## Foundation Models
 
@@ -92,9 +92,9 @@ Meta DINOv3官方PyTorch实现，先进的自监督视觉模型。
 
 高效实现最先进的线性注意力模型，为大规模语言模型提供更高效的注意力机制。
 
-- **Stars:** ⭐️ 5.2k
+- **Stars:** ⭐️ 5.3k
 - **Tags:** `linear-attention` `large-language-models` `transformers` `efficient-attention`
-- **最后活动时间:** 2026-06-11
+- **最后活动时间:** 2026-06-24
 
 ### [Engram](https://github.com/deepseek-ai/Engram)
 
@@ -116,9 +116,9 @@ Meta DINOv3官方PyTorch实现，先进的自监督视觉模型。
 
 专注于GPT风格大语言模型机制可解释性的研究库，支持神经元和注意力头的深入分析与可视化，助力理解模型内部工作原理。
 
-- **Stars:** ⭐️ 3.5k
+- **Stars:** ⭐️ 3.6k
 - **Tags:** `interpretability` `transformer` `mechanistic`
-- **最后活动时间:** 2026-05-28
+- **最后活动时间:** 2026-06-24
 
 ### [LimiX](https://github.com/rio-labs/rio)
 
@@ -160,14 +160,6 @@ Titans架构的PyTorch实现，为Transformer提供SOTA长期记忆能力。
 - **Tags:** `transformers` `memory` `deep-learning` `pytorch`
 - **最后活动时间:** 2026-06-06
 
-### [BitNet](https://github.com/kyegomez/BitNet)
-
-BitNet论文的PyTorch实现，探索1-bit量化Transformer在大语言模型中的扩展能力，为模型压缩和高效推理提供创新方案。
-
-- **Stars:** ⭐️ 1.9k
-- **Tags:** `artificial-intelligence` `deep-neural-networks` `transformers` `quantization` `pytorch`
-- **最后活动时间:** 2026-04-27
-
 ### [TimeCapsuleLLM](https://github.com/haykgrigo3/TimeCapsuleLLM)
 
 一种仅使用特定时期数据训练的大语言模型，旨在减少现代偏见对模型的影响。
@@ -175,6 +167,14 @@ BitNet论文的PyTorch实现，探索1-bit量化Transformer在大语言模型中
 - **Stars:** ⭐️ 1.9k
 - **Tags:** `llm` `bias-reduction` `time-period`
 - **最后活动时间:** 2026-06-11
+
+### [BitNet](https://github.com/kyegomez/BitNet)
+
+BitNet论文的PyTorch实现，探索1-bit量化Transformer在大语言模型中的扩展能力，为模型压缩和高效推理提供创新方案。
+
+- **Stars:** ⭐️ 1.9k
+- **Tags:** `artificial-intelligence` `deep-neural-networks` `transformers` `quantization` `pytorch`
+- **最后活动时间:** 2026-04-27
 
 ### [symbolicai](https://github.com/ExtensityAI/symbolicai)
 
@@ -311,14 +311,6 @@ Google TurboQuant的PyTorch实现，用于LLM KV缓存压缩，实现5倍压缩�
 - **Stars:** ⭐️ 1.0k
 - **Tags:** `llm` `kv-cache` `compression` `pytorch` `quantization`
 - **最后活动时间:** 2026-04-23
-
-### [gated_attention](https://github.com/qiuzh20/gated_attention)
-
-NeurIPS 2025 Oral论文官方实现，提出门控注意力机制，实现非线性、稀疏性和无注意力汇聚点，显著提升大语言模型性能。
-
-- **Stars:** ⭐️ 961
-- **Tags:** `attention-mechanism` `large-language-models` `transformers` `neurips`
-- **最后活动时间:** 2025-12-20
 
 ### [multiwoz](https://github.com/budzianowski/multiwoz)
 
@@ -590,9 +582,9 @@ Meta官方Llama模型开发指南，涵盖推理、微调、RAG等核心场景�
 
 NVIDIA开源的生成式AI框架，支持大语言模型、多模态和语音AI的开发与训练。
 
-- **Stars:** ⭐️ 17.4k
+- **Stars:** ⭐️ 17.6k
 - **Tags:** `LLM` `Multimodal` `Speech AI` `NVIDIA`
-- **最后活动时间:** 2026-06-12
+- **最后活动时间:** 2026-06-24
 
 ### [tfjs-models](https://github.com/tensorflow/tfjs-models)
 
@@ -842,14 +834,6 @@ spaCy自然语言处理库的预训练统计模型集合。
 - **Tags:** `spacy` `nlp` `models` `machine-learning`
 - **最后活动时间:** 2026-03-20
 
-### [history-llms](https://github.com/DGoettlich/history-llms)
-
-专注于训练历史领域大语言模型的信息中心，致力于构建最大规模的历史领域LLM。
-
-- **Stars:** ⭐️ 1.8k
-- **Tags:** `llm` `history` `domain-specific` `training`
-- **最后活动时间:** 2025-12-22
-
 ### [mattergen](https://github.com/microsoft/mattergen)
 
 微软开源的生成式AI模型，专注于无机材料设计，覆盖整个元素周期表，加速新材料发现。
@@ -986,6 +970,14 @@ Meta AI Research的代码生成模型工具包，包含预训练模型和完整�
 - **Tags:** `code-generation` `llm` `facebook-research`
 - **最后活动时间:** 2026-03-12
 
+### [openfold-3](https://github.com/aqlaboratory/openfold-3)
+
+基于AlphaFold3的完全开源生物分子结构预测模型，用于蛋白质和分子结构的高精度预测。
+
+- **Stars:** ⭐️ 768
+- **Tags:** `alphafold` `protein-folding` `biomolecular` `deep-learning` `structural-biology`
+- **最后活动时间:** 2026-06-25
+
 ### [DNABERT](https://github.com/jerryji1993/DNABERT)
 
 基于BERT架构的DNA序列预训练模型，将NLP技术应用于基因组分析，支持DNA序列分类和预测任务。
@@ -993,14 +985,6 @@ Meta AI Research的代码生成模型工具包，包含预训练模型和完整�
 - **Stars:** ⭐️ 757
 - **Tags:** `Genomics` `Transformer` `Bio-AI`
 - **最后活动时间:** 2026-01-22
-
-### [openfold-3](https://github.com/aqlaboratory/openfold-3)
-
-基于AlphaFold3的完全开源生物分子结构预测模型，用于蛋白质和分子结构的高精度预测。
-
-- **Stars:** ⭐️ 739
-- **Tags:** `alphafold` `protein-folding` `biomolecular` `deep-learning` `structural-biology`
-- **最后活动时间:** 2026-05-27
 
 ### [xgen](https://github.com/salesforce/xgen)
 
@@ -1104,9 +1088,9 @@ MiniMax 推出的 SOTA 大模型，专为实际开发和智能体应用优化。
 
 免费访问多种强大语言模型的集合，包括GPT、DeepSeek、Gemini等主流模型。
 
-- **Stars:** ⭐️ 66.3k
+- **Stars:** ⭐️ 66.4k
 - **Tags:** `GPT` `Free API` `Language Models`
-- **最后活动时间:** 2026-06-12
+- **最后活动时间:** 2026-06-24
 
 ### [Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder)
 

@@ -2,7 +2,7 @@
 
 > Retrieval Augmented Generation and Database solutions.
 
-> 当前分类已收录 **437** 个相关项目。
+> 当前分类已收录 **433** 个相关项目。
 
 ## Data Parsers
 
@@ -154,9 +154,9 @@ Python新闻文章全文与元数据提取库，支持多语言新闻抓取，�
 
 开源ETL解决方案，将复杂文档转换为结构化数据，专为语言模型优化，支持PDF、Word等多种格式解析。
 
-- **Stars:** ⭐️ 14.9k
+- **Stars:** ⭐️ 15.0k
 - **Tags:** `Document Parsing` `ETL` `LLM` `NLP`
-- **最后活动时间:** 2026-06-11
+- **最后活动时间:** 2026-06-24
 
 ### [datahub](https://github.com/datahub-project/datahub)
 
@@ -202,9 +202,9 @@ Python新闻文章全文与元数据提取库，支持多语言新闻抓取，�
 
 高性能PDF文档处理库，支持数据提取、OCR识别、表格提取等功能，适用于RAG系统的文档解析场景。
 
-- **Stars:** ⭐️ 10.0k
+- **Stars:** ⭐️ 10.1k
 - **Tags:** `PDF` `OCR` `Data Extraction`
-- **最后活动时间:** 2026-06-11
+- **最后活动时间:** 2026-06-25
 
 ### [liteparse](https://github.com/run-llama/liteparse)
 
@@ -226,9 +226,9 @@ Apache基金会的高性能分布式数据集成工具，支持实时和批量�
 
 强大的Python网页爬取和浏览器自动化库，专为AI、LLM、RAG应用设计，支持多种数据提取工具。
 
-- **Stars:** ⭐️ 9.2k
+- **Stars:** ⭐️ 9.3k
 - **Tags:** `网页爬取` `数据采集` `RAG` `自动化`
-- **最后活动时间:** 2026-06-12
+- **最后活动时间:** 2026-06-25
 
 ### [Dolphin](https://github.com/bytedance/Dolphin)
 
@@ -282,17 +282,9 @@ Python脚本用于从Google Images批量下载图片，支持多种过滤条件�
 
 Python API工具，用于获取YouTube视频的字幕和转录文本，无需API密钥即可使用。
 
-- **Stars:** ⭐️ 7.6k
+- **Stars:** ⭐️ 7.8k
 - **Tags:** `YouTube` `Transcript` `Data-Extraction` `Python`
 - **最后活动时间:** 2026-05-19
-
-### [omniparse](https://github.com/adithya-s-k/omniparse)
-
-多功能数据解析工具，支持文档、多媒体格式解析，优化 GenAI 框架兼容性。
-
-- **Stars:** ⭐️ 7.6k
-- **Tags:** `数据解析` `OCR` `GenAI`
-- **最后活动时间:** 2025-12-12
 
 ### [pdfminer.six](https://github.com/pdfminer/pdfminer.six)
 
@@ -590,6 +582,14 @@ Slack消息导出工具，支持导出私聊、频道、文件和用户数据，
 - **Tags:** `OCR` `PDF Parsing` `Document Processing`
 - **最后活动时间:** 2026-04-14
 
+### [twscrape](https://github.com/vladkens/twscrape)
+
+支持授权的Twitter/X数据采集工具，可抓取搜索结果、用户资料、推文互动等，适合构建社交媒体AI训练数据集。
+
+- **Stars:** ⭐️ 2.5k
+- **Tags:** `twitter` `scraper` `data-collection` `social-media` `api`
+- **最后活动时间:** 2026-06-16
+
 ### [meltano](https://github.com/meltano/meltano)
 
 声明式数据集成引擎，简化ML应用的数据管道构建与API集成。
@@ -597,14 +597,6 @@ Slack消息导出工具，支持导出私聊、频道、文件和用户数据，
 - **Stars:** ⭐️ 2.5k
 - **Tags:** `data-integration` `elt` `data-pipelines` `dataops` `open-source`
 - **最后活动时间:** 2026-04-23
-
-### [twscrape](https://github.com/vladkens/twscrape)
-
-支持授权的Twitter/X数据采集工具，可抓取搜索结果、用户资料、推文互动等，适合构建社交媒体AI训练数据集。
-
-- **Stars:** ⭐️ 2.5k
-- **Tags:** `twitter` `scraper` `data-collection` `social-media` `api`
-- **最后活动时间:** 2026-06-08
 
 ### [news-please](https://github.com/fhamborg/news-please)
 
@@ -1194,7 +1186,7 @@ Polars 的 R 语言绑定，提供高性能 DataFrame 数据处理能力，广�
 
 R语言数据探索与预处理自动化工具，支持EDA分析和数据清洗，是机器学习数据准备的得力助手。
 
-- **Stars:** ⭐️ 544
+- **Stars:** ⭐️ 546
 - **Tags:** `data-exploration` `eda` `r-package` `data-science`
 - **最后活动时间:** 2026-03-10
 
@@ -1292,9 +1284,9 @@ RagFlow文档批量上传与解析自动化工具，支持将文档自动上传�
 
 零服务器代码智能引擎，在浏览器中运行的知识图谱创建器，内置Graph RAG智能体。
 
-- **Stars:** ⭐️ 42.0k
+- **Stars:** ⭐️ 42.9k
 - **Tags:** `knowledge-graph` `rag` `code-intelligence` `browser`
-- **最后活动时间:** 2026-06-12
+- **最后活动时间:** 2026-06-25
 
 ### [LightRAG](https://github.com/HKUDS/LightRAG)
 
@@ -1768,20 +1760,20 @@ AI驱动的知识图谱生成器，支持可视化展示与网络分析。
 - **Tags:** `information-retrieval` `search` `python`
 - **最后活动时间:** 2026-06-11
 
+### [sie](https://github.com/superlinked/sie)
+
+Superlinked开源推理引擎，专为嵌入向量、重排序和提取设计的生产级推理服务器与集群解决方案。
+
+- **Stars:** ⭐️ 2.1k
+- **Tags:** `embeddings` `vector-search` `inference-server` `rag` `semantic-search`
+- **最后活动时间:** 2026-06-25
+
 ### [OpenKB](https://github.com/VectifyAI/OpenKB)
 
 开源LLM知识库项目，支持智能体与检索增强生成，助力构建企业级知识管理系统。
 
 - **Stars:** ⭐️ 2.0k
 - **Tags:** `rag` `knowledge-base` `llm` `agents` `retrieval`
-- **最后活动时间:** 2026-06-12
-
-### [sie](https://github.com/superlinked/sie)
-
-Superlinked开源推理引擎，专为嵌入向量、重排序和提取设计的生产级推理服务器与集群解决方案。
-
-- **Stars:** ⭐️ 2.0k
-- **Tags:** `embeddings` `vector-search` `inference-server` `rag` `semantic-search`
 - **最后活动时间:** 2026-06-12
 
 ### [obsidian-omnisearch](https://github.com/scambier/obsidian-omnisearch)
@@ -1904,14 +1896,6 @@ GenAI应用快速开发构建块，提供文档搜索、评估、护栏、提示
 - **Tags:** `RAG` `LangGraph` `Agent`
 - **最后活动时间:** 2026-06-04
 
-### [rerankers](https://github.com/AnswerDotAI/rerankers)
-
-轻量级统一的重排序API，支持所有常见的重排序和交叉编码器模型，简化RAG检索流程。
-
-- **Stars:** ⭐️ 1.6k
-- **Tags:** `reranking` `cross-encoder` `RAG`
-- **最后活动时间:** 2025-12-20
-
 ### [lotus](https://github.com/lotus-data/lotus)
 
 AI驱动的数据处理框架，结合LLM和嵌入技术实现语义搜索与查询，性能提升高达1000倍，API简洁如Pandas。
@@ -1960,14 +1944,6 @@ Apache Jena 是用于构建语义网和关联数据应用的免费开源框架�
 - **Tags:** `agent` `knowledge-base` `semantic-search` `vector-database` `mcp`
 - **最后活动时间:** 2026-05-29
 
-### [ragflow-plus](https://github.com/zstar1003/ragflow-plus)
-
-Ragflow的二次开发增强版本，优化了原版使其更加简洁实用，适合构建RAG检索增强生成应用。
-
-- **Stars:** ⭐️ 1.3k
-- **Tags:** `rag` `llm` `retrieval-augmented-generation` `knowledge-base`
-- **最后活动时间:** 2025-12-17
-
 ### [TrustRAG](https://github.com/gomate-community/TrustRAG)
 
 专注于可靠输入和可信输出的RAG框架，支持深度研究和搜索场景。
@@ -1990,7 +1966,7 @@ AI原生知识图谱智能框架，支持语义检索、本体推理、上下文
 
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `knowledge-graph` `graphrag` `rag` `semantic-retrieval` `ai-agents`
-- **最后活动时间:** 2026-06-12
+- **最后活动时间:** 2026-06-25
 
 ### [youtu-graphrag](https://github.com/TencentCloudADP/youtu-graphrag)
 
@@ -2303,14 +2279,6 @@ Rust语言实现的向量嵌入和重排序库，高性能支持RAG检索系统�
 - **Stars:** ⭐️ 837
 - **Tags:** `colbert` `information-retrieval` `language-model` `rag`
 - **最后活动时间:** 2026-06-11
-
-### [codegraph-rust](https://github.com/Jakedismo/codegraph-rust)
-
-纯Rust实现的代码GraphRAG框架，支持AST解析和语义搜索，为代码智能体提供高效的上下文管理能力。
-
-- **Stars:** ⭐️ 801
-- **Tags:** `graphrag` `code-analysis` `rust` `semantic-search` `ai-agents`
-- **最后活动时间:** 2025-12-20
 
 ### [RAG-FiT](https://github.com/IntelLabs/RAG-FiT)
 
