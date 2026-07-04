@@ -18,9 +18,9 @@
 
 开源NVR系统，支持IP摄像头实时本地目标检测，集成Google Coral和TensorFlow，可与Home Assistant无缝对接。
 
-- **Stars:** ⭐️ 33.7k
+- **Stars:** ⭐️ 34.1k
 - **Tags:** `NVR` `目标检测` `智能家居` `Edge AI`
-- **最后活动时间:** 2026-06-11
+- **最后活动时间:** 2026-07-04
 
 ### [project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
 
@@ -162,9 +162,9 @@ PyTorch官方端侧AI推理框架，支持在移动设备、嵌入式系统和�
 
 自托管本地NVR软件，集成物体检测、人脸识别等AI计算机视觉功能。
 
-- **Stars:** ⭐️ 3.2k
+- **Stars:** ⭐️ 3.3k
 - **Tags:** `Computer Vision` `NVR` `Object Detection`
-- **最后活动时间:** 2026-06-10
+- **最后活动时间:** 2026-06-25
 
 ### [zenoh](https://github.com/eclipse-zenoh/zenoh)
 
@@ -178,9 +178,9 @@ PyTorch官方端侧AI推理框架，支持在移动设备、嵌入式系统和�
 
 开源AI摄像头平台，支持本地VLM视频分析与LLM智能安防，可运行于树莓派等边缘设备。
 
-- **Stars:** ⭐️ 2.8k
+- **Stars:** ⭐️ 2.9k
 - **Tags:** `AI摄像头` `VLM` `智能安防`
-- **最后活动时间:** 2026-04-21
+- **最后活动时间:** 2026-06-18
 
 ### [jetson_stats](https://github.com/rbonghi/jetson_stats)
 
@@ -374,6 +374,14 @@ Kubernetes边缘资源接口，用于发现和调度边缘设备，支持边缘A
 - **Tags:** `kubernetes` `edge-computing` `iot` `edge-ai`
 - **最后活动时间:** 2026-05-22
 
+### [frigate-hass-integration](https://github.com/blakeblackshear/frigate-hass-integration)
+
+Home Assistant 的 Frigate NVR 集成插件，支持实时 AI 物体检测和智能监控。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `ai` `object-detection` `nvr` `home-assistant` `camera`
+- **最后活动时间:** 2026-06-04
+
 ### [FaceAISDK_Android](https://github.com/FaceAISDK/FaceAISDK_Android)
 
 离线端侧人脸识别SDK，支持动作活体检测、炫彩活体、近红外双目活体检测，以及1:N和M:N人脸搜索算法，全程无需联网。
@@ -389,14 +397,6 @@ Kubernetes边缘资源接口，用于发现和调度边缘设备，支持边缘A
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `fault-diagnosis` `predictive-maintenance` `industrial-ai` `bearing`
 - **最后活动时间:** 2026-04-09
-
-### [frigate-hass-integration](https://github.com/blakeblackshear/frigate-hass-integration)
-
-Home Assistant 的 Frigate NVR 集成插件，支持实时 AI 物体检测和智能监控。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `ai` `object-detection` `nvr` `home-assistant` `camera`
-- **最后活动时间:** 2026-05-26
 
 ### [grass](https://github.com/OSGeo/grass)
 
@@ -436,7 +436,7 @@ Luxonis开发的嵌入式空间AI平台，提供高性能计算机视觉与深�
 
 - **Stars:** ⭐️ 1.0k
 - **Tags:** `computer-vision` `deep-learning` `edge-ai` `wildlife-monitoring` `biodiversity`
-- **最后活动时间:** 2026-06-04
+- **最后活动时间:** 2026-06-25
 
 ### [CMSIS-DSP](https://github.com/ARM-software/CMSIS-DSP)
 
@@ -2218,6 +2218,14 @@ MuJoCo物理模拟器的GPU优化版本，专为NVIDIA硬件设计，大幅提�
 - **Tags:** `optimal-control` `motion-planning` `robotics`
 - **最后活动时间:** 2026-05-26
 
+### [zed-sdk](https://github.com/stereolabs/zed-sdk)
+
+空间感知框架，为智能机器人和空间应用提供3D视觉、SLAM和目标检测能力。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `computer-vision` `robotics` `slam` `depth-estimation` `stereo-vision`
+- **最后活动时间:** 2026-06-18
+
 ### [nvblox](https://github.com/nvidia-isaac/nvblox)
 
 NVIDIA开发的GPU加速TSDF/ESDF库，用于机器人3D建图。
@@ -2225,14 +2233,6 @@ NVIDIA开发的GPU加速TSDF/ESDF库，用于机器人3D建图。
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `3d-mapping` `nvidia` `robotics` `gpu`
 - **最后活动时间:** 2026-05-08
-
-### [zed-sdk](https://github.com/stereolabs/zed-sdk)
-
-空间感知框架，为智能机器人和空间应用提供3D视觉、SLAM和目标检测能力。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `computer-vision` `robotics` `slam` `depth-estimation` `stereo-vision`
-- **最后活动时间:** 2026-04-29
 
 ### [myosuite](https://github.com/MyoHub/myosuite)
 
@@ -2362,6 +2362,14 @@ Motus，一种统一的潜在动作世界模型，用于机器人操作与视频
 - **Tags:** `vla` `toolbox` `robotics` `openvla` `simulation`
 - **最后活动时间:** 2026-05-28
 
+### [yolo_ros](https://github.com/mgonzs13/yolo_ros)
+
+Ultralytics YOLO系列目标检测ROS 2封装，支持3D检测、姿态估计、实例分割。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `yolo` `object-detection` `ros2` `yolov8` `instance-segmentation`
+- **最后活动时间:** 2026-06-16
+
 ### [mvs-texturing](https://github.com/nmoehrle/mvs-texturing)
 
 多视图立体图像三维重建纹理映射算法，为重建模型生成真实感纹理。
@@ -2385,14 +2393,6 @@ LeRobot机器人学习框架的实用工具集合，支持多种机器人平台�
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `reinforcement-learning` `robotics` `quadruped-robot` `isaac-lab`
 - **最后活动时间:** 2026-05-25
-
-### [yolo_ros](https://github.com/mgonzs13/yolo_ros)
-
-Ultralytics YOLO系列目标检测ROS 2封装，支持3D检测、姿态估计、实例分割。
-
-- **Stars:** ⭐️ 1.1k
-- **Tags:** `yolo` `object-detection` `ros2` `yolov8` `instance-segmentation`
-- **最后活动时间:** 2026-05-23
 
 ### [cupoch](https://github.com/neka-nat/cupoch)
 

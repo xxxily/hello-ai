@@ -34,9 +34,9 @@ Hugging Face官方数据集库，提供海量AI数据集的快速访问与处理
 
 业界领先的机器学习数据标注平台，支持图像和视频标注，广泛应用于计算机视觉数据集构建。
 
-- **Stars:** ⭐️ 16.0k
+- **Stars:** ⭐️ 16.2k
 - **Tags:** `Annotation` `Computer Vision` `Dataset` `Labeling`
-- **最后活动时间:** 2026-06-12
+- **最后活动时间:** 2026-07-03
 
 ### [easy-dataset](https://github.com/ConardLi/easy-dataset)
 
@@ -58,9 +58,9 @@ Hugging Face官方数据集库，提供海量AI数据集的快速访问与处理
 
 高质量数据集精炼与可视化AI模型工具，支持计算机视觉任务的数据清洗、标注和质量管理。
 
-- **Stars:** ⭐️ 10.8k
+- **Stars:** ⭐️ 10.9k
 - **Tags:** `Computer Vision` `Data Curation` `Visualization`
-- **最后活动时间:** 2026-06-12
+- **最后活动时间:** 2026-07-03
 
 ### [doccano](https://github.com/doccano/doccano)
 
@@ -82,9 +82,9 @@ Hugging Face官方数据集库，提供海量AI数据集的快速访问与处理
 
 AI驱动的智能数据标注工具，集成SAM等多种模型，支持目标检测、分割、OCR等任务。
 
-- **Stars:** ⭐️ 9.4k
+- **Stars:** ⭐️ 9.6k
 - **Tags:** `Data Labeling` `Annotation` `SAM` `YOLO`
-- **最后活动时间:** 2026-06-06
+- **最后活动时间:** 2026-06-28
 
 ### [data-juicer](https://github.com/datajuicer/data-juicer)
 
@@ -414,6 +414,14 @@ NVIDIA NeMo数据设计器，用于生成高质量合成数据，支持多模态
 - **Tags:** `音频标注` `数据标注` `语音处理`
 - **最后活动时间:** 2026-02-03
 
+### [GraphGen](https://github.com/InternScience/GraphGen)
+
+基于知识图谱的LLM合成数据生成框架，增强监督微调效果。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `data-synthesis` `llm-training` `knowledge-graph` `sft`
+- **最后活动时间:** 2026-05-19
+
 ### [label-studio-ml-backend](https://github.com/HumanSignal/label-studio-ml-backend)
 
 Label Studio 机器学习后端配置与模板，支持将 ML 模型集成到数据标注工作流中，实现自动化预标注。
@@ -429,14 +437,6 @@ Label Studio 机器学习后端配置与模板，支持将 ML 模型集成到数
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `emotion-recognition` `multimodal` `conversation` `sentiment-analysis`
 - **最后活动时间:** 2026-05-17
-
-### [GraphGen](https://github.com/InternScience/GraphGen)
-
-基于知识图谱的LLM合成数据生成框架，增强监督微调效果。
-
-- **Stars:** ⭐️ 1.0k
-- **Tags:** `data-synthesis` `llm-training` `knowledge-graph` `sft`
-- **最后活动时间:** 2026-05-19
 
 ### [CLUECorpus2020](https://github.com/CLUEbenchmark/CLUECorpus2020)
 
@@ -870,7 +870,7 @@ LLM评估框架，提供全面的模型评估指标和工具，帮助开发者�
 
 - **Stars:** ⭐️ 5.1k
 - **Tags:** `Metrics` `Evaluation` `Object Detection`
-- **最后活动时间:** 2026-04-16
+- **最后活动时间:** 2026-06-16
 
 ### [Kiln](https://github.com/Kiln-AI/Kiln)
 
@@ -1696,7 +1696,7 @@ AWS开源的AutoML框架，仅需3行代码即可实现快速准确的机器学�
 
 - **Stars:** ⭐️ 10.5k
 - **Tags:** `AutoML` `Deep Learning` `PyTorch`
-- **最后活动时间:** 2026-06-08
+- **最后活动时间:** 2026-07-02
 
 ### [ART](https://github.com/OpenPipe/ART)
 
@@ -1730,6 +1730,14 @@ AWS开源的AutoML框架，仅需3行代码即可实现快速准确的机器学�
 - **Tags:** `模型微调` `工具包` `PyTorch`
 - **最后活动时间:** 2026-05-22
 
+### [rf-detr](https://github.com/roboflow/rf-detr)
+
+Roboflow开发的实时目标检测与分割模型架构，在COCO数据集上达到SOTA水平，专为微调优化设计。
+
+- **Stars:** ⭐️ 8.3k
+- **Tags:** `object-detection` `instance-segmentation` `computer-vision` `detr` `fine-tuning`
+- **最后活动时间:** 2026-07-03
+
 ### [auto-sklearn](https://github.com/automl/auto-sklearn)
 
 基于scikit-learn的自动机器学习框架，自动完成模型选择与超参优化。
@@ -1745,14 +1753,6 @@ PaLM架构上实现RLHF人类反馈强化学习，类ChatGPT训练方案。大�
 - **Stars:** ⭐️ 7.9k
 - **Tags:** `rlhf` `palm` `fine-tuning`
 - **最后活动时间:** 2026-05-29
-
-### [rf-detr](https://github.com/roboflow/rf-detr)
-
-Roboflow开发的实时目标检测与分割模型架构，在COCO数据集上达到SOTA水平，专为微调优化设计。
-
-- **Stars:** ⭐️ 7.7k
-- **Tags:** `object-detection` `instance-segmentation` `computer-vision` `detr` `fine-tuning`
-- **最后活动时间:** 2026-06-12
 
 ### [hyperopt](https://github.com/hyperopt/hyperopt)
 
@@ -2360,7 +2360,7 @@ Intel开源的神经网络压缩框架，支持量化、剪枝、稀疏化等优
 
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `模型压缩` `量化` `OpenVINO`
-- **最后活动时间:** 2026-06-12
+- **最后活动时间:** 2026-07-02
 
 ### [MixGRPO](https://github.com/Tencent-Hunyuan/MixGRPO)
 

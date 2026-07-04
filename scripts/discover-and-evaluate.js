@@ -25,6 +25,13 @@ const QUALITY_TOPIC_THRESHOLD = parseInt(process.env.QUALITY_TOPIC_THRESHOLD || 
 const AUTO_FETCH_DESC_STARS = parseInt(process.env.AUTO_FETCH_DESC_STARS || '1000', 10);
 
 const sessionFile = path.join(__dirname, '../data/discovery-session.json');
+const DEFAULT_TOPICS = {
+  active: {
+    ai: { level: 1, lastExplored: "1970-01-01T00:00:00Z", score: 0 },
+  },
+  niche: {},
+  exhausted: {},
+};
 
 async function fetchRepoDetails(full_name) {
   const headers = { 'Accept': 'application/vnd.github.v3+json' };
@@ -97,6 +104,29 @@ function saveJson(filePath, data) {
   }
 }
 
+function asArray(value) {
+  return Array.isArray(value) ? value : [];
+}
+
+function normalizeProjectDb(value) {
+  return value && Array.isArray(value.categories) ? value : { categories: [] };
+}
+
+function normalizePendingDb(value) {
+  return value && Array.isArray(value.queue) ? value : { queue: [] };
+}
+
+function normalizeTopicsDb(value) {
+  const topics = value && typeof value === 'object' ? value : {};
+  topics.active = topics.active && typeof topics.active === 'object' ? topics.active : {};
+  topics.niche = topics.niche && typeof topics.niche === 'object' ? topics.niche : {};
+  topics.exhausted = topics.exhausted && typeof topics.exhausted === 'object' ? topics.exhausted : {};
+  if (Object.keys(topics.active).length === 0) {
+    topics.active.ai = { ...DEFAULT_TOPICS.active.ai };
+  }
+  return topics;
+}
+
 async function askLLM(prompt) {
   const messages = [
     { role: 'system', content: 'You are an AI project curator. Your job is to strictly evaluate GitHub repositories and return JSON. Respond ONLY with valid JSON.' },
@@ -140,7 +170,7 @@ async function discover() {
   }
 
   const session = loadJson(sessionFile, { lastTopic: null, lastPage: 0 }); // Always load session if it exists
-  const topicsDb = loadJson(topicsFile, { active: { "ai": { level: 1, lastExplored: "1970-01-01T00:00:00Z" } }, niche: {}, exhausted: {} });
+  const topicsDb = normalizeTopicsDb(loadJson(topicsFile, DEFAULT_TOPICS));
 
   // Select topic
   const activeTopics = Object.keys(topicsDb.active);
@@ -303,29 +333,37 @@ async function discover() {
     });
     if (!res.ok) throw new Error(`GitHub search failed: ${res.statusText}`);
     const data = await res.json();
+    const items = asArray(data.items);
 
-    if (data.items && data.items.length > 0) {
-      const summary = data.items.map(item => `   - ${item.full_name} [★ ${item.stargazers_count}]`).join('\n');
+    if (items.length > 0) {
+      const summary = items.map(item => `   - ${item.full_name} [★ ${item.stargazers_count}]`).join('\n');
       console.log(`📋 Search Results Summary:\n${summary}`);
     }
 
-    const projectDb = loadJson(dataFile);
-    const pendingDb = loadJson(queueFile, { queue: [] });
+    const projectDb = normalizeProjectDb(loadJson(dataFile));
+    const pendingDb = normalizePendingDb(loadJson(queueFile, { queue: [] }));
+    const categories = asArray(projectDb.categories);
+    const pendingQueue = asArray(pendingDb.queue);
+    pendingDb.queue = pendingQueue;
 
     const projectUrlMap = new Map();
-    projectDb.categories.forEach(c => {
-      if (c.projects) c.projects.forEach(p => projectUrlMap.set(p.url.toLowerCase(), p));
+    categories.forEach(c => {
+      asArray(c.projects).forEach(p => {
+        if (p.url) projectUrlMap.set(p.url.toLowerCase(), p);
+      });
     });
 
     const pendingUrls = new Set();
-    pendingDb.queue.forEach(item => pendingUrls.add(item.html_url.toLowerCase()));
+    pendingQueue.forEach(item => {
+      if (item.html_url) pendingUrls.add(item.html_url.toLowerCase());
+    });
 
     let queuedCount = 0;
     let newTopicsCount = 0;
     let updatedProjectCount = 0;
     let blockedCount = 0;
 
-    for (const item of data.items) {
+    for (const item of items) {
       // Proactive description fetching
       if (!item.description && item.stargazers_count >= AUTO_FETCH_DESC_STARS) {
         console.log(`📡 [Proactive Fetch] Fetching description for ${item.full_name} (${item.stargazers_count} stars)...`);
@@ -411,12 +449,13 @@ async function discover() {
     }
   } catch (err) {
     console.error(`❌ Discovery failed: ${err.message}`);
+    if (err.stack) console.error(err.stack);
   }
 }
 
 // 2. Evaluate mode
 async function evaluate() {
-  const pendingDb = loadJson(queueFile, { queue: [] });
+  const pendingDb = normalizePendingDb(loadJson(queueFile, { queue: [] }));
   if (!pendingDb.queue || pendingDb.queue.length === 0) {
     console.log('✨ The pending queue is empty. Nothing to evaluate.');
     if (process.argv.includes('--consume-only')) {
@@ -425,11 +464,17 @@ async function evaluate() {
     return;
   }
 
-  const projectDb = loadJson(dataFile);
+  if (EVALUATE_BATCH_SIZE <= 0) {
+    console.log('⏭️ [Evaluation] Skipped because EVALUATE_BATCH_SIZE is 0.');
+    return;
+  }
+
+  const projectDb = normalizeProjectDb(loadJson(dataFile));
   const rejectedDb = loadRejected();
+  const categories = asArray(projectDb.categories);
 
   // Dynamic categories string for prompt
-  const validCategoriesStr = projectDb.categories
+  const validCategoriesStr = categories
     .filter(c => c.id !== 'trending')
     .map(c => `- ${c.id} (${c.name}) - Subcategories: [${(c.subcategories || []).join(', ')}]`)
     .join('\n');
@@ -527,7 +572,7 @@ Return ONLY standard JSON. Keep JSON minimal. Important: "tags" MUST be in Engli
     const evalData = evaluations.find(e => e.id === matchIndex) || evaluations.find(e => e.project?.name === item.name);
 
     if (evalData && evalData.is_valuable && evalData.category_id && evalData.project) {
-      const category = projectDb.categories.find(c => c.id === evalData.category_id);
+        const category = categories.find(c => c.id === evalData.category_id);
       if (category) {
         if (!category.projects) category.projects = [];
 
@@ -590,23 +635,21 @@ Return ONLY standard JSON. Keep JSON minimal. Important: "tags" MUST be in Engli
   threeMonthsAgo.setMonth(threeMonthsAgo.getMonth() - 3);
 
   let candidates = [];
-  projectDb.categories.forEach(category => {
+  categories.forEach(category => {
     if (category.id === 'trending') return;
-    if (category.projects) {
-      category.projects.forEach(p => {
-        let dateObj;
-        try { dateObj = new Date(p.lastUpdated); } catch (e) { }
-        if (dateObj && !isNaN(dateObj.getTime()) && dateObj > threeMonthsAgo) {
-          if (p.stars && p.stars >= 1000) candidates.push(p);
-        }
-      });
-    }
+    asArray(category.projects).forEach(p => {
+      let dateObj;
+      try { dateObj = new Date(p.lastUpdated); } catch (e) { }
+      if (dateObj && !isNaN(dateObj.getTime()) && dateObj > threeMonthsAgo) {
+        if (p.stars && p.stars >= 1000) candidates.push(p);
+      }
+    });
   });
 
   candidates.sort((a, b) => b.stars - a.stars);
   const topTrending = candidates.slice(0, 30);
 
-  const trendingCategory = projectDb.categories.find(c => c.id === 'trending');
+  const trendingCategory = categories.find(c => c.id === 'trending');
   if (trendingCategory) {
     trendingCategory.projects = topTrending.map(p => ({ ...p }));
   }
@@ -622,37 +665,35 @@ Return ONLY standard JSON. Keep JSON minimal. Important: "tags" MUST be in Engli
 }
 
 async function initTopics() {
-  const topicsDb = loadJson(topicsFile);
-  const projectDb = loadJson(dataFile);
+  const topicsDb = normalizeTopicsDb(loadJson(topicsFile));
+  const projectDb = normalizeProjectDb(loadJson(dataFile));
   let updates = 0;
 
   for (const t in topicsDb.active) topicsDb.active[t].score = 0;
   for (const t in topicsDb.niche) topicsDb.niche[t].score = 0;
   for (const t in topicsDb.exhausted) topicsDb.exhausted[t].score = 0;
 
-  projectDb.categories.forEach(c => {
-    if (c.projects) {
-      c.projects.forEach(p => {
-        if (Array.isArray(p.topics || p.tags)) {
-          const tagsToSync = p.topics || p.tags;
-          tagsToSync.forEach(tag => {
-            const lcT = tag.toLowerCase();
-            if (/[\u4e00-\u9fa5]/.test(lcT)) return; // Skip Chinese topics
+  asArray(projectDb.categories).forEach(c => {
+    asArray(c.projects).forEach(p => {
+      if (Array.isArray(p.topics || p.tags)) {
+        const tagsToSync = p.topics || p.tags;
+        tagsToSync.forEach(tag => {
+          const lcT = tag.toLowerCase();
+          if (/[\u4e00-\u9fa5]/.test(lcT)) return; // Skip Chinese topics
 
-            if (topicsDb.active[lcT]) {
-              topicsDb.active[lcT].score = (topicsDb.active[lcT].score || 0) + 1;
-              updates++;
-            } else if (topicsDb.niche && topicsDb.niche[lcT]) {
-              topicsDb.niche[lcT].score = (topicsDb.niche[lcT].score || 0) + 1;
-              updates++;
-            } else if (topicsDb.exhausted && topicsDb.exhausted[lcT]) {
-              topicsDb.exhausted[lcT].score = (topicsDb.exhausted[lcT].score || 0) + 1;
-              updates++;
-            }
-          });
-        }
-      });
-    }
+          if (topicsDb.active[lcT]) {
+            topicsDb.active[lcT].score = (topicsDb.active[lcT].score || 0) + 1;
+            updates++;
+          } else if (topicsDb.niche && topicsDb.niche[lcT]) {
+            topicsDb.niche[lcT].score = (topicsDb.niche[lcT].score || 0) + 1;
+            updates++;
+          } else if (topicsDb.exhausted && topicsDb.exhausted[lcT]) {
+            topicsDb.exhausted[lcT].score = (topicsDb.exhausted[lcT].score || 0) + 1;
+            updates++;
+          }
+        });
+      }
+    });
   });
 
   saveJson(topicsFile, topicsDb);

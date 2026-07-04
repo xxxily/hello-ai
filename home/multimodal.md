@@ -3840,6 +3840,14 @@ CVPR 2024 Highlight 论文，基于3D高斯泼溅的逼真头部头像生成技�
 - **Tags:** `multimodal` `image-generation` `video-generation` `image-understanding`
 - **最后活动时间:** 2026-05-27
 
+### [GLM-Image](https://github.com/zai-org/GLM-Image)
+
+基于自回归的高保真图像生成模型，支持文本到图像和图像到图像的生成任务。
+
+- **Stars:** ⭐️ 972
+- **Tags:** `Text-to-Image` `Image Generation` `Auto-regressive`
+- **最后活动时间:** 2026-03-20
+
 ### [PillOCR-python](https://github.com/T-duality/PillOCR-python)
 
 基于大模型API的OCR工具，提供智能文字识别能力。
@@ -3903,14 +3911,6 @@ ICLR 2025 Oral论文，从稀疏无位姿图像生成3D高斯溅射的简单高�
 - **Stars:** ⭐️ 894
 - **Tags:** `OCR` `Vision-LLM` `Document-AI` `PDF`
 - **最后活动时间:** 2026-02-21
-
-### [GLM-Image](https://github.com/zai-org/GLM-Image)
-
-基于自回归的高保真图像生成模型，支持文本到图像和图像到图像的生成任务。
-
-- **Stars:** ⭐️ 891
-- **Tags:** `Text-to-Image` `Image Generation` `Auto-regressive`
-- **最后活动时间:** 2026-03-20
 
 ### [UpscalerJS](https://github.com/thekevinscott/UpscalerJS)
 
@@ -5154,6 +5154,14 @@ AI视频编辑智能体，通过自然语言交互和LLM驱动的规划，实现
 - **Tags:** `Video Editing` `LLM` `LangChain`
 - **最后活动时间:** 2026-05-07
 
+### [VideoPipe](https://github.com/sherlockchou86/VideoPipe)
+
+跨平台视频结构化分析框架，支持目标检测、人脸识别、行为分析等多种AI能力。
+
+- **Stars:** ⭐️ 2.9k
+- **Tags:** `Video Analysis` `Computer Vision` `DeepStream`
+- **最后活动时间:** 2026-02-25
+
 ### [HunyuanWorld-1.0](https://github.com/Tencent-Hunyuan/HunyuanWorld-1.0)
 
 混元3D世界模型，从文本或像素生成沉浸式、可探索的交互3D世界。
@@ -5161,14 +5169,6 @@ AI视频编辑智能体，通过自然语言交互和LLM驱动的规划，实现
 - **Stars:** ⭐️ 2.8k
 - **Tags:** `world-model` `text-to-3d` `scene-generation` `hunyuan3d`
 - **最后活动时间:** 2026-04-15
-
-### [VideoPipe](https://github.com/sherlockchou86/VideoPipe)
-
-跨平台视频结构化分析框架，支持目标检测、人脸识别、行为分析等多种AI能力。
-
-- **Stars:** ⭐️ 2.8k
-- **Tags:** `Video Analysis` `Computer Vision` `DeepStream`
-- **最后活动时间:** 2026-02-25
 
 ### [GeminiWatermarkTool](https://github.com/allenk/GeminiWatermarkTool)
 

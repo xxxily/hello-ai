@@ -742,6 +742,14 @@ Python多变量探索性数据分析库，支持PCA、CA、MCA等降维方法。
 - **Tags:** `data-discovery` `data-observability` `data-lineage`
 - **最后活动时间:** 2026-06-11
 
+### [deepwiki-mcp](https://github.com/regenrek/deepwiki-mcp)
+
+MCP 服务器，用于获取 deepwiki.com 最新知识，支持 Cursor 等代码编辑器。
+
+- **Stars:** ⭐️ 1.4k
+- **Tags:** `mcp` `knowledge-base` `documentation` `rag`
+- **最后活动时间:** 2026-03-20
+
 ### [OpenOCR](https://github.com/Topdu/OpenOCR)
 
 开源OCR工具包，集成统一训练评估基准和商业级文档解析系统，支持场景文本检测与识别。
@@ -765,14 +773,6 @@ AWS上的科学数据管理平台，帮助团队和AI系统高效发现、信任
 - **Stars:** ⭐️ 1.4k
 - **Tags:** `data-management` `data-versioning` `aws` `ai-data`
 - **最后活动时间:** 2026-06-12
-
-### [deepwiki-mcp](https://github.com/regenrek/deepwiki-mcp)
-
-MCP 服务器，用于获取 deepwiki.com 最新知识，支持 Cursor 等代码编辑器。
-
-- **Stars:** ⭐️ 1.4k
-- **Tags:** `mcp` `knowledge-base` `documentation` `rag`
-- **最后活动时间:** 2026-03-20
 
 ### [OpenContracts](https://github.com/Open-Source-Legal/OpenContracts)
 
@@ -1848,6 +1848,14 @@ Intel Labs开源的高效RAG框架，支持ColBERT、知识图谱、多模态检
 - **Tags:** `bm25` `lexical-search` `information-retrieval` `rag`
 - **最后活动时间:** 2026-06-11
 
+### [lat.md](https://github.com/1st1/lat.md)
+
+基于Markdown的代码库知识图谱工具，为AI应用提供结构化的代码知识索引。
+
+- **Stars:** ⭐️ 1.7k
+- **Tags:** `knowledge-graph` `markdown` `codebase` `rag`
+- **最后活动时间:** 2026-04-02
+
 ### [ragbits](https://github.com/deepsense-ai/ragbits)
 
 GenAI应用快速开发构建块，提供文档搜索、评估、护栏、提示优化等完整工具链。
@@ -2104,14 +2112,6 @@ B站收藏夹智能RAG知识库工具，支持语音转写、向量检索和对�
 - **Tags:** `RAG` `Docker` `Ollama` `LangChain`
 - **最后活动时间:** 2026-01-22
 
-### [lat.md](https://github.com/1st1/lat.md)
-
-基于Markdown的代码库知识图谱工具，为AI应用提供结构化的代码知识索引。
-
-- **Stars:** ⭐️ 1.0k
-- **Tags:** `knowledge-graph` `markdown` `codebase` `rag`
-- **最后活动时间:** 2026-04-02
-
 ### [Hyper-Extract](https://github.com/yifanfeng97/Hyper-Extract)
 
 使用LLM将非结构化文本转换为结构化知识图谱和超图的CLI工具，支持时空信息提取，一键完成知识抽取。
@@ -2248,6 +2248,14 @@ Rust语言实现的向量嵌入和重排序库，高性能支持RAG检索系统�
 - **Tags:** `colbert` `information-retrieval` `language-model` `rag`
 - **最后活动时间:** 2026-06-11
 
+### [AutoSchemaKG](https://github.com/HKUST-KnowComp/AutoSchemaKG)
+
+自动知识图谱构建框架，结合概念化实现模式自动生成和知识抽取。
+
+- **Stars:** ⭐️ 772
+- **Tags:** `knowledge-graph` `graph-construction` `rag`
+- **最后活动时间:** 2026-04-29
+
 ### [RAG-FiT](https://github.com/IntelLabs/RAG-FiT)
 
 通过微调增强LLM在RAG任务中表现的框架，支持问答、语义搜索等信息检索场景。
@@ -2255,14 +2263,6 @@ Rust语言实现的向量嵌入和重排序库，高性能支持RAG检索系统�
 - **Stars:** ⭐️ 770
 - **Tags:** `RAG` `Fine-tuning` `NLP`
 - **最后活动时间:** 2026-06-08
-
-### [context-portal](https://github.com/GreatScottyMac/context-portal)
-
-MCP 记忆库服务器，构建项目知识图谱，为 IDE 中的 AI 助手提供强大的 RAG 能力。
-
-- **Stars:** ⭐️ 765
-- **Tags:** `mcp` `rag` `knowledge-graph` `memory-bank` `context`
-- **最后活动时间:** 2026-01-27
 
 ### [semantic-search-nextjs-pinecone-langchain-chatgpt](https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt)
 
@@ -2272,13 +2272,13 @@ MCP 记忆库服务器，构建项目知识图谱，为 IDE 中的 AI 助手提�
 - **Tags:** `langchain` `pinecone` `semantic-search` `gpt` `nextjs`
 - **最后活动时间:** 2026-02-26
 
-### [AutoSchemaKG](https://github.com/HKUST-KnowComp/AutoSchemaKG)
+### [context-portal](https://github.com/GreatScottyMac/context-portal)
 
-自动知识图谱构建框架，结合概念化实现模式自动生成和知识抽取。
+MCP 记忆库服务器，构建项目知识图谱，为 IDE 中的 AI 助手提供强大的 RAG 能力。
 
-- **Stars:** ⭐️ 748
-- **Tags:** `knowledge-graph` `graph-construction` `rag`
-- **最后活动时间:** 2026-04-29
+- **Stars:** ⭐️ 763
+- **Tags:** `mcp` `rag` `knowledge-graph` `memory-bank` `context`
+- **最后活动时间:** 2026-01-27
 
 ### [local-rag](https://github.com/jonfairbanks/local-rag)
 
@@ -2414,7 +2414,7 @@ NVIDIA官方RAG蓝图参考方案，提供基础检索增强生成管道的完�
 
 - **Stars:** ⭐️ 642
 - **Tags:** `knowledge-graph` `nlp` `hypergraphs` `knowledge-representation` `text-analysis`
-- **最后活动时间:** 2026-06-09
+- **最后活动时间:** 2026-06-20
 
 ### [graphbrain](https://github.com/graphbrain/graphbrain)
 
@@ -2484,9 +2484,9 @@ LLM驱动的非结构化数据搜索与分析平台，支持语义搜索和信�
 
 JavaScript知识图谱查询框架，支持SPARQL/GraphQL，具备MCP协议集成能力。
 
-- **Stars:** ⭐️ 570
+- **Stars:** ⭐️ 574
 - **Tags:** `Knowledge Graph` `SPARQL` `MCP`
-- **最后活动时间:** 2026-06-11
+- **最后活动时间:** 2026-07-03
 
 ### [AnglE](https://github.com/SeanLee97/AnglE)
 
@@ -2536,6 +2536,14 @@ ICML 2026 论文官方资源，基于端到端强化学习的智能体 GraphRAG 
 - **Tags:** `rag` `knowledge-base` `self-hosted` `context-layer`
 - **最后活动时间:** 2026-05-19
 
+### [HiRAG](https://github.com/hhy-huang/HiRAG)
+
+EMNLP'25论文实现：基于层次化知识的检索增强生成框架。
+
+- **Stars:** ⭐️ 552
+- **Tags:** `rag` `llm` `retrieval` `graphrag`
+- **最后活动时间:** 2026-06-16
+
 ### [magi-markdown](https://github.com/sno-ai/magi-markdown)
 
 专为AI系统设计的下一代Markdown扩展，通过结构化元数据和嵌入式AI指令，在人类可读内容与LLM/Agent处理之间建立无缝桥梁。
@@ -2543,14 +2551,6 @@ ICML 2026 论文官方资源，基于端到端强化学习的智能体 GraphRAG 
 - **Stars:** ⭐️ 552
 - **Tags:** `ai` `llm` `rag` `markdown` `ai-agents`
 - **最后活动时间:** 2026-04-11
-
-### [HiRAG](https://github.com/hhy-huang/HiRAG)
-
-EMNLP'25论文实现：基于层次化知识的检索增强生成框架。
-
-- **Stars:** ⭐️ 547
-- **Tags:** `rag` `llm` `retrieval` `graphrag`
-- **最后活动时间:** 2026-05-24
 
 ### [insights-lm-public](https://github.com/theaiautomators/insights-lm-public)
 

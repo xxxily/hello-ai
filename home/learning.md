@@ -2,7 +2,7 @@
 
 > Tutorials, courses, and awesome lists.
 
-> 当前分类已收录 **1226** 个相关项目。
+> 当前分类已收录 **1227** 个相关项目。
 
 ## Awesome Lists
 
@@ -2150,6 +2150,14 @@ IJCAI 2024 论文，基于大语言模型的多智能体系统研究综述。
 - **Tags:** `rag` `retrieval-augmented-generation` `generative-ai` `awesome-list`
 - **最后活动时间:** 2026-06-11
 
+### [KnowledgeEditingPapers](https://github.com/zjunlp/KnowledgeEditingPapers)
+
+大语言模型知识编辑必读论文列表，涵盖ROME、MEMIT等前沿方法。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `knowledge-editing` `large-language-models` `paper-list` `rome`
+- **最后活动时间:** 2026-06-25
+
 ### [awesome-design-skills](https://github.com/bergside/awesome-design-skills)
 
 收录67个精选DESIGN.md和SKILL.md设计技能文件，适用于Claude Design、Cursor、Codex等主流AI编程工具。
@@ -2454,6 +2462,14 @@ Model Context Protocol (MCP) 服务器精选列表，助力AI模型与外部工�
 - **Tags:** `MCP` `LLM` `Awesome List`
 - **最后活动时间:** 2026-05-03
 
+### [Awesome-AI-Memory](https://github.com/IAAR-Shanghai/Awesome-AI-Memory)
+
+专注于AI记忆系统的精选知识库，涵盖LLM记忆、智能体记忆、长期记忆、推理检索等前沿研究与工程实践。
+
+- **Stars:** ⭐️ 1.0k
+- **Tags:** `AI Memory` `LLM` `Agent` `RAG` `Long-term Memory`
+- **最后活动时间:** 2026-07-03
+
 ### [awesome-llm-role-playing-with-persona](https://github.com/Neph0s/awesome-llm-role-playing-with-persona)
 
 LLM角色扮演资源精选列表，涵盖论文、数据集和工具。
@@ -2550,14 +2566,6 @@ OpenClaw实际应用案例合集，收录Moltbook平台的真实自动化示例�
 - **Tags:** `ai-research` `automated-machine-learning` `autonomous-agents` `awesome-list`
 - **最后活动时间:** 2026-06-02
 
-### [Awesome-AI-Memory](https://github.com/IAAR-Shanghai/Awesome-AI-Memory)
-
-专注于AI记忆系统的精选知识库，涵盖LLM记忆、智能体记忆、长期记忆、推理检索等前沿研究与工程实践。
-
-- **Stars:** ⭐️ 978
-- **Tags:** `AI Memory` `LLM` `Agent` `RAG` `Long-term Memory`
-- **最后活动时间:** 2026-06-07
-
 ### [awesome-japanese-nlp-resources](https://github.com/taishi-i/awesome-japanese-nlp-resources)
 
 日语NLP资源精选列表，涵盖Python库、大语言模型、词典和语料库等资源，是日语自然语言处理的宝贵参考资料。
@@ -2594,7 +2602,7 @@ OpenClaw开源AI代理平台精选资源列表，涵盖教程、工具和集成�
 
 斯坦福大学AI/ML速查表合集，涵盖人工智能、深度学习、LLM、机器学习、概率统计等核心领域的知识点总结。
 
-- **Stars:** ⭐️ 956
+- **Stars:** ⭐️ 957
 - **Tags:** `artificial-intelligence` `machine-learning` `deep-learning` `cheatsheet`
 - **最后活动时间:** 2026-01-06
 
@@ -4472,6 +4480,14 @@ YSDA自然语言处理课程，涵盖NLP核心概念和实践。
 - **Tags:** `Machine Learning` `Deep Learning` `Tutorial`
 - **最后活动时间:** 2026-03-04
 
+### [notebooks](https://github.com/roboflow/notebooks)
+
+计算机视觉模型与技术教程合集，涵盖ResNet到YOLO11、SAM 3等前沿模型的实战示例。
+
+- **Stars:** ⭐️ 9.5k
+- **Tags:** `Computer Vision` `Deep Learning` `Tutorial`
+- **最后活动时间:** 2026-06-25
+
 ### [warriorjs](https://github.com/olistic/warriorjs)
 
 结合编程与人工智能的趣味游戏，通过战斗关卡学习AI算法和JavaScript编程技能。
@@ -4487,14 +4503,6 @@ YSDA自然语言处理课程，涵盖NLP核心概念和实践。
 - **Stars:** ⭐️ 9.5k
 - **Tags:** `deep-learning` `book` `tutorial`
 - **最后活动时间:** 2026-02-24
-
-### [notebooks](https://github.com/roboflow/notebooks)
-
-计算机视觉模型与技术教程合集，涵盖ResNet到YOLO11、SAM 3等前沿模型的实战示例。
-
-- **Stars:** ⭐️ 9.5k
-- **Tags:** `Computer Vision` `Deep Learning` `Tutorial`
-- **最后活动时间:** 2026-05-21
 
 ### [cuda-samples](https://github.com/NVIDIA/cuda-samples)
 
@@ -4887,6 +4895,14 @@ AI Agent开发完整指南，涵盖LangGraph实战、高级RAG技术及大模型
 - **Stars:** ⭐️ 5.2k
 - **Tags:** `data-science` `machine-learning` `deep-learning` `computer-vision` `nlp`
 - **最后活动时间:** 2026-02-01
+
+### [sports](https://github.com/roboflow/sports)
+
+计算机视觉在体育分析中的应用教程，涵盖目标检测、关键点检测、图像嵌入等深度学习技术。
+
+- **Stars:** ⭐️ 5.1k
+- **Tags:** `computer-vision` `deep-learning` `object-detection` `sports-analytics` `keypoint-detection`
+- **最后活动时间:** 2026-07-02
 
 ### [LLM-Engineers-Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook)
 
@@ -6248,6 +6264,14 @@ ONNX Runtime推理示例代码集合，展示机器学习模型的高效部署�
 - **Tags:** `onnx` `inference` `machine-learning`
 - **最后活动时间:** 2026-02-24
 
+### [AutonomousVehicleControlBeginnersGuide](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide)
+
+自动驾驶控制算法入门教程，涵盖感知、定位、建图、路径规划等完整技术栈。
+
+- **Stars:** ⭐️ 1.6k
+- **Tags:** `autonomous-driving` `slam` `path-planning` `perception`
+- **最后活动时间:** 2026-06-27
+
 ### [Machine-Learning-Projects](https://github.com/shsarv/Machine-Learning-Projects)
 
 机器学习项目展示合集，涵盖深度学习、NLP、OpenCV等多个领域，适合理论与实践结合学习。
@@ -6255,14 +6279,6 @@ ONNX Runtime推理示例代码集合，展示机器学习模型的高效部署�
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `machine-learning` `deep-learning` `nlp` `opencv` `python`
 - **最后活动时间:** 2026-05-20
-
-### [AutonomousVehicleControlBeginnersGuide](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide)
-
-自动驾驶控制算法入门教程，涵盖感知、定位、建图、路径规划等完整技术栈。
-
-- **Stars:** ⭐️ 1.6k
-- **Tags:** `autonomous-driving` `slam` `path-planning` `perception`
-- **最后活动时间:** 2026-05-23
 
 ### [SNNs](https://github.com/bioinf-jku/SNNs)
 
@@ -7576,14 +7592,6 @@ Firecrawl应用示例集合，展示如何构建AI爬虫、RAG应用和数据处
 - **Tags:** `machine-learning` `tutorial` `guide`
 - **最后活动时间:** 2026-05-27
 
-### [claude-code-ios-dev-guide](https://github.com/keskinonur/claude-code-ios-dev-guide)
-
-Claude Code CLI的iOS开发综合指南，涵盖PRD驱动工作流、扩展思考和规划模式优化。
-
-- **Stars:** ⭐️ 748
-- **Tags:** `claude-code` `ios-development` `swift` `swiftui` `claude-ai`
-- **最后活动时间:** 2026-01-04
-
 ### [dmol-book](https://github.com/whitead/dmol-book)
 
 面向分子和材料的深度学习书籍，涵盖化学信息学和材料科学中的深度学习应用。
@@ -7704,6 +7712,14 @@ Microsoft Learn学生大使社区维护的AI与编程实战工作坊合集，涵
 - **Tags:** `unsupervised-learning` `autoencoders` `clustering` `anomaly-detection`
 - **最后活动时间:** 2026-03-01
 
+### [DL4Proteins-notebooks](https://github.com/Graylab/DL4Proteins-notebooks)
+
+深度学习蛋白质结构预测与设计的Colab笔记本合集，涵盖扩散模型、图神经网络等前沿技术。
+
+- **Stars:** ⭐️ 697
+- **Tags:** `Deep Learning` `Protein Design` `Bioinformatics`
+- **最后活动时间:** 2026-04-17
+
 ### [CS-Notes](https://github.com/wx-chevalier/CS-Notes)
 
 全栈编程语言语法基础与工程实践速查手册。涵盖JavaScript、Java、Python、Go、Rust、C++等多种语言的实用代码片段。
@@ -7719,14 +7735,6 @@ Microsoft Learn学生大使社区维护的AI与编程实战工作坊合集，涵
 - **Stars:** ⭐️ 693
 - **Tags:** `ai-agent` `from-scratch` `tutorial` `deep-learning`
 - **最后活动时间:** 2026-04-23
-
-### [DL4Proteins-notebooks](https://github.com/Graylab/DL4Proteins-notebooks)
-
-深度学习蛋白质结构预测与设计的Colab笔记本合集，涵盖扩散模型、图神经网络等前沿技术。
-
-- **Stars:** ⭐️ 691
-- **Tags:** `Deep Learning` `Protein Design` `Bioinformatics`
-- **最后活动时间:** 2026-04-17
 
 ### [PyRosetta.notebooks](https://github.com/RosettaCommons/PyRosetta.notebooks)
 
@@ -8818,6 +8826,14 @@ Claude Code系统性分析与讨论，深入探讨AI智能体系统的设计与�
 - **Tags:** `claude` `ai-agents` `analysis` `llm`
 - **最后活动时间:** 2026-06-12
 
+### [DEIM](https://github.com/Intellindust-AI-Lab/DEIM)
+
+CVPR 2025论文实现，改进DETR匹配机制实现快速收敛的实时目标检测器。
+
+- **Stars:** ⭐️ 1.6k
+- **Tags:** `detr` `object-detection` `real-time` `transformer`
+- **最后活动时间:** 2026-03-24
+
 ### [solo-learn](https://github.com/vturrisi/solo-learn)
 
 基于PyTorch Lightning的自监督学习库，包含SimCLR、MoCo、BYOL、MAE等多种方法。
@@ -8825,14 +8841,6 @@ Claude Code系统性分析与讨论，深入探讨AI智能体系统的设计与�
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `self-supervised-learning` `contrastive-learning` `simclr` `moco` `pytorch-lightning`
 - **最后活动时间:** 2026-05-25
-
-### [DEIM](https://github.com/Intellindust-AI-Lab/DEIM)
-
-CVPR 2025论文实现，改进DETR匹配机制实现快速收敛的实时目标检测器。
-
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `detr` `object-detection` `real-time` `transformer`
-- **最后活动时间:** 2026-03-24
 
 ### [claude-reviews-claude](https://github.com/openedclaude/claude-reviews-claude)
 
@@ -9694,7 +9702,7 @@ CVPR 2023 论文，提出基于最大团的三维点云配准方法，提升配�
 
 CVPR 2025 Oral论文，提出Overview-first-Look-Closely-next卷积网络，采用上下文混合动态卷积核。
 
-- **Stars:** ⭐️ 531
+- **Stars:** ⭐️ 537
 - **Tags:** `cvpr2025` `convolutional-neural-networks` `dynamic-convolution` `vision-models`
 - **最后活动时间:** 2026-05-02
 

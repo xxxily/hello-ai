@@ -4660,6 +4660,14 @@ AI驱动的数据分析与可视化工具，支持CSV、Postgres、MySQL、Snowf
 - **Tags:** `ai` `data-visualization` `sql` `llm`
 - **最后活动时间:** 2026-02-11
 
+### [obsidian-claude-pkm](https://github.com/ballred/obsidian-claude-pkm)
+
+基于 Obsidian 和 Claude Code 构建的个人知识管理系统启动套件，实现智能化的知识管理与目标追踪。
+
+- **Stars:** ⭐️ 1.6k
+- **Tags:** `Claude Code` `PKM` `Obsidian` `AI Agents`
+- **最后活动时间:** 2026-02-18
+
 ### [oh-my-ppt](https://github.com/arcsin1/oh-my-ppt)
 
 AI驱动的演示文稿生成工具，支持本地离线使用，自动生成精美HTML幻灯片。
@@ -4691,14 +4699,6 @@ AI 驱动的作业助手，支持自主学习和作业解答。
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `time-series-forecasting` `transformers` `deep-learning` `pre-trained-models`
 - **最后活动时间:** 2026-06-02
-
-### [obsidian-claude-pkm](https://github.com/ballred/obsidian-claude-pkm)
-
-基于 Obsidian 和 Claude Code 构建的个人知识管理系统启动套件，实现智能化的知识管理与目标追踪。
-
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `Claude Code` `PKM` `Obsidian` `AI Agents`
-- **最后活动时间:** 2026-02-18
 
 ### [maestro](https://github.com/murtaza-nasir/maestro)
 
@@ -4980,6 +4980,14 @@ Chrome 浏览器划词翻译扩展，支持 PDF、电子书、Netflix 双语字�
 - **Tags:** `翻译` `浏览器扩展` `OCR`
 - **最后活动时间:** 2026-06-22
 
+### [stardist](https://github.com/stardist/stardist)
+
+基于星形凸形状的目标检测工具，专注于生物图像分析中的细胞和细胞核分割任务。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `object-detection` `cell-segmentation` `bioimage-analysis` `deep-learning`
+- **最后活动时间:** 2026-02-14
+
 ### [ebook-to-mindmap](https://github.com/SSShooter/ebook-to-mindmap)
 
 AI驱动的电子书内容提取与思维导图生成工具，支持EPUB和PDF格式的智能摘要总结。
@@ -5003,14 +5011,6 @@ MCP服务器，让AI自动将Markdown文章排版后发布至微信公众号，�
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `cybersecurity` `llm` `incident-response` `mitre-attack`
 - **最后活动时间:** 2026-06-11
-
-### [stardist](https://github.com/stardist/stardist)
-
-基于星形凸形状的目标检测工具，专注于生物图像分析中的细胞和细胞核分割任务。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `object-detection` `cell-segmentation` `bioimage-analysis` `deep-learning`
-- **最后活动时间:** 2026-02-14
 
 ### [clusterProfiler](https://github.com/YuLab-SMU/clusterProfiler)
 
@@ -5448,7 +5448,7 @@ AI 驱动的渗透测试助手，自动化侦察、笔记记录和漏洞分析�
 
 自动驾驶3D目标检测代码库，用于无人驾驶感知系统开发。
 
-- **Stars:** ⭐️ 962
+- **Stars:** ⭐️ 961
 - **Tags:** `object-detection` `deep-learning` `autonomous-driving` `3d-detection`
 - **最后活动时间:** 2026-02-05
 
@@ -5499,6 +5499,14 @@ AI 驱动的渗透测试助手，自动化侦察、笔记记录和漏洞分析�
 - **Stars:** ⭐️ 929
 - **Tags:** `Active Learning` `Literature Review` `Research`
 - **最后活动时间:** 2026-06-09
+
+### [OrbitOS](https://github.com/MarsWang42/OrbitOS)
+
+AI驱动的个人生产力系统，智能编排知识管理和日常任务规划。
+
+- **Stars:** ⭐️ 928
+- **Tags:** `productivity` `knowledge-management` `ai-assistant`
+- **最后活动时间:** 2026-03-15
 
 ### [gemma-gem](https://github.com/kessler/gemma-gem)
 
@@ -5883,14 +5891,6 @@ AI驱动的Twitter/X书签归档工具，支持多模型分析并导出为Markdo
 - **Stars:** ⭐️ 762
 - **Tags:** `i18n` `internationalization` `ai-translation` `typescript`
 - **最后活动时间:** 2026-06-12
-
-### [OrbitOS](https://github.com/MarsWang42/OrbitOS)
-
-AI驱动的个人生产力系统，智能编排知识管理和日常任务规划。
-
-- **Stars:** ⭐️ 761
-- **Tags:** `productivity` `knowledge-management` `ai-assistant`
-- **最后活动时间:** 2026-03-15
 
 ### [stringsifter](https://github.com/mandiant/stringsifter)
 
@@ -6524,6 +6524,14 @@ AI驱动的GitHub个人资料分析工具，基于用户仓库贡献提供智能
 - **Tags:** `ai-writing` `local-ai` `ollama` `webllm` `markdown`
 - **最后活动时间:** 2026-04-22
 
+### [sage-wiki](https://github.com/xoai/sage-wiki)
+
+基于LLM的个人知识库工具，自动将文档编译成结构化、可搜索的互联知识库。
+
+- **Stars:** ⭐️ 547
+- **Tags:** `llm` `knowledge-base` `wiki` `rag`
+- **最后活动时间:** 2026-06-29
+
 ### [ppt-agent-workflow-san](https://github.com/mucsbr/ppt-agent-workflow-san)
 
 渐进交互式AI PPT生成Skill，支持智能幻灯片内容创作。
@@ -6611,14 +6619,6 @@ AI驱动的CMS核心系统，为个人博客和创作者网站提供AI摘要、�
 - **Stars:** ⭐️ 528
 - **Tags:** `arxiv` `gpt` `rag` `llm`
 - **最后活动时间:** 2026-03-30
-
-### [sage-wiki](https://github.com/xoai/sage-wiki)
-
-基于LLM的个人知识库工具，自动将文档编译成结构化、可搜索的互联知识库。
-
-- **Stars:** ⭐️ 528
-- **Tags:** `llm` `knowledge-base` `wiki` `rag`
-- **最后活动时间:** 2026-05-23
 
 ### [brainchop](https://github.com/neuroneural/brainchop)
 

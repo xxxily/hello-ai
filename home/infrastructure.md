@@ -2,7 +2,7 @@
 
 > Hardware integration, cloud infra, and model serving.
 
-> 当前分类已收录 **940** 个相关项目。
+> 当前分类已收录 **939** 个相关项目。
 
 ## Cloud & Hosting
 
@@ -916,7 +916,7 @@ Dask分布式任务调度器，为大规模机器学习和数据处理提供强�
 
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `knowledge-graph` `simulation` `rust` `multi-tenant`
-- **最后活动时间:** 2026-06-12
+- **最后活动时间:** 2026-07-04
 
 ### [quix-streams](https://github.com/quixio/quix-streams)
 
@@ -3790,9 +3790,9 @@ Google开源的端到端机器学习框架，支持构建和部署深度学习�
 
 免费开源的OpenAI API替代方案，支持本地部署无需GPU，兼容OpenAI API接口。
 
-- **Stars:** ⭐️ 46.8k
+- **Stars:** ⭐️ 47.3k
 - **Tags:** `LLM` `Self-hosted` `OpenAI API` `Local Inference`
-- **最后活动时间:** 2026-06-12
+- **最后活动时间:** 2026-07-04
 
 ### [airflow](https://github.com/apache/airflow)
 
@@ -4176,7 +4176,7 @@ YOLOv3目标检测模型的PyTorch实现，支持导出至ONNX、CoreML、TFLite
 
 - **Stars:** ⭐️ 10.6k
 - **Tags:** `Object Detection` `YOLO` `PyTorch`
-- **最后活动时间:** 2026-05-06
+- **最后活动时间:** 2026-07-01
 
 ### [openvino](https://github.com/openvinotoolkit/openvino)
 
@@ -5248,7 +5248,7 @@ C++14深度学习API服务器，支持PyTorch、TensorRT、TensorFlow等多框�
 
 - **Stars:** ⭐️ 2.5k
 - **Tags:** `deep-learning` `pytorch` `tensorrt` `model-serving`
-- **最后活动时间:** 2026-06-12
+- **最后活动时间:** 2026-07-02
 
 ### [LiteRT](https://github.com/google-ai-edge/LiteRT)
 
@@ -5322,13 +5322,21 @@ Google开源的去中心化机器学习框架，支持在分布式数据上进�
 - **Tags:** `speculative-decoding` `llm-inference` `inference-acceleration`
 - **最后活动时间:** 2026-02-20
 
+### [inference](https://github.com/roboflow/inference)
+
+计算机视觉推理服务器，支持YOLO等模型在边缘设备上的部署。
+
+- **Stars:** ⭐️ 2.4k
+- **Tags:** `computer-vision` `inference` `object-detection` `yolo`
+- **最后活动时间:** 2026-07-03
+
 ### [ailia-models](https://github.com/ailia-ai/ailia-models)
 
 ailia SDK 的预训练模型集合，涵盖图像分类、目标检测、姿态估计等多种 SOTA 模型。
 
-- **Stars:** ⭐️ 2.3k
+- **Stars:** ⭐️ 2.4k
 - **Tags:** `Pre-trained Models` `Inference` `Multi-task`
-- **最后活动时间:** 2026-06-11
+- **最后活动时间:** 2026-07-01
 
 ### [Olive](https://github.com/microsoft/Olive)
 
@@ -5352,14 +5360,6 @@ Rust 语言实现的高性能 ONNX 模型推理和训练框架。
 
 - **Stars:** ⭐️ 2.3k
 - **Tags:** `onnx` `inference` `rust` `machine-learning` `ai-training`
-- **最后活动时间:** 2026-06-12
-
-### [inference](https://github.com/roboflow/inference)
-
-计算机视觉推理服务器，支持YOLO等模型在边缘设备上的部署。
-
-- **Stars:** ⭐️ 2.3k
-- **Tags:** `computer-vision` `inference` `object-detection` `yolo`
 - **最后活动时间:** 2026-06-12
 
 ### [instill-core](https://github.com/instill-ai/instill-core)
@@ -5578,6 +5578,14 @@ PyTorch差分隐私训练库，支持在保护数据隐私的前提下训练深�
 - **Tags:** `MCP` `AI Security` `Kubernetes`
 - **最后活动时间:** 2026-06-12
 
+### [TensorRT-YOLO](https://github.com/laugh12321/TensorRT-YOLO)
+
+NVIDIA TensorRT加速的YOLO模型部署工具包，支持多版本YOLO模型的高效推理部署。
+
+- **Stars:** ⭐️ 1.9k
+- **Tags:** `tensorrt` `yolo` `object-detection` `inference`
+- **最后活动时间:** 2026-03-22
+
 ### [torch-mlir](https://github.com/llvm/torch-mlir)
 
 连接PyTorch生态与MLIR生态的编译器基础设施，优化模型部署流程。
@@ -5593,14 +5601,6 @@ ChatGPT/Codex多账号负载均衡代理工具，支持用量追踪、仪表盘�
 - **Stars:** ⭐️ 1.8k
 - **Tags:** `load-balancer` `openai` `chatgpt` `api-proxy` `dashboard`
 - **最后活动时间:** 2026-06-11
-
-### [TensorRT-YOLO](https://github.com/laugh12321/TensorRT-YOLO)
-
-NVIDIA TensorRT加速的YOLO模型部署工具包，支持多版本YOLO模型的高效推理部署。
-
-- **Stars:** ⭐️ 1.8k
-- **Tags:** `tensorrt` `yolo` `object-detection` `inference`
-- **最后活动时间:** 2026-03-22
 
 ### [nndeploy](https://github.com/nndeploy/nndeploy)
 
@@ -5729,14 +5729,6 @@ Tableau的Python集成框架，支持在Tableau可视化中实时执行Python代
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `llm` `edge-computing` `wasm` `model-serving`
 - **最后活动时间:** 2026-02-08
-
-### [PaddleSlim](https://github.com/PaddlePaddle/PaddleSlim)
-
-飞桨深度学习模型压缩与架构搜索库，支持剪枝、量化、蒸馏、NAS等多种模型优化技术。
-
-- **Stars:** ⭐️ 1.6k
-- **Tags:** `model-compression` `quantization` `pruning` `nas`
-- **最后活动时间:** 2026-01-04
 
 ### [graalpython](https://github.com/oracle/graalpython)
 

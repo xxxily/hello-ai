@@ -222,7 +222,7 @@ OneRec生成式推荐系统的最小复现版本，探索大模型在推荐系�
 
 - **Stars:** ⭐️ 1.4k
 - **Tags:** `knowledge-base` `language-model` `rag` `augmented-lm`
-- **最后活动时间:** 2026-04-20
+- **最后活动时间:** 2026-07-02
 
 ### [MobileLLM](https://github.com/facebookresearch/MobileLLM)
 

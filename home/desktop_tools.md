@@ -752,6 +752,14 @@ Windows视频插帧GUI工具，支持DAIN和RIFE模型实现流畅视频补帧�
 - **Tags:** `macOS` `Local AI` `MLX` `Apple Silicon` `Privacy`
 - **最后活动时间:** 2026-03-20
 
+### [edit-mind](https://github.com/IliasHad/edit-mind)
+
+本地优先的AI视频智能平台，集成YOLO、DeepFace和Whisper实现多模态视频分析与语义搜索。
+
+- **Stars:** ⭐️ 1.7k
+- **Tags:** `Video Intelligence` `Multimodal AI` `Self-hosted`
+- **最后活动时间:** 2026-06-30
+
 ### [open-cowork](https://github.com/OpenCoworkAI/open-cowork)
 
 开源桌面应用，支持Windows和macOS，实现Claude AI智能体协作功能。
@@ -847,14 +855,6 @@ Open WebUI桌面客户端，提供本地化的AI聊天界面体验。
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `desktop-agent` `ai-assistant` `general-agent` `automation`
 - **最后活动时间:** 2026-04-13
-
-### [edit-mind](https://github.com/IliasHad/edit-mind)
-
-本地优先的AI视频智能平台，集成YOLO、DeepFace和Whisper实现多模态视频分析与语义搜索。
-
-- **Stars:** ⭐️ 1.4k
-- **Tags:** `Video Intelligence` `Multimodal AI` `Self-hosted`
-- **最后活动时间:** 2026-05-19
 
 ### [opencove](https://github.com/DeadWaveWave/opencove)
 

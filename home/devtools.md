@@ -2928,6 +2928,14 @@ Claude Code 的轻量级编排仪表板，用于管理上下文、自动化和�
 - **Tags:** `claude-code` `ai-agents` `agentic-workflow` `dashboard`
 - **最后活动时间:** 2026-04-20
 
+### [rust-skills](https://github.com/actionbook/rust-skills)
+
+Rust开发者AI辅助系统，基于元问题驱动的知识索引技术，帮助开发者更高效地编写Rust代码。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `rust` `ai-assistant` `developer-tools` `knowledge-indexing`
+- **最后活动时间:** 2026-05-24
+
 ### [triplex](https://github.com/pmndrs/triplex)
 
 开源的React Three Fiber可视化工作空间，支持AI辅助构建2D和3D Web应用，集成Cursor和Windsurf等AI工具。
@@ -3095,14 +3103,6 @@ AI驱动的代码审查工具，支持自定义模型选择与成本控制，助
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `Code Review` `AI Assistant` `Developer Tools`
 - **最后活动时间:** 2026-06-24
-
-### [rust-skills](https://github.com/actionbook/rust-skills)
-
-Rust开发者AI辅助系统，基于元问题驱动的知识索引技术，帮助开发者更高效地编写Rust代码。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `rust` `ai-assistant` `developer-tools` `knowledge-indexing`
-- **最后活动时间:** 2026-05-24
 
 ### [claudeclaw](https://github.com/moazbuilds/claudeclaw)
 
@@ -4168,6 +4168,14 @@ NixOS资源MCP服务器，让AI助手能够查询Nix包和配置选项。
 - **Tags:** `claude-code` `codex-cli` `gemini-cli` `git-worktree` `ai-coding` `developer-tools`
 - **最后活动时间:** 2026-06-10
 
+### [axon](https://github.com/harshkedia177/axon)
+
+基于知识图谱的代码智能引擎，将代码库索引为知识图谱，通过MCP工具服务于AI智能体。
+
+- **Stars:** ⭐️ 715
+- **Tags:** `code-intelligence` `knowledge-graph` `mcp` `static-analysis`
+- **最后活动时间:** 2026-03-25
+
 ### [claudekit](https://github.com/carlrannaberg/claudekit)
 
 Claude Code的工具包，提供自定义命令、钩子和实用工具集，增强Claude Code的开发体验。
@@ -4183,14 +4191,6 @@ Claude Code CLI 集成插件，为 Unreal Engine 5.7 提供 AI 编程辅助，�
 - **Stars:** ⭐️ 713
 - **Tags:** `ai-coding-assistant` `unreal-engine` `claude` `mcp`
 - **最后活动时间:** 2026-05-16
-
-### [axon](https://github.com/harshkedia177/axon)
-
-基于知识图谱的代码智能引擎，将代码库索引为知识图谱，通过MCP工具服务于AI智能体。
-
-- **Stars:** ⭐️ 711
-- **Tags:** `code-intelligence` `knowledge-graph` `mcp` `static-analysis`
-- **最后活动时间:** 2026-03-25
 
 ### [claude-code.el](https://github.com/stevemolitor/claude-code.el)
 
@@ -6760,17 +6760,17 @@ Python机器学习核心库，提供分类、回归、聚类等算法的简洁AP
 
 业界领先的YOLO系列目标检测框架，支持目标检测、图像分割、姿态估计等多种计算机视觉任务。
 
-- **Stars:** ⭐️ 58.3k
+- **Stars:** ⭐️ 59.1k
 - **Tags:** `YOLO` `目标检测` `深度学习`
-- **最后活动时间:** 2026-06-12
+- **最后活动时间:** 2026-07-04
 
 ### [yolov5](https://github.com/ultralytics/yolov5)
 
 广受欢迎的目标检测框架，支持PyTorch、ONNX、CoreML、TFLite等多平台部署。
 
-- **Stars:** ⭐️ 57.5k
+- **Stars:** ⭐️ 57.6k
 - **Tags:** `Object Detection` `YOLO` `Computer Vision`
-- **最后活动时间:** 2026-06-11
+- **最后活动时间:** 2026-07-01
 
 ### [pandas](https://github.com/pandas-dev/pandas)
 
@@ -6788,6 +6788,14 @@ Python数据分析与处理核心库，提供DataFrame等数据结构，是AI/ML
 - **Tags:** `julia` `machine-learning` `scientific-computing` `numerical`
 - **最后活动时间:** 2026-06-12
 
+### [supervision](https://github.com/roboflow/supervision)
+
+强大的计算机视觉工具库，提供目标检测、实例分割、视频处理等功能，支持YOLO、COCO等多种格式。
+
+- **Stars:** ⭐️ 46.6k
+- **Tags:** `计算机视觉` `目标检测` `视频处理`
+- **最后活动时间:** 2026-07-04
+
 ### [pi-mono](https://github.com/badlogic/pi-mono)
 
 一站式AI智能体开发工具包，提供编码代理CLI、统一LLM API和多种UI组件，助力快速构建AI应用。
@@ -6802,14 +6810,6 @@ Python数据分析与处理核心库，提供DataFrame等数据结构，是AI/ML
 
 - **Stars:** ⭐️ 44.9k
 - **Tags:** `Python` `数据可视化` `机器学习`
-- **最后活动时间:** 2026-06-12
-
-### [supervision](https://github.com/roboflow/supervision)
-
-强大的计算机视觉工具库，提供目标检测、实例分割、视频处理等功能，支持YOLO、COCO等多种格式。
-
-- **Stars:** ⭐️ 43.9k
-- **Tags:** `计算机视觉` `目标检测` `视频处理`
 - **最后活动时间:** 2026-06-12
 
 ### [gradio](https://github.com/gradio-app/gradio)
@@ -7260,6 +7260,14 @@ Python科学计算核心库，提供优化、线性代数、信号处理等算�
 - **Tags:** `machine-learning` `computer-vision` `deep-learning` `cpp`
 - **最后活动时间:** 2026-05-07
 
+### [PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection)
+
+基于PaddlePaddle的目标检测工具包，支持目标检测、实例分割、多目标跟踪和实时多人关键点检测。
+
+- **Stars:** ⭐️ 14.3k
+- **Tags:** `object-detection` `instance-segmentation` `pose-estimation` `paddlepaddle` `yolo`
+- **最后活动时间:** 2026-05-28
+
 ### [electerm](https://github.com/electerm/electerm)
 
 多功能终端客户端，支持SSH/SFTP/FTP/RDP/VNC等协议，集成MCP协议实现AI模型连接能力。
@@ -7275,14 +7283,6 @@ Java/Scala深度学习框架，支持分布式训练和Hadoop/Spark集成，适�
 - **Stars:** ⭐️ 14.2k
 - **Tags:** `Java` `Deep Learning` `Distributed` `Enterprise`
 - **最后活动时间:** 2026-06-11
-
-### [PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection)
-
-基于PaddlePaddle的目标检测工具包，支持目标检测、实例分割、多目标跟踪和实时多人关键点检测。
-
-- **Stars:** ⭐️ 14.2k
-- **Tags:** `object-detection` `instance-segmentation` `pose-estimation` `paddlepaddle` `yolo`
-- **最后活动时间:** 2026-05-28
 
 ### [ivy](https://github.com/ivy-llc/ivy)
 
@@ -7370,7 +7370,7 @@ Java/Scala深度学习框架，支持分布式训练和Hadoop/Spark集成，适�
 
 - **Stars:** ⭐️ 12.9k
 - **Tags:** `Explainable AI` `Computer Vision` `PyTorch` `Visualization`
-- **最后活动时间:** 2026-05-21
+- **最后活动时间:** 2026-06-14
 
 ### [typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk)
 
@@ -8228,6 +8228,14 @@ Python嵌入式凸优化建模语言，广泛用于机器学习模型训练中�
 - **Tags:** `convex-optimization` `optimization` `python`
 - **最后活动时间:** 2026-05-29
 
+### [PaddleX](https://github.com/PaddlePaddle/PaddleX)
+
+基于飞桨的全流程AI开发工具，支持OCR、目标检测、分割、语音识别等多种AI任务的低代码开发。
+
+- **Stars:** ⭐️ 6.2k
+- **Tags:** `AI Pipeline` `OCR` `Low-code`
+- **最后活动时间:** 2026-06-25
+
 ### [skorch](https://github.com/skorch-dev/skorch)
 
 将PyTorch神经网络封装为scikit-learn兼容接口的库，支持sklearn的pipeline和网格搜索功能。
@@ -8235,14 +8243,6 @@ Python嵌入式凸优化建模语言，广泛用于机器学习模型训练中�
 - **Stars:** ⭐️ 6.2k
 - **Tags:** `pytorch` `scikit-learn` `neural-network`
 - **最后活动时间:** 2026-05-29
-
-### [PaddleX](https://github.com/PaddlePaddle/PaddleX)
-
-基于飞桨的全流程AI开发工具，支持OCR、目标检测、分割、语音识别等多种AI任务的低代码开发。
-
-- **Stars:** ⭐️ 6.2k
-- **Tags:** `AI Pipeline` `OCR` `Low-code`
-- **最后活动时间:** 2026-06-12
 
 ### [aim](https://github.com/aimhubio/aim)
 
@@ -8432,9 +8432,9 @@ PyTorch C++ API的Rust绑定，支持在Rust中进行深度学习开发。
 
 框架无关的切片/分块推理工具，专为大幅图像和小目标检测优化，支持交互式UI和错误分析。
 
-- **Stars:** ⭐️ 5.3k
+- **Stars:** ⭐️ 5.4k
 - **Tags:** `Small Object Detection` `Large Image` `Inference`
-- **最后活动时间:** 2026-06-08
+- **最后活动时间:** 2026-07-04
 
 ### [Pluto.jl](https://github.com/JuliaPluto/Pluto.jl)
 
@@ -9476,6 +9476,14 @@ CERN开源的科学数据分析框架，支持大数据处理、机器学习、�
 - **Tags:** `Gemini` `API` `Python` `Reverse-Engineering`
 - **最后活动时间:** 2026-04-13
 
+### [D-FINE](https://github.com/Peterande/D-FINE)
+
+ICLR 2025 Spotlight论文实现，重新定义DETR回归任务为细粒度分布细化。
+
+- **Stars:** ⭐️ 3.2k
+- **Tags:** `object-detection` `detr` `transformer`
+- **最后活动时间:** 2026-04-06
+
 ### [brax](https://github.com/google/brax)
 
 Google开源的大规模并行刚体物理模拟器，专为加速器硬件优化，广泛用于强化学习训练。
@@ -9499,14 +9507,6 @@ Python时间序列分析机器学习工具包，提供DTW、分类、聚类等�
 - **Stars:** ⭐️ 3.2k
 - **Tags:** `time-series` `machine-learning` `python` `dtw`
 - **最后活动时间:** 2026-06-11
-
-### [D-FINE](https://github.com/Peterande/D-FINE)
-
-ICLR 2025 Spotlight论文实现，重新定义DETR回归任务为细粒度分布细化。
-
-- **Stars:** ⭐️ 3.2k
-- **Tags:** `object-detection` `detr` `transformer`
-- **最后活动时间:** 2026-04-06
 
 ### [google-ai-mode-scraper](https://github.com/oxylabs/google-ai-mode-scraper)
 
@@ -10244,6 +10244,14 @@ MCP Apps协议官方规范与SDK，为AI聊天机器人提供嵌入式UI标准�
 - **Tags:** `Medical Imaging` `PyTorch` `Deep Learning`
 - **最后活动时间:** 2026-06-11
 
+### [NudeNet](https://github.com/notAI-tech/NudeNet)
+
+轻量级裸露内容检测工具，支持多种深度学习框架，适用于内容审核与过滤场景。
+
+- **Stars:** ⭐️ 2.4k
+- **Tags:** `nsfw-detection` `object-detection` `onnxruntime` `keras`
+- **最后活动时间:** 2026-06-09
+
 ### [chemprop](https://github.com/chemprop/chemprop)
 
 基于消息传递神经网络的分子属性预测工具，应用于药物发现与化学信息学领域。
@@ -10284,14 +10292,6 @@ MCP服务器，为AI模型提供Google Analytics数据访问能力，支持智�
 - **Tags:** `mcp` `google-analytics` `ai-integration`
 - **最后活动时间:** 2026-06-11
 
-### [NudeNet](https://github.com/notAI-tech/NudeNet)
-
-轻量级裸露内容检测工具，支持多种深度学习框架，适用于内容审核与过滤场景。
-
-- **Stars:** ⭐️ 2.4k
-- **Tags:** `nsfw-detection` `object-detection` `onnxruntime` `keras`
-- **最后活动时间:** 2026-05-28
-
 ### [axlearn](https://github.com/apple/axlearn)
 
 可扩展的深度学习库，基于JAX构建，支持大规模模型训练和研究实验。
@@ -10324,6 +10324,14 @@ AI驱动的低代码框架，通过统一元数据模型让AI与开发者协作�
 - **Tags:** `AI-LowCode` `Framework` `Enterprise`
 - **最后活动时间:** 2026-04-14
 
+### [Open3D-ML](https://github.com/isl-org/Open3D-ML)
+
+Open3D的3D机器学习扩展，支持点云处理、3D目标检测和语义分割任务。
+
+- **Stars:** ⭐️ 2.3k
+- **Tags:** `3D ML` `Point Cloud` `Object Detection` `Semantic Segmentation`
+- **最后活动时间:** 2026-02-25
+
 ### [claimed](https://github.com/claimed-framework/claimed)
 
 低代码/无代码快速原型开发工具，支持数据科学和机器学习项目无缝CI/CD到生产环境。
@@ -10347,14 +10355,6 @@ n8n工作流模板目录，汇集大量可复用的自动化工作流示例，�
 - **Stars:** ⭐️ 2.3k
 - **Tags:** `n8n` `Workflow` `Automation` `Templates`
 - **最后活动时间:** 2026-04-23
-
-### [Open3D-ML](https://github.com/isl-org/Open3D-ML)
-
-Open3D的3D机器学习扩展，支持点云处理、3D目标检测和语义分割任务。
-
-- **Stars:** ⭐️ 2.3k
-- **Tags:** `3D ML` `Point Cloud` `Object Detection` `Semantic Segmentation`
-- **最后活动时间:** 2026-02-25
 
 ### [azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js)
 
@@ -11004,6 +11004,14 @@ Rust语言的OpenAI异步客户端库，提供类型安全的API接口。
 - **Tags:** `deep-learning` `differentiable-simulations` `pde-solver` `physics-informed`
 - **最后活动时间:** 2026-06-22
 
+### [DEIMv2](https://github.com/Intellindust-AI-Lab/DEIMv2)
+
+融合DINOv3的实时目标检测模型，实现高性能检测Transformer架构。
+
+- **Stars:** ⭐️ 1.9k
+- **Tags:** `Object Detection` `Transformer` `Real-time`
+- **最后活动时间:** 2026-03-24
+
 ### [java-docs-samples](https://github.com/GoogleCloudPlatform/java-docs-samples)
 
 Google Cloud 官方 Java/Kotlin 代码示例集合，涵盖 Vision、Translate、AutoML 等 AI 服务的集成示例。
@@ -11163,14 +11171,6 @@ MCP服务器，支持从arXiv、PubMed、bioRxiv等多源搜索和下载学术�
 - **Stars:** ⭐️ 1.8k
 - **Tags:** `MCP` `论文搜索` `学术研究`
 - **最后活动时间:** 2026-05-18
-
-### [DEIMv2](https://github.com/Intellindust-AI-Lab/DEIMv2)
-
-融合DINOv3的实时目标检测模型，实现高性能检测Transformer架构。
-
-- **Stars:** ⭐️ 1.8k
-- **Tags:** `Object Detection` `Transformer` `Real-time`
-- **最后活动时间:** 2026-03-24
 
 ### [responsible-ai-toolbox](https://github.com/microsoft/responsible-ai-toolbox)
 
@@ -11724,6 +11724,14 @@ AI原生的可视化分析框架，支持自动洞察生成、图表推荐和GPT
 - **Tags:** `python` `java` `jni` `embedding` `integration`
 - **最后活动时间:** 2026-05-19
 
+### [Yolov5-deepsort-inference](https://github.com/Sharpiless/Yolov5-deepsort-inference)
+
+基于YOLOv5和DeepSORT的车辆行人追踪计数方案，封装为Detector类便于集成到各类项目中。
+
+- **Stars:** ⭐️ 1.5k
+- **Tags:** `deepsort` `object-detection` `tracking` `yolov5` `mot`
+- **最后活动时间:** 2026-03-26
+
 ### [FuzzyAI](https://github.com/cyberark/FuzzyAI)
 
 强大的LLM自动化模糊测试工具，帮助开发者和安全研究人员识别和缓解LLM API中的潜在越狱漏洞。
@@ -11771,14 +11779,6 @@ MCP服务器，整合41个巴西公共API，为AI代理提供标准化的数据�
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `numpy` `tensor` `machine-learning` `dotnet`
 - **最后活动时间:** 2026-06-06
-
-### [Yolov5-deepsort-inference](https://github.com/Sharpiless/Yolov5-deepsort-inference)
-
-基于YOLOv5和DeepSORT的车辆行人追踪计数方案，封装为Detector类便于集成到各类项目中。
-
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `deepsort` `object-detection` `tracking` `yolov5` `mot`
-- **最后活动时间:** 2026-03-26
 
 ### [openai-java](https://github.com/openai/openai-java)
 
@@ -12556,14 +12556,6 @@ Elixir语言实现的LangChain风格框架，支持Elixir项目集成LLM。
 - **Tags:** `llm` `productivity` `code-assistant` `developer-tools`
 - **最后活动时间:** 2026-02-09
 
-### [torch-rechub](https://github.com/datawhalechina/torch-rechub)
-
-基于PyTorch的推荐算法框架，易用易扩展，支持CTR预测、生成式推荐等多种模型。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `推荐系统` `PyTorch` `深度学习`
-- **最后活动时间:** 2026-06-08
-
 ### [MLKit](https://github.com/jenly1314/MLKit)
 
 Android端强大的机器学习工具包，支持文字识别、条码扫描、人脸检测、对象检测等多种AI功能。
@@ -12571,6 +12563,14 @@ Android端强大的机器学习工具包，支持文字识别、条码扫描、�
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `mlkit` `android` `ocr` `face-detection` `object-detection`
 - **最后活动时间:** 2026-06-11
+
+### [torch-rechub](https://github.com/datawhalechina/torch-rechub)
+
+基于PyTorch的推荐算法框架，易用易扩展，支持CTR预测、生成式推荐等多种模型。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `推荐系统` `PyTorch` `深度学习`
+- **最后活动时间:** 2026-06-08
 
 ### [Gearboy](https://github.com/drhelius/Gearboy)
 
@@ -13676,6 +13676,14 @@ Java 免费离线 AI 工具箱，集成 YOLO、PaddleOCR、Whisper 等模型，�
 - **Tags:** `medical-imaging` `neuroimaging` `registration` `segmentation`
 - **最后活动时间:** 2026-06-10
 
+### [Octocode](https://github.com/bgauryy/Octocode)
+
+MCP服务器，提供语义化代码搜索和上下文生成，支持公私仓库实时搜索，将代码库转换为AI优化的知识。
+
+- **Stars:** ⭐️ 875
+- **Tags:** `mcp` `code-search` `semantic-search` `ai-agents`
+- **最后活动时间:** 2026-07-02
+
 ### [agent-starter-react](https://github.com/livekit-examples/agent-starter-react)
 
 LiveKit语音AI智能体的完整前端应用模板，基于Next.js构建。
@@ -13707,14 +13715,6 @@ PyTorch中的快速可微分排序和排名实现。支持GPU加速，适用于�
 - **Stars:** ⭐️ 865
 - **Tags:** `graph-algorithms` `network-analysis` `python` `cpp`
 - **最后活动时间:** 2026-06-11
-
-### [Octocode](https://github.com/bgauryy/Octocode)
-
-MCP服务器，提供语义化代码搜索和上下文生成，支持公私仓库实时搜索，将代码库转换为AI优化的知识。
-
-- **Stars:** ⭐️ 863
-- **Tags:** `mcp` `code-search` `semantic-search` `ai-agents`
-- **最后活动时间:** 2026-06-06
 
 ### [WeChatQRCode](https://github.com/jenly1314/WeChatQRCode)
 

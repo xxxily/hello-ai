@@ -1,1 +1,345 @@
-{}
+{
+  "queue": [
+    {
+      "name": "data-engineering-book",
+      "html_url": "https://github.com/oleg-agapov/data-engineering-book",
+      "description": "Accumulated knowledge and experience in the field of Data Engineering",
+      "topics": [
+        "data",
+        "data-engineering",
+        "engineering"
+      ],
+      "stargazers_count": 872,
+      "pushed_at": "2022-11-22T19:44:52Z",
+      "added_to_queue": "2026-07-04T11:45:13.908Z"
+    },
+    {
+      "name": "nolebase",
+      "html_url": "https://github.com/nolebase/nolebase",
+      "description": "A place to record memories, knowledge and ideas | 记录回忆，知识和畅想的地方",
+      "topics": [
+        "knowledge-base",
+        "obsidian",
+        "vitepress",
+        "vitepress-doc"
+      ],
+      "stargazers_count": 630,
+      "pushed_at": "2026-07-03T16:45:25Z",
+      "added_to_queue": "2026-07-04T11:45:13.908Z"
+    },
+    {
+      "name": "open-knowledge",
+      "html_url": "https://github.com/inkeep/open-knowledge",
+      "description": "Beautiful, AI-native markdown editor and LLM Wiki",
+      "topics": [
+        "2nd-brain",
+        "agent-skills",
+        "claude",
+        "codex",
+        "docs",
+        "knowledge-base",
+        "knowledge-management",
+        "llm",
+        "llm-wiki",
+        "markdown",
+        "markdown-editor",
+        "md",
+        "mdx",
+        "notes",
+        "pkm",
+        "second-brain",
+        "skills"
+      ],
+      "stargazers_count": 1835,
+      "pushed_at": "2026-07-03T02:27:00Z",
+      "added_to_queue": "2026-07-04T11:45:13.908Z"
+    },
+    {
+      "name": "second-brain",
+      "html_url": "https://github.com/NicholasSpisak/second-brain",
+      "description": "LLM-maintained personal knowledge base for Obsidian. Based on Andrej Karpathy's LLM Wiki pattern.",
+      "topics": [
+        "agent-skills",
+        "ai",
+        "knowledge-base",
+        "llm",
+        "markdown",
+        "obsidian",
+        "personal-wiki",
+        "second-brain"
+      ],
+      "stargazers_count": 578,
+      "pushed_at": "2026-04-07T03:16:20Z",
+      "added_to_queue": "2026-07-04T11:45:13.908Z"
+    },
+    {
+      "name": "KILT",
+      "html_url": "https://github.com/facebookresearch/KILT",
+      "description": "Library for Knowledge Intensive Language Tasks",
+      "topics": [],
+      "stargazers_count": 977,
+      "pushed_at": "2022-03-31T11:01:39Z",
+      "added_to_queue": "2026-07-04T11:45:13.908Z"
+    },
+    {
+      "name": "university",
+      "html_url": "https://github.com/nwuzmedoutlook/university",
+      "description": ":octocat:120+国内高校课程资源纯手工整理，欢迎补充、修订",
+      "topics": [
+        "book",
+        "college",
+        "computer-science",
+        "course",
+        "ebook",
+        "exam",
+        "knowledge",
+        "learn",
+        "machine-learning",
+        "share",
+        "study",
+        "university"
+      ],
+      "stargazers_count": 1167,
+      "pushed_at": "2025-01-13T10:07:34Z",
+      "added_to_queue": "2026-07-04T11:45:13.908Z"
+    },
+    {
+      "name": "Agent_Memory_Techniques",
+      "html_url": "https://github.com/NirDiamant/Agent_Memory_Techniques",
+      "description": "Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, episodic and semantic memory, MemGPT, Mem0, Letta, Zep, Graphiti, LoCoMo benchmarks, and production patterns.",
+      "topics": [
+        "agent-memory",
+        "ai-agents",
+        "anthropic",
+        "episodic-memory",
+        "generative-ai",
+        "graphiti",
+        "knowledge-graph",
+        "langchain",
+        "letta",
+        "llm",
+        "llm-agents",
+        "llm-memory",
+        "mem0",
+        "memgpt",
+        "openai",
+        "python",
+        "rag",
+        "semantic-memory",
+        "vector-database",
+        "zep"
+      ],
+      "stargazers_count": 746,
+      "pushed_at": "2026-06-06T14:25:07Z",
+      "added_to_queue": "2026-07-04T11:45:13.908Z"
+    },
+    {
+      "name": "knowledge-distillation-papers",
+      "html_url": "https://github.com/lhyfst/knowledge-distillation-papers",
+      "description": "knowledge distillation papers",
+      "topics": [
+        "dark-knowledge",
+        "knowledge-distillation",
+        "model-compression",
+        "paper",
+        "reading-list"
+      ],
+      "stargazers_count": 766,
+      "pushed_at": "2023-02-10T02:34:12Z",
+      "added_to_queue": "2026-07-04T11:45:13.908Z"
+    },
+    {
+      "name": "yago3",
+      "html_url": "https://github.com/yago-naga/yago3",
+      "description": "YAGO is a large semantic knowledge base, derived from Wikipedia, WordNet, WikiData, GeoNames, and other data sources",
+      "topics": [],
+      "stargazers_count": 753,
+      "pushed_at": "2022-07-05T09:54:51Z",
+      "added_to_queue": "2026-07-04T11:45:13.908Z"
+    },
+    {
+      "name": "llm-wiki",
+      "html_url": "https://github.com/nvk/llm-wiki",
+      "description": "LLM-compiled knowledge bases for any AI agent. Parallel multi-agent research, thesis-driven investigation, source ingestion, wiki compilation, querying, and artifact generation.",
+      "topics": [
+        "agentic-ai",
+        "agentic-skills",
+        "agentic-workflow",
+        "claude-code",
+        "codex",
+        "llm",
+        "plugin",
+        "wiki"
+      ],
+      "stargazers_count": 794,
+      "pushed_at": "2026-06-14T18:55:54Z",
+      "added_to_queue": "2026-07-04T11:45:13.908Z"
+    },
+    {
+      "name": "cheatsheets",
+      "html_url": "https://github.com/r1cksec/cheatsheets",
+      "description": "Collection of knowledge about information security",
+      "topics": [
+        "active-directory",
+        "bash",
+        "cheatsheets",
+        "cve",
+        "cybersecurity",
+        "infosec",
+        "linux",
+        "malware",
+        "pentest",
+        "powershell",
+        "python",
+        "redteam",
+        "threat-intelligence",
+        "windows"
+      ],
+      "stargazers_count": 686,
+      "pushed_at": "2026-06-20T09:56:45Z",
+      "added_to_queue": "2026-07-04T11:45:13.908Z"
+    },
+    {
+      "name": "KnowledgeGraph-based-on-Raw-text-A27",
+      "html_url": "https://github.com/littlewwwhite/KnowledgeGraph-based-on-Raw-text-A27",
+      "description": "基于大模型+知识图谱的知识库问答",
+      "topics": [],
+      "stargazers_count": 541,
+      "pushed_at": "2026-04-08T16:19:47Z",
+      "added_to_queue": "2026-07-04T11:45:13.909Z"
+    },
+    {
+      "name": "learn-dotnet-maui",
+      "html_url": "https://github.com/jfversluis/learn-dotnet-maui",
+      "description": "A repository filled with resources available to you to start learning or deepen your knowledge about .NET MAUI",
+      "topics": [
+        "cross-platform",
+        "dotnet-for-android",
+        "dotnet-for-ios",
+        "dotnet-maui",
+        "hacktoberfest",
+        "maui",
+        "multi-platform-app-ui",
+        "xamarin",
+        "xamarin-forms"
+      ],
+      "stargazers_count": 733,
+      "pushed_at": "2026-05-08T15:09:16Z",
+      "added_to_queue": "2026-07-04T11:45:13.909Z"
+    },
+    {
+      "name": "notabase",
+      "html_url": "https://github.com/churichard/notabase",
+      "description": "A second brain for your knowledge, thoughts, and ideas.",
+      "topics": [
+        "knowledge-base",
+        "knowledge-graph",
+        "note-taking",
+        "second-brain",
+        "zettelkasten"
+      ],
+      "stargazers_count": 906,
+      "pushed_at": "2026-04-24T23:34:55Z",
+      "added_to_queue": "2026-07-04T11:45:13.909Z"
+    },
+    {
+      "name": "Mission-frontend",
+      "html_url": "https://github.com/Abhay5855/Mission-frontend",
+      "description": "A curated list of Javascript, React, Machine coding problems, Pattern questions, basic backend knowledge and fundamentals questions all in one.",
+      "topics": [
+        "dsa-practice",
+        "javascript",
+        "machine-coding",
+        "reactjs"
+      ],
+      "stargazers_count": 706,
+      "pushed_at": "2024-08-08T11:38:42Z",
+      "added_to_queue": "2026-07-04T11:45:13.909Z"
+    },
+    {
+      "name": "swarmvault",
+      "html_url": "https://github.com/swarmclawai/swarmvault",
+      "description": "The local-first LLM Wiki: open-source knowledge graph builder, RAG knowledge base, and agent memory store. Built on Andrej Karpathy's pattern. An Obsidian alternative for personal knowledge management, AI second brain, and durable Claude Code / Codex / OpenClaw memory.",
+      "topics": [
+        "agent-memory",
+        "ai-agents",
+        "claude-code",
+        "claude-code-memory",
+        "codex",
+        "karpathy",
+        "knowledge-graph",
+        "llm",
+        "llm-wiki",
+        "local-first",
+        "mcp",
+        "mcp-server",
+        "obsidian",
+        "obsidian-alternative",
+        "openclaw",
+        "opencode",
+        "personal-knowledge-management",
+        "pkm",
+        "rag",
+        "wiki"
+      ],
+      "stargazers_count": 594,
+      "pushed_at": "2026-06-30T20:28:43Z",
+      "added_to_queue": "2026-07-04T11:45:13.909Z"
+    },
+    {
+      "name": "graph-memory",
+      "html_url": "https://github.com/adoresever/graph-memory",
+      "description": "Openclaw记忆插件Knowledge Graph + Memory；Knowledge Graph Context Engine for OpenClaw — extracts structured triples from conversations, compresses context 75%, enables cross-session experience reuse",
+      "topics": [
+        "agent",
+        "claude-code",
+        "codex",
+        "graph",
+        "knowledge-graph",
+        "memory",
+        "openclaw",
+        "openclaw-plugin",
+        "opencode",
+        "sqlite"
+      ],
+      "stargazers_count": 502,
+      "pushed_at": "2026-04-07T08:02:46Z",
+      "added_to_queue": "2026-07-04T11:45:13.909Z"
+    },
+    {
+      "name": "obsidian-advanced-canvas",
+      "html_url": "https://github.com/Developer-Mike/obsidian-advanced-canvas",
+      "description": "⚡ Supercharge your canvas experience! Graph view integration and unlimited styling options empower flowcharts, dynamic presentations, and interconnected knowledge.",
+      "topics": [
+        "obsidian",
+        "obsidian-canvas",
+        "obsidian-md",
+        "obsidian-plugin",
+        "obsidian-plugins"
+      ],
+      "stargazers_count": 1421,
+      "pushed_at": "2026-07-04T10:52:12Z",
+      "added_to_queue": "2026-07-04T11:45:13.909Z"
+    },
+    {
+      "name": "chubbyskills",
+      "html_url": "https://github.com/chubbyguan/chubbyskills",
+      "description": "把中文全渠道内容（抖音 / B站 / 小红书 / 公众号 / X / 播客）采集进个人知识库的 13 个 AI Skill：图文存图、视频转文字稿、字幕优先免 GPU，附带知识库 MCP server。 ｜ Ingest Chinese content into your personal knowledge base — image/video routing, subtitle-first transcription, and a KB MCP server.",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "chinese",
+        "claude-code",
+        "knowledge-base",
+        "mcp",
+        "obsidian",
+        "second-brain",
+        "transcription",
+        "xiaohongshu"
+      ],
+      "stargazers_count": 506,
+      "pushed_at": "2026-06-30T13:06:15Z",
+      "added_to_queue": "2026-07-04T11:45:13.909Z"
+    }
+  ]
+}
