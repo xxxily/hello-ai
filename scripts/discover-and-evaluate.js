@@ -45,6 +45,7 @@ function loadJson(filePath, defaultVal = null) {
 }
 
 import { extractCategories } from './extract-categories.js';
+import { sanitizeDescription, shouldBlockProject } from './project-filters.js';
 
 function loadRejected() {
   if (!fs.existsSync(rejectedDir)) {
@@ -322,6 +323,7 @@ async function discover() {
     let queuedCount = 0;
     let newTopicsCount = 0;
     let updatedProjectCount = 0;
+    let blockedCount = 0;
 
     for (const item of data.items) {
       // Proactive description fetching
@@ -331,6 +333,13 @@ async function discover() {
         if (details && details.description) {
           item.description = details.description;
         }
+      }
+
+      const blockCheck = shouldBlockProject(item);
+      if (blockCheck.blocked) {
+        console.log(`🚫 [Blocked] Skipping ${item.full_name || item.html_url}: ${blockCheck.reason}`);
+        blockedCount++;
+        continue;
       }
 
       // Collect new topics into topicsDB
@@ -360,7 +369,7 @@ async function discover() {
         pendingDb.queue.push({
           name: item.name,
           html_url: item.html_url,
-          description: item.description,
+          description: sanitizeDescription(item.description),
           topics: item.topics,
           stargazers_count: item.stargazers_count,
           pushed_at: item.pushed_at,
@@ -384,6 +393,9 @@ async function discover() {
       console.log(`📥 Added ${queuedCount} new projects to the local pending queue.`);
     } else {
       console.log(`📥 No new projects to add to the queue right now.`);
+    }
+    if (blockedCount > 0) {
+      console.log(`🚫 Blocked ${blockedCount} suspicious or blacklisted projects before queueing.`);
     }
 
     // Save or clear session state
@@ -427,7 +439,26 @@ async function evaluate() {
   console.log(`🤖 [Task Pool] Evaluating up to ${EVALUATE_BATCH_SIZE} projects using Provider: ${LLM_PROVIDER}, Model: ${LLM_MODEL}...`);
 
   // Grab up to EVALUATE_BATCH_SIZE items
-  const batch = pendingDb.queue.splice(0, EVALUATE_BATCH_SIZE);
+  const rawBatch = pendingDb.queue.splice(0, EVALUATE_BATCH_SIZE);
+  const batch = [];
+  let skippedBeforeEval = 0;
+  for (const item of rawBatch) {
+    const blockCheck = shouldBlockProject(item);
+    if (blockCheck.blocked) {
+      console.log(`🚫 [Blocked] Dropping queued project ${item.html_url || item.name}: ${blockCheck.reason}`);
+      skippedBeforeEval++;
+      continue;
+    }
+    item.description = sanitizeDescription(item.description);
+    batch.push(item);
+  }
+
+  if (batch.length === 0) {
+    saveJson(queueFile, pendingDb);
+    console.log(`🚫 Dropped ${skippedBeforeEval} blocked projects. Nothing safe left in this batch.`);
+    return;
+  }
+
   console.log(`▶️ Evaluating ${batch.length} projects in a batch...`);
 
   const batchData = batch.map((item, index) => ({

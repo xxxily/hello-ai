@@ -24,23 +24,23 @@
 
 *Summary of high-quality open-source AI projects collected from the internet:*
 
-- 📁 **Total Collected**: 19510 projects
-- ⚡ **Active Shown**: 9327 projects (updated within the last 6 months)
+- 📁 **Total Collected**: 19509 projects
+- ⚡ **Active Shown**: 9233 projects (updated within the last 6 months)
 - 🏷️ **Categories (Active / Total)**:
   - 🔥 Trending: 30 / 30
-  - 🧠 Foundation Models: 146 / 578
-  - 🤖 Agents & Orchestration: 1518 / 1887
-  - 🔍 RAG & Data Engineering: 433 / 682
-  - ☁️ Infrastructure & Deployment: 944 / 1559
-  - 🔧 Fine-tuning & Training: 355 / 920
-  - 👁️ Multimodal (Audio/Video): 799 / 2765
-  - 🛠️ Developer Tools & SDKs: 2068 / 3473
-  - 🎨 AI Applications: 870 / 1621
-  - 📚 Learning Resources: 1243 / 4219
-  - 💻 Desktop & OS Apps: 310 / 417
-  - 🦾 Robotics & IoT: 472 / 1083
-  - 💼 Business & Finance: 186 / 344
-- 📅 **Last Updated**: 2026-06-25
+  - 🧠 Foundation Models: 143 / 578
+  - 🤖 Agents & Orchestration: 1507 / 1887
+  - 🔍 RAG & Data Engineering: 429 / 682
+  - ☁️ Infrastructure & Deployment: 940 / 1559
+  - 🔧 Fine-tuning & Training: 353 / 920
+  - 👁️ Multimodal (Audio/Video): 787 / 2765
+  - 🛠️ Developer Tools & SDKs: 2053 / 3473
+  - 🎨 AI Applications: 858 / 1621
+  - 📚 Learning Resources: 1226 / 4219
+  - 💻 Desktop & OS Apps: 308 / 417
+  - 🦾 Robotics & IoT: 465 / 1082
+  - 💼 Business & Finance: 181 / 344
+- 📅 **Last Updated**: 2026-07-04
 <!-- STATS_END -->
 
 ## Overview
@@ -147,6 +147,8 @@ Open `.env` and adjust the core configurations:
 - **`MAX_PAGES_QUALITY`**: Max pages for high-quality topics (default: 20).
 - **`QUALITY_TOPIC_THRESHOLD`**: Score threshold for high-quality topics (default: 5).
 - **`AUTO_FETCH_DESC_STARS`**: Star threshold to proactively fetch missing descriptions (default: 1000).
+- **`BLOCKED_GITHUB_OWNERS_FILE`** / **`BLOCKED_REPO_TERMS_FILE`**: Optional local blocklist files for discovery/evaluation safety filters. Put one owner or term per line; `#` starts a comment. The default `data/local-blocklists/` path is ignored by git.
+- **`BLOCKED_GITHUB_OWNERS`** / **`BLOCKED_REPO_TERMS`**: Optional short inline comma-separated filters. Example terms: `spam,seo,adult,piracy,casino,proxy,scraper`.
 - **`RECENCY_THRESHOLD_MONTHS`**: Only projects updated within the last N months are kept during doc generation (default: 24, i.e., 2 years).
 
 #### Supported LLM Providers

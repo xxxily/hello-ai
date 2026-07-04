@@ -2,7 +2,7 @@
 
 > Retrieval Augmented Generation and Database solutions.
 
-> 当前分类已收录 **433** 个相关项目。
+> 当前分类已收录 **429** 个相关项目。
 
 ## Data Parsers
 
@@ -1174,14 +1174,6 @@ Polars 的 R 语言绑定，提供高性能 DataFrame 数据处理能力，广�
 - **Tags:** `polars` `dataframe` `data-processing` `r` `rust`
 - **最后活动时间:** 2026-05-28
 
-### [harvester](https://github.com/wzdnzd/harvester)
-
-智能数据采集框架，支持从GitHub和网页源获取数据，集成Anthropic、DeepSeek、Gemini、OpenAI、Qwen等多种AI模型。
-
-- **Stars:** ⭐️ 558
-- **Tags:** `ai` `data-collection` `web-scraping` `openai` `anthropic`
-- **最后活动时间:** 2025-12-25
-
 ### [DataExplorer](https://github.com/boxuancui/DataExplorer)
 
 R语言数据探索与预处理自动化工具，支持EDA分析和数据清洗，是机器学习数据准备的得力助手。
@@ -1712,14 +1704,6 @@ ColVision系列模型训练与推理代码，支持ColPali、ColQwen2等视觉�
 - **Tags:** `claude-code` `memory` `rag` `supermemory`
 - **最后活动时间:** 2026-06-12
 
-### [ai-knowledge-graph](https://github.com/robert-mcdermott/ai-knowledge-graph)
-
-AI驱动的知识图谱生成器，支持可视化展示与网络分析。
-
-- **Stars:** ⭐️ 2.3k
-- **Tags:** `knowledge-graph` `llm` `visualization` `networkx`
-- **最后活动时间:** 2025-12-28
-
 ### [code-graph-rag](https://github.com/vitali87/code-graph-rag)
 
 面向单体代码库的终极RAG解决方案，结合知识图谱和AI技术实现多语言代码库的查询、理解与编辑。
@@ -2088,14 +2072,6 @@ B站收藏夹智能RAG知识库工具，支持语音转写、向量检索和对�
 - **Tags:** `rag` `llm` `vector-search` `knowledge-base` `chroma`
 - **最后活动时间:** 2026-05-16
 
-### [supavec](https://github.com/supavec/supavec)
-
-Carbon.ai的开源替代方案，支持任意数据源和规模构建强大的RAG应用。
-
-- **Stars:** ⭐️ 1.1k
-- **Tags:** `rag` `ai` `nextjs` `typescript`
-- **最后活动时间:** 2025-12-28
-
 ### [llm-wiki-compiler](https://github.com/atomicmemory/llm-wiki-compiler)
 
 知识编译器，将原始数据源转换为互联的知识库Wiki。受Karpathy的LLM Wiki模式启发，专为LLM上下文工程设计。
@@ -2143,14 +2119,6 @@ Carbon.ai的开源替代方案，支持任意数据源和规模构建强大的RA
 - **Stars:** ⭐️ 984
 - **Tags:** `llm` `knowledge-graph` `information-extraction` `rag` `cli`
 - **最后活动时间:** 2026-06-08
-
-### [FlashRank](https://github.com/PrithivirajDamodaran/FlashRank)
-
-超轻量快速的重排序库，支持LLM和交叉编码器的Listwise/Pairwise重排序，专为检索管道优化。
-
-- **Stars:** ⭐️ 982
-- **Tags:** `reranking` `cross-encoder` `RAG` `semantic-search`
-- **最后活动时间:** 2026-01-01
 
 ### [MODULAR-RAG-MCP-SERVER](https://github.com/jerry-ai-dev/MODULAR-RAG-MCP-SERVER)
 

@@ -2,7 +2,7 @@
 
 > Autonomous agents and multi-agent systems.
 
-> 当前分类已收录 **1518** 个相关项目。
+> 当前分类已收录 **1507** 个相关项目。
 
 ## Agent Frameworks
 
@@ -2382,14 +2382,6 @@ Amazon Bedrock Agentcore 是亚马逊官方的 AI 智能体生产级部署框架
 - **Tags:** `Agent Framework` `Multi-Model` `Research`
 - **最后活动时间:** 2026-04-20
 
-### [n8n-nodes-mcp](https://github.com/nerding-io/n8n-nodes-mcp)
-
-n8n工作流自动化的MCP节点，支持AI助手与自动化工作流深度集成。
-
-- **Stars:** ⭐️ 3.0k
-- **Tags:** `mcp` `n8n` `workflow-automation` `integration`
-- **最后活动时间:** 2026-01-02
-
 ### [TF-Agents](https://github.com/tensorflow/agents)
 
 TensorFlow强化学习库，支持上下文老虎机和强化学习算法。
@@ -3310,14 +3302,6 @@ Kubernetes原生AI智能体实例管理控制平面，提供AI访问治理、运
 - **Tags:** `MCP` `AI智能体` `Microsoft`
 - **最后活动时间:** 2026-06-04
 
-### [supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp)
-
-通用记忆MCP服务，让你的记忆对所有LLM可用，一键部署无门槛。
-
-- **Stars:** ⭐️ 1.7k
-- **Tags:** `mcp` `llm` `memory` `cloudflare`
-- **最后活动时间:** 2025-12-30
-
 ### [pay](https://github.com/solana-foundation/pay)
 
 让AI智能体能够调用任何付费API的基础设施工具。解决智能体自动化支付和API调用的痛点。
@@ -3797,14 +3781,6 @@ OpenClaw AI Agent 快速部署工具，提供可视化配置界面和自动监�
 - **Stars:** ⭐️ 1.4k
 - **Tags:** `Agents` `Rust` `Automation`
 - **最后活动时间:** 2026-06-12
-
-### [mcp-obsidian](https://github.com/smithery-ai/mcp-obsidian)
-
-MCP连接器，让Claude Desktop能够读取和搜索Obsidian知识库，实现AI与笔记的深度整合。
-
-- **Stars:** ⭐️ 1.4k
-- **Tags:** `MCP` `Claude` `Obsidian` `RAG`
-- **最后活动时间:** 2026-01-02
 
 ### [imessage-kit](https://github.com/photon-hq/imessage-kit)
 
@@ -4670,14 +4646,6 @@ AI技能创建、评估与连接平台。基于知识图谱和大语言模型，
 - **Tags:** `mcp-server` `ai` `health` `fhir` `privacy`
 - **最后活动时间:** 2026-05-28
 
-### [ix](https://github.com/kreneskyp/ix)
-
-基于GPT-4的自主代理平台。提供构建和运行自主AI代理的完整基础设施。
-
-- **Stars:** ⭐️ 1.0k
-- **Tags:** `gpt-4` `autonomous-agents` `agent-platform` `openai`
-- **最后活动时间:** 2026-01-01
-
 ### [CloudBase-MCP](https://github.com/TencentCloudBase/CloudBase-MCP)
 
 腾讯云开发的MCP工具，将CloudBase连接到AI Agent，实现从AI提示到应用部署的完整流程。
@@ -5197,14 +5165,6 @@ OpenYao 公开 Skill 合集，将决策分析、商业研究、文档生成等�
 - **Stars:** ⭐️ 870
 - **Tags:** `ai-agents` `multi-agent` `claude` `mcp` `agent-framework`
 - **最后活动时间:** 2026-05-07
-
-### [vibeship-spawner-skills](https://github.com/vibeforge1111/vibeship-spawner-skills)
-
-面向终端和 IDE 的高质量专业化 Agent 技能目录，提供超越简单 Markdown 文件的进阶能力。
-
-- **Stars:** ⭐️ 869
-- **Tags:** `agent-skills` `ai-agents` `developer-tools` `skill-directory`
-- **最后活动时间:** 2026-01-02
 
 ### [aiflowy](https://github.com/aiflowy/aiflowy)
 
@@ -6726,14 +6686,6 @@ Home Assistant MCP服务器代理，支持通过Cursor、VS Code、Claude Code�
 - **Tags:** `mcp-server` `home-assistant` `agent` `automation` `natural-language`
 - **最后活动时间:** 2026-05-14
 
-### [claude-agent-server](https://github.com/dzhng/claude-agent-server)
-
-在沙箱环境中运行Claude Agent，通过WebSocket实现远程控制与交互。
-
-- **Stars:** ⭐️ 574
-- **Tags:** `claude` `agent-sdk` `sandbox` `websocket`
-- **最后活动时间:** 2025-12-28
-
 ### [agentscope-studio](https://github.com/agentscope-ai/agentscope-studio)
 
 面向开发者的AI智能体可视化工具包，支持多智能体开发与调试，提供聊天机器人界面和链路追踪功能。
@@ -6773,14 +6725,6 @@ Home Assistant MCP服务器代理，支持通过Cursor、VS Code、Claude Code�
 - **Stars:** ⭐️ 565
 - **Tags:** `agent-runtime` `browser-agent` `sandbox` `ai-infrastructure`
 - **最后活动时间:** 2026-05-29
-
-### [ISEK](https://github.com/isekOS/ISEK)
-
-去中心化智能体网络，用于构建协作式LLM驱动的智能体间通信(A2A)系统。
-
-- **Stars:** ⭐️ 564
-- **Tags:** `Decentralized` `A2A` `Multi-Agent`
-- **最后活动时间:** 2026-01-03
 
 ### [machi](https://github.com/qntx/machi)
 
@@ -7456,6 +7400,14 @@ DeepSeek原生AI编程代理，专为终端设计，支持前缀缓存稳定运�
 - **Tags:** `autonomous-agents` `prd-automation` `task-execution`
 - **最后活动时间:** 2026-02-02
 
+### [ml-agents](https://github.com/Unity-Technologies/ml-agents)
+
+Unity官方机器学习智能体工具包，支持在游戏和仿真环境中训练智能代理，广泛应用于游戏AI和科研。
+
+- **Stars:** ⭐️ 19.5k
+- **Tags:** `Reinforcement Learning` `Deep Learning` `Unity` `Game AI`
+- **最后活动时间:** 2026-07-03
+
 ### [SWE-agent](https://github.com/SWE-agent/SWE-agent)
 
 基于LLM的自动化代码修复智能体，能够自动分析GitHub问题并生成修复代码。支持网络安全攻防和编程竞赛场景，NeurIPS 2024发表项目。
@@ -7463,14 +7415,6 @@ DeepSeek原生AI编程代理，专为终端设计，支持前缀缓存稳定运�
 - **Stars:** ⭐️ 19.5k
 - **Tags:** `Agent` `Code Generation` `Developer Tools`
 - **最后活动时间:** 2026-06-10
-
-### [ml-agents](https://github.com/Unity-Technologies/ml-agents)
-
-Unity官方机器学习智能体工具包，支持在游戏和仿真环境中训练智能代理，广泛应用于游戏AI和科研。
-
-- **Stars:** ⭐️ 19.5k
-- **Tags:** `Reinforcement Learning` `Deep Learning` `Unity` `Game AI`
-- **最后活动时间:** 2026-06-11
 
 ### [DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)
 
@@ -10064,14 +10008,6 @@ Android环境下的自主代理基准测试平台，为移动端AI代理研究�
 - **Tags:** `reinforcement-learning` `skills` `agents` `evolution`
 - **最后活动时间:** 2026-05-17
 
-### [agents-deep-research](https://github.com/qx-labs/agents-deep-research)
-
-基于OpenAI Agents SDK实现的迭代式深度研究智能体，支持自动化信息检索与分析。
-
-- **Stars:** ⭐️ 769
-- **Tags:** `agents` `openai-agents` `deep-research` `agentic-ai` `llms`
-- **最后活动时间:** 2025-12-27
-
 ### [opencrabs](https://github.com/adolfousier/opencrabs)
 
 自托管、自改进的完全自主AI智能体，单二进制部署，基于Ratatui构建。
@@ -10288,14 +10224,6 @@ MCP配置工具，将AI代理连接到Linux机器进行渗透测试和安全审�
 - **Tags:** `ai-agent` `temporal` `workflow`
 - **最后活动时间:** 2026-03-27
 
-### [DB-GPT](https://github.com/TsinghuaDatabaseGroup/DB-GPT)
-
-基于LLM的数据库诊断系统，提供自动化调优与诊断建议。
-
-- **Stars:** ⭐️ 708
-- **Tags:** `database` `llm` `diagnosis`
-- **最后活动时间:** 2025-12-27
-
 ### [infinite-monitor](https://github.com/homanp/infinite-monitor)
 
 基于Claude的实时监控工具，支持OSINT和SIGINT情报收集，提供可视化仪表盘。
@@ -10359,14 +10287,6 @@ AI智能体社交网络平台，让您的AI智能体与其他用户的AI进行�
 - **Stars:** ⭐️ 692
 - **Tags:** `agent` `agi` `llms` `openclaw`
 - **最后活动时间:** 2026-04-21
-
-### [virtual-lab](https://github.com/zou-group/virtual-lab)
-
-面向科学研究的多LLM智能体虚拟实验室，支持自动化科学实验与研究流程。
-
-- **Stars:** ⭐️ 690
-- **Tags:** `LLM Agents` `Science Research` `Virtual Lab`
-- **最后活动时间:** 2025-12-31
 
 ### [Sentient](https://github.com/existence-master/Sentient)
 
@@ -12041,14 +11961,6 @@ AI 驱动的智能网页抓取工具，支持自动化数据提取和可扩展�
 - **Stars:** ⭐️ 686
 - **Tags:** `browser-automation` `webdriver` `firefox` `python`
 - **最后活动时间:** 2026-05-28
-
-### [scrapecraft](https://github.com/ScrapeGraphAI/scrapecraft)
-
-AI驱动的网页抓取编辑器，支持可视化工作流构建和自然语言创建爬虫。
-
-- **Stars:** ⭐️ 656
-- **Tags:** `ai` `automation` `web-scraping` `langgraph` `scrapegraphai`
-- **最后活动时间:** 2025-12-26
 
 ### [opentabs](https://github.com/opentabs-dev/opentabs)
 

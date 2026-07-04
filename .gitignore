@@ -19,6 +19,7 @@ yarn-error.log*
 .env.local
 .env.*.local
 .meilisearch-keys.json
+data/local-blocklists/
 .vitepress/cache
 .agents/*
 .playwright-cli/

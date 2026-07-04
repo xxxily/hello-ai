@@ -17,6 +17,7 @@ function loadJson(filePath, defaultVal = null) {
 }
 
 import { extractCategories } from './extract-categories.js';
+import { sanitizeDescription, shouldBlockProject } from './project-filters.js';
 
 function saveJson(filePath, data) {
   fs.writeFileSync(filePath, JSON.stringify(data, null, 2), 'utf-8');
@@ -36,6 +37,9 @@ function run() {
 
     if (category.projects && category.projects.length > 0) {
       category.projects.forEach(p => {
+        const blockCheck = shouldBlockProject(p);
+        if (blockCheck.blocked) return;
+
         // 检查队列中是否已经存在该 URL，避免重复
         const exists = pendingDb.queue.find(q => (q.html_url || '').toLowerCase() === (p.url || '').toLowerCase());
         
@@ -44,7 +48,7 @@ function run() {
             name: p.name,
             html_url: p.url || p.html_url,
             // 将原有的中文 description 或 tags 继续塞回给 LLM 作为参考上下文
-            description: p.description || '',
+            description: sanitizeDescription(p.description || ''),
             topics: p.tags || [],
             stargazers_count: p.stars || 500,
             pushed_at: p.lastUpdated || new Date().toISOString(),

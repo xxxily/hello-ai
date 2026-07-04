@@ -2,7 +2,7 @@
 
 > AI tools directly integrated with desktop OS or local environments.
 
-> 当前分类已收录 **310** 个相关项目。
+> 当前分类已收录 **308** 个相关项目。
 
 ## Browser Automations
 
@@ -191,14 +191,6 @@ Hermes智能体的桌面伴侣应用，提供本地化AI助手体验。
 - **Stars:** ⭐️ 9.7k
 - **Tags:** `llm` `knowledge-base` `desktop-app` `rag`
 - **最后活动时间:** 2026-05-29
-
-### [Bob](https://github.com/ripperhe/Bob)
-
-macOS平台强大的翻译和OCR工具，支持接入ChatGPT、DeepSeek、Gemini等多种AI大模型服务。
-
-- **Stars:** ⭐️ 9.7k
-- **Tags:** `翻译` `OCR` `macOS` `ChatGPT`
-- **最后活动时间:** 2025-12-30
 
 ### [SimpMusic](https://github.com/maxrave-dev/SimpMusic)
 
@@ -1455,14 +1447,6 @@ OpenClaw的图形化管理界面，让非技术用户也能轻松管理AI代理�
 - **Stars:** ⭐️ 565
 - **Tags:** `llm` `mlx` `macos` `swift` `inference-engine`
 - **最后活动时间:** 2026-06-08
-
-### [Image-Processing-Node-Editor](https://github.com/Kazuhito00/Image-Processing-Node-Editor)
-
-基于节点的图像处理应用，支持可视化构建处理流程与ONNX模型推理。
-
-- **Stars:** ⭐️ 564
-- **Tags:** `node-editor` `image-processing` `onnx`
-- **最后活动时间:** 2026-01-04
 
 ### [Box](https://github.com/jegly/Box)
 

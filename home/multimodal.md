@@ -2,7 +2,7 @@
 
 > Computer vision, image generation, audio, text-to-speech.
 
-> 当前分类已收录 **799** 个相关项目。
+> 当前分类已收录 **787** 个相关项目。
 
 ## Audio & Speech (TTS/STT)
 
@@ -822,14 +822,6 @@ OpenAI Speech API 的官方演示项目，展示语音合成与识别能力的�
 - **Tags:** `voice-assistant` `rust` `offline` `privacy`
 - **最后活动时间:** 2026-02-18
 
-### [Whisper-WebUI](https://github.com/jhj0517/Whisper-WebUI)
-
-基于Whisper模型的字幕生成Web界面，支持轻松将音频转换为字幕文本。
-
-- **Stars:** ⭐️ 2.8k
-- **Tags:** `whisper` `speech-to-text` `gradio` `subtitle`
-- **最后活动时间:** 2025-12-29
-
 ### [Qwen3-ASR](https://github.com/QwenLM/Qwen3-ASR)
 
 Qwen团队开源的语音识别模型，支持多语言语音/音乐/歌曲识别及时间戳预测。
@@ -838,6 +830,14 @@ Qwen团队开源的语音识别模型，支持多语言语音/音乐/歌曲识�
 - **Tags:** `ASR` `Speech-Recognition` `Qwen`
 - **最后活动时间:** 2026-01-30
 
+### [neural-amp-modeler](https://github.com/sdatkinson/neural-amp-modeler)
+
+神经网络吉他放大器模拟器，使用深度学习精确还原放大器音色。
+
+- **Stars:** ⭐️ 2.8k
+- **Tags:** `neural-network` `audio-processing` `guitar-amp` `deep-learning`
+- **最后活动时间:** 2026-06-08
+
 ### [Scriberr](https://github.com/rishikanthc/Scriberr)
 
 自托管的AI音频转录工具，支持本地部署以保护数据隐私，提供高质量的语音转文字服务。
@@ -845,14 +845,6 @@ Qwen团队开源的语音识别模型，支持多语言语音/音乐/歌曲识�
 - **Stars:** ⭐️ 2.7k
 - **Tags:** `Audio Transcription` `Self-hosted` `Privacy`
 - **最后活动时间:** 2026-05-12
-
-### [neural-amp-modeler](https://github.com/sdatkinson/neural-amp-modeler)
-
-神经网络吉他放大器模拟器，使用深度学习精确还原放大器音色。
-
-- **Stars:** ⭐️ 2.6k
-- **Tags:** `neural-network` `audio-processing` `guitar-amp` `deep-learning`
-- **最后活动时间:** 2026-05-23
 
 ### [NeuralAmpModelerPlugin](https://github.com/sdatkinson/NeuralAmpModelerPlugin)
 
@@ -2198,14 +2190,6 @@ macOS本地会议转录与听写工具，可作为Granola和WisprFlow的替代�
 - **Tags:** `subtitle` `transcription` `transformers` `voice-activity-detection` `dnn`
 - **最后活动时间:** 2026-03-17
 
-### [Mediapipe4u-plugin](https://github.com/endink/Mediapipe4u-plugin)
-
-Unreal Engine的MediaPipe插件，支持面部、手部、姿态追踪及TTS功能。
-
-- **Stars:** ⭐️ 504
-- **Tags:** `mediapipe` `motion-capture` `tts` `unreal-engine`
-- **最后活动时间:** 2025-12-29
-
 ### [aspeak](https://github.com/kxxt/aspeak)
 
 Azure TTS API 的简洁命令行客户端，支持高质量语音合成。可快速将文本转换为自然流畅的语音输出。
@@ -2864,14 +2848,6 @@ CVPR2020论文实现，基于白盒卡通表示学习的图像卡通化转换工
 - **Tags:** `image-processing` `webassembly` `rust` `computer-vision`
 - **最后活动时间:** 2026-05-29
 
-### [ComfyUI-3D-Pack](https://github.com/MrForExample/ComfyUI-3D-Pack)
-
-ComfyUI的3D处理扩展节点套件，支持3DGS、NeRF等前沿算法处理3D网格和纹理。
-
-- **Stars:** ⭐️ 3.8k
-- **Tags:** `comfyui` `3dgs` `nerf` `machine-learning` `3d-processing`
-- **最后活动时间:** 2025-12-29
-
 ### [ComfyUI-GGUF](https://github.com/city96/ComfyUI-GGUF)
 
 为ComfyUI原生模型提供GGUF量化支持，降低显存占用并加速图像生成推理。
@@ -3256,14 +3232,6 @@ CVPR 2025论文，混合Mamba-Transformer视觉骨干网络，支持图像分类
 - **Tags:** `multimodal` `image-generation` `image-editing` `text-to-image`
 - **最后活动时间:** 2026-05-09
 
-### [ViTPose](https://github.com/ViTAE-Transformer/ViTPose)
-
-NeurIPS 2022论文，基于Vision Transformer的人体姿态估计模型。
-
-- **Stars:** ⭐️ 2.1k
-- **Tags:** `pose-estimation` `vision-transformer` `self-supervised` `pytorch`
-- **最后活动时间:** 2025-12-25
-
 ### [leptonica](https://github.com/DanBloomberg/leptonica)
 
 开源图像处理与分析库，广泛应用于OCR和计算机视觉领域，提供图像增强、形态学运算、边缘检测等核心功能。
@@ -3343,14 +3311,6 @@ Python图像Alpha抠图库，用于前景提取和图像处理任务。
 - **Stars:** ⭐️ 1.9k
 - **Tags:** `alpha-matting` `image-processing` `computer-vision`
 - **最后活动时间:** 2026-04-07
-
-### [OpenSeeFace](https://github.com/emilianavt/OpenSeeFace)
-
-实时人脸与面部关键点追踪库，支持CPU运行并提供Unity集成，适用于虚拟主播等应用场景。
-
-- **Stars:** ⭐️ 1.9k
-- **Tags:** `face-tracking` `face-detection` `onnx` `pytorch` `unity`
-- **最后活动时间:** 2025-12-28
 
 ### [GlobalMLBuildingFootprints](https://github.com/microsoft/GlobalMLBuildingFootprints)
 
@@ -3832,14 +3792,6 @@ CVPR 2024高分辨率单目度量深度估计的端到端分块框架。
 - **Tags:** `Depth Estimation` `Computer Vision` `CVPR 2024`
 - **最后活动时间:** 2026-02-21
 
-### [ConsistentID](https://github.com/JackAILab/ConsistentID)
-
-多模态细粒度身份保持的人像生成模型，发表于TPAMI 2026。
-
-- **Stars:** ⭐️ 1.0k
-- **Tags:** `portrait-generation` `identity-preserving` `multimodal` `image-generation`
-- **最后活动时间:** 2026-01-02
-
 ### [muapi-cli](https://github.com/SamurAIGPT/muapi-cli)
 
 muapi.ai官方CLI工具，支持终端生成图像、视频和音频，集成MCP服务器。
@@ -3960,6 +3912,14 @@ ICLR 2025 Oral论文，从稀疏无位姿图像生成3D高斯溅射的简单高�
 - **Tags:** `Text-to-Image` `Image Generation` `Auto-regressive`
 - **最后活动时间:** 2026-03-20
 
+### [UpscalerJS](https://github.com/thekevinscott/UpscalerJS)
+
+浏览器端AI图像增强库，支持超分辨率、去噪、修复等功能，无需后端服务。
+
+- **Stars:** ⭐️ 890
+- **Tags:** `image-enhancement` `super-resolution` `tensorflow-js` `esrgan`
+- **最后活动时间:** 2026-06-16
+
 ### [PhysX-Anything](https://github.com/ziangcao0312/PhysX-Anything)
 
 CVPR 2026论文，从单张图像生成具备物理仿真属性的3D资产。
@@ -3967,14 +3927,6 @@ CVPR 2026论文，从单张图像生成具备物理仿真属性的3D资产。
 - **Stars:** ⭐️ 886
 - **Tags:** `image-to-3d` `physical-modeling` `3d-generation` `cvpr`
 - **最后活动时间:** 2026-04-28
-
-### [UpscalerJS](https://github.com/thekevinscott/UpscalerJS)
-
-浏览器端AI图像增强库，支持超分辨率、去噪、修复等功能，无需后端服务。
-
-- **Stars:** ⭐️ 886
-- **Tags:** `image-enhancement` `super-resolution` `tensorflow-js` `esrgan`
-- **最后活动时间:** 2026-06-10
 
 ### [Skyfall-GS](https://github.com/jayin92/Skyfall-GS)
 
@@ -4488,14 +4440,6 @@ CVPR 2023 论文官方实现，提出相关性驱动的双分支特征分解方�
 - **Tags:** `image-fusion` `deep-learning` `cvpr2023` `multi-modality`
 - **最后活动时间:** 2026-06-08
 
-### [we-drawing](https://github.com/liruifengv/we-drawing)
-
-每日一句中国古诗词配AI生成图片的创意项目，融合传统文化与AI绘画技术。
-
-- **Stars:** ⭐️ 630
-- **Tags:** `ai` `dalle-3` `prompt` `image-generation`
-- **最后活动时间:** 2025-12-31
-
 ### [LHM-plusplus](https://github.com/aigc3d/LHM-plusplus)
 
 高效的大型人体重建模型，可从任意姿态图像重建3D人体模型。
@@ -4928,7 +4872,7 @@ NASA开发的通用图像处理与计算机视觉库，用于自主系统和机�
 
 - **Stars:** ⭐️ 55.3k
 - **Tags:** `深度伪造` `人脸替换` `深度学习` `视频处理`
-- **最后活动时间:** 2026-05-29
+- **最后活动时间:** 2026-06-24
 
 ### [Open-Sora](https://github.com/hpcaitech/Open-Sora)
 
@@ -4950,7 +4894,7 @@ AI全自动短视频生成引擎，支持从文本到视频的端到端创作。
 
 基于机器学习的视频超分辨率与帧插值框架，提升视频画质。
 
-- **Stars:** ⭐️ 20.0k
+- **Stars:** ⭐️ 20.4k
 - **Tags:** `video-upscaling` `super-resolution` `machine-learning` `frame-interpolation`
 - **最后活动时间:** 2026-03-07
 
@@ -5330,14 +5274,6 @@ NVIDIA官方运动扩散模型，专注于生成高质量的人形角色动作�
 - **Tags:** `运动生成` `扩散模型` `角色动画`
 - **最后活动时间:** 2026-04-15
 
-### [Anime4KCPP](https://github.com/TianZerL/Anime4KCPP)
-
-基于CNN的高性能动漫视频超分辨率放大工具，支持GPU加速和多种视频处理框架插件。
-
-- **Stars:** ⭐️ 2.0k
-- **Tags:** `Upscaling` `CNN` `Video Processing`
-- **最后活动时间:** 2026-06-07
-
 ### [ai4animationpy](https://github.com/facebookresearch/ai4animationpy)
 
 基于神经网络的AI驱动角色动画框架，支持智能生成角色动作与运动序列。
@@ -5345,6 +5281,14 @@ NVIDIA官方运动扩散模型，专注于生成高质量的人形角色动作�
 - **Stars:** ⭐️ 2.0k
 - **Tags:** `animation` `neural-networks` `character-animation` `deep-learning`
 - **最后活动时间:** 2026-06-01
+
+### [Anime4KCPP](https://github.com/TianZerL/Anime4KCPP)
+
+基于CNN的高性能动漫视频超分辨率放大工具，支持GPU加速和多种视频处理框架插件。
+
+- **Stars:** ⭐️ 2.0k
+- **Tags:** `Upscaling` `CNN` `Video Processing`
+- **最后活动时间:** 2026-06-07
 
 ### [tapnet](https://github.com/google-deepmind/tapnet)
 
@@ -5970,14 +5914,6 @@ ICCV 2025论文实现，利用时空扩散模型从稀疏视角视频生成4D一
 - **Tags:** `virtual-tryon` `video-diffusion` `transformer` `video-editing`
 - **最后活动时间:** 2026-04-30
 
-### [streamv2v](https://github.com/Jeff-LiangF/streamv2v)
-
-StreamV2V官方PyTorch实现，支持流式视频到视频转换，适用于实时视频编辑和生成场景。
-
-- **Stars:** ⭐️ 540
-- **Tags:** `video-generation` `video-to-video` `streaming` `pytorch`
-- **最后活动时间:** 2025-12-29
-
 ### [ffmpeg-sidecar](https://github.com/nathanbabcock/ffmpeg-sidecar)
 
 FFmpeg Rust封装库，提供直观的迭代器接口，简化视频音频处理流程，适用于多模态AI系统的媒体预处理与后处理。
@@ -5993,14 +5929,6 @@ FFmpeg Rust封装库，提供直观的迭代器接口，简化视频音频处理
 - **Stars:** ⭐️ 507
 - **Tags:** `neural-rendering` `diffusion-model` `video-generation` `game-rendering` `ai-renderer`
 - **最后活动时间:** 2026-05-05
-
-### [Open-OmniVCus](https://github.com/caiyuanhao1998/Open-OmniVCus)
-
-NeurIPS 2025论文，支持多模态控制条件的主体驱动视频定制。
-
-- **Stars:** ⭐️ 505
-- **Tags:** `video-generation` `diffusion-models` `customization`
-- **最后活动时间:** 2026-01-03
 
 ## 未分类 (Others)
 
@@ -6164,14 +6092,6 @@ ICML 2025 Spotlight医学视觉语言模型，统一理解与生成能力。
 - **Tags:** `Medical AI` `VLM` `Healthcare`
 - **最后活动时间:** 2026-05-07
 
-### [PytorchOCR](https://github.com/WenmuZhou/PytorchOCR)
-
-基于PyTorch的OCR工具库，支持多种文字检测和识别算法，适用于文档数字化和场景文字识别。
-
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `ocr` `text-detection` `text-recognition` `pytorch`
-- **最后活动时间:** 2026-01-04
-
 ### [Retinexformer](https://github.com/caiyuanhao1998/Retinexformer)
 
 ICCV 2023论文，基于Retinex理论的单阶段Transformer低光照图像增强方法。
@@ -6267,14 +6187,6 @@ ICCV'23和3DV'24 Oral论文官方实现，用于高效3D语义分割和全景分
 - **Stars:** ⭐️ 809
 - **Tags:** `hand-pose` `gesture-recognition` `keypoint-detection` `pytorch`
 - **最后活动时间:** 2026-01-10
-
-### [LLaVA-OneVision-1.5](https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-1.5)
-
-完全开源的多模态训练框架，致力于降低VLM训练门槛，支持Qwen3等模型。
-
-- **Stars:** ⭐️ 806
-- **Tags:** `LLaVA` `多模态训练` `开源框架`
-- **最后活动时间:** 2025-12-27
 
 ### [Hulu-Med](https://github.com/ZJUI-AI4H/Hulu-Med)
 
@@ -6395,12 +6307,4 @@ Yahoo Open-NSFW 模型的 Keras 实现，用于检测图像中的不雅内容，
 - **Stars:** ⭐️ 505
 - **Tags:** `image-classification` `nsfw-detection` `keras` `tensorflow` `content-moderation`
 - **最后活动时间:** 2026-05-05
-
-### [SD-VLM](https://github.com/cpystan/SD-VLM)
-
-NeurIPS 2025论文，探索深度编码视觉语言模型的空间测量与理解能力。
-
-- **Stars:** ⭐️ 503
-- **Tags:** `NeurIPS 2025` `空间理解` `VLM`
-- **最后活动时间:** 2025-12-29
 

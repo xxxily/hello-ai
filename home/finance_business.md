@@ -2,7 +2,7 @@
 
 > AI applied to financial analysis, quantitative trading, and enterprise.
 
-> 当前分类已收录 **186** 个相关项目。
+> 当前分类已收录 **181** 个相关项目。
 
 ## Enterprise Solutions
 
@@ -400,14 +400,6 @@ AI投资分析技能，整合51位投资大佬方法论，22维数据×180条量
 - **Tags:** `financial-simulation` `generative-model` `market-analysis`
 - **最后活动时间:** 2026-04-21
 
-### [stockbot-on-groq](https://github.com/bklieger-groq/stockbot-on-groq)
-
-基于Groq和Llama3-70b的超快AI股票分析聊天机器人，支持实时交互式图表、财务数据和新闻分析。
-
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `Groq` `Llama3` `Stock Analysis` `Chatbot`
-- **最后活动时间:** 2025-12-30
-
 ### [stock-api](https://github.com/zhangxiangliang/stock-api)
 
 支持A股、美股、港股与场内基金行情查询的API服务，提供MCP接口便于AI助手快速接入金融数据。
@@ -511,14 +503,6 @@ AI投资分析技能，整合51位投资大佬方法论，22维数据×180条量
 - **Stars:** ⭐️ 596
 - **Tags:** `mcp` `mcp-server` `stock-exchange` `financial-data` `market-analysis`
 - **最后活动时间:** 2026-06-08
-
-### [Polymarket_data](https://github.com/SII-WANGZJ/Polymarket_data)
-
-包含11亿条Polymarket交易记录的综合数据集，已处理为多种分析就绪格式，适用于市场研究、行为研究和量化分析。
-
-- **Stars:** ⭐️ 592
-- **Tags:** `polymarket` `prediction-market` `trading-data` `quantitative-analysis` `dataset`
-- **最后活动时间:** 2026-01-01
 
 ### [maverick-mcp](https://github.com/wshobson/maverick-mcp)
 
@@ -866,14 +850,6 @@ Python金融投资组合优化库，支持经典有效前沿、Black-Litterman�
 - **Tags:** `quant` `futures` `python` `trading`
 - **最后活动时间:** 2026-06-11
 
-### [adata](https://github.com/1nchaos/adata)
-
-免费开源的A股量化交易数据库，为个人量化交易和AI研究提供高质量数据支持。
-
-- **Stars:** ⭐️ 4.6k
-- **Tags:** `stock-data` `quantitative-trading` `financial-data` `a-share`
-- **最后活动时间:** 2025-12-26
-
 ### [zvt](https://github.com/zvtvz/zvt)
 
 模块化量化交易框架，支持数字货币和股票的回测与实盘交易。
@@ -1065,14 +1041,6 @@ Rust语言编写的量化金融库，支持期权定价和统计分析。
 - **Stars:** ⭐️ 1.7k
 - **Tags:** `quantitative-finance` `option-pricing` `rust`
 - **最后活动时间:** 2026-01-14
-
-### [chan.py](https://github.com/Vespa314/chan.py)
-
-基于缠论的Python量化交易框架，支持形态学/动力学分析、多级别K线联立、区间套策略及可视化，可对接多种数据源和交易系统。
-
-- **Stars:** ⭐️ 1.7k
-- **Tags:** `chanlun` `quant` `stock` `machinelearning` `python`
-- **最后活动时间:** 2025-12-26
 
 ### [intelligent-trading-bot](https://github.com/asavinov/intelligent-trading-bot)
 
@@ -1385,14 +1353,6 @@ Alpaca官方MCP服务器，让用户通过LLM工具直接用自然语言进行�
 - **Stars:** ⭐️ 711
 - **Tags:** `algorithmic-trading` `backtrader` `mcp-server` `quantitative-finance`
 - **最后活动时间:** 2026-03-28
-
-### [stock-prediction-deep-neural-learning](https://github.com/JordiCorbilla/stock-prediction-deep-neural-learning)
-
-使用TensorFlow LSTM神经网络进行股票价格时间序列预测。
-
-- **Stars:** ⭐️ 679
-- **Tags:** `stock-prediction` `lstm` `time-series` `finance` `tensorflow`
-- **最后活动时间:** 2025-12-28
 
 ### [nof1.ai](https://github.com/195440/nof1.ai)
 

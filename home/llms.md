@@ -2,7 +2,7 @@
 
 > Core large language models and foundation models.
 
-> 当前分类已收录 **146** 个相关项目。
+> 当前分类已收录 **143** 个相关项目。
 
 ## Foundation Models
 
@@ -319,14 +319,6 @@ MultiWOZ端到端对话模型源码，支持多领域任务型对话系统。
 - **Stars:** ⭐️ 950
 - **Tags:** `dialogue-system` `nlp` `seq2seq` `machine-learning`
 - **最后活动时间:** 2026-04-18
-
-### [recurrent-pretraining](https://github.com/seal-rg/recurrent-pretraining)
-
-大规模深度循环语言模型的预训练与推理代码，探索新型模型架构。
-
-- **Stars:** ⭐️ 888
-- **Tags:** `pretraining` `recurrent-model` `llm-architecture` `reasoning`
-- **最后活动时间:** 2025-12-29
 
 ### [DeepHypergraph](https://github.com/iMoonLab/DeepHypergraph)
 
@@ -874,14 +866,6 @@ Elixir语言的预训练神经网络模型库，集成Hugging Face模型，支�
 - **Tags:** `llm` `reasoning-model` `open-source`
 - **最后活动时间:** 2026-02-13
 
-### [Emu3.5](https://github.com/baaivision/Emu3.5)
-
-Emu3.5 原生多模态模型，作为世界学习者探索通用智能。
-
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `multimodal-llm` `world-model` `foundation-model`
-- **最后活动时间:** 2025-12-30
-
 ### [evo](https://github.com/evo-design/evo)
 
 从分子到基因组规模的生物学基础模型，能够预测和生成DNA、RNA和蛋白质序列。
@@ -1147,14 +1131,6 @@ Qwen团队开发的大语言模型系列，提供强大的文本生成与理解�
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `NLP` `Toxicity Detection` `BERT`
 - **最后活动时间:** 2026-04-06
-
-### [vec2text](https://github.com/vec2text/vec2text)
-
-将深度学习表示（如句子嵌入）解码回文本的工具库，支持嵌入向量的逆向还原。
-
-- **Stars:** ⭐️ 1.1k
-- **Tags:** `embeddings` `nlp` `text-decoding` `sentence-embeddings`
-- **最后活动时间:** 2025-12-27
 
 ### [HRM-Text](https://github.com/sapientinc/HRM-Text)
 

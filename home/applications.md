@@ -2,7 +2,7 @@
 
 > End-user applications powered by AI.
 
-> 当前分类已收录 **870** 个相关项目。
+> 当前分类已收录 **858** 个相关项目。
 
 ## Chatbots & UIs
 
@@ -53,14 +53,6 @@
 - **Stars:** ⭐️ 43.7k
 - **Tags:** `AI Agent` `Multi-Platform` `WeChat`
 - **最后活动时间:** 2026-04-24
-
-### [WeChatMsg](https://github.com/LC044/WeChatMsg)
-
-微信消息处理工具，集成ChatGPT和LLM能力，支持智能对话和消息管理。
-
-- **Stars:** ⭐️ 41.6k
-- **Tags:** `chatgpt` `llms` `wechat` `pyqt`
-- **最后活动时间:** 2025-12-30
 
 ### [chatbox](https://github.com/chatboxai/chatbox)
 
@@ -301,14 +293,6 @@ Node.js 的 Telegram Bot API 客户端，支持流式处理和 Promise，便于�
 - **Stars:** ⭐️ 8.0k
 - **Tags:** `ai-avatar` `digital-human` `realtime`
 - **最后活动时间:** 2026-05-21
-
-### [botframework-sdk](https://github.com/microsoft/botframework-sdk)
-
-微软官方的对话式AI开发框架，支持构建跨平台的智能聊天机器人和对话应用。
-
-- **Stars:** ⭐️ 7.8k
-- **Tags:** `bot-framework` `chatbot` `conversational-ai` `sdk`
-- **最后活动时间:** 2025-12-29
 
 ### [hermes-web-ui](https://github.com/EKKOLearnAI/hermes-web-ui)
 
@@ -573,14 +557,6 @@ OpenClaw中国区适配插件，支持飞书、钉钉、QQ、企业微信、微�
 - **Stars:** ⭐️ 3.9k
 - **Tags:** `openclaw` `wechat` `feishu` `dingtalk` `chinese`
 - **最后活动时间:** 2026-05-21
-
-### [chatgpt-android](https://github.com/skydoves/chatgpt-android)
-
-Android 平台 ChatGPT 聊天应用示例，使用 Jetpack Compose 和 Stream Chat SDK 构建。
-
-- **Stars:** ⭐️ 3.9k
-- **Tags:** `chatgpt` `android` `kotlin` `jetpack-compose` `chatbot`
-- **最后活动时间:** 2026-01-03
 
 ### [ClaraVerse](https://github.com/claraverse-space/ClaraVerse)
 
@@ -1478,14 +1454,6 @@ TypeScript/JavaScript 库，用于与 Twitch API、聊天和事件订阅交互�
 - **Tags:** `ai-agents` `chatbot` `modal` `card` `mobile`
 - **最后活动时间:** 2026-02-26
 
-### [mikupad](https://github.com/lmg-anon/mikupad)
-
-单HTML文件实现的轻量级LLM前端界面，简洁高效易于部署。
-
-- **Stars:** ⭐️ 728
-- **Tags:** `llm` `frontend` `reactjs`
-- **最后活动时间:** 2025-12-27
-
 ### [JiwuChat](https://github.com/KiWi233333/JiwuChat)
 
 轻量级跨平台IM聊天应用，集成DeepSeek、Gemini、Kimi等AI机器人。支持音视频通话、AI购物及多端消息同步。
@@ -1565,14 +1533,6 @@ AI角色扮演聊天机器人框架，支持多种AI角色和沉浸式对话体�
 - **Stars:** ⭐️ 643
 - **Tags:** `wechat` `openclaw` `channel` `bot`
 - **最后活动时间:** 2026-03-21
-
-### [Dify-Enterprise-WeChat-bot](https://github.com/luolin-ai/Dify-Enterprise-WeChat-bot)
-
-基于Dify的企业微信知识库机器人，支持私聊、群聊及上下文记忆。
-
-- **Stars:** ⭐️ 637
-- **Tags:** `chatbot` `wechat` `dify`
-- **最后活动时间:** 2025-12-31
 
 ### [webclaw](https://github.com/ibelick/webclaw)
 
@@ -2208,14 +2168,6 @@ AI驱动的交互式虚拟形象引擎，集成Live2D、LLM、ASR、TTS和RVC技
 - **Tags:** `水印移除` `图像修复` `Florence-2`
 - **最后活动时间:** 2026-03-29
 
-### [AI-Render](https://github.com/benrugg/AI-Render)
-
-Blender插件，将Stable Diffusion集成到3D渲染工作流中。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `stable-diffusion` `blender` `ai-render`
-- **最后活动时间:** 2025-12-28
-
 ### [2048-ai](https://github.com/nneonneo/2048-ai)
 
 2048游戏的AI求解器，使用期望最大化算法实现自动游戏和高分策略优化。
@@ -2368,14 +2320,6 @@ AI智能小说创作平台，支持OpenAI、Gemini、Anthropic等多模型，集
 - **Tags:** `pixel-art` `image-enhancement` `browser-tools`
 - **最后活动时间:** 2026-06-09
 
-### [chatgpt-tarot-divination](https://github.com/dreamhunter2333/chatgpt-tarot-divination)
-
-基于ChatGPT的AI算命占卜应用，支持塔罗牌、姓名五格、周公解梦、生辰八字、梅花易数等多种传统命理功能。
-
-- **Stars:** ⭐️ 786
-- **Tags:** `chatgpt` `tarot` `divination` `fortune-telling`
-- **最后活动时间:** 2025-12-30
-
 ### [generative-ui](https://github.com/CopilotKit/generative-ui)
 
 生成式 UI 示例集合，支持 AG-UI、A2UI/Open-JSON-UI 和 MCP 应用。
@@ -2431,14 +2375,6 @@ Google I/O 2023展示的AI设计卡牌游戏，使用Flutter和Firebase构建，
 - **Stars:** ⭐️ 673
 - **Tags:** `semantic-search` `vector-database` `self-hosted`
 - **最后活动时间:** 2026-05-25
-
-### [auto-maple](https://github.com/tanjeffreyz/auto-maple)
-
-利用机器学习和计算机视觉在MapleStory游戏中自动导航的人工智能项目。
-
-- **Stars:** ⭐️ 657
-- **Tags:** `game-ai` `computer-vision` `deep-learning`
-- **最后活动时间:** 2025-12-26
 
 ### [writing-helper](https://github.com/GeekyWizKid/writing-helper)
 
@@ -4052,14 +3988,6 @@ YC S25项目，随时随地与AI智能体对话的跨平台生产力工具。
 - **Tags:** `dms` `document-management` `ocr` `self-hosting`
 - **最后活动时间:** 2026-02-09
 
-### [Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin)
-
-一个强大的Calibre电子书翻译插件，支持ChatGPT、DeepL等多种AI翻译服务，可将电子书快速翻译成指定语言。
-
-- **Stars:** ⭐️ 2.5k
-- **Tags:** `translation` `ebook` `calibre` `chatgpt` `openai` `deepl`
-- **最后活动时间:** 2026-01-01
-
 ### [wechat-bot](https://github.com/cixingguangming55555/wechat-bot)
 
 国产大模型免费工具集，支持Claude、GLM、Kimi、MiniMax等多种模型的代理与调用。
@@ -4811,14 +4739,6 @@ Claude技能工具，支持将微信文章、网页、YouTube、PDF等多种来�
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `claude` `notebooklm` `mcp` `automation`
 - **最后活动时间:** 2026-04-18
-
-### [ai-to-pptx](https://github.com/SmartSchoolAI/ai-to-pptx)
-
-AI驱动的PPT生成工具，使用大语言模型生成大纲并导出PPTX。
-
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `ai-ppt` `chatgpt` `presentation` `productivity`
-- **最后活动时间:** 2026-01-03
 
 ### [beyondtranslate](https://github.com/beyondtranslate/beyondtranslate)
 
@@ -6284,14 +6204,6 @@ AI驱动的企业级搜索引擎，支持RAG技术，是Glean的开源替代方�
 - **Tags:** `llm` `public-opinion` `sentiment-analysis` `data-analysis`
 - **最后活动时间:** 2026-04-07
 
-### [SubtitleOCR](https://github.com/nhjydywd/SubtitleOCR)
-
-极速视频硬字幕提取工具，基于PaddleOCR实现，支持苹果M1和英伟达GPU加速，可达10倍速提取效果。
-
-- **Stars:** ⭐️ 655
-- **Tags:** `ocr` `paddleocr` `subtitle` `video-processing`
-- **最后活动时间:** 2025-12-30
-
 ### [MedgeClaw](https://github.com/xjtulyc/MedgeClaw)
 
 开源生物医学 AI 研究助手，集成 140 个科学技能，支持 RNA-seq、药物发现等研究流程。
@@ -6579,14 +6491,6 @@ AI驱动的跨平台桌面SQL客户端，支持自然语言转SQL查询，让数
 - **Stars:** ⭐️ 557
 - **Tags:** `security` `vulnerability` `pentest` `local-ai` `ollama`
 - **最后活动时间:** 2026-06-11
-
-### [yourinfo](https://github.com/siinghd/yourinfo)
-
-实时浏览器指纹识别演示工具，集成跨浏览器追踪、行为分析和Grok AI画像功能，配有交互式3D地球可视化。
-
-- **Stars:** ⭐️ 556
-- **Tags:** `browser-fingerprinting` `ai-profiling` `behavioral-analysis` `visualization`
-- **最后活动时间:** 2025-12-26
 
 ### [timefold-quickstarts](https://github.com/TimefoldAI/timefold-quickstarts)
 
@@ -6932,7 +6836,7 @@ AlphaFold 3的PyTorch实现，用于生物分子相互作用的高精度结构�
 
 基于PyTorch的端到端分子动力学引擎，支持神经网络势能函数，适用于计算化学和药物发现领域。
 
-- **Stars:** ⭐️ 709
+- **Stars:** ⭐️ 711
 - **Tags:** `molecular-dynamics` `pytorch` `neural-networks` `computational-chemistry`
 - **最后活动时间:** 2026-04-21
 

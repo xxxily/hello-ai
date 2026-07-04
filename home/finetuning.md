@@ -2,7 +2,7 @@
 
 > Model training, fine-tuning, and evaluation.
 
-> 当前分类已收录 **355** 个相关项目。
+> 当前分类已收录 **353** 个相关项目。
 
 ## Dataset Management
 
@@ -896,14 +896,6 @@ LLM评估框架，提供全面的模型评估指标和工具，帮助开发者�
 - **Tags:** `Evaluation` `Multimodal` `Benchmark` `LMM`
 - **最后活动时间:** 2026-06-12
 
-### [deepchecks](https://github.com/deepchecks/deepchecks)
-
-ML模型和数据持续验证测试框架，从研究到生产全流程质量保障。
-
-- **Stars:** ⭐️ 4.0k
-- **Tags:** `model-validation` `data-validation` `mlops` `machine-learning`
-- **最后活动时间:** 2025-12-28
-
 ### [SwanLab](https://github.com/SwanHubX/SwanLab)
 
 开源AI训练跟踪与可视化工具，支持云端和本地部署。可与PyTorch、Transformers等主流框架无缝集成。
@@ -918,7 +910,7 @@ LLM实验和AI智能体的评估与追踪工具，帮助开发者衡量和优化
 
 - **Stars:** ⭐️ 3.4k
 - **Tags:** `Evaluation` `LLM` `Agents` `Observability`
-- **最后活动时间:** 2026-06-05
+- **最后活动时间:** 2026-06-30
 
 ### [mteb](https://github.com/embeddings-benchmark/mteb)
 
@@ -1556,9 +1548,9 @@ LLM自动评估工具，提供全面的模型性能测试和基准评测能力�
 
 PyTorch开源框架，专注于深度学习模型的不确定性量化与可靠AI研究，支持贝叶斯网络、集成方法等。
 
-- **Stars:** ⭐️ 508
+- **Stars:** ⭐️ 514
 - **Tags:** `pytorch` `uncertainty` `bayesian-network` `deep-learning` `reliable-ai`
-- **最后活动时间:** 2026-06-11
+- **最后活动时间:** 2026-06-30
 
 ### [inspect_evals](https://github.com/UKGovernmentBEIS/inspect_evals)
 
@@ -1567,14 +1559,6 @@ Inspect AI模型的评估测试集合，用于AI模型性能评测与基准测�
 - **Stars:** ⭐️ 508
 - **Tags:** `ai-evaluation` `benchmark` `model-testing`
 - **最后活动时间:** 2026-05-22
-
-### [bigcodebench](https://github.com/bigcode-project/bigcodebench)
-
-ICLR'25论文项目，面向AGI的代码生成能力基准测试工具，支持多种主流LLM评估。
-
-- **Stars:** ⭐️ 507
-- **Tags:** `benchmark` `code-generation` `large-language-models` `program-synthesis`
-- **最后活动时间:** 2026-01-03
 
 ## Fine-tuning Tools
 
@@ -2058,6 +2042,14 @@ Stable Baselines3强化学习智能体训练框架，内置超参数优化和预
 - **Tags:** `training` `3d-parallelism` `distributed-training` `llm`
 - **最后活动时间:** 2026-05-26
 
+### [Muon](https://github.com/KellerJordan/Muon)
+
+专为神经网络隐藏层设计的优化器，提升模型训练效率和收敛速度。
+
+- **Stars:** ⭐️ 2.7k
+- **Tags:** `optimizer` `neural-network` `deep-learning` `training`
+- **最后活动时间:** 2026-05-24
+
 ### [maestro](https://github.com/roboflow/maestro)
 
 多模态模型微调工具，支持PaliGemma 2、Florence-2和Qwen2.5-VL等主流视觉语言模型的精调流程。
@@ -2073,14 +2065,6 @@ Stable Baselines3强化学习智能体训练框架，内置超参数优化和预
 - **Stars:** ⭐️ 2.7k
 - **Tags:** `Fine-tuning` `LoRA` `PEFT`
 - **最后活动时间:** 2026-03-04
-
-### [Muon](https://github.com/KellerJordan/Muon)
-
-专为神经网络隐藏层设计的优化器，提升模型训练效率和收敛速度。
-
-- **Stars:** ⭐️ 2.6k
-- **Tags:** `optimizer` `neural-network` `deep-learning` `training`
-- **最后活动时间:** 2026-05-24
 
 ### [LyCORIS](https://github.com/KohakuBlueleaf/LyCORIS)
 

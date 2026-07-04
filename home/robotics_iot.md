@@ -2,7 +2,7 @@
 
 > AI running on physical devices and robotics.
 
-> 当前分类已收录 **472** 个相关项目。
+> 当前分类已收录 **465** 个相关项目。
 
 ## Edge AI
 
@@ -165,14 +165,6 @@ PyTorch官方端侧AI推理框架，支持在移动设备、嵌入式系统和�
 - **Stars:** ⭐️ 3.2k
 - **Tags:** `Computer Vision` `NVR` `Object Detection`
 - **最后活动时间:** 2026-06-10
-
-### [tflite-micro](https://github.com/cirosantilli/china-dictatorship)
-
-TensorFlow Lite Micro，专为微控制器和嵌入式设备设计的轻量级ML推理框架。
-
-- **Stars:** ⭐️ 3.1k
-- **Tags:** `tensorflow-lite` `embedded` `microcontroller` `edge-ai` `tinyml`
-- **最后活动时间:** 2026-02-05
 
 ### [zenoh](https://github.com/eclipse-zenoh/zenoh)
 
@@ -578,7 +570,7 @@ Meta Project Aria 的开源工具包，用于处理AR眼镜的机器感知数据
 
 面向微控制器和嵌入式设备的机器学习推理引擎，支持TinyML应用部署。
 
-- **Stars:** ⭐️ 735
+- **Stars:** ⭐️ 740
 - **Tags:** `tinyml` `embedded-ml` `microcontroller` `inference`
 - **最后活动时间:** 2026-04-02
 
@@ -2066,14 +2058,6 @@ RTAB-Map的ROS封装包，提供实时外观建图和SLAM算法，支持视觉SL
 - **Tags:** `robot-learning` `imitation-learning` `robotics` `machine-learning`
 - **最后活动时间:** 2026-02-05
 
-### [direct_visual_lidar_calibration](https://github.com/koide3/direct_visual_lidar_calibration)
-
-无目标LiDAR-相机标定工具箱，支持ROS1和ROS2。
-
-- **Stars:** ⭐️ 1.4k
-- **Tags:** `calibration` `lidar` `camera` `ros2`
-- **最后活动时间:** 2026-01-02
-
 ### [robocasa](https://github.com/robocasa/robocasa)
 
 大规模机器人日常任务仿真平台，支持通用机器人的学习与训练。
@@ -2305,22 +2289,6 @@ ROS封装的Aruco增强现实标记检测库。用于机器人视觉定位和姿
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `computer-vision` `marker-detection` `robotics` `ros`
 - **最后活动时间:** 2026-04-14
-
-### [rosshow](https://github.com/dheera/rosshow)
-
-在终端中使用Unicode/ASCII艺术可视化ROS主题的调试工具，方便机器人开发调试。
-
-- **Stars:** ⭐️ 1.1k
-- **Tags:** `ros` `terminal` `visualization` `robotics`
-- **最后活动时间:** 2025-12-29
-
-### [rosboard](https://github.com/dheera/rosboard)
-
-将ROS机器人转换为Web服务器的可视化工具，支持实时话题监控。
-
-- **Stars:** ⭐️ 1.1k
-- **Tags:** `robotics` `ros` `visualization` `web`
-- **最后活动时间:** 2025-12-27
 
 ### [unitree_sdk2](https://github.com/unitreerobotics/unitree_sdk2)
 
@@ -2738,14 +2706,6 @@ InternRobotics开源平台，用于构建通用导航基础模型，融合空间
 - **Tags:** `navigation` `vla` `spatial-ai` `vision-language-navigation`
 - **最后活动时间:** 2026-03-10
 
-### [hexapod-robot-simulator](https://github.com/mithi/hexapod-robot-simulator)
-
-从第一性原理构建的六足机器人模拟器，包含逆运动学计算和可视化功能。
-
-- **Stars:** ⭐️ 870
-- **Tags:** `Robotics` `Simulator` `Inverse Kinematics`
-- **最后活动时间:** 2026-01-01
-
 ### [fuse](https://github.com/locusrobotics/fuse)
 
 通用传感器融合架构，用于机器人状态估计与定位。
@@ -2761,14 +2721,6 @@ InternRobotics开源平台，用于构建通用导航基础模型，融合空间
 - **Stars:** ⭐️ 857
 - **Tags:** `navigation` `path-planning` `robotics` `ros`
 - **最后活动时间:** 2026-04-22
-
-### [Faze4-Robotic-arm](https://github.com/PCrnjak/Faze4-Robotic-arm)
-
-6轴机械臂完整设计文件，采用摆线减速器的高精度机器人手臂。
-
-- **Stars:** ⭐️ 854
-- **Tags:** `robotics` `robotic-arm` `hardware` `open-source`
-- **最后活动时间:** 2025-12-28
 
 ### [asimov-1](https://github.com/asimovinc/asimov-1)
 
@@ -3161,14 +3113,6 @@ ICLR 2026论文，可扩展的跨具身视觉语言动作模型实现。
 - **Stars:** ⭐️ 667
 - **Tags:** `vision-language-action` `robotics` `cross-embodiment`
 - **最后活动时间:** 2026-05-06
-
-### [vision_opencv](https://github.com/ros-perception/vision_opencv)
-
-ROS系统中的OpenCV视觉接口包，连接ROS与OpenCV生态。
-
-- **Stars:** ⭐️ 658
-- **Tags:** `ros` `opencv` `robotics`
-- **最后活动时间:** 2025-12-29
 
 ### [InterFuser](https://github.com/opendilab/InterFuser)
 
