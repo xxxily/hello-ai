@@ -2,7 +2,7 @@
 
 > AI applied to financial analysis, quantitative trading, and enterprise.
 
-> 当前分类已收录 **202** 个相关项目。
+> 当前分类已收录 **209** 个相关项目。
 
 ## Enterprise Solutions
 
@@ -205,6 +205,14 @@ AI驱动的测试自动化平台，结合LangChain与MCP实现测试用例自动
 - **Stars:** ⭐️ 864
 - **Tags:** `Finance` `LLM` `AI Agents`
 - **最后活动时间:** 2026-02-23
+
+### [buffett-skills](https://github.com/agi-now/buffett-skills)
+
+基于沃伦·巴菲特投资框架构建的AI技能集合。结合AI技术辅助金融投资决策与市场分析。
+
+- **Stars:** ⭐️ 691
+- **Tags:** `ai` `finance` `buffett` `investing` `skills`
+- **最后活动时间:** 2026-04-13
 
 ### [innoshop](https://github.com/innocommerce/innoshop)
 
@@ -448,6 +456,14 @@ MCP集成工具，将Claude Code连接到TradingView桌面端，实现AI辅助�
 - **Tags:** `stocks` `mcp` `nodejs` `api`
 - **最后活动时间:** 2026-07-05
 
+### [finviz](https://github.com/mariostoev/finviz)
+
+非官方的Finviz Python API，用于获取股票市场数据、图表和筛选器信息。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `finviz` `finviz-api` `scraper` `stock-market` `analysis`
+- **最后活动时间:** 2026-01-20
+
 ### [jcp](https://github.com/run-bigpig/jcp)
 
 基于Wails+Go+React构建的AI驱动A股智能分析系统，支持多Agent协作进行市场分析。
@@ -463,6 +479,22 @@ MCP集成工具，将Claude Code连接到TradingView桌面端，实现AI辅助�
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `marketing` `bayesian` `mmm` `clv` `python`
 - **最后活动时间:** 2026-07-05
+
+### [zhengxi-views](https://github.com/lyra81604/zhengxi-views)
+
+基于基金经理公开观点的投研智能体技能，支持溯源问答及基金评分。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `agent-skill` `chinese-funds` `funds` `investing`
+- **最后活动时间:** 2026-06-30
+
+### [global-stock-data](https://github.com/simonlin1212/global-stock-data)
+
+美股港股全栈数据工具包 AI Skill，提供7层架构、17端点和5个数据源。专为 AI 编程助手设计的零鉴权金融数据接口。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `AI-Skill` `Stock-Data` `Market-Analysis` `Financial-Data` `API`
+- **最后活动时间:** 2026-06-20
 
 ### [finance](https://github.com/yorkeccak/finance)
 
@@ -906,6 +938,14 @@ Python金融投资组合优化库，支持经典有效前沿、Black-Litterman�
 - **Tags:** `finance` `quantitative-analysis` `algorithmic-trading` `mcp-server` `python`
 - **最后活动时间:** 2026-06-28
 
+### [Sequoia-X](https://github.com/sngyai/Sequoia-X)
+
+A股自动选股系统，支持多种技术形态自动扫描，收盘后自动运行并推送到飞书。
+
+- **Stars:** ⭐️ 4.8k
+- **Tags:** `a-shares` `stock-screening` `trading` `ta-lib` `python`
+- **最后活动时间:** 2026-06-23
+
 ### [tqsdk-python](https://github.com/shinnytech/tqsdk-python)
 
 天勤量化开发包，支持期货量化交易、实时行情获取、历史数据分析和实盘交易。
@@ -1290,6 +1330,14 @@ A股多Agent投研框架，7位AI分析师进行多空辩论决策，适配A股�
 - **Tags:** `reinforcement-learning` `quantitative-trading` `stock-factors`
 - **最后活动时间:** 2026-06-04
 
+### [TradingView-Screener](https://github.com/shner-elmo/TradingView-Screener)
+
+一个强大的Python包，允许您在Python中创建TradingView筛选器。支持股票、加密货币、外汇等多种市场的实时数据和技术分析。
+
+- **Stars:** ⭐️ 1.0k
+- **Tags:** `trading` `stock-market` `quant` `crypto` `forex` `technical-analysis`
+- **最后活动时间:** 2026-07-04
+
 ### [OpenClaw-Trading-Hub](https://github.com/radioman/OpenClaw-Trading-Hub)
 
 基于OpenClaw的免费AI量化交易机器人，支持PocketOption平台自动化交易。
@@ -1569,6 +1617,14 @@ C++17量化交易框架，集成libtorch/LSTM/CUDA支持深度学习策略，支
 - **Stars:** ⭐️ 571
 - **Tags:** `quantitative-finance` `trading` `cryptocurrency`
 - **最后活动时间:** 2026-04-30
+
+### [clob-client-v2](https://github.com/dev-polymarket/clob-client-v2)
+
+Polymarket CLOB (中心限价订单簿) 的 TypeScript 客户端，用于区块链预测市场的交易。
+
+- **Stars:** ⭐️ 570
+- **Tags:** `blockchain` `clob-api` `crypto` `polymarket` `sdk`
+- **最后活动时间:** 2026-06-06
 
 ### [freqtrade-bot](https://github.com/Kaleighc793/freqtrade-bot)
 

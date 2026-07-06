@@ -2,7 +2,7 @@
 
 > Retrieval Augmented Generation and Database solutions.
 
-> 当前分类已收录 **459** 个相关项目。
+> 当前分类已收录 **465** 个相关项目。
 
 ## Data Parsers
 
@@ -1054,6 +1054,14 @@ Hugging Face 数据集查看器的后端服务，提供公开 API 用于浏览�
 - **Tags:** `MCP` `PDF` `Document Processing` `Parallel Processing`
 - **最后活动时间:** 2026-07-03
 
+### [html-to-markdown](https://github.com/xberg-io/html-to-markdown)
+
+高性能的 HTML 到 Markdown 转换器，适用于 RAG 场景下的文本提取与预处理。
+
+- **Stars:** ⭐️ 793
+- **Tags:** `html-to-markdown` `text-extraction` `rag`
+- **最后活动时间:** 2026-07-04
+
 ### [PrimeKG](https://github.com/mims-harvard/PrimeKG)
 
 精准医学知识图谱数据集，用于生物医学研究和药物发现。
@@ -1093,6 +1101,14 @@ Hugging Face 数据集查看器的后端服务，提供公开 API 用于浏览�
 - **Stars:** ⭐️ 764
 - **Tags:** `weather` `dataset` `meteorology` `xarray`
 - **最后活动时间:** 2026-06-07
+
+### [lift](https://github.com/datalab-to/lift)
+
+利用 AI 和 OCR 技术从文档中快速准确地提取结构化数据。支持 PDF 等格式，适合数据自动化处理场景。
+
+- **Stars:** ⭐️ 758
+- **Tags:** `ai` `ocr` `pdf` `extract` `python`
+- **最后活动时间:** 2026-06-19
 
 ### [datavines](https://github.com/datavane/datavines)
 
@@ -1253,6 +1269,14 @@ R语言数据探索与预处理自动化工具，支持EDA分析和数据清洗�
 - **Stars:** ⭐️ 545
 - **Tags:** `data-exploration` `eda` `r-package` `data-science`
 - **最后活动时间:** 2026-03-10
+
+### [ExtractPDF4J](https://github.com/ExtractPDF4J/ExtractPDF4J)
+
+Java PDF 表格提取与 OCR 库，支持从文本和扫描 PDF 中提取结构化表格。提供流式、网格和混合解析模式。
+
+- **Stars:** ⭐️ 537
+- **Tags:** `java` `pdf` `ocr` `table-extraction` `document-processing`
+- **最后活动时间:** 2026-03-15
 
 ### [fenic](https://github.com/typedef-ai/fenic)
 
@@ -2792,6 +2816,14 @@ ICLR 2026论文项目，提出基于线性图检索增强生成（Linear Graph R
 - **Tags:** `rag` `pgvector` `document-chat` `embeddings` `supabase`
 - **最后活动时间:** 2026-05-12
 
+### [graphrag-rs](https://github.com/automataIA/graphrag-rs)
+
+GraphRAG的高性能Rust实现，从文档构建知识图谱并支持自然语言查询。支持本地LLM集成与可配置实体提取。
+
+- **Stars:** ⭐️ 512
+- **Tags:** `graphrag` `rust` `llm` `knowledge-graph` `retrieval-augmented-generation`
+- **最后活动时间:** 2026-06-02
+
 ### [superlinked](https://github.com/superlinked/superlinked)
 
 高性能AI搜索与推荐框架，支持结构化与非结构化数据的向量检索与RAG应用构建。
@@ -3402,6 +3434,14 @@ Apache Solr开源搜索引擎，提供强大的全文检索、分面搜索和分
 - **Tags:** `nearest-neighbor-search` `hnsw` `vector-search` `similarity-search`
 - **最后活动时间:** 2026-03-01
 
+### [pgvector-python](https://github.com/pgvector/pgvector-python)
+
+为PostgreSQL数据库提供pgvector向量支持，方便存储和检索AI应用中的高维向量数据。
+
+- **Stars:** ⭐️ 1.5k
+- **Tags:** `pgvector` `postgres` `vector-database` `python`
+- **最后活动时间:** 2026-07-04
+
 ### [mcp-server-qdrant](https://github.com/qdrant/mcp-server-qdrant)
 
 Qdrant官方MCP服务器实现，为Claude、Cursor等AI工具提供向量检索能力。
@@ -3601,6 +3641,14 @@ Elasticsearch MCP 服务器，支持向量数据库集成，为 AI 应用提供�
 - **Stars:** ⭐️ 682
 - **Tags:** `mcp` `elasticsearch` `vector-database` `search`
 - **最后活动时间:** 2026-07-01
+
+### [omnigraph](https://github.com/ModernRelay/omnigraph)
+
+原生湖仓图引擎，支持Git风格的工作流和知识图谱管理。结合Apache Arrow和DataFusion提供高性能数据分析。
+
+- **Stars:** ⭐️ 680
+- **Tags:** `graph-database` `knowledge-graph` `lakehouse` `rust` `datafusion`
+- **最后活动时间:** 2026-07-05
 
 ### [grafeo](https://github.com/GrafeoDB/grafeo)
 

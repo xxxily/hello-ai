@@ -10,8 +10,15 @@ const dataFile = path.join(__dirname, '../data/projects.json');
 const queueFile = path.join(__dirname, '../data/pending-projects.json');
 const topicsFile = path.join(__dirname, '../data/topics.json');
 const rejectedDir = path.join(__dirname, '../data/rejected-projects');
+const sensitiveDebugDir = path.join(__dirname, '../.omx/sensitive-word-debug');
 
 import { resolveLLMConfig, buildRequestBody, stripThinkTags } from './llm-provider.js';
+import {
+  buildEvaluationBatchData,
+  buildEvaluationMessages,
+  buildEvaluationPrompt,
+  buildValidCategoriesString,
+} from './evaluation-prompt.js';
 
 const { provider: LLM_PROVIDER, baseUrl: LLM_BASE_URL, apiKey: LLM_API_KEY, model: LLM_MODEL } = resolveLLMConfig();
 
@@ -127,11 +134,82 @@ function normalizeTopicsDb(value) {
   return topics;
 }
 
-async function askLLM(prompt) {
-  const messages = [
-    { role: 'system', content: 'You are an AI project curator. Your job is to strictly evaluate GitHub repositories and return JSON. Respond ONLY with valid JSON.' },
-    { role: 'user', content: prompt }
+function parseLLMErrorPayload(text) {
+  try {
+    return JSON.parse(text);
+  } catch (e) {
+    return null;
+  }
+}
+
+function isSensitiveWordsError(err) {
+  const values = [
+    err?.code,
+    err?.responseJson?.error?.code,
+    err?.responseJson?.error?.message,
+    err?.responseText,
+    err?.message,
   ];
+
+  return values.some(value => String(value || '').includes('sensitive_words_detected'));
+}
+
+function writeSensitiveWordsDebugContext({ err, prompt, batch, batchData, requestBody }) {
+  fs.mkdirSync(sensitiveDebugDir, { recursive: true });
+
+  const timestamp = new Date().toISOString();
+  const fileStamp = timestamp.replace(/[:.]/g, '-');
+  const basePath = path.join(sensitiveDebugDir, `sensitive-${fileStamp}`);
+  const contextFile = `${basePath}.json`;
+  const promptFile = `${basePath}.prompt.txt`;
+
+  const context = {
+    createdAt: timestamp,
+    provider: LLM_PROVIDER,
+    baseUrl: LLM_BASE_URL,
+    model: LLM_MODEL,
+    status: err?.status,
+    statusText: err?.statusText,
+    errorCode: err?.code || err?.responseJson?.error?.code,
+    errorMessage: err?.responseJson?.error?.message || err?.message,
+    responseText: err?.responseText,
+    batch,
+    batchData,
+    prompt,
+    requestBody,
+  };
+
+  fs.writeFileSync(contextFile, JSON.stringify(context, null, 2), 'utf-8');
+  fs.writeFileSync(promptFile, prompt, 'utf-8');
+
+  return { contextFile, promptFile };
+}
+
+function shellQuote(value) {
+  return `'${String(value).replace(/'/g, `'\\''`)}'`;
+}
+
+function printSensitiveWordsDebugContext({ err, debugFiles }) {
+  const debugJson = path.relative(process.cwd(), debugFiles.contextFile);
+  const promptTxt = path.relative(process.cwd(), debugFiles.promptFile);
+  const locateCommand = `npm run ai:locate-sensitive -- --debug ${shellQuote(debugJson)} --steps 4`;
+  const continueCommand = `npm run ai:locate-sensitive -- --file ${shellQuote('.omx/sensitive-word-debug/bisect-xxx.json')} --steps 4`;
+
+  console.error('\n🔎 sensitive_words_detected');
+  console.error(`Provider: ${LLM_PROVIDER}`);
+  console.error(`Model: ${LLM_MODEL}`);
+  console.error(`Status: ${err?.status || 'unknown'} ${err?.statusText || ''}`.trim());
+  console.error(`Debug JSON: ${debugJson}`);
+  console.error(`Prompt TXT: ${promptTxt}`);
+  console.error('\nStart bisect with:');
+  console.error(locateCommand);
+  console.error('\nContinue from a bisect result with:');
+  console.error(continueCommand);
+  console.error('');
+}
+
+async function askLLM(prompt) {
+  const messages = buildEvaluationMessages(prompt);
 
   const body = buildRequestBody(LLM_PROVIDER, LLM_MODEL, messages, {
     temperature: 0.1,
@@ -149,7 +227,15 @@ async function askLLM(prompt) {
 
   if (!res.ok) {
     const txt = await res.text();
-    throw new Error(`LLM API error: ${res.statusText} - ${txt}`);
+    const payload = parseLLMErrorPayload(txt);
+    const apiError = new Error(`LLM API error: ${res.statusText} - ${txt}`);
+    apiError.status = res.status;
+    apiError.statusText = res.statusText;
+    apiError.responseText = txt;
+    apiError.responseJson = payload;
+    apiError.code = payload?.error?.code;
+    apiError.requestBody = body;
+    throw apiError;
   }
 
   const resData = await res.json();
@@ -474,10 +560,7 @@ async function evaluate() {
   const categories = asArray(projectDb.categories);
 
   // Dynamic categories string for prompt
-  const validCategoriesStr = categories
-    .filter(c => c.id !== 'trending')
-    .map(c => `- ${c.id} (${c.name}) - Subcategories: [${(c.subcategories || []).join(', ')}]`)
-    .join('\n');
+  const validCategoriesStr = buildValidCategoriesString(categories);
 
   const totalPending = pendingDb.queue.length;
   console.log(`\n📊 [Task Pool] Current pending tasks awaiting evaluation: ${totalPending}`);
@@ -506,50 +589,8 @@ async function evaluate() {
 
   console.log(`▶️ Evaluating ${batch.length} projects in a batch...`);
 
-  const batchData = batch.map((item, index) => ({
-    id: index,
-    name: item.name,
-    description: item.description || 'No description',
-    topics: item.topics?.join(', ') || 'None'
-  }));
-
-  const prompt = `
-Please evaluate these GitHub projects based on their metadata. Determine if each is a high-quality AI project suitable for the "Hello-AI" directory.
-
-Projects to evaluate:
-${JSON.stringify(batchData, null, 2)}
-
-Valid Categories and their Subcategories:
-${validCategoriesStr}
-
-For each project, determine if it is valuable. 
-If it's NOT valuable or not really AI-focused or too localized/forked, set "is_valuable": false and state a "reason".
-If it IS valuable, set "is_valuable": true, pick the best "category_id", pick the most suitable "subcategory" (if applicable, else ""), and fill out the "project" details.
-
-Required Output Format (JSON):
-{
-  "evaluations": [
-    {
-      "id": 0,
-      "is_valuable": true,
-      "category_id": "<one of the valid categories matching it best>",
-      "subcategory": "<matching subcategory if applicable, or empty>",
-      "project": {
-        "name": "project_name",
-        "description": "<Provide a concise, engaging summary in Chinese (max 2 sentences)>",
-        "tags": ["EnglishTag1", "EnglishTag2"],
-        "health": "Active"
-      }
-    },
-    {
-      "id": 1,
-      "is_valuable": false,
-      "reason": "Not related to AI or low quality."
-    }
-  ]
-}
-
-Return ONLY standard JSON. Keep JSON minimal. Important: "tags" MUST be in English only (suitable for GitHub topic search), while "description" MUST be in Chinese.`;
+  const batchData = buildEvaluationBatchData(batch);
+  const prompt = buildEvaluationPrompt(batchData, validCategoriesStr);
 
   let evaluations = [];
   try {
@@ -557,6 +598,16 @@ Return ONLY standard JSON. Keep JSON minimal. Important: "tags" MUST be in Engli
     evaluations = responseData.evaluations || [];
   } catch (err) {
     console.error(`🚨 LLM Error: ${err.message}`);
+    if (isSensitiveWordsError(err)) {
+      const debugFiles = writeSensitiveWordsDebugContext({
+        err,
+        prompt,
+        batch,
+        batchData,
+        requestBody: err.requestBody,
+      });
+      printSensitiveWordsDebugContext({ err, debugFiles });
+    }
     console.log(`⚠️ Restoring batch to queue for retry later. Backing off...`);
     pendingDb.queue.unshift(...batch);
     saveJson(queueFile, pendingDb);

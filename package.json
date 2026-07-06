@@ -53,6 +53,7 @@
     "ai:generate-docs": "node scripts/generate-docs.js",
     "ai:loop-eval": "node scripts/loop-eval.js",
     "ai:loop-eval-tui": "node scripts/loop-eval.js --tui",
+    "ai:locate-sensitive": "node scripts/locate-sensitive-words.js",
     "ai:re-evaluate-all": "node scripts/re-evaluate-all.js",
     "ai:consume-queue": "node scripts/loop-eval.js --consume-only",
     "ai:analyze-topics": "node scripts/analyze-topics.js",

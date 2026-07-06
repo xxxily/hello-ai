@@ -2,7 +2,7 @@
 
 > Hardware integration, cloud infra, and model serving.
 
-> 当前分类已收录 **981** 个相关项目。
+> 当前分类已收录 **997** 个相关项目。
 
 ## Cloud & Hosting
 
@@ -1678,6 +1678,14 @@ Google Cloud平台上的机器学习示例集合，涵盖ML工作流的完整实
 - **Tags:** `GCP` `Machine Learning` `Cloud`
 - **最后活动时间:** 2026-06-20
 
+### [xet-core](https://github.com/huggingface/xet-core)
+
+Hugging Face Hub 的底层客户端技术，用于高效的数据存储和传输。优化了大规模 AI 模型和数据集的版本管理。
+
+- **Stars:** ⭐️ 516
+- **Tags:** `huggingface-hub` `rust` `storage` `xet`
+- **最后活动时间:** 2026-07-03
+
 ### [openclaw-billing-proxy](https://github.com/zacdcook/openclaw-billing-proxy)
 
 OpenClaw API 计费代理，支持通过 Claude Code 订阅计费路由请求。
@@ -2688,6 +2696,14 @@ Xilinx Vitis深度教程，涵盖FPGA、HLS和AI引擎的硬件加速开发技�
 - **Tags:** `fpga` `hls` `aiengine` `vitis` `hardware-acceleration`
 - **最后活动时间:** 2026-05-22
 
+### [flash-attention-prebuild-wheels](https://github.com/mjun0812/flash-attention-prebuild-wheels)
+
+提供 Flash-Attention 2 和 3 在 Linux 与 Windows 上的预编译包。极大简化了 AI 模型训练和推理的硬件加速环境配置。
+
+- **Stars:** ⭐️ 1.6k
+- **Tags:** `flash-attention` `pre-built-wheels` `hardware-acceleration` `pytorch`
+- **最后活动时间:** 2026-07-05
+
 ### [FBGEMM](https://github.com/pytorch/FBGEMM)
 
 Facebook开源的高性能矩阵乘法库，专为深度学习推理优化，支持低精度计算和CPU加速。
@@ -3664,6 +3680,14 @@ Winograd最小化卷积算法生成器，用于优化卷积神经网络的计算
 - **Tags:** `cnn` `winograd` `optimization` `deep-learning`
 - **最后活动时间:** 2026-02-09
 
+### [autonomous-computer](https://github.com/autonomous-ai/autonomous-computer)
+
+指导用户构建个人AI计算机的开源硬件项目。涵盖GPU选型、本地大模型(LLM)部署及家庭实验室搭建方案。
+
+- **Stars:** ⭐️ 620
+- **Tags:** `local-llm` `gpu` `homelab` `open-hardware`
+- **最后活动时间:** 2026-07-05
+
 ### [aws-neuron-sdk](https://github.com/aws-neuron/aws-neuron-sdk)
 
 AWS专用机器学习芯片SDK，支持PyTorch和TensorFlow原生集成，提供高性能低成本推理。
@@ -3696,6 +3720,14 @@ HuggingFace Optimum Intel版，提供Intel硬件加速的模型推理优化工�
 - **Tags:** `optimization` `intel` `openvino` `quantization` `inference`
 - **最后活动时间:** 2026-07-03
 
+### [gateGPT](https://github.com/fguzman82/gateGPT)
+
+将完整Transformer转化为定制芯片的RTL实现，在FPGA上实现高吞吐量生成。
+
+- **Stars:** ⭐️ 598
+- **Tags:** `transformer` `fpga` `hardware` `rtl`
+- **最后活动时间:** 2026-06-25
+
 ### [AutoDock-GPU](https://github.com/ccsb-scripps/AutoDock-GPU)
 
 GPU加速的分子对接软件，用于药物发现和计算生物学研究，支持CUDA和OpenCL加速。
@@ -3712,6 +3744,14 @@ GPU加速的分子对接软件，用于药物发现和计算生物学研究，�
 - **Tags:** `cuda` `fpga` `hpc` `parallel-computing`
 - **最后活动时间:** 2026-07-05
 
+### [ai-infra-hpc](https://github.com/jinbooooom/ai-infra-hpc)
+
+涵盖集合通信(MPI、NCCL)、CUDA编程、向量化SIMD及RDMA通信等内容的HPC与AI基础设施教程。
+
+- **Stars:** ⭐️ 588
+- **Tags:** `ai` `ai-infra` `deep-learning` `hpc` `llm`
+- **最后活动时间:** 2026-04-27
+
 ### [qkeras](https://github.com/google/qkeras)
 
 TensorFlow Keras量化深度学习库，面向FPGA和ASIC硬件加速的模型量化工具。
@@ -3719,6 +3759,14 @@ TensorFlow Keras量化深度学习库，面向FPGA和ASIC硬件加速的模型�
 - **Stars:** ⭐️ 583
 - **Tags:** `quantization` `keras` `fpga` `hardware-acceleration` `deep-learning`
 - **最后活动时间:** 2026-02-23
+
+### [rtx6kpro](https://github.com/local-inference-lab/rtx6kpro)
+
+探索在无NVLink的PCIe GPU上运行超大规模LLM（如Qwen3.5-397B）的Wiki指南。提供硬件加速与部署相关的实践经验。
+
+- **Stars:** ⭐️ 575
+- **Tags:** `llm` `hardware` `gpu` `deployment`
+- **最后活动时间:** 2026-07-04
 
 ### [ComfyUI-Distributed](https://github.com/robertvoy/ComfyUI-Distributed)
 
@@ -3776,6 +3824,14 @@ NVIDIA开发的并行编程接口，支持GPU间高效通信，可显著降低�
 - **Tags:** `pytorch` `ascend` `deep-learning` `hardware-acceleration`
 - **最后活动时间:** 2026-07-05
 
+### [atlas](https://github.com/Avarok-Cybersecurity/atlas)
+
+纯Rust编写的推理引擎，支持CUDA和推测解码，专为高性能大模型推理优化。
+
+- **Stars:** ⭐️ 545
+- **Tags:** `rust` `inference-engine` `cuda` `llm` `speculative-decoding`
+- **最后活动时间:** 2026-07-04
+
 ### [mscclpp](https://github.com/microsoft/mscclpp)
 
 MSCCL++是一个GPU驱动的通信栈，专为可扩展AI应用设计，优化分布式训练和推理的GPU间通信性能。
@@ -3824,6 +3880,14 @@ PyTorch分布式训练容错库，支持HSDP、LocalSGD、DiLoCo等多种分布�
 - **Tags:** `pytorch` `distributed-training` `fault-tolerance` `diloco`
 - **最后活动时间:** 2026-06-25
 
+### [dstack](https://github.com/Dstack-TEE/dstack)
+
+一个用于机密AI（Confidential AI）的开源框架，支持可信执行环境（TEE）和安全计算。
+
+- **Stars:** ⭐️ 513
+- **Tags:** `confidential-ai` `trusted-execution-environment` `secure-ai`
+- **最后活动时间:** 2026-07-04
+
 ### [Vitis-AI-Tutorials](https://github.com/Xilinx/Vitis-AI-Tutorials)
 
 AMD Xilinx Vitis AI框架官方教程，指导如何在FPGA平台上部署和加速深度学习推理。
@@ -3839,6 +3903,14 @@ AMD Xilinx Vitis AI框架官方教程，指导如何在FPGA平台上部署和加
 - **Stars:** ⭐️ 506
 - **Tags:** `cuda` `docker` `gpu` `remote-desktop` `nvidia`
 - **最后活动时间:** 2026-05-28
+
+### [torch_musa](https://github.com/MooreThreads/torch_musa)
+
+基于PyTorch的开源项目，旨在充分利用摩尔线程显卡的超级计算能力。为深度学习提供底层硬件加速支持。
+
+- **Stars:** ⭐️ 500
+- **Tags:** `pytorch` `hardware-acceleration` `gpu` `deep-learning`
+- **最后活动时间:** 2026-06-29
 
 ### [CUDA-L2](https://github.com/deepreinforce-ai/CUDA-L2)
 
@@ -4665,6 +4737,14 @@ TensorFlow官方高性能模型服务系统，支持模型版本管理和多模�
 - **Stars:** ⭐️ 5.9k
 - **Tags:** `LLMOps` `Observability` `Monitoring` `OpenAI`
 - **最后活动时间:** 2026-07-05
+
+### [LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM)
+
+Google开源的高性能推理框架，专为在边缘设备上部署大语言模型而设计。它提供了生产就绪的端侧AI解决方案。
+
+- **Stars:** ⭐️ 5.8k
+- **Tags:** `llm` `edge-ai` `on-device` `inference`
+- **最后活动时间:** 2026-07-04
 
 ### [Mooncake](https://github.com/kvcache-ai/Mooncake)
 
@@ -5834,6 +5914,14 @@ Go语言编写的Ollama模型管理工具，支持模型查看、删除等操作
 - **Tags:** `inference-engine` `llm` `cuda` `rocm` `tpu` `lora`
 - **最后活动时间:** 2026-07-04
 
+### [sonar](https://github.com/dphnAI/sonar)
+
+一个大规模LLM推理引擎，支持CUDA、TPU等多种硬件加速及推测解码技术。专为高效部署大语言模型而设计。
+
+- **Stars:** ⭐️ 1.8k
+- **Tags:** `llm-inference` `cuda` `tpu` `speculative-decoding`
+- **最后活动时间:** 2026-07-04
+
 ### [dreamfactory](https://github.com/dreamfactorysoftware/dreamfactory)
 
 企业级API平台，提供安全的数据访问接口，支持本地部署LLM的API连接与角色权限管理。
@@ -6185,6 +6273,14 @@ LLM部署评估工具，帮助优化大模型在实际推理场景中的性能�
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `distributed-inference` `llm-serving` `model-serving`
 - **最后活动时间:** 2026-07-01
+
+### [coreai-models](https://github.com/apple/coreai-models)
+
+提供端侧AI模型导出方案、Python基础组件及Swift运行时工具集。助力在Apple生态中高效部署和运行AI模型。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `on-device-ai` `swift` `model-export` `edge-ai`
+- **最后活动时间:** 2026-07-02
 
 ### [AQLM](https://github.com/Vahe1994/AQLM)
 
@@ -7066,6 +7162,14 @@ Claude.ai 反向代理服务，帮助开发者更灵活地调用 Claude API 服�
 - **Tags:** `claude` `reverse-proxy` `api`
 - **最后活动时间:** 2026-03-28
 
+### [UniRL](https://github.com/Tencent-Hunyuan/UniRL)
+
+一个用于统一多模态模型强化学习的框架。支持基于SGLang和vLLM的高效模型服务与训练。
+
+- **Stars:** ⭐️ 755
+- **Tags:** `ai-infrastructure` `reinforcement-learning` `sglang` `vllm`
+- **最后活动时间:** 2026-07-03
+
 ### [rvllm](https://github.com/m0at/rvllm)
 
 高性能 Rust 实现的 LLM 推理引擎，可作为 vLLM 的直接替代方案。
@@ -7434,6 +7538,14 @@ Ollama多实例代理服务器，提供API密钥安全管理、智能负载均�
 - **Tags:** `Ollama` `Proxy` `Load Balancer`
 - **最后活动时间:** 2026-04-23
 
+### [mimo2codex](https://github.com/7as0nch/mimo2codex)
+
+将 OpenAI Codex 的 Responses API 实时翻译为上游 Chat Completions API 的本地代理工具。支持多种主流大模型，实现不同 provider 之间的自动路由。
+
+- **Stars:** ⭐️ 622
+- **Tags:** `codex` `deepseek` `proxy` `llm` `openai`
+- **最后活动时间:** 2026-07-04
+
 ### [hugot](https://github.com/knights-analytics/hugot)
 
 Golang语言的ONNX Transformer推理管道，支持在Go环境中运行NLP模型。
@@ -7522,6 +7634,14 @@ FastAPI机器学习模型服务骨架应用，快速构建生产级ML API服务�
 - **Tags:** `optimization` `jax` `deep-learning` `equinox`
 - **最后活动时间:** 2026-05-13
 
+### [pplx-garden](https://github.com/perplexityai/pplx-garden)
+
+Perplexity开源的推理技术生态园，提供多种AI模型推理技术方案。助力开发者高效部署和优化大模型推理服务。
+
+- **Stars:** ⭐️ 591
+- **Tags:** `inference` `llm-serving` `open-source` `perplexity`
+- **最后活动时间:** 2026-05-27
+
 ### [openscoring](https://github.com/openscoring/openscoring)
 
 RESTful Web服务，用于Scikit-Learn、R和Apache Spark模型的实时推理评分（延迟<1ms），支持PMML格式模型部署。
@@ -7609,6 +7729,14 @@ llama.cpp 的 Rust 语言绑定，提供高效的本地 LLM 推理能力。
 - **Stars:** ⭐️ 555
 - **Tags:** `llm-router` `ai-cost-optimization` `openai-proxy` `model-routing` `self-hosted`
 - **最后活动时间:** 2026-07-05
+
+### [RedKnot](https://github.com/rednote-machine-learning/RedKnot)
+
+一种高效的LLM服务框架，通过头部感知的KV重用和SegPagedAttention技术优化长上下文推理。专注于降低大模型长文本生成的显存消耗并提升速度。
+
+- **Stars:** ⭐️ 553
+- **Tags:** `llm-serving` `kv-cache` `long-context` `inference-optimization`
+- **最后活动时间:** 2026-07-01
 
 ### [openvino.genai](https://github.com/openvinotoolkit/openvino.genai)
 

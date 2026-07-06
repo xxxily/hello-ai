@@ -2,7 +2,7 @@
 
 > Model training, fine-tuning, and evaluation.
 
-> 当前分类已收录 **372** 个相关项目。
+> 当前分类已收录 **375** 个相关项目。
 
 ## Dataset Management
 
@@ -1056,6 +1056,14 @@ PyTorch分布式机器学习评估指标库，支持多种深度学习指标。
 - **Tags:** `Benchmark` `LLM Evaluation` `Terminal`
 - **最后活动时间:** 2026-01-22
 
+### [needle-in-a-haystack](https://github.com/gkamradt/needle-in-a-haystack)
+
+在不同上下文长度下测试LLM检索准确性的评估工具。用于衡量大模型在长文本中的信息提取能力。
+
+- **Stars:** ⭐️ 2.3k
+- **Tags:** `llm` `evaluation` `retrieval` `context-length`
+- **最后活动时间:** 2026-06-08
+
 ### [inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai)
 
 专为大语言模型评估设计的开源框架，支持多种评测任务。
@@ -1199,6 +1207,14 @@ PinchBench基准测试系统，评估LLM模型作为编码智能体的表现。
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `benchmark` `llm-evaluation` `coding-agents`
 - **最后活动时间:** 2026-07-02
+
+### [iFixAi](https://github.com/ifixai-ai/iFixAi)
+
+一款 AI 评估与治理工具，能快速检测大模型的幻觉、提示注入及安全盲点。提供行业和模型无关的风险评估，帮助确保 AI 合规与安全。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `ai-evaluation` `ai-safety` `llm-security` `risk-assessment`
+- **最后活动时间:** 2026-07-03
 
 ### [sacrebleu](https://github.com/mjpost/sacrebleu)
 
@@ -2953,6 +2969,14 @@ Julia语言的Enzyme自动微分绑定，支持编译器级别的自动微分，
 - **Stars:** ⭐️ 538
 - **Tags:** `automated-feature-engineering` `feature-selection` `automl`
 - **最后活动时间:** 2026-01-06
+
+### [comfyUI-Realtime-Lora](https://github.com/shootthesound/comfyUI-Realtime-Lora)
+
+直接在ComfyUI中实时训练、编辑和保存LoRA模型，支持Flux、SDXL、SD 1.5等多种主流模型。为AI图像生成提供便捷的微调工具。
+
+- **Stars:** ⭐️ 532
+- **Tags:** `comfyui` `lora` `stable-diffusion` `flux` `fine-tuning`
+- **最后活动时间:** 2026-06-07
 
 ### [ml-mdm](https://github.com/apple/ml-mdm)
 

@@ -1,6 +1,6 @@
 {
-  "totalProjects": 9975,
-  "totalRawProjects": 20153,
+  "totalProjects": 10185,
+  "totalRawProjects": 20444,
   "recencyThresholdMonths": 6,
   "categories": {
     "trending": {
@@ -11,63 +11,63 @@
     "llms": {
       "name": "🧠 基础大模型",
       "count": 148,
-      "rawCount": 584
+      "rawCount": 588
     },
     "agents": {
       "name": "🤖 智能体与编排",
-      "count": 1661,
-      "rawCount": 2038
+      "count": 1698,
+      "rawCount": 2080
     },
     "rag_data": {
       "name": "🔍 RAG与检索",
-      "count": 459,
-      "rawCount": 709
+      "count": 465,
+      "rawCount": 719
     },
     "infrastructure": {
       "name": "☁️ 基础设施与部署",
-      "count": 981,
-      "rawCount": 1594
+      "count": 997,
+      "rawCount": 1614
     },
     "finetuning": {
       "name": "🔧 微调与训练",
-      "count": 372,
-      "rawCount": 930
+      "count": 375,
+      "rawCount": 934
     },
     "multimodal": {
       "name": "👁️ 多模态与音视频",
-      "count": 838,
-      "rawCount": 2801
+      "count": 864,
+      "rawCount": 2851
     },
     "devtools": {
       "name": "🛠️ 开发工具与SDK",
-      "count": 2245,
-      "rawCount": 3637
+      "count": 2273,
+      "rawCount": 3674
     },
     "applications": {
       "name": "🎨 AI终端应用",
-      "count": 953,
-      "rawCount": 1706
+      "count": 994,
+      "rawCount": 1752
     },
     "learning": {
       "name": "📚 学习与资源",
-      "count": 1297,
-      "rawCount": 4278
+      "count": 1333,
+      "rawCount": 4329
     },
     "desktop_tools": {
       "name": "💻 桌面与操作系统级应用",
-      "count": 361,
-      "rawCount": 466
+      "count": 368,
+      "rawCount": 473
     },
     "robotics_iot": {
       "name": "🦾 机器人与物联网",
-      "count": 480,
-      "rawCount": 1091
+      "count": 486,
+      "rawCount": 1103
     },
     "finance_business": {
       "name": "💼 商业与量化",
-      "count": 202,
-      "rawCount": 362
+      "count": 209,
+      "rawCount": 373
     }
   },
-  "lastUpdated": "2026-07-05T15:02:22.403Z"
+  "lastUpdated": "2026-07-06T02:07:28.929Z"
 }

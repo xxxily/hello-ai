@@ -28,3 +28,4 @@ data/local-blocklists/
 scripts/deploy-*.sh
 REFACTOR_PLAN/*
 .omx/
+.opencode/

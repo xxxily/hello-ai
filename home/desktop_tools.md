@@ -2,7 +2,7 @@
 
 > AI tools directly integrated with desktop OS or local environments.
 
-> 当前分类已收录 **361** 个相关项目。
+> 当前分类已收录 **368** 个相关项目。
 
 ## Browser Automations
 
@@ -159,6 +159,14 @@ Hermes智能体的桌面伴侣应用，提供本地化AI助手体验。
 - **Stars:** ⭐️ 12.3k
 - **Tags:** `AI笔记` `RAG` `MCP` `Tauri`
 - **最后活动时间:** 2026-07-01
+
+### [coworker](https://github.com/accomplish-ai/coworker)
+
+Coworker 是一款开源的 AI 桌面助手，常驻于您的桌面环境以提供便捷的智能辅助。
+
+- **Stars:** ⭐️ 10.9k
+- **Tags:** `ai-assistant` `desktop` `open-source`
+- **最后活动时间:** 2026-06-28
 
 ### [accomplish](https://github.com/accomplish-ai/accomplish)
 
@@ -544,6 +552,14 @@ macOS菜单栏应用，统一管理多个AI订阅账户，支持实时配额追�
 - **Tags:** `AI工具` `配额管理` `macOS`
 - **最后活动时间:** 2026-07-04
 
+### [jabref](https://github.com/JabRef/jabref)
+
+一款用于管理 BibTeX 和 BibLaTeX 文献库的桌面应用程序，支持 OCR 和引文自动生成。非常适合学术研究人员高效管理文献。
+
+- **Stars:** ⭐️ 4.4k
+- **Tags:** `jabref` `bibtex` `bibliography` `ocr` `reference-manager` `java`
+- **最后活动时间:** 2026-07-04
+
 ### [openwhispr](https://github.com/OpenWhispr/openwhispr)
 
 隐私优先的跨平台语音转文字应用，支持本地Whisper模型和多种云端API，兼顾隐私与便捷。
@@ -879,6 +895,14 @@ Obsidian AI文本生成插件，支持多种AI提供商，帮助用户在笔记�
 - **Stars:** ⭐️ 1.8k
 - **Tags:** `Claude Code` `Desktop App` `Tauri`
 - **最后活动时间:** 2026-07-01
+
+### [QuickClipboard](https://github.com/mosheng1/QuickClipboard)
+
+一款基于 Tauri 2 + Rust + React 构建的跨平台剪贴板增强工具，支持自动记录文本、图片及文件。集成了截图、贴图、OCR 识别及局域网同步等实用功能，全面提升日常办公效率。
+
+- **Stars:** ⭐️ 1.8k
+- **Tags:** `clipboard` `tauri` `rust` `ocr` `productivity`
+- **最后活动时间:** 2026-07-05
 
 ### [open-cowork](https://github.com/OpenCoworkAI/open-cowork)
 
@@ -1344,6 +1368,14 @@ Vibe Coding的驾驶舱桌面应用：左侧浏览文件，右侧指挥AI智能�
 - **Tags:** `developer-tools` `assistants-ai` `vibe-coding` `desktop-app`
 - **最后活动时间:** 2026-06-08
 
+### [cotabby](https://github.com/FuJacob/cotabby)
+
+一款开源的本地AI自动补全工具，可在Mac上实现设备端的智能文本输入辅助。支持在任何输入场景下提供无缝的隐私保护写作体验。
+
+- **Stars:** ⭐️ 858
+- **Tags:** `ai` `autocomplete` `local-ai` `llama` `macos` `productivity`
+- **最后活动时间:** 2026-07-04
+
 ### [openpets](https://github.com/alvinunreal/openpets)
 
 为AI编程助手设计的桌面宠物应用，通过MCP连接Claude Code等工具，实时展示编码状态。趣味性与实用性兼具的可视化工具。
@@ -1688,6 +1720,14 @@ ComfyUI Windows便携版整合包，预装40+自定义节点，开箱即用。
 - **Tags:** `ai` `desktop-app` `macos` `swiftui` `llm`
 - **最后活动时间:** 2026-07-05
 
+### [hermex](https://github.com/uzairansaruzi/hermex)
+
+一个原生的iPhone应用程序，用于与您的Hermes AI代理进行交互。
+
+- **Stars:** ⭐️ 552
+- **Tags:** `hermes` `llm` `ios` `self-hosted` `swiftui`
+- **最后活动时间:** 2026-07-04
+
 ### [jarvis-ai-assistant](https://github.com/akshayaggarwal99/jarvis-ai-assistant)
 
 Mac平台语音驱动AI助手，支持语音交互和智能辅助功能。
@@ -1719,6 +1759,14 @@ Mac平台语音驱动AI助手，支持语音交互和智能辅助功能。
 - **Stars:** ⭐️ 531
 - **Tags:** `reader` `desktop` `rust` `tauri`
 - **最后活动时间:** 2026-06-07
+
+### [qwen3-tts-apple-silicon](https://github.com/kapi2800/qwen3-tts-apple-silicon)
+
+在Apple Silicon芯片上本地运行Qwen3-TTS的解决方案。支持完全离线的语音克隆与自定义语音生成。
+
+- **Stars:** ⭐️ 530
+- **Tags:** `apple-silicon` `mlx` `qwen3-tts` `text-to-speech` `voice-cloning`
+- **最后活动时间:** 2026-05-02
 
 ### [harnessclaw](https://github.com/harnessclaw/harnessclaw)
 
@@ -2001,6 +2049,14 @@ macOS屏幕文字识别工具，一键复制屏幕任意位置的文本内容。
 - **Stars:** ⭐️ 1.8k
 - **Tags:** `Face Recognition` `Windows` `Tauri`
 - **最后活动时间:** 2026-04-10
+
+### [enableMacosAI](https://github.com/SkyBlue997/enableMacosAI)
+
+一键为国行 Mac 开启完整的 Apple 智能（端侧与云端计算）功能。专为 macOS 和 Apple Silicon 设备设计。
+
+- **Stars:** ⭐️ 1.6k
+- **Tags:** `apple-intelligence` `macos` `apple-silicon`
+- **最后活动时间:** 2026-06-13
 
 ### [iMCP](https://github.com/mattt/iMCP)
 
