@@ -29,3 +29,4 @@ scripts/deploy-*.sh
 REFACTOR_PLAN/*
 .omx/
 .opencode/
+plans/

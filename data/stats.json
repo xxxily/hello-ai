@@ -1,6 +1,6 @@
 {
-  "totalProjects": 10185,
-  "totalRawProjects": 20444,
+  "totalProjects": 10339,
+  "totalRawProjects": 20681,
   "recencyThresholdMonths": 6,
   "categories": {
     "trending": {
@@ -10,64 +10,64 @@
     },
     "llms": {
       "name": "🧠 基础大模型",
-      "count": 148,
-      "rawCount": 588
+      "count": 149,
+      "rawCount": 589
     },
     "agents": {
       "name": "🤖 智能体与编排",
-      "count": 1698,
-      "rawCount": 2080
+      "count": 1710,
+      "rawCount": 2097
     },
     "rag_data": {
       "name": "🔍 RAG与检索",
-      "count": 465,
-      "rawCount": 719
+      "count": 472,
+      "rawCount": 725
     },
     "infrastructure": {
       "name": "☁️ 基础设施与部署",
-      "count": 997,
-      "rawCount": 1614
+      "count": 1014,
+      "rawCount": 1634
     },
     "finetuning": {
       "name": "🔧 微调与训练",
       "count": 375,
-      "rawCount": 934
+      "rawCount": 940
     },
     "multimodal": {
       "name": "👁️ 多模态与音视频",
-      "count": 864,
-      "rawCount": 2851
+      "count": 879,
+      "rawCount": 2896
     },
     "devtools": {
       "name": "🛠️ 开发工具与SDK",
-      "count": 2273,
-      "rawCount": 3674
+      "count": 2314,
+      "rawCount": 3722
     },
     "applications": {
       "name": "🎨 AI终端应用",
-      "count": 994,
-      "rawCount": 1752
+      "count": 1024,
+      "rawCount": 1785
     },
     "learning": {
       "name": "📚 学习与资源",
-      "count": 1333,
-      "rawCount": 4329
+      "count": 1337,
+      "rawCount": 4350
     },
     "desktop_tools": {
       "name": "💻 桌面与操作系统级应用",
-      "count": 368,
-      "rawCount": 473
+      "count": 374,
+      "rawCount": 480
     },
     "robotics_iot": {
       "name": "🦾 机器人与物联网",
-      "count": 486,
-      "rawCount": 1103
+      "count": 494,
+      "rawCount": 1115
     },
     "finance_business": {
       "name": "💼 商业与量化",
-      "count": 209,
-      "rawCount": 373
+      "count": 222,
+      "rawCount": 394
     }
   },
-  "lastUpdated": "2026-07-06T02:07:28.929Z"
+  "lastUpdated": "2026-07-07T15:28:32.841Z"
 }
