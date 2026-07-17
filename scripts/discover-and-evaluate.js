@@ -40,12 +40,36 @@ const DEFAULT_TOPICS = {
   exhausted: {},
 };
 
+async function fetchWithRetry(url, options = {}, retries = 3, delay = 1000) {
+  for (let i = 0; i < retries; i++) {
+    try {
+      const res = await fetch(url, options);
+      if (res.status === 429 || (res.status >= 500 && res.status < 600)) {
+        console.warn(`⚠️ [Fetch] Received status ${res.status} for ${url}. Retrying in ${delay}ms... (Attempt ${i + 1}/${retries})`);
+        if (i < retries - 1) {
+          await new Promise(resolve => setTimeout(resolve, delay));
+          delay *= 2;
+          continue;
+        }
+      }
+      return res;
+    } catch (err) {
+      if (i === retries - 1) {
+        throw err;
+      }
+      console.warn(`⚠️ [Fetch] Connection failed for ${url}: ${err.message}. Retrying in ${delay}ms... (Attempt ${i + 1}/${retries})`);
+      await new Promise(resolve => setTimeout(resolve, delay));
+      delay *= 2;
+    }
+  }
+}
+
 async function fetchRepoDetails(full_name) {
   const headers = { 'Accept': 'application/vnd.github.v3+json' };
   if (GITHUB_TOKEN) {
     headers['Authorization'] = `token ${GITHUB_TOKEN}`;
   }
-  const res = await fetch(`https://api.github.com/repos/${full_name}`, { headers });
+  const res = await fetchWithRetry(`https://api.github.com/repos/${full_name}`, { headers });
   if (!res.ok) return null;
   return await res.json();
 }
@@ -411,7 +435,7 @@ async function discover() {
   console.log(`🌐 Calling GitHub API: sort:${randomSort}, page:${pageToExplore}, stars:>=${minStars}`);
 
   try {
-    const res = await fetch(searchUrl, {
+    const res = await fetchWithRetry(searchUrl, {
       headers: {
         'Accept': 'application/vnd.github.v3+json',
         'Authorization': GITHUB_TOKEN ? `token ${GITHUB_TOKEN}` : undefined
