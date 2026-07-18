@@ -1,6 +1,6 @@
 {
-  "totalProjects": 10586,
-  "totalRawProjects": 21113,
+  "totalProjects": 10655,
+  "totalRawProjects": 21228,
   "recencyThresholdMonths": 6,
   "categories": {
     "trending": {
@@ -10,64 +10,64 @@
     },
     "llms": {
       "name": "🧠 基础大模型",
-      "count": 150,
-      "rawCount": 594
+      "count": 151,
+      "rawCount": 598
     },
     "agents": {
       "name": "🤖 智能体与编排",
-      "count": 1765,
-      "rawCount": 2169
+      "count": 1782,
+      "rawCount": 2187
     },
     "rag_data": {
       "name": "🔍 RAG与检索",
-      "count": 478,
-      "rawCount": 736
+      "count": 479,
+      "rawCount": 737
     },
     "infrastructure": {
       "name": "☁️ 基础设施与部署",
-      "count": 1036,
-      "rawCount": 1664
+      "count": 1040,
+      "rawCount": 1672
     },
     "finetuning": {
       "name": "🔧 微调与训练",
-      "count": 379,
-      "rawCount": 950
+      "count": 385,
+      "rawCount": 965
     },
     "multimodal": {
       "name": "👁️ 多模态与音视频",
-      "count": 885,
-      "rawCount": 2946
+      "count": 893,
+      "rawCount": 2963
     },
     "devtools": {
       "name": "🛠️ 开发工具与SDK",
-      "count": 2370,
-      "rawCount": 3803
+      "count": 2379,
+      "rawCount": 3817
     },
     "applications": {
       "name": "🎨 AI终端应用",
-      "count": 1059,
-      "rawCount": 1830
+      "count": 1074,
+      "rawCount": 1845
     },
     "learning": {
       "name": "📚 学习与资源",
-      "count": 1353,
-      "rawCount": 4402
+      "count": 1356,
+      "rawCount": 4416
     },
     "desktop_tools": {
       "name": "💻 桌面与操作系统级应用",
-      "count": 399,
-      "rawCount": 514
+      "count": 400,
+      "rawCount": 515
     },
     "robotics_iot": {
       "name": "🦾 机器人与物联网",
-      "count": 503,
-      "rawCount": 1133
+      "count": 505,
+      "rawCount": 1137
     },
     "finance_business": {
       "name": "💼 商业与量化",
-      "count": 234,
-      "rawCount": 418
+      "count": 237,
+      "rawCount": 423
     }
   },
-  "lastUpdated": "2026-07-17T14:02:15.870Z"
+  "lastUpdated": "2026-07-18T15:43:04.537Z"
 }

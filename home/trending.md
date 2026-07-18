@@ -8,7 +8,7 @@
 
 汇集各类免费API的精选列表，包含多个AI和机器学习相关的API资源，是开发者寻找集成接口的实用参考。
 
-- **Stars:** ⭐️ 450.8k
+- **Stars:** ⭐️ 451.0k
 - **Tags:** `api` `public-apis` `free` `list`
 - **最后活动时间:** 2026-07-13
 
@@ -16,15 +16,15 @@
 
 跨平台个人AI助手，支持任意操作系统。注重数据隐私，让用户完全掌控自己的数据。
 
-- **Stars:** ⭐️ 383.2k
+- **Stars:** ⭐️ 383.3k
 - **Tags:** `AI助手` `跨平台` `隐私保护`
-- **最后活动时间:** 2026-07-17
+- **最后活动时间:** 2026-07-18
 
 ## [superpowers](https://github.com/obra/superpowers)
 
 一个智能体技能框架和软件开发方法论，帮助开发者构建更高效的AI代理系统。
 
-- **Stars:** ⭐️ 256.4k
+- **Stars:** ⭐️ 256.8k
 - **Tags:** `agent-framework` `agentic-skills` `ai-agent`
 - **最后活动时间:** 2026-07-17
 
@@ -32,25 +32,25 @@
 
 AI Agent性能优化框架，为Claude Code、Codex、Cursor等编程智能体提供技能、记忆、安全和研究优先的开发能力。
 
-- **Stars:** ⭐️ 230.5k
+- **Stars:** ⭐️ 230.8k
 - **Tags:** `ai-agents` `claude-code` `mcp` `developer-tools`
-- **最后活动时间:** 2026-07-14
+- **最后活动时间:** 2026-07-17
 
 ## [hermes-agent](https://github.com/NousResearch/hermes-agent)
 
 支持多主流大语言模型的智能AI代理，提供个性化交互体验，能够伴随用户持续成长进化。
 
-- **Stars:** ⭐️ 216.3k
+- **Stars:** ⭐️ 216.6k
 - **Tags:** `AI Agent` `LLM` `Claude` `ChatGPT`
-- **最后活动时间:** 2026-07-17
+- **最后活动时间:** 2026-07-18
 
 ## [n8n](https://github.com/n8n-io/n8n)
 
 开源工作流自动化平台，原生支持AI能力和MCP协议，支持400+集成，可自托管或云端部署。
 
-- **Stars:** ⭐️ 196.8k
+- **Stars:** ⭐️ 196.9k
 - **Tags:** `工作流自动化` `低代码` `AI集成` `MCP`
-- **最后活动时间:** 2026-07-17
+- **最后活动时间:** 2026-07-18
 
 ## [tensorflow](https://github.com/tensorflow/tensorflow)
 
@@ -58,7 +58,7 @@ Google开源的端到端机器学习框架，支持构建和部署深度学习�
 
 - **Stars:** ⭐️ 196.3k
 - **Tags:** `Deep Learning` `Machine Learning` `Neural Network`
-- **最后活动时间:** 2026-07-17
+- **最后活动时间:** 2026-07-18
 
 ## [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
 
@@ -80,7 +80,7 @@ JavaScript算法与数据结构实现集合，包含详细解释和延伸阅读�
 
 基于Andrej Karpathy对LLM编码陷阱的观察，改进Claude Code行为的配置文件，帮助开发者更好地使用AI编程助手。
 
-- **Stars:** ⭐️ 193.3k
+- **Stars:** ⭐️ 193.7k
 - **Tags:** `claude` `llm` `coding-assistant` `prompt-engineering`
 - **最后活动时间:** 2026-04-20
 
@@ -88,7 +88,7 @@ JavaScript算法与数据结构实现集合，包含详细解释和延伸阅读�
 
 开源的AI编程智能体，帮助开发者自动化代码编写和开发任务。
 
-- **Stars:** ⭐️ 186.7k
+- **Stars:** ⭐️ 186.9k
 - **Tags:** `coding-agent` `ai-assistant` `developer-tools`
 - **最后活动时间:** 2026-07-17
 
@@ -98,7 +98,7 @@ JavaScript算法与数据结构实现集合，包含详细解释和延伸阅读�
 
 - **Stars:** ⭐️ 185.6k
 - **Tags:** `Agent` `Automation` `Autonomous`
-- **最后活动时间:** 2026-07-17
+- **最后活动时间:** 2026-07-18
 
 ## [everything-claude-code](https://github.com/affaan-m/everything-claude-code)
 
@@ -112,33 +112,33 @@ JavaScript算法与数据结构实现集合，包含详细解释和延伸阅读�
 
 轻量级本地大模型运行工具，支持Llama、Qwen、DeepSeek等多种开源模型，一键部署即开即用。
 
-- **Stars:** ⭐️ 176.3k
+- **Stars:** ⭐️ 176.4k
 - **Tags:** `LLM` `Local Deployment` `Model Inference`
-- **最后活动时间:** 2026-07-17
+- **最后活动时间:** 2026-07-18
 
 ## [skills](https://github.com/mattpocock/skills)
 
 微软官方.NET技能库，为AI编程助手提供专业的C#代码生成与最佳实践指导能力。
 
-- **Stars:** ⭐️ 173.5k
+- **Stars:** ⭐️ 175.6k
 - **Tags:** `Microsoft` `.NET` `AI Coding Agent`
-- **最后活动时间:** 2026-07-16
+- **最后活动时间:** 2026-07-17
 
 ## [markitdown](https://github.com/microsoft/markitdown)
 
 将文件和Office文档转换为Markdown的Python工具，支持PDF等多种格式，可集成到RAG和AI工作流中。
 
-- **Stars:** ⭐️ 166.8k
+- **Stars:** ⭐️ 167.0k
 - **Tags:** `Markdown` `Document Conversion` `RAG`
-- **最后活动时间:** 2026-06-24
+- **最后活动时间:** 2026-07-17
 
 ## [prompts.chat](https://github.com/f/prompts.chat)
 
 开源提示词分享与发现平台，支持自托管，帮助用户收集和管理社区优质提示词资源。
 
-- **Stars:** ⭐️ 165.9k
+- **Stars:** ⭐️ 166.0k
 - **Tags:** `提示工程` `ChatGPT` `开源平台`
-- **最后活动时间:** 2026-07-17
+- **最后活动时间:** 2026-07-18
 
 ## [transformers](https://github.com/huggingface/transformers)
 
@@ -152,7 +152,7 @@ Hugging Face官方深度学习模型框架，支持文本、视觉、音频和�
 
 Agent Skills 公共仓库，提供智能体技能模块的集合与共享。
 
-- **Stars:** ⭐️ 161.9k
+- **Stars:** ⭐️ 162.2k
 - **Tags:** `agent-skills` `ai-agent`
 - **最后活动时间:** 2026-07-17
 
@@ -168,7 +168,7 @@ Java面试与后端开发指南，涵盖AI应用开发、Agent、MCP等前沿技
 
 专为AI设计的网页数据API，将网站转换为LLM可用的Markdown或结构化数据，是RAG应用的理想数据源。
 
-- **Stars:** ⭐️ 152.2k
+- **Stars:** ⭐️ 152.5k
 - **Tags:** `网页爬取` `数据提取` `LLM数据`
 - **最后活动时间:** 2026-07-17
 
@@ -176,25 +176,33 @@ Java面试与后端开发指南，涵盖AI应用开发、Agent、MCP等前沿技
 
 可视化AI智能体和工作流构建平台，支持拖拽式设计复杂的AI应用，无需编写代码即可快速部署。
 
-- **Stars:** ⭐️ 151.9k
+- **Stars:** ⭐️ 152.0k
 - **Tags:** `Visual Builder` `Workflow` `LLM`
-- **最后活动时间:** 2026-07-17
+- **最后活动时间:** 2026-07-18
 
 ## [dify](https://github.com/langgenius/dify)
 
 生产级AI智能体工作流开发平台，支持低代码快速构建AI应用，提供可视化编排、RAG集成、多模型支持。
 
-- **Stars:** ⭐️ 149.1k
+- **Stars:** ⭐️ 149.2k
 - **Tags:** `Workflow` `Low-code` `RAG`
-- **最后活动时间:** 2026-07-17
+- **最后活动时间:** 2026-07-18
 
 ## [open-webui](https://github.com/open-webui/open-webui)
 
 功能强大的自托管AI Web界面，支持Ollama、OpenAI等多种LLM后端，内置RAG和MCP功能。
 
-- **Stars:** ⭐️ 145.7k
+- **Stars:** ⭐️ 145.8k
 - **Tags:** `LLM` `WebUI` `RAG` `Ollama`
-- **最后活动时间:** 2026-07-17
+- **最后活动时间:** 2026-07-18
+
+## [LangChain](https://github.com/langchain-ai/langchain)
+
+用于构建上下文感知推理应用程序的流行框架，是开发LLM应用的核心工具。
+
+- **Stars:** ⭐️ 142.0k
+- **Tags:** `Framework` `LLM` `Python`
+- **最后活动时间:** 2026-07-18
 
 ## [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 
@@ -204,19 +212,11 @@ Java面试与后端开发指南，涵盖AI应用开发、Agent、MCP等前沿技
 - **Tags:** `System Prompts` `AI Tools` `Prompt Engineering`
 - **最后活动时间:** 2026-07-12
 
-## [LangChain](https://github.com/langchain-ai/langchain)
-
-用于构建上下文感知推理应用程序的流行框架，是开发LLM应用的核心工具。
-
-- **Stars:** ⭐️ 142.0k
-- **Tags:** `Framework` `LLM` `Python`
-- **最后活动时间:** 2026-07-17
-
 ## [claude-code](https://github.com/anthropics/claude-code)
 
 Anthropic官方AI编程智能体，在终端中通过自然语言命令理解代码库、执行任务和处理Git工作流。
 
-- **Stars:** ⭐️ 138.0k
+- **Stars:** ⭐️ 138.1k
 - **Tags:** `AI编程` `终端工具` `代码智能体`
 - **最后活动时间:** 2026-07-17
 
@@ -224,9 +224,9 @@ Anthropic官方AI编程智能体，在终端中通过自然语言命令理解代
 
 完整的AI代理团队框架，包含前端开发、社区运营、创意注入等多种专业化智能体。
 
-- **Stars:** ⭐️ 132.2k
+- **Stars:** ⭐️ 132.6k
 - **Tags:** `ai-agents` `agent-framework` `automation` `multi-agent`
-- **最后活动时间:** 2026-07-15
+- **最后活动时间:** 2026-07-17
 
 ## [hello-algo](https://github.com/krahets/hello-algo)
 
@@ -240,7 +240,7 @@ Anthropic官方AI编程智能体，在终端中通过自然语言命令理解代
 
 精选LLM应用集合，涵盖AI智能体和RAG技术，支持多种模型提供商，适合开发者学习参考。
 
-- **Stars:** ⭐️ 123.4k
+- **Stars:** ⭐️ 123.8k
 - **Tags:** `LLM Apps` `Agents` `RAG` `Python`
-- **最后活动时间:** 2026-07-17
+- **最后活动时间:** 2026-07-18
 

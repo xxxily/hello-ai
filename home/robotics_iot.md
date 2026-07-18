@@ -2,7 +2,7 @@
 
 > AI running on physical devices and robotics.
 
-> 当前分类已收录 **503** 个相关项目。
+> 当前分类已收录 **505** 个相关项目。
 
 ## Edge AI
 
@@ -10,9 +10,9 @@
 
 利用商用WiFi信号实现实时人体姿态估计、生命体征监测和存在检测，无需任何视频像素。基于DensePose技术的边缘AI创新应用。
 
-- **Stars:** ⭐️ 81.0k
+- **Stars:** ⭐️ 81.1k
 - **Tags:** `pose-estimation` `wifi` `densepose` `edge-ai` `esp32`
-- **最后活动时间:** 2026-07-17
+- **最后活动时间:** 2026-07-18
 
 ### [frigate](https://github.com/blakeblackshear/frigate)
 
@@ -20,7 +20,7 @@
 
 - **Stars:** ⭐️ 34.4k
 - **Tags:** `NVR` `目标检测` `智能家居` `Edge AI`
-- **最后活动时间:** 2026-07-16
+- **最后活动时间:** 2026-07-18
 
 ### [project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
 
@@ -42,7 +42,7 @@
 
 高性能云原生消息系统，专为分布式系统和边缘AI设计，支持物联网设备连接。
 
-- **Stars:** ⭐️ 20.2k
+- **Stars:** ⭐️ 20.3k
 - **Tags:** `edge-ai` `messaging` `distributed-systems`
 - **最后活动时间:** 2026-07-17
 
@@ -52,7 +52,7 @@
 
 - **Stars:** ⭐️ 14.2k
 - **Tags:** `自动驾驶` `模拟器` `深度学习`
-- **最后活动时间:** 2026-07-17
+- **最后活动时间:** 2026-07-18
 
 ### [omi](https://github.com/BasedHardware/omi)
 
@@ -60,7 +60,7 @@
 
 - **Stars:** ⭐️ 13.0k
 - **Tags:** `AI Wearable` `Transcription` `Edge AI`
-- **最后活动时间:** 2026-07-17
+- **最后活动时间:** 2026-07-18
 
 ### [librealsense](https://github.com/realsenseai/librealsense)
 
@@ -68,7 +68,7 @@ Intel RealSense深度相机官方SDK，支持3D视觉、SLAM和机器人感知�
 
 - **Stars:** ⭐️ 8.9k
 - **Tags:** `computer-vision` `depth-camera` `sdk` `robotics`
-- **最后活动时间:** 2026-07-16
+- **最后活动时间:** 2026-07-18
 
 ### [AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device)
 
@@ -106,9 +106,9 @@ CNCF旗下的云原生边缘计算框架，支持Kubernetes原生边缘AI部署�
 
 先进的异常检测库，集成多种SOTA算法，支持OpenVINO边缘推理、实验管理与超参数优化。
 
-- **Stars:** ⭐️ 5.9k
+- **Stars:** ⭐️ 6.0k
 - **Tags:** `Anomaly Detection` `OpenVINO` `Edge AI` `Computer Vision`
-- **最后活动时间:** 2026-07-06
+- **最后活动时间:** 2026-07-18
 
 ### [AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork)
 
@@ -140,7 +140,7 @@ PyTorch官方端侧AI推理框架，支持在移动设备、嵌入式系统和�
 
 - **Stars:** ⭐️ 4.8k
 - **Tags:** `Edge AI` `PyTorch` `Mobile`
-- **最后活动时间:** 2026-07-17
+- **最后活动时间:** 2026-07-18
 
 ### [mne-python](https://github.com/mne-tools/mne-python)
 
@@ -148,7 +148,7 @@ PyTorch官方端侧AI推理框架，支持在移动设备、嵌入式系统和�
 
 - **Stars:** ⭐️ 3.5k
 - **Tags:** `neuroscience` `eeg` `meg` `machine-learning` `python`
-- **最后活动时间:** 2026-07-16
+- **最后活动时间:** 2026-07-18
 
 ### [viseron](https://github.com/roflcoopter/viseron)
 
@@ -164,7 +164,7 @@ PyTorch官方端侧AI推理框架，支持在移动设备、嵌入式系统和�
 
 - **Stars:** ⭐️ 3.0k
 - **Tags:** `Edge Computing` `Robotics` `IoT` `ROS2`
-- **最后活动时间:** 2026-07-17
+- **最后活动时间:** 2026-07-18
 
 ### [DeepCamera](https://github.com/SharpAI/DeepCamera)
 
@@ -228,7 +228,7 @@ NVIDIA DeepStream SDK的YOLO模型实现，支持TensorRT加速，适用于边�
 
 - **Stars:** ⭐️ 2.0k
 - **Tags:** `autopilot` `self-driving` `driver-assistance` `openpilot` `automotive`
-- **最后活动时间:** 2026-07-05
+- **最后活动时间:** 2026-07-17
 
 ### [FISSURE](https://github.com/ainfosec/FISSURE)
 
@@ -236,7 +236,7 @@ NVIDIA DeepStream SDK的YOLO模型实现，支持TensorRT加速，适用于边�
 
 - **Stars:** ⭐️ 2.0k
 - **Tags:** `sdr` `rf` `reverse-engineering`
-- **最后活动时间:** 2026-07-16
+- **最后活动时间:** 2026-07-17
 
 ### [yj_nearbyglasses](https://github.com/yjeanrenaud/yj_nearbyglasses)
 
@@ -278,14 +278,6 @@ AI+IoT开源框架，支持多种硬件平台，实现AI Agent与智能硬件的
 - **Tags:** `AIoT` `Edge AI` `IoT`
 - **最后活动时间:** 2026-07-17
 
-### [brainflow](https://github.com/brainflow-dev/brainflow)
-
-用于获取和分析EEG、EMG、ECG等生物信号的开源库，支持多种生物传感器设备，广泛应用于脑机接口和神经科学研究。
-
-- **Stars:** ⭐️ 1.7k
-- **Tags:** `bci` `eeg` `biosignal` `neuroscience` `signal-processing`
-- **最后活动时间:** 2026-05-22
-
 ### [openclaw-android](https://github.com/AidanPark/openclaw-android)
 
 在Android设备上运行OpenClaw AI代理的轻量级解决方案，无需proot或Linux环境，适合低功耗家庭实验室场景。
@@ -294,6 +286,14 @@ AI+IoT开源框架，支持多种硬件平台，实现AI Agent与智能硬件的
 - **Tags:** `ai-agent` `android` `self-hosted` `termux` `edge-ai`
 - **最后活动时间:** 2026-06-29
 
+### [brainflow](https://github.com/brainflow-dev/brainflow)
+
+用于获取和分析EEG、EMG、ECG等生物信号的开源库，支持多种生物传感器设备，广泛应用于脑机接口和神经科学研究。
+
+- **Stars:** ⭐️ 1.7k
+- **Tags:** `bci` `eeg` `biosignal` `neuroscience` `signal-processing`
+- **最后活动时间:** 2026-05-22
+
 ### [ESP32-CAM_MJPEG2SD](https://github.com/s60sc/ESP32-CAM_MJPEG2SD)
 
 ESP32摄像头运动检测应用，支持机器学习驱动的动作捕捉、视频流传输和SD卡存储。
@@ -301,6 +301,14 @@ ESP32摄像头运动检测应用，支持机器学习驱动的动作捕捉、视
 - **Stars:** ⭐️ 1.7k
 - **Tags:** `esp32` `camera` `machine-learning` `motion-capture` `mjpeg`
 - **最后活动时间:** 2026-05-16
+
+### [EOS](https://github.com/Akkudoktor-EOS/EOS)
+
+能源优化系统，利用预测模型进行电力价格预测、负载预测和动态优化，最大化能源效率并降低成本。
+
+- **Stars:** ⭐️ 1.6k
+- **Tags:** `energy-optimization` `predictive-models` `load-forecasting` `smart-home` `iot`
+- **最后活动时间:** 2026-07-17
 
 ### [core](https://github.com/secluso/core)
 
@@ -326,21 +334,13 @@ ESP32摄像头运动检测应用，支持机器学习驱动的动作捕捉、视
 - **Tags:** `yolo` `deep-learning` `laser` `machine-vision` `raspberry-pi`
 - **最后活动时间:** 2026-03-30
 
-### [EOS](https://github.com/Akkudoktor-EOS/EOS)
-
-能源优化系统，利用预测模型进行电力价格预测、负载预测和动态优化，最大化能源效率并降低成本。
-
-- **Stars:** ⭐️ 1.6k
-- **Tags:** `energy-optimization` `predictive-models` `load-forecasting` `smart-home` `iot`
-- **最后活动时间:** 2026-04-22
-
 ### [awesome-bci](https://github.com/NeuroTechX/awesome-bci)
 
 脑机接口(BCI)资源精选合集，涵盖信号处理、机器学习分类和神经接口技术。
 
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `bci` `brain-computer-interface` `neuroscience` `signal-processing`
-- **最后活动时间:** 2026-02-18
+- **最后活动时间:** 2026-06-21
 
 ### [esp-sr](https://github.com/espressif/esp-sr)
 
@@ -357,6 +357,14 @@ Rockchip RKNN框架下的大语言模型推理工具，支持在边缘设备上�
 - **Stars:** ⭐️ 1.4k
 - **Tags:** `llm` `edge-ai` `rockchip` `inference` `npu`
 - **最后活动时间:** 2026-03-12
+
+### [acados](https://github.com/acados/acados)
+
+用于非线性最优控制和模型预测控制（MPC）的快速嵌入式求解器。支持高性能实时仿真与差分动态规划。
+
+- **Stars:** ⭐️ 1.4k
+- **Tags:** `control` `model-predictive-control` `optimization` `embedded` `real-time`
+- **最后活动时间:** 2026-07-16
 
 ### [surround-view-system-introduction](https://github.com/neozhaoliang/surround-view-system-introduction)
 
@@ -380,7 +388,7 @@ Kubernetes边缘资源接口，用于发现和调度边缘设备，支持边缘A
 
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `face-recognition` `liveness-detection` `on-device-ai` `anti-spoofing` `face-search`
-- **最后活动时间:** 2026-07-06
+- **最后活动时间:** 2026-07-10
 
 ### [frigate-hass-integration](https://github.com/blakeblackshear/frigate-hass-integration)
 
@@ -404,7 +412,7 @@ Home Assistant 的 Frigate NVR 集成插件，支持实时 AI 物体检测和智
 
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `geospatial` `gis` `machine-learning` `remote-sensing` `python`
-- **最后活动时间:** 2026-07-17
+- **最后活动时间:** 2026-07-18
 
 ### [EVA-OS](https://github.com/AutoArk/EVA-OS)
 
@@ -460,7 +468,7 @@ ARM官方嵌入式DSP计算库，支持Cortex-M/A处理器，提供FFT、滤波�
 
 - **Stars:** ⭐️ 1.0k
 - **Tags:** `embedded-ml` `dsp` `edge-ai` `arm` `cortex`
-- **最后活动时间:** 2026-07-16
+- **最后活动时间:** 2026-07-17
 
 ### [moabb](https://github.com/NeuroTechX/moabb)
 
@@ -476,7 +484,7 @@ ARM官方嵌入式DSP计算库，支持Cortex-M/A处理器，提供FFT、滤波�
 
 - **Stars:** ⭐️ 1.0k
 - **Tags:** `ebpf` `observability` `k8s` `profiling` `ai`
-- **最后活动时间:** 2026-07-16
+- **最后活动时间:** 2026-07-17
 
 ### [be-more-agent](https://github.com/brenpoly/be-more-agent)
 
@@ -498,7 +506,7 @@ TensorFlow Lite在Unity中的示例项目，支持MediaPipe集成。
 
 为任意安防摄像头添加 AI 物体检测、追踪和移动通知功能的智能监控解决方案。
 
-- **Stars:** ⭐️ 950
+- **Stars:** ⭐️ 953
 - **Tags:** `object-detection` `yolov9` `security-camera` `edge-ai`
 - **最后活动时间:** 2026-07-15
 
@@ -506,7 +514,7 @@ TensorFlow Lite在Unity中的示例项目，支持MediaPipe集成。
 
 CVPR 2025论文官方实现，面向边缘设备的Track Anything Model，支持在端侧进行高效视频分割与目标跟踪。
 
-- **Stars:** ⭐️ 944
+- **Stars:** ⭐️ 946
 - **Tags:** `on-device-ai` `sam2` `segment-anything` `edge-ai`
 - **最后活动时间:** 2026-01-27
 
@@ -588,13 +596,13 @@ Meta Project Aria 的开源工具包，用于处理AR眼镜的机器感知数据
 
 - **Stars:** ⭐️ 744
 - **Tags:** `tinyml` `embedded-ml` `microcontroller` `inference`
-- **最后活动时间:** 2026-04-02
+- **最后活动时间:** 2026-07-17
 
 ### [embed-ai-tool](https://github.com/LeoKemp223/embed-ai-tool)
 
 面向AI编程助手的嵌入式开发技能集，提供MCU固件开发全流程能力，支持多工具链构建与跨平台调试。
 
-- **Stars:** ⭐️ 727
+- **Stars:** ⭐️ 730
 - **Tags:** `embedded` `aicoding` `gdb` `keil` `platformio` `toolchain`
 - **最后活动时间:** 2026-07-12
 
@@ -620,7 +628,7 @@ Basler pylon相机软件套件的官方Python封装，支持工业相机的图�
 
 - **Stars:** ⭐️ 679
 - **Tags:** `computer-vision` `deep-learning` `rust` `image-processing`
-- **最后活动时间:** 2026-07-17
+- **最后活动时间:** 2026-07-18
 
 ### [hailo_model_zoo](https://github.com/hailo-ai/hailo_model_zoo)
 
@@ -660,7 +668,7 @@ TensorFlow Lite Micro在Espressif芯片上的部署支持，适用于嵌入式AI
 
 - **Stars:** ⭐️ 644
 - **Tags:** `Smart Home` `LLM` `Raspberry Pi` `Voice Assistant`
-- **最后活动时间:** 2026-03-17
+- **最后活动时间:** 2026-07-17
 
 ### [CCTV-Smartphone-AI-Monitoring](https://github.com/suzuran0y/CCTV-Smartphone-AI-Monitoring)
 
@@ -674,7 +682,7 @@ TensorFlow Lite Micro在Espressif芯片上的部署支持，适用于嵌入式AI
 
 通过渐进式知识蒸馏将SAM3压缩为轻量级边缘友好模型，实现快速可提示的概念分割与跟踪。
 
-- **Stars:** ⭐️ 632
+- **Stars:** ⭐️ 634
 - **Tags:** `segment-anything` `computer-vision` `edge-ai` `segmentation` `tracking`
 - **最后活动时间:** 2026-07-01
 
@@ -806,7 +814,7 @@ Ouster激光雷达传感器的跨平台C++和Python SDK，提供点云可视化�
 
 - **Stars:** ⭐️ 89.3k
 - **Tags:** `home-automation` `iot` `smart-home` `python`
-- **最后活动时间:** 2026-07-17
+- **最后活动时间:** 2026-07-18
 
 ### [Tasmota](https://github.com/arendst/Tasmota)
 
@@ -814,7 +822,7 @@ Ouster激光雷达传感器的跨平台C++和Python SDK，提供点云可视化�
 
 - **Stars:** ⭐️ 24.6k
 - **Tags:** `iot` `esp32` `firmware` `smart-home` `automation`
-- **最后活动时间:** 2026-07-15
+- **最后活动时间:** 2026-07-18
 
 ### [thingsboard](https://github.com/thingsboard/thingsboard)
 
@@ -822,7 +830,7 @@ Ouster激光雷达传感器的跨平台C++和Python SDK，提供点云可视化�
 
 - **Stars:** ⭐️ 22.1k
 - **Tags:** `iot` `iot-platform` `mqtt` `big-data` `visualization`
-- **最后活动时间:** 2026-07-16
+- **最后活动时间:** 2026-07-17
 
 ### [IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners)
 
@@ -854,7 +862,7 @@ Ouster激光雷达传感器的跨平台C++和Python SDK，提供点云可视化�
 
 - **Stars:** ⭐️ 11.4k
 - **Tags:** `iot` `home-automation` `esp32` `embedded`
-- **最后活动时间:** 2026-07-16
+- **最后活动时间:** 2026-07-18
 
 ### [xiaozhi-esp32-server](https://github.com/xinnan-tech/xiaozhi-esp32-server)
 
@@ -870,7 +878,7 @@ Home Assistant 操作系统，为智能家居平台提供完整的底层支持�
 
 - **Stars:** ⭐️ 7.3k
 - **Tags:** `home-assistant` `iot` `smart-home` `automation`
-- **最后活动时间:** 2026-07-14
+- **最后活动时间:** 2026-07-17
 
 ### [xiaogpt](https://github.com/yihong0618/xiaogpt)
 
@@ -894,7 +902,7 @@ Home Assistant 操作系统，为智能家居平台提供完整的底层支持�
 
 - **Stars:** ⭐️ 5.2k
 - **Tags:** `smart-home` `home-automation` `iot` `home-assistant`
-- **最后活动时间:** 2026-07-16
+- **最后活动时间:** 2026-07-17
 
 ### [motioneye](https://github.com/motioneye-project/motioneye)
 
@@ -902,7 +910,7 @@ Home Assistant 操作系统，为智能家居平台提供完整的底层支持�
 
 - **Stars:** ⭐️ 4.6k
 - **Tags:** `motion-detection` `camera` `surveillance` `raspberry-pi`
-- **最后活动时间:** 2026-07-16
+- **最后活动时间:** 2026-07-17
 
 ### [awesome-iot](https://github.com/HQarroum/awesome-iot)
 
@@ -918,7 +926,7 @@ Home Assistant 操作系统，为智能家居平台提供完整的底层支持�
 
 - **Stars:** ⭐️ 3.8k
 - **Tags:** `home-automation` `iot` `smart-home` `mqtt` `zigbee`
-- **最后活动时间:** 2026-07-14
+- **最后活动时间:** 2026-07-18
 
 ### [Gladys](https://github.com/GladysAssistant/Gladys)
 
@@ -926,7 +934,7 @@ Home Assistant 操作系统，为智能家居平台提供完整的底层支持�
 
 - **Stars:** ⭐️ 3.1k
 - **Tags:** `home-assistant` `smart-home` `iot` `privacy` `open-source`
-- **最后活动时间:** 2026-07-16
+- **最后活动时间:** 2026-07-17
 
 ### [dreame-vacuum](https://github.com/Tasshack/dreame-vacuum)
 
@@ -958,7 +966,7 @@ Home Assistant 集成插件，支持控制 Yandex 智能音箱及 Alice 语音�
 
 - **Stars:** ⭐️ 1.8k
 - **Tags:** `AI Agent` `IoT` `ESP32` `Embedded Systems`
-- **最后活动时间:** 2026-07-14
+- **最后活动时间:** 2026-07-17
 
 ### [onju-voice](https://github.com/justLV/onju-voice)
 
@@ -974,15 +982,7 @@ Kubernetes原生IoT网关，支持物理AI和数字孪生，为工业物联网�
 
 - **Stars:** ⭐️ 1.4k
 - **Tags:** `iot` `physical-ai` `digital-twin` `kubernetes` `edge`
-- **最后活动时间:** 2026-07-06
-
-### [ha-llmvision](https://github.com/valentinfrlch/ha-llmvision)
-
-为Home Assistant提供视觉智能能力，支持CCTV检测与多模态通知。
-
-- **Stars:** ⭐️ 1.4k
-- **Tags:** `Smart Home` `Vision` `Home Assistant`
-- **最后活动时间:** 2026-07-17
+- **最后活动时间:** 2026-07-15
 
 ### [extended_openai_conversation](https://github.com/jekalmin/extended_openai_conversation)
 
@@ -991,6 +991,14 @@ Home Assistant 自定义对话组件，使用 OpenAI 实现智能家居设备语
 - **Stars:** ⭐️ 1.4k
 - **Tags:** `home-assistant` `smart-home` `iot` `voice-control`
 - **最后活动时间:** 2026-05-17
+
+### [ha-llmvision](https://github.com/valentinfrlch/ha-llmvision)
+
+为Home Assistant提供视觉智能能力，支持CCTV检测与多模态通知。
+
+- **Stars:** ⭐️ 1.4k
+- **Tags:** `Smart Home` `Vision` `Home Assistant`
+- **最后活动时间:** 2026-07-17
 
 ### [home-llm](https://github.com/acon96/home-llm)
 
@@ -1030,7 +1038,7 @@ ROS与外部系统通信的桥梁协议实现，支持Web端和远程机器人�
 
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `iot` `embedded` `rtos` `edge-ai`
-- **最后活动时间:** 2026-07-16
+- **最后活动时间:** 2026-07-17
 
 ### [camera.ui](https://github.com/cameraui/camera.ui)
 
@@ -1038,7 +1046,7 @@ ROS与外部系统通信的桥梁协议实现，支持Web端和远程机器人�
 
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `surveillance` `object-detection` `face-recognition` `home-automation` `nvr`
-- **最后活动时间:** 2026-07-16
+- **最后活动时间:** 2026-07-17
 
 ### [brain](https://github.com/kitschpatrol/brain)
 
@@ -1060,9 +1068,9 @@ Arduino 库，用于读取 Neurosky EEG 脑电波数据，支持 MindFlex 和 Fo
 
 100天IoT学习项目，涵盖ESP32、ESP8266和树莓派Pico的传感器与模块实践。每日一个项目，包含完整代码和电路图。
 
-- **Stars:** ⭐️ 897
+- **Stars:** ⭐️ 898
 - **Tags:** `iot` `esp32` `micropython` `embedded-systems` `raspberry-pi`
-- **最后活动时间:** 2026-06-27
+- **最后活动时间:** 2026-07-17
 
 ### [iot-master](https://github.com/god-jason/iot-master)
 
@@ -1076,7 +1084,7 @@ Arduino 库，用于读取 Neurosky EEG 脑电波数据，支持 MindFlex 和 Fo
 
 IoT 渗透测试 Claude 技能集合，提供混合式物联网安全测试工具。
 
-- **Stars:** ⭐️ 801
+- **Stars:** ⭐️ 802
 - **Tags:** `iot` `pentesting` `claude-skills` `security`
 - **最后活动时间:** 2026-06-01
 
@@ -1108,9 +1116,17 @@ Home Assistant智能集成，自动扫描设备并利用多AI提供商生成个�
 
 基于Spring Cloud的开源分布式物联网平台，支持设备管理和边缘计算。
 
-- **Stars:** ⭐️ 652
+- **Stars:** ⭐️ 653
 - **Tags:** `iot` `iot-platform` `java` `spring-cloud` `edge-computing`
 - **最后活动时间:** 2026-07-16
+
+### [emhass](https://github.com/davidusb-geek/emhass)
+
+Home Assistant能源管理优化模块，使用线性规划和模型预测控制技术优化家庭能源消耗。
+
+- **Stars:** ⭐️ 638
+- **Tags:** `energy` `optimization` `home-automation` `linear-programming`
+- **最后活动时间:** 2026-07-17
 
 ### [things](https://github.com/unitedrhino/things)
 
@@ -1127,14 +1143,6 @@ Home Assistant智能集成，自动扫描设备并利用多AI提供商生成个�
 - **Stars:** ⭐️ 619
 - **Tags:** `azure` `iot` `embedded` `c99` `device-sdk`
 - **最后活动时间:** 2026-06-25
-
-### [emhass](https://github.com/davidusb-geek/emhass)
-
-Home Assistant能源管理优化模块，使用线性规划和模型预测控制技术优化家庭能源消耗。
-
-- **Stars:** ⭐️ 608
-- **Tags:** `energy` `optimization` `home-automation` `linear-programming`
-- **最后活动时间:** 2026-05-28
 
 ### [intents](https://github.com/OHF-Voice/intents)
 
@@ -1164,7 +1172,7 @@ Eclipse物联网边缘网关框架，支持传感器连接、数据处理和云�
 
 基于Go语言开发的开源物联网平台，支持MQTT、Modbus多协议设备接入，提供可视化、自动化、告警和规则引擎等功能。
 
-- **Stars:** ⭐️ 565
+- **Stars:** ⭐️ 566
 - **Tags:** `iot` `mqtt` `go` `automation` `edge-computing`
 - **最后活动时间:** 2026-07-15
 
@@ -1188,9 +1196,9 @@ Eclipse物联网边缘网关框架，支持传感器连接、数据处理和云�
 
 为 UniFi 网络套件（包括 Network、Protect、Access 和 Drive）提供的 MCP 服务器，支持通过 AI 进行智能家居和物联网管理。
 
-- **Stars:** ⭐️ 523
+- **Stars:** ⭐️ 528
 - **Tags:** `mcp` `unifi` `home-automation` `agentic-ai` `iot`
-- **最后活动时间:** 2026-07-15
+- **最后活动时间:** 2026-07-17
 
 ## Robotics
 
@@ -1198,9 +1206,9 @@ Eclipse物联网边缘网关框架，支持传感器连接、数据处理和云�
 
 开源驾驶辅助系统，支持300+车型的自动驾驶升级。基于AI感知技术实现车道保持、自适应巡航等智能驾驶功能。
 
-- **Stars:** ⭐️ 63.1k
+- **Stars:** ⭐️ 63.2k
 - **Tags:** `autonomous-driving` `driver-assistance` `computer-vision`
-- **最后活动时间:** 2026-07-17
+- **最后活动时间:** 2026-07-18
 
 ### [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)
 
@@ -1230,9 +1238,9 @@ Python机器人算法示例代码和教科书，涵盖自动驾驶、路径规�
 
 Hugging Face推出的机器人AI框架，通过端到端学习让机器人技术更加普及，支持模拟和真实机器人训练。
 
-- **Stars:** ⭐️ 25.8k
+- **Stars:** ⭐️ 25.9k
 - **Tags:** `robotics` `deep-learning` `reinforcement-learning` `huggingface` `pytorch`
-- **最后活动时间:** 2026-07-16
+- **最后活动时间:** 2026-07-17
 
 ### [AirSim](https://github.com/microsoft/AirSim)
 
@@ -1248,7 +1256,7 @@ Hugging Face推出的机器人AI框架，通过端到端学习让机器人技术
 
 - **Stars:** ⭐️ 15.5k
 - **Tags:** `autopilot` `drone` `uav` `robotics`
-- **最后活动时间:** 2026-07-17
+- **最后活动时间:** 2026-07-18
 
 ### [Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide)
 
@@ -1262,7 +1270,7 @@ Hugging Face推出的机器人AI框架，通过端到端学习让机器人技术
 
 高性能物理仿真引擎，专为机器人学、强化学习和生物力学研究设计，被广泛用于AI模型训练。
 
-- **Stars:** ⭐️ 14.2k
+- **Stars:** ⭐️ 14.3k
 - **Tags:** `robotics` `simulation` `reinforcement-learning` `physics-engine`
 - **最后活动时间:** 2026-07-17
 
@@ -1272,7 +1280,7 @@ Hugging Face推出的机器人AI框架，通过端到端学习让机器人技术
 
 - **Stars:** ⭐️ 13.6k
 - **Tags:** `reinforcement-learning` `pytorch` `robotics`
-- **最后活动时间:** 2026-06-19
+- **最后活动时间:** 2026-07-18
 
 ### [PX4-Autopilot](https://github.com/PX4/PX4-Autopilot)
 
@@ -1280,7 +1288,7 @@ Hugging Face推出的机器人AI框架，通过端到端学习让机器人技术
 
 - **Stars:** ⭐️ 12.2k
 - **Tags:** `drone` `autopilot` `uav` `mavlink` `px4` `ros`
-- **最后活动时间:** 2026-07-17
+- **最后活动时间:** 2026-07-18
 
 ### [autoware](https://github.com/autowarefoundation/autoware)
 
@@ -1288,7 +1296,7 @@ Hugging Face推出的机器人AI框架，通过端到端学习让机器人技术
 
 - **Stars:** ⭐️ 11.8k
 - **Tags:** `autonomous-driving` `autoware` `ros` `self-driving-car`
-- **最后活动时间:** 2026-07-17
+- **最后活动时间:** 2026-07-18
 
 ### [pcl](https://github.com/PointCloudLibrary/pcl)
 
@@ -1312,7 +1320,7 @@ NASA JPL开源六轮火星车复刻项目，提供完整的机器人构建方案
 
 - **Stars:** ⭐️ 7.7k
 - **Tags:** `robot-learning` `reinforcement-learning` `simulation`
-- **最后活动时间:** 2026-07-17
+- **最后活动时间:** 2026-07-18
 
 ### [Isaac-GR00T](https://github.com/NVIDIA/Isaac-GR00T)
 
@@ -1376,7 +1384,7 @@ NVIDIA推出的通用机器人基础模型，为具身智能应用提供强大�
 
 - **Stars:** ⭐️ 4.8k
 - **Tags:** `drone` `uav` `ground-control` `mavlink` `robotics`
-- **最后活动时间:** 2026-07-16
+- **最后活动时间:** 2026-07-17
 
 ### [ceres-solver](https://github.com/ceres-solver/ceres-solver)
 
@@ -1408,7 +1416,7 @@ ROS 2导航框架与系统，提供移动机器人自主导航的完整解决方
 
 - **Stars:** ⭐️ 4.4k
 - **Tags:** `robotics` `ros2` `slam` `lidar`
-- **最后活动时间:** 2026-07-17
+- **最后活动时间:** 2026-07-18
 
 ### [FAST-LIVO2](https://github.com/hku-mars/FAST-LIVO2)
 
@@ -1424,7 +1432,7 @@ ROS 2导航框架与系统，提供移动机器人自主导航的完整解决方
 
 - **Stars:** ⭐️ 4.3k
 - **Tags:** `slam` `odometry` `evaluation` `robotics` `trajectory`
-- **最后活动时间:** 2026-06-24
+- **最后活动时间:** 2026-07-18
 
 ### [BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP)
 
@@ -1440,7 +1448,7 @@ C++行为树库，广泛应用于游戏AI和机器人决策系统，支持ROS集
 
 - **Stars:** ⭐️ 4.1k
 - **Tags:** `robotics` `simulation` `control-systems`
-- **最后活动时间:** 2026-07-17
+- **最后活动时间:** 2026-07-18
 
 ### [openMVS](https://github.com/cdcseacave/openMVS)
 
@@ -1456,7 +1464,7 @@ RTAB-Map是一个开源的SLAM（同步定位与地图构建）库，支持ROS/R
 
 - **Stars:** ⭐️ 3.9k
 - **Tags:** `slam` `robotics` `ros` `mapping` `localization`
-- **最后活动时间:** 2026-07-17
+- **最后活动时间:** 2026-07-18
 
 ### [reBot-DevArm](https://github.com/Seeed-Projects/reBot-DevArm)
 
@@ -1472,7 +1480,7 @@ RTAB-Map是一个开源的SLAM（同步定位与地图构建）库，支持ROS/R
 
 - **Stars:** ⭐️ 3.8k
 - **Tags:** `robotics` `embodied-ai` `dataflow` `rust`
-- **最后活动时间:** 2026-07-17
+- **最后活动时间:** 2026-07-18
 
 ### [habitat-sim](https://github.com/facebookresearch/habitat-sim)
 
@@ -1496,7 +1504,7 @@ Google DeepMind精心策划的MuJoCo物理引擎高质量模型集合，专为�
 
 - **Stars:** ⭐️ 3.7k
 - **Tags:** `robotics` `multi-agent` `drones` `humanoids`
-- **最后活动时间:** 2026-07-16
+- **最后活动时间:** 2026-07-17
 
 ### [IsaacSim](https://github.com/isaac-sim/IsaacSim)
 
@@ -1506,14 +1514,6 @@ NVIDIA开源机器人仿真平台，在真实虚拟环境中开发、仿真和�
 - **Tags:** `robotics` `simulation` `nvidia` `ai-robot`
 - **最后活动时间:** 2026-07-02
 
-### [pinocchio](https://github.com/stack-of-tasks/pinocchio)
-
-高效刚体动力学算法库，提供运动学和动力学的解析微分计算。
-
-- **Stars:** ⭐️ 3.6k
-- **Tags:** `rigid-body-dynamics` `kinematics` `robotics`
-- **最后活动时间:** 2026-07-07
-
 ### [sesame-robot](https://github.com/dorianborian/sesame-robot)
 
 基于ESP32的开源迷你四足机器人，低成本、易上手，适合机器人学习与二次开发。
@@ -1521,6 +1521,14 @@ NVIDIA开源机器人仿真平台，在真实虚拟环境中开发、仿真和�
 - **Stars:** ⭐️ 3.6k
 - **Tags:** `robotics` `quadruped-robot` `esp32` `hardware`
 - **最后活动时间:** 2026-05-30
+
+### [pinocchio](https://github.com/stack-of-tasks/pinocchio)
+
+高效刚体动力学算法库，提供运动学和动力学的解析微分计算。
+
+- **Stars:** ⭐️ 3.6k
+- **Tags:** `rigid-body-dynamics` `kinematics` `robotics`
+- **最后活动时间:** 2026-07-07
 
 ### [gtsam](https://github.com/borglab/gtsam)
 
@@ -1672,7 +1680,7 @@ Python机器人学工具箱，提供运动学、动力学、路径规划等核�
 
 - **Stars:** ⭐️ 2.9k
 - **Tags:** `physics-simulation` `robotics` `multibody-dynamics` `simulation`
-- **最后活动时间:** 2026-07-16
+- **最后活动时间:** 2026-07-17
 
 ### [ManiSkill](https://github.com/haosulab/ManiSkill)
 
@@ -1696,7 +1704,7 @@ Python机器人学工具箱，提供运动学、动力学、路径规划等核�
 
 - **Stars:** ⭐️ 2.9k
 - **Tags:** `Robotics` `LLM` `Multi-Agent` `ROS2`
-- **最后活动时间:** 2026-07-13
+- **最后活动时间:** 2026-07-18
 
 ### [Fast-DDS](https://github.com/eProsima/Fast-DDS)
 
@@ -1728,7 +1736,7 @@ Python机器人学工具箱，提供运动学、动力学、路径规划等核�
 
 - **Stars:** ⭐️ 2.7k
 - **Tags:** `isaaclab` `mujoco` `reinforcement-learning` `robotics-simulation`
-- **最后活动时间:** 2026-07-16
+- **最后活动时间:** 2026-07-18
 
 ### [RoboTwin](https://github.com/RoboTwin-Platform/RoboTwin)
 
@@ -1760,7 +1768,7 @@ GigaBrain-0，一种由世界模型驱动的视觉-语言-动作模型。
 
 - **Stars:** ⭐️ 2.5k
 - **Tags:** `robotics` `physics-simulation` `multibody-dynamics` `cpp`
-- **最后活动时间:** 2026-07-07
+- **最后活动时间:** 2026-07-17
 
 ### [robosuite](https://github.com/ARISE-Initiative/robosuite)
 
@@ -1792,7 +1800,7 @@ ICRA 2026 论文项目，实时将人体动作重定向到各类人形机器人�
 
 - **Stars:** ⭐️ 2.4k
 - **Tags:** `cnc` `robotics` `automation` `manufacturing`
-- **最后活动时间:** 2026-07-14
+- **最后活动时间:** 2026-07-18
 
 ### [octomap](https://github.com/OctoMap/octomap)
 
@@ -1848,7 +1856,7 @@ ArduPilot地面控制站软件，用于无人机和自动驾驶车辆的 mission
 
 - **Stars:** ⭐️ 2.1k
 - **Tags:** `robotics` `slam` `autonomous-driving` `mobile-robots`
-- **最后活动时间:** 2026-07-11
+- **最后活动时间:** 2026-07-18
 
 ### [ompl](https://github.com/ompl/ompl)
 
@@ -1858,14 +1866,6 @@ ArduPilot地面控制站软件，用于无人机和自动驾驶车辆的 mission
 - **Tags:** `motion-planning` `robotics` `path-planning`
 - **最后活动时间:** 2026-07-13
 
-### [gym-pybullet-drones](https://github.com/learnsyslab/gym-pybullet-drones)
-
-基于PyBullet的无人机强化学习仿真环境，支持单智能体和多智能体训练，兼容Gymnasium和Stable-Baselines3。
-
-- **Stars:** ⭐️ 2.1k
-- **Tags:** `reinforcement-learning` `robotics` `quadcopter` `gymnasium` `simulation`
-- **最后活动时间:** 2026-07-11
-
 ### [ProtoMotions](https://github.com/NVlabs/ProtoMotions)
 
 GPU加速的物理仿真与强化学习框架，用于训练数字人和人形机器人的运动控制。
@@ -1873,6 +1873,14 @@ GPU加速的物理仿真与强化学习框架，用于训练数字人和人形�
 - **Stars:** ⭐️ 2.1k
 - **Tags:** `reinforcement-learning` `robotics` `simulation` `digital-human` `gpu`
 - **最后活动时间:** 2026-07-06
+
+### [gym-pybullet-drones](https://github.com/learnsyslab/gym-pybullet-drones)
+
+基于PyBullet的无人机强化学习仿真环境，支持单智能体和多智能体训练，兼容Gymnasium和Stable-Baselines3。
+
+- **Stars:** ⭐️ 2.1k
+- **Tags:** `reinforcement-learning` `robotics` `quadcopter` `gymnasium` `simulation`
+- **最后活动时间:** 2026-07-11
 
 ### [moveit](https://github.com/moveit/moveit)
 
@@ -1888,7 +1896,7 @@ GPU加速的物理仿真与强化学习框架，用于训练数字人和人形�
 
 - **Stars:** ⭐️ 2.1k
 - **Tags:** `robotics` `simulation` `gpu-accelerated` `reinforcement-learning` `mujoco`
-- **最后活动时间:** 2026-07-16
+- **最后活动时间:** 2026-07-17
 
 ### [roboto_origin](https://github.com/Roboparty/roboto_origin)
 
@@ -2024,6 +2032,14 @@ NVIDIA开发的CUDA加速机器人运动规划库，支持实时碰撞检测和�
 
 - **Stars:** ⭐️ 1.7k
 - **Tags:** `autonomous-driving` `autonomous-vehicles` `self-driving-car` `ros2`
+- **最后活动时间:** 2026-07-18
+
+### [mujoco_mpc](https://github.com/google-deepmind/mujoco_mpc)
+
+基于MuJoCo物理引擎的实时行为合成框架，使用模型预测控制(MPC)实现机器人运动控制。
+
+- **Stars:** ⭐️ 1.7k
+- **Tags:** `mujoco` `mpc` `robotics` `motor-control` `predictive-control`
 - **最后活动时间:** 2026-07-17
 
 ### [panda](https://github.com/commaai/panda)
@@ -2041,14 +2057,6 @@ comma.ai 开源硬件项目，为自动驾驶汽车提供 CAN 总线接口设备
 - **Stars:** ⭐️ 1.7k
 - **Tags:** `slam` `lidar` `localization` `mapping` `ros2`
 - **最后活动时间:** 2026-07-14
-
-### [mujoco_mpc](https://github.com/google-deepmind/mujoco_mpc)
-
-基于MuJoCo物理引擎的实时行为合成框架，使用模型预测控制(MPC)实现机器人运动控制。
-
-- **Stars:** ⭐️ 1.7k
-- **Tags:** `mujoco` `mpc` `robotics` `motor-control` `predictive-control`
-- **最后活动时间:** 2026-06-16
 
 ### [pyroki](https://github.com/chungmin99/pyroki)
 
@@ -2080,7 +2088,7 @@ JavaScript驱动的超可爱M5Stack嵌入式机器人。支持AI对话交互，�
 
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `robotics` `esp32` `m5stack` `javascript` `chatgpt`
-- **最后活动时间:** 2026-07-17
+- **最后活动时间:** 2026-07-18
 
 ### [cuVSLAM](https://github.com/nvidia-isaac/cuVSLAM)
 
@@ -2106,14 +2114,6 @@ ArduPilot开源地面控制站软件，支持无人机自主任务规划与监�
 - **Tags:** `differentiable-robotics` `lie-group` `slam` `pytorch` `pose-estimation`
 - **最后活动时间:** 2026-05-05
 
-### [BEHAVIOR-1K](https://github.com/StanfordVL/BEHAVIOR-1K)
-
-具身智能研究平台，提供1000+日常活动的机器人仿真基准测试环境。
-
-- **Stars:** ⭐️ 1.6k
-- **Tags:** `embodied-ai` `robotics` `simulation` `benchmark`
-- **最后活动时间:** 2026-07-16
-
 ### [rosa](https://github.com/nasa-jpl/rosa)
 
 NASA JPL开发的ROS机器人AI代理，通过自然语言查询实现机器人检测、诊断与操作。
@@ -2121,6 +2121,14 @@ NASA JPL开发的ROS机器人AI代理，通过自然语言查询实现机器人�
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `Robotics` `ROS` `NASA`
 - **最后活动时间:** 2026-03-17
+
+### [BEHAVIOR-1K](https://github.com/StanfordVL/BEHAVIOR-1K)
+
+具身智能研究平台，提供1000+日常活动的机器人仿真基准测试环境。
+
+- **Stars:** ⭐️ 1.6k
+- **Tags:** `embodied-ai` `robotics` `simulation` `benchmark`
+- **最后活动时间:** 2026-07-18
 
 ### [xr_teleoperate](https://github.com/unitreerobotics/xr_teleoperate)
 
@@ -2216,7 +2224,7 @@ IROS2022论文实现，鲁棒的实时激光雷达-惯性初始化方法。
 
 - **Stars:** ⭐️ 1.4k
 - **Tags:** `robotics` `simulation` `gazebo` `ros2`
-- **最后活动时间:** 2026-07-16
+- **最后活动时间:** 2026-07-18
 
 ### [copper-rs](https://github.com/copper-project/copper-rs)
 
@@ -2224,7 +2232,7 @@ IROS2022论文实现，鲁棒的实时激光雷达-惯性初始化方法。
 
 - **Stars:** ⭐️ 1.4k
 - **Tags:** `robotics` `physical-ai` `rust` `ros` `operating-system`
-- **最后活动时间:** 2026-07-16
+- **最后活动时间:** 2026-07-17
 
 ### [isaac_ros_visual_slam](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_visual_slam)
 
@@ -2258,6 +2266,14 @@ CVPR 2023论文，实现未知物体的神经6自由度跟踪与3D重建，支�
 - **Tags:** `robotics` `cpp20` `runtime` `framework`
 - **最后活动时间:** 2026-04-29
 
+### [mujoco_warp](https://github.com/google-deepmind/mujoco_warp)
+
+MuJoCo物理模拟器的GPU优化版本，专为NVIDIA硬件设计，大幅提升强化学习和机器人仿真的性能。
+
+- **Stars:** ⭐️ 1.4k
+- **Tags:** `mujoco` `physics-simulation` `gpu` `reinforcement-learning` `robotics`
+- **最后活动时间:** 2026-07-17
+
 ### [ros-mcp-server](https://github.com/robotmcp/ros-mcp-server)
 
 MCP服务器，连接Claude、GPT等AI模型与ROS机器人系统，实现AI驱动的机器人控制。
@@ -2266,21 +2282,13 @@ MCP服务器，连接Claude、GPT等AI模型与ROS机器人系统，实现AI驱�
 - **Tags:** `ROS` `MCP` `Robotics` `AI Integration`
 - **最后活动时间:** 2026-07-17
 
-### [mujoco_warp](https://github.com/google-deepmind/mujoco_warp)
-
-MuJoCo物理模拟器的GPU优化版本，专为NVIDIA硬件设计，大幅提升强化学习和机器人仿真的性能。
-
-- **Stars:** ⭐️ 1.3k
-- **Tags:** `mujoco` `physics-simulation` `gpu` `reinforcement-learning` `robotics`
-- **最后活动时间:** 2026-07-04
-
 ### [reachy_mini](https://github.com/pollen-robotics/reachy_mini)
 
 Reachy Mini 机器人的官方 SDK，用于控制机器人运动和交互。
 
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `robotics` `sdk` `reachy`
-- **最后活动时间:** 2026-07-16
+- **最后活动时间:** 2026-07-17
 
 ### [mink](https://github.com/kevinzakka/mink)
 
@@ -2618,6 +2626,14 @@ IEEE ICRA'23，轻量级LiDAR-惯性里程计算法，采用粗到细的连续�
 - **Tags:** `robotics` `visualization` `mcap` `diagnostics`
 - **最后活动时间:** 2026-07-17
 
+### [asimov-1](https://github.com/asimovinc/asimov-1)
+
+开源人形机器人项目，提供完整的机器人硬件设计与控制方案。
+
+- **Stars:** ⭐️ 1.0k
+- **Tags:** `robotics` `humanoid-robot` `open-source`
+- **最后活动时间:** 2026-07-03
+
 ### [rl-mpc-locomotion](https://github.com/silvery107/rl-mpc-locomotion)
 
 结合深度强化学习与模型预测控制的四足机器人运动控制框架。
@@ -2632,7 +2648,15 @@ IEEE ICRA'23，轻量级LiDAR-惯性里程计算法，采用粗到细的连续�
 
 - **Stars:** ⭐️ 1.0k
 - **Tags:** `serialization` `robotics` `data-format` `cpp` `python`
-- **最后活动时间:** 2026-07-17
+- **最后活动时间:** 2026-07-18
+
+### [DreamDojo](https://github.com/NVIDIA/DreamDojo)
+
+DreamDojo 官方代码库，基于大规模人类视频构建通用机器人世界模型。
+
+- **Stars:** ⭐️ 1.0k
+- **Tags:** `world-model` `robotics` `embodied-ai`
+- **最后活动时间:** 2026-03-21
 
 ### [alpasim](https://github.com/NVlabs/alpasim)
 
@@ -2662,25 +2686,9 @@ ROS2开发环境的VSCode IDE模板，支持Docker容器化开发，适用于机
 
 Unitree GO2四足机器人的非官方ROS2 SDK，支持AIR/PRO/EDU型号。
 
-- **Stars:** ⭐️ 983
+- **Stars:** ⭐️ 984
 - **Tags:** `quadruped-robot` `ros2` `unitree` `robotics`
 - **最后活动时间:** 2026-07-13
-
-### [DreamDojo](https://github.com/NVIDIA/DreamDojo)
-
-DreamDojo 官方代码库，基于大规模人类视频构建通用机器人世界模型。
-
-- **Stars:** ⭐️ 980
-- **Tags:** `world-model` `robotics` `embodied-ai`
-- **最后活动时间:** 2026-03-21
-
-### [asimov-1](https://github.com/asimovinc/asimov-1)
-
-开源人形机器人项目，提供完整的机器人硬件设计与控制方案。
-
-- **Stars:** ⭐️ 977
-- **Tags:** `robotics` `humanoid-robot` `open-source`
-- **最后活动时间:** 2026-07-03
 
 ### [InternNav](https://github.com/InternRobotics/InternNav)
 
@@ -2694,7 +2702,7 @@ InternRobotics开源平台，用于构建通用导航基础模型，融合空间
 
 高效并行的点云配准算法库，支持C++和Python，适用于机器人感知和自动驾驶场景。
 
-- **Stars:** ⭐️ 971
+- **Stars:** ⭐️ 972
 - **Tags:** `point-cloud` `icp` `registration` `robotics` `cpp` `python`
 - **最后活动时间:** 2026-06-13
 
@@ -2710,7 +2718,7 @@ ROS 3D机器人可视化工具，用于实时显示机器人模型、传感器�
 
 ROS 2机器人操作系统官方文档，机器人开发的核心框架与工具链。
 
-- **Stars:** ⭐️ 959
+- **Stars:** ⭐️ 960
 - **Tags:** `ros2` `robotics` `documentation` `robot-operating-system`
 - **最后活动时间:** 2026-07-17
 
@@ -2718,7 +2726,7 @@ ROS 2机器人操作系统官方文档，机器人开发的核心框架与工具
 
 自主移动机器人平台，支持2WD、4WD和麦克纳姆轮底盘。
 
-- **Stars:** ⭐️ 957
+- **Stars:** ⭐️ 958
 - **Tags:** `autonomous` `mobile-robot` `ros2` `gazebo` `navigation`
 - **最后活动时间:** 2026-06-22
 
@@ -2728,7 +2736,7 @@ ROS 2机器人操作系统官方文档，机器人开发的核心框架与工具
 
 - **Stars:** ⭐️ 956
 - **Tags:** `slam` `lidar` `visual-slam` `localization`
-- **最后活动时间:** 2026-07-10
+- **最后活动时间:** 2026-07-17
 
 ### [image_pipeline](https://github.com/ros-perception/image_pipeline)
 
@@ -2782,7 +2790,7 @@ ROS2通用控制框架，为机器人开发者提供标准化的控制器接口�
 
 ROS机器人操作系统官方教程代码，涵盖机器人开发核心概念与实践。
 
-- **Stars:** ⭐️ 935
+- **Stars:** ⭐️ 936
 - **Tags:** `ros` `robotics` `tutorial`
 - **最后活动时间:** 2026-07-14
 
@@ -2806,7 +2814,7 @@ AnyGrasp SDK 提供先进的机器人抓取姿态估计功能，帮助机器人�
 
 用于MAVLink兼容系统的C++17 API库，支持无人机和机器人的通信与控制。
 
-- **Stars:** ⭐️ 906
+- **Stars:** ⭐️ 907
 - **Tags:** `mavlink` `drone` `robotics` `cpp17` `uav`
 - **最后活动时间:** 2026-07-17
 
@@ -2822,7 +2830,7 @@ AnyGrasp SDK 提供先进的机器人抓取姿态估计功能，帮助机器人�
 
 机器人运动规划库，实现时间最优路径参数化算法。
 
-- **Stars:** ⭐️ 900
+- **Stars:** ⭐️ 901
 - **Tags:** `motion-planning` `robotics` `trajectory` `optimization`
 - **最后活动时间:** 2026-05-14
 
@@ -2830,15 +2838,15 @@ AnyGrasp SDK 提供先进的机器人抓取姿态估计功能，帮助机器人�
 
 开源视觉伺服平台，提供机器人视觉控制与实时跟踪算法库。
 
-- **Stars:** ⭐️ 896
+- **Stars:** ⭐️ 897
 - **Tags:** `visual-servoing` `robotics` `computer-vision` `tracking`
-- **最后活动时间:** 2026-07-15
+- **最后活动时间:** 2026-07-18
 
 ### [tdmpc2](https://github.com/nicklashansen/tdmpc2)
 
 可扩展、鲁棒的连续控制世界模型，适用于机器人强化学习场景。
 
-- **Stars:** ⭐️ 893
+- **Stars:** ⭐️ 894
 - **Tags:** `reinforcement-learning` `robotics` `world-model`
 - **最后活动时间:** 2026-07-13
 
@@ -2870,7 +2878,7 @@ AnyGrasp SDK 提供先进的机器人抓取姿态估计功能，帮助机器人�
 
 通用传感器融合架构，用于机器人状态估计与定位。
 
-- **Stars:** ⭐️ 870
+- **Stars:** ⭐️ 872
 - **Tags:** `sensor-fusion` `robotics` `localization`
 - **最后活动时间:** 2026-06-18
 
@@ -2886,7 +2894,7 @@ C# 实现的最优互惠碰撞避障算法库，适用于机器人和虚拟代�
 
 基于现代3D图形工具的时空体素层，用于机器人导航环境感知与表示。
 
-- **Stars:** ⭐️ 844
+- **Stars:** ⭐️ 845
 - **Tags:** `navigation` `voxel` `robotics` `ros` `openvdb`
 - **最后活动时间:** 2026-05-25
 
@@ -2894,7 +2902,7 @@ C# 实现的最优互惠碰撞避障算法库，适用于机器人和虚拟代�
 
 一个面向机器人强化学习的异构计算架构框架，旨在突破 GPU 主导的计算瓶颈。支持 CUDA 和 ROCm，提供高效的机器人仿真基础设施。
 
-- **Stars:** ⭐️ 841
+- **Stars:** ⭐️ 842
 - **Tags:** `robotics` `reinforcement-learning` `cuda` `mujoco` `simulation`
 - **最后活动时间:** 2026-07-13
 
@@ -2902,7 +2910,7 @@ C# 实现的最优互惠碰撞避障算法库，适用于机器人和虚拟代�
 
 面向地下环境的基于图探索规划器，用于自主机器人探索与路径规划。
 
-- **Stars:** ⭐️ 834
+- **Stars:** ⭐️ 836
 - **Tags:** `exploration` `path-planning` `robotics` `ros`
 - **最后活动时间:** 2026-03-06
 
@@ -2912,7 +2920,7 @@ C# 实现的最优互惠碰撞避障算法库，适用于机器人和虚拟代�
 
 - **Stars:** ⭐️ 832
 - **Tags:** `lidar-slam` `ros2` `pointcloud-map` `robotics` `autoware`
-- **最后活动时间:** 2026-07-17
+- **最后活动时间:** 2026-07-18
 
 ### [roslibjs](https://github.com/RobotWebTools/roslibjs)
 
@@ -2926,7 +2934,7 @@ ROS标准JavaScript库，支持Web端与机器人系统的WebSocket通信。
 
 基于IsaacLab的足式机器人直接工作流，支持人形机器人强化学习训练与仿真。
 
-- **Stars:** ⭐️ 818
+- **Stars:** ⭐️ 819
 - **Tags:** `isaaclab` `reinforcement-learning` `humanoid-robot` `embodied-ai` `sim2sim`
 - **最后活动时间:** 2026-07-15
 
@@ -2934,7 +2942,7 @@ ROS标准JavaScript库，支持Web端与机器人系统的WebSocket通信。
 
 ROS2 控制框架示例项目，演示 ros2_control 和 ros2_controllers 的使用方法。
 
-- **Stars:** ⭐️ 814
+- **Stars:** ⭐️ 815
 - **Tags:** `ros2` `control` `robotics` `demo`
 - **最后活动时间:** 2026-07-14
 
@@ -2942,7 +2950,7 @@ ROS2 控制框架示例项目，演示 ros2_control 和 ros2_controllers 的使�
 
 基于PyTorch实现的机器人运动学库，支持可微分编程和雅可比矩阵计算。
 
-- **Stars:** ⭐️ 812
+- **Stars:** ⭐️ 813
 - **Tags:** `pytorch` `kinematics` `differentiable` `robotics`
 - **最后活动时间:** 2026-06-19
 
@@ -2970,6 +2978,14 @@ ROS2 控制框架示例项目，演示 ros2_control 和 ros2_controllers 的使�
 - **Tags:** `humanoid-robot` `robotics` `open-source` `diy`
 - **最后活动时间:** 2026-05-04
 
+### [urdf-loaders](https://github.com/gkjohnson/urdf-loaders)
+
+Unity和THREE.js的URDF加载器，支持机器人模型可视化，包含NASA JPL开源示例。
+
+- **Stars:** ⭐️ 804
+- **Tags:** `urdf` `robotics` `threejs` `unity` `visualization`
+- **最后活动时间:** 2026-07-08
+
 ### [lidarslam_ros2](https://github.com/rsasaki0109/lidarslam_ros2)
 
 ROS2 3D LiDAR SLAM包，使用NDT/GICP配准和位姿优化。
@@ -2978,37 +2994,37 @@ ROS2 3D LiDAR SLAM包，使用NDT/GICP配准和位姿优化。
 - **Tags:** `slam` `ros2` `lidar` `ndt`
 - **最后活动时间:** 2026-04-20
 
-### [urdf-loaders](https://github.com/gkjohnson/urdf-loaders)
-
-Unity和THREE.js的URDF加载器，支持机器人模型可视化，包含NASA JPL开源示例。
-
-- **Stars:** ⭐️ 803
-- **Tags:** `urdf` `robotics` `threejs` `unity` `visualization`
-- **最后活动时间:** 2026-07-08
-
 ### [pink](https://github.com/stephane-caron/pink)
 
 基于Pinocchio和QP求解器的Python逆运动学库，适用于机器人运动规划。
 
-- **Stars:** ⭐️ 800
+- **Stars:** ⭐️ 802
 - **Tags:** `inverse-kinematics` `robotics` `python`
-- **最后活动时间:** 2026-07-17
-
-### [Universal_Robots_ROS2_Driver](https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver)
-
-优傲机器人ROS2驱动程序，支持CB3和e-Series系列机械臂。
-
-- **Stars:** ⭐️ 798
-- **Tags:** `ros2` `robotics` `universal-robots` `industrial`
 - **最后活动时间:** 2026-07-17
 
 ### [ros2_controllers](https://github.com/ros-controls/ros2_controllers)
 
 ROS2通用机器人控制器库，提供多种控制器实现以配合ros2_control使用，适用于机器人运动控制与自动化。
 
-- **Stars:** ⭐️ 797
+- **Stars:** ⭐️ 799
 - **Tags:** `ros2` `robotics` `ros2-control` `robot-controller`
 - **最后活动时间:** 2026-07-14
+
+### [Universal_Robots_ROS2_Driver](https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver)
+
+优傲机器人ROS2驱动程序，支持CB3和e-Series系列机械臂。
+
+- **Stars:** ⭐️ 799
+- **Tags:** `ros2` `robotics` `universal-robots` `industrial`
+- **最后活动时间:** 2026-07-17
+
+### [robot_descriptions.py](https://github.com/robot-descriptions/robot_descriptions.py)
+
+Python库，提供175+机器人模型描述，支持主流机器人框架的URDF/MJCF格式访问。
+
+- **Stars:** ⭐️ 796
+- **Tags:** `robotics` `urdf` `robot-description` `python`
+- **最后活动时间:** 2026-07-17
 
 ### [DriveAGI](https://github.com/OpenDriveLab/DriveAGI)
 
@@ -3017,14 +3033,6 @@ ROS2通用机器人控制器库，提供多种控制器实现以配合ros2_contr
 - **Stars:** ⭐️ 795
 - **Tags:** `autonomous-driving` `embodied-ai` `foundation-model` `world-models`
 - **最后活动时间:** 2026-02-27
-
-### [robot_descriptions.py](https://github.com/robot-descriptions/robot_descriptions.py)
-
-Python库，提供175+机器人模型描述，支持主流机器人框架的URDF/MJCF格式访问。
-
-- **Stars:** ⭐️ 793
-- **Tags:** `robotics` `urdf` `robot-description` `python`
-- **最后活动时间:** 2026-07-11
 
 ### [awesome-isaac-gym](https://github.com/robotlearning123/awesome-isaac-gym)
 
@@ -3086,7 +3094,7 @@ Anki Vector机器人的免费全功能服务器软件，支持本地化机器人
 
 基于GNSS和IMU的高精度定位系统，适用于自动驾驶与机器人导航。
 
-- **Stars:** ⭐️ 768
+- **Stars:** ⭐️ 769
 - **Tags:** `localization` `gnss` `imu` `autonomous-driving` `ros`
 - **最后活动时间:** 2026-04-06
 
@@ -3102,9 +3110,9 @@ Anki Vector机器人的免费全功能服务器软件，支持本地化机器人
 
 自动驾驶汽车资源精选列表，涵盖自动驾驶技术、算法与工程实践。
 
-- **Stars:** ⭐️ 745
+- **Stars:** ⭐️ 746
 - **Tags:** `autonomous-driving` `self-driving-car` `awesome-list`
-- **最后活动时间:** 2026-02-19
+- **最后活动时间:** 2026-07-07
 
 ### [llm-pid-tuner](https://github.com/KINGSTON-115/llm-pid-tuner)
 
@@ -3118,7 +3126,7 @@ Anki Vector机器人的免费全功能服务器软件，支持本地化机器人
 
 微软推出的高级仿真平台，用于在虚拟环境中构建、训练和测试自动驾驶系统、无人机等自主系统。
 
-- **Stars:** ⭐️ 741
+- **Stars:** ⭐️ 744
 - **Tags:** `ai` `autonomous-vehicles` `drones` `simulator` `unreal-engine`
 - **最后活动时间:** 2026-07-15
 
@@ -3130,6 +3138,14 @@ Anki Vector机器人的免费全功能服务器软件，支持本地化机器人
 - **Tags:** `aerial-robot` `isaac-gym` `simulation` `reinforcement-learning`
 - **最后活动时间:** 2026-06-28
 
+### [unitree_sdk2_python](https://github.com/unitreerobotics/unitree_sdk2_python)
+
+Unitree 机器人 Python SDK 接口，用于控制和交互 Unitree 系列机器人。为机器人开发提供底层的运动控制和状态获取能力。
+
+- **Stars:** ⭐️ 740
+- **Tags:** `unitree` `robotics` `python` `sdk` `quadruped`
+- **最后活动时间:** 2026-07-13
+
 ### [MINS](https://github.com/rpng/MINS)
 
 多传感器融合惯性导航系统，支持IMU、相机、激光雷达、GPS在线标定。
@@ -3137,14 +3153,6 @@ Anki Vector机器人的免费全功能服务器软件，支持本地化机器人
 - **Stars:** ⭐️ 739
 - **Tags:** `slam` `multi-sensor` `inertial-navigation` `fusion`
 - **最后活动时间:** 2026-07-17
-
-### [unitree_sdk2_python](https://github.com/unitreerobotics/unitree_sdk2_python)
-
-Unitree 机器人 Python SDK 接口，用于控制和交互 Unitree 系列机器人。为机器人开发提供底层的运动控制和状态获取能力。
-
-- **Stars:** ⭐️ 739
-- **Tags:** `unitree` `robotics` `python` `sdk` `quadruped`
-- **最后活动时间:** 2026-07-13
 
 ### [pytorch_mppi](https://github.com/UM-ARM-Lab/pytorch_mppi)
 
@@ -3170,11 +3178,19 @@ ROS兼容的SLAM系统，专为非结构化环境设计，适用于救援场景�
 - **Tags:** `simulator` `robotics` `autonomous-agents` `navigation`
 - **最后活动时间:** 2026-06-26
 
+### [Awesome-Touch](https://github.com/linchangyi1/Awesome-Touch)
+
+触觉感知资源合集，涵盖强化学习、视觉-语言-动作模型、机器人操作与仿真等前沿研究方向。
+
+- **Stars:** ⭐️ 732
+- **Tags:** `tactile-sensing` `robotics` `reinforcement-learning` `vla`
+- **最后活动时间:** 2026-07-05
+
 ### [KISS-Matcher](https://github.com/MIT-SPARK/KISS-Matcher)
 
 快速鲁棒的点云配准库，附带ROS2 SLAM示例，支持3D建图和RGB-D应用。
 
-- **Stars:** ⭐️ 729
+- **Stars:** ⭐️ 730
 - **Tags:** `point-cloud-registration` `slam` `lidar` `ros2` `3d-mapping`
 - **最后活动时间:** 2026-05-19
 
@@ -3186,6 +3202,14 @@ ROS兼容的SLAM系统，专为非结构化环境设计，适用于救援场景�
 - **Tags:** `robotics` `deep-learning` `open-source` `modular`
 - **最后活动时间:** 2026-05-11
 
+### [tmrl](https://github.com/trackmania-rl/tmrl)
+
+面向实时应用的强化学习框架，支持自动驾驶和实时控制系统开发。
+
+- **Stars:** ⭐️ 725
+- **Tags:** `reinforcement-learning` `pytorch` `self-driving-car` `soft-actor-critic` `real-time`
+- **最后活动时间:** 2026-06-09
+
 ### [isaac_ros_nvblox](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_nvblox)
 
 NVIDIA加速的3D场景重建工具，提供Nav2局部代价地图，支持Jetson平台和ROS2 Humble。
@@ -3193,22 +3217,6 @@ NVIDIA加速的3D场景重建工具，提供Nav2局部代价地图，支持Jetso
 - **Stars:** ⭐️ 724
 - **Tags:** `3d-reconstruction` `nvidia` `ros2` `jetson` `robotics`
 - **最后活动时间:** 2026-07-07
-
-### [tmrl](https://github.com/trackmania-rl/tmrl)
-
-面向实时应用的强化学习框架，支持自动驾驶和实时控制系统开发。
-
-- **Stars:** ⭐️ 724
-- **Tags:** `reinforcement-learning` `pytorch` `self-driving-car` `soft-actor-critic` `real-time`
-- **最后活动时间:** 2026-06-09
-
-### [Awesome-Touch](https://github.com/linchangyi1/Awesome-Touch)
-
-触觉感知资源合集，涵盖强化学习、视觉-语言-动作模型、机器人操作与仿真等前沿研究方向。
-
-- **Stars:** ⭐️ 723
-- **Tags:** `tactile-sensing` `robotics` `reinforcement-learning` `vla`
-- **最后活动时间:** 2026-07-05
 
 ### [FMT-Firmware](https://github.com/Firmament-Autopilot/FMT-Firmware)
 
@@ -3232,13 +3240,13 @@ NVIDIA加速的3D场景重建工具，提供Nav2局部代价地图，支持Jetso
 
 - **Stars:** ⭐️ 712
 - **Tags:** `docker` `ros2` `vnc` `desktop` `robotics`
-- **最后活动时间:** 2026-07-03
+- **最后活动时间:** 2026-07-17
 
 ### [mpc-reinforcement-learning](https://github.com/FilippoAiraldi/mpc-reinforcement-learning)
 
 结合模型预测控制(MPC)与强化学习的框架，适用于机器人控制和优化问题。
 
-- **Stars:** ⭐️ 704
+- **Stars:** ⭐️ 706
 - **Tags:** `model-predictive-control` `reinforcement-learning` `optimization` `casadi`
 - **最后活动时间:** 2026-07-14
 
@@ -3266,6 +3274,14 @@ MPPI（模型预测路径积分）控制器的Python实现，用于自动驾驶�
 - **Tags:** `autonomous-driving` `simulation` `ros2` `digital-twin`
 - **最后活动时间:** 2026-03-30
 
+### [clawd-mochi](https://github.com/yousifamanuel/clawd-mochi)
+
+受 Claude Code 吉祥物 Clawd 启发的物理桌面陪伴机器人。结合硬件与AI，提供具身智能的交互体验。
+
+- **Stars:** ⭐️ 696
+- **Tags:** `claude-code` `robotics` `companion-robot` `hardware`
+- **最后活动时间:** 2026-06-28
+
 ### [Peng](https://github.com/makeecat/Peng)
 
 Rust编写的轻量级四旋翼自主飞行框架，跨平台支持。
@@ -3273,22 +3289,6 @@ Rust编写的轻量级四旋翼自主飞行框架，跨平台支持。
 - **Stars:** ⭐️ 694
 - **Tags:** `quadrotor` `robotics` `rust` `autonomy`
 - **最后活动时间:** 2026-07-06
-
-### [genz-icp](https://github.com/cocel-postech/genz-icp)
-
-SOTA级别的鲁棒LiDAR里程计系统，专为退化环境（走廊、隧道）设计，支持ROS/ROS2部署。
-
-- **Stars:** ⭐️ 693
-- **Tags:** `lidar` `slam` `icp` `odometry` `robotics` `point-cloud`
-- **最后活动时间:** 2026-06-16
-
-### [clawd-mochi](https://github.com/yousifamanuel/clawd-mochi)
-
-受 Claude Code 吉祥物 Clawd 启发的物理桌面陪伴机器人。结合硬件与AI，提供具身智能的交互体验。
-
-- **Stars:** ⭐️ 693
-- **Tags:** `claude-code` `robotics` `companion-robot` `hardware`
-- **最后活动时间:** 2026-06-28
 
 ### [X-VLA](https://github.com/2toinf/X-VLA)
 
@@ -3298,6 +3298,22 @@ ICLR 2026论文，可扩展的跨具身视觉语言动作模型实现。
 - **Tags:** `vision-language-action` `robotics` `cross-embodiment`
 - **最后活动时间:** 2026-06-10
 
+### [genz-icp](https://github.com/cocel-postech/genz-icp)
+
+SOTA级别的鲁棒LiDAR里程计系统，专为退化环境（走廊、隧道）设计，支持ROS/ROS2部署。
+
+- **Stars:** ⭐️ 692
+- **Tags:** `lidar` `slam` `icp` `odometry` `robotics` `point-cloud`
+- **最后活动时间:** 2026-06-16
+
+### [Ultra-Fusion](https://github.com/sjtuyinjie/Ultra-Fusion)
+
+一种在传感器退化和时空扰动下具有高鲁棒性的紧耦合多传感器融合SLAM框架。结合了高斯溅射技术以提升建图效果。
+
+- **Stars:** ⭐️ 689
+- **Tags:** `slam` `multi-sensor-fusion` `lio` `vio` `gaussiansplatting`
+- **最后活动时间:** 2026-07-18
+
 ### [BundleTrack](https://github.com/wenbowen123/BundleTrack)
 
 IROS 2021 论文，无需实例或类别级3D模型即可实现新物体的6D姿态跟踪。
@@ -3306,19 +3322,11 @@ IROS 2021 论文，无需实例或类别级3D模型即可实现新物体的6D姿
 - **Tags:** `6d-pose-tracking` `pose-estimation` `robotics` `computer-vision`
 - **最后活动时间:** 2026-04-13
 
-### [Ultra-Fusion](https://github.com/sjtuyinjie/Ultra-Fusion)
-
-一种在传感器退化和时空扰动下具有高鲁棒性的紧耦合多传感器融合SLAM框架。结合了高斯溅射技术以提升建图效果。
-
-- **Stars:** ⭐️ 684
-- **Tags:** `slam` `multi-sensor-fusion` `lio` `vio` `gaussiansplatting`
-- **最后活动时间:** 2026-07-15
-
 ### [TTT3R](https://github.com/Inception3D/TTT3R)
 
 增强CUT3R长度泛化能力的简单状态更新规则，用于3D重建。
 
-- **Stars:** ⭐️ 682
+- **Stars:** ⭐️ 683
 - **Tags:** `3d-reconstruction` `rnn` `slam`
 - **最后活动时间:** 2026-05-11
 
@@ -3326,7 +3334,7 @@ IROS 2021 论文，无需实例或类别级3D模型即可实现新物体的6D姿
 
 基于无监督强化学习的人形机器人控制基础模型，支持可提示的行为生成，实现从仿真到现实的迁移。
 
-- **Stars:** ⭐️ 682
+- **Stars:** ⭐️ 683
 - **Tags:** `reinforcement-learning` `humanoid` `robotics` `sim2real`
 - **最后活动时间:** 2026-07-15
 
@@ -3334,7 +3342,7 @@ IROS 2021 论文，无需实例或类别级3D模型即可实现新物体的6D姿
 
 一个完全开源的自动驾驶汽车软件栈，提供高级驾驶辅助系统（ADAS）和端到端机器学习支持。该项目致力于为自动驾驶和机器人领域提供强大的计算机视觉与深度学习基础。
 
-- **Stars:** ⭐️ 669
+- **Stars:** ⭐️ 681
 - **Tags:** `autonomous-driving` `computer-vision` `deep-learning` `adas` `robotics`
 - **最后活动时间:** 2026-07-16
 
@@ -3342,7 +3350,7 @@ IROS 2021 论文，无需实例或类别级3D模型即可实现新物体的6D姿
 
 基于不完美人类运动数据学习人形机器人网球技能的官方实现，专注于运动控制与模仿学习研究。
 
-- **Stars:** ⭐️ 668
+- **Stars:** ⭐️ 670
 - **Tags:** `robotics` `humanoid` `motion-learning` `reinforcement-learning`
 - **最后活动时间:** 2026-04-30
 
@@ -3382,7 +3390,7 @@ CVPR 2026 论文官方实现，专注于高精度机器人操作的过程奖励�
 
 用于机器人操作编程智能体的基准测试与改进框架，帮助评估和提升AI编码代理在机器人任务中的表现。
 
-- **Stars:** ⭐️ 642
+- **Stars:** ⭐️ 643
 - **Tags:** `robotics` `coding-agents` `benchmark` `manipulation`
 - **最后活动时间:** 2026-05-28
 
@@ -3432,7 +3440,15 @@ CARLA自动驾驶仿真器与ROS的通信桥接，支持传感器数据与车辆
 
 - **Stars:** ⭐️ 629
 - **Tags:** `robot-learning` `mujoco` `reinforcement-learning` `simulation`
-- **最后活动时间:** 2026-07-15
+- **最后活动时间:** 2026-07-17
+
+### [spirit-v1.5](https://github.com/Spirit-AI-Team/spirit-v1.5)
+
+Spirit AI发布的机器人基础模型，为机器人提供通用智能能力。
+
+- **Stars:** ⭐️ 625
+- **Tags:** `robotics` `foundation-model` `robot-learning`
+- **最后活动时间:** 2026-05-29
 
 ### [spatialmath-python](https://github.com/bdaiinstitute/spatialmath-python)
 
@@ -3442,13 +3458,21 @@ CARLA自动驾驶仿真器与ROS的通信桥接，支持传感器数据与车辆
 - **Tags:** `python` `robotics` `3d` `math` `quaternion` `transform`
 - **最后活动时间:** 2026-04-17
 
-### [spirit-v1.5](https://github.com/Spirit-AI-Team/spirit-v1.5)
+### [mrs_uav_system](https://github.com/ctu-mrs/mrs_uav_system)
 
-Spirit AI发布的机器人基础模型，为机器人提供通用智能能力。
+完整的无人机系统框架，集成控制、估计、追踪与仿真功能。
 
 - **Stars:** ⭐️ 624
-- **Tags:** `robotics` `foundation-model` `robot-learning`
-- **最后活动时间:** 2026-05-29
+- **Tags:** `drone` `uav` `control` `estimation` `robotics`
+- **最后活动时间:** 2026-07-11
+
+### [open3d_slam](https://github.com/leggedrobotics/open3d_slam)
+
+基于Open3D库的C++点云图优化SLAM系统，支持ROS集成。
+
+- **Stars:** ⭐️ 623
+- **Tags:** `slam` `pointcloud` `open3d` `robotics`
+- **最后活动时间:** 2026-05-05
 
 ### [virtualhome](https://github.com/xavierpuigf/virtualhome)
 
@@ -3458,21 +3482,13 @@ Spirit AI发布的机器人基础模型，为机器人提供通用智能能力�
 - **Tags:** `multi-agent` `simulator` `reinforcement-learning` `household`
 - **最后活动时间:** 2026-05-20
 
-### [mrs_uav_system](https://github.com/ctu-mrs/mrs_uav_system)
+### [3D-Occupancy-Perception](https://github.com/HuaiyuanXu/3D-Occupancy-Perception)
 
-完整的无人机系统框架，集成控制、估计、追踪与仿真功能。
+Information Fusion 2025综述论文，从信息融合角度全面介绍自动驾驶占用感知技术。
 
 - **Stars:** ⭐️ 623
-- **Tags:** `drone` `uav` `control` `estimation` `robotics`
-- **最后活动时间:** 2026-07-11
-
-### [open3d_slam](https://github.com/leggedrobotics/open3d_slam)
-
-基于Open3D库的C++点云图优化SLAM系统，支持ROS集成。
-
-- **Stars:** ⭐️ 622
-- **Tags:** `slam` `pointcloud` `open3d` `robotics`
-- **最后活动时间:** 2026-05-05
+- **Tags:** `autonomous-driving` `occupancy-perception` `survey` `information-fusion`
+- **最后活动时间:** 2026-07-14
 
 ### [modern-robotics-course](https://github.com/madibabaiasl/modern-robotics-course)
 
@@ -3514,19 +3530,11 @@ Unitree Go2机器人的强化学习训练与部署工具，实现sim-to-real迁�
 - **Tags:** `autonomous-driving` `self-driving` `computer-vision` `robotics`
 - **最后活动时间:** 2026-05-30
 
-### [3D-Occupancy-Perception](https://github.com/HuaiyuanXu/3D-Occupancy-Perception)
-
-Information Fusion 2025综述论文，从信息融合角度全面介绍自动驾驶占用感知技术。
-
-- **Stars:** ⭐️ 608
-- **Tags:** `autonomous-driving` `occupancy-perception` `survey` `information-fusion`
-- **最后活动时间:** 2026-04-27
-
 ### [rko_lio](https://github.com/PRBonn/rko_lio)
 
 一种无需传感器特定建模的鲁棒LiDAR-惯性里程计方案，适用于机器人导航与SLAM应用。
 
-- **Stars:** ⭐️ 606
+- **Stars:** ⭐️ 607
 - **Tags:** `lidar` `slam` `odometry` `robotics` `ros2`
 - **最后活动时间:** 2026-07-16
 
@@ -3534,15 +3542,15 @@ Information Fusion 2025综述论文，从信息融合角度全面介绍自动驾
 
 NASA Ames立体视觉处理管道，用于行星探测机器人的地形重建与测绘。
 
-- **Stars:** ⭐️ 602
+- **Stars:** ⭐️ 603
 - **Tags:** `robotics` `stereo-vision` `nasa` `planetary` `mapping`
-- **最后活动时间:** 2026-07-15
+- **最后活动时间:** 2026-07-18
 
 ### [AutoVLA](https://github.com/ucla-mobility/AutoVLA)
 
 NeurIPS 2025视觉-语言-动作模型，用于端到端自动驾驶的自适应推理。
 
-- **Stars:** ⭐️ 600
+- **Stars:** ⭐️ 603
 - **Tags:** `autonomous-driving` `vla` `vision-language-action` `neurips2025`
 - **最后活动时间:** 2026-05-29
 
@@ -3562,6 +3570,14 @@ NeurIPS 2025视觉-语言-动作模型，用于端到端自动驾驶的自适应
 - **Tags:** `robotics` `middleware` `human-robot-interaction` `ipc`
 - **最后活动时间:** 2026-07-17
 
+### [pace-sim2real](https://github.com/leggedrobotics/pace-sim2real)
+
+一种用于腿足机器人从仿真到现实迁移的系统性方法，通过标准关节编码器识别执行器和关节动力学。
+
+- **Stars:** ⭐️ 596
+- **Tags:** `sim-to-real` `robotics` `legged-robots` `reinforcement-learning`
+- **最后活动时间:** 2026-07-14
+
 ### [DynamixelSDK](https://github.com/ROBOTIS-GIT/DynamixelSDK)
 
 ROBOTIS Dynamixel机器人舵机SDK，支持多种编程语言，用于控制智能机器人和自动化设备。
@@ -3574,7 +3590,7 @@ ROBOTIS Dynamixel机器人舵机SDK，支持多种编程语言，用于控制智
 
 一个高频率运行的视觉-语言-动作（VLA）模型，支持30Hz帧率和480Hz轨迹频率。专为实时机器人控制和交互式操作设计。
 
-- **Stars:** ⭐️ 590
+- **Stars:** ⭐️ 591
 - **Tags:** `vla` `real-time` `robotics` `4090`
 - **最后活动时间:** 2026-02-10
 
@@ -3585,14 +3601,6 @@ Google Gemini机器人SDK，将大模型能力集成到机器人应用中。
 - **Stars:** ⭐️ 589
 - **Tags:** `gemini` `robotics` `sdk`
 - **最后活动时间:** 2026-07-07
-
-### [pace-sim2real](https://github.com/leggedrobotics/pace-sim2real)
-
-一种用于腿足机器人从仿真到现实迁移的系统性方法，通过标准关节编码器识别执行器和关节动力学。
-
-- **Stars:** ⭐️ 589
-- **Tags:** `sim-to-real` `robotics` `legged-robots` `reinforcement-learning`
-- **最后活动时间:** 2026-07-14
 
 ### [patchwork](https://github.com/LimHyungTae/patchwork)
 
@@ -3622,7 +3630,7 @@ OpenXRLab视觉惯性SLAM工具箱与基准测试，用于AR/VR和机器人导�
 
 用于全身人形机器人控制的基础模型，实现高质量运动跟踪与全身协调控制。
 
-- **Stars:** ⭐️ 582
+- **Stars:** ⭐️ 584
 - **Tags:** `foundation-models` `humanoid-robot` `motion-tracking` `robotics`
 - **最后活动时间:** 2026-07-17
 
@@ -3654,7 +3662,7 @@ Physical Intelligence提出的π₀机器人基础模型架构PyTorch实现。
 
 包含76个Claude技能的工业机器人自动化套件，覆盖ROS2、协作机器人、功能安全及IEC 62443网络安全生命周期管理。
 
-- **Stars:** ⭐️ 576
+- **Stars:** ⭐️ 577
 - **Tags:** `robotics` `ros2` `claude` `industrial-automation` `functional-safety`
 - **最后活动时间:** 2026-07-13
 
@@ -3662,7 +3670,7 @@ Physical Intelligence提出的π₀机器人基础模型架构PyTorch实现。
 
 4D雷达目标检测系统，专为自动驾驶在各种天气条件下设计。
 
-- **Stars:** ⭐️ 575
+- **Stars:** ⭐️ 576
 - **Tags:** `4d-radar` `object-detection` `autonomous-driving` `adverse-weather`
 - **最后活动时间:** 2026-06-26
 
@@ -3730,6 +3738,14 @@ Rust实现的行为树库，用于确定性AI系统，支持游戏开发、机�
 - **Tags:** `slam` `3d-reconstruction` `volumetric-mapping` `segmentation`
 - **最后活动时间:** 2026-01-26
 
+### [TARS-AI](https://github.com/TARS-AI-Community/TARS-AI)
+
+复刻电影《星际穿越》中TARS机器人的开源项目，具备AI交互能力，适合机器人爱好者学习与借鉴。
+
+- **Stars:** ⭐️ 556
+- **Tags:** `robotics` `ai` `interstellar` `arduino`
+- **最后活动时间:** 2026-04-13
+
 ### [rosclaw](https://github.com/PlaiPin/rosclaw)
 
 ROS2与OpenClaw的集成项目，将AI智能体能力引入机器人操作系统生态。
@@ -3761,14 +3777,6 @@ PyBullet机器人仿真原型库，包含F1赛车、Sawyer、Atlas等多种机�
 - **Stars:** ⭐️ 548
 - **Tags:** `ardupilot` `autopilot` `ground-control-station` `robotics` `uav`
 - **最后活动时间:** 2026-04-18
-
-### [TARS-AI](https://github.com/TARS-AI-Community/TARS-AI)
-
-复刻电影《星际穿越》中TARS机器人的开源项目，具备AI交互能力，适合机器人爱好者学习与借鉴。
-
-- **Stars:** ⭐️ 547
-- **Tags:** `robotics` `ai` `interstellar` `arduino`
-- **最后活动时间:** 2026-04-13
 
 ### [quadruped_ros2_control](https://github.com/legubiao/quadruped_ros2_control)
 
@@ -3808,7 +3816,23 @@ MoveIt机器人运动规划框架的官方文档与教程，涵盖路径规划�
 
 - **Stars:** ⭐️ 542
 - **Tags:** `embodiedai` `robotics` `vision-language-action` `vlm`
-- **最后活动时间:** 2026-07-13
+- **最后活动时间:** 2026-07-18
+
+### [webots_ros2](https://github.com/cyberbotics/webots_ros2)
+
+Webots机器人仿真平台的ROS2接口，支持导航、定位和SLAM仿真。
+
+- **Stars:** ⭐️ 540
+- **Tags:** `simulation` `robotics` `ros2` `slam`
+- **最后活动时间:** 2026-05-26
+
+### [VSLAM-LAB](https://github.com/VSLAM-LAB/VSLAM-LAB)
+
+一个全面的视觉SLAM系统与数据集框架，为机器人导航和环境感知提供标准化测试与研究平台。
+
+- **Stars:** ⭐️ 540
+- **Tags:** `computer-vision` `robotics` `slam` `vslam`
+- **最后活动时间:** 2026-07-14
 
 ### [JanusVLN](https://github.com/MIV-XJTU/JanusVLN)
 
@@ -3818,29 +3842,13 @@ ICLR 2026 论文，通过双隐式记忆解耦语义与空间信息，提升视�
 - **Tags:** `vla` `vln` `mllm` `navigation`
 - **最后活动时间:** 2026-01-26
 
-### [webots_ros2](https://github.com/cyberbotics/webots_ros2)
-
-Webots机器人仿真平台的ROS2接口，支持导航、定位和SLAM仿真。
-
-- **Stars:** ⭐️ 539
-- **Tags:** `simulation` `robotics` `ros2` `slam`
-- **最后活动时间:** 2026-05-26
-
-### [VSLAM-LAB](https://github.com/VSLAM-LAB/VSLAM-LAB)
-
-一个全面的视觉SLAM系统与数据集框架，为机器人导航和环境感知提供标准化测试与研究平台。
-
-- **Stars:** ⭐️ 539
-- **Tags:** `computer-vision` `robotics` `slam` `vslam`
-- **最后活动时间:** 2026-07-14
-
 ### [hutb](https://github.com/OpenHUTB/hutb)
 
 人车模拟器是一个基于深度强化学习的机器人与自动驾驶仿真平台，支持无人机、自动驾驶车辆和人形机器人的复杂环境模拟。
 
 - **Stars:** ⭐️ 536
 - **Tags:** `autonomous-driving` `deep-reinforcement-learning` `robotics-simulation` `ros2` `unreal-engine`
-- **最后活动时间:** 2026-07-16
+- **最后活动时间:** 2026-07-18
 
 ### [MC-Calib](https://github.com/rameau-fr/MC-Calib)
 
@@ -3854,9 +3862,9 @@ Webots机器人仿真平台的ROS2接口，支持导航、定位和SLAM仿真。
 
 开源运输控制系统，用于AGV自动导引车和物流机器人的调度管理。
 
-- **Stars:** ⭐️ 533
+- **Stars:** ⭐️ 534
 - **Tags:** `agv` `logistics` `robotics` `transportation`
-- **最后活动时间:** 2026-07-14
+- **最后活动时间:** 2026-07-17
 
 ### [robotics-skills-suite](https://github.com/jherrodthomas/robotics-skills-suite)
 
@@ -3866,6 +3874,14 @@ Webots机器人仿真平台的ROS2接口，支持导航、定位和SLAM仿真。
 - **Tags:** `robotics` `ros2` `claude` `industrial-automation` `cobot`
 - **最后活动时间:** 2026-05-03
 
+### [RoboJuDo](https://github.com/HansZ8/RoboJuDo)
+
+一个即插即用的机器人部署框架，旨在简化机器人的开发与部署流程。支持Unitree等多种人形机器人，实现快速上手与操作。
+
+- **Stars:** ⭐️ 533
+- **Tags:** `robotics` `humanoid` `deployment` `unitree` `framework`
+- **最后活动时间:** 2026-05-22
+
 ### [lidar_localization_ros2](https://github.com/rsasaki0109/lidar_localization_ros2)
 
 基于ROS 2的3D激光雷达定位系统，支持NDT/GICP算法与点云地图，适用于自动驾驶与机器人导航场景。
@@ -3873,6 +3889,14 @@ Webots机器人仿真平台的ROS2接口，支持导航、定位和SLAM仿真。
 - **Stars:** ⭐️ 532
 - **Tags:** `lidar` `localization` `ros2` `pointcloud` `ndt` `gicp`
 - **最后活动时间:** 2026-07-17
+
+### [unitree_rl_mjlab](https://github.com/unitreerobotics/unitree_rl_mjlab)
+
+基于Mujoco的Unitree机器人强化学习实现库。为四足机器人的运动控制训练提供了完整的开发环境。
+
+- **Stars:** ⭐️ 531
+- **Tags:** `reinforcement-learning` `robotics` `unitree` `mujoco`
+- **最后活动时间:** 2026-04-13
 
 ### [bop_toolkit](https://github.com/thodan/bop_toolkit)
 
@@ -3922,14 +3946,6 @@ ROS与Gazebo仿真器的官方集成项目，支持ROS 1和ROS 2，为机器人�
 - **Tags:** `imgui` `slam` `point-cloud` `visualization` `3d-algorithms`
 - **最后活动时间:** 2026-07-15
 
-### [unitree_rl_mjlab](https://github.com/unitreerobotics/unitree_rl_mjlab)
-
-基于Mujoco的Unitree机器人强化学习实现库。为四足机器人的运动控制训练提供了完整的开发环境。
-
-- **Stars:** ⭐️ 525
-- **Tags:** `reinforcement-learning` `robotics` `unitree` `mujoco`
-- **最后活动时间:** 2026-04-13
-
 ### [psmoveapi](https://github.com/thp/psmoveapi)
 
 PS Move控制器的跨平台6DoF追踪库，融合传感器与计算机视觉技术。
@@ -3958,7 +3974,7 @@ DJI官方Payload SDK，支持碰撞避障、激光雷达、云台控制等功能
 
 一个基于扩散模型的6自由度抓取生成框架，适用于机器人抓取与操作任务。
 
-- **Stars:** ⭐️ 519
+- **Stars:** ⭐️ 520
 - **Tags:** `robotics` `grasping` `diffusion-model` `6dof`
 - **最后活动时间:** 2026-07-06
 
@@ -4030,7 +4046,7 @@ ROS Noetic机器人操作系统的配置文件和部署工具。
 
 InternVLA-A1是一个统一视觉理解、生成与动作控制的机器人操作模型。致力于提升机器人在复杂环境下的自主操作能力。
 
-- **Stars:** ⭐️ 504
+- **Stars:** ⭐️ 505
 - **Tags:** `robotics` `vision-language-action-model` `manipulation`
 - **最后活动时间:** 2026-07-15
 

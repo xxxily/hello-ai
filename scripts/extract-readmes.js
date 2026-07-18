@@ -12,7 +12,9 @@ const __dirname = path.dirname(__filename);
 const rootDir = path.resolve(__dirname, '..');
 
 const DEFAULT_INPUT = path.join(rootDir, 'data/projects.json');
+const DEFAULT_REJECTED_INPUT = path.join(rootDir, 'data/rejected-projects');
 const DEFAULT_WORKDIR = path.resolve(rootDir, '..', 'hello-ai-readme-lab');
+const DEFAULT_REJECTED_WORKDIR = path.resolve(rootDir, '..', 'hello-ai-rejected-readme-lab');
 const MANIFEST_FILE = 'manifest.jsonl';
 const MANIFEST_SNAPSHOT_FILE = 'manifest.latest.json';
 const SUMMARY_FILE = 'summary.json';
@@ -39,7 +41,7 @@ let sigintCount = 0;
 
 const defaultOptions = {
   input: DEFAULT_INPUT,
-  workdir: process.env.README_EXTRACT_WORKDIR || DEFAULT_WORKDIR,
+  workdir: process.env.README_EXTRACT_WORKDIR || '',
   limit: 0,
   category: '',
   subcategory: '',
@@ -47,6 +49,8 @@ const defaultOptions = {
   maxStars: 0,
   since: '',
   addedSince: '',
+  updatedWithinDays: 0,
+  addedWithinDays: 0,
   concurrency: numberFromEnv('README_EXTRACT_CONCURRENCY', 2),
   intervalMs: numberFromEnv('README_EXTRACT_INTERVAL_MS', 500),
   retry: numberFromEnv('README_EXTRACT_RETRY', 3),
@@ -153,10 +157,12 @@ function normalizeOptions(rawOptions = {}) {
   const options = { ...defaultOptions, ...rawOptions };
 
   options.input = path.resolve(String(options.input || defaultOptions.input));
-  options.workdir = path.resolve(String(options.workdir || defaultOptions.workdir));
+  options.workdir = path.resolve(String(options.workdir || defaultWorkdirForInput(options.input)));
   options.limit = toNonNegativeInt(options.limit, 0);
   options.minStars = toNonNegativeInt(options.minStars, 0);
   options.maxStars = toNonNegativeInt(options.maxStars, 0);
+  options.updatedWithinDays = toNonNegativeInt(options.updatedWithinDays, 0);
+  options.addedWithinDays = toNonNegativeInt(options.addedWithinDays, 0);
   options.concurrency = Math.max(1, toNonNegativeInt(options.concurrency, defaultOptions.concurrency));
   options.intervalMs = Math.max(0, toNonNegativeInt(options.intervalMs, defaultOptions.intervalMs));
   options.retry = Math.max(0, toNonNegativeInt(options.retry, defaultOptions.retry));
@@ -175,7 +181,35 @@ function normalizeOptions(rawOptions = {}) {
   options.includeTrending = toBoolean(options.includeTrending, false);
   options.help = toBoolean(options.help, false);
 
+  validateOptions(options);
+
   return options;
+}
+
+function defaultWorkdirForInput(inputPath) {
+  return path.resolve(inputPath) === DEFAULT_REJECTED_INPUT
+    ? DEFAULT_REJECTED_WORKDIR
+    : DEFAULT_WORKDIR;
+}
+
+function validateOptions(options) {
+  if (options.maxStars > 0 && options.minStars > options.maxStars) {
+    throw new Error('最低 Stars 不能大于最高 Stars。');
+  }
+
+  for (const [key, label] of [['since', '更新起始日期'], ['addedSince', '收录起始日期']]) {
+    if (options[key] && !isValidDateOption(options[key])) {
+      throw new Error(`${label}格式无效，请使用 YYYY-MM-DD。`);
+    }
+  }
+}
+
+function isValidDateOption(value) {
+  const match = /^(\d{4})-(\d{2})-(\d{2})$/.exec(String(value));
+  if (!match) return false;
+  const [, year, month, day] = match.map(Number);
+  const date = new Date(Date.UTC(year, month - 1, day));
+  return date.getUTCFullYear() === year && date.getUTCMonth() === month - 1 && date.getUTCDate() === day;
 }
 
 function toNonNegativeInt(value, fallback) {
@@ -202,46 +236,55 @@ function splitList(value) {
 
 function printHelp() {
   console.log(`
-AI project README extraction
+AI 项目 README 提取工具
 
-Usage:
+用法：
   pnpm ai:extract-readmes -- [options]
   node scripts/extract-readmes.js [options]
 
-Modes:
-  --tui                         Interactive setup plus live progress panel
-  --dry-run                     Show candidate/worklist stats without fetching
-  --resume / --no-resume        Skip terminal manifest records by default
-  --sync                        Re-check existing records by ETag/Last-Modified
-  --force                       Ignore cache and fetch again
+运行模式：
+  --tui                         打开中文交互配置和实时进度面板
+  --dry-run                     只预览候选项目和任务统计，不发起请求
+  --resume / --no-resume        是否跳过清单中已完成的项目，默认跳过
+  --sync                        通过 ETag/Last-Modified 检查已有 README 更新
+  --force                       忽略本地缓存并重新提取
 
-Input filters:
-  --input <file>                Project DB, default data/projects.json
-  --category <ids>              Comma separated category ids, e.g. agents,rag_data
-  --subcategory <names>         Comma separated subcategory names
-  --min-stars <n>
-  --max-stars <n>
-  --since <YYYY-MM-DD>          Filter by lastUpdated
-  --added-since <YYYY-MM-DD>    Filter by addedAt
-  --limit <n>                   0 means no limit
-  --include-trending            Keep trending-only records after de-duplication
+项目筛选：
+  --input <path>                项目数据文件或 JSON 分片目录，默认 data/projects.json
+  --category <ids>              分类 ID，多个值用逗号分隔，如 agents,rag_data
+  --subcategory <names>         子分类，多个值用逗号分隔
+  --min-stars <n>               只提取 Stars 不少于 n 的项目；0 表示不限制
+  --max-stars <n>               只提取 Stars 不超过 n 的项目；0 表示不限制
+  --updated-within-days <n>     只提取最近 n 天内更新的项目；0 表示不限制
+  --added-within-days <n>       只提取最近 n 天内收录的项目；0 表示不限制
+  --since <YYYY-MM-DD>          只提取此日期后更新的项目
+  --added-since <YYYY-MM-DD>    只提取此日期后收录的项目
+  --limit <n>                   本次最多处理数量；0 表示不限制
+  --include-trending            去重后仍保留仅存在于 trending 分类的项目
 
-Execution:
-  --workdir <dir>               Default ../hello-ai-readme-lab
-  --concurrency <n>             Default ${defaultOptions.concurrency}
-  --interval-ms <n>             Global delay between HTTP requests, default ${defaultOptions.intervalMs}
-  --retry <n>                   Per project retry count, default ${defaultOptions.retry}
-  --retry-delay-ms <n>          Base retry backoff, default ${defaultOptions.retryDelayMs}
-  --timeout-ms <n>              Per request timeout, default ${defaultOptions.timeoutMs}
-  --max-bytes <n>               Max README bytes, default ${defaultOptions.maxBytes}
+  注意：项目缺少 Stars 时按 0 处理；缺少更新时间时不会命中更新时间筛选。
+        rejected_at 会作为 rejected 项目的收录时间参与筛选。
 
-Synchronization:
-  --stale-days <n>              With --sync, re-check records older than n days; 0 checks all
-  --retry-not-found             With --sync, retry stale not_found/unsupported records
-  --wait-rate-limit             Wait until GitHub reset instead of stopping gracefully
+执行参数：
+  --workdir <dir>               输出目录；主库默认 ../hello-ai-readme-lab
+                                rejected 目录默认 ../hello-ai-rejected-readme-lab
+  --concurrency <n>             并发数，默认 ${defaultOptions.concurrency}
+  --interval-ms <n>             HTTP 请求间隔（毫秒），默认 ${defaultOptions.intervalMs}
+  --retry <n>                   单个项目失败重试次数，默认 ${defaultOptions.retry}
+  --retry-delay-ms <n>          重试基础退避时间（毫秒），默认 ${defaultOptions.retryDelayMs}
+  --timeout-ms <n>              单次请求超时时间（毫秒），默认 ${defaultOptions.timeoutMs}
+  --max-bytes <n>               README 最大字节数，默认 ${defaultOptions.maxBytes}
 
-Examples:
+同步参数：
+  --stale-days <n>              同步时仅检查超过 n 天未检查的记录；0 表示全部
+  --retry-not-found             同步时重试过期的 not_found/unsupported 记录
+  --wait-rate-limit             达到 GitHub 限额后等待重置，不提前结束
+
+示例：
+  pnpm ai:extract-readmes -- --dry-run --min-stars 1000 --updated-within-days 30
+  pnpm ai:extract-rejected-readmes
   pnpm ai:extract-readmes -- --dry-run --category agents --limit 100
+  node scripts/extract-readmes.js --input data/rejected-projects --dry-run
   pnpm ai:extract-readmes -- --limit 500 --concurrency 3 --interval-ms 800
   pnpm ai:extract-readmes -- --sync --stale-days 7 --resume
   pnpm ai:extract-readmes -- --tui
@@ -250,40 +293,158 @@ Examples:
 
 async function applyTuiConfig(options) {
   if (!process.stdin.isTTY) {
-    throw new Error('--tui requires an interactive terminal.');
+    throw new Error('--tui 需要在交互式终端中运行。');
   }
 
   const rl = readline.createInterface({ input: process.stdin, output: process.stdout });
   const question = query => new Promise(resolve => rl.question(query, resolve));
-  const ask = async (label, current) => {
-    const answer = await question(`${label} [${current}]: `);
-    return answer.trim() || current;
-  };
-  const askBool = async (label, current) => {
-    const answer = await question(`${label} (${current ? 'Y/n' : 'y/N'}): `);
-    if (!answer.trim()) return current;
-    return toBoolean(answer, current);
-  };
+  let cancelled = false;
 
-  console.log('\nHello-AI README 提取交互配置\n');
-  options.workdir = path.resolve(await ask('工作目录', options.workdir));
-  options.category = await ask('分类过滤，逗号分隔，空表示全部', options.category || '');
-  options.subcategory = await ask('子分类过滤，逗号分隔，空表示全部', options.subcategory || '');
-  options.limit = toNonNegativeInt(await ask('本次最多处理数量，0 表示不限制', options.limit), options.limit);
-  options.concurrency = Math.max(1, toNonNegativeInt(await ask('并发数', options.concurrency), options.concurrency));
-  options.intervalMs = Math.max(0, toNonNegativeInt(await ask('请求间隔 ms', options.intervalMs), options.intervalMs));
-  options.retry = Math.max(0, toNonNegativeInt(await ask('失败重试次数', options.retry), options.retry));
-  options.retryDelayMs = Math.max(0, toNonNegativeInt(await ask('重试基础退避 ms', options.retryDelayMs), options.retryDelayMs));
-  options.resume = await askBool('断点续跑，跳过已完成记录', options.resume);
-  options.sync = await askBool('同步已有 README 更新', options.sync);
-  if (options.sync) {
-    options.staleDays = Math.max(0, toNonNegativeInt(await ask('同步检查间隔天数，0 表示全部检查', options.staleDays), options.staleDays));
-    options.retryNotFound = await askBool('同步时重试 not_found/unsupported', options.retryNotFound);
+  try {
+    while (true) {
+      const fields = createTuiFields(options);
+      printTuiConfig(fields);
+      const selection = (await question('请选择要修改的编号（可用逗号分隔，直接回车开始执行，q 退出）：')).trim();
+
+      if (!selection) {
+        try {
+          validateOptions(options);
+          break;
+        } catch (err) {
+          console.log(`\n配置有误：${err.message}`);
+          continue;
+        }
+      }
+      if (['q', 'quit', 'exit'].includes(selection.toLowerCase())) {
+        cancelled = true;
+        break;
+      }
+
+      const indexes = parseTuiSelection(selection, fields.length);
+      if (indexes.length === 0) {
+        console.log('\n未识别到有效编号，请重新输入。');
+        continue;
+      }
+
+      for (const index of indexes) {
+        const field = fields[index - 1];
+        const answer = await question(`\n${field.label}\n当前值：${formatTuiValue(field)}\n请输入新值${field.hint ? `（${field.hint}）` : ''}，直接回车保持不变：`);
+        if (answer.trim()) field.update(answer.trim());
+      }
+    }
+  } finally {
+    rl.close();
   }
-  options.dryRun = await askBool('只预览，不抓取', options.dryRun);
-  rl.close();
 
+  if (cancelled) return null;
+  console.log('\n配置已确认，开始执行。\n');
   return normalizeOptions(options);
+}
+
+function createTuiFields(options) {
+  const setText = key => value => {
+    options[key] = value;
+  };
+  const setPath = key => value => {
+    options[key] = path.resolve(value);
+  };
+  const setInputPath = value => {
+    const previousDefaultWorkdir = defaultWorkdirForInput(options.input);
+    const nextInput = path.resolve(value);
+    if (options.workdir === previousDefaultWorkdir) {
+      options.workdir = defaultWorkdirForInput(nextInput);
+    }
+    options.input = nextInput;
+  };
+  const setNumber = (key, minimum = 0) => value => {
+    const parsed = Number(value);
+    if (!Number.isFinite(parsed) || parsed < minimum) {
+      console.log(`输入无效：请输入不小于 ${minimum} 的数字，已保留原值。`);
+      return;
+    }
+    options[key] = Math.floor(parsed);
+  };
+  const setBoolean = key => value => {
+    const normalized = String(value).trim().toLowerCase();
+    if (!['1', '0', 'true', 'false', 'yes', 'no', 'y', 'n', 'on', 'off', '是', '否'].includes(normalized)) {
+      console.log('输入无效：请输入“是”或“否”，已保留原值。');
+      return;
+    }
+    options[key] = normalized === '是' ? true : normalized === '否' ? false : toBoolean(normalized, options[key]);
+  };
+  const setDate = key => value => {
+    const cleared = clearableValue(value);
+    if (cleared && !isValidDateOption(cleared)) {
+      console.log('输入无效：请使用 YYYY-MM-DD 格式，已保留原值。');
+      return;
+    }
+    options[key] = cleared;
+  };
+
+  const fields = [
+    { group: '项目筛选', label: '最低 Stars', key: 'minStars', hint: '0 表示不限制', update: setNumber('minStars') },
+    { group: '项目筛选', label: '最高 Stars', key: 'maxStars', hint: '0 表示不限制', update: setNumber('maxStars') },
+    { group: '项目筛选', label: '最近更新天数', key: 'updatedWithinDays', hint: '如 30；0 表示不限制', update: setNumber('updatedWithinDays') },
+    { group: '项目筛选', label: '最近收录天数', key: 'addedWithinDays', hint: '如 7；0 表示不限制', update: setNumber('addedWithinDays') },
+    { group: '项目筛选', label: '更新起始日期', key: 'since', hint: 'YYYY-MM-DD；“-”表示清空', update: setDate('since') },
+    { group: '项目筛选', label: '收录起始日期', key: 'addedSince', hint: 'YYYY-MM-DD；“-”表示清空', update: setDate('addedSince') },
+    { group: '项目筛选', label: '分类', key: 'category', hint: '多个值用逗号分隔；“-”表示全部', update: value => setText('category')(clearableValue(value)) },
+    { group: '项目筛选', label: '子分类', key: 'subcategory', hint: '多个值用逗号分隔；“-”表示全部', update: value => setText('subcategory')(clearableValue(value)) },
+    { group: '项目筛选', label: '最多处理数量', key: 'limit', hint: '0 表示不限制', update: setNumber('limit') },
+    { group: '项目筛选', label: '包含仅 trending 项目', key: 'includeTrending', hint: '是/否', update: setBoolean('includeTrending') },
+    { group: '执行设置', label: '项目数据文件或目录', key: 'input', update: setInputPath },
+    { group: '执行设置', label: '输出目录', key: 'workdir', update: setPath('workdir') },
+    { group: '执行设置', label: '并发数', key: 'concurrency', hint: '至少为 1', update: setNumber('concurrency', 1) },
+    { group: '执行设置', label: '请求间隔（毫秒）', key: 'intervalMs', update: setNumber('intervalMs') },
+    { group: '执行设置', label: '失败重试次数', key: 'retry', update: setNumber('retry') },
+    { group: '执行设置', label: '重试退避（毫秒）', key: 'retryDelayMs', update: setNumber('retryDelayMs') },
+    { group: '执行设置', label: '请求超时（毫秒）', key: 'timeoutMs', hint: '至少为 1000', update: setNumber('timeoutMs', 1000) },
+    { group: '执行设置', label: 'README 最大字节数', key: 'maxBytes', hint: '0 表示不限制', update: setNumber('maxBytes') },
+    { group: '执行设置', label: '断点续跑', key: 'resume', hint: '是/否', update: setBoolean('resume') },
+    { group: '执行设置', label: '同步已有 README', key: 'sync', hint: '是/否', update: setBoolean('sync') },
+    { group: '执行设置', label: '同步检查间隔天数', key: 'staleDays', hint: '0 表示全部检查', update: setNumber('staleDays') },
+    { group: '执行设置', label: '重试未找到的 README', key: 'retryNotFound', hint: '是/否', update: setBoolean('retryNotFound') },
+    { group: '执行设置', label: '等待 GitHub 限额重置', key: 'waitRateLimit', hint: '是/否', update: setBoolean('waitRateLimit') },
+    { group: '执行设置', label: '强制重新提取', key: 'force', hint: '是/否', update: setBoolean('force') },
+    { group: '执行设置', label: '仅预览，不抓取', key: 'dryRun', hint: '是/否', update: setBoolean('dryRun') },
+  ];
+
+  return fields.map(field => ({ ...field, getValue: () => options[field.key] }));
+}
+
+function printTuiConfig(fields) {
+  console.log('\nHello-AI README 提取配置');
+  console.log('直接回车将使用以下配置，只有需要调整时才选择对应编号。');
+  let currentGroup = '';
+  for (const [index, field] of fields.entries()) {
+    if (field.group !== currentGroup) {
+      currentGroup = field.group;
+      console.log(`\n${currentGroup}`);
+    }
+    console.log(`  ${String(index + 1).padStart(2, ' ')}. ${field.label.padEnd(18, ' ')} ${formatTuiValue(field)}`);
+  }
+  console.log('');
+}
+
+function formatTuiValue(field) {
+  const actualValue = field.getValue();
+  if (typeof actualValue === 'boolean') return actualValue ? '是' : '否';
+  if (actualValue === '') return '全部/未设置';
+  return String(actualValue);
+}
+
+function parseTuiSelection(input, fieldCount) {
+  const selected = new Set();
+  for (const part of String(input).split(/[，,\s]+/)) {
+    if (!/^\d+$/.test(part)) continue;
+    const index = Number(part);
+    if (index >= 1 && index <= fieldCount) selected.add(index);
+  }
+  return [...selected];
+}
+
+function clearableValue(value) {
+  return value === '-' ? '' : value;
 }
 
 function readJson(filePath, fallback = null) {
@@ -292,6 +453,74 @@ function readJson(filePath, fallback = null) {
   } catch (err) {
     if (fallback !== null) return fallback;
     throw err;
+  }
+}
+
+function resolveProjectInput(inputPath) {
+  if (!fs.existsSync(inputPath)) {
+    throw new Error(`项目数据路径不存在：${inputPath}`);
+  }
+
+  const stat = fs.statSync(inputPath);
+  if (stat.isFile()) {
+    return { path: inputPath, type: 'file', files: [inputPath] };
+  }
+
+  if (!stat.isDirectory()) {
+    throw new Error(`项目数据路径必须是 JSON 文件或目录：${inputPath}`);
+  }
+
+  const files = fs.readdirSync(inputPath, { withFileTypes: true })
+    .filter(entry => entry.isFile() && entry.name.toLowerCase().endsWith('.json'))
+    .map(entry => path.join(inputPath, entry.name))
+    .sort((a, b) => path.basename(a).localeCompare(path.basename(b), undefined, { numeric: true }));
+
+  if (files.length === 0) {
+    throw new Error(`项目数据目录中没有 JSON 文件：${inputPath}`);
+  }
+
+  return { path: inputPath, type: 'directory', files };
+}
+
+function readProjectInputFile(filePath) {
+  let projectDb;
+  try {
+    projectDb = readJson(filePath);
+  } catch (err) {
+    throw new Error(`读取项目数据失败 ${filePath}：${err.message}`);
+  }
+
+  if (!Array.isArray(projectDb?.categories) && !Array.isArray(projectDb?.rejected)) {
+    throw new Error(`不支持的项目数据结构 ${filePath}：需要 categories 或 rejected 数组。`);
+  }
+
+  return projectDb;
+}
+
+async function forEachProjectBatch(inputInfo, options, visitor) {
+  const seenUrls = new Set();
+  const batchOptions = { ...options, limit: 0 };
+  let remaining = options.limit > 0 ? options.limit : Infinity;
+
+  for (const filePath of inputInfo.files) {
+    const projectDb = readProjectInputFile(filePath);
+    const candidates = flattenProjects(projectDb, batchOptions);
+    const projects = [];
+
+    for (const project of candidates) {
+      if (seenUrls.has(project.sourceKey)) continue;
+      seenUrls.add(project.sourceKey);
+      projects.push(project);
+      remaining -= 1;
+      if (remaining === 0) break;
+    }
+
+    if (projects.length > 0) {
+      const shouldContinue = await visitor(projects, filePath);
+      if (shouldContinue === false) break;
+    }
+
+    if (remaining === 0) break;
   }
 }
 
@@ -315,11 +544,11 @@ function normalizeKey(value) {
 }
 
 function flattenProjects(projectDb, options) {
-  const categories = Array.isArray(projectDb?.categories) ? projectDb.categories : [];
+  const categories = projectCategories(projectDb);
   const categoryFilter = new Set(splitList(options.category).map(normalizeKey));
   const subcategoryFilter = new Set(splitList(options.subcategory).map(normalizeKey));
-  const sinceTime = parseDateTime(options.since);
-  const addedSinceTime = parseDateTime(options.addedSince);
+  const sinceTime = latestCutoffTime(options.since, options.updatedWithinDays);
+  const addedSinceTime = latestCutoffTime(options.addedSince, options.addedWithinDays);
   const byUrl = new Map();
 
   for (const category of categories) {
@@ -342,7 +571,8 @@ function flattenProjects(projectDb, options) {
       const lastUpdatedTime = parseDateTime(project.lastUpdated || project.pushed_at);
       if (sinceTime && (!lastUpdatedTime || lastUpdatedTime < sinceTime)) continue;
 
-      const addedAtTime = parseDateTime(project.addedAt || project.added_to_queue);
+      const addedAt = project.addedAt || project.added_to_queue || project.rejected_at || '';
+      const addedAtTime = parseDateTime(addedAt);
       if (addedSinceTime && (!addedAtTime || addedAtTime < addedSinceTime)) continue;
 
       const sourceKey = normalizeKey(url);
@@ -375,7 +605,7 @@ function flattenProjects(projectDb, options) {
         subcategory,
         stars,
         lastUpdated: project.lastUpdated || project.pushed_at || '',
-        addedAt: project.addedAt || project.added_to_queue || '',
+        addedAt,
         topics: Array.isArray(project.topics) ? project.topics : [],
         tags: Array.isArray(project.tags) ? project.tags : [],
       });
@@ -385,6 +615,24 @@ function flattenProjects(projectDb, options) {
   let projects = [...byUrl.values()].filter(project => !project.skippedTrending);
   if (options.limit > 0) projects = projects.slice(0, options.limit);
   return projects;
+}
+
+function projectCategories(projectDb) {
+  const categories = Array.isArray(projectDb?.categories) ? [...projectDb.categories] : [];
+  if (Array.isArray(projectDb?.rejected)) {
+    categories.push({
+      id: 'rejected',
+      name: '已拒绝项目',
+      projects: projectDb.rejected,
+    });
+  }
+  return categories;
+}
+
+function latestCutoffTime(dateValue, withinDays) {
+  const fixedTime = parseDateTime(dateValue);
+  const relativeTime = withinDays > 0 ? Date.now() - withinDays * 86400000 : 0;
+  return Math.max(fixedTime, relativeTime);
 }
 
 function parseDateTime(value) {
@@ -431,12 +679,7 @@ function writeManifestSnapshot(workdir, latestByUrl) {
 }
 
 function buildWorklist(projects, latestByUrl, options) {
-  const skipped = {
-    completed: 0,
-    fresh: 0,
-    notFound: 0,
-    unsupported: 0,
-  };
+  const skipped = createSkippedCounts();
   const worklist = [];
 
   for (const project of projects) {
@@ -490,6 +733,15 @@ function buildWorklist(projects, latestByUrl, options) {
   }
 
   return { worklist, skipped };
+}
+
+function createSkippedCounts() {
+  return {
+    completed: 0,
+    fresh: 0,
+    notFound: 0,
+    unsupported: 0,
+  };
 }
 
 function hasLocalFiles(workdir, record) {
@@ -750,7 +1002,7 @@ async function processProject(entry, options, ctx, progress) {
       if (err instanceof RateLimitError) {
         if (options.waitRateLimit) {
           const waitMs = Math.max(err.retryAfterMs || 0, 60_000);
-          progress.log(`Rate limited. Waiting ${formatDuration(waitMs)} before retrying ${project.owner}/${project.repo}.`);
+          progress.log(`达到 GitHub 请求限额，等待 ${formatDuration(waitMs)} 后重试 ${project.owner}/${project.repo}。`);
           await sleep(waitMs + 1000);
           continue;
         }
@@ -765,14 +1017,14 @@ async function processProject(entry, options, ctx, progress) {
           retryAfterMs: err.retryAfterMs,
         });
         ctx.stopRequested = true;
-        progress.log(`Rate limited at ${project.owner}/${project.repo}. Stopping after active tasks finish.`);
+        progress.log(`${project.owner}/${project.repo} 触发 GitHub 请求限额，当前任务完成后停止。`);
         return record;
       }
 
       const retryable = isRetryableError(err);
       if (attempt < maxAttempts && retryable) {
         const waitMs = options.retryDelayMs * attempt;
-        progress.log(`Retry ${attempt}/${options.retry} for ${project.owner}/${project.repo}: ${err.message}`);
+        progress.log(`重试 ${attempt}/${options.retry} ${project.owner}/${project.repo}：${err.message}`);
         await sleep(waitMs);
         continue;
       }
@@ -790,7 +1042,7 @@ async function processProject(entry, options, ctx, progress) {
     error: String(lastError?.message || lastError || 'Unknown error').slice(0, 1000),
     httpStatus: lastError?.status || 0,
   });
-  progress.log(`Failed ${project.owner}/${project.repo}: ${record.error}`);
+  progress.log(`失败 ${project.owner}/${project.repo}：${record.error}`);
   return record;
 }
 
@@ -1125,10 +1377,10 @@ function writeJsonAtomic(filePath, data) {
 
 function formatOutcome(project, record, reason) {
   const label = `${project.owner}/${project.repo}`;
-  if (record.status === 'ok' && record.unchanged) return `Unchanged ${label} (${reason})`;
-  if (record.status === 'ok') return `Fetched ${label} ${record.bytes || 0} bytes`;
-  if (record.status === 'not_found') return `Not found ${label}`;
-  if (record.status === 'unsupported') return `Unsupported ${label}: ${record.reason}`;
+  if (record.status === 'ok' && record.unchanged) return `无更新 ${label}（${reason}）`;
+  if (record.status === 'ok') return `已提取 ${label}，${record.bytes || 0} 字节`;
+  if (record.status === 'not_found') return `未找到 README：${label}`;
+  if (record.status === 'unsupported') return `不支持 ${label}：${record.reason}`;
   return `${record.status} ${label}`;
 }
 
@@ -1173,17 +1425,17 @@ class ProgressView {
     const perSecond = processed > 0 ? processed / Math.max(1, elapsedMs / 1000) : 0;
     const etaMs = perSecond > 0 ? ((total - processed) / perSecond) * 1000 : 0;
 
-    console.log('Hello-AI README Extractor');
-    console.log(final ? 'Status: finished' : 'Status: running, press Ctrl+C to stop gracefully');
+    console.log('Hello-AI README 提取工具');
+    console.log(final ? '状态：已完成' : '状态：运行中，按 Ctrl+C 可安全停止');
     console.log('');
-    console.log(`Progress: ${bar} ${processed}/${total} ${percent.toFixed(1)}%`);
-    console.log(`Active: ${this.state.active}  Remaining: ${Math.max(0, total - processed)}  Elapsed: ${formatDuration(elapsedMs)}  ETA: ${etaMs ? formatDuration(etaMs) : '-'}`);
+    console.log(`进度：${bar} ${processed}/${total} ${percent.toFixed(1)}%`);
+    console.log(`进行中：${this.state.active}  剩余：${Math.max(0, total - processed)}  已用时：${formatDuration(elapsedMs)}  预计剩余：${etaMs ? formatDuration(etaMs) : '-'}`);
     console.log('');
-    console.log(`OK: ${this.state.ok}  Unchanged: ${this.state.unchanged}  Not found: ${this.state.notFound}  Unsupported: ${this.state.unsupported}`);
-    console.log(`Failed: ${this.state.failed}  Rate limited: ${this.state.rateLimited}  Skipped: ${this.state.skippedTotal}`);
-    console.log(`Rate limit: remaining ${this.state.rateLimit.remaining || '-'} / ${this.state.rateLimit.limit || '-'}  reset ${this.state.rateLimit.resetAt || '-'}`);
+    console.log(`成功：${this.state.ok}  无更新：${this.state.unchanged}  未找到：${this.state.notFound}  不支持：${this.state.unsupported}`);
+    console.log(`失败：${this.state.failed}  请求受限：${this.state.rateLimited}  已跳过：${this.state.skippedTotal}`);
+    console.log(`GitHub 限额：剩余 ${this.state.rateLimit.remaining || '-'} / ${this.state.rateLimit.limit || '-'}  重置时间 ${this.state.rateLimit.resetAt || '-'}`);
     console.log('');
-    console.log('Recent events:');
+    console.log('最近事件：');
     for (const event of this.state.events.slice(-10)) console.log(`  ${event}`);
   }
 }
@@ -1224,7 +1476,7 @@ async function runPool(worklist, options, ctx, progress, state) {
           })
           .catch(err => {
             state.failed += 1;
-            progress.log(`Unhandled error: ${err.message}`);
+            progress.log(`未处理错误：${err.message}`);
           })
           .finally(() => {
             state.processed += 1;
@@ -1272,24 +1524,71 @@ function buildState(total, skipped) {
   };
 }
 
-function printDryRun(projects, worklist, skipped, manifestInfo, options) {
-  const byCategory = countBy(projects, project => project.categoryId);
-  const byReason = countBy(worklist, item => item.reason);
+async function analyzeProjectInput(inputInfo, options, latestByUrl) {
+  const analysis = {
+    totalCandidates: 0,
+    scheduled: 0,
+    skipped: createSkippedCounts(),
+    byCategory: {},
+    byReason: {},
+  };
 
-  console.log('Dry run summary');
-  console.log(`Input: ${path.relative(rootDir, options.input) || options.input}`);
-  console.log(`Workdir: ${options.workdir}`);
-  console.log(`Manifest entries: ${manifestInfo.totalEntries}`);
-  console.log(`Unique candidates: ${projects.length}`);
-  console.log(`Scheduled: ${worklist.length}`);
-  console.log(`Skipped: ${Object.values(skipped).reduce((sum, value) => sum + value, 0)}`);
+  await forEachProjectBatch(inputInfo, options, projects => {
+    const { worklist, skipped } = buildWorklist(projects, latestByUrl, options);
+    analysis.totalCandidates += projects.length;
+    analysis.scheduled += worklist.length;
+    mergeCounts(analysis.skipped, skipped);
+    mergeCounts(analysis.byCategory, countBy(projects, project => project.categoryId));
+    mergeCounts(analysis.byReason, countBy(worklist, item => item.reason));
+  });
+
+  return analysis;
+}
+
+function mergeCounts(target, source) {
+  for (const [key, value] of Object.entries(source)) {
+    target[key] = (target[key] || 0) + value;
+  }
+  return target;
+}
+
+function printDryRun(analysis, manifestInfo, options, inputInfo) {
+  const skippedTotal = Object.values(analysis.skipped).reduce((sum, value) => sum + value, 0);
+
+  console.log('预览摘要');
+  console.log(`项目数据：${path.relative(rootDir, options.input) || options.input}`);
+  console.log(`输入类型：${inputInfo.type === 'directory' ? `目录（${inputInfo.files.length} 个 JSON 分片）` : '单个 JSON 文件'}`);
+  console.log(`输出目录：${options.workdir}`);
+  console.log(`清单记录数：${manifestInfo.totalEntries}`);
+  console.log(`去重后候选数：${analysis.totalCandidates}`);
+  console.log(`计划处理数：${analysis.scheduled}`);
+  console.log(`跳过数量：${skippedTotal}`);
   console.log('');
-  console.log('Skipped detail:', JSON.stringify(skipped));
-  console.log('Work reasons:', JSON.stringify(byReason));
-  console.log('Categories:', JSON.stringify(byCategory));
+  console.log('跳过明细：', JSON.stringify(analysis.skipped));
+  console.log('任务原因：', JSON.stringify(analysis.byReason));
+  console.log('分类分布：', JSON.stringify(analysis.byCategory));
   console.log('');
-  console.log(`Concurrency: ${options.concurrency}, interval: ${options.intervalMs}ms, retry: ${options.retry}`);
-  console.log(`Mode: resume=${options.resume}, sync=${options.sync}, force=${options.force}, staleDays=${options.staleDays}`);
+  console.log(`执行参数：并发 ${options.concurrency}，请求间隔 ${options.intervalMs}ms，重试 ${options.retry} 次`);
+  console.log(`运行模式：断点续跑=${formatBoolean(options.resume)}，同步=${formatBoolean(options.sync)}，强制提取=${formatBoolean(options.force)}，过期天数=${options.staleDays}`);
+  console.log(`筛选条件：Stars ${formatNumberRange(options.minStars, options.maxStars)}，更新时间 ${formatDateFilter(options.since, options.updatedWithinDays)}，收录时间 ${formatDateFilter(options.addedSince, options.addedWithinDays)}`);
+}
+
+function formatBoolean(value) {
+  return value ? '是' : '否';
+}
+
+function formatNumberRange(minimum, maximum) {
+  if (minimum && maximum) return `${minimum} - ${maximum}`;
+  if (minimum) return `>= ${minimum}`;
+  if (maximum) return `<= ${maximum}`;
+  return '不限';
+}
+
+function formatDateFilter(dateValue, days) {
+  if (dateValue && days > 0) return `${days} 天内且不早于 ${dateValue}`;
+  if (days > 0) return `${days} 天内`;
+  if (dateValue) return `不早于 ${dateValue}`;
+  return '不限';
 }
 
 function countBy(items, getKey) {
@@ -1314,21 +1613,24 @@ async function main() {
 
   if (options.tui) {
     options = await applyTuiConfig(options);
+    if (!options) {
+      console.log('\n已取消执行。');
+      return;
+    }
   }
 
-  const projectDb = readJson(options.input);
-  const projects = flattenProjects(projectDb, options);
+  const inputInfo = resolveProjectInput(options.input);
   const manifestInfo = loadManifest(options.workdir);
-  const { worklist, skipped } = buildWorklist(projects, manifestInfo.latestByUrl, options);
+  const analysis = await analyzeProjectInput(inputInfo, options, manifestInfo.latestByUrl);
 
   if (options.dryRun) {
-    printDryRun(projects, worklist, skipped, manifestInfo, options);
+    printDryRun(analysis, manifestInfo, options, inputInfo);
     return;
   }
 
   fs.mkdirSync(options.workdir, { recursive: true });
 
-  const state = buildState(worklist.length, skipped);
+  const state = buildState(analysis.scheduled, analysis.skipped);
   const ctx = {
     throttle: createThrottle(options.intervalMs),
     latestByUrl: manifestInfo.latestByUrl,
@@ -1339,12 +1641,18 @@ async function main() {
   const progress = new ProgressView(options, state);
 
   progress.start();
-  progress.log(`Workdir: ${options.workdir}`);
-  progress.log(`Scheduled ${worklist.length} projects, skipped ${state.skippedTotal}.`);
+  progress.log(`项目数据：${options.input}${inputInfo.type === 'directory' ? `（${inputInfo.files.length} 个分片）` : ''}`);
+  progress.log(`输出目录：${options.workdir}`);
+  progress.log(`计划处理 ${analysis.scheduled} 个项目，跳过 ${state.skippedTotal} 个。`);
 
   const startedAt = Date.now();
   try {
-    await runPool(worklist, options, ctx, progress, state);
+    await forEachProjectBatch(inputInfo, options, async projects => {
+      if (ctx.stopRequested) return false;
+      const { worklist } = buildWorklist(projects, ctx.latestByUrl, options);
+      await runPool(worklist, options, ctx, progress, state);
+      return !ctx.stopRequested;
+    });
   } finally {
     const finishedAt = nowIso();
     const summary = {
@@ -1352,9 +1660,10 @@ async function main() {
       finishedAt,
       elapsedMs: Date.now() - startedAt,
       options: summarizeOptions(options),
-      totalCandidates: projects.length,
-      scheduled: worklist.length,
-      skipped,
+      inputFiles: inputInfo.files.length,
+      totalCandidates: analysis.totalCandidates,
+      scheduled: analysis.scheduled,
+      skipped: analysis.skipped,
       results: {
         ok: state.ok,
         unchanged: state.unchanged,
@@ -1373,7 +1682,7 @@ async function main() {
 
     if (!options.tui) {
       console.log('');
-      console.log('Summary');
+      console.log('执行摘要');
       console.log(JSON.stringify(summary, null, 2));
     }
   }
@@ -1390,6 +1699,8 @@ function summarizeOptions(options) {
     maxStars: options.maxStars,
     since: options.since,
     addedSince: options.addedSince,
+    updatedWithinDays: options.updatedWithinDays,
+    addedWithinDays: options.addedWithinDays,
     concurrency: options.concurrency,
     intervalMs: options.intervalMs,
     retry: options.retry,
@@ -1402,22 +1713,23 @@ function summarizeOptions(options) {
     sync: options.sync,
     retryNotFound: options.retryNotFound,
     waitRateLimit: options.waitRateLimit,
+    includeTrending: options.includeTrending,
   };
 }
 
 process.on('SIGINT', () => {
   sigintCount += 1;
   if (sigintCount >= 2) {
-    console.log('\nForced stop requested.');
+    console.log('\n已请求强制停止。');
     process.exit(130);
   }
 
   if (activeRunContext) activeRunContext.stopRequested = true;
-  console.log('\nStop requested. No new tasks will start; current in-flight tasks will finish. Press Ctrl+C again to force stop.');
+  console.log('\n已请求安全停止。不会启动新任务，当前任务完成后退出；再次按 Ctrl+C 可强制停止。');
   process.exitCode = 130;
 });
 
 main().catch(err => {
-  console.error(`README extraction failed: ${err.stack || err.message}`);
+  console.error(`README 提取失败：${err.stack || err.message}`);
   process.exit(1);
 });
