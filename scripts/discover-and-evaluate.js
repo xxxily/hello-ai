@@ -40,6 +40,37 @@ const DEFAULT_TOPICS = {
   exhausted: {},
 };
 
+function parseUpdatedWithinDays(args = process.argv) {
+  const flag = '--updated-within-days';
+  let rawValue = null;
+
+  for (let index = 0; index < args.length; index++) {
+    const arg = args[index];
+    if (arg === flag) {
+      rawValue = args[index + 1];
+      break;
+    }
+    if (arg.startsWith(`${flag}=`)) {
+      rawValue = arg.slice(flag.length + 1);
+      break;
+    }
+  }
+
+  if (rawValue === null) return null;
+
+  const days = Number(rawValue);
+  if (typeof rawValue !== 'string' || rawValue.trim() === '' || !Number.isInteger(days) || days < 0) {
+    throw new Error(`${flag} must be a non-negative integer.`);
+  }
+  return days;
+}
+
+function isUpdatedSince(item, cutoffTime) {
+  if (!cutoffTime) return true;
+  const pushedAt = new Date(item.pushed_at).getTime();
+  return Number.isFinite(pushedAt) && pushedAt >= cutoffTime;
+}
+
 async function fetchWithRetry(url, options = {}, retries = 3, delay = 1000) {
   for (let i = 0; i < retries; i++) {
     try {
@@ -273,6 +304,10 @@ async function askLLM(prompt) {
 async function discover() {
   const isResume = process.argv.includes('--resume');
   const isUpdateOnly = process.argv.includes('--update-only');
+  const updatedWithinDays = parseUpdatedWithinDays();
+  const updatedCutoff = updatedWithinDays && updatedWithinDays > 0
+    ? Date.now() - updatedWithinDays * 24 * 60 * 60 * 1000
+    : null;
 
   if (process.argv.includes('--consume-only') && !isUpdateOnly) {
     console.log('⏭️ [Discovery] Skipped GitHub API discovery due to --consume-only flag.');
@@ -428,11 +463,16 @@ async function discover() {
 
   const useTopic = Math.random() > 0.4;
   const q = useTopic ? `topic:${pickedTopic}` : pickedTopic;
+  const updatedSince = updatedCutoff ? new Date(updatedCutoff).toISOString().slice(0, 10) : null;
+  const updatedQualifier = updatedSince ? `+pushed:>=${updatedSince}` : '';
 
-  const searchUrl = `https://api.github.com/search/repositories?q=${q}+stars:>=${minStars}&sort=${randomSort}&order=desc&per_page=${batchSize}&page=${pageToExplore}`;
+  const searchUrl = `https://api.github.com/search/repositories?q=${q}+stars:>=${minStars}${updatedQualifier}&sort=${randomSort}&order=desc&per_page=${batchSize}&page=${pageToExplore}`;
 
   console.log(`🔍 [GitHub Search] Using keyword/topic: "${q}"`);
   console.log(`🌐 Calling GitHub API: sort:${randomSort}, page:${pageToExplore}, stars:>=${minStars}`);
+  if (updatedSince) {
+    console.log(`📅 [Discovery] Only queueing repositories pushed since ${updatedSince} (${updatedWithinDays} days).`);
+  }
 
   try {
     const res = await fetchWithRetry(searchUrl, {
@@ -472,8 +512,15 @@ async function discover() {
     let newTopicsCount = 0;
     let updatedProjectCount = 0;
     let blockedCount = 0;
+    let staleCount = 0;
 
     for (const item of items) {
+      // GitHub search is date-filtered, but check again before queueing as a safeguard.
+      if (!isUpdatedSince(item, updatedCutoff)) {
+        staleCount++;
+        continue;
+      }
+
       // Proactive description fetching
       if (!item.description && item.stargazers_count >= AUTO_FETCH_DESC_STARS) {
         console.log(`📡 [Proactive Fetch] Fetching description for ${item.full_name} (${item.stargazers_count} stars)...`);
@@ -544,6 +591,9 @@ async function discover() {
     }
     if (blockedCount > 0) {
       console.log(`🚫 Blocked ${blockedCount} suspicious or blacklisted projects before queueing.`);
+    }
+    if (staleCount > 0) {
+      console.log(`📅 Skipped ${staleCount} repositories outside the ${updatedWithinDays}-day update window.`);
     }
 
     // Save or clear session state

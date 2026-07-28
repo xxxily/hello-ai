@@ -1,6 +1,6 @@
 {
-  "totalProjects": 10655,
-  "totalRawProjects": 21228,
+  "totalProjects": 10887,
+  "totalRawProjects": 21555,
   "recencyThresholdMonths": 6,
   "categories": {
     "trending": {
@@ -10,64 +10,64 @@
     },
     "llms": {
       "name": "🧠 基础大模型",
-      "count": 151,
-      "rawCount": 598
+      "count": 152,
+      "rawCount": 602
     },
     "agents": {
       "name": "🤖 智能体与编排",
-      "count": 1782,
-      "rawCount": 2187
+      "count": 1829,
+      "rawCount": 2239
     },
     "rag_data": {
       "name": "🔍 RAG与检索",
-      "count": 479,
-      "rawCount": 737
+      "count": 494,
+      "rawCount": 757
     },
     "infrastructure": {
       "name": "☁️ 基础设施与部署",
-      "count": 1040,
-      "rawCount": 1672
+      "count": 1061,
+      "rawCount": 1691
     },
     "finetuning": {
       "name": "🔧 微调与训练",
-      "count": 385,
-      "rawCount": 965
+      "count": 393,
+      "rawCount": 978
     },
     "multimodal": {
       "name": "👁️ 多模态与音视频",
-      "count": 893,
-      "rawCount": 2963
+      "count": 924,
+      "rawCount": 3013
     },
     "devtools": {
       "name": "🛠️ 开发工具与SDK",
-      "count": 2379,
-      "rawCount": 3817
+      "count": 2420,
+      "rawCount": 3886
     },
     "applications": {
       "name": "🎨 AI终端应用",
-      "count": 1074,
-      "rawCount": 1845
+      "count": 1114,
+      "rawCount": 1896
     },
     "learning": {
       "name": "📚 学习与资源",
       "count": 1356,
-      "rawCount": 4416
+      "rawCount": 4433
     },
     "desktop_tools": {
       "name": "💻 桌面与操作系统级应用",
-      "count": 400,
-      "rawCount": 515
+      "count": 410,
+      "rawCount": 525
     },
     "robotics_iot": {
       "name": "🦾 机器人与物联网",
-      "count": 505,
-      "rawCount": 1137
+      "count": 507,
+      "rawCount": 1143
     },
     "finance_business": {
       "name": "💼 商业与量化",
-      "count": 237,
-      "rawCount": 423
+      "count": 253,
+      "rawCount": 439
     }
   },
-  "lastUpdated": "2026-07-18T15:43:04.537Z"
+  "lastUpdated": "2026-07-28T03:42:50.393Z"
 }

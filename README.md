@@ -24,23 +24,23 @@
 
 *Summary of high-quality open-source AI projects collected from the internet:*
 
-- 📁 **Total Collected**: 21228 projects
-- ⚡ **Active Shown**: 10655 projects (updated within the last 6 months)
+- 📁 **Total Collected**: 21555 projects
+- ⚡ **Active Shown**: 10887 projects (updated within the last 6 months)
 - 🏷️ **Categories (Active / Total)**:
   - 🔥 Trending: 30 / 30
-  - 🧠 Foundation Models: 151 / 598
-  - 🤖 Agents & Orchestration: 1782 / 2187
-  - 🔍 RAG & Data Engineering: 479 / 737
-  - ☁️ Infrastructure & Deployment: 1040 / 1672
-  - 🔧 Fine-tuning & Training: 385 / 965
-  - 👁️ Multimodal (Audio/Video): 893 / 2963
-  - 🛠️ Developer Tools & SDKs: 2379 / 3817
-  - 🎨 AI Applications: 1074 / 1845
-  - 📚 Learning Resources: 1356 / 4416
-  - 💻 Desktop & OS Apps: 400 / 515
-  - 🦾 Robotics & IoT: 505 / 1137
-  - 💼 Business & Finance: 237 / 423
-- 📅 **Last Updated**: 2026-07-18
+  - 🧠 Foundation Models: 152 / 602
+  - 🤖 Agents & Orchestration: 1829 / 2239
+  - 🔍 RAG & Data Engineering: 494 / 757
+  - ☁️ Infrastructure & Deployment: 1061 / 1691
+  - 🔧 Fine-tuning & Training: 393 / 978
+  - 👁️ Multimodal (Audio/Video): 924 / 3013
+  - 🛠️ Developer Tools & SDKs: 2420 / 3886
+  - 🎨 AI Applications: 1114 / 1896
+  - 📚 Learning Resources: 1356 / 4433
+  - 💻 Desktop & OS Apps: 410 / 525
+  - 🦾 Robotics & IoT: 507 / 1143
+  - 💼 Business & Finance: 253 / 439
+- 📅 **Last Updated**: 2026-07-28
 <!-- STATS_END -->
 
 ## Overview
@@ -203,6 +203,7 @@ When running `npm run ai:discover-eval` or its variants, you can append the foll
   - `quality`: Prioritize exploring topics with the highest quality score (based on already included projects).
   - `time`: Prioritize exploring the least recently explored topics.
 - `--topic-order=asc|desc`: Sorting direction (default: Desc for Quality, Asc for Time).
+- `--updated-within-days=<n>`: Only enqueue discovered repositories pushed within the last `n` days; use `0` for no limit. `ai:loop-eval` defaults to `180` and accepts this flag to override it.
 - `--consume-only`: Evaluates local queue items only, skipping new GitHub searches.
 - `--resume`: Resumes discovery from the last saved topic and page.
 - `--update-only`: Mass updates existing projects without LLM evaluation.

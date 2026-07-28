@@ -7,6 +7,32 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 let count = 0;
+const DEFAULT_UPDATED_WITHIN_DAYS = 180;
+
+function parseUpdatedWithinDays(args, defaultValue = null) {
+  const flag = '--updated-within-days';
+  let rawValue = null;
+
+  for (let index = 0; index < args.length; index++) {
+    const arg = args[index];
+    if (arg === flag) {
+      rawValue = args[index + 1];
+      break;
+    }
+    if (arg.startsWith(`${flag}=`)) {
+      rawValue = arg.slice(flag.length + 1);
+      break;
+    }
+  }
+
+  if (rawValue === null) return defaultValue;
+
+  const days = Number(rawValue);
+  if (typeof rawValue !== 'string' || rawValue.trim() === '' || !Number.isInteger(days) || days < 0) {
+    throw new Error(`${flag} must be a non-negative integer.`);
+  }
+  return days;
+}
 
 /**
  * 运行一次 ai:discover-eval 任务
@@ -66,7 +92,7 @@ async function runOnce(extraArgs = []) {
 /**
  * TUI 交互模式
  */
-async function tuiMenu() {
+async function tuiMenu(defaultUpdatedWithinDays = DEFAULT_UPDATED_WITHIN_DAYS) {
   const rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout
@@ -89,9 +115,15 @@ async function tuiMenu() {
     order = await question('\n4. 时间排序细化:\n   [1] 默认模式 (未探索过的优先)\n   [2] 更新模式 (已探索过的优先 - 用于更新项目数据)\n   选择 [1]: ') || '1';
   }
 
+  const updatedWithinDaysInput = await question(`\n5. 项目更新时间过滤:\n   仅将最近 N 天有 GitHub 推送更新的发现项目加入待审队列。\n   输入 0 可关闭过滤。天数 [${defaultUpdatedWithinDays}]: `) || String(defaultUpdatedWithinDays);
+  const updatedWithinDays = parseUpdatedWithinDays([
+    `--updated-within-days=${updatedWithinDaysInput.trim()}`
+  ]);
+
   const extraArgs = [];
   if (mode === '2') extraArgs.push('--consume-only');
   if (mode === '3') extraArgs.push('--update-only');
+  extraArgs.push(`--updated-within-days=${updatedWithinDays}`);
 
   if (resume === '2') extraArgs.push('--resume');
 
@@ -118,10 +150,13 @@ async function start() {
   const isTui = process.argv.includes('--tui');
 
   if (isTui) {
-    extraArgs = await tuiMenu();
+    const updatedWithinDays = parseUpdatedWithinDays(process.argv, DEFAULT_UPDATED_WITHIN_DAYS);
+    extraArgs = await tuiMenu(updatedWithinDays);
   } else {
     // 兼容原有参数传递
     if (process.argv.includes('--consume-only')) extraArgs.push('--consume-only');
+    const updatedWithinDays = parseUpdatedWithinDays(process.argv, DEFAULT_UPDATED_WITHIN_DAYS);
+    extraArgs.push(`--updated-within-days=${updatedWithinDays}`);
   }
 
   process.stdout.write('\x1Bc'); // 清屏
