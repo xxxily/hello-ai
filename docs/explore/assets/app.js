@@ -7,6 +7,31 @@ const STORE_KEYS = {
   recent: 'hello-ai-explore-recent'
 };
 
+const LENS_OPTIONS = [
+  { id: 'balanced', label: '综合推荐', shortLabel: '综合', description: '兼顾相关度、活跃度与成熟度' },
+  { id: 'production', label: '生产优先', shortLabel: '生产', description: '优先成熟、持续维护的候选' },
+  { id: 'fresh', label: '最近活跃', shortLabel: '活跃', description: '关注最近更新和新收录项目' },
+  { id: 'hidden', label: '隐藏宝石', shortLabel: '宝石', description: '寻找高聚焦、尚未过度曝光的项目' }
+];
+
+const GENERIC_REFINEMENT_TERMS = new Set([
+  'ai',
+  'ai-tools',
+  'artificial-intelligence',
+  'awesome',
+  'awesome-list',
+  'deep-learning',
+  'generative-ai',
+  'javascript',
+  'large-language-model',
+  'llm',
+  'machine-learning',
+  'ml',
+  'open-source',
+  'python',
+  'typescript'
+]);
+
 const els = {
   main: document.querySelector('#appMain'),
   search: document.querySelector('#globalSearch'),
@@ -14,6 +39,8 @@ const els = {
   quick: document.querySelector('#quickStrip'),
   drawer: document.querySelector('#detailDrawer'),
   backdrop: document.querySelector('#drawerBackdrop'),
+  filterSheet: document.querySelector('#filterSheet'),
+  filterBackdrop: document.querySelector('#filterBackdrop'),
   tray: document.querySelector('#compareTray'),
   toast: document.querySelector('#toast')
 };
@@ -27,10 +54,13 @@ const state = {
   freshness: 'all',
   stars: 'all',
   sort: 'potential',
+  lens: 'balanced',
+  selectedTask: 'build-agent',
   visible: 48,
   stats: null,
   facets: null,
   radar: null,
+  searchConfig: null,
   catalog: null,
   catalogById: new Map(),
   details: null,
@@ -38,6 +68,7 @@ const state = {
   results: [],
   total: 0,
   resultsStale: true,
+  filtersOpen: false,
   selectedId: null,
   saved: new Set(readStoredList(STORE_KEYS.saved)),
   compare: readStoredList(STORE_KEYS.compare).slice(0, 4),
@@ -50,6 +81,8 @@ let searchWorker = null;
 let searchSeq = 0;
 let toastTimer = null;
 let filterPanelScrollTimer = null;
+let lastFocusedElement = null;
+let drawerOriginId = null;
 
 init();
 
@@ -63,14 +96,16 @@ function init() {
 
 async function loadBaseData() {
   try {
-    const [stats, facets, radar] = await Promise.all([
+    const [stats, facets, radar, searchConfig] = await Promise.all([
       loadJson('stats.json'),
       loadJson('facets.json'),
-      loadJson('radar.json')
+      loadJson('radar.json'),
+      loadJson('search-index.json')
     ]);
     state.stats = stats;
     state.facets = facets;
     state.radar = radar;
+    state.searchConfig = searchConfig;
     render();
   } catch (error) {
     els.main.innerHTML = renderEmptyState('探索数据尚未生成', '请先运行 npm run explore:generate-data');
@@ -99,6 +134,18 @@ function bindEvents() {
   });
 
   document.addEventListener('keydown', event => {
+    if (event.key === 'Tab') {
+      const activeOverlay = state.selectedId ? els.drawer : state.filtersOpen ? els.filterSheet : null;
+      if (activeOverlay) {
+        trapFocus(event, activeOverlay);
+        return;
+      }
+    }
+    if (event.key === 'Escape') {
+      if (state.selectedId) closeDrawer();
+      else if (state.filtersOpen) closeFilters();
+      return;
+    }
     if (event.key !== '/' || event.metaKey || event.ctrlKey || event.altKey) return;
     const active = document.activeElement;
     if (active && ['INPUT', 'TEXTAREA', 'SELECT'].includes(active.tagName)) return;
@@ -127,6 +174,34 @@ function bindEvents() {
         state.stars = 'all';
         setRoute('explore', { resultsStale: true, visible: 48 });
         break;
+      case 'select-task':
+        state.selectedTask = action.dataset.value || 'build-agent';
+        writeHash(true);
+        render();
+        break;
+      case 'lens':
+        state.lens = action.dataset.value || 'balanced';
+        state.sort = lensToSort(state.lens);
+        state.visible = 48;
+        state.resultsStale = true;
+        writeHash(true);
+        render();
+        break;
+      case 'open-task-results':
+        applySelectedTask();
+        break;
+      case 'compare-task':
+        addTaskShortlistToCompare();
+        break;
+      case 'add-shortlist':
+        addCurrentShortlistToCompare();
+        break;
+      case 'open-filters':
+        openFilters();
+        break;
+      case 'close-filters':
+        closeFilters();
+        break;
       case 'quick-query':
         state.query = action.dataset.query || '';
         state.category = action.dataset.category || 'all';
@@ -134,6 +209,8 @@ function bindEvents() {
         state.tag = action.dataset.tag || 'all';
         state.freshness = action.dataset.freshness || 'all';
         state.stars = action.dataset.stars || 'all';
+        state.lens = 'balanced';
+        state.sort = 'potential';
         setRoute('explore', { resultsStale: true, visible: 48 });
         break;
       case 'category':
@@ -142,10 +219,20 @@ function bindEvents() {
         state.tag = 'all';
         state.freshness = 'all';
         state.stars = 'all';
+        state.lens = 'balanced';
+        state.sort = 'potential';
         setRoute('explore', { resultsStale: true, visible: 48 });
         break;
       case 'filter':
         state[action.dataset.filter] = action.dataset.value || 'all';
+        state.visible = 48;
+        state.resultsStale = true;
+        writeHash(true);
+        render();
+        break;
+      case 'remove-filter':
+        if (action.dataset.filter === 'query') state.query = '';
+        else state[action.dataset.filter] = 'all';
         state.visible = 48;
         state.resultsStale = true;
         writeHash(true);
@@ -159,6 +246,7 @@ function bindEvents() {
         state.freshness = 'all';
         state.stars = 'all';
         state.sort = 'potential';
+        state.lens = 'balanced';
         state.visible = 48;
         state.resultsStale = true;
         writeHash(true);
@@ -223,6 +311,7 @@ function bindEvents() {
   });
 
   els.backdrop.addEventListener('click', closeDrawer);
+  els.filterBackdrop.addEventListener('click', closeFilters);
 }
 
 function updateMobileHeaderState() {
@@ -277,7 +366,7 @@ function setupWorker(catalog) {
   if (searchWorker || !window.Worker) return;
   try {
     searchWorker = new Worker('./assets/search-worker.js');
-    searchWorker.postMessage({ type: 'init', catalog });
+    searchWorker.postMessage({ type: 'init', catalog, synonyms: state.searchConfig?.synonyms || {} });
     searchWorker.addEventListener('message', event => {
       const { type, seq, ids, total } = event.data || {};
       if (type !== 'results' || seq !== searchSeq) return;
@@ -306,6 +395,8 @@ function readHash() {
   state.freshness = params.get('freshness') || 'all';
   state.stars = params.get('stars') || 'all';
   state.sort = params.get('sort') || 'potential';
+  state.lens = params.get('lens') || sortToLens(state.sort);
+  state.selectedTask = params.get('intent') || state.selectedTask || 'build-agent';
   els.search.value = state.query;
 }
 
@@ -318,6 +409,8 @@ function writeHash(replace = false) {
   if (state.freshness !== 'all') params.set('freshness', state.freshness);
   if (state.stars !== 'all') params.set('stars', state.stars);
   if (state.sort !== 'potential') params.set('sort', state.sort);
+  if (state.lens !== 'balanced') params.set('lens', state.lens);
+  if (state.route === 'radar' && state.selectedTask) params.set('intent', state.selectedTask);
 
   const nextHash = `#${state.route}${params.toString() ? `?${params}` : ''}`;
   if (window.location.hash === nextHash) return;
@@ -328,9 +421,12 @@ function writeHash(replace = false) {
 function setRoute(route, patch = {}) {
   if (!ROUTES.has(route)) return;
   Object.assign(state, patch, { route });
-  if (state.selectedId) closeDrawer();
+  const hadOverlay = Boolean(state.selectedId || state.filtersOpen);
+  if (state.selectedId) closeDrawer(false);
+  if (state.filtersOpen) closeFilters(false);
   writeHash();
   render();
+  if (hadOverlay) requestAnimationFrame(() => els.main.focus());
 }
 
 function render() {
@@ -350,12 +446,20 @@ function render() {
   if (state.route === 'compare') renderCompare();
   if (state.route === 'saved') renderSaved();
   renderCompareTray();
+  renderFilterSheet();
 }
 
 function renderNav() {
   document.querySelectorAll('[data-route]').forEach(button => {
-    button.classList.toggle('is-active', button.dataset.route === state.route);
+    const active = button.dataset.route === state.route;
+    button.classList.toggle('is-active', active);
+    if (active) button.setAttribute('aria-current', 'page');
+    else button.removeAttribute('aria-current');
   });
+  document.body.classList.forEach(name => {
+    if (name.startsWith('route-')) document.body.classList.remove(name);
+  });
+  document.body.classList.add(`route-${state.route}`);
 }
 
 function renderStats() {
@@ -377,11 +481,20 @@ function renderStats() {
 
 function renderQuickStrip() {
   if (!els.quick) return;
+  const configuredQueries = (state.searchConfig?.quickQueries || []).slice(0, 4).map(item => ({
+    label: item.title,
+    query: item.query,
+    category: item.categories?.[0] || 'all'
+  }));
   const quickQueries = [
-    { label: 'MCP', query: 'mcp server agent', tag: 'MCP' },
-    { label: 'RAG', query: 'rag vector database retrieval', category: 'rag_data' },
-    { label: 'Claude Code', query: 'claude code coding assistant', tag: 'claude-code' },
-    { label: '本地模型', query: 'local llm ollama inference', category: 'infrastructure' },
+    ...(configuredQueries.length
+      ? configuredQueries
+      : [
+          { label: 'MCP', query: 'mcp server agent', tag: 'MCP' },
+          { label: 'RAG', query: 'rag vector database retrieval', category: 'rag_data' },
+          { label: 'Claude Code', query: 'claude code coding assistant', tag: 'claude-code' },
+          { label: '本地模型', query: 'local llm ollama inference', category: 'infrastructure' }
+        ]),
     { label: '最近 30 天', query: '', freshness: '30d' },
     { label: '高星精选', query: '', stars: '50000' }
   ];
@@ -406,6 +519,7 @@ function renderQuickStrip() {
 
 function renderRadar() {
   const tasks = state.radar.taskPaths || state.radar.tasks || [];
+  const selectedTask = tasks.find(task => task.id === state.selectedTask) || tasks[0];
   const categories = state.facets.categories || [];
   const lists = state.radar.lists || {};
   const insights = state.radar.categoryInsights || [];
@@ -414,20 +528,20 @@ function renderRadar() {
     <section class="section-band">
       <div class="section-heading">
         <div>
-          <h2>任务路径</h2>
-          <p>${formatNumber(state.stats.totalActiveProjects)} 个近期活跃项目，按目标切入并直接给出候选组合。</p>
+          <span class="eyebrow">DISCOVERY WORKBENCH</span>
+          <h2>先说目标，再拿到一组候选</h2>
+          <p>不用先理解 ${formatNumber(state.stats.totalActiveProjects)} 个项目的分类。选择任务和判断偏好，直接从短名单开始。</p>
         </div>
       </div>
-      <div class="path-grid">
-        ${tasks.slice(0, 6).map(task => renderPathCard(task)).join('')}
-      </div>
+      ${renderDiscoveryWorkbench(tasks)}
     </section>
 
     <section class="section-band">
       <div class="section-heading">
         <div>
-          <h2>赛道概览</h2>
-          <p>按活跃项目数量排序。</p>
+          <span class="eyebrow">CATEGORY SIGNALS</span>
+          <h2>从赛道信号继续探索</h2>
+          <p>项目数量之外，再看近期活跃比例、平均探索分和代表主题。</p>
         </div>
       </div>
       <div class="category-grid">
@@ -440,10 +554,10 @@ function renderRadar() {
               return `
               <button class="category-tile" type="button" data-action="category" data-value="${attr(category.id)}">
                 <strong>${escapeHtml(`${category.icon ? `${category.icon} ` : ''}${category.cleanName}`)}</strong>
-                <span>${formatNumber(category.count)} active / ${formatNumber(category.rawCount)} total</span>
+                <span>${formatNumber(category.count)} 活跃 · ${formatPercent(insight?.freshCount, category.count)} 近 30 天更新</span>
                 ${
-                  insight?.topTags?.length
-                    ? `<small>${insight.topTags.slice(0, 3).map(tag => escapeHtml(tag.label)).join(' / ')}</small>`
+                  insight
+                    ? `<div class="category-signal-row"><small>平均探索分 ${formatNumber(insight.avgPotential || 0)}</small><small>${insight.topTags?.slice(0, 3).map(tag => escapeHtml(tag.label)).join(' / ') || '查看赛道'}</small></div>`
                     : ''
                 }
               </button>
@@ -471,6 +585,123 @@ function renderRadar() {
         ${renderListLane('新收录', 'New Entries', lists.newProjects || [])}
       </div>
     </section>
+
+    <section class="explorer-endcap" aria-label="继续进入 Explorer">
+      <div>
+        <span class="eyebrow">KEEP EXPLORING</span>
+        <h2>雷达看到底，不代表探索结束</h2>
+        <p>带着“${escapeHtml(selectedTask?.title || '当前目标')}”进入 Explorer，用选型偏好、动态缩小和项目对比继续收敛。</p>
+      </div>
+      <button class="endcap-action" type="button" data-action="open-task-results">
+        进入 Explorer 继续挖掘
+        <span aria-hidden="true">→</span>
+      </button>
+    </section>
+  `;
+}
+
+function renderDiscoveryWorkbench(tasks) {
+  const selectedTask = tasks.find(task => task.id === state.selectedTask) || tasks[0];
+  if (!selectedTask) return renderEmptyState('暂无任务路线', '重新生成 Explore 数据后再试。');
+  const shortlist = getTaskShortlist(selectedTask, state.lens, 3);
+  const selectedLens = getLens(state.lens);
+
+  return `
+    <div class="discovery-workbench">
+      <div class="intent-panel">
+        <div class="workbench-step">
+          <span>01</span>
+          <div>
+            <strong>你想完成什么？</strong>
+            <small>选择最接近的目标，之后仍可搜索和调整。</small>
+          </div>
+        </div>
+        <div class="intent-list" role="list">
+          ${tasks
+            .slice(0, 6)
+            .map(
+              task => `
+                <button
+                  class="intent-option ${task.id === selectedTask.id ? 'is-active' : ''}"
+                  type="button"
+                  data-action="select-task"
+                  data-value="${attr(task.id)}"
+                >
+                  <span>${escapeHtml(task.title)}</span>
+                  <small>${formatNumber(task.total || 0)} 个语义候选</small>
+                </button>
+              `
+            )
+            .join('')}
+        </div>
+
+        <div class="workbench-step lens-step">
+          <span>02</span>
+          <div>
+            <strong>这次更看重什么？</strong>
+            <small>推荐顺序与短名单会随偏好改变。</small>
+          </div>
+        </div>
+        <div class="lens-list">
+          ${LENS_OPTIONS.map(
+            lens => `
+              <button
+                class="lens-option ${lens.id === state.lens ? 'is-active' : ''}"
+                type="button"
+                data-action="lens"
+                data-value="${attr(lens.id)}"
+                aria-pressed="${lens.id === state.lens}"
+              >
+                <strong>${escapeHtml(lens.label)}</strong>
+                <small>${escapeHtml(lens.description)}</small>
+              </button>
+            `
+          ).join('')}
+        </div>
+      </div>
+
+      <div class="shortlist-panel">
+        <div class="shortlist-header">
+          <div>
+            <span class="eyebrow">${escapeHtml(selectedLens.label)} · ${formatNumber(selectedTask.total || 0)} TASK SIGNALS</span>
+            <h3>${escapeHtml(selectedTask.title)}的推荐起点</h3>
+            <p>${escapeHtml(selectedTask.summary)} 这些数字代表直接命中任务语义的项目，进入 Explorer 后还可以继续扩展关键词。</p>
+          </div>
+          <span class="shortlist-count">${shortlist.length}<small>起点</small></span>
+        </div>
+        <div class="shortlist-list">
+          ${shortlist.map((project, index) => renderShortlistItem(project, index)).join('')}
+        </div>
+        <div class="shortlist-actions">
+          <button class="action-button primary-action" type="button" data-action="open-task-results">进入 Explorer 继续筛选</button>
+          <button class="action-button" type="button" data-action="compare-task" ${shortlist.length < 2 ? 'disabled' : ''}>一键加入对比</button>
+        </div>
+      </div>
+    </div>
+  `;
+}
+
+function renderShortlistItem(project, index) {
+  const compared = state.compare.includes(project.id);
+  return `
+    <article class="shortlist-item">
+      <button class="shortlist-main" type="button" data-action="detail" data-id="${attr(project.id)}">
+        <span class="shortlist-rank">0${index + 1}</span>
+        <span class="shortlist-copy">
+          <strong>${escapeHtml(project.name)}</strong>
+          <small>${escapeHtml(buildRecommendationReason(project, state.lens))}</small>
+        </span>
+        <span class="shortlist-score">${formatNumber(Math.round(getLensScore(project, state.lens)))}</span>
+      </button>
+      <button
+        class="icon-button ${compared ? 'is-active' : ''}"
+        type="button"
+        data-action="compare"
+        data-id="${attr(project.id)}"
+        aria-label="${compared ? '从对比中移除' : '加入对比'} ${attr(project.name)}"
+        title="${compared ? '移出对比' : '加入对比'}"
+      >${compared ? '✓' : '＋'}</button>
+    </article>
   `;
 }
 
@@ -563,19 +794,26 @@ function renderExplorer() {
             <div class="result-count">${escapeHtml(renderResultLabel())}</div>
             ${renderActiveFilters()}
           </div>
-          <select id="sortSelect" aria-label="排序">
-            ${[
-              ['potential', '潜力信号'],
-              ['relevance', '相关度'],
-              ['recent', '最近活跃'],
-              ['stars', 'Stars'],
-              ['new', '新收录']
-            ]
-              .map(([value, label]) => `<option value="${value}" ${state.sort === value ? 'selected' : ''}>${label}</option>`)
-              .join('')}
-          </select>
+          <div class="result-tools">
+            <button class="filter-trigger" type="button" data-action="open-filters">
+              筛选${countActiveFilters() ? ` · ${countActiveFilters()}` : ''}
+            </button>
+            <select id="sortSelect" aria-label="排序">
+              ${[
+                ['potential', '探索信号'],
+                ['relevance', '相关度'],
+                ['recent', '最近活跃'],
+                ['stars', 'Stars'],
+                ['new', '新收录']
+              ]
+                .map(([value, label]) => `<option value="${value}" ${state.sort === value ? 'selected' : ''}>${label}</option>`)
+                .join('')}
+            </select>
+          </div>
         </div>
+        ${renderLensBar()}
         ${renderResultBrief()}
+        ${renderRefinementPanel()}
         ${resultsHtml}
       </div>
     </section>
@@ -584,20 +822,28 @@ function renderExplorer() {
 
 function renderActiveFilters() {
   const labels = [];
-  if (state.query) labels.push(`q: ${state.query}`);
+  if (state.query) labels.push({ filter: 'query', label: `q: ${state.query}` });
   if (state.category !== 'all') {
     const cat = state.facets.categories?.find(category => category.id === state.category);
-    labels.push(cat?.cleanName || state.category);
+    labels.push({ filter: 'category', label: cat?.cleanName || state.category });
   }
-  if (state.subcategory !== 'all') labels.push(state.subcategory);
-  if (state.tag !== 'all') labels.push(`#${state.tag}`);
-  if (state.freshness !== 'all') labels.push(state.freshness.replace('d', ' 天内'));
-  if (state.stars !== 'all') labels.push(`${formatStars(Number(state.stars))}+ stars`);
+  if (state.subcategory !== 'all') labels.push({ filter: 'subcategory', label: state.subcategory });
+  if (state.tag !== 'all') labels.push({ filter: 'tag', label: `#${state.tag}` });
+  if (state.freshness !== 'all') labels.push({ filter: 'freshness', label: state.freshness.replace('d', ' 天内') });
+  if (state.stars !== 'all') labels.push({ filter: 'stars', label: `${formatStars(Number(state.stars))}+ stars` });
   if (!labels.length) return '';
-  return `<div class="active-filters">${labels.map(label => `<span>${escapeHtml(label)}</span>`).join('')}</div>`;
+  return `<div class="active-filters">${labels
+    .map(
+      item => `<button type="button" data-action="remove-filter" data-filter="${attr(item.filter)}">${escapeHtml(item.label)} <span aria-hidden="true">×</span></button>`
+    )
+    .join('')}</div>`;
 }
 
 function renderFilterPanel() {
+  return renderFilterContent('filter-panel');
+}
+
+function renderFilterContent(className = 'filter-panel') {
   const categories = state.facets.categories || [];
   const activeCategory = categories.find(category => category.id === state.category);
   const subcategories =
@@ -607,7 +853,7 @@ function renderFilterPanel() {
   const tags = (state.facets.tags || []).slice(0, 28);
 
   return `
-    <aside class="filter-panel" aria-label="Filters">
+    <aside class="${attr(className)}" aria-label="项目筛选">
       <div class="filter-group">
         <h3>分类</h3>
         <div class="filter-row">
@@ -669,6 +915,64 @@ function renderFilterPanel() {
   `;
 }
 
+function renderLensBar() {
+  return `
+    <section class="lens-bar" aria-label="选型偏好">
+      <div>
+        <span class="eyebrow">DECISION LENS</span>
+        <strong>你希望优先看到什么？</strong>
+      </div>
+      <div class="lens-chips">
+        ${LENS_OPTIONS.map(
+          lens => `
+            <button
+              class="lens-chip ${lens.id === state.lens ? 'is-active' : ''}"
+              type="button"
+              data-action="lens"
+              data-value="${attr(lens.id)}"
+              aria-pressed="${lens.id === state.lens}"
+            >${escapeHtml(lens.label)}</button>
+          `
+        ).join('')}
+      </div>
+    </section>
+  `;
+}
+
+function renderRefinementPanel() {
+  if (!state.catalog || state.resultsStale || state.results.length < 8) return '';
+  const refinements = getResultRefinements();
+  if (!refinements.length) return '';
+
+  return `
+    <section class="refinement-panel" aria-label="继续缩小结果">
+      <div>
+        <span class="eyebrow">NARROW THE FIELD</span>
+        <strong>继续缩小</strong>
+        <small>这些选项来自当前结果，而不是全站热门标签。</small>
+      </div>
+      <div class="refinement-list">
+        ${refinements
+          .map(
+            item => `
+              <button
+                class="refinement-chip"
+                type="button"
+                data-action="filter"
+                data-filter="${attr(item.filter)}"
+                data-value="${attr(item.value)}"
+              >
+                <span>${escapeHtml(item.label)}</span>
+                <strong>${formatNumber(item.count)}</strong>
+              </button>
+            `
+          )
+          .join('')}
+      </div>
+    </section>
+  `;
+}
+
 function renderFilterChip(filter, value, label, active) {
   return `
     <button
@@ -690,7 +994,9 @@ function runSearch() {
     tag: state.tag,
     freshness: state.freshness,
     stars: state.stars,
-    sort: state.sort
+    sort: state.sort,
+    lens: state.lens,
+    synonyms: state.searchConfig?.synonyms || {}
   };
 
   const seq = ++searchSeq;
@@ -711,7 +1017,7 @@ function renderResults() {
   const visibleIds = state.results.slice(0, state.visible);
   const projects = visibleIds.map(id => state.catalogById.get(id)).filter(Boolean);
   if (!projects.length) {
-    return renderEmptyState('没有匹配项目', '换一个关键词或减少筛选条件。');
+    return renderNoResults();
   }
 
   const more = state.visible < state.results.length;
@@ -742,12 +1048,13 @@ function renderResultBrief() {
       <div class="brief-header">
         <div>
           <span class="eyebrow">SELECTION BRIEF</span>
-          <h2>选型简报</h2>
-          <p>${escapeHtml(filterSummary || '从当前匹配结果中提取最值得先看的项目。')}</p>
+          <h2>${escapeHtml(getLens(state.lens).label)}的推荐起点</h2>
+          <p>${escapeHtml(filterSummary || '从当前匹配结果中提取值得先看的不同角色候选。')}</p>
         </div>
         <div class="brief-actions">
           <button class="action-button" type="button" data-action="copy-link">复制链接</button>
           <button class="action-button" type="button" data-action="copy-brief">复制简报</button>
+          <button class="action-button primary-action" type="button" data-action="add-shortlist">加入对比</button>
         </div>
       </div>
       <div class="brief-grid">
@@ -770,29 +1077,22 @@ function renderBriefCard(item) {
 
 function pickResultHighlights(projects) {
   const used = new Set();
+  const usedSubcategories = new Set();
   const picks = [];
   const addPick = (label, reason, sortedProjects) => {
-    const project = sortedProjects.find(item => !used.has(item.id));
+    const project =
+      sortedProjects.find(item => !used.has(item.id) && !usedSubcategories.has(normalize(item.subcategory))) ||
+      sortedProjects.find(item => !used.has(item.id));
     if (!project) return;
     used.add(project.id);
+    usedSubcategories.add(normalize(project.subcategory));
     picks.push({ label, reason: reason(project), project });
   };
 
-  addPick(
-    '最值得先试',
-    project => `${project.scores?.potential ?? '-'} signal / ${formatStars(project.stars)} stars`,
-    [...projects].sort((a, b) => (b.scores?.potential || 0) - (a.scores?.potential || 0) || b.stars - a.stars)
-  );
-  addPick(
-    '最近还在动',
-    project => `${formatDate(project.lastUpdated)} 更新 / ${formatStars(project.stars)} stars`,
-    [...projects].sort((a, b) => dateMs(b.lastUpdated) - dateMs(a.lastUpdated) || (b.scores?.potential || 0) - (a.scores?.potential || 0))
-  );
-  addPick(
-    '成熟样本',
-    project => `${formatStars(project.stars)} stars / ${project.categoryCleanName || project.categoryName}`,
-    [...projects].sort((a, b) => b.stars - a.stars || dateMs(b.lastUpdated) - dateMs(a.lastUpdated))
-  );
+  const sorted = [...projects].sort((a, b) => getLensScore(b, state.lens) - getLensScore(a, state.lens));
+  addPick(getLens(state.lens).label, project => buildRecommendationReason(project, state.lens), sorted);
+  addPick('互补候选', project => buildComplementReason(project), sorted);
+  addPick('值得继续看', project => buildRecommendationReason(project, 'balanced'), sorted);
 
   return picks;
 }
@@ -839,12 +1139,17 @@ function renderProjectCard(project, options = {}) {
           type="button"
           data-action="save"
           data-id="${attr(project.id)}"
-          aria-label="收藏 ${attr(project.name)}"
-          title="收藏"
+          aria-label="${saved ? '取消收藏' : '收藏'} ${attr(project.name)}"
+          title="${saved ? '取消收藏' : '收藏'}"
         >${saved ? '★' : '☆'}</button>
       </header>
 
       <p>${escapeHtml(project.description || 'No description')}</p>
+
+      <div class="recommendation-note">
+        <span>WHY</span>
+        <p>${escapeHtml(options.recommendationReason || buildRecommendationReason(project, state.lens, matchHints))}</p>
+      </div>
 
       <div class="tag-row">
         ${tags
@@ -866,11 +1171,18 @@ function renderProjectCard(project, options = {}) {
       <div class="metric-row">
         <span class="metric"><strong>${formatStars(project.stars)}</strong> stars</span>
         <span class="metric"><strong>${formatDate(project.lastUpdated)}</strong> updated</span>
-        <span class="metric"><strong>${project.scores?.potential ?? '-'}</strong> signal</span>
+        <span class="metric"><strong>${project.scores?.potential ?? '-'}</strong> 探索分</span>
       </div>
 
       <div class="card-actions">
-        <button class="icon-button ${compared ? 'is-active' : ''}" type="button" data-action="compare" data-id="${attr(project.id)}" aria-label="加入对比" title="对比">⇄</button>
+        <button
+          class="icon-button ${compared ? 'is-active' : ''}"
+          type="button"
+          data-action="compare"
+          data-id="${attr(project.id)}"
+          aria-label="${compared ? '从对比中移除' : '加入对比'} ${attr(project.name)}"
+          title="${compared ? '移出对比' : '加入对比'}"
+        >⇄</button>
         <button class="action-button" type="button" data-action="detail" data-id="${attr(project.id)}">详情</button>
         <a class="action-button" href="${attr(project.url)}" target="_blank" rel="noopener noreferrer">GitHub</a>
       </div>
@@ -909,6 +1221,177 @@ function buildMatchHints(project, query) {
   }
 
   return [...new Set(hints)];
+}
+
+function getLens(id) {
+  return LENS_OPTIONS.find(option => option.id === id) || LENS_OPTIONS[0];
+}
+
+function lensToSort(lens) {
+  if (lens === 'fresh') return 'recent';
+  return 'potential';
+}
+
+function sortToLens(sort) {
+  if (sort === 'recent' || sort === 'new') return 'fresh';
+  return 'balanced';
+}
+
+function getLensScore(project, lens = 'balanced') {
+  const scores = project.scores || {};
+  const stars = Math.min(100, Math.log10((project.stars || 0) + 1) * 18);
+  const freshness = scores.freshness || Math.max(0, 100 - daysSince(project.lastUpdated) * 0.65);
+  const potential = scores.potential || 0;
+  const maturity = scores.maturity || 0;
+  const focus = scores.focus || 0;
+  const topicSignal = scores.topicSignal || 0;
+
+  if (lens === 'production') return maturity * 0.38 + freshness * 0.22 + focus * 0.16 + stars * 0.19 + potential * 0.05;
+  if (lens === 'fresh') return freshness * 0.58 + potential * 0.22 + focus * 0.12 + topicSignal * 0.08;
+  if (lens === 'hidden') {
+    const lowExposure = Math.max(0, 100 - stars);
+    return potential * 0.32 + focus * 0.25 + freshness * 0.2 + lowExposure * 0.2 + topicSignal * 0.03;
+  }
+  return potential * 0.4 + freshness * 0.2 + maturity * 0.18 + focus * 0.12 + stars * 0.1;
+}
+
+function buildRecommendationReason(project, lens = 'balanced', matchHints = []) {
+  if (matchHints.length) return `${matchHints.join('，')}；${buildRecommendationReason(project, lens)}`;
+  const scores = project.scores || {};
+  if (lens === 'production') {
+    return `成熟度 ${scores.maturity ?? '—'}，${daysSince(project.lastUpdated) <= 45 ? '近期仍在维护' : '适合进入稳定性评估'}，${formatStars(project.stars)} Stars`;
+  }
+  if (lens === 'fresh') {
+    return `${formatDate(project.lastUpdated)} 更新，活跃信号 ${scores.freshness ?? '—'}，适合跟进最新进展`;
+  }
+  if (lens === 'hidden') {
+    return `探索分 ${scores.potential ?? '—'}、聚焦度 ${scores.focus ?? '—'}，当前曝光约 ${formatStars(project.stars)} Stars`;
+  }
+  const strengths = [];
+  if ((scores.potential || 0) >= 75) strengths.push(`探索分 ${scores.potential}`);
+  if ((scores.maturity || 0) >= 78) strengths.push(`成熟度 ${scores.maturity}`);
+  if (daysSince(project.lastUpdated) <= 45) strengths.push('近期活跃');
+  if ((scores.focus || 0) >= 80) strengths.push('主题聚焦');
+  return strengths.slice(0, 3).join('，') || `${project.subcategory || '同类项目'}中的可比较候选`;
+}
+
+function buildComplementReason(project) {
+  const category = project.categoryCleanName || project.categoryName || '同类赛道';
+  return `${category} / ${project.subcategory || '未分类'}，可作为不同角色的对照样本`;
+}
+
+function buildRelatedReason(source, candidate) {
+  if (!source || !candidate) return '相似标签与赛道候选';
+  const sharedTags = intersectNormalized(source.tags || [], candidate.tags || []);
+  const sharedTopics = intersectNormalized(source.topics || [], candidate.topics || []);
+  if (source.subcategory && source.subcategory === candidate.subcategory) {
+    const shared = [...sharedTags, ...sharedTopics].slice(0, 2);
+    return `同属 ${source.subcategory}${shared.length ? `，共享 ${shared.join(' / ')}` : ''}`;
+  }
+  const shared = [...sharedTags, ...sharedTopics].slice(0, 3);
+  if (shared.length) return `共享 ${shared.join(' / ')} 标签`;
+  if (source.categoryId === candidate.categoryId) return `同属 ${candidate.categoryCleanName || candidate.categoryName}`;
+  return '可用于扩展当前项目的相邻能力';
+}
+
+function intersectNormalized(left, right) {
+  const rightMap = new Map(right.map(value => [normalize(value), value]));
+  return left.map(value => rightMap.get(normalize(value))).filter(Boolean);
+}
+
+function getResultRefinements() {
+  const projects = getCurrentResultProjects(Math.min(state.results.length, 1200));
+  const candidates = [];
+  if (state.subcategory === 'all') {
+    candidates.push(
+      ...countProjectValues(projects, project => [project.subcategory])
+        .filter(item => item.value && item.count < projects.length * 0.86)
+        .slice(0, 4)
+        .map(item => ({ ...item, filter: 'subcategory' }))
+    );
+  }
+  if (state.tag === 'all') {
+    candidates.push(
+      ...countProjectValues(projects, project => [...(project.tags || []), ...(project.topics || [])])
+        .filter(
+          item =>
+            item.count >= 3 &&
+            item.count < projects.length * 0.78 &&
+            !GENERIC_REFINEMENT_TERMS.has(normalize(item.value))
+        )
+        .slice(0, 8)
+        .map(item => ({ ...item, filter: 'tag' }))
+    );
+  }
+
+  const seen = new Set();
+  return candidates
+    .sort((a, b) => refinementScore(b.count, projects.length) - refinementScore(a.count, projects.length))
+    .filter(item => {
+      const key = normalize(item.value);
+      if (!key || seen.has(key)) return false;
+      seen.add(key);
+      return true;
+    })
+    .slice(0, 8);
+}
+
+function countProjectValues(projects, getValues) {
+  const counts = new Map();
+  for (const project of projects) {
+    const seen = new Set();
+    for (const rawValue of getValues(project)) {
+      const value = String(rawValue || '').trim();
+      const key = normalize(value);
+      if (!key || seen.has(key)) continue;
+      seen.add(key);
+      const current = counts.get(key) || { value, label: value, count: 0 };
+      current.count += 1;
+      counts.set(key, current);
+    }
+  }
+  return [...counts.values()].sort((a, b) => b.count - a.count || a.label.localeCompare(b.label));
+}
+
+function refinementScore(count, total) {
+  if (!total) return 0;
+  const ratio = count / total;
+  return count * (1 - Math.abs(ratio - 0.28));
+}
+
+function countActiveFilters() {
+  return [state.query, state.category !== 'all', state.subcategory !== 'all', state.tag !== 'all', state.freshness !== 'all', state.stars !== 'all'].filter(Boolean).length;
+}
+
+function renderNoResults() {
+  const actions = [];
+  if (state.tag !== 'all') actions.push({ filter: 'tag', label: `移除 #${state.tag}` });
+  if (state.subcategory !== 'all') actions.push({ filter: 'subcategory', label: `移除 ${state.subcategory}` });
+  if (state.stars !== 'all') actions.push({ filter: 'stars', label: '取消 Stars 门槛' });
+  if (state.freshness !== 'all') actions.push({ filter: 'freshness', label: '放宽更新时间' });
+  if (state.query) actions.push({ filter: 'query', label: '清除关键词' });
+
+  return `
+    <div class="empty-state empty-result">
+      <span class="eyebrow">ZERO MATCHES</span>
+      <strong>条件组合得太紧了</strong>
+      <p>保留目标关键词，先放宽一个限制，通常比从头搜索更快。</p>
+      <div class="empty-actions">
+        ${actions
+          .slice(0, 3)
+          .map(
+            item => `<button class="action-button" type="button" data-action="remove-filter" data-filter="${attr(item.filter)}">${escapeHtml(item.label)}</button>`
+          )
+          .join('')}
+        <button class="action-button primary-action" type="button" data-action="clear-filters">清空全部条件</button>
+      </div>
+    </div>
+  `;
+}
+
+function formatPercent(value, total) {
+  if (!total) return '0%';
+  return `${Math.round((Number(value || 0) / total) * 100)}%`;
 }
 
 function renderCompare() {
@@ -961,7 +1444,7 @@ function renderCompare() {
                   project => `
                     <th>
                       ${escapeHtml(project.name)}
-                      <button class="icon-button" type="button" data-action="remove-compare" data-id="${attr(project.id)}" aria-label="移除">×</button>
+                      <button class="icon-button" type="button" data-action="remove-compare" data-id="${attr(project.id)}" aria-label="从对比中移除 ${attr(project.name)}">×</button>
                     </th>
                   `
                 )
@@ -1003,8 +1486,15 @@ function renderSaved() {
     return;
   }
 
+  if ((state.saved.size || state.recent.length) && !state.related) {
+    els.main.innerHTML = renderLoading('正在整理你的探索线索');
+    ensureDetails().then(render);
+    return;
+  }
+
   const projects = [...state.saved].map(id => state.catalogById.get(id)).filter(Boolean);
   const recent = state.recent.map(id => state.catalogById.get(id)).filter(Boolean);
+  const continuation = buildContinuationRecommendations(projects, recent);
 
   els.main.innerHTML = `
     <section class="section-band">
@@ -1035,19 +1525,47 @@ function renderSaved() {
           : renderEmptyState('暂无浏览记录', '打开任意项目详情后会显示在这里。')
       }
     </section>
+
+    ${
+      continuation.length
+        ? `
+          <section class="section-band continuation-section">
+            <div class="section-heading">
+              <div>
+                <span class="eyebrow">CONTINUE EXPLORING</span>
+                <h2>沿着你的兴趣继续挖</h2>
+                <p>从收藏与最近浏览的相似项目中，排除已经看过的内容。</p>
+              </div>
+            </div>
+            <div class="project-grid">
+              ${continuation.map(item => renderProjectCard(item.project, { recommendationReason: item.reason })).join('')}
+            </div>
+          </section>
+        `
+        : ''
+    }
   `;
 }
 
 async function openDetail(id) {
+  if (!state.selectedId) {
+    lastFocusedElement = document.activeElement instanceof HTMLElement ? document.activeElement : null;
+    drawerOriginId = id;
+  }
   state.selectedId = id;
   els.drawer.classList.add('is-open');
   els.drawer.setAttribute('aria-hidden', 'false');
+  els.drawer.removeAttribute('inert');
+  els.drawer.setAttribute('role', 'dialog');
+  els.drawer.setAttribute('aria-modal', 'true');
   els.backdrop.hidden = false;
+  document.body.classList.add('has-overlay');
   els.drawer.innerHTML = renderLoading('正在打开项目详情');
 
   await Promise.all([ensureCatalog(), ensureDetails()]);
   addRecent(id);
   renderDrawer();
+  requestAnimationFrame(() => els.drawer.querySelector('.close-button')?.focus());
 }
 
 function renderDrawer() {
@@ -1150,6 +1668,7 @@ function renderDrawer() {
                     <button class="related-item" type="button" data-action="detail" data-id="${attr(project.id)}">
                       <strong>${escapeHtml(project.name)}</strong>
                       <span>${escapeHtml(project.description || '')}</span>
+                      <small>${escapeHtml(buildRelatedReason(detail, project))}</small>
                     </button>
                   `
                 )
@@ -1170,11 +1689,117 @@ function renderSignal(label, value) {
   `;
 }
 
-function closeDrawer() {
+function renderFilterSheet() {
+  if (!els.filterSheet || !els.filterBackdrop) return;
+  if (!state.filtersOpen) {
+    els.filterSheet.classList.remove('is-open');
+    els.filterSheet.setAttribute('aria-hidden', 'true');
+    els.filterSheet.setAttribute('inert', '');
+    els.filterBackdrop.hidden = true;
+    return;
+  }
+
+  const activeElement = document.activeElement;
+  const activeAction = activeElement?.closest?.('[data-action]')?.dataset.action;
+  const activeFilter = activeElement?.dataset?.filter;
+  const activeValue = activeElement?.dataset?.value;
+  const shouldRestoreFilterFocus = activeAction === 'filter' && activeFilter && activeValue;
+  const markup = `
+    <div class="filter-sheet-header">
+      <div>
+        <span class="eyebrow">FILTER RESULTS</span>
+        <h2>筛选项目</h2>
+      </div>
+      <button class="close-button" type="button" data-action="close-filters" aria-label="关闭筛选">×</button>
+    </div>
+    <div class="filter-sheet-body">
+      ${renderFilterContent('filter-sheet-content')}
+    </div>
+    <div class="filter-sheet-footer">
+      <button class="action-button primary-action" type="button" data-action="close-filters">查看 ${formatNumber(state.total || state.catalog?.length || 0)} 个结果</button>
+    </div>
+  `;
+  if (els.filterSheet.innerHTML !== markup) els.filterSheet.innerHTML = markup;
+  els.filterSheet.classList.add('is-open');
+  els.filterSheet.setAttribute('aria-hidden', 'false');
+  els.filterSheet.removeAttribute('inert');
+  els.filterSheet.setAttribute('role', 'dialog');
+  els.filterSheet.setAttribute('aria-modal', 'true');
+  els.filterBackdrop.hidden = false;
+  if (shouldRestoreFilterFocus) {
+    requestAnimationFrame(() => {
+      els.filterSheet
+        .querySelector(`[data-action="filter"][data-filter="${CSS.escape(activeFilter)}"][data-value="${CSS.escape(activeValue)}"]`)
+        ?.focus();
+    });
+  }
+}
+
+function openFilters() {
+  if (!window.matchMedia('(max-width: 1040px)').matches) {
+    document.querySelector('.filter-panel')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    return;
+  }
+  lastFocusedElement = document.activeElement instanceof HTMLElement ? document.activeElement : null;
+  state.filtersOpen = true;
+  document.body.classList.add('has-overlay');
+  renderFilterSheet();
+  requestAnimationFrame(() => els.filterSheet.querySelector('.close-button')?.focus());
+}
+
+function closeFilters(restoreFocus = true) {
+  state.filtersOpen = false;
+  renderFilterSheet();
+  document.body.classList.toggle('has-overlay', Boolean(state.selectedId));
+  if (restoreFocus) restoreFocusAfterOverlay('[data-action="open-filters"]');
+  lastFocusedElement = null;
+}
+
+function closeDrawer(restoreFocus = true) {
+  const originId = drawerOriginId;
   state.selectedId = null;
   els.drawer.classList.remove('is-open');
   els.drawer.setAttribute('aria-hidden', 'true');
+  els.drawer.setAttribute('inert', '');
   els.backdrop.hidden = true;
+  document.body.classList.toggle('has-overlay', state.filtersOpen);
+  if (restoreFocus) {
+    const fallbackSelector = originId
+      ? `[data-action="detail"][data-id="${CSS.escape(originId)}"]`
+      : null;
+    restoreFocusAfterOverlay(fallbackSelector);
+  }
+  lastFocusedElement = null;
+  drawerOriginId = null;
+}
+
+function restoreFocusAfterOverlay(fallbackSelector) {
+  const storedTarget = lastFocusedElement?.isConnected ? lastFocusedElement : null;
+  const fallbackTarget = fallbackSelector ? document.querySelector(fallbackSelector) : null;
+  const target = storedTarget || fallbackTarget || els.main;
+  requestAnimationFrame(() => target?.focus?.());
+}
+
+function trapFocus(event, container) {
+  const focusable = [...container.querySelectorAll(
+    'a[href], button:not([disabled]), input:not([disabled]), select:not([disabled]), textarea:not([disabled]), [tabindex]:not([tabindex="-1"])'
+  )].filter(element => !element.hasAttribute('hidden') && element.getAttribute('aria-hidden') !== 'true');
+  if (!focusable.length) {
+    event.preventDefault();
+    container.focus();
+    return;
+  }
+
+  const first = focusable[0];
+  const last = focusable[focusable.length - 1];
+  const active = document.activeElement;
+  if (event.shiftKey && (active === first || !container.contains(active))) {
+    event.preventDefault();
+    last.focus();
+  } else if (!event.shiftKey && (active === last || !container.contains(active))) {
+    event.preventDefault();
+    first.focus();
+  }
 }
 
 function toggleSaved(id) {
@@ -1229,7 +1854,7 @@ function renderCompareTray() {
           project => `
             <span class="tray-pill">
               <span>${escapeHtml(project.name)}</span>
-              <button class="icon-button" type="button" data-action="remove-compare" data-id="${attr(project.id)}" aria-label="移除">×</button>
+              <button class="icon-button" type="button" data-action="remove-compare" data-id="${attr(project.id)}" aria-label="从对比中移除 ${attr(project.name)}">×</button>
             </span>
           `
         )
@@ -1242,6 +1867,112 @@ function renderCompareTray() {
 function addRecent(id) {
   state.recent = [id, ...state.recent.filter(item => item !== id)].slice(0, 24);
   writeStoredList(STORE_KEYS.recent, state.recent);
+}
+
+function applySelectedTask() {
+  const tasks = state.radar?.taskPaths || state.radar?.tasks || [];
+  const task = tasks.find(item => item.id === state.selectedTask) || tasks[0];
+  if (!task) return;
+  state.query = task.query || '';
+  state.category = 'all';
+  state.subcategory = 'all';
+  state.tag = 'all';
+  state.freshness = 'all';
+  state.stars = 'all';
+  state.sort = lensToSort(state.lens);
+  setRoute('explore', { resultsStale: true, visible: 48 });
+}
+
+function getTaskShortlist(task, lens = 'balanced', limit = 4) {
+  const preferredTrackIds = {
+    balanced: ['balanced', 'starter', 'production', 'fresh', 'hidden'],
+    production: ['production', 'balanced', 'starter', 'fresh', 'hidden'],
+    fresh: ['fresh', 'balanced', 'starter', 'hidden', 'production'],
+    hidden: ['hidden', 'balanced', 'starter', 'fresh', 'production']
+  }[lens] || ['balanced', 'starter', 'production', 'fresh', 'hidden'];
+  const tracks = task?.tracks || [];
+  const rankedCandidates = [];
+  for (const trackId of preferredTrackIds) {
+    const track = tracks.find(item => item.id === trackId);
+    if (!track?.projects?.length) continue;
+    track.projects.forEach((project, index) => {
+      rankedCandidates.push({ project, trackId, trackRank: index });
+    });
+  }
+  const unique = [...new Map(rankedCandidates.map(item => [item.project.id, item])).values()];
+  const selected = [];
+  const usedSubcategories = new Set();
+  const sorted = unique.sort(
+    (a, b) =>
+      preferredTrackIds.indexOf(a.trackId) - preferredTrackIds.indexOf(b.trackId) ||
+      a.trackRank - b.trackRank ||
+      getLensScore(b.project, lens) - getLensScore(a.project, lens)
+  );
+
+  for (const { project } of sorted) {
+    const subcategory = normalize(project.subcategory);
+    if (subcategory && usedSubcategories.has(subcategory)) continue;
+    selected.push(project);
+    if (subcategory) usedSubcategories.add(subcategory);
+    if (selected.length >= limit) return selected;
+  }
+
+  for (const { project } of sorted) {
+    if (selected.some(item => item.id === project.id)) continue;
+    selected.push(project);
+    if (selected.length >= limit) break;
+  }
+  return selected;
+}
+
+function addTaskShortlistToCompare() {
+  const tasks = state.radar?.taskPaths || state.radar?.tasks || [];
+  const task = tasks.find(item => item.id === state.selectedTask) || tasks[0];
+  addProjectsToCompare(getTaskShortlist(task, state.lens, 3));
+}
+
+function addCurrentShortlistToCompare() {
+  addProjectsToCompare(pickResultHighlights(getCurrentResultProjects()).map(item => item.project));
+}
+
+function addProjectsToCompare(projects) {
+  const ids = projects.map(project => project?.id).filter(Boolean);
+  if (ids.length < 2) {
+    showToast('候选不足，先扩大结果范围');
+    return;
+  }
+  state.compare = [...new Set([...state.compare, ...ids])].slice(-4);
+  writeStoredList(STORE_KEYS.compare, state.compare);
+  showToast(`已将 ${state.compare.length} 个项目加入对比`);
+  ensureCatalog().then(render);
+}
+
+function buildContinuationRecommendations(savedProjects, recentProjects) {
+  if (!state.catalog || !state.related) return [];
+  const sources = [...savedProjects, ...recentProjects].filter(Boolean).slice(0, 12);
+  if (!sources.length) return [];
+  const excluded = new Set([...state.saved, ...state.recent]);
+  const candidates = new Map();
+
+  for (const source of sources) {
+    for (const relatedId of state.related[source.id] || []) {
+      if (excluded.has(relatedId)) continue;
+      const project = state.catalogById.get(relatedId);
+      if (!project) continue;
+      const current = candidates.get(relatedId) || { project, sources: [], score: 0 };
+      current.sources.push(source);
+      current.score += 30 + getLensScore(project, 'balanced');
+      candidates.set(relatedId, current);
+    }
+  }
+
+  return [...candidates.values()]
+    .sort((a, b) => b.score - a.score)
+    .slice(0, 6)
+    .map(item => ({
+      project: item.project,
+      reason: `因为你看过 ${item.sources.slice(0, 2).map(source => source.name).join(' / ')}；${buildRelatedReason(item.sources[0], item.project)}`
+    }));
 }
 
 async function exportProjects(ids, fileName) {
@@ -1382,7 +2113,7 @@ function searchCatalog(catalog, payload) {
     scored.push([project, score]);
   }
 
-  scored.sort((a, b) => sortProjects(a[0], b[0], payload.sort, b[1] - a[1]));
+  scored.sort((a, b) => sortProjects(a[0], b[0], payload.sort, b[1] - a[1], payload.lens));
   return scored.map(([project]) => project);
 }
 
@@ -1396,7 +2127,8 @@ function expandTerms(query) {
     本地模型: ['local', 'ollama', 'inference'],
     微调: ['finetuning', 'fine-tuning', 'training', 'lora'],
     多模态: ['multimodal', 'image', 'video', 'audio', 'diffusion'],
-    开发工具: ['developer-tools', 'sdk', 'code', 'assistant']
+    开发工具: ['developer-tools', 'sdk', 'code', 'assistant'],
+    ...(state.searchConfig?.synonyms || {})
   };
 
   for (const [key, values] of Object.entries(expansions)) {
@@ -1410,33 +2142,37 @@ function scoreProject(project, terms, query) {
   if (!terms.length) return 1;
   const name = normalize(project.name);
   const description = normalize(project.description);
+  const category = normalize(project.categoryCleanName || project.categoryName);
+  const subcategory = normalize(project.subcategory);
   const tags = (project.tags || []).map(normalize);
   const topics = (project.topics || []).map(normalize);
-  const haystack = [name, description, project.categoryCleanName, project.subcategory, ...tags, ...topics].map(normalize).join(' ');
+  const haystack = [name, description, category, subcategory, ...tags, ...topics].join(' ');
   let score = 0;
 
   if (name === query) score += 80;
   if (name.includes(query)) score += 38;
+  if (category.includes(query) || subcategory.includes(query)) score += 12;
   for (const term of terms) {
     if (name.includes(term)) score += 18;
     if (tags.some(tag => tag === term || tag.includes(term))) score += 14;
     if (topics.some(topic => topic === term || topic.includes(term))) score += 10;
+    if (category.includes(term) || subcategory.includes(term)) score += 7;
     if (description.includes(term)) score += 5;
     if (haystack.includes(term)) score += 2;
   }
   return score;
 }
 
-function sortProjects(a, b, sort, relevanceDelta) {
+function sortProjects(a, b, sort, relevanceDelta, lens = 'balanced') {
   if (sort === 'relevance' && relevanceDelta) return relevanceDelta;
   if (sort === 'recent') return dateMs(b.lastUpdated) - dateMs(a.lastUpdated) || b.stars - a.stars;
   if (sort === 'stars') return b.stars - a.stars || dateMs(b.lastUpdated) - dateMs(a.lastUpdated);
   if (sort === 'new') return dateMs(b.addedAt) - dateMs(a.addedAt) || b.scores.potential - a.scores.potential;
-  return (b.scores?.potential || 0) - (a.scores?.potential || 0) || b.stars - a.stars;
+  return getLensScore(b, lens) - getLensScore(a, lens) || b.stars - a.stars;
 }
 
 function renderLoading(label) {
-  return `<div class="loading-state">${escapeHtml(label)}...</div>`;
+  return `<div class="loading-state">${escapeHtml(label)}…</div>`;
 }
 
 function renderEmptyState(title, detail) {
@@ -1498,7 +2234,9 @@ function parseFreshness(value) {
 function formatDate(value) {
   const time = dateMs(value);
   if (!time) return 'unknown';
-  return new Date(time).toISOString().slice(0, 10);
+  return new Intl.DateTimeFormat('zh-CN', { year: 'numeric', month: '2-digit', day: '2-digit' })
+    .format(new Date(time))
+    .replaceAll('/', '-');
 }
 
 function formatStars(value) {

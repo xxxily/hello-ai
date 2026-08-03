@@ -1,10 +1,12 @@
 let catalog = [];
+let configuredSynonyms = {};
 
 self.addEventListener('message', event => {
-  const { type, catalog: nextCatalog, payload, seq } = event.data || {};
+  const { type, catalog: nextCatalog, payload, seq, synonyms } = event.data || {};
 
   if (type === 'init') {
     catalog = Array.isArray(nextCatalog) ? nextCatalog : [];
+    configuredSynonyms = synonyms && typeof synonyms === 'object' ? synonyms : {};
     return;
   }
 
@@ -44,7 +46,7 @@ function searchCatalog(records, payload) {
     scored.push([project, score]);
   }
 
-  scored.sort((a, b) => sortProjects(a[0], b[0], payload.sort, b[1] - a[1]));
+  scored.sort((a, b) => sortProjects(a[0], b[0], payload.sort, b[1] - a[1], payload.lens));
   return scored.map(([project]) => project);
 }
 
@@ -52,6 +54,7 @@ function expandTerms(query) {
   if (!query) return [];
   const terms = query.split(/\s+/).filter(Boolean);
   const expansions = {
+    ...configuredSynonyms,
     智能体: ['agent', 'agents', 'ai-agent', 'autonomous-agent', 'tool-use'],
     知识库: ['rag', 'retrieval', 'embedding', 'vector'],
     本地模型: ['local', 'ollama', 'inference'],
@@ -95,12 +98,30 @@ function scoreProject(project, terms, query) {
   return score;
 }
 
-function sortProjects(a, b, sort, relevanceDelta) {
+function sortProjects(a, b, sort, relevanceDelta, lens = 'balanced') {
   if (sort === 'relevance' && relevanceDelta) return relevanceDelta;
   if (sort === 'recent') return dateMs(b.lastUpdated) - dateMs(a.lastUpdated) || b.stars - a.stars;
   if (sort === 'stars') return b.stars - a.stars || dateMs(b.lastUpdated) - dateMs(a.lastUpdated);
   if (sort === 'new') return dateMs(b.addedAt) - dateMs(a.addedAt) || (b.scores?.potential || 0) - (a.scores?.potential || 0);
-  return (b.scores?.potential || 0) - (a.scores?.potential || 0) || b.stars - a.stars;
+  return getLensScore(b, lens) - getLensScore(a, lens) || b.stars - a.stars;
+}
+
+function getLensScore(project, lens = 'balanced') {
+  const scores = project.scores || {};
+  const stars = Math.min(100, Math.log10((project.stars || 0) + 1) * 18);
+  const freshness = scores.freshness || Math.max(0, 100 - daysSince(project.lastUpdated) * 0.65);
+  const potential = scores.potential || 0;
+  const maturity = scores.maturity || 0;
+  const focus = scores.focus || 0;
+  const topicSignal = scores.topicSignal || 0;
+
+  if (lens === 'production') return maturity * 0.38 + freshness * 0.22 + focus * 0.16 + stars * 0.19 + potential * 0.05;
+  if (lens === 'fresh') return freshness * 0.58 + potential * 0.22 + focus * 0.12 + topicSignal * 0.08;
+  if (lens === 'hidden') {
+    const lowExposure = Math.max(0, 100 - stars);
+    return potential * 0.32 + focus * 0.25 + freshness * 0.2 + lowExposure * 0.2 + topicSignal * 0.03;
+  }
+  return potential * 0.4 + freshness * 0.2 + maturity * 0.18 + focus * 0.12 + stars * 0.1;
 }
 
 function normalize(value) {
