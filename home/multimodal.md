@@ -2,7 +2,7 @@
 
 > Computer vision, image generation, audio, text-to-speech.
 
-> 当前分类已收录 **923** 个相关项目。
+> 当前分类已收录 **922** 个相关项目。
 
 ## Audio & Speech (TTS/STT)
 
@@ -3399,14 +3399,6 @@ SIGGRAPH 2026 论文项目，专注于动漫角色的单图像层分解技术。
 - **Stars:** ⭐️ 3.2k
 - **Tags:** `image-generation` `multimodal-model` `text-to-image` `diffusion-model`
 - **最后活动时间:** 2026-06-23
-
-### [DeepSeek-OCR-2](https://github.com/deepseek-ai/DeepSeek-OCR-2)
-
-DeepSeek推出的视觉因果流OCR模型，专注于文档理解和文字识别任务。
-
-- **Stars:** ⭐️ 3.2k
-- **Tags:** `ocr` `deepseek` `visual-ai` `document-understanding`
-- **最后活动时间:** 2026-02-03
 
 ### [Saber-Translator](https://github.com/MashiroSaber03/Saber-Translator)
 

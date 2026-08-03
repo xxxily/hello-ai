@@ -1,5 +1,5 @@
 {
-  "totalProjects": 11019,
+  "totalProjects": 11018,
   "totalRawProjects": 21732,
   "recencyThresholdMonths": 6,
   "categories": {
@@ -35,7 +35,7 @@
     },
     "multimodal": {
       "name": "👁️ 多模态与音视频",
-      "count": 923,
+      "count": 922,
       "rawCount": 3024
     },
     "devtools": {
@@ -69,5 +69,5 @@
       "rawCount": 462
     }
   },
-  "lastUpdated": "2026-08-03T00:06:48.269Z"
+  "lastUpdated": "2026-08-03T01:53:37.334Z"
 }
