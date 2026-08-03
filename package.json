@@ -1,7 +1,7 @@
 {
   "name": "hello-ai",
   "version": "2.0.0",
-  "description": "这个是个帮助自己链接到广阔AI世界的项目，也希望能帮助到你。",
+  "description": "\u8fd9\u4e2a\u662f\u4e2a\u5e2e\u52a9\u81ea\u5df1\u94fe\u63a5\u5230\u5e7f\u9614AI\u4e16\u754c\u7684\u9879\u76ee\uff0c\u4e5f\u5e0c\u671b\u80fd\u5e2e\u52a9\u5230\u4f60\u3002",
   "keywords": [
     "AI",
     "AGI",
@@ -85,5 +85,10 @@
     "dotenv": "^17.3.1",
     "node-telegram-bot-api": "^0.66.0",
     "terser": "^5.16.0"
+  },
+  "pnpm": {
+    "overrides": {
+      "form-data": "4.0.4"
+    }
   }
 }
