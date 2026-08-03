@@ -95,6 +95,245 @@ const TASKS = [
   }
 ];
 
+const TASK_MATCHERS = {
+  'build-agent': {
+    primary: [
+      {
+        weight: 9,
+        aliases: [
+          'agent',
+          'agents',
+          'agentic',
+          'ai agent',
+          'ai agents',
+          'autonomous agent',
+          'multi agent',
+          'multiagent',
+          '智能体',
+          '智能代理',
+          '多智能体'
+        ]
+      },
+      { weight: 8, aliases: ['mcp', 'model context protocol', '模型上下文协议'] },
+      {
+        weight: 8,
+        aliases: [
+          'tool use',
+          'tool calling',
+          'function calling',
+          'computer use',
+          'browser agent',
+          '工具调用',
+          '函数调用',
+          '浏览器智能体'
+        ]
+      }
+    ],
+    secondary: [
+      { weight: 3, aliases: ['orchestration', 'workflow', '编排', '工作流'] },
+      { weight: 2, aliases: ['automation', 'browser automation', '自动化'] }
+    ]
+  },
+  'ship-rag': {
+    primary: [
+      {
+        weight: 10,
+        aliases: ['rag', 'graphrag', 'retrieval augmented generation', '检索增强生成']
+      },
+      {
+        weight: 9,
+        aliases: [
+          'vector database',
+          'vector db',
+          'vector store',
+          'vector search',
+          '向量数据库',
+          '向量检索'
+        ]
+      },
+      { weight: 8, aliases: ['embedding', 'embeddings', '嵌入模型', '向量嵌入'] },
+      {
+        weight: 8,
+        aliases: [
+          'semantic search',
+          'document retrieval',
+          'information retrieval',
+          'knowledge base',
+          '语义搜索',
+          '文档检索',
+          '知识库'
+        ]
+      }
+    ],
+    secondary: [
+      { weight: 3, aliases: ['hybrid search', 'reranker', 'reranking', '混合检索', '重排'] },
+      { weight: 2, aliases: ['document parsing', 'chunking', 'data pipeline', '文档解析', '分块'] }
+    ]
+  },
+  'local-models': {
+    primary: [
+      {
+        weight: 10,
+        aliases: [
+          'local llm',
+          'local model',
+          'local ai',
+          '本地大模型',
+          '本地模型',
+          '本地部署',
+          '本地运行'
+        ]
+      },
+      {
+        weight: 9,
+        aliases: ['ollama', 'llama cpp', 'llamacpp', 'gguf', 'mlx', 'mlc llm']
+      },
+      {
+        weight: 9,
+        aliases: [
+          'model serving',
+          'model server',
+          'inference server',
+          'inference engine',
+          'inference runtime',
+          '模型服务',
+          '推理服务',
+          '推理引擎',
+          '推理框架'
+        ]
+      },
+      { weight: 7, aliases: ['inference', 'model inference', '模型推理'] },
+      {
+        weight: 9,
+        aliases: ['on device ai', 'on device inference', 'edge ai', '端侧 ai', '端侧推理', '边缘 ai']
+      },
+      { weight: 8, aliases: ['vllm', 'sglang', 'tgi', 'tensorrt llm', 'openvino'] }
+    ],
+    secondary: [
+      { weight: 3, aliases: ['quantization', 'gpu', 'cuda', 'accelerator', '量化', '加速'] },
+      { weight: 2, aliases: ['llm', 'language model', 'serving', '大语言模型'] }
+    ]
+  },
+  'multimodal-studio': {
+    primary: [
+      { weight: 10, aliases: ['multimodal', 'multi modal', 'vlm', 'vision language', '多模态', '视觉语言'] },
+      {
+        weight: 9,
+        aliases: [
+          'diffusion',
+          'diffusion model',
+          'image generation',
+          'text to image',
+          'image synthesis',
+          'stable diffusion',
+          '扩散模型',
+          '图像生成',
+          '文生图'
+        ]
+      },
+      {
+        weight: 9,
+        aliases: [
+          'video generation',
+          'text to video',
+          'image to video',
+          'video synthesis',
+          '视频生成',
+          '文生视频',
+          '图生视频'
+        ]
+      },
+      {
+        weight: 9,
+        aliases: [
+          'audio generation',
+          'speech synthesis',
+          'text to speech',
+          'voice cloning',
+          'music generation',
+          'audio driven',
+          '音频生成',
+          '语音合成',
+          '声音克隆',
+          '音乐生成'
+        ]
+      }
+    ],
+    secondary: [
+      { weight: 3, aliases: ['image', 'video', 'audio', 'speech', 'vision', '图像', '视频', '音频', '语音'] },
+      { weight: 2, aliases: ['generative art', 'creative tools', '生成式艺术', '创作工具'] }
+    ]
+  },
+  'developer-stack': {
+    primary: [
+      { weight: 10, aliases: ['developer tool', 'developer tools', 'devtool', 'devtools', '开发者工具', '开发工具'] },
+      {
+        weight: 10,
+        aliases: [
+          'code assistant',
+          'coding assistant',
+          'coding agent',
+          'ai coding',
+          'ai coder',
+          'code generation',
+          '代码助手',
+          '编程助手',
+          '编程智能体',
+          '代码生成'
+        ]
+      },
+      {
+        weight: 9,
+        aliases: ['claude code', 'cursor', 'github copilot', 'copilot', 'windsurf', 'aider', 'cline', 'codex cli']
+      },
+      { weight: 7, aliases: ['sdk', 'software development kit', '开发工具包'] },
+      {
+        weight: 8,
+        aliases: ['ai ide', 'ide extension', 'vscode extension', 'jetbrains plugin', '编辑器插件', '开发环境']
+      },
+      { weight: 8, aliases: ['prompt engineering', 'prompt toolkit', '提示工程', '提示词工具'] }
+    ],
+    secondary: [
+      { weight: 3, aliases: ['cli', 'api', 'automation', '命令行', '自动化'] },
+      { weight: 2, aliases: ['code', 'coding', 'llm', '编程', '代码'] }
+    ]
+  },
+  'learn-ai-engineering': {
+    primary: [
+      {
+        weight: 10,
+        aliases: ['tutorial', 'tutorials', 'course', 'courses', '教程', '课程', '入门指南', '学习路径']
+      },
+      {
+        weight: 9,
+        aliases: [
+          'awesome',
+          'awesome list',
+          'awesome lists',
+          'curated list',
+          'resource list',
+          '精选列表',
+          '资源列表',
+          '资源合集'
+        ]
+      },
+      {
+        weight: 8,
+        aliases: ['cookbook', 'handbook', 'playbook', 'roadmap', 'guide', 'guides', 'book', 'books', '手册', '指南', '路线图', '教科书']
+      },
+      { weight: 8, aliases: ['papers', 'paper list', 'research papers', '论文合集', '论文列表', '论文资源'] },
+      {
+        weight: 7,
+        aliases: ['examples', 'example collection', 'sample projects', '案例库', '示例项目', '实战案例']
+      }
+    ],
+    secondary: [
+      { weight: 3, aliases: ['ai engineering', 'machine learning', 'deep learning', '机器学习', '深度学习'] },
+      { weight: 2, aliases: ['education', 'workshop', 'practice', '教学', '实践'] }
+    ]
+  }
+};
+
 function readJson(filePath, fallback = null) {
   if (!fs.existsSync(filePath)) return fallback;
   return JSON.parse(fs.readFileSync(filePath, 'utf-8'));
@@ -341,56 +580,251 @@ function buildRelated(records) {
   return related;
 }
 
-function taskMatchScore(record, task) {
-  const haystack = [
-    record.name,
-    record.description,
-    record.categoryId,
-    record.subcategory,
-    ...(record.tags || []),
-    ...(record.topics || [])
-  ]
-    .map(normalizeText)
-    .join(' ');
-  const taskTerms = [...(task.tags || []), ...(task.query || '').split(/\s+/)].map(normalizeText).filter(Boolean);
-  let score = task.categories?.includes(record.categoryId) ? 28 : 0;
+function normalizeSemanticText(value) {
+  return String(value || '')
+    .normalize('NFKC')
+    .toLowerCase()
+    .replace(/([\p{Script=Han}])([a-z0-9])/gu, '$1 $2')
+    .replace(/([a-z0-9])([\p{Script=Han}])/gu, '$1 $2')
+    .replace(/[^\p{L}\p{N}]+/gu, ' ')
+    .trim();
+}
 
-  for (const term of taskTerms) {
-    if (haystack.includes(term)) score += 9;
+function hasSemanticAlias(text, alias) {
+  const normalizedAlias = normalizeSemanticText(alias);
+  if (!text || !normalizedAlias) return false;
+  if (/\p{Script=Han}/u.test(normalizedAlias)) return text.includes(normalizedAlias);
+  return ` ${text} `.includes(` ${normalizedAlias} `);
+}
+
+function matchConcepts(searchFields, concepts) {
+  const matches = [];
+
+  for (const concept of concepts || []) {
+    let bestMatch = null;
+    for (const alias of concept.aliases || []) {
+      for (const field of searchFields) {
+        if (!hasSemanticAlias(field.text, alias)) continue;
+        const match = {
+          alias,
+          score: concept.weight * field.weight
+        };
+        if (!bestMatch || match.score > bestMatch.score) bestMatch = match;
+      }
+    }
+    if (bestMatch) matches.push(bestMatch);
   }
 
-  return score + (record.scores?.potential || 0) * 0.45 + Math.log10((record.stars || 0) + 1) * 4;
+  return matches;
 }
 
-function topForTask(records, task, filterFn, limit = 4) {
-  return records
-    .map(record => [record, taskMatchScore(record, task)])
-    .filter(([record, score]) => score > 38 && (!filterFn || filterFn(record)))
-    .sort((a, b) => b[1] - a[1])
-    .slice(0, limit)
-    .map(([record]) => compactProject(record));
+function taskSemanticMatch(record, task) {
+  const configuredMatcher = TASK_MATCHERS[task.id];
+  const fallbackTerms = uniqueTextList([...(task.tags || []), ...(task.query || '').split(/\s+/)], 20);
+  const matcher = configuredMatcher || {
+    primary: fallbackTerms.map(term => ({ weight: 8, aliases: [term] })),
+    secondary: []
+  };
+  const searchFields = [
+    {
+      text: normalizeSemanticText([
+        record.name,
+        record.subcategory,
+        ...(record.tags || []),
+        ...(record.topics || [])
+      ].join(' ')),
+      weight: 1.15
+    },
+    {
+      text: normalizeSemanticText(record.description),
+      weight: 1
+    }
+  ];
+  const primaryMatches = matchConcepts(searchFields, matcher.primary);
+  if (!primaryMatches.length) {
+    return { eligible: false, score: 0, primaryHits: 0, secondaryHits: 0 };
+  }
+
+  const secondaryMatches = matchConcepts(searchFields, matcher.secondary);
+  const primaryScore = primaryMatches.reduce((sum, match) => sum + match.score, 0);
+  const secondaryScore = secondaryMatches.reduce((sum, match) => sum + match.score, 0);
+  return {
+    eligible: true,
+    score: primaryScore + Math.min(7, secondaryScore) + Math.min(6, (primaryMatches.length - 1) * 2),
+    primaryHits: primaryMatches.length,
+    secondaryHits: secondaryMatches.length
+  };
 }
 
-function buildTaskPaths(records) {
+function taskMatchScore(record, task, semanticMatch = taskSemanticMatch(record, task)) {
+  if (!semanticMatch.eligible) return 0;
+  const categoryBonus = task.categories?.includes(record.categoryId) ? 7 : 0;
+  const qualityBonus =
+    (record.scores?.potential || 0) * 0.12 +
+    (record.scores?.maturity || 0) * 0.04 +
+    (record.scores?.freshness || 0) * 0.03 +
+    Math.log10((record.stars || 0) + 1) * 1.5;
+  return semanticMatch.score + categoryBonus + qualityBonus;
+}
+
+function chooseDiverseTaskProjects(candidates, usedIds, rankFn, preferredFilters, limit = 4) {
+  const selected = [];
+  const selectedIds = new Set();
+  const categoryCounts = new Map();
+  const subcategoryCounts = new Map();
+  const ownerCounts = new Map();
+  const filters = [...preferredFilters, () => true];
+
+  for (const filterFn of filters) {
+    while (selected.length < limit) {
+      let best = null;
+      let bestScore = -Infinity;
+
+      for (const candidate of candidates) {
+        const { record } = candidate;
+        if (usedIds.has(record.id) || selectedIds.has(record.id) || !filterFn(candidate)) continue;
+        const diversityPenalty =
+          (categoryCounts.get(record.categoryId) || 0) * 7 +
+          (subcategoryCounts.get(normalizeText(record.subcategory)) || 0) * 5 +
+          (ownerCounts.get(normalizeText(record.owner)) || 0) * 10;
+        const adjustedScore = rankFn(candidate) - diversityPenalty;
+        if (
+          adjustedScore > bestScore ||
+          (adjustedScore === bestScore && record.id.localeCompare(best?.record.id || '') < 0)
+        ) {
+          best = candidate;
+          bestScore = adjustedScore;
+        }
+      }
+
+      if (!best) break;
+      const { record } = best;
+      selected.push(record);
+      selectedIds.add(record.id);
+      categoryCounts.set(record.categoryId, (categoryCounts.get(record.categoryId) || 0) + 1);
+      const subcategory = normalizeText(record.subcategory);
+      subcategoryCounts.set(subcategory, (subcategoryCounts.get(subcategory) || 0) + 1);
+      const owner = normalizeText(record.owner);
+      ownerCounts.set(owner, (ownerCounts.get(owner) || 0) + 1);
+    }
+    if (selected.length >= limit) break;
+  }
+
+  for (const record of selected) usedIds.add(record.id);
+  return selected.map(compactProject);
+}
+
+function buildTaskPaths(records, nowMs = Date.now()) {
   return TASKS.map(task => {
-    const starter = topForTask(records, task, null, 4);
-    const production = topForTask(records, task, record => record.stars >= 5000 || (record.scores?.maturity || 0) >= 80, 4);
-    const fresh = topForTask(records, task, record => daysSince(record.lastUpdated, Date.now()) <= 45, 4);
-    const seen = new Set();
-    const compactUnique = projects =>
-      projects.filter(project => {
-        if (seen.has(project.id)) return false;
-        seen.add(project.id);
-        return true;
-      });
+    const candidates = records
+      .map(record => {
+        const semanticMatch = taskSemanticMatch(record, task);
+        return {
+          record,
+          semanticMatch,
+          score: taskMatchScore(record, task, semanticMatch)
+        };
+      })
+      .filter(candidate => candidate.semanticMatch.eligible);
+    const rankBalanced = candidate =>
+      candidate.score +
+      (candidate.record.scores?.potential || 0) * 0.32 +
+      (candidate.record.scores?.focus || 0) * 0.08;
+    const rankProduction = candidate =>
+      candidate.score +
+      (candidate.record.scores?.maturity || 0) * 0.46 +
+      (candidate.record.scores?.freshness || 0) * 0.08 +
+      Math.log10((candidate.record.stars || 0) + 1) * 5;
+    const rankFresh = candidate =>
+      candidate.score +
+      (candidate.record.scores?.freshness || 0) * 0.48 +
+      newnessScore(candidate.record, nowMs) * 0.18 +
+      (candidate.record.scores?.potential || 0) * 0.12;
+    const rankHidden = candidate => {
+      const popularityDiscount = Math.max(0, 32 - Math.log10((candidate.record.stars || 0) + 10) * 7);
+      return (
+        candidate.score +
+        (candidate.record.scores?.potential || 0) * 0.34 +
+        (candidate.record.scores?.freshness || 0) * 0.22 +
+        (candidate.record.scores?.focus || 0) * 0.12 +
+        popularityDiscount
+      );
+    };
+
+    const inTaskCategory = candidate => task.categories?.includes(candidate.record.categoryId);
+    const usedIds = new Set();
+    const balanced = chooseDiverseTaskProjects(candidates, usedIds, rankBalanced, [() => true]);
+    const production = chooseDiverseTaskProjects(
+      candidates,
+      usedIds,
+      rankProduction,
+      [
+        candidate =>
+          inTaskCategory(candidate) &&
+          candidate.record.health === 'Active' &&
+          (candidate.record.stars >= 5000 || (candidate.record.scores?.maturity || 0) >= 80),
+        candidate =>
+          candidate.record.health === 'Active' &&
+          (candidate.record.stars >= 5000 || (candidate.record.scores?.maturity || 0) >= 80),
+        candidate => candidate.record.stars >= 1000 || (candidate.record.scores?.maturity || 0) >= 72
+      ]
+    );
+    const fresh = chooseDiverseTaskProjects(
+      candidates,
+      usedIds,
+      rankFresh,
+      [
+        candidate => inTaskCategory(candidate) && daysSince(candidate.record.lastUpdated, nowMs) <= 30,
+        candidate => daysSince(candidate.record.lastUpdated, nowMs) <= 30,
+        candidate => daysSince(candidate.record.lastUpdated, nowMs) <= 60
+      ]
+    );
+    const hidden = chooseDiverseTaskProjects(
+      candidates,
+      usedIds,
+      rankHidden,
+      [
+        candidate =>
+          inTaskCategory(candidate) &&
+          candidate.record.stars < 5000 &&
+          (candidate.record.scores?.potential || 0) >= 58 &&
+          (candidate.record.scores?.freshness || 0) >= 58,
+        candidate =>
+          candidate.record.stars < 5000 &&
+          (candidate.record.scores?.potential || 0) >= 58 &&
+          (candidate.record.scores?.freshness || 0) >= 58,
+        candidate => candidate.record.stars < 15000 && (candidate.record.scores?.potential || 0) >= 50
+      ]
+    );
 
     return {
       ...task,
-      total: records.filter(record => taskMatchScore(record, task) > 38).length,
+      total: candidates.length,
       tracks: [
-        { id: 'starter', label: '优先试用', projects: compactUnique(starter) },
-        { id: 'production', label: '生产候选', projects: compactUnique(production) },
-        { id: 'fresh', label: '近期活跃', projects: compactUnique(fresh) }
+        {
+          id: 'balanced',
+          label: '综合优选',
+          description: '兼顾任务相关性、项目质量与类型多样性。',
+          projects: balanced
+        },
+        {
+          id: 'production',
+          label: '生产候选',
+          description: '优先考虑成熟度、活跃状态与社区验证。',
+          projects: production
+        },
+        {
+          id: 'fresh',
+          label: '近期活跃',
+          description: '聚焦近期更新或新收录的相关项目。',
+          projects: fresh
+        },
+        {
+          id: 'hidden',
+          label: '隐藏宝石',
+          description: '挖掘热度较低、但聚焦度和活跃信号扎实的项目。',
+          projects: hidden
+        }
       ]
     };
   });

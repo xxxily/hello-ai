@@ -29,4 +29,6 @@ scripts/deploy-*.sh
 REFACTOR_PLAN/*
 .omx/
 .opencode/
-plans/
+# Keep local planning drafts ignored, except reviewed deliverables.
+plans/*
+!plans/EXPLORE_DISCOVERY_UX_OPTIMIZATION.md
