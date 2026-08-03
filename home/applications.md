@@ -2,7 +2,7 @@
 
 > End-user applications powered by AI.
 
-> 当前分类已收录 **1133** 个相关项目。
+> 当前分类已收录 **1132** 个相关项目。
 
 ## Chatbots & UIs
 
@@ -7251,14 +7251,6 @@ Obsidian AI 助手插件，超越简单聊天，提供智能笔记整理和组�
 - **Stars:** ⭐️ 847
 - **Tags:** `rss` `knowledge-management` `mcp` `self-hosted`
 - **最后活动时间:** 2026-08-01
-
-### [smaug](https://github.com/alexknowshtml/smaug)
-
-AI驱动的Twitter/X书签归档工具，支持多模型分析并导出为Markdown格式。
-
-- **Stars:** ⭐️ 845
-- **Tags:** `twitter` `bookmarks` `ai-analysis` `markdown`
-- **最后活动时间:** 2026-02-03
 
 ### [hr-breaker](https://github.com/btseytlin/hr-breaker)
 

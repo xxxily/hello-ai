@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta
       name="description"
-      content="Hello-AI Explore：搜索、筛选和对比活跃的 AI 开源项目。"
+      content="Hello-AI Explore：从两万多个 AI 开源项目中搜索、筛选和对比值得关注的工具。"
     />
     <title>Hello-AI Explore</title>
     <meta name="theme-color" content="#f6f2ea" />
@@ -31,13 +31,44 @@
           <button class="nav-button" type="button" data-route="saved">收藏</button>
         </nav>
 
-        <a class="docs-link" href="/home/">Docs</a>
+        <div class="top-actions">
+          <a class="docs-link" href="/home/">Docs</a>
+          <a
+            class="github-link"
+            href="https://github.com/xxxily/hello-ai"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="在 GitHub 查看并 Star Hello-AI"
+          >
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M12 2C6.48 2 2 6.58 2 12.23c0 4.52 2.87 8.35 6.84 9.71.5.1.68-.22.68-.49 0-.24-.01-1.05-.02-1.9-2.78.62-3.37-1.2-3.37-1.2-.45-1.18-1.11-1.5-1.11-1.5-.91-.64.07-.63.07-.63 1 .08 1.53 1.06 1.53 1.06.9 1.56 2.35 1.11 2.92.85.09-.66.35-1.11.64-1.37-2.22-.26-4.56-1.14-4.56-5.06 0-1.12.39-2.03 1.03-2.75-.1-.26-.45-1.3.1-2.71 0 0 .84-.28 2.75 1.05A9.38 9.38 0 0 1 12 6.1a9.4 9.4 0 0 1 2.5.35c1.91-1.33 2.75-1.05 2.75-1.05.55 1.41.2 2.45.1 2.71.64.72 1.03 1.63 1.03 2.75 0 3.93-2.35 4.79-4.58 5.04.36.32.68.94.68 1.9 0 1.37-.01 2.47-.01 2.81 0 .27.18.59.69.49A10.26 10.26 0 0 0 22 12.23C22 6.58 17.52 2 12 2Z" />
+            </svg>
+            <span>GitHub</span>
+            <strong>Star</strong>
+          </a>
+        </div>
       </header>
 
       <section class="command-band" aria-label="项目搜索">
         <div class="command-inner">
           <div class="command-copy">
+            <p class="hero-label"><span aria-hidden="true"></span>持续更新的 AI 开源项目库</p>
             <h1>发现适合你的 AI 开源项目</h1>
+            <p class="hero-summary">搜索、筛选、对比，快速找到值得关注的项目。</p>
+            <a
+              class="hero-github"
+              href="https://github.com/xxxily/hello-ai"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <span>GitHub 开源</span>
+              <strong>github.com/xxxily/hello-ai</strong>
+              <b aria-hidden="true">↗</b>
+            </a>
+          </div>
+
+          <div class="stat-strip" id="statStrip" aria-live="polite">
+            <div class="stat-loading">正在加载项目数据…</div>
           </div>
 
           <label class="search-box" for="globalSearch">
@@ -53,12 +84,35 @@
             />
           </label>
 
-          <div class="stat-strip" id="statStrip" aria-live="polite"></div>
           <div class="quick-strip" id="quickStrip" aria-label="快捷搜索"></div>
         </div>
       </section>
 
       <main id="appMain" class="app-main" tabindex="-1"></main>
+
+      <footer class="site-footer">
+        <div class="footer-inner">
+          <div class="footer-copy">
+            <a class="footer-brand" href="./">Hello-AI Explore</a>
+            <p>持续收录和整理值得关注的 AI 开源项目。</p>
+          </div>
+          <a
+            class="footer-github"
+            href="https://github.com/xxxily/hello-ai"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M12 2C6.48 2 2 6.58 2 12.23c0 4.52 2.87 8.35 6.84 9.71.5.1.68-.22.68-.49 0-.24-.01-1.05-.02-1.9-2.78.62-3.37-1.2-3.37-1.2-.45-1.18-1.11-1.5-1.11-1.5-.91-.64.07-.63.07-.63 1 .08 1.53 1.06 1.53 1.06.9 1.56 2.35 1.11 2.92.85.09-.66.35-1.11.64-1.37-2.22-.26-4.56-1.14-4.56-5.06 0-1.12.39-2.03 1.03-2.75-.1-.26-.45-1.3.1-2.71 0 0 .84-.28 2.75 1.05A9.38 9.38 0 0 1 12 6.1a9.4 9.4 0 0 1 2.5.35c1.91-1.33 2.75-1.05 2.75-1.05.55 1.41.2 2.45.1 2.71.64.72 1.03 1.63 1.03 2.75 0 3.93-2.35 4.79-4.58 5.04.36.32.68.94.68 1.9 0 1.37-.01 2.47-.01 2.81 0 .27.18.59.69.49A10.26 10.26 0 0 0 22 12.23C22 6.58 17.52 2 12 2Z" />
+            </svg>
+            <span>
+              <small>GitHub 开源地址</small>
+              <strong>github.com/xxxily/hello-ai</strong>
+            </span>
+            <b>去 Star ↗</b>
+          </a>
+        </div>
+      </footer>
     </div>
 
     <aside id="detailDrawer" class="detail-drawer" aria-hidden="true" aria-label="项目详情" tabindex="-1" inert></aside>

@@ -2,7 +2,7 @@
 
 > Retrieval Augmented Generation and Database solutions.
 
-> 当前分类已收录 **500** 个相关项目。
+> 当前分类已收录 **499** 个相关项目。
 
 ## Data Parsers
 
@@ -901,14 +901,6 @@ AWS上的科学数据管理平台，帮助团队和AI系统高效发现、信任
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `serp-api` `web-scraping` `search-engine` `seo`
 - **最后活动时间:** 2026-07-22
-
-### [botflow](https://github.com/kkyon/botflow)
-
-用于数据管道工作的Python快速数据流编程框架，支持爬虫、机器学习和量化交易。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `data-pipeline` `machine-learning` `python`
-- **最后活动时间:** 2026-02-03
 
 ### [langchain-extract](https://github.com/langchain-ai/langchain-extract)
 

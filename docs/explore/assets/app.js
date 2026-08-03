@@ -83,6 +83,7 @@ let toastTimer = null;
 let filterPanelScrollTimer = null;
 let lastFocusedElement = null;
 let drawerOriginId = null;
+let renderedStatsSignature = '';
 
 init();
 
@@ -464,19 +465,57 @@ function renderNav() {
 
 function renderStats() {
   if (!state.stats) {
-    els.stats.innerHTML = '';
+    renderedStatsSignature = '';
     return;
   }
 
+  const totalProjects = Number(state.stats.totalRawProjects || 0);
+  const activeProjects = Number(state.stats.totalActiveProjects || 0);
+  const categoryCount = Object.keys(state.stats.categories || {}).length;
   const updated = formatDate(state.stats.generatedAt);
-  els.stats.innerHTML = [
-    ['项目', formatNumber(state.stats.totalRawProjects)],
-    ['活跃', formatNumber(state.stats.totalActiveProjects)],
-    ['分类', Object.keys(state.stats.categories || {}).length],
-    ['更新', updated]
-  ]
-    .map(([label, value]) => `<span class="stat-pill">${escapeHtml(label)} <strong>${escapeHtml(value)}</strong></span>`)
-    .join('');
+  const signature = `${totalProjects}:${activeProjects}:${categoryCount}:${updated}`;
+  if (signature === renderedStatsSignature) return;
+  renderedStatsSignature = signature;
+
+  els.stats.innerHTML = `
+    <article class="stat-card stat-card-total" aria-label="已收录 ${formatNumber(totalProjects)} 个 AI 开源项目">
+      <span class="stat-card-label">已收录</span>
+      <strong class="stat-number" data-count="${totalProjects}" aria-hidden="true">${formatNumber(totalProjects)}</strong>
+      <span class="stat-card-unit">个 AI 开源项目</span>
+    </article>
+    <article class="stat-card stat-card-active" aria-label="其中 ${formatNumber(activeProjects)} 个项目近期活跃">
+      <span class="stat-card-label"><i aria-hidden="true"></i>近期活跃</span>
+      <strong class="stat-number" data-count="${activeProjects}" aria-hidden="true">${formatNumber(activeProjects)}</strong>
+      <span class="stat-card-unit">个项目持续更新</span>
+    </article>
+    <div class="stat-meta" aria-label="共 ${categoryCount} 个分类，数据更新于 ${updated}">
+      <span><strong>${categoryCount}</strong> 个分类</span>
+      <span>更新于 <strong>${escapeHtml(updated)}</strong></span>
+    </div>
+  `;
+
+  animateStatNumbers();
+}
+
+function animateStatNumbers() {
+  const numbers = [...els.stats.querySelectorAll('[data-count]')];
+  if (!numbers.length || window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+
+  numbers.forEach((element, index) => {
+    const target = Number(element.dataset.count || 0);
+    const duration = 820 + index * 140;
+    const startTime = performance.now();
+    element.textContent = '0';
+
+    const update = now => {
+      const progress = Math.min(1, (now - startTime) / duration);
+      const eased = 1 - Math.pow(1 - progress, 4);
+      element.textContent = formatNumber(Math.round(target * eased));
+      if (progress < 1) requestAnimationFrame(update);
+    };
+
+    requestAnimationFrame(update);
+  });
 }
 
 function renderQuickStrip() {
