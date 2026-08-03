@@ -1,0 +1,21 @@
+{
+  "name": "Hello-AI",
+  "short_name": "Hello-AI",
+  "description": "持续更新的 AI 开源项目导航",
+  "start_url": "/",
+  "scope": "/",
+  "display": "browser",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+# Hello-AI
+
+> Hello-AI 是一个持续更新的 AI 开源项目导航，帮助开发者按任务、分类和技术方向发现值得使用的项目。
+
+Canonical: https://hello-ai.anzz.site/
+GitHub: https://github.com/xxxily/hello-ai
+
+## 主要入口
+
+- [Explore](https://hello-ai.anzz.site/explore/): 按目标搜索、筛选、排序、对比和收藏 AI 开源项目。
+- [项目目录](https://hello-ai.anzz.site/home/): 进入分类目录。
+- [项目介绍](https://hello-ai.anzz.site/home/index.html): 了解数据来源、更新机制和收录范围。
+
+## 覆盖方向
+
+基础大模型、智能体与编排、RAG 与检索、基础设施与部署、微调与训练、多模态、开发工具、AI 应用、学习资源、桌面工具、机器人与物联网、商业与量化。
+
+## 数据说明
+
+项目数据来自公开的 GitHub 开源仓库，并持续更新项目活跃度、Stars、分类和 AI 生成摘要。Explore 提供任务入口、关键词搜索、筛选、项目对比和收藏，适合用于 AI 项目调研与技术选型。

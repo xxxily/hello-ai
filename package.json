@@ -1,7 +1,7 @@
 {
   "name": "hello-ai",
   "version": "2.0.0",
-  "description": "这个是个帮助自己链接到广阔AI世界的项目，也希望能帮助到你。",
+  "description": "持续更新的 AI 开源项目导航，支持按任务、分类和技术方向发现项目。",
   "keywords": [
     "AI",
     "AGI",
@@ -29,7 +29,7 @@
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
   },
-  "homepage": "https://hello-ai.anzz.top",
+  "homepage": "https://hello-ai.anzz.site",
   "repository": {
     "type": "git",
     "url": "https://github.com/xxxily/hello-ai"

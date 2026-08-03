@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "连接人工智能世界的枢纽，开启通往高维空间的入口"
+title: "持续更新的 AI 开源项目导航"
 
 hero:
   name: "Hello-AI"
