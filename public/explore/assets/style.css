@@ -590,30 +590,14 @@ h1 {
 }
 
 .recommendation-note {
-  display: grid;
-  grid-template-columns: auto minmax(0, 1fr);
-  gap: 8px;
-  align-items: start;
+  display: block;
+  min-height: 0;
   padding: 9px 10px;
   border-left: 3px solid var(--accent);
   background: color-mix(in srgb, var(--accent-soft) 44%, transparent);
-}
-
-.recommendation-note > span {
-  color: var(--accent-strong);
-  font-family: var(--mono);
-  font-size: 10px;
-  letter-spacing: 0.08em;
-}
-
-.recommendation-note p {
-  display: block;
-  min-height: 0;
-  color: var(--ink-soft);
   font-family: var(--mono);
   font-size: 11px;
   line-height: 1.4;
-  -webkit-line-clamp: unset;
 }
 
 .tag-row,
@@ -1756,7 +1740,7 @@ button:disabled {
 
 .compare-summary {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 12px;
   margin-bottom: 14px;
 }

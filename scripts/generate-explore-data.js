@@ -48,7 +48,7 @@ const TASKS = [
   {
     id: 'build-agent',
     title: '构建 AI Agent',
-    summary: '从框架、编排、浏览器自动化到 MCP 工具链，快速拼出可执行智能体。',
+    summary: 'Agent 框架、工作流、浏览器自动化和 MCP 工具。',
     query: 'agent automation workflow tool-use',
     categories: ['agents', 'devtools'],
     tags: ['agent', 'ai-agents', 'automation', 'mcp', 'workflow']
@@ -56,7 +56,7 @@ const TASKS = [
   {
     id: 'ship-rag',
     title: '搭建 RAG / 知识库',
-    summary: '覆盖文档解析、向量检索、GraphRAG、数据管道和端到端 RAG 框架。',
+    summary: 'RAG 框架、向量数据库、文档解析和检索工具。',
     query: 'rag vector database embedding retrieval',
     categories: ['rag_data', 'infrastructure'],
     tags: ['rag', 'vector-database', 'embedding', 'retrieval']
@@ -64,7 +64,7 @@ const TASKS = [
   {
     id: 'local-models',
     title: '本地模型与推理',
-    summary: '定位本地运行、模型服务、推理加速、开源模型和部署基础设施。',
+    summary: '本地模型、推理引擎、模型服务和部署工具。',
     query: 'local llm inference ollama model serving',
     categories: ['llms', 'infrastructure'],
     tags: ['llm', 'ollama', 'inference', 'model-serving']
@@ -72,7 +72,7 @@ const TASKS = [
   {
     id: 'multimodal-studio',
     title: '多模态生成',
-    summary: '串联图像、视频、语音、扩散模型和创作型应用。',
+    summary: '图像、视频、语音和多模态生成工具。',
     query: 'image video audio diffusion multimodal',
     categories: ['multimodal', 'applications'],
     tags: ['diffusion', 'image-generation', 'video', 'audio', 'multimodal']
@@ -80,7 +80,7 @@ const TASKS = [
   {
     id: 'developer-stack',
     title: 'AI 开发者工具',
-    summary: '聚合 AI IDE、代码助手、SDK、提示工程和自动化开发工具。',
+    summary: 'AI 编程工具、代码助手、SDK 和自动化工具。',
     query: 'developer tools sdk code assistant claude',
     categories: ['devtools', 'desktop_tools'],
     tags: ['developer-tools', 'sdk', 'code', 'claude-code']
@@ -88,7 +88,7 @@ const TASKS = [
   {
     id: 'learn-ai-engineering',
     title: '学习 AI 工程',
-    summary: '从课程、awesome list、论文资源到工程实践样例，适合系统补课。',
+    summary: '课程、教程、论文和工程实践资源。',
     query: 'course tutorial awesome list machine learning',
     categories: ['learning'],
     tags: ['tutorial', 'awesome-list', 'course', 'machine-learning']
@@ -803,26 +803,26 @@ function buildTaskPaths(records, nowMs = Date.now()) {
       tracks: [
         {
           id: 'balanced',
-          label: '综合优选',
-          description: '兼顾任务相关性、项目质量与类型多样性。',
+          label: '推荐',
+          description: '综合排序。',
           projects: balanced
         },
         {
           id: 'production',
-          label: '生产候选',
-          description: '优先考虑成熟度、活跃状态与社区验证。',
+          label: '成熟项目',
+          description: '维护稳定、使用较多。',
           projects: production
         },
         {
           id: 'fresh',
-          label: '近期活跃',
-          description: '聚焦近期更新或新收录的相关项目。',
+          label: '最近更新',
+          description: '近期有更新。',
           projects: fresh
         },
         {
           id: 'hidden',
-          label: '隐藏宝石',
-          description: '挖掘热度较低、但聚焦度和活跃信号扎实的项目。',
+          label: '小众项目',
+          description: '关注度较低但仍活跃。',
           projects: hidden
         }
       ]
@@ -865,36 +865,36 @@ function buildCategoryInsights(records, categories) {
 function describeFit(record) {
   const category = record.categoryId;
   const tags = [...record.tags, ...record.topics].map(normalizeText);
-  if (category === 'agents') return '适合评估智能体框架、工具调用、自动化工作流或多智能体编排。';
-  if (category === 'rag_data') return '适合做知识库、文档检索、GraphRAG、数据解析或语义搜索选型。';
-  if (category === 'llms') return '适合关注模型能力、开源权重、模型架构或本地推理基础。';
-  if (category === 'infrastructure') return '适合作为部署、推理、观测、模型服务或工程基础设施候选。';
-  if (category === 'devtools') return '适合提升开发效率、搭建 AI 编程流、集成 SDK 或构建内部工具。';
-  if (category === 'multimodal') return '适合图像、语音、视频、视觉理解或多模态生成应用。';
+  if (category === 'agents') return '智能体框架、工具调用和自动化工作流。';
+  if (category === 'rag_data') return '知识库、文档检索和 GraphRAG。';
+  if (category === 'llms') return '模型、开源权重和本地推理。';
+  if (category === 'infrastructure') return '部署、推理和模型服务。';
+  if (category === 'devtools') return 'AI 编程、SDK 和开发自动化。';
+  if (category === 'multimodal') return '图像、语音、视频和多模态生成。';
   if (category === 'learning' || tags.includes('tutorial') || tags.includes('awesome-list')) {
-    return '适合作为学习路径、调研入口、案例库或团队知识补齐材料。';
+    return '课程、教程、案例和学习资源。';
   }
-  return '适合进入同类项目对比，结合活跃度、成熟度和标签判断是否值得试用。';
+  return '查看同类项目，比较功能和更新。';
 }
 
 function describeCaution(record) {
   const cautions = [];
-  if ((record.stars || 0) < 1000) cautions.push('星标较少，建议先看 issue、release 和 README 完整度。');
-  if (daysSince(record.lastUpdated, Date.now()) > 90) cautions.push('最近更新不算频繁，适合作为备选或学习参考。');
-  if (!record.topics?.length) cautions.push('GitHub topics 缺失，相关性主要来自描述和人工标签。');
-  if ((record.tags || []).length <= 2) cautions.push('标签较少，建议打开 GitHub 进一步确认实际边界。');
+  if ((record.stars || 0) < 1000) cautions.push('Stars 较少，先看 README、issue 和 release。');
+  if (daysSince(record.lastUpdated, Date.now()) > 90) cautions.push('最近更新较少，可作为备选。');
+  if (!record.topics?.length) cautions.push('GitHub topics 较少，结合简介判断。');
+  if ((record.tags || []).length <= 2) cautions.push('标签较少，打开 GitHub 确认项目范围。');
   return cautions.slice(0, 3);
 }
 
 function describeNextSteps(record) {
-  const steps = ['打开 GitHub 快速检查 README、示例和最近提交。'];
+  const steps = ['先看 README、示例和最近提交。'];
   if (record.categoryId === 'agents' || record.categoryId === 'rag_data') {
-    steps.push('加入对比，和同类框架一起看集成复杂度和生态。');
+    steps.push('和同类项目比较集成难度。');
   } else {
-    steps.push('查看相关项目，判断它是主方案、替代品还是配套组件。');
+    steps.push('看看相关项目，了解项目定位。');
   }
   if ((record.tags || []).length) {
-    steps.push(`用标签 ${record.tags.slice(0, 2).join(' / ')} 继续缩小搜索范围。`);
+    steps.push(`点击 ${record.tags.slice(0, 2).join(' / ')} 查看同类项目。`);
   }
   return steps;
 }
@@ -1032,11 +1032,6 @@ function main() {
         github: {
           owner: record.owner,
           repo: record.repo
-        },
-        signals: {
-          potential: '综合近期活跃、主题聚焦、分类内表现与项目热度得到的探索信号。',
-          freshness: '基于最近一次更新日期。',
-          focus: '基于 tags、topics 与子分类完整度。'
         },
         decision: {
           fit: describeFit(record),

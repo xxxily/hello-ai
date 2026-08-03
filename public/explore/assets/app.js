@@ -8,10 +8,10 @@ const STORE_KEYS = {
 };
 
 const LENS_OPTIONS = [
-  { id: 'balanced', label: '综合推荐', shortLabel: '综合', description: '兼顾相关度、活跃度与成熟度' },
-  { id: 'production', label: '生产优先', shortLabel: '生产', description: '优先成熟、持续维护的候选' },
-  { id: 'fresh', label: '最近活跃', shortLabel: '活跃', description: '关注最近更新和新收录项目' },
-  { id: 'hidden', label: '隐藏宝石', shortLabel: '宝石', description: '寻找高聚焦、尚未过度曝光的项目' }
+  { id: 'balanced', label: '推荐', shortLabel: '推荐', description: '综合排序' },
+  { id: 'production', label: '成熟项目', shortLabel: '成熟', description: '维护稳定、使用较多' },
+  { id: 'fresh', label: '最近更新', shortLabel: '更新', description: '近期有更新' },
+  { id: 'hidden', label: '小众项目', shortLabel: '小众', description: '关注度较低但仍活跃' }
 ];
 
 const GENERIC_REFINEMENT_TERMS = new Set([
@@ -108,7 +108,7 @@ async function loadBaseData() {
     state.searchConfig = searchConfig;
     render();
   } catch (error) {
-    els.main.innerHTML = renderEmptyState('探索数据尚未生成', '请先运行 npm run explore:generate-data');
+    els.main.innerHTML = renderEmptyState('项目数据暂不可用', '请稍后再试。');
     console.error(error);
   }
 }
@@ -436,7 +436,7 @@ function render() {
   els.search.value = state.query;
 
   if (!state.stats || !state.facets || !state.radar) {
-    els.main.innerHTML = renderLoading('正在加载探索雷达');
+    els.main.innerHTML = renderLoading('正在加载项目推荐');
     renderCompareTray();
     return;
   }
@@ -470,10 +470,10 @@ function renderStats() {
 
   const updated = formatDate(state.stats.generatedAt);
   els.stats.innerHTML = [
-    ['Collected', formatNumber(state.stats.totalRawProjects)],
-    ['Active', formatNumber(state.stats.totalActiveProjects)],
-    ['Categories', Object.keys(state.stats.categories || {}).length],
-    ['Updated', updated]
+    ['项目', formatNumber(state.stats.totalRawProjects)],
+    ['活跃', formatNumber(state.stats.totalActiveProjects)],
+    ['分类', Object.keys(state.stats.categories || {}).length],
+    ['更新', updated]
   ]
     .map(([label, value]) => `<span class="stat-pill">${escapeHtml(label)} <strong>${escapeHtml(value)}</strong></span>`)
     .join('');
@@ -496,7 +496,7 @@ function renderQuickStrip() {
           { label: '本地模型', query: 'local llm ollama inference', category: 'infrastructure' }
         ]),
     { label: '最近 30 天', query: '', freshness: '30d' },
-    { label: '高星精选', query: '', stars: '50000' }
+    { label: '50k+ Stars', query: '', stars: '50000' }
   ];
 
   els.quick.innerHTML = quickQueries
@@ -528,9 +528,7 @@ function renderRadar() {
     <section class="section-band">
       <div class="section-heading">
         <div>
-          <span class="eyebrow">DISCOVERY WORKBENCH</span>
-          <h2>先说目标，再拿到一组候选</h2>
-          <p>不用先理解 ${formatNumber(state.stats.totalActiveProjects)} 个项目的分类。选择任务和判断偏好，直接从短名单开始。</p>
+          <h2>你想找什么？</h2>
         </div>
       </div>
       ${renderDiscoveryWorkbench(tasks)}
@@ -539,9 +537,7 @@ function renderRadar() {
     <section class="section-band">
       <div class="section-heading">
         <div>
-          <span class="eyebrow">CATEGORY SIGNALS</span>
-          <h2>从赛道信号继续探索</h2>
-          <p>项目数量之外，再看近期活跃比例、平均探索分和代表主题。</p>
+          <h2>按分类浏览</h2>
         </div>
       </div>
       <div class="category-grid">
@@ -554,10 +550,10 @@ function renderRadar() {
               return `
               <button class="category-tile" type="button" data-action="category" data-value="${attr(category.id)}">
                 <strong>${escapeHtml(`${category.icon ? `${category.icon} ` : ''}${category.cleanName}`)}</strong>
-                <span>${formatNumber(category.count)} 活跃 · ${formatPercent(insight?.freshCount, category.count)} 近 30 天更新</span>
+                <span>${formatNumber(category.count)} 个项目</span>
                 ${
                   insight
-                    ? `<div class="category-signal-row"><small>平均探索分 ${formatNumber(insight.avgPotential || 0)}</small><small>${insight.topTags?.slice(0, 3).map(tag => escapeHtml(tag.label)).join(' / ') || '查看赛道'}</small></div>`
+                    ? `<div class="category-signal-row"><small>${formatPercent(insight.freshCount, category.count)} 近 30 天更新</small><small>${insight.topTags?.slice(0, 3).map(tag => escapeHtml(tag.label)).join(' / ') || '查看项目'}</small></div>`
                     : ''
                 }
               </button>
@@ -572,28 +568,26 @@ function renderRadar() {
       <div class="section-heading">
         <div>
           <h2>今日雷达</h2>
-          <p>活跃、潜力、高星和新收录项目。</p>
         </div>
         <div class="view-switch">
           <button class="chip" type="button" data-route="explore">进入 Explorer</button>
         </div>
       </div>
       <div class="radar-grid">
-        ${renderListLane('潜力信号', 'Discovery Signal', lists.potential || [])}
-        ${renderListLane('最近活跃', 'Fresh Activity', lists.recent || [])}
-        ${renderListLane('高星必看', 'High Star Picks', lists.highStar || [])}
-        ${renderListLane('新收录', 'New Entries', lists.newProjects || [])}
+        ${renderListLane('推荐项目', '', lists.potential || [])}
+        ${renderListLane('最近更新', '', lists.recent || [])}
+        ${renderListLane('热门项目', '', lists.highStar || [])}
+        ${renderListLane('新收录', '', lists.newProjects || [])}
       </div>
     </section>
 
-    <section class="explorer-endcap" aria-label="继续进入 Explorer">
+    <section class="explorer-endcap" aria-label="查看全部项目">
       <div>
-        <span class="eyebrow">KEEP EXPLORING</span>
-        <h2>雷达看到底，不代表探索结束</h2>
-        <p>带着“${escapeHtml(selectedTask?.title || '当前目标')}”进入 Explorer，用选型偏好、动态缩小和项目对比继续收敛。</p>
+        <h2>查看更多项目</h2>
+        <p>查看“${escapeHtml(selectedTask?.title || '当前方向')}”的全部项目。</p>
       </div>
       <button class="endcap-action" type="button" data-action="open-task-results">
-        进入 Explorer 继续挖掘
+        查看全部项目
         <span aria-hidden="true">→</span>
       </button>
     </section>
@@ -602,9 +596,8 @@ function renderRadar() {
 
 function renderDiscoveryWorkbench(tasks) {
   const selectedTask = tasks.find(task => task.id === state.selectedTask) || tasks[0];
-  if (!selectedTask) return renderEmptyState('暂无任务路线', '重新生成 Explore 数据后再试。');
+  if (!selectedTask) return renderEmptyState('暂无推荐项目', '重新生成项目数据后再试。');
   const shortlist = getTaskShortlist(selectedTask, state.lens, 3);
-  const selectedLens = getLens(state.lens);
 
   return `
     <div class="discovery-workbench">
@@ -612,8 +605,7 @@ function renderDiscoveryWorkbench(tasks) {
         <div class="workbench-step">
           <span>01</span>
           <div>
-            <strong>你想完成什么？</strong>
-            <small>选择最接近的目标，之后仍可搜索和调整。</small>
+            <strong>选择方向</strong>
           </div>
         </div>
         <div class="intent-list" role="list">
@@ -628,7 +620,7 @@ function renderDiscoveryWorkbench(tasks) {
                   data-value="${attr(task.id)}"
                 >
                   <span>${escapeHtml(task.title)}</span>
-                  <small>${formatNumber(task.total || 0)} 个语义候选</small>
+                  <small>${formatNumber(task.total || 0)} 个项目</small>
                 </button>
               `
             )
@@ -638,8 +630,7 @@ function renderDiscoveryWorkbench(tasks) {
         <div class="workbench-step lens-step">
           <span>02</span>
           <div>
-            <strong>这次更看重什么？</strong>
-            <small>推荐顺序与短名单会随偏好改变。</small>
+            <strong>优先显示</strong>
           </div>
         </div>
         <div class="lens-list">
@@ -663,18 +654,18 @@ function renderDiscoveryWorkbench(tasks) {
       <div class="shortlist-panel">
         <div class="shortlist-header">
           <div>
-            <span class="eyebrow">${escapeHtml(selectedLens.label)} · ${formatNumber(selectedTask.total || 0)} TASK SIGNALS</span>
-            <h3>${escapeHtml(selectedTask.title)}的推荐起点</h3>
-            <p>${escapeHtml(selectedTask.summary)} 这些数字代表直接命中任务语义的项目，进入 Explorer 后还可以继续扩展关键词。</p>
+            <span class="eyebrow">${formatNumber(selectedTask.total || 0)} 个项目</span>
+            <h3>${escapeHtml(selectedTask.title)}</h3>
+            <p>${escapeHtml(selectedTask.summary)}</p>
           </div>
-          <span class="shortlist-count">${shortlist.length}<small>起点</small></span>
+          <span class="shortlist-count">${shortlist.length}<small>个</small></span>
         </div>
         <div class="shortlist-list">
           ${shortlist.map((project, index) => renderShortlistItem(project, index)).join('')}
         </div>
         <div class="shortlist-actions">
-          <button class="action-button primary-action" type="button" data-action="open-task-results">进入 Explorer 继续筛选</button>
-          <button class="action-button" type="button" data-action="compare-task" ${shortlist.length < 2 ? 'disabled' : ''}>一键加入对比</button>
+          <button class="action-button primary-action" type="button" data-action="open-task-results">查看全部</button>
+          <button class="action-button" type="button" data-action="compare-task" ${shortlist.length < 2 ? 'disabled' : ''}>加入对比</button>
         </div>
       </div>
     </div>
@@ -689,9 +680,9 @@ function renderShortlistItem(project, index) {
         <span class="shortlist-rank">0${index + 1}</span>
         <span class="shortlist-copy">
           <strong>${escapeHtml(project.name)}</strong>
-          <small>${escapeHtml(buildRecommendationReason(project, state.lens))}</small>
+          <small>${escapeHtml(buildShortlistReason(project, state.lens))}</small>
         </span>
-        <span class="shortlist-score">${formatNumber(Math.round(getLensScore(project, state.lens)))}</span>
+        <span class="shortlist-score">${formatStars(project.stars)} Stars</span>
       </button>
       <button
         class="icon-button ${compared ? 'is-active' : ''}"
@@ -711,10 +702,10 @@ function renderPathCard(task) {
     <article class="path-card">
       <header>
         <div>
-          <span class="eyebrow">${formatNumber(task.total || 0)} candidates</span>
+          <span class="eyebrow">${formatNumber(task.total || 0)} 个项目</span>
           <h3>${escapeHtml(task.title)}</h3>
         </div>
-        <button class="action-button" type="button" data-action="task" data-query="${attr(task.query)}" data-category="${attr(primaryCategory)}">探索</button>
+        <button class="action-button" type="button" data-action="task" data-query="${attr(task.query)}" data-category="${attr(primaryCategory)}">查看项目</button>
       </header>
       <p>${escapeHtml(task.summary || task.query)}</p>
       <div class="path-tracks">
@@ -759,7 +750,7 @@ function renderListLane(title, subtitle, projects) {
       <div class="section-heading">
         <div>
           <h2>${escapeHtml(title)}</h2>
-          <p>${escapeHtml(subtitle)}</p>
+          ${subtitle ? `<p>${escapeHtml(subtitle)}</p>` : ''}
         </div>
       </div>
       <div class="project-grid compact">
@@ -771,7 +762,7 @@ function renderListLane(title, subtitle, projects) {
 
 function renderExplorer() {
   const filterPanel = renderFilterPanel();
-  let resultsHtml = renderLoading('正在加载项目索引');
+  let resultsHtml = renderLoading('正在加载项目');
 
   if (!state.catalog) {
     ensureCatalog().then(() => {
@@ -780,7 +771,7 @@ function renderExplorer() {
     });
   } else if (state.resultsStale) {
     runSearch();
-    resultsHtml = renderLoading('正在计算匹配项目');
+    resultsHtml = renderLoading('正在查找项目');
   } else {
     resultsHtml = renderResults();
   }
@@ -798,11 +789,11 @@ function renderExplorer() {
             <button class="filter-trigger" type="button" data-action="open-filters">
               筛选${countActiveFilters() ? ` · ${countActiveFilters()}` : ''}
             </button>
-            <select id="sortSelect" aria-label="排序">
+            <select id="sortSelect" aria-label="排列顺序">
               ${[
-                ['potential', '探索信号'],
+                ['potential', '推荐'],
                 ['relevance', '相关度'],
-                ['recent', '最近活跃'],
+                ['recent', '最近更新'],
                 ['stars', 'Stars'],
                 ['new', '新收录']
               ]
@@ -917,10 +908,9 @@ function renderFilterContent(className = 'filter-panel') {
 
 function renderLensBar() {
   return `
-    <section class="lens-bar" aria-label="选型偏好">
+    <section class="lens-bar" aria-label="优先显示">
       <div>
-        <span class="eyebrow">DECISION LENS</span>
-        <strong>你希望优先看到什么？</strong>
+        <strong>优先显示</strong>
       </div>
       <div class="lens-chips">
         ${LENS_OPTIONS.map(
@@ -945,11 +935,9 @@ function renderRefinementPanel() {
   if (!refinements.length) return '';
 
   return `
-    <section class="refinement-panel" aria-label="继续缩小结果">
+    <section class="refinement-panel" aria-label="相关分类和标签">
       <div>
-        <span class="eyebrow">NARROW THE FIELD</span>
-        <strong>继续缩小</strong>
-        <small>这些选项来自当前结果，而不是全站热门标签。</small>
+        <strong>相关分类和标签</strong>
       </div>
       <div class="refinement-list">
         ${refinements
@@ -1030,9 +1018,9 @@ function renderResults() {
 }
 
 function renderResultLabel() {
-  if (!state.catalog) return '索引加载中';
-  if (state.resultsStale) return '匹配中';
-  return `${formatNumber(state.total)} 个匹配项目`;
+  if (!state.catalog) return '项目加载中';
+  if (state.resultsStale) return '查找中';
+  return `${formatNumber(state.total)} 个项目`;
 }
 
 function renderResultBrief() {
@@ -1044,16 +1032,15 @@ function renderResultBrief() {
 
   const filterSummary = renderReadableFilterSummary();
   return `
-    <section class="brief-panel" aria-label="Explorer result brief">
+    <section class="brief-panel" aria-label="推荐项目">
       <div class="brief-header">
         <div>
-          <span class="eyebrow">SELECTION BRIEF</span>
-          <h2>${escapeHtml(getLens(state.lens).label)}的推荐起点</h2>
-          <p>${escapeHtml(filterSummary || '从当前匹配结果中提取值得先看的不同角色候选。')}</p>
+          <h2>推荐项目</h2>
+          ${filterSummary ? `<p>${escapeHtml(filterSummary)}</p>` : ''}
         </div>
         <div class="brief-actions">
           <button class="action-button" type="button" data-action="copy-link">复制链接</button>
-          <button class="action-button" type="button" data-action="copy-brief">复制简报</button>
+          <button class="action-button" type="button" data-action="copy-brief">复制结果</button>
           <button class="action-button primary-action" type="button" data-action="add-shortlist">加入对比</button>
         </div>
       </div>
@@ -1090,9 +1077,9 @@ function pickResultHighlights(projects) {
   };
 
   const sorted = [...projects].sort((a, b) => getLensScore(b, state.lens) - getLensScore(a, state.lens));
-  addPick(getLens(state.lens).label, project => buildRecommendationReason(project, state.lens), sorted);
-  addPick('互补候选', project => buildComplementReason(project), sorted);
-  addPick('值得继续看', project => buildRecommendationReason(project, 'balanced'), sorted);
+  addPick('推荐', project => buildRecommendationReason(project, state.lens), sorted);
+  addPick('同类项目', project => buildComplementReason(project), sorted);
+  addPick('更多选择', project => buildRecommendationReason(project, 'balanced'), sorted);
 
   return picks;
 }
@@ -1106,7 +1093,7 @@ function getCurrentResultProjects(limit = state.results.length) {
 
 function renderReadableFilterSummary() {
   const labels = [];
-  if (state.query) labels.push(`关键词 ${state.query}`);
+  if (state.query) labels.push(`“${state.query}”`);
   if (state.category !== 'all') {
     const category = state.facets.categories?.find(item => item.id === state.category);
     labels.push(category?.cleanName || state.category);
@@ -1115,7 +1102,7 @@ function renderReadableFilterSummary() {
   if (state.tag !== 'all') labels.push(`#${state.tag}`);
   if (state.freshness !== 'all') labels.push(state.freshness.replace('d', ' 天内更新'));
   if (state.stars !== 'all') labels.push(`${formatStars(Number(state.stars))}+ stars`);
-  return labels.length ? `${labels.join(' / ')}，共 ${formatNumber(state.total)} 个匹配项目。` : '';
+  return labels.length ? `${labels.join(' / ')}，共 ${formatNumber(state.total)} 个项目。` : '';
 }
 
 function renderProjectCard(project, options = {}) {
@@ -1146,10 +1133,7 @@ function renderProjectCard(project, options = {}) {
 
       <p>${escapeHtml(project.description || 'No description')}</p>
 
-      <div class="recommendation-note">
-        <span>WHY</span>
-        <p>${escapeHtml(options.recommendationReason || buildRecommendationReason(project, state.lens, matchHints))}</p>
-      </div>
+      ${options.recommendationReason ? `<p class="recommendation-note">${escapeHtml(options.recommendationReason)}</p>` : ''}
 
       <div class="tag-row">
         ${tags
@@ -1160,8 +1144,8 @@ function renderProjectCard(project, options = {}) {
       ${
         matchHints.length
           ? `
-            <div class="match-row" aria-label="匹配线索">
-              <span class="match-label">命中</span>
+            <div class="match-row" aria-label="匹配信息">
+              <span class="match-label">相关</span>
               ${matchHints.map(hint => `<span class="match-chip">${escapeHtml(hint)}</span>`).join('')}
             </div>
           `
@@ -1170,8 +1154,8 @@ function renderProjectCard(project, options = {}) {
 
       <div class="metric-row">
         <span class="metric"><strong>${formatStars(project.stars)}</strong> stars</span>
-        <span class="metric"><strong>${formatDate(project.lastUpdated)}</strong> updated</span>
-        <span class="metric"><strong>${project.scores?.potential ?? '-'}</strong> 探索分</span>
+        <span class="metric"><strong>${formatDate(project.lastUpdated)}</strong> 更新</span>
+        <span class="metric"><strong>${escapeHtml(project.subcategory || '未分类')}</strong> 类型</span>
       </div>
 
       <div class="card-actions">
@@ -1208,13 +1192,13 @@ function buildMatchHints(project, query) {
   for (const term of terms) {
     if (!term) continue;
 
-    if (name.includes(term)) hints.push(`标题 ${term}`);
+    if (name.includes(term)) hints.push(`名称含 ${term}`);
     else if (tags.some(tag => tag === term || tag.includes(term)) || topics.some(topic => topic === term || topic.includes(term))) {
-      hints.push(`标签 ${term}`);
+      hints.push(`标签含 ${term}`);
     } else if (category.includes(term) || subcategory.includes(term)) {
-      hints.push(`赛道 ${term}`);
+      hints.push(`分类含 ${term}`);
     } else if (description.includes(term)) {
-      hints.push(`简介 ${term}`);
+      hints.push(`简介含 ${term}`);
     }
 
     if (hints.length >= 2) break;
@@ -1256,32 +1240,35 @@ function getLensScore(project, lens = 'balanced') {
 }
 
 function buildRecommendationReason(project, lens = 'balanced', matchHints = []) {
-  if (matchHints.length) return `${matchHints.join('，')}；${buildRecommendationReason(project, lens)}`;
-  const scores = project.scores || {};
+  if (matchHints.length) return matchHints.join('，');
+  const updatedRecently = daysSince(project.lastUpdated) <= 45;
+  const category = project.subcategory || project.categoryCleanName || project.categoryName || '相关项目';
   if (lens === 'production') {
-    return `成熟度 ${scores.maturity ?? '—'}，${daysSince(project.lastUpdated) <= 45 ? '近期仍在维护' : '适合进入稳定性评估'}，${formatStars(project.stars)} Stars`;
+    return `${formatStars(project.stars)} Stars${updatedRecently ? '，近期有更新' : ''}`;
   }
   if (lens === 'fresh') {
-    return `${formatDate(project.lastUpdated)} 更新，活跃信号 ${scores.freshness ?? '—'}，适合跟进最新进展`;
+    return `${formatDate(project.lastUpdated)} 更新`;
   }
   if (lens === 'hidden') {
-    return `探索分 ${scores.potential ?? '—'}、聚焦度 ${scores.focus ?? '—'}，当前曝光约 ${formatStars(project.stars)} Stars`;
+    return `${category} · ${formatStars(project.stars)} Stars${updatedRecently ? ' · 近期有更新' : ''}`;
   }
-  const strengths = [];
-  if ((scores.potential || 0) >= 75) strengths.push(`探索分 ${scores.potential}`);
-  if ((scores.maturity || 0) >= 78) strengths.push(`成熟度 ${scores.maturity}`);
-  if (daysSince(project.lastUpdated) <= 45) strengths.push('近期活跃');
-  if ((scores.focus || 0) >= 80) strengths.push('主题聚焦');
-  return strengths.slice(0, 3).join('，') || `${project.subcategory || '同类项目'}中的可比较候选`;
+  return `${category}${updatedRecently ? ' · 近期有更新' : ''} · ${formatStars(project.stars)} Stars`;
+}
+
+function buildShortlistReason(project, lens = 'balanced') {
+  const updatedRecently = daysSince(project.lastUpdated) <= 45;
+  const category = project.subcategory || project.categoryCleanName || project.categoryName || '相关项目';
+  if (lens === 'fresh') return `${formatDate(project.lastUpdated)} 更新`;
+  return `${category}${updatedRecently ? ' · 近期有更新' : ''}`;
 }
 
 function buildComplementReason(project) {
-  const category = project.categoryCleanName || project.categoryName || '同类赛道';
-  return `${category} / ${project.subcategory || '未分类'}，可作为不同角色的对照样本`;
+  const category = project.categoryCleanName || project.categoryName || '同类项目';
+  return `${category} / ${project.subcategory || '未分类'}`;
 }
 
 function buildRelatedReason(source, candidate) {
-  if (!source || !candidate) return '相似标签与赛道候选';
+  if (!source || !candidate) return '相似项目';
   const sharedTags = intersectNormalized(source.tags || [], candidate.tags || []);
   const sharedTopics = intersectNormalized(source.topics || [], candidate.topics || []);
   if (source.subcategory && source.subcategory === candidate.subcategory) {
@@ -1291,7 +1278,7 @@ function buildRelatedReason(source, candidate) {
   const shared = [...sharedTags, ...sharedTopics].slice(0, 3);
   if (shared.length) return `共享 ${shared.join(' / ')} 标签`;
   if (source.categoryId === candidate.categoryId) return `同属 ${candidate.categoryCleanName || candidate.categoryName}`;
-  return '可用于扩展当前项目的相邻能力';
+  return '分类相近';
 }
 
 function intersectNormalized(left, right) {
@@ -1373,9 +1360,8 @@ function renderNoResults() {
 
   return `
     <div class="empty-state empty-result">
-      <span class="eyebrow">ZERO MATCHES</span>
-      <strong>条件组合得太紧了</strong>
-      <p>保留目标关键词，先放宽一个限制，通常比从头搜索更快。</p>
+      <strong>没有找到项目</strong>
+      <p>试试清除一个条件，或换个关键词。</p>
       <div class="empty-actions">
         ${actions
           .slice(0, 3)
@@ -1396,17 +1382,16 @@ function formatPercent(value, total) {
 
 function renderCompare() {
   if (!state.catalog) {
-    els.main.innerHTML = renderLoading('正在加载对比索引');
+    els.main.innerHTML = renderLoading('正在加载对比项目');
     ensureCatalog().then(render);
     return;
   }
 
   const projects = state.compare.map(id => state.catalogById.get(id)).filter(Boolean);
   if (!projects.length) {
-    els.main.innerHTML = renderEmptyState('还没有对比项目', '从 Radar 或 Explorer 中加入 2-4 个项目。');
+    els.main.innerHTML = renderEmptyState('还没有对比项目', '从发现或全部项目中加入 2–4 个项目。');
     return;
   }
-  const bestSignal = [...projects].sort((a, b) => (b.scores?.potential || 0) - (a.scores?.potential || 0))[0];
   const mostStars = [...projects].sort((a, b) => b.stars - a.stars)[0];
   const freshest = [...projects].sort((a, b) => dateMs(b.lastUpdated) - dateMs(a.lastUpdated))[0];
 
@@ -1414,8 +1399,6 @@ function renderCompare() {
     ['分类', project => `${project.categoryCleanName || project.categoryName} / ${project.subcategory}`],
     ['Stars', project => formatStars(project.stars)],
     ['最近更新', project => formatDate(project.lastUpdated)],
-    ['潜力信号', project => project.scores?.potential ?? '-'],
-    ['成熟度', project => project.scores?.maturity ?? '-'],
     ['标签', project => (project.tags || []).slice(0, 8).join(', ') || '-'],
     ['描述', project => project.description || '-']
   ];
@@ -1430,9 +1413,8 @@ function renderCompare() {
         <button class="export-button" type="button" data-action="export-compare">导出 Markdown</button>
       </div>
       <div class="compare-summary">
-        ${renderCompareSignal('最高潜力', bestSignal)}
         ${renderCompareSignal('最多 Stars', mostStars)}
-        ${renderCompareSignal('最新活跃', freshest)}
+        ${renderCompareSignal('最近更新', freshest)}
       </div>
       <div class="table-wrap">
         <table class="compare-table">
@@ -1481,13 +1463,13 @@ function renderCompareSignal(label, project) {
 
 function renderSaved() {
   if (!state.catalog) {
-    els.main.innerHTML = renderLoading('正在加载收藏索引');
+    els.main.innerHTML = renderLoading('正在加载收藏项目');
     ensureCatalog().then(render);
     return;
   }
 
   if ((state.saved.size || state.recent.length) && !state.related) {
-    els.main.innerHTML = renderLoading('正在整理你的探索线索');
+    els.main.innerHTML = renderLoading('正在加载相关推荐');
     ensureDetails().then(render);
     return;
   }
@@ -1532,9 +1514,7 @@ function renderSaved() {
           <section class="section-band continuation-section">
             <div class="section-heading">
               <div>
-                <span class="eyebrow">CONTINUE EXPLORING</span>
-                <h2>沿着你的兴趣继续挖</h2>
-                <p>从收藏与最近浏览的相似项目中，排除已经看过的内容。</p>
+                <h2>你可能还喜欢</h2>
               </div>
             </div>
             <div class="project-grid">
@@ -1607,16 +1587,16 @@ function renderDrawer() {
     <div class="signal-grid">
       ${renderSignal('Stars', formatStars(detail.stars))}
       ${renderSignal('更新', formatDate(detail.lastUpdated))}
-      ${renderSignal('潜力信号', detail.scores?.potential ?? '-')}
-      ${renderSignal('主题聚焦', detail.scores?.focus ?? '-')}
+      ${renderSignal('分类', detail.categoryCleanName || detail.categoryName || '-')}
+      ${renderSignal('类型', detail.subcategory || '-')}
     </div>
 
     <section class="decision-panel">
-      <h2>选型判断</h2>
-      <p>${escapeHtml(detail.decision?.fit || '适合进入同类项目对比，结合活跃度、成熟度和标签判断是否值得试用。')}</p>
+      <h2>适用方向</h2>
+      <p>${escapeHtml(detail.decision?.fit || '查看项目简介、标签和相关项目。')}</p>
       <div class="decision-grid">
         <div>
-          <strong>注意点</strong>
+          <strong>注意</strong>
           <ul>
             ${(detail.decision?.caution?.length ? detail.decision.caution : ['打开 GitHub 后先检查 README、示例、issue 和最近提交。'])
               .map(item => `<li>${escapeHtml(item)}</li>`)
@@ -1624,7 +1604,7 @@ function renderDrawer() {
           </ul>
         </div>
         <div>
-          <strong>下一步</strong>
+          <strong>建议</strong>
           <ul>
             ${(detail.decision?.nextSteps || [])
               .map(item => `<li>${escapeHtml(item)}</li>`)
@@ -1656,7 +1636,7 @@ function renderDrawer() {
       <div class="section-heading">
         <div>
           <h2>相关项目</h2>
-          <p>${relatedProjects.length} 个候选。</p>
+          <p>${relatedProjects.length} 个项目。</p>
         </div>
       </div>
       <div class="related-list">
@@ -1707,7 +1687,6 @@ function renderFilterSheet() {
   const markup = `
     <div class="filter-sheet-header">
       <div>
-        <span class="eyebrow">FILTER RESULTS</span>
         <h2>筛选项目</h2>
       </div>
       <button class="close-button" type="button" data-action="close-filters" aria-label="关闭筛选">×</button>
@@ -1716,7 +1695,7 @@ function renderFilterSheet() {
       ${renderFilterContent('filter-sheet-content')}
     </div>
     <div class="filter-sheet-footer">
-      <button class="action-button primary-action" type="button" data-action="close-filters">查看 ${formatNumber(state.total || state.catalog?.length || 0)} 个结果</button>
+      <button class="action-button primary-action" type="button" data-action="close-filters">查看 ${formatNumber(state.total || state.catalog?.length || 0)} 个项目</button>
     </div>
   `;
   if (els.filterSheet.innerHTML !== markup) els.filterSheet.innerHTML = markup;
@@ -1938,7 +1917,7 @@ function addCurrentShortlistToCompare() {
 function addProjectsToCompare(projects) {
   const ids = projects.map(project => project?.id).filter(Boolean);
   if (ids.length < 2) {
-    showToast('候选不足，先扩大结果范围');
+    showToast('项目不足，请先放宽筛选条件');
     return;
   }
   state.compare = [...new Set([...state.compare, ...ids])].slice(-4);
@@ -2025,8 +2004,7 @@ async function copyProjectMarkdown(id) {
     `- Category: ${detail.categoryCleanName || detail.categoryName} / ${detail.subcategory}`,
     `- Stars: ${detail.stars}`,
     `- Updated: ${formatDate(detail.lastUpdated)}`,
-    `- Signal: ${detail.scores?.potential ?? '-'}`,
-    `- Fit: ${detail.decision?.fit || '-'}`,
+    `- Suitable for: ${detail.decision?.fit || '-'}`,
     `- Tags: ${(detail.tags || []).join(', ') || '-'}`
   ].join('\n');
 
@@ -2046,7 +2024,7 @@ async function copyResultBrief() {
   }
 
   const markdown = [
-    '# Hello-AI Explore 选型简报',
+    '# Hello-AI Explore 项目列表',
     '',
     renderReadableFilterSummary() || '当前 Explorer 结果',
     '',
@@ -2060,14 +2038,13 @@ async function copyResultBrief() {
       `- GitHub: ${project.url}`,
       `- Stars: ${formatStars(project.stars)}`,
       `- Updated: ${formatDate(project.lastUpdated)}`,
-      `- Signal: ${project.scores?.potential ?? '-'}`,
       `- Category: ${project.categoryCleanName || project.categoryName} / ${project.subcategory}`,
       `- Tags: ${(project.tags || []).slice(0, 8).join(', ') || '-'}`,
       ''
     ])
   ].join('\n');
 
-  await copyText(markdown, '选型简报已复制');
+  await copyText(markdown, '项目列表已复制');
 }
 
 async function copyText(text, successMessage) {
