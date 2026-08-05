@@ -854,6 +854,8 @@ h1 {
 }
 
 .row-badge {
+  position: relative;
+  overflow: hidden;
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -869,6 +871,37 @@ h1 {
   font-weight: 600;
   letter-spacing: -0.02em;
   text-transform: lowercase;
+}
+
+.row-badge .badge-label {
+  position: relative;
+  z-index: 1;
+  transition: opacity 180ms ease;
+}
+
+.row-badge .badge-avatar {
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+  display: block;
+  width: 100%;
+  height: 100%;
+  border-radius: inherit;
+  object-fit: cover;
+  opacity: 0;
+  transition: opacity 180ms ease;
+}
+
+.row-badge .badge-avatar[hidden] {
+  display: none;
+}
+
+.row-badge.has-avatar .badge-label {
+  opacity: 0;
+}
+
+.row-badge.has-avatar .badge-avatar {
+  opacity: 1;
 }
 
 .row-copy {

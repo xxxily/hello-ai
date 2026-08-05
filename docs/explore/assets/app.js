@@ -156,6 +156,22 @@ function bindEvents() {
   window.addEventListener('resize', updateMobileHeaderState);
   document.addEventListener('scroll', updateFilterPanelScrollState, { passive: true, capture: true });
 
+  // Avatar images are optional decoration. Keep the deterministic monogram in
+  // place until the browser confirms the remote image loaded successfully.
+  document.addEventListener('load', event => {
+    const image = event.target;
+    if (!image?.dataset?.projectAvatar) return;
+    image.hidden = false;
+    image.closest('.row-badge')?.classList.add('has-avatar');
+  }, true);
+
+  document.addEventListener('error', event => {
+    const image = event.target;
+    if (!image?.dataset?.projectAvatar) return;
+    image.hidden = true;
+    image.closest('.row-badge')?.classList.remove('has-avatar');
+  }, true);
+
   els.search.addEventListener('input', () => {
     state.query = els.search.value.trim();
     state.route = 'explore';
@@ -1410,7 +1426,7 @@ function renderProjectRow(project, options = {}) {
     >
       <button class="row-main" type="button" data-action="detail" data-id="${attr(project.id)}">
         ${options.showRank ? `<span class="row-rank">${index + 1}</span>` : ''}
-        <span class="row-badge" aria-hidden="true">${escapeHtml(projectMonogram(project))}</span>
+        ${renderProjectBadge(project)}
         <span class="row-copy">
           <span class="row-title">
             <strong>${escapeHtml(project.name)}</strong>
@@ -2686,6 +2702,37 @@ function projectMonogram(project) {
   // CJK glyphs already carry enough weight on their own at one character.
   if (/[一-龥]/.test(compact[0])) return compact.slice(0, 1);
   return compact.slice(0, 2).toLowerCase();
+}
+
+function projectOwnerAvatarUrl(project) {
+  const owner = String(project?.owner || '').trim();
+  if (!/^[A-Za-z0-9-]+$/.test(owner)) return '';
+  return `https://github.com/${owner}.png?size=64`;
+}
+
+function renderProjectBadge(project) {
+  const avatarUrl = projectOwnerAvatarUrl(project);
+  return `
+    <span class="row-badge" aria-hidden="true">
+      <span class="badge-label">${escapeHtml(projectMonogram(project))}</span>
+      ${
+        avatarUrl
+          ? `<img
+              class="badge-avatar"
+              src="${attr(avatarUrl)}"
+              alt=""
+              width="30"
+              height="30"
+              loading="lazy"
+              decoding="async"
+              fetchpriority="low"
+              referrerpolicy="no-referrer"
+              data-project-avatar="true"
+            />`
+          : ''
+      }
+    </span>
+  `;
 }
 
 function categoryHue(project) {
