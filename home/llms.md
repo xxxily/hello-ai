@@ -2,7 +2,7 @@
 
 > Core large language models and foundation models.
 
-> 当前分类已收录 **148** 个相关项目。
+> 当前分类已收录 **151** 个相关项目。
 
 ## Foundation Models
 
@@ -360,14 +360,6 @@ PyTorch图与超图神经网络计算库，支持复杂关系建模，适用于�
 - **Tags:** `hypergraph` `graph-neural-networks` `pytorch` `deep-learning`
 - **最后活动时间:** 2026-08-02
 
-### [R-Zero](https://github.com/Chengsong-Huang/R-Zero)
-
-ICLR论文项目，实现从零数据开始的自进化推理大语言模型。
-
-- **Stars:** ⭐️ 825
-- **Tags:** `llm` `reasoning` `self-evolving` `zero-data`
-- **最后活动时间:** 2026-02-04
-
 ### [rotary-embedding-torch](https://github.com/lucidrains/rotary-embedding-torch)
 
 RoFormer论文中旋转位置编码的PyTorch实现，提升Transformer位置表示能力。
@@ -545,6 +537,14 @@ Google Research开发的时间序列基础模型，用于时间序列预测的�
 - **Stars:** ⭐️ 26.9k
 - **Tags:** `time-series` `forecasting` `foundation-model` `google-research`
 - **最后活动时间:** 2026-07-14
+
+### [open-r1](https://github.com/huggingface/open-r1)
+
+DeepSeek-R1的完全开源复现项目，致力于复现其强大的推理能力。为开源社区提供高质量的推理大模型。
+
+- **Stars:** ⭐️ 26.4k
+- **Tags:** `deepseek-r1` `llm` `reasoning`
+- **最后活动时间:** 2026-04-02
 
 ### [Qwen](https://github.com/QwenLM/Qwen)
 
@@ -994,6 +994,14 @@ MiniGPT-4中文部署指南与翻译，完善了本地化部署细节。
 - **Tags:** `machine-translation` `nlp` `neural-machine-translation` `translation`
 - **最后活动时间:** 2026-02-23
 
+### [PhoBERT](https://github.com/VinAIResearch/PhoBERT)
+
+EMNLP 2020论文，专为越南语设计的预训练语言模型。
+
+- **Stars:** ⭐️ 797
+- **Tags:** `bert` `roberta` `vietnamese` `transformers` `pretrained-model`
+- **最后活动时间:** 2026-08-04
+
 ### [CodeGen](https://github.com/facebookresearch/CodeGen)
 
 Meta AI Research的代码生成模型工具包，包含预训练模型和完整训练评估流程。
@@ -1054,7 +1062,7 @@ Salesforce开源LLM系列，支持8K长上下文，适合长文本任务。
 
 开放科学项目，用于评估基础模型在法律推理任务上的能力，涵盖多种法律场景。
 
-- **Stars:** ⭐️ 616
+- **Stars:** ⭐️ 618
 - **Tags:** `legal-ai` `llm-benchmark` `legal-reasoning` `foundation-models`
 - **最后活动时间:** 2026-03-30
 
@@ -1062,7 +1070,7 @@ Salesforce开源LLM系列，支持8K长上下文，适合长文本任务。
 
 基于结构字母表(AA+3Di)的蛋白质语言模型，融合FoldSeek结构信息实现结构感知的蛋白质序列表征学习。
 
-- **Stars:** ⭐️ 614
+- **Stars:** ⭐️ 615
 - **Tags:** `protein-language-model` `alphafold2` `foldseek` `representation-learning`
 - **最后活动时间:** 2026-03-08
 
@@ -1113,6 +1121,22 @@ Salesforce开源LLM系列，支持8K长上下文，适合长文本任务。
 - **Stars:** ⭐️ 512
 - **Tags:** `large-language-models` `chinese-medicine` `chatbot` `healthcare`
 - **最后活动时间:** 2026-06-10
+
+### [CPM-Live](https://github.com/OpenBMB/CPM-Live)
+
+开源大模型实时训练项目，支持多任务学习和参数高效训练的大规模语言模型。
+
+- **Stars:** ⭐️ 500
+- **Tags:** `llm` `deep-learning` `pretrained-model` `nlp`
+- **最后活动时间:** 2026-07-07
+
+### [LLaDA2.X](https://github.com/inclusionAI/LLaDA2.X)
+
+由蚂蚁集团InclusionAI团队开发的扩散语言模型系列。探索了基于扩散机制的大语言模型架构。
+
+- **Stars:** ⭐️ 500
+- **Tags:** `llm` `diffusion-model` `language-model` `open-source`
+- **最后活动时间:** 2026-07-22
 
 ## Text Models
 

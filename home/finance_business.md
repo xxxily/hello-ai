@@ -2,7 +2,7 @@
 
 > AI applied to financial analysis, quantitative trading, and enterprise.
 
-> 当前分类已收录 **275** 个相关项目。
+> 当前分类已收录 **274** 个相关项目。
 
 ## Enterprise Solutions
 
@@ -226,9 +226,9 @@ HoneClaw是一款致力于真正理解用户需求的专业投资助手。它结
 
 基于Next.js的企业级高性能电商前端模板，集成了Shopify后端、Algolia搜索中间层及AI功能。
 
-- **Stars:** ⭐️ 693
+- **Stars:** ⭐️ 695
 - **Tags:** `ai` `ecommerce` `nextjs` `shopify` `algolia` `typescript` `starter-kit`
-- **最后活动时间:** 2026-07-30
+- **最后活动时间:** 2026-08-03
 
 ### [claude-for-financial-services-cn](https://github.com/jwangkun/claude-for-financial-services-cn)
 
@@ -478,7 +478,7 @@ Alpha Vantage API的Python封装库，提供股票、加密货币等金融数据
 
 - **Stars:** ⭐️ 2.7k
 - **Tags:** `finance` `opendata` `stock-prices` `api` `python`
-- **最后活动时间:** 2026-07-26
+- **最后活动时间:** 2026-08-03
 
 ### [claude-trading-skills](https://github.com/tradermonty/claude-trading-skills)
 
@@ -740,7 +740,7 @@ AI原生的实时股票与金融行情数据API，支持美股、港股、A股�
 
 专业的信用评分卡建模工具库，提供特征工程、变量筛选、模型评估等完整的风控建模流程。
 
-- **Stars:** ⭐️ 527
+- **Stars:** ⭐️ 526
 - **Tags:** `credit-scoring` `risk-modeling` `python3` `scorecard`
 - **最后活动时间:** 2026-06-16
 
@@ -846,9 +846,9 @@ QuantConnect开源的算法交易引擎，支持Python和C#，提供完整的回
 
 机器学习算法交易实战代码，涵盖投资策略、交易代理和合成数据等内容。量化交易学习必备资源。
 
-- **Stars:** ⭐️ 20.2k
+- **Stars:** ⭐️ 20.3k
 - **Tags:** `machine-learning` `trading` `finance`
-- **最后活动时间:** 2026-08-02
+- **最后活动时间:** 2026-08-04
 
 ### [hummingbot](https://github.com/hummingbot/hummingbot)
 
@@ -1432,7 +1432,7 @@ R语言因果推断包，用于时间序列数据的干预效果分析和因果�
 
 - **Stars:** ⭐️ 1.8k
 - **Tags:** `stock` `sdk` `quantitative-finance` `ai-agent` `mcp` `typescript`
-- **最后活动时间:** 2026-07-13
+- **最后活动时间:** 2026-08-02
 
 ### [free-stockdb](https://github.com/hello245m/free-stockdb)
 
@@ -1534,7 +1534,7 @@ Alpaca 交易 API 的官方 Python SDK，支持算法交易与量化金融。提
 
 结合LLM智能与进化策略的量化因子挖掘框架，支持自动挖掘、演化和验证alpha因子。
 
-- **Stars:** ⭐️ 1.3k
+- **Stars:** ⭐️ 1.4k
 - **Tags:** `量化交易` `因子挖掘` `LLM`
 - **最后活动时间:** 2026-06-29
 
@@ -2042,14 +2042,6 @@ Python金融技术指标库，提供多种常用技术分析指标，适用于�
 - **Tags:** `quantitative-finance` `trading` `cryptocurrency`
 - **最后活动时间:** 2026-05-16
 
-### [barbotine-arbitrage-bot](https://github.com/nelso0/barbotine-arbitrage-bot)
-
-基于CCXT的跨交易所加密货币套利机器人，完全使用Python编写，支持无转账跨平台套利。
-
-- **Stars:** ⭐️ 643
-- **Tags:** `arbitrage` `crypto-bot` `trading-bot` `python` `ccxt`
-- **最后活动时间:** 2026-02-04
-
 ### [trading-momentum-transformer](https://github.com/kieranjwood/trading-momentum-transformer)
 
 基于Transformer的动量交易策略模型，可解释的量化交易架构。
@@ -2190,7 +2182,7 @@ Polymarket CLOB (中心限价订单簿) 的 TypeScript 客户端，用于区块�
 
 一个精选的量化投资与交易策略资源列表，专注于人工智能和机器学习在金融领域的应用。涵盖了AI代理、大语言模型和量化金融等核心资源。
 
-- **Stars:** ⭐️ 541
+- **Stars:** ⭐️ 546
 - **Tags:** `ai` `quant` `algorithmic-trading` `machine-learning` `finance`
 - **最后活动时间:** 2026-07-20
 

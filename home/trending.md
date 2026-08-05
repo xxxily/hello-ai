@@ -88,9 +88,9 @@ JavaScript算法与数据结构实现集合，包含详细解释和延伸阅读�
 
 开源的AI编程智能体，帮助开发者自动化代码编写和开发任务。
 
-- **Stars:** ⭐️ 192.2k
+- **Stars:** ⭐️ 193.3k
 - **Tags:** `coding-agent` `ai-assistant` `developer-tools`
-- **最后活动时间:** 2026-08-02
+- **最后活动时间:** 2026-08-04
 
 ## [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
 
@@ -208,7 +208,7 @@ Java面试与后端开发指南，涵盖AI应用开发、Agent、MCP等前沿技
 
 全面收录Cursor、Devin、Windsurf等热门AI工具的系统提示词与内部模型，为开发者提供深入理解AI Agent工作原理的珍贵参考资料。
 
-- **Stars:** ⭐️ 142.5k
+- **Stars:** ⭐️ 142.6k
 - **Tags:** `System Prompts` `AI Tools` `Prompt Engineering`
 - **最后活动时间:** 2026-07-31
 
