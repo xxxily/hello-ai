@@ -2,7 +2,7 @@
 
 > AI running on physical devices and robotics.
 
-> 当前分类已收录 **512** 个相关项目。
+> 当前分类已收录 **513** 个相关项目。
 
 ## Edge AI
 
@@ -292,7 +292,7 @@ ESP32摄像头运动检测应用，支持机器学习驱动的动作捕捉、视
 
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `local-ai` `raspberry-pi` `security-camera` `privacy` `self-hosted`
-- **最后活动时间:** 2026-07-29
+- **最后活动时间:** 2026-08-04
 
 ### [EOS](https://github.com/Akkudoktor-EOS/EOS)
 
@@ -1084,7 +1084,7 @@ ROS与外部系统通信的桥梁协议实现，支持Web端和远程机器人�
 
 IoT 渗透测试 Claude 技能集合，提供混合式物联网安全测试工具。
 
-- **Stars:** ⭐️ 802
+- **Stars:** ⭐️ 805
 - **Tags:** `iot` `pentesting` `claude-skills` `security`
 - **最后活动时间:** 2026-06-01
 
@@ -1124,9 +1124,9 @@ Home Assistant智能集成，自动扫描设备并利用多AI提供商生成个�
 
 Home Assistant能源管理优化模块，使用线性规划和模型预测控制技术优化家庭能源消耗。
 
-- **Stars:** ⭐️ 650
+- **Stars:** ⭐️ 654
 - **Tags:** `energy` `optimization` `home-automation` `linear-programming`
-- **最后活动时间:** 2026-08-01
+- **最后活动时间:** 2026-08-03
 
 ### [things](https://github.com/unitedrhino/things)
 
@@ -1448,7 +1448,7 @@ C++行为树库，广泛应用于游戏AI和机器人决策系统，支持ROS集
 
 - **Stars:** ⭐️ 4.1k
 - **Tags:** `robotics` `simulation` `control-systems`
-- **最后活动时间:** 2026-08-01
+- **最后活动时间:** 2026-08-05
 
 ### [openMVS](https://github.com/cdcseacave/openMVS)
 
@@ -1480,7 +1480,7 @@ RTAB-Map是一个开源的SLAM（同步定位与地图构建）库，支持ROS/R
 
 - **Stars:** ⭐️ 3.9k
 - **Tags:** `robotics` `embodied-ai` `dataflow` `rust`
-- **最后活动时间:** 2026-08-02
+- **最后活动时间:** 2026-08-05
 
 ### [dimos](https://github.com/dimensionalOS/dimos)
 
@@ -1512,7 +1512,7 @@ Google DeepMind精心策划的MuJoCo物理引擎高质量模型集合，专为�
 
 - **Stars:** ⭐️ 3.8k
 - **Tags:** `MuJoCo` `Robotics` `Simulation`
-- **最后活动时间:** 2026-07-04
+- **最后活动时间:** 2026-08-04
 
 ### [habitat-sim](https://github.com/facebookresearch/habitat-sim)
 
@@ -2894,9 +2894,9 @@ ROS机器人操作系统官方教程代码，涵盖机器人开发核心概念�
 
 基于网格的移动机器人导航栈，专为不平坦地形设计，提供高效的3D路径规划和运动控制能力。
 
-- **Stars:** ⭐️ 878
+- **Stars:** ⭐️ 880
 - **Tags:** `navigation` `path-planning` `robotics` `ros`
-- **最后活动时间:** 2026-07-28
+- **最后活动时间:** 2026-08-03
 
 ### [fuse](https://github.com/locusrobotics/fuse)
 
@@ -3050,6 +3050,14 @@ ROS2 3D LiDAR SLAM包，使用NDT/GICP配准和位姿优化。
 - **Tags:** `slam` `ros2` `lidar` `ndt`
 - **最后活动时间:** 2026-04-20
 
+### [DriveAGI](https://github.com/OpenDriveLab/DriveAGI)
+
+自动驾驶基础模型集合，包含GenAD和数据集调研，涵盖视频生成、世界模型和策略学习。
+
+- **Stars:** ⭐️ 802
+- **Tags:** `autonomous-driving` `embodied-ai` `foundation-model` `world-models`
+- **最后活动时间:** 2026-02-27
+
 ### [robot_descriptions.py](https://github.com/robot-descriptions/robot_descriptions.py)
 
 Python库，提供175+机器人模型描述，支持主流机器人框架的URDF/MJCF格式访问。
@@ -3057,14 +3065,6 @@ Python库，提供175+机器人模型描述，支持主流机器人框架的URDF
 - **Stars:** ⭐️ 799
 - **Tags:** `robotics` `urdf` `robot-description` `python`
 - **最后活动时间:** 2026-07-24
-
-### [DriveAGI](https://github.com/OpenDriveLab/DriveAGI)
-
-自动驾驶基础模型集合，包含GenAD和数据集调研，涵盖视频生成、世界模型和策略学习。
-
-- **Stars:** ⭐️ 795
-- **Tags:** `autonomous-driving` `embodied-ai` `foundation-model` `world-models`
-- **最后活动时间:** 2026-02-27
 
 ### [awesome-isaac-gym](https://github.com/robotlearning123/awesome-isaac-gym)
 
@@ -4097,6 +4097,14 @@ ROS Noetic机器人操作系统的配置文件和部署工具。
 - **Stars:** ⭐️ 506
 - **Tags:** `robotics` `simulation` `nvidia-isaac` `reinforcement-learning`
 - **最后活动时间:** 2026-08-01
+
+### [dddmr_navigation](https://github.com/dfl-rlab/dddmr_navigation)
+
+面向移动机器人的3D导航解决方案，集成了建图、定位、感知、路径规划及YOLO深度学习。
+
+- **Stars:** ⭐️ 502
+- **Tags:** `robotics` `navigation` `slam` `yolo`
+- **最后活动时间:** 2026-08-04
 
 ### [vla-evaluation-harness](https://github.com/allenai/vla-evaluation-harness)
 

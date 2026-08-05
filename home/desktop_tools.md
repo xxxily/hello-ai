@@ -2,7 +2,7 @@
 
 > AI tools directly integrated with desktop OS or local environments.
 
-> 当前分类已收录 **431** 个相关项目。
+> 当前分类已收录 **432** 个相关项目。
 
 ## Browser Automations
 
@@ -54,7 +54,7 @@ AI与人类协同浏览网页的浏览器，让AI和人类作为一个整体实�
 
 - **Stars:** ⭐️ 45.6k
 - **Tags:** `知识管理` `AI笔记` `本地优先`
-- **最后活动时间:** 2026-08-02
+- **最后活动时间:** 2026-08-05
 
 ### [Jan](https://github.com/janhq/jan)
 
@@ -116,9 +116,9 @@ Windows 包管理器统一图形界面，整合 Winget、Scoop、Chocolatey 等�
 
 跨平台桌面应用，利用LLM将文档自动转化为有序互联的知识库，采用增量构建方式替代传统RAG方案。
 
-- **Stars:** ⭐️ 15.7k
+- **Stars:** ⭐️ 15.9k
 - **Tags:** `llm` `knowledge-base` `desktop-app` `rag`
-- **最后活动时间:** 2026-07-27
+- **最后活动时间:** 2026-08-02
 
 ### [systeminformer](https://github.com/winsiderss/systeminformer)
 
@@ -180,9 +180,9 @@ Hermes智能体的桌面伴侣应用，提供本地化AI助手体验。
 
 跨平台 AI 笔记软件，支持 Markdown、RAG 知识库、MCP 协议和 WebDAV 同步，集成 LLM 智能助手。
 
-- **Stars:** ⭐️ 12.4k
+- **Stars:** ⭐️ 12.5k
 - **Tags:** `AI笔记` `RAG` `MCP` `Tauri`
-- **最后活动时间:** 2026-08-01
+- **最后活动时间:** 2026-08-04
 
 ### [coworker](https://github.com/accomplish-ai/coworker)
 
@@ -220,9 +220,9 @@ Coworker 是一款开源的 AI 桌面助手，常驻于您的桌面环境以提�
 
 跨平台桌面视频音频下载工具，支持数百个网站。
 
-- **Stars:** ⭐️ 10.0k
+- **Stars:** ⭐️ 10.1k
 - **Tags:** `downloader` `video` `yt-dlp`
-- **最后活动时间:** 2026-08-01
+- **最后活动时间:** 2026-08-04
 
 ### [fluent-reader](https://github.com/yang991178/fluent-reader)
 
@@ -542,7 +542,7 @@ iOS/macOS原生应用，支持与本地部署的Llama、Mistral等开源模型�
 
 - **Stars:** ⭐️ 5.8k
 - **Tags:** `note-taking` `markdown` `local-first` `llm`
-- **最后活动时间:** 2026-08-01
+- **最后活动时间:** 2026-08-04
 
 ### [clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk)
 
@@ -630,7 +630,7 @@ Windows 平台 OCR 文字识别工具，支持后台静默识别和通知，完�
 
 - **Stars:** ⭐️ 4.8k
 - **Tags:** `ai` `ai-agents` `llms` `on-device-ai`
-- **最后活动时间:** 2026-08-01
+- **最后活动时间:** 2026-08-05
 
 ### [quotio](https://github.com/nguyenphutrong/quotio)
 
@@ -1968,6 +1968,14 @@ Mac平台语音驱动AI助手，支持语音交互和智能辅助功能。
 - **Tags:** `rss-reader` `macos` `swiftui` `rss-feed` `news`
 - **最后活动时间:** 2026-07-26
 
+### [sqlkit](https://github.com/geek-fun/sqlkit)
+
+一款基于Tauri构建的轻量级、隐私优先的AI驱动SQL数据库管理器。支持40多种数据库，提供跨平台的智能数据库管理体验。
+
+- **Stars:** ⭐️ 536
+- **Tags:** `ai-sql-client` `database-gui` `tauri-app` `rust` `cross-platform`
+- **最后活动时间:** 2026-08-03
+
 ### [Tuneful](https://github.com/martinfekete10/Tuneful)
 
 原生 macOS 音乐播放管理工具，支持从刘海、菜单栏或迷你播放器控制音乐。兼容 Apple Music 和 Spotify。
@@ -2522,6 +2530,14 @@ macOS 菜单栏的 Claude Code 状态指示器，提供动画图标、计时器�
 - **Tags:** `claude-code` `macos` `menubar` `statusbar`
 - **最后活动时间:** 2026-07-31
 
+### [Crisp](https://github.com/didriksg/Crisp)
+
+BetterDisplay 和 Lunar 的免费开源替代品，提供轻量级的菜单栏应用。支持外接显示器的清晰 HiDPI/Retina 缩放及亮度控制。
+
+- **Stars:** ⭐️ 592
+- **Tags:** `macos` `display-manager` `hidpi` `retina` `menu-bar` `ddc`
+- **最后活动时间:** 2026-08-04
+
 ### [macos-chatgpt-overlay-bar](https://github.com/ik190/macos-chatgpt-overlay-bar)
 
 一款常驻 macOS 菜单栏的 ChatGPT 快捷访问工具。支持随时唤起，提供轻量级、无缝的桌面 AI 体验。
@@ -2529,14 +2545,6 @@ macOS 菜单栏的 Claude Code 状态指示器，提供动画图标、计时器�
 - **Stars:** ⭐️ 591
 - **Tags:** `ai` `chatgpt` `macos` `menubar-app`
 - **最后活动时间:** 2026-06-26
-
-### [Crisp](https://github.com/didriksg/Crisp)
-
-BetterDisplay 和 Lunar 的免费开源替代品，提供轻量级的菜单栏应用。支持外接显示器的清晰 HiDPI/Retina 缩放及亮度控制。
-
-- **Stars:** ⭐️ 587
-- **Tags:** `macos` `display-manager` `hidpi` `retina` `menu-bar` `ddc`
-- **最后活动时间:** 2026-08-04
 
 ### [claude-watch](https://github.com/shobhit99/claude-watch)
 

@@ -1,26 +1,3 @@
 {
-  "queue": [
-    {
-      "name": "coyim",
-      "html_url": "https://github.com/coyim/coyim",
-      "description": "coyim - a safe and secure chat client",
-      "topics": [
-        "anonymity",
-        "coyim",
-        "desktop",
-        "encrypt",
-        "golang",
-        "instant-messaging",
-        "multiplatform",
-        "otr",
-        "privacy",
-        "security",
-        "tor",
-        "xmpp"
-      ],
-      "stargazers_count": 615,
-      "pushed_at": "2026-07-10T19:26:40Z",
-      "added_to_queue": "2026-08-05T01:56:42.086Z"
-    }
-  ]
+  "queue": []
 }

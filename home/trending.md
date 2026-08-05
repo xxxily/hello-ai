@@ -104,9 +104,9 @@ JavaScript算法与数据结构实现集合，包含详细解释和延伸阅读�
 
 轻量级本地大模型运行工具，支持Llama、Qwen、DeepSeek等多种开源模型，一键部署即开即用。
 
-- **Stars:** ⭐️ 177.5k
+- **Stars:** ⭐️ 177.8k
 - **Tags:** `LLM` `Local Deployment` `Model Inference`
-- **最后活动时间:** 2026-07-31
+- **最后活动时间:** 2026-08-05
 
 ## [everything-claude-code](https://github.com/affaan-m/everything-claude-code)
 
@@ -120,7 +120,7 @@ JavaScript算法与数据结构实现集合，包含详细解释和延伸阅读�
 
 将文件和Office文档转换为Markdown的Python工具，支持PDF等多种格式，可集成到RAG和AI工作流中。
 
-- **Stars:** ⭐️ 170.7k
+- **Stars:** ⭐️ 171.5k
 - **Tags:** `Markdown` `Document Conversion` `RAG`
 - **最后活动时间:** 2026-07-29
 
@@ -170,7 +170,7 @@ Java面试与后端开发指南，涵盖AI应用开发、Agent、MCP等前沿技
 
 - **Stars:** ⭐️ 157.5k
 - **Tags:** `java` `interview` `agent` `mcp` `system-design`
-- **最后活动时间:** 2026-07-28
+- **最后活动时间:** 2026-08-04
 
 ## [langflow](https://github.com/langflow-ai/langflow)
 

@@ -2,7 +2,7 @@
 
 > Core large language models and foundation models.
 
-> 当前分类已收录 **151** 个相关项目。
+> 当前分类已收录 **153** 个相关项目。
 
 ## Foundation Models
 
@@ -118,7 +118,7 @@ Meta DINOv3官方PyTorch实现，先进的自监督视觉模型。
 
 - **Stars:** ⭐️ 3.7k
 - **Tags:** `interpretability` `transformer` `mechanistic`
-- **最后活动时间:** 2026-07-31
+- **最后活动时间:** 2026-08-05
 
 ### [LimiX](https://github.com/rio-labs/rio)
 
@@ -448,6 +448,14 @@ ICLR 2025论文官方实现：门控Delta网络，使用Delta规则改进Mamba2�
 - **Tags:** `gpt` `llm` `deep-learning` `c` `machine-learning`
 - **最后活动时间:** 2026-05-03
 
+### [recursive-llm](https://github.com/grishahq/recursive-llm)
+
+递归语言模型实现无界上下文处理，通过变量存储上下文处理10万+token。
+
+- **Stars:** ⭐️ 575
+- **Tags:** `recursive` `long-context` `llm`
+- **最后活动时间:** 2026-07-28
+
 ### [CodeRL](https://github.com/salesforce/CodeRL)
 
 NeurIPS 2022论文官方代码，通过预训练模型和深度强化学习掌握代码生成技术。
@@ -463,14 +471,6 @@ NeurIPS 2022论文官方代码，通过预训练模型和深度强化学习掌�
 - **Stars:** ⭐️ 574
 - **Tags:** `benchmark` `context-learning` `language-model` `llm-evaluation`
 - **最后活动时间:** 2026-05-12
-
-### [recursive-llm](https://github.com/grishahq/recursive-llm)
-
-递归语言模型实现无界上下文处理，通过变量存储上下文处理10万+token。
-
-- **Stars:** ⭐️ 573
-- **Tags:** `recursive` `long-context` `llm`
-- **最后活动时间:** 2026-07-28
 
 ### [Transformers.jl](https://github.com/chengchingwen/Transformers.jl)
 
@@ -746,27 +746,43 @@ IDEA研究院开源的中文AIGC和认知智能大模型体系，提供多种预
 - **Tags:** `LLM` `AIGC` `Chinese`
 - **最后活动时间:** 2026-06-08
 
+### [evo2](https://github.com/ArcInstitute/evo2)
+
+Arc Institute发布的基因组建模与设计大模型，覆盖所有生命领域，可用于基因组序列分析与生成。
+
+- **Stars:** ⭐️ 4.0k
+- **Tags:** `genomics` `foundation-model` `biology` `AI-for-science`
+- **最后活动时间:** 2026-06-19
+
 ### [nixtla](https://github.com/Nixtla/nixtla)
 
 TimeGPT-1首个生产级时间序列基础模型，基于1000亿数据点训练，支持预测和异常检测。
 
 - **Stars:** ⭐️ 4.0k
 - **Tags:** `Time Series` `Forecasting` `Foundation Model`
-- **最后活动时间:** 2026-07-31
+- **最后活动时间:** 2026-08-04
 
-### [evo2](https://github.com/ArcInstitute/evo2)
+### [FlagAI](https://github.com/FlagAI-Open/FlagAI)
 
-Arc Institute发布的基因组建模与设计大模型，覆盖所有生命领域，可用于基因组序列分析与生成。
+一个快速、易用且可扩展的大规模通用AI模型工具包，支持多种主流模型。
 
-- **Stars:** ⭐️ 3.8k
-- **Tags:** `genomics` `foundation-model` `biology` `AI-for-science`
-- **最后活动时间:** 2026-03-20
+- **Stars:** ⭐️ 3.9k
+- **Tags:** `llm` `ai-toolkit` `open-source`
+- **最后活动时间:** 2026-07-13
+
+### [smollm](https://github.com/huggingface/smollm)
+
+包含SmolLM和SmolVLM系列小模型的所有相关资源与信息。
+
+- **Stars:** ⭐️ 3.9k
+- **Tags:** `small-lm` `vlm` `open-source`
+- **最后活动时间:** 2026-05-26
 
 ### [Qwen3.6](https://github.com/QwenLM/Qwen3.6)
 
 阿里巴巴通义团队开发的大型语言模型系列，提供强大的文本生成和理解能力。
 
-- **Stars:** ⭐️ 3.7k
+- **Stars:** ⭐️ 3.8k
 - **Tags:** `llm` `qwen` `language-model` `alibaba`
 - **最后活动时间:** 2026-06-03
 

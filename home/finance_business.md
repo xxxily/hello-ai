@@ -36,7 +36,7 @@
 
 - **Stars:** ⭐️ 16.8k
 - **Tags:** `Text-to-SQL` `BI` `RAG`
-- **最后活动时间:** 2026-08-02
+- **最后活动时间:** 2026-08-05
 
 ### [growthbook](https://github.com/growthbook/growthbook)
 
@@ -76,7 +76,7 @@
 
 - **Stars:** ⭐️ 4.7k
 - **Tags:** `causal-inference` `econometrics` `machine-learning` `treatment-effects`
-- **最后活动时间:** 2026-07-31
+- **最后活动时间:** 2026-08-04
 
 ### [AP2](https://github.com/google-agentic-commerce/AP2)
 
@@ -388,7 +388,7 @@ AI时代的伯克希尔：基于Claude Code/Codex的价值投资研究框架。�
 
 A股全栈数据工具包，提供43个端点和15个数据源，覆盖行情、研报、资金面等全方位股票数据。专为量化金融和AI智能体设计，支持备用源降级以确保数据稳定性。
 
-- **Stars:** ⭐️ 8.2k
+- **Stars:** ⭐️ 8.4k
 - **Tags:** `a-share` `ai-agent` `china-stocks` `financial-data` `quantitative-finance` `stock-market`
 - **最后活动时间:** 2026-07-30
 

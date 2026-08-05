@@ -13,10 +13,8 @@
 
 </div>
 
-<div align="center">
-  English | <b><a href="./README-zh.md">中文文档</a></b>
+<div align="center">  English | <b><a href="./README-zh.md">中文文档</a></b>
 </div>
-
 ---
 
 ## Explore the Interface
@@ -34,21 +32,21 @@
 
 *Summary of high-quality open-source AI projects collected from the internet:*
 
-- 📁 **Total Collected**: 21784 projects
-- ⚡ **Active Shown**: 11047 projects (updated within the last 6 months)
+- 📁 **Total Collected**: 21807 projects
+- ⚡ **Active Shown**: 11068 projects (updated within the last 6 months)
 - 🏷️ **Categories (Active / Total)**:
   - 🔥 Trending: 30 / 30
-  - 🧠 Foundation Models: 151 / 604
-  - 🤖 Agents & Orchestration: 1858 / 2276
-  - 🔍 RAG & Data Engineering: 499 / 762
-  - ☁️ Infrastructure & Deployment: 1067 / 1707
+  - 🧠 Foundation Models: 153 / 606
+  - 🤖 Agents & Orchestration: 1859 / 2277
+  - 🔍 RAG & Data Engineering: 500 / 763
+  - ☁️ Infrastructure & Deployment: 1071 / 1711
   - 🔧 Fine-tuning & Training: 394 / 983
-  - 👁️ Multimodal (Audio/Video): 943 / 3046
-  - 🛠️ Developer Tools & SDKs: 2448 / 3919
-  - 🎨 AI Applications: 1131 / 1920
-  - 📚 Learning Resources: 1365 / 4448
-  - 💻 Desktop & OS Apps: 431 / 549
-  - 🦾 Robotics & IoT: 512 / 1155
+  - 👁️ Multimodal (Audio/Video): 946 / 3050
+  - 🛠️ Developer Tools & SDKs: 2451 / 3922
+  - 🎨 AI Applications: 1132 / 1922
+  - 📚 Learning Resources: 1369 / 4452
+  - 💻 Desktop & OS Apps: 432 / 550
+  - 🦾 Robotics & IoT: 513 / 1156
   - 💼 Business & Finance: 274 / 462
 - 📅 **Last Updated**: 2026-08-05
 <!-- STATS_END -->
