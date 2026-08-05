@@ -2,7 +2,7 @@
 
 > Computer vision, image generation, audio, text-to-speech.
 
-> 当前分类已收录 **942** 个相关项目。
+> 当前分类已收录 **943** 个相关项目。
 
 ## Audio & Speech (TTS/STT)
 
@@ -2920,6 +2920,14 @@ Krita图像编辑器的AI扩散插件，支持文生图、内补和外补功能�
 - **Tags:** `vision-language-model` `tiny-llm` `multimodal` `edge-ai`
 - **最后活动时间:** 2026-04-20
 
+### [awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+全球最大的 GPT Image 2 提示词库，包含 2000+ 精选提示词和预览图，支持 16 种语言，涵盖像素级文本渲染和商业级插画。
+
+- **Stars:** ⭐️ 9.1k
+- **Tags:** `gpt-image-2` `ai-image-generation` `prompt-engineering` `openai`
+- **最后活动时间:** 2026-08-04
+
 ### [dots.ocr](https://github.com/studio-dots-ai/dots.ocr)
 
 基于单一视觉语言模型的多语言文档版面解析工具。能够高效处理和解析复杂文档结构。
@@ -2927,14 +2935,6 @@ Krita图像编辑器的AI扩散插件，支持文生图、内补和外补功能�
 - **Stars:** ⭐️ 9.0k
 - **Tags:** `document-layout-parsing` `vision-language-model` `multilingual` `ocr`
 - **最后活动时间:** 2026-03-24
-
-### [awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
-
-全球最大的 GPT Image 2 提示词库，包含 2000+ 精选提示词和预览图，支持 16 种语言，涵盖像素级文本渲染和商业级插画。
-
-- **Stars:** ⭐️ 9.0k
-- **Tags:** `gpt-image-2` `ai-image-generation` `prompt-engineering` `openai`
-- **最后活动时间:** 2026-08-02
 
 ### [TRELLIS.2](https://github.com/microsoft/TRELLIS.2)
 
@@ -6882,6 +6882,14 @@ CVPR 2025 论文项目，一种从无标注视频中学习的生成模型，模�
 - **Tags:** `video-generation` `diffusion` `distillation` `autoregressive` `world-models`
 - **最后活动时间:** 2026-06-25
 
+### [InfinityStar](https://github.com/FoundationVision/InfinityStar)
+
+NeurIPS 2025 Oral论文项目，提出统一时空自回归建模框架，用于高质量的视觉与视频生成。
+
+- **Stars:** ⭐️ 775
+- **Tags:** `autoregressive-models` `generative-model` `video-generation` `visual-generation`
+- **最后活动时间:** 2026-04-16
+
 ### [mamma](https://github.com/cuevhv/mamma)
 
 无标记多人动作捕捉与3D人体重建的官方代码库。基于深度学习与PyTorch实现高精度人体姿态估计。
@@ -7082,6 +7090,14 @@ UniScene 是一个统一的以占用为中心的驾驶场景生成框架，发�
 - **Tags:** `ai` `video-production` `motion-design` `skills`
 - **最后活动时间:** 2026-07-14
 
+### [ai-shortVideo-pipeline](https://github.com/myccarl/ai-shortVideo-pipeline)
+
+端到端AI短视频制作管线，集成多模型故障转移、断路器机制与AI质量门控。
+
+- **Stars:** ⭐️ 569
+- **Tags:** `ai-pipeline` `video-generation` `multi-model` `fastapi`
+- **最后活动时间:** 2026-06-15
+
 ### [awesome-ltx2](https://github.com/wildminder/awesome-ltx2)
 
 汇集了所有可用的 LTX-2 模型、编码器、工作流和 LoRA，专为 ComfyUI 打造。提供高效的文本到视频生成解决方案。
@@ -7097,14 +7113,6 @@ UniScene 是一个统一的以占用为中心的驾驶场景生成框架，发�
 - **Stars:** ⭐️ 568
 - **Tags:** `virtual-tryon` `video-diffusion` `transformer` `video-editing`
 - **最后活动时间:** 2026-04-30
-
-### [ai-shortVideo-pipeline](https://github.com/myccarl/ai-shortVideo-pipeline)
-
-端到端AI短视频制作管线，集成多模型故障转移、断路器机制与AI质量门控。
-
-- **Stars:** ⭐️ 566
-- **Tags:** `ai-pipeline` `video-generation` `multi-model` `fastapi`
-- **最后活动时间:** 2026-06-15
 
 ### [ComfyUI-Wan22FMLF](https://github.com/wallen0322/ComfyUI-Wan22FMLF)
 
@@ -7170,6 +7178,14 @@ FFmpeg Rust封装库，提供直观的迭代器接口，简化视频音频处理
 - **Tags:** `opencv` `video-processing` `motion-detection` `python`
 - **最后活动时间:** 2026-07-22
 
+### [free-ai-video-upscaler](https://github.com/sb2702/free-ai-video-upscaler)
+
+一款免费且开源的AI视频画质提升工具，利用WebGPU和WebCodecs技术实现高效的视频增强处理。
+
+- **Stars:** ⭐️ 511
+- **Tags:** `upscaling` `video-enhancement` `webcodecs` `webgl` `webgpu`
+- **最后活动时间:** 2026-05-20
+
 ### [StereoCrafter](https://github.com/TencentARC/StereoCrafter)
 
 一个强大的框架，能够将任何普通的2D视频转换为沉浸式的立体3D视频。
@@ -7185,14 +7201,6 @@ FFmpeg Rust封装库，提供直观的迭代器接口，简化视频音频处理
 - **Stars:** ⭐️ 507
 - **Tags:** `neural-rendering` `diffusion-model` `video-generation` `game-rendering` `ai-renderer`
 - **最后活动时间:** 2026-05-05
-
-### [free-ai-video-upscaler](https://github.com/sb2702/free-ai-video-upscaler)
-
-一款免费且开源的AI视频画质提升工具，利用WebGPU和WebCodecs技术实现高效的视频增强处理。
-
-- **Stars:** ⭐️ 504
-- **Tags:** `upscaling` `video-enhancement` `webcodecs` `webgl` `webgpu`
-- **最后活动时间:** 2026-05-20
 
 ## 未分类 (Others)
 

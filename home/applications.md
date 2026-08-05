@@ -7164,6 +7164,14 @@ AI驱动的Anki闪卡增强工具，支持自动生成解释、记忆口诀、�
 - **Tags:** `ai-agents` `multi-agent` `presentation-generator` `slide-generator`
 - **最后活动时间:** 2026-06-08
 
+### [flymd](https://github.com/flyhunterl/flymd)
+
+高性能AI驱动Markdown笔记工具，支持智能便签、本地知识库、PDF解析及语音转文本，毫秒级启动。
+
+- **Stars:** ⭐️ 865
+- **Tags:** `Markdown` `AI笔记` `知识库`
+- **最后活动时间:** 2026-07-22
+
 ### [liubai](https://github.com/yenche123/liubai)
 
 一款AI原生的本地优先生产力工具，支持PWA离线使用，集成智能调度功能，帮助用户提升工作效率。
@@ -7203,14 +7211,6 @@ Obsidian AI 助手插件，超越简单聊天，提供智能笔记整理和组�
 - **Stars:** ⭐️ 856
 - **Tags:** `obsidian` `ai-assistant` `note-taking` `ocr`
 - **最后活动时间:** 2026-08-01
-
-### [flymd](https://github.com/flyhunterl/flymd)
-
-高性能AI驱动Markdown笔记工具，支持智能便签、本地知识库、PDF解析及语音转文本，毫秒级启动。
-
-- **Stars:** ⭐️ 851
-- **Tags:** `Markdown` `AI笔记` `知识库`
-- **最后活动时间:** 2026-07-07
 
 ### [ColorTxt](https://github.com/ssnangua/ColorTxt)
 
