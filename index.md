@@ -11,11 +11,11 @@ hero:
     alt: Hello-AI
   actions:
     - theme: brand
-      text: "> /START_CONNECTION"
-      link: /home/
-    - theme: alt
-      text: "> /EXPLORE_RADAR"
+      text: "> /EXPLORE_PROJECTS"
       link: /explore/
+    - theme: alt
+      text: "> /READ_DOCS"
+      link: /home/
 
 features:
 - title: 🌌 降维打击 (Dimensional Strike)
@@ -29,33 +29,7 @@ footer: SYSTEM_LICENSED // MIT | CORE_ONLINE // Copyright © 2026-present Blaze
 ---
 
 <script setup>
-import { onMounted, onUnmounted } from 'vue'
-import { useRouter } from 'vitepress'
 import stats from './data/stats.json'
-
-const router = useRouter()
-let clickHandler = null
-
-onMounted(() => {
-  if (typeof window !== 'undefined') {
-    clickHandler = (e) => {
-      const target = e.target.closest('.VPButton')
-      if (target && target.textContent.includes('START_CONNECTION')) {
-        if (window.innerWidth <= 768) {
-          e.preventDefault()
-          router.go('/home/categories.html')
-        }
-      }
-    }
-    document.addEventListener('click', clickHandler)
-  }
-})
-
-onUnmounted(() => {
-  if (typeof window !== 'undefined' && clickHandler) {
-    document.removeEventListener('click', clickHandler)
-  }
-})
 </script>
 
 <div class="global-stats-wrapper">

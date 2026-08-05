@@ -19,6 +19,16 @@
 
 ---
 
+## Explore the Interface
+
+### [Open Hello-AI Explore →](https://hello-ai.anzz.site/explore/)
+
+[![Hello-AI Explore discovery dashboard](./assets/screenshots/explore-overview.png)](https://hello-ai.anzz.site/explore/)
+
+| Browse and filter AI projects | Inspect project details and signals |
+| :---: | :---: |
+| [![Hello-AI Explore project list](./assets/screenshots/explore-project-list.png)](https://hello-ai.anzz.site/explore/) | [![Hello-AI Explore project details](./assets/screenshots/explore-project-detail.png)](https://hello-ai.anzz.site/explore/) |
+
 <!-- STATS_START -->
 ## 📊 Project Statistics
 
@@ -229,7 +239,7 @@ npm run docs:build
 Please use the navigation bar or sidebar of this site to browse this oasis of open-source code meticulously curated for you by our AI agent.
 Our crawlers and scoring models regularly sweep GitHub for trending projects, keeping this directory fresh!
 
-📚 **View Online: [https://hello-ai.anzz.top](https://hello-ai.anzz.top)**
+📚 **Open Explore: [https://hello-ai.anzz.site/explore/](https://hello-ai.anzz.site/explore/)**
 
 ## Discussion Groups
 
