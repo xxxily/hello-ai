@@ -19,28 +19,15 @@
 
 ---
 
-## 📊 项目统计
+## Explore 界面预览
 
-*此项目已从互联网搜罗并收录了大量 AI 相关的优质开源项目，概况如下：*
+### [打开 Hello-AI Explore →](https://hello-ai.anzz.site/explore/)
 
-- 📁 **合计收录**：16282 个项目
-- ⚡ **活跃展示**：7556 个项目 (仅限最近 6 个月有活跃更新记录)
-- 🏷️ **分类概览 (活跃 / 总数)**：
-  - 🔥 热门推荐：30 / 30
-  - 🧠 基础大模型：120 / 498
-  - 🤖 智能体与编排：1048 / 1340
-  - 🔍 RAG与检索：348 / 552
-  - ☁️ 基础设施与部署：812 / 1341
-  - 🔧 微调与训练：333 / 841
-  - 👁️ 多模态与音视频：751 / 2305
-  - 🛠️ 开发工具与SDK：1646 / 2856
-  - 🎨 AI终端应用：685 / 1325
-  - 📚 学习与资源：1066 / 3770
-  - 💻 桌面与操作系统级应用：216 / 300
-  - 🦾 机器人与物联网：404 / 908
-  - 💼 商业与量化：139 / 277
-- 📅 **最后更新**：2026-04-01
-<!-- STATS_END -->
+[![Hello-AI Explore 发现面板](./assets/screenshots/explore-overview.png)](https://hello-ai.anzz.site/explore/)
+
+| 浏览与筛选 AI 项目 | 查看项目详情与关键信息 |
+| :---: | :---: |
+| [![Hello-AI Explore 项目列表](./assets/screenshots/explore-project-list.png)](https://hello-ai.anzz.site/explore/) | [![Hello-AI Explore 项目详情](./assets/screenshots/explore-project-detail.png)](https://hello-ai.anzz.site/explore/) |
 
 <!-- STATS_START -->
 ## 📊 项目统计
@@ -258,11 +245,10 @@ npm run docs:build
 
 ## 🌟 探索 AI 项目
 
-请通过本站的系统导航，浏览这片由 AI 自动为你精选的开源代码绿洲。
+立即进入 Explore，浏览这片由 AI 自动为你精选的开源代码绿洲。
 我们的爬虫和打分模型会定期搜罗 GitHub 上的热门项目，保持这份目录的鲜活度！
 
-- 📚 **在线访问：[hello-ai.anzz.top](https://hello-ai.anzz.top)** (国际站)
-- 📚 **在线访问：[hello-ai.anzz.site](https://hello-ai.anzz.site)** (国内站)
+📚 **打开 Explore：[https://hello-ai.anzz.site/explore/](https://hello-ai.anzz.site/explore/)**
 
 ## 交流群
 
