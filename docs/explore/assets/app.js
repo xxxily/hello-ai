@@ -4,8 +4,14 @@ const MOBILE_HEADER_QUERY = '(max-width: 760px)';
 const STORE_KEYS = {
   saved: 'hello-ai-explore-saved',
   compare: 'hello-ai-explore-compare',
-  recent: 'hello-ai-explore-recent'
+  recent: 'hello-ai-explore-recent',
+  view: 'hello-ai-explore-view'
 };
+
+const VIEW_MODES = new Set(['list', 'card']);
+const PAGE_SIZE = 48;
+const APPEND_SIZE = 36;
+const MAX_AUTO_LOADS = 6;
 
 const LENS_OPTIONS = [
   { id: 'balanced', label: '推荐', shortLabel: '推荐', description: '综合排序' },
@@ -32,6 +38,27 @@ const GENERIC_REFINEMENT_TERMS = new Set([
   'typescript'
 ]);
 
+// Each category owns one hue so a long list reads as coloured groups rather than
+// one undifferentiated wall. Hues are spread around the wheel and kept at low
+// saturation so they sit inside the paper palette instead of fighting it.
+const CATEGORY_HUES = {
+  llms: 276,
+  agents: 208,
+  rag_data: 172,
+  infrastructure: 226,
+  finetuning: 32,
+  multimodal: 320,
+  devtools: 152,
+  applications: 344,
+  learning: 96,
+  desktop_tools: 250,
+  robotics_iot: 12,
+  finance_business: 52,
+  trending: 8
+};
+
+const DEFAULT_HUE = 200;
+
 const els = {
   main: document.querySelector('#appMain'),
   search: document.querySelector('#globalSearch'),
@@ -56,7 +83,10 @@ const state = {
   sort: 'potential',
   lens: 'balanced',
   selectedTask: 'build-agent',
-  visible: 48,
+  view: readStoredView(),
+  visible: PAGE_SIZE,
+  autoLoads: 0,
+  expanded: { subcategory: false, tag: false },
   stats: null,
   facets: null,
   radar: null,
@@ -84,6 +114,7 @@ let filterPanelScrollTimer = null;
 let lastFocusedElement = null;
 let drawerOriginId = null;
 let renderedStatsSignature = '';
+let loadMoreObserver = null;
 
 init();
 
@@ -128,7 +159,8 @@ function bindEvents() {
   els.search.addEventListener('input', () => {
     state.query = els.search.value.trim();
     state.route = 'explore';
-    state.visible = 48;
+    state.visible = PAGE_SIZE;
+    state.autoLoads = 0;
     state.resultsStale = true;
     writeHash(true);
     render();
@@ -173,7 +205,7 @@ function bindEvents() {
         state.tag = 'all';
         state.freshness = 'all';
         state.stars = 'all';
-        setRoute('explore', { resultsStale: true, visible: 48 });
+        setRoute('explore', { resultsStale: true, visible: PAGE_SIZE, autoLoads: 0 });
         break;
       case 'select-task':
         state.selectedTask = action.dataset.value || 'build-agent';
@@ -183,7 +215,8 @@ function bindEvents() {
       case 'lens':
         state.lens = action.dataset.value || 'balanced';
         state.sort = lensToSort(state.lens);
-        state.visible = 48;
+        state.visible = PAGE_SIZE;
+        state.autoLoads = 0;
         state.resultsStale = true;
         writeHash(true);
         render();
@@ -212,7 +245,7 @@ function bindEvents() {
         state.stars = action.dataset.stars || 'all';
         state.lens = 'balanced';
         state.sort = 'potential';
-        setRoute('explore', { resultsStale: true, visible: 48 });
+        setRoute('explore', { resultsStale: true, visible: PAGE_SIZE, autoLoads: 0 });
         break;
       case 'category':
         state.category = action.dataset.value || 'all';
@@ -222,11 +255,12 @@ function bindEvents() {
         state.stars = 'all';
         state.lens = 'balanced';
         state.sort = 'potential';
-        setRoute('explore', { resultsStale: true, visible: 48 });
+        setRoute('explore', { resultsStale: true, visible: PAGE_SIZE, autoLoads: 0 });
         break;
       case 'filter':
         state[action.dataset.filter] = action.dataset.value || 'all';
-        state.visible = 48;
+        state.visible = PAGE_SIZE;
+        state.autoLoads = 0;
         state.resultsStale = true;
         writeHash(true);
         render();
@@ -234,7 +268,8 @@ function bindEvents() {
       case 'remove-filter':
         if (action.dataset.filter === 'query') state.query = '';
         else state[action.dataset.filter] = 'all';
-        state.visible = 48;
+        state.visible = PAGE_SIZE;
+        state.autoLoads = 0;
         state.resultsStale = true;
         writeHash(true);
         render();
@@ -248,16 +283,32 @@ function bindEvents() {
         state.stars = 'all';
         state.sort = 'potential';
         state.lens = 'balanced';
-        state.visible = 48;
+        state.visible = PAGE_SIZE;
+        state.autoLoads = 0;
         state.resultsStale = true;
         writeHash(true);
         render();
         break;
       case 'sort':
         break;
+      case 'view':
+        if (VIEW_MODES.has(action.dataset.value)) {
+          state.view = action.dataset.value;
+          writeStoredView(state.view);
+          writeHash(true);
+          render();
+        }
+        break;
       case 'load-more':
-        state.visible += 48;
+        state.visible += APPEND_SIZE;
+        appendMoreResults();
+        break;
+      case 'expand-filter':
+        state.expanded[action.dataset.filter] = !state.expanded[action.dataset.filter];
         render();
+        break;
+      case 'scroll-top':
+        window.scrollTo({ top: 0, behavior: 'smooth' });
         break;
       case 'detail':
         if (id) openDetail(id);
@@ -294,7 +345,7 @@ function bindEvents() {
         break;
       case 'tag':
         state.tag = action.dataset.value || 'all';
-        setRoute('explore', { resultsStale: true, visible: 48 });
+        setRoute('explore', { resultsStale: true, visible: PAGE_SIZE, autoLoads: 0 });
         break;
       default:
         break;
@@ -305,7 +356,8 @@ function bindEvents() {
     const sort = event.target.closest('#sortSelect');
     if (!sort) return;
     state.sort = sort.value;
-    state.visible = 48;
+    state.visible = PAGE_SIZE;
+    state.autoLoads = 0;
     state.resultsStale = true;
     writeHash(true);
     render();
@@ -318,6 +370,34 @@ function bindEvents() {
 function updateMobileHeaderState() {
   const isCompact = window.matchMedia(MOBILE_HEADER_QUERY).matches && window.scrollY > 18;
   document.body.classList.toggle('is-mobile-scrolled', isCompact);
+}
+
+// Auto-load a bounded number of pages, then hand control back to the explicit
+// button. Endless auto-append past a few thousand rows just burns memory and
+// makes the scrollbar meaningless.
+function observeLoadMore() {
+  loadMoreObserver?.disconnect();
+  if (state.route !== 'explore') return;
+
+  const trigger = els.main.querySelector('[data-load-trigger]');
+  if (!trigger || state.autoLoads >= MAX_AUTO_LOADS) return;
+  if (!('IntersectionObserver' in window)) return;
+
+  loadMoreObserver = new IntersectionObserver(
+    entries => {
+      if (!entries.some(entry => entry.isIntersecting)) return;
+      if (state.autoLoads >= MAX_AUTO_LOADS) {
+        loadMoreObserver?.disconnect();
+        return;
+      }
+      state.autoLoads += 1;
+      state.visible += APPEND_SIZE;
+      appendMoreResults();
+    },
+    { rootMargin: '600px 0px' }
+  );
+
+  loadMoreObserver.observe(trigger);
 }
 
 function updateFilterPanelScrollState(event) {
@@ -398,6 +478,8 @@ function readHash() {
   state.sort = params.get('sort') || 'potential';
   state.lens = params.get('lens') || sortToLens(state.sort);
   state.selectedTask = params.get('intent') || state.selectedTask || 'build-agent';
+  const view = params.get('view');
+  if (VIEW_MODES.has(view)) state.view = view;
   els.search.value = state.query;
 }
 
@@ -412,6 +494,7 @@ function writeHash(replace = false) {
   if (state.sort !== 'potential') params.set('sort', state.sort);
   if (state.lens !== 'balanced') params.set('lens', state.lens);
   if (state.route === 'radar' && state.selectedTask) params.set('intent', state.selectedTask);
+  if (state.view !== 'list') params.set('view', state.view);
 
   const nextHash = `#${state.route}${params.toString() ? `?${params}` : ''}`;
   if (window.location.hash === nextHash) return;
@@ -786,22 +869,20 @@ function renderPathCard(task) {
 function renderListLane(title, subtitle, projects) {
   return `
     <div class="list-lane">
-      <div class="section-heading">
+      <div class="section-heading lane-heading">
         <div>
           <h2>${escapeHtml(title)}</h2>
           ${subtitle ? `<p>${escapeHtml(subtitle)}</p>` : ''}
         </div>
       </div>
-      <div class="project-grid compact">
-        ${projects.slice(0, 6).map(project => renderProjectCard(project)).join('')}
-      </div>
+      ${renderProjectList(projects.slice(0, 6), { view: 'list', showRank: true, compact: true })}
     </div>
   `;
 }
 
 function renderExplorer() {
   const filterPanel = renderFilterPanel();
-  let resultsHtml = renderLoading('正在加载项目');
+  let resultsHtml = renderSkeleton();
 
   if (!state.catalog) {
     ensureCatalog().then(() => {
@@ -810,7 +891,6 @@ function renderExplorer() {
     });
   } else if (state.resultsStale) {
     runSearch();
-    resultsHtml = renderLoading('正在查找项目');
   } else {
     resultsHtml = renderResults();
   }
@@ -820,7 +900,7 @@ function renderExplorer() {
       ${filterPanel}
       <div class="result-panel">
         <div class="sort-bar">
-          <div>
+          <div class="sort-lead">
             <div class="result-count">${escapeHtml(renderResultLabel())}</div>
             ${renderActiveFilters()}
           </div>
@@ -828,6 +908,7 @@ function renderExplorer() {
             <button class="filter-trigger" type="button" data-action="open-filters">
               筛选${countActiveFilters() ? ` · ${countActiveFilters()}` : ''}
             </button>
+            ${renderViewToggle()}
             <select id="sortSelect" aria-label="排列顺序">
               ${[
                 ['potential', '推荐'],
@@ -848,6 +929,8 @@ function renderExplorer() {
       </div>
     </section>
   `;
+
+  observeLoadMore();
 }
 
 function renderActiveFilters() {
@@ -879,8 +962,8 @@ function renderFilterContent(className = 'filter-panel') {
   const subcategories =
     state.category !== 'all' && activeCategory
       ? (activeCategory.subcategories || []).map(label => ({ id: label, label, count: null }))
-      : (state.facets.subcategories || []).slice(0, 18);
-  const tags = (state.facets.tags || []).slice(0, 28);
+      : (state.facets.subcategories || []).slice(0, 28);
+  const tags = (state.facets.tags || []).slice(0, 40);
 
   return `
     <aside class="${attr(className)}" aria-label="项目筛选">
@@ -895,30 +978,27 @@ function renderFilterContent(className = 'filter-panel') {
                 'category',
                 category.id,
                 `${category.icon ? `${category.icon} ` : ''}${category.cleanName}`,
-                state.category === category.id
+                state.category === category.id,
+                { hue: CATEGORY_HUES[category.id] ?? DEFAULT_HUE, count: category.count }
               )
             )
             .join('')}
         </div>
       </div>
 
-      <div class="filter-group">
-        <h3>子类</h3>
-        <div class="filter-row">
-          ${renderFilterChip('subcategory', 'all', '全部', state.subcategory === 'all')}
-          ${subcategories
-            .map(item => renderFilterChip('subcategory', item.id || item.label, item.label, state.subcategory === (item.id || item.label)))
-            .join('')}
-        </div>
-      </div>
+      ${renderCollapsibleFilterGroup(
+        '子类',
+        'subcategory',
+        subcategories.map(item => ({ value: item.id || item.label, label: item.label, count: item.count })),
+        8
+      )}
 
-      <div class="filter-group">
-        <h3>标签</h3>
-        <div class="filter-row">
-          ${renderFilterChip('tag', 'all', '全部', state.tag === 'all')}
-          ${tags.map(tag => renderFilterChip('tag', tag.label, tag.label, normalize(state.tag) === normalize(tag.label))).join('')}
-        </div>
-      </div>
+      ${renderCollapsibleFilterGroup(
+        '标签',
+        'tag',
+        tags.map(tag => ({ value: tag.label, label: tag.label, count: tag.count })),
+        12
+      )}
 
       <div class="filter-group">
         <h3>活跃度</h3>
@@ -940,8 +1020,60 @@ function renderFilterContent(className = 'filter-panel') {
         </div>
       </div>
 
-      <button class="chip" type="button" data-action="clear-filters">清空条件</button>
+      ${
+        countActiveFilters()
+          ? '<button class="chip clear-chip" type="button" data-action="clear-filters">清空条件</button>'
+          : ''
+      }
     </aside>
+  `;
+}
+
+// Subcategories and tags are the two long tails in the panel. Showing every one
+// of them up front is what turns the sidebar into a wall; cap them and let the
+// user open the rest on demand.
+function renderCollapsibleFilterGroup(title, filter, items, limit) {
+  const expanded = state.expanded[filter];
+  const active = state[filter];
+  const visible = expanded ? items : items.slice(0, limit);
+  // Never hide the currently active value behind the fold.
+  if (!expanded && active !== 'all' && !visible.some(item => normalize(item.value) === normalize(active))) {
+    const activeItem = items.find(item => normalize(item.value) === normalize(active));
+    if (activeItem) visible.unshift(activeItem);
+  }
+  const hidden = items.length - visible.length;
+
+  return `
+    <div class="filter-group">
+      <h3>${escapeHtml(title)}</h3>
+      <div class="filter-row">
+        ${renderFilterChip(filter, 'all', '全部', active === 'all')}
+        ${visible
+          .map(item => renderFilterChip(filter, item.value, item.label, normalize(active) === normalize(item.value)))
+          .join('')}
+        ${
+          hidden > 0 || expanded
+            ? `<button class="chip chip-more" type="button" data-action="expand-filter" data-filter="${attr(filter)}" aria-expanded="${Boolean(expanded)}">${
+                expanded ? '收起' : `+${hidden} 更多`
+              }</button>`
+            : ''
+        }
+      </div>
+    </div>
+  `;
+}
+
+function renderFilterChip(filter, value, label, active, options = {}) {
+  const style = options.hue != null ? ` style="--cat-h:${options.hue}"` : '';
+  return `
+    <button
+      class="chip ${active ? 'is-active' : ''} ${options.hue != null ? 'chip-cat' : ''}"
+      type="button"
+      data-action="filter"
+      data-filter="${attr(filter)}"
+      data-value="${attr(value)}"
+      ${style}
+    >${escapeHtml(label)}${options.count != null ? `<small>${formatNumber(options.count)}</small>` : ''}</button>
   `;
 }
 
@@ -1000,18 +1132,6 @@ function renderRefinementPanel() {
   `;
 }
 
-function renderFilterChip(filter, value, label, active) {
-  return `
-    <button
-      class="chip ${active ? 'is-active' : ''}"
-      type="button"
-      data-action="filter"
-      data-filter="${attr(filter)}"
-      data-value="${attr(value)}"
-    >${escapeHtml(label)}</button>
-  `;
-}
-
 function runSearch() {
   if (!state.catalog) return;
   const payload = {
@@ -1047,13 +1167,128 @@ function renderResults() {
     return renderNoResults();
   }
 
-  const more = state.visible < state.results.length;
   return `
-    <div class="project-grid">
-      ${projects.map(project => renderProjectCard(project, { showMatchHints: true })).join('')}
+    <div data-result-list data-rendered="${projects.length}">
+      ${renderProjectList(projects, { showMatchHints: true, showRank: state.view === 'list' })}
     </div>
-    ${more ? '<button class="load-more" type="button" data-action="load-more">加载更多</button>' : ''}
+    ${renderLoadMore()}
   `;
+}
+
+// Rendered as its own node so appendMoreResults() can swap it without touching
+// the rows above it (and therefore without disturbing the scroll position).
+function renderLoadMore() {
+  const shown = Math.min(state.visible, state.results.length);
+  const total = state.results.length;
+  const more = shown < total;
+  const percent = total ? Math.round((shown / total) * 100) : 100;
+
+  return `
+    <div class="load-zone" data-load-zone>
+      <div class="load-progress" role="presentation">
+        <span style="width:${percent}%"></span>
+      </div>
+      <p class="load-count">已显示 <strong>${formatNumber(shown)}</strong> / ${formatNumber(total)} 个项目</p>
+      ${
+        more
+          ? `<button class="load-more" type="button" data-action="load-more" data-load-trigger>加载更多</button>`
+          : '<p class="load-done">已经到底了</p>'
+      }
+    </div>
+  `;
+}
+
+// Full render() rebuilds els.main, which loses scroll position and re-runs the
+// whole result pipeline. Paging only ever adds rows to the end, so append them
+// directly and refresh just the footer.
+function appendMoreResults() {
+  const list = els.main.querySelector('[data-result-list]');
+  const zone = els.main.querySelector('[data-load-zone]');
+  if (!list || !zone) {
+    render();
+    return;
+  }
+
+  const rendered = Number(list.dataset.rendered || 0);
+  const target = Math.min(state.visible, state.results.length);
+  if (target <= rendered) return;
+
+  const projects = state.results
+    .slice(rendered, target)
+    .map(id => state.catalogById.get(id))
+    .filter(Boolean);
+
+  const container = list.firstElementChild;
+  if (!container) {
+    render();
+    return;
+  }
+
+  container.insertAdjacentHTML(
+    'beforeend',
+    projects
+      .map((project, index) =>
+        state.view === 'card'
+          ? renderProjectCard(project, { showMatchHints: true, index: rendered + index })
+          : renderProjectRow(project, { showMatchHints: true, showRank: true, index: rendered + index })
+      )
+      .join('')
+  );
+
+  list.dataset.rendered = String(target);
+  zone.outerHTML = renderLoadMore();
+  observeLoadMore();
+}
+
+function renderViewToggle() {
+  const modes = [
+    { id: 'list', label: '列表', glyph: '≡' },
+    { id: 'card', label: '卡片', glyph: '▦' }
+  ];
+  return `
+    <div class="view-toggle" role="group" aria-label="显示密度">
+      ${modes
+        .map(
+          mode => `
+            <button
+              class="view-option ${state.view === mode.id ? 'is-active' : ''}"
+              type="button"
+              data-action="view"
+              data-value="${attr(mode.id)}"
+              aria-pressed="${state.view === mode.id}"
+              title="${attr(mode.label)}视图"
+            >
+              <span aria-hidden="true">${mode.glyph}</span>
+              <small>${escapeHtml(mode.label)}</small>
+            </button>
+          `
+        )
+        .join('')}
+    </div>
+  `;
+}
+
+// Skeletons keep the result column at a stable height while a query runs, so the
+// page does not collapse and jump on every keystroke.
+function renderSkeleton(count = 8) {
+  if (state.view === 'card') {
+    return `<div class="project-grid skeleton-grid">${Array.from(
+      { length: Math.min(count, 9) },
+      () => '<div class="skeleton-card" aria-hidden="true"></div>'
+    ).join('')}</div>`;
+  }
+  return `<div class="project-rows skeleton-rows">${Array.from(
+    { length: count },
+    () => `
+      <div class="skeleton-row" aria-hidden="true">
+        <span class="skeleton-badge"></span>
+        <span class="skeleton-lines">
+          <span></span>
+          <span></span>
+        </span>
+      </div>
+    `
+  ).join('')}</div>`;
 }
 
 function renderResultLabel() {
@@ -1144,24 +1379,114 @@ function renderReadableFilterSummary() {
   return labels.length ? `${labels.join(' / ')}，共 ${formatNumber(state.total)} 个项目。` : '';
 }
 
+// Shared by every surface that shows a set of projects, so the density toggle
+// and the visual language stay consistent across radar / explore / saved.
+function renderProjectList(projects, options = {}) {
+  const view = options.view || state.view;
+  const startIndex = options.startIndex || 0;
+  if (view === 'card') {
+    return `<div class="project-grid ${options.compact ? 'compact' : ''}">${projects
+      .map((project, index) => renderProjectCard(project, { ...options, index: startIndex + index }))
+      .join('')}</div>`;
+  }
+  return `<div class="project-rows">${projects
+    .map((project, index) => renderProjectRow(project, { ...options, index: startIndex + index }))
+    .join('')}</div>`;
+}
+
+function renderProjectRow(project, options = {}) {
+  const saved = state.saved.has(project.id);
+  const compared = state.compare.includes(project.id);
+  const index = Number(options.index || 0);
+  const matchHints = options.showMatchHints ? buildMatchHints(project, state.query) : [];
+  const reason = options.recommendationReason || matchHints[0] || '';
+  const meta = [project.categoryCleanName || project.categoryName, project.subcategory].filter(Boolean);
+
+  return `
+    <article
+      class="project-row"
+      data-cat="${attr(project.categoryId || 'default')}"
+      style="--cat-h:${categoryHue(project)};--i:${Math.min(index, 24)}"
+    >
+      <button class="row-main" type="button" data-action="detail" data-id="${attr(project.id)}">
+        ${options.showRank ? `<span class="row-rank">${index + 1}</span>` : ''}
+        <span class="row-badge" aria-hidden="true">${escapeHtml(projectMonogram(project))}</span>
+        <span class="row-copy">
+          <span class="row-title">
+            <strong>${escapeHtml(project.name)}</strong>
+            ${reason ? `<em class="row-reason">${escapeHtml(reason)}</em>` : ''}
+          </span>
+          <span class="row-desc">${escapeHtml(project.description || 'No description')}</span>
+          <span class="row-meta" data-stars="${attr(formatStars(project.stars))}">
+            ${project.categoryIcon ? `<i aria-hidden="true">${escapeHtml(project.categoryIcon)}</i>` : ''}
+            ${meta.map(item => `<span>${escapeHtml(item)}</span>`).join('<b aria-hidden="true">·</b>')}
+            <b aria-hidden="true">·</b>
+            <time datetime="${attr(project.lastUpdated || '')}" title="更新于 ${attr(formatDate(project.lastUpdated))}">${escapeHtml(formatRelative(project.lastUpdated))}</time>
+          </span>
+        </span>
+        <span class="row-stars" data-tier="${attr(starTier(project.stars))}">
+          <strong>${formatStars(project.stars)}</strong>
+          <small>stars</small>
+        </span>
+      </button>
+
+      <div class="row-actions">
+        <button
+          class="row-icon ${saved ? 'is-active' : ''}"
+          type="button"
+          data-action="save"
+          data-id="${attr(project.id)}"
+          aria-label="${saved ? '取消收藏' : '收藏'} ${attr(project.name)}"
+          title="${saved ? '取消收藏' : '收藏'}"
+        >${saved ? '★' : '☆'}</button>
+        <button
+          class="row-icon ${compared ? 'is-active' : ''}"
+          type="button"
+          data-action="compare"
+          data-id="${attr(project.id)}"
+          aria-label="${compared ? '从对比中移除' : '加入对比'} ${attr(project.name)}"
+          title="${compared ? '移出对比' : '加入对比'}"
+        >⇄</button>
+        <a
+          class="row-icon"
+          href="${attr(project.url)}"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="在 GitHub 打开 ${attr(project.name)}"
+          title="在 GitHub 打开"
+        >↗</a>
+      </div>
+    </article>
+  `;
+}
+
 function renderProjectCard(project, options = {}) {
   const saved = state.saved.has(project.id);
   const compared = state.compare.includes(project.id);
   const tags = (project.tags || []).slice(0, 3);
+  const index = Number(options.index || 0);
   const matchHints = options.showMatchHints ? buildMatchHints(project, state.query) : [];
-  const category = [project.categoryIcon, project.categoryCleanName || project.categoryName, project.subcategory]
-    .filter(Boolean)
-    .join(' / ');
+  // The breadcrumb already names the subcategory, so the old "类型" metric was
+  // printing the same string twice per card. Dropped in favour of one line.
+  const category = [project.categoryCleanName || project.categoryName, project.subcategory].filter(Boolean).join(' / ');
 
   return `
-    <article class="project-card">
+    <article
+      class="project-card"
+      data-cat="${attr(project.categoryId || 'default')}"
+      style="--cat-h:${categoryHue(project)};--i:${Math.min(index, 24)}"
+    >
       <header>
-        <div>
-          <span class="eyebrow">${escapeHtml(category)}</span>
+        <span class="card-badge" aria-hidden="true">${escapeHtml(projectMonogram(project))}</span>
+        <div class="card-heading">
+          <span class="eyebrow">
+            ${project.categoryIcon ? `<i aria-hidden="true">${escapeHtml(project.categoryIcon)}</i>` : ''}
+            <span>${escapeHtml(category)}</span>
+          </span>
           <h3>${escapeHtml(project.name)}</h3>
         </div>
         <button
-          class="icon-button ${saved ? 'is-active' : ''}"
+          class="row-icon card-save ${saved ? 'is-active' : ''}"
           type="button"
           data-action="save"
           data-id="${attr(project.id)}"
@@ -1174,32 +1499,30 @@ function renderProjectCard(project, options = {}) {
 
       ${options.recommendationReason ? `<p class="recommendation-note">${escapeHtml(options.recommendationReason)}</p>` : ''}
 
-      <div class="tag-row">
-        ${tags
-          .map(tag => `<button class="tag" type="button" data-action="tag" data-value="${attr(tag)}">${escapeHtml(tag)}</button>`)
-          .join('')}
-      </div>
-
       ${
         matchHints.length
-          ? `
-            <div class="match-row" aria-label="匹配信息">
-              <span class="match-label">相关</span>
-              ${matchHints.map(hint => `<span class="match-chip">${escapeHtml(hint)}</span>`).join('')}
-            </div>
-          `
+          ? `<div class="match-row" aria-label="匹配信息">${matchHints
+              .map(hint => `<span class="match-chip">${escapeHtml(hint)}</span>`)
+              .join('')}</div>`
           : ''
       }
 
-      <div class="metric-row">
-        <span class="metric"><strong>${formatStars(project.stars)}</strong> stars</span>
-        <span class="metric"><strong>${formatDate(project.lastUpdated)}</strong> 更新</span>
-        <span class="metric"><strong>${escapeHtml(project.subcategory || '未分类')}</strong> 类型</span>
+      <div class="card-foot">
+        <div class="card-metrics">
+          <span class="card-stars" data-tier="${attr(starTier(project.stars))}">${formatStars(project.stars)}<small>stars</small></span>
+          <b aria-hidden="true">·</b>
+          <time datetime="${attr(project.lastUpdated || '')}" title="更新于 ${attr(formatDate(project.lastUpdated))}">${escapeHtml(formatRelative(project.lastUpdated))}</time>
+        </div>
+        <div class="card-tags">
+          ${tags
+            .map(tag => `<button class="tag" type="button" data-action="tag" data-value="${attr(tag)}">${escapeHtml(tag)}</button>`)
+            .join('')}
+        </div>
       </div>
 
       <div class="card-actions">
         <button
-          class="icon-button ${compared ? 'is-active' : ''}"
+          class="row-icon ${compared ? 'is-active' : ''}"
           type="button"
           data-action="compare"
           data-id="${attr(project.id)}"
@@ -1434,12 +1757,44 @@ function renderCompare() {
   const mostStars = [...projects].sort((a, b) => b.stars - a.stars)[0];
   const freshest = [...projects].sort((a, b) => dateMs(b.lastUpdated) - dateMs(a.lastUpdated))[0];
 
+  // `best` marks the winning cell per row so the table can be read by scanning
+  // for the accent instead of comparing numbers across columns by eye. Only set
+  // it where there is actually something to compare against.
   const rows = [
-    ['分类', project => `${project.categoryCleanName || project.categoryName} / ${project.subcategory}`],
-    ['Stars', project => formatStars(project.stars)],
-    ['最近更新', project => formatDate(project.lastUpdated)],
-    ['标签', project => (project.tags || []).slice(0, 8).join(', ') || '-'],
-    ['描述', project => project.description || '-']
+    {
+      label: '分类',
+      cell: project => `<span class="cell-cat" style="--cat-h:${categoryHue(project)}">${escapeHtml(
+        [project.categoryCleanName || project.categoryName, project.subcategory].filter(Boolean).join(' / ')
+      )}</span>`
+    },
+    {
+      label: 'Stars',
+      cell: project =>
+        `<span class="cell-num" data-tier="${attr(starTier(project.stars))}">${formatStars(project.stars)}</span>`,
+      best: projects.length > 1 ? project => project.id === mostStars?.id : null
+    },
+    {
+      label: '最近更新',
+      cell: project =>
+        `<time datetime="${attr(project.lastUpdated || '')}" title="更新于 ${attr(formatDate(project.lastUpdated))}">${escapeHtml(
+          formatRelative(project.lastUpdated)
+        )}</time>`,
+      best: projects.length > 1 ? project => project.id === freshest?.id : null
+    },
+    {
+      label: '标签',
+      cell: project => {
+        const tags = (project.tags || []).slice(0, 6);
+        if (!tags.length) return '<span class="cell-empty">—</span>';
+        return `<span class="cell-tags">${tags
+          .map(tag => `<button class="tag" type="button" data-action="tag" data-value="${attr(tag)}">${escapeHtml(tag)}</button>`)
+          .join('')}</span>`;
+      }
+    },
+    {
+      label: '描述',
+      cell: project => `<span class="cell-desc">${escapeHtml(project.description || '—')}</span>`
+    }
   ];
 
   els.main.innerHTML = `
@@ -1452,8 +1807,8 @@ function renderCompare() {
         <button class="export-button" type="button" data-action="export-compare">导出 Markdown</button>
       </div>
       <div class="compare-summary">
-        ${renderCompareSignal('最多 Stars', mostStars)}
-        ${renderCompareSignal('最近更新', freshest)}
+        ${renderCompareSignal('最多 Stars', mostStars, mostStars ? formatStars(mostStars.stars) : '')}
+        ${renderCompareSignal('最近更新', freshest, freshest ? formatRelative(freshest.lastUpdated) : '')}
       </div>
       <div class="table-wrap">
         <table class="compare-table">
@@ -1463,9 +1818,12 @@ function renderCompare() {
               ${projects
                 .map(
                   project => `
-                    <th>
-                      ${escapeHtml(project.name)}
-                      <button class="icon-button" type="button" data-action="remove-compare" data-id="${attr(project.id)}" aria-label="从对比中移除 ${attr(project.name)}">×</button>
+                    <th style="--cat-h:${categoryHue(project)}">
+                      <span class="compare-head">
+                        <span class="compare-badge" aria-hidden="true">${escapeHtml(projectMonogram(project))}</span>
+                        <button class="compare-name" type="button" data-action="detail" data-id="${attr(project.id)}">${escapeHtml(project.name)}</button>
+                        <button class="icon-button" type="button" data-action="remove-compare" data-id="${attr(project.id)}" aria-label="从对比中移除 ${attr(project.name)}">×</button>
+                      </span>
                     </th>
                   `
                 )
@@ -1475,10 +1833,12 @@ function renderCompare() {
           <tbody>
             ${rows
               .map(
-                ([label, getter]) => `
+                row => `
                   <tr>
-                    <th>${escapeHtml(label)}</th>
-                    ${projects.map(project => `<td>${escapeHtml(getter(project))}</td>`).join('')}
+                    <th>${escapeHtml(row.label)}</th>
+                    ${projects
+                      .map(project => `<td class="${row.best?.(project) ? 'is-best' : ''}">${row.cell(project)}</td>`)
+                      .join('')}
                   </tr>
                 `
               )
@@ -1490,12 +1850,19 @@ function renderCompare() {
   `;
 }
 
-function renderCompareSignal(label, project) {
+function renderCompareSignal(label, project, value) {
   if (!project) return '';
   return `
-    <button class="compare-signal" type="button" data-action="detail" data-id="${attr(project.id)}">
+    <button
+      class="compare-signal"
+      type="button"
+      data-action="detail"
+      data-id="${attr(project.id)}"
+      style="--cat-h:${categoryHue(project)}"
+    >
       <span>${escapeHtml(label)}</span>
       <strong>${escapeHtml(project.name)}</strong>
+      ${value ? `<em>${escapeHtml(value)}</em>` : ''}
     </button>
   `;
 }
@@ -1524,11 +1891,14 @@ function renderSaved() {
           <h2>收藏项目</h2>
           <p>${projects.length} 个项目。</p>
         </div>
-        ${projects.length ? '<button class="export-button" type="button" data-action="export-saved">导出 Markdown</button>' : ''}
+        <div class="section-tools">
+          ${renderViewToggle()}
+          ${projects.length ? '<button class="export-button" type="button" data-action="export-saved">导出 Markdown</button>' : ''}
+        </div>
       </div>
       ${
         projects.length
-          ? `<div class="project-grid">${projects.map(project => renderProjectCard(project)).join('')}</div>`
+          ? renderProjectList(projects, { showRank: true })
           : renderEmptyState('还没有收藏项目', '在项目卡片上点星标即可加入收藏。')
       }
     </section>
@@ -1542,7 +1912,7 @@ function renderSaved() {
       </div>
       ${
         recent.length
-          ? `<div class="project-grid">${recent.slice(0, 12).map(project => renderProjectCard(project)).join('')}</div>`
+          ? renderProjectList(recent.slice(0, 12), {})
           : renderEmptyState('暂无浏览记录', '打开任意项目详情后会显示在这里。')
       }
     </section>
@@ -1556,9 +1926,15 @@ function renderSaved() {
                 <h2>你可能还喜欢</h2>
               </div>
             </div>
-            <div class="project-grid">
-              ${continuation.map(item => renderProjectCard(item.project, { recommendationReason: item.reason })).join('')}
-            </div>
+            ${
+              state.view === 'card'
+                ? `<div class="project-grid">${continuation
+                    .map((item, index) => renderProjectCard(item.project, { recommendationReason: item.reason, index }))
+                    .join('')}</div>`
+                : `<div class="project-rows">${continuation
+                    .map((item, index) => renderProjectRow(item.project, { recommendationReason: item.reason, index }))
+                    .join('')}</div>`
+            }
           </section>
         `
         : ''
@@ -1604,7 +1980,8 @@ function renderDrawer() {
   const compared = state.compare.includes(id);
 
   els.drawer.innerHTML = `
-    <div class="drawer-header">
+    <div class="drawer-header" style="--cat-h:${categoryHue(detail)}">
+      <span class="drawer-badge" aria-hidden="true">${escapeHtml(projectMonogram(detail))}</span>
       <div>
         <span class="eyebrow">${escapeHtml(
           [detail.categoryIcon, detail.categoryCleanName || detail.categoryName, detail.subcategory].filter(Boolean).join(' / ')
@@ -1617,17 +1994,16 @@ function renderDrawer() {
     <p class="detail-summary">${escapeHtml(detail.description || 'No description')}</p>
 
     <div class="detail-actions">
-      <a class="action-button" href="${attr(detail.url)}" target="_blank" rel="noopener noreferrer">打开 GitHub</a>
+      <a class="action-button primary-action" href="${attr(detail.url)}" target="_blank" rel="noopener noreferrer">打开 GitHub</a>
       <button class="action-button ${saved ? 'is-active' : ''}" type="button" data-action="save" data-id="${attr(id)}">${saved ? '已收藏' : '收藏'}</button>
       <button class="action-button ${compared ? 'is-active' : ''}" type="button" data-action="compare" data-id="${attr(id)}">${compared ? '已加入对比' : '加入对比'}</button>
       <button class="action-button" type="button" data-action="copy-project" data-id="${attr(id)}">复制摘要</button>
     </div>
 
     <div class="signal-grid">
-      ${renderSignal('Stars', formatStars(detail.stars))}
-      ${renderSignal('更新', formatDate(detail.lastUpdated))}
-      ${renderSignal('分类', detail.categoryCleanName || detail.categoryName || '-')}
-      ${renderSignal('类型', detail.subcategory || '-')}
+      ${renderSignal('Stars', formatStars(detail.stars), { tier: starTier(detail.stars) })}
+      ${renderSignal('更新', formatRelative(detail.lastUpdated), { title: formatDate(detail.lastUpdated) })}
+      ${detail.owner && detail.repo ? renderSignal('仓库', `${detail.owner}/${detail.repo}`) : ''}
     </div>
 
     <section class="decision-panel">
@@ -1657,7 +2033,7 @@ function renderDrawer() {
       <div class="section-heading">
         <div>
           <h2>标签</h2>
-          <p>${escapeHtml(detail.owner || '')}/${escapeHtml(detail.repo || '')}</p>
+          <p>点击任意标签可回到列表按它筛选。</p>
         </div>
       </div>
       <div class="tag-row">
@@ -1684,10 +2060,20 @@ function renderDrawer() {
             ? relatedProjects
                 .map(
                   project => `
-                    <button class="related-item" type="button" data-action="detail" data-id="${attr(project.id)}">
-                      <strong>${escapeHtml(project.name)}</strong>
-                      <span>${escapeHtml(project.description || '')}</span>
-                      <small>${escapeHtml(buildRelatedReason(detail, project))}</small>
+                    <button
+                      class="related-item"
+                      type="button"
+                      data-action="detail"
+                      data-id="${attr(project.id)}"
+                      style="--cat-h:${categoryHue(project)}"
+                    >
+                      <span class="related-badge" aria-hidden="true">${escapeHtml(projectMonogram(project))}</span>
+                      <span class="related-copy">
+                        <strong>${escapeHtml(project.name)}</strong>
+                        <span>${escapeHtml(project.description || '')}</span>
+                        <small>${escapeHtml(buildRelatedReason(detail, project))}</small>
+                      </span>
+                      <span class="related-stars" data-tier="${attr(starTier(project.stars))}">${formatStars(project.stars)}</span>
                     </button>
                   `
                 )
@@ -1699,11 +2085,11 @@ function renderDrawer() {
   `;
 }
 
-function renderSignal(label, value) {
+function renderSignal(label, value, options = {}) {
   return `
-    <div class="signal">
+    <div class="signal"${options.title ? ` title="${attr(options.title)}"` : ''}>
       <span>${escapeHtml(label)}</span>
-      <strong>${escapeHtml(value)}</strong>
+      <strong${options.tier ? ` data-tier="${attr(options.tier)}"` : ''}>${escapeHtml(value)}</strong>
     </div>
   `;
 }
@@ -1854,7 +2240,10 @@ function removeCompare(id) {
 }
 
 function renderCompareTray() {
-  if (!state.compare.length || !state.catalog) {
+  // The compare page already exposes the same projects with remove controls.
+  // Keeping the fixed tray there duplicates the action and obscures most of the
+  // table on a phone, so reserve it for the discovery/list surfaces.
+  if (state.route === 'compare' || !state.compare.length || !state.catalog) {
     els.tray.hidden = true;
     return;
   }
@@ -1898,7 +2287,7 @@ function applySelectedTask() {
   state.freshness = 'all';
   state.stars = 'all';
   state.sort = lensToSort(state.lens);
-  setRoute('explore', { resultsStale: true, visible: 48 });
+  setRoute('explore', { resultsStale: true, visible: PAGE_SIZE, autoLoads: 0 });
 }
 
 function getTaskShortlist(task, lens = 'balanced', limit = 4) {
@@ -2260,6 +2649,64 @@ function formatStars(value) {
   if (stars >= 1000000) return `${(stars / 1000000).toFixed(1)}m`;
   if (stars >= 1000) return `${(stars / 1000).toFixed(1)}k`;
   return String(stars);
+}
+
+// Relative time scans far faster than an ISO-ish date when you are running your
+// eye down hundreds of rows. The exact date stays available via title="".
+function formatRelative(value) {
+  const time = dateMs(value);
+  if (!time) return '未知';
+  const days = daysSince(value);
+  if (days <= 0) return '今天';
+  if (days === 1) return '昨天';
+  if (days < 7) return `${days} 天前`;
+  if (days < 30) return `${Math.floor(days / 7)} 周前`;
+  if (days < 365) return `${Math.floor(days / 30)} 个月前`;
+  const years = Math.floor(days / 365);
+  return years >= 5 ? '5 年前+' : `${years} 年前`;
+}
+
+// Star counts span five orders of magnitude. Bucketing them lets the stylesheet
+// give the big ones more ink, which is what creates vertical rhythm in a list of
+// otherwise identical rows.
+function starTier(value) {
+  const stars = Number(value || 0);
+  if (stars >= 50000) return 'peak';
+  if (stars >= 10000) return 'high';
+  if (stars >= 1000) return 'mid';
+  return 'low';
+}
+
+// A deterministic 1-2 character mark gives every row something for the eye to
+// land on, without the 48 external avatar requests a real logo would cost.
+function projectMonogram(project) {
+  const source = String(project?.name || project?.repo || '?').replace(/^[^\p{L}\p{N}]+/u, '');
+  const compact = source.replace(/[^\p{L}\p{N}]/gu, '');
+  if (!compact) return '?';
+  // CJK glyphs already carry enough weight on their own at one character.
+  if (/[一-龥]/.test(compact[0])) return compact.slice(0, 1);
+  return compact.slice(0, 2).toLowerCase();
+}
+
+function categoryHue(project) {
+  return CATEGORY_HUES[project?.categoryId] ?? DEFAULT_HUE;
+}
+
+function readStoredView() {
+  try {
+    const stored = localStorage.getItem(STORE_KEYS.view);
+    return VIEW_MODES.has(stored) ? stored : 'list';
+  } catch (error) {
+    return 'list';
+  }
+}
+
+function writeStoredView(value) {
+  try {
+    localStorage.setItem(STORE_KEYS.view, value);
+  } catch (error) {
+    /* storage unavailable, keep in-memory only */
+  }
 }
 
 function formatNumber(value) {

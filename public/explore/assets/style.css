@@ -757,6 +757,297 @@ h1 {
   min-width: 0;
 }
 
+/* Category colour ------------------------------------------------------- */
+/* Every project surface carries --cat-h (a hue set inline from the category)
+   and derives its accents from it. One token per element keeps the palette
+   consistent between rows, cards, drawer and filter chips. */
+[style*="--cat-h"] {
+  --cat-line: hsl(var(--cat-h) 34% 62%);
+  --cat-ink: hsl(var(--cat-h) 46% 34%);
+  --cat-wash: hsl(var(--cat-h) 52% 95%);
+}
+
+@media (prefers-color-scheme: dark) {
+  [style*="--cat-h"] {
+    --cat-line: hsl(var(--cat-h) 30% 48%);
+    --cat-ink: hsl(var(--cat-h) 58% 76%);
+    --cat-wash: hsl(var(--cat-h) 34% 18%);
+  }
+}
+
+/* Row list -------------------------------------------------------------- */
+
+.project-rows {
+  display: grid;
+  gap: 0;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--surface);
+  overflow: hidden;
+}
+
+.project-row {
+  position: relative;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 4px;
+  align-items: center;
+  border-top: 1px solid color-mix(in srgb, var(--line) 62%, transparent);
+  padding-right: 10px;
+  content-visibility: auto;
+  contain-intrinsic-size: auto 74px;
+}
+
+.project-row:first-child {
+  border-top: 0;
+}
+
+/* The hue bar is the anchor that breaks a long list into readable groups.
+   It stays thin until hover so it reads as a margin rule, not a highlight. */
+.project-row::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 3px;
+  background: var(--cat-line, var(--line-strong));
+  opacity: 0.5;
+  transition:
+    width 160ms ease,
+    opacity 160ms ease;
+}
+
+.project-row:hover,
+.project-row:focus-within {
+  background: color-mix(in srgb, var(--cat-wash, var(--surface-strong)) 58%, var(--surface));
+}
+
+.project-row:hover::before,
+.project-row:focus-within::before {
+  width: 5px;
+  opacity: 1;
+}
+
+.row-main {
+  display: grid;
+  grid-template-columns: auto auto minmax(0, 1fr) auto;
+  gap: 12px;
+  align-items: center;
+  min-width: 0;
+  padding: 11px 12px 11px 15px;
+  border: 0;
+  background: none;
+  color: inherit;
+  cursor: pointer;
+  font: inherit;
+  text-align: left;
+}
+
+.row-rank {
+  min-width: 22px;
+  color: var(--ink-muted);
+  font-family: var(--mono);
+  font-size: 11px;
+  font-variant-numeric: tabular-nums;
+  text-align: right;
+}
+
+.row-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+  flex: 0 0 auto;
+  border: 1px solid color-mix(in srgb, var(--cat-line, var(--line)) 52%, transparent);
+  border-radius: 7px;
+  color: var(--cat-ink, var(--ink-soft));
+  background: var(--cat-wash, var(--surface-strong));
+  font-family: var(--mono);
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  text-transform: lowercase;
+}
+
+.row-copy {
+  display: grid;
+  gap: 2px;
+  min-width: 0;
+}
+
+.row-title {
+  display: flex;
+  gap: 8px;
+  align-items: baseline;
+  min-width: 0;
+}
+
+.row-title strong {
+  color: var(--ink);
+  font-family: var(--display);
+  font-size: 15px;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.project-row:hover .row-title strong {
+  color: var(--cat-ink, var(--ink));
+}
+
+.row-reason {
+  flex: 0 0 auto;
+  padding: 1px 6px;
+  border-radius: 999px;
+  color: var(--accent-strong);
+  background: var(--accent-soft);
+  font-family: var(--mono);
+  font-size: 10px;
+  font-style: normal;
+  white-space: nowrap;
+}
+
+.row-desc {
+  color: var(--ink-soft);
+  font-size: 12.5px;
+  line-height: 1.35;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.row-meta {
+  display: flex;
+  gap: 5px;
+  align-items: center;
+  color: var(--ink-muted);
+  font-family: var(--mono);
+  font-size: 10.5px;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.row-meta i {
+  font-style: normal;
+}
+
+.row-meta span {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.row-meta b {
+  color: var(--line-strong);
+  font-weight: 400;
+}
+
+.row-stars {
+  display: grid;
+  justify-items: end;
+  min-width: 54px;
+  font-family: var(--mono);
+}
+
+.row-stars strong {
+  color: var(--ink-soft);
+  font-size: 13px;
+  font-variant-numeric: tabular-nums;
+  font-weight: 500;
+}
+
+.row-stars small {
+  color: var(--ink-muted);
+  font-size: 9px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+/* Star count is the one number people scan for, so weight it by magnitude
+   instead of printing 300 and 90k at identical strength. */
+.row-stars[data-tier="peak"] strong,
+.card-stars[data-tier="peak"] {
+  color: var(--amber);
+  font-weight: 700;
+}
+
+.row-stars[data-tier="high"] strong,
+.card-stars[data-tier="high"] {
+  color: var(--ink);
+  font-weight: 600;
+}
+
+.row-stars[data-tier="low"] strong,
+.card-stars[data-tier="low"] {
+  color: var(--ink-muted);
+}
+
+.row-actions {
+  display: flex;
+  gap: 2px;
+  align-items: center;
+  flex: 0 0 auto;
+}
+
+.row-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+  border: 1px solid transparent;
+  border-radius: 6px;
+  background: none;
+  color: var(--ink-muted);
+  cursor: pointer;
+  font-size: 13px;
+  text-decoration: none;
+  transition:
+    border-color 140ms ease,
+    background 140ms ease,
+    color 140ms ease;
+}
+
+.row-icon:hover {
+  border-color: var(--line);
+  background: var(--surface-strong);
+  color: var(--ink);
+}
+
+.row-icon.is-active {
+  border-color: color-mix(in srgb, var(--amber) 42%, transparent);
+  background: var(--amber-soft);
+  color: var(--amber);
+}
+
+/* On pointer devices the controls stay out of the way until the row is
+   engaged — 3 buttons × 48 rows is what made the old list feel like a form. */
+@media (hover: hover) and (pointer: fine) {
+  .row-actions {
+    opacity: 0;
+    transition: opacity 140ms ease;
+  }
+
+  .project-row:hover .row-actions,
+  .project-row:focus-within .row-actions,
+  .row-actions:focus-within {
+    opacity: 1;
+  }
+
+  .row-icon.is-active {
+    opacity: 1;
+  }
+
+  .project-row:not(:hover):not(:focus-within) .row-actions:has(.is-active) {
+    opacity: 1;
+  }
+}
+
+/* Card grid ------------------------------------------------------------- */
+
 .project-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -770,26 +1061,44 @@ h1 {
 .project-card {
   position: relative;
   display: grid;
-  gap: 12px;
-  min-height: 212px;
-  padding: 16px;
+  grid-template-columns: minmax(0, 1fr);
+  grid-template-rows: auto auto 1fr auto;
+  gap: 11px;
+  min-width: 0;
+  min-height: 196px;
+  padding: 15px;
   border: 1px solid var(--line);
   border-radius: var(--radius);
   background: var(--surface);
   box-shadow: 0 1px 0 rgba(44, 35, 22, 0.04);
   overflow: hidden;
   content-visibility: auto;
-  contain-intrinsic-size: 320px;
+  /* Matched to the real rendered height; the old 320px estimate made the
+     scrollbar jump every time a card came into view. */
+  contain-intrinsic-size: auto 196px;
+  transition:
+    border-color 160ms ease,
+    box-shadow 160ms ease,
+    transform 160ms ease;
 }
 
 .project-card::before {
   content: "";
   position: absolute;
-  inset: 0;
-  border-top: 4px solid var(--accent);
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: var(--cat-line, var(--accent));
+  opacity: 0.55;
   pointer-events: none;
-  opacity: 0;
   transition: opacity 160ms ease;
+}
+
+.project-card:hover {
+  transform: translateY(-2px);
+  border-color: color-mix(in srgb, var(--cat-line, var(--line-strong)) 58%, var(--line));
+  box-shadow: 0 12px 28px rgba(44, 35, 22, 0.1);
 }
 
 .project-card:hover::before {
@@ -798,39 +1107,137 @@ h1 {
 
 .project-card header {
   display: grid;
-  grid-template-columns: 1fr auto;
+  grid-template-columns: auto minmax(0, 1fr) auto;
   gap: 10px;
   align-items: start;
+  min-width: 0;
+}
+
+.card-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 34px;
+  height: 34px;
+  flex: 0 0 auto;
+  border: 1px solid color-mix(in srgb, var(--cat-line, var(--line)) 52%, transparent);
+  border-radius: 8px;
+  color: var(--cat-ink, var(--ink-soft));
+  background: var(--cat-wash, var(--surface-strong));
+  font-family: var(--mono);
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  text-transform: lowercase;
+}
+
+.card-heading {
+  min-width: 0;
 }
 
 .eyebrow {
-  display: inline-flex;
-  gap: 6px;
+  display: flex;
+  gap: 5px;
   align-items: center;
   max-width: 100%;
   color: var(--ink-muted);
   font-family: var(--mono);
-  font-size: 11px;
+  font-size: 10.5px;
+}
+
+.eyebrow i {
+  flex: 0 0 auto;
+  font-style: normal;
+}
+
+.eyebrow span {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.card-save {
+  margin: -4px -4px 0 0;
 }
 
 .project-card h3 {
-  margin: 6px 0 0;
+  margin: 3px 0 0;
   color: var(--ink);
-  font-size: 17px;
+  font-size: 16px;
   line-height: 1.24;
-  overflow-wrap: anywhere;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .project-card p {
   display: -webkit-box;
-  min-height: 58px;
   margin: 0;
   color: var(--ink-soft);
-  font-size: 14px;
+  font-size: 13.5px;
   line-height: 1.42;
   overflow: hidden;
-  -webkit-line-clamp: 3;
+  -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
+}
+
+.card-foot {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 10px;
+  align-items: center;
+  justify-content: space-between;
+  min-width: 0;
+}
+
+.card-metrics {
+  display: flex;
+  gap: 6px;
+  align-items: baseline;
+  color: var(--ink-muted);
+  font-family: var(--mono);
+  font-size: 11px;
+  white-space: nowrap;
+}
+
+.card-metrics b {
+  color: var(--line-strong);
+  font-weight: 400;
+}
+
+.card-stars {
+  color: var(--ink-soft);
+  font-size: 13px;
+  font-variant-numeric: tabular-nums;
+}
+
+.card-stars small {
+  margin-left: 3px;
+  color: var(--ink-muted);
+  font-size: 9px;
+  font-weight: 400;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+/* One line only — a wrapping tag row would push card heights around and break
+   the grid rhythm. Chips shrink and ellipsize themselves so the row ends on a
+   whole chip instead of a sliced-off border. */
+.card-tags {
+  display: flex;
+  gap: 5px;
+  align-items: center;
+  min-width: 0;
+  overflow: hidden;
+}
+
+.card-tags .tag {
+  display: inline-block;
+  flex: 0 1 auto;
+  min-width: 0;
+  overflow: hidden;
+  line-height: 1.35;
+  text-overflow: ellipsis;
 }
 
 .recommendation-note {
@@ -865,13 +1272,6 @@ h1 {
   white-space: nowrap;
 }
 
-.metric-row {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 8px;
-  align-items: center;
-}
-
 .match-row {
   display: flex;
   flex-wrap: wrap;
@@ -879,43 +1279,28 @@ h1 {
   align-items: center;
 }
 
-.match-label {
-  color: var(--ink-muted);
-  font-family: var(--mono);
-  font-size: 11px;
-}
-
 .match-chip {
   display: inline-flex;
   align-items: center;
-  min-height: 24px;
-  padding: 4px 7px;
-  border: 1px dashed var(--line-strong);
+  min-height: 22px;
+  padding: 3px 7px;
+  border: 1px dashed color-mix(in srgb, var(--accent) 40%, transparent);
   border-radius: 999px;
   color: var(--accent-strong);
   background: var(--accent-soft);
   font-family: var(--mono);
-  font-size: 11px;
+  font-size: 10.5px;
 }
 
-.metric {
-  min-width: 0;
-  color: var(--ink-muted);
-  font-family: var(--mono);
-  font-size: 11px;
-}
-
-.metric strong {
-  display: block;
-  color: var(--ink);
-  font-size: 13px;
-}
-
+/* Wraps so a long "详情 / GitHub" pair drops to its own line in a narrow
+   column instead of overflowing the card's right edge. */
 .card-actions {
   display: flex;
+  flex-wrap: wrap;
   gap: 7px;
   align-items: center;
   justify-content: flex-end;
+  min-width: 0;
 }
 
 .icon-button,
@@ -1419,34 +1804,274 @@ button:disabled {
 }
 
 .chip {
-  padding: 7px 10px;
+  display: inline-flex;
+  gap: 6px;
+  align-items: center;
+  min-height: 32px;
+  padding: 6px 10px;
   color: var(--ink-soft);
-  font-size: 13px;
+  font-size: 12.5px;
   text-align: left;
 }
 
+.chip small {
+  color: var(--ink-muted);
+  font-family: var(--mono);
+  font-size: 10px;
+  font-variant-numeric: tabular-nums;
+}
+
+.chip.is-active small {
+  color: color-mix(in srgb, var(--accent-strong) 74%, transparent);
+}
+
+/* Category chips inherit the same hue as their rows and cards, so the sidebar
+   doubles as the legend for the colours in the list. */
+.chip-cat::before {
+  content: "";
+  width: 6px;
+  height: 6px;
+  flex: 0 0 auto;
+  border-radius: 999px;
+  background: var(--cat-line, var(--line-strong));
+}
+
+.chip-cat.is-active {
+  border-color: var(--cat-line, var(--accent));
+  color: var(--cat-ink, var(--accent-strong));
+  background: var(--cat-wash, var(--accent-soft));
+}
+
+.chip-more {
+  border-style: dashed;
+  color: var(--ink-muted);
+  font-family: var(--mono);
+  font-size: 11px;
+}
+
+.clear-chip {
+  justify-content: center;
+  color: var(--red);
+  font-family: var(--mono);
+  font-size: 11px;
+}
+
+/* Sticky so the result count, density toggle and sort stay reachable after
+   scrolling past the first screen of a 9k-row list. */
 .sort-bar {
+  position: sticky;
+  top: 72px;
+  z-index: 6;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
   gap: 12px;
   margin-bottom: 14px;
+  padding: 9px 0;
+  background: linear-gradient(var(--bg) 78%, transparent);
+}
+
+.sort-bar::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: -14px;
+  right: -14px;
+  z-index: -1;
+  background: var(--bg);
+}
+
+.sort-lead {
+  min-width: 0;
 }
 
 .sort-bar select {
-  min-height: 38px;
+  min-height: 36px;
   padding: 6px 10px;
   border: 1px solid var(--line);
   border-radius: var(--radius);
   background: var(--surface);
   color: var(--ink);
+  font-size: 12px;
 }
 
 .result-tools {
   display: flex;
   gap: 8px;
   align-items: center;
+  flex: 0 0 auto;
+}
+
+.view-toggle {
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 2px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--surface);
+}
+
+.view-option {
+  display: inline-flex;
+  gap: 5px;
+  align-items: center;
+  min-height: 30px;
+  padding: 5px 9px;
+  border: 0;
+  border-radius: 6px;
+  background: none;
+  color: var(--ink-muted);
+  cursor: pointer;
+  font-family: var(--mono);
+  font-size: 11px;
+  transition:
+    background 140ms ease,
+    color 140ms ease;
+}
+
+.view-option i {
+  font-size: 12px;
+  font-style: normal;
+}
+
+.view-option:hover {
+  color: var(--ink);
+}
+
+.view-option[aria-pressed="true"] {
+  color: var(--accent-strong);
+  background: var(--accent-soft);
+}
+
+.section-tools {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+/* Paging ---------------------------------------------------------------- */
+
+.load-zone {
+  display: grid;
+  gap: 9px;
+  justify-items: center;
+  margin-top: 18px;
+  padding: 4px 0 8px;
+}
+
+.load-progress {
+  width: min(260px, 100%);
+  height: 2px;
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--line) 70%, transparent);
+  overflow: hidden;
+}
+
+.load-progress span {
+  display: block;
+  height: 100%;
+  border-radius: 999px;
+  background: var(--accent);
+  transition: width 240ms ease;
+}
+
+.load-count,
+.load-done {
+  color: var(--ink-muted);
+  font-family: var(--mono);
+  font-size: 11px;
+}
+
+.load-more {
+  padding: 8px 16px;
+  color: var(--accent-strong);
+  font-family: var(--mono);
+  font-size: 12px;
+}
+
+/* Skeletons ------------------------------------------------------------- */
+
+.skeleton-rows {
+  display: grid;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--surface);
+  overflow: hidden;
+}
+
+.skeleton-row {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  gap: 12px;
+  align-items: center;
+  border-top: 1px solid color-mix(in srgb, var(--line) 62%, transparent);
+  padding: 13px 15px;
+}
+
+.skeleton-row:first-child {
+  border-top: 0;
+}
+
+.skeleton-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.skeleton-card {
+  min-height: 196px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--surface);
+}
+
+.skeleton-badge {
+  width: 30px;
+  height: 30px;
+  border-radius: 7px;
+}
+
+.skeleton-lines {
+  display: grid;
+  gap: 7px;
+}
+
+.skeleton-lines span {
+  height: 9px;
+  border-radius: 999px;
+}
+
+.skeleton-lines span:first-child {
+  width: 34%;
+}
+
+.skeleton-lines span:last-child {
+  width: 72%;
+}
+
+.skeleton-badge,
+.skeleton-lines span,
+.skeleton-card {
+  background: linear-gradient(
+    100deg,
+    color-mix(in srgb, var(--surface-muted) 52%, transparent) 20%,
+    color-mix(in srgb, var(--surface-muted) 88%, transparent) 42%,
+    color-mix(in srgb, var(--surface-muted) 52%, transparent) 64%
+  );
+  background-size: 220% 100%;
+  animation: skeleton-sweep 1.5s ease-in-out infinite;
+}
+
+@keyframes skeleton-sweep {
+  from {
+    background-position: 130% 0;
+  }
+  to {
+    background-position: -30% 0;
+  }
 }
 
 .filter-trigger {
@@ -1731,10 +2356,31 @@ button:disabled {
 
 .drawer-header {
   display: grid;
-  grid-template-columns: 1fr auto;
-  gap: 16px;
+  grid-template-columns: auto 1fr auto;
+  gap: 14px;
   align-items: start;
   margin-bottom: 18px;
+}
+
+/* Same monogram the row and card use, so arriving in the drawer from either
+   view reads as the same object rather than a new screen. */
+.drawer-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 46px;
+  height: 46px;
+  flex: 0 0 auto;
+  margin-top: 4px;
+  border: 1px solid color-mix(in srgb, var(--cat-line, var(--line)) 52%, transparent);
+  border-radius: 11px;
+  color: var(--cat-ink, var(--ink-soft));
+  background: var(--cat-wash, var(--surface-strong));
+  font-family: var(--mono);
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  text-transform: lowercase;
 }
 
 .drawer-header h2 {
@@ -1768,7 +2414,15 @@ button:disabled {
   margin: 18px 0;
 }
 
-.signal-grid,
+/* Three signals now, not four — 分类/类型 moved to the eyebrow where they were
+   already being printed. auto-fit keeps them evenly spread at any count. */
+.signal-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 12px;
+  margin: 18px 0;
+}
+
 .decision-grid,
 .compare-grid {
   display: grid;
@@ -1795,6 +2449,15 @@ button:disabled {
   display: block;
   margin-top: 6px;
   font-size: 22px;
+  overflow-wrap: anywhere;
+}
+
+.signal strong[data-tier="peak"] {
+  color: var(--amber);
+}
+
+.signal strong[data-tier="low"] {
+  color: var(--ink-soft);
 }
 
 .decision-panel {
@@ -1845,23 +2508,83 @@ button:disabled {
   gap: 10px;
 }
 
+/* Related items reuse the row grammar — hue rail, monogram, one-line copy,
+   star count on the right — so the drawer doesn't introduce a fourth way of
+   presenting a project. */
 .related-item {
+  position: relative;
   display: grid;
-  gap: 5px;
-  padding: 12px;
+  grid-template-columns: auto minmax(0, 1fr) auto;
+  gap: 11px;
+  align-items: center;
+  padding: 11px 12px 11px 14px;
   border: 1px solid var(--line);
   border-radius: var(--radius);
   background: var(--surface-strong);
   cursor: pointer;
+  text-align: left;
+  transition:
+    border-color 150ms ease,
+    background-color 150ms ease;
+}
+
+.related-item::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 3px;
+  border-radius: var(--radius) 0 0 var(--radius);
+  background: var(--cat-line, var(--line-strong));
+  opacity: 0.55;
+}
+
+.related-item:hover {
+  border-color: color-mix(in srgb, var(--cat-line, var(--line-strong)) 55%, var(--line));
+  background: var(--surface);
+}
+
+.related-item:hover::before {
+  opacity: 1;
+}
+
+.related-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  flex: 0 0 auto;
+  border: 1px solid color-mix(in srgb, var(--cat-line, var(--line)) 48%, transparent);
+  border-radius: 7px;
+  color: var(--cat-ink, var(--ink-soft));
+  background: var(--cat-wash, var(--surface));
+  font-family: var(--mono);
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: lowercase;
+}
+
+.related-copy {
+  display: grid;
+  gap: 3px;
+  min-width: 0;
 }
 
 .related-item strong {
-  overflow-wrap: anywhere;
+  overflow: hidden;
+  font-size: 14px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .related-item span {
+  overflow: hidden;
   color: var(--ink-muted);
-  font-size: 13px;
+  font-size: 12.5px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .related-item small {
@@ -1869,6 +2592,20 @@ button:disabled {
   font-family: var(--mono);
   font-size: 10px;
   line-height: 1.35;
+}
+
+.related-stars {
+  flex: 0 0 auto;
+  color: var(--ink-soft);
+  font-family: var(--mono);
+  font-size: 12px;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.related-stars[data-tier="peak"] {
+  color: var(--amber);
+  font-weight: 600;
 }
 
 .filter-sheet {
@@ -1990,20 +2727,40 @@ button:disabled {
 }
 
 .compare-signal {
+  position: relative;
   display: grid;
   gap: 5px;
   min-height: 72px;
-  padding: 12px;
+  padding: 12px 12px 12px 15px;
   border: 1px solid var(--line);
   border-radius: var(--radius);
   background: var(--surface);
   cursor: pointer;
   text-align: left;
+  transition:
+    border-color 150ms ease,
+    background-color 150ms ease;
+}
+
+.compare-signal::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 3px;
+  border-radius: var(--radius) 0 0 var(--radius);
+  background: var(--cat-line, var(--accent));
+  opacity: 0.6;
 }
 
 .compare-signal:hover {
   border-color: var(--accent);
   background: var(--accent-soft);
+}
+
+.compare-signal:hover::before {
+  opacity: 1;
 }
 
 .compare-signal span {
@@ -2014,6 +2771,14 @@ button:disabled {
 
 .compare-signal strong {
   overflow-wrap: anywhere;
+}
+
+.compare-signal em {
+  color: var(--ink-soft);
+  font-family: var(--mono);
+  font-size: 12px;
+  font-style: normal;
+  font-variant-numeric: tabular-nums;
 }
 
 .compare-table {
@@ -2034,6 +2799,134 @@ button:disabled {
   color: var(--ink-muted);
   font-family: var(--mono);
   font-size: 12px;
+}
+
+/* The field column stays put while the project columns scroll sideways —
+   without it you lose track of which row you are reading on a narrow screen. */
+.compare-table tbody th {
+  position: sticky;
+  left: 0;
+  z-index: 2;
+  width: 92px;
+  background: var(--surface-strong);
+  box-shadow: 1px 0 0 var(--line);
+  white-space: nowrap;
+}
+
+.compare-table thead th {
+  position: sticky;
+  top: 0;
+  z-index: 3;
+  border-bottom: 1px solid var(--line-strong);
+  background: var(--surface-strong);
+  vertical-align: middle;
+}
+
+.compare-table thead th:first-child {
+  left: 0;
+  z-index: 4;
+}
+
+.compare-head {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.compare-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 26px;
+  height: 26px;
+  flex: 0 0 auto;
+  border: 1px solid color-mix(in srgb, var(--cat-line, var(--line)) 48%, transparent);
+  border-radius: 7px;
+  color: var(--cat-ink, var(--ink-soft));
+  background: var(--cat-wash, var(--surface));
+  font-family: var(--mono);
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: lowercase;
+}
+
+.compare-name {
+  flex: 1 1 auto;
+  min-width: 0;
+  padding: 0;
+  border: 0;
+  background: none;
+  color: var(--ink);
+  cursor: pointer;
+  font-family: var(--display);
+  font-size: 15px;
+  overflow: hidden;
+  text-align: left;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.compare-name:hover {
+  color: var(--accent-strong);
+}
+
+/* The winning cell per row, so the table can be scanned by accent rather than
+   by reading every number. */
+.compare-table td.is-best {
+  background: var(--accent-soft);
+}
+
+.compare-table td.is-best .cell-num,
+.compare-table td.is-best time {
+  color: var(--accent-strong);
+  font-weight: 600;
+}
+
+.cell-num {
+  font-family: var(--mono);
+  font-size: 14px;
+  font-variant-numeric: tabular-nums;
+}
+
+.cell-num[data-tier="peak"] {
+  color: var(--amber);
+  font-weight: 600;
+}
+
+.compare-table time {
+  font-family: var(--mono);
+  font-size: 13px;
+}
+
+.cell-cat {
+  display: inline-block;
+  padding: 2px 7px;
+  border-radius: 999px;
+  color: var(--cat-ink, var(--ink-soft));
+  background: var(--cat-wash, var(--surface-strong));
+  font-family: var(--mono);
+  font-size: 11px;
+}
+
+.cell-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+
+.cell-desc {
+  display: -webkit-box;
+  max-width: 320px;
+  color: var(--ink-soft);
+  font-size: 13px;
+  line-height: 1.45;
+  overflow: hidden;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+}
+
+.cell-empty {
+  color: var(--ink-muted);
 }
 
 .compare-table tr:last-child td {
@@ -2173,11 +3066,16 @@ button:disabled {
 
   .project-grid,
   .project-grid.compact,
+  .skeleton-grid,
   .path-grid,
   .task-grid,
   .category-grid,
   .brief-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .sort-bar {
+    top: 8px;
   }
 
   .filter-panel {
@@ -2433,17 +3331,110 @@ button:disabled {
     flex: 0 0 auto;
   }
 
+  /* .signal-grid is intentionally absent — its auto-fit track already collapses
+     on its own and forcing 1fr here made three short numbers occupy three rows. */
   .project-grid,
   .project-grid.compact,
+  .skeleton-grid,
   .path-grid,
   .task-grid,
   .category-grid,
   .brief-grid,
-  .signal-grid,
   .decision-grid,
   .compare-summary,
   .compare-grid {
     grid-template-columns: 1fr;
+  }
+
+  .drawer-header {
+    gap: 11px;
+  }
+
+  .drawer-badge {
+    width: 38px;
+    height: 38px;
+    border-radius: 9px;
+    font-size: 15px;
+  }
+
+  .drawer-header h2 {
+    font-size: 26px;
+  }
+
+  .compare-table tbody th {
+    width: 72px;
+    padding: 10px 8px;
+    font-size: 11px;
+  }
+
+  .cell-desc {
+    max-width: 240px;
+  }
+
+  /* Rows carry the mobile list: description drops out, stars move under the
+     title, and the action buttons stay permanently visible for touch. */
+  .row-main {
+    grid-template-columns: auto minmax(0, 1fr);
+    gap: 10px;
+    padding: 10px 8px 10px 13px;
+  }
+
+  .row-rank {
+    display: none;
+  }
+
+  .row-desc {
+    display: none;
+  }
+
+  .row-title {
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+
+  .row-title strong {
+    font-size: 14.5px;
+  }
+
+  .row-main .row-stars {
+    display: none;
+  }
+
+  /* Category + subcategory both ellipsizing in ~150px produced "智. · Ag…".
+     Drop the subcategory and its separator so the category reads in full.
+     `b:has(+ span)` is only the cat/subcat divider, never the one before
+     <time>, so the line keeps its rhythm when there is no subcategory. */
+  .row-meta b:has(+ span),
+  .row-meta span:nth-of-type(2) {
+    display: none;
+  }
+
+  .row-meta::after {
+    content: "· ★" attr(data-stars);
+    flex: 0 0 auto;
+    color: var(--ink-soft);
+  }
+
+  .project-row {
+    contain-intrinsic-size: auto 62px;
+  }
+
+  .row-actions {
+    gap: 0;
+    opacity: 1;
+  }
+
+  .row-icon {
+    width: 34px;
+    height: 34px;
+  }
+
+  .view-option span {
+    display: none;
+  }
+
+  .view-option {
+    padding: 5px 10px;
   }
 
   .brief-header {
@@ -2455,13 +3446,37 @@ button:disabled {
     justify-content: flex-start;
   }
 
-  .metric-row {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
+  .compare-tray {
+    right: 8px;
+    bottom: max(8px, env(safe-area-inset-bottom));
+    left: 8px;
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: 8px;
+    align-items: center;
+    padding: 8px;
   }
 
-  .compare-tray {
-    align-items: stretch;
-    flex-direction: column;
+  .tray-items {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    padding-bottom: 2px;
+    scrollbar-width: none;
+  }
+
+  .tray-items::-webkit-scrollbar {
+    display: none;
+  }
+
+  .tray-pill {
+    flex: 0 0 auto;
+    max-width: 148px;
+    padding: 5px 7px;
+  }
+
+  .compare-tray > .action-button {
+    min-height: 38px;
+    white-space: nowrap;
   }
 
   .result-tools {
@@ -2496,6 +3511,27 @@ button:disabled {
 
   .footer-github b {
     display: none;
+  }
+}
+
+/* A short stagger on entry makes a fresh page of results read as arriving
+   content rather than a wall that was always there. Capped at 24 in JS. */
+@media (prefers-reduced-motion: no-preference) {
+  .project-row,
+  .project-card {
+    animation: item-in 260ms ease both;
+    animation-delay: calc(var(--i, 0) * 14ms);
+  }
+}
+
+@keyframes item-in {
+  from {
+    opacity: 0;
+    transform: translateY(4px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
   }
 }
 
