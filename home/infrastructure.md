@@ -2932,9 +2932,9 @@ PyTorch神经网络量化库，支持PTQ和QAT量化方法，优化模型在FPGA
 
 Intel开源的高精度LLM量化工具包，支持MXFP4、NVFP4、GGUF等多种格式，以精度优先设计最大限度减少量化损失。
 
-- **Stars:** ⭐️ 1.5k
+- **Stars:** ⭐️ 1.6k
 - **Tags:** `量化` `LLM` `Intel`
-- **最后活动时间:** 2026-07-31
+- **最后活动时间:** 2026-08-04
 
 ### [nvidia_gpu_exporter](https://github.com/utkuozdemir/nvidia_gpu_exporter)
 
@@ -4406,9 +4406,9 @@ AI计算引擎，提供分布式运行时和AI库加速机器学习工作负载�
 
 多提供商LLM智能网关，提供OpenAI兼容接口，支持智能路由、负载均衡、重试回退、策略限流和可观测性功能。
 
-- **Stars:** ⭐️ 37.3k
+- **Stars:** ⭐️ 39.7k
 - **Tags:** `LLM Gateway` `Model Routing` `Rate Limiting`
-- **最后活动时间:** 2026-08-02
+- **最后活动时间:** 2026-08-05
 
 ### [gym](https://github.com/openai/gym)
 
@@ -4952,7 +4952,7 @@ IBM开源量子计算SDK，支持量子电路、算子和原语级别的编程�
 
 - **Stars:** ⭐️ 7.5k
 - **Tags:** `autograd` `automatic-differentiation` `deep-learning` `numpy` `neural-network`
-- **最后活动时间:** 2026-08-02
+- **最后活动时间:** 2026-08-03
 
 ### [h2o-3](https://github.com/h2oai/h2o-3)
 
@@ -6376,7 +6376,7 @@ Go语言编写的Ollama模型管理工具，支持模型查看、删除等操作
 
 - **Stars:** ⭐️ 1.8k
 - **Tags:** `deep-learning` `pytorch` `scalable`
-- **最后活动时间:** 2026-08-02
+- **最后活动时间:** 2026-08-03
 
 ### [sonar](https://github.com/dphnAI/sonar)
 

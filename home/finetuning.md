@@ -1960,7 +1960,7 @@ AWS开源的AutoML框架，仅需3行代码即可实现快速准确的机器学�
 
 - **Stars:** ⭐️ 10.6k
 - **Tags:** `AutoML` `Deep Learning` `PyTorch`
-- **最后活动时间:** 2026-08-01
+- **最后活动时间:** 2026-08-04
 
 ### [ART](https://github.com/OpenPipe/ART)
 
@@ -2882,6 +2882,14 @@ Julia语言的统一数学优化接口，支持局部/全局优化、凸优化�
 - **Tags:** `deepseek` `llm` `lora` `fine-tuning` `memory-injection` `pytorch`
 - **最后活动时间:** 2026-05-21
 
+### [Automodel](https://github.com/NVIDIA-NeMo/Automodel)
+
+PyTorch原生分布式训练库，专为LLM/VLM设计，开箱即用支持Hugging Face生态。
+
+- **Stars:** ⭐️ 794
+- **Tags:** `llm` `finetuning` `pytorch` `distributed-training` `vlm`
+- **最后活动时间:** 2026-08-05
+
 ### [doc-to-lora](https://github.com/SakanaAI/doc-to-lora)
 
 使用超网络让LLM记忆事实信息的创新方法，通过LoRA实现知识更新。
@@ -2905,14 +2913,6 @@ Julia语言的统一数学优化接口，支持局部/全局优化、凸优化�
 - **Stars:** ⭐️ 788
 - **Tags:** `geospatial` `foundation-models` `deep-learning` `earth-observation` `pytorch`
 - **最后活动时间:** 2026-05-04
-
-### [Automodel](https://github.com/NVIDIA-NeMo/Automodel)
-
-PyTorch原生分布式训练库，专为LLM/VLM设计，开箱即用支持Hugging Face生态。
-
-- **Stars:** ⭐️ 786
-- **Tags:** `llm` `finetuning` `pytorch` `distributed-training` `vlm`
-- **最后活动时间:** 2026-08-02
 
 ### [sparsify](https://github.com/EleutherAI/sparsify)
 

@@ -1288,7 +1288,7 @@ Hugging Face推出的机器人AI框架，通过端到端学习让机器人技术
 
 - **Stars:** ⭐️ 12.3k
 - **Tags:** `drone` `autopilot` `uav` `mavlink` `px4` `ros`
-- **最后活动时间:** 2026-08-04
+- **最后活动时间:** 2026-08-05
 
 ### [autoware](https://github.com/autowarefoundation/autoware)
 
@@ -2056,7 +2056,7 @@ ROS IMU性能分析工具，用于惯性测量单元标定和Allan方差分析�
 
 - **Stars:** ⭐️ 1.7k
 - **Tags:** `autonomous-driving` `autonomous-vehicles` `self-driving-car` `ros2`
-- **最后活动时间:** 2026-08-01
+- **最后活动时间:** 2026-08-04
 
 ### [lingbot-va](https://github.com/Robbyant/lingbot-va)
 
@@ -3810,6 +3810,14 @@ PyBullet机器人仿真原型库，包含F1赛车、Sawyer、Atlas等多种机�
 - **Tags:** `reinforcement-learning` `robotics` `unitree` `mujoco`
 - **最后活动时间:** 2026-04-13
 
+### [aerial-autonomy-stack](https://github.com/JacopoPan/aerial-autonomy-stack)
+
+一个用于模拟和部署基于感知的PX4/ArduPilot无人机集群的开源框架，集成了ROS2、YOLO和LiDAR。
+
+- **Stars:** ⭐️ 551
+- **Tags:** `drones` `ros2` `yolo` `lidar` `swarm` `simulation`
+- **最后活动时间:** 2026-08-04
+
 ### [Starmoon](https://github.com/StarmoonAI/Starmoon)
 
 对话式AI机器人软硬件框架，支持陪伴、教育、医疗等应用场景，集成LLM、语音识别与合成。
@@ -3825,14 +3833,6 @@ PyBullet机器人仿真原型库，包含F1赛车、Sawyer、Atlas等多种机�
 - **Stars:** ⭐️ 549
 - **Tags:** `ardupilot` `autopilot` `ground-control-station` `robotics` `uav`
 - **最后活动时间:** 2026-04-18
-
-### [aerial-autonomy-stack](https://github.com/JacopoPan/aerial-autonomy-stack)
-
-一个用于模拟和部署基于感知的PX4/ArduPilot无人机集群的开源框架，集成了ROS2、YOLO和LiDAR。
-
-- **Stars:** ⭐️ 549
-- **Tags:** `drones` `ros2` `yolo` `lidar` `swarm` `simulation`
-- **最后活动时间:** 2026-08-01
 
 ### [quadruped_ros2_control](https://github.com/legubiao/quadruped_ros2_control)
 

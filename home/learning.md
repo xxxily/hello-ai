@@ -1134,6 +1134,14 @@ IEEE TCSVT收录的视频理解大模型资源汇总，包含最新论文、代�
 - **Tags:** `awesome-list` `video-understanding` `llm` `research`
 - **最后活动时间:** 2026-06-13
 
+### [Auto-Empirical-Research-Skills](https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills)
+
+精选23000+覆盖8大社会科学学科的AI Agent技能库，助力快速生成可复现的实证论文。
+
+- **Stars:** ⭐️ 3.2k
+- **Tags:** `agent-skills` `academic-research` `empirical-research` `awesome-list` `social-science`
+- **最后活动时间:** 2026-08-04
+
 ### [buildwithclaude](https://github.com/davepoon/buildwithclaude)
 
 Claude生态资源聚合中心，汇集Skills、Agents、MCP工具等扩展资源。
@@ -1141,14 +1149,6 @@ Claude生态资源聚合中心，汇集Skills、Agents、MCP工具等扩展资�
 - **Stars:** ⭐️ 3.2k
 - **Tags:** `Claude` `MCP` `Resource-Collection`
 - **最后活动时间:** 2026-07-30
-
-### [Auto-Empirical-Research-Skills](https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills)
-
-精选23000+覆盖8大社会科学学科的AI Agent技能库，助力快速生成可复现的实证论文。
-
-- **Stars:** ⭐️ 3.2k
-- **Tags:** `agent-skills` `academic-research` `empirical-research` `awesome-list` `social-science`
-- **最后活动时间:** 2026-08-01
 
 ### [TSFpaper](https://github.com/ddz16/TSFpaper)
 

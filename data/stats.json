@@ -1,6 +1,6 @@
 {
-  "totalProjects": 11045,
-  "totalRawProjects": 21782,
+  "totalProjects": 11047,
+  "totalRawProjects": 21784,
   "recencyThresholdMonths": 6,
   "categories": {
     "trending": {
@@ -15,8 +15,8 @@
     },
     "agents": {
       "name": "🤖 智能体与编排",
-      "count": 1856,
-      "rawCount": 2274
+      "count": 1858,
+      "rawCount": 2276
     },
     "rag_data": {
       "name": "🔍 RAG与检索",
@@ -69,5 +69,5 @@
       "rawCount": 462
     }
   },
-  "lastUpdated": "2026-08-05T01:08:21.129Z"
+  "lastUpdated": "2026-08-05T01:57:05.798Z"
 }

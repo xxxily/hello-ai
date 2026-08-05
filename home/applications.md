@@ -8348,6 +8348,14 @@ Markdown排版助手，一键适配微信公众号、网页与图片，支持MCP
 - **Tags:** `youtube` `gemini` `transcript`
 - **最后活动时间:** 2026-02-17
 
+### [claude-skill-social-post](https://github.com/Hao0321/claude-skill-social-post)
+
+一款Claude Code技能插件，能够学习用户的Facebook风格并自动生成14天的社交媒体内容日历。支持自动发布到FB、IG、Threads和X等多个平台。
+
+- **Stars:** ⭐️ 577
+- **Tags:** `ai-agent` `claude-code` `claude-skill` `social-media` `content-calendar`
+- **最后活动时间:** 2026-08-04
+
 ### [android-ocr](https://github.com/SubhamTyagi/android-ocr)
 
 基于Tesseract的Android OCR应用，支持图像文字识别与读取。
@@ -8355,14 +8363,6 @@ Markdown排版助手，一键适配微信公众号、网页与图片，支持MCP
 - **Stars:** ⭐️ 575
 - **Tags:** `ocr` `android` `tesseract` `mobile`
 - **最后活动时间:** 2026-07-31
-
-### [claude-skill-social-post](https://github.com/Hao0321/claude-skill-social-post)
-
-一款Claude Code技能插件，能够学习用户的Facebook风格并自动生成14天的社交媒体内容日历。支持自动发布到FB、IG、Threads和X等多个平台。
-
-- **Stars:** ⭐️ 573
-- **Tags:** `ai-agent` `claude-code` `claude-skill` `social-media` `content-calendar`
-- **最后活动时间:** 2026-07-22
 
 ### [PaperMemory](https://github.com/vict0rsch/PaperMemory)
 
