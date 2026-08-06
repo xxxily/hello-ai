@@ -1,3 +1,24 @@
 {
-  "queue": []
+  "queue": [
+    {
+      "name": "stream-chat-react-native",
+      "html_url": "https://github.com/GetStream/stream-chat-react-native",
+      "description": "💬 React-Native Chat SDK ➜ Stream Chat. Includes a tutorial on building your own chat app experience using React-Native, React-Navigation and Stream",
+      "topics": [
+        "chat",
+        "chat-api",
+        "chat-app",
+        "chat-application",
+        "chat-sdk",
+        "messaging-app",
+        "react-native",
+        "react-native-app",
+        "react-native-chat",
+        "react-native-component"
+      ],
+      "stargazers_count": 1174,
+      "pushed_at": "2026-08-06T07:39:40Z",
+      "added_to_queue": "2026-08-06T14:06:31.368Z"
+    }
+  ]
 }

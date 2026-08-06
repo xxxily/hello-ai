@@ -2,7 +2,7 @@
 
 > Core large language models and foundation models.
 
-> 当前分类已收录 **153** 个相关项目。
+> 当前分类已收录 **152** 个相关项目。
 
 ## Foundation Models
 
@@ -10,7 +10,7 @@
 
 基因组学和转录组学基础模型，利用Transformer架构理解DNA序列，推动生物信息学AI应用。
 
-- **Stars:** ⭐️ 902
+- **Stars:** ⭐️ 905
 - **Tags:** `foundation-models` `genomics` `transformer` `deep-learning` `dna`
 - **最后活动时间:** 2026-02-24
 
@@ -20,9 +20,9 @@
 
 Hugging Face官方深度学习模型框架，支持文本、视觉、音频和多模态模型的推理与训练，提供数千个预训练模型API。
 
-- **Stars:** ⭐️ 163.2k
+- **Stars:** ⭐️ 163.4k
 - **Tags:** `PyTorch` `Transformers` `预训练模型`
-- **最后活动时间:** 2026-08-01
+- **最后活动时间:** 2026-08-06
 
 ### [minimind](https://github.com/jingyaogong/minimind)
 
@@ -182,7 +182,7 @@ BitNet论文的PyTorch实现，探索1-bit量化Transformer在大语言模型中
 
 - **Stars:** ⭐️ 1.9k
 - **Tags:** `artificial-intelligence` `deep-neural-networks` `transformers` `quantization` `pytorch`
-- **最后活动时间:** 2026-07-27
+- **最后活动时间:** 2026-08-03
 
 ### [symbolicai](https://github.com/ExtensityAI/symbolicai)
 
@@ -400,14 +400,6 @@ RoFormer论文中旋转位置编码的PyTorch实现，提升Transformer位置表
 - **Tags:** `protein-generation` `language-model` `bioinformatics` `generative-ai`
 - **最后活动时间:** 2026-06-02
 
-### [recurrentgemma](https://github.com/google-deepmind/recurrentgemma)
-
-基于Griffin架构的开源语言模型，结合循环神经网络实现高效推理。
-
-- **Stars:** ⭐️ 683
-- **Tags:** `LLM` `Recurrent` `Griffin`
-- **最后活动时间:** 2026-02-06
-
 ### [WeDLM](https://github.com/Tencent/WeDLM)
 
 最快的扩散语言模型，采用标准因果注意力机制并原生支持KV缓存，相比vLLM优化基线实现真正的加速效果。
@@ -487,14 +479,6 @@ Julia语言实现的Transformer模型库，基于Flux深度学习框架。
 - **Stars:** ⭐️ 566
 - **Tags:** `jepa` `representation-learning` `self-supervised` `vision`
 - **最后活动时间:** 2026-04-15
-
-### [treequest](https://github.com/SakanaAI/treequest)
-
-灵活API的树搜索库，专为LLM推理时扩展设计，支持多种搜索策略。
-
-- **Stars:** ⭐️ 557
-- **Tags:** `tree-search` `llm-inference` `inference-scaling` `search-algorithms`
-- **最后活动时间:** 2026-02-05
 
 ### [toto](https://github.com/DataDog/toto)
 
@@ -681,6 +665,14 @@ DeepMind AlphaFold 3蛋白质结构预测模型的推理管道，用于生物分
 - **Stars:** ⭐️ 7.1k
 - **Tags:** `中文大模型` `LLaMA-2` `长上下文`
 - **最后活动时间:** 2026-04-19
+
+### [GLM-4](https://github.com/zai-org/GLM-4)
+
+智谱AI开源的GLM-4系列多语言多模态对话大模型，支持文本、图像等多种模态输入。
+
+- **Stars:** ⭐️ 7.1k
+- **Tags:** `ChatGLM` `GLM-4` `Multimodal` `LLM`
+- **最后活动时间:** 2026-08-05
 
 ### [GLM-5](https://github.com/zai-org/GLM-5)
 
@@ -882,14 +874,6 @@ Elixir语言的预训练神经网络模型库，集成Hugging Face模型，支�
 - **Tags:** `single-cell` `foundation-model` `bioinformatics` `llm`
 - **最后活动时间:** 2026-04-29
 
-### [Marco-o1](https://github.com/AIDC-AI/Marco-o1)
-
-面向现实世界解决方案的开放大型推理模型。
-
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `llm` `reasoning-model` `open-source`
-- **最后活动时间:** 2026-02-13
-
 ### [VibeThinker](https://github.com/WeiboAI/VibeThinker)
 
 仅1.5B参数的小型推理模型，通过多样性驱动优化实现大模型级别的推理能力，在数学和编程基准测试中表现优异。
@@ -897,6 +881,14 @@ Elixir语言的预训练神经网络模型库，集成Hugging Face模型，支�
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `Reasoning Model` `Small LLM` `Open Source`
 - **最后活动时间:** 2026-06-17
+
+### [Marco-o1](https://github.com/AIDC-AI/Marco-o1)
+
+面向现实世界解决方案的开放大型推理模型。
+
+- **Stars:** ⭐️ 1.5k
+- **Tags:** `llm` `reasoning-model` `open-source`
+- **最后活动时间:** 2026-02-13
 
 ### [evo](https://github.com/evo-design/evo)
 
@@ -926,7 +918,7 @@ Elixir语言的预训练神经网络模型库，集成Hugging Face模型，支�
 
 最先进的表格数据基础模型，为结构化数据提供强大的深度学习能力。
 
-- **Stars:** ⭐️ 1.2k
+- **Stars:** ⭐️ 1.3k
 - **Tags:** `deep-learning` `foundation-models` `tabular-data` `machine-learning`
 - **最后活动时间:** 2026-07-06
 
@@ -1006,9 +998,17 @@ MiniGPT-4中文部署指南与翻译，完善了本地化部署细节。
 
 开源神经机器翻译模型和Web服务，支持多语言翻译。
 
-- **Stars:** ⭐️ 838
+- **Stars:** ⭐️ 840
 - **Tags:** `machine-translation` `nlp` `neural-machine-translation` `translation`
 - **最后活动时间:** 2026-02-23
+
+### [openfold-3](https://github.com/aqlaboratory/openfold-3)
+
+基于AlphaFold3的完全开源生物分子结构预测模型，用于蛋白质和分子结构的高精度预测。
+
+- **Stars:** ⭐️ 813
+- **Tags:** `alphafold` `protein-folding` `biomolecular` `deep-learning` `structural-biology`
+- **最后活动时间:** 2026-08-05
 
 ### [PhoBERT](https://github.com/VinAIResearch/PhoBERT)
 
@@ -1026,14 +1026,6 @@ Meta AI Research的代码生成模型工具包，包含预训练模型和完整�
 - **Tags:** `code-generation` `llm` `facebook-research`
 - **最后活动时间:** 2026-03-12
 
-### [openfold-3](https://github.com/aqlaboratory/openfold-3)
-
-基于AlphaFold3的完全开源生物分子结构预测模型，用于蛋白质和分子结构的高精度预测。
-
-- **Stars:** ⭐️ 775
-- **Tags:** `alphafold` `protein-folding` `biomolecular` `deep-learning` `structural-biology`
-- **最后活动时间:** 2026-07-05
-
 ### [mlx-swift-lm](https://github.com/ml-explore/mlx-swift-lm)
 
 基于Apple MLX框架的Swift语言大语言模型和视觉语言模型实现。
@@ -1046,7 +1038,7 @@ Meta AI Research的代码生成模型工具包，包含预训练模型和完整�
 
 Falcon-Perception 和 Falcon-OCR 模型的推理仓库，支持早期融合的原生多模态密集自回归 Transformer 模型。
 
-- **Stars:** ⭐️ 741
+- **Stars:** ⭐️ 743
 - **Tags:** `transformer` `multimodal` `ocr` `perception` `inference`
 - **最后活动时间:** 2026-07-14
 

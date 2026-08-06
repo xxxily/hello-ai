@@ -8,9 +8,9 @@
 
 汇集各类免费API的精选列表，包含多个AI和机器学习相关的API资源，是开发者寻找集成接口的实用参考。
 
-- **Stars:** ⭐️ 454.0k
+- **Stars:** ⭐️ 454.6k
 - **Tags:** `api` `public-apis` `free` `list`
-- **最后活动时间:** 2026-07-25
+- **最后活动时间:** 2026-08-05
 
 ## [openclaw](https://github.com/openclaw/openclaw)
 
@@ -44,6 +44,14 @@ AI Agent性能优化框架，为Claude Code、Codex、Cursor等编程智能体�
 - **Tags:** `AI Agent` `LLM` `Claude` `ChatGPT`
 - **最后活动时间:** 2026-08-02
 
+## [n8n](https://github.com/n8n-io/n8n)
+
+开源工作流自动化平台，原生支持AI能力和MCP协议，支持400+集成，可自托管或云端部署。
+
+- **Stars:** ⭐️ 199.5k
+- **Tags:** `工作流自动化` `低代码` `AI集成` `MCP`
+- **最后活动时间:** 2026-08-06
+
 ## [skills](https://github.com/mattpocock/skills)
 
 微软官方.NET技能库，为AI编程助手提供专业的C#代码生成与最佳实践指导能力。
@@ -51,14 +59,6 @@ AI Agent性能优化框架，为Claude Code、Codex、Cursor等编程智能体�
 - **Stars:** ⭐️ 199.2k
 - **Tags:** `Microsoft` `.NET` `AI Coding Agent`
 - **最后活动时间:** 2026-07-31
-
-## [n8n](https://github.com/n8n-io/n8n)
-
-开源工作流自动化平台，原生支持AI能力和MCP协议，支持400+集成，可自托管或云端部署。
-
-- **Stars:** ⭐️ 199.0k
-- **Tags:** `工作流自动化` `低代码` `AI集成` `MCP`
-- **最后活动时间:** 2026-08-02
 
 ## [tensorflow](https://github.com/tensorflow/tensorflow)
 
@@ -104,7 +104,7 @@ JavaScript算法与数据结构实现集合，包含详细解释和延伸阅读�
 
 轻量级本地大模型运行工具，支持Llama、Qwen、DeepSeek等多种开源模型，一键部署即开即用。
 
-- **Stars:** ⭐️ 177.8k
+- **Stars:** ⭐️ 177.9k
 - **Tags:** `LLM` `Local Deployment` `Model Inference`
 - **最后活动时间:** 2026-08-05
 
@@ -152,9 +152,9 @@ Agent Skills 公共仓库，提供智能体技能模块的集合与共享。
 
 Hugging Face官方深度学习模型框架，支持文本、视觉、音频和多模态模型的推理与训练，提供数千个预训练模型API。
 
-- **Stars:** ⭐️ 163.2k
+- **Stars:** ⭐️ 163.4k
 - **Tags:** `PyTorch` `Transformers` `预训练模型`
-- **最后活动时间:** 2026-08-01
+- **最后活动时间:** 2026-08-06
 
 ## [firecrawl](https://github.com/firecrawl/firecrawl)
 
@@ -192,9 +192,9 @@ Java面试与后端开发指南，涵盖AI应用开发、Agent、MCP等前沿技
 
 功能强大的自托管AI Web界面，支持Ollama、OpenAI等多种LLM后端，内置RAG和MCP功能。
 
-- **Stars:** ⭐️ 147.6k
+- **Stars:** ⭐️ 147.9k
 - **Tags:** `LLM` `WebUI` `RAG` `Ollama`
-- **最后活动时间:** 2026-08-01
+- **最后活动时间:** 2026-08-05
 
 ## [LangChain](https://github.com/langchain-ai/langchain)
 
