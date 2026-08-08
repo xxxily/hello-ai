@@ -23,8 +23,8 @@ describe('PROVIDER_PRESETS', () => {
     expect(PROVIDER_PRESETS.minimax.baseUrl).toBe('https://api.minimax.io/v1');
   });
 
-  it('minimax preset should default to MiniMax-M2.5 model', () => {
-    expect(PROVIDER_PRESETS.minimax.defaultModel).toBe('MiniMax-M2.5');
+  it('minimax preset should default to MiniMax-M3 model', () => {
+    expect(PROVIDER_PRESETS.minimax.defaultModel).toBe('MiniMax-M3');
   });
 
   it('minimax preset should have temperature range [0, 1]', () => {
@@ -32,9 +32,8 @@ describe('PROVIDER_PRESETS', () => {
   });
 
   it('minimax preset should list available models', () => {
+    expect(PROVIDER_PRESETS.minimax.models).toContain('MiniMax-M3');
     expect(PROVIDER_PRESETS.minimax.models).toContain('MiniMax-M2.7');
-    expect(PROVIDER_PRESETS.minimax.models).toContain('MiniMax-M2.5');
-    expect(PROVIDER_PRESETS.minimax.models).toContain('MiniMax-M2.5-highspeed');
   });
 
   it('minimax preset should use MINIMAX_API_KEY env var', () => {
@@ -157,7 +156,7 @@ describe('resolveLLMConfig', () => {
     const config = resolveLLMConfig();
     expect(config.provider).toBe('minimax');
     expect(config.baseUrl).toBe('https://api.minimax.io/v1');
-    expect(config.model).toBe('MiniMax-M2.5');
+    expect(config.model).toBe('MiniMax-M3');
   });
 
   it('should use provider-specific env key when LLM_API_KEY is empty', () => {
@@ -201,7 +200,7 @@ describe('resolveLLMConfig', () => {
 /* ------------------------------------------------------------------ */
 describe('buildRequestBody', () => {
   it('should clamp temperature for minimax provider', () => {
-    const body = buildRequestBody('minimax', 'MiniMax-M2.5', [], {
+    const body = buildRequestBody('minimax', 'MiniMax-M3', [], {
       temperature: 1.5,
     });
     expect(body.temperature).toBe(1);
@@ -215,26 +214,26 @@ describe('buildRequestBody', () => {
   });
 
   it('should include response_format when provided', () => {
-    const body = buildRequestBody('minimax', 'MiniMax-M2.5', [], {
+    const body = buildRequestBody('minimax', 'MiniMax-M3', [], {
       responseFormat: { type: 'json_object' },
     });
     expect(body.response_format).toEqual({ type: 'json_object' });
   });
 
   it('should not include response_format when not provided', () => {
-    const body = buildRequestBody('minimax', 'MiniMax-M2.5', []);
+    const body = buildRequestBody('minimax', 'MiniMax-M3', []);
     expect(body).not.toHaveProperty('response_format');
   });
 
   it('should set model and messages correctly', () => {
     const msgs = [{ role: 'user', content: 'Hello' }];
-    const body = buildRequestBody('minimax', 'MiniMax-M2.5', msgs);
-    expect(body.model).toBe('MiniMax-M2.5');
+    const body = buildRequestBody('minimax', 'MiniMax-M3', msgs);
+    expect(body.model).toBe('MiniMax-M3');
     expect(body.messages).toBe(msgs);
   });
 
   it('should default temperature to 0.1 when not specified', () => {
-    const body = buildRequestBody('minimax', 'MiniMax-M2.5', []);
+    const body = buildRequestBody('minimax', 'MiniMax-M3', []);
     expect(body.temperature).toBe(0.1);
   });
 });

@@ -43,7 +43,7 @@ describe('Integration: provider config resolution', () => {
       responseFormat: { type: 'json_object' },
     });
 
-    expect(body.model).toBe('MiniMax-M2.5');
+    expect(body.model).toBe('MiniMax-M3');
     expect(body.temperature).toBe(0.1);
     expect(body.response_format).toEqual({ type: 'json_object' });
     expect(body.messages).toHaveLength(2);
@@ -59,7 +59,7 @@ describe('Integration: provider config resolution', () => {
     const config = resolveLLMConfig();
     expect(config.provider).toBe('minimax');
     expect(config.baseUrl).toBe('https://api.minimax.io/v1');
-    expect(config.model).toBe('MiniMax-M2.5');
+    expect(config.model).toBe('MiniMax-M3');
     expect(config.apiKey).toBe('mm-test-key');
   });
 
@@ -101,7 +101,7 @@ describe('Integration: live MiniMax API call', () => {
       provider: 'minimax',
       baseUrl: 'https://api.minimax.io/v1',
       apiKey,
-      model: 'MiniMax-M2.5-highspeed',
+      model: 'MiniMax-M3',
     };
 
     const messages = [
