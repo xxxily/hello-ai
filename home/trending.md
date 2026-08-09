@@ -16,9 +16,9 @@
 
 跨平台个人AI助手，支持任意操作系统。注重数据隐私，让用户完全掌控自己的数据。
 
-- **Stars:** ⭐️ 384.9k
+- **Stars:** ⭐️ 385.5k
 - **Tags:** `AI助手` `跨平台` `隐私保护`
-- **最后活动时间:** 2026-08-02
+- **最后活动时间:** 2026-08-08
 
 ## [superpowers](https://github.com/obra/superpowers)
 
@@ -32,25 +32,25 @@
 
 AI Agent性能优化框架，为Claude Code、Codex、Cursor等编程智能体提供技能、记忆、安全和研究优先的开发能力。
 
-- **Stars:** ⭐️ 236.9k
+- **Stars:** ⭐️ 238.8k
 - **Tags:** `ai-agents` `claude-code` `mcp` `developer-tools`
-- **最后活动时间:** 2026-07-29
+- **最后活动时间:** 2026-08-08
 
 ## [hermes-agent](https://github.com/NousResearch/hermes-agent)
 
 支持多主流大语言模型的智能AI代理，提供个性化交互体验，能够伴随用户持续成长进化。
 
-- **Stars:** ⭐️ 223.9k
+- **Stars:** ⭐️ 227.0k
 - **Tags:** `AI Agent` `LLM` `Claude` `ChatGPT`
-- **最后活动时间:** 2026-08-02
+- **最后活动时间:** 2026-08-07
 
 ## [n8n](https://github.com/n8n-io/n8n)
 
 开源工作流自动化平台，原生支持AI能力和MCP协议，支持400+集成，可自托管或云端部署。
 
-- **Stars:** ⭐️ 199.5k
+- **Stars:** ⭐️ 199.7k
 - **Tags:** `工作流自动化` `低代码` `AI集成` `MCP`
-- **最后活动时间:** 2026-08-06
+- **最后活动时间:** 2026-08-07
 
 ## [skills](https://github.com/mattpocock/skills)
 
@@ -88,33 +88,25 @@ JavaScript算法与数据结构实现集合，包含详细解释和延伸阅读�
 
 开源的AI编程智能体，帮助开发者自动化代码编写和开发任务。
 
-- **Stars:** ⭐️ 193.3k
+- **Stars:** ⭐️ 194.8k
 - **Tags:** `coding-agent` `ai-assistant` `developer-tools`
-- **最后活动时间:** 2026-08-04
+- **最后活动时间:** 2026-08-08
 
 ## [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
 
 开源自主AI智能体，让LLM完全自主运行以完成复杂任务。
 
-- **Stars:** ⭐️ 185.8k
+- **Stars:** ⭐️ 186.4k
 - **Tags:** `Agent` `Automation` `Autonomous`
-- **最后活动时间:** 2026-08-04
+- **最后活动时间:** 2026-08-08
 
 ## [ollama](https://github.com/ollama/ollama)
 
 轻量级本地大模型运行工具，支持Llama、Qwen、DeepSeek等多种开源模型，一键部署即开即用。
 
-- **Stars:** ⭐️ 177.9k
+- **Stars:** ⭐️ 178.1k
 - **Tags:** `LLM` `Local Deployment` `Model Inference`
-- **最后活动时间:** 2026-08-05
-
-## [everything-claude-code](https://github.com/affaan-m/everything-claude-code)
-
-全面的AI编程代理性能优化系统，涵盖技能、记忆、安全和研究优先开发模式，支持多种AI编程工具。
-
-- **Stars:** ⭐️ 176.7k
-- **Tags:** `Claude Code` `AI Agents` `Developer Tools`
-- **最后活动时间:** 2026-05-09
+- **最后活动时间:** 2026-08-08
 
 ## [markitdown](https://github.com/microsoft/markitdown)
 
@@ -152,17 +144,17 @@ Agent Skills 公共仓库，提供智能体技能模块的集合与共享。
 
 Hugging Face官方深度学习模型框架，支持文本、视觉、音频和多模态模型的推理与训练，提供数千个预训练模型API。
 
-- **Stars:** ⭐️ 163.4k
+- **Stars:** ⭐️ 163.5k
 - **Tags:** `PyTorch` `Transformers` `预训练模型`
-- **最后活动时间:** 2026-08-06
+- **最后活动时间:** 2026-08-08
 
 ## [firecrawl](https://github.com/firecrawl/firecrawl)
 
 专为AI设计的网页数据API，将网站转换为LLM可用的Markdown或结构化数据，是RAG应用的理想数据源。
 
-- **Stars:** ⭐️ 159.1k
+- **Stars:** ⭐️ 163.2k
 - **Tags:** `网页爬取` `数据提取` `LLM数据`
-- **最后活动时间:** 2026-08-01
+- **最后活动时间:** 2026-08-08
 
 ## [JavaGuide](https://github.com/Snailclimb/JavaGuide)
 
@@ -184,9 +176,9 @@ Java面试与后端开发指南，涵盖AI应用开发、Agent、MCP等前沿技
 
 生产级AI智能体工作流开发平台，支持低代码快速构建AI应用，提供可视化编排、RAG集成、多模型支持。
 
-- **Stars:** ⭐️ 151.0k
+- **Stars:** ⭐️ 151.7k
 - **Tags:** `Workflow` `Low-code` `RAG`
-- **最后活动时间:** 2026-08-02
+- **最后活动时间:** 2026-08-07
 
 ## [open-webui](https://github.com/open-webui/open-webui)
 
@@ -208,17 +200,17 @@ Java面试与后端开发指南，涵盖AI应用开发、Agent、MCP等前沿技
 
 全面收录Cursor、Devin、Windsurf等热门AI工具的系统提示词与内部模型，为开发者提供深入理解AI Agent工作原理的珍贵参考资料。
 
-- **Stars:** ⭐️ 142.6k
+- **Stars:** ⭐️ 142.7k
 - **Tags:** `System Prompts` `AI Tools` `Prompt Engineering`
-- **最后活动时间:** 2026-07-31
+- **最后活动时间:** 2026-08-06
 
 ## [claude-code](https://github.com/anthropics/claude-code)
 
 Anthropic官方AI编程智能体，在终端中通过自然语言命令理解代码库、执行任务和处理Git工作流。
 
-- **Stars:** ⭐️ 139.9k
+- **Stars:** ⭐️ 140.6k
 - **Tags:** `AI编程` `终端工具` `代码智能体`
-- **最后活动时间:** 2026-07-25
+- **最后活动时间:** 2026-08-08
 
 ## [agency-agents](https://github.com/msitarzewski/agency-agents)
 
@@ -243,4 +235,12 @@ Anthropic官方AI编程智能体，在终端中通过自然语言命令理解代
 - **Stars:** ⭐️ 129.1k
 - **Tags:** `algorithm` `data-structure` `education` `programming`
 - **最后活动时间:** 2026-07-24
+
+## [gstack](https://github.com/garrytan/gstack)
+
+Garry Tan 的 Claude Code 配置工具集，包含 15 个角色化工具，覆盖 CEO、设计师、工程经理等职能。
+
+- **Stars:** ⭐️ 126.8k
+- **Tags:** `claude-code` `productivity` `development-tools`
+- **最后活动时间:** 2026-08-07
 
