@@ -2,7 +2,7 @@
 
 > Model training, fine-tuning, and evaluation.
 
-> 当前分类已收录 **403** 个相关项目。
+> 当前分类已收录 **412** 个相关项目。
 
 ## Dataset Management
 
@@ -10,9 +10,9 @@
 
 多类型数据标注工具，支持图像、文本、音频等多种格式，是机器学习项目数据准备的重要工具。
 
-- **Stars:** ⭐️ 28.0k
+- **Stars:** ⭐️ 28.1k
 - **Tags:** `annotation` `data-labeling` `mlops`
-- **最后活动时间:** 2026-08-08
+- **最后活动时间:** 2026-08-21
 
 ### [datasets](https://github.com/huggingface/datasets)
 
@@ -20,29 +20,29 @@ Hugging Face官方数据集库，提供海量AI数据集的快速访问与处理
 
 - **Stars:** ⭐️ 21.8k
 - **Tags:** `datasets` `huggingface` `machine-learning`
-- **最后活动时间:** 2026-08-07
+- **最后活动时间:** 2026-08-18
 
 ### [faker](https://github.com/joke2k/faker)
 
 强大的Python假数据生成库，可快速生成各类测试数据和合成数据集，广泛用于ML模型训练数据准备和测试场景。
 
-- **Stars:** ⭐️ 19.3k
+- **Stars:** ⭐️ 19.4k
 - **Tags:** `synthetic-data` `data-generation` `testing` `python`
-- **最后活动时间:** 2026-07-27
+- **最后活动时间:** 2026-08-21
 
 ### [cvat](https://github.com/cvat-ai/cvat)
 
 业界领先的机器学习数据标注平台，支持图像和视频标注，广泛应用于计算机视觉数据集构建。
 
-- **Stars:** ⭐️ 16.5k
+- **Stars:** ⭐️ 16.6k
 - **Tags:** `Annotation` `Computer Vision` `Dataset` `Labeling`
-- **最后活动时间:** 2026-08-07
+- **最后活动时间:** 2026-08-21
 
 ### [easy-dataset](https://github.com/ConardLi/easy-dataset)
 
 专为LLM微调、RAG和评估场景设计的数据集创建工具，帮助开发者高效构建高质量训练数据。
 
-- **Stars:** ⭐️ 14.7k
+- **Stars:** ⭐️ 14.8k
 - **Tags:** `数据集` `微调` `RAG`
 - **最后活动时间:** 2026-05-01
 
@@ -52,13 +52,13 @@ Hugging Face官方数据集库，提供海量AI数据集的快速访问与处理
 
 - **Stars:** ⭐️ 11.0k
 - **Tags:** `Computer Vision` `Data Curation` `Visualization`
-- **最后活动时间:** 2026-08-05
+- **最后活动时间:** 2026-08-22
 
 ### [doccano](https://github.com/doccano/doccano)
 
 开源的机器学习数据标注工具，支持文本分类、序列标注等多种任务，界面友好易用。
 
-- **Stars:** ⭐️ 10.7k
+- **Stars:** ⭐️ 10.8k
 - **Tags:** `annotation-tool` `data-labeling` `machine-learning` `nlp`
 - **最后活动时间:** 2026-04-14
 
@@ -66,25 +66,25 @@ Hugging Face官方数据集库，提供海量AI数据集的快速访问与处理
 
 AI驱动的智能数据标注工具，集成SAM等多种模型，支持目标检测、分割、OCR等任务。
 
-- **Stars:** ⭐️ 10.0k
+- **Stars:** ⭐️ 10.2k
 - **Tags:** `Data Labeling` `Annotation` `SAM` `YOLO`
-- **最后活动时间:** 2026-08-08
+- **最后活动时间:** 2026-08-22
 
 ### [DataFlow](https://github.com/OpenDCAI/DataFlow)
 
 基于最新LLM的数据准备工具，提供丰富的算子和流水线支持，简化数据清洗与合成流程。
 
-- **Stars:** ⭐️ 7.2k
+- **Stars:** ⭐️ 7.7k
 - **Tags:** `LLM` `Data Pipeline` `Data Synthesis`
-- **最后活动时间:** 2026-08-05
+- **最后活动时间:** 2026-08-18
 
 ### [data-juicer](https://github.com/datajuicer/data-juicer)
 
 面向大模型的数据处理工具，支持多模态数据清洗、转换与合成数据生成，优化预训练和指令微调流程。
 
-- **Stars:** ⭐️ 6.8k
+- **Stars:** ⭐️ 6.9k
 - **Tags:** `LLM` `数据处理` `多模态` `合成数据`
-- **最后活动时间:** 2026-08-05
+- **最后活动时间:** 2026-08-21
 
 ### [snorkel](https://github.com/snorkel-team/snorkel)
 
@@ -108,7 +108,7 @@ AI驱动的智能数据标注工具，集成SAM等多种模型，支持目标检
 
 - **Stars:** ⭐️ 5.1k
 - **Tags:** `数据标注` `RLHF` `主动学习`
-- **最后活动时间:** 2026-08-03
+- **最后活动时间:** 2026-08-17
 
 ### [RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data)
 
@@ -124,7 +124,7 @@ AI驱动的智能数据标注工具，集成SAM等多种模型，支持目标检
 
 - **Stars:** ⭐️ 4.8k
 - **Tags:** `synthetic-data` `data-generation` `testing` `python`
-- **最后活动时间:** 2026-08-05
+- **最后活动时间:** 2026-08-18
 
 ### [llm-datasets](https://github.com/mlabonne/llm-datasets)
 
@@ -140,7 +140,7 @@ NLP数据增强库，支持对抗样本生成和数据扩充以提升模型鲁�
 
 - **Stars:** ⭐️ 4.7k
 - **Tags:** `data-augmentation` `nlp` `adversarial` `machine-learning`
-- **最后活动时间:** 2026-07-28
+- **最后活动时间:** 2026-08-09
 
 ### [tensorflow-datasets](https://github.com/tensorflow/datasets)
 
@@ -148,13 +148,13 @@ TensorFlow官方数据集库，提供开箱即用的标准化数据集，支持T
 
 - **Stars:** ⭐️ 4.6k
 - **Tags:** `tensorflow` `datasets` `machine-learning` `data`
-- **最后活动时间:** 2026-07-29
+- **最后活动时间:** 2026-08-21
 
 ### [the_well](https://github.com/PolymathicAI/the_well)
 
 15TB规模的物理模拟数据集集合，涵盖流体动力学等多个物理领域，适用于科学计算AI模型训练。
 
-- **Stars:** ⭐️ 4.3k
+- **Stars:** ⭐️ 4.4k
 - **Tags:** `dataset` `physics-simulation` `scientific-computing` `deep-learning`
 - **最后活动时间:** 2026-07-23
 
@@ -164,7 +164,7 @@ TensorFlow官方数据集库，提供开箱即用的标准化数据集，支持T
 
 - **Stars:** ⭐️ 4.3k
 - **Tags:** `中文语料` `数据集` `LLM训练`
-- **最后活动时间:** 2026-07-31
+- **最后活动时间:** 2026-08-15
 
 ### [deequ](https://github.com/awslabs/deequ)
 
@@ -202,9 +202,9 @@ AI辅助数据标注工具，支持YOLO、SAM系列模型自动标注，大幅�
 
 合成数据和AI反馈框架，帮助工程师构建快速、可靠的训练数据管道。
 
-- **Stars:** ⭐️ 3.3k
+- **Stars:** ⭐️ 3.4k
 - **Tags:** `synthetic-data` `rlhf` `rlaif` `data-generation` `huggingface`
-- **最后活动时间:** 2026-07-27
+- **最后活动时间:** 2026-08-17
 
 ### [pandas-datareader](https://github.com/pydata/pandas-datareader)
 
@@ -220,7 +220,7 @@ AI辅助数据标注工具，支持YOLO、SAM系列模型自动标注，大幅�
 
 - **Stars:** ⭐️ 2.8k
 - **Tags:** `log-analysis` `anomaly-detection` `datasets` `ai`
-- **最后活动时间:** 2026-08-04
+- **最后活动时间:** 2026-08-22
 
 ### [nuscenes-devkit](https://github.com/nutonomy/nuscenes-devkit)
 
@@ -228,7 +228,7 @@ nuScenes自动驾驶数据集开发工具包，提供大规模多模态传感器
 
 - **Stars:** ⭐️ 2.8k
 - **Tags:** `autonomous-driving` `dataset` `computer-vision` `sensor-fusion`
-- **最后活动时间:** 2026-07-21
+- **最后活动时间:** 2026-08-06
 
 ### [datasets](https://github.com/unsplash/datasets)
 
@@ -252,7 +252,7 @@ Unsplash开放数据集，提供650万+高质量图像供机器学习研究使�
 
 - **Stars:** ⭐️ 2.4k
 - **Tags:** `Synthetic Data` `Generative AI` `Tabular Data` `Privacy`
-- **最后活动时间:** 2026-07-13
+- **最后活动时间:** 2026-08-17
 
 ### [imbalanced-dataset-sampler](https://github.com/ufoym/imbalanced-dataset-sampler)
 
@@ -270,13 +270,21 @@ PyTorch不平衡数据集采样器，通过过采样低频类别和欠采样高�
 - **Tags:** `audio-augmentation` `data-augmentation` `python`
 - **最后活动时间:** 2026-04-13
 
+### [DataFlex](https://github.com/OpenDCAI/DataFlex)
+
+一个以数据为中心的训练框架，通过样本选择、权重优化和混合比例调整来提升模型性能。
+
+- **Stars:** ⭐️ 2.2k
+- **Tags:** `data-selection` `data-reweighting` `model-training` `data-centric-ai`
+- **最后活动时间:** 2026-08-22
+
 ### [DataDesigner](https://github.com/NVIDIA-NeMo/DataDesigner)
 
 NVIDIA NeMo数据设计器，用于生成高质量合成数据，支持多模态数据和智能体工作流。
 
-- **Stars:** ⭐️ 2.1k
+- **Stars:** ⭐️ 2.2k
 - **Tags:** `synthetic-data` `nvidia` `nemo`
-- **最后活动时间:** 2026-08-07
+- **最后活动时间:** 2026-08-21
 
 ### [clusterdata](https://github.com/alibaba/clusterdata)
 
@@ -285,14 +293,6 @@ NVIDIA NeMo数据设计器，用于生成高质量合成数据，支持多模态
 - **Stars:** ⭐️ 2.1k
 - **Tags:** `dataset` `cluster-computing` `alibaba` `infrastructure`
 - **最后活动时间:** 2026-06-03
-
-### [DataFlex](https://github.com/OpenDCAI/DataFlex)
-
-一个以数据为中心的训练框架，通过样本选择、权重优化和混合比例调整来提升模型性能。
-
-- **Stars:** ⭐️ 1.9k
-- **Tags:** `data-selection` `data-reweighting` `model-training` `data-centric-ai`
-- **最后活动时间:** 2026-06-17
 
 ### [diffgram](https://github.com/diffgram/diffgram)
 
@@ -310,29 +310,21 @@ AI数据存储与标注平台，支持图像和视频标注，集成人工监督
 - **Tags:** `Data Curation` `Image Analysis` `Outlier Detection`
 - **最后活动时间:** 2026-04-14
 
-### [greenmask](https://github.com/GreenmaskIO/greenmask)
-
-强大的数据库匿名化和合成数据生成工具，支持差分隐私保护，为AI/ML训练提供高质量数据集准备。
-
-- **Stars:** ⭐️ 1.7k
-- **Tags:** `anonymization` `synthetic-data` `data-masking` `postgresql` `golang`
-- **最后活动时间:** 2026-08-05
-
 ### [free-exercise-db](https://github.com/yuhonas/free-exercise-db)
 
 开放的公共领域运动数据集，包含800多种运动的JSON格式数据。
 
-- **Stars:** ⭐️ 1.7k
+- **Stars:** ⭐️ 1.8k
 - **Tags:** `fitness` `exercise` `open-data` `dataset`
 - **最后活动时间:** 2026-05-24
 
-### [curator](https://github.com/bespokelabsai/curator)
+### [greenmask](https://github.com/GreenmaskIO/greenmask)
 
-面向后训练和结构化数据提取的合成数据管理工具，支持高质量数据集生成。
+强大的数据库匿名化和合成数据生成工具，支持差分隐私保护，为AI/ML训练提供高质量数据集准备。
 
-- **Stars:** ⭐️ 1.7k
-- **Tags:** `Synthetic Data` `Fine-tuning` `Data Curation`
-- **最后活动时间:** 2026-08-04
+- **Stars:** ⭐️ 1.8k
+- **Tags:** `anonymization` `synthetic-data` `data-masking` `postgresql` `golang`
+- **最后活动时间:** 2026-08-22
 
 ### [Curator](https://github.com/NVIDIA-NeMo/Curator)
 
@@ -340,7 +332,15 @@ AI数据存储与标注平台，支持图像和视频标注，集成人工监督
 
 - **Stars:** ⭐️ 1.7k
 - **Tags:** `data-processing` `llm` `fine-tuning`
-- **最后活动时间:** 2026-08-05
+- **最后活动时间:** 2026-08-21
+
+### [curator](https://github.com/bespokelabsai/curator)
+
+面向后训练和结构化数据提取的合成数据管理工具，支持高质量数据集生成。
+
+- **Stars:** ⭐️ 1.7k
+- **Tags:** `Synthetic Data` `Fine-tuning` `Data Curation`
+- **最后活动时间:** 2026-08-07
 
 ### [drawdata](https://github.com/koaning/drawdata)
 
@@ -350,21 +350,21 @@ AI数据存储与标注平台，支持图像和视频标注，集成人工监督
 - **Tags:** `dataset` `visualization` `python` `ml-tools`
 - **最后活动时间:** 2026-07-21
 
-### [fg-data-synthetic](https://github.com/Data-Centric-AI-Community/fg-data-synthetic)
-
-基于GAN架构的表格和时间序列合成数据生成器，支持PyTorch和TensorFlow2，适用于训练数据增强和隐私保护场景。
-
-- **Stars:** ⭐️ 1.6k
-- **Tags:** `synthetic-data` `gan` `time-series` `deep-learning` `pytorch`
-- **最后活动时间:** 2026-04-23
-
 ### [labelU](https://github.com/opendatalab/labelU)
 
 开源的多模态数据标注平台，支持AI自动标注功能，适用于图像、音频、视频等多种数据类型的标注工作。
 
-- **Stars:** ⭐️ 1.6k
+- **Stars:** ⭐️ 1.7k
 - **Tags:** `data-annotation` `multimodal` `auto-annotation` `labeling-tool`
 - **最后活动时间:** 2026-07-28
+
+### [fg-data-synthetic](https://github.com/Data-Centric-AI-Community/fg-data-synthetic)
+
+基于GAN架构的表格和时间序列合成数据生成器，支持PyTorch和TensorFlow2，适用于训练数据增强和隐私保护场景。
+
+- **Stars:** ⭐️ 1.7k
+- **Tags:** `synthetic-data` `gan` `time-series` `deep-learning` `pytorch`
+- **最后活动时间:** 2026-04-23
 
 ### [ydata-synthetic](https://github.com/Data-Centric-AI-Community/ydata-synthetic)
 
@@ -412,7 +412,7 @@ AI数据存储与标注平台，支持图像和视频标注，集成人工监督
 
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `离线RL` `强化学习` `数据集格式`
-- **最后活动时间:** 2026-07-19
+- **最后活动时间:** 2026-08-04
 
 ### [LabelLLM](https://github.com/opendatalab/LabelLLM)
 
@@ -436,7 +436,7 @@ AI数据存储与标注平台，支持图像和视频标注，集成人工监督
 
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `active-learning` `adaptive-sampling` `machine-learning` `python`
-- **最后活动时间:** 2026-07-27
+- **最后活动时间:** 2026-08-17
 
 ### [GraphGen](https://github.com/InternScience/GraphGen)
 
@@ -444,7 +444,7 @@ AI数据存储与标注平台，支持图像和视频标注，集成人工监督
 
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `data-synthesis` `llm-training` `knowledge-graph` `sft`
-- **最后活动时间:** 2026-05-19
+- **最后活动时间:** 2026-08-17
 
 ### [datasets](https://github.com/satellite-image-deep-learning/datasets)
 
@@ -452,7 +452,7 @@ AI数据存储与标注平台，支持图像和视频标注，集成人工监督
 
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `satellite-imagery` `remote-sensing` `deep-learning` `dataset`
-- **最后活动时间:** 2026-07-11
+- **最后活动时间:** 2026-08-02
 
 ### [batchgenerators](https://github.com/MIC-DKFZ/batchgenerators)
 
@@ -476,7 +476,7 @@ Label Studio 机器学习后端配置与模板，支持将 ML 模型集成到数
 
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `label-studio` `ml-backend` `data-labeling` `annotation`
-- **最后活动时间:** 2026-07-31
+- **最后活动时间:** 2026-08-20
 
 ### [MELD](https://github.com/declare-lab/MELD)
 
@@ -485,6 +485,14 @@ Label Studio 机器学习后端配置与模板，支持将 ML 模型集成到数
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `emotion-recognition` `multimodal` `conversation` `sentiment-analysis`
 - **最后活动时间:** 2026-05-17
+
+### [imglab](https://github.com/NaturalIntelligence/imglab)
+
+高效的图像标注工具，支持COCO、Pascal VOC等多种格式，加速机器学习数据集准备流程。
+
+- **Stars:** ⭐️ 1.0k
+- **Tags:** `image-annotation` `labeling-tool` `coco` `pascal-voc` `computer-vision`
+- **最后活动时间:** 2026-08-18
 
 ### [augmix](https://github.com/google-research/augmix)
 
@@ -514,25 +522,33 @@ COCO-Stuff官方主页，提供大规模语义分割数据集，广泛用于计�
 
 ML数据集的高层标准格式，整合元数据、资源、结构和语义四层信息，简化数据集发布与消费流程。
 
-- **Stars:** ⭐️ 882
+- **Stars:** ⭐️ 886
 - **Tags:** `数据集格式` `标准化` `ML`
 - **最后活动时间:** 2026-07-15
-
-### [deepfabric](https://github.com/nolabs-ai/deepfabric)
-
-用于生成高质量合成数据、训练、测量和评估的单一流水线工具。支持HuggingFace和Unsloth，简化机器学习数据准备流程。
-
-- **Stars:** ⭐️ 880
-- **Tags:** `ai` `synthetic-data` `fine-tuning` `machine-learning` `huggingface`
-- **最后活动时间:** 2026-07-30
 
 ### [tatoeba2](https://github.com/Tatoeba/tatoeba2)
 
 协作式开放句子翻译数据集平台，为NLP和机器翻译提供高质量多语言训练数据。
 
-- **Stars:** ⭐️ 879
+- **Stars:** ⭐️ 884
 - **Tags:** `translation` `nlp` `dataset` `multilingual`
 - **最后活动时间:** 2026-07-18
+
+### [deepfabric](https://github.com/nolabs-ai/deepfabric)
+
+用于生成高质量合成数据、训练、测量和评估的单一流水线工具。支持HuggingFace和Unsloth，简化机器学习数据准备流程。
+
+- **Stars:** ⭐️ 882
+- **Tags:** `ai` `synthetic-data` `fine-tuning` `machine-learning` `huggingface`
+- **最后活动时间:** 2026-08-22
+
+### [lightly-studio](https://github.com/lightly-ai/lightly-studio)
+
+计算机视觉数据管理工具，支持图像标注、数据筛选和MLOps工作流集成。
+
+- **Stars:** ⭐️ 877
+- **Tags:** `computer-vision` `image-labeling` `mlops`
+- **最后活动时间:** 2026-08-22
 
 ### [deepfabric](https://github.com/always-further/deepfabric)
 
@@ -542,19 +558,11 @@ ML数据集的高层标准格式，整合元数据、资源、结构和语义四
 - **Tags:** `Synthetic Data` `Fine-tuning` `Evaluation` `Dataset`
 - **最后活动时间:** 2026-06-10
 
-### [lightly-studio](https://github.com/lightly-ai/lightly-studio)
-
-计算机视觉数据管理工具，支持图像标注、数据筛选和MLOps工作流集成。
-
-- **Stars:** ⭐️ 871
-- **Tags:** `computer-vision` `image-labeling` `mlops`
-- **最后活动时间:** 2026-07-31
-
 ### [annotorious](https://github.com/annotorious/annotorious)
 
 轻量级JavaScript图像标注库，可快速为任何网页添加图像标注功能，支持IIIF和OpenSeadragon集成。
 
-- **Stars:** ⭐️ 855
+- **Stars:** ⭐️ 860
 - **Tags:** `annotation` `image-annotation` `javascript` `iiif`
 - **最后活动时间:** 2026-08-05
 
@@ -570,9 +578,9 @@ Deequ的Python API，用于大规模数据质量验证，帮助确保机器学�
 
 CVPR 2020首个大规模图像协调基准数据集，用于图像合成与协调研究。
 
-- **Stars:** ⭐️ 813
+- **Stars:** ⭐️ 810
 - **Tags:** `image-harmonization` `computer-vision` `dataset` `image-composition`
-- **最后活动时间:** 2026-02-24
+- **最后活动时间:** 2026-08-20
 
 ### [labelCloud](https://github.com/ch-sa/labelCloud)
 
@@ -586,23 +594,39 @@ CVPR 2020首个大规模图像协调基准数据集，用于图像合成与协�
 
 Python池化主动学习库，提供多种不确定性采样策略，帮助高效选择标注样本以降低标注成本。
 
-- **Stars:** ⭐️ 793
+- **Stars:** ⭐️ 792
 - **Tags:** `active-learning` `machine-learning` `uncertainty-sampling` `python`
-- **最后活动时间:** 2026-04-08
+- **最后活动时间:** 2026-08-21
 
 ### [data-validation](https://github.com/tensorflow/data-validation)
 
 机器学习数据探索与验证库，帮助确保训练数据质量。
 
-- **Stars:** ⭐️ 783
+- **Stars:** ⭐️ 782
 - **Tags:** `data-validation` `machine-learning` `data-quality`
-- **最后活动时间:** 2026-06-11
+- **最后活动时间:** 2026-08-14
+
+### [Total-Text-Dataset](https://github.com/cs-chan/Total-Text-Dataset)
+
+场景文本检测数据集，包含水平、多方向和弯曲文本，适用于OCR和文本识别研究。
+
+- **Stars:** ⭐️ 772
+- **Tags:** `scene-text` `text-detection` `ocr` `dataset`
+- **最后活动时间:** 2026-08-06
+
+### [grain](https://github.com/google/grain)
+
+专为机器学习设计的高效数据加载库，支持JAX等框架的大规模训练数据处理。
+
+- **Stars:** ⭐️ 772
+- **Tags:** `machine-learning` `data-loading` `jax` `python`
+- **最后活动时间:** 2026-08-20
 
 ### [efaqa-corpus-zh](https://github.com/chatopera/efaqa-corpus-zh)
 
 心理咨询问答中文语料库，适用于聊天机器人和情感分析研究。
 
-- **Stars:** ⭐️ 768
+- **Stars:** ⭐️ 770
 - **Tags:** `corpus` `nlp` `psychology` `chatbot`
 - **最后活动时间:** 2026-03-06
 
@@ -610,9 +634,9 @@ Python池化主动学习库，提供多种不确定性采样策略，帮助高�
 
 用于单细胞分析和生物信息学的带注释数据结构库，支持机器学习工作流。
 
-- **Stars:** ⭐️ 764
+- **Stars:** ⭐️ 766
 - **Tags:** `anndata` `bioinformatics` `machine-learning` `data-science`
-- **最后活动时间:** 2026-08-07
+- **最后活动时间:** 2026-08-20
 
 ### [balance](https://github.com/facebookresearch/balance)
 
@@ -622,27 +646,19 @@ Python池化主动学习库，提供多种不确定性采样策略，帮助高�
 - **Tags:** `data-balancing` `bias-correction` `statistics` `data-science`
 - **最后活动时间:** 2026-07-30
 
-### [grain](https://github.com/google/grain)
-
-专为机器学习设计的高效数据加载库，支持JAX等框架的大规模训练数据处理。
-
-- **Stars:** ⭐️ 758
-- **Tags:** `machine-learning` `data-loading` `jax` `python`
-- **最后活动时间:** 2026-08-01
-
 ### [OpenML](https://github.com/openml/OpenML)
 
 开放机器学习平台，提供数据集共享、实验协作和开放科学工作流。
 
-- **Stars:** ⭐️ 751
+- **Stars:** ⭐️ 753
 - **Tags:** `开放科学` `数据集共享` `协作平台`
-- **最后活动时间:** 2026-08-05
+- **最后活动时间:** 2026-08-19
 
 ### [datasets](https://github.com/plotly/datasets)
 
 机器学习问题解决数据集合，为模型训练和评估提供多样化数据支持。
 
-- **Stars:** ⭐️ 748
+- **Stars:** ⭐️ 745
 - **Tags:** `machine-learning` `datasets` `ml`
 - **最后活动时间:** 2026-05-04
 
@@ -650,7 +666,7 @@ Python池化主动学习库，提供多种不确定性采样策略，帮助高�
 
 精选指令数据集合集，用于训练ChatLLM类对话大语言模型。
 
-- **Stars:** ⭐️ 739
+- **Stars:** ⭐️ 741
 - **Tags:** `instruction-datasets` `llm-training` `prompts` `datasets`
 - **最后活动时间:** 2026-06-17
 
@@ -666,57 +682,41 @@ Python池化主动学习库，提供多种不确定性采样策略，帮助高�
 
 语义标注平台，提供智能标注辅助和知识管理功能，支持主动学习和实体链接。
 
-- **Stars:** ⭐️ 709
+- **Stars:** ⭐️ 711
 - **Tags:** `annotation-tool` `active-learning` `machine-learning` `knowledge-base`
-- **最后活动时间:** 2026-08-06
-
-### [comma10k](https://github.com/commaai/comma10k)
-
-包含1万张众包标注图像的语义分割数据集，专为训练分割网络设计。
-
-- **Stars:** ⭐️ 690
-- **Tags:** `Dataset` `Segmentation` `Computer Vision` `Training Data`
-- **最后活动时间:** 2026-02-20
+- **最后活动时间:** 2026-08-19
 
 ### [datumaro](https://github.com/open-edge-platform/datumaro)
 
 计算机视觉数据集管理框架，支持多种格式转换、数据分析和数据集构建。
 
-- **Stars:** ⭐️ 682
+- **Stars:** ⭐️ 685
 - **Tags:** `dataset` `computer-vision` `data-management`
-- **最后活动时间:** 2026-08-05
+- **最后活动时间:** 2026-08-19
 
 ### [synthcity](https://github.com/vanderschaarlab/synthcity)
 
 用于生成和评估合成表格数据的库，支持隐私保护、公平性增强和数据增强场景。
 
-- **Stars:** ⭐️ 673
+- **Stars:** ⭐️ 676
 - **Tags:** `synthetic-data` `data-augmentation` `privacy` `fairness` `tabular-data`
 - **最后活动时间:** 2026-04-21
-
-### [Dataset](https://github.com/DL3DV-10K/Dataset)
-
-大规模3D视觉数据集，支持新视角合成与三维重建研究。
-
-- **Stars:** ⭐️ 656
-- **Tags:** `3d-dataset` `novel-view-synthesis` `deep-learning`
-- **最后活动时间:** 2026-02-10
 
 ### [datalad](https://github.com/datalad/datalad)
 
 基于Git和git-annex的数据版本控制工具，支持代码、数据和容器化管理，适用于AI数据集版本追踪。
 
-- **Stars:** ⭐️ 652
+- **Stars:** ⭐️ 656
 - **Tags:** `data-management` `version-control` `git-annex` `dataset`
-- **最后活动时间:** 2026-07-27
+- **最后活动时间:** 2026-08-22
 
 ### [Copulas](https://github.com/sdv-dev/Copulas)
 
 使用Copula模型生成多变量合成数据的Python库，适用于表格数据的生成式建模。
 
-- **Stars:** ⭐️ 648
+- **Stars:** ⭐️ 651
 - **Tags:** `synthetic-data` `generative-model` `tabular-data`
-- **最后活动时间:** 2026-07-24
+- **最后活动时间:** 2026-08-10
 
 ### [faker](https://github.com/jaswdr/faker)
 
@@ -726,13 +726,13 @@ Go语言高性能假数据生成器，零依赖，可用于AI模型训练数据�
 - **Tags:** `faker` `data-generator` `synthetic-data` `go`
 - **最后活动时间:** 2026-07-11
 
-### [Exclusively-Dark-Image-Dataset](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset)
+### [SpatialVID](https://github.com/NJU-3DV/SpatialVID)
 
-专门针对低光照环境的图像数据集，包含10种不同光照条件下的标注图像，适合暗光视觉任务。
+CVPR 2026大规模视频数据集，提供丰富空间标注，支持视频生成与3D重建研究。
 
-- **Stars:** ⭐️ 638
-- **Tags:** `low-light` `dataset` `computer-vision` `object-detection`
-- **最后活动时间:** 2026-02-13
+- **Stars:** ⭐️ 598
+- **Tags:** `video-dataset` `3d-reconstruction` `spatial-intelligence` `cvpr`
+- **最后活动时间:** 2026-04-22
 
 ### [semi-auto-image-annotation-tool](https://github.com/virajmavani/semi-auto-image-annotation-tool)
 
@@ -750,21 +750,13 @@ Google开源的序列模型数据处理框架，提供任务驱动的数据集�
 - **Tags:** `sequence-models` `dataset` `preprocessing` `evaluation`
 - **最后活动时间:** 2026-07-02
 
-### [SpatialVID](https://github.com/NJU-3DV/SpatialVID)
-
-CVPR 2026大规模视频数据集，提供丰富空间标注，支持视频生成与3D重建研究。
-
-- **Stars:** ⭐️ 592
-- **Tags:** `video-dataset` `3d-reconstruction` `spatial-intelligence` `cvpr`
-- **最后活动时间:** 2026-04-22
-
 ### [VQASynth](https://github.com/remyxai/VQASynth)
 
 多模态数据集合成工具，支持场景重建和空间推理的合成数据生成，适用于构建高质量视觉问答训练数据。
 
-- **Stars:** ⭐️ 584
+- **Stars:** ⭐️ 587
 - **Tags:** `Dataset` `Multimodal` `Synthetic` `VQA`
-- **最后活动时间:** 2026-07-30
+- **最后活动时间:** 2026-08-18
 
 ### [lost](https://github.com/l3p-cv/lost)
 
@@ -772,31 +764,31 @@ CVPR 2026大规模视频数据集，提供丰富空间标注，支持视频生�
 
 - **Stars:** ⭐️ 579
 - **Tags:** `Image Annotation` `Labeling Tool` `Computer Vision`
-- **最后活动时间:** 2026-08-04
+- **最后活动时间:** 2026-08-20
 
 ### [Histopathology-Datasets](https://github.com/maduc7/Histopathology-Datasets)
 
 组织病理学数据集资源汇总，为医学图像分析和机器学习研究提供高质量数据集参考。
 
-- **Stars:** ⭐️ 564
+- **Stars:** ⭐️ 570
 - **Tags:** `histopathology` `datasets` `machine-learning` `medical-imaging`
 - **最后活动时间:** 2026-03-06
-
-### [CubiCasa5k](https://github.com/CubiCasa/CubiCasa5k)
-
-高质量平面图数据集，包含5000个标注样本，适用于建筑平面图的语义分割和房间检测等计算机视觉任务。
-
-- **Stars:** ⭐️ 554
-- **Tags:** `floorplan` `dataset` `computer-vision` `semantic-segmentation`
-- **最后活动时间:** 2026-02-10
 
 ### [datasets](https://github.com/ncbi/datasets)
 
 NCBI官方基因组数据获取工具，为生物信息学和AI基因组研究提供标准化数据接口。
 
-- **Stars:** ⭐️ 551
+- **Stars:** ⭐️ 553
 - **Tags:** `genomics` `biotech` `dataset` `bioinformatics`
-- **最后活动时间:** 2026-07-30
+- **最后活动时间:** 2026-08-21
+
+### [AlbumentationsX](https://github.com/albumentations-team/AlbumentationsX)
+
+下一代Albumentations数据增强库，支持开源和商业双许可。专为计算机视觉任务提供高效、灵活的图像增强功能。
+
+- **Stars:** ⭐️ 535
+- **Tags:** `augmentation` `computer-vision` `data-augmentation` `deep-learning` `pytorch`
+- **最后活动时间:** 2026-08-22
 
 ### [Stylized-ImageNet](https://github.com/rgeirhos/Stylized-ImageNet)
 
@@ -810,25 +802,25 @@ ICLR 2019 Oral论文，创建风格化ImageNet数据集，研究形状与纹理�
 
 最丰富的统一对话数据集集合，支持指令感知的对话AI模型训练。
 
-- **Stars:** ⭐️ 526
+- **Stars:** ⭐️ 527
 - **Tags:** `dialog` `dataset` `conversational-ai`
 - **最后活动时间:** 2026-06-02
-
-### [AlbumentationsX](https://github.com/albumentations-team/AlbumentationsX)
-
-下一代Albumentations数据增强库，支持开源和商业双许可。专为计算机视觉任务提供高效、灵活的图像增强功能。
-
-- **Stars:** ⭐️ 526
-- **Tags:** `augmentation` `computer-vision` `data-augmentation` `deep-learning` `pytorch`
-- **最后活动时间:** 2026-08-06
 
 ### [entwine](https://github.com/connormanning/entwine)
 
 专为海量点云数据设计的组织与索引工具，支持高效的数据流式传输与管理。
 
-- **Stars:** ⭐️ 525
+- **Stars:** ⭐️ 527
 - **Tags:** `point-cloud` `lidar` `data-management` `3d-data`
 - **最后活动时间:** 2026-06-02
+
+### [GTSinger](https://github.com/AaronZ345/GTSinger)
+
+NeurIPS 2024 Spotlight论文发布的多语言、多技巧演唱语音数据集。包含真实乐谱信息，适用于歌声合成、风格迁移等多种AI音频任务的训练与研究。
+
+- **Stars:** ⭐️ 524
+- **Tags:** `dataset` `singing-voice-synthesis` `speech-to-sing` `style-transfer` `multilingual`
+- **最后活动时间:** 2026-08-21
 
 ## Evaluation Metrics
 
@@ -838,13 +830,13 @@ ICLR 2019 Oral论文，创建风格化ImageNet数据集，研究形状与纹理�
 
 - **Stars:** ⭐️ 25.7k
 - **Tags:** `machine-learning` `explainability` `interpretability` `shap`
-- **最后活动时间:** 2026-08-03
+- **最后活动时间:** 2026-08-11
 
 ### [evals](https://github.com/openai/evals)
 
 OpenAI开源的LLM评估框架，提供完整的基准测试注册表和评估工具链，帮助开发者系统化地衡量大模型性能。
 
-- **Stars:** ⭐️ 19.1k
+- **Stars:** ⭐️ 19.2k
 - **Tags:** `LLM Evaluation` `Benchmarks` `OpenAI`
 - **最后活动时间:** 2026-04-14
 
@@ -852,15 +844,15 @@ OpenAI开源的LLM评估框架，提供完整的基准测试注册表和评估�
 
 LLM评估框架，提供全面的模型评估指标和工具，帮助开发者系统化测试和优化大语言模型。
 
-- **Stars:** ⭐️ 17.5k
+- **Stars:** ⭐️ 17.8k
 - **Tags:** `evaluation` `llm` `testing` `metrics`
-- **最后活动时间:** 2026-08-07
+- **最后活动时间:** 2026-08-21
 
 ### [ragas](https://github.com/vibrantlabsai/ragas)
 
 专业的LLM应用评估框架，提供多种评估指标和自动化测试流程，帮助开发者快速测试和优化大语言模型应用性能。
 
-- **Stars:** ⭐️ 15.1k
+- **Stars:** ⭐️ 15.4k
 - **Tags:** `LLM评估` `自动化测试` `LLMOps`
 - **最后活动时间:** 2026-02-24
 
@@ -868,9 +860,17 @@ LLM评估框架，提供全面的模型评估指标和工具，帮助开发者�
 
 大语言模型少样本评估框架，支持多种基准测试和任务类型，是LLM性能评估的行业标准工具。
 
-- **Stars:** ⭐️ 13.5k
+- **Stars:** ⭐️ 13.7k
 - **Tags:** `evaluation-framework` `language-model` `llm-evaluation`
-- **最后活动时间:** 2026-07-13
+- **最后活动时间:** 2026-08-21
+
+### [iFixAi](https://github.com/ifixai-ai/iFixAi)
+
+一款 AI 评估与治理工具，能快速检测大模型的幻觉、提示注入及安全盲点。提供行业和模型无关的风险评估，帮助确保 AI 合规与安全。
+
+- **Stars:** ⭐️ 11.3k
+- **Tags:** `ai-evaluation` `ai-safety` `llm-security` `risk-assessment`
+- **最后活动时间:** 2026-08-21
 
 ### [ParlAI](https://github.com/facebookresearch/ParlAI)
 
@@ -894,15 +894,7 @@ Facebook Research开源的对话AI训练与评估框架，支持多种公开对�
 
 - **Stars:** ⭐️ 7.3k
 - **Tags:** `LLM` `评估` `基准测试`
-- **最后活动时间:** 2026-08-04
-
-### [iFixAi](https://github.com/ifixai-ai/iFixAi)
-
-一款 AI 评估与治理工具，能快速检测大模型的幻觉、提示注入及安全盲点。提供行业和模型无关的风险评估，帮助确保 AI 合规与安全。
-
-- **Stars:** ⭐️ 6.6k
-- **Tags:** `ai-evaluation` `ai-safety` `llm-security` `risk-assessment`
-- **最后活动时间:** 2026-08-07
+- **最后活动时间:** 2026-08-19
 
 ### [chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark)
 
@@ -910,23 +902,23 @@ Facebook Research开源的对话AI训练与评估框架，支持多种公开对�
 
 - **Stars:** ⭐️ 6.4k
 - **Tags:** `LLM评测` `基准测试` `中文模型`
-- **最后活动时间:** 2026-08-04
+- **最后活动时间:** 2026-08-18
 
 ### [giskard-oss](https://github.com/Giskard-AI/giskard-oss)
 
 开源的LLM智能体评估与测试框架，支持AI安全红队测试、公平性评估和模型验证，帮助开发者构建更可靠的AI系统。
 
-- **Stars:** ⭐️ 5.7k
+- **Stars:** ⭐️ 5.8k
 - **Tags:** `LLM评估` `AI安全` `红队测试`
-- **最后活动时间:** 2026-08-07
+- **最后活动时间:** 2026-08-20
 
 ### [SWE-bench](https://github.com/SWE-bench/SWE-bench)
 
 评估大语言模型解决真实GitHub问题能力的基准测试集，是代码生成领域的重要评测标准。
 
-- **Stars:** ⭐️ 5.6k
+- **Stars:** ⭐️ 5.7k
 - **Tags:** `benchmark` `language-model` `software-engineering` `code-generation` `llm-evaluation`
-- **最后活动时间:** 2026-08-06
+- **最后活动时间:** 2026-08-18
 
 ### [Object-Detection-Metrics](https://github.com/rafaelpadilla/Object-Detection-Metrics)
 
@@ -934,7 +926,7 @@ Facebook Research开源的对话AI训练与评估框架，支持多种公开对�
 
 - **Stars:** ⭐️ 5.1k
 - **Tags:** `Metrics` `Evaluation` `Object Detection`
-- **最后活动时间:** 2026-07-16
+- **最后活动时间:** 2026-08-21
 
 ### [Kiln](https://github.com/Kiln-AI/Kiln)
 
@@ -942,31 +934,31 @@ Facebook Research开源的对话AI训练与评估框架，支持多种公开对�
 
 - **Stars:** ⭐️ 5.0k
 - **Tags:** `Evaluation` `Fine-tuning` `RAG` `MCP` `Synthetic Data`
-- **最后活动时间:** 2026-08-08
+- **最后活动时间:** 2026-08-22
 
 ### [lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
 
 一站式多模态评估工具包，支持文本、图像、视频、音频等多模态任务的统一评测。
 
-- **Stars:** ⭐️ 4.3k
+- **Stars:** ⭐️ 4.4k
 - **Tags:** `multimodal` `evaluation` `llm-evaluation` `vision-language-model` `benchmark`
-- **最后活动时间:** 2026-08-06
+- **最后活动时间:** 2026-08-22
 
 ### [VLMEvalKit](https://github.com/open-compass/VLMEvalKit)
 
 开源的大型多模态模型评估工具包，支持220+多模态模型和80+评测基准，覆盖GPT-4V、Gemini等主流模型。
 
-- **Stars:** ⭐️ 4.3k
+- **Stars:** ⭐️ 4.4k
 - **Tags:** `Evaluation` `Multimodal` `Benchmark` `LMM`
-- **最后活动时间:** 2026-08-03
+- **最后活动时间:** 2026-08-18
 
 ### [SwanLab](https://github.com/SwanHubX/SwanLab)
 
 开源AI训练跟踪与可视化工具，支持云端和本地部署。可与PyTorch、Transformers等主流框架无缝集成。
 
-- **Stars:** ⭐️ 4.1k
+- **Stars:** ⭐️ 4.2k
 - **Tags:** `MLOps` `Visualization` `Training Tracking`
-- **最后活动时间:** 2026-08-07
+- **最后活动时间:** 2026-08-21
 
 ### [PySR](https://github.com/astroautomata/PySR)
 
@@ -974,7 +966,7 @@ Facebook Research开源的对话AI训练与评估框架，支持多种公开对�
 
 - **Stars:** ⭐️ 3.7k
 - **Tags:** `symbolic-regression` `automl` `explainable-ai` `genetic-algorithm` `machine-learning`
-- **最后活动时间:** 2026-07-30
+- **最后活动时间:** 2026-08-22
 
 ### [trulens](https://github.com/truera/trulens)
 
@@ -982,7 +974,7 @@ LLM实验和AI智能体的评估与追踪工具，帮助开发者衡量和优化
 
 - **Stars:** ⭐️ 3.5k
 - **Tags:** `Evaluation` `LLM` `Agents` `Observability`
-- **最后活动时间:** 2026-08-07
+- **最后活动时间:** 2026-08-21
 
 ### [langwatch](https://github.com/langwatch/langwatch)
 
@@ -990,7 +982,7 @@ LLM实验和AI智能体的评估与追踪工具，帮助开发者衡量和优化
 
 - **Stars:** ⭐️ 3.5k
 - **Tags:** `LLM评估` `智能体测试` `可观测性`
-- **最后活动时间:** 2026-08-07
+- **最后活动时间:** 2026-08-23
 
 ### [mteb](https://github.com/embeddings-benchmark/mteb)
 
@@ -998,7 +990,7 @@ LLM实验和AI智能体的评估与追踪工具，帮助开发者衡量和优化
 
 - **Stars:** ⭐️ 3.4k
 - **Tags:** `text-embedding` `benchmark` `nlp` `information-retrieval`
-- **最后活动时间:** 2026-08-04
+- **最后活动时间:** 2026-08-22
 
 ### [hallucination-leaderboard](https://github.com/vectara/hallucination-leaderboard)
 
@@ -1012,9 +1004,9 @@ LLM幻觉评估排行榜，对比主流大模型在文档摘要任务中的幻�
 
 轻量高效的大模型评估框架，支持LLM、VLM、AIGC模型的性能基准测试。
 
-- **Stars:** ⭐️ 3.2k
+- **Stars:** ⭐️ 3.3k
 - **Tags:** `模型评估` `基准测试` `LLM`
-- **最后活动时间:** 2026-08-07
+- **最后活动时间:** 2026-08-21
 
 ### [pymoo](https://github.com/anyoptimization/pymoo)
 
@@ -1032,21 +1024,29 @@ LLM幻觉评估排行榜，对比主流大模型在文档摘要任务中的幻�
 - **Tags:** `模型评估` `LLM` `多模态`
 - **最后活动时间:** 2026-08-01
 
+### [inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai)
+
+专为大语言模型评估设计的开源框架，支持多种评测任务。
+
+- **Stars:** ⭐️ 2.6k
+- **Tags:** `llm-evaluation` `benchmark` `framework`
+- **最后活动时间:** 2026-08-22
+
+### [terminal-bench-1](https://github.com/harbor-framework/terminal-bench-1)
+
+用于评估大语言模型在终端中完成复杂任务能力的基准测试。
+
+- **Stars:** ⭐️ 2.5k
+- **Tags:** `llm` `benchmark` `terminal` `evaluation`
+- **最后活动时间:** 2026-07-11
+
 ### [lighteval](https://github.com/huggingface/lighteval)
 
 HuggingFace出品的LLM全栈评估工具包，支持多后端模型评估与丰富的评估指标。
 
 - **Stars:** ⭐️ 2.5k
 - **Tags:** `LLM评估` `HuggingFace` `评估框架`
-- **最后活动时间:** 2026-06-29
-
-### [terminal-bench](https://github.com/harbor-framework/terminal-bench)
-
-评估大语言模型在终端复杂任务中表现的基准测试框架。
-
-- **Stars:** ⭐️ 2.5k
-- **Tags:** `Benchmark` `LLM Evaluation` `Terminal`
-- **最后活动时间:** 2026-07-11
+- **最后活动时间:** 2026-08-11
 
 ### [pyomo](https://github.com/Pyomo/pyomo)
 
@@ -1054,7 +1054,7 @@ HuggingFace出品的LLM全栈评估工具包，支持多后端模型评估与丰
 
 - **Stars:** ⭐️ 2.5k
 - **Tags:** `optimization` `linear-programming` `python` `mathematical-programming`
-- **最后活动时间:** 2026-07-13
+- **最后活动时间:** 2026-08-18
 
 ### [evaluate](https://github.com/huggingface/evaluate)
 
@@ -1070,7 +1070,7 @@ Julia语言中的数学优化建模语言，支持线性、混合整数、锥体
 
 - **Stars:** ⭐️ 2.5k
 - **Tags:** `optimization` `julia` `mathematical-programming` `linear-programming`
-- **最后活动时间:** 2026-07-29
+- **最后活动时间:** 2026-08-18
 
 ### [torchmetrics](https://github.com/Lightning-AI/torchmetrics)
 
@@ -1078,15 +1078,7 @@ PyTorch分布式机器学习评估指标库，支持多种深度学习指标。
 
 - **Stars:** ⭐️ 2.5k
 - **Tags:** `metrics` `pytorch` `deep-learning` `machine-learning`
-- **最后活动时间:** 2026-07-16
-
-### [inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai)
-
-专为大语言模型评估设计的开源框架，支持多种评测任务。
-
-- **Stars:** ⭐️ 2.4k
-- **Tags:** `llm-evaluation` `benchmark` `framework`
-- **最后活动时间:** 2026-07-31
+- **最后活动时间:** 2026-08-20
 
 ### [needle-in-a-haystack](https://github.com/gkamradt/needle-in-a-haystack)
 
@@ -1096,6 +1088,14 @@ PyTorch分布式机器学习评估指标库，支持多种深度学习指标。
 - **Tags:** `llm` `evaluation` `retrieval` `context-length`
 - **最后活动时间:** 2026-06-08
 
+### [MingLi-Bench](https://github.com/DestinyLinker/MingLi-Bench)
+
+专注于中国传统命理学（八字、紫微斗数）的大语言模型评测基准，提供独特的文化视角评估方案。
+
+- **Stars:** ⭐️ 2.3k
+- **Tags:** `llm-benchmark` `evaluation` `chinese` `fortune-telling`
+- **最后活动时间:** 2026-05-09
+
 ### [nlopt](https://github.com/stevengj/nlopt)
 
 一个强大的非线性优化库，封装了多种全局与局部优化算法。适用于机器学习模型参数寻优及复杂约束优化场景。
@@ -1104,21 +1104,21 @@ PyTorch分布式机器学习评估指标库，支持多种深度学习指标。
 - **Tags:** `optimization` `nonlinear-optimization` `c` `math`
 - **最后活动时间:** 2026-06-06
 
-### [MingLi-Bench](https://github.com/DestinyLinker/MingLi-Bench)
-
-专注于中国传统命理学（八字、紫微斗数）的大语言模型评测基准，提供独特的文化视角评估方案。
-
-- **Stars:** ⭐️ 2.2k
-- **Tags:** `llm-benchmark` `evaluation` `chinese` `fortune-telling`
-- **最后活动时间:** 2026-05-09
-
 ### [EvalAI](https://github.com/Cloud-CV/EvalAI)
 
 开源AI模型评估平台，支持创建AI挑战赛和排行榜，推动可复现研究。
 
 - **Stars:** ⭐️ 2.0k
 - **Tags:** `Evaluation` `Benchmark` `Leaderboard`
-- **最后活动时间:** 2026-08-08
+- **最后活动时间:** 2026-08-22
+
+### [tau2-bench](https://github.com/sierra-research/tau2-bench)
+
+双控环境下的对话智能体评估基准，用于测试和衡量AI代理的对话能力。
+
+- **Stars:** ⭐️ 1.9k
+- **Tags:** `Benchmark` `Evaluation` `Agents`
+- **最后活动时间:** 2026-08-18
 
 ### [bullshit-benchmark](https://github.com/petergpt/bullshit-benchmark)
 
@@ -1126,7 +1126,15 @@ PyTorch分布式机器学习评估指标库，支持多种深度学习指标。
 
 - **Stars:** ⭐️ 1.8k
 - **Tags:** `llm-evaluation` `benchmark` `ai-safety` `model-evaluation`
-- **最后活动时间:** 2026-08-01
+- **最后活动时间:** 2026-08-22
+
+### [future-agi](https://github.com/future-agi/future-agi)
+
+开源的LLM和AI智能体应用评估观测平台，支持追踪、评估、模拟、数据集管理、网关和防护栏等功能。
+
+- **Stars:** ⭐️ 1.8k
+- **Tags:** `ai` `llm` `evals` `observability` `simulation`
+- **最后活动时间:** 2026-08-22
 
 ### [WeightWatcher](https://github.com/CalculatedContent/WeightWatcher)
 
@@ -1136,6 +1144,14 @@ PyTorch分布式机器学习评估指标库，支持多种深度学习指标。
 - **Tags:** `deep-learning` `model-evaluation` `neural-network` `accuracy-prediction`
 - **最后活动时间:** 2026-05-11
 
+### [training](https://github.com/mlcommons/training)
+
+MLPerf训练基准参考实现，提供机器学习模型训练性能的标准化评估。
+
+- **Stars:** ⭐️ 1.8k
+- **Tags:** `mlperf` `benchmark` `machine-learning` `training`
+- **最后活动时间:** 2026-08-17
+
 ### [HiGHS](https://github.com/ERGO-Code/HiGHS)
 
 高性能线性优化软件，用于解决线性规划和混合整数规划问题。可作为AI运筹优化和复杂决策系统底层的数学求解引擎。
@@ -1144,29 +1160,13 @@ PyTorch分布式机器学习评估指标库，支持多种深度学习指标。
 - **Tags:** `linear-optimization` `mixed-integer-programming` `simplex` `high-performance` `mathematical-optimization`
 - **最后活动时间:** 2026-08-06
 
-### [training](https://github.com/mlcommons/training)
-
-MLPerf训练基准参考实现，提供机器学习模型训练性能的标准化评估。
-
-- **Stars:** ⭐️ 1.8k
-- **Tags:** `mlperf` `benchmark` `machine-learning` `training`
-- **最后活动时间:** 2026-07-27
-
-### [tau2-bench](https://github.com/sierra-research/tau2-bench)
-
-双控环境下的对话智能体评估基准，用于测试和衡量AI代理的对话能力。
-
-- **Stars:** ⭐️ 1.8k
-- **Tags:** `Benchmark` `Evaluation` `Agents`
-- **最后活动时间:** 2026-08-07
-
 ### [VBench](https://github.com/Vchitect/VBench)
 
 CVPR2024 Highlight视频生成评估基准工具，提供全面的视频生成质量评测方案。学术级权威评测框架。
 
 - **Stars:** ⭐️ 1.7k
 - **Tags:** `Video Generation` `Benchmark` `Evaluation`
-- **最后活动时间:** 2026-03-23
+- **最后活动时间:** 2026-08-21
 
 ### [mle-bench](https://github.com/openai/mle-bench)
 
@@ -1176,6 +1176,14 @@ CVPR2024 Highlight视频生成评估基准工具，提供全面的视频生成�
 - **Tags:** `benchmark` `ml-engineering` `ai-agents` `evaluation`
 - **最后活动时间:** 2026-04-24
 
+### [trackio](https://github.com/gradio-app/trackio)
+
+Hugging Face 出品的轻量级、本地优先且免费的实验跟踪库，可轻松记录和管理机器学习训练过程中的指标与产物。
+
+- **Stars:** ⭐️ 1.7k
+- **Tags:** `experiment-tracking` `machine-learning` `hugging-face` `mlops`
+- **最后活动时间:** 2026-08-21
+
 ### [evalite](https://github.com/mattpocock/evalite)
 
 TypeScript LLM 应用评估框架，帮助测试和优化 AI 应用性能。
@@ -1183,14 +1191,6 @@ TypeScript LLM 应用评估框架，帮助测试和优化 AI 应用性能。
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `ai` `evals` `typescript` `llm`
 - **最后活动时间:** 2026-04-28
-
-### [future-agi](https://github.com/future-agi/future-agi)
-
-开源的LLM和AI智能体应用评估观测平台，支持追踪、评估、模拟、数据集管理、网关和防护栏等功能。
-
-- **Stars:** ⭐️ 1.6k
-- **Tags:** `ai` `llm` `evals` `observability` `simulation`
-- **最后活动时间:** 2026-08-07
 
 ### [imodels](https://github.com/csinva/imodels)
 
@@ -1214,7 +1214,7 @@ TypeScript LLM 应用评估框架，帮助测试和优化 AI 应用性能。
 
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `reinforcement-learning` `benchmark` `evaluation` `rl-agent`
-- **最后活动时间:** 2026-07-29
+- **最后活动时间:** 2026-08-06
 
 ### [pycm](https://github.com/sepandhaghighi/pycm)
 
@@ -1222,7 +1222,7 @@ TypeScript LLM 应用评估框架，帮助测试和优化 AI 应用性能。
 
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `confusion-matrix` `machine-learning` `evaluation`
-- **最后活动时间:** 2026-08-06
+- **最后活动时间:** 2026-08-17
 
 ### [atropos](https://github.com/NousResearch/atropos)
 
@@ -1240,6 +1240,14 @@ LLM强化学习环境框架，用于收集和评估大语言模型在多样化�
 - **Tags:** `Coding Agent` `Evaluation` `Benchmark`
 - **最后活动时间:** 2026-07-22
 
+### [skill](https://github.com/pinchbench/skill)
+
+PinchBench基准测试系统，评估LLM模型作为编码智能体的表现。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `benchmark` `llm-evaluation` `coding-agents`
+- **最后活动时间:** 2026-07-02
+
 ### [ShinkaEvolve](https://github.com/SakanaAI/ShinkaEvolve)
 
 一个致力于实现开放式且样本高效的程序进化框架。该项目探索了人工智能在代码生成与进化算法中的前沿应用。
@@ -1248,13 +1256,13 @@ LLM强化学习环境框架，用于收集和评估大语言模型在多样化�
 - **Tags:** `program-evolution` `open-ended` `sample-efficient` `code-generation`
 - **最后活动时间:** 2026-07-31
 
-### [skill](https://github.com/pinchbench/skill)
+### [LiveBench](https://github.com/LiveBench/LiveBench)
 
-PinchBench基准测试系统，评估LLM模型作为编码智能体的表现。
+具有挑战性的无污染LLM基准测试，提供真实可靠的模型能力评估。
 
 - **Stars:** ⭐️ 1.3k
-- **Tags:** `benchmark` `llm-evaluation` `coding-agents`
-- **最后活动时间:** 2026-07-02
+- **Tags:** `基准测试` `LLM评估` `无污染`
+- **最后活动时间:** 2026-08-22
 
 ### [SRPO](https://github.com/Tencent-Hunyuan/SRPO)
 
@@ -1264,13 +1272,13 @@ PinchBench基准测试系统，评估LLM模型作为编码智能体的表现。
 - **Tags:** `Diffusion Models` `Human Preference` `Alignment`
 - **最后活动时间:** 2026-05-11
 
-### [LiveBench](https://github.com/LiveBench/LiveBench)
+### [mealpy](https://github.com/thieu1995/mealpy)
 
-具有挑战性的无污染LLM基准测试，提供真实可靠的模型能力评估。
+一个全面的Python元启发式算法集合，包含多种最先进的自然启发式优化器。适用于机器学习超参数调优、调度优化和供应链优化等复杂AI优化问题。
 
 - **Stars:** ⭐️ 1.3k
-- **Tags:** `基准测试` `LLM评估` `无污染`
-- **最后活动时间:** 2026-07-28
+- **Tags:** `metaheuristics` `optimization` `python` `swarm-intelligence` `nature-inspired-algorithms`
+- **最后活动时间:** 2026-07-24
 
 ### [model-analysis](https://github.com/tensorflow/model-analysis)
 
@@ -1278,7 +1286,7 @@ TensorFlow模型分析工具，用于评估模型性能和公平性。
 
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `model-evaluation` `tensorflow` `machine-learning`
-- **最后活动时间:** 2026-06-12
+- **最后活动时间:** 2026-08-14
 
 ### [frontier-evals](https://github.com/openai/frontier-evals)
 
@@ -1288,13 +1296,13 @@ OpenAI官方的前沿模型评估框架，用于评估和测试先进AI模型的
 - **Tags:** `evaluation` `openai` `llm-evaluation` `model-safety`
 - **最后活动时间:** 2026-04-21
 
-### [mealpy](https://github.com/thieu1995/mealpy)
+### [harvey-labs](https://github.com/harveyai/harvey-labs)
 
-一个全面的Python元启发式算法集合，包含多种最先进的自然启发式优化器。适用于机器学习超参数调优、调度优化和供应链优化等复杂AI优化问题。
+一个专门用于评估和提升AI智能体在法律工作支持能力的基准测试工具。帮助开发者衡量智能体在法律场景下的实际表现与能力边界。
 
-- **Stars:** ⭐️ 1.3k
-- **Tags:** `metaheuristics` `optimization` `python` `swarm-intelligence` `nature-inspired-algorithms`
-- **最后活动时间:** 2026-07-24
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `benchmark` `ai-agents` `legal` `evaluation`
+- **最后活动时间:** 2026-08-12
 
 ### [SMAC3](https://github.com/automl/SMAC3)
 
@@ -1302,15 +1310,7 @@ OpenAI官方的前沿模型评估框架，用于评估和测试先进AI模型的
 
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `bayesian-optimization` `hyperparameter-optimization` `automl` `machine-learning`
-- **最后活动时间:** 2026-07-29
-
-### [torch-fidelity](https://github.com/toshas/torch-fidelity)
-
-PyTorch生成模型的高保真性能评估指标库，支持FID、IS、KID等主流指标计算。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `生成模型` `评估指标` `PyTorch`
-- **最后活动时间:** 2026-05-11
+- **最后活动时间:** 2026-08-21
 
 ### [KernelBench](https://github.com/ScalingIntelligence/KernelBench)
 
@@ -1320,13 +1320,21 @@ PyTorch生成模型的高保真性能评估指标库，支持FID、IS、KID等�
 - **Tags:** `GPU` `代码生成` `基准测试`
 - **最后活动时间:** 2026-03-24
 
+### [torch-fidelity](https://github.com/toshas/torch-fidelity)
+
+PyTorch生成模型的高保真性能评估指标库，支持FID、IS、KID等主流指标计算。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `生成模型` `评估指标` `PyTorch`
+- **最后活动时间:** 2026-05-11
+
 ### [uqlm](https://github.com/cvs-health/uqlm)
 
 语言模型不确定性量化Python包，用于基于UQ的LLM幻觉检测和置信度评估。
 
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `Hallucination Detection` `AI Safety` `LLM Evaluation`
-- **最后活动时间:** 2026-08-03
+- **最后活动时间:** 2026-08-17
 
 ### [procgen](https://github.com/openai/procgen)
 
@@ -1335,6 +1343,14 @@ OpenAI开发的强化学习基准测试环境，提供程序化生成的类游�
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `reinforcement-learning` `benchmark` `gym-environments` `procgen`
 - **最后活动时间:** 2026-03-27
+
+### [openevals](https://github.com/langchain-ai/openevals)
+
+开箱即用的LLM应用评估工具集，帮助开发者快速评估模型性能和应用质量。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `Evaluation` `LLM` `Testing`
+- **最后活动时间:** 2026-08-20
 
 ### [ppscore](https://github.com/8080labs/ppscore)
 
@@ -1348,17 +1364,9 @@ Python实现的预测能力评分（PPS）工具，用于检测数据特征间�
 
 R语言模型性能评估包，提供R2、ICC、LOO、AIC、BF等多种统计指标计算。
 
-- **Stars:** ⭐️ 1.1k
+- **Stars:** ⭐️ 1.2k
 - **Tags:** `statistics` `model-evaluation` `r-package` `metrics`
-- **最后活动时间:** 2026-07-31
-
-### [openevals](https://github.com/langchain-ai/openevals)
-
-开箱即用的LLM应用评估工具集，帮助开发者快速评估模型性能和应用质量。
-
-- **Stars:** ⭐️ 1.1k
-- **Tags:** `Evaluation` `LLM` `Testing`
-- **最后活动时间:** 2026-07-25
+- **最后活动时间:** 2026-08-20
 
 ### [judgeval](https://github.com/JudgmentLabs/judgeval)
 
@@ -1366,7 +1374,15 @@ R语言模型性能评估包，提供R2、ICC、LOO、AIC、BF等多种统计指
 
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `Agent Evaluation` `RL` `Observability`
-- **最后活动时间:** 2026-07-29
+- **最后活动时间:** 2026-08-17
+
+### [rogue](https://github.com/rogue-security/rogue)
+
+AI 智能体评估与红队测试平台，支持端到端安全测试。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `ai-agents` `red-teaming` `e2e-testing` `llm`
+- **最后活动时间:** 2026-08-04
 
 ### [rogue](https://github.com/qualifire-dev/rogue)
 
@@ -1376,6 +1392,14 @@ AI智能体评估与红队测试平台，用于测试和评估AI Agent的安全�
 - **Tags:** `Agent Testing` `Red Team` `E2E Testing`
 - **最后活动时间:** 2026-05-04
 
+### [workshop](https://github.com/raindrop-ai/workshop)
+
+让AI编程智能体能够编写和运行智能体评估测试的工具框架。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `llm` `agent-evals` `tracing`
+- **最后活动时间:** 2026-08-22
+
 ### [factorio-learning-environment](https://github.com/JackHopkins/factorio-learning-environment)
 
 基于Factorio游戏的开放式LLM评估环境，用于测试大语言模型在复杂任务规划与自动化场景中的能力表现。
@@ -1383,6 +1407,14 @@ AI智能体评估与红队测试平台，用于测试和评估AI Agent的安全�
 - **Stars:** ⭐️ 1.0k
 - **Tags:** `llm-evaluation` `benchmark` `agent-evaluation` `factorio`
 - **最后活动时间:** 2026-06-11
+
+### [LongMemEval](https://github.com/xiaowu0162/LongMemEval)
+
+评估聊天助手长期交互记忆能力的基准测试，发表于ICLR 2025。
+
+- **Stars:** ⭐️ 1.0k
+- **Tags:** `llm` `benchmark` `long-term-memory` `evaluation` `chat-assistant`
+- **最后活动时间:** 2026-05-11
 
 ### [BIRD-Interact](https://github.com/bird-bench/BIRD-Interact)
 
@@ -1396,7 +1428,7 @@ AI智能体评估与红队测试平台，用于测试和评估AI Agent的安全�
 
 机器学习评估指标参考手册，涵盖分类、回归、聚类等指标。
 
-- **Stars:** ⭐️ 999
+- **Stars:** ⭐️ 1.0k
 - **Tags:** `metrics` `machine-learning` `evaluation` `book`
 - **最后活动时间:** 2026-06-04
 
@@ -1408,22 +1440,6 @@ AI智能体评估与红队测试平台，用于测试和评估AI Agent的安全�
 - **Tags:** `ai-evaluation` `llm` `model-evaluation` `testing`
 - **最后活动时间:** 2026-07-29
 
-### [LongMemEval](https://github.com/xiaowu0162/LongMemEval)
-
-评估聊天助手长期交互记忆能力的基准测试，发表于ICLR 2025。
-
-- **Stars:** ⭐️ 965
-- **Tags:** `llm` `benchmark` `long-term-memory` `evaluation` `chat-assistant`
-- **最后活动时间:** 2026-05-11
-
-### [workshop](https://github.com/raindrop-ai/workshop)
-
-让AI编程智能体能够编写和运行智能体评估测试的工具框架。
-
-- **Stars:** ⭐️ 954
-- **Tags:** `llm` `agent-evals` `tracing`
-- **最后活动时间:** 2026-07-22
-
 ### [ollama-grid-search](https://github.com/dezoito/ollama-grid-search)
 
 一款跨平台桌面应用，用于评估和比较本地LLM模型性能，支持网格搜索和A/B测试，帮助开发者选择最优模型配置。
@@ -1432,11 +1448,19 @@ AI智能体评估与红队测试平台，用于测试和评估AI Agent的安全�
 - **Tags:** `llm` `ollama` `grid-search` `evaluation` `rust`
 - **最后活动时间:** 2026-07-11
 
+### [OPD](https://github.com/thunlp/OPD)
+
+深入探讨大语言模型在策略蒸馏（On-Policy Distillation）中的现象学、机制及实践配方的研究项目。为 LLM 的训练与优化提供理论指导和实验依据。
+
+- **Stars:** ⭐️ 946
+- **Tags:** `llms` `on-policy-distillation` `mechanism`
+- **最后活动时间:** 2026-08-20
+
 ### [jiwer](https://github.com/jitsi/jiwer)
 
 语音识别系统评估工具，提供词错误率(WER)等相似度度量指标，用于评估和优化语音转文本系统性能。
 
-- **Stars:** ⭐️ 922
+- **Stars:** ⭐️ 923
 - **Tags:** `speech-to-text` `evaluation-metrics` `wer` `asr`
 - **最后活动时间:** 2026-04-16
 
@@ -1447,14 +1471,6 @@ AI智能体评估与红队测试平台，用于测试和评估AI Agent的安全�
 - **Stars:** ⭐️ 914
 - **Tags:** `benchmark` `search-agent` `agentic-ai` `evaluation`
 - **最后活动时间:** 2026-05-28
-
-### [OPD](https://github.com/thunlp/OPD)
-
-深入探讨大语言模型在策略蒸馏（On-Policy Distillation）中的现象学、机制及实践配方的研究项目。为 LLM 的训练与优化提供理论指导和实验依据。
-
-- **Stars:** ⭐️ 873
-- **Tags:** `llms` `on-policy-distillation` `mechanism`
-- **最后活动时间:** 2026-06-29
 
 ### [ProgramBench](https://github.com/facebookresearch/ProgramBench)
 
@@ -1468,15 +1484,23 @@ AI智能体评估与红队测试平台，用于测试和评估AI Agent的安全�
 
 表格数据学习综合工具包与基准，包含35+深度学习方法、10+经典方法和300+数据集。
 
-- **Stars:** ⭐️ 850
+- **Stars:** ⭐️ 851
 - **Tags:** `tabular-data` `deep-learning` `benchmark` `machine-learning`
 - **最后活动时间:** 2026-07-13
+
+### [codex-candy-eval](https://github.com/haowang02/codex-candy-eval)
+
+Codex 降智测试工具，用于评估 Codex AI 模型的性能衰退或能力变化。为 AI 模型评估提供了一种有趣的基准测试方法。
+
+- **Stars:** ⭐️ 830
+- **Tags:** `codex` `evaluation` `ai-metrics` `testing`
+- **最后活动时间:** 2026-07-09
 
 ### [ClawProBench](https://github.com/suyoumo/ClawProBench)
 
 LLM智能体评测基准平台，提供确定性评分和重复试验可靠性验证，支持排行榜功能。
 
-- **Stars:** ⭐️ 820
+- **Stars:** ⭐️ 822
 - **Tags:** `llm` `benchmark` `evaluation` `agent` `leaderboard`
 - **最后活动时间:** 2026-06-28
 
@@ -1494,7 +1518,15 @@ LLM智能体评测基准平台，提供确定性评分和重复试验可靠性�
 
 - **Stars:** ⭐️ 812
 - **Tags:** `optimization` `jax` `meta-learning` `training`
-- **最后活动时间:** 2026-07-08
+- **最后活动时间:** 2026-08-06
+
+### [OpenJudge](https://github.com/agentscope-ai/OpenJudge)
+
+一个统一的大语言模型评估框架，提供全面的质量评估和奖励模型功能，支持RLHF对齐训练。
+
+- **Stars:** ⭐️ 797
+- **Tags:** `llm` `evaluation` `reward-model` `rlhf` `alignment`
+- **最后活动时间:** 2026-08-03
 
 ### [openbench](https://github.com/groq/openbench)
 
@@ -1520,21 +1552,21 @@ NeurIPS 2025论文官方实现，提供UnifiedReward-Think和UnifiedReward-Flex�
 - **Tags:** `reinforcement-learning` `reward-model` `llm` `evaluation`
 - **最后活动时间:** 2026-06-18
 
-### [codex-candy-eval](https://github.com/haowang02/codex-candy-eval)
-
-Codex 降智测试工具，用于评估 Codex AI 模型的性能衰退或能力变化。为 AI 模型评估提供了一种有趣的基准测试方法。
-
-- **Stars:** ⭐️ 786
-- **Tags:** `codex` `evaluation` `ai-metrics` `testing`
-- **最后活动时间:** 2026-07-09
-
 ### [robustbench](https://github.com/RobustBench/robustbench)
 
 NeurIPS 2021标准化对抗鲁棒性基准测试平台，提供模型鲁棒性评估工具。
 
-- **Stars:** ⭐️ 782
+- **Stars:** ⭐️ 781
 - **Tags:** `adversarial-robustness` `benchmark` `machine-learning` `security`
 - **最后活动时间:** 2026-04-14
+
+### [COMET](https://github.com/Unbabel/COMET)
+
+基于神经网络的机器翻译评估框架，提供高质量MT评价指标。
+
+- **Stars:** ⭐️ 775
+- **Tags:** `machine-translation` `evaluation-metrics` `nlp` `neural-network`
+- **最后活动时间:** 2026-04-21
 
 ### [ISC-Bench](https://github.com/wuyoscar/ISC-Bench)
 
@@ -1544,37 +1576,21 @@ NeurIPS 2021标准化对抗鲁棒性基准测试平台，提供模型鲁棒性�
 - **Tags:** `ai-safety` `benchmark` `llm-safety` `red-teaming` `jailbreak`
 - **最后活动时间:** 2026-05-14
 
-### [COMET](https://github.com/Unbabel/COMET)
-
-基于神经网络的机器翻译评估框架，提供高质量MT评价指标。
-
-- **Stars:** ⭐️ 771
-- **Tags:** `machine-translation` `evaluation-metrics` `nlp` `neural-network`
-- **最后活动时间:** 2026-04-21
-
 ### [aequitas](https://github.com/dssg/aequitas)
 
 机器学习偏见审计与公平性工具包，用于检测和缓解算法偏见。
 
-- **Stars:** ⭐️ 769
+- **Stars:** ⭐️ 771
 - **Tags:** `bias-detection` `fairness` `ml-audit` `responsible-ai`
 - **最后活动时间:** 2026-05-12
-
-### [OpenJudge](https://github.com/agentscope-ai/OpenJudge)
-
-一个统一的大语言模型评估框架，提供全面的质量评估和奖励模型功能，支持RLHF对齐训练。
-
-- **Stars:** ⭐️ 761
-- **Tags:** `llm` `evaluation` `reward-model` `rlhf` `alignment`
-- **最后活动时间:** 2026-07-09
 
 ### [OpenMDAO](https://github.com/OpenMDAO/OpenMDAO)
 
 一个由NASA开发的开源多学科设计分析优化（MDAO）框架。适用于复杂系统工程和AI模型设计中的高级优化任务。
 
-- **Stars:** ⭐️ 761
+- **Stars:** ⭐️ 770
 - **Tags:** `optimization` `framework` `nasa` `openmdao` `engineering`
-- **最后活动时间:** 2026-07-17
+- **最后活动时间:** 2026-08-21
 
 ### [web-codegen-scorer](https://github.com/angular/web-codegen-scorer)
 
@@ -1588,17 +1604,17 @@ NeurIPS 2021标准化对抗鲁棒性基准测试平台，提供模型鲁棒性�
 
 LLM智能体评测框架，所有任务均经人工验证，专注于评估大语言模型的智能体能力。
 
-- **Stars:** ⭐️ 742
+- **Stars:** ⭐️ 752
 - **Tags:** `llm` `evaluation` `agent` `harness`
-- **最后活动时间:** 2026-08-07
+- **最后活动时间:** 2026-08-22
 
 ### [dingo](https://github.com/MigoXLab/dingo)
 
 全面的AI数据、模型和应用质量评估工具，支持LLM幻觉检测和数据质量评估。
 
-- **Stars:** ⭐️ 736
+- **Stars:** ⭐️ 741
 - **Tags:** `LLM评估` `数据质量` `幻觉检测`
-- **最后活动时间:** 2026-08-07
+- **最后活动时间:** 2026-08-22
 
 ### [geomloss](https://github.com/jeanfeydy/geomloss)
 
@@ -1608,19 +1624,11 @@ LLM智能体评测框架，所有任务均经人工验证，专注于评估大�
 - **Tags:** `loss-function` `point-cloud` `deep-learning` `pytorch`
 - **最后活动时间:** 2026-05-12
 
-### [mir_eval](https://github.com/mir-evaluation/mir_eval)
-
-用于音乐和音频信息检索及信号处理算法的评估函数库。为音频AI模型的开发提供标准化的评估指标。
-
-- **Stars:** ⭐️ 710
-- **Tags:** `audio` `music` `evaluation` `signal-processing` `mir`
-- **最后活动时间:** 2026-02-19
-
 ### [long-form-factuality](https://github.com/google-deepmind/long-form-factuality)
 
 大语言模型长文本事实性评估基准，提供论文原始代码用于评测LLM生成内容的事实准确性。
 
-- **Stars:** ⭐️ 691
+- **Stars:** ⭐️ 692
 - **Tags:** `llm` `benchmark` `factuality` `evaluation`
 - **最后活动时间:** 2026-06-18
 
@@ -1628,7 +1636,7 @@ LLM智能体评测框架，所有任务均经人工验证，专注于评估大�
 
 AI安全验证基准测试集，用于评估AI系统的安全性和可靠性。
 
-- **Stars:** ⭐️ 676
+- **Stars:** ⭐️ 685
 - **Tags:** `ai-security` `benchmark` `validation`
 - **最后活动时间:** 2026-07-07
 
@@ -1640,19 +1648,27 @@ AI安全验证基准测试集，用于评估AI系统的安全性和可靠性。
 - **Tags:** `reinforcement-learning` `ai-agent` `scalable-training`
 - **最后活动时间:** 2026-07-15
 
+### [skill-up](https://github.com/alibaba/skill-up)
+
+阿里开源的 Agent Skills 评估与进化工具，帮助测试和优化智能体技能。
+
+- **Stars:** ⭐️ 666
+- **Tags:** `agent-skills` `ai-agents` `evaluation`
+- **最后活动时间:** 2026-08-21
+
 ### [skore](https://github.com/probabl-ai/skore)
 
 机器学习模型开发加速库，提供自动化评估报告、方法论指导和交叉验证分析，帮助数据科学家追踪和优化模型。
 
-- **Stars:** ⭐️ 654
+- **Stars:** ⭐️ 659
 - **Tags:** `ML评估` `数据科学` `Python`
-- **最后活动时间:** 2026-08-01
+- **最后活动时间:** 2026-08-19
 
 ### [AICGSecEval](https://github.com/Tencent/AICGSecEval)
 
 腾讯悟空代码安全团队开发的AI生成代码安全评估基准，用于评估代码安全性。
 
-- **Stars:** ⭐️ 647
+- **Stars:** ⭐️ 654
 - **Tags:** `Benchmark` `Code Security` `AIGC`
 - **最后活动时间:** 2026-05-25
 
@@ -1660,7 +1676,7 @@ AI安全验证基准测试集，用于评估AI系统的安全性和可靠性。
 
 实现了8种图像相似度评估指标，包括RMSE、PSNR、SSIM、FSIM等，适用于机器学习图像处理任务的评估。
 
-- **Stars:** ⭐️ 646
+- **Stars:** ⭐️ 647
 - **Tags:** `Image Processing` `Evaluation Metrics` `Machine Learning`
 - **最后活动时间:** 2026-04-08
 
@@ -1672,27 +1688,27 @@ AI安全验证基准测试集，用于评估AI系统的安全性和可靠性。
 - **Tags:** `ai-safety` `model-evaluation` `security` `garak`
 - **最后活动时间:** 2026-08-04
 
-### [genai-compliance-bench](https://github.com/zzyfight/genai-compliance-bench)
+### [ChineseErrorCorrector](https://github.com/TW-NLP/ChineseErrorCorrector)
 
-面向监管行业的生成式AI合规评估基准，用于评估GenAI在受监管场景下的表现与合规性。
+面向中文文本纠错任务的综合平台，集学术研究、模型训练、评测和推理部署于一体。提供文本纠错新SOTA模型及完整工具链。
 
 - **Stars:** ⭐️ 635
-- **Tags:** `genai` `compliance` `benchmark` `evaluation` `llm-evaluation`
-- **最后活动时间:** 2026-03-27
+- **Tags:** `nlp` `chinese` `text-correction` `evaluation` `model-training`
+- **最后活动时间:** 2026-06-30
 
 ### [marginaleffects](https://github.com/vincentarelbundock/marginaleffects)
 
 R语言统计分析包，支持100多种统计和ML模型的预测、边际效应计算与可视化，提供多种不确定性估计方法。
 
-- **Stars:** ⭐️ 629
+- **Stars:** ⭐️ 632
 - **Tags:** `r` `statistics` `machine-learning` `evaluation` `interpretability`
-- **最后活动时间:** 2026-07-20
+- **最后活动时间:** 2026-08-21
 
 ### [weatherbench2](https://github.com/google-research/weatherbench2)
 
 下一代数据驱动全球天气预报模型的基准测试平台，用于评估和比较AI气象预测模型的性能。
 
-- **Stars:** ⭐️ 628
+- **Stars:** ⭐️ 632
 - **Tags:** `weather-forecasting` `benchmark` `machine-learning` `data-driven`
 - **最后活动时间:** 2026-08-01
 
@@ -1716,33 +1732,41 @@ R语言统计分析包，支持100多种统计和ML模型的预测、边际效�
 
 一站式图像质量评估指标库，包含PSNR、SSIM、FSIM等多种指标，适用于超分辨率等AI任务的评估。
 
-- **Stars:** ⭐️ 614
+- **Stars:** ⭐️ 611
 - **Tags:** `image-quality` `metrics` `evaluation` `super-resolution`
 - **最后活动时间:** 2026-05-01
-
-### [KLUE](https://github.com/KLUE-benchmark/KLUE)
-
-韩语自然语言理解基准测试集，提供标准化评估指标和数据集。
-
-- **Stars:** ⭐️ 602
-- **Tags:** `korean` `benchmark` `bert` `roberta` `nlu`
-- **最后活动时间:** 2026-06-30
 
 ### [evalchemy](https://github.com/mlfoundations/evalchemy)
 
 LLM自动评估工具，提供全面的模型性能测试和基准评测能力。
 
-- **Stars:** ⭐️ 600
+- **Stars:** ⭐️ 605
 - **Tags:** `llm` `evaluation` `benchmark`
 - **最后活动时间:** 2026-02-24
+
+### [KLUE](https://github.com/KLUE-benchmark/KLUE)
+
+韩语自然语言理解基准测试集，提供标准化评估指标和数据集。
+
+- **Stars:** ⭐️ 603
+- **Tags:** `korean` `benchmark` `bert` `roberta` `nlu`
+- **最后活动时间:** 2026-06-30
 
 ### [t2v_metrics](https://github.com/linzhiqiu/t2v_metrics)
 
 用于评估文本到图像/视频/3D生成模型的指标工具，支持VQAScore评分。
 
-- **Stars:** ⭐️ 599
+- **Stars:** ⭐️ 600
 - **Tags:** `generative-ai` `vision-language-model` `evaluation-metrics`
 - **最后活动时间:** 2026-06-05
+
+### [LettuceDetect](https://github.com/KRLabsOrg/LettuceDetect)
+
+轻量级RAG幻觉检测框架，基于BERT实现高效的幻觉评估与检测。
+
+- **Stars:** ⭐️ 598
+- **Tags:** `hallucination-detection` `bert` `nlp` `rag-evaluation`
+- **最后活动时间:** 2026-08-13
 
 ### [MMMU](https://github.com/MMMU-Benchmark/MMMU)
 
@@ -1752,37 +1776,37 @@ LLM自动评估工具，提供全面的模型性能测试和基准评测能力�
 - **Tags:** `多模态` `基准测试` `AGI`
 - **最后活动时间:** 2026-07-28
 
-### [LettuceDetect](https://github.com/KRLabsOrg/LettuceDetect)
-
-轻量级RAG幻觉检测框架，基于BERT实现高效的幻觉评估与检测。
-
-- **Stars:** ⭐️ 589
-- **Tags:** `hallucination-detection` `bert` `nlp` `rag-evaluation`
-- **最后活动时间:** 2026-07-30
-
-### [harvey-labs](https://github.com/harveyai/harvey-labs)
-
-一个专门用于评估和提升AI智能体在法律工作支持能力的基准测试工具。帮助开发者衡量智能体在法律场景下的实际表现与能力边界。
-
-- **Stars:** ⭐️ 585
-- **Tags:** `benchmark` `ai-agents` `legal` `evaluation`
-- **最后活动时间:** 2026-07-30
-
 ### [open-unlearning](https://github.com/locuslab/open-unlearning)
 
 一站式LLM遗忘学习仓库，NeurIPS D&B '25收录，涵盖基准测试、隐私保护和成员推理攻击等研究方向。
 
-- **Stars:** ⭐️ 575
+- **Stars:** ⭐️ 588
 - **Tags:** `Unlearning` `Privacy` `Benchmarks`
 - **最后活动时间:** 2026-03-18
+
+### [genai-compliance-bench](https://github.com/zzyfight/genai-compliance-bench)
+
+面向监管行业的生成式AI合规评估基准，用于评估GenAI在受监管场景下的表现与合规性。
+
+- **Stars:** ⭐️ 563
+- **Tags:** `genai` `compliance` `benchmark` `evaluation` `llm-evaluation`
+- **最后活动时间:** 2026-03-27
+
+### [aiperf](https://github.com/ai-dynamo/aiperf)
+
+全面的基准测试工具，用于衡量各种推理解决方案下生成式 AI 模型的性能表现。
+
+- **Stars:** ⭐️ 560
+- **Tags:** `benchmarking` `generative-ai` `evaluation` `inference`
+- **最后活动时间:** 2026-08-22
 
 ### [langtest](https://github.com/PacificAI/langtest)
 
 大语言模型测试与评估工具包，确保AI模型安全有效部署。
 
-- **Stars:** ⭐️ 561
+- **Stars:** ⭐️ 559
 - **Tags:** `LLM测试` `AI安全` `模型评估`
-- **最后活动时间:** 2026-07-30
+- **最后活动时间:** 2026-08-20
 
 ### [agentevals](https://github.com/langchain-ai/agentevals)
 
@@ -1796,17 +1820,41 @@ LLM自动评估工具，提供全面的模型性能测试和基准评测能力�
 
 面向AI代理的文档解析基准测试，评估OCR、表格提取与视觉语言模型能力。
 
-- **Stars:** ⭐️ 542
+- **Stars:** ⭐️ 551
 - **Tags:** `benchmark` `document-parsing` `evaluation` `vision-language-models`
-- **最后活动时间:** 2026-08-05
+- **最后活动时间:** 2026-08-22
+
+### [terminal-bench](https://github.com/harbor-framework/terminal-bench)
+
+评估大语言模型在终端复杂任务中表现的基准测试框架。
+
+- **Stars:** ⭐️ 527
+- **Tags:** `Benchmark` `LLM Evaluation` `Terminal`
+- **最后活动时间:** 2026-08-22
 
 ### [torch-uncertainty](https://github.com/torch-uncertainty/torch-uncertainty)
 
 PyTorch开源框架，专注于深度学习模型的不确定性量化与可靠AI研究，支持贝叶斯网络、集成方法等。
 
-- **Stars:** ⭐️ 524
+- **Stars:** ⭐️ 526
 - **Tags:** `pytorch` `uncertainty` `bayesian-network` `deep-learning` `reliable-ai`
-- **最后活动时间:** 2026-07-31
+- **最后活动时间:** 2026-08-10
+
+### [PostTrainBench](https://github.com/aisa-group/PostTrainBench)
+
+评测 CLI 智能体（如 Claude Code、Codex CLI）在单张 H100 上 10 小时内对基座模型进行后训练能力的基准。
+
+- **Stars:** ⭐️ 524
+- **Tags:** `post-training` `benchmark` `llm` `ai-agents` `evaluation`
+- **最后活动时间:** 2026-08-21
+
+### [continuous-eval](https://github.com/relari-ai/continuous-eval)
+
+面向LLM应用的数据驱动评估框架，支持RAG系统全流程评估与监控。
+
+- **Stars:** ⭐️ 515
+- **Tags:** `llm-evaluation` `evaluation-framework` `rag` `llmops`
+- **最后活动时间:** 2026-08-10
 
 ### [cmaes](https://github.com/CyberAgentAILab/cmaes)
 
@@ -1824,6 +1872,14 @@ PyTorch开源框架，专注于深度学习模型的不确定性量化与可靠A
 - **Tags:** `lmm` `multimodal` `alignment` `evaluation`
 - **最后活动时间:** 2026-06-24
 
+### [WildClawBench](https://github.com/InternLM/WildClawBench)
+
+面向生产环境的 AI Agent 真实场景基准测试，用于评估智能体在真实任务中的表现。
+
+- **Stars:** ⭐️ 513
+- **Tags:** `agentic-ai` `benchmarks` `agents` `evaluation`
+- **最后活动时间:** 2026-08-17
+
 ### [inspect_evals](https://github.com/UKGovernmentBEIS/inspect_evals)
 
 Inspect AI模型的评估测试集合，用于AI模型性能评测与基准测试。
@@ -1832,21 +1888,21 @@ Inspect AI模型的评估测试集合，用于AI模型性能评测与基准测�
 - **Tags:** `ai-evaluation` `benchmark` `model-testing`
 - **最后活动时间:** 2026-05-22
 
-### [EvoloPy](https://github.com/7ossam81/EvoloPy)
-
-EvoloPy 是一个用于全局优化的工具箱，提供了经典和最新的自然启发式元启发式算法。它支持多种群智能和进化算法，适合用于复杂优化问题的求解。
-
-- **Stars:** ⭐️ 506
-- **Tags:** `evolutionary-algorithms` `metaheuristics` `optimization` `swarm-intelligence`
-- **最后活动时间:** 2026-04-18
-
 ### [MeanFlow](https://github.com/zhuyu-cs/MeanFlow)
 
 MeanFlow 的 PyTorch 实现版本，包含在 ImageNet 和 CIFAR10 上的相关代码。适合用于深度学习模型训练与评估研究。
 
-- **Stars:** ⭐️ 504
+- **Stars:** ⭐️ 508
 - **Tags:** `pytorch` `meanflow` `imagenet` `cifar10` `deep-learning`
 - **最后活动时间:** 2026-04-20
+
+### [EvoloPy](https://github.com/7ossam81/EvoloPy)
+
+EvoloPy 是一个用于全局优化的工具箱，提供了经典和最新的自然启发式元启发式算法。它支持多种群智能和进化算法，适合用于复杂优化问题的求解。
+
+- **Stars:** ⭐️ 507
+- **Tags:** `evolutionary-algorithms` `metaheuristics` `optimization` `swarm-intelligence`
+- **最后活动时间:** 2026-04-18
 
 ### [EchoTorch](https://github.com/nschaetti/EchoTorch)
 
@@ -1858,35 +1914,35 @@ MeanFlow 的 PyTorch 实现版本，包含在 ImageNet 和 CIFAR10 上的相关�
 
 ## Fine-tuning Tools
 
-### [LlamaFactory](https://github.com/hiyouga/LlamaFactory)
-
-统一高效的LLM/VLM微调框架，ACL 2024论文项目，支持100+模型和LoRA/QLoRA/量化等完整微调方案。
-
-- **Stars:** ⭐️ 73.7k
-- **Tags:** `Fine-tuning` `LoRA` `LLM`
-- **最后活动时间:** 2026-07-31
-
 ### [unsloth](https://github.com/unslothai/unsloth)
 
 统一的本地模型训练与运行Web UI，支持Qwen、DeepSeek、Gemma等主流开源模型。
 
-- **Stars:** ⭐️ 69.7k
+- **Stars:** ⭐️ 74.4k
 - **Tags:** `Fine-tuning` `LLM` `Training`
-- **最后活动时间:** 2026-08-09
+- **最后活动时间:** 2026-08-23
+
+### [LlamaFactory](https://github.com/hiyouga/LlamaFactory)
+
+统一高效的LLM/VLM微调框架，ACL 2024论文项目，支持100+模型和LoRA/QLoRA/量化等完整微调方案。
+
+- **Stars:** ⭐️ 74.3k
+- **Tags:** `Fine-tuning` `LoRA` `LLM`
+- **最后活动时间:** 2026-08-20
 
 ### [DeepSpeed](https://github.com/deepspeedai/DeepSpeed)
 
 微软开源深度学习优化库，支持千亿级参数模型训练，提供零冗余优化器和混合并行等核心技术。
 
-- **Stars:** ⭐️ 42.8k
+- **Stars:** ⭐️ 43.0k
 - **Tags:** `分布式训练` `深度学习` `PyTorch`
-- **最后活动时间:** 2026-08-02
+- **最后活动时间:** 2026-08-22
 
 ### [self-llm](https://github.com/datawhalechina/self-llm)
 
 开源大模型食用指南，提供基于Linux环境的LLM/MLLM快速微调（全参数/LoRA）与部署教程，覆盖LLaMA、Qwen、ChatGLM等主流模型。
 
-- **Stars:** ⭐️ 31.5k
+- **Stars:** ⭐️ 31.8k
 - **Tags:** `LLM` `微调` `部署教程` `LoRA`
 - **最后活动时间:** 2026-07-30
 
@@ -1894,57 +1950,57 @@ MeanFlow 的 PyTorch 实现版本，包含在 ImageNet 和 CIFAR10 上的相关�
 
 火山引擎推出的LLM强化学习框架，用于大语言模型的训练和优化。
 
-- **Stars:** ⭐️ 22.8k
+- **Stars:** ⭐️ 23.1k
 - **Tags:** `reinforcement-learning` `llm` `training`
-- **最后活动时间:** 2026-08-01
+- **最后活动时间:** 2026-08-22
 
 ### [peft](https://github.com/huggingface/peft)
 
 Hugging Face官方的参数高效微调库，支持LoRA、Prefix Tuning等前沿方法，大幅降低大模型微调的显存需求。
 
-- **Stars:** ⭐️ 21.5k
+- **Stars:** ⭐️ 21.6k
 - **Tags:** `Fine-tuning` `LoRA` `PEFT` `Transformers`
-- **最后活动时间:** 2026-08-06
+- **最后活动时间:** 2026-08-22
 
 ### [trl](https://github.com/huggingface/trl)
 
 Hugging Face推出的强化学习训练库，支持RLHF、PPO等算法，让大模型对齐训练简单高效。
 
-- **Stars:** ⭐️ 19.0k
+- **Stars:** ⭐️ 19.1k
 - **Tags:** `RLHF` `PPO` `强化学习`
-- **最后活动时间:** 2026-08-06
+- **最后活动时间:** 2026-08-22
 
 ### [WeClone](https://github.com/xming521/WeClone)
 
 从聊天记录创建AI数字分身的一站式解决方案，通过微调大语言模型精准捕捉个人说话风格。
 
-- **Stars:** ⭐️ 18.1k
+- **Stars:** ⭐️ 18.2k
 - **Tags:** `数字分身` `LLM微调` `聊天机器人`
-- **最后活动时间:** 2026-08-03
+- **最后活动时间:** 2026-08-18
 
 ### [Megatron-LM](https://github.com/NVIDIA/Megatron-LM)
 
 NVIDIA开源的大规模Transformer模型训练框架，支持模型并行、张量并行和流水线并行等分布式训练技术。
 
-- **Stars:** ⭐️ 17.3k
+- **Stars:** ⭐️ 17.5k
 - **Tags:** `分布式训练` `Transformer` `NVIDIA`
-- **最后活动时间:** 2026-08-07
+- **最后活动时间:** 2026-08-22
 
 ### [ms-swift](https://github.com/modelscope/ms-swift)
 
 ModelScope官方训练框架，支持PEFT和全参数微调600+大语言模型及300+多模态模型，涵盖SFT/DPO/GRPO等多种训练范式。
 
-- **Stars:** ⭐️ 15.1k
+- **Stars:** ⭐️ 15.3k
 - **Tags:** `LLM训练` `PEFT` `多模态`
-- **最后活动时间:** 2026-08-06
+- **最后活动时间:** 2026-08-22
 
 ### [optuna](https://github.com/optuna/optuna)
 
 强大的超参数优化框架，支持分布式和并行优化，广泛应用于机器学习模型调参。
 
-- **Stars:** ⭐️ 14.6k
+- **Stars:** ⭐️ 14.7k
 - **Tags:** `hyperparameter-optimization` `machine-learning` `auto-ml` `optimization`
-- **最后活动时间:** 2026-07-31
+- **最后活动时间:** 2026-08-21
 
 ### [litgpt](https://github.com/Lightning-AI/litgpt)
 
@@ -1952,13 +2008,13 @@ ModelScope官方训练框架，支持PEFT和全参数微调600+大语言模型�
 
 - **Stars:** ⭐️ 13.6k
 - **Tags:** `LLM` `模型训练` `微调`
-- **最后活动时间:** 2026-07-20
+- **最后活动时间:** 2026-08-17
 
 ### [TinyZero](https://github.com/Jiayi-Pan/TinyZero)
 
 DeepSeek R1-Zero的极简复现版本，帮助开发者快速理解和实验强化学习训练方法。
 
-- **Stars:** ⭐️ 13.1k
+- **Stars:** ⭐️ 13.2k
 - **Tags:** `DeepSeek` `R1-Zero` `强化学习`
 - **最后活动时间:** 2026-02-27
 
@@ -1974,25 +2030,17 @@ DeepSeek R1-Zero的极简复现版本，帮助开发者快速理解和实验强�
 
 流行的LLM微调框架，支持多种模型架构和训练方法，简化大模型微调流程。
 
-- **Stars:** ⭐️ 12.3k
+- **Stars:** ⭐️ 12.4k
 - **Tags:** `Fine-tuning` `LLM`
-- **最后活动时间:** 2026-08-05
+- **最后活动时间:** 2026-08-21
 
 ### [ai-toolkit](https://github.com/ostris/ai-toolkit)
 
 强大的扩散模型微调训练工具包，支持多种模型架构的训练和优化。
 
-- **Stars:** ⭐️ 11.5k
+- **Stars:** ⭐️ 11.8k
 - **Tags:** `diffusion-models` `fine-tuning` `training` `ai-tools`
-- **最后活动时间:** 2026-08-01
-
-### [autogluon](https://github.com/autogluon/autogluon)
-
-AWS开源的AutoML框架，仅需3行代码即可实现快速准确的机器学习，支持表格数据、图像、文本和时间序列。
-
-- **Stars:** ⭐️ 10.6k
-- **Tags:** `AutoML` `Deep Learning` `PyTorch`
-- **最后活动时间:** 2026-08-04
+- **最后活动时间:** 2026-08-21
 
 ### [ART](https://github.com/OpenPipe/ART)
 
@@ -2000,7 +2048,15 @@ AWS开源的AutoML框架，仅需3行代码即可实现快速准确的机器学�
 
 - **Stars:** ⭐️ 10.6k
 - **Tags:** `GRPO` `Reinforcement Learning` `Agent Training`
-- **最后活动时间:** 2026-08-07
+- **最后活动时间:** 2026-08-22
+
+### [autogluon](https://github.com/autogluon/autogluon)
+
+AWS开源的AutoML框架，仅需3行代码即可实现快速准确的机器学习，支持表格数据、图像、文本和时间序列。
+
+- **Stars:** ⭐️ 10.6k
+- **Tags:** `AutoML` `Deep Learning` `PyTorch`
+- **最后活动时间:** 2026-08-22
 
 ### [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF)
 
@@ -2008,7 +2064,7 @@ AWS开源的AutoML框架，仅需3行代码即可实现快速准确的机器学�
 
 - **Stars:** ⭐️ 9.9k
 - **Tags:** `RLHF` `PPO` `Ray` `vLLM`
-- **最后活动时间:** 2026-07-14
+- **最后活动时间:** 2026-08-13
 
 ### [oumi](https://github.com/oumi-ai/oumi)
 
@@ -2016,15 +2072,15 @@ AWS开源的AutoML框架，仅需3行代码即可实现快速准确的机器学�
 
 - **Stars:** ⭐️ 9.4k
 - **Tags:** `微调` `LLM` `VLM`
-- **最后活动时间:** 2026-08-07
+- **最后活动时间:** 2026-08-21
 
 ### [rf-detr](https://github.com/roboflow/rf-detr)
 
 Roboflow开发的实时目标检测与分割模型架构，在COCO数据集上达到SOTA水平，专为微调优化设计。
 
-- **Stars:** ⭐️ 8.8k
+- **Stars:** ⭐️ 9.0k
 - **Tags:** `object-detection` `instance-segmentation` `computer-vision` `detr` `fine-tuning`
-- **最后活动时间:** 2026-07-31
+- **最后活动时间:** 2026-08-22
 
 ### [LMFlow](https://github.com/OptimalScale/LMFlow)
 
@@ -2032,7 +2088,15 @@ Roboflow开发的实时目标检测与分割模型架构，在COCO数据集上�
 
 - **Stars:** ⭐️ 8.5k
 - **Tags:** `模型微调` `工具包` `PyTorch`
-- **最后活动时间:** 2026-05-22
+- **最后活动时间:** 2026-08-10
+
+### [slime](https://github.com/THUDM/slime)
+
+一个专注于LLM强化学习扩展的后训练框架，支持大规模模型的高效微调与优化。
+
+- **Stars:** ⭐️ 8.2k
+- **Tags:** `RL` `Post-training` `LLM`
+- **最后活动时间:** 2026-08-22
 
 ### [auto-sklearn](https://github.com/automl/auto-sklearn)
 
@@ -2050,21 +2114,13 @@ PaLM架构上实现RLHF人类反馈强化学习，类ChatGPT训练方案。大�
 - **Tags:** `rlhf` `palm` `fine-tuning`
 - **最后活动时间:** 2026-07-27
 
-### [slime](https://github.com/THUDM/slime)
-
-一个专注于LLM强化学习扩展的后训练框架，支持大规模模型的高效微调与优化。
-
-- **Stars:** ⭐️ 7.8k
-- **Tags:** `RL` `Post-training` `LLM`
-- **最后活动时间:** 2026-08-07
-
 ### [hyperopt](https://github.com/hyperopt/hyperopt)
 
 分布式异步超参数优化Python库，支持多种优化算法和并行计算，是机器学习模型调参的核心工具。
 
 - **Stars:** ⭐️ 7.6k
 - **Tags:** `hyperparameter-optimization` `machine-learning` `python`
-- **最后活动时间:** 2026-07-27
+- **最后活动时间:** 2026-08-17
 
 ### [gpt-neox](https://github.com/EleutherAI/gpt-neox)
 
@@ -2088,7 +2144,23 @@ LinkedIn开源的高效Triton内核库，专为LLM训练优化，显著提升训
 
 - **Stars:** ⭐️ 6.6k
 - **Tags:** `triton` `llm-training` `kernels` `optimization`
-- **最后活动时间:** 2026-08-07
+- **最后活动时间:** 2026-08-21
+
+### [lora-scripts](https://github.com/Akegarasu/lora-scripts)
+
+基于kohya-ss训练器的LoRA与Dreambooth训练脚本工具，支持GUI界面操作。
+
+- **Stars:** ⭐️ 6.1k
+- **Tags:** `lora` `dreambooth` `stable-diffusion` `finetuning` `training`
+- **最后活动时间:** 2026-08-21
+
+### [rllm](https://github.com/rllm-org/rllm)
+
+面向LLM的强化学习平台，支持分布式训练、推理优化和智能体工作流。
+
+- **Stars:** ⭐️ 5.8k
+- **Tags:** `RL for LLMs` `Distributed Training` `LLM Reasoning`
+- **最后活动时间:** 2026-08-22
 
 ### [torchtune](https://github.com/meta-pytorch/torchtune)
 
@@ -2097,14 +2169,6 @@ PyTorch原生训练后库，提供模型微调、量化等工具，支持LLaMA�
 - **Stars:** ⭐️ 5.8k
 - **Tags:** `pytorch` `fine-tuning` `llm` `quantization`
 - **最后活动时间:** 2026-08-01
-
-### [rllm](https://github.com/rllm-org/rllm)
-
-面向LLM的强化学习平台，支持分布式训练、推理优化和智能体工作流。
-
-- **Stars:** ⭐️ 5.8k
-- **Tags:** `RL for LLMs` `Distributed Training` `LLM Reasoning`
-- **最后活动时间:** 2026-08-07
 
 ### [MedicalGPT](https://github.com/shibing624/MedicalGPT)
 
@@ -2126,9 +2190,9 @@ PyTorch原生训练后库，提供模型微调、量化等工具，支持LLaMA�
 
 PyTorch原生生成式AI模型训练平台，提供高效的大模型训练解决方案。
 
-- **Stars:** ⭐️ 5.6k
+- **Stars:** ⭐️ 5.7k
 - **Tags:** `pytorch` `generative-ai` `training` `llm`
-- **最后活动时间:** 2026-08-02
+- **最后活动时间:** 2026-08-22
 
 ### [notebooks](https://github.com/unslothai/notebooks)
 
@@ -2136,7 +2200,23 @@ PyTorch原生生成式AI模型训练平台，提供高效的大模型训练解�
 
 - **Stars:** ⭐️ 5.6k
 - **Tags:** `fine-tuning` `reinforcement-learning` `notebooks` `unsloth`
-- **最后活动时间:** 2026-08-07
+- **最后活动时间:** 2026-08-18
+
+### [xtuner](https://github.com/InternLM/xtuner)
+
+专为超大规模MoE模型打造的下一代训练引擎，支持DeepSeek-V3、Qwen3-MoE等主流大模型的高效微调与训练。
+
+- **Stars:** ⭐️ 5.2k
+- **Tags:** `MoE` `LLM训练` `微调框架`
+- **最后活动时间:** 2026-08-21
+
+### [transformerlab-app](https://github.com/transformerlab/transformerlab-app)
+
+开源AI研究环境，支持从本地硬件到GPU集群无缝训练、评估和扩展模型。
+
+- **Stars:** ⭐️ 5.2k
+- **Tags:** `模型训练` `LoRA` `RLHF`
+- **最后活动时间:** 2026-08-09
 
 ### [parameter-golf](https://github.com/openai/parameter-golf)
 
@@ -2146,21 +2226,13 @@ PyTorch原生生成式AI模型训练平台，提供高效的大模型训练解�
 - **Tags:** `language-model` `model-training` `optimization` `llm`
 - **最后活动时间:** 2026-05-04
 
-### [xtuner](https://github.com/InternLM/xtuner)
+### [h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio)
 
-专为超大规模MoE模型打造的下一代训练引擎，支持DeepSeek-V3、Qwen3-MoE等主流大模型的高效微调与训练。
-
-- **Stars:** ⭐️ 5.2k
-- **Tags:** `MoE` `LLM训练` `微调框架`
-- **最后活动时间:** 2026-08-06
-
-### [transformerlab-app](https://github.com/transformerlab/transformerlab-app)
-
-开源AI研究环境，支持从本地硬件到GPU集群无缝训练、评估和扩展模型。
+H2O推出的LLM微调框架，提供无代码GUI界面，支持多种开源大模型微调。
 
 - **Stars:** ⭐️ 5.2k
-- **Tags:** `模型训练` `LoRA` `RLHF`
-- **最后活动时间:** 2026-08-06
+- **Tags:** `LLM` `Fine-tuning` `No-Code`
+- **最后活动时间:** 2026-08-18
 
 ### [AReaL](https://github.com/inclusionAI/AReaL)
 
@@ -2182,17 +2254,9 @@ PyTorch原生生成式AI模型训练平台，提供高效的大模型训练解�
 
 一站式计算机视觉模型训练库，内置Yolo-NAS等SOTA模型，支持快速微调。
 
-- **Stars:** ⭐️ 5.1k
+- **Stars:** ⭐️ 5.0k
 - **Tags:** `computer-vision` `training` `yolo-nas`
 - **最后活动时间:** 2026-02-24
-
-### [h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio)
-
-H2O推出的LLM微调框架，提供无代码GUI界面，支持多种开源大模型微调。
-
-- **Stars:** ⭐️ 5.0k
-- **Tags:** `LLM` `Fine-tuning` `No-Code`
-- **最后活动时间:** 2026-08-05
 
 ### [ignite](https://github.com/pytorch/ignite)
 
@@ -2200,7 +2264,7 @@ PyTorch高级神经网络训练与评估库，提供灵活透明的深度学习�
 
 - **Stars:** ⭐️ 4.8k
 - **Tags:** `pytorch` `deep-learning` `neural-network` `machine-learning`
-- **最后活动时间:** 2026-08-01
+- **最后活动时间:** 2026-08-17
 
 ### [autotrain-advanced](https://github.com/huggingface/autotrain-advanced)
 
@@ -2224,7 +2288,7 @@ Databricks开源的LLM训练代码库，用于构建企业级基础大模型。
 
 - **Stars:** ⭐️ 4.4k
 - **Tags:** `automl` `hyperparameter-optimization` `machine-learning` `python`
-- **最后活动时间:** 2026-08-05
+- **最后活动时间:** 2026-08-22
 
 ### [nevergrad](https://github.com/facebookresearch/nevergrad)
 
@@ -2232,7 +2296,7 @@ Facebook Research 开源的无梯度优化工具箱，广泛用于机器学习�
 
 - **Stars:** ⭐️ 4.2k
 - **Tags:** `optimization` `hyperparameter-tuning` `machine-learning` `gradient-free`
-- **最后活动时间:** 2026-03-16
+- **最后活动时间:** 2026-07-24
 
 ### [lightly](https://github.com/lightly-ai/lightly)
 
@@ -2240,7 +2304,7 @@ Facebook Research 开源的无梯度优化工具箱，广泛用于机器学习�
 
 - **Stars:** ⭐️ 3.8k
 - **Tags:** `Self-Supervised Learning` `PyTorch` `Computer Vision`
-- **最后活动时间:** 2026-08-07
+- **最后活动时间:** 2026-08-21
 
 ### [ReAgent](https://github.com/facebookresearch/ReAgent)
 
@@ -2248,15 +2312,15 @@ Facebook Research 开源的无梯度优化工具箱，广泛用于机器学习�
 
 - **Stars:** ⭐️ 3.7k
 - **Tags:** `reinforcement-learning` `reasoning` `ml-platform` `contextual-bandits`
-- **最后活动时间:** 2026-07-29
+- **最后活动时间:** 2026-08-20
 
 ### [llm-compressor](https://github.com/vllm-project/llm-compressor)
 
 与Transformers兼容的LLM压缩库，支持量化、稀疏化等压缩算法，显著降低推理成本和内存占用。
 
-- **Stars:** ⭐️ 3.6k
+- **Stars:** ⭐️ 3.7k
 - **Tags:** `模型压缩` `量化` `vLLM`
-- **最后活动时间:** 2026-08-07
+- **最后活动时间:** 2026-08-22
 
 ### [botorch](https://github.com/meta-pytorch/botorch)
 
@@ -2264,15 +2328,15 @@ Facebook AI贝叶斯优化库，用于超参数调优和实验设计。
 
 - **Stars:** ⭐️ 3.6k
 - **Tags:** `bayesian-optimization` `hyperparameter-tuning` `pytorch`
-- **最后活动时间:** 2026-07-21
+- **最后活动时间:** 2026-08-20
 
 ### [ROLL](https://github.com/alibaba/ROLL)
 
 高效易用的大语言模型强化学习扩展库，支持RLHF和RLVR训练范式。
 
-- **Stars:** ⭐️ 3.3k
+- **Stars:** ⭐️ 3.4k
 - **Tags:** `rlhf` `rlvr` `agentic` `reinforcement-learning`
-- **最后活动时间:** 2026-08-05
+- **最后活动时间:** 2026-08-22
 
 ### [mljar-supervised](https://github.com/mljar/mljar-supervised)
 
@@ -2286,9 +2350,9 @@ Facebook AI贝叶斯优化库，用于超参数调优和实验设计。
 
 NVIDIA开源的物理机器学习深度学习框架，支持构建、训练和微调最先进的物理ML模型。
 
-- **Stars:** ⭐️ 3.1k
+- **Stars:** ⭐️ 3.2k
 - **Tags:** `deep-learning` `physics` `pytorch` `nvidia-gpu`
-- **最后活动时间:** 2026-07-31
+- **最后活动时间:** 2026-08-22
 
 ### [EasyEdit](https://github.com/zjunlp/EasyEdit)
 
@@ -2304,7 +2368,7 @@ Stable Baselines3强化学习智能体训练框架，内置超参数优化和预
 
 - **Stars:** ⭐️ 2.9k
 - **Tags:** `RL Training` `Hyperparameter Optimization` `PyTorch`
-- **最后活动时间:** 2026-07-18
+- **最后活动时间:** 2026-08-18
 
 ### [adapters](https://github.com/adapter-hub/adapters)
 
@@ -2313,6 +2377,14 @@ Stable Baselines3强化学习智能体训练框架，内置超参数优化和预
 - **Stars:** ⭐️ 2.8k
 - **Tags:** `Adapters` `LoRA` `Fine-tuning`
 - **最后活动时间:** 2026-04-26
+
+### [Muon](https://github.com/KellerJordan/Muon)
+
+专为神经网络隐藏层设计的优化器，提升模型训练效率和收敛速度。
+
+- **Stars:** ⭐️ 2.8k
+- **Tags:** `optimizer` `neural-network` `deep-learning` `training`
+- **最后活动时间:** 2026-05-24
 
 ### [nanotron](https://github.com/huggingface/nanotron)
 
@@ -2330,13 +2402,13 @@ Stable Baselines3强化学习智能体训练框架，内置超参数优化和预
 - **Tags:** `few-shot-learning` `sentence-transformers` `nlp`
 - **最后活动时间:** 2026-05-26
 
-### [Muon](https://github.com/KellerJordan/Muon)
+### [Soup](https://github.com/MakazhanAlpamys/Soup)
 
-专为神经网络隐藏层设计的优化器，提升模型训练效率和收敛速度。
+通过单一YAML文件微调大语言模型，支持在4GB显存的笔记本GPU上使用层流式训练8B模型。提供低显存环境下的高效LLM微调方案。
 
 - **Stars:** ⭐️ 2.8k
-- **Tags:** `optimizer` `neural-network` `deep-learning` `training`
-- **最后活动时间:** 2026-05-24
+- **Tags:** `fine-tuning` `llm` `low-vram` `qlora` `local-ai`
+- **最后活动时间:** 2026-08-22
 
 ### [maestro](https://github.com/roboflow/maestro)
 
@@ -2344,7 +2416,7 @@ Stable Baselines3强化学习智能体训练框架，内置超参数优化和预
 
 - **Stars:** ⭐️ 2.7k
 - **Tags:** `Fine-tuning` `Multimodal` `Vision-Language`
-- **最后活动时间:** 2026-08-03
+- **最后活动时间:** 2026-08-17
 
 ### [xTuring](https://github.com/stochasticai/xTuring)
 
@@ -2368,7 +2440,7 @@ Stable Baselines3强化学习智能体训练框架，内置超参数优化和预
 
 - **Stars:** ⭐️ 2.4k
 - **Tags:** `LLM` `Post-Training` `Fine-tuning`
-- **最后活动时间:** 2026-08-01
+- **最后活动时间:** 2026-08-22
 
 ### [maxtext](https://github.com/AI-Hypercomputer/maxtext)
 
@@ -2376,7 +2448,15 @@ Stable Baselines3强化学习智能体训练框架，内置超参数优化和预
 
 - **Stars:** ⭐️ 2.4k
 - **Tags:** `JAX` `LLM训练` `微调`
-- **最后活动时间:** 2026-08-09
+- **最后活动时间:** 2026-08-22
+
+### [optax](https://github.com/google-deepmind/optax)
+
+JAX生态系统的梯度处理与优化库，提供丰富的优化器与梯度变换工具，广泛用于深度学习模型训练。
+
+- **Stars:** ⭐️ 2.3k
+- **Tags:** `optimization` `jax` `machine-learning` `deep-learning`
+- **最后活动时间:** 2026-08-20
 
 ### [schedule_free](https://github.com/facebookresearch/schedule_free)
 
@@ -2386,14 +2466,6 @@ Stable Baselines3强化学习智能体训练框架，内置超参数优化和预
 - **Tags:** `optimization` `optimizer` `deep-learning`
 - **最后活动时间:** 2026-07-28
 
-### [optax](https://github.com/google-deepmind/optax)
-
-JAX生态系统的梯度处理与优化库，提供丰富的优化器与梯度变换工具，广泛用于深度学习模型训练。
-
-- **Stars:** ⭐️ 2.3k
-- **Tags:** `optimization` `jax` `machine-learning` `deep-learning`
-- **最后活动时间:** 2026-07-22
-
 ### [TransmogrifAI](https://github.com/salesforce/TransmogrifAI)
 
 Salesforce开源的AutoML库，用于在Apache Spark上构建模块化、可复用的机器学习工作流，支持自动化特征工程和模型调优。
@@ -2402,21 +2474,29 @@ Salesforce开源的AutoML库，用于在Apache Spark上构建模块化、可复�
 - **Tags:** `automl` `machine-learning` `spark` `scala` `feature-engineering`
 - **最后活动时间:** 2026-06-02
 
+### [miles](https://github.com/radixark/miles)
+
+企业级强化学习框架，专为LLM和VLM后训练设计，支持模型微调与优化。
+
+- **Stars:** ⭐️ 2.2k
+- **Tags:** `RL` `Post-training` `Enterprise`
+- **最后活动时间:** 2026-08-22
+
 ### [trainer](https://github.com/kubeflow/trainer)
 
 基于Kubernetes的分布式AI模型训练和LLM微调平台，支持PyTorch、TensorFlow、JAX等主流框架。
 
 - **Stars:** ⭐️ 2.2k
 - **Tags:** `Kubernetes` `Fine-tuning` `Distributed Training`
-- **最后活动时间:** 2026-07-31
+- **最后活动时间:** 2026-08-22
 
 ### [SkyRL](https://github.com/NovaSky-AI/SkyRL)
 
 模块化的全栈强化学习库，专为LLM训练设计，支持分布式训练与高效扩展。
 
-- **Stars:** ⭐️ 2.1k
+- **Stars:** ⭐️ 2.2k
 - **Tags:** `RL Library` `LLM Training` `Distributed`
-- **最后活动时间:** 2026-07-31
+- **最后活动时间:** 2026-08-22
 
 ### [ViZDoom](https://github.com/Farama-Foundation/ViZDoom)
 
@@ -2424,7 +2504,7 @@ Salesforce开源的AutoML库，用于在Apache Spark上构建模块化、可复�
 
 - **Stars:** ⭐️ 2.1k
 - **Tags:** `reinforcement-learning` `game-ai` `deep-learning` `gym-environment`
-- **最后活动时间:** 2026-08-03
+- **最后活动时间:** 2026-08-21
 
 ### [privacy](https://github.com/tensorflow/privacy)
 
@@ -2432,7 +2512,7 @@ Salesforce开源的AutoML库，用于在Apache Spark上构建模块化、可复�
 
 - **Stars:** ⭐️ 2.0k
 - **Tags:** `privacy` `machine-learning` `differential-privacy`
-- **最后活动时间:** 2026-07-08
+- **最后活动时间:** 2026-08-19
 
 ### [smol-vision](https://github.com/merveenoyan/smol-vision)
 
@@ -2440,23 +2520,31 @@ Salesforce开源的AutoML库，用于在Apache Spark上构建模块化、可复�
 
 - **Stars:** ⭐️ 2.0k
 - **Tags:** `computer-vision` `model-optimization` `edge-ai` `quantization`
-- **最后活动时间:** 2026-05-26
+- **最后活动时间:** 2026-08-12
+
+### [prime-rl](https://github.com/PrimeIntellect-ai/prime-rl)
+
+大规模智能体强化学习训练框架，支持分布式RL训练。
+
+- **Stars:** ⭐️ 2.0k
+- **Tags:** `reinforcement-learning` `rl` `agents` `training`
+- **最后活动时间:** 2026-08-23
 
 ### [Qwen-VL-Series-Finetune](https://github.com/2U1/Qwen-VL-Series-Finetune)
 
 开源的Qwen-VL系列视觉语言模型微调实现，支持Qwen2-VL、Qwen2.5-VL、Qwen3-VL等多个版本。
 
-- **Stars:** ⭐️ 1.9k
+- **Stars:** ⭐️ 2.0k
 - **Tags:** `Qwen-VL` `微调` `多模态`
 - **最后活动时间:** 2026-07-25
 
-### [miles](https://github.com/radixark/miles)
+### [Nemotron](https://github.com/NVIDIA-NeMo/Nemotron)
 
-企业级强化学习框架，专为LLM和VLM后训练设计，支持模型微调与优化。
+NVIDIA官方的Nemotron模型开发者资源中心，提供训练配方、数据集、微调指南和端到端参考示例。
 
-- **Stars:** ⭐️ 1.9k
-- **Tags:** `RL` `Post-training` `Enterprise`
-- **最后活动时间:** 2026-08-07
+- **Stars:** ⭐️ 2.0k
+- **Tags:** `nvidia` `nemotron` `fine-tuning` `model-training` `reinforcement-learning`
+- **最后活动时间:** 2026-08-21
 
 ### [byol-pytorch](https://github.com/lucidrains/byol-pytorch)
 
@@ -2474,29 +2562,13 @@ DeepMind自监督学习方法BYOL的PyTorch实现，无需负样本。
 - **Tags:** `ai` `dataset-generation` `finetuning-llms`
 - **最后活动时间:** 2026-06-27
 
-### [Nemotron](https://github.com/NVIDIA-NeMo/Nemotron)
-
-NVIDIA官方的Nemotron模型开发者资源中心，提供训练配方、数据集、微调指南和端到端参考示例。
-
-- **Stars:** ⭐️ 1.8k
-- **Tags:** `nvidia` `nemotron` `fine-tuning` `model-training` `reinforcement-learning`
-- **最后活动时间:** 2026-08-02
-
 ### [multimodal](https://github.com/facebookresearch/multimodal)
 
 Meta官方的PyTorch多模态训练库，支持大规模多任务多模态模型训练。
 
 - **Stars:** ⭐️ 1.7k
 - **Tags:** `multimodal` `pytorch` `deep-learning` `training`
-- **最后活动时间:** 2026-08-03
-
-### [prime-rl](https://github.com/PrimeIntellect-ai/prime-rl)
-
-大规模智能体强化学习训练框架，支持分布式RL训练。
-
-- **Stars:** ⭐️ 1.7k
-- **Tags:** `reinforcement-learning` `rl` `agents` `training`
-- **最后活动时间:** 2026-07-28
+- **最后活动时间:** 2026-08-17
 
 ### [dlrover](https://github.com/intelligent-machine-learning/dlrover)
 
@@ -2504,7 +2576,7 @@ Meta官方的PyTorch多模态训练库，支持大规模多任务多模态模型
 
 - **Stars:** ⭐️ 1.7k
 - **Tags:** `Distributed Training` `Deep Learning` `LLM Training`
-- **最后活动时间:** 2026-07-06
+- **最后活动时间:** 2026-08-21
 
 ### [vizier](https://github.com/google/vizier)
 
@@ -2512,7 +2584,15 @@ Google开源的黑盒优化与超参数调优研究接口，支持贝叶斯优�
 
 - **Stars:** ⭐️ 1.7k
 - **Tags:** `Hyperparameter Optimization` `Bayesian Optimization` `Machine Learning`
-- **最后活动时间:** 2026-08-06
+- **最后活动时间:** 2026-08-12
+
+### [Jackrong-llm-finetuning-guide](https://github.com/R6410418/Jackrong-llm-finetuning-guide)
+
+LLM大模型微调指南，涵盖Llama3、Qwen、DeepSeek等主流模型的微调方法和实践。
+
+- **Stars:** ⭐️ 1.7k
+- **Tags:** `llm` `fine-tuning` `pytorch` `unsloth`
+- **最后活动时间:** 2026-07-11
 
 ### [lightly-train](https://github.com/lightly-ai/lightly-train)
 
@@ -2520,7 +2600,7 @@ Google开源的黑盒优化与超参数调优研究接口，支持贝叶斯优�
 
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `computer-vision` `deep-learning` `pytorch` `yolo` `vision-transformer`
-- **最后活动时间:** 2026-08-03
+- **最后活动时间:** 2026-08-14
 
 ### [torchdistill](https://github.com/yoshitomo-matsubara/torchdistill)
 
@@ -2528,15 +2608,7 @@ Google开源的黑盒优化与超参数调优研究接口，支持贝叶斯优�
 
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `knowledge-distillation` `pytorch` `model-compression` `deep-learning`
-- **最后活动时间:** 2026-08-05
-
-### [Jackrong-llm-finetuning-guide](https://github.com/R6410418/Jackrong-llm-finetuning-guide)
-
-LLM大模型微调指南，涵盖Llama3、Qwen、DeepSeek等主流模型的微调方法和实践。
-
-- **Stars:** ⭐️ 1.6k
-- **Tags:** `llm` `fine-tuning` `pytorch` `unsloth`
-- **最后活动时间:** 2026-07-11
+- **最后活动时间:** 2026-08-20
 
 ### [Semi-supervised-learning](https://github.com/microsoft/Semi-supervised-learning)
 
@@ -2560,7 +2632,7 @@ TensorFlow模型优化工具包，支持量化、剪枝和稀疏化，加速模�
 
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `quantization` `pruning` `model-compression` `tensorflow`
-- **最后活动时间:** 2026-07-27
+- **最后活动时间:** 2026-08-22
 
 ### [pyreft](https://github.com/stanfordnlp/pyreft)
 
@@ -2586,6 +2658,14 @@ NEAT神经进化算法的Python实现，用于通过进化算法自动优化神�
 - **Tags:** `Quantization` `Model Compression` `LLM`
 - **最后活动时间:** 2026-08-07
 
+### [gemma-tuner-multimodal](https://github.com/mattmireles/gemma-tuner-multimodal)
+
+在 Apple Silicon 上微调 Gemma 4 和 3n 多模态模型的工具，支持音频、图像和文本输入。
+
+- **Stars:** ⭐️ 1.5k
+- **Tags:** `fine-tuning` `gemma` `multimodal` `apple-silicon` `pytorch`
+- **最后活动时间:** 2026-08-13
+
 ### [SAELens](https://github.com/decoderesearch/SAELens)
 
 在语言模型上训练稀疏自编码器的工具，用于模型可解释性研究。
@@ -2593,14 +2673,6 @@ NEAT神经进化算法的Python实现，用于通过进化算法自动优化神�
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `sparse-autoencoder` `interpretability` `mechanistic-interpretability`
 - **最后活动时间:** 2026-08-05
-
-### [gemma-tuner-multimodal](https://github.com/mattmireles/gemma-tuner-multimodal)
-
-在 Apple Silicon 上微调 Gemma 4 和 3n 多模态模型的工具，支持音频、图像和文本输入。
-
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `fine-tuning` `gemma` `multimodal` `apple-silicon` `pytorch`
-- **最后活动时间:** 2026-05-12
 
 ### [reasoning-gym](https://github.com/open-thought/reasoning-gym)
 
@@ -2648,7 +2720,7 @@ InstructLab核心包，支持与模型对话并使用自定义分类数据执行
 
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `bayesian-optimization` `hyperparameter-optimization` `blackbox-optimization`
-- **最后活动时间:** 2026-07-25
+- **最后活动时间:** 2026-08-21
 
 ### [training_extensions](https://github.com/open-edge-platform/training_extensions)
 
@@ -2672,7 +2744,7 @@ Intel开源的神经网络压缩框架，支持量化、剪枝、稀疏化等优
 
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `模型压缩` `量化` `OpenVINO`
-- **最后活动时间:** 2026-08-06
+- **最后活动时间:** 2026-08-19
 
 ### [MixGRPO](https://github.com/Tencent-Hunyuan/MixGRPO)
 
@@ -2682,13 +2754,21 @@ CVPR 2025 论文实现，通过混合 ODE-SDE 解锁基于 Flow 的 GRPO 效率�
 - **Tags:** `diffusion` `grpo` `reinforcement-learning` `fine-tuning`
 - **最后活动时间:** 2026-07-01
 
+### [TinyEngram](https://github.com/AutoArk/TinyEngram)
+
+基于Qwen-3和Stable Diffusion系列的DeepSeek Engram架构研究项目。专注于大语言模型的记忆注入与LoRA微调技术。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `deepseek` `llm` `lora` `fine-tuning` `memory-injection` `pytorch`
+- **最后活动时间:** 2026-05-21
+
 ### [BOAT](https://github.com/callous-youth/BOAT)
 
 一个用于基于梯度的双层优化（Bi-Level Optimization）的组合操作工具箱。它为AI研究者和开发者提供了高效的双层优化算法实现。
 
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `bi-level-optimization` `meta-learning` `gradient` `pytorch`
-- **最后活动时间:** 2026-06-17
+- **最后活动时间:** 2026-08-15
 
 ### [sliders](https://github.com/rohitgandikota/sliders)
 
@@ -2706,6 +2786,14 @@ ICCV 2023，用于局部特征检测与匹配的训练库。
 - **Tags:** `feature-detection` `image-matching` `training`
 - **最后活动时间:** 2026-07-20
 
+### [Gym](https://github.com/NVIDIA-NeMo/Gym)
+
+专为LLM训练设计的强化学习环境构建框架，支持多种RL算法和环境配置。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `RL` `LLM Training` `Environment`
+- **最后活动时间:** 2026-08-22
+
 ### [TTRL](https://github.com/PRIME-RL/TTRL)
 
 NeurIPS 2025论文，测试时强化学习方法，无需标注数据即可提升模型推理能力。
@@ -2714,13 +2802,13 @@ NeurIPS 2025论文，测试时强化学习方法，无需标注数据即可提�
 - **Tags:** `reinforcement-learning` `llm` `reasoning` `test-time`
 - **最后活动时间:** 2026-04-15
 
-### [Gym](https://github.com/NVIDIA-NeMo/Gym)
+### [SpecForge](https://github.com/sgl-project/SpecForge)
 
-专为LLM训练设计的强化学习环境构建框架，支持多种RL算法和环境配置。
+推测解码模型训练工具，支持轻松训练并无缝迁移至 SGLang 推理服务。
 
 - **Stars:** ⭐️ 1.1k
-- **Tags:** `RL` `LLM Training` `Environment`
-- **最后活动时间:** 2026-08-04
+- **Tags:** `Speculative Decoding` `Training` `SGLang`
+- **最后活动时间:** 2026-08-21
 
 ### [geoopt](https://github.com/geoopt/geoopt)
 
@@ -2730,13 +2818,21 @@ NeurIPS 2025论文，测试时强化学习方法，无需标注数据即可提�
 - **Tags:** `optimization` `pytorch` `riemannian-geometry`
 - **最后活动时间:** 2026-05-09
 
-### [SpecForge](https://github.com/sgl-project/SpecForge)
+### [SDPO](https://github.com/lasgroup/SDPO)
 
-推测解码模型训练工具，支持轻松训练并无缝迁移至 SGLang 推理服务。
+通过自蒸馏实现强化学习，提升LLM推理能力的训练方法。
 
 - **Stars:** ⭐️ 1.1k
-- **Tags:** `Speculative Decoding` `Training` `SGLang`
-- **最后活动时间:** 2026-08-07
+- **Tags:** `rl` `distillation` `reasoning`
+- **最后活动时间:** 2026-07-01
+
+### [axrl](https://github.com/XYZ-AI-Lab/axrl)
+
+基于 SGLang 和 Megatron 构建的智能体强化学习后训练框架。支持真实世界的智能体工作流，助力大模型的高效训练与优化。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `reinforcement-learning` `rlhf` `sglang` `megatron` `agent-workflows` `post-training`
+- **最后活动时间:** 2026-08-03
 
 ### [morph-net](https://github.com/google-research/morph-net)
 
@@ -2746,21 +2842,21 @@ NeurIPS 2025论文，测试时强化学习方法，无需标注数据即可提�
 - **Tags:** `automl` `neural-architecture-search` `deep-learning` `tensorflow`
 - **最后活动时间:** 2026-07-02
 
-### [SDPO](https://github.com/lasgroup/SDPO)
-
-通过自蒸馏实现强化学习，提升LLM推理能力的训练方法。
-
-- **Stars:** ⭐️ 1.0k
-- **Tags:** `rl` `distillation` `reasoning`
-- **最后活动时间:** 2026-07-01
-
 ### [Skills](https://github.com/NVIDIA-NeMo/Skills)
 
 专注于提升大语言模型技能的项目，帮助LLM在各种任务场景中表现更出色。
 
 - **Stars:** ⭐️ 1.0k
 - **Tags:** `llm` `skills` `fine-tuning`
-- **最后活动时间:** 2026-08-05
+- **最后活动时间:** 2026-08-21
+
+### [DistillKit](https://github.com/arcee-ai/DistillKit)
+
+开源LLM蒸馏工具包，提供模型知识蒸馏的完整解决方案。
+
+- **Stars:** ⭐️ 1.0k
+- **Tags:** `distillation` `llm` `fine-tuning` `knowledge-transfer`
+- **最后活动时间:** 2026-05-12
 
 ### [neural-structured-learning](https://github.com/tensorflow/neural-structured-learning)
 
@@ -2778,19 +2874,11 @@ Google开发的框架，用于训练具有结构化信号的神经网络，支�
 - **Tags:** `Multimodal` `LLaVA` `Vision-Language`
 - **最后活动时间:** 2026-07-23
 
-### [DistillKit](https://github.com/arcee-ai/DistillKit)
-
-开源LLM蒸馏工具包，提供模型知识蒸馏的完整解决方案。
-
-- **Stars:** ⭐️ 997
-- **Tags:** `distillation` `llm` `fine-tuning` `knowledge-transfer`
-- **最后活动时间:** 2026-05-12
-
 ### [DoRA](https://github.com/NVlabs/DoRA)
 
 ICML2024 Oral论文官方实现，提出权重分解低秩适应方法，显著提升LLM和视觉语言模型的微调效果。
 
-- **Stars:** ⭐️ 986
+- **Stars:** ⭐️ 989
 - **Tags:** `Fine-tuning` `LoRA` `LLM` `Vision-Language`
 - **最后活动时间:** 2026-03-24
 
@@ -2798,7 +2886,7 @@ ICML2024 Oral论文官方实现，提出权重分解低秩适应方法，显著�
 
 用于训练长视界搜索智能体的超配方案，通过20B参数模型和有状态框架匹配前沿AI的搜索能力。为复杂推理和搜索任务提供强大的训练基础设施。
 
-- **Stars:** ⭐️ 957
+- **Stars:** ⭐️ 984
 - **Tags:** `ai-agents` `training` `search-agents` `reinforcement-learning` `llm`
 - **最后活动时间:** 2026-06-15
 
@@ -2806,9 +2894,9 @@ ICML2024 Oral论文官方实现，提出权重分解低秩适应方法，显著�
 
 强化学习RLOps框架，通过进化超参数优化实现10倍加速训练。支持多智能体和分布式训练。
 
-- **Stars:** ⭐️ 940
+- **Stars:** ⭐️ 945
 - **Tags:** `Reinforcement Learning` `RLOps` `PyTorch`
-- **最后活动时间:** 2026-08-01
+- **最后活动时间:** 2026-08-22
 
 ### [LLM-Dojo](https://github.com/mst272/LLM-Dojo)
 
@@ -2822,17 +2910,9 @@ ICML2024 Oral论文官方实现，提出权重分解低秩适应方法，显著�
 
 TensorFlow数据压缩库，利用深度神经网络实现高效数据压缩。
 
-- **Stars:** ⭐️ 922
+- **Stars:** ⭐️ 923
 - **Tags:** `compression` `deep-learning` `tensorflow` `neural-network`
 - **最后活动时间:** 2026-04-17
-
-### [axrl](https://github.com/XYZ-AI-Lab/axrl)
-
-基于 SGLang 和 Megatron 构建的智能体强化学习后训练框架。支持真实世界的智能体工作流，助力大模型的高效训练与优化。
-
-- **Stars:** ⭐️ 917
-- **Tags:** `reinforcement-learning` `rlhf` `sglang` `megatron` `agent-workflows` `post-training`
-- **最后活动时间:** 2026-07-31
 
 ### [dreamerv3-torch](https://github.com/NM512/dreamerv3-torch)
 
@@ -2850,6 +2930,14 @@ Dreamer v3强化学习算法的PyTorch实现，世界模型方法的代表性工
 - **Tags:** `Fine-tuning` `LoRA` `QLoRA` `LLM`
 - **最后活动时间:** 2026-05-04
 
+### [terratorch](https://github.com/torchgeo/terratorch)
+
+专注于地理空间基础模型微调的Python工具包，支持地球观测、气象预测等领域的深度学习模型训练。
+
+- **Stars:** ⭐️ 850
+- **Tags:** `deep-learning` `foundation-models` `geospatial` `earth-observation` `computer-vision`
+- **最后活动时间:** 2026-08-21
+
 ### [Megatron-Bridge](https://github.com/NVIDIA-NeMo/Megatron-Bridge)
 
 用于Megatron架构模型的训练库，支持与Hugging Face格式的双向无缝转换。
@@ -2858,13 +2946,37 @@ Dreamer v3强化学习算法的PyTorch实现，世界模型方法的代表性工
 - **Tags:** `megatron` `huggingface` `model-conversion` `training`
 - **最后活动时间:** 2026-08-07
 
-### [terratorch](https://github.com/torchgeo/terratorch)
+### [Automodel](https://github.com/NVIDIA-NeMo/Automodel)
 
-专注于地理空间基础模型微调的Python工具包，支持地球观测、气象预测等领域的深度学习模型训练。
+PyTorch原生分布式训练库，专为LLM/VLM设计，开箱即用支持Hugging Face生态。
 
-- **Stars:** ⭐️ 836
-- **Tags:** `deep-learning` `foundation-models` `geospatial` `earth-observation` `computer-vision`
-- **最后活动时间:** 2026-07-31
+- **Stars:** ⭐️ 849
+- **Tags:** `llm` `finetuning` `pytorch` `distributed-training` `vlm`
+- **最后活动时间:** 2026-08-23
+
+### [bionemo-recipes](https://github.com/NVIDIA-BioNeMo/bionemo-recipes)
+
+用于大规模药物发现领域AI模型的构建和适配的配方库。基于PyTorch和GPU加速，助力生物信息学领域的深度学习研究。
+
+- **Stars:** ⭐️ 847
+- **Tags:** `drug-discovery` `machine-learning` `pytorch` `gpu` `bioinformatics`
+- **最后活动时间:** 2026-08-22
+
+### [verl-omni](https://github.com/verl-project/verl-omni)
+
+面向扩散模型与全能模型的多模态强化学习训练框架。支持GRPO、RLHF及vLLM加速，适用于Qwen等先进模型。
+
+- **Stars:** ⭐️ 846
+- **Tags:** `diffusion-models` `reinforcement-learning` `rlhf` `multimodal` `vllm`
+- **最后活动时间:** 2026-08-22
+
+### [llm-engine](https://github.com/scaleapi/llm-engine)
+
+Scale AI开源的LLM引擎，提供高效的大模型微调能力。
+
+- **Stars:** ⭐️ 835
+- **Tags:** `Fine-tuning` `LLM` `Scale AI`
+- **最后活动时间:** 2026-08-22
 
 ### [libfacedetection.train](https://github.com/ShiqiYu/libfacedetection.train)
 
@@ -2874,27 +2986,11 @@ Dreamer v3强化学习算法的PyTorch实现，世界模型方法的代表性工
 - **Tags:** `face-detection` `model-training` `landmark-detection` `deep-learning`
 - **最后活动时间:** 2026-07-10
 
-### [bionemo-recipes](https://github.com/NVIDIA-BioNeMo/bionemo-recipes)
-
-用于大规模药物发现领域AI模型的构建和适配的配方库。基于PyTorch和GPU加速，助力生物信息学领域的深度学习研究。
-
-- **Stars:** ⭐️ 835
-- **Tags:** `drug-discovery` `machine-learning` `pytorch` `gpu` `bioinformatics`
-- **最后活动时间:** 2026-08-07
-
-### [llm-engine](https://github.com/scaleapi/llm-engine)
-
-Scale AI开源的LLM引擎，提供高效的大模型微调能力。
-
-- **Stars:** ⭐️ 833
-- **Tags:** `Fine-tuning` `LLM` `Scale AI`
-- **最后活动时间:** 2026-07-23
-
 ### [mammoth](https://github.com/aimagelab/mammoth)
 
 基于PyTorch的可扩展持续学习框架，NeurIPS 2020官方代码库，支持多种训练策略。
 
-- **Stars:** ⭐️ 832
+- **Stars:** ⭐️ 834
 - **Tags:** `continual-learning` `pytorch` `deep-learning`
 - **最后活动时间:** 2026-05-20
 
@@ -2902,15 +2998,15 @@ Scale AI开源的LLM引擎，提供高效的大模型微调能力。
 
 Julia语言的统一数学优化接口，支持局部/全局优化、凸优化、混合整数规划等，内置自动微分功能，广泛应用于机器学习模型训练与科学计算。
 
-- **Stars:** ⭐️ 832
+- **Stars:** ⭐️ 833
 - **Tags:** `optimization` `julia` `automatic-differentiation` `machine-learning`
-- **最后活动时间:** 2026-08-02
+- **最后活动时间:** 2026-08-20
 
 ### [lmms-engine](https://github.com/EvolvingLMMs-Lab/lmms-engine)
 
 一个简洁统一的多模态模型训练引擎，支持大规模模型微调与开发，灵活且可扩展。
 
-- **Stars:** ⭐️ 818
+- **Stars:** ⭐️ 822
 - **Tags:** `multimodal` `training` `llm`
 - **最后活动时间:** 2026-08-06
 
@@ -2918,47 +3014,31 @@ Julia语言的统一数学优化接口，支持局部/全局优化、凸优化�
 
 基于kohya-ss工作的Stable Diffusion LoRA训练Colab笔记本集合，提供便捷的模型微调解决方案。
 
-- **Stars:** ⭐️ 814
+- **Stars:** ⭐️ 815
 - **Tags:** `stable-diffusion` `lora-training` `colab` `fine-tuning`
-- **最后活动时间:** 2026-05-11
+- **最后活动时间:** 2026-08-14
 
 ### [ensmallen](https://github.com/mlpack/ensmallen)
 
 轻量级C++数值优化库，广泛用于机器学习模型训练优化。
 
-- **Stars:** ⭐️ 812
+- **Stars:** ⭐️ 813
 - **Tags:** `optimization` `machine-learning` `deep-learning` `cpp`
-- **最后活动时间:** 2026-07-29
+- **最后活动时间:** 2026-08-12
 
 ### [surogate](https://github.com/invergent-ai/surogate)
 
 主打极速训练与微调的轻量级工具。支持Llama、Qwen等主流大模型的高效SFT微调，最大化利用NVIDIA GPU性能。
 
-- **Stars:** ⭐️ 807
+- **Stars:** ⭐️ 812
 - **Tags:** `fine-tuning` `sft` `llm` `deep-learning` `cuda`
-- **最后活动时间:** 2026-08-05
-
-### [Automodel](https://github.com/NVIDIA-NeMo/Automodel)
-
-PyTorch原生分布式训练库，专为LLM/VLM设计，开箱即用支持Hugging Face生态。
-
-- **Stars:** ⭐️ 800
-- **Tags:** `llm` `finetuning` `pytorch` `distributed-training` `vlm`
-- **最后活动时间:** 2026-08-08
-
-### [TinyEngram](https://github.com/AutoArk/TinyEngram)
-
-基于Qwen-3和Stable Diffusion系列的DeepSeek Engram架构研究项目。专注于大语言模型的记忆注入与LoRA微调技术。
-
-- **Stars:** ⭐️ 799
-- **Tags:** `deepseek` `llm` `lora` `fine-tuning` `memory-injection` `pytorch`
-- **最后活动时间:** 2026-05-21
+- **最后活动时间:** 2026-08-22
 
 ### [doc-to-lora](https://github.com/SakanaAI/doc-to-lora)
 
 使用超网络让LLM记忆事实信息的创新方法，通过LoRA实现知识更新。
 
-- **Stars:** ⭐️ 793
+- **Stars:** ⭐️ 802
 - **Tags:** `hypernetworks` `lora` `llm` `memory`
 - **最后活动时间:** 2026-06-15
 
@@ -2978,27 +3058,27 @@ PyTorch原生分布式训练库，专为LLM/VLM设计，开箱即用支持Huggin
 - **Tags:** `geospatial` `foundation-models` `deep-learning` `earth-observation` `pytorch`
 - **最后活动时间:** 2026-05-04
 
-### [verl-omni](https://github.com/verl-project/verl-omni)
-
-面向扩散模型与全能模型的多模态强化学习训练框架。支持GRPO、RLHF及vLLM加速，适用于Qwen等先进模型。
-
-- **Stars:** ⭐️ 740
-- **Tags:** `diffusion-models` `reinforcement-learning` `rlhf` `multimodal` `vllm`
-- **最后活动时间:** 2026-08-06
-
 ### [sparsify](https://github.com/EleutherAI/sparsify)
 
 使用稀疏自编码器和Transcoders对Transformer模型进行稀疏化处理。
 
-- **Stars:** ⭐️ 735
+- **Stars:** ⭐️ 737
 - **Tags:** `sparse-autoencoder` `mechanistic-interpretability` `transformer`
-- **最后活动时间:** 2026-07-27
+- **最后活动时间:** 2026-08-17
+
+### [awesome-on-policy-distillation](https://github.com/chrisliu298/awesome-on-policy-distillation)
+
+一个精选的大语言模型策略蒸馏（OPD）论文、框架和工具合集。涵盖了知识蒸馏、强化学习及推测解码等前沿训练技术。
+
+- **Stars:** ⭐️ 733
+- **Tags:** `llm` `knowledge-distillation` `reinforcement-learning` `awesome-list` `model-training`
+- **最后活动时间:** 2026-08-15
 
 ### [MARS](https://github.com/AGI-Arena/MARS)
 
 面向大模型训练的方差缩减优化器官方实现，提升大规模模型预训练和微调效率。
 
-- **Stars:** ⭐️ 723
+- **Stars:** ⭐️ 722
 - **Tags:** `Optimizer` `Training` `LLM`
 - **最后活动时间:** 2026-03-26
 
@@ -3014,9 +3094,9 @@ PyTorch原生分布式训练库，专为LLM/VLM设计，开箱即用支持Huggin
 
 自动化机器学习框架，支持进化算法和超参数优化。
 
-- **Stars:** ⭐️ 709
+- **Stars:** ⭐️ 710
 - **Tags:** `automl` `machine-learning` `evolutionary-algorithms` `hyperparameter-optimization`
-- **最后活动时间:** 2026-08-04
+- **最后活动时间:** 2026-08-20
 
 ### [torchforge](https://github.com/meta-pytorch/torchforge)
 
@@ -3030,9 +3110,17 @@ PyTorch原生的大规模训练后优化工具，支持量化、剪枝等模型�
 
 一个通用、灵活且可扩展的大语言模型强化微调框架，支持RLHF训练流程。
 
-- **Stars:** ⭐️ 680
+- **Stars:** ⭐️ 690
 - **Tags:** `llm` `rlhf` `fine-tuning` `reinforcement-learning`
-- **最后活动时间:** 2026-07-31
+- **最后活动时间:** 2026-08-13
+
+### [Flow-Factory](https://github.com/X-GenGroup/Flow-Factory)
+
+统一框架，为Flow-Matching模型提供便捷的强化学习训练能力，支持图像与视频生成。
+
+- **Stars:** ⭐️ 671
+- **Tags:** `flow-matching` `reinforcement-learning` `diffusion` `image-generation`
+- **最后活动时间:** 2026-08-21
 
 ### [open-audio-opd](https://github.com/AutoArk/open-audio-opd)
 
@@ -3054,49 +3142,33 @@ PyTorch原生的大规模训练后优化工具，支持量化、剪枝等模型�
 
 Python文本分类主动学习库，支持深度学习、Transformer和小语言模型。
 
-- **Stars:** ⭐️ 648
+- **Stars:** ⭐️ 647
 - **Tags:** `active-learning` `text-classification` `transformers` `pytorch`
 - **最后活动时间:** 2026-05-24
-
-### [Flow-Factory](https://github.com/X-GenGroup/Flow-Factory)
-
-统一框架，为Flow-Matching模型提供便捷的强化学习训练能力，支持图像与视频生成。
-
-- **Stars:** ⭐️ 645
-- **Tags:** `flow-matching` `reinforcement-learning` `diffusion` `image-generation`
-- **最后活动时间:** 2026-08-01
-
-### [awesome-on-policy-distillation](https://github.com/chrisliu298/awesome-on-policy-distillation)
-
-一个精选的大语言模型策略蒸馏（OPD）论文、框架和工具合集。涵盖了知识蒸馏、强化学习及推测解码等前沿训练技术。
-
-- **Stars:** ⭐️ 636
-- **Tags:** `llm` `knowledge-distillation` `reinforcement-learning` `awesome-list` `model-training`
-- **最后活动时间:** 2026-08-06
 
 ### [RandOpt](https://github.com/sunrainyg/RandOpt)
 
 论文官方代码库，研究预训练权重周围的任务专家多样性，涉及LoRA、神经进化与后训练优化技术。
 
-- **Stars:** ⭐️ 630
+- **Stars:** ⭐️ 640
 - **Tags:** `llm` `lora` `post-training` `ensemble-learning` `neuroevolution`
 - **最后活动时间:** 2026-07-10
+
+### [UniSD](https://github.com/Ahren09/UniSD)
+
+面向大语言模型的统一自蒸馏框架，旨在通过自蒸馏技术优化并压缩模型规模。
+
+- **Stars:** ⭐️ 624
+- **Tags:** `self-distillation` `llm` `model-compression` `fine-tuning`
+- **最后活动时间:** 2026-06-13
 
 ### [LightReasoner](https://github.com/HKUDS/LightReasoner)
 
 探索小语言模型如何教导大语言模型进行推理的创新方法。
 
-- **Stars:** ⭐️ 605
+- **Stars:** ⭐️ 607
 - **Tags:** `reasoning` `knowledge-distillation` `small-language-models` `post-training`
 - **最后活动时间:** 2026-05-22
-
-### [e2e](https://github.com/test-time-training/e2e)
-
-长上下文端到端测试时训练的官方JAX实现，专注于提升模型在长序列任务上的表现。
-
-- **Stars:** ⭐️ 600
-- **Tags:** `JAX` `Test-Time Training` `Long Context`
-- **最后活动时间:** 2026-02-15
 
 ### [ArGue](https://github.com/xytian1008/ArGue)
 
@@ -3110,25 +3182,33 @@ CVPR 2024官方仓库，提出基于属性引导的视觉语言模型提示微�
 
 轻量级AI原生训练框架，支持SFT、RLVR和评估工作流，专为快速迭代和可复现实验设计。
 
-- **Stars:** ⭐️ 582
+- **Stars:** ⭐️ 585
 - **Tags:** `training-framework` `llm` `fine-tuning` `rlvr`
 - **最后活动时间:** 2026-05-18
-
-### [mistral](https://github.com/stanford-crfm/mistral)
-
-透明可访问的大规模语言模型训练框架，基于Hugging Face Transformers构建。
-
-- **Stars:** ⭐️ 581
-- **Tags:** `llm-training` `huggingface` `transformers`
-- **最后活动时间:** 2026-03-11
 
 ### [Enzyme.jl](https://github.com/EnzymeAD/Enzyme.jl)
 
 Julia语言的Enzyme自动微分绑定，支持编译器级别的自动微分，适用于深度学习训练优化。
 
-- **Stars:** ⭐️ 578
+- **Stars:** ⭐️ 584
 - **Tags:** `automatic-differentiation` `julia` `enzyme` `machine-learning`
-- **最后活动时间:** 2026-08-01
+- **最后活动时间:** 2026-08-21
+
+### [mistral](https://github.com/stanford-crfm/mistral)
+
+透明可访问的大规模语言模型训练框架，基于Hugging Face Transformers构建。
+
+- **Stars:** ⭐️ 582
+- **Tags:** `llm-training` `huggingface` `transformers`
+- **最后活动时间:** 2026-03-11
+
+### [Relax](https://github.com/redai-infra/Relax)
+
+一个用于全模态大规模后训练的异步强化学习引擎。支持多智能体强化学习、分布式训练及GRPO等算法，加速大模型的对齐与微调。
+
+- **Stars:** ⭐️ 578
+- **Tags:** `reinforcement-learning` `distributed-training` `rlhf` `llm` `multimodal`
+- **最后活动时间:** 2026-08-20
 
 ### [INFTY](https://github.com/THUDM/INFTY)
 
@@ -3138,14 +3218,6 @@ Julia语言的Enzyme自动微分绑定，支持编译器级别的自动微分，
 - **Tags:** `continual-learning` `optimization` `ai-toolkit`
 - **最后活动时间:** 2026-06-08
 
-### [UniSD](https://github.com/Ahren09/UniSD)
-
-面向大语言模型的统一自蒸馏框架，旨在通过自蒸馏技术优化并压缩模型规模。
-
-- **Stars:** ⭐️ 569
-- **Tags:** `self-distillation` `llm` `model-compression` `fine-tuning`
-- **最后活动时间:** 2026-06-13
-
 ### [TextRL](https://github.com/voidful/TextRL)
 
 在HuggingFace模型上实现ChatGPT风格的RLHF人类反馈强化学习训练。
@@ -3153,6 +3225,14 @@ Julia语言的Enzyme自动微分绑定，支持编译器级别的自动微分，
 - **Stars:** ⭐️ 564
 - **Tags:** `rlhf` `reinforcement-learning` `fine-tuning` `huggingface`
 - **最后活动时间:** 2026-04-23
+
+### [simply](https://github.com/google-deepmind/simply)
+
+基于JAX的极简可扩展研究代码库，专为LLM和自回归模型的前沿研究快速迭代设计。
+
+- **Stars:** ⭐️ 562
+- **Tags:** `jax` `llm` `research` `autoregressive`
+- **最后活动时间:** 2026-08-19
 
 ### [T2ITrainer](https://github.com/lrzjason/T2ITrainer)
 
@@ -3166,49 +3246,41 @@ Julia语言的Enzyme自动微分绑定，支持编译器级别的自动微分，
 
 基于JAX的大规模机器学习训练框架，支持高级并行化与业界领先的模型利用率。
 
-- **Stars:** ⭐️ 557
+- **Stars:** ⭐️ 559
 - **Tags:** `jax` `llm` `training` `parallelism`
-- **最后活动时间:** 2026-07-23
-
-### [Relax](https://github.com/redai-infra/Relax)
-
-一个用于全模态大规模后训练的异步强化学习引擎。支持多智能体强化学习、分布式训练及GRPO等算法，加速大模型的对齐与微调。
-
-- **Stars:** ⭐️ 556
-- **Tags:** `reinforcement-learning` `distributed-training` `rlhf` `llm` `multimodal`
-- **最后活动时间:** 2026-07-31
+- **最后活动时间:** 2026-08-07
 
 ### [Hyperactive](https://github.com/hyperactive-project/Hyperactive)
 
 统一的优化算法接口，支持超参数优化、神经网络架构搜索和特征工程自动化。
 
-- **Stars:** ⭐️ 552
+- **Stars:** ⭐️ 550
 - **Tags:** `hyperparameter-optimization` `neural-architecture-search` `optimization` `machine-learning`
-- **最后活动时间:** 2026-07-15
-
-### [simply](https://github.com/google-deepmind/simply)
-
-基于JAX的极简可扩展研究代码库，专为LLM和自回归模型的前沿研究快速迭代设计。
-
-- **Stars:** ⭐️ 551
-- **Tags:** `jax` `llm` `research` `autoregressive`
-- **最后活动时间:** 2026-07-24
+- **最后活动时间:** 2026-08-16
 
 ### [comfyUI-Realtime-Lora](https://github.com/shootthesound/comfyUI-Realtime-Lora)
 
 直接在ComfyUI中实时训练、编辑和保存LoRA模型，支持Flux、SDXL、SD 1.5等多种主流模型。为AI图像生成提供便捷的微调工具。
 
-- **Stars:** ⭐️ 543
+- **Stars:** ⭐️ 546
 - **Tags:** `comfyui` `lora` `stable-diffusion` `flux` `fine-tuning`
-- **最后活动时间:** 2026-06-07
+- **最后活动时间:** 2026-08-21
 
 ### [diffusion-e2e-ft](https://github.com/VisualComputingInstitute/diffusion-e2e-ft)
 
 WACV'25口头报告论文实现，证明微调图像条件扩散模型比想象中更容易。
 
-- **Stars:** ⭐️ 520
+- **Stars:** ⭐️ 521
 - **Tags:** `diffusion-models` `fine-tuning` `depth-estimation` `computer-vision`
 - **最后活动时间:** 2026-07-09
+
+### [QeRL](https://github.com/NVlabs/QeRL)
+
+ICLR 2026论文项目，支持在单张H100 GPU上对320亿参数LLM进行强化学习训练。
+
+- **Stars:** ⭐️ 516
+- **Tags:** `llms` `quantization` `reinforcement-learning` `reasoning`
+- **最后活动时间:** 2026-03-30
 
 ### [ml-mdm](https://github.com/apple/ml-mdm)
 
@@ -3218,13 +3290,13 @@ Apple开源的文本到图像扩散模型训练框架，专注于数据和计算
 - **Tags:** `Diffusion Models` `Text-to-Image` `Apple`
 - **最后活动时间:** 2026-06-25
 
-### [QeRL](https://github.com/NVlabs/QeRL)
+### [AI-Toolkit-Easy-Install](https://github.com/Tavris1/AI-Toolkit-Easy-Install)
 
-ICLR 2026论文项目，支持在单张H100 GPU上对320亿参数LLM进行强化学习训练。
+AI-Toolkit 的一键式 Windows 便携安装器，让 Stable Diffusion 与 LoRA 微调开箱即用。
 
-- **Stars:** ⭐️ 512
-- **Tags:** `llms` `quantization` `reinforcement-learning` `reasoning`
-- **最后活动时间:** 2026-03-30
+- **Stars:** ⭐️ 507
+- **Tags:** `ai-toolkit` `fine-tuning` `lora` `stable-diffusion` `windows`
+- **最后活动时间:** 2026-08-07
 
 ### [EvoOpt_oppangu_optimization_model](https://github.com/WillowHe/EvoOpt_oppangu_optimization_model)
 
