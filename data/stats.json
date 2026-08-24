@@ -1,6 +1,6 @@
 {
-  "totalProjects": 11790,
-  "totalRawProjects": 22672,
+  "totalProjects": 11993,
+  "totalRawProjects": 22880,
   "recencyThresholdMonths": 6,
   "categories": {
     "trending": {
@@ -11,63 +11,63 @@
     "llms": {
       "name": "🧠 基础大模型",
       "count": 161,
-      "rawCount": 618
+      "rawCount": 619
     },
     "agents": {
       "name": "🤖 智能体与编排",
-      "count": 1965,
-      "rawCount": 2401
+      "count": 2000,
+      "rawCount": 2437
     },
     "rag_data": {
       "name": "🔍 RAG与检索",
-      "count": 533,
-      "rawCount": 800
+      "count": 536,
+      "rawCount": 803
     },
     "infrastructure": {
       "name": "☁️ 基础设施与部署",
-      "count": 1148,
-      "rawCount": 1792
+      "count": 1154,
+      "rawCount": 1801
     },
     "finetuning": {
       "name": "🔧 微调与训练",
-      "count": 412,
-      "rawCount": 1005
+      "count": 414,
+      "rawCount": 1006
     },
     "multimodal": {
       "name": "👁️ 多模态与音视频",
-      "count": 1010,
-      "rawCount": 3134
+      "count": 1015,
+      "rawCount": 3137
     },
     "devtools": {
       "name": "🛠️ 开发工具与SDK",
-      "count": 2570,
-      "rawCount": 4085
+      "count": 2604,
+      "rawCount": 4123
     },
     "applications": {
       "name": "🎨 AI终端应用",
-      "count": 1226,
-      "rawCount": 2025
+      "count": 1238,
+      "rawCount": 2040
     },
     "learning": {
       "name": "📚 学习与资源",
-      "count": 1428,
-      "rawCount": 4538
+      "count": 1442,
+      "rawCount": 4550
     },
     "desktop_tools": {
       "name": "💻 桌面与操作系统级应用",
-      "count": 509,
-      "rawCount": 632
+      "count": 581,
+      "rawCount": 704
     },
     "robotics_iot": {
       "name": "🦾 机器人与物联网",
-      "count": 555,
-      "rawCount": 1197
+      "count": 564,
+      "rawCount": 1203
     },
     "finance_business": {
       "name": "💼 商业与量化",
-      "count": 300,
-      "rawCount": 493
+      "count": 311,
+      "rawCount": 505
     }
   },
-  "lastUpdated": "2026-08-23T02:02:52.565Z"
+  "lastUpdated": "2026-08-24T06:16:06.517Z"
 }
