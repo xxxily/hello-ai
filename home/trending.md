@@ -40,7 +40,7 @@ AI Agent性能优化框架，为Claude Code、Codex、Cursor等编程智能体�
 
 支持多主流大语言模型的智能AI代理，提供个性化交互体验，能够伴随用户持续成长进化。
 
-- **Stars:** ⭐️ 235.2k
+- **Stars:** ⭐️ 235.3k
 - **Tags:** `AI Agent` `LLM` `Claude` `ChatGPT`
 - **最后活动时间:** 2026-08-24
 
@@ -48,7 +48,7 @@ AI Agent性能优化框架，为Claude Code、Codex、Cursor等编程智能体�
 
 微软官方.NET技能库，为AI编程助手提供专业的C#代码生成与最佳实践指导能力。
 
-- **Stars:** ⭐️ 233.7k
+- **Stars:** ⭐️ 234.4k
 - **Tags:** `Microsoft` `.NET` `AI Coding Agent`
 - **最后活动时间:** 2026-08-21
 
@@ -56,9 +56,9 @@ AI Agent性能优化框架，为Claude Code、Codex、Cursor等编程智能体�
 
 开源工作流自动化平台，原生支持AI能力和MCP协议，支持400+集成，可自托管或云端部署。
 
-- **Stars:** ⭐️ 202.2k
+- **Stars:** ⭐️ 202.4k
 - **Tags:** `工作流自动化` `低代码` `AI集成` `MCP`
-- **最后活动时间:** 2026-08-24
+- **最后活动时间:** 2026-08-26
 
 ## [opencode](https://github.com/anomalyco/opencode)
 
@@ -96,9 +96,9 @@ JavaScript算法与数据结构实现集合，包含详细解释和延伸阅读�
 
 一个社区驱动的Zsh配置管理框架，包含300多个插件和140多个主题。它极大地提升了终端操作的效率和美观度。
 
-- **Stars:** ⭐️ 189.3k
+- **Stars:** ⭐️ 189.4k
 - **Tags:** `shell` `terminal` `cli` `zsh` `productivity`
-- **最后活动时间:** 2026-08-23
+- **最后活动时间:** 2026-08-25
 
 ## [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
 
@@ -114,7 +114,7 @@ DeepSeek Harness 是一个将一切视为插件的智能体框架，提供灵活
 
 - **Stars:** ⭐️ 186.8k
 - **Tags:** `Agent` `Automation` `Autonomous`
-- **最后活动时间:** 2026-08-23
+- **最后活动时间:** 2026-08-24
 
 ## [ollama](https://github.com/ollama/ollama)
 
@@ -128,7 +128,7 @@ DeepSeek Harness 是一个将一切视为插件的智能体框架，提供灵活
 
 将文件和Office文档转换为Markdown的Python工具，支持PDF等多种格式，可集成到RAG和AI工作流中。
 
-- **Stars:** ⭐️ 175.8k
+- **Stars:** ⭐️ 176.3k
 - **Tags:** `Markdown` `Document Conversion` `RAG`
 - **最后活动时间:** 2026-08-19
 
@@ -146,13 +146,13 @@ DeepSeek Harness 是一个将一切视为插件的智能体框架，提供灵活
 
 - **Stars:** ⭐️ 171.5k
 - **Tags:** `网页爬取` `数据提取` `LLM数据`
-- **最后活动时间:** 2026-08-23
+- **最后活动时间:** 2026-08-24
 
 ## [skills](https://github.com/anthropics/skills)
 
 Agent Skills 公共仓库，提供智能体技能模块的集合与共享。
 
-- **Stars:** ⭐️ 171.2k
+- **Stars:** ⭐️ 171.3k
 - **Tags:** `agent-skills` `ai-agent`
 - **最后活动时间:** 2026-08-21
 
@@ -168,9 +168,9 @@ Agent Skills 公共仓库，提供智能体技能模块的集合与共享。
 
 Hugging Face官方深度学习模型框架，支持文本、视觉、音频和多模态模型的推理与训练，提供数千个预训练模型API。
 
-- **Stars:** ⭐️ 164.4k
+- **Stars:** ⭐️ 164.5k
 - **Tags:** `PyTorch` `Transformers` `预训练模型`
-- **最后活动时间:** 2026-08-24
+- **最后活动时间:** 2026-08-27
 
 ## [JavaGuide](https://github.com/Snailclimb/JavaGuide)
 

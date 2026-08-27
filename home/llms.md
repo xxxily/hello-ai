@@ -2,17 +2,7 @@
 
 > Core large language models and foundation models.
 
-> 当前分类已收录 **161** 个相关项目。
-
-## Foundation Models
-
-### [nucleotide-transformer](https://github.com/instadeepai/nucleotide-transformer)
-
-基因组学和转录组学基础模型，利用Transformer架构理解DNA序列，推动生物信息学AI应用。
-
-- **Stars:** ⭐️ 908
-- **Tags:** `foundation-models` `genomics` `transformer` `deep-learning` `dna`
-- **最后活动时间:** 2026-02-24
+> 当前分类已收录 **162** 个相关项目。
 
 ## Model Architecture
 
@@ -20,9 +10,9 @@
 
 Hugging Face官方深度学习模型框架，支持文本、视觉、音频和多模态模型的推理与训练，提供数千个预训练模型API。
 
-- **Stars:** ⭐️ 164.4k
+- **Stars:** ⭐️ 164.5k
 - **Tags:** `PyTorch` `Transformers` `预训练模型`
-- **最后活动时间:** 2026-08-24
+- **最后活动时间:** 2026-08-27
 
 ### [minimind](https://github.com/jingyaogong/minimind)
 
@@ -36,7 +26,7 @@ Hugging Face官方深度学习模型框架，支持文本、视觉、音频和�
 
 全自动LLM审查移除工具，通过abliteration技术解除语言模型的安全限制。适用于模型行为研究和安全测试场景。
 
-- **Stars:** ⭐️ 28.1k
+- **Stars:** ⭐️ 28.2k
 - **Tags:** `LLM` `Abliteration` `Safety`
 - **最后活动时间:** 2026-08-17
 
@@ -54,7 +44,7 @@ Hugging Face官方深度学习模型框架，支持文本、视觉、音频和�
 
 - **Stars:** ⭐️ 14.7k
 - **Tags:** `RNN` `Transformer` `LLM`
-- **最后活动时间:** 2026-08-21
+- **最后活动时间:** 2026-08-26
 
 ### [HRM](https://github.com/sapientinc/HRM)
 
@@ -78,7 +68,7 @@ Meta DINOv3官方PyTorch实现，先进的自监督视觉模型。
 
 - **Stars:** ⭐️ 7.8k
 - **Tags:** `foundation-models` `tabular-data` `machine-learning`
-- **最后活动时间:** 2026-08-23
+- **最后活动时间:** 2026-08-25
 
 ### [Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)
 
@@ -396,7 +386,7 @@ RoFormer论文中旋转位置编码的PyTorch实现，提升Transformer位置表
 
 联合嵌入预测架构(JEPA)开源实现库，提供图像、视频及动作条件视频的表征学习示例与规划模型。
 
-- **Stars:** ⭐️ 752
+- **Stars:** ⭐️ 763
 - **Tags:** `jepa` `representation-learning` `self-supervised` `vision`
 - **最后活动时间:** 2026-07-17
 
@@ -404,7 +394,7 @@ RoFormer论文中旋转位置编码的PyTorch实现，提升Transformer位置表
 
 利用 BFS 和 DFS 等技术在 LLM 上迭代探索解决方案搜索空间。支持大规模的上下文细化与推理。
 
-- **Stars:** ⭐️ 744
+- **Stars:** ⭐️ 743
 - **Tags:** `llm` `search-algorithms` `reasoning` `prompt-engineering`
 - **最后活动时间:** 2026-08-15
 
@@ -420,7 +410,7 @@ RoFormer论文中旋转位置编码的PyTorch实现，提升Transformer位置表
 
 ICLR 2025论文官方实现：门控Delta网络，使用Delta规则改进Mamba2架构。
 
-- **Stars:** ⭐️ 653
+- **Stars:** ⭐️ 655
 - **Tags:** `pytorch` `mamba` `transformers` `iclr2025` `state-space-models`
 - **最后活动时间:** 2026-03-13
 
@@ -452,7 +442,7 @@ ICLR 2025论文官方实现：门控Delta网络，使用Delta规则改进Mamba2�
 
 递归语言模型实现无界上下文处理，通过变量存储上下文处理10万+token。
 
-- **Stars:** ⭐️ 588
+- **Stars:** ⭐️ 589
 - **Tags:** `recursive` `long-context` `llm`
 - **最后活动时间:** 2026-08-11
 
@@ -534,7 +524,7 @@ OpenAI的对比语言-图像预训练模型，实现图像与文本的联合理�
 
 Google Research开发的时间序列基础模型，用于时间序列预测的预训练大模型。
 
-- **Stars:** ⭐️ 28.2k
+- **Stars:** ⭐️ 28.3k
 - **Tags:** `time-series` `forecasting` `foundation-model` `google-research`
 - **最后活动时间:** 2026-07-14
 
@@ -550,15 +540,15 @@ DeepSeek-R1的完全开源复现项目，致力于复现其强大的推理能力
 
 一个专为手机端设计的超高效多模态大模型，支持图像和视频理解。具备强大的端侧运行能力，让用户在移动设备上即可体验先进的视觉理解功能。
 
-- **Stars:** ⭐️ 26.1k
+- **Stars:** ⭐️ 26.2k
 - **Tags:** `minicpm` `multimodal` `mllm` `edge-ai`
-- **最后活动时间:** 2026-08-04
+- **最后活动时间:** 2026-08-26
 
 ### [Qwen](https://github.com/QwenLM/Qwen)
 
 阿里云通义千问官方大语言模型，支持中英双语及多模态能力。提供预训练和对话模型，广泛应用于自然语言处理任务。
 
-- **Stars:** ⭐️ 21.6k
+- **Stars:** ⭐️ 21.7k
 - **Tags:** `LLM` `Alibaba` `Chinese`
 - **最后活动时间:** 2026-03-05
 
@@ -768,7 +758,7 @@ TimeGPT-1首个生产级时间序列基础模型，基于1000亿数据点训练�
 
 - **Stars:** ⭐️ 4.0k
 - **Tags:** `Time Series` `Forecasting` `Foundation Model`
-- **最后活动时间:** 2026-08-21
+- **最后活动时间:** 2026-08-26
 
 ### [Qwen3.8](https://github.com/QwenLM/Qwen3.8)
 
@@ -970,6 +960,14 @@ Elixir语言的预训练神经网络模型库，集成Hugging Face模型，支�
 - **Tags:** `time-series` `language-models` `medical-ai` `multivariate-data`
 - **最后活动时间:** 2026-07-21
 
+### [giga-models](https://github.com/open-gigaai/giga-models)
+
+综合性多模态、生成式和感知模型仓库平台，提供丰富的预训练模型资源。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `multimodal-models` `generative-ai` `perceptual-models`
+- **最后活动时间:** 2026-08-25
+
 ### [Index-1.9B](https://github.com/bilibili/Index-1.9B)
 
 轻量级多语言大语言模型，适合资源受限场景部署。
@@ -978,14 +976,6 @@ Elixir语言的预训练神经网络模型库，集成Hugging Face模型，支�
 - **Tags:** `llm` `multilingual` `lightweight` `open-source`
 - **最后活动时间:** 2026-08-21
 
-### [aurora](https://github.com/microsoft/aurora)
-
-微软开源的地球系统预测基础模型，支持天气预报、海洋波浪预测和热带气旋追踪等多种大气科学任务。
-
-- **Stars:** ⭐️ 1.0k
-- **Tags:** `foundation-models` `weather-prediction` `deep-learning` `aurora-model`
-- **最后活动时间:** 2026-08-19
-
 ### [Large-Time-Series-Model](https://github.com/thuml/Large-Time-Series-Model)
 
 ICML 2024论文官方代码，时间序列领域的大型生成预训练Transformer模型。
@@ -993,6 +983,14 @@ ICML 2024论文官方代码，时间序列领域的大型生成预训练Transfor
 - **Stars:** ⭐️ 1.0k
 - **Tags:** `time-series` `foundation-model` `transformer`
 - **最后活动时间:** 2026-03-22
+
+### [aurora](https://github.com/microsoft/aurora)
+
+微软开源的地球系统预测基础模型，支持天气预报、海洋波浪预测和热带气旋追踪等多种大气科学任务。
+
+- **Stars:** ⭐️ 1.0k
+- **Tags:** `foundation-models` `weather-prediction` `deep-learning` `aurora-model`
+- **最后活动时间:** 2026-08-19
 
 ### [Time-MoE](https://github.com/Time-MoE/Time-MoE)
 
@@ -1078,7 +1076,7 @@ Meta AI Research的代码生成模型工具包，包含预训练模型和完整�
 
 Falcon-Perception 和 Falcon-OCR 模型的推理仓库，支持早期融合的原生多模态密集自回归 Transformer 模型。
 
-- **Stars:** ⭐️ 752
+- **Stars:** ⭐️ 757
 - **Tags:** `transformer` `multimodal` `ocr` `perception` `inference`
 - **最后活动时间:** 2026-08-13
 
@@ -1209,6 +1207,14 @@ Clay基金会推出的开源地球观测AI基础模型，支持处理卫星影�
 - **Stars:** ⭐️ 513
 - **Tags:** `llm` `diffusion-model` `language-model` `open-source`
 - **最后活动时间:** 2026-07-22
+
+### [LongCat-Flash-Omni](https://github.com/meituan-longcat/LongCat-Flash-Omni)
+
+美团 LongCat-Flash-Omni 多模态大模型官方技术报告仓库，涵盖模型架构与训练细节。适合关注开源前沿多模态大模型的研究者与开发者。
+
+- **Stars:** ⭐️ 505
+- **Tags:** `llm` `multimodal` `technical-report` `open-source`
+- **最后活动时间:** 2026-05-09
 
 ### [CPM-Live](https://github.com/OpenBMB/CPM-Live)
 
