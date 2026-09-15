@@ -1,0 +1,4485 @@
+{
+  "rejected": [
+    {
+      "name": "magnetissimo",
+      "url": "https://github.com/sergiotapia/magnetissimo",
+      "description": "Web application that indexes all popular torrent sites, and saves it to the local database.",
+      "topics": [
+        "bittorrent",
+        "p2p",
+        "search-engine",
+        "self-hosted",
+        "torrent"
+      ],
+      "rejected_at": "2026-05-26T08:12:27.380Z",
+      "reason": "Torrent indexer, not AI-related."
+    },
+    {
+      "name": "portfolio",
+      "url": "https://github.com/portfolio-performance/portfolio",
+      "description": "Track and evaluate the performance of your investment portfolio across stocks, cryptocurrencies, and other assets.",
+      "topics": [
+        "eclipse",
+        "financial",
+        "investment-portfolio",
+        "java",
+        "portfolio",
+        "portfolio-performance",
+        "stocks"
+      ],
+      "rejected_at": "2026-04-10T02:40:34.004Z",
+      "reason": "Investment portfolio tracker, not AI-related."
+    },
+    {
+      "name": "blog-tutorials",
+      "url": "https://github.com/rieckpil/blog-tutorials",
+      "description": ":star: Codebase for various tutorials  about Java, Spring Boot, AWS, Kotlin, and Testing",
+      "topics": [
+        "aws",
+        "java",
+        "java-ee",
+        "jdk",
+        "junit",
+        "kotlin",
+        "maven",
+        "microprofile",
+        "postgresql",
+        "react",
+        "spring-boot",
+        "spring-framework",
+        "spring-security",
+        "spring-test",
+        "spring-web",
+        "spring-webclient",
+        "spring-webflux",
+        "testcontainers"
+      ],
+      "rejected_at": "2026-04-10T02:40:34.004Z",
+      "reason": "Java/Spring tutorials, not AI-related."
+    },
+    {
+      "name": "camunda",
+      "url": "https://github.com/camunda/camunda",
+      "description": "Process Orchestration Framework",
+      "topics": [
+        "bpmn",
+        "grpc",
+        "java",
+        "microservices",
+        "orchestration-framework",
+        "workflow",
+        "workflow-engine"
+      ],
+      "rejected_at": "2026-04-10T02:40:34.004Z",
+      "reason": "Process orchestration framework, not AI-related."
+    },
+    {
+      "name": "javascript-in-one-pic",
+      "url": "https://github.com/rainyear/javascript-in-one-pic",
+      "description": "Learn javascript in one picture.",
+      "topics": [],
+      "rejected_at": "2026-04-10T02:40:34.004Z",
+      "reason": "JavaScript learning resource, not AI-related."
+    },
+    {
+      "name": "cordova-plugin-file",
+      "url": "https://github.com/apache/cordova-plugin-file",
+      "description": "Apache Cordova File Plugin",
+      "topics": [
+        "android",
+        "cordova",
+        "hacktoberfest",
+        "ios",
+        "java",
+        "javascript",
+        "library",
+        "mobile",
+        "nodejs",
+        "objective-c"
+      ],
+      "rejected_at": "2026-04-10T02:40:34.004Z",
+      "reason": "Cordova file plugin, not AI-related."
+    },
+    {
+      "name": "sedona",
+      "url": "https://github.com/apache/sedona",
+      "description": "A cluster computing framework for processing large-scale geospatial data",
+      "topics": [
+        "cluster-computing",
+        "geospatial",
+        "hacktoberfest",
+        "java",
+        "python",
+        "scala",
+        "spatial-analysis",
+        "spatial-query",
+        "spatial-sql"
+      ],
+      "rejected_at": "2026-04-10T02:40:34.004Z",
+      "reason": "Geospatial data framework, not AI-focused."
+    },
+    {
+      "name": "java",
+      "url": "https://github.com/exercism/java",
+      "description": "Exercism exercises in Java.",
+      "topics": [
+        "community-contributions-accepted",
+        "exercism-track",
+        "maintained"
+      ],
+      "rejected_at": "2026-04-10T02:40:34.004Z",
+      "reason": "Programming exercises, not AI-related."
+    },
+    {
+      "name": "urule",
+      "url": "https://github.com/youseries/urule",
+      "description": "URULE是一款基于RETE算法的纯Java规则引擎，提供规则集、决策表、决策树、评分卡，规则流等各种规则表现工具及基于网页的可视化设计器，可快速开发出各种复杂业务规则。",
+      "topics": [
+        "chinese-rule",
+        "java",
+        "java-rule",
+        "java-rule-engine",
+        "rule",
+        "spring",
+        "springboo"
+      ],
+      "rejected_at": "2026-04-10T02:40:34.004Z",
+      "reason": "Business rule engine, not AI-focused."
+    },
+    {
+      "name": "javacpp-presets",
+      "url": "https://github.com/bytedeco/javacpp-presets",
+      "description": "The missing Java distribution of native C++ libraries",
+      "topics": [
+        "android",
+        "java",
+        "javacpp-presets",
+        "maven",
+        "native-libraries",
+        "python"
+      ],
+      "rejected_at": "2026-04-10T02:40:34.004Z",
+      "reason": "Native library presets, not AI-related."
+    },
+    {
+      "name": "Awesome-JavaScript-Projects",
+      "url": "https://github.com/Vishal-raj-1/Awesome-JavaScript-Projects",
+      "description": "This Repository contain awesome vanilla JavaScript projects. ",
+      "topics": [
+        "bootstrap",
+        "css3",
+        "html5",
+        "javascript",
+        "vanila-js",
+        "vanilla-javascript"
+      ],
+      "rejected_at": "2026-04-10T02:40:34.005Z",
+      "reason": "JavaScript projects collection, not AI-related."
+    },
+    {
+      "name": "Perfect",
+      "url": "https://github.com/PerfectlySoft/Perfect",
+      "description": "Server-side Swift. The Perfect core toolset and framework for Swift Developers. (For mobile back-end development, website and API development, and more…)",
+      "topics": [
+        "perfect",
+        "server-side-swift",
+        "swift",
+        "swift-framework",
+        "swift-perfect-community",
+        "web-application-framework"
+      ],
+      "rejected_at": "2026-05-02T22:18:32.340Z",
+      "reason": "Server-side Swift framework, not AI-related."
+    },
+    {
+      "name": "AppManager",
+      "url": "https://github.com/MuntashirAkon/AppManager",
+      "description": "A full-featured package manager and viewer for Android",
+      "topics": [
+        "adb",
+        "android",
+        "apks",
+        "material-design",
+        "package-manager"
+      ],
+      "rejected_at": "2026-05-23T13:57:39.172Z",
+      "reason": "Not AI-related. This is an Android package manager application."
+    },
+    {
+      "name": "UltimateAndroidReference",
+      "url": "https://github.com/aritraroy/UltimateAndroidReference",
+      "description": ":rocket: Ultimate Android Reference - Your Road to Become a Better Android Developer",
+      "topics": [
+        "android",
+        "android-apps",
+        "android-book",
+        "android-developers",
+        "android-development",
+        "android-game",
+        "android-library",
+        "android-open-source",
+        "android-studio",
+        "android-tests",
+        "kotlin-android",
+        "sample-android",
+        "twitter",
+        "websites"
+      ],
+      "rejected_at": "2026-05-23T13:57:39.172Z",
+      "reason": "Not AI-related. This is an Android development learning resource collection."
+    },
+    {
+      "name": "AndroidDevTools",
+      "url": "https://github.com/inferjay/AndroidDevTools",
+      "description": "收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等。",
+      "topics": [
+        "adt",
+        "android-development",
+        "android-sdk",
+        "android-studio",
+        "gradle",
+        "ndk",
+        "sdk-manager"
+      ],
+      "rejected_at": "2026-05-23T13:57:39.172Z",
+      "reason": "Not AI-related. This is an Android development tools collection."
+    },
+    {
+      "name": "BGAQRCode-Android",
+      "url": "https://github.com/bingoogolapple/BGAQRCode-Android",
+      "description": "QRCode 扫描二维码、扫描条形码、相册获取图片后识别、生成带 Logo 二维码、支持微博微信 QQ 二维码扫描样式",
+      "topics": [
+        "qrcode",
+        "qrcode-android",
+        "qrcode-generator",
+        "qrcode-scanner"
+      ],
+      "rejected_at": "2026-05-23T13:57:39.172Z",
+      "reason": "Not AI-related. This is a QR code scanning and generation library."
+    },
+    {
+      "name": "XPopup",
+      "url": "https://github.com/junixapp/XPopup",
+      "description": "🔥XPopup2.0版本重磅来袭，2倍以上性能提升，带来可观的动画性能优化和交互细节的提升！！！功能强大，交互优雅，动画丝滑的通用弹窗！可以替代Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner等组件，自带十几种效果良好的动画， 支持完全的UI和动画自定义！(Powerful and Beautiful Popup for Android，can absolutely replace Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner. With built-in animators , very easy to custom popup view.)",
+      "topics": [
+        "android",
+        "bottomsheet",
+        "dialog",
+        "drawerlayout",
+        "popup",
+        "popup-dialog",
+        "popup-menu",
+        "popup-window",
+        "popup-windows",
+        "popupdialog",
+        "popupmenu",
+        "popupwindow",
+        "xpopup"
+      ],
+      "rejected_at": "2026-05-23T13:57:39.172Z",
+      "reason": "Not AI-related. This is a popup/dialog UI component library."
+    },
+    {
+      "name": "subsampling-scale-image-view",
+      "url": "https://github.com/davemorrissey/subsampling-scale-image-view",
+      "description": "Android library (AAR). Highly configurable, easily extendable deep zoom view for displaying huge images without loss of detail. Perfect for photo galleries, maps, building plans etc.",
+      "topics": [
+        "android",
+        "android-lib",
+        "android-library",
+        "android-libs",
+        "deep-zoom-images",
+        "large-images",
+        "pan",
+        "scale",
+        "zoom-gestures",
+        "zoom-images"
+      ],
+      "rejected_at": "2026-05-23T13:57:39.172Z",
+      "reason": "Not AI-related. This is an image zoom view library for Android."
+    },
+    {
+      "name": "RIBs",
+      "url": "https://github.com/uber/RIBs",
+      "description": "Uber's cross-platform mobile architecture framework - Android Repository",
+      "topics": [
+        "android",
+        "architectural-patterns",
+        "architecture",
+        "mobile",
+        "mobile-app",
+        "mobile-development",
+        "mvc",
+        "mvp",
+        "mvvm",
+        "viper"
+      ],
+      "rejected_at": "2026-05-23T13:57:39.172Z",
+      "reason": "Not AI-related. This is Uber's mobile architecture framework."
+    },
+    {
+      "name": "PakePlus-Android",
+      "url": "https://github.com/Sjj1024/PakePlus-Android",
+      "description": "Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/HTML/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app",
+      "topics": [
+        "build",
+        "pacbao",
+        "pack",
+        "pake",
+        "pakeplus",
+        "tauri",
+        "tauri2"
+      ],
+      "rejected_at": "2026-05-23T13:57:39.172Z",
+      "reason": "Not AI-related. This is a tool for converting webpages to apps."
+    },
+    {
+      "name": "chromeos-apk",
+      "url": "https://github.com/vladikoff/chromeos-apk",
+      "description": "☢️  Run Android Apps in Chrome OS OR Chrome in OS X, Linux and Windows.",
+      "topics": [],
+      "rejected_at": "2026-05-23T13:57:39.172Z",
+      "reason": "Not AI-related. This is a tool for running Android apps in Chrome."
+    },
+    {
+      "name": "HomeMirror",
+      "url": "https://github.com/HannahMitt/HomeMirror",
+      "description": "Android application powering the mirror in my house",
+      "topics": [],
+      "rejected_at": "2026-05-23T13:57:39.172Z",
+      "reason": "Not AI-related. This is a smart mirror Android application."
+    },
+    {
+      "name": "litho",
+      "url": "https://github.com/facebook/litho",
+      "description": "A declarative framework for building efficient UIs on Android.",
+      "topics": [],
+      "rejected_at": "2026-05-23T13:57:39.172Z",
+      "reason": "Not AI-related. This is a declarative UI framework for Android."
+    },
+    {
+      "name": "Shadow",
+      "url": "https://github.com/Tencent/Shadow",
+      "description": "零反射全动态Android插件框架",
+      "topics": [
+        "android"
+      ],
+      "rejected_at": "2026-05-23T13:57:39.172Z",
+      "reason": "Not AI-related. This is an Android plugin framework."
+    },
+    {
+      "name": "android-developer-roadmap",
+      "url": "https://github.com/skydoves/android-developer-roadmap",
+      "description": " 🗺 The Android Developer Roadmap offers comprehensive learning paths to help you understand Android ecosystems.",
+      "topics": [
+        "android",
+        "android-development",
+        "jetpack",
+        "jetpack-compose",
+        "kotlin",
+        "roadmap"
+      ],
+      "rejected_at": "2026-05-23T13:57:39.172Z",
+      "reason": "Not AI-related. This is an Android developer learning roadmap."
+    },
+    {
+      "name": "MVVMHabit",
+      "url": "https://github.com/goldze/MVVMHabit",
+      "description": "👕基于谷歌最新AAC架构，MVVM设计模式的一套快速开发库，整合Okhttp+RxJava+Retrofit+Glide等主流模块，满足日常开发需求。使用该框架可以快速开发一个高质量、易维护的Android应用。",
+      "topics": [
+        "aac",
+        "databinding",
+        "glide",
+        "lifecycle",
+        "mvvm",
+        "mvvm-library",
+        "okhttp",
+        "retrofit",
+        "retrofit2",
+        "rxjava",
+        "rxjava2"
+      ],
+      "rejected_at": "2026-05-23T13:57:39.172Z",
+      "reason": "Not AI-related. This is an MVVM development library for Android."
+    },
+    {
+      "name": "Xposed",
+      "url": "https://github.com/rovo89/Xposed",
+      "description": "The native part of the Xposed framework (mainly the modified app_process binary).",
+      "topics": [
+        "android",
+        "xposed"
+      ],
+      "rejected_at": "2026-05-23T13:57:39.172Z",
+      "reason": "Not AI-related. This is the Xposed framework for Android modification."
+    },
+    {
+      "name": "RxLifecycle",
+      "url": "https://github.com/trello-archive/RxLifecycle",
+      "description": "Lifecycle handling APIs for Android apps using RxJava",
+      "topics": [],
+      "rejected_at": "2026-05-23T13:57:39.172Z",
+      "reason": "Not AI-related. This is a lifecycle handling library for RxJava."
+    },
+    {
+      "name": "cheesesquare",
+      "url": "https://github.com/chrisbanes/cheesesquare",
+      "description": "Demos the new Android Design library.",
+      "topics": [],
+      "rejected_at": "2026-05-23T13:57:39.172Z",
+      "reason": "Not AI-related. This is a demo for Android Design library."
+    },
+    {
+      "name": "gnirehtet",
+      "url": "https://github.com/Genymobile/gnirehtet",
+      "description": "Gnirehtet provides reverse tethering for Android",
+      "topics": [
+        "android",
+        "java-8",
+        "reverse-tethering",
+        "rust",
+        "vpn"
+      ],
+      "rejected_at": "2026-05-23T13:57:39.172Z",
+      "reason": "Not AI-related. This is a reverse tethering tool for Android."
+    },
+    {
+      "name": "android-classyshark",
+      "url": "https://github.com/google/android-classyshark",
+      "description": "Android and Java bytecode viewer",
+      "topics": [
+        "analysis",
+        "android",
+        "apk",
+        "apk-parser",
+        "classyshark",
+        "dex",
+        "jar",
+        "java",
+        "kotlin",
+        "multidex"
+      ],
+      "rejected_at": "2026-05-23T13:57:39.172Z",
+      "reason": "Not AI-related. This is an Android/Java bytecode viewer."
+    },
+    {
+      "name": "AndroidAsync",
+      "url": "https://github.com/koush/AndroidAsync",
+      "description": "Asynchronous socket, http(s) (client+server) and websocket library for android. Based on nio, not threads.",
+      "topics": [],
+      "rejected_at": "2026-05-23T13:57:39.172Z",
+      "reason": "Not AI-related. This is an asynchronous networking library."
+    },
+    {
+      "name": "RxJava-Android-Samples",
+      "url": "https://github.com/kaushikgopal/RxJava-Android-Samples",
+      "description": "Learning RxJava for Android by example",
+      "topics": [
+        "concurrency",
+        "example",
+        "java",
+        "learning-rxjava",
+        "reactive",
+        "reactive-programming",
+        "rxjava",
+        "sample",
+        "thread"
+      ],
+      "rejected_at": "2026-05-23T13:57:39.172Z",
+      "reason": "Not AI-related. This is a RxJava learning sample collection."
+    },
+    {
+      "name": "ansible-role-kubernetes",
+      "url": "https://github.com/geerlingguy/ansible-role-kubernetes",
+      "description": "Ansible Role - Kubernetes",
+      "topics": [
+        "ansible",
+        "docker",
+        "k8s",
+        "kubeadm",
+        "kubectl",
+        "kubernetes",
+        "orchestration",
+        "role"
+      ],
+      "rejected_at": "2026-05-05T17:14:23.556Z",
+      "reason": "Not AI-related. This is an Ansible role for Kubernetes installation."
+    },
+    {
+      "name": "learning-k8s-source-code",
+      "url": "https://github.com/bluecity2048/learning-k8s-source-code",
+      "description": "k8s、docker源码分析、读书笔记",
+      "topics": [
+        "docker",
+        "etcd",
+        "go",
+        "kubernetes"
+      ],
+      "rejected_at": "2026-05-05T17:14:23.556Z",
+      "reason": "Not AI-related. This is Kubernetes and Docker source code analysis notes."
+    },
+    {
+      "name": "hubble",
+      "url": "https://github.com/cilium/hubble",
+      "description": "Hubble - Network, Service & Security Observability for Kubernetes using eBPF",
+      "topics": [
+        "cilium",
+        "ebpf",
+        "kubernetes",
+        "metrics",
+        "networking",
+        "observability",
+        "security",
+        "tracing"
+      ],
+      "rejected_at": "2026-05-05T17:14:23.556Z",
+      "reason": "Not AI-related. This is a network observability tool for Kubernetes using eBPF."
+    },
+    {
+      "name": "felix",
+      "url": "https://github.com/projectcalico/felix",
+      "description": "Project Calico's per-host agent Felix, responsible for programming routes and security policy.",
+      "topics": [
+        "calico-felix",
+        "containers",
+        "docker",
+        "felix",
+        "go",
+        "golang",
+        "kubernetes",
+        "networking",
+        "policy",
+        "security"
+      ],
+      "rejected_at": "2026-05-05T17:14:23.556Z",
+      "reason": "Not AI-related. This is Project Calico's networking and security agent."
+    },
+    {
+      "name": "mysql-operator",
+      "url": "https://github.com/bitpoke/mysql-operator",
+      "description": "Asynchronous MySQL Replication on Kubernetes using Percona Server and Openark's Orchestrator.",
+      "topics": [
+        "kubernetes",
+        "kubernetes-controller",
+        "kubernetes-operator",
+        "mysql",
+        "mysql-async",
+        "mysql-cluster",
+        "operator",
+        "percona-server"
+      ],
+      "rejected_at": "2026-05-05T17:14:23.556Z",
+      "reason": "Not AI-related. This is a MySQL operator for Kubernetes."
+    },
+    {
+      "name": "aws-node-termination-handler",
+      "url": "https://github.com/aws/aws-node-termination-handler",
+      "description": "Gracefully handle EC2 instance shutdown within Kubernetes",
+      "topics": [
+        "aws-ec2",
+        "eks",
+        "golang",
+        "kubernetes",
+        "maintenance-events",
+        "spot-instances"
+      ],
+      "rejected_at": "2026-05-05T17:14:23.556Z",
+      "reason": "Not AI-related. This handles EC2 instance shutdown in Kubernetes."
+    },
+    {
+      "name": "kubernetes-for-java-developers",
+      "url": "https://github.com/aws-samples/kubernetes-for-java-developers",
+      "description": "A Day in Java Developer’s Life, with a taste of Kubernetes",
+      "topics": [
+        "containers",
+        "docker",
+        "java",
+        "kubernetes",
+        "maven"
+      ],
+      "rejected_at": "2026-05-05T17:14:23.556Z",
+      "reason": "Not AI-related. This is a Kubernetes learning resource for Java developers."
+    },
+    {
+      "name": "flux2-multi-tenancy",
+      "url": "https://github.com/fluxcd/flux2-multi-tenancy",
+      "description": "Manage multi-tenant clusters with Flux",
+      "topics": [
+        "example",
+        "flux2",
+        "fluxcd",
+        "gitops",
+        "kubernetes",
+        "multitenancy"
+      ],
+      "rejected_at": "2026-05-05T17:14:23.556Z",
+      "reason": "Not AI-related. This is a multi-tenancy management tool for Flux."
+    },
+    {
+      "name": "Restaurant-App",
+      "url": "https://github.com/chayxana/Restaurant-App",
+      "description": "Restaurant App 🍔   is a sample open-source e-Commerce 🛒   application for ordering foods, powered by polyglot microservices architecture and cross-platform development including mobile and web",
+      "topics": [
+        "angular",
+        "design-patterns",
+        "docker",
+        "golang",
+        "identityserver4",
+        "kubernetes",
+        "lgtm-stack",
+        "microservices",
+        "microservices-architecture",
+        "mvvm",
+        "netcore",
+        "nextjs",
+        "open-telemetry",
+        "polyglot-microservices",
+        "react",
+        "solid-principles",
+        "spring-boot",
+        "typescript",
+        "xamarin"
+      ],
+      "rejected_at": "2026-05-05T17:14:23.556Z",
+      "reason": "Not AI-related. This is an e-commerce restaurant application with microservices."
+    },
+    {
+      "name": "cks",
+      "url": "https://github.com/ViktorUJ/cks",
+      "description": "Open-source Platform for learning kubernetes and aws eks   and preparation for  for  Certified Kubernetes exams  (CKA ,CKS , CKAD, ICA) ",
+      "topics": [
+        "aws",
+        "cka",
+        "cka-exam-preparation",
+        "cka-exam-questions",
+        "ckad",
+        "ckad-exam-questions",
+        "cks",
+        "cks-exam-preparation",
+        "cks-exam-questions",
+        "devops",
+        "eks",
+        "ica",
+        "k8s",
+        "kcsa",
+        "kubeadm",
+        "kubernetes",
+        "kubernetes-learning",
+        "kubernetes-security",
+        "learn-kubernetes",
+        "terraform"
+      ],
+      "rejected_at": "2026-05-05T17:14:23.556Z",
+      "reason": "Not AI-related. This is a Kubernetes certification exam preparation resource."
+    },
+    {
+      "name": "quay",
+      "url": "https://github.com/quay/quay",
+      "description": "Build, Store, and Distribute your Applications and Containers",
+      "topics": [
+        "containers",
+        "docker",
+        "oci-distribution",
+        "quay"
+      ],
+      "rejected_at": "2026-05-06T11:17:27.467Z",
+      "reason": "Container registry project, not AI-related."
+    },
+    {
+      "name": "tegola",
+      "url": "https://github.com/go-spatial/tegola",
+      "description": "Tegola is a Mapbox Vector Tile server written in Go",
+      "topics": [
+        "gis",
+        "golang",
+        "mapbox-vector-tile",
+        "mvt",
+        "openlayers",
+        "postgis",
+        "vector-tiles",
+        "wkb"
+      ],
+      "rejected_at": "2026-05-22T15:09:40.218Z",
+      "reason": "GIS/Mapping tool, not AI-related."
+    },
+    {
+      "name": "gosip",
+      "url": "https://github.com/ghettovoice/gosip",
+      "description": "SIP in Go",
+      "topics": [
+        "golang",
+        "hacktoberfest",
+        "sip"
+      ],
+      "rejected_at": "2026-05-22T15:09:40.220Z",
+      "reason": "SIP protocol implementation, not AI-related."
+    },
+    {
+      "name": "piko",
+      "url": "https://github.com/andydunstall/piko",
+      "description": "An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes)",
+      "topics": [
+        "golang",
+        "http",
+        "http-proxy",
+        "reverse-proxy",
+        "tunneling"
+      ],
+      "rejected_at": "2026-05-22T15:09:40.220Z",
+      "reason": "Network tunneling/proxy tool, not AI-related."
+    },
+    {
+      "name": "electric",
+      "url": "https://github.com/electric-sql/electric",
+      "description": "The agent platform built on sync.",
+      "topics": [
+        "agent",
+        "agents",
+        "crdt",
+        "crdts",
+        "data",
+        "elixir",
+        "platform",
+        "postgres",
+        "replication",
+        "runtime",
+        "sync"
+      ],
+      "rejected_at": "2026-05-01T18:38:42.023Z",
+      "reason": "Not AI-related. This is a data synchronization platform using CRDTs, not an AI agent platform."
+    },
+    {
+      "name": "ua-parser-js",
+      "url": "https://github.com/faisalman/ua-parser-js",
+      "description": "UAParser.js - The Essential Web Development Tool for User-Agent Detection. Detect Browsers, OS, Devices, Bots, Apps, AI Crawlers, and more. Run in Browser (client-side) or Node.js (server-side).",
+      "topics": [
+        "analytics",
+        "bot-detection",
+        "browser-detection",
+        "client-hints",
+        "device-detection",
+        "mobile-detection",
+        "user-agent",
+        "user-agent-parser"
+      ],
+      "rejected_at": "2026-05-01T18:38:42.023Z",
+      "reason": "Not AI-related. This is a user-agent parsing library for web development."
+    },
+    {
+      "name": "unopim",
+      "url": "https://github.com/unopim/unopim",
+      "description": "Unopim is a free and open-source Laravel-based Product Information Management (PIM) system that helps businesses manage and enrich product data from a single platform. Built to scale beyond 10M+ products, now evolving with Agentic PIM capabilities.",
+      "topics": [
+        "laravel",
+        "open-source",
+        "opensource",
+        "php",
+        "pim",
+        "product",
+        "product-information-management",
+        "product-management"
+      ],
+      "rejected_at": "2026-05-01T18:38:42.023Z",
+      "reason": "Not primarily AI-focused. This is a Product Information Management system with minimal AI features."
+    },
+    {
+      "name": "portless",
+      "url": "https://github.com/vercel-labs/portless",
+      "description": "Replace port numbers with stable, named local URLs. For humans and agents.",
+      "topics": [],
+      "rejected_at": "2026-05-01T18:38:42.023Z",
+      "reason": "Not AI-related. This is a local URL management tool for developers."
+    },
+    {
+      "name": "simple-salesforce",
+      "url": "https://github.com/simple-salesforce/simple-salesforce",
+      "description": "A very simple Salesforce.com REST API client for Python",
+      "topics": [
+        "api",
+        "api-client",
+        "python",
+        "salesforce"
+      ],
+      "rejected_at": "2026-08-08T09:34:06.713Z",
+      "reason": "Salesforce REST API client, not related to AI."
+    },
+    {
+      "name": "aiodocker",
+      "url": "https://github.com/aio-libs/aiodocker",
+      "description": "Python Docker API client based on asyncio and aiohttp",
+      "topics": [
+        "aiohttp",
+        "api-client",
+        "asyncio",
+        "docker",
+        "python"
+      ],
+      "rejected_at": "2026-08-08T09:34:06.715Z",
+      "reason": "Docker API client, not related to AI."
+    },
+    {
+      "name": "param",
+      "url": "https://github.com/holoviz/param",
+      "description": "Declarative parameters for robust Python classes and a rich API for reactive programming",
+      "topics": [
+        "attributes",
+        "boilerplate",
+        "bounds-checking",
+        "class",
+        "gui",
+        "oop",
+        "param",
+        "parameters",
+        "python",
+        "ui"
+      ],
+      "rejected_at": "2026-08-08T09:34:06.716Z",
+      "reason": "Parameter management for Python classes, not an AI project."
+    },
+    {
+      "name": "TikTok-Api",
+      "url": "https://github.com/davidteather/TikTok-Api",
+      "description": "The Unofficial TikTok API Wrapper In Python",
+      "topics": [
+        "api",
+        "download-tiktoks",
+        "hacktoberfest",
+        "python",
+        "tik",
+        "tiktok",
+        "tiktok-api",
+        "tiktok-automation",
+        "tiktok-compilations",
+        "tiktok-downloader",
+        "tiktok-python",
+        "tiktok-scraper",
+        "tiktok-signature",
+        "tiktok-trending-page",
+        "tiktokapi",
+        "tok",
+        "trending"
+      ],
+      "rejected_at": "2026-08-08T09:34:06.716Z",
+      "reason": "TikTok scraper, not related to AI."
+    },
+    {
+      "name": "findatapy",
+      "url": "https://github.com/cuemacro/findatapy",
+      "description": "Python library to download market data via Bloomberg, Eikon, Quandl, Yahoo etc.",
+      "topics": [
+        "arctic",
+        "bloomberg",
+        "dukascopy",
+        "eikon",
+        "fred",
+        "market-data",
+        "python-api",
+        "quandl"
+      ],
+      "rejected_at": "2026-08-08T09:34:06.716Z",
+      "reason": "Financial market data downloader, not an AI project."
+    },
+    {
+      "name": "treq",
+      "url": "https://github.com/twisted/treq",
+      "description": "Python requests like API built on top of Twisted's HTTP client.",
+      "topics": [
+        "http",
+        "python",
+        "twisted"
+      ],
+      "rejected_at": "2026-08-08T09:34:06.716Z",
+      "reason": "HTTP client library, not related to AI."
+    },
+    {
+      "name": "pdoc",
+      "url": "https://github.com/mitmproxy/pdoc",
+      "description": "API Documentation for Python Projects",
+      "topics": [
+        "api",
+        "api-documentation",
+        "docs",
+        "docstring",
+        "docstrings",
+        "documentation",
+        "documentation-generator",
+        "documentation-tool",
+        "pdoc",
+        "python",
+        "python3"
+      ],
+      "rejected_at": "2026-08-08T09:34:06.716Z",
+      "reason": "API documentation generator, not related to AI."
+    },
+    {
+      "name": "spotipy",
+      "url": "https://github.com/spotipy-dev/spotipy",
+      "description": "A light weight Python library for the Spotify Web API",
+      "topics": [],
+      "rejected_at": "2026-08-08T09:34:06.716Z",
+      "reason": "Spotify Web API client, not related to AI."
+    },
+    {
+      "name": "sendgrid-python",
+      "url": "https://github.com/sendgrid/sendgrid-python",
+      "description": "The Official Twilio SendGrid Python API Library",
+      "topics": [
+        "email",
+        "python",
+        "sendgrid",
+        "transactional-emails"
+      ],
+      "rejected_at": "2026-08-08T09:34:06.716Z",
+      "reason": "SendGrid email API library, not related to AI."
+    },
+    {
+      "name": "Android",
+      "url": "https://github.com/duckduckgo/Android",
+      "description": "DuckDuckGo Android App",
+      "topics": [
+        "android",
+        "duckduckgo",
+        "duckduckgo-android",
+        "hacktoberfest",
+        "translations"
+      ],
+      "rejected_at": "2026-09-02T19:23:51.954Z",
+      "reason": "DuckDuckGo Android browser app, not related to AI."
+    },
+    {
+      "name": "FirebaseUI-Android",
+      "url": "https://github.com/firebase/FirebaseUI-Android",
+      "description": "Optimized UI components for Firebase",
+      "topics": [
+        "android",
+        "firebase",
+        "ui"
+      ],
+      "rejected_at": "2026-09-02T19:23:51.957Z",
+      "reason": "Firebase UI components library, not related to AI."
+    },
+    {
+      "name": "MMKV",
+      "url": "https://github.com/Tencent/MMKV",
+      "description": "An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, POSIX, and OHOS.",
+      "topics": [
+        "android",
+        "flutter",
+        "golang",
+        "ios",
+        "key-value",
+        "kotlin",
+        "macos",
+        "ohos",
+        "python",
+        "swift",
+        "tvos",
+        "visionos",
+        "watchos",
+        "wechat",
+        "windows"
+      ],
+      "rejected_at": "2026-04-13T03:08:10.897Z",
+      "reason": "Key-value storage framework, not AI-related."
+    },
+    {
+      "name": "plotly.py",
+      "url": "https://github.com/plotly/plotly.py",
+      "description": "The interactive graphing library for Python :sparkles:",
+      "topics": [
+        "d3",
+        "dashboard",
+        "declarative",
+        "graph-library",
+        "interactive",
+        "jupyter-notebook",
+        "plotly",
+        "plotly-dash",
+        "plotlyjs",
+        "python",
+        "regl",
+        "sparkles",
+        "visualization",
+        "webgl"
+      ],
+      "rejected_at": "2026-04-13T03:08:10.897Z",
+      "reason": "Graphing/visualization library, not AI-specific."
+    },
+    {
+      "name": "awesome-cs-books",
+      "url": "https://github.com/imarvinle/awesome-cs-books",
+      "description": "🔥 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等",
+      "topics": [
+        "cs-books",
+        "java",
+        "javaweb",
+        "linux",
+        "python"
+      ],
+      "rejected_at": "2026-04-13T03:08:10.897Z",
+      "reason": "CS books collection, not AI-specific project."
+    },
+    {
+      "name": "wasmer-go",
+      "url": "https://github.com/wasmerio/wasmer-go",
+      "description": "🐹🕸️ WebAssembly runtime for Go",
+      "topics": [
+        "golang",
+        "golang-library",
+        "rust",
+        "wasm",
+        "webassembly"
+      ],
+      "rejected_at": "2026-05-05T20:38:54.464Z",
+      "reason": "WebAssembly runtime, not AI-related."
+    },
+    {
+      "name": "wrkflw",
+      "url": "https://github.com/bahdotsh/wrkflw",
+      "description": "Validate and Run GitHub Actions locally.",
+      "topics": [
+        "ci",
+        "cli",
+        "devops",
+        "github",
+        "github-actions",
+        "hacktoberfest",
+        "ratatui",
+        "rust",
+        "tui"
+      ],
+      "rejected_at": "2026-05-05T20:38:54.464Z",
+      "reason": "CI/CD tool, not AI-related."
+    },
+    {
+      "name": "smithay",
+      "url": "https://github.com/Smithay/smithay",
+      "description": "A smithy for rusty wayland compositors",
+      "topics": [
+        "rust",
+        "wayland",
+        "wayland-compositor"
+      ],
+      "rejected_at": "2026-05-05T20:38:54.464Z",
+      "reason": "Wayland compositor library, not AI-related."
+    },
+    {
+      "name": "tfs",
+      "url": "https://github.com/redox-os/tfs",
+      "description": "Mirror of https://gitlab.redox-os.org/redox-os/tfs",
+      "topics": [
+        "chashmap",
+        "filesystem",
+        "fs",
+        "mlcr",
+        "redox",
+        "rust",
+        "seahash",
+        "tfs",
+        "zmicro"
+      ],
+      "rejected_at": "2026-05-05T20:38:54.464Z",
+      "reason": "Filesystem project, not AI-related."
+    },
+    {
+      "name": "slatedb",
+      "url": "https://github.com/slatedb/slatedb",
+      "description": "A cloud native embedded storage engine built on object storage.",
+      "topics": [
+        "database",
+        "embedded-database",
+        "lsm-tree",
+        "object-storage",
+        "rocksdb",
+        "rust",
+        "storage-engine"
+      ],
+      "rejected_at": "2026-05-05T20:38:54.464Z",
+      "reason": "Storage engine, not AI-related."
+    },
+    {
+      "name": "workload-discovery-on-aws",
+      "url": "https://github.com/aws-solutions/workload-discovery-on-aws",
+      "description": "Workload Discovery on AWS is a solution to visualize AWS Cloud workloads. With it you can build, customize, and share architecture diagrams of your workloads based on live data from AWS. The solution maintains an inventory of the AWS resources across your accounts and regions, mapping their relationships and displaying them in the user interface.",
+      "topics": [
+        "architecture-diagram",
+        "architecture-visualization",
+        "aws"
+      ],
+      "rejected_at": "2026-05-23T17:37:39.092Z",
+      "reason": "AWS cloud infrastructure visualization tool, not AI-related."
+    },
+    {
+      "name": "fitbit-grafana",
+      "url": "https://github.com/arpanghosh8453/fitbit-grafana",
+      "description": "A script to fetch data from Fitbit servers using their API and store the data in a local influxdb database and visualize them with Grafana",
+      "topics": [
+        "fitbit",
+        "fitbit-api",
+        "fitbit-app",
+        "grafana",
+        "grafana-dashboard",
+        "grafana-influxdb",
+        "influxdb",
+        "influxdb-database",
+        "influxdb-python",
+        "python",
+        "python3"
+      ],
+      "rejected_at": "2026-05-23T17:37:39.095Z",
+      "reason": "Fitbit data fetching and visualization script, not AI-related."
+    },
+    {
+      "name": "rayshader",
+      "url": "https://github.com/tylermorganwall/rayshader",
+      "description": "R Package for 2D and 3D mapping and data visualization",
+      "topics": [],
+      "rejected_at": "2026-05-23T17:37:39.095Z",
+      "reason": "R package for mapping and data visualization, not AI-related."
+    },
+    {
+      "name": "G6",
+      "url": "https://github.com/antvis/G6",
+      "description": "♾ A Graph Visualization Framework in JavaScript.",
+      "topics": [
+        "data-visualization",
+        "graph",
+        "graph-analytics",
+        "graph-drawing",
+        "graph-visualization",
+        "hacktoberfest",
+        "network",
+        "tree",
+        "visual-analytics",
+        "visualization"
+      ],
+      "rejected_at": "2026-05-23T17:37:39.095Z",
+      "reason": "JavaScript graph visualization framework, not AI-related."
+    },
+    {
+      "name": "gprofiler",
+      "url": "https://github.com/intel/gprofiler",
+      "description": "gProfiler is a system-wide profiler, combining multiple sampling profilers to produce unified visualization of what your CPU is spending time on.",
+      "topics": [],
+      "rejected_at": "2026-05-23T17:37:39.095Z",
+      "reason": "System-wide CPU profiler, not AI-related."
+    },
+    {
+      "name": "stacktower",
+      "url": "https://github.com/stacktower-io/stacktower",
+      "description": "Visualize package dependencies as XKCD-style tower diagrams. Supports Python, Rust, JavaScript, Ruby, PHP, Java, and Go.",
+      "topics": [
+        "dependencies",
+        "golang",
+        "graphs"
+      ],
+      "rejected_at": "2026-05-23T17:37:39.095Z",
+      "reason": "Package dependency visualization tool, not AI-related."
+    },
+    {
+      "name": "osmnx",
+      "url": "https://github.com/gboeing/osmnx",
+      "description": "Download, model, analyze, and visualize street networks and other geospatial features from OpenStreetMap.",
+      "topics": [
+        "geography",
+        "geospatial",
+        "gis",
+        "mapping",
+        "networks",
+        "networkx",
+        "openstreetmap",
+        "osm",
+        "osmnx",
+        "overpass-api",
+        "python",
+        "routing",
+        "spatial",
+        "spatial-analysis",
+        "spatial-data",
+        "street-networks",
+        "transport",
+        "transportation",
+        "urban",
+        "urban-planning"
+      ],
+      "rejected_at": "2026-05-23T17:37:39.095Z",
+      "reason": "Street network analysis and geospatial tool, not AI-related."
+    },
+    {
+      "name": "geoviews",
+      "url": "https://github.com/holoviz/geoviews",
+      "description": "Simple, concise geographical visualization in Python",
+      "topics": [
+        "cartopy",
+        "geographic-visualizations",
+        "geoviews",
+        "holoviews",
+        "holoviz",
+        "plotting"
+      ],
+      "rejected_at": "2026-05-23T17:37:39.095Z",
+      "reason": "Geographic visualization library, not AI-related."
+    },
+    {
+      "name": "marquez",
+      "url": "https://github.com/MarquezProject/marquez",
+      "description": "Collect, aggregate, and visualize a data ecosystem's metadata",
+      "topics": [
+        "data-dictionary",
+        "data-discovery",
+        "data-ecosystem-metadata",
+        "data-governance",
+        "data-lineage",
+        "data-ops",
+        "data-provenance",
+        "marquez",
+        "metadata",
+        "metadata-service"
+      ],
+      "rejected_at": "2026-05-23T17:37:39.095Z",
+      "reason": "Data ecosystem metadata and lineage tool, not AI-related."
+    },
+    {
+      "name": "unfurl",
+      "url": "https://github.com/RyanDFIR/unfurl",
+      "description": "Extract and Visualize Data from URLs using Unfurl",
+      "topics": [],
+      "rejected_at": "2026-05-23T17:37:39.096Z",
+      "reason": "URL data extraction and visualization tool, not AI-related."
+    },
+    {
+      "name": "FFMetrics",
+      "url": "https://github.com/fifonik/FFMetrics",
+      "description": "Visualizes Video Quality Metrics (PSNR, SSIM, XPSNR & VMAF) calculated by ffmpeg.exe",
+      "topics": [],
+      "rejected_at": "2026-05-23T17:37:39.096Z",
+      "reason": "Video quality metrics visualization tool, not AI-related."
+    },
+    {
+      "name": "react-konva",
+      "url": "https://github.com/konvajs/react-konva",
+      "description": "React + Canvas = Love. JavaScript library for drawing complex canvas graphics using React.",
+      "topics": [
+        "canvas",
+        "draw-graphics",
+        "konva",
+        "konva-framework",
+        "react",
+        "visualization"
+      ],
+      "rejected_at": "2026-05-23T17:37:39.096Z",
+      "reason": "React canvas graphics library, not AI-related."
+    },
+    {
+      "name": "brainrender",
+      "url": "https://github.com/brainglobe/brainrender",
+      "description": "A Python package to visualise neuroanatomical data in atlas space",
+      "topics": [
+        "anatomy",
+        "neuroscience",
+        "python",
+        "visualization"
+      ],
+      "rejected_at": "2026-05-23T17:37:39.096Z",
+      "reason": "Neuroanatomical data visualization, not AI-related."
+    },
+    {
+      "name": "k8spacket",
+      "url": "https://github.com/k8spacket/k8spacket",
+      "description": "k8spacket - collects TCP traffic and TLS connection metadata in the Kubernetes cluster using eBPF and visualizes in Grafana",
+      "topics": [
+        "bpf2go",
+        "cilium",
+        "ebpf",
+        "ebpf-programs",
+        "ebpf-tc",
+        "grafana",
+        "k8spacket",
+        "metrics",
+        "o11y",
+        "observability",
+        "packetsniffing",
+        "prometheus",
+        "tcp",
+        "tls",
+        "visualization"
+      ],
+      "rejected_at": "2026-05-23T17:37:39.096Z",
+      "reason": "Kubernetes network traffic monitoring tool, not AI-related."
+    },
+    {
+      "name": "c2go",
+      "url": "https://github.com/elliotchance/c2go",
+      "description": "⚖️ A tool for transpiling C to Go.",
+      "topics": [
+        "c",
+        "go",
+        "transpiler"
+      ],
+      "rejected_at": "2026-08-23T06:24:13.964Z",
+      "reason": "C to Go transpiler, not AI-related."
+    },
+    {
+      "name": "awesome-pion",
+      "url": "https://github.com/pion/awesome-pion",
+      "description": "A curated list of awesome things related to Pion",
+      "topics": [
+        "go",
+        "golang",
+        "pion",
+        "rtc",
+        "webrtc"
+      ],
+      "rejected_at": "2026-08-23T06:24:13.964Z",
+      "reason": "WebRTC awesome list, not AI-related."
+    },
+    {
+      "name": "ftpgrab",
+      "url": "https://github.com/crazy-max/ftpgrab",
+      "description": "Grab your files periodically from a remote FTP or SFTP server easily",
+      "topics": [
+        "docker",
+        "download",
+        "ftp",
+        "ftpgrab",
+        "go",
+        "golang",
+        "nas",
+        "qnap",
+        "scheduler",
+        "seedbox",
+        "sftp",
+        "ssh",
+        "synology"
+      ],
+      "rejected_at": "2026-08-23T06:24:13.964Z",
+      "reason": "FTP file grabber, not AI-related."
+    },
+    {
+      "name": "SNIProxy",
+      "url": "https://github.com/XIU2/SNIProxy",
+      "description": "🧷 自用的简单 SNIProxy（常用于网站负载均衡、基于域名(SNI)的端口转发等",
+      "topics": [
+        "go",
+        "golang",
+        "http",
+        "sniproxy"
+      ],
+      "rejected_at": "2026-08-23T06:24:13.964Z",
+      "reason": "SNI proxy tool, not AI-related."
+    },
+    {
+      "name": "goimports-reviser",
+      "url": "https://github.com/incu6us/goimports-reviser",
+      "description": "Right imports sorting & code formatting tool (goimports alternative)",
+      "topics": [
+        "go",
+        "gofmt",
+        "goimports",
+        "goimports-reviser",
+        "golang",
+        "sort-goimports"
+      ],
+      "rejected_at": "2026-08-23T06:24:13.964Z",
+      "reason": "Go imports formatter, not AI-related."
+    },
+    {
+      "name": "titus",
+      "url": "https://github.com/praetorian-inc/titus",
+      "description": "High-performance secrets scanner. CLI, Go library, Burp Suite extension, and Chrome extension. 487 detection rules with live credential validation.",
+      "topics": [
+        "appsec",
+        "burp-suite-extension",
+        "capability",
+        "chrome-extension",
+        "credential-scanner",
+        "devsecops",
+        "external-network-security",
+        "go",
+        "golang",
+        "penetration-testing",
+        "red-team",
+        "secret-scanner",
+        "secrets-detection",
+        "security"
+      ],
+      "rejected_at": "2026-08-23T06:24:13.964Z",
+      "reason": "Secrets scanner, not AI-related."
+    },
+    {
+      "name": "discuit",
+      "url": "https://github.com/discuitnet/discuit",
+      "description": "A free and open-source community discussion platform.",
+      "topics": [
+        "community",
+        "go",
+        "open-source",
+        "pwa",
+        "react",
+        "reddit",
+        "social-network"
+      ],
+      "rejected_at": "2026-08-23T06:24:13.964Z",
+      "reason": "Discussion platform, not AI-related."
+    },
+    {
+      "name": "go-enum",
+      "url": "https://github.com/abice/go-enum",
+      "description": "An enum generator for go",
+      "topics": [
+        "enum",
+        "generated",
+        "go",
+        "golang"
+      ],
+      "rejected_at": "2026-08-23T06:24:13.964Z",
+      "reason": "Enum code generator, not AI-related."
+    },
+    {
+      "name": "comby",
+      "url": "https://github.com/comby-tools/comby",
+      "description": "A code rewrite tool for structural search and replace that supports ~every language.",
+      "topics": [
+        "c",
+        "go",
+        "java",
+        "javascript",
+        "linting",
+        "parser-combinators",
+        "parsing",
+        "php",
+        "program-transformation",
+        "python",
+        "reason",
+        "refactoring",
+        "regex",
+        "rewriting",
+        "rust",
+        "search-and-replace",
+        "swift",
+        "syntax",
+        "syntax-transformation",
+        "typescript"
+      ],
+      "rejected_at": "2026-08-23T06:24:13.964Z",
+      "reason": "Structural code rewrite tool, not AI-related."
+    },
+    {
+      "name": "amfora",
+      "url": "https://github.com/makew0rld/amfora",
+      "description": "A fancy terminal browser for the Gemini protocol.",
+      "topics": [
+        "browser",
+        "gemini",
+        "gemini-protocol",
+        "go",
+        "golang",
+        "terminal",
+        "tui"
+      ],
+      "rejected_at": "2026-08-23T06:24:13.964Z",
+      "reason": "Gemini protocol browser, not AI-related."
+    },
+    {
+      "name": "netronome",
+      "url": "https://github.com/autobrr/netronome",
+      "description": "Netronome is a modern network speed testing and monitoring tool built with Go and React.",
+      "topics": [
+        "go",
+        "golang",
+        "iperf3",
+        "librespeed",
+        "mtr",
+        "network",
+        "shoutrrr",
+        "speedtest",
+        "tailscale",
+        "tailscale-network",
+        "tailscaled",
+        "vnstat"
+      ],
+      "rejected_at": "2026-08-23T06:24:13.964Z",
+      "reason": "Network speed testing tool, not AI-related."
+    },
+    {
+      "name": "IPAddress",
+      "url": "https://github.com/seancfoley/IPAddress",
+      "description": "Java library for handling IP addresses and subnets, both IPv4 and IPv6",
+      "topics": [
+        "android",
+        "cidr",
+        "go",
+        "golang",
+        "groovy",
+        "ip-address",
+        "ipaddress",
+        "ipv4",
+        "ipv4-address",
+        "ipv4-network",
+        "ipv4-subnetting",
+        "ipv6",
+        "ipv6-address",
+        "ipv6-network",
+        "ipv6-subnetting",
+        "java",
+        "kotlin",
+        "mac-address",
+        "scala",
+        "subnet"
+      ],
+      "rejected_at": "2026-08-23T06:24:13.964Z",
+      "reason": "IP address library, not AI-related."
+    },
+    {
+      "name": "poly",
+      "url": "https://github.com/bebop/poly",
+      "description": "A Go package for engineering organisms.",
+      "topics": [
+        "alignment",
+        "bioengineering",
+        "bioinformatics",
+        "codon-optimizer",
+        "computational-biology",
+        "dna",
+        "dna-barcode",
+        "dna-barcoding",
+        "fasta",
+        "genbank",
+        "genetic-engineering",
+        "go",
+        "golden-gate",
+        "mash",
+        "molecular-biology",
+        "plasmids",
+        "primer-design",
+        "sequence-hashing",
+        "synbio",
+        "synthetic-biology"
+      ],
+      "rejected_at": "2026-08-23T06:24:13.964Z",
+      "reason": "Synthetic biology package, not AI-related."
+    },
+    {
+      "name": "disgo",
+      "url": "https://github.com/disgoorg/disgo",
+      "description": "A modular Golang Discord API Wrapper",
+      "topics": [
+        "discord",
+        "discord-api",
+        "discord-bot",
+        "discord-rpc",
+        "discord-voice",
+        "go",
+        "golang",
+        "hacktoberfest",
+        "oauth2",
+        "rpc",
+        "voice",
+        "webhook"
+      ],
+      "rejected_at": "2026-08-23T06:24:13.964Z",
+      "reason": "Discord API wrapper, not AI-related."
+    },
+    {
+      "name": "consul-replicate",
+      "url": "https://github.com/hashicorp/consul-replicate",
+      "description": "Consul cross-DC KV replication daemon.",
+      "topics": [
+        "consul",
+        "go",
+        "replication"
+      ],
+      "rejected_at": "2026-08-23T06:24:13.964Z",
+      "reason": "Consul replication daemon, not AI-related."
+    },
+    {
+      "name": "coraza-caddy",
+      "url": "https://github.com/corazawaf/coraza-caddy",
+      "description": "OWASP Coraza middleware for Caddy. It provides Web Application Firewall capabilities",
+      "topics": [
+        "caddy",
+        "caddyserver",
+        "coreruleset",
+        "go",
+        "golang",
+        "owasp",
+        "security",
+        "waf",
+        "webapplicationfirewall"
+      ],
+      "rejected_at": "2026-08-23T06:24:13.964Z",
+      "reason": "WAF middleware, not AI-related."
+    },
+    {
+      "name": "comics-downloader",
+      "url": "https://github.com/Girbons/comics-downloader",
+      "description": "tool to download comics and manga in pdf/epub/cbr/cbz from a website",
+      "topics": [
+        "cbr",
+        "cbz",
+        "comic",
+        "comic-downloader",
+        "comicextra",
+        "comics-downloader",
+        "command-line-tool",
+        "download-comics",
+        "epub",
+        "fyne",
+        "go",
+        "linux",
+        "manga",
+        "manga-downloader",
+        "manga-scraper",
+        "mangatown",
+        "osx",
+        "pdf",
+        "windows"
+      ],
+      "rejected_at": "2026-08-23T06:24:13.964Z",
+      "reason": "Comics downloader, not AI-related."
+    },
+    {
+      "name": "bunster",
+      "url": "https://github.com/yassinebenaid/bunster",
+      "description": "Compile shell scripts to static binaries.",
+      "topics": [
+        "aot",
+        "bash",
+        "compiler",
+        "go",
+        "shell"
+      ],
+      "rejected_at": "2026-08-23T06:24:13.964Z",
+      "reason": "Shell script compiler, not AI-related."
+    },
+    {
+      "name": "onedump",
+      "url": "https://github.com/liweiyi88/onedump",
+      "description": "Effortless database administration tool",
+      "topics": [
+        "backup",
+        "database-backup",
+        "dba",
+        "dump",
+        "file-sync",
+        "go",
+        "golang",
+        "slow-log"
+      ],
+      "rejected_at": "2026-08-23T06:24:13.964Z",
+      "reason": "Database admin tool, not AI-related."
+    },
+    {
+      "name": "mactop",
+      "url": "https://github.com/metaspartan/mactop",
+      "description": "mactop - Apple Silicon Monitor Top",
+      "topics": [
+        "apple",
+        "apple-silicon",
+        "arm64",
+        "asitop",
+        "cpu-monitoring",
+        "go",
+        "golang",
+        "gotui",
+        "gpu-monitoring",
+        "mac",
+        "macos",
+        "monitor",
+        "monitoring",
+        "monitoring-tool",
+        "objective-c",
+        "terminal",
+        "top"
+      ],
+      "rejected_at": "2026-08-23T06:24:13.964Z",
+      "reason": "System monitor tool, not AI-related."
+    },
+    {
+      "name": "flamingo",
+      "url": "https://github.com/i-love-flamingo/flamingo",
+      "description": "Flamingo Framework and Core Library. Flamingo is a go based framework to build pluggable applications. Focus is on clean architecture, maintainability and operation readiness.",
+      "topics": [
+        "application-framework",
+        "dependency-injection",
+        "framework",
+        "go",
+        "golang",
+        "golang-library",
+        "hacktoberfest",
+        "modularization",
+        "web-framework",
+        "webframework"
+      ],
+      "rejected_at": "2026-08-23T06:24:13.964Z",
+      "reason": "Go web framework, not AI-related."
+    },
+    {
+      "name": "skiff-apps",
+      "url": "https://github.com/skiff-org/skiff-apps",
+      "description": "Privacy-first, end-to-end encrypted Mail, Pages, Drive, and Calendar.",
+      "topics": [
+        "calendar",
+        "collaboration",
+        "component-library",
+        "cryptography",
+        "email",
+        "end-to-end-encryption",
+        "file-storage",
+        "productivity",
+        "productivity-app",
+        "security",
+        "typescript",
+        "workspace"
+      ],
+      "rejected_at": "2026-05-07T04:06:32.513Z",
+      "reason": "Privacy productivity suite, not AI-related."
+    },
+    {
+      "name": "ejyy",
+      "url": "https://github.com/chowa/ejyy",
+      "description": "「e家宜业」是一套开源智慧物业解决方案，基于nodejs、typescript、koa、vue开发，包含web中台、业主小程序、员工小程序、公众号、物联网应用等，涵盖业主服务、物业运营、智能物联、数据统计等功能。",
+      "topics": [
+        "alicloud",
+        "iot",
+        "knex",
+        "koa",
+        "minprogram",
+        "momentjs",
+        "mqtt",
+        "mysql",
+        "nodejs",
+        "nodemailer",
+        "redis",
+        "schedule",
+        "typescript",
+        "vue",
+        "websocket",
+        "wechat",
+        "workflow"
+      ],
+      "rejected_at": "2026-05-07T04:06:32.513Z",
+      "reason": "Property management system, not AI-related."
+    },
+    {
+      "name": "zent",
+      "url": "https://github.com/youzan/zent",
+      "description": "A collection of essential UI components written with React.",
+      "topics": [
+        "component-library",
+        "components",
+        "hooks",
+        "javascript",
+        "react",
+        "typescript",
+        "ui-components",
+        "youzan"
+      ],
+      "rejected_at": "2026-05-07T04:06:32.513Z",
+      "reason": "React UI component library, not AI-related."
+    },
+    {
+      "name": "TypeChain",
+      "url": "https://github.com/dethcrypto/TypeChain",
+      "description": "🔌 TypeScript bindings for Ethereum smart contracts",
+      "topics": [
+        "abi",
+        "blockchain",
+        "ethereum",
+        "smartcontract",
+        "solidity",
+        "truffle",
+        "typescript",
+        "web3"
+      ],
+      "rejected_at": "2026-05-07T04:06:32.513Z",
+      "reason": "Ethereum smart contract bindings, blockchain-related not AI."
+    },
+    {
+      "name": "jodit",
+      "url": "https://github.com/xdan/jodit",
+      "description": "Jodit - Best WYSIWYG Editor for You",
+      "topics": [
+        "ace-editor",
+        "editor",
+        "filebrowser",
+        "html",
+        "imageeditor",
+        "jodit",
+        "rich-text-editor",
+        "typescript",
+        "wysiwyg",
+        "wysiwyg-editor",
+        "wysiwyg-html-editor"
+      ],
+      "rejected_at": "2026-05-07T04:06:32.513Z",
+      "reason": "WYSIWYG editor, not AI-related."
+    },
+    {
+      "name": "iwf",
+      "url": "https://github.com/indeedeng/iwf",
+      "description": "iWF is a Workflow-As-Code microservice orchestration platform offering an orchestration coding framework and service for building resilient, fault-tolerant, scalable long-running processes",
+      "topics": [
+        "distributed-process",
+        "distributed-system",
+        "distributed-transactions",
+        "durable-timer",
+        "golang",
+        "java",
+        "message-queue",
+        "microservice",
+        "orchestration",
+        "orchestrator",
+        "persistence",
+        "process",
+        "python",
+        "timer",
+        "workflow",
+        "workflow-as-code",
+        "workflow-engine"
+      ],
+      "rejected_at": "2026-03-27T05:16:49.933Z",
+      "reason": "Not AI-related - this is a workflow orchestration platform."
+    },
+    {
+      "name": "yandex-music-api",
+      "url": "https://github.com/MarshalX/yandex-music-api",
+      "description": "Неофициальная Python библиотека для работы с API сервиса Яндекс.Музыка",
+      "topics": [
+        "api",
+        "async",
+        "asynchronous",
+        "asyncio",
+        "library",
+        "python",
+        "yandex",
+        "yandex-api",
+        "yandex-music",
+        "yandexmusic"
+      ],
+      "rejected_at": "2026-03-27T05:16:49.933Z",
+      "reason": "Not AI-related - this is a music API client library."
+    },
+    {
+      "name": "evillimiter",
+      "url": "https://github.com/bitbrute/evillimiter",
+      "description": "Tool that monitors, analyzes and limits the bandwidth of devices on the local network without administrative access.",
+      "topics": [
+        "hacking",
+        "hacking-tool",
+        "linux",
+        "networking",
+        "penetration-testing",
+        "pentest-tool",
+        "pentesting",
+        "python",
+        "security",
+        "security-tools"
+      ],
+      "rejected_at": "2026-03-27T05:16:49.933Z",
+      "reason": "Not AI-related - this is a network bandwidth limiting tool."
+    },
+    {
+      "name": "QuantInvestStrats",
+      "url": "https://github.com/ArturSepp/QuantInvestStrats",
+      "description": "Quantitative Investment Strategies (QIS) package implements Python analytics for visualisation of financial data, performance reporting, analysis of quantitative strategies.",
+      "topics": [
+        "asset-management",
+        "data-analysis",
+        "data-visualization",
+        "investment-analysis",
+        "performance-attribution",
+        "portfolio-optimization",
+        "portfolio-risk-management",
+        "python",
+        "quantitative-finance"
+      ],
+      "rejected_at": "2026-03-27T05:16:49.933Z",
+      "reason": "Not primarily AI-focused - this is a quantitative finance visualization library."
+    },
+    {
+      "name": "fitbit-grafana",
+      "url": "https://github.com/arpanghosh8453/fitbit-grafana",
+      "description": "A script to fetch data from Fitbit servers using their API and store the data in a local influxdb database and visualize them with Grafana",
+      "topics": [
+        "fitbit",
+        "fitbit-api",
+        "fitbit-app",
+        "grafana",
+        "grafana-dashboard",
+        "grafana-influxdb",
+        "influxdb",
+        "influxdb-database",
+        "influxdb-python",
+        "python",
+        "python3"
+      ],
+      "rejected_at": "2026-03-27T05:16:49.933Z",
+      "reason": "Not AI-related - this is a Fitbit data visualization tool."
+    },
+    {
+      "name": "imageio",
+      "url": "https://github.com/imageio/imageio",
+      "description": "Python library for reading and writing image data",
+      "topics": [
+        "animated-gif",
+        "dicom",
+        "imageio",
+        "python",
+        "scientific-formats",
+        "video",
+        "webcam-capture"
+      ],
+      "rejected_at": "2026-03-27T05:16:49.933Z",
+      "reason": "Not AI-related - this is a general image I/O library."
+    },
+    {
+      "name": "lancet",
+      "url": "https://github.com/duke-git/lancet",
+      "description": "A comprehensive, efficient, and reusable util function library of Go.",
+      "topics": [
+        "generics",
+        "go",
+        "golang",
+        "library",
+        "lodash",
+        "utils"
+      ],
+      "rejected_at": "2026-05-09T07:41:18.758Z",
+      "reason": "General Go utility library, not AI-related."
+    },
+    {
+      "name": "Grocery-App",
+      "url": "https://github.com/Widle-Studio/Grocery-App",
+      "description": "Flutter Grocery Shopping App (Mobile App, Web App)",
+      "topics": [
+        "dart",
+        "ecommerce",
+        "ecommerce-application",
+        "ecommerce-shopping-solution",
+        "ecommerce-store",
+        "flutter",
+        "flutter-app",
+        "flutter-apps",
+        "flutter-demo",
+        "flutter-material",
+        "flutter-material-app",
+        "flutter-showcase",
+        "flutter-ui",
+        "flutter-web",
+        "flutter-widget",
+        "go",
+        "grocery",
+        "material-design"
+      ],
+      "rejected_at": "2026-05-09T07:41:18.759Z",
+      "reason": "Flutter e-commerce mobile app, not AI-related."
+    },
+    {
+      "name": "govaluate",
+      "url": "https://github.com/Knetic/govaluate",
+      "description": "Arbitrary expression evaluation for golang",
+      "topics": [
+        "evaluation",
+        "expression",
+        "go",
+        "parsing"
+      ],
+      "rejected_at": "2026-05-09T07:41:18.759Z",
+      "reason": "General expression evaluation library, not AI-related."
+    },
+    {
+      "name": "unioffice",
+      "url": "https://github.com/unidoc/unioffice",
+      "description": "Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents",
+      "topics": [
+        "docx",
+        "ecma-376",
+        "excel",
+        "g",
+        "go",
+        "golang",
+        "ooxml",
+        "openoffice",
+        "powerpoint",
+        "pptx",
+        "spreadsheet",
+        "word",
+        "xlsx"
+      ],
+      "rejected_at": "2026-05-09T07:41:18.759Z",
+      "reason": "Office document processing library, not AI-related."
+    },
+    {
+      "name": "100-go-mistakes",
+      "url": "https://github.com/teivah/100-go-mistakes",
+      "description": "📖 100 Go Mistakes and How to Avoid Them",
+      "topics": [
+        "book",
+        "chinese",
+        "documentation",
+        "english",
+        "go",
+        "golang",
+        "japanese"
+      ],
+      "rejected_at": "2026-05-09T07:41:18.759Z",
+      "reason": "Go programming book/documentation, not AI-related."
+    },
+    {
+      "name": "wego",
+      "url": "https://github.com/schachmat/wego",
+      "description": "weather app for the terminal",
+      "topics": [
+        "ascii-art",
+        "ascii-table",
+        "forecast",
+        "go",
+        "hacktoberfest",
+        "terminal",
+        "weather",
+        "wego"
+      ],
+      "rejected_at": "2026-05-09T07:41:18.759Z",
+      "reason": "Terminal weather app, not AI-related."
+    },
+    {
+      "name": "toxiproxy",
+      "url": "https://github.com/Shopify/toxiproxy",
+      "description": ":alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing",
+      "topics": [
+        "chaos",
+        "down",
+        "go",
+        "is",
+        "omg",
+        "proxy",
+        "resiliency",
+        "tcp-proxy",
+        "testing"
+      ],
+      "rejected_at": "2026-05-09T07:41:18.759Z",
+      "reason": "Network testing proxy tool, not AI-related."
+    },
+    {
+      "name": "fabric-sdk-go",
+      "url": "https://github.com/hyperledger/fabric-sdk-go",
+      "description": null,
+      "topics": [
+        "blockchain",
+        "distributed-ledger",
+        "go",
+        "hyperledger",
+        "hyperledger-fabric"
+      ],
+      "rejected_at": "2026-05-09T07:41:18.759Z",
+      "reason": "Blockchain SDK, not AI-related."
+    },
+    {
+      "name": "go-whatsapp",
+      "url": "https://github.com/Rhymen/go-whatsapp",
+      "description": "WhatsApp Web API",
+      "topics": [
+        "go",
+        "golang",
+        "reverse-engineering",
+        "whatsapp",
+        "whatsapp-web"
+      ],
+      "rejected_at": "2026-05-09T07:41:18.759Z",
+      "reason": "WhatsApp API wrapper, not AI-related."
+    },
+    {
+      "name": "protoc-gen-doc",
+      "url": "https://github.com/pseudomuto/protoc-gen-doc",
+      "description": "Documentation generator plugin for Google Protocol Buffers",
+      "topics": [
+        "documentation-tool",
+        "go",
+        "golang",
+        "hacktoberfest",
+        "hacktoberfest2021",
+        "protobuf",
+        "protoc"
+      ],
+      "rejected_at": "2026-05-09T07:41:18.759Z",
+      "reason": "Protocol Buffers documentation generator, not AI-related."
+    },
+    {
+      "name": "under-the-hood",
+      "url": "https://github.com/golang-design/under-the-hood",
+      "description": "📚 Go: Under The Hood | Go 语言原本 | https://golang.design/under-the-hood",
+      "topics": [
+        "go",
+        "golang",
+        "source-code-study"
+      ],
+      "rejected_at": "2026-05-09T07:41:18.759Z",
+      "reason": "Go language internals study material, not AI-related."
+    },
+    {
+      "name": "convex-backend",
+      "url": "https://github.com/get-convex/convex-backend",
+      "description": "The open-source reactive database for app developers",
+      "topics": [
+        "backend",
+        "convex",
+        "database",
+        "rust",
+        "typescript"
+      ],
+      "rejected_at": "2026-05-26T02:57:01.933Z",
+      "reason": "Not AI-related. This is a reactive database backend."
+    },
+    {
+      "name": "crates.io",
+      "url": "https://github.com/rust-lang/crates.io",
+      "description": "The Rust package registry",
+      "topics": [
+        "hacktoberfest",
+        "rust"
+      ],
+      "rejected_at": "2026-05-26T02:57:01.933Z",
+      "reason": "Not AI-related. This is the Rust package registry website."
+    },
+    {
+      "name": "datafusion-sqlparser-rs",
+      "url": "https://github.com/apache/datafusion-sqlparser-rs",
+      "description": "Extensible SQL Lexer and Parser for Rust",
+      "topics": [
+        "big-data",
+        "rust",
+        "sql"
+      ],
+      "rejected_at": "2026-05-26T02:57:01.933Z",
+      "reason": "Not AI-related. This is a SQL lexer and parser library."
+    },
+    {
+      "name": "risc0",
+      "url": "https://github.com/risc0/risc0",
+      "description": "RISC Zero is a zero-knowledge verifiable general computing platform based on zk-STARKs and the RISC-V microarchitecture.",
+      "topics": [
+        "cryptography",
+        "risc-v",
+        "rust",
+        "stark",
+        "virtual-machine",
+        "zero-knowledge"
+      ],
+      "rejected_at": "2026-05-26T02:57:01.933Z",
+      "reason": "Not AI-related. This is a zero-knowledge cryptography platform, not AI/ML."
+    },
+    {
+      "name": "gnirehtet",
+      "url": "https://github.com/Genymobile/gnirehtet",
+      "description": "Gnirehtet provides reverse tethering for Android",
+      "topics": [
+        "android",
+        "java-8",
+        "reverse-tethering",
+        "rust",
+        "vpn"
+      ],
+      "rejected_at": "2026-05-26T02:57:01.933Z",
+      "reason": "Not AI-related. This is an Android reverse tethering tool."
+    },
+    {
+      "name": "transform",
+      "url": "https://github.com/ritz078/transform",
+      "description": "A polyglot web converter.",
+      "topics": [
+        "css",
+        "flow",
+        "golang",
+        "graphql",
+        "jsx",
+        "react",
+        "react-native",
+        "rust",
+        "transformations",
+        "typescript"
+      ],
+      "rejected_at": "2026-05-26T02:57:01.933Z",
+      "reason": "Not AI-related. This is a code/web converter tool."
+    },
+    {
+      "name": "fastapi-users",
+      "url": "https://github.com/fastapi-users/fastapi-users",
+      "description": "Ready-to-use and customizable users management for FastAPI",
+      "topics": [
+        "async",
+        "asyncio",
+        "fastapi",
+        "fastapi-users",
+        "python",
+        "starlette",
+        "users"
+      ],
+      "rejected_at": "2026-07-16T00:38:27.596Z",
+      "reason": "FastAPI user management, not related to AI."
+    },
+    {
+      "name": "Bjorn",
+      "url": "https://github.com/infinition/Bjorn",
+      "description": "Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential vulnerabilities. Bjorn can perform brute force attacks, file stealing, host zombification, and supports custom attack scripts.",
+      "topics": [
+        "automated-pentesting",
+        "bruteforce",
+        "cybersecurity",
+        "e-paper",
+        "hacking",
+        "hardware-hacking",
+        "network-scanning",
+        "network-security",
+        "nmap",
+        "offensive-security",
+        "pentesting",
+        "python",
+        "raspberry-pi",
+        "security-tools",
+        "tamagotchi",
+        "vulnerability-assessment"
+      ],
+      "rejected_at": "2026-07-16T00:38:27.596Z",
+      "reason": "Network scanning and security tool, not related to AI."
+    },
+    {
+      "name": "jedi",
+      "url": "https://github.com/davidhalter/jedi",
+      "description": "Awesome autocompletion, static analysis and refactoring library for python",
+      "topics": [
+        "auto-complete",
+        "python",
+        "refactoring",
+        "static-analysis",
+        "type-inference"
+      ],
+      "rejected_at": "2026-07-16T00:38:27.596Z",
+      "reason": "Python autocompletion and static analysis, not an AI project."
+    },
+    {
+      "name": "gnuradio",
+      "url": "https://github.com/gnuradio/gnuradio",
+      "description": "GNU Radio – the Free and Open Software Radio Ecosystem",
+      "topics": [
+        "c-plus-plus",
+        "cybersecurity",
+        "dsp",
+        "gnu",
+        "gnuradio",
+        "hacktoberfest",
+        "python",
+        "radio",
+        "sdr",
+        "wireless"
+      ],
+      "rejected_at": "2026-07-16T00:38:27.596Z",
+      "reason": "Software radio ecosystem, not related to AI."
+    },
+    {
+      "name": "aspire",
+      "url": "https://github.com/microsoft/aspire",
+      "description": "Aspire is the tool for code-first, extensible, observable dev and deploy.",
+      "topics": [
+        "cloud",
+        "dotnet",
+        "hacktoberfest",
+        "python",
+        "typescript"
+      ],
+      "rejected_at": "2026-07-16T00:38:27.596Z",
+      "reason": "Cloud dev/deploy tool, not related to AI."
+    },
+    {
+      "name": "edk2",
+      "url": "https://github.com/tianocore/edk2",
+      "description": "EDK II",
+      "topics": [
+        "c",
+        "firmware",
+        "python",
+        "uefi"
+      ],
+      "rejected_at": "2026-07-16T00:38:27.597Z",
+      "reason": "UEFI firmware development, not related to AI."
+    },
+    {
+      "name": "graphite-web",
+      "url": "https://github.com/graphite-project/graphite-web",
+      "description": "A highly scalable real-time graphing system",
+      "topics": [
+        "django",
+        "graphite",
+        "graphite-components",
+        "graphite-web",
+        "metrics",
+        "python",
+        "time-series"
+      ],
+      "rejected_at": "2026-07-16T00:38:27.597Z",
+      "reason": "Graphing system, not related to AI."
+    },
+    {
+      "name": "openshot-qt",
+      "url": "https://github.com/OpenShot/openshot-qt",
+      "description": "OpenShot Video Editor is an award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world.",
+      "topics": [
+        "c-plus-plus",
+        "ffmpeg",
+        "gplv3",
+        "openshot",
+        "python",
+        "qt5",
+        "video",
+        "video-editing",
+        "video-production"
+      ],
+      "rejected_at": "2026-07-16T00:38:27.597Z",
+      "reason": "Video editor, not related to AI."
+    },
+    {
+      "name": "PhoneSploit-Pro",
+      "url": "https://github.com/AzeemIdrisi/PhoneSploit-Pro",
+      "description": "An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.",
+      "topics": [
+        "adb",
+        "android",
+        "android-debug-bridge",
+        "android-hacking",
+        "collaborate",
+        "cybersecurity",
+        "exploit",
+        "hack",
+        "hacking",
+        "hacking-script",
+        "hacking-tool",
+        "hacktoberfest",
+        "metasploit-framework",
+        "meterpreter",
+        "penetration-testing",
+        "pentest-tool",
+        "pentesting",
+        "phonesploit",
+        "phonesploit-pro",
+        "python"
+      ],
+      "rejected_at": "2026-07-16T00:38:27.597Z",
+      "reason": "Android hacking tool, not related to AI."
+    },
+    {
+      "name": "huey",
+      "url": "https://github.com/coleifer/huey",
+      "description": "a little task queue for python",
+      "topics": [
+        "dank",
+        "django",
+        "python",
+        "queue",
+        "redis",
+        "task-queue"
+      ],
+      "rejected_at": "2026-07-16T00:38:27.597Z",
+      "reason": "Python task queue, not related to AI."
+    },
+    {
+      "name": "Jailbreaks-GPT-Gemini-deepseek-",
+      "url": "https://github.com/ShadowHackrs/Jailbreaks-GPT-Gemini-deepseek-",
+      "description": "Jailbreaks GPT, Sora, Claude, Gemini ,deepseek this prompt unlocks rage mode",
+      "topics": [],
+      "rejected_at": "2026-07-18T04:36:47.400Z",
+      "reason": "Focuses on jailbreaking LLMs, which violates safety guidelines and is not a high-quality AI project."
+    },
+    {
+      "name": "rssguard",
+      "url": "https://github.com/martinrotter/rssguard",
+      "description": "Feed reader (podcast player, basic XMPP client and also Gemini protocol client) which supports RSS/ATOM/JSON and many web-based feed services.",
+      "topics": [
+        "aggregator",
+        "atom",
+        "bazqux",
+        "c-plus-plus",
+        "feed-reader",
+        "feedly",
+        "freshrss",
+        "gmail",
+        "inoreader",
+        "json-feed",
+        "nextcloud",
+        "qt",
+        "rdf",
+        "rss",
+        "rss-guard",
+        "rss-reader",
+        "theoldreader",
+        "tiny-tiny-rss"
+      ],
+      "rejected_at": "2026-07-18T04:36:47.404Z",
+      "reason": "An RSS feed reader and XMPP/Gemini protocol client, not related to AI."
+    },
+    {
+      "name": "gemini",
+      "url": "https://github.com/anfederico/gemini",
+      "description": "",
+      "topics": [],
+      "rejected_at": "2026-07-18T04:36:47.404Z",
+      "reason": "Lacks description and topics, unable to determine AI relevance or quality."
+    },
+    {
+      "name": "gemini",
+      "url": "https://github.com/tgjones/gemini",
+      "description": "Gemini is an IDE framework similar in concept to the Visual Studio Shell. It uses AvalonDock and has an MVVM architecture based on Caliburn Micro.",
+      "topics": [],
+      "rejected_at": "2026-07-18T04:36:47.404Z",
+      "reason": "Lacks description and topics, unable to determine AI relevance or quality."
+    },
+    {
+      "name": "Beatbump",
+      "url": "https://github.com/snuffyDev/Beatbump",
+      "description": "Alternative YouTube Music frontend built with Svelte/SvelteKit 🎧",
+      "topics": [
+        "alternative-frontends",
+        "cloudflare-workers",
+        "docker-compose",
+        "frontend",
+        "javascript",
+        "music",
+        "privacy",
+        "pwa",
+        "self-hosted",
+        "svelte",
+        "sveltekit",
+        "webapp",
+        "youtube",
+        "youtube-music",
+        "youtube-music-api"
+      ],
+      "rejected_at": "2026-07-17T04:44:54.207Z",
+      "reason": "Not related to AI. It is a YouTube Music frontend."
+    },
+    {
+      "name": "active_analytics",
+      "url": "https://github.com/BaseSecrete/active_analytics",
+      "description": "First-party, privacy-focused traffic analytics for Ruby on Rails applications.",
+      "topics": [
+        "analytics",
+        "privacy",
+        "rails",
+        "ruby",
+        "trafic-analytics"
+      ],
+      "rejected_at": "2026-07-17T04:44:54.207Z",
+      "reason": "Not related to AI. It is a web traffic analytics tool."
+    },
+    {
+      "name": "purrcrypt",
+      "url": "https://github.com/vxfemboy/purrcrypt",
+      "description": "A fur-ociously secure encryption tool that encodes your secrets as adorable cat and dog sounds, using real elliptic curve cryptography with a playful disguise.",
+      "topics": [
+        "cats",
+        "command-line-tool",
+        "cryptography",
+        "dogs",
+        "elliptic-curves",
+        "encryption",
+        "fun",
+        "pets",
+        "privacy",
+        "secuirty",
+        "steganography",
+        "terminal-app"
+      ],
+      "rejected_at": "2026-07-17T04:44:54.207Z",
+      "reason": "Not related to AI. It is a novelty encryption tool."
+    },
+    {
+      "name": "Picocrypt",
+      "url": "https://github.com/Picocrypt/Picocrypt",
+      "description": "A very small, very simple, yet very secure encryption tool.",
+      "topics": [
+        "argon2",
+        "blake2b",
+        "cryptography",
+        "encryption",
+        "file-encryption",
+        "golang",
+        "password",
+        "portable",
+        "privacy",
+        "privacy-tools",
+        "reed-solomon",
+        "security",
+        "security-tools",
+        "serpent",
+        "sha3",
+        "xchacha20"
+      ],
+      "rejected_at": "2026-07-17T04:44:54.207Z",
+      "reason": "Not related to AI. It is a file encryption tool."
+    },
+    {
+      "name": "Picocrypt",
+      "url": "https://github.com/HACKERALERT/Picocrypt",
+      "description": "A very small, very simple, yet very secure encryption tool.",
+      "topics": [
+        "argon2",
+        "blake2b",
+        "cryptography",
+        "encryption",
+        "file-encryption",
+        "golang",
+        "password",
+        "portable",
+        "privacy",
+        "privacy-tools",
+        "reed-solomon",
+        "security",
+        "security-tools",
+        "serpent",
+        "sha3",
+        "xchacha20"
+      ],
+      "rejected_at": "2026-07-17T04:44:54.207Z",
+      "reason": "Not related to AI. It is a file encryption tool."
+    },
+    {
+      "name": "ffprofile",
+      "url": "https://github.com/allo-/ffprofile",
+      "description": "A tool to create firefox profiles with personalized defaults.",
+      "topics": [
+        "django",
+        "firefox",
+        "privacy",
+        "security"
+      ],
+      "rejected_at": "2026-07-17T04:44:54.207Z",
+      "reason": "Not related to AI. It is a Firefox profile tool."
+    },
+    {
+      "name": "Addon",
+      "url": "https://github.com/ClearURLs/Addon",
+      "description": "ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.",
+      "topics": [
+        "addon",
+        "addons-mozilla-org",
+        "anti-tracking",
+        "chrome",
+        "firefox",
+        "privacy",
+        "security",
+        "tracking-protection",
+        "webextensions"
+      ],
+      "rejected_at": "2026-07-17T04:44:54.207Z",
+      "reason": "Not related to AI. It is a browser addon for URL cleaning."
+    },
+    {
+      "name": "free-lunch",
+      "url": "https://github.com/auctors/free-lunch",
+      "description": "A curated list of free Windows software, online services and resources. Feel free to contribute!",
+      "topics": [
+        "free",
+        "microsoft-store",
+        "privacy",
+        "resources",
+        "webapps",
+        "windows",
+        "windows-10",
+        "windows-11"
+      ],
+      "rejected_at": "2026-07-17T04:44:54.207Z",
+      "reason": "Not related to AI. It is a list of free Windows software."
+    },
+    {
+      "name": "Windows-Optimize-Harden-Debloat",
+      "url": "https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat",
+      "description": "Enhance the security and privacy of your Windows 10 and Windows 11 deployments with our fully optimized, hardened, and debloated script. Adhere to industry best practices and Department of Defense STIG/SRG requirements for optimal performance and security.",
+      "topics": [
+        "automation",
+        "cyber",
+        "debloat",
+        "debotnet",
+        "harden",
+        "hardening",
+        "hardware-requirements",
+        "microsoft",
+        "mitigations",
+        "privacy",
+        "privacy-script",
+        "security",
+        "stig-compliant",
+        "stigs",
+        "telemetry",
+        "windows",
+        "windows-10",
+        "windows-defender",
+        "windows-desktop",
+        "windows10"
+      ],
+      "rejected_at": "2026-07-17T04:44:54.207Z",
+      "reason": "Not related to AI. It is a Windows hardening script."
+    },
+    {
+      "name": "privtracker",
+      "url": "https://github.com/meehow/privtracker",
+      "description": "Private BitTorrent tracker generator",
+      "topics": [
+        "bittorrent",
+        "bittorrent-tracker",
+        "privacy",
+        "privtracker",
+        "torrent",
+        "torrent-tracker",
+        "tracker"
+      ],
+      "rejected_at": "2026-07-17T04:44:54.207Z",
+      "reason": "Not related to AI. It is a BitTorrent tracker generator."
+    },
+    {
+      "name": "octo-cli",
+      "url": "https://github.com/octoproject/octo-cli",
+      "description": "CLI tool to expose data from any database as a serverless web service.",
+      "topics": [
+        "api",
+        "data",
+        "database",
+        "faas",
+        "go",
+        "knative",
+        "octo-cli",
+        "openfaas",
+        "serverless"
+      ],
+      "rejected_at": "2026-05-04T18:15:04.828Z",
+      "reason": "Database to serverless CLI tool, not AI-related."
+    },
+    {
+      "name": "reactjs-tmdb-app",
+      "url": "https://github.com/SKempin/reactjs-tmdb-app",
+      "description": "Responsive React 'The Movie Database' (TMDb) App",
+      "topics": [
+        "api",
+        "babel",
+        "bloodhound",
+        "bloodhoundjs",
+        "bootstrap",
+        "browserify",
+        "es6",
+        "javascript",
+        "movie-database",
+        "react",
+        "react-app",
+        "reactjs",
+        "tmdb",
+        "tmdb-movie-search",
+        "typeahead"
+      ],
+      "rejected_at": "2026-05-04T18:15:04.829Z",
+      "reason": "React movie database app, not AI-related."
+    },
+    {
+      "name": "tortilla",
+      "url": "https://github.com/tortilla/tortilla",
+      "description": " Wrapping web APIs made easy.",
+      "topics": [
+        "api",
+        "caching",
+        "json",
+        "python",
+        "tortilla",
+        "wrapper"
+      ],
+      "rejected_at": "2026-05-04T18:15:04.829Z",
+      "reason": "Web API wrapper library, not AI-related."
+    },
+    {
+      "name": "socialreaper",
+      "url": "https://github.com/ScriptSmith/socialreaper",
+      "description": "Social media scraping / data collection library for Facebook, Twitter, Reddit, YouTube, Pinterest, and Tumblr APIs",
+      "topics": [
+        "api",
+        "facebook",
+        "pinterest",
+        "python",
+        "reddit",
+        "scraping",
+        "social-media",
+        "tumblr",
+        "twitter",
+        "youtube"
+      ],
+      "rejected_at": "2026-05-04T18:15:04.829Z",
+      "reason": "Social media scraping library, not AI-related."
+    },
+    {
+      "name": "frida-fuzzer",
+      "url": "https://github.com/andreafioraldi/frida-fuzzer",
+      "description": "This experimetal fuzzer is meant to be used for API in-memory fuzzing.",
+      "topics": [
+        "afl",
+        "api",
+        "frida",
+        "fuzzing"
+      ],
+      "rejected_at": "2026-05-04T18:15:04.829Z",
+      "reason": "API fuzzing security tool, not AI-related."
+    },
+    {
+      "name": "whatsapp-framework",
+      "url": "https://github.com/danielcardeenas/whatsapp-framework",
+      "description": "⚗️Whatsapp python api",
+      "topics": [
+        "api",
+        "bot",
+        "framework",
+        "python",
+        "whatsapp",
+        "whatsapp-api",
+        "whatsapp-bot",
+        "whatsapp-framework"
+      ],
+      "rejected_at": "2026-05-04T18:15:04.829Z",
+      "reason": "WhatsApp messaging API, not AI-related."
+    },
+    {
+      "name": "Awesome_APIs",
+      "url": "https://github.com/TonnyL/Awesome_APIs",
+      "description": ":octocat: A collection of APIs",
+      "topics": [
+        "android",
+        "api",
+        "awesome",
+        "ios",
+        "web",
+        "windows"
+      ],
+      "rejected_at": "2026-05-04T18:15:04.829Z",
+      "reason": "API collection list, not AI-related."
+    },
+    {
+      "name": "Builder",
+      "url": "https://github.com/GrafiteInc/Builder",
+      "description": "Prepare your Laravel apps incredibly fast, with various commands, services, facades and boilerplates. ",
+      "topics": [
+        "api",
+        "billing",
+        "crud",
+        "feature-flags",
+        "laravel",
+        "notifications",
+        "socialite",
+        "starterkit"
+      ],
+      "rejected_at": "2026-05-04T18:15:04.829Z",
+      "reason": "Laravel boilerplate tool, not AI-related."
+    },
+    {
+      "name": "WeixinBot",
+      "url": "https://github.com/Urinx/WeixinBot",
+      "description": "网页版微信API，包含终端版微信及微信机器人",
+      "topics": [
+        "api",
+        "web-weixin-pipeline",
+        "wechat",
+        "weixinbot",
+        "wxapi"
+      ],
+      "rejected_at": "2026-05-04T18:15:04.829Z",
+      "reason": "WeChat messaging API, not AI-related."
+    },
+    {
+      "name": "instapy-cli",
+      "url": "https://github.com/b3nab/instapy-cli",
+      "description": ":sparkles: Python library and CLI to upload photo and video on Instagram. W/o a phone!",
+      "topics": [
+        "api",
+        "cli",
+        "collaboration",
+        "instagram",
+        "instagram-api",
+        "instagram-client",
+        "instagram-lib",
+        "instagram-photos",
+        "instapy",
+        "library",
+        "private-api",
+        "python",
+        "python-library",
+        "upload",
+        "upload-photos"
+      ],
+      "rejected_at": "2026-05-04T18:15:04.829Z",
+      "reason": "Instagram upload tool, not AI-related."
+    },
+    {
+      "name": "wxpy",
+      "url": "https://github.com/youfou/wxpy",
+      "description": "微信机器人 / 可能是最优雅的微信个人号 API ✨✨",
+      "topics": [
+        "api",
+        "wechat",
+        "weixin"
+      ],
+      "rejected_at": "2026-05-04T18:15:04.829Z",
+      "reason": "WeChat bot API, not AI-related."
+    },
+    {
+      "name": "laravel-api-boilerplate-jwt",
+      "url": "https://github.com/francescomalatesta/laravel-api-boilerplate-jwt",
+      "description": "A Laravel 5.8 API Boilerplate to create a ready-to-use REST API in seconds.",
+      "topics": [
+        "api",
+        "boilerplate",
+        "cors",
+        "dingo",
+        "jwt",
+        "laravel",
+        "rest"
+      ],
+      "rejected_at": "2026-05-04T18:15:04.829Z",
+      "reason": "Laravel API boilerplate, not AI-related."
+    },
+    {
+      "name": "d3.v4-API-Translation",
+      "url": "https://github.com/tianxuzhang/d3.v4-API-Translation",
+      "description": "D3.js 4.x 中文手册",
+      "topics": [
+        "api",
+        "d3js",
+        "d3v4"
+      ],
+      "rejected_at": "2026-05-04T18:15:04.829Z",
+      "reason": "D3.js documentation translation, not AI-related."
+    },
+    {
+      "name": "PPGo_ApiAdmin",
+      "url": "https://github.com/george518/PPGo_ApiAdmin",
+      "description": "go-API-manage",
+      "topics": [
+        "api",
+        "beego",
+        "golang"
+      ],
+      "rejected_at": "2026-05-04T18:15:04.829Z",
+      "reason": "Go API management tool, not AI-related."
+    },
+    {
+      "name": "fine-uploader",
+      "url": "https://github.com/FineUploader/fine-uploader",
+      "description": "Multiple file upload plugin with image previews, drag and drop, progress bars. S3 and Azure support, image scaling, form support, chunking, resume, pause, and tons of other features.",
+      "topics": [
+        "api",
+        "dropzone",
+        "file-upload",
+        "files",
+        "fineuploader",
+        "javascript",
+        "javascript-library",
+        "standalone",
+        "vanilla-javascript",
+        "vanilla-js",
+        "web-development"
+      ],
+      "rejected_at": "2026-05-04T18:15:04.829Z",
+      "reason": "File upload plugin, not AI-related."
+    },
+    {
+      "name": "netmusic-node",
+      "url": "https://github.com/sqaiyan/netmusic-node",
+      "description": "网易云音乐接口",
+      "topics": [
+        "api",
+        "netease-cloud-music",
+        "netease-music",
+        "neteasemusic",
+        "nodejs-api"
+      ],
+      "rejected_at": "2026-05-04T18:15:04.829Z",
+      "reason": "NetEase music API, not AI-related."
+    },
+    {
+      "name": "crystal",
+      "url": "https://github.com/graphile/crystal",
+      "description": "🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!",
+      "topics": [
+        "api",
+        "automatic-api",
+        "express",
+        "graphile",
+        "graphql",
+        "graphql-api",
+        "graphql-js",
+        "http",
+        "instant",
+        "koa",
+        "koa2",
+        "node",
+        "nodejs",
+        "pg",
+        "pgsql",
+        "postgraphql",
+        "postgres",
+        "postgresql",
+        "schema",
+        "typescript"
+      ],
+      "rejected_at": "2026-05-04T18:15:04.829Z",
+      "reason": "GraphQL/PostgreSQL framework, not AI-related."
+    },
+    {
+      "name": "GoogleTranslate_IPFinder",
+      "url": "https://github.com/GoodCoder666/GoogleTranslate_IPFinder",
+      "description": "谷歌翻译API服务器的IP扫描、测速工具。",
+      "topics": [
+        "google-translate",
+        "hosts",
+        "ip"
+      ],
+      "rejected_at": "2026-05-04T18:15:04.829Z",
+      "reason": "Google Translate IP scanner, not AI-related."
+    },
+    {
+      "name": "swagger-github-pages",
+      "url": "https://github.com/peter-evans/swagger-github-pages",
+      "description": "How to host Swagger API documentation with GitHub Pages",
+      "topics": [
+        "api-documentation",
+        "github-pages",
+        "swagger",
+        "swagger-ui"
+      ],
+      "rejected_at": "2026-05-04T18:15:04.829Z",
+      "reason": "Swagger documentation hosting guide, not AI-related."
+    },
+    {
+      "name": "cargo-public-api",
+      "url": "https://github.com/cargo-public-api/cargo-public-api",
+      "description": "List and diff the public API of Rust library crates between releases and commits. Detect breaking API changes and semver violations via CI or a CLI.",
+      "topics": [
+        "api",
+        "cargo",
+        "cargo-plugin",
+        "cargo-subcommand",
+        "diff",
+        "rust",
+        "rustdoc-json",
+        "semver"
+      ],
+      "rejected_at": "2026-05-04T18:15:04.829Z",
+      "reason": "Rust API diff tool, not AI-related."
+    },
+    {
+      "name": "prettierd",
+      "url": "https://github.com/fsouza/prettierd",
+      "description": "prettier, as a daemon, for improved formatting speed.",
+      "topics": [
+        "efm-langserver",
+        "emacs",
+        "formatter",
+        "hacktoberfest",
+        "javascript",
+        "neovim",
+        "prettier",
+        "typescript",
+        "vim"
+      ],
+      "rejected_at": "2026-04-16T23:13:51.368Z",
+      "reason": "Prettier daemon, not AI-related."
+    },
+    {
+      "name": "serverless",
+      "url": "https://github.com/neondatabase/serverless",
+      "description": "Connect to Neon PostgreSQL from serverless/worker/edge functions",
+      "topics": [
+        "cloudflare",
+        "cloudflare-workers",
+        "javascript",
+        "neon",
+        "pg",
+        "postgres",
+        "postgresql",
+        "postgresql-database",
+        "serverless",
+        "sql",
+        "typescript"
+      ],
+      "rejected_at": "2026-04-16T23:13:51.368Z",
+      "reason": "Database connection library, not AI-related."
+    },
+    {
+      "name": "ableton-js",
+      "url": "https://github.com/leolabs/ableton-js",
+      "description": "Control Ableton Live with Node.js",
+      "topics": [
+        "ableton",
+        "api",
+        "javascript",
+        "js",
+        "live",
+        "ts",
+        "typescript"
+      ],
+      "rejected_at": "2026-04-16T23:13:51.368Z",
+      "reason": "Ableton Live controller, not AI-related."
+    },
+    {
+      "name": "ngx-datatable",
+      "url": "https://github.com/swimlane/ngx-datatable",
+      "description": "✨  A feature-rich yet lightweight data-table crafted for Angular",
+      "topics": [
+        "angular",
+        "angular-components",
+        "angular2",
+        "angular4",
+        "datagrid",
+        "datatable",
+        "grid",
+        "hacktoberfest",
+        "table",
+        "typescript"
+      ],
+      "rejected_at": "2026-04-16T23:13:51.368Z",
+      "reason": "Angular data table component, not AI-related."
+    },
+    {
+      "name": "vocechat-web",
+      "url": "https://github.com/Privoce/vocechat-web",
+      "description": "VoceChat Web App",
+      "topics": [
+        "bot",
+        "chat",
+        "indexdb",
+        "pwa",
+        "react",
+        "redux-toolkit",
+        "typescript"
+      ],
+      "rejected_at": "2026-04-16T23:13:51.368Z",
+      "reason": "Chat web app, not AI-focused."
+    },
+    {
+      "name": "kaneo",
+      "url": "https://github.com/usekaneo/kaneo",
+      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+      "topics": [
+        "hacktoberfest",
+        "hono",
+        "issue-management",
+        "issue-tracker",
+        "jira-alternative",
+        "kanban",
+        "linear-alternative",
+        "project-management",
+        "react",
+        "self-hosted",
+        "typescript"
+      ],
+      "rejected_at": "2026-04-16T23:13:51.368Z",
+      "reason": "Project management tool, not AI-related."
+    },
+    {
+      "name": "jsii",
+      "url": "https://github.com/aws/jsii",
+      "description": "jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!",
+      "topics": [
+        "aws",
+        "cross-language",
+        "hacktoberfest",
+        "node",
+        "typescript"
+      ],
+      "rejected_at": "2026-04-16T23:13:51.369Z",
+      "reason": "AWS polyglot library tool, not AI-related."
+    },
+    {
+      "name": "kanri",
+      "url": "https://github.com/kanriapp/kanri",
+      "description": "🪐 Modern offline Kanban board app for Windows, MacOS and Linux made with Tauri and Nuxt. Built with simplicity and user experience in mind.",
+      "topics": [
+        "kanban",
+        "kanban-board",
+        "kanban-board-application",
+        "nuxt",
+        "nuxt3",
+        "nuxtjs",
+        "offline",
+        "offline-app",
+        "offline-first",
+        "offline-kanban-board",
+        "tauri",
+        "typescript",
+        "vue3",
+        "vuejs"
+      ],
+      "rejected_at": "2026-04-16T23:13:51.369Z",
+      "reason": "Kanban board app, not AI-related."
+    },
+    {
+      "name": "flatbuffers",
+      "url": "https://github.com/google/flatbuffers",
+      "description": "FlatBuffers: Memory Efficient Serialization Library",
+      "topics": [
+        "c",
+        "c-plus-plus",
+        "c-sharp",
+        "cross-platform",
+        "flatbuffers",
+        "go",
+        "grpc",
+        "java",
+        "javascript",
+        "json-parser",
+        "marshalling",
+        "mmap",
+        "protobuf",
+        "python",
+        "rpc",
+        "rust",
+        "serialization",
+        "serialization-library",
+        "typescript",
+        "zero-copy"
+      ],
+      "rejected_at": "2026-04-16T23:13:51.369Z",
+      "reason": "Serialization library, not AI-related."
+    },
+    {
+      "name": "mam_mol",
+      "url": "https://github.com/hyoo-ru/mam_mol",
+      "description": "$mol - fastest reactive micro-modular compact flexible lazy ui web framework.",
+      "topics": [
+        "bem",
+        "bundler",
+        "components",
+        "framework",
+        "isomorphic",
+        "javascript",
+        "lazy-evaluation",
+        "lazy-loading",
+        "lazy-rendering",
+        "mam",
+        "micro-modular",
+        "mol",
+        "oorp",
+        "reactivity",
+        "self-descriptive",
+        "typescript",
+        "virtual-rendering"
+      ],
+      "rejected_at": "2026-04-16T23:13:51.369Z",
+      "reason": "UI web framework, not AI-related."
+    },
+    {
+      "name": "lightweight-charts",
+      "url": "https://github.com/tradingview/lightweight-charts",
+      "description": "Performant financial charts built with HTML5 canvas",
+      "topics": [
+        "canvas",
+        "charting",
+        "charting-library",
+        "charts",
+        "finance",
+        "financial-charting-library",
+        "html5-charts",
+        "javascript",
+        "typescript"
+      ],
+      "rejected_at": "2026-04-16T23:13:51.369Z",
+      "reason": "Financial charts library, not AI-related."
+    },
+    {
+      "name": "lrc-maker",
+      "url": "https://github.com/magic-akari/lrc-maker",
+      "description": "歌词滚动姬｜可能是你所能见到的最好用的歌词制作工具",
+      "topics": [
+        "lrc",
+        "lrc-maker",
+        "lrc-online",
+        "lyrics",
+        "ncm",
+        "qmc",
+        "react",
+        "react-hooks",
+        "typescript"
+      ],
+      "rejected_at": "2026-04-16T23:13:51.369Z",
+      "reason": "Lyrics maker tool, not AI-related."
+    },
+    {
+      "name": "book",
+      "url": "https://github.com/yytypescript/book",
+      "description": "TypeScriptの入門書『サバイバルTypeScript』",
+      "topics": [
+        "typescript",
+        "typescript-documentation",
+        "typescript-tutorials"
+      ],
+      "rejected_at": "2026-04-16T23:13:51.369Z",
+      "reason": "TypeScript tutorial book, not AI-related."
+    },
+    {
+      "name": "NiceTab",
+      "url": "https://github.com/web-dahuyou/NiceTab",
+      "description": "浏览器插件：OneTab、Toby、N-Tab、SessionBuddy、KepTab 等扩展的升级替代品，功能丰富易用 | A nice, convenient, powerful tab manager  serving as an upgraded alternative to OneTab, Toby, SessionBuddy, N-Tab，KepTab...",
+      "topics": [
+        "browser-extension",
+        "chrome",
+        "edge",
+        "keptab",
+        "onetab",
+        "react",
+        "sessionbuddy",
+        "tab-manager",
+        "toby",
+        "typescript"
+      ],
+      "rejected_at": "2026-04-16T23:13:51.369Z",
+      "reason": "Browser tab manager, not AI-related."
+    },
+    {
+      "name": "node-poweredup",
+      "url": "https://github.com/nathankellenicki/node-poweredup",
+      "description": "A Javascript module to interface with LEGO Powered Up components.",
+      "topics": [
+        "boost",
+        "controlplus",
+        "duplo",
+        "duplotrain",
+        "lego",
+        "legoboost",
+        "legocontrolplus",
+        "legoeducation",
+        "legopoweredup",
+        "legospikeprime",
+        "legotechniccontrolplus",
+        "legowedo2",
+        "nodejs",
+        "poweredup",
+        "spikeprime",
+        "technic",
+        "techniccontrolplus",
+        "typescript",
+        "wedo2"
+      ],
+      "rejected_at": "2026-04-16T23:13:51.369Z",
+      "reason": "LEGO interface module, not AI-related."
+    },
+    {
+      "name": "bedrock",
+      "url": "https://github.com/mozilla/bedrock",
+      "description": "Making mozilla.org awesome, one pebble at a time",
+      "topics": [
+        "css",
+        "django",
+        "firefox",
+        "html",
+        "javascript",
+        "mozilla",
+        "python"
+      ],
+      "rejected_at": "2026-04-14T04:02:26.936Z",
+      "reason": "Not AI-related. This is Mozilla's website codebase."
+    },
+    {
+      "name": "react-sortable-hoc",
+      "url": "https://github.com/clauderic/react-sortable-hoc",
+      "description": "A set of higher-order components to turn any list into an animated, accessible and touch-friendly sortable list✌️",
+      "topics": [
+        "drag-and-drop",
+        "dragging",
+        "front-end",
+        "grid",
+        "higher-order-component",
+        "javascript",
+        "react",
+        "sortable",
+        "sorting"
+      ],
+      "rejected_at": "2026-04-14T04:02:26.936Z",
+      "reason": "Not AI-related. This is a React sortable list component."
+    },
+    {
+      "name": "lowdb",
+      "url": "https://github.com/typicode/lowdb",
+      "description": "Simple and fast JSON database",
+      "topics": [
+        "database",
+        "electron",
+        "embeddable",
+        "embedded-database",
+        "javascript",
+        "json",
+        "localstorage",
+        "lodash",
+        "nodejs",
+        "storage"
+      ],
+      "rejected_at": "2026-04-14T04:02:26.936Z",
+      "reason": "Not AI-related. This is a simple JSON database."
+    },
+    {
+      "name": "lsp-mode",
+      "url": "https://github.com/emacs-lsp/lsp-mode",
+      "description": "Emacs client/library for the Language Server Protocol",
+      "topics": [
+        "angular",
+        "cpp",
+        "dart",
+        "emacs",
+        "eslint",
+        "golang",
+        "html",
+        "java",
+        "javascript",
+        "json",
+        "language-server-client",
+        "language-server-protocol",
+        "php",
+        "python",
+        "ruby",
+        "rust",
+        "scala",
+        "swift",
+        "typescript"
+      ],
+      "rejected_at": "2026-04-14T04:02:26.936Z",
+      "reason": "Not AI-related. This is an Emacs LSP client for language servers."
+    },
+    {
+      "name": "casperjs",
+      "url": "https://github.com/casperjs/casperjs",
+      "description": "CasperJS is no longer actively maintained. Navigation scripting and testing utility for PhantomJS and SlimerJS",
+      "topics": [
+        "headless-browsers",
+        "headless-testing",
+        "javascript",
+        "phantomjs",
+        "slimerjs"
+      ],
+      "rejected_at": "2026-04-14T04:02:26.936Z",
+      "reason": "Not AI-related and deprecated. This project is no longer maintained."
+    },
+    {
+      "name": "30-seconds-of-interviews",
+      "url": "https://github.com/Chalarangelo/30-seconds-of-interviews",
+      "description": "A curated collection of common interview questions to help you prepare for your next interview.",
+      "topics": [
+        "awesome-list",
+        "css",
+        "education",
+        "html",
+        "interview",
+        "interview-questions",
+        "javascript",
+        "learn-to-code",
+        "learning-resources",
+        "snippets",
+        "snippets-collection"
+      ],
+      "rejected_at": "2026-04-14T04:02:26.936Z",
+      "reason": "Not AI-related. This is an interview questions collection."
+    },
+    {
+      "name": "react-play",
+      "url": "https://github.com/reactplay/react-play",
+      "description": "react-play is an opensource platform that helps you learn ReactJS faster with hands-on practice model. It is a collection of projects that you can use to learn ReactJS.",
+      "topics": [
+        "hacktoberfest",
+        "hacktoberfest-accepted",
+        "javascript",
+        "open-source",
+        "opensource",
+        "react",
+        "react-hooks",
+        "reactjs"
+      ],
+      "rejected_at": "2026-04-14T04:02:26.936Z",
+      "reason": "Not AI-related. This is a React learning platform."
+    },
+    {
+      "name": "javascript-mini-projects",
+      "url": "https://github.com/thinkswell/javascript-mini-projects",
+      "description": "Awesome Collection of amazing javascript mini-projects.",
+      "topics": [
+        "awesome",
+        "beginner",
+        "beginner-friendly",
+        "beginners-friendly",
+        "first-timers-friendly",
+        "good-first-issue",
+        "html-css-javascript",
+        "javascript",
+        "mini-project",
+        "open-source"
+      ],
+      "rejected_at": "2026-04-14T04:02:26.936Z",
+      "reason": "Not AI-related. This is a collection of JavaScript mini projects."
+    },
+    {
+      "name": "zammad",
+      "url": "https://github.com/zammad/zammad",
+      "description": "Zammad is a web based open source helpdesk/customer support system.",
+      "topics": [
+        "coffeescript",
+        "customer-care",
+        "customer-support",
+        "graphql",
+        "helpdesk",
+        "javascript",
+        "rails",
+        "ruby",
+        "support",
+        "ticketing",
+        "typescript",
+        "vite",
+        "vuejs",
+        "zammad"
+      ],
+      "rejected_at": "2026-04-14T04:02:26.936Z",
+      "reason": "Not AI-related. This is a helpdesk/customer support system."
+    },
+    {
+      "name": "Mastodon.py",
+      "url": "https://github.com/halcy/Mastodon.py",
+      "description": "Python wrapper for the Mastodon ( https://github.com/mastodon/mastodon/ ) API.",
+      "topics": [
+        "api",
+        "api-client",
+        "api-rest",
+        "mastodon",
+        "mastodon-api",
+        "mastodon-app",
+        "mastodon-client",
+        "social",
+        "social-network"
+      ],
+      "rejected_at": "2026-04-13T22:56:48.384Z",
+      "reason": "Mastodon API wrapper, not AI-related."
+    },
+    {
+      "name": "OliveTin",
+      "url": "https://github.com/OliveTin/OliveTin",
+      "description": "OliveTin gives safe and simple access to predefined shell commands from a web interface. ",
+      "topics": [
+        "api",
+        "container",
+        "homeautomation",
+        "linux",
+        "maturity-prod",
+        "selfhosted",
+        "service",
+        "sysadmin"
+      ],
+      "rejected_at": "2026-04-13T22:56:48.385Z",
+      "reason": "Shell command web interface, not AI-related."
+    },
+    {
+      "name": "bar-assistant",
+      "url": "https://github.com/karlomikus/bar-assistant",
+      "description": "Bar assistant is a all-in-one solution for managing your home bar",
+      "topics": [
+        "api",
+        "bar",
+        "cocktails",
+        "home",
+        "php",
+        "recipes",
+        "rest"
+      ],
+      "rejected_at": "2026-04-13T22:56:48.385Z",
+      "reason": "Bar/recipe management, not AI-related."
+    },
+    {
+      "name": "pokeapi",
+      "url": "https://github.com/PokeAPI/pokeapi",
+      "description": "The Pokémon API",
+      "topics": [
+        "api",
+        "beginner-friendly",
+        "graphql",
+        "hacktoberfest",
+        "pokeapi",
+        "pokemon"
+      ],
+      "rejected_at": "2026-04-13T22:56:48.385Z",
+      "reason": "Pokémon data API, not AI-related."
+    },
+    {
+      "name": "dialoguer",
+      "url": "https://github.com/console-rs/dialoguer",
+      "description": "Rust utility library for nice command line prompts and similar things",
+      "topics": [],
+      "rejected_at": "2026-04-10T13:18:18.908Z",
+      "reason": "CLI utility library, not AI-related."
+    },
+    {
+      "name": "symbolic",
+      "url": "https://github.com/getsentry/symbolic",
+      "description": "Stack trace symbolication library written in Rust",
+      "topics": [
+        "symbolication",
+        "tag-production"
+      ],
+      "rejected_at": "2026-04-10T13:18:18.908Z",
+      "reason": "Debugging/symbolication tool, not AI-related."
+    },
+    {
+      "name": "rustfmt",
+      "url": "https://github.com/rust-lang/rustfmt",
+      "description": "Format Rust code",
+      "topics": [
+        "codeformatter",
+        "formatter",
+        "rust",
+        "rustfmt"
+      ],
+      "rejected_at": "2026-04-10T13:18:18.908Z",
+      "reason": "Code formatter, not AI-related."
+    },
+    {
+      "name": "cookiecutter-flask",
+      "url": "https://github.com/cookiecutter-flask/cookiecutter-flask",
+      "description": "A flask template with Bootstrap, asset bundling+minification with webpack, starter templates, and registration/authentication. For use with cookiecutter.",
+      "topics": [
+        "bootstrap",
+        "cookiecutter",
+        "cookiecutter-flask",
+        "flask",
+        "hacktoberfest",
+        "python",
+        "webpack"
+      ],
+      "rejected_at": "2026-05-05T09:55:49.946Z",
+      "reason": "Not AI-related. This is a Flask project template."
+    },
+    {
+      "name": "Osintgram",
+      "url": "https://github.com/Datalux/Osintgram",
+      "description": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
+      "topics": [
+        "analysis",
+        "hacking",
+        "information-gathering",
+        "instagram",
+        "instagram-account",
+        "instagram-api",
+        "nickname",
+        "osint",
+        "osint-python",
+        "penetration-testing",
+        "python",
+        "python3",
+        "tool"
+      ],
+      "rejected_at": "2026-05-03T11:16:26.532Z",
+      "reason": "Not AI-related. This is an Instagram OSINT analysis tool."
+    },
+    {
+      "name": "db_tutorial",
+      "url": "https://github.com/cstack/db_tutorial",
+      "description": "Writing a sqlite clone from scratch in C",
+      "topics": [
+        "database"
+      ],
+      "rejected_at": "2026-05-07T13:44:38.084Z",
+      "reason": "Database tutorial, not AI-related."
+    },
+    {
+      "name": "q",
+      "url": "https://github.com/harelba/q",
+      "description": "q - Run SQL directly on delimited files and multi-file sqlite databases",
+      "topics": [
+        "cli",
+        "command-line",
+        "command-line-tool",
+        "csv",
+        "database",
+        "python",
+        "q",
+        "qtextasdata",
+        "sql",
+        "sqlite",
+        "sqlite3",
+        "textasdata",
+        "tsv"
+      ],
+      "rejected_at": "2026-05-07T13:44:38.084Z",
+      "reason": "SQL CLI tool for delimited files, not AI-related."
+    },
+    {
+      "name": "yugabyte-db",
+      "url": "https://github.com/yugabyte/yugabyte-db",
+      "description": "YugabyteDB - the cloud native distributed SQL database for mission-critical applications.",
+      "topics": [
+        "cloud-native",
+        "cpp",
+        "database",
+        "distributed-database",
+        "distributed-sql",
+        "distributed-sql-database",
+        "high-performance",
+        "kubernetes",
+        "multi-cloud",
+        "multi-region",
+        "scale-out",
+        "sql"
+      ],
+      "rejected_at": "2026-05-07T13:44:38.084Z",
+      "reason": "Distributed SQL database, not AI-related."
+    },
+    {
+      "name": "Waking-Up",
+      "url": "https://github.com/wolverinn/Waking-Up",
+      "description": "计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试；可用于模拟面试、面试前复习、短期内快速备战面试...",
+      "topics": [
+        "computer-network",
+        "computer-science",
+        "database",
+        "git",
+        "interview",
+        "interview-questions",
+        "operating-system",
+        "python"
+      ],
+      "rejected_at": "2026-05-07T13:44:38.084Z",
+      "reason": "Computer science interview prep in Chinese, not AI-focused and localized."
+    },
+    {
+      "name": "node-mongodb-native",
+      "url": "https://github.com/mongodb/node-mongodb-native",
+      "description": "The official MongoDB Node.js driver",
+      "topics": [
+        "database",
+        "mongodb",
+        "node-js",
+        "nodejs",
+        "nosql"
+      ],
+      "rejected_at": "2026-05-07T13:44:38.084Z",
+      "reason": "MongoDB Node.js driver, not AI-related."
+    },
+    {
+      "name": "go-clean-arch",
+      "url": "https://github.com/bxcodec/go-clean-arch",
+      "description": "Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture",
+      "topics": [
+        "architecture",
+        "article",
+        "clean-architecture",
+        "database",
+        "go",
+        "golang",
+        "mysql",
+        "sql"
+      ],
+      "rejected_at": "2026-05-07T13:44:38.084Z",
+      "reason": "Architecture pattern for Go, not AI-related."
+    },
+    {
+      "name": "notifee",
+      "url": "https://github.com/invertase/notifee",
+      "description": "⚛️ A feature rich notifications library for React Native.",
+      "topics": [
+        "android",
+        "hactoberfest",
+        "ios",
+        "notifications",
+        "react-native"
+      ],
+      "rejected_at": "2026-04-09T20:43:09.009Z",
+      "reason": "Not AI-related. Push notifications library for React Native."
+    },
+    {
+      "name": "addons-frontend",
+      "url": "https://github.com/mozilla/addons-frontend",
+      "description": "Front-end to complement mozilla/addons-server",
+      "topics": [
+        "addons",
+        "amo",
+        "mozilla",
+        "react",
+        "redux"
+      ],
+      "rejected_at": "2026-04-09T20:43:09.009Z",
+      "reason": "Not AI-related. Mozilla addons frontend web application."
+    },
+    {
+      "name": "museeks",
+      "url": "https://github.com/martpie/museeks",
+      "description": "🎵 A simple, clean and cross-platform music player",
+      "topics": [
+        "cross-platform",
+        "electron",
+        "museeks",
+        "music",
+        "music-player",
+        "react"
+      ],
+      "rejected_at": "2026-04-09T20:43:09.009Z",
+      "reason": "Not AI-related. Cross-platform music player application."
+    },
+    {
+      "name": "Luban",
+      "url": "https://github.com/Curzibn/Luban",
+      "description": "Luban 2（鲁班 2） —— 高效简洁的 Android 图片压缩工具库，像素级还原微信朋友圈压缩策略。(An efficient and concise Android image compression library that closely replicates the compression strategy of WeChat Moments.)",
+      "topics": [
+        "android",
+        "image-compression",
+        "luban"
+      ],
+      "rejected_at": "2026-05-22T00:50:53.618Z",
+      "reason": "Image compression library, not AI-related."
+    },
+    {
+      "name": "AarogyaSetu_Android",
+      "url": "https://github.com/nic-delhi/AarogyaSetu_Android",
+      "description": "Aarogya Setu Android app native code",
+      "topics": [
+        "android",
+        "contact-tracing"
+      ],
+      "rejected_at": "2026-05-22T00:50:53.618Z",
+      "reason": "COVID contact tracing app, not AI-related."
+    },
+    {
+      "name": "TVAPP",
+      "url": "https://github.com/youhunwl/TVAPP",
+      "description": " 收集全网 Android TV电视盒子应用，涵盖影视、直播、K歌、工具、游戏等类型，整理优质APK资源，支持便捷下载与自动更新。提供安全验证、分类索引与兼容性标注，助力用户打造家庭影音娱乐中心！              ✅ TVBox/影视仓等影音壳接口配置源。",
+      "topics": [
+        "android",
+        "android-tv",
+        "apk",
+        "app",
+        "tv",
+        "tv-box"
+      ],
+      "rejected_at": "2026-05-22T00:50:53.618Z",
+      "reason": "Android TV app collection, not AI-related."
+    },
+    {
+      "name": "uCrop",
+      "url": "https://github.com/Yalantis/uCrop",
+      "description": "Image Cropping Library for Android",
+      "topics": [
+        "android",
+        "animation",
+        "crop",
+        "image",
+        "java",
+        "photo",
+        "rotation",
+        "scale"
+      ],
+      "rejected_at": "2026-05-22T00:50:53.618Z",
+      "reason": "Image cropping library, not AI-related."
+    },
+    {
+      "name": "FileDownloader",
+      "url": "https://github.com/lingochamp/FileDownloader",
+      "description": "Multitask、MultiThread(MultiConnection)、Breakpoint-resume、High-concurrency、Simple to use、Single/NotSingle-process",
+      "topics": [
+        "android",
+        "breakpoint",
+        "download",
+        "downloader",
+        "filedownloader",
+        "high-concurrency",
+        "multiple-process",
+        "multiple-thread",
+        "multitasking"
+      ],
+      "rejected_at": "2026-05-22T00:50:53.618Z",
+      "reason": "File downloader library, not AI-related."
+    },
+    {
+      "name": "cordova-plugin-inappbrowser",
+      "url": "https://github.com/apache/cordova-plugin-inappbrowser",
+      "description": "Apache Cordova InAppBrowser Plugin",
+      "topics": [
+        "android",
+        "cordova",
+        "hacktoberfest",
+        "ios",
+        "java",
+        "javascript",
+        "library",
+        "mobile",
+        "nodejs",
+        "objective-c"
+      ],
+      "rejected_at": "2026-05-22T00:50:53.618Z",
+      "reason": "Cordova browser plugin, not AI-related."
+    },
+    {
+      "name": "MaterialDesignLibrary",
+      "url": "https://github.com/navasmdc/MaterialDesignLibrary",
+      "description": "This is a library with components of Android L to you use in android 2.2",
+      "topics": [
+        "android",
+        "material-design"
+      ],
+      "rejected_at": "2026-05-22T00:50:53.618Z",
+      "reason": "Material Design UI library, not AI-related."
+    },
+    {
+      "name": "WeChatLuckyMoney",
+      "url": "https://github.com/zhongyi-tong/WeChatLuckyMoney",
+      "description": ":money_with_wings: WeChat's lucky money helper (微信抢红包插件) by Zhongyi Tong. An Android app that helps you snatch red packets in WeChat groups. ",
+      "topics": [
+        "android",
+        "hongbao",
+        "lucky-money",
+        "red-paceket"
+      ],
+      "rejected_at": "2026-05-22T00:50:53.618Z",
+      "reason": "WeChat red packet automation tool, not AI-related."
+    },
+    {
+      "name": "AndroidNote",
+      "url": "https://github.com/GcsSloop/AndroidNote",
+      "description": "安卓学习笔记",
+      "topics": [
+        "android",
+        "android-studio",
+        "custom-view",
+        "gcssloop",
+        "notes"
+      ],
+      "rejected_at": "2026-05-22T00:50:53.618Z",
+      "reason": "Android learning notes, not AI-related."
+    },
+    {
+      "name": "logger",
+      "url": "https://github.com/orhanobut/logger",
+      "description": "✔️ Simple, pretty and powerful logger for android",
+      "topics": [
+        "android",
+        "java",
+        "json-logging",
+        "log",
+        "logcat",
+        "logger",
+        "pretty-printer",
+        "timber"
+      ],
+      "rejected_at": "2026-05-22T00:50:53.618Z",
+      "reason": "Android logging library, not AI-related."
+    },
+    {
+      "name": "Timber",
+      "url": "https://github.com/naman14/Timber",
+      "description": "Material Design Music Player",
+      "topics": [
+        "android",
+        "material-design",
+        "music-player"
+      ],
+      "rejected_at": "2026-05-22T00:50:53.618Z",
+      "reason": "Music player application, not AI-related."
+    },
+    {
+      "name": "weex",
+      "url": "https://github.com/alibaba/weex",
+      "description": "A framework for building Mobile cross-platform UI",
+      "topics": [
+        "android",
+        "ios",
+        "mobile",
+        "sdk",
+        "web",
+        "weex"
+      ],
+      "rejected_at": "2026-05-22T00:50:53.618Z",
+      "reason": "Mobile cross-platform UI framework, not AI-related."
+    },
+    {
+      "name": "spotube",
+      "url": "https://github.com/KRTirtho/spotube",
+      "description": "🎧 Open source music streaming app! Available for both desktop & mobile!",
+      "topics": [
+        "android",
+        "android-client",
+        "android-music-player",
+        "desktop-client",
+        "fdroid",
+        "flutter",
+        "flutter-desktop",
+        "linux",
+        "macos",
+        "music",
+        "music-player",
+        "windows",
+        "youtube"
+      ],
+      "rejected_at": "2026-05-22T00:50:53.618Z",
+      "reason": "Music streaming application, not AI-related."
+    },
+    {
+      "name": "Matisse",
+      "url": "https://github.com/zhihu/Matisse",
+      "description": ":fireworks: A well-designed local image and video selector for Android",
+      "topics": [
+        "android",
+        "android-image-picker",
+        "android-image-selector",
+        "android-library",
+        "video-selector"
+      ],
+      "rejected_at": "2026-05-22T00:50:53.618Z",
+      "reason": "Image/video selector library, not AI-related."
+    },
+    {
+      "name": "flutter_inappwebview",
+      "url": "https://github.com/pichillilorenzo/flutter_inappwebview",
+      "description": "A Flutter plugin that allows you to add an inline webview, to use a headless webview, and to open an in-app browser window.",
+      "topics": [
+        "android",
+        "browser",
+        "cookie-manager",
+        "desktop",
+        "flutter",
+        "flutter-package",
+        "flutter-plugin",
+        "flutter-webview",
+        "inappbrowser",
+        "inappwebview",
+        "inline-webview",
+        "ios",
+        "mobile",
+        "plugin",
+        "web-storage",
+        "webview",
+        "webview-library",
+        "webview-options",
+        "webview2",
+        "wkwebview"
+      ],
+      "rejected_at": "2026-05-22T00:50:53.618Z",
+      "reason": "Flutter webview plugin, not AI-related."
+    },
+    {
+      "name": "Android-ObservableScrollView",
+      "url": "https://github.com/ksoichiro/Android-ObservableScrollView",
+      "description": "Android library to observe scroll events on scrollable views.",
+      "topics": [
+        "android",
+        "android-library",
+        "android-ui",
+        "material-design"
+      ],
+      "rejected_at": "2026-05-22T00:50:53.618Z",
+      "reason": "Android scroll view library, not AI-related."
+    },
+    {
+      "name": "activist",
+      "url": "https://github.com/activist-org/activist",
+      "description": "An open-source activism platform",
+      "topics": [
+        "activism",
+        "app",
+        "backend",
+        "community",
+        "django",
+        "frontend",
+        "hacktoberfest",
+        "javascript",
+        "learning",
+        "nuxt",
+        "open-source",
+        "politics",
+        "python",
+        "social",
+        "social-network",
+        "tailwindcss",
+        "typescript",
+        "vue",
+        "web",
+        "webapp"
+      ],
+      "rejected_at": "2026-04-12T16:34:33.921Z",
+      "reason": "Not AI-related. Social activism platform built with Django."
+    },
+    {
+      "name": "awesome-telegram",
+      "url": "https://github.com/ebertti/awesome-telegram",
+      "description": "Collection great groups, channels, bots and libraries for Telegram",
+      "topics": [
+        "awesome-list",
+        "telegram"
+      ],
+      "rejected_at": "2026-07-17T23:39:36.437Z",
+      "reason": "Not related to AI, it's a general Telegram resource list."
+    },
+    {
+      "name": "awesome-android-libraries",
+      "url": "https://github.com/wasabeef/awesome-android-libraries",
+      "description": "This is an alphabetical list of libraries for Android development, the majority being actively maintained.",
+      "topics": [],
+      "rejected_at": "2026-07-17T23:39:36.443Z",
+      "reason": "Not related to AI, it's a general Android libraries list."
+    },
+    {
+      "name": "awesome-cybersecurity-blueteam",
+      "url": "https://github.com/fabacab/awesome-cybersecurity-blueteam",
+      "description": ":computer:🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.",
+      "topics": [
+        "awesome-list",
+        "blue-team",
+        "computer-security",
+        "cybersecurity",
+        "defensive-security",
+        "infosec",
+        "security"
+      ],
+      "rejected_at": "2026-07-17T23:39:36.443Z",
+      "reason": "Not related to AI, it's a cybersecurity resource list."
+    },
+    {
+      "name": "awesome-ios-animation",
+      "url": "https://github.com/v5tech/awesome-ios-animation",
+      "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",
+      "topics": [
+        "animations",
+        "ios-animation",
+        "swift-animation"
+      ],
+      "rejected_at": "2026-07-17T23:39:36.443Z",
+      "reason": "Not related to AI, it's an iOS animation list."
+    },
+    {
+      "name": "awesome-gis",
+      "url": "https://github.com/sshuair/awesome-gis",
+      "description": "😎Awesome GIS is a collection of geospatial related sources, including cartographic tools, geoanalysis tools, developer tools, data, conference & communities, news, massive open online course, some amazing map sites, and more.",
+      "topics": [
+        "awesome",
+        "geo",
+        "geospatial",
+        "geospatial-library",
+        "geotools",
+        "gis",
+        "map",
+        "spatial-analysis"
+      ],
+      "rejected_at": "2026-07-17T23:39:36.443Z",
+      "reason": "Not related to AI, it's a GIS and geospatial tools list."
+    },
+    {
+      "name": "awesome-ios-animation",
+      "url": "https://github.com/onmyway133/awesome-ios-animation",
+      "description": ":umbrella: A collection of iOS animation repos",
+      "topics": [
+        "animation",
+        "ios",
+        "swift"
+      ],
+      "rejected_at": "2026-07-17T23:39:36.443Z",
+      "reason": "Not related to AI, it's an iOS animation list."
+    },
+    {
+      "name": "awesome-devsecops",
+      "url": "https://github.com/devsecops/awesome-devsecops",
+      "description": "An authoritative list of awesome devsecops tools with the help from community experiments and contributions.",
+      "topics": [
+        "devops",
+        "devsecops",
+        "podcast",
+        "threat-intelligence"
+      ],
+      "rejected_at": "2026-07-17T23:39:36.443Z",
+      "reason": "Not related to AI, it's a DevSecOps tools list."
+    },
+    {
+      "name": "awesome-powershell",
+      "url": "https://github.com/janikvonrotz/awesome-powershell",
+      "description": "This repository has been moved to https://codeberg.org/janikvonrotz/awesome-powershell. Please visit the new location for the latest updates.",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "guides",
+        "linux-powershell",
+        "list",
+        "powershell",
+        "powershell-cmdlets",
+        "powershell-ise",
+        "tutorial",
+        "windows-powershell"
+      ],
+      "rejected_at": "2026-07-17T23:39:36.443Z",
+      "reason": "Not related to AI, it's a PowerShell resource list."
+    },
+    {
+      "name": "awesome-cmake",
+      "url": "https://github.com/onqtam/awesome-cmake",
+      "description": "A curated list of awesome CMake resources, scripts, modules and examples.",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "cmake",
+        "cmake-examples",
+        "cmake-modules",
+        "cmake-resources",
+        "cmake-scripts",
+        "cmake-toolchains",
+        "list"
+      ],
+      "rejected_at": "2026-07-17T23:39:36.443Z",
+      "reason": "Not related to AI, it's a CMake resources list."
+    },
+    {
+      "name": "awesome-testflight-link",
+      "url": "https://github.com/pluwen/awesome-testflight-link",
+      "description": "Collection of Testflight public app link（iOS/iPad OS/macOS/tvOS）",
+      "topics": [
+        "app",
+        "collection",
+        "ios",
+        "ipad",
+        "iphone",
+        "macos",
+        "testflight",
+        "tvos"
+      ],
+      "rejected_at": "2026-07-17T23:39:36.443Z",
+      "reason": "Not related to AI, it's a Testflight app link collection."
+    },
+    {
+      "name": "awesome-d3",
+      "url": "https://github.com/wbkd/awesome-d3",
+      "description": "A list of D3 libraries, plugins and utilities",
+      "topics": [
+        "charts",
+        "d3js",
+        "datavisualization",
+        "javascript",
+        "maps"
+      ],
+      "rejected_at": "2026-07-17T23:39:36.444Z",
+      "reason": "Not related to AI, it's a D3 visualization list."
+    },
+    {
+      "name": "awesome-nix",
+      "url": "https://github.com/nix-community/awesome-nix",
+      "description": "😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "lists",
+        "nix",
+        "nixos"
+      ],
+      "rejected_at": "2026-07-17T23:39:36.444Z",
+      "reason": "Not related to AI, it's a Nix community resource list."
+    },
+    {
+      "name": "awesome-github-profile-readme-templates",
+      "url": "https://github.com/durgeshsamariya/awesome-github-profile-readme-templates",
+      "description": "This repository contains best profile readme's for your reference.",
+      "topics": [
+        "github-profile",
+        "readme",
+        "readme-template"
+      ],
+      "rejected_at": "2026-07-17T23:39:36.444Z",
+      "reason": "Not related to AI, it's a GitHub profile README template collection."
+    },
+    {
+      "name": "awesome-uses",
+      "url": "https://github.com/wesbos/awesome-uses",
+      "description": "A list of /uses pages detailing developer setups, gear, software and configs.",
+      "topics": [
+        "hacktoberfest"
+      ],
+      "rejected_at": "2026-07-17T23:39:36.444Z",
+      "reason": "Not related to AI, it's a developer setups list."
+    },
+    {
+      "name": "awesome-ios-architecture",
+      "url": "https://github.com/onmyway133/awesome-ios-architecture",
+      "description": ":japanese_castle: Better ways to structure iOS apps",
+      "topics": [
+        "architecture",
+        "ios",
+        "mvvm",
+        "react"
+      ],
+      "rejected_at": "2026-07-17T23:39:36.444Z",
+      "reason": "Not related to AI, it's an iOS architecture list."
+    },
+    {
+      "name": "awesome-db-tools",
+      "url": "https://github.com/mgramin/awesome-db-tools",
+      "description": "Everything that makes working with databases easier",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "cross-database",
+        "database",
+        "database-management",
+        "ide",
+        "monitoring",
+        "sql-client",
+        "visualization"
+      ],
+      "rejected_at": "2026-07-17T23:39:36.444Z",
+      "reason": "Not related to AI, it's a database tools list."
+    },
+    {
+      "name": "awesome-hyprland",
+      "url": "https://github.com/hyprland-community/awesome-hyprland",
+      "description": "Awesome list for Hyprland [maintainer=@yavko]",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "awesome-readme",
+        "awesome-resources",
+        "hyprland",
+        "hyprland-ipc",
+        "list",
+        "resources"
+      ],
+      "rejected_at": "2026-07-17T23:39:36.444Z",
+      "reason": "Not related to AI, it's a Hyprland resource list."
+    },
+    {
+      "name": "promise-fun",
+      "url": "https://github.com/sindresorhus/promise-fun",
+      "description": "Promise packages, patterns, chat, and tutorials",
+      "topics": [
+        "async",
+        "async-await",
+        "async-functions",
+        "awesome",
+        "awesome-list",
+        "concurrency",
+        "iteration",
+        "javascript",
+        "list",
+        "nodejs",
+        "polyfill",
+        "ponyfill",
+        "promise",
+        "promise-library",
+        "promise-modules",
+        "promise-patterns",
+        "promise-queue",
+        "promises",
+        "resources",
+        "unicorns"
+      ],
+      "rejected_at": "2026-07-17T23:39:36.444Z",
+      "reason": "Not related to AI, it's a JavaScript Promise packages list."
+    },
+    {
+      "name": "awesome-forensics",
+      "url": "https://github.com/cugu/awesome-forensics",
+      "description": "⭐️ A curated list of awesome forensic analysis tools and resources",
+      "topics": [
+        "computer-forensics",
+        "dfir",
+        "digital-forensics",
+        "forensic-analysis",
+        "free",
+        "open-source"
+      ],
+      "rejected_at": "2026-07-17T23:39:36.444Z",
+      "reason": "Not related to AI, it's a digital forensics tools list."
+    },
+    {
+      "name": "AwesomeXSS",
+      "url": "https://github.com/s0md3v/AwesomeXSS",
+      "description": "Awesome XSS stuff",
+      "topics": [
+        "payload",
+        "payload-list",
+        "xss",
+        "xss-cheatsheet",
+        "xss-detection",
+        "xss-payloads"
+      ],
+      "rejected_at": "2026-07-17T23:39:36.444Z",
+      "reason": "Not related to AI, it's an XSS payload list."
+    },
+    {
+      "name": "colorls",
+      "url": "https://github.com/athityakumar/colorls",
+      "description": "A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:",
+      "topics": [
+        "cli",
+        "color",
+        "eye-candy",
+        "gem",
+        "icons",
+        "ls",
+        "ruby",
+        "terminal"
+      ],
+      "rejected_at": "2026-07-17T23:39:36.444Z",
+      "reason": "Not related to AI, it's a Ruby CLI gem for terminal beautification."
+    },
+    {
+      "name": "poi-tl",
+      "url": "https://github.com/Sayi/poi-tl",
+      "description": "Generate awesome word(docx) with template",
+      "topics": [
+        "docx",
+        "export",
+        "java",
+        "markdown",
+        "poi",
+        "template",
+        "word"
+      ],
+      "rejected_at": "2026-07-17T23:39:36.444Z",
+      "reason": "Not related to AI, it's a Java Word template generator."
+    },
+    {
+      "name": "Clash",
+      "url": "https://github.com/clash-download/Clash",
+      "description": "🟢 收录 Clash Verge Rev, Clash for Windows,Clash for Android,FlClash 等Clash内核全平台客户端 Github 官方仓库与详细图文配置教程 (2026最新）",
+      "topics": [
+        "clash",
+        "clash-for-android",
+        "clash-for-windows",
+        "clash-meta",
+        "clash-verge"
+      ],
+      "rejected_at": "2026-08-23T04:47:00.081Z",
+      "reason": "Proxy client collection/tutorial, not AI-related."
+    },
+    {
+      "name": "LIEF",
+      "url": "https://github.com/lief-project/LIEF",
+      "description": "LIEF - Library to Instrument Executable Formats (C++, Python, Rust)",
+      "topics": [
+        "android",
+        "art",
+        "binary-analysis",
+        "dex",
+        "elf",
+        "executable-formats",
+        "lief",
+        "macho",
+        "malware-analysis",
+        "modification",
+        "oat",
+        "parser",
+        "parsing",
+        "pe",
+        "python",
+        "reverse-engineering",
+        "rust",
+        "sdk",
+        "vdex"
+      ],
+      "rejected_at": "2026-08-23T04:47:00.081Z",
+      "reason": "Binary parsing library, not AI-related."
+    },
+    {
+      "name": "Hide-My-Applist",
+      "url": "https://github.com/Dr-TSNG/Hide-My-Applist",
+      "description": "An Xposed module to intercept applist detections",
+      "topics": [
+        "android",
+        "xposed"
+      ],
+      "rejected_at": "2026-08-23T04:47:00.081Z",
+      "reason": "Xposed module, not AI-related."
+    },
+    {
+      "name": "tasks",
+      "url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "topics": [
+        "android",
+        "compose-multiplatform",
+        "productivity"
+      ],
+      "rejected_at": "2026-08-23T04:47:00.081Z",
+      "reason": "Task manager app, not AI-related."
+    },
+    {
+      "name": "cuberite",
+      "url": "https://github.com/cuberite/cuberite",
+      "description": "A lightweight, fast and extensible game server for Minecraft",
+      "topics": [
+        "android",
+        "c-plus-plus",
+        "cuberite",
+        "linux",
+        "lua",
+        "minecraft",
+        "plugins",
+        "raspberry-pi",
+        "server",
+        "windows"
+      ],
+      "rejected_at": "2026-08-23T04:47:00.081Z",
+      "reason": "Minecraft game server, not AI-related."
+    },
+    {
+      "name": "web3j",
+      "url": "https://github.com/LFDT-web3j/web3j",
+      "description": "Lightweight Java and Android library for integration with Ethereum clients",
+      "topics": [
+        "android",
+        "blockchain",
+        "ether",
+        "ethereum",
+        "java",
+        "reactivex",
+        "rxjava",
+        "smart-contract-tools",
+        "smart-contracts",
+        "solidity"
+      ],
+      "rejected_at": "2026-08-23T04:47:00.081Z",
+      "reason": "Ethereum Java library, not AI-related."
+    },
+    {
+      "name": "jasmine",
+      "url": "https://github.com/ComicSparks/jasmine",
+      "description": "A comic browser，support Android / iOS / MacOS / Windows / Linux.",
+      "topics": [
+        "acg",
+        "comic",
+        "cosplay",
+        "flutter",
+        "hentai",
+        "ios",
+        "jmcomic",
+        "pica",
+        "picacg",
+        "rust"
+      ],
+      "rejected_at": "2026-08-23T04:47:00.084Z",
+      "reason": "Comic browser, not AI-related."
+    },
+    {
+      "name": "OuterTune",
+      "url": "https://github.com/OuterTune/OuterTune",
+      "description": "A Material 3 Music Player for Android with local file & YouTube Music support. Forked from InnerTune",
+      "topics": [
+        "android",
+        "jetpack-compose",
+        "material-ui",
+        "music-player"
+      ],
+      "rejected_at": "2026-08-23T04:47:00.084Z",
+      "reason": "Music player fork, not AI-related."
+    },
+    {
+      "name": "holiday-cn",
+      "url": "https://github.com/NateScarlet/holiday-cn",
+      "description": "📅🇨🇳中国法定节假日数据 自动每日抓取国务院公告",
+      "topics": [
+        "china",
+        "crawling",
+        "data",
+        "holiday",
+        "natural-language-processing"
+      ],
+      "rejected_at": "2026-09-15T12:25:28.282Z",
+      "reason": "Primarily a localized China holiday data crawler, not a core AI project despite NLP topic."
+    }
+  ]
+}
