@@ -1,3 +1,3930 @@
 {
-  "queue": []
+  "queue": [
+    {
+      "name": "meta2d.js",
+      "html_url": "https://github.com/le5le-com/meta2d.js",
+      "description": "The meta2d.js is real-time data exchange and interactive web 2D engine. Developers are able to build Web SCADA, IoT, Digital twins and so on. Meta2d.js是一个实时数据响应和交互的2d引擎，可用于Web组态，物联网，数字孪生等场景。",
+      "topics": [
+        "2d",
+        "2d-engine",
+        "canvas",
+        "diagram",
+        "graph",
+        "scada",
+        "typescript",
+        "visualization"
+      ],
+      "stargazers_count": 1272,
+      "pushed_at": "2026-09-14T06:47:43Z",
+      "added_to_queue": "2026-09-17T12:33:08.501Z"
+    },
+    {
+      "name": "panda",
+      "html_url": "https://github.com/chakra-ui/panda",
+      "description": "🐼 Universal, Type-Safe, CSS-in-JS Framework for Design Systems ⚡️",
+      "topics": [
+        "atomic-css",
+        "compiler",
+        "css",
+        "css-in-js",
+        "design-system",
+        "design-tokens",
+        "engine",
+        "framework-agnostic",
+        "jit-compiler",
+        "postcss",
+        "styled-system",
+        "theming",
+        "typescript",
+        "utility-classes"
+      ],
+      "stargazers_count": 6191,
+      "pushed_at": "2026-09-16T14:18:35Z",
+      "added_to_queue": "2026-09-17T12:33:08.501Z"
+    },
+    {
+      "name": "graffle",
+      "html_url": "https://github.com/graffle-js/graffle",
+      "description": "Simple GraphQL Client for JavaScript. Minimal. Extensible. Type Safe. Runs everywhere.",
+      "topics": [
+        "graphql",
+        "graphql-client",
+        "lightweight",
+        "nodejs",
+        "typescript"
+      ],
+      "stargazers_count": 6118,
+      "pushed_at": "2026-05-11T20:17:22Z",
+      "added_to_queue": "2026-09-17T12:33:08.501Z"
+    },
+    {
+      "name": "apollo-angular",
+      "html_url": "https://github.com/the-guild-org/apollo-angular",
+      "description": "A fully-featured, production ready caching GraphQL client for Angular and every GraphQL server 🎁",
+      "topics": [
+        "angular",
+        "apollo-client",
+        "apollographql",
+        "graphql",
+        "graphql-client",
+        "the-guild",
+        "typescript"
+      ],
+      "stargazers_count": 1515,
+      "pushed_at": "2026-09-11T07:48:47Z",
+      "added_to_queue": "2026-09-17T12:33:08.501Z"
+    },
+    {
+      "name": "amcharts4",
+      "html_url": "https://github.com/amcharts/amcharts4",
+      "description": "The most advanced amCharts charting library for JavaScript and TypeScript apps.",
+      "topics": [
+        "amcharts",
+        "chart",
+        "charting",
+        "charting-library",
+        "charts",
+        "data-visualization",
+        "data-viz",
+        "dataviz",
+        "graph",
+        "javascript",
+        "maps",
+        "svg",
+        "typescript",
+        "visualization"
+      ],
+      "stargazers_count": 1173,
+      "pushed_at": "2026-03-23T14:16:07Z",
+      "added_to_queue": "2026-09-17T12:33:08.501Z"
+    },
+    {
+      "name": "embed-pdf-viewer",
+      "html_url": "https://github.com/embedpdf/embed-pdf-viewer",
+      "description": "A PDF viewer that seamlessly integrates with any JavaScript project",
+      "topics": [
+        "adobe-acrobat",
+        "angular-pdf",
+        "javascript",
+        "pdf",
+        "pdf-document",
+        "pdf-editor",
+        "pdf-library",
+        "pdf-sdk",
+        "pdf-tools",
+        "pdf-viewer",
+        "pdfium",
+        "pdfjs",
+        "react-pdf",
+        "svelte-pdf",
+        "typescript",
+        "vue-pdf"
+      ],
+      "stargazers_count": 4491,
+      "pushed_at": "2026-09-16T20:52:02Z",
+      "added_to_queue": "2026-09-17T12:33:08.501Z"
+    },
+    {
+      "name": "nodepress",
+      "html_url": "https://github.com/surmon-china/nodepress",
+      "description": "🟢 A production-grade headless CMS API service for surmon.me, built with @nestjs.",
+      "topics": [
+        "blog",
+        "blog-api",
+        "blog-engine",
+        "cms",
+        "cms-framework",
+        "jwt-token",
+        "mongodb",
+        "mongoose",
+        "nestjs",
+        "nestjs-blog",
+        "nestjs-cms",
+        "nestjs-webhook",
+        "nodejs",
+        "nodejs-blog",
+        "nodejs-cms",
+        "nodejs-typescript",
+        "nodepress",
+        "oauth2",
+        "restful-api",
+        "typescript"
+      ],
+      "stargazers_count": 1524,
+      "pushed_at": "2026-06-19T07:06:44Z",
+      "added_to_queue": "2026-09-17T12:33:08.501Z"
+    },
+    {
+      "name": "flipt",
+      "html_url": "https://github.com/flipt-io/flipt",
+      "description": "Enterprise-ready, Git native feature management solution",
+      "topics": [
+        "cloudnative",
+        "continuous-delivery",
+        "devops",
+        "devtools",
+        "feature-flags",
+        "feature-toggles",
+        "gitops",
+        "go",
+        "golang",
+        "grpc",
+        "grpc-gateway",
+        "hacktoberfest",
+        "observability",
+        "opentelemetry",
+        "react",
+        "redux",
+        "typescript"
+      ],
+      "stargazers_count": 4902,
+      "pushed_at": "2026-09-17T12:02:37Z",
+      "added_to_queue": "2026-09-17T12:33:08.501Z"
+    },
+    {
+      "name": "wire-webapp",
+      "html_url": "https://github.com/wireapp/wire-webapp",
+      "description": "👽 Wire for web",
+      "topics": [
+        "end-to-end-encryption",
+        "hacktober",
+        "hacktoberfest",
+        "javascript",
+        "knockout",
+        "libsodium",
+        "messenger",
+        "reactjs",
+        "typescript",
+        "webapp",
+        "wire"
+      ],
+      "stargazers_count": 1192,
+      "pushed_at": "2026-09-17T12:12:49Z",
+      "added_to_queue": "2026-09-17T12:33:08.501Z"
+    },
+    {
+      "name": "vibe.j2team.org",
+      "html_url": "https://github.com/J2TEAM/vibe.j2team.org",
+      "description": "Sẽ thế nào nếu cả nhóm J2TEAM Community vibe code cùng nhau?",
+      "topics": [
+        "giscus",
+        "iconify",
+        "pinia",
+        "shiki",
+        "tailwindcss",
+        "typescript",
+        "vite",
+        "vue-router",
+        "vue3"
+      ],
+      "stargazers_count": 865,
+      "pushed_at": "2026-04-07T04:28:57Z",
+      "added_to_queue": "2026-09-17T12:33:08.502Z"
+    },
+    {
+      "name": "ngx-mask",
+      "html_url": "https://github.com/NepipenkoIgor/ngx-mask",
+      "description": "Angular Plugin to make masks on form fields and html elements.",
+      "topics": [
+        "angular",
+        "character",
+        "decimals",
+        "decimals-enter",
+        "dot-separator",
+        "eparator",
+        "input",
+        "input-mask",
+        "mask",
+        "mask-options",
+        "ng",
+        "ngx",
+        "ngx-mask",
+        "percent",
+        "pipe",
+        "special-characters",
+        "sufix",
+        "symbol",
+        "typescript",
+        "web"
+      ],
+      "stargazers_count": 1244,
+      "pushed_at": "2026-09-11T09:55:48Z",
+      "added_to_queue": "2026-09-17T12:33:08.502Z"
+    },
+    {
+      "name": "webui",
+      "html_url": "https://github.com/webui-dev/webui",
+      "description": "Use any web browser or WebView as GUI, with your preferred language in the backend and modern web technologies in the frontend, all in a lightweight portable library.",
+      "topics": [
+        "browser",
+        "cpp",
+        "gui",
+        "javascript",
+        "typescript",
+        "web",
+        "webapp",
+        "webui"
+      ],
+      "stargazers_count": 4601,
+      "pushed_at": "2026-08-14T21:24:32Z",
+      "added_to_queue": "2026-09-17T12:33:08.502Z"
+    },
+    {
+      "name": "diff2html",
+      "html_url": "https://github.com/rtfpessoa/diff2html",
+      "description": "Pretty diff to html javascript library (diff2html)",
+      "topics": [
+        "colorized",
+        "diff",
+        "diff2html",
+        "git",
+        "hacktoberfest",
+        "html",
+        "javascript",
+        "parser",
+        "pretty",
+        "syntax-highlighting",
+        "typescript",
+        "unified-diffs"
+      ],
+      "stargazers_count": 3408,
+      "pushed_at": "2026-05-08T22:05:30Z",
+      "added_to_queue": "2026-09-17T12:33:08.502Z"
+    },
+    {
+      "name": "dependency-cruiser",
+      "html_url": "https://github.com/sverweij/dependency-cruiser",
+      "description": "Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD.",
+      "topics": [
+        "architecture-diagram",
+        "circular-dependencies",
+        "dependencies",
+        "dependency-analysis",
+        "dependency-cruiser",
+        "dependency-graph",
+        "javascript",
+        "jsx",
+        "static-analysis",
+        "tsx",
+        "typescript",
+        "vue"
+      ],
+      "stargazers_count": 7188,
+      "pushed_at": "2026-09-16T17:30:16Z",
+      "added_to_queue": "2026-09-17T12:33:08.502Z"
+    },
+    {
+      "name": "zca-js",
+      "html_url": "https://github.com/RFS-ADRENO/zca-js",
+      "description": "Unofficial Zalo API for JavaScript",
+      "topics": [
+        "api",
+        "bun",
+        "javascript",
+        "nodejs",
+        "typescript",
+        "zalo"
+      ],
+      "stargazers_count": 634,
+      "pushed_at": "2026-09-09T16:28:05Z",
+      "added_to_queue": "2026-09-17T12:33:08.502Z"
+    },
+    {
+      "name": "nestjs",
+      "html_url": "https://github.com/golevelup/nestjs",
+      "description": "A collection of badass modules and utilities to help you level up your NestJS applications 🚀",
+      "topics": [
+        "event-management",
+        "express",
+        "graphql",
+        "hacktoberfest",
+        "hasura",
+        "javascript",
+        "microservices",
+        "nestjs",
+        "nodejs",
+        "plugins",
+        "rabbitmq",
+        "typescript",
+        "webhooks"
+      ],
+      "stargazers_count": 2747,
+      "pushed_at": "2026-09-15T17:43:10Z",
+      "added_to_queue": "2026-09-17T12:33:08.502Z"
+    },
+    {
+      "name": "ng-packagr",
+      "html_url": "https://github.com/ng-packagr/ng-packagr",
+      "description": "Compile and package Angular libraries in Angular Package Format (APF)",
+      "topics": [
+        "angular",
+        "angular-cli",
+        "angular-library",
+        "angular-package-format",
+        "component-library",
+        "css",
+        "html",
+        "less",
+        "scss",
+        "stylus",
+        "typescript"
+      ],
+      "stargazers_count": 1858,
+      "pushed_at": "2026-09-16T12:00:24Z",
+      "added_to_queue": "2026-09-17T12:33:08.502Z"
+    },
+    {
+      "name": "clean-react",
+      "html_url": "https://github.com/rmanguinho/clean-react",
+      "description": "Sistema em ReactJs usando Hooks, Typescript, TDD, Clean Architecture, Design Patterns e SOLID principles",
+      "topics": [
+        "clean-architecture",
+        "clean-code",
+        "design-pattern",
+        "hooks",
+        "javascript",
+        "react",
+        "reactjs",
+        "recoil",
+        "tdd",
+        "typescript"
+      ],
+      "stargazers_count": 1478,
+      "pushed_at": "2026-09-09T19:39:02Z",
+      "added_to_queue": "2026-09-17T12:33:08.502Z"
+    },
+    {
+      "name": "nutui-react",
+      "html_url": "https://github.com/jdf2e/nutui-react",
+      "description": "京东风格的移动端 React 组件库 、支持多端小程序(A React UI Toolkit for Mobile Web)",
+      "topics": [
+        "nutui-react",
+        "react-components",
+        "typescript",
+        "ui-kit",
+        "ui-library"
+      ],
+      "stargazers_count": 1212,
+      "pushed_at": "2026-09-07T03:07:50Z",
+      "added_to_queue": "2026-09-17T12:33:08.502Z"
+    },
+    {
+      "name": "semaphore",
+      "html_url": "https://github.com/semaphore-protocol/semaphore",
+      "description": "A zero-knowledge protocol for anonymous interactions.",
+      "topics": [
+        "circom",
+        "ethereum",
+        "hacktoberfest",
+        "javascript",
+        "monorepo",
+        "proof-of-membership",
+        "semaphore",
+        "solidity",
+        "typescript",
+        "zero-knowledge",
+        "zero-knowledge-proofs",
+        "zk-snarks"
+      ],
+      "stargazers_count": 1086,
+      "pushed_at": "2026-09-15T18:58:46Z",
+      "added_to_queue": "2026-09-17T12:33:08.505Z"
+    },
+    {
+      "name": "panel",
+      "html_url": "https://github.com/remnawave/panel",
+      "description": "A powerful proxy management tool, built on top of Xray-core, with a focus on simplicity and ease of use.",
+      "topics": [
+        "censorship-resistant",
+        "nestjs",
+        "proxy-management",
+        "remnawave",
+        "trojan-gfw",
+        "typescript",
+        "vless",
+        "xray",
+        "xtls-core"
+      ],
+      "stargazers_count": 5074,
+      "pushed_at": "2026-09-12T15:07:11Z",
+      "added_to_queue": "2026-09-17T12:33:08.505Z"
+    },
+    {
+      "name": "client-sdk-js",
+      "html_url": "https://github.com/livekit/client-sdk-js",
+      "description": "LiveKit browser client SDK (javascript)",
+      "topics": [
+        "javascript",
+        "typescript",
+        "webrtc"
+      ],
+      "stargazers_count": 653,
+      "pushed_at": "2026-09-16T16:07:27Z",
+      "added_to_queue": "2026-09-17T12:33:08.505Z"
+    },
+    {
+      "name": "tsed",
+      "html_url": "https://github.com/tsedio/tsed",
+      "description": ":triangular_ruler: Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone. ⭐️ Star to support our work!",
+      "topics": [
+        "cli",
+        "contribution",
+        "decorators",
+        "dependency-injection",
+        "express",
+        "hacktoberfest",
+        "ioc",
+        "koa",
+        "lifecycle-hooks",
+        "middleware",
+        "multer",
+        "nodejs",
+        "nodejs-api",
+        "nodejs-framework",
+        "open-source",
+        "rest-api",
+        "socket-io",
+        "swagger",
+        "typescript",
+        "typescript-framework"
+      ],
+      "stargazers_count": 3086,
+      "pushed_at": "2026-09-16T08:36:19Z",
+      "added_to_queue": "2026-09-17T12:33:08.505Z"
+    },
+    {
+      "name": "react-md",
+      "html_url": "https://github.com/mlaursen/react-md",
+      "description": "React material design - An accessible React component library built from the Material Design guidelines in Sass",
+      "topics": [
+        "accessibility",
+        "component-library",
+        "components",
+        "material",
+        "material-components",
+        "material-design",
+        "react",
+        "react-md",
+        "scss",
+        "typescript"
+      ],
+      "stargazers_count": 2324,
+      "pushed_at": "2026-08-01T20:33:18Z",
+      "added_to_queue": "2026-09-17T12:33:08.505Z"
+    },
+    {
+      "name": "terminal",
+      "html_url": "https://github.com/m4tt72/terminal",
+      "description": "Terminal style website",
+      "topics": [
+        "javascript",
+        "open-source",
+        "portfolio",
+        "svelte",
+        "terminal",
+        "terminal-based",
+        "typescript",
+        "web-terminal"
+      ],
+      "stargazers_count": 1564,
+      "pushed_at": "2026-08-20T07:32:33Z",
+      "added_to_queue": "2026-09-17T12:33:08.505Z"
+    },
+    {
+      "name": "cli",
+      "html_url": "https://github.com/Shopify/cli",
+      "description": "Build apps, themes, and hydrogen storefronts for Shopify",
+      "topics": [
+        "cli",
+        "oclif",
+        "shopify",
+        "shopify-apps",
+        "shopify-themes",
+        "typescript"
+      ],
+      "stargazers_count": 746,
+      "pushed_at": "2026-09-17T12:06:46Z",
+      "added_to_queue": "2026-09-17T12:33:08.505Z"
+    },
+    {
+      "name": "git-city",
+      "html_url": "https://github.com/srizzon/git-city",
+      "description": "Your GitHub profile as a 3D pixel art building in an interactive city",
+      "topics": [
+        "3d",
+        "github",
+        "nextjs",
+        "pixel-art",
+        "react",
+        "react-three-fiber",
+        "supabase",
+        "three-js",
+        "threejs",
+        "typescript",
+        "visualization"
+      ],
+      "stargazers_count": 5783,
+      "pushed_at": "2026-09-04T13:37:40Z",
+      "added_to_queue": "2026-09-17T12:33:08.505Z"
+    },
+    {
+      "name": "flow",
+      "html_url": "https://github.com/pacexy/flow",
+      "description": "Browser-based ePub reader",
+      "topics": [
+        "epub",
+        "epub-reader",
+        "nextjs",
+        "pwa",
+        "react",
+        "reactjs",
+        "reader",
+        "typescript"
+      ],
+      "stargazers_count": 3325,
+      "pushed_at": "2026-03-28T00:18:30Z",
+      "added_to_queue": "2026-09-17T12:33:08.505Z"
+    },
+    {
+      "name": "checkcle",
+      "html_url": "https://github.com/operacle/checkcle",
+      "description": "CheckCle is a self-hosted, open-source monitoring platform for seamless, real-time full-stack systems, applications, and infrastructure. It provides real-time uptime monitoring, distributed checks, incident tracking, and alerts. All deployable anywhere.",
+      "topics": [
+        "alternative",
+        "api",
+        "checkcle",
+        "container",
+        "docker",
+        "full-stack",
+        "go",
+        "infrastructure",
+        "monitoring",
+        "open-source",
+        "oss",
+        "pocketbase",
+        "realtime",
+        "self-hosted",
+        "server",
+        "typescript",
+        "uptime"
+      ],
+      "stargazers_count": 3256,
+      "pushed_at": "2026-07-17T02:51:25Z",
+      "added_to_queue": "2026-09-17T12:33:08.505Z"
+    },
+    {
+      "name": "runtypes",
+      "html_url": "https://github.com/runtypes/runtypes",
+      "description": "Runtime validation for static types",
+      "topics": [
+        "runtime",
+        "types",
+        "typescript",
+        "validation"
+      ],
+      "stargazers_count": 2700,
+      "pushed_at": "2026-08-14T04:13:17Z",
+      "added_to_queue": "2026-09-17T12:33:46.815Z"
+    },
+    {
+      "name": "folia-major",
+      "html_url": "https://github.com/chthollyphile/folia-major",
+      "description": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器",
+      "topics": [
+        "ai",
+        "music",
+        "music-player",
+        "navidrome-client",
+        "netease-music",
+        "player",
+        "pwa",
+        "react",
+        "typescript",
+        "vercel-deployment"
+      ],
+      "stargazers_count": 2699,
+      "pushed_at": "2026-09-15T00:54:47Z",
+      "added_to_queue": "2026-09-17T12:33:46.816Z"
+    },
+    {
+      "name": "Serenity",
+      "html_url": "https://github.com/serenity-is/Serenity",
+      "description": "Business Apps Made Simple with Asp.Net Core MVC / TypeScript",
+      "topics": [
+        "admin-dashboard",
+        "admin-panel",
+        "aspnet",
+        "business-application",
+        "code-generation",
+        "crud",
+        "csharp",
+        "datagrid",
+        "dotnet",
+        "full-stack",
+        "mvc",
+        "orm",
+        "serenity",
+        "serenity-is",
+        "serenity-platform",
+        "typescript",
+        "web-framework"
+      ],
+      "stargazers_count": 2691,
+      "pushed_at": "2026-09-16T21:56:05Z",
+      "added_to_queue": "2026-09-17T12:33:46.816Z"
+    },
+    {
+      "name": "biu",
+      "html_url": "https://github.com/wood3n/biu",
+      "description": "Bilibili音乐播放器",
+      "topics": [
+        "bilibili",
+        "electron",
+        "music-player",
+        "react",
+        "rsbuild",
+        "typescript"
+      ],
+      "stargazers_count": 2677,
+      "pushed_at": "2026-09-16T01:14:54Z",
+      "added_to_queue": "2026-09-17T12:33:46.816Z"
+    },
+    {
+      "name": "biomes-game",
+      "html_url": "https://github.com/ill-inc/biomes-game",
+      "description": "Biomes is an open source sandbox MMORPG built for the web using web technologies such as Next.js, Typescript, React and WebAssembly.",
+      "topics": [
+        "browser",
+        "browser-game",
+        "engine",
+        "games",
+        "mmo",
+        "mmorpg-game",
+        "mmorpg-server",
+        "nextjs",
+        "nodejs",
+        "react",
+        "reactjs"
+      ],
+      "stargazers_count": 2676,
+      "pushed_at": "2026-05-16T17:45:44Z",
+      "added_to_queue": "2026-09-17T12:33:46.816Z"
+    },
+    {
+      "name": "comby",
+      "html_url": "https://github.com/comby-tools/comby",
+      "description": "A code rewrite tool for structural search and replace that supports ~every language.",
+      "topics": [
+        "c",
+        "go",
+        "java",
+        "javascript",
+        "linting",
+        "parser-combinators",
+        "parsing",
+        "php",
+        "program-transformation",
+        "python",
+        "reason",
+        "refactoring",
+        "regex",
+        "rewriting",
+        "rust",
+        "search-and-replace",
+        "swift",
+        "syntax",
+        "syntax-transformation",
+        "typescript"
+      ],
+      "stargazers_count": 2674,
+      "pushed_at": "2026-06-08T07:27:09Z",
+      "added_to_queue": "2026-09-17T12:33:46.816Z"
+    },
+    {
+      "name": "divkit",
+      "html_url": "https://github.com/divkit/divkit",
+      "description": "DivKit is an open source Server-Driven UI (SDUI) framework. SDUI is a an emerging technique that leverage the server to build the user interfaces of their mobile app",
+      "topics": [
+        "android",
+        "backend-driven-ui",
+        "bdui",
+        "divkit",
+        "ios",
+        "json",
+        "kotlin",
+        "sdui",
+        "server-driven-ui",
+        "swift",
+        "typescript",
+        "web"
+      ],
+      "stargazers_count": 2670,
+      "pushed_at": "2026-09-17T12:22:58Z",
+      "added_to_queue": "2026-09-17T12:33:46.816Z"
+    },
+    {
+      "name": "vest",
+      "html_url": "https://github.com/ealush/vest",
+      "description": "Vest ✅ Declarative validations framework",
+      "topics": [
+        "form",
+        "form-validation",
+        "forms",
+        "hacktoberfest",
+        "javascript",
+        "react-validation",
+        "react-validation-library",
+        "svelte-validation",
+        "typescript",
+        "unit-testing",
+        "validation",
+        "validation-library",
+        "vue-validation"
+      ],
+      "stargazers_count": 2663,
+      "pushed_at": "2026-09-17T03:51:04Z",
+      "added_to_queue": "2026-09-17T12:33:46.816Z"
+    },
+    {
+      "name": "components",
+      "html_url": "https://github.com/cloudscape-design/components",
+      "description": "React components for Cloudscape Design System",
+      "topics": [
+        "components",
+        "design-system",
+        "react",
+        "scss",
+        "typescript"
+      ],
+      "stargazers_count": 2647,
+      "pushed_at": "2026-09-17T12:30:43Z",
+      "added_to_queue": "2026-09-17T12:33:46.816Z"
+    },
+    {
+      "name": "developer-icons",
+      "html_url": "https://github.com/xandemon/developer-icons",
+      "description": "A collection of well-optimized SVG tech logos for developers and designers—customizable, scalable, and free.",
+      "topics": [
+        "astro",
+        "github-action",
+        "icons",
+        "logos",
+        "npm",
+        "npm-packages",
+        "npmjs",
+        "open-source",
+        "optimized",
+        "react",
+        "react-libraries",
+        "svg",
+        "svg-icon",
+        "svg-images",
+        "tailwindcss",
+        "typescript",
+        "vector-icons",
+        "vite"
+      ],
+      "stargazers_count": 2632,
+      "pushed_at": "2026-08-08T12:33:35Z",
+      "added_to_queue": "2026-09-17T12:33:46.816Z"
+    },
+    {
+      "name": "laudspeaker",
+      "html_url": "https://github.com/laudspeaker/laudspeaker",
+      "description": "📢 Laudspeaker is an Open Source Customer Engagement and Product Onboarding Platform. Open Source alternative to Braze / One Signal / Customer Io / Appcues / Pendo . Use Laudspeaker to design product onboarding flows and send product and event triggered emails, sms, push and more.",
+      "topics": [
+        "checklist-guides",
+        "customer-engagement",
+        "customer-journey",
+        "email-marketing",
+        "finite-state-machine",
+        "growth-eng",
+        "nestjs",
+        "nodejs",
+        "omnichannel",
+        "onboarding",
+        "product-adoption",
+        "push-notifications",
+        "pushnotifications",
+        "react",
+        "setup-wizard",
+        "sms-marketing",
+        "state-machine",
+        "state-machines",
+        "typescript",
+        "user-onboarding"
+      ],
+      "stargazers_count": 2622,
+      "pushed_at": "2026-07-10T17:26:33Z",
+      "added_to_queue": "2026-09-17T12:33:46.816Z"
+    },
+    {
+      "name": "kiwi",
+      "html_url": "https://github.com/alibaba/kiwi",
+      "description": "🐤 Kiwi-国际化翻译全流程解决方案",
+      "topics": [
+        "g11n",
+        "i18n",
+        "intl",
+        "translation",
+        "typescript"
+      ],
+      "stargazers_count": 2621,
+      "pushed_at": "2026-06-17T12:51:00Z",
+      "added_to_queue": "2026-09-17T12:33:46.816Z"
+    },
+    {
+      "name": "pothos",
+      "html_url": "https://github.com/hayes/pothos",
+      "description": "Pothos GraphQL is library for creating GraphQL schemas in typescript using a strongly typed code first approach",
+      "topics": [
+        "graphql",
+        "typescript"
+      ],
+      "stargazers_count": 2615,
+      "pushed_at": "2026-09-14T23:50:37Z",
+      "added_to_queue": "2026-09-17T12:33:46.816Z"
+    },
+    {
+      "name": "fingerprint-suite",
+      "html_url": "https://github.com/apify/fingerprint-suite",
+      "description": "Browser fingerprinting tools for anonymizing your scrapers. Developed by Apify.",
+      "topics": [
+        "fingerprinting",
+        "playwright",
+        "puppeteer",
+        "scraping",
+        "typescript"
+      ],
+      "stargazers_count": 2599,
+      "pushed_at": "2026-09-03T09:58:09Z",
+      "added_to_queue": "2026-09-17T12:33:46.816Z"
+    },
+    {
+      "name": "vue3-element-admin",
+      "html_url": "https://github.com/youlaitech/vue3-element-admin",
+      "description": "🔥基于 Vue 3 + Vite 7+ TypeScript + element-plus 构建的后台管理前端模板（配套后端源码），vue-element-admin 的 vue3 版本。",
+      "topics": [
+        "element-plus",
+        "typescipt",
+        "vite",
+        "vue",
+        "vue-admin",
+        "vue-element-admin",
+        "vue-router",
+        "vue3",
+        "vue3-element-admin"
+      ],
+      "stargazers_count": 2595,
+      "pushed_at": "2026-08-15T08:22:51Z",
+      "added_to_queue": "2026-09-17T12:33:46.816Z"
+    },
+    {
+      "name": "croner",
+      "html_url": "https://github.com/Hexagon/croner",
+      "description": "Trigger functions or evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most features. Node. Deno. Bun. Browser.",
+      "topics": [
+        "cron",
+        "crontab",
+        "crontab-syntax",
+        "deno",
+        "javascript",
+        "javascript-cron-parser",
+        "javascript-cron-scheduler",
+        "job",
+        "parser",
+        "schedule",
+        "scheduler",
+        "scheduling",
+        "task",
+        "timer",
+        "typescript"
+      ],
+      "stargazers_count": 2592,
+      "pushed_at": "2026-08-31T23:16:54Z",
+      "added_to_queue": "2026-09-17T12:33:46.816Z"
+    },
+    {
+      "name": "md-editor-v3",
+      "html_url": "https://github.com/imzbf/md-editor-v3",
+      "description": "Markdown editor for vue3, developed in jsx and typescript, dark theme、beautify content by prettier、render articles directly、paste or clip the picture and upload it...",
+      "topics": [
+        "editor",
+        "jsx",
+        "markdown",
+        "markdown-editor",
+        "theme",
+        "tsx",
+        "vue",
+        "vue3"
+      ],
+      "stargazers_count": 2592,
+      "pushed_at": "2026-09-16T10:17:40Z",
+      "added_to_queue": "2026-09-17T12:33:46.816Z"
+    },
+    {
+      "name": "tempo",
+      "html_url": "https://github.com/formkit/tempo",
+      "description": "📆 Parse, format, manipulate, and internationalize dates and times in JavaScript and TypeScript.",
+      "topics": [
+        "date",
+        "date-formatting",
+        "datetime",
+        "javascript",
+        "time",
+        "time-formatting",
+        "typescript"
+      ],
+      "stargazers_count": 2587,
+      "pushed_at": "2026-07-01T16:01:30Z",
+      "added_to_queue": "2026-09-17T12:33:46.816Z"
+    },
+    {
+      "name": "react-shopping-cart",
+      "html_url": "https://github.com/jeffersonRibeiro/react-shopping-cart",
+      "description": "🛍️ Simple ecommerce cart application built with Typescript and React",
+      "topics": [
+        "ecommerce",
+        "ecommerce-cart-application",
+        "firebase",
+        "javascript",
+        "react",
+        "react-context",
+        "react-hooks",
+        "react-shopping-cart",
+        "reactjs",
+        "shopping-cart",
+        "styled-components",
+        "typescript"
+      ],
+      "stargazers_count": 2581,
+      "pushed_at": "2026-08-12T20:08:03Z",
+      "added_to_queue": "2026-09-17T12:33:46.816Z"
+    },
+    {
+      "name": "create-expo-stack",
+      "html_url": "https://github.com/roninoss/create-expo-stack",
+      "description": "CLI tool to initialize a React Native application with Expo. Provides options to include Typescript, file-based routing via Expo Router, configuration based routing via pure React Navigation, styling via Nativewind, Restyle, Unistyles, StyleSheets, or Tamagui, and/or backend as a service such as Firebase and Supabase.",
+      "topics": [
+        "boilerplate",
+        "cli",
+        "expo",
+        "expo-cli",
+        "expo-router",
+        "expo-template",
+        "firebase",
+        "nativewind",
+        "react-native",
+        "react-native-template",
+        "supabase",
+        "tailwindcss",
+        "tamagui",
+        "template",
+        "templates",
+        "typescript"
+      ],
+      "stargazers_count": 2572,
+      "pushed_at": "2026-09-17T03:29:40Z",
+      "added_to_queue": "2026-09-17T12:33:46.817Z"
+    },
+    {
+      "name": "typescript-language-server",
+      "html_url": "https://github.com/typescript-language-server/typescript-language-server",
+      "description": "Unofficial TypeScript & JavaScript Language Server",
+      "topics": [
+        "hacktoberfest",
+        "language-server",
+        "language-server-protocol",
+        "lsp",
+        "typescript"
+      ],
+      "stargazers_count": 2564,
+      "pushed_at": "2026-09-16T20:43:45Z",
+      "added_to_queue": "2026-09-17T12:33:46.817Z"
+    },
+    {
+      "name": "morphicons",
+      "html_url": "https://github.com/guillermolg00/morphicons",
+      "description": "Any icon morphs into any other — universal morphing for stroke-based icons with spring physics. Zero dependencies, ~7 KB gzip.",
+      "topics": [
+        "animation",
+        "icons",
+        "morphing",
+        "react",
+        "svg",
+        "typescript"
+      ],
+      "stargazers_count": 2562,
+      "pushed_at": "2026-09-14T22:08:53Z",
+      "added_to_queue": "2026-09-17T12:33:46.817Z"
+    },
+    {
+      "name": "TypeScript-Website",
+      "html_url": "https://github.com/microsoft/TypeScript-Website",
+      "description": "The Website and web infrastructure for learning TypeScript",
+      "topics": [],
+      "stargazers_count": 2555,
+      "pushed_at": "2026-09-10T23:56:13Z",
+      "added_to_queue": "2026-09-17T12:33:46.817Z"
+    },
+    {
+      "name": "TypeScriptToLua",
+      "html_url": "https://github.com/TypeScriptToLua/TypeScriptToLua",
+      "description": "Typescript to lua transpiler. https://typescripttolua.github.io/",
+      "topics": [
+        "compiler",
+        "converter",
+        "lua",
+        "lua-transpiler",
+        "transpiler",
+        "typescript"
+      ],
+      "stargazers_count": 2542,
+      "pushed_at": "2026-07-09T19:34:11Z",
+      "added_to_queue": "2026-09-17T12:33:46.817Z"
+    },
+    {
+      "name": "kentcdodds.com",
+      "html_url": "https://github.com/kentcdodds/kentcdodds.com",
+      "description": "My personal website",
+      "topics": [
+        "kentcdodds",
+        "oss",
+        "prisma",
+        "react",
+        "remix",
+        "sqlite",
+        "typescript",
+        "website"
+      ],
+      "stargazers_count": 2495,
+      "pushed_at": "2026-09-16T05:45:36Z",
+      "added_to_queue": "2026-09-17T12:33:46.817Z"
+    },
+    {
+      "name": "magicast",
+      "html_url": "https://github.com/unjs/magicast",
+      "description": "🧀 Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel.",
+      "topics": [],
+      "stargazers_count": 2477,
+      "pushed_at": "2026-09-17T04:34:11Z",
+      "added_to_queue": "2026-09-17T12:33:46.817Z"
+    },
+    {
+      "name": "typesafe-i18n",
+      "html_url": "https://github.com/codingcommons/typesafe-i18n",
+      "description": "A fully type-safe and lightweight internationalization library for all your TypeScript and JavaScript projects.",
+      "topics": [
+        "angular",
+        "angular2",
+        "i18n",
+        "internationalization",
+        "javascript",
+        "lightweight",
+        "localization",
+        "nodejs",
+        "react",
+        "solid",
+        "svelte",
+        "typescript",
+        "vue"
+      ],
+      "stargazers_count": 2475,
+      "pushed_at": "2026-03-22T20:28:52Z",
+      "added_to_queue": "2026-09-17T12:33:46.817Z"
+    },
+    {
+      "name": "awesome-cordova-plugins",
+      "html_url": "https://github.com/danielsogl/awesome-cordova-plugins",
+      "description": "Native features for mobile apps built with Cordova/PhoneGap and open web technologies. Complete with TypeScript support.",
+      "topics": [
+        "angular",
+        "cordova",
+        "cordova-plugin",
+        "ionic",
+        "ionic-framework"
+      ],
+      "stargazers_count": 2452,
+      "pushed_at": "2026-09-15T08:29:41Z",
+      "added_to_queue": "2026-09-17T12:33:46.817Z"
+    },
+    {
+      "name": "neodrag",
+      "html_url": "https://github.com/PuruVJ/neodrag",
+      "description": "One Draggable to rule them all 💍",
+      "topics": [
+        "draggable",
+        "javascript",
+        "svelte",
+        "typescript"
+      ],
+      "stargazers_count": 2452,
+      "pushed_at": "2026-08-10T10:53:37Z",
+      "added_to_queue": "2026-09-17T12:33:46.817Z"
+    },
+    {
+      "name": "WebCord",
+      "html_url": "https://github.com/SpacingBat3/WebCord",
+      "description": "A Discord and SpaceBar :electron:-based client implemented without Discord API.",
+      "topics": [
+        "aarch64",
+        "app",
+        "arm",
+        "arm64",
+        "armhf",
+        "armv7",
+        "armv7l",
+        "discord",
+        "discord-css",
+        "discord-theme",
+        "discord-web",
+        "electron",
+        "electron-discord",
+        "fosscord",
+        "javascript",
+        "nodejs",
+        "spacebar",
+        "typescript",
+        "web",
+        "webapp"
+      ],
+      "stargazers_count": 2444,
+      "pushed_at": "2026-09-16T09:32:12Z",
+      "added_to_queue": "2026-09-17T12:33:46.817Z"
+    },
+    {
+      "name": "miso",
+      "html_url": "https://github.com/dmjio/miso",
+      "description": ":ramen: A tasty Haskell web and mobile framework",
+      "topics": [
+        "ghc",
+        "ghcjs",
+        "haskell",
+        "javascript",
+        "miso",
+        "nix",
+        "ramen",
+        "typescript",
+        "ui",
+        "virtual-dom",
+        "wasm",
+        "web-assembly"
+      ],
+      "stargazers_count": 2435,
+      "pushed_at": "2026-09-13T21:14:43Z",
+      "added_to_queue": "2026-09-17T12:33:46.817Z"
+    },
+    {
+      "name": "mnemonist",
+      "html_url": "https://github.com/Yomguithereal/mnemonist",
+      "description": "Curated collection of data structures for the JavaScript/TypeScript language.",
+      "topics": [
+        "data-structure"
+      ],
+      "stargazers_count": 2433,
+      "pushed_at": "2026-04-30T09:45:20Z",
+      "added_to_queue": "2026-09-17T12:33:46.817Z"
+    },
+    {
+      "name": "html-react-parser",
+      "html_url": "https://github.com/remarkablemark/html-react-parser",
+      "description": "📝 HTML to React parser.",
+      "topics": [
+        "dom",
+        "html",
+        "html-react-parser",
+        "javascript",
+        "jsx",
+        "library",
+        "npm",
+        "package",
+        "parse",
+        "parser",
+        "react",
+        "react-parser",
+        "typescript"
+      ],
+      "stargazers_count": 2427,
+      "pushed_at": "2026-09-17T06:02:58Z",
+      "added_to_queue": "2026-09-17T12:33:46.817Z"
+    },
+    {
+      "name": "tapjs",
+      "html_url": "https://github.com/tapjs/tapjs",
+      "description": "Test Anything Protocol tools for node",
+      "topics": [
+        "assert",
+        "bdd",
+        "code-coverage",
+        "commonjs",
+        "esm",
+        "framework",
+        "node",
+        "tap",
+        "tdd",
+        "test",
+        "testanythingprotocol",
+        "testing",
+        "typescript"
+      ],
+      "stargazers_count": 2423,
+      "pushed_at": "2026-09-03T23:20:19Z",
+      "added_to_queue": "2026-09-17T12:33:46.817Z"
+    },
+    {
+      "name": "actionhero",
+      "html_url": "https://github.com/actionhero/actionhero",
+      "description": "Actionhero is a realtime multi-transport nodejs API Server with integrated cluster capabilities and delayed tasks",
+      "topics": [
+        "actionhero",
+        "api",
+        "api-server",
+        "async-await",
+        "cluster",
+        "delayed-jobs",
+        "delayed-tasks",
+        "framework",
+        "frameworks",
+        "http",
+        "https",
+        "javascript",
+        "nodejs",
+        "server",
+        "socket-client",
+        "tcp",
+        "ts",
+        "typescript",
+        "websocket"
+      ],
+      "stargazers_count": 2414,
+      "pushed_at": "2026-07-23T00:53:19Z",
+      "added_to_queue": "2026-09-17T12:33:46.817Z"
+    },
+    {
+      "name": "typesafe-actions",
+      "html_url": "https://github.com/piotrwitek/typesafe-actions",
+      "description": "Typesafe utilities for \"action-creators\" in Redux / Flux Architecture",
+      "topics": [
+        "action-creator",
+        "javascript",
+        "redux",
+        "redux-actions",
+        "static-typing",
+        "typescript"
+      ],
+      "stargazers_count": 2402,
+      "pushed_at": "2026-05-09T10:56:30Z",
+      "added_to_queue": "2026-09-17T12:33:46.817Z"
+    },
+    {
+      "name": "keystatic",
+      "html_url": "https://github.com/Thinkmill/keystatic",
+      "description": "First class CMS experience, TypeScript API, Markdown & YAML/JSON based, no DB",
+      "topics": [
+        "cms",
+        "content-management-system",
+        "javascript",
+        "json",
+        "markdoc",
+        "markdown",
+        "static-content",
+        "typescript",
+        "yaml"
+      ],
+      "stargazers_count": 2395,
+      "pushed_at": "2026-09-08T01:15:06Z",
+      "added_to_queue": "2026-09-17T12:33:46.817Z"
+    },
+    {
+      "name": "buildadmin",
+      "html_url": "https://github.com/build-admin/buildadmin",
+      "description": "可视化生成CRUD代码、内置WEB终端、workerman常驻内存运行支持，技术栈为Vue3.x(setup)+ThinkPHP8+TypeScript+Vite+Pinia+Element Plus，自适应多端，同时提供Web和Server端、自动注册路由、无限级菜单权限节点、全局数据回收站、字段级修改保护等等，是集颜值、实用、敏捷于一身的管理系统。",
+      "topics": [
+        "admin",
+        "element-plus",
+        "php",
+        "thinkphp8",
+        "typescript",
+        "vite",
+        "vue3",
+        "workerman"
+      ],
+      "stargazers_count": 2383,
+      "pushed_at": "2026-09-17T07:34:59Z",
+      "added_to_queue": "2026-09-17T12:33:46.817Z"
+    },
+    {
+      "name": "signal",
+      "html_url": "https://github.com/ryohey/signal",
+      "description": "Online MIDI Editor: signal",
+      "topics": [
+        "audio",
+        "editor",
+        "midi",
+        "music",
+        "react",
+        "typescript",
+        "webaudio"
+      ],
+      "stargazers_count": 2375,
+      "pushed_at": "2026-08-26T12:09:47Z",
+      "added_to_queue": "2026-09-17T12:33:46.817Z"
+    },
+    {
+      "name": "node-oracledb",
+      "html_url": "https://github.com/oracle/node-oracledb",
+      "description": "Oracle Database driver for Node.js maintained by Oracle Corporation. Connect your JavaScript and TypeScript applications instantly to Oracle Database.",
+      "topics": [
+        "api",
+        "database",
+        "development",
+        "driver",
+        "interface",
+        "javascript",
+        "module",
+        "node",
+        "node-oracledb",
+        "nodejs",
+        "oracle",
+        "oracle-database-driver",
+        "typescript"
+      ],
+      "stargazers_count": 2368,
+      "pushed_at": "2026-08-12T12:15:59Z",
+      "added_to_queue": "2026-09-17T12:33:46.817Z"
+    },
+    {
+      "name": "SimpleWebAuthn",
+      "html_url": "https://github.com/MasterKale/SimpleWebAuthn",
+      "description": "WebAuthn, Simplified. A collection of TypeScript-first libraries for simpler WebAuthn integration. Supports modern browsers, Node, Deno, and more.",
+      "topics": [
+        "browser",
+        "commonjs",
+        "deno",
+        "denoland",
+        "esm",
+        "fido",
+        "node",
+        "passkeys",
+        "typescript",
+        "umd",
+        "webauthn"
+      ],
+      "stargazers_count": 2345,
+      "pushed_at": "2026-09-13T05:36:00Z",
+      "added_to_queue": "2026-09-17T12:33:46.817Z"
+    },
+    {
+      "name": "Excalibur",
+      "html_url": "https://github.com/excaliburjs/Excalibur",
+      "description": "🎮 Your friendly TypeScript 2D game engine for the web 🗡️",
+      "topics": [
+        "excalibur",
+        "excaliburjs",
+        "game-development",
+        "game-engine",
+        "game-framework",
+        "gamedev",
+        "games",
+        "html5-canvas",
+        "typescript"
+      ],
+      "stargazers_count": 2343,
+      "pushed_at": "2026-09-13T17:06:30Z",
+      "added_to_queue": "2026-09-17T12:33:46.817Z"
+    },
+    {
+      "name": "wacrm",
+      "html_url": "https://github.com/ArnasDon/wacrm",
+      "description": "Self-hostable CRM template for WhatsApp — shared inbox, contacts, sales pipelines, broadcasts, and no-code automations. Fork it, brand it, host it.",
+      "topics": [
+        "crm",
+        "nextjs",
+        "no-code",
+        "sales-pipeline",
+        "self-hosted",
+        "shared-inbox",
+        "supabase",
+        "typescript",
+        "whatsapp",
+        "whatsapp-business-api"
+      ],
+      "stargazers_count": 2343,
+      "pushed_at": "2026-09-17T07:25:49Z",
+      "added_to_queue": "2026-09-17T12:33:46.817Z"
+    },
+    {
+      "name": "file-viewer",
+      "html_url": "https://github.com/flyfish-dev/file-viewer",
+      "description": "Browser-native Office / PDF / CAD / archive viewer for internal web apps, with Vue, React, Svelte, jQuery, Web Components, and no server-side conversion.",
+      "topics": [
+        "cad-viewer",
+        "document-preview",
+        "document-viewer",
+        "docx",
+        "dwg",
+        "dxf",
+        "file-preview",
+        "file-viewer",
+        "office-viewer",
+        "offline-first",
+        "pdf-viewer",
+        "pptx",
+        "private-deployment",
+        "react",
+        "self-hosted",
+        "typescript",
+        "vue",
+        "wasm",
+        "web-components",
+        "xlsx"
+      ],
+      "stargazers_count": 2343,
+      "pushed_at": "2026-09-14T05:01:00Z",
+      "added_to_queue": "2026-09-17T12:33:46.817Z"
+    },
+    {
+      "name": "opensea-sdk",
+      "html_url": "https://github.com/ProjectOpenSea/opensea-sdk",
+      "description": "TypeScript SDK for the OpenSea marketplace",
+      "topics": [],
+      "stargazers_count": 2335,
+      "pushed_at": "2026-09-16T17:27:15Z",
+      "added_to_queue": "2026-09-17T12:33:46.817Z"
+    },
+    {
+      "name": "Artalk",
+      "html_url": "https://github.com/ArtalkJS/Artalk",
+      "description": "🌌 Your Self-hosted Comment System. | 自托管评论系统",
+      "topics": [
+        "artalk",
+        "blog",
+        "comment-system",
+        "commenting",
+        "comments",
+        "comments-widget",
+        "components",
+        "go",
+        "golang",
+        "messenger",
+        "react",
+        "self-hosted",
+        "solidjs",
+        "telegram",
+        "typescript",
+        "ui-components",
+        "vanilla-js",
+        "vue"
+      ],
+      "stargazers_count": 2335,
+      "pushed_at": "2026-09-11T01:33:49Z",
+      "added_to_queue": "2026-09-17T12:33:46.818Z"
+    },
+    {
+      "name": "typegoose",
+      "html_url": "https://github.com/typegoose/typegoose",
+      "description": "Typegoose - Define Mongoose models using TypeScript classes.",
+      "topics": [
+        "db",
+        "js",
+        "model",
+        "models",
+        "mongodb",
+        "mongoose",
+        "nodejs",
+        "odm",
+        "ts",
+        "typescript"
+      ],
+      "stargazers_count": 2310,
+      "pushed_at": "2026-09-09T10:04:58Z",
+      "added_to_queue": "2026-09-17T12:33:46.818Z"
+    },
+    {
+      "name": "typewind",
+      "html_url": "https://github.com/Mokshit06/typewind",
+      "description": "The safety of Typescript with the magic of Tailwind.",
+      "topics": [],
+      "stargazers_count": 2290,
+      "pushed_at": "2026-04-08T18:41:19Z",
+      "added_to_queue": "2026-09-17T12:33:46.818Z"
+    },
+    {
+      "name": "better-commits",
+      "html_url": "https://github.com/Everduin94/better-commits",
+      "description": "A CLI for creating better commits following the conventional commits specification",
+      "topics": [
+        "clack",
+        "cli",
+        "commit-message",
+        "git",
+        "typescript",
+        "zod"
+      ],
+      "stargazers_count": 2288,
+      "pushed_at": "2026-08-26T01:44:01Z",
+      "added_to_queue": "2026-09-17T12:33:46.818Z"
+    },
+    {
+      "name": "lume",
+      "html_url": "https://github.com/lumeland/lume",
+      "description": "🔥🪰 Static site generator for Deno",
+      "topics": [
+        "deno",
+        "eta",
+        "jsx",
+        "liquid",
+        "lume",
+        "markdown",
+        "nunjucks",
+        "postcss",
+        "react",
+        "static-site-generator",
+        "svgo",
+        "typescript",
+        "yaml"
+      ],
+      "stargazers_count": 2283,
+      "pushed_at": "2026-09-07T19:30:35Z",
+      "added_to_queue": "2026-09-17T12:33:46.818Z"
+    },
+    {
+      "name": "vocechat-web",
+      "html_url": "https://github.com/Privoce/vocechat-web",
+      "description": "VoceChat Web App",
+      "topics": [
+        "bot",
+        "chat",
+        "indexdb",
+        "pwa",
+        "react",
+        "redux-toolkit",
+        "typescript"
+      ],
+      "stargazers_count": 2273,
+      "pushed_at": "2026-09-08T06:22:46Z",
+      "added_to_queue": "2026-09-17T12:33:46.818Z"
+    },
+    {
+      "name": "polis",
+      "html_url": "https://github.com/ory/polis",
+      "description": "Streamline your web application's authentication with Polis, an SSO service supporting SAML and OpenID Connect protocols. Beyond enterprise-grade Single Sign-On, it also supports Directory Sync via the SCIM 2.0 protocol for automatic user and group provisioning/de-provisioning.",
+      "topics": [
+        "enterprise-software",
+        "hacktoberfest",
+        "identity-access-management",
+        "javascript",
+        "next-auth",
+        "nextjs",
+        "nodejs",
+        "oidc",
+        "open-source",
+        "openid",
+        "openid-connect",
+        "saml",
+        "saml-authentication",
+        "saml-identity-provider",
+        "saml-service-provider",
+        "saml2",
+        "single-sign-on",
+        "sso",
+        "sso-authentication",
+        "typescript"
+      ],
+      "stargazers_count": 2263,
+      "pushed_at": "2026-07-27T21:17:28Z",
+      "added_to_queue": "2026-09-17T12:33:46.818Z"
+    },
+    {
+      "name": "resolvers",
+      "html_url": "https://github.com/react-hook-form/resolvers",
+      "description": "📋 Validation resolvers: Yup, Zod, Superstruct, Joi, Vest, Class Validator, io-ts, Nope, computed-types, typanion, Ajv, TypeBox, ArkType, Valibot, effect-ts, VineJS and Standard Schema",
+      "topics": [
+        "ajv",
+        "class-validator",
+        "computed-types",
+        "form",
+        "form-validation",
+        "hacktoberfest",
+        "hooks",
+        "io-ts",
+        "joi",
+        "jsonschema",
+        "resolvers",
+        "schema-validation",
+        "superstruct",
+        "typebox",
+        "typescript",
+        "validation",
+        "yup",
+        "zod"
+      ],
+      "stargazers_count": 2260,
+      "pushed_at": "2026-09-17T09:27:52Z",
+      "added_to_queue": "2026-09-17T12:33:46.818Z"
+    },
+    {
+      "name": "TypeStat",
+      "html_url": "https://github.com/JoshuaKGoldberg/TypeStat",
+      "description": "Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫",
+      "topics": [
+        "conversion",
+        "javascript",
+        "mutations",
+        "static-analysis",
+        "typescript"
+      ],
+      "stargazers_count": 2255,
+      "pushed_at": "2026-09-17T12:18:01Z",
+      "added_to_queue": "2026-09-17T12:33:46.818Z"
+    },
+    {
+      "name": "react-codemirror",
+      "html_url": "https://github.com/uiwjs/react-codemirror",
+      "description": "CodeMirror 6 component for React. @codemirror https://uiwjs.github.io/react-codemirror/",
+      "topics": [
+        "codemirror",
+        "codemirror-themes",
+        "codemirror6",
+        "editor",
+        "hook",
+        "ide",
+        "react",
+        "react-codemirror",
+        "react-codemirror2",
+        "themes",
+        "typescript"
+      ],
+      "stargazers_count": 2251,
+      "pushed_at": "2026-07-08T16:38:31Z",
+      "added_to_queue": "2026-09-17T12:33:46.818Z"
+    },
+    {
+      "name": "tom-select",
+      "html_url": "https://github.com/orchidjs/tom-select",
+      "description": "Tom Select is a lightweight (~16kb gzipped) hybrid of a textbox and select box. Forked from selectize.js to provide a framework agnostic autocomplete widget with native-feeling keyboard navigation. Useful for tagging, contact lists, etc.",
+      "topics": [
+        "choice",
+        "choices",
+        "dropdown",
+        "input",
+        "javascript",
+        "select",
+        "select-multiple",
+        "select2",
+        "selectbox",
+        "typescript",
+        "vanilla-javascript",
+        "vanilla-js"
+      ],
+      "stargazers_count": 2226,
+      "pushed_at": "2026-09-09T13:32:20Z",
+      "added_to_queue": "2026-09-17T12:33:46.818Z"
+    },
+    {
+      "name": "alchemy-async",
+      "html_url": "https://github.com/alchemy-run/alchemy-async",
+      "description": "Infrastructure as TypeScript",
+      "topics": [],
+      "stargazers_count": 2211,
+      "pushed_at": "2026-08-01T05:50:09Z",
+      "added_to_queue": "2026-09-17T12:35:25.136Z"
+    },
+    {
+      "name": "umzug",
+      "html_url": "https://github.com/sequelize/umzug",
+      "description": "Framework agnostic migration tool for Node.js",
+      "topics": [
+        "javascript",
+        "migrations",
+        "sequelize",
+        "typescript"
+      ],
+      "stargazers_count": 2211,
+      "pushed_at": "2026-09-15T18:31:54Z",
+      "added_to_queue": "2026-09-17T12:35:25.136Z"
+    },
+    {
+      "name": "server",
+      "html_url": "https://github.com/spacebarchat/server",
+      "description": "Spacebar server - A reimplementation of the Discord.com backend, built with Typescript and love",
+      "topics": [
+        "discord",
+        "instant-messaging",
+        "real-time-communication",
+        "spacebarchat"
+      ],
+      "stargazers_count": 2197,
+      "pushed_at": "2026-09-14T17:40:11Z",
+      "added_to_queue": "2026-09-17T12:35:25.136Z"
+    },
+    {
+      "name": "web-extension-starter",
+      "html_url": "https://github.com/abhijithvijayan/web-extension-starter",
+      "description": "🖥🔋Web Extension starter to build \"Write Once Run on Any Browser\" extension",
+      "topics": [
+        "boilerplate",
+        "chrome",
+        "chrome-extension",
+        "chrome-extension-react",
+        "cross-browser",
+        "edge",
+        "extension",
+        "firefox",
+        "firefox-addon",
+        "hacktoberfest",
+        "opera-extension",
+        "react-extension",
+        "reactjs",
+        "sass",
+        "starter",
+        "typescript",
+        "vitejs",
+        "web",
+        "web-extension-starter",
+        "web-extensions"
+      ],
+      "stargazers_count": 2186,
+      "pushed_at": "2026-09-13T05:00:26Z",
+      "added_to_queue": "2026-09-17T12:35:25.136Z"
+    },
+    {
+      "name": "go-size-analyzer",
+      "html_url": "https://github.com/Zxilly/go-size-analyzer",
+      "description": "A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats.",
+      "topics": [
+        "analyzer",
+        "binary",
+        "dependency",
+        "go",
+        "golang",
+        "react",
+        "symbol",
+        "terminal-ui",
+        "treemap",
+        "typescript",
+        "visualization"
+      ],
+      "stargazers_count": 2177,
+      "pushed_at": "2026-09-14T01:04:44Z",
+      "added_to_queue": "2026-09-17T12:35:25.136Z"
+    },
+    {
+      "name": "hucre",
+      "html_url": "https://github.com/productdevbook/hucre",
+      "description": "Zero-dependency spreadsheet engine. Read & write XLSX, CSV, ODS. Pure TypeScript, works everywhere.",
+      "topics": [
+        "csv",
+        "csv-parser",
+        "esm",
+        "excel",
+        "ods",
+        "ods-parser",
+        "parser",
+        "spreadsheet",
+        "streaming",
+        "tree-shakeable",
+        "typescript",
+        "xlsx",
+        "xlsx-parser",
+        "xlsx-writer",
+        "zero-dependency"
+      ],
+      "stargazers_count": 2176,
+      "pushed_at": "2026-09-13T17:03:10Z",
+      "added_to_queue": "2026-09-17T12:35:25.136Z"
+    },
+    {
+      "name": "RunJS",
+      "html_url": "https://github.com/lukehaas/RunJS",
+      "description": "RunJS is a JavaScript playground for macOS, Windows and Linux. Write code with instant feedback and access to Node.js and browser APIs.",
+      "topics": [
+        "desktop-app",
+        "desktop-application",
+        "electron",
+        "electron-app",
+        "electron-application",
+        "javascript",
+        "javascript-editor",
+        "linux",
+        "macos",
+        "nodejs",
+        "playground",
+        "runjs",
+        "typescript",
+        "windows"
+      ],
+      "stargazers_count": 2170,
+      "pushed_at": "2026-07-13T08:37:59Z",
+      "added_to_queue": "2026-09-17T12:35:25.136Z"
+    },
+    {
+      "name": "typeorm",
+      "html_url": "https://github.com/nestjs/typeorm",
+      "description": "TypeORM module for Nest framework (node.js) 🍇",
+      "topics": [
+        "javascript",
+        "nest",
+        "nestjs",
+        "nodejs",
+        "nosql",
+        "sql",
+        "typeorm",
+        "typescript"
+      ],
+      "stargazers_count": 2156,
+      "pushed_at": "2026-09-16T21:15:48Z",
+      "added_to_queue": "2026-09-17T12:35:25.136Z"
+    },
+    {
+      "name": "DIM",
+      "html_url": "https://github.com/DestinyItemManager/DIM",
+      "description": "Destiny Item Manager",
+      "topics": [
+        "bungie",
+        "destiny",
+        "react",
+        "typescript"
+      ],
+      "stargazers_count": 2155,
+      "pushed_at": "2026-09-14T18:21:51Z",
+      "added_to_queue": "2026-09-17T12:35:25.136Z"
+    },
+    {
+      "name": "typescript-starter",
+      "html_url": "https://github.com/nestjs/typescript-starter",
+      "description": "Nest framework TypeScript starter :coffee:",
+      "topics": [
+        "javascript",
+        "nest",
+        "nestjs",
+        "nodejs",
+        "starter",
+        "typescript"
+      ],
+      "stargazers_count": 2149,
+      "pushed_at": "2026-09-16T11:10:56Z",
+      "added_to_queue": "2026-09-17T12:35:25.136Z"
+    },
+    {
+      "name": "instagram-cli",
+      "html_url": "https://github.com/supreme-gg-gg/instagram-cli",
+      "description": "Instagram's CLI and TUI client -- The ultimate weapon against brainrot",
+      "topics": [
+        "brainrot",
+        "cli",
+        "command-line-app",
+        "ink",
+        "instagram",
+        "messenger",
+        "productivity",
+        "react",
+        "terminal-graphics",
+        "terminal-ui",
+        "typescript"
+      ],
+      "stargazers_count": 2141,
+      "pushed_at": "2026-09-03T18:26:24Z",
+      "added_to_queue": "2026-09-17T12:35:25.136Z"
+    },
+    {
+      "name": "applemusic-like-lyrics",
+      "html_url": "https://github.com/amll-dev/applemusic-like-lyrics",
+      "description": "An Apple Music style lyric player component, with React & Vue support. 一个类 Apple Music 歌词显示组件，同时提供 React 和 Vue 绑定。",
+      "topics": [
+        "apple-music",
+        "audio",
+        "audio-player",
+        "javascript",
+        "lyric",
+        "music",
+        "music-player",
+        "player",
+        "react",
+        "typescript",
+        "vue",
+        "vue3"
+      ],
+      "stargazers_count": 2137,
+      "pushed_at": "2026-09-16T15:50:21Z",
+      "added_to_queue": "2026-09-17T12:35:25.136Z"
+    },
+    {
+      "name": "ever-traduora",
+      "html_url": "https://github.com/ever-co/ever-traduora",
+      "description": "Ever® Traduora™ - Open Translation Management Platform - https://traduora.co",
+      "topics": [
+        "angular",
+        "api",
+        "i18n",
+        "internationalization",
+        "localization",
+        "nodejs",
+        "opensource",
+        "self-hosted",
+        "teams",
+        "translation",
+        "translation-management",
+        "typescript",
+        "webapp"
+      ],
+      "stargazers_count": 2129,
+      "pushed_at": "2026-09-01T21:19:15Z",
+      "added_to_queue": "2026-09-17T12:35:25.136Z"
+    },
+    {
+      "name": "react-medium-image-zoom",
+      "html_url": "https://github.com/rpearce/react-medium-image-zoom",
+      "description": "🔎 🏞 The original medium.com-inspired image zooming library for React (since 2016)",
+      "topics": [
+        "hacktoberfest",
+        "image-zoom",
+        "medium",
+        "props",
+        "react",
+        "react-images",
+        "reactjs",
+        "typescript",
+        "zoom",
+        "zoom-images",
+        "zoomable"
+      ],
+      "stargazers_count": 2119,
+      "pushed_at": "2026-09-12T03:15:41Z",
+      "added_to_queue": "2026-09-17T12:35:25.136Z"
+    },
+    {
+      "name": "SIP.js",
+      "html_url": "https://github.com/onsip/SIP.js",
+      "description": "A simple, intuitive, and powerful JavaScript signaling library",
+      "topics": [
+        "javascript",
+        "nodejs",
+        "sip",
+        "sipjs",
+        "typescript",
+        "voip",
+        "webrtc"
+      ],
+      "stargazers_count": 2096,
+      "pushed_at": "2026-06-15T19:18:20Z",
+      "added_to_queue": "2026-09-17T12:35:25.137Z"
+    },
+    {
+      "name": "codeimage",
+      "html_url": "https://github.com/riccardoperra/codeimage",
+      "description": "A tool to beautify your code screenshots. Built with SolidJS and Fastify.",
+      "topics": [
+        "beautiful",
+        "code",
+        "codesnippets",
+        "editor",
+        "fastify",
+        "screenshot",
+        "sharing",
+        "snippets",
+        "solid",
+        "solid-js",
+        "tweet",
+        "typescript"
+      ],
+      "stargazers_count": 2091,
+      "pushed_at": "2026-03-28T13:48:31Z",
+      "added_to_queue": "2026-09-17T12:35:25.137Z"
+    },
+    {
+      "name": "diceui",
+      "html_url": "https://github.com/sadmann7/diceui",
+      "description": "Accessible shadcn/ui components built with React, TypeScript, and Tailwind CSS. Copy-paste ready, and customizable.",
+      "topics": [
+        "accesibility",
+        "react",
+        "ui",
+        "ui-libary",
+        "wai-aria"
+      ],
+      "stargazers_count": 2076,
+      "pushed_at": "2026-09-03T11:05:55Z",
+      "added_to_queue": "2026-09-17T12:35:25.137Z"
+    },
+    {
+      "name": "modern-screenshot",
+      "html_url": "https://github.com/qq15725/modern-screenshot",
+      "description": "📸 Quickly generate image from DOM node using HTML5 canvas and SVG.",
+      "topics": [
+        "canvas",
+        "dom",
+        "dom-to-image",
+        "html-to-image",
+        "html2canvas",
+        "image",
+        "javascript",
+        "modern-screenshot",
+        "screenshot",
+        "svg",
+        "typescript"
+      ],
+      "stargazers_count": 2076,
+      "pushed_at": "2026-04-16T07:25:23Z",
+      "added_to_queue": "2026-09-17T12:35:25.137Z"
+    },
+    {
+      "name": "ts-prune",
+      "html_url": "https://github.com/nadeesha/ts-prune",
+      "description": "Find unused exports in a typescript project. 🛀",
+      "topics": [
+        "typescript",
+        "utility"
+      ],
+      "stargazers_count": 2066,
+      "pushed_at": "2026-09-14T09:35:20Z",
+      "added_to_queue": "2026-09-17T12:35:25.137Z"
+    },
+    {
+      "name": "compiled",
+      "html_url": "https://github.com/atlassian-labs/compiled",
+      "description": "A familiar and performant compile time CSS-in-JS library for React.",
+      "topics": [
+        "babel",
+        "css",
+        "css-in-js",
+        "parcel",
+        "react",
+        "reactjs",
+        "typescript",
+        "webpack"
+      ],
+      "stargazers_count": 2055,
+      "pushed_at": "2026-09-17T00:43:22Z",
+      "added_to_queue": "2026-09-17T12:35:25.137Z"
+    },
+    {
+      "name": "scaffold-eth-2",
+      "html_url": "https://github.com/scaffold-eth/scaffold-eth-2",
+      "description": "Open source forkable Ethereum dev stack",
+      "topics": [
+        "daisyui",
+        "dapp",
+        "ethereum",
+        "ethersjs",
+        "hardhat",
+        "nextjs",
+        "rainbowkit",
+        "solidity",
+        "starter-kit",
+        "tailwindcss",
+        "typescript",
+        "viem",
+        "wagmi"
+      ],
+      "stargazers_count": 2047,
+      "pushed_at": "2026-08-27T06:08:22Z",
+      "added_to_queue": "2026-09-17T12:35:25.137Z"
+    },
+    {
+      "name": "vue-hooks-plus",
+      "html_url": "https://github.com/InhiblabCore/vue-hooks-plus",
+      "description": "High performance & Simplicity 🧲 Vue 3 Hooks library",
+      "topics": [
+        "hooks-library",
+        "typescript",
+        "vue-hooks-library",
+        "vue-hooks-plus",
+        "vue3"
+      ],
+      "stargazers_count": 2036,
+      "pushed_at": "2026-06-11T02:49:30Z",
+      "added_to_queue": "2026-09-17T12:35:25.137Z"
+    },
+    {
+      "name": "data-client",
+      "html_url": "https://github.com/reactive/data-client",
+      "description": "Async State Management without the Management. REST, GraphQL, SSE, Websockets",
+      "topics": [
+        "expo",
+        "fetch",
+        "hooks",
+        "normalized",
+        "normalizr",
+        "react",
+        "react-native",
+        "reactive-programming",
+        "rest",
+        "sse-client",
+        "state-management",
+        "suspense",
+        "typescript"
+      ],
+      "stargazers_count": 2035,
+      "pushed_at": "2026-09-16T21:29:22Z",
+      "added_to_queue": "2026-09-17T12:35:25.137Z"
+    },
+    {
+      "name": "wallet-adapter",
+      "html_url": "https://github.com/anza-xyz/wallet-adapter",
+      "description": "Modular TypeScript wallet adapters and components for Solana applications.",
+      "topics": [
+        "blockchain",
+        "crypto",
+        "cryptocurrency",
+        "hacktoberfest",
+        "hacktoberfest2022",
+        "react",
+        "solana",
+        "typescript",
+        "wallet"
+      ],
+      "stargazers_count": 2029,
+      "pushed_at": "2026-09-10T09:04:33Z",
+      "added_to_queue": "2026-09-17T12:35:25.137Z"
+    },
+    {
+      "name": "just",
+      "html_url": "https://github.com/microsoft/just",
+      "description": "The task library that just works",
+      "topics": [
+        "build",
+        "javascript",
+        "typescript"
+      ],
+      "stargazers_count": 2026,
+      "pushed_at": "2026-09-15T18:30:56Z",
+      "added_to_queue": "2026-09-17T12:35:25.137Z"
+    },
+    {
+      "name": "Yosemite-Crew",
+      "html_url": "https://github.com/YosemiteCrew/Yosemite-Crew",
+      "description": "Open-source operating system for animal health",
+      "topics": [
+        "animal-health",
+        "animals",
+        "docker",
+        "open-source-healthcare",
+        "pets",
+        "pims",
+        "pms",
+        "practice-management-system",
+        "react-native",
+        "self-hosted",
+        "typescript",
+        "veterinary",
+        "veterinary-software"
+      ],
+      "stargazers_count": 2022,
+      "pushed_at": "2026-09-17T03:08:19Z",
+      "added_to_queue": "2026-09-17T12:35:25.137Z"
+    },
+    {
+      "name": "AnswerOverflow",
+      "html_url": "https://github.com/AnswerOverflow/AnswerOverflow",
+      "description": "Powering Discord content discovery by making web pages from threads for some of the largest servers, including Valorant, Cloudflare, C#, and Nuxt.",
+      "topics": [
+        "discord",
+        "discord-bot",
+        "help",
+        "nextjs",
+        "sapphire",
+        "t3-stack",
+        "typescript"
+      ],
+      "stargazers_count": 2014,
+      "pushed_at": "2026-09-13T04:53:58Z",
+      "added_to_queue": "2026-09-17T12:35:25.137Z"
+    },
+    {
+      "name": "dynamodb-toolbox",
+      "html_url": "https://github.com/dynamodb-toolbox/dynamodb-toolbox",
+      "description": "Lightweight and type-safe query builder for DynamoDB and TypeScript",
+      "topics": [
+        "aws",
+        "dynamodb",
+        "nosql",
+        "serverless",
+        "typescript"
+      ],
+      "stargazers_count": 2002,
+      "pushed_at": "2026-09-15T08:21:52Z",
+      "added_to_queue": "2026-09-17T12:35:25.137Z"
+    },
+    {
+      "name": "authorizer",
+      "html_url": "https://github.com/authorizerdev/authorizer",
+      "description": "Your data, your control. Fully open source, authentication and authorization. No lock-ins. Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login page and Admin panel out of the box.",
+      "topics": [
+        "2fa",
+        "auth",
+        "authentication",
+        "authorization",
+        "docker",
+        "golang",
+        "graphdb",
+        "graphql",
+        "hacktoberfest",
+        "magic-link",
+        "microservice",
+        "nosql",
+        "oauth2",
+        "role-based-access-control",
+        "security",
+        "social-logins",
+        "sql",
+        "typescript",
+        "user-privileges"
+      ],
+      "stargazers_count": 2002,
+      "pushed_at": "2026-09-04T13:51:32Z",
+      "added_to_queue": "2026-09-17T12:35:25.137Z"
+    },
+    {
+      "name": "andesine",
+      "html_url": "https://github.com/vriteio/andesine",
+      "description": "Open-source adaptive content workspace",
+      "topics": [
+        "blogging",
+        "cms",
+        "collaboration",
+        "content-management",
+        "documentation",
+        "headless",
+        "headless-cms",
+        "javascript",
+        "kanban",
+        "rich-text-editor",
+        "solidjs",
+        "technical-content",
+        "technical-writing",
+        "typescript",
+        "webdev",
+        "writing",
+        "wysiwyg"
+      ],
+      "stargazers_count": 1998,
+      "pushed_at": "2026-09-17T11:32:39Z",
+      "added_to_queue": "2026-09-17T12:35:25.137Z"
+    },
+    {
+      "name": "logtape",
+      "html_url": "https://github.com/dahlia/logtape",
+      "description": "Unobtrusive logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions",
+      "topics": [
+        "bun",
+        "deno",
+        "javascript",
+        "log",
+        "logging",
+        "nodejs",
+        "structured-logging",
+        "typescript"
+      ],
+      "stargazers_count": 1997,
+      "pushed_at": "2026-09-14T18:37:45Z",
+      "added_to_queue": "2026-09-17T12:35:25.137Z"
+    },
+    {
+      "name": "athena-crisis",
+      "html_url": "https://github.com/nkzw-tech/athena-crisis",
+      "description": "Athena Crisis is a modern-retro turn-based tactical strategy game. Athena Crisis is open core technology.",
+      "topics": [
+        "athena-crisis-is-awesome",
+        "css",
+        "gamedev",
+        "javascript",
+        "react",
+        "typescript"
+      ],
+      "stargazers_count": 1981,
+      "pushed_at": "2026-09-06T13:23:51Z",
+      "added_to_queue": "2026-09-17T12:35:25.137Z"
+    },
+    {
+      "name": "better-result",
+      "html_url": "https://github.com/dmmulroy/better-result",
+      "description": "Lightweight Result type for TypeScript with generator-based composition.",
+      "topics": [
+        "error-handling",
+        "result-type",
+        "rust",
+        "try-catch",
+        "typescript"
+      ],
+      "stargazers_count": 1972,
+      "pushed_at": "2026-08-23T17:37:03Z",
+      "added_to_queue": "2026-09-17T12:35:25.137Z"
+    },
+    {
+      "name": "machina.js",
+      "html_url": "https://github.com/ifandelse/machina.js",
+      "description": "ts ex machina - finite state machines in TypeScript",
+      "topics": [
+        "fsm",
+        "state-machine"
+      ],
+      "stargazers_count": 1971,
+      "pushed_at": "2026-08-11T21:55:31Z",
+      "added_to_queue": "2026-09-17T12:35:25.137Z"
+    },
+    {
+      "name": "kun-galgame-forum",
+      "html_url": "https://github.com/KunMoe/kun-galgame-forum",
+      "description": "🐳 The CUTEST visualnovel / galgame forum! Built with Nuxt4, GO Fiber and PostgreSQL. Kun Visual Novel forum 6th generation! 开源, 免费, 零门槛, 最先进的 Galgame 论坛社区!",
+      "topics": [
+        "docker",
+        "dokploy",
+        "forum",
+        "galgame",
+        "go-fiber",
+        "gorm",
+        "jwt",
+        "nuxt",
+        "nuxt3",
+        "nuxt4",
+        "pinia",
+        "psql",
+        "redis",
+        "rss",
+        "tailwindcss-v4",
+        "typescript",
+        "visual-novel",
+        "vue",
+        "vue3"
+      ],
+      "stargazers_count": 1971,
+      "pushed_at": "2026-09-16T17:08:00Z",
+      "added_to_queue": "2026-09-17T12:35:25.137Z"
+    },
+    {
+      "name": "glTF-Transform",
+      "html_url": "https://github.com/donmccurdy/glTF-Transform",
+      "description": "glTF 2.0 SDK for JavaScript and TypeScript, on Web and Node.js.",
+      "topics": [
+        "3d",
+        "compression",
+        "glb",
+        "gltf",
+        "mesh-processing",
+        "optimization",
+        "scene-graph"
+      ],
+      "stargazers_count": 1967,
+      "pushed_at": "2026-09-15T12:17:51Z",
+      "added_to_queue": "2026-09-17T12:35:25.137Z"
+    },
+    {
+      "name": "Civet",
+      "html_url": "https://github.com/DanielXMoore/Civet",
+      "description": "A TypeScript superset that favors more types and less typing",
+      "topics": [
+        "coffeescript",
+        "javascript",
+        "typescript"
+      ],
+      "stargazers_count": 1956,
+      "pushed_at": "2026-09-12T01:40:20Z",
+      "added_to_queue": "2026-09-17T12:35:25.137Z"
+    },
+    {
+      "name": "oidc-client-ts",
+      "html_url": "https://github.com/authts/oidc-client-ts",
+      "description": "OpenID Connect (OIDC) and OAuth2 protocol support for browser-based JavaScript applications",
+      "topics": [
+        "oidc",
+        "oidc-client",
+        "typescript"
+      ],
+      "stargazers_count": 1950,
+      "pushed_at": "2026-09-01T15:20:40Z",
+      "added_to_queue": "2026-09-17T12:35:25.138Z"
+    },
+    {
+      "name": "ifvisible.js",
+      "html_url": "https://github.com/serkanyersen/ifvisible.js",
+      "description": "Crossbrowser & lightweight way to check if user is looking at the page or interacting with it.",
+      "topics": [
+        "coffeescript",
+        "cross-browser",
+        "javascript",
+        "library",
+        "mit",
+        "npm",
+        "typescript",
+        "utilities",
+        "visibility"
+      ],
+      "stargazers_count": 1950,
+      "pushed_at": "2026-06-12T06:56:59Z",
+      "added_to_queue": "2026-09-17T12:35:25.138Z"
+    },
+    {
+      "name": "foal",
+      "html_url": "https://github.com/FoalTS/foal",
+      "description": "Full-featured Node.js framework 🚀",
+      "topics": [
+        "api",
+        "auth",
+        "dependency-injection",
+        "express",
+        "foal",
+        "foalts",
+        "foalts-cli",
+        "framework",
+        "jwt",
+        "node",
+        "nodejs",
+        "nodejs-framework",
+        "orm",
+        "rest",
+        "sdk",
+        "security",
+        "typeorm",
+        "typescript",
+        "typescript-framework",
+        "web-framework"
+      ],
+      "stargazers_count": 1935,
+      "pushed_at": "2026-07-29T14:49:29Z",
+      "added_to_queue": "2026-09-17T12:35:25.138Z"
+    },
+    {
+      "name": "repack",
+      "html_url": "https://github.com/callstack/repack",
+      "description": "A webpack-based toolkit to build your React Native application with full support of webpack ecosystem.",
+      "topics": [
+        "bundler",
+        "code-splitting",
+        "hacktoberfest",
+        "module-federation",
+        "react",
+        "react-native",
+        "typescript",
+        "webpack"
+      ],
+      "stargazers_count": 1933,
+      "pushed_at": "2026-09-16T14:36:43Z",
+      "added_to_queue": "2026-09-17T12:35:25.138Z"
+    },
+    {
+      "name": "piral",
+      "html_url": "https://github.com/smapiot/piral",
+      "description": "🚀 Framework for next generation web apps using micro frontends. ⭐️ Star to support our work!",
+      "topics": [
+        "app",
+        "awesome",
+        "blazing",
+        "frontend",
+        "hacktoberfest",
+        "micro-frontend",
+        "microfrontend",
+        "microfrontends",
+        "microfrontends-demo",
+        "microservices",
+        "modules",
+        "nextgen",
+        "piral",
+        "portal",
+        "react",
+        "spa",
+        "typescript",
+        "web",
+        "webapp",
+        "webapplication"
+      ],
+      "stargazers_count": 1930,
+      "pushed_at": "2026-09-11T11:19:32Z",
+      "added_to_queue": "2026-09-17T12:35:25.138Z"
+    },
+    {
+      "name": "fut",
+      "html_url": "https://github.com/fusionlanguage/fut",
+      "description": "Fusion programming language. Transpiling to C, C++, C#, D, Java, JavaScript, Python, Swift, TypeScript and OpenCL C.",
+      "topics": [
+        "language",
+        "programming-language",
+        "transpiler"
+      ],
+      "stargazers_count": 1927,
+      "pushed_at": "2026-09-17T10:45:34Z",
+      "added_to_queue": "2026-09-17T12:35:25.138Z"
+    },
+    {
+      "name": "svg2jsx",
+      "html_url": "https://github.com/balajmarius/svg2jsx",
+      "description": "Transform SVG to valid JSX.",
+      "topics": [
+        "next-js",
+        "svg-to-react",
+        "typescript",
+        "vercel"
+      ],
+      "stargazers_count": 1924,
+      "pushed_at": "2026-09-10T23:47:03Z",
+      "added_to_queue": "2026-09-17T12:35:25.138Z"
+    },
+    {
+      "name": "zodios",
+      "html_url": "https://github.com/ecyrbe/zodios",
+      "description": "typescript http client and server with zod validation",
+      "topics": [
+        "api",
+        "http",
+        "nodejs",
+        "openapi",
+        "rest",
+        "typescript",
+        "zod"
+      ],
+      "stargazers_count": 1916,
+      "pushed_at": "2026-09-16T01:15:27Z",
+      "added_to_queue": "2026-09-17T12:35:25.138Z"
+    },
+    {
+      "name": "article-extractor",
+      "html_url": "https://github.com/extractus/article-extractor",
+      "description": "To extract article from given URL",
+      "topics": [
+        "article-extractor",
+        "article-parser",
+        "content-extraction",
+        "data-extraction",
+        "data-scraping",
+        "javascript",
+        "readability",
+        "typescript"
+      ],
+      "stargazers_count": 1913,
+      "pushed_at": "2026-08-20T08:55:35Z",
+      "added_to_queue": "2026-09-17T12:35:25.138Z"
+    },
+    {
+      "name": "f1-dash",
+      "html_url": "https://github.com/slowlydev/f1-dash",
+      "description": "A real-time F1 dashboard",
+      "topics": [
+        "dashboard",
+        "f1",
+        "formula1",
+        "nextjs",
+        "realtime",
+        "rust",
+        "typescript"
+      ],
+      "stargazers_count": 1909,
+      "pushed_at": "2026-06-14T10:52:48Z",
+      "added_to_queue": "2026-09-17T12:35:25.138Z"
+    },
+    {
+      "name": "featbit",
+      "html_url": "https://github.com/featbit/featbit",
+      "description": "Enterprise-grade feature flag platform that you can self-host. Get started - free.",
+      "topics": [
+        "ab-test",
+        "ab-testing",
+        "asp-net-core",
+        "continuous-delivery",
+        "csharp",
+        "dotnet",
+        "entitlement",
+        "experimentation",
+        "feature",
+        "feature-flags",
+        "feature-management",
+        "feature-toggles",
+        "progressive-delivery",
+        "python",
+        "release-as-code",
+        "remote-config",
+        "self-hosted",
+        "typescript"
+      ],
+      "stargazers_count": 1905,
+      "pushed_at": "2026-09-17T12:33:56Z",
+      "added_to_queue": "2026-09-17T12:35:25.138Z"
+    },
+    {
+      "name": "vexip-ui",
+      "html_url": "https://github.com/vexip-ui/vexip-ui",
+      "description": "A Vue 3 UI library, highly customizability, full TypeScript, performance pretty good.",
+      "topics": [
+        "config",
+        "css",
+        "html",
+        "javascript",
+        "typescript",
+        "ui-components",
+        "vexipui",
+        "vitejs",
+        "vue",
+        "vue-components"
+      ],
+      "stargazers_count": 1900,
+      "pushed_at": "2026-09-13T08:04:28Z",
+      "added_to_queue": "2026-09-17T12:35:25.138Z"
+    },
+    {
+      "name": "c15t",
+      "html_url": "https://github.com/c15t/c15t",
+      "description": "The Developer-First Cookie Banner",
+      "topics": [
+        "cmp",
+        "consent-management-platform",
+        "cookie-banner",
+        "cookie-consent-banner",
+        "typescript"
+      ],
+      "stargazers_count": 1895,
+      "pushed_at": "2026-09-17T08:40:37Z",
+      "added_to_queue": "2026-09-17T12:35:25.138Z"
+    },
+    {
+      "name": "swagger",
+      "html_url": "https://github.com/nestjs/swagger",
+      "description": "OpenAPI (Swagger) module for Nest framework (node.js) :earth_americas:",
+      "topics": [
+        "hacktoberfest",
+        "javascript",
+        "nest",
+        "nestjs",
+        "nodejs",
+        "swagger",
+        "typescript"
+      ],
+      "stargazers_count": 1893,
+      "pushed_at": "2026-09-17T03:13:23Z",
+      "added_to_queue": "2026-09-17T12:35:25.138Z"
+    },
+    {
+      "name": "evolu",
+      "html_url": "https://github.com/evoluhq/evolu",
+      "description": "TypeScript library and local-first platform",
+      "topics": [
+        "crdt",
+        "local-first",
+        "offline-first",
+        "react",
+        "react-native",
+        "sqlite3"
+      ],
+      "stargazers_count": 1891,
+      "pushed_at": "2026-09-17T10:04:52Z",
+      "added_to_queue": "2026-09-17T12:35:25.138Z"
+    },
+    {
+      "name": "ts-rs",
+      "html_url": "https://github.com/Aleph-Alpha/ts-rs",
+      "description": "Generate TypeScript bindings from Rust types",
+      "topics": [
+        "binding-generator",
+        "bindings",
+        "code-generation",
+        "rust",
+        "rust-to-typescript",
+        "types",
+        "typescript"
+      ],
+      "stargazers_count": 1878,
+      "pushed_at": "2026-08-31T00:03:51Z",
+      "added_to_queue": "2026-09-17T12:35:25.138Z"
+    },
+    {
+      "name": "shadcn-studio",
+      "html_url": "https://github.com/shadcnstudio/shadcn-studio",
+      "description": "An open-source collection of copy-and-paste shadcn components, blocks, and templates - paired with a powerful theme generator to craft, customize, and ship faster.",
+      "topics": [
+        "component",
+        "components-library",
+        "css",
+        "html",
+        "javascript",
+        "shadcn",
+        "shadcn-admin",
+        "shadcn-components",
+        "shadcn-registry",
+        "shadcn-template",
+        "shadcn-theme",
+        "shadcn-theme-customizer",
+        "shadcn-theme-editor",
+        "shadcn-ui",
+        "shadcnblocks",
+        "shadcnui",
+        "shadcnui-blocks",
+        "tailwindcss",
+        "typescript",
+        "uikit"
+      ],
+      "stargazers_count": 1877,
+      "pushed_at": "2026-08-20T10:38:17Z",
+      "added_to_queue": "2026-09-17T12:35:25.138Z"
+    },
+    {
+      "name": "AncientBeast",
+      "html_url": "https://github.com/FreezingMoon/AncientBeast",
+      "description": "The Turn Based Strategy Game/eSport. Master your beasts! 🐺",
+      "topics": [
+        "2d-game",
+        "chess",
+        "esport",
+        "game",
+        "hacktoberfest",
+        "hacktoberfest2025",
+        "html5-game",
+        "javascript",
+        "multiplayer",
+        "multiplayer-browser-game",
+        "multiplayer-game",
+        "nodejs",
+        "phaser-game",
+        "pokemon",
+        "spritesheet",
+        "strategy",
+        "strategy-game",
+        "strategy-game-engine",
+        "turn-based-strategy",
+        "typescript"
+      ],
+      "stargazers_count": 1873,
+      "pushed_at": "2026-09-16T13:55:27Z",
+      "added_to_queue": "2026-09-17T12:35:25.138Z"
+    },
+    {
+      "name": "tsdown",
+      "html_url": "https://github.com/rolldown/tsdown",
+      "description": "The elegant bundler for libraries powered by Rolldown",
+      "topics": [
+        "bundler",
+        "library",
+        "oxc",
+        "rolldown",
+        "typescript"
+      ],
+      "stargazers_count": 4267,
+      "pushed_at": "2026-09-16T02:31:06Z",
+      "added_to_queue": "2026-09-17T12:36:13.765Z"
+    },
+    {
+      "name": "reflect-metadata",
+      "html_url": "https://github.com/microsoft/reflect-metadata",
+      "description": "Prototype for a Metadata Reflection API for ECMAScript",
+      "topics": [
+        "decorator-metadata",
+        "javascript",
+        "metadata",
+        "proposal",
+        "reflection",
+        "typescript"
+      ],
+      "stargazers_count": 3360,
+      "pushed_at": "2026-08-24T15:52:21Z",
+      "added_to_queue": "2026-09-17T12:36:13.765Z"
+    },
+    {
+      "name": "my-fingerprint",
+      "html_url": "https://github.com/omegaee/my-fingerprint",
+      "description": "保护你的浏览器指纹 | Protect Your Browser Fingerprints | Chrome, Edge, Firefox | 扩展 / Extension",
+      "topics": [
+        "browser-extension",
+        "chrome",
+        "chrome-extension",
+        "edge",
+        "edge-extension",
+        "extension",
+        "fingerpints",
+        "fingerprint",
+        "firefox",
+        "firefox-extension",
+        "manifest-v3",
+        "safety",
+        "security",
+        "typescript"
+      ],
+      "stargazers_count": 1432,
+      "pushed_at": "2026-08-28T06:09:37Z",
+      "added_to_queue": "2026-09-17T12:36:13.765Z"
+    },
+    {
+      "name": "wouter",
+      "html_url": "https://github.com/molefrog/wouter",
+      "description": "🥢 A minimalist-friendly ~2.2KB routing for React and Preact",
+      "topics": [
+        "hacktoberfest",
+        "microlibrary",
+        "preact",
+        "react",
+        "react-hooks",
+        "react-router",
+        "router",
+        "typescript",
+        "zero-dependency"
+      ],
+      "stargazers_count": 7894,
+      "pushed_at": "2026-09-14T21:04:16Z",
+      "added_to_queue": "2026-09-17T12:36:13.765Z"
+    },
+    {
+      "name": "dap-mode",
+      "html_url": "https://github.com/emacs-lsp/dap-mode",
+      "description": "Emacs :heart: Debug Adapter Protocol",
+      "topics": [
+        "cpp",
+        "debug",
+        "debugger",
+        "emacs",
+        "emacs-lsp",
+        "go",
+        "java",
+        "javascript",
+        "lsp",
+        "lua",
+        "php",
+        "powershell",
+        "ruby",
+        "rust",
+        "swift",
+        "typescript"
+      ],
+      "stargazers_count": 1387,
+      "pushed_at": "2026-06-19T08:24:48Z",
+      "added_to_queue": "2026-09-17T12:36:13.765Z"
+    },
+    {
+      "name": "bloub",
+      "html_url": "https://github.com/jeremy-prt/bloub",
+      "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
+      "topics": [
+        "animation",
+        "avatar",
+        "morphing",
+        "svg",
+        "svg-animation",
+        "typescript",
+        "vue"
+      ],
+      "stargazers_count": 1529,
+      "pushed_at": "2026-08-17T19:18:48Z",
+      "added_to_queue": "2026-09-17T12:36:13.765Z"
+    },
+    {
+      "name": "deno_lint",
+      "html_url": "https://github.com/denoland/deno_lint",
+      "description": "Blazing fast linter for JavaScript and TypeScript written in Rust",
+      "topics": [
+        "deno",
+        "javascript",
+        "linters",
+        "typescript"
+      ],
+      "stargazers_count": 1584,
+      "pushed_at": "2026-07-23T12:51:44Z",
+      "added_to_queue": "2026-09-17T12:36:13.765Z"
+    },
+    {
+      "name": "webmail",
+      "html_url": "https://github.com/bulwarkmail/webmail",
+      "description": "Self-hosted JMAP webmail for Stalwart Mail Server. Mail, calendar, contacts, and files in one client.",
+      "topics": [
+        "calendar",
+        "contacts",
+        "docker",
+        "email",
+        "email-client",
+        "groupware",
+        "jmap",
+        "mail",
+        "nextjs",
+        "privacy",
+        "pwa",
+        "react",
+        "self-hosted",
+        "stalwart",
+        "tailwindcss",
+        "typescript",
+        "webmail"
+      ],
+      "stargazers_count": 1161,
+      "pushed_at": "2026-09-14T17:44:22Z",
+      "added_to_queue": "2026-09-17T12:36:13.765Z"
+    },
+    {
+      "name": "Hummer",
+      "html_url": "https://github.com/didi/Hummer",
+      "description": "一套移动端高性能高可用的动态化跨端开发框架",
+      "topics": [
+        "android",
+        "hermes",
+        "ios",
+        "javascript",
+        "jscore",
+        "quickjs",
+        "react",
+        "typescript",
+        "v8",
+        "vue",
+        "web"
+      ],
+      "stargazers_count": 1419,
+      "pushed_at": "2026-04-20T08:19:35Z",
+      "added_to_queue": "2026-09-17T12:36:13.765Z"
+    },
+    {
+      "name": "valkey-glide",
+      "html_url": "https://github.com/valkey-io/valkey-glide",
+      "description": "An open source Valkey client library that supports Valkey, and Redis open source 6.2, 7.0 and 7.2. Valkey GLIDE is designed for reliability, optimized performance, and high-availability, for Valkey and Redis OSS based applications. GLIDE is a multi language client library, written in Rust with programming language bindings, such as Java and Python",
+      "topics": [
+        "cache",
+        "csharp",
+        "database",
+        "fault-tolerance",
+        "golang",
+        "java",
+        "javascript",
+        "key-value",
+        "kotlin",
+        "nodejs",
+        "open-source",
+        "performance",
+        "pubsub",
+        "python",
+        "reliability",
+        "rust",
+        "scala",
+        "typescript",
+        "valkey",
+        "valkey-client"
+      ],
+      "stargazers_count": 790,
+      "pushed_at": "2026-09-17T01:29:52Z",
+      "added_to_queue": "2026-09-17T12:36:13.765Z"
+    },
+    {
+      "name": "tsyringe",
+      "html_url": "https://github.com/microsoft/tsyringe",
+      "description": "Lightweight dependency injection container for JavaScript/TypeScript",
+      "topics": [
+        "container",
+        "decorators",
+        "dependency",
+        "dependency-injection",
+        "injection",
+        "ioc",
+        "typescript"
+      ],
+      "stargazers_count": 6001,
+      "pushed_at": "2026-09-08T21:35:12Z",
+      "added_to_queue": "2026-09-17T12:36:13.765Z"
+    },
+    {
+      "name": "bootstrap-vue-next",
+      "html_url": "https://github.com/bootstrap-vue-next/bootstrap-vue-next",
+      "description": "Seamless integration of Vue 3, Bootstrap 5, and TypeScript for modern, type-safe UI development",
+      "topics": [
+        "bootstrap",
+        "bootstrap5",
+        "bootstrapvue",
+        "component-library",
+        "components",
+        "typescript",
+        "vue",
+        "vue3"
+      ],
+      "stargazers_count": 1291,
+      "pushed_at": "2026-09-14T17:54:17Z",
+      "added_to_queue": "2026-09-17T12:36:13.765Z"
+    },
+    {
+      "name": "nuxt-auth",
+      "html_url": "https://github.com/sidebase/nuxt-auth",
+      "description": "Authentication built for Nuxt! Easily add authentication via OAuth providers, credentials or Email Magic URLs!",
+      "topics": [
+        "authentication",
+        "local",
+        "nuxt",
+        "refresh",
+        "session",
+        "typescript",
+        "users"
+      ],
+      "stargazers_count": 1552,
+      "pushed_at": "2026-09-04T15:26:56Z",
+      "added_to_queue": "2026-09-17T12:36:13.766Z"
+    },
+    {
+      "name": "pts",
+      "html_url": "https://github.com/williamngan/pts",
+      "description": "A library for visualization and creative-coding",
+      "topics": [
+        "art",
+        "canvas",
+        "creative-coding",
+        "design",
+        "generative",
+        "generative-art",
+        "graphic-design",
+        "graphics",
+        "linear-algebra",
+        "pts",
+        "sound",
+        "svg",
+        "typescript",
+        "vector",
+        "visualization"
+      ],
+      "stargazers_count": 5345,
+      "pushed_at": "2026-09-17T08:08:28Z",
+      "added_to_queue": "2026-09-17T12:36:13.766Z"
+    },
+    {
+      "name": "alchemy",
+      "html_url": "https://github.com/alchemy-run/alchemy",
+      "description": "Infrastructure as Effects",
+      "topics": [
+        "alchemy",
+        "cloud",
+        "effect",
+        "iac",
+        "typescript"
+      ],
+      "stargazers_count": 1263,
+      "pushed_at": "2026-09-17T08:10:38Z",
+      "added_to_queue": "2026-09-17T12:36:13.766Z"
+    },
+    {
+      "name": "turnilo",
+      "html_url": "https://github.com/allegro/turnilo",
+      "description": "Business intelligence, data exploration and visualization web application for Druid, formerly known as Swiv and Pivot",
+      "topics": [
+        "business-intelligence",
+        "data-visualization",
+        "druid",
+        "typescript"
+      ],
+      "stargazers_count": 770,
+      "pushed_at": "2026-06-26T07:14:22Z",
+      "added_to_queue": "2026-09-17T12:36:13.766Z"
+    },
+    {
+      "name": "phaser3-typescript",
+      "html_url": "https://github.com/digitsensitive/phaser3-typescript",
+      "description": "Phaser 3 and TypeScript",
+      "topics": [
+        "html5-game",
+        "phaser",
+        "phaser-boilerplate",
+        "phaser-framework",
+        "phaser-game",
+        "phaser-tutorial",
+        "phaser3",
+        "phaser3-example",
+        "typescript"
+      ],
+      "stargazers_count": 1034,
+      "pushed_at": "2026-05-28T20:21:16Z",
+      "added_to_queue": "2026-09-17T12:36:13.766Z"
+    },
+    {
+      "name": "evm-from-scratch",
+      "html_url": "https://github.com/w1nt3r-eth/evm-from-scratch",
+      "description": "Super secret 100% practical EVM course. Please do not share",
+      "topics": [
+        "ethereum",
+        "evm",
+        "go",
+        "python",
+        "rust",
+        "typescript"
+      ],
+      "stargazers_count": 738,
+      "pushed_at": "2026-09-14T18:12:15Z",
+      "added_to_queue": "2026-09-17T12:36:13.766Z"
+    },
+    {
+      "name": "accessibility-insights-web",
+      "html_url": "https://github.com/microsoft/accessibility-insights-web",
+      "description": "Accessibility Insights for Web",
+      "topics": [
+        "accessibility",
+        "accessibility-insights",
+        "chromeextension",
+        "hacktoberfest",
+        "reactjs",
+        "typescript"
+      ],
+      "stargazers_count": 950,
+      "pushed_at": "2026-09-15T04:21:41Z",
+      "added_to_queue": "2026-09-17T12:36:13.766Z"
+    },
+    {
+      "name": "node-influx",
+      "html_url": "https://github.com/node-influx/node-influx",
+      "description": "📈 The InfluxDB Client for Node.js and Browsers",
+      "topics": [
+        "hacktoberfest",
+        "influx",
+        "influxdb",
+        "influxdb-js-client",
+        "javascript",
+        "onwards",
+        "timeseries",
+        "typescript"
+      ],
+      "stargazers_count": 862,
+      "pushed_at": "2026-05-28T03:16:07Z",
+      "added_to_queue": "2026-09-17T12:36:13.766Z"
+    },
+    {
+      "name": "uikit",
+      "html_url": "https://github.com/pmndrs/uikit",
+      "description": "🎨 user interfaces for react-three-fiber",
+      "topics": [
+        "flexbox",
+        "r3f",
+        "react",
+        "threejs",
+        "typescript",
+        "uikit",
+        "userinterface",
+        "yoga"
+      ],
+      "stargazers_count": 3239,
+      "pushed_at": "2026-09-01T18:55:12Z",
+      "added_to_queue": "2026-09-17T12:36:13.766Z"
+    },
+    {
+      "name": "jqTree",
+      "html_url": "https://github.com/mbraak/jqTree",
+      "description": "Tree widget for jQuery",
+      "topics": [
+        "javascript",
+        "jqtree",
+        "jquery",
+        "tree",
+        "tree-widget",
+        "typescript"
+      ],
+      "stargazers_count": 1019,
+      "pushed_at": "2026-09-17T09:31:56Z",
+      "added_to_queue": "2026-09-17T12:36:13.766Z"
+    },
+    {
+      "name": "roblox-ts",
+      "html_url": "https://github.com/roblox-ts/roblox-ts",
+      "description": "A TypeScript-to-Luau Compiler for Roblox",
+      "topics": [
+        "compiler",
+        "lua",
+        "roblox",
+        "roblox-studio",
+        "roblox-ts",
+        "typescript"
+      ],
+      "stargazers_count": 1302,
+      "pushed_at": "2026-09-17T06:03:03Z",
+      "added_to_queue": "2026-09-17T12:36:13.766Z"
+    },
+    {
+      "name": "space-portfolio",
+      "html_url": "https://github.com/sanidhyy/space-portfolio",
+      "description": "Welcome to my full stack Next.js 14 space portfolio.",
+      "topics": [
+        "3d",
+        "3d-portfolio",
+        "animation",
+        "css",
+        "framer-motion",
+        "galaxy",
+        "html",
+        "javascript",
+        "js",
+        "motion",
+        "next",
+        "nextjs",
+        "portfolio",
+        "react",
+        "space",
+        "stars",
+        "tailwind",
+        "tailwindcss",
+        "ts",
+        "typescript"
+      ],
+      "stargazers_count": 527,
+      "pushed_at": "2026-09-17T08:23:41Z",
+      "added_to_queue": "2026-09-17T12:36:13.766Z"
+    },
+    {
+      "name": "kibo",
+      "html_url": "https://github.com/shadcnblocks/kibo",
+      "description": "A custom registry of composable, accessible and extensible components designed for use with shadcn/ui. Free and open source, forever.",
+      "topics": [
+        "accessible",
+        "components",
+        "composable",
+        "react",
+        "shadcn-ui",
+        "typescript",
+        "ui"
+      ],
+      "stargazers_count": 3938,
+      "pushed_at": "2026-05-04T06:00:08Z",
+      "added_to_queue": "2026-09-17T12:36:13.766Z"
+    },
+    {
+      "name": "ts-monorepo",
+      "html_url": "https://github.com/NiGhTTraX/ts-monorepo",
+      "description": "Template for setting up a TypeScript monorepo",
+      "topics": [
+        "create-react-app",
+        "intellij",
+        "jest",
+        "lerna",
+        "monorepo",
+        "nestjs",
+        "nextjs",
+        "pnpm",
+        "react",
+        "rollup",
+        "starter",
+        "storybook",
+        "ts-node",
+        "tsconfig-paths",
+        "typescript",
+        "vite",
+        "vscode",
+        "webpack",
+        "webstorm",
+        "workspaces"
+      ],
+      "stargazers_count": 1630,
+      "pushed_at": "2026-09-17T05:15:44Z",
+      "added_to_queue": "2026-09-17T12:36:13.766Z"
+    },
+    {
+      "name": "heylinda-app",
+      "html_url": "https://github.com/heylinda/heylinda-app",
+      "description": "The open source and free meditation app alternative for everyone. Built with React Native and Expo.",
+      "topics": [
+        "android",
+        "expo",
+        "hacktoberfest",
+        "ios",
+        "meditation",
+        "meditation-app",
+        "react",
+        "react-native",
+        "redux",
+        "typescript"
+      ],
+      "stargazers_count": 727,
+      "pushed_at": "2026-07-19T16:19:53Z",
+      "added_to_queue": "2026-09-17T12:36:13.766Z"
+    },
+    {
+      "name": "remeda",
+      "html_url": "https://github.com/remeda/remeda",
+      "description": "A utility library for JavaScript and TypeScript.",
+      "topics": [
+        "functional",
+        "programming",
+        "typescript",
+        "utility"
+      ],
+      "stargazers_count": 5427,
+      "pushed_at": "2026-09-16T12:11:09Z",
+      "added_to_queue": "2026-09-17T12:36:13.766Z"
+    },
+    {
+      "name": "expo-clerk-convex",
+      "html_url": "https://github.com/flemingvincent/expo-clerk-convex",
+      "description": "This repository is an Expo starter focused on email/password authentication with Clerk, Convex, and Expo Router route protection.",
+      "topics": [
+        "clerk",
+        "convex",
+        "expo",
+        "expo-router",
+        "react-native",
+        "typescript"
+      ],
+      "stargazers_count": 782,
+      "pushed_at": "2026-07-02T17:40:39Z",
+      "added_to_queue": "2026-09-17T12:36:13.766Z"
+    },
+    {
+      "name": "dockview",
+      "html_url": "https://github.com/dockview/dockview",
+      "description": "Zero dependency docking layout manager supporting tabs, groups, grids and splitviews. Supports React, Vue, Angular, and vanilla TypeScript.",
+      "topics": [
+        "angular",
+        "dock",
+        "docking",
+        "docking-layout",
+        "docking-library",
+        "drag-and-drop",
+        "floating-panels",
+        "grid",
+        "layout",
+        "layout-manager",
+        "panel",
+        "popout-windows",
+        "react",
+        "splitview",
+        "tabs",
+        "typescript",
+        "ui-components",
+        "vue",
+        "vuejs",
+        "zero-dependency"
+      ],
+      "stargazers_count": 3431,
+      "pushed_at": "2026-09-14T22:02:29Z",
+      "added_to_queue": "2026-09-17T12:36:13.766Z"
+    },
+    {
+      "name": "jsr",
+      "html_url": "https://github.com/jsr-io/jsr",
+      "description": "The open-source package registry for modern JavaScript and TypeScript",
+      "topics": [
+        "javascript",
+        "registry",
+        "typescript"
+      ],
+      "stargazers_count": 2973,
+      "pushed_at": "2026-09-14T22:14:34Z",
+      "added_to_queue": "2026-09-17T12:36:13.766Z"
+    },
+    {
+      "name": "ts-pattern",
+      "html_url": "https://github.com/gvergnaud/ts-pattern",
+      "description": "🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.",
+      "topics": [
+        "branching",
+        "conditions",
+        "exhaustive",
+        "inference",
+        "javascript",
+        "matching",
+        "pattern",
+        "pattern-matching",
+        "ts",
+        "type-inference",
+        "typescript"
+      ],
+      "stargazers_count": 15158,
+      "pushed_at": "2026-09-11T10:00:06Z",
+      "added_to_queue": "2026-09-17T12:36:13.766Z"
+    },
+    {
+      "name": "fabric-video-editor",
+      "html_url": "https://github.com/AmitDigga/fabric-video-editor",
+      "description": "Video editor that runs in the browser: timeline, text, image, video and audio layers, animations, filters, export with sound. Fabric.js + React + Next.js.",
+      "topics": [
+        "animation",
+        "canvas",
+        "fabricjs",
+        "mobx",
+        "nextjs",
+        "react",
+        "tailwindcss",
+        "typescript",
+        "video-editing",
+        "video-editing-software",
+        "video-editor"
+      ],
+      "stargazers_count": 574,
+      "pushed_at": "2026-08-30T08:31:24Z",
+      "added_to_queue": "2026-09-17T12:36:13.766Z"
+    },
+    {
+      "name": "bootstrap.native",
+      "html_url": "https://github.com/thednp/bootstrap.native",
+      "description": "Bootstrap components build with Typescript",
+      "topics": [
+        "bootstrap",
+        "cdn",
+        "javascript",
+        "typescript"
+      ],
+      "stargazers_count": 1682,
+      "pushed_at": "2026-03-26T15:14:40Z",
+      "added_to_queue": "2026-09-17T12:36:13.766Z"
+    },
+    {
+      "name": "kanri",
+      "html_url": "https://github.com/kanriapp/kanri",
+      "description": "Modern offline Kanban board app for Windows, MacOS and Linux made with Tauri and Nuxt. Built with simplicity and user experience in mind.",
+      "topics": [
+        "kanban",
+        "kanban-board",
+        "kanban-board-application",
+        "nuxt",
+        "nuxt3",
+        "nuxtjs",
+        "offline",
+        "offline-app",
+        "offline-first",
+        "offline-kanban-board",
+        "tauri",
+        "typescript",
+        "vue3",
+        "vuejs"
+      ],
+      "stargazers_count": 2030,
+      "pushed_at": "2026-09-16T22:37:05Z",
+      "added_to_queue": "2026-09-17T12:36:13.766Z"
+    },
+    {
+      "name": "hyperformula",
+      "html_url": "https://github.com/handsontable/hyperformula",
+      "description": "HyperFormula is an open-source headless spreadsheet for business web apps. It comes with over 400 formulas, CRUD operations, undo-redo, clipboard support, and sorting.",
+      "topics": [
+        "calculation-engine",
+        "evaluator",
+        "excel",
+        "forms",
+        "formula",
+        "headless-spreadsheet",
+        "sheets",
+        "spreadsheet",
+        "typescript",
+        "xls",
+        "xlsx"
+      ],
+      "stargazers_count": 2788,
+      "pushed_at": "2026-09-16T20:08:05Z",
+      "added_to_queue": "2026-09-17T12:36:13.766Z"
+    },
+    {
+      "name": "vue-bits",
+      "html_url": "https://github.com/DavidHDev/vue-bits",
+      "description": "An open source collection of animated, interactive & fully customizable Vue components for building stunning, memorable websites.",
+      "topics": [
+        "javascript",
+        "tailwind",
+        "tailwindcss",
+        "typescript",
+        "ui-components",
+        "ui-library",
+        "vue",
+        "vue3",
+        "vuejs",
+        "vuejs-components",
+        "vuejs3"
+      ],
+      "stargazers_count": 4503,
+      "pushed_at": "2026-09-14T06:31:10Z",
+      "added_to_queue": "2026-09-17T12:36:13.766Z"
+    },
+    {
+      "name": "orpc",
+      "html_url": "https://github.com/middleapi/orpc",
+      "description": "Typesafe APIs Made Simple 🪄",
+      "topics": [
+        "api",
+        "bunjs",
+        "cloudflare-worker",
+        "contract-first",
+        "denojs",
+        "next-js",
+        "nodejs",
+        "openapi",
+        "pinia-vuejs",
+        "react",
+        "rpc-api",
+        "solidjs",
+        "svelte",
+        "tanstack",
+        "typesafe",
+        "typescript",
+        "vue"
+      ],
+      "stargazers_count": 5627,
+      "pushed_at": "2026-09-17T08:58:40Z",
+      "added_to_queue": "2026-09-17T12:36:13.767Z"
+    },
+    {
+      "name": "ng-antd-admin",
+      "html_url": "https://github.com/huajian123/ng-antd-admin",
+      "description": "Angular22 nestjs 中后台管理系统模板，移动端适配 Mobile adaptation ng-zorro ant-design-pro front-end framework",
+      "topics": [
+        "admin",
+        "angular",
+        "angular22",
+        "ant-design",
+        "ant-design-pro",
+        "drizzle-orm",
+        "jwt",
+        "mswjs",
+        "nestjs",
+        "ng-zorro",
+        "standalone-components",
+        "typescript",
+        "zoneless"
+      ],
+      "stargazers_count": 716,
+      "pushed_at": "2026-09-11T01:02:52Z",
+      "added_to_queue": "2026-09-17T12:36:13.767Z"
+    },
+    {
+      "name": "nostr",
+      "html_url": "https://github.com/nostrdevkit/nostr",
+      "description": "Rust implementation of the nostr protocol, high-level client library, Nostr Wallet Connect and more.",
+      "topics": [
+        "freedom",
+        "nostr",
+        "nostr-connect",
+        "nostr-protocol",
+        "nwc",
+        "protocol",
+        "python",
+        "rust",
+        "rust-lang",
+        "rust-nostr",
+        "sdk",
+        "swift",
+        "typescript"
+      ],
+      "stargazers_count": 674,
+      "pushed_at": "2026-09-11T08:45:08Z",
+      "added_to_queue": "2026-09-17T12:36:13.767Z"
+    },
+    {
+      "name": "umbrella",
+      "html_url": "https://github.com/thi-ng/umbrella",
+      "description": "⛱ Broadly scoped ecosystem & mono-repository of 215 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development",
+      "topics": [
+        "color",
+        "data-structures",
+        "dsl",
+        "functional-programming",
+        "geometry",
+        "html",
+        "monorepo",
+        "parser-combinators",
+        "reactive-programming",
+        "shadergraph",
+        "streams",
+        "tensors",
+        "transducers",
+        "typescript",
+        "ui",
+        "vectors",
+        "visualization",
+        "webassembly",
+        "webgl",
+        "ziglang"
+      ],
+      "stargazers_count": 3829,
+      "pushed_at": "2026-09-05T10:59:30Z",
+      "added_to_queue": "2026-09-17T12:36:13.767Z"
+    },
+    {
+      "name": "cron-parser",
+      "html_url": "https://github.com/harrisiirak/cron-parser",
+      "description": "Typescript library for parsing crontab instructions",
+      "topics": [
+        "cron",
+        "cron-expression",
+        "cron-parser",
+        "cronjob",
+        "crontab",
+        "crontab-format",
+        "typescript",
+        "typescript-library"
+      ],
+      "stargazers_count": 1490,
+      "pushed_at": "2026-09-12T19:13:13Z",
+      "added_to_queue": "2026-09-17T12:36:13.770Z"
+    },
+    {
+      "name": "remix-words-funny",
+      "html_url": "https://github.com/SteveSuv/remix-words-funny",
+      "description": "一个英语单词学习网站",
+      "topics": [
+        "drizzle-orm",
+        "heroui",
+        "jotai",
+        "jwt",
+        "lucide-icons",
+        "nodemailer",
+        "orpc",
+        "postgresql",
+        "react",
+        "react-query",
+        "react-router",
+        "remix",
+        "tailwindcss",
+        "tanstack-query",
+        "trpc",
+        "typescript",
+        "vite"
+      ],
+      "stargazers_count": 1353,
+      "pushed_at": "2026-09-10T17:29:54Z",
+      "added_to_queue": "2026-09-17T12:36:13.770Z"
+    },
+    {
+      "name": "tinymce-react",
+      "html_url": "https://github.com/tinymce/tinymce-react",
+      "description": "Offical TinyMCE React component",
+      "topics": [
+        "editors",
+        "javascript",
+        "react",
+        "tinymce",
+        "typescript"
+      ],
+      "stargazers_count": 1067,
+      "pushed_at": "2026-08-03T14:14:27Z",
+      "added_to_queue": "2026-09-17T12:36:13.770Z"
+    },
+    {
+      "name": "next-starter",
+      "html_url": "https://github.com/Skolaczk/next-starter",
+      "description": "A Next.js starter template, packed with features like TypeScript, Tailwind CSS, Next-auth, Biome, Stripe, testing tools and more. Jumpstart your project with efficiency and style.",
+      "topics": [
+        "biomejs",
+        "boilerplate",
+        "drizzle-orm",
+        "github-actions",
+        "husky",
+        "jest",
+        "next-auth",
+        "nextjs",
+        "nextjs-starter",
+        "nextjs-template",
+        "react",
+        "shadcn-ui",
+        "snippets",
+        "starter",
+        "stripe",
+        "tailwind-css-template",
+        "tailwindcss",
+        "template",
+        "typescript"
+      ],
+      "stargazers_count": 1001,
+      "pushed_at": "2026-09-12T10:01:59Z",
+      "added_to_queue": "2026-09-17T12:36:13.770Z"
+    },
+    {
+      "name": "react-hotkeys-hook",
+      "html_url": "https://github.com/JohannesKlauss/react-hotkeys-hook",
+      "description": "React hook for using keyboard shortcuts in components.",
+      "topics": [
+        "hook",
+        "hooks",
+        "hotkey",
+        "hotkeys",
+        "javascript",
+        "react",
+        "react-hooks",
+        "typescript"
+      ],
+      "stargazers_count": 3505,
+      "pushed_at": "2026-09-14T10:47:32Z",
+      "added_to_queue": "2026-09-17T12:36:13.770Z"
+    },
+    {
+      "name": "GUI.for.Clash",
+      "html_url": "https://github.com/GUI-for-Cores/GUI.for.Clash",
+      "description": "Modern, lightweight desktop app built with Wails (Go) and Vue 3. Efficient, cross-platform, and fast.",
+      "topics": [
+        "clash",
+        "gui",
+        "rolldown-vite",
+        "typescript",
+        "vue3",
+        "wails"
+      ],
+      "stargazers_count": 2832,
+      "pushed_at": "2026-09-14T14:37:29Z",
+      "added_to_queue": "2026-09-17T12:36:13.770Z"
+    },
+    {
+      "name": "start-ui-web",
+      "html_url": "https://github.com/BearStudio/start-ui-web",
+      "description": "🚀 Start UI [web] is an opinionated UI starter from the 🐻 BearStudio Team with ⚙️ Node.js, 🟦 TypeScript, ⚛️ React, 📦 TanStack Start, 💨 Tailwind CSS, 🧩 shadcn/ui, 📋 React Hook Form, 🔌 oRPC, 🛠 Prisma, 🔐 Better Auth, 📚 Storybook, 🧪 Vitest, 🎭 Playwright",
+      "topics": [
+        "boilerplate",
+        "hacktoberfest",
+        "maildev",
+        "orpc",
+        "prisma",
+        "react",
+        "react-email",
+        "react-hook-form",
+        "reactjs",
+        "shadcn-ui",
+        "starter",
+        "storybook",
+        "tailwindcss",
+        "tanstack-query",
+        "tanstack-router",
+        "tanstack-start",
+        "template",
+        "typescript",
+        "vitest",
+        "web"
+      ],
+      "stargazers_count": 1746,
+      "pushed_at": "2026-09-17T11:53:23Z",
+      "added_to_queue": "2026-09-17T12:36:13.770Z"
+    },
+    {
+      "name": "crowi",
+      "html_url": "https://github.com/crowi/crowi",
+      "description": "Crowi - The Markdown Wiki - Empower the team with sharing your knowledge",
+      "topics": [
+        "crowi",
+        "knowledge",
+        "markdown-wiki",
+        "typescript",
+        "wiki"
+      ],
+      "stargazers_count": 1099,
+      "pushed_at": "2026-09-17T07:49:00Z",
+      "added_to_queue": "2026-09-17T12:36:13.770Z"
+    },
+    {
+      "name": "typescript-nextjs-starter",
+      "html_url": "https://github.com/jpedroschmitz/typescript-nextjs-starter",
+      "description": "Non-opinionated TypeScript starter for Next.js 16. All the tools you need to build your next project ⚡️",
+      "topics": [
+        "cursor",
+        "hacktoberfest",
+        "nextjs",
+        "react",
+        "starter",
+        "typescript"
+      ],
+      "stargazers_count": 1431,
+      "pushed_at": "2026-09-17T03:42:43Z",
+      "added_to_queue": "2026-09-17T12:36:13.770Z"
+    },
+    {
+      "name": "vue-admin-arco",
+      "html_url": "https://github.com/zxwk1998/vue-admin-arco",
+      "description": "🎉🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro vite+typescript+arco.design中后台前端框架，vue3 admin前端框架",
+      "topics": [
+        "arco-design",
+        "arco-design-pro",
+        "typescript",
+        "vite",
+        "vue3-typescript"
+      ],
+      "stargazers_count": 674,
+      "pushed_at": "2026-09-17T03:01:07Z",
+      "added_to_queue": "2026-09-17T12:36:13.770Z"
+    },
+    {
+      "name": "solid-primitives",
+      "html_url": "https://github.com/solidjs-community/solid-primitives",
+      "description": "A library of high-quality primitives that extend Solid reactivity.",
+      "topics": [
+        "solidjs",
+        "typescript"
+      ],
+      "stargazers_count": 1558,
+      "pushed_at": "2026-09-05T14:13:37Z",
+      "added_to_queue": "2026-09-17T12:36:13.770Z"
+    },
+    {
+      "name": "tsdoc",
+      "html_url": "https://github.com/microsoft/tsdoc",
+      "description": "A doc comment standard for TypeScript",
+      "topics": [
+        "comments",
+        "doc-comments",
+        "documentation",
+        "jsdoc",
+        "markdown",
+        "parser",
+        "rushstack",
+        "specification",
+        "syntax",
+        "typescript"
+      ],
+      "stargazers_count": 4970,
+      "pushed_at": "2026-09-16T03:07:03Z",
+      "added_to_queue": "2026-09-17T12:36:13.770Z"
+    },
+    {
+      "name": "arktype",
+      "html_url": "https://github.com/arktypeio/arktype",
+      "description": "TypeScript's 1:1 validator, optimized from editor to runtime",
+      "topics": [
+        "javascript",
+        "parsing",
+        "runtime-typechecking",
+        "static-typing",
+        "typescript"
+      ],
+      "stargazers_count": 7863,
+      "pushed_at": "2026-09-09T21:50:50Z",
+      "added_to_queue": "2026-09-17T12:36:13.770Z"
+    },
+    {
+      "name": "perry",
+      "html_url": "https://github.com/PerryTS/perry",
+      "description": "A native TypeScript/JavaScript compiler written in Rust. Compiles TypeScript/JavaScript directly to executables using SWC and LLVM.",
+      "topics": [
+        "android",
+        "compile",
+        "harmonyos",
+        "ios",
+        "llvm",
+        "macos",
+        "native",
+        "smc",
+        "typescript",
+        "watchos",
+        "windows"
+      ],
+      "stargazers_count": 4846,
+      "pushed_at": "2026-09-17T12:30:29Z",
+      "added_to_queue": "2026-09-17T12:36:13.770Z"
+    },
+    {
+      "name": "igniteui-angular",
+      "html_url": "https://github.com/IgniteUI/igniteui-angular",
+      "description": "Ignite UI for Angular is a complete library of Angular UI components with the fastest grids and charts, dock manager, and more.",
+      "topics": [
+        "angular",
+        "angular-charts",
+        "angular-components",
+        "angular-datatable",
+        "angular-grid",
+        "angular-table",
+        "igniteui",
+        "infragistics",
+        "progressive-web-apps",
+        "typescript",
+        "ui-components"
+      ],
+      "stargazers_count": 599,
+      "pushed_at": "2026-09-17T12:29:35Z",
+      "added_to_queue": "2026-09-17T12:36:13.770Z"
+    },
+    {
+      "name": "graphql",
+      "html_url": "https://github.com/neo4j/graphql",
+      "description": "A GraphQL to Cypher query execution layer for Neo4j and JavaScript GraphQL implementations.",
+      "topics": [
+        "graphql",
+        "graphs",
+        "neo4j",
+        "neo4j-graphql",
+        "nodes-2022",
+        "typescript"
+      ],
+      "stargazers_count": 550,
+      "pushed_at": "2026-09-17T06:46:13Z",
+      "added_to_queue": "2026-09-17T12:36:13.770Z"
+    },
+    {
+      "name": "aigc-reduce",
+      "html_url": "https://github.com/xiaofenggan01/aigc-reduce",
+      "description": "降低学术论文 AIGC 查重率的 Claude Code Skill | A Claude Code skill for reducing AIGC detection rates in academic papers",
+      "topics": [],
+      "stargazers_count": 574,
+      "pushed_at": "2026-07-08T01:26:37Z",
+      "added_to_queue": "2026-09-17T12:40:09.746Z"
+    }
+  ]
 }
