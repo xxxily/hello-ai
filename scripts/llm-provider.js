@@ -18,10 +18,10 @@ const PROVIDER_PRESETS = {
   minimax: {
     name: 'MiniMax',
     baseUrl: 'https://api.minimax.io/v1',
-    defaultModel: 'MiniMax-M2.5',
+    defaultModel: 'MiniMax-M3',
     envKey: 'MINIMAX_API_KEY',
     temperatureRange: [0, 1],
-    models: ['MiniMax-M2.7', 'MiniMax-M2.5', 'MiniMax-M2.5-highspeed'],
+    models: ['MiniMax-M3', 'MiniMax-M2.7'],
   },
   deepseek: {
     name: 'DeepSeek',
@@ -132,7 +132,7 @@ function buildRequestBody(provider, model, messages, options = {}) {
 }
 
 /**
- * Strip <think>…</think> tags that some models (e.g. MiniMax-M2.5) may
+ * Strip <think>…</think> tags that some models (e.g. MiniMax-M3) may
  * include in their responses.
  */
 function stripThinkTags(text) {
