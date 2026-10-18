@@ -2,7 +2,7 @@
 
 > AI tools directly integrated with desktop OS or local environments.
 
-> 当前分类已收录 **1338** 个相关项目。
+> 当前分类已收录 **1351** 个相关项目。
 
 ## Browser Automations
 
@@ -10,9 +10,9 @@
 
 AI与人类协同浏览网页的浏览器，让AI和人类作为一个整体实体共同浏览和操作网络。
 
-- **Stars:** ⭐️ 616
+- **Stars:** ⭐️ 623
 - **Tags:** `ai` `browser` `human-ai-collaboration` `electron`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-16
 
 ## Local GUI Apps
 
@@ -20,65 +20,65 @@ AI与人类协同浏览网页的浏览器，让AI和人类作为一个整体实�
 
 跨平台个人AI助手，支持任意操作系统。注重数据隐私，让用户完全掌控自己的数据。
 
-- **Stars:** ⭐️ 390.9k
+- **Stars:** ⭐️ 392.3k
 - **Tags:** `AI助手` `跨平台` `隐私保护`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [cc-switch](https://github.com/farion1231/cc-switch)
 
 跨平台桌面应用，统一管理 Claude Code、Codex、Gemini CLI 等多种 AI 编程助手，支持 MCP 协议和技能管理。
 
-- **Stars:** ⭐️ 139.1k
+- **Stars:** ⭐️ 145.5k
 - **Tags:** `AI编程助手` `MCP` `跨平台` `桌面应用`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [rustdesk](https://github.com/rustdesk/rustdesk)
 
 一款开箱即用的开源远程桌面应用，支持自托管以替代 TeamViewer。跨平台支持，提供低延迟的远程控制体验。
 
-- **Stars:** ⭐️ 124.9k
+- **Stars:** ⭐️ 126.1k
 - **Tags:** `remote-desktop` `rust` `flutter` `p2p` `cross-platform`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-16
 
 ### [v2rayN](https://github.com/2dust/v2rayN)
 
 流行的开源代理客户端GUI，支持Xray、sing-box等多种内核，覆盖Windows、Linux与macOS平台。
 
-- **Stars:** ⭐️ 117.3k
+- **Stars:** ⭐️ 118.5k
 - **Tags:** `proxy` `v2ray` `xray` `cross-platform` `gui`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [anything-llm](https://github.com/Mintplex-Labs/anything-llm)
 
 全能AI生产力工具，支持本地部署和隐私优先，集成多种LLM模型、RAG和向量数据库功能。
 
-- **Stars:** ⭐️ 66.6k
+- **Stars:** ⭐️ 67.3k
 - **Tags:** `LLM` `RAG` `本地部署` `向量数据库`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [Motrix](https://github.com/agalwood/Motrix)
 
 界面美观、功能齐全的全能下载管理器，支持 HTTP、BT、磁力链等多种协议，跨 Windows/macOS/Linux 平台。
 
-- **Stars:** ⭐️ 56.0k
+- **Stars:** ⭐️ 57.0k
 - **Tags:** `Download-Manager` `Aria2` `BitTorrent` `Electron` `Cross-Platform`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [ImHex](https://github.com/WerWolv/ImHex)
 
 面向逆向工程师与程序员的高级十六进制编辑器，内置模式语言、反汇编与数据分析等强大功能。
 
-- **Stars:** ⭐️ 54.9k
+- **Stars:** ⭐️ 55.4k
 - **Tags:** `Hex-Editor` `Reverse-Engineering` `Cpp` `Forensics` `Binary-Analysis`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-09
 
 ### [x64dbg](https://github.com/x64dbg/x64dbg)
 
 开源的Windows用户态调试器，专为逆向工程与恶意软件分析优化。功能强大且插件生态丰富。
 
-- **Stars:** ⭐️ 49.7k
+- **Stars:** ⭐️ 49.9k
 - **Tags:** `debugger` `reverse-engineering` `malware-analysis` `windows`
-- **最后活动时间:** 2026-09-27
+- **最后活动时间:** 2026-10-17
 
 ### [spotube](https://github.com/KRTirtho/spotube)
 
@@ -100,161 +100,161 @@ AI与人类协同浏览网页的浏览器，让AI和人类作为一个整体实�
 
 隐私优先的个人知识管理软件，支持AI智能问答与OCR识别。完全开源自托管，集成多种AI能力。
 
-- **Stars:** ⭐️ 46.6k
+- **Stars:** ⭐️ 46.8k
 - **Tags:** `知识管理` `AI笔记` `本地优先`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [Files](https://github.com/files-community/Files)
 
 现代化Windows文件管理器，采用Fluent设计语言，帮助用户高效整理文件与文件夹。支持高度自定义与云服务集成。
 
-- **Stars:** ⭐️ 45.8k
+- **Stars:** ⭐️ 46.0k
 - **Tags:** `file-manager` `windows-11` `winui` `fluent-design`
-- **最后活动时间:** 2026-09-24
+- **最后活动时间:** 2026-10-15
 
 ### [Jan](https://github.com/janhq/jan)
 
 开源的ChatGPT替代方案，支持100%离线运行，保护隐私的同时提供本地LLM对话体验。
 
-- **Stars:** ⭐️ 44.7k
+- **Stars:** ⭐️ 45.0k
 - **Tags:** `LLM` `ChatGPT` `Offline` `Privacy`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-16
 
 ### [sniffnet](https://github.com/GyulyVGC/sniffnet)
 
 用 Rust 编写的舒适网络流量监控工具，可实时查看连接、带宽与安全状况。
 
-- **Stars:** ⭐️ 41.3k
+- **Stars:** ⭐️ 41.6k
 - **Tags:** `Rust` `Network-Monitoring` `Packet-Sniffer` `GUI` `Security`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-17
 
 ### [ShareX](https://github.com/ShareX/ShareX)
 
 功能强大的开源截图录屏工具，内置OCR文字识别功能，支持多种上传目标。
 
-- **Stars:** ⭐️ 39.8k
+- **Stars:** ⭐️ 40.1k
 - **Tags:** `screen-capture` `ocr` `screenshot` `productivity`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-15
 
 ### [MonitorControl](https://github.com/MonitorControl/MonitorControl)
 
 让 Mac 像控制原生 Apple 显示器一样调节外接显示器的亮度和音量,支持 Apple 键盘按键与自定义快捷键,并显示原生 macOS OSD。外接显示器用户的必备工具。
 
-- **Stars:** ⭐️ 34.4k
+- **Stars:** ⭐️ 34.5k
 - **Tags:** `macos` `brightness` `ddc` `monitor` `menubar`
-- **最后活动时间:** 2026-09-26
-
-### [BetterDisplay](https://github.com/waydabber/BetterDisplay)
-
-功能强大的 macOS 显示器管理工具，支持 HiDPI 缩放、XDR/HDR 亮度调节、虚拟屏幕、DDC 控制与 EDID 覆盖等。充分释放 Mac 显示器的全部潜力。
-
-- **Stars:** ⭐️ 33.9k
-- **Tags:** `macos` `display` `hidpi` `ddc` `brightness` `virtual-display` `edid` `hdr`
-- **最后活动时间:** 2026-09-23
-
-### [YesPlayMusic](https://github.com/qier222/YesPlayMusic)
-
-高颜值的第三方网易云音乐播放器，基于 Electron 与 Vue 构建，支持 Windows/macOS/Linux 及 PWA，界面简洁无广告。
-
-- **Stars:** ⭐️ 33.3k
-- **Tags:** `electron` `music-player` `vue` `netease-music` `cross-platform`
-- **最后活动时间:** 2026-06-14
-
-### [DevToys](https://github.com/DevToys-app/DevToys)
-
-专为开发者设计的“瑞士军刀”式桌面工具箱，提供格式转换、编码解码等实用功能。支持跨平台使用，界面美观且高度可扩展。
-
-- **Stars:** ⭐️ 32.0k
-- **Tags:** `developer-tools` `desktop-app` `cross-platform` `csharp`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-14
 
 ### [Recordly](https://github.com/webadderallorg/Recordly)
 
 无需剪辑技能即可制作精美演示视频的跨平台录屏工具，支持 Mac/Windows/Linux。
 
-- **Stars:** ⭐️ 32.0k
+- **Stars:** ⭐️ 34.2k
 - **Tags:** `Screen-Recorder` `Electron` `Open-Source` `Cross-Platform` `Demo`
-- **最后活动时间:** 2026-09-23
+- **最后活动时间:** 2026-10-17
+
+### [BetterDisplay](https://github.com/waydabber/BetterDisplay)
+
+功能强大的 macOS 显示器管理工具，支持 HiDPI 缩放、XDR/HDR 亮度调节、虚拟屏幕、DDC 控制与 EDID 覆盖等。充分释放 Mac 显示器的全部潜力。
+
+- **Stars:** ⭐️ 34.1k
+- **Tags:** `macos` `display` `hidpi` `ddc` `brightness` `virtual-display` `edid` `hdr`
+- **最后活动时间:** 2026-10-06
+
+### [YesPlayMusic](https://github.com/qier222/YesPlayMusic)
+
+高颜值的第三方网易云音乐播放器，基于 Electron 与 Vue 构建，支持 Windows/macOS/Linux 及 PWA，界面简洁无广告。
+
+- **Stars:** ⭐️ 33.4k
+- **Tags:** `electron` `music-player` `vue` `netease-music` `cross-platform`
+- **最后活动时间:** 2026-10-10
 
 ### [Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)
 
 专业的 Antigravity（谷歌 AI 编程 IDE）账号管理与切换工具，基于 Tauri v2 + React 构建。支持一键无缝切换多个账号，大幅提升 AI 编程工作流的使用效率。
 
-- **Stars:** ⭐️ 31.8k
+- **Stars:** ⭐️ 32.3k
 - **Tags:** `Antigravity` `Account-Manager` `Tauri` `AI-IDE` `Rust`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
+
+### [DevToys](https://github.com/DevToys-app/DevToys)
+
+专为开发者设计的“瑞士军刀”式桌面工具箱，提供格式转换、编码解码等实用功能。支持跨平台使用，界面美观且高度可扩展。
+
+- **Stars:** ⭐️ 32.1k
+- **Tags:** `developer-tools` `desktop-app` `cross-platform` `csharp`
+- **最后活动时间:** 2026-09-29
 
 ### [Rectangle](https://github.com/rxhanson/Rectangle)
 
 macOS 上广受欢迎的窗口管理工具,通过键盘快捷键和拖拽吸附区域快速移动和调整窗口大小。开源免费,是付费窗口管理工具的最佳替代品。
 
-- **Stars:** ⭐️ 30.0k
+- **Stars:** ⭐️ 30.1k
 - **Tags:** `macos` `window-manager` `productivity` `keyboard-shortcuts`
-- **最后活动时间:** 2026-09-27
+- **最后活动时间:** 2026-10-17
 
 ### [notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus)
 
 经典开源代码编辑器Notepad++官方仓库，轻量高效，支持多语言语法高亮与插件扩展。
 
-- **Stars:** ⭐️ 29.4k
+- **Stars:** ⭐️ 29.6k
 - **Tags:** `editor` `notepad` `windows` `text-editor`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [keepassxc](https://github.com/keepassxreboot/keepassxc)
 
 跨平台开源密码管理器，基于KeePass社区驱动开发，支持YubiKey与浏览器集成，注重隐私安全。
 
-- **Stars:** ⭐️ 29.0k
+- **Stars:** ⭐️ 29.3k
 - **Tags:** `password-manager` `security` `cross-platform` `privacy`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [gopeed](https://github.com/GopeedLab/gopeed)
 
 基于 Golang 与 Flutter 构建的现代高速下载管理器，支持 HTTP、BT、磁力链与 ed2k，全平台覆盖。
 
-- **Stars:** ⭐️ 26.6k
+- **Stars:** ⭐️ 27.0k
 - **Tags:** `Download-Manager` `Golang` `Flutter` `BitTorrent` `Cross-Platform`
-- **最后活动时间:** 2026-09-26
+- **最后活动时间:** 2026-10-17
 
 ### [UniGetUI](https://github.com/Devolutions/UniGetUI)
 
 Windows 包管理器统一图形界面，整合 Winget、Scoop、Chocolatey 等多种包管理器。简化软件安装和更新流程。
 
-- **Stars:** ⭐️ 26.3k
+- **Stars:** ⭐️ 26.6k
 - **Tags:** `package-manager` `windows` `gui` `winget`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-16
 
 ### [QuickLook](https://github.com/QL-Win/QuickLook)
 
 将macOS标志性的Quick Look快速预览功能带到Windows，选中文件按空格键即可即时预览。轻量高效，大幅提升文件浏览体验。
 
-- **Stars:** ⭐️ 25.1k
+- **Stars:** ⭐️ 25.4k
 - **Tags:** `Windows` `File Preview` `Productivity` `Utility` `QuickLook`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-14
 
 ### [gallery](https://github.com/google-ai-edge/gallery)
 
 展示设备端ML/GenAI用例的画廊应用，支持用户在本地尝试和使用各种AI模型。
 
-- **Stars:** ⭐️ 24.8k
+- **Stars:** ⭐️ 25.0k
 - **Tags:** `On-device ML` `GenAI` `Local Models`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-16
 
 ### [BongoCat](https://github.com/ayangweb/BongoCat)
 
 跨平台互动桌宠 BongoCat，支持按键联动动画，为你的桌面增添乐趣。
 
-- **Stars:** ⭐️ 23.7k
+- **Stars:** ⭐️ 24.0k
 - **Tags:** `Desktop-Pet` `Tauri` `Rust` `Cross-Platform` `Bongo-Cat`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)
 
 现代化、美观易用的跨平台SQL数据库客户端，支持MySQL、PostgreSQL、SQLite、SQL Server等多种数据库。界面简洁直观，适合开发者日常数据库管理与查询。
 
-- **Stars:** ⭐️ 23.7k
+- **Stars:** ⭐️ 23.8k
 - **Tags:** `SQL Client` `Database` `Electron` `Cross-Platform` `PostgreSQL` `MySQL`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [CodeEdit](https://github.com/CodeEditApp/CodeEdit)
 
@@ -262,31 +262,31 @@ Windows 包管理器统一图形界面，整合 Winget、Scoop、Chocolatey 等�
 
 - **Stars:** ⭐️ 23.1k
 - **Tags:** `macos` `code-editor` `swiftui` `ide` `open-source`
-- **最后活动时间:** 2026-08-18
+- **最后活动时间:** 2026-10-17
 
 ### [super-productivity](https://github.com/super-productivity/super-productivity)
 
 先进的开源待办事项应用，集成时间盒与时间追踪功能，并支持 Jira、GitLab、GitHub 等集成。
 
-- **Stars:** ⭐️ 22.4k
+- **Stars:** ⭐️ 22.9k
 - **Tags:** `Todo` `Time-Tracking` `Pomodoro` `Productivity` `Open-Source`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [Maccy](https://github.com/p0deje/Maccy)
 
 轻量级 macOS 剪贴板管理工具,使用 Swift 原生开发,简洁高效、资源占用极低。支持快捷键呼出与历史记录搜索,是 Mac 效率神器。
 
-- **Stars:** ⭐️ 21.8k
+- **Stars:** ⭐️ 22.0k
 - **Tags:** `macos` `clipboard-manager` `swift` `productivity`
-- **最后活动时间:** 2026-09-04
+- **最后活动时间:** 2026-10-15
 
 ### [Mos](https://github.com/Caldis/Mos)
 
 轻量级 macOS 鼠标滚动优化工具，让滚轮顺滑如触控板，还可独立设置滚动方向。
 
-- **Stars:** ⭐️ 21.5k
+- **Stars:** ⭐️ 21.7k
 - **Tags:** `macOS` `Mouse` `SmoothScrolling` `Utility` `Swift`
-- **最后活动时间:** 2026-08-20
+- **最后活动时间:** 2026-10-12
 
 ### [xbmc](https://github.com/xbmc/xbmc)
 
@@ -294,31 +294,47 @@ Windows 包管理器统一图形界面，整合 Winget、Scoop、Chocolatey 等�
 
 - **Stars:** ⭐️ 21.3k
 - **Tags:** `media-center` `media-player` `home-theater` `kodi` `cross-platform`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [FanControl.Releases](https://github.com/Rem0o/FanControl.Releases)
 
 高度可定制的 Windows 风扇控制软件，支持为 CPU/GPU 创建自定义温控曲线，是装机散热管理的首选工具。
 
-- **Stars:** ⭐️ 21.0k
+- **Stars:** ⭐️ 21.1k
 - **Tags:** `Windows` `Fan Control` `Hardware` `PWM` `Temperature`
-- **最后活动时间:** 2026-09-19
+- **最后活动时间:** 2026-10-15
 
 ### [animeko](https://github.com/open-ani/animeko)
 
 集找番、追番、看番于一体的一站式弹幕追番平台，支持Bangumi云收藏同步、离线缓存与弹幕云过滤。100% Kotlin/Compose Multiplatform实现。
 
-- **Stars:** ⭐️ 20.4k
+- **Stars:** ⭐️ 21.0k
 - **Tags:** `anime` `bangumi` `compose-multiplatform` `kotlin` `danmaku`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [llm_wiki](https://github.com/nashsu/llm_wiki)
 
 跨平台桌面应用，利用LLM将文档自动转化为有序互联的知识库，采用增量构建方式替代传统RAG方案。
 
-- **Stars:** ⭐️ 20.1k
+- **Stars:** ⭐️ 20.7k
 - **Tags:** `llm` `knowledge-base` `desktop-app` `rag`
 - **最后活动时间:** 2026-09-28
+
+### [OpenSpeedy](https://github.com/game1024/OpenSpeedy)
+
+基于Rust与Tauri构建的开源游戏变速工具，可自由调节Windows下单机游戏的运行速度。界面现代化、轻量无广告。
+
+- **Stars:** ⭐️ 19.7k
+- **Tags:** `Game Speed` `Rust` `Tauri` `Windows` `Game Modifier`
+- **最后活动时间:** 2026-10-04
+
+### [winlator](https://github.com/brunodev85/winlator)
+
+基于 Wine 与 Box86/Box64 的 Android 应用，可在手机上运行 Windows 程序与游戏。
+
+- **Stars:** ⭐️ 19.5k
+- **Tags:** `Wine` `Android` `Emulator` `Box64` `Windows-Apps`
+- **最后活动时间:** 2026-10-17
 
 ### [pot-desktop](https://github.com/pot-app/pot-desktop)
 
@@ -328,14 +344,6 @@ Windows 包管理器统一图形界面，整合 Winget、Scoop、Chocolatey 等�
 - **Tags:** `OCR` `Translation` `Desktop` `Tauri`
 - **最后活动时间:** 2026-07-04
 
-### [winlator](https://github.com/brunodev85/winlator)
-
-基于 Wine 与 Box86/Box64 的 Android 应用，可在手机上运行 Windows 程序与游戏。
-
-- **Stars:** ⭐️ 19.3k
-- **Tags:** `Wine` `Android` `Emulator` `Box64` `Windows-Apps`
-- **最后活动时间:** 2026-09-22
-
 ### [moonlight-qt](https://github.com/moonlight-stream/moonlight-qt)
 
 开源的NVIDIA GameStream串流客户端，支持在Windows、Mac、Linux及Steam Link上低延迟串流游玩PC游戏。画质与延迟表现优异，是串流玩家的首选方案。
@@ -344,29 +352,21 @@ Windows 包管理器统一图形界面，整合 Winget、Scoop、Chocolatey 等�
 - **Tags:** `Game Streaming` `Qt` `NVIDIA` `Low Latency` `Cross-Platform`
 - **最后活动时间:** 2026-09-28
 
-### [OpenSpeedy](https://github.com/game1024/OpenSpeedy)
-
-基于Rust与Tauri构建的开源游戏变速工具，可自由调节Windows下单机游戏的运行速度。界面现代化、轻量无广告。
-
-- **Stars:** ⭐️ 18.7k
-- **Tags:** `Game Speed` `Rust` `Tauri` `Windows` `Game Modifier`
-- **最后活动时间:** 2026-09-27
-
 ### [Mailspring](https://github.com/Foundry376/Mailspring)
 
 美观、快速且完全开源的跨平台邮件客户端。提供现代化的UI界面和高效的邮件管理体验。
 
 - **Stars:** ⭐️ 17.9k
 - **Tags:** `email` `mail-client` `electron` `cross-platform`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-16
 
 ### [ego-lite](https://github.com/citrolabs/ego-lite)
 
 一款专为人类与 AI 智能体并行工作而设计的轻量级浏览器。
 
-- **Stars:** ⭐️ 16.7k
+- **Stars:** ⭐️ 17.6k
 - **Tags:** `ai-agent` `browser` `skills`
-- **最后活动时间:** 2026-09-23
+- **最后活动时间:** 2026-10-16
 
 ### [Signal-Desktop](https://github.com/signalapp/Signal-Desktop)
 
@@ -374,15 +374,31 @@ Signal 官方桌面客户端，为 Windows、macOS 和 Linux 提供端到端加�
 
 - **Stars:** ⭐️ 16.6k
 - **Tags:** `messenger` `encryption` `privacy` `cross-platform`
-- **最后活动时间:** 2026-09-28
+- **最后活动时间:** 2026-10-15
 
 ### [quickemu](https://github.com/quickemu-project/quickemu)
 
 快速创建和运行优化的Windows、macOS和Linux虚拟机。简化了虚拟机管理流程，支持多种操作系统。
 
-- **Stars:** ⭐️ 16.4k
+- **Stars:** ⭐️ 16.5k
 - **Tags:** `virtualization` `qemu` `kvm`
-- **最后活动时间:** 2026-09-28
+- **最后活动时间:** 2026-10-14
+
+### [lantern](https://github.com/getlantern/lantern)
+
+开源 VPN 工具，专注于高速、隐私保护与审查规避，支持 Android、iOS、Windows、macOS 和 Linux。
+
+- **Stars:** ⭐️ 16.4k
+- **Tags:** `vpn` `censorship-circumvention` `privacy` `cross-platform`
+- **最后活动时间:** 2026-10-17
+
+### [cryptomator](https://github.com/cryptomator/cryptomator)
+
+为云存储提供客户端加密的开源工具，确保数据在上传前已完成加密，隐私完全由自己掌控。支持Windows、macOS和Linux主流平台。
+
+- **Stars:** ⭐️ 16.3k
+- **Tags:** `Encryption` `Cloud Storage` `Privacy` `Security` `Cross-Platform`
+- **最后活动时间:** 2026-10-16
 
 ### [Amethyst](https://github.com/ianyh/Amethyst)
 
@@ -390,31 +406,31 @@ macOS 自动平铺窗口管理器，类 xmonad 体验，大幅提升多窗口工
 
 - **Stars:** ⭐️ 16.3k
 - **Tags:** `macOS` `WindowManager` `Tiling` `Productivity`
-- **最后活动时间:** 2026-08-19
-
-### [cryptomator](https://github.com/cryptomator/cryptomator)
-
-为云存储提供客户端加密的开源工具，确保数据在上传前已完成加密，隐私完全由自己掌控。支持Windows、macOS和Linux主流平台。
-
-- **Stars:** ⭐️ 16.2k
-- **Tags:** `Encryption` `Cloud Storage` `Privacy` `Security` `Cross-Platform`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-14
 
 ### [systeminformer](https://github.com/winsiderss/systeminformer)
 
 强大的免费系统监控与调试工具。提供详细的进程管理、性能监控及恶意软件检测功能，是任务管理器的完美替代品。
 
-- **Stars:** ⭐️ 16.1k
+- **Stars:** ⭐️ 16.3k
 - **Tags:** `system-monitor` `task-manager` `debugging` `windows`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
-### [lantern](https://github.com/getlantern/lantern)
+### [NanaZip](https://github.com/M2Team/NanaZip)
 
-开源 VPN 工具，专注于高速、隐私保护与审查规避，支持 Android、iOS、Windows、macOS 和 Linux。
+面向现代 Windows 体验的 7-Zip 衍生分支，采用 WinUI 界面并深度适配 Windows 10/11。开源免费的文件压缩与解压利器。
 
-- **Stars:** ⭐️ 16.1k
-- **Tags:** `vpn` `censorship-circumvention` `privacy` `cross-platform`
-- **最后活动时间:** 2026-09-30
+- **Stars:** ⭐️ 15.9k
+- **Tags:** `file-compression` `windows` `7zip` `file-manager`
+- **最后活动时间:** 2026-10-17
+
+### [Magpie](https://github.com/Blinue/Magpie)
+
+Windows 10/11通用窗口超分辨率放大工具，支持Anime4K、FSR等多种算法实时放大。
+
+- **Stars:** ⭐️ 15.8k
+- **Tags:** `super-resolution` `windows` `fsr` `upscaling`
+- **最后活动时间:** 2026-10-17
 
 ### [better-genshin-impact](https://github.com/babalae/better-genshin-impact)
 
@@ -428,17 +444,9 @@ macOS 自动平铺窗口管理器，类 xmonad 体验，大幅提升多窗口工
 
 Windows快速文件搜索与应用启动器，类似Alfred/Spotlight，支持丰富的社区插件生态。
 
-- **Stars:** ⭐️ 15.7k
+- **Stars:** ⭐️ 15.8k
 - **Tags:** `launcher` `search` `productivity` `windows`
-- **最后活动时间:** 2026-09-30
-
-### [NanaZip](https://github.com/M2Team/NanaZip)
-
-面向现代 Windows 体验的 7-Zip 衍生分支，采用 WinUI 界面并深度适配 Windows 10/11。开源免费的文件压缩与解压利器。
-
-- **Stars:** ⭐️ 15.7k
-- **Tags:** `file-compression` `windows` `7zip` `file-manager`
-- **最后活动时间:** 2026-09-28
+- **最后活动时间:** 2026-10-17
 
 ### [DearPyGui](https://github.com/hoffstadt/DearPyGui)
 
@@ -448,29 +456,29 @@ Windows快速文件搜索与应用启动器，类似Alfred/Spotlight，支持丰
 - **Tags:** `python` `gui` `imgui`
 - **最后活动时间:** 2026-05-13
 
+### [eigent](https://github.com/eigent-ai/eigent)
+
+开源 AI 桌面助手，作为 Claude Cowork 的本地免费替代方案，支持多智能体协作提升工作效率。
+
+- **Stars:** ⭐️ 15.6k
+- **Tags:** `Desktop Agent` `Multi-Agent` `Claude`
+- **最后活动时间:** 2026-10-16
+
 ### [xournalpp](https://github.com/xournalpp/xournalpp)
 
 支持PDF注释的手写笔记软件，使用C++和GTK3开发。支持Wacom等手写板设备输入。
 
 - **Stars:** ⭐️ 15.5k
 - **Tags:** `notetaking` `pdf` `handwriting`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-16
 
-### [eigent](https://github.com/eigent-ai/eigent)
+### [Easydict](https://github.com/tisfeng/Easydict)
 
-开源 AI 桌面助手，作为 Claude Cowork 的本地免费替代方案，支持多智能体协作提升工作效率。
+简洁优雅的 macOS 词典翻译应用，支持离线 OCR 识别，集成 OpenAI、Gemini、DeepL 等多种翻译引擎。
 
-- **Stars:** ⭐️ 15.4k
-- **Tags:** `Desktop Agent` `Multi-Agent` `Claude`
-- **最后活动时间:** 2026-09-30
-
-### [Magpie](https://github.com/Blinue/Magpie)
-
-Windows 10/11通用窗口超分辨率放大工具，支持Anime4K、FSR等多种算法实时放大。
-
-- **Stars:** ⭐️ 15.2k
-- **Tags:** `super-resolution` `windows` `fsr` `upscaling`
-- **最后活动时间:** 2026-09-30
+- **Stars:** ⭐️ 15.0k
+- **Tags:** `OCR` `翻译` `macOS`
+- **最后活动时间:** 2026-10-14
 
 ### [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT)
 
@@ -480,21 +488,21 @@ ChatGPT 增强插件，提供自动刷新、数据安全、对话克隆等实用
 - **Tags:** `chatgpt` `userscript` `openai` `datasecurity`
 - **最后活动时间:** 2026-07-20
 
-### [Easydict](https://github.com/tisfeng/Easydict)
-
-简洁优雅的 macOS 词典翻译应用，支持离线 OCR 识别，集成 OpenAI、Gemini、DeepL 等多种翻译引擎。
-
-- **Stars:** ⭐️ 14.8k
-- **Tags:** `OCR` `翻译` `macOS`
-- **最后活动时间:** 2026-09-30
-
 ### [NotepadNext](https://github.com/dail8859/NotepadNext)
 
 跨平台的Notepad++重新实现版本。基于Qt6开发，支持Linux、macOS和Windows。
 
-- **Stars:** ⭐️ 14.6k
+- **Stars:** ⭐️ 14.7k
 - **Tags:** `editor` `notepad` `qt`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-13
+
+### [ImageGlass](https://github.com/d2phap/ImageGlass)
+
+快速、开源的现代图片查看器，支持90多种格式。跨平台兼容Windows、macOS和Linux。
+
+- **Stars:** ⭐️ 14.6k
+- **Tags:** `image-viewer` `cross-platform` `csharp`
+- **最后活动时间:** 2026-10-17
 
 ### [espanso](https://github.com/espanso/espanso)
 
@@ -502,39 +510,31 @@ ChatGPT 增强插件，提供自动刷新、数据安全、对话克隆等实用
 
 - **Stars:** ⭐️ 14.6k
 - **Tags:** `text-expander` `rust` `productivity`
-- **最后活动时间:** 2026-09-27
-
-### [ImageGlass](https://github.com/d2phap/ImageGlass)
-
-快速、开源的现代图片查看器，支持90多种格式。跨平台兼容Windows、macOS和Linux。
-
-- **Stars:** ⭐️ 14.5k
-- **Tags:** `image-viewer` `cross-platform` `csharp`
-- **最后活动时间:** 2026-09-28
+- **最后活动时间:** 2026-10-11
 
 ### [hermes-desktop](https://github.com/fathah/hermes-desktop)
 
 Hermes智能体的桌面伴侣应用，提供本地化AI助手体验。
 
-- **Stars:** ⭐️ 14.3k
+- **Stars:** ⭐️ 14.4k
 - **Tags:** `desktop-companion` `hermes-agent` `local-gui`
-- **最后活动时间:** 2026-09-24
+- **最后活动时间:** 2026-10-13
 
 ### [kopia](https://github.com/kopia/kopia)
 
 跨平台备份工具，支持快速增量备份、端到端加密和数据去重。提供CLI和GUI界面。
 
-- **Stars:** ⭐️ 14.2k
+- **Stars:** ⭐️ 14.4k
 - **Tags:** `backup` `encryption` `deduplication`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-16
 
 ### [Zettlr](https://github.com/Zettlr/Zettlr)
 
 一站式出版工作台，支持Markdown编辑和导出多种格式。适合学者和作家使用。
 
-- **Stars:** ⭐️ 13.6k
+- **Stars:** ⭐️ 13.8k
 - **Tags:** `markdown` `editor` `productivity`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-17
 
 ### [note-gen](https://github.com/codexu/note-gen)
 
@@ -542,39 +542,47 @@ Hermes智能体的桌面伴侣应用，提供本地化AI助手体验。
 
 - **Stars:** ⭐️ 12.9k
 - **Tags:** `AI笔记` `RAG` `MCP` `Tauri`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-11
 
 ### [HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
 
 支持GOG、Amazon和Epic Games的游戏启动器。跨平台兼容Linux、Windows和macOS。
 
-- **Stars:** ⭐️ 12.3k
+- **Stars:** ⭐️ 12.4k
 - **Tags:** `gaming` `launcher` `epic-games`
-- **最后活动时间:** 2026-09-29
-
-### [escrcpy](https://github.com/viarotel-org/escrcpy)
-
-基于 scrcpy 的 Android 设备图形化控制工具，支持屏幕镜像和录制。
-
-- **Stars:** ⭐️ 11.9k
-- **Tags:** `android` `scrcpy` `screen-mirroring`
-- **最后活动时间:** 2026-09-01
-
-### [Kavita](https://github.com/Kareadita/Kavita)
-
-快速且功能丰富的跨平台自托管阅读服务器，支持漫画、电子书、PDF 等格式，可与亲友共享书库。
-
-- **Stars:** ⭐️ 11.8k
-- **Tags:** `Self-Hosted` `Media-Server` `Epub` `Manga` `CSharp`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-15
 
 ### [SimpMusic](https://github.com/maxrave-dev/SimpMusic)
 
 跨平台音乐播放器，使用 YouTube Music 作为后端。
 
-- **Stars:** ⭐️ 11.6k
+- **Stars:** ⭐️ 12.1k
 - **Tags:** `music` `youtube-music` `cross-platform`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
+
+### [escrcpy](https://github.com/viarotel-org/escrcpy)
+
+基于 scrcpy 的 Android 设备图形化控制工具，支持屏幕镜像和录制。
+
+- **Stars:** ⭐️ 12.1k
+- **Tags:** `android` `scrcpy` `screen-mirroring`
+- **最后活动时间:** 2026-10-10
+
+### [Kavita](https://github.com/Kareadita/Kavita)
+
+快速且功能丰富的跨平台自托管阅读服务器，支持漫画、电子书、PDF 等格式，可与亲友共享书库。
+
+- **Stars:** ⭐️ 11.9k
+- **Tags:** `Self-Hosted` `Media-Server` `Epub` `Manga` `CSharp`
+- **最后活动时间:** 2026-10-16
+
+### [openchamber](https://github.com/openchamber/openchamber)
+
+OpenCode AI代理的桌面和Web界面，提供本地AI代理交互体验。
+
+- **Stars:** ⭐️ 11.8k
+- **Tags:** `ai-agent` `desktop` `gui` `opencode`
+- **最后活动时间:** 2026-10-17
 
 ### [EarTrumpet](https://github.com/File-New-Project/EarTrumpet)
 
@@ -592,14 +600,6 @@ Windows 平台上广受欢迎的音量控制工具，支持按应用单独调节
 - **Tags:** `remote-desktop` `rdp` `ssh` `connection-manager` `windows`
 - **最后活动时间:** 2026-09-29
 
-### [openchamber](https://github.com/openchamber/openchamber)
-
-OpenCode AI代理的桌面和Web界面，提供本地AI代理交互体验。
-
-- **Stars:** ⭐️ 11.0k
-- **Tags:** `ai-agent` `desktop` `gui` `opencode`
-- **最后活动时间:** 2026-09-30
-
 ### [coworker](https://github.com/accomplish-ai/coworker)
 
 Coworker 是一款开源的 AI 桌面助手，常驻于您的桌面环境以提供便捷的智能辅助。
@@ -612,7 +612,7 @@ Coworker 是一款开源的 AI 桌面助手，常驻于您的桌面环境以提�
 
 开源 Windows 屏幕录制工具，支持捕获屏幕、音频、鼠标点击与按键，并可导出 GIF，功能全面且轻量。
 
-- **Stars:** ⭐️ 10.8k
+- **Stars:** ⭐️ 10.9k
 - **Tags:** `screen-recorder` `screen-capture` `gif` `dotnet` `windows`
 - **最后活动时间:** 2026-05-25
 
@@ -632,29 +632,45 @@ Coworker 是一款开源的 AI 桌面助手，常驻于您的桌面环境以提�
 - **Tags:** `streaming` `desktop` `media`
 - **最后活动时间:** 2026-09-04
 
-### [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire)
-
-macOS和iOS上的RSS阅读器。提供简洁的界面和高效的订阅管理功能。
-
-- **Stars:** ⭐️ 10.4k
-- **Tags:** `rss` `macos` `ios`
-- **最后活动时间:** 2026-09-29
-
 ### [Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 
 强大且易用的开源像素艺术多工具。支持创建精灵图、动画等，跨平台可用。
 
-- **Stars:** ⭐️ 10.4k
+- **Stars:** ⭐️ 10.6k
 - **Tags:** `pixel-art` `godot` `graphics`
-- **最后活动时间:** 2026-09-28
+- **最后活动时间:** 2026-10-17
 
 ### [ytDownloader](https://github.com/aandrew-me/ytDownloader)
 
 跨平台桌面视频音频下载工具，支持数百个网站。
 
-- **Stars:** ⭐️ 10.4k
+- **Stars:** ⭐️ 10.5k
 - **Tags:** `downloader` `video` `yt-dlp`
-- **最后活动时间:** 2026-09-24
+- **最后活动时间:** 2026-10-13
+
+### [optimizerDuck](https://github.com/itsfatduck/optimizerDuck)
+
+免费开源的 Windows 优化工具，专注于性能提升、隐私保护与系统精简，界面简洁易用。
+
+- **Stars:** ⭐️ 10.5k
+- **Tags:** `Windows` `Optimizer` `Open-Source` `Privacy` `Performance`
+- **最后活动时间:** 2026-10-13
+
+### [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire)
+
+macOS和iOS上的RSS阅读器。提供简洁的界面和高效的订阅管理功能。
+
+- **Stars:** ⭐️ 10.5k
+- **Tags:** `rss` `macos` `ios`
+- **最后活动时间:** 2026-10-17
+
+### [openscad](https://github.com/openscad/openscad)
+
+程序员专用的实体 3D CAD 建模器，通过代码描述生成精确的 3D 模型，广泛用于 3D 打印。
+
+- **Stars:** ⭐️ 10.5k
+- **Tags:** `CAD` `3D-Printing` `3D-Modeling` `OpenGL` `Cpp`
+- **最后活动时间:** 2026-10-16
 
 ### [notepad--](https://github.com/cxasm/notepad--)
 
@@ -672,13 +688,21 @@ macOS和iOS上的RSS阅读器。提供简洁的界面和高效的订阅管理功
 - **Tags:** `snippets` `gist` `electron`
 - **最后活动时间:** 2026-09-30
 
-### [openscad](https://github.com/openscad/openscad)
+### [genoffice](https://github.com/genspark-ai/genoffice)
 
-程序员专用的实体 3D CAD 建模器，通过代码描述生成精确的 3D 模型，广泛用于 3D 打印。
+一款免费开源的跨平台 AI 办公套件，支持 Word、Excel、PPT、PDF 和 Markdown 编辑，并内置 AI 智能体辅助办公。
 
-- **Stars:** ⭐️ 10.3k
-- **Tags:** `CAD` `3D-Printing` `3D-Modeling` `OpenGL` `Cpp`
-- **最后活动时间:** 2026-09-30
+- **Stars:** ⭐️ 9.9k
+- **Tags:** `ai` `office-suite` `cross-platform` `docx` `pptx` `electron`
+- **最后活动时间:** 2026-10-17
+
+### [opendrop](https://github.com/seemoo-lab/opendrop)
+
+Python 实现的开源 Apple AirDrop 协议，支持跨平台文件传输。
+
+- **Stars:** ⭐️ 9.9k
+- **Tags:** `airdrop` `file-transfer` `python`
+- **最后活动时间:** 2026-08-17
 
 ### [Sparkle](https://github.com/sparkle-project/Sparkle)
 
@@ -687,22 +711,6 @@ macOS 软件更新框架，支持自动版本检测和增量更新。
 - **Stars:** ⭐️ 9.8k
 - **Tags:** `macos` `update` `framework`
 - **最后活动时间:** 2026-09-28
-
-### [optimizerDuck](https://github.com/itsfatduck/optimizerDuck)
-
-免费开源的 Windows 优化工具，专注于性能提升、隐私保护与系统精简，界面简洁易用。
-
-- **Stars:** ⭐️ 9.8k
-- **Tags:** `Windows` `Optimizer` `Open-Source` `Privacy` `Performance`
-- **最后活动时间:** 2026-09-25
-
-### [opendrop](https://github.com/seemoo-lab/opendrop)
-
-Python 实现的开源 Apple AirDrop 协议，支持跨平台文件传输。
-
-- **Stars:** ⭐️ 9.8k
-- **Tags:** `airdrop` `file-transfer` `python`
-- **最后活动时间:** 2026-08-17
 
 ### [Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode)
 
@@ -718,7 +726,23 @@ Python 实现的开源 Apple AirDrop 协议，支持跨平台文件传输。
 
 - **Stars:** ⭐️ 9.7k
 - **Tags:** `rss` `electron` `react`
-- **最后活动时间:** 2026-09-16
+- **最后活动时间:** 2026-10-15
+
+### [openwhispr](https://github.com/OpenWhispr/openwhispr)
+
+隐私优先的跨平台语音转文字应用，支持本地Whisper模型和多种云端API，兼顾隐私与便捷。
+
+- **Stars:** ⭐️ 9.5k
+- **Tags:** `语音识别` `跨平台` `隐私保护`
+- **最后活动时间:** 2026-10-17
+
+### [winmerge](https://github.com/WinMerge/winmerge)
+
+开源的Windows文件和文件夹比较与合并工具。提供直观的可视化界面，方便处理文本、图像及网页差异。
+
+- **Stars:** ⭐️ 9.3k
+- **Tags:** `diff` `merge` `compare-files` `windows`
+- **最后活动时间:** 2026-10-17
 
 ### [multipass](https://github.com/canonical/multipass)
 
@@ -726,15 +750,7 @@ Ubuntu 官方虚拟机编排工具，快速创建和管理 Ubuntu 实例。
 
 - **Stars:** ⭐️ 9.3k
 - **Tags:** `virtual-machine` `ubuntu` `container`
-- **最后活动时间:** 2026-09-30
-
-### [winmerge](https://github.com/WinMerge/winmerge)
-
-开源的Windows文件和文件夹比较与合并工具。提供直观的可视化界面，方便处理文本、图像及网页差异。
-
-- **Stars:** ⭐️ 9.2k
-- **Tags:** `diff` `merge` `compare-files` `windows`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [Thaw](https://github.com/stonerl/Thaw)
 
@@ -744,21 +760,21 @@ Ubuntu 官方虚拟机编排工具，快速创建和管理 Ubuntu 实例。
 - **Tags:** `macos` `menu-bar` `swiftui` `utility`
 - **最后活动时间:** 2026-07-27
 
+### [CompactGUI](https://github.com/IridiumIO/CompactGUI)
+
+利用Windows原生API压缩游戏和程序以减少磁盘占用的图形化工具。提供直观的界面来管理文件系统压缩。
+
+- **Stars:** ⭐️ 9.0k
+- **Tags:** `compression` `windows` `gui` `disk-space`
+- **最后活动时间:** 2026-10-13
+
 ### [Sloth](https://github.com/sveinbjornt/Sloth)
 
 macOS 系统监控工具，显示所有进程打开的文件、套接字和管道。
 
 - **Stars:** ⭐️ 9.0k
 - **Tags:** `macos` `system-monitor` `lsof`
-- **最后活动时间:** 2026-08-30
-
-### [CompactGUI](https://github.com/IridiumIO/CompactGUI)
-
-利用Windows原生API压缩游戏和程序以减少磁盘占用的图形化工具。提供直观的界面来管理文件系统压缩。
-
-- **Stars:** ⭐️ 8.9k
-- **Tags:** `compression` `windows` `gui` `disk-space`
-- **最后活动时间:** 2026-09-27
+- **最后活动时间:** 2026-10-15
 
 ### [Clipy](https://github.com/Clipy/Clipy)
 
@@ -766,23 +782,7 @@ macOS 剪贴板历史管理工具，支持快速粘贴历史内容。
 
 - **Stars:** ⭐️ 8.9k
 - **Tags:** `clipboard` `macos` `utility`
-- **最后活动时间:** 2026-09-28
-
-### [openwhispr](https://github.com/OpenWhispr/openwhispr)
-
-隐私优先的跨平台语音转文字应用，支持本地Whisper模型和多种云端API，兼顾隐私与便捷。
-
-- **Stars:** ⭐️ 8.9k
-- **Tags:** `语音识别` `跨平台` `隐私保护`
-- **最后活动时间:** 2026-09-30
-
-### [NETworkManager](https://github.com/BornToBeRoot/NETworkManager)
-
-强大的开源网络管理与故障排除工具。集成了IP扫描、端口扫描、Ping监控、SSH及远程桌面等多种网络管理功能。
-
-- **Stars:** ⭐️ 8.8k
-- **Tags:** `network` `troubleshooting` `ip-scanner` `windows`
-- **最后活动时间:** 2026-09-24
+- **最后活动时间:** 2026-10-17
 
 ### [VirtualBuddy](https://github.com/insidegui/VirtualBuddy)
 
@@ -790,7 +790,15 @@ Apple Silicon Mac 虚拟机工具，支持 macOS 12 及以上版本。
 
 - **Stars:** ⭐️ 8.8k
 - **Tags:** `virtual-machine` `macos` `apple-silicon`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-14
+
+### [NETworkManager](https://github.com/BornToBeRoot/NETworkManager)
+
+强大的开源网络管理与故障排除工具。集成了IP扫描、端口扫描、Ping监控、SSH及远程桌面等多种网络管理功能。
+
+- **Stars:** ⭐️ 8.8k
+- **Tags:** `network` `troubleshooting` `ip-scanner` `windows`
+- **最后活动时间:** 2026-10-12
 
 ### [WWDC](https://github.com/insidegui/WWDC)
 
@@ -806,7 +814,7 @@ macOS 非官方 WWDC 应用，方便开发者观看苹果开发者大会内容�
 
 - **Stars:** ⭐️ 8.7k
 - **Tags:** `wiki` `javascript` `notes` `knowledge-base`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-09
 
 ### [MiaoYan](https://github.com/tw93/MiaoYan)
 
@@ -814,7 +822,7 @@ macOS 非官方 WWDC 应用，方便开发者观看苹果开发者大会内容�
 
 - **Stars:** ⭐️ 8.7k
 - **Tags:** `markdown` `editor` `macos`
-- **最后活动时间:** 2026-09-28
+- **最后活动时间:** 2026-10-15
 
 ### [XcodesApp](https://github.com/XcodesOrg/XcodesApp)
 
@@ -822,7 +830,15 @@ Xcode 版本管理工具，一键安装和切换多个 Xcode 版本。
 
 - **Stars:** ⭐️ 8.6k
 - **Tags:** `xcode` `macos` `developer-tools`
-- **最后活动时间:** 2026-09-14
+- **最后活动时间:** 2026-10-13
+
+### [CotEditor](https://github.com/coteditor/CotEditor)
+
+macOS 轻量级纯文本编辑器，支持语法高亮和编码转换。
+
+- **Stars:** ⭐️ 8.6k
+- **Tags:** `text-editor` `macos` `swift`
+- **最后活动时间:** 2026-10-17
 
 ### [Gifski](https://github.com/sindresorhus/Gifski)
 
@@ -831,14 +847,6 @@ Xcode 版本管理工具，一键安装和切换多个 Xcode 版本。
 - **Stars:** ⭐️ 8.6k
 - **Tags:** `gif` `video-converter` `macos`
 - **最后活动时间:** 2026-09-11
-
-### [CotEditor](https://github.com/coteditor/CotEditor)
-
-macOS 轻量级纯文本编辑器，支持语法高亮和编码转换。
-
-- **Stars:** ⭐️ 8.5k
-- **Tags:** `text-editor` `macos` `swift`
-- **最后活动时间:** 2026-09-30
 
 ### [oblivion-desktop](https://github.com/bepass-org/oblivion-desktop)
 
@@ -854,15 +862,15 @@ macOS 轻量级纯文本编辑器，支持语法高亮和编码转换。
 
 - **Stars:** ⭐️ 8.3k
 - **Tags:** `voip` `voice-chat` `audio` `open-source`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-16
 
-### [genoffice](https://github.com/genspark-ai/genoffice)
+### [STranslate](https://github.com/STranslate/STranslate)
 
-一款免费开源的跨平台 AI 办公套件，支持 Word、Excel、PPT、PDF 和 Markdown 编辑，并内置 AI 智能体辅助办公。
+基于WPF开发的即用即走翻译与OCR工具，支持多种翻译引擎和OCR识别。
 
 - **Stars:** ⭐️ 8.3k
-- **Tags:** `ai` `office-suite` `cross-platform` `docx` `pptx` `electron`
-- **最后活动时间:** 2026-09-29
+- **Tags:** `ocr` `translate` `desktop` `wpf`
+- **最后活动时间:** 2026-09-24
 
 ### [pinokio](https://github.com/pinokiocomputer/pinokio)
 
@@ -872,13 +880,13 @@ AI浏览器，便捷运行和管理各类AI模型与应用。
 - **Tags:** `ai-browser` `ai-tools` `local-ai`
 - **最后活动时间:** 2026-09-02
 
-### [STranslate](https://github.com/STranslate/STranslate)
+### [xdm](https://github.com/subhra74/xdm)
 
-基于WPF开发的即用即走翻译与OCR工具，支持多种翻译引擎和OCR识别。
+强大的下载加速器与视频下载工具。支持从流媒体网站抓取并转换视频格式，提升下载效率。
 
-- **Stars:** ⭐️ 8.1k
-- **Tags:** `ocr` `translate` `desktop` `wpf`
-- **最后活动时间:** 2026-09-24
+- **Stars:** ⭐️ 8.0k
+- **Tags:** `download-manager` `video-downloader` `java` `cross-platform`
+- **最后活动时间:** 2026-10-17
 
 ### [MochiDiffusion](https://github.com/MochiDiffusion/MochiDiffusion)
 
@@ -886,15 +894,15 @@ AI浏览器，便捷运行和管理各类AI模型与应用。
 
 - **Stars:** ⭐️ 8.0k
 - **Tags:** `stable-diffusion` `coreml` `macos` `apple-silicon`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-11
 
-### [xdm](https://github.com/subhra74/xdm)
+### [claude-desktop-zh-cn](https://github.com/javaht/claude-desktop-zh-cn)
 
-强大的下载加速器与视频下载工具。支持从流媒体网站抓取并转换视频格式，提升下载效率。
+Claude Desktop 中文化补丁，支持 macOS 和 Windows 系统，帮助中文用户更好地使用 Claude 桌面应用。
 
-- **Stars:** ⭐️ 8.0k
-- **Tags:** `download-manager` `video-downloader` `java` `cross-platform`
-- **最后活动时间:** 2026-09-28
+- **Stars:** ⭐️ 7.7k
+- **Tags:** `claude` `desktop` `localization` `chinese`
+- **最后活动时间:** 2026-10-13
 
 ### [ClawX](https://github.com/ValueCell-ai/ClawX)
 
@@ -902,15 +910,23 @@ OpenClaw AI智能体的桌面图形界面应用，将命令行AI编排转换为�
 
 - **Stars:** ⭐️ 7.6k
 - **Tags:** `AI Agents` `Desktop App` `GUI`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-15
+
+### [openmtp](https://github.com/ganeshrvel/openmtp)
+
+macOS 上功能强大的 Android 文件传输应用，基于 Electron 构建，彻底解决 MTP 传输难题。
+
+- **Stars:** ⭐️ 7.6k
+- **Tags:** `macOS` `Android` `FileTransfer` `Electron` `MTP`
+- **最后活动时间:** 2026-09-23
 
 ### [Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace)
 
 专为 macOS 设计的 MySQL/MariaDB 数据库管理客户端，提供直观高效的数据库操作体验。是经典软件 Sequel Pro 的现代化分支。
 
-- **Stars:** ⭐️ 7.5k
+- **Stars:** ⭐️ 7.6k
 - **Tags:** `macos` `mysql` `mariadb` `database` `objective-c`
-- **最后活动时间:** 2026-09-28
+- **最后活动时间:** 2026-10-16
 
 ### [fsnotes](https://github.com/glushchenko/fsnotes)
 
@@ -918,7 +934,7 @@ OpenClaw AI智能体的桌面图形界面应用，将命令行AI编排转换为�
 
 - **Stars:** ⭐️ 7.5k
 - **Tags:** `macos` `ios` `notes` `swift` `markdown`
-- **最后活动时间:** 2026-09-20
+- **最后活动时间:** 2026-10-09
 
 ### [EcoPaste](https://github.com/EcoPasteHub/EcoPaste)
 
@@ -928,29 +944,13 @@ OpenClaw AI智能体的桌面图形界面应用，将命令行AI编排转换为�
 - **Tags:** `clipboard` `cross-platform` `tauri` `rust` `desktop-app`
 - **最后活动时间:** 2026-08-13
 
-### [openmtp](https://github.com/ganeshrvel/openmtp)
-
-macOS 上功能强大的 Android 文件传输应用，基于 Electron 构建，彻底解决 MTP 传输难题。
-
-- **Stars:** ⭐️ 7.4k
-- **Tags:** `macOS` `Android` `FileTransfer` `Electron` `MTP`
-- **最后活动时间:** 2026-09-23
-
 ### [Keka](https://github.com/aonez/Keka)
 
 macOS 与 iOS 上广受欢迎的开源文件压缩解压工具，支持 7z、Zip、RAR、Zstd 等多种格式。界面简洁、性能出色，是 Mac 平台压缩工具的首选。
 
-- **Stars:** ⭐️ 7.4k
+- **Stars:** ⭐️ 7.5k
 - **Tags:** `archiver` `compression` `macos` `7zip` `file-management`
-- **最后活动时间:** 2026-09-24
-
-### [claude-desktop-zh-cn](https://github.com/javaht/claude-desktop-zh-cn)
-
-Claude Desktop 中文化补丁，支持 macOS 和 Windows 系统，帮助中文用户更好地使用 Claude 桌面应用。
-
-- **Stars:** ⭐️ 7.4k
-- **Tags:** `claude` `desktop` `localization` `chinese`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-07
 
 ### [rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop)
 
@@ -958,15 +958,15 @@ Claude Desktop 中文化补丁，支持 macOS 和 Windows 系统，帮助中文�
 
 - **Stars:** ⭐️ 7.4k
 - **Tags:** `kubernetes` `containers` `desktop` `docker`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [Final2x](https://github.com/EutropicAI/Final2x)
 
 跨平台图像超分辨率工具，支持多种模型，可快速提升图片清晰度。
 
-- **Stars:** ⭐️ 7.3k
+- **Stars:** ⭐️ 7.4k
 - **Tags:** `super-resolution` `image-processing` `cross-platform`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [Publii](https://github.com/GetPublii/Publii)
 
@@ -974,7 +974,15 @@ Claude Desktop 中文化补丁，支持 macOS 和 Windows 系统，帮助中文�
 
 - **Stars:** ⭐️ 7.3k
 - **Tags:** `cms` `static-site-generator` `electron` `vue` `seo`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-16
+
+### [eSearch](https://github.com/xushengfeng/eSearch)
+
+跨平台截图工具，集成离线OCR识别、屏幕翻译、以图搜图等AI功能，支持录屏和滚动截图。
+
+- **Stars:** ⭐️ 7.3k
+- **Tags:** `OCR` `Screenshot` `Translation` `Desktop`
+- **最后活动时间:** 2026-10-15
 
 ### [Lyricify-App](https://github.com/WXRIW/Lyricify-App)
 
@@ -984,14 +992,6 @@ Claude Desktop 中文化补丁，支持 macOS 和 Windows 系统，帮助中文�
 - **Tags:** `lyrics` `spotify` `music` `windows`
 - **最后活动时间:** 2026-09-29
 
-### [eSearch](https://github.com/xushengfeng/eSearch)
-
-跨平台截图工具，集成离线OCR识别、屏幕翻译、以图搜图等AI功能，支持录屏和滚动截图。
-
-- **Stars:** ⭐️ 7.2k
-- **Tags:** `OCR` `Screenshot` `Translation` `Desktop`
-- **最后活动时间:** 2026-09-29
-
 ### [Parabolic](https://github.com/NickvisionApps/Parabolic)
 
 基于 yt-dlp 的现代视频下载器，采用 GTK4/libadwaita 打造优雅界面，轻松下载网页视频与音频。支持 Windows 与 Linux 平台。
@@ -999,6 +999,14 @@ Claude Desktop 中文化补丁，支持 macOS 和 Windows 系统，帮助中文�
 - **Stars:** ⭐️ 7.2k
 - **Tags:** `yt-dlp` `video-downloader` `gtk` `windows`
 - **最后活动时间:** 2026-06-29
+
+### [PureMac](https://github.com/momenbasel/PureMac)
+
+免费开源的macOS系统清理工具，CleanMyMac的零遥测替代品。原生SwiftUI开发，支持定时自动清理与Xcode/Homebrew/系统缓存清理。
+
+- **Stars:** ⭐️ 7.2k
+- **Tags:** `macos` `cleaner` `swiftui` `privacy` `open-source`
+- **最后活动时间:** 2026-10-17
 
 ### [CapsWriter-Offline](https://github.com/HaujetZhao/CapsWriter-Offline)
 
@@ -1016,13 +1024,21 @@ Claude Desktop 中文化补丁，支持 macOS 和 Windows 系统，帮助中文�
 - **Tags:** `macos` `keepass` `password-manager` `security` `native`
 - **最后活动时间:** 2026-09-23
 
-### [PureMac](https://github.com/momenbasel/PureMac)
+### [MoeKoeMusic](https://github.com/MoeKoeMusic/MoeKoeMusic)
 
-免费开源的macOS系统清理工具，CleanMyMac的零遥测替代品。原生SwiftUI开发，支持定时自动清理与Xcode/Homebrew/系统缓存清理。
+一款开源且高颜值的酷狗音乐第三方桌面客户端，支持 Windows、macOS 和 Linux。提供简洁纯粹的音乐播放体验。
 
 - **Stars:** ⭐️ 6.8k
-- **Tags:** `macos` `cleaner` `swiftui` `privacy` `open-source`
-- **最后活动时间:** 2026-09-30
+- **Tags:** `electron` `music` `vue3` `cross-platform` `desktop-app`
+- **最后活动时间:** 2026-10-15
+
+### [flyingmouse-format](https://github.com/LaoFeng-mouse/flyingmouse-format)
+
+Windows 免费离线文件格式转换工具，内置 FFmpeg、LibreOffice、Poppler 和 Tesseract，支持图片、文档、音视频等格式互转及 OCR 识别。
+
+- **Stars:** ⭐️ 6.7k
+- **Tags:** `file-converter` `ocr` `tesseract` `windows` `offline`
+- **最后活动时间:** 2026-10-14
 
 ### [openshot-qt](https://github.com/OpenShot/openshot-qt)
 
@@ -1030,7 +1046,7 @@ Claude Desktop 中文化补丁，支持 macOS 和 Windows 系统，帮助中文�
 
 - **Stars:** ⭐️ 6.6k
 - **Tags:** `video-editing` `ffmpeg` `python` `qt5` `cross-platform`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [LiteMonitor](https://github.com/Diorser/LiteMonitor)
 
@@ -1060,9 +1076,17 @@ Claude Code 的桌面图形界面应用，支持可视化聊天、代码编辑�
 
 一款跨平台的终端音频可视化工具，支持 ALSA、PulseAudio 等多种音频后端。为命令行爱好者提供极具视觉冲击力的音乐律动效果。
 
-- **Stars:** ⭐️ 6.4k
+- **Stars:** ⭐️ 6.5k
 - **Tags:** `audio-visualizer` `terminal` `linux` `ncurses` `cross-platform`
 - **最后活动时间:** 2026-09-21
+
+### [clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk)
+
+一款桌面宠物应用，能够实时响应你的Claude Code会话状态，展示思考、打字、杂耍、睡觉等可爱动画效果。
+
+- **Stars:** ⭐️ 6.5k
+- **Tags:** `claude-code` `desktop-pet` `electron` `pixel-art`
+- **最后活动时间:** 2026-10-17
 
 ### [flat](https://github.com/netless-io/flat)
 
@@ -1072,37 +1096,13 @@ Agora 声网开源的互动课堂客户端 Flat，支持 Web、Windows 与 macOS
 - **Tags:** `electron` `online-classroom` `e-learning` `whiteboard` `agora`
 - **最后活动时间:** 2026-09-22
 
-### [flyingmouse-format](https://github.com/LaoFeng-mouse/flyingmouse-format)
-
-Windows 免费离线文件格式转换工具，内置 FFmpeg、LibreOffice、Poppler 和 Tesseract，支持图片、文档、音视频等格式互转及 OCR 识别。
-
-- **Stars:** ⭐️ 6.4k
-- **Tags:** `file-converter` `ocr` `tesseract` `windows` `offline`
-- **最后活动时间:** 2026-09-21
-
 ### [Provenance](https://github.com/Provenance-Emu/Provenance)
 
 iOS与tvOS平台的多合一复古游戏模拟器前端，支持Atari、Nintendo、Sega、Sony等众多主机系统。怀旧游戏爱好者的必备利器。
 
 - **Stars:** ⭐️ 6.4k
 - **Tags:** `emulator` `ios` `tvos` `retrogaming` `frontend`
-- **最后活动时间:** 2026-09-30
-
-### [MoeKoeMusic](https://github.com/MoeKoeMusic/MoeKoeMusic)
-
-一款开源且高颜值的酷狗音乐第三方桌面客户端，支持 Windows、macOS 和 Linux。提供简洁纯粹的音乐播放体验。
-
-- **Stars:** ⭐️ 6.4k
-- **Tags:** `electron` `music` `vue3` `cross-platform` `desktop-app`
-- **最后活动时间:** 2026-09-22
-
-### [clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk)
-
-一款桌面宠物应用，能够实时响应你的Claude Code会话状态，展示思考、打字、杂耍、睡觉等可爱动画效果。
-
-- **Stars:** ⭐️ 6.3k
-- **Tags:** `claude-code` `desktop-pet` `electron` `pixel-art`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [lemon-cleaner](https://github.com/Tencent/lemon-cleaner)
 
@@ -1118,15 +1118,15 @@ iOS与tvOS平台的多合一复古游戏模拟器前端，支持Atari、Nintendo
 
 - **Stars:** ⭐️ 6.3k
 - **Tags:** `ai-assistant` `desktop-app` `mcp` `claude` `gemini`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-16
 
 ### [TablePro](https://github.com/TableProApp/TablePro)
 
 一款快速的原生 macOS 数据库客户端，内置 AI 助手功能，支持 MySQL、PostgreSQL、MongoDB、Redis 等多种数据库。
 
-- **Stars:** ⭐️ 6.2k
+- **Stars:** ⭐️ 6.3k
 - **Tags:** `database` `macos` `ai-assistant` `sql` `native-app`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [DockDoor](https://github.com/ejbills/DockDoor)
 
@@ -1142,7 +1142,7 @@ iOS与tvOS平台的多合一复古游戏模拟器前端，支持Atari、Nintendo
 
 - **Stars:** ⭐️ 6.1k
 - **Tags:** `remote-desktop` `rdp` `ssh` `vnc` `windows`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [rainmeter](https://github.com/rainmeter/rainmeter)
 
@@ -1164,9 +1164,9 @@ iOS/macOS原生应用，支持与本地部署的Llama、Mistral等开源模型�
 
 基于 Python/GTK 的交互式 PDF 管理工具，支持合并、拆分、旋转、裁剪与重排页面。
 
-- **Stars:** ⭐️ 5.9k
+- **Stars:** ⭐️ 6.0k
 - **Tags:** `pdf` `gtk` `python` `gui` `linux`
-- **最后活动时间:** 2026-09-01
+- **最后活动时间:** 2026-10-01
 
 ### [Everywhere](https://github.com/DearVa/Everywhere)
 
@@ -1176,13 +1176,21 @@ iOS/macOS原生应用，支持与本地部署的Llama、Mistral等开源模型�
 - **Tags:** `AI助手` `MCP` `桌面应用`
 - **最后活动时间:** 2026-05-07
 
+### [snow-apps](https://github.com/mg-chao/snow-apps)
+
+包含 Snow Shot 截图录屏工具和 Snow 图片查看器的开源套件，内置 OCR 文字识别功能。
+
+- **Stars:** ⭐️ 5.9k
+- **Tags:** `screenshot` `ocr` `screen-recorder` `image-viewer`
+- **最后活动时间:** 2026-10-17
+
 ### [QOwnNotes](https://github.com/pbek/QOwnNotes)
 
 一款支持Markdown的纯文本笔记管理工具，集成Nextcloud/ownCloud，具备本地优先和LLM功能支持。
 
 - **Stars:** ⭐️ 5.9k
 - **Tags:** `note-taking` `markdown` `local-first` `llm`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [MarkEdit](https://github.com/MarkEdit-app/MarkEdit)
 
@@ -1190,15 +1198,15 @@ iOS/macOS原生应用，支持与本地部署的Llama、Mistral等开源模型�
 
 - **Stars:** ⭐️ 5.8k
 - **Tags:** `macos` `markdown` `editor` `swift` `codemirror`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [maka](https://github.com/apache/maka)
 
 Apache 孵化项目，本地优先的 AI 智能体工作台，以追加日志记录消息、工具调用与权限决策。
 
-- **Stars:** ⭐️ 5.7k
+- **Stars:** ⭐️ 5.8k
 - **Tags:** `agent-runtime` `local-first` `event-sourcing` `llm`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [bob-plugin-openai-translator](https://github.com/nextai-translator/bob-plugin-openai-translator)
 
@@ -1206,15 +1214,31 @@ macOS Bob 翻译插件，基于 LLM 实现文本翻译、润色和语法纠错�
 
 - **Stars:** ⭐️ 5.7k
 - **Tags:** `翻译` `LLM` `macOS`
-- **最后活动时间:** 2026-09-16
+- **最后活动时间:** 2026-10-13
 
 ### [CleanMyWechat](https://github.com/blackboxo/CleanMyWechat)
 
 自动清理 Windows 与 Mac 端微信缓存数据的工具，可批量删除聊天中累积的文件、视频与图片。一键释放磁盘空间的实用小工具。
 
-- **Stars:** ⭐️ 5.5k
+- **Stars:** ⭐️ 5.6k
 - **Tags:** `WeChat` `Cache-Cleaner` `Python` `Disk-Cleanup`
 - **最后活动时间:** 2026-08-28
+
+### [floral-notepaper](https://github.com/Achilng/floral-notepaper)
+
+花笺是一款轻量优雅的跨平台桌面便签工具，基于 Tauri 构建，支持 Markdown 编辑与预览。简洁不占资源。
+
+- **Stars:** ⭐️ 5.5k
+- **Tags:** `tauri` `markdown` `sticky-notes` `note-taking` `rust`
+- **最后活动时间:** 2026-10-12
+
+### [coucou](https://github.com/Louis-CFM/coucou)
+
+一只住在 macOS 刘海或 Windows 屏幕顶部的小宠物，实时盯梢你的 Claude Code 会话状态。将 AI 编程助手监控以趣味化方式融入桌面体验。
+
+- **Stars:** ⭐️ 5.4k
+- **Tags:** `claude-code` `macos` `swiftui` `menubar-app` `ai-monitoring` `notch`
+- **最后活动时间:** 2026-10-17
 
 ### [claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian)
 
@@ -1224,6 +1248,14 @@ macOS Bob 翻译插件，基于 LLM 实现文本翻译、润色和语法纠错�
 - **Tags:** `claude` `desktop` `linux` `debian`
 - **最后活动时间:** 2026-09-30
 
+### [MeetingBar](https://github.com/leits/MeetingBar)
+
+在 macOS 菜单栏直接查看并一键加入即将开始的会议，支持 Zoom、Google Meet、Teams 等主流平台。
+
+- **Stars:** ⭐️ 5.4k
+- **Tags:** `macos` `menubar` `calendar` `zoom` `productivity`
+- **最后活动时间:** 2026-10-17
+
 ### [5ire](https://github.com/nanbingxyz/5ire)
 
 跨平台桌面AI助手和MCP客户端，支持主流AI服务商和本地知识库。通过MCP服务器扩展工具能力。
@@ -1232,37 +1264,21 @@ macOS Bob 翻译插件，基于 LLM 实现文本翻译、润色和语法纠错�
 - **Tags:** `MCP客户端` `桌面助手` `知识库`
 - **最后活动时间:** 2026-09-14
 
-### [MeetingBar](https://github.com/leits/MeetingBar)
-
-在 macOS 菜单栏直接查看并一键加入即将开始的会议，支持 Zoom、Google Meet、Teams 等主流平台。
-
-- **Stars:** ⭐️ 5.4k
-- **Tags:** `macos` `menubar` `calendar` `zoom` `productivity`
-- **最后活动时间:** 2026-09-21
-
-### [floral-notepaper](https://github.com/Achilng/floral-notepaper)
-
-花笺是一款轻量优雅的跨平台桌面便签工具，基于 Tauri 构建，支持 Markdown 编辑与预览。简洁不占资源。
-
-- **Stars:** ⭐️ 5.3k
-- **Tags:** `tauri` `markdown` `sticky-notes` `note-taking` `rust`
-- **最后活动时间:** 2026-09-11
-
-### [snow-apps](https://github.com/mg-chao/snow-apps)
-
-包含 Snow Shot 截图录屏工具和 Snow 图片查看器的开源套件，内置 OCR 文字识别功能。
-
-- **Stars:** ⭐️ 5.3k
-- **Tags:** `screenshot` `ocr` `screen-recorder` `image-viewer`
-- **最后活动时间:** 2026-09-30
-
 ### [FlyingCarpet](https://github.com/spieglt/FlyingCarpet)
 
 跨平台 AirDrop 替代品，通过 ad-hoc WiFi 在 Android、iOS、Linux、macOS 和 Windows 间直接互传文件，无需任何网络基础设施。
 
-- **Stars:** ⭐️ 5.3k
+- **Stars:** ⭐️ 5.4k
 - **Tags:** `file-transfer` `cross-platform` `wifi` `rust` `tauri`
 - **最后活动时间:** 2026-09-18
+
+### [AltSnap](https://github.com/RamonUnch/AltSnap)
+
+经典 AltDrag 的维护延续版，让 Windows 窗口可按住 Alt 键随意拖动和调整大小，轻量高效。
+
+- **Stars:** ⭐️ 5.3k
+- **Tags:** `windows` `window-management` `alt-drag` `desktop-utility`
+- **最后活动时间:** 2026-10-17
 
 ### [Mouser](https://github.com/TomBadash/Mouser)
 
@@ -1272,21 +1288,13 @@ macOS Bob 翻译插件，基于 LLM 实现文本翻译、润色和语法纠错�
 - **Tags:** `logitech` `mouse` `remapping` `python` `macos`
 - **最后活动时间:** 2026-08-13
 
-### [AltSnap](https://github.com/RamonUnch/AltSnap)
-
-经典 AltDrag 的维护延续版，让 Windows 窗口可按住 Alt 键随意拖动和调整大小，轻量高效。
-
-- **Stars:** ⭐️ 5.3k
-- **Tags:** `windows` `window-management` `alt-drag` `desktop-utility`
-- **最后活动时间:** 2026-09-26
-
 ### [BallonsTranslator](https://github.com/dmMaze/BallonsTranslator)
 
 深度学习驱动的漫画翻译工具，支持一键机翻和图像/文本编辑，基于PyQt6构建。
 
 - **Stars:** ⭐️ 5.2k
 - **Tags:** `OCR` `Translation` `Deep Learning` `Desktop App`
-- **最后活动时间:** 2026-09-27
+- **最后活动时间:** 2026-10-04
 
 ### [opentrack](https://github.com/opentrack/opentrack)
 
@@ -1294,7 +1302,7 @@ macOS Bob 翻译插件，基于 LLM 实现文本翻译、润色和语法纠错�
 
 - **Stars:** ⭐️ 5.2k
 - **Tags:** `head-tracking` `opencv` `gaming`
-- **最后活动时间:** 2026-09-21
+- **最后活动时间:** 2026-10-14
 
 ### [WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop)
 
@@ -1302,7 +1310,7 @@ macOS Bob 翻译插件，基于 LLM 实现文本翻译、润色和语法纠错�
 
 - **Stars:** ⭐️ 5.0k
 - **Tags:** `windows` `wallpaper` `dynamic-desktop` `python`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-14
 
 ### [Text-Grab](https://github.com/TheJoeFin/Text-Grab)
 
@@ -1312,29 +1320,21 @@ Windows 平台 OCR 文字识别工具，支持后台静默识别和通知，完�
 - **Tags:** `OCR` `Local AI` `Windows` `WPF`
 - **最后活动时间:** 2026-09-22
 
-### [quotio](https://github.com/nguyenphutrong/quotio)
-
-macOS菜单栏应用，统一管理多个AI订阅账户，支持实时配额追踪和智能故障转移。
-
-- **Stars:** ⭐️ 4.9k
-- **Tags:** `AI工具` `配额管理` `macOS`
-- **最后活动时间:** 2026-09-30
-
 ### [saber](https://github.com/saber-notes/saber)
 
 跨平台开源手写笔记应用，支持触控笔书写与 PDF 标注，界面美观且完全免费。
 
 - **Stars:** ⭐️ 4.9k
 - **Tags:** `flutter` `handwriting` `notes` `cross-platform` `open-source`
-- **最后活动时间:** 2026-09-15
+- **最后活动时间:** 2026-10-17
 
-### [cyberduck](https://github.com/iterate-ch/cyberduck)
+### [quotio](https://github.com/nguyenphutrong/quotio)
 
-自由开源的文件传输客户端，支持 FTP、SFTP、WebDAV 及 S3、Azure、OneDrive 等多家云存储。同时覆盖 Mac 与 Windows 平台。
+macOS菜单栏应用，统一管理多个AI订阅账户，支持实时配额追踪和智能故障转移。
 
-- **Stars:** ⭐️ 4.8k
-- **Tags:** `ftp` `sftp` `cloud-storage` `file-transfer` `s3`
-- **最后活动时间:** 2026-09-30
+- **Stars:** ⭐️ 4.9k
+- **Tags:** `AI工具` `配额管理` `macOS`
+- **最后活动时间:** 2026-10-17
 
 ### [Latest](https://github.com/mangerlahn/Latest)
 
@@ -1344,6 +1344,22 @@ macOS 上的轻量级更新检查工具，确保你了解所有已安装应用�
 - **Tags:** `macos` `swift` `updater` `cocoa`
 - **最后活动时间:** 2026-07-18
 
+### [jabref](https://github.com/JabRef/jabref)
+
+一款用于管理 BibTeX 和 BibLaTeX 文献库的桌面应用程序，支持 OCR 和引文自动生成。非常适合学术研究人员高效管理文献。
+
+- **Stars:** ⭐️ 4.8k
+- **Tags:** `jabref` `bibtex` `bibliography` `ocr` `reference-manager` `java`
+- **最后活动时间:** 2026-10-17
+
+### [cyberduck](https://github.com/iterate-ch/cyberduck)
+
+自由开源的文件传输客户端，支持 FTP、SFTP、WebDAV 及 S3、Azure、OneDrive 等多家云存储。同时覆盖 Mac 与 Windows 平台。
+
+- **Stars:** ⭐️ 4.8k
+- **Tags:** `ftp` `sftp` `cloud-storage` `file-transfer` `s3`
+- **最后活动时间:** 2026-09-30
+
 ### [WindowsCleaner](https://github.com/darkmatter2048/WindowsCleaner)
 
 专治 C 盘爆红的 Windows 清理工具，帮助用户一键清理系统垃圾、释放磁盘空间。
@@ -1352,21 +1368,13 @@ macOS 上的轻量级更新检查工具，确保你了解所有已安装应用�
 - **Tags:** `windows` `disk-cleaner` `cleanup` `utility`
 - **最后活动时间:** 2026-08-18
 
-### [jabref](https://github.com/JabRef/jabref)
-
-一款用于管理 BibTeX 和 BibLaTeX 文献库的桌面应用程序，支持 OCR 和引文自动生成。非常适合学术研究人员高效管理文献。
-
-- **Stars:** ⭐️ 4.8k
-- **Tags:** `jabref` `bibtex` `bibliography` `ocr` `reference-manager` `java`
-- **最后活动时间:** 2026-09-30
-
 ### [thunderbolt](https://github.com/thunderbird/thunderbolt)
 
 一款让用户完全掌控AI的本地工具，支持自由选择模型、数据本地存储，彻底摆脱供应商锁定。
 
 - **Stars:** ⭐️ 4.8k
 - **Tags:** `ai` `ai-agents` `llms` `on-device-ai`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [harmonoid](https://github.com/harmonoid/harmonoid)
 
@@ -1375,6 +1383,14 @@ macOS 上的轻量级更新检查工具，确保你了解所有已安装应用�
 - **Stars:** ⭐️ 4.8k
 - **Tags:** `music-player` `flutter` `lyrics` `cross-platform` `mpv`
 - **最后活动时间:** 2026-09-02
+
+### [compressO](https://github.com/codeforreal1/compressO)
+
+100% 免费开源的跨平台视频/图片压缩工具，基于 Tauri 与 FFmpeg 构建。可将媒体文件压缩到极小体积，支持 Mac、Windows 与 Linux。
+
+- **Stars:** ⭐️ 4.8k
+- **Tags:** `ffmpeg` `compression` `tauri` `rust` `cross-platform`
+- **最后活动时间:** 2026-10-17
 
 ### [Monitorian](https://github.com/emoacht/Monitorian)
 
@@ -1390,15 +1406,7 @@ macOS 上的轻量级更新检查工具，确保你了解所有已安装应用�
 
 - **Stars:** ⭐️ 4.7k
 - **Tags:** `homebrew` `macos` `swiftui` `package-manager` `gui`
-- **最后活动时间:** 2026-09-24
-
-### [compressO](https://github.com/codeforreal1/compressO)
-
-100% 免费开源的跨平台视频/图片压缩工具，基于 Tauri 与 FFmpeg 构建。可将媒体文件压缩到极小体积，支持 Mac、Windows 与 Linux。
-
-- **Stars:** ⭐️ 4.7k
-- **Tags:** `ffmpeg` `compression` `tauri` `rust` `cross-platform`
-- **最后活动时间:** 2026-08-17
+- **最后活动时间:** 2026-10-14
 
 ### [naps2](https://github.com/cyanfish/naps2)
 
@@ -1406,15 +1414,15 @@ macOS 上的轻量级更新检查工具，确保你了解所有已安装应用�
 
 - **Stars:** ⭐️ 4.6k
 - **Tags:** `ocr` `pdf` `scanner` `cross-platform`
-- **最后活动时间:** 2026-09-28
+- **最后活动时间:** 2026-10-15
 
 ### [OpenRGB](https://github.com/CalcProgrammer1/OpenRGB)
 
 开源 RGB 灯光控制工具，摆脱各厂商软件束缚，统一管理华硕、微星等多品牌 RGB 设备。支持 Windows、Linux 与 macOS。
 
-- **Stars:** ⭐️ 4.5k
+- **Stars:** ⭐️ 4.6k
 - **Tags:** `RGB` `Hardware-Control` `Open-Source` `Lighting`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [MPC-BE](https://github.com/Aleksoid1978/MPC-BE)
 
@@ -1446,13 +1454,13 @@ macOS 上的轻量级更新检查工具，确保你了解所有已安装应用�
 
 - **Stars:** ⭐️ 4.4k
 - **Tags:** `image-compression` `macos` `cross-platform` `optimization` `webp`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-15
 
 ### [LLPlayer](https://github.com/umlx5h/LLPlayer)
 
 面向语言学习的媒体播放器，支持AI生成字幕、双语字幕、实时翻译等功能。
 
-- **Stars:** ⭐️ 4.3k
+- **Stars:** ⭐️ 4.4k
 - **Tags:** `Media Player` `Language Learning` `Whisper`
 - **最后活动时间:** 2026-09-10
 
@@ -1462,7 +1470,31 @@ macOS 上的轻量级更新检查工具，确保你了解所有已安装应用�
 
 - **Stars:** ⭐️ 4.3k
 - **Tags:** `shader` `crt` `retrogaming` `overlay`
-- **最后活动时间:** 2026-06-20
+- **最后活动时间:** 2026-10-17
+
+### [Codex-X](https://github.com/yynxxxxx/Codex-X)
+
+Codex Switch & Instruct 桌面管理器，方便用户在本地高效管理和切换 Codex 环境。
+
+- **Stars:** ⭐️ 4.2k
+- **Tags:** `codex` `desktop-manager` `openai`
+- **最后活动时间:** 2026-10-16
+
+### [MangoDisk](https://github.com/harry0703/MangoDisk)
+
+一款安全优先的跨平台磁盘清理与空间分析工具，具备重复文件查找和启动项管理功能。基于 Rust 和 Tauri 构建。
+
+- **Stars:** ⭐️ 4.2k
+- **Tags:** `disk-cleaner` `cross-platform` `rust` `tauri` `system-cleaner`
+- **最后活动时间:** 2026-10-17
+
+### [mangayomi](https://github.com/kodjodevf/mangayomi)
+
+免费开源的跨平台应用，支持阅读漫画、小说和观看动漫，覆盖 Android、iOS、macOS、Linux 与 Windows。
+
+- **Stars:** ⭐️ 4.2k
+- **Tags:** `Manga-Reader` `Anime` `Flutter` `Cross-Platform` `Novel-Reader`
+- **最后活动时间:** 2026-10-18
 
 ### [Ombi](https://github.com/Ombi-app/Ombi)
 
@@ -1472,6 +1504,14 @@ macOS 上的轻量级更新检查工具，确保你了解所有已安装应用�
 - **Tags:** `Plex` `Media-Server` `Self-Hosted` `Requests`
 - **最后活动时间:** 2026-09-29
 
+### [wsl-dashboard](https://github.com/owu/wsl-dashboard)
+
+一个轻量级、高性能的 WSL 图形化管理工具，提供现代化的 UI 界面。支持一键安装、启动、停止和配置 WSL 发行版，并集成了 HTTP 代理和端口转发功能。
+
+- **Stars:** ⭐️ 4.0k
+- **Tags:** `wsl` `wsl2` `gui` `dashboard` `rust`
+- **最后活动时间:** 2026-10-11
+
 ### [wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager)
 
 一个用于快速管理 WSL2 实例的图形化界面工具。它简化了 WSL 发行版的导入、导出和配置过程，提升了开发者的使用体验。
@@ -1479,14 +1519,6 @@ macOS 上的轻量级更新检查工具，确保你了解所有已安装应用�
 - **Stars:** ⭐️ 4.0k
 - **Tags:** `wsl2` `gui` `windows` `flutter` `rootfs`
 - **最后活动时间:** 2026-09-18
-
-### [Codex-X](https://github.com/yynxxxxx/Codex-X)
-
-Codex Switch & Instruct 桌面管理器，方便用户在本地高效管理和切换 Codex 环境。
-
-- **Stars:** ⭐️ 4.0k
-- **Tags:** `codex` `desktop-manager` `openai`
-- **最后活动时间:** 2026-09-30
 
 ### [strawberry](https://github.com/strawberrymusicplayer/strawberry)
 
@@ -1496,29 +1528,29 @@ Codex Switch & Instruct 桌面管理器，方便用户在本地高效管理和�
 - **Tags:** `music-player` `audio` `qt` `flac` `linux`
 - **最后活动时间:** 2026-09-29
 
+### [syncthing-macos](https://github.com/syncthing/syncthing-macos)
+
+Syncthing 官方原生 macOS 应用封装，提供简洁的 Finder/菜单栏集成与后台同步体验，让文件跨设备同步更省心。
+
+- **Stars:** ⭐️ 4.0k
+- **Tags:** `syncthing` `file-sync` `macos` `swift` `objective-c`
+- **最后活动时间:** 2026-10-06
+
 ### [reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar)
 
 一款简洁的 macOS 菜单栏应用，用于查看和操作 Apple 提醒事项。基于 SwiftUI 开发，提供便捷的日常提醒管理体验。
 
 - **Stars:** ⭐️ 4.0k
 - **Tags:** `macos` `menubar` `swiftui` `apple-reminders`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-04
 
-### [syncthing-macos](https://github.com/syncthing/syncthing-macos)
+### [kudu](https://github.com/AdventDevInc/kudu)
 
-Syncthing 官方原生 macOS 应用封装，提供简洁的 Finder/菜单栏集成与后台同步体验，让文件跨设备同步更省心。
+跨平台的免费系统清理与安全扫描工具，集垃圾清理、隐私保护、恶意软件检测于一体，是 CCleaner 的开源替代品。
 
-- **Stars:** ⭐️ 3.9k
-- **Tags:** `syncthing` `file-sync` `macos` `swift` `objective-c`
-- **最后活动时间:** 2026-09-17
-
-### [wsl-dashboard](https://github.com/owu/wsl-dashboard)
-
-一个轻量级、高性能的 WSL 图形化管理工具，提供现代化的 UI 界面。支持一键安装、启动、停止和配置 WSL 发行版，并集成了 HTTP 代理和端口转发功能。
-
-- **Stars:** ⭐️ 3.9k
-- **Tags:** `wsl` `wsl2` `gui` `dashboard` `rust`
-- **最后活动时间:** 2026-09-23
+- **Stars:** ⭐️ 4.0k
+- **Tags:** `cleaner` `system-optimization` `privacy` `security` `cross-platform`
+- **最后活动时间:** 2026-10-17
 
 ### [desktop](https://github.com/nextcloud/desktop)
 
@@ -1526,15 +1558,7 @@ Nextcloud官方桌面同步客户端，让自建云盘文件在桌面端保持�
 
 - **Stars:** ⭐️ 3.9k
 - **Tags:** `nextcloud` `sync-client` `qt` `self-hosted` `cross-platform`
-- **最后活动时间:** 2026-09-30
-
-### [winscp](https://github.com/winscp/winscp)
-
-Windows 上广受欢迎的免费文件传输工具，支持 SFTP、FTP、SCP、S3、WebDAV 等协议。兼具友好图形界面与 .NET 自动化能力。
-
-- **Stars:** ⭐️ 3.9k
-- **Tags:** `SFTP` `FTP` `File-Transfer` `Windows`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-17
 
 ### [codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux)
 
@@ -1542,31 +1566,31 @@ Windows 上广受欢迎的免费文件传输工具，支持 SFTP、FTP、SCP、S
 
 - **Stars:** ⭐️ 3.9k
 - **Tags:** `openai` `codex` `linux` `desktop` `installer`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
-### [mangayomi](https://github.com/kodjodevf/mangayomi)
+### [winscp](https://github.com/winscp/winscp)
 
-免费开源的跨平台应用，支持阅读漫画、小说和观看动漫，覆盖 Android、iOS、macOS、Linux 与 Windows。
+Windows 上广受欢迎的免费文件传输工具，支持 SFTP、FTP、SCP、S3、WebDAV 等协议。兼具友好图形界面与 .NET 自动化能力。
+
+- **Stars:** ⭐️ 3.9k
+- **Tags:** `SFTP` `FTP` `File-Transfer` `Windows`
+- **最后活动时间:** 2026-10-16
+
+### [macshot](https://github.com/sw33tLie/macshot)
+
+功能丰富的macOS原生截图工具，支持OCR文字识别、PII自动脱敏、GIF录制、翻译等功能，无Electron依赖。
 
 - **Stars:** ⭐️ 3.8k
-- **Tags:** `Manga-Reader` `Anime` `Flutter` `Cross-Platform` `Novel-Reader`
-- **最后活动时间:** 2026-09-29
+- **Tags:** `macos` `screenshot` `ocr` `translation` `privacy`
+- **最后活动时间:** 2026-10-14
 
 ### [WGDashboard](https://github.com/WGDashboard/WGDashboard)
 
 基于 Python 与 Vue.js 的 WireGuard VPN 简洁管理面板，让 WireGuard 配置管理更加直观高效。
 
-- **Stars:** ⭐️ 3.7k
+- **Stars:** ⭐️ 3.8k
 - **Tags:** `wireguard` `vpn` `dashboard` `python` `vuejs`
 - **最后活动时间:** 2026-09-07
-
-### [uPic](https://github.com/gee1k/uPic)
-
-macOS 原生图片与文件上传工具，支持图床、S3、OSS、COS 等数十种上传目标。拖拽即传并自动复制链接，效率极高。
-
-- **Stars:** ⭐️ 3.7k
-- **Tags:** `image-uploader` `macos` `s3` `oss` `swift`
-- **最后活动时间:** 2026-06-12
 
 ### [yattee](https://github.com/yattee/yattee)
 
@@ -1576,29 +1600,29 @@ macOS 原生图片与文件上传工具，支持图床、S3、OSS、COS 等数�
 - **Tags:** `swiftui` `ios` `macos` `video` `youtube`
 - **最后活动时间:** 2026-08-23
 
-### [macshot](https://github.com/sw33tLie/macshot)
+### [uPic](https://github.com/gee1k/uPic)
 
-功能丰富的macOS原生截图工具，支持OCR文字识别、PII自动脱敏、GIF录制、翻译等功能，无Electron依赖。
+macOS 原生图片与文件上传工具，支持图床、S3、OSS、COS 等数十种上传目标。拖拽即传并自动复制链接，效率极高。
 
-- **Stars:** ⭐️ 3.6k
-- **Tags:** `macos` `screenshot` `ocr` `translation` `privacy`
-- **最后活动时间:** 2026-09-27
-
-### [kudu](https://github.com/AdventDevInc/kudu)
-
-跨平台的免费系统清理与安全扫描工具，集垃圾清理、隐私保护、恶意软件检测于一体，是 CCleaner 的开源替代品。
-
-- **Stars:** ⭐️ 3.6k
-- **Tags:** `cleaner` `system-optimization` `privacy` `security` `cross-platform`
-- **最后活动时间:** 2026-09-29
+- **Stars:** ⭐️ 3.7k
+- **Tags:** `image-uploader` `macos` `s3` `oss` `swift`
+- **最后活动时间:** 2026-06-12
 
 ### [PicView](https://github.com/Ruben2776/PicView)
 
 快速、免费且高度可定制的图片查看器，支持批量处理、格式转换与漫画阅读。
 
-- **Stars:** ⭐️ 3.6k
+- **Stars:** ⭐️ 3.7k
 - **Tags:** `image-viewer` `csharp` `cross-platform` `batch-processing`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
+
+### [fort](https://github.com/tnodir/fort)
+
+一款开源的 Windows 防火墙工具，提供精细的应用程序联网管控与带宽限制功能。界面简洁，适合需要掌控系统网络行为的用户。
+
+- **Stars:** ⭐️ 3.6k
+- **Tags:** `Firewall` `Windows` `Network-Security` `Bandwidth`
+- **最后活动时间:** 2026-10-17
 
 ### [surf](https://github.com/deta/surf)
 
@@ -1608,35 +1632,19 @@ macOS 原生图片与文件上传工具，支持图床、S3、OSS、COS 等数�
 - **Tags:** `knowledge-management` `local-llm` `productivity`
 - **最后活动时间:** 2026-08-24
 
-### [fort](https://github.com/tnodir/fort)
-
-一款开源的 Windows 防火墙工具，提供精细的应用程序联网管控与带宽限制功能。界面简洁，适合需要掌控系统网络行为的用户。
-
-- **Stars:** ⭐️ 3.6k
-- **Tags:** `Firewall` `Windows` `Network-Security` `Bandwidth`
-- **最后活动时间:** 2026-09-30
-
 ### [TomatoBar](https://github.com/ivoronin/TomatoBar)
 
 菜单栏上极简优雅的番茄钟计时器，帮助管理工作与休息节奏。轻量无干扰，开源免费。
 
-- **Stars:** ⭐️ 3.5k
+- **Stars:** ⭐️ 3.6k
 - **Tags:** `pomodoro` `menubar` `timer` `macos` `productivity`
 - **最后活动时间:** 2026-05-29
-
-### [MangoDisk](https://github.com/harry0703/MangoDisk)
-
-一款安全优先的跨平台磁盘清理与空间分析工具，具备重复文件查找和启动项管理功能。基于 Rust 和 Tauri 构建。
-
-- **Stars:** ⭐️ 3.5k
-- **Tags:** `disk-cleaner` `cross-platform` `rust` `tauri` `system-cleaner`
-- **最后活动时间:** 2026-09-30
 
 ### [AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop)
 
 为 Windows 和 Linux 提升 AirPods 使用体验的桌面工具，提供电池电量显示、媒体控制等增强功能。
 
-- **Stars:** ⭐️ 3.5k
+- **Stars:** ⭐️ 3.6k
 - **Tags:** `airpods` `bluetooth` `windows` `media-control`
 - **最后活动时间:** 2026-09-19
 
@@ -1646,7 +1654,7 @@ macOS 原生图片与文件上传工具，支持图床、S3、OSS、COS 等数�
 
 - **Stars:** ⭐️ 3.4k
 - **Tags:** `windows` `audio` `sound` `switcher`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-16
 
 ### [cairoshell](https://github.com/cairoshell/cairoshell)
 
@@ -1654,7 +1662,7 @@ macOS 原生图片与文件上传工具，支持图床、S3、OSS、COS 等数�
 
 - **Stars:** ⭐️ 3.4k
 - **Tags:** `desktop-environment` `windows` `shell` `csharp`
-- **最后活动时间:** 2026-09-09
+- **最后活动时间:** 2026-10-15
 
 ### [vibeproxy](https://github.com/automazeio/vibeproxy)
 
@@ -1662,15 +1670,23 @@ macOS 原生图片与文件上传工具，支持图床、S3、OSS、COS 等数�
 
 - **Stars:** ⭐️ 3.4k
 - **Tags:** `claude-code` `macos` `proxy` `chatgpt` `ai-coding`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-17
 
 ### [ksnip](https://github.com/ksnip/ksnip)
 
 一款跨平台的截图与标注工具，支持 Wayland 并提供图片上传、贴纸等丰富功能。是开发者和设计师进行屏幕沟通的得力助手。
 
-- **Stars:** ⭐️ 3.3k
+- **Stars:** ⭐️ 3.4k
 - **Tags:** `screenshot` `annotation` `cross-platform` `qt` `wayland`
-- **最后活动时间:** 2026-09-07
+- **最后活动时间:** 2026-10-01
+
+### [ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface)
+
+为强大的 yt-dlp 打造的 Windows 图形界面，让视频下载操作简单直观。
+
+- **Stars:** ⭐️ 3.4k
+- **Tags:** `yt-dlp` `youtube-downloader` `gui` `windows`
+- **最后活动时间:** 2026-05-19
 
 ### [maestral](https://github.com/samschott/maestral)
 
@@ -1688,21 +1704,21 @@ macOS 原生图片与文件上传工具，支持图床、S3、OSS、COS 等数�
 - **Tags:** `LLM` `macOS` `Local AI`
 - **最后活动时间:** 2026-09-30
 
-### [ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface)
-
-为强大的 yt-dlp 打造的 Windows 图形界面，让视频下载操作简单直观。
-
-- **Stars:** ⭐️ 3.3k
-- **Tags:** `yt-dlp` `youtube-downloader` `gui` `windows`
-- **最后活动时间:** 2026-05-19
-
 ### [explorerplusplus](https://github.com/derceg/explorerplusplus)
 
 轻量快速的 Windows 开源文件管理器，支持多标签页与丰富的界面定制。替代系统资源管理器的经典选择。
 
 - **Stars:** ⭐️ 3.3k
 - **Tags:** `File-Manager` `Windows` `Open-Source` `Tabs`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-15
+
+### [FlyEnv](https://github.com/xpf0000/FlyEnv)
+
+轻量级本地开发环境管理工具，支持运行多种开发服务和AI Agent框架，无需Docker即可快速搭建开发环境。
+
+- **Stars:** ⭐️ 3.3k
+- **Tags:** `development-environment` `local-development` `ai-agent` `developer-tools`
+- **最后活动时间:** 2026-10-17
 
 ### [nexu](https://github.com/nexu-io/nexu)
 
@@ -1712,29 +1728,21 @@ macOS 原生图片与文件上传工具，支持图床、S3、OSS、COS 等数�
 - **Tags:** `AI Agent` `Desktop Client` `Multi-platform` `LLM`
 - **最后活动时间:** 2026-04-26
 
-### [FlyEnv](https://github.com/xpf0000/FlyEnv)
-
-轻量级本地开发环境管理工具，支持运行多种开发服务和AI Agent框架，无需Docker即可快速搭建开发环境。
-
-- **Stars:** ⭐️ 3.2k
-- **Tags:** `development-environment` `local-development` `ai-agent` `developer-tools`
-- **最后活动时间:** 2026-09-29
-
 ### [lrcget](https://github.com/tranxuanthang/lrcget)
 
 为本地音乐库批量下载LRC同步歌词的实用工具，基于Tauri构建，跨平台运行。
 
-- **Stars:** ⭐️ 3.2k
+- **Stars:** ⭐️ 3.3k
 - **Tags:** `lyrics` `music` `tauri` `lrc`
 - **最后活动时间:** 2026-09-05
 
-### [phpmon](https://github.com/nicoverbruggen/phpmon)
+### [macUSB](https://github.com/Kruszoneq/macUSB)
 
-macOS 原生菜单栏应用，一键管理 PHP 开发环境：快速切换 PHP 版本、管理扩展、配合 Laravel Valet 服务站点并自动排查常见问题。
+macOS 上一体化的启动盘制作工具，支持制作 macOS、Windows、Linux 多系统启动 U 盘。完整兼容 Intel 与 Apple Silicon 芯片。
 
-- **Stars:** ⭐️ 3.2k
-- **Tags:** `macos` `php` `laravel` `valet` `homebrew`
-- **最后活动时间:** 2026-09-24
+- **Stars:** ⭐️ 3.3k
+- **Tags:** `bootable-usb` `macos` `swiftui` `utility` `apple-silicon`
+- **最后活动时间:** 2026-10-14
 
 ### [SuperCmd](https://github.com/SuperCmdLabs/SuperCmd)
 
@@ -1744,29 +1752,45 @@ macOS 原生菜单栏应用，一键管理 PHP 开发环境：快速切换 PHP �
 - **Tags:** `macos` `launcher` `spotlight` `clipboard`
 - **最后活动时间:** 2026-07-11
 
+### [phpmon](https://github.com/nicoverbruggen/phpmon)
+
+macOS 原生菜单栏应用，一键管理 PHP 开发环境：快速切换 PHP 版本、管理扩展、配合 Laravel Valet 服务站点并自动排查常见问题。
+
+- **Stars:** ⭐️ 3.2k
+- **Tags:** `macos` `php` `laravel` `valet` `homebrew`
+- **最后活动时间:** 2026-09-24
+
+### [wBlock](https://github.com/0xCUB3/wBlock)
+
+新一代Safari广告拦截器，免费开源，支持macOS、iOS、iPadOS与visionOS。内置75万条过滤规则，支持用户脚本、样式与元素拾取器。
+
+- **Stars:** ⭐️ 3.1k
+- **Tags:** `adblocker` `safari` `privacy` `swiftui` `content-blocker`
+- **最后活动时间:** 2026-10-17
+
+### [OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper)
+
+macOS原生语音听写应用，基于Whisper模型实现高精度语音转文字。
+
+- **Stars:** ⭐️ 3.1k
+- **Tags:** `Dictation` `macOS` `Whisper`
+- **最后活动时间:** 2026-10-14
+
 ### [LibrePCB](https://github.com/LibrePCB/LibrePCB)
 
 一款强大且直观的跨平台电子设计自动化套件，适用于电路板设计。
 
 - **Stars:** ⭐️ 3.0k
 - **Tags:** `cad` `eda` `pcb` `electronics` `qt`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-12
 
-### [wBlock](https://github.com/0xCUB3/wBlock)
+### [tiez-clipboard](https://github.com/jimuzhe/tiez-clipboard)
 
-新一代Safari广告拦截器，免费开源，支持macOS、iOS、iPadOS与visionOS。内置75万条过滤规则，支持用户脚本、样式与元素拾取器。
-
-- **Stars:** ⭐️ 3.0k
-- **Tags:** `adblocker` `safari` `privacy` `swiftui` `content-blocker`
-- **最后活动时间:** 2026-09-30
-
-### [OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper)
-
-macOS原生语音听写应用，基于Whisper模型实现高精度语音转文字。
+基于 Tauri 的跨平台剪贴板管理器，支持历史记录、标签、同步与隐私保护。轻量高效，优化日常复制粘贴工作流。
 
 - **Stars:** ⭐️ 3.0k
-- **Tags:** `Dictation` `macOS` `Whisper`
-- **最后活动时间:** 2026-09-29
+- **Tags:** `clipboard-manager` `tauri` `cross-platform` `rust` `productivity`
+- **最后活动时间:** 2026-10-17
 
 ### [comic-translate](https://github.com/ogkalu2/comic-translate)
 
@@ -1782,23 +1806,7 @@ macOS原生语音听写应用，基于Whisper模型实现高精度语音转文�
 
 - **Stars:** ⭐️ 2.9k
 - **Tags:** `AI助手` `多模态` `Tauri`
-- **最后活动时间:** 2026-09-15
-
-### [macUSB](https://github.com/Kruszoneq/macUSB)
-
-macOS 上一体化的启动盘制作工具，支持制作 macOS、Windows、Linux 多系统启动 U 盘。完整兼容 Intel 与 Apple Silicon 芯片。
-
-- **Stars:** ⭐️ 2.9k
-- **Tags:** `bootable-usb` `macos` `swiftui` `utility` `apple-silicon`
-- **最后活动时间:** 2026-09-28
-
-### [tiez-clipboard](https://github.com/jimuzhe/tiez-clipboard)
-
-基于 Tauri 的跨平台剪贴板管理器，支持历史记录、标签、同步与隐私保护。轻量高效，优化日常复制粘贴工作流。
-
-- **Stars:** ⭐️ 2.9k
-- **Tags:** `clipboard-manager` `tauri` `cross-platform` `rust` `productivity`
-- **最后活动时间:** 2026-07-29
+- **最后活动时间:** 2026-10-17
 
 ### [leocad](https://github.com/leozide/leocad)
 
@@ -1806,7 +1814,23 @@ macOS 上一体化的启动盘制作工具，支持制作 macOS、Windows、Linu
 
 - **Stars:** ⭐️ 2.9k
 - **Tags:** `cad` `lego` `3d-modeling` `cross-platform`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-15
+
+### [ClassIsland](https://github.com/ClassIsland/ClassIsland)
+
+面向班级多媒体屏幕的课表信息显示工具，功能强大、高度可定制、支持插件扩展。跨平台设计，课程信息一目了然。
+
+- **Stars:** ⭐️ 2.9k
+- **Tags:** `education` `avalonia` `dotnet` `classroom` `cross-platform`
+- **最后活动时间:** 2026-10-17
+
+### [codenotch](https://github.com/vinzdg/codenotch)
+
+一款 macOS 小工具，可将 Claude Code、Cursor、Codex 等 AI 编程助手的用量限额固定显示在屏幕边缘，方便随时查看额度。
+
+- **Stars:** ⭐️ 2.8k
+- **Tags:** `macos` `claude-code` `cursor` `usage-limits` `desktop-app`
+- **最后活动时间:** 2026-10-14
 
 ### [WailBrew](https://github.com/wickenico/WailBrew)
 
@@ -1814,15 +1838,15 @@ macOS 上一体化的启动盘制作工具，支持制作 macOS、Windows、Linu
 
 - **Stars:** ⭐️ 2.8k
 - **Tags:** `homebrew` `macos` `gui` `go` `react`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-16
 
-### [ClassIsland](https://github.com/ClassIsland/ClassIsland)
+### [SnapOtter](https://github.com/snapotter-hq/SnapOtter)
 
-面向班级多媒体屏幕的课表信息显示工具，功能强大、高度可定制、支持插件扩展。跨平台设计，课程信息一目了然。
+自托管图像处理工具，内置本地AI功能，提供45+种图像处理工具。支持Docker部署，100%本地运行，保护隐私安全。
 
 - **Stars:** ⭐️ 2.8k
-- **Tags:** `education` `avalonia` `dotnet` `classroom` `cross-platform`
-- **最后活动时间:** 2026-09-28
+- **Tags:** `ai` `image-processing` `self-hosted` `docker` `privacy`
+- **最后活动时间:** 2026-10-17
 
 ### [Qclaw](https://github.com/qiuzhi2046/Qclaw)
 
@@ -1846,47 +1870,7 @@ macOS 上一体化的启动盘制作工具，支持制作 macOS、Windows、Linu
 
 - **Stars:** ⭐️ 2.8k
 - **Tags:** `go` `board-game` `electron` `cross-platform` `sgf`
-- **最后活动时间:** 2026-09-13
-
-### [SnapOtter](https://github.com/snapotter-hq/SnapOtter)
-
-自托管图像处理工具，内置本地AI功能，提供45+种图像处理工具。支持Docker部署，100%本地运行，保护隐私安全。
-
-- **Stars:** ⭐️ 2.8k
-- **Tags:** `ai` `image-processing` `self-hosted` `docker` `privacy`
-- **最后活动时间:** 2026-09-30
-
-### [mindforger](https://github.com/dvorka/mindforger)
-
-智能思维笔记本与Markdown编辑器，集成OpenAI支持，适合知识管理、研究和学习场景。
-
-- **Stars:** ⭐️ 2.7k
-- **Tags:** `markdown-editor` `knowledge-management` `openai` `notebook` `productivity`
-- **最后活动时间:** 2026-09-30
-
-### [CodexDesktop-Rebuild](https://github.com/Haleclipse/CodexDesktop-Rebuild)
-
-跨平台 Codex 桌面应用，提供本地 GUI 界面便捷访问 Codex AI 功能。
-
-- **Stars:** ⭐️ 2.7k
-- **Tags:** `desktop-app` `codex` `gui` `cross-platform`
-- **最后活动时间:** 2026-09-29
-
-### [exifcleaner](https://github.com/szTheory/exifcleaner)
-
-跨平台桌面应用，一键清除图片、视频和 PDF 中的 EXIF 等隐私元数据。并行处理速度快，是保护个人隐私的实用工具。
-
-- **Stars:** ⭐️ 2.7k
-- **Tags:** `privacy` `metadata` `exif` `electron` `cross-platform`
-- **最后活动时间:** 2026-09-29
-
-### [Swiftcord](https://github.com/SwiftcordApp/Swiftcord)
-
-100% Swift 构建的 macOS 原生 Discord 客户端，界面精美、性能出色。是官方 Electron 客户端的轻量级原生替代方案。
-
-- **Stars:** ⭐️ 2.7k
-- **Tags:** `discord` `swiftui` `macos` `native-app` `chat`
-- **最后活动时间:** 2026-06-20
+- **最后活动时间:** 2026-10-13
 
 ### [pluely](https://github.com/iamsrikanthnani/pluely)
 
@@ -1896,6 +1880,38 @@ macOS 上一体化的启动盘制作工具，支持制作 macOS、Windows、Linu
 - **Tags:** `AI Assistant` `Speech-to-Text` `Privacy`
 - **最后活动时间:** 2026-09-21
 
+### [Swiftcord](https://github.com/SwiftcordApp/Swiftcord)
+
+100% Swift 构建的 macOS 原生 Discord 客户端，界面精美、性能出色。是官方 Electron 客户端的轻量级原生替代方案。
+
+- **Stars:** ⭐️ 2.7k
+- **Tags:** `discord` `swiftui` `macos` `native-app` `chat`
+- **最后活动时间:** 2026-10-02
+
+### [exifcleaner](https://github.com/szTheory/exifcleaner)
+
+跨平台桌面应用，一键清除图片、视频和 PDF 中的 EXIF 等隐私元数据。并行处理速度快，是保护个人隐私的实用工具。
+
+- **Stars:** ⭐️ 2.7k
+- **Tags:** `privacy` `metadata` `exif` `electron` `cross-platform`
+- **最后活动时间:** 2026-10-13
+
+### [CodexDesktop-Rebuild](https://github.com/Haleclipse/CodexDesktop-Rebuild)
+
+跨平台 Codex 桌面应用，提供本地 GUI 界面便捷访问 Codex AI 功能。
+
+- **Stars:** ⭐️ 2.7k
+- **Tags:** `desktop-app` `codex` `gui` `cross-platform`
+- **最后活动时间:** 2026-10-03
+
+### [mindforger](https://github.com/dvorka/mindforger)
+
+智能思维笔记本与Markdown编辑器，集成OpenAI支持，适合知识管理、研究和学习场景。
+
+- **Stars:** ⭐️ 2.7k
+- **Tags:** `markdown-editor` `knowledge-management` `openai` `notebook` `productivity`
+- **最后活动时间:** 2026-10-16
+
 ### [rootfont](https://github.com/rootfont/rootfont)
 
 macOS 原生字体管理器，为设计师和程序员提供高效的字体预览、激活与管理体验。弥补了系统级字体管理工具的不足。
@@ -1904,13 +1920,13 @@ macOS 原生字体管理器，为设计师和程序员提供高效的字体预�
 - **Tags:** `font-manager` `macos` `design` `native-app` `productivity`
 - **最后活动时间:** 2026-08-16
 
-### [codenotch](https://github.com/vinzdg/codenotch)
+### [crosspaste-desktop](https://github.com/CrossPaste/crosspaste-desktop)
 
-一款 macOS 小工具，可将 Claude Code、Cursor、Codex 等 AI 编程助手的用量限额固定显示在屏幕边缘，方便随时查看额度。
+基于 Kotlin Multiplatform 的跨设备剪贴板同步工具，支持 macOS、Windows 与 Linux，端到端加密、仅限局域网、无需云端。内置 OCR、CLI 与 MCP 服务器，可无缝接入 AI 助手工作流。
 
 - **Stars:** ⭐️ 2.6k
-- **Tags:** `macos` `claude-code` `cursor` `usage-limits` `desktop-app`
-- **最后活动时间:** 2026-09-30
+- **Tags:** `clipboard` `mcp` `model-context-protocol` `ocr` `kotlin-multiplatform` `cross-platform` `local-first` `privacy`
+- **最后活动时间:** 2026-10-17
 
 ### [yt-dlp-gui](https://github.com/kannagi0303/yt-dlp-gui)
 
@@ -1928,21 +1944,13 @@ macOS 原生字体管理器，为设计师和程序员提供高效的字体预�
 - **Tags:** `shortcuts` `hotkeys` `productivity` `macos` `utilities`
 - **最后活动时间:** 2026-09-08
 
-### [crosspaste-desktop](https://github.com/CrossPaste/crosspaste-desktop)
-
-基于 Kotlin Multiplatform 的跨设备剪贴板同步工具，支持 macOS、Windows 与 Linux，端到端加密、仅限局域网、无需云端。内置 OCR、CLI 与 MCP 服务器，可无缝接入 AI 助手工作流。
-
-- **Stars:** ⭐️ 2.6k
-- **Tags:** `clipboard` `mcp` `model-context-protocol` `ocr` `kotlin-multiplatform` `cross-platform` `local-first` `privacy`
-- **最后活动时间:** 2026-09-30
-
 ### [pika](https://github.com/superhighfives/pika)
 
 macOS 上开源易用的取色器应用，界面简洁、取色精准。是设计师和前端开发者的实用小工具。
 
 - **Stars:** ⭐️ 2.6k
 - **Tags:** `color-picker` `macos` `swiftui` `design-tools` `open-source`
-- **最后活动时间:** 2026-09-25
+- **最后活动时间:** 2026-10-16
 
 ### [chatterino2](https://github.com/Chatterino/chatterino2)
 
@@ -1950,7 +1958,15 @@ macOS 上开源易用的取色器应用，界面简洁、取色精准。是设�
 
 - **Stars:** ⭐️ 2.6k
 - **Tags:** `Twitch` `Chat-Client` `Cross-Platform` `Cpp`
-- **最后活动时间:** 2026-09-28
+- **最后活动时间:** 2026-10-17
+
+### [PaperTodo](https://github.com/snownico0722/PaperTodo)
+
+一款极简的 Windows 桌面便签工具，采用原生 WPF 开发。支持待办事项与 Markdown，为用户提供安静无打扰的桌面记录体验。
+
+- **Stars:** ⭐️ 2.6k
+- **Tags:** `sticky-notes` `todo` `markdown` `windows` `wpf`
+- **最后活动时间:** 2026-10-16
 
 ### [win-app](https://github.com/ProtonVPN/win-app)
 
@@ -1982,7 +1998,7 @@ Borg Backup 的桌面图形客户端，让强大的去重加密备份变得简�
 
 - **Stars:** ⭐️ 2.5k
 - **Tags:** `backup` `borgbackup` `gui` `cross-platform` `security`
-- **最后活动时间:** 2026-09-26
+- **最后活动时间:** 2026-10-15
 
 ### [nheko](https://github.com/Nheko-Reborn/nheko)
 
@@ -2008,13 +2024,13 @@ Open WebUI桌面客户端，提供本地化的AI聊天界面体验。
 - **Tags:** `离线AI` `移动端` `多模态`
 - **最后活动时间:** 2026-06-12
 
-### [PaperTodo](https://github.com/snownico0722/PaperTodo)
+### [kaset](https://github.com/sozercan/kaset)
 
-一款极简的 Windows 桌面便签工具，采用原生 WPF 开发。支持待办事项与 Markdown，为用户提供安静无打扰的桌面记录体验。
+macOS 平台上缺失的 YouTube 和 YouTube Music 客户端应用。采用 SwiftUI 构建，提供原生且流畅的音乐与视频播放体验。
 
 - **Stars:** ⭐️ 2.4k
-- **Tags:** `sticky-notes` `todo` `markdown` `windows` `wpf`
-- **最后活动时间:** 2026-09-25
+- **Tags:** `macos` `youtube` `music-player` `swiftui`
+- **最后活动时间:** 2026-10-12
 
 ### [MarkFlowy](https://github.com/drl990114/MarkFlowy)
 
@@ -2022,7 +2038,7 @@ AI驱动的跨平台Markdown编辑器，集成ChatGPT和DeepSeek，支持Windows
 
 - **Stars:** ⭐️ 2.4k
 - **Tags:** `Markdown` `AI Editor` `Cross-platform`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [better-shot](https://github.com/KartikLabhshetwar/better-shot)
 
@@ -2030,7 +2046,7 @@ AI驱动的跨平台Markdown编辑器，集成ChatGPT和DeepSeek，支持Windows
 
 - **Stars:** ⭐️ 2.4k
 - **Tags:** `Screenshot` `Screen-Recording` `macOS` `SwiftUI` `Video-Editor` `CleanShot-Alternative`
-- **最后活动时间:** 2026-09-27
+- **最后活动时间:** 2026-10-11
 
 ### [mkchromecast](https://github.com/muammar/mkchromecast)
 
@@ -2038,7 +2054,15 @@ AI驱动的跨平台Markdown编辑器，集成ChatGPT和DeepSeek，支持Windows
 
 - **Stars:** ⭐️ 2.4k
 - **Tags:** `chromecast` `macos` `linux` `audio` `python`
-- **最后活动时间:** 2026-09-14
+- **最后活动时间:** 2026-10-13
+
+### [LenovoLegionToolkit](https://github.com/LenovoLegionToolkit-Team/LenovoLegionToolkit)
+
+为联想拯救者游戏本打造的轻量开源工具，替代臃肿的Lenovo Vantage，实现硬件控制与性能调节。
+
+- **Stars:** ⭐️ 2.4k
+- **Tags:** `lenovo` `hardware-control` `utility` `windows` `gaming`
+- **最后活动时间:** 2026-10-17
 
 ### [ComfyUI Desktop](https://github.com/Comfy-Org/desktop)
 
@@ -2048,13 +2072,13 @@ ComfyUI官方桌面应用，支持Windows和macOS系统，为AI图像生成工�
 - **Tags:** `ComfyUI` `AI图像生成` `桌面应用`
 - **最后活动时间:** 2026-06-26
 
-### [kaset](https://github.com/sozercan/kaset)
+### [locally-uncensored](https://github.com/PurpleDoubleD/locally-uncensored)
 
-macOS 平台上缺失的 YouTube 和 YouTube Music 客户端应用。采用 SwiftUI 构建，提供原生且流畅的音乐与视频播放体验。
+本地AI桌面应用，支持聊天、智能体模式、图像和视频生成，集成Ollama、Llama等多种模型后端。
 
 - **Stars:** ⭐️ 2.3k
-- **Tags:** `macos` `youtube` `music-player` `swiftui`
-- **最后活动时间:** 2026-09-29
+- **Tags:** `local-ai` `desktop-app` `llm` `ollama` `image-generation` `video-generation`
+- **最后活动时间:** 2026-10-16
 
 ### [PixelFlasher](https://github.com/badabing2005/PixelFlasher)
 
@@ -2062,7 +2086,7 @@ macOS 平台上缺失的 YouTube 和 YouTube Music 客户端应用。采用 Swif
 
 - **Stars:** ⭐️ 2.3k
 - **Tags:** `adb` `android` `fastboot` `pixel` `flashing`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-06
 
 ### [GlobalProtect-openconnect](https://github.com/yuezk/GlobalProtect-openconnect)
 
@@ -2070,7 +2094,15 @@ macOS 平台上缺失的 YouTube 和 YouTube Music 客户端应用。采用 Swif
 
 - **Stars:** ⭐️ 2.3k
 - **Tags:** `vpn` `rust` `tauri` `openconnect` `linux`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
+
+### [OpenDeck](https://github.com/nekename/OpenDeck)
+
+Linux 平台上的开源 Stream Deck 控制软件，兼容原版 Elgato Stream Deck 插件。让宏按键面板在 Linux 上发挥全部实力。
+
+- **Stars:** ⭐️ 2.3k
+- **Tags:** `Stream Deck` `Elgato` `Linux` `OpenAction` `Cross-Platform`
+- **最后活动时间:** 2026-10-11
 
 ### [Portable-AI-USB](https://github.com/techjarves/Portable-AI-USB)
 
@@ -2080,29 +2112,45 @@ macOS 平台上缺失的 YouTube 和 YouTube Music 客户端应用。采用 Swif
 - **Tags:** `ollama` `portable-ai` `usb-drive` `offline-ai` `privacy`
 - **最后活动时间:** 2026-07-04
 
-### [KeyboardCowboy](https://github.com/zenangst/KeyboardCowboy)
-
-macOS 上缺失的键盘快捷键神器，可通过自定义快捷键自动化操控应用与系统任务。大幅减少重复操作，显著提升工作效率。
-
-- **Stars:** ⭐️ 2.2k
-- **Tags:** `macos` `keyboard-shortcuts` `productivity` `automation` `swift`
-- **最后活动时间:** 2026-09-12
-
-### [OpenDeck](https://github.com/nekename/OpenDeck)
-
-Linux 平台上的开源 Stream Deck 控制软件，兼容原版 Elgato Stream Deck 插件。让宏按键面板在 Linux 上发挥全部实力。
-
-- **Stars:** ⭐️ 2.2k
-- **Tags:** `Stream Deck` `Elgato` `Linux` `OpenAction` `Cross-Platform`
-- **最后活动时间:** 2026-08-28
-
 ### [claude-code-history-viewer](https://github.com/jhlee0409/claude-code-history-viewer)
 
 桌面应用，用于浏览和分析 Claude Code 对话历史记录，帮助开发者回顾和优化 AI 编程会话。
 
-- **Stars:** ⭐️ 2.2k
+- **Stars:** ⭐️ 2.3k
 - **Tags:** `Claude Code` `Desktop App` `Tauri`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
+
+### [KeyboardCowboy](https://github.com/zenangst/KeyboardCowboy)
+
+macOS 上缺失的键盘快捷键神器，可通过自定义快捷键自动化操控应用与系统任务。大幅减少重复操作，显著提升工作效率。
+
+- **Stars:** ⭐️ 2.3k
+- **Tags:** `macos` `keyboard-shortcuts` `productivity` `automation` `swift`
+- **最后活动时间:** 2026-09-12
+
+### [GoldenCheetah](https://github.com/GoldenCheetah/GoldenCheetah)
+
+为自行车手、跑步者和铁人三项运动员设计的开源性能分析软件。支持连接功率计等设备，提供深度的运动数据科学分析。
+
+- **Stars:** ⭐️ 2.2k
+- **Tags:** `cycling` `fitness` `data-analysis` `cross-platform` `qt`
+- **最后活动时间:** 2026-10-17
+
+### [LiveAgent](https://github.com/Stack-Cairn/LiveAgent)
+
+一个功能齐全的AI智能体桌面客户端，支持WebUI访问并可进行创意定制与扩展。
+
+- **Stars:** ⭐️ 2.2k
+- **Tags:** `ai-agent` `desktop-client` `webui` `tauri`
+- **最后活动时间:** 2026-10-17
+
+### [open-cowork](https://github.com/OpenCoworkAI/open-cowork)
+
+开源桌面应用，支持Windows和macOS，实现Claude AI智能体协作功能。
+
+- **Stars:** ⭐️ 2.2k
+- **Tags:** `Claude` `AI Agent` `Desktop`
+- **最后活动时间:** 2026-10-13
 
 ### [skills-manage](https://github.com/iamzhihuix/skills-manage)
 
@@ -2120,21 +2168,21 @@ Linux 平台上的开源 Stream Deck 控制软件，兼容原版 Elgato Stream D
 - **Tags:** `database-client` `macos` `ai-assistant` `sql`
 - **最后活动时间:** 2026-04-24
 
-### [GoldenCheetah](https://github.com/GoldenCheetah/GoldenCheetah)
+### [BetterLyrics](https://github.com/jayfunc/BetterLyrics)
 
-为自行车手、跑步者和铁人三项运动员设计的开源性能分析软件。支持连接功率计等设备，提供深度的运动数据科学分析。
-
-- **Stars:** ⭐️ 2.2k
-- **Tags:** `cycling` `fitness` `data-analysis` `cross-platform` `qt`
-- **最后活动时间:** 2026-09-26
-
-### [LiveAgent](https://github.com/Stack-Cairn/LiveAgent)
-
-一个功能齐全的AI智能体桌面客户端，支持WebUI访问并可进行创意定制与扩展。
+基于 WinUI3/Win2D 打造的优雅歌词可视化与全能音乐播放器，高度可定制。深度兼容 Apple Music、Spotify、网易云、QQ 音乐等主流平台的歌词格式（含 TTML）。
 
 - **Stars:** ⭐️ 2.2k
-- **Tags:** `ai-agent` `desktop-client` `webui` `tauri`
-- **最后活动时间:** 2026-09-30
+- **Tags:** `lyrics` `music-player` `winui3` `windows` `ttml`
+- **最后活动时间:** 2026-10-17
+
+### [skales](https://github.com/skalesapp/skales)
+
+跨平台AI桌面代理，支持邮件、日历、浏览器自动化和代码生成，无需Docker即可运行。
+
+- **Stars:** ⭐️ 2.2k
+- **Tags:** `AI Agent` `Desktop` `Automation`
+- **最后活动时间:** 2026-10-16
 
 ### [dnGrep](https://github.com/dnGrep/dnGrep)
 
@@ -2144,29 +2192,13 @@ Windows 上的图形化 GREP 搜索工具，支持正则表达式在多文件中
 - **Tags:** `grep` `search` `windows` `regex` `gui`
 - **最后活动时间:** 2026-09-09
 
-### [LenovoLegionToolkit](https://github.com/LenovoLegionToolkit-Team/LenovoLegionToolkit)
+### [fastsdcpu](https://github.com/rupeshs/fastsdcpu)
 
-为联想拯救者游戏本打造的轻量开源工具，替代臃肿的Lenovo Vantage，实现硬件控制与性能调节。
-
-- **Stars:** ⭐️ 2.2k
-- **Tags:** `lenovo` `hardware-control` `utility` `windows` `gaming`
-- **最后活动时间:** 2026-09-30
-
-### [open-cowork](https://github.com/OpenCoworkAI/open-cowork)
-
-开源桌面应用，支持Windows和macOS，实现Claude AI智能体协作功能。
+在CPU和AI PC上快速运行Stable Diffusion的工具，支持多种模型和界面。
 
 - **Stars:** ⭐️ 2.2k
-- **Tags:** `Claude` `AI Agent` `Desktop`
-- **最后活动时间:** 2026-09-30
-
-### [BetterLyrics](https://github.com/jayfunc/BetterLyrics)
-
-基于 WinUI3/Win2D 打造的优雅歌词可视化与全能音乐播放器，高度可定制。深度兼容 Apple Music、Spotify、网易云、QQ 音乐等主流平台的歌词格式（含 TTML）。
-
-- **Stars:** ⭐️ 2.2k
-- **Tags:** `lyrics` `music-player` `winui3` `windows` `ttml`
-- **最后活动时间:** 2026-09-28
+- **Tags:** `stable-diffusion` `cpu` `openvino`
+- **最后活动时间:** 2026-07-24
 
 ### [cate](https://github.com/0-AI-UG/cate)
 
@@ -2176,27 +2208,19 @@ Windows 上的图形化 GREP 搜索工具，支持正则表达式在多文件中
 - **Tags:** `editor` `canvas` `ide` `workspace`
 - **最后活动时间:** 2026-09-30
 
-### [fastsdcpu](https://github.com/rupeshs/fastsdcpu)
-
-在CPU和AI PC上快速运行Stable Diffusion的工具，支持多种模型和界面。
-
-- **Stars:** ⭐️ 2.2k
-- **Tags:** `stable-diffusion` `cpu` `openvino`
-- **最后活动时间:** 2026-07-24
-
 ### [sparkle](https://github.com/thedogecraft/sparkle)
 
 开源的 Windows 精简优化应用，通过注册表调整与服务清理为 PC 提速减负。兼顾隐私保护与系统兼容性。
 
-- **Stars:** ⭐️ 2.1k
+- **Stars:** ⭐️ 2.2k
 - **Tags:** `windows` `debloat` `optimizer` `privacy` `tweaks`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-11
 
 ### [RealSR-NCNN-Android](https://github.com/tumuyan/RealSR-NCNN-Android)
 
 Android端超分辨率和插值应用，集成RealSR、Real-ESRGAN、Waifu2x等多种算法。
 
-- **Stars:** ⭐️ 2.1k
+- **Stars:** ⭐️ 2.2k
 - **Tags:** `android` `super-resolution` `ncnn` `mobile-ai`
 - **最后活动时间:** 2026-05-30
 
@@ -2206,15 +2230,7 @@ Android端超分辨率和插值应用，集成RealSR、Real-ESRGAN、Waifu2x等�
 
 - **Stars:** ⭐️ 2.1k
 - **Tags:** `Calendar` `Sync` `Outlook` `Google`
-- **最后活动时间:** 2026-09-27
-
-### [Vanara](https://github.com/dahall/Vanara)
-
-一套为 Windows 实现 PInvoke 调用原生 API 的 .NET 库集合。它提供了丰富的封装，极大简化了在 .NET 环境下进行 Windows 系统级开发的过程。
-
-- **Stars:** ⭐️ 2.1k
-- **Tags:** `dotnet` `pinvoke` `winapi` `windows` `interop`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-17
 
 ### [AppPorts](https://github.com/wzh4869/AppPorts)
 
@@ -2222,7 +2238,15 @@ macOS 实用工具，可将应用无缝迁移至外置存储并自动建立符�
 
 - **Stars:** ⭐️ 2.1k
 - **Tags:** `macos` `swiftui` `disk-management` `symbolic-links` `utility`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-16
+
+### [Vanara](https://github.com/dahall/Vanara)
+
+一套为 Windows 实现 PInvoke 调用原生 API 的 .NET 库集合。它提供了丰富的封装，极大简化了在 .NET 环境下进行 Windows 系统级开发的过程。
+
+- **Stars:** ⭐️ 2.1k
+- **Tags:** `dotnet` `pinvoke` `winapi` `windows` `interop`
+- **最后活动时间:** 2026-10-17
 
 ### [QuickClipboard](https://github.com/mosheng1/QuickClipboard)
 
@@ -2230,7 +2254,23 @@ macOS 实用工具，可将应用无缝迁移至外置存储并自动建立符�
 
 - **Stars:** ⭐️ 2.1k
 - **Tags:** `clipboard` `tauri` `rust` `ocr` `productivity`
-- **最后活动时间:** 2026-09-28
+- **最后活动时间:** 2026-10-14
+
+### [USB-Uncensored-LLM](https://github.com/techjarves/USB-Uncensored-LLM)
+
+零安装便携式本地AI环境，支持从USB或SSD直接运行高质量本地大模型。完全离线、跨平台、隐私优先，支持持久化聊天历史。
+
+- **Stars:** ⭐️ 2.1k
+- **Tags:** `local-llm` `portable-ai` `uncensored-ai` `privacy-first`
+- **最后活动时间:** 2026-07-04
+
+### [matugen](https://github.com/InioX/matugen)
+
+一款跨平台的 Material You 与 Base16 配色生成工具。能够自动为系统或应用生成统一的颜色主题方案。
+
+- **Stars:** ⭐️ 2.1k
+- **Tags:** `color-scheme` `material-you` `cross-platform` `rust`
+- **最后活动时间:** 2026-10-08
 
 ### [flowframes](https://github.com/n00mkrad/flowframes)
 
@@ -2240,37 +2280,29 @@ Windows视频插帧GUI工具，支持DAIN和RIFE模型实现流畅视频补帧�
 - **Tags:** `video-interpolation` `rife` `dain` `gui`
 - **最后活动时间:** 2026-05-20
 
+### [frame](https://github.com/66HEX/frame)
+
+基于 Rust 与 GPUI 打造的现代化 FFmpeg 图形界面，让音视频转码直观高效。跨平台支持 Windows、macOS 与 Linux。
+
+- **Stars:** ⭐️ 2.1k
+- **Tags:** `FFmpeg` `GUI` `Rust` `Video-Conversion` `Media-Converter`
+- **最后活动时间:** 2026-10-12
+
+### [Butterfly](https://github.com/LinwoodDev/Butterfly)
+
+美观极简的跨平台开源笔记应用，支持手写绘图与丰富自定义。基于 Flutter 构建，覆盖 Android、桌面与 Web 端。
+
+- **Stars:** ⭐️ 2.1k
+- **Tags:** `note-taking` `flutter` `cross-platform` `drawing` `productivity`
+- **最后活动时间:** 2026-10-17
+
 ### [frpmgr](https://github.com/koho/frpmgr)
 
 为 Windows 用户提供直观的 FRP 图形界面客户端，让内网穿透配置变得简单高效。
 
 - **Stars:** ⭐️ 2.1k
 - **Tags:** `frp` `frpc` `gui` `windows` `proxy` `reverse-proxy`
-- **最后活动时间:** 2026-09-11
-
-### [Butterfly](https://github.com/LinwoodDev/Butterfly)
-
-美观极简的跨平台开源笔记应用，支持手写绘图与丰富自定义。基于 Flutter 构建，覆盖 Android、桌面与 Web 端。
-
-- **Stars:** ⭐️ 2.0k
-- **Tags:** `note-taking` `flutter` `cross-platform` `drawing` `productivity`
-- **最后活动时间:** 2026-09-30
-
-### [matugen](https://github.com/InioX/matugen)
-
-一款跨平台的 Material You 与 Base16 配色生成工具。能够自动为系统或应用生成统一的颜色主题方案。
-
-- **Stars:** ⭐️ 2.0k
-- **Tags:** `color-scheme` `material-you` `cross-platform` `rust`
-- **最后活动时间:** 2026-09-20
-
-### [USB-Uncensored-LLM](https://github.com/techjarves/USB-Uncensored-LLM)
-
-零安装便携式本地AI环境，支持从USB或SSD直接运行高质量本地大模型。完全离线、跨平台、隐私优先，支持持久化聊天历史。
-
-- **Stars:** ⭐️ 2.0k
-- **Tags:** `local-llm` `portable-ai` `uncensored-ai` `privacy-first`
-- **最后活动时间:** 2026-07-04
+- **最后活动时间:** 2026-10-13
 
 ### [witsy](https://github.com/Kochava-Studios/witsy)
 
@@ -2286,15 +2318,7 @@ Windows视频插帧GUI工具，支持DAIN和RIFE模型实现流畅视频补帧�
 
 - **Stars:** ⭐️ 2.0k
 - **Tags:** `file-manager` `nodejs` `web` `docker`
-- **最后活动时间:** 2026-09-29
-
-### [frame](https://github.com/66HEX/frame)
-
-基于 Rust 与 GPUI 打造的现代化 FFmpeg 图形界面，让音视频转码直观高效。跨平台支持 Windows、macOS 与 Linux。
-
-- **Stars:** ⭐️ 2.0k
-- **Tags:** `FFmpeg` `GUI` `Rust` `Video-Conversion` `Media-Converter`
-- **最后活动时间:** 2026-09-28
+- **最后活动时间:** 2026-10-13
 
 ### [OpenComic](https://github.com/ollm/OpenComic)
 
@@ -2302,7 +2326,15 @@ Windows视频插帧GUI工具，支持DAIN和RIFE模型实现流畅视频补帧�
 
 - **Stars:** ⭐️ 2.0k
 - **Tags:** `Comic-Reader` `Manga` `Electron` `PDF-Viewer` `Webtoon`
-- **最后活动时间:** 2026-09-25
+- **最后活动时间:** 2026-10-17
+
+### [py-gpt](https://github.com/szczyglis-dev/py-gpt)
+
+功能强大的跨平台桌面AI助手，支持GPT-5、Gemini、Claude等主流模型，集成聊天、视觉、语音、RAG等丰富功能。
+
+- **Stars:** ⭐️ 2.0k
+- **Tags:** `AI助手` `多模型支持` `RAG` `智能体`
+- **最后活动时间:** 2026-10-06
 
 ### [obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin)
 
@@ -2312,13 +2344,13 @@ Obsidian AI文本生成插件，支持多种AI提供商，帮助用户在笔记�
 - **Tags:** `Obsidian` `Text Generation` `AI Writing` `Plugin`
 - **最后活动时间:** 2026-08-06
 
-### [DreamServer](https://github.com/Light-Heart-Labs/DreamServer)
+### [freac](https://github.com/enzo1982/freac)
 
-本地全能AI平台，支持LLM推理、聊天界面、语音识别合成、智能体工作流、RAG检索和图像生成，无需云端订阅即可运行。
+老牌开源音频转换器 fre:ac，支持 CD 抓轨与 MP3、FLAC、Opus 等主流格式互转。免费、跨平台且持续维护。
 
 - **Stars:** ⭐️ 2.0k
-- **Tags:** `local-ai` `llm` `rag` `ai-agents` `self-hosted`
-- **最后活动时间:** 2026-06-11
+- **Tags:** `audio-converter` `cd-ripper` `flac` `mp3` `cross-platform`
+- **最后活动时间:** 2026-10-06
 
 ### [MaterialSearch](https://github.com/chn-lee-yumi/MaterialSearch)
 
@@ -2328,37 +2360,29 @@ Obsidian AI文本生成插件，支持多种AI提供商，帮助用户在笔记�
 - **Tags:** `语义搜索` `多模态` `图像检索`
 - **最后活动时间:** 2026-09-21
 
-### [freac](https://github.com/enzo1982/freac)
+### [DreamServer](https://github.com/Light-Heart-Labs/DreamServer)
 
-老牌开源音频转换器 fre:ac，支持 CD 抓轨与 MP3、FLAC、Opus 等主流格式互转。免费、跨平台且持续维护。
-
-- **Stars:** ⭐️ 2.0k
-- **Tags:** `audio-converter` `cd-ripper` `flac` `mp3` `cross-platform`
-- **最后活动时间:** 2026-09-28
-
-### [py-gpt](https://github.com/szczyglis-dev/py-gpt)
-
-功能强大的跨平台桌面AI助手，支持GPT-5、Gemini、Claude等主流模型，集成聊天、视觉、语音、RAG等丰富功能。
+本地全能AI平台，支持LLM推理、聊天界面、语音识别合成、智能体工作流、RAG检索和图像生成，无需云端订阅即可运行。
 
 - **Stars:** ⭐️ 2.0k
-- **Tags:** `AI助手` `多模型支持` `RAG` `智能体`
-- **最后活动时间:** 2026-09-29
+- **Tags:** `local-ai` `llm` `rag` `ai-agents` `self-hosted`
+- **最后活动时间:** 2026-06-11
+
+### [WireGuard Desktop App](https://github.com/TunnlTo/desktop-app)
+
+功能强大的 Windows WireGuard 客户端，提供高级分流隧道（split tunneling）能力。界面直观易用。
+
+- **Stars:** ⭐️ 2.0k
+- **Tags:** `wireguard` `vpn` `windows` `split-tunneling`
+- **最后活动时间:** 2026-10-15
 
 ### [aspia](https://github.com/dchapyshev/aspia)
 
 开源远程桌面与文件传输工具，可自托管部署。是 TeamViewer/AnyDesk 的优质替代方案。
 
-- **Stars:** ⭐️ 1.9k
+- **Stars:** ⭐️ 2.0k
 - **Tags:** `remote-desktop` `remote-control` `file-transfer` `qt` `open-source`
-- **最后活动时间:** 2026-09-30
-
-### [ClipCascade](https://github.com/Sathvik-Rao/ClipCascade)
-
-一款轻量级跨设备剪贴板自动同步工具，无需按键即可实现文本和图片的无缝同步。支持自托管和多平台使用。
-
-- **Stars:** ⭐️ 1.9k
-- **Tags:** `clipboard` `sync` `cross-platform` `self-hosting` `productivity`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-10-16
 
 ### [chops](https://github.com/Shpigford/chops)
 
@@ -2368,13 +2392,13 @@ macOS 应用程序，用于跨 Claude Code、Cursor、Codex 等平台管理和�
 - **Tags:** `macos` `ai-tools` `skills-management` `swiftui`
 - **最后活动时间:** 2026-08-23
 
-### [skales](https://github.com/skalesapp/skales)
+### [ClipCascade](https://github.com/Sathvik-Rao/ClipCascade)
 
-跨平台AI桌面代理，支持邮件、日历、浏览器自动化和代码生成，无需Docker即可运行。
+一款轻量级跨设备剪贴板自动同步工具，无需按键即可实现文本和图片的无缝同步。支持自托管和多平台使用。
 
 - **Stars:** ⭐️ 1.9k
-- **Tags:** `AI Agent` `Desktop` `Automation`
-- **最后活动时间:** 2026-09-30
+- **Tags:** `clipboard` `sync` `cross-platform` `self-hosting` `productivity`
+- **最后活动时间:** 2026-10-17
 
 ### [PandaOCR.Pro](https://github.com/miaomiaosoft/PandaOCR.Pro)
 
@@ -2390,7 +2414,15 @@ macOS 应用程序，用于跨 Claude Code、Cursor、Codex 等平台管理和�
 
 - **Stars:** ⭐️ 1.9k
 - **Tags:** `steam` `games` `synchronization` `launcher` `rust`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-15
+
+### [UniClipboard](https://github.com/UniClipboard/UniClipboard)
+
+跨设备实时剪贴板同步工具，本地优先、点对点传输且端到端加密，无需账号、云端或中心服务器。兼顾安全与便捷的剪贴板同步方案。
+
+- **Stars:** ⭐️ 1.9k
+- **Tags:** `clipboard` `clipboard-manager` `p2p` `e2ee` `local-first` `cross-platform` `tauri`
+- **最后活动时间:** 2026-10-15
 
 ### [lanzouyun-disk](https://github.com/chenhb23/lanzouyun-disk)
 
@@ -2400,13 +2432,45 @@ macOS 应用程序，用于跨 Claude Code、Cursor、Codex 等平台管理和�
 - **Tags:** `cloud-storage` `electron` `lanzouyun` `file-management`
 - **最后活动时间:** 2026-05-21
 
-### [locally-uncensored](https://github.com/PurpleDoubleD/locally-uncensored)
+### [MacSai](https://github.com/iliyami/MacSai)
 
-本地AI桌面应用，支持聊天、智能体模式、图像和视频生成，集成Ollama、Llama等多种模型后端。
+开源的 Mac 清理、优化与恶意软件扫描工具，CleanMyMac 的免费替代品，基于 Swift 6 与 SwiftUI 构建。
 
 - **Stars:** ⭐️ 1.9k
-- **Tags:** `local-ai` `desktop-app` `llm` `ollama` `image-generation` `video-generation`
-- **最后活动时间:** 2026-09-28
+- **Tags:** `macos` `system-cleaner` `malware-scanner` `swiftui`
+- **最后活动时间:** 2026-10-17
+
+### [typewhisper-mac](https://github.com/TypeWhisper/typewhisper-mac)
+
+macOS本地语音转文字应用，支持设备端AI推理，完全离线运行保护隐私，可选云端增强。
+
+- **Stars:** ⭐️ 1.9k
+- **Tags:** `speech-to-text` `whisper` `macos` `on-device` `privacy`
+- **最后活动时间:** 2026-10-17
+
+### [hope-agent](https://github.com/shiwenwen/hope-agent)
+
+跨设备桌面 AI 助手，支持设备间无缝交接和云端部署，越用越懂你。
+
+- **Stars:** ⭐️ 1.9k
+- **Tags:** `ai-assistant` `desktop-app` `cross-device` `mcp` `local-ai`
+- **最后活动时间:** 2026-10-17
+
+### [Clop](https://github.com/FuzzyIdeas/Clop)
+
+macOS 剪贴板优化器，可自动压缩复制的图片、截图与视频，在保持画质的同时大幅减小文件体积。
+
+- **Stars:** ⭐️ 1.9k
+- **Tags:** `macos` `clipboard` `image-optimization` `utility`
+- **最后活动时间:** 2026-10-16
+
+### [ai-file-sorter](https://github.com/hyperfield/ai-file-sorter)
+
+跨平台桌面应用，利用LLM实现智能文件分类与重命名。支持本地和远程模型，提供预览工作流和完全用户可控的更改。
+
+- **Stars:** ⭐️ 1.8k
+- **Tags:** `AI` `File Management` `LLM` `Desktop`
+- **最后活动时间:** 2026-10-16
 
 ### [Dive](https://github.com/OpenAgentPlatform/Dive)
 
@@ -2416,21 +2480,29 @@ macOS 应用程序，用于跨 Claude Code、Cursor、Codex 等平台管理和�
 - **Tags:** `mcp-host` `llm-interface` `desktop-app` `ai-agents`
 - **最后活动时间:** 2026-07-31
 
-### [openvpn-gui](https://github.com/OpenVPN/openvpn-gui)
+### [claude-prism](https://github.com/delibae/claude-prism)
 
-OpenVPN 官方的 Windows 图形前端，通过系统托盘即可管理 VPN 隧道的启动、停止与日志查看。简洁可靠的 OpenVPN 桌面伴侣。
-
-- **Stars:** ⭐️ 1.8k
-- **Tags:** `OpenVPN` `VPN` `Windows` `GUI`
-- **最后活动时间:** 2026-09-23
-
-### [typewhisper-mac](https://github.com/TypeWhisper/typewhisper-mac)
-
-macOS本地语音转文字应用，支持设备端AI推理，完全离线运行保护隐私，可选云端增强。
+一款离线优先的科研写作桌面应用，集成Claude AI、LaTeX和Python，支持100多种科研技能，注重隐私保护。
 
 - **Stars:** ⭐️ 1.8k
-- **Tags:** `speech-to-text` `whisper` `macos` `on-device` `privacy`
-- **最后活动时间:** 2026-09-30
+- **Tags:** `claude` `scientific-writing` `latex` `offline` `desktop-app` `tauri`
+- **最后活动时间:** 2026-08-28
+
+### [skills-hub](https://github.com/qufei1993/skills-hub)
+
+跨平台桌面应用，统一管理智能体技能并同步到多个AI编程工具的全局技能目录。
+
+- **Stars:** ⭐️ 1.8k
+- **Tags:** `agent-skills` `desktop-app` `ai-tools`
+- **最后活动时间:** 2026-10-16
+
+### [ollama-app](https://github.com/JHubi1/ollama-app)
+
+Ollama的现代易用客户端应用，支持跨平台本地运行大语言模型。
+
+- **Stars:** ⭐️ 1.8k
+- **Tags:** `Ollama` `客户端` `本地运行` `跨平台`
+- **最后活动时间:** 2026-10-03
 
 ### [edit-mind](https://github.com/IliasHad/edit-mind)
 
@@ -2446,23 +2518,23 @@ Pencil2D 是一款开源、直观的 2D 手绘动画制作工具，跨平台且�
 
 - **Stars:** ⭐️ 1.8k
 - **Tags:** `animation` `2d` `drawing` `qt` `open-source`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-16
 
-### [ollama-app](https://github.com/JHubi1/ollama-app)
+### [openvpn-gui](https://github.com/OpenVPN/openvpn-gui)
 
-Ollama的现代易用客户端应用，支持跨平台本地运行大语言模型。
-
-- **Stars:** ⭐️ 1.8k
-- **Tags:** `Ollama` `客户端` `本地运行` `跨平台`
-- **最后活动时间:** 2026-08-07
-
-### [claude-prism](https://github.com/delibae/claude-prism)
-
-一款离线优先的科研写作桌面应用，集成Claude AI、LaTeX和Python，支持100多种科研技能，注重隐私保护。
+OpenVPN 官方的 Windows 图形前端，通过系统托盘即可管理 VPN 隧道的启动、停止与日志查看。简洁可靠的 OpenVPN 桌面伴侣。
 
 - **Stars:** ⭐️ 1.8k
-- **Tags:** `claude` `scientific-writing` `latex` `offline` `desktop-app` `tauri`
-- **最后活动时间:** 2026-08-28
+- **Tags:** `OpenVPN` `VPN` `Windows` `GUI`
+- **最后活动时间:** 2026-09-23
+
+### [Atomic-Chat](https://github.com/AtomicBot-ai/Atomic-Chat)
+
+面向智能体的本地AI应用与推理引擎。支持完全离线运行开源大模型，保障数据隐私，兼容MLX与llama.cpp。
+
+- **Stars:** ⭐️ 1.8k
+- **Tags:** `ai-chat` `local-llm` `llm-inference` `mlx` `mcp`
+- **最后活动时间:** 2026-10-16
 
 ### [nsfw-filter](https://github.com/nsfw-filter/nsfw-filter)
 
@@ -2470,23 +2542,7 @@ Ollama的现代易用客户端应用，支持跨平台本地运行大语言模�
 
 - **Stars:** ⭐️ 1.8k
 - **Tags:** `nsfw-detection` `browser-extension` `tensorflowjs` `content-filter`
-- **最后活动时间:** 2026-09-19
-
-### [ai-file-sorter](https://github.com/hyperfield/ai-file-sorter)
-
-跨平台桌面应用，利用LLM实现智能文件分类与重命名。支持本地和远程模型，提供预览工作流和完全用户可控的更改。
-
-- **Stars:** ⭐️ 1.8k
-- **Tags:** `AI` `File Management` `LLM` `Desktop`
-- **最后活动时间:** 2026-09-29
-
-### [UniClipboard](https://github.com/UniClipboard/UniClipboard)
-
-跨设备实时剪贴板同步工具，本地优先、点对点传输且端到端加密，无需账号、云端或中心服务器。兼顾安全与便捷的剪贴板同步方案。
-
-- **Stars:** ⭐️ 1.8k
-- **Tags:** `clipboard` `clipboard-manager` `p2p` `e2ee` `local-first` `cross-platform` `tauri`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [u-claw](https://github.com/dongsheng123132/u-claw)
 
@@ -2494,15 +2550,15 @@ OpenClaw AI助手离线安装U盘工具，支持DeepSeek、Kimi等AI助手的便
 
 - **Stars:** ⭐️ 1.8k
 - **Tags:** `AI助手` `离线安装` `便携工具`
-- **最后活动时间:** 2026-09-25
+- **最后活动时间:** 2026-10-15
 
-### [Hermes-CN-Desktop](https://github.com/Eynzof/Hermes-CN-Desktop)
+### [cardinal](https://github.com/cardisoft/cardinal)
 
-Hermes Agent 桌面版应用，基于 Tauri、TypeScript 和 Rust 构建，内置隔离的智能体核心。专为 Windows 平台优化。
+macOS 上最快的文件搜索工具，基于 Rust 和 Tauri 构建，提供极速的本地搜索体验。
 
 - **Stars:** ⭐️ 1.7k
-- **Tags:** `ai-agent` `desktop-app` `tauri` `rust` `typescript`
-- **最后活动时间:** 2026-09-21
+- **Tags:** `macos` `file-search` `rust` `tauri`
+- **最后活动时间:** 2026-07-23
 
 ### [monocode](https://github.com/hardbeat920/monocode)
 
@@ -2518,23 +2574,15 @@ Hermes Agent 桌面版应用，基于 Tauri、TypeScript 和 Rust 构建，内�
 
 - **Stars:** ⭐️ 1.7k
 - **Tags:** `ai-gateway` `android` `termux` `openai` `claude`
-- **最后活动时间:** 2026-09-14
+- **最后活动时间:** 2026-10-14
 
-### [skills-hub](https://github.com/qufei1993/skills-hub)
+### [Hermes-CN-Desktop](https://github.com/Eynzof/Hermes-CN-Desktop)
 
-跨平台桌面应用，统一管理智能体技能并同步到多个AI编程工具的全局技能目录。
-
-- **Stars:** ⭐️ 1.7k
-- **Tags:** `agent-skills` `desktop-app` `ai-tools`
-- **最后活动时间:** 2026-09-30
-
-### [cardinal](https://github.com/cardisoft/cardinal)
-
-macOS 上最快的文件搜索工具，基于 Rust 和 Tauri 构建，提供极速的本地搜索体验。
+Hermes Agent 桌面版应用，基于 Tauri、TypeScript 和 Rust 构建，内置隔离的智能体核心。专为 Windows 平台优化。
 
 - **Stars:** ⭐️ 1.7k
-- **Tags:** `macos` `file-search` `rust` `tauri`
-- **最后活动时间:** 2026-07-23
+- **Tags:** `ai-agent` `desktop-app` `tauri` `rust` `typescript`
+- **最后活动时间:** 2026-09-21
 
 ### [KeePassium](https://github.com/keepassium/KeePassium)
 
@@ -2544,13 +2592,21 @@ macOS 上最快的文件搜索工具，基于 Rust 和 Tauri 构建，提供极�
 - **Tags:** `ios` `macos` `keepass` `password-manager`
 - **最后活动时间:** 2026-05-23
 
+### [oculante](https://github.com/woelper/oculante)
+
+用 Rust 编写的快速轻量图像查看器/编辑器，支持 PSD、EXR、HDR 等多种格式，跨平台运行。
+
+- **Stars:** ⭐️ 1.7k
+- **Tags:** `image-viewer` `rust` `editor` `cross-platform`
+- **最后活动时间:** 2026-10-17
+
 ### [Rocket.Chat.Electron](https://github.com/RocketChat/Rocket.Chat.Electron)
 
 Rocket.Chat 官方跨平台桌面客户端，为团队提供安全可控的开源即时通讯与协作体验。
 
 - **Stars:** ⭐️ 1.7k
 - **Tags:** `electron` `chat` `collaboration` `desktop` `open-source`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-17
 
 ### [MarkdownMonster](https://github.com/RickStrahl/MarkdownMonster)
 
@@ -2560,21 +2616,13 @@ Rocket.Chat 官方跨平台桌面客户端，为团队提供安全可控的开�
 - **Tags:** `Markdown` `Editor` `Windows` `Blogging`
 - **最后活动时间:** 2026-09-25
 
-### [subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron)
+### [dsnote](https://github.com/mkiol/dsnote)
 
-基于 Electron 的字幕翻译桌面应用，利用 LLM 实现高质量翻译。
-
-- **Stars:** ⭐️ 1.7k
-- **Tags:** `Translation` `Electron` `Subtitle`
-- **最后活动时间:** 2026-08-01
-
-### [hope-agent](https://github.com/shiwenwen/hope-agent)
-
-跨设备桌面 AI 助手，支持设备间无缝交接和云端部署，越用越懂你。
+Linux 平台离线语音笔记应用，支持语音转文字、文字转语音和机器翻译，注重隐私保护。
 
 - **Stars:** ⭐️ 1.7k
-- **Tags:** `ai-assistant` `desktop-app` `cross-device` `mcp` `local-ai`
-- **最后活动时间:** 2026-09-30
+- **Tags:** `speech-to-text` `offline` `linux`
+- **最后活动时间:** 2026-10-12
 
 ### [ecode](https://github.com/SpartanJ/ecode)
 
@@ -2582,31 +2630,7 @@ Rocket.Chat 官方跨平台桌面客户端，为团队提供安全可控的开�
 
 - **Stars:** ⭐️ 1.7k
 - **Tags:** `code-editor` `gui` `ide` `lightweight`
-- **最后活动时间:** 2026-09-28
-
-### [oculante](https://github.com/woelper/oculante)
-
-用 Rust 编写的快速轻量图像查看器/编辑器，支持 PSD、EXR、HDR 等多种格式，跨平台运行。
-
-- **Stars:** ⭐️ 1.7k
-- **Tags:** `image-viewer` `rust` `editor` `cross-platform`
-- **最后活动时间:** 2026-08-31
-
-### [dsnote](https://github.com/mkiol/dsnote)
-
-Linux 平台离线语音笔记应用，支持语音转文字、文字转语音和机器翻译，注重隐私保护。
-
-- **Stars:** ⭐️ 1.7k
-- **Tags:** `speech-to-text` `offline` `linux`
-- **最后活动时间:** 2026-09-20
-
-### [KSPlayer](https://github.com/kingslay/KSPlayer)
-
-基于AVPlayer与FFmpeg的跨平台视频播放器，支持HLG、HDR10+、杜比视界与杜比全景声。覆盖iOS、macOS、tvOS与visionOS。
-
-- **Stars:** ⭐️ 1.7k
-- **Tags:** `video-player` `ffmpeg` `hdr` `dolby-vision` `swiftui`
-- **最后活动时间:** 2026-09-24
+- **最后活动时间:** 2026-10-16
 
 ### [BetterCapture](https://github.com/jsattler/BetterCapture)
 
@@ -2616,29 +2640,37 @@ Linux 平台离线语音笔记应用，支持语音转文字、文字转语音�
 - **Tags:** `Screen-Recorder` `macOS` `Open-Source` `ProRes` `HEVC`
 - **最后活动时间:** 2026-09-13
 
-### [MacSai](https://github.com/iliyami/MacSai)
+### [subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron)
 
-开源的 Mac 清理、优化与恶意软件扫描工具，CleanMyMac 的免费替代品，基于 Swift 6 与 SwiftUI 构建。
-
-- **Stars:** ⭐️ 1.7k
-- **Tags:** `macos` `system-cleaner` `malware-scanner` `swiftui`
-- **最后活动时间:** 2026-09-30
-
-### [Clop](https://github.com/FuzzyIdeas/Clop)
-
-macOS 剪贴板优化器，可自动压缩复制的图片、截图与视频，在保持画质的同时大幅减小文件体积。
+基于 Electron 的字幕翻译桌面应用，利用 LLM 实现高质量翻译。
 
 - **Stars:** ⭐️ 1.7k
-- **Tags:** `macos` `clipboard` `image-optimization` `utility`
-- **最后活动时间:** 2026-09-26
+- **Tags:** `Translation` `Electron` `Subtitle`
+- **最后活动时间:** 2026-10-17
 
-### [Atomic-Chat](https://github.com/AtomicBot-ai/Atomic-Chat)
+### [KSPlayer](https://github.com/kingslay/KSPlayer)
 
-面向智能体的本地AI应用与推理引擎。支持完全离线运行开源大模型，保障数据隐私，兼容MLX与llama.cpp。
+基于AVPlayer与FFmpeg的跨平台视频播放器，支持HLG、HDR10+、杜比视界与杜比全景声。覆盖iOS、macOS、tvOS与visionOS。
 
-- **Stars:** ⭐️ 1.6k
-- **Tags:** `ai-chat` `local-llm` `llm-inference` `mlx` `mcp`
-- **最后活动时间:** 2026-09-30
+- **Stars:** ⭐️ 1.7k
+- **Tags:** `video-player` `ffmpeg` `hdr` `dolby-vision` `swiftui`
+- **最后活动时间:** 2026-10-10
+
+### [data-peek](https://github.com/Rohithgilla12/data-peek)
+
+极简高速的数据库桌面客户端，让开发者摆脱臃肿工具、快速查看 SQL 数据。内置 MCP 支持，可轻松接入 AI 助手进行数据查询。
+
+- **Stars:** ⭐️ 1.7k
+- **Tags:** `Electron` `Database` `SQL` `MCP` `PostgreSQL` `MySQL` `Developer-Tools`
+- **最后活动时间:** 2026-10-15
+
+### [Alpaca](https://github.com/Jeffser/Alpaca)
+
+一个本地和在线的AI中心应用，基于GTK4为GNOME桌面环境打造。提供Ollama的图形化界面，方便用户管理本地大模型。
+
+- **Stars:** ⭐️ 1.7k
+- **Tags:** `ollama` `ollama-gui` `gnome` `gtk4` `local-llm`
+- **最后活动时间:** 2026-10-02
 
 ### [Maya](https://github.com/25H/Maya)
 
@@ -2648,13 +2680,37 @@ Maye是一款简洁小巧的Windows快速启动工具，帮助用户高效管理
 - **Tags:** `launcher` `productivity` `windows` `portable`
 - **最后活动时间:** 2026-04-21
 
-### [Alpaca](https://github.com/Jeffser/Alpaca)
+### [Macro-Deck](https://github.com/Macro-Deck-App/Macro-Deck)
 
-一个本地和在线的AI中心应用，基于GTK4为GNOME桌面环境打造。提供Ollama的图形化界面，方便用户管理本地大模型。
+开源虚拟宏键盘（类 Stream Deck），支持自定义小部件、强大集成与安全的插件生态系统。
 
 - **Stars:** ⭐️ 1.6k
-- **Tags:** `ollama` `ollama-gui` `gnome` `gtk4` `local-llm`
-- **最后活动时间:** 2026-08-03
+- **Tags:** `macro-pad` `stream-deck` `automation` `widgets` `open-source`
+- **最后活动时间:** 2026-10-17
+
+### [Llama-macOS](https://github.com/ggml-org/Llama-macOS)
+
+专为 macOS 打造的本地大语言模型管理客户端，为你的 LLMs 提供舒适的运行环境。基于 Swift 和 llama.cpp 实现。
+
+- **Stars:** ⭐️ 1.6k
+- **Tags:** `ai` `llms` `macos` `swift` `llama-cpp`
+- **最后活动时间:** 2026-10-17
+
+### [Aimmy](https://github.com/Babyhamsta/Aimmy)
+
+面向游戏玩家的通用AI瞄准辅助工具，使用ONNX/YOLOv8技术，帮助有障碍的玩家提升游戏体验。
+
+- **Stars:** ⭐️ 1.6k
+- **Tags:** `ai-aimbot` `onnx` `yolov8` `aim-assist` `accessibility`
+- **最后活动时间:** 2026-10-04
+
+### [opencove](https://github.com/DeadWaveWave/opencove)
+
+一款为Claude Code、Codex等AI编程助手打造的无限画布桌面应用，整合终端、任务和笔记功能，提升AI辅助开发体验。
+
+- **Stars:** ⭐️ 1.6k
+- **Tags:** `ai-agents` `claude-code` `desktop-app` `infinite-canvas` `electron`
+- **最后活动时间:** 2026-10-17
 
 ### [orchard](https://github.com/andrew-waters/orchard)
 
@@ -2663,22 +2719,6 @@ Maye是一款简洁小巧的Windows快速启动工具，帮助用户高效管理
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `apple` `mlx` `swift` `gui` `containers`
 - **最后活动时间:** 2026-09-21
-
-### [Aimmy](https://github.com/Babyhamsta/Aimmy)
-
-面向游戏玩家的通用AI瞄准辅助工具，使用ONNX/YOLOv8技术，帮助有障碍的玩家提升游戏体验。
-
-- **Stars:** ⭐️ 1.6k
-- **Tags:** `ai-aimbot` `onnx` `yolov8` `aim-assist` `accessibility`
-- **最后活动时间:** 2026-08-20
-
-### [opencove](https://github.com/DeadWaveWave/opencove)
-
-一款为Claude Code、Codex等AI编程助手打造的无限画布桌面应用，整合终端、任务和笔记功能，提升AI辅助开发体验。
-
-- **Stars:** ⭐️ 1.6k
-- **Tags:** `ai-agents` `claude-code` `desktop-app` `infinite-canvas` `electron`
-- **最后活动时间:** 2026-09-25
 
 ### [DSH-Desktop-EAC](https://github.com/zouyuxuan122/DSH-Desktop-EAC)
 
@@ -2694,23 +2734,47 @@ DeepSeek 桌面端启动器，内置 Node.js 运行时与完整的 dsh-CLI 内�
 
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `Local AI` `Privacy` `AMD`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
+
+### [ClashBar](https://github.com/Sitoi/ClashBar)
+
+原生 macOS 菜单栏代理客户端，基于 SwiftUI + AppKit 并由 mihomo 内核驱动，轻量稳定，可在菜单栏完成配置、节点、规则与系统代理管理。
+
+- **Stars:** ⭐️ 1.6k
+- **Tags:** `macos` `proxy` `clash` `mihomo` `swiftui` `menubar`
+- **最后活动时间:** 2026-10-13
+
+### [youwee](https://github.com/vanloctech/youwee)
+
+跨平台视频下载器，支持1800+网站，集成AI视频摘要和后处理功能，基于Tauri构建。
+
+- **Stars:** ⭐️ 1.6k
+- **Tags:** `video-downloader` `ai-summary` `tauri` `yt-dlp`
+- **最后活动时间:** 2026-09-20
 
 ### [open-dronelog](https://github.com/arpanghosh8453/open-dronelog)
 
 基于Tauri和DuckDB构建的高性能无人机飞行日志分析仪表盘，支持本地化分析DJI/Litchi飞行数据。
 
-- **Stars:** ⭐️ 1.5k
+- **Stars:** ⭐️ 1.6k
 - **Tags:** `dashboard` `data-analysis` `data-visualization` `drone` `duckdb` `tauri`
-- **最后活动时间:** 2026-09-28
+- **最后活动时间:** 2026-10-14
 
-### [RCLI](https://github.com/RunanywhereAI/RCLI)
+### [amical](https://github.com/amicalhq/amical)
 
-Mac端本地语音AI助手，支持文档问答和RAG检索，完全离线运行无需云端服务。
+开源本地优先的AI语音听写应用，支持离线运行，打字速度提升3倍，跨平台支持macOS和Windows。
 
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `on-device-ai` `voice-assistant` `rag` `apple-silicon`
-- **最后活动时间:** 2026-09-08
+- **Stars:** ⭐️ 1.6k
+- **Tags:** `speech-to-text` `dictation` `whisper` `local-ai`
+- **最后活动时间:** 2026-10-13
+
+### [Sucrose](https://github.com/Taiizor/Sucrose)
+
+功能丰富的动态壁纸引擎，为桌面带来各类交互式壁纸与小组件。采用 WinUI/WPF 构建，界面现代流畅。
+
+- **Stars:** ⭐️ 1.6k
+- **Tags:** `Windows` `Wallpaper-Engine` `Live-Wallpaper` `WinUI` `WPF`
+- **最后活动时间:** 2026-10-14
 
 ### [brisk](https://github.com/BrisklyDev/brisk)
 
@@ -2720,21 +2784,21 @@ Mac端本地语音AI助手，支持文档问答和RAG检索，完全离线运行
 - **Tags:** `DownloadManager` `CrossPlatform` `Desktop` `Downloader`
 - **最后活动时间:** 2026-09-18
 
-### [amical](https://github.com/amicalhq/amical)
+### [RCLI](https://github.com/RunanywhereAI/RCLI)
 
-开源本地优先的AI语音听写应用，支持离线运行，打字速度提升3倍，跨平台支持macOS和Windows。
-
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `speech-to-text` `dictation` `whisper` `local-ai`
-- **最后活动时间:** 2026-09-25
-
-### [Sucrose](https://github.com/Taiizor/Sucrose)
-
-功能丰富的动态壁纸引擎，为桌面带来各类交互式壁纸与小组件。采用 WinUI/WPF 构建，界面现代流畅。
+Mac端本地语音AI助手，支持文档问答和RAG检索，完全离线运行无需云端服务。
 
 - **Stars:** ⭐️ 1.5k
-- **Tags:** `Windows` `Wallpaper-Engine` `Live-Wallpaper` `WinUI` `WPF`
-- **最后活动时间:** 2026-09-22
+- **Tags:** `on-device-ai` `voice-assistant` `rag` `apple-silicon`
+- **最后活动时间:** 2026-09-08
+
+### [DISMTools](https://github.com/CodingWonders/DISMTools)
+
+面向Windows系统管理员的一站式DISM图形化管理工具，让映像部署与系统维护更加高效直观。
+
+- **Stars:** ⭐️ 1.5k
+- **Tags:** `windows` `dism` `sysadmin` `gui` `system-administration`
+- **最后活动时间:** 2026-10-17
 
 ### [devtools-x](https://github.com/fosslife/devtools-x)
 
@@ -2744,45 +2808,13 @@ Mac端本地语音AI助手，支持文档问答和RAG检索，完全离线运行
 - **Tags:** `Developer-Tools` `Tauri` `Cross-Platform` `Offline-First` `Desktop-App`
 - **最后活动时间:** 2026-05-29
 
-### [Macro-Deck](https://github.com/Macro-Deck-App/Macro-Deck)
-
-开源虚拟宏键盘（类 Stream Deck），支持自定义小部件、强大集成与安全的插件生态系统。
-
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `macro-pad` `stream-deck` `automation` `widgets` `open-source`
-- **最后活动时间:** 2026-09-30
-
 ### [AiMaMi](https://github.com/borawong/AiMaMi)
 
 为OpenAI Codex打造的桌面伴侣应用，提供便捷的AI编程辅助体验。
 
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `openai-codex` `desktop-app` `ai-assistant`
-- **最后活动时间:** 2026-08-03
-
-### [youwee](https://github.com/vanloctech/youwee)
-
-跨平台视频下载器，支持1800+网站，集成AI视频摘要和后处理功能，基于Tauri构建。
-
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `video-downloader` `ai-summary` `tauri` `yt-dlp`
-- **最后活动时间:** 2026-09-20
-
-### [DISMTools](https://github.com/CodingWonders/DISMTools)
-
-面向Windows系统管理员的一站式DISM图形化管理工具，让映像部署与系统维护更加高效直观。
-
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `windows` `dism` `sysadmin` `gui` `system-administration`
-- **最后活动时间:** 2026-09-28
-
-### [Llama-macOS](https://github.com/ggml-org/Llama-macOS)
-
-专为 macOS 打造的本地大语言模型管理客户端，为你的 LLMs 提供舒适的运行环境。基于 Swift 和 llama.cpp 实现。
-
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `ai` `llms` `macos` `swift` `llama-cpp`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-07
 
 ### [lagrange](https://github.com/skyjake/lagrange)
 
@@ -2790,15 +2822,15 @@ Mac端本地语音AI助手，支持文档问答和RAG检索，完全离线运行
 
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `gemini` `gui` `client` `c11` `cross-platform`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-02
 
-### [LlamaChat](https://github.com/alexrozanski/LlamaChat)
+### [hermex](https://github.com/uzairansaruzi/hermex)
 
-原生 macOS 应用，支持与 LLaMA 模型进行本地对话交互。
+一个原生的iPhone应用程序，用于与您的Hermes AI代理进行交互。
 
 - **Stars:** ⭐️ 1.5k
-- **Tags:** `ai` `llama` `macos` `swiftui`
-- **最后活动时间:** 2026-06-17
+- **Tags:** `hermes` `llm` `ios` `self-hosted` `swiftui`
+- **最后活动时间:** 2026-10-17
 
 ### [workany](https://github.com/workany-ai/workany)
 
@@ -2808,13 +2840,13 @@ Mac端本地语音AI助手，支持文档问答和RAG检索，完全离线运行
 - **Tags:** `desktop-agent` `ai-assistant` `general-agent` `automation`
 - **最后活动时间:** 2026-07-22
 
-### [ClashBar](https://github.com/Sitoi/ClashBar)
+### [LlamaChat](https://github.com/alexrozanski/LlamaChat)
 
-原生 macOS 菜单栏代理客户端，基于 SwiftUI + AppKit 并由 mihomo 内核驱动，轻量稳定，可在菜单栏完成配置、节点、规则与系统代理管理。
+原生 macOS 应用，支持与 LLaMA 模型进行本地对话交互。
 
 - **Stars:** ⭐️ 1.5k
-- **Tags:** `macos` `proxy` `clash` `mihomo` `swiftui` `menubar`
-- **最后活动时间:** 2026-09-30
+- **Tags:** `ai` `llama` `macos` `swiftui`
+- **最后活动时间:** 2026-06-17
 
 ### [ExcalidrawZ](https://github.com/chocoford/ExcalidrawZ)
 
@@ -2822,7 +2854,15 @@ Mac端本地语音AI助手，支持文档问答和RAG检索，完全离线运行
 
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `macos` `drawing` `swiftui` `excalidraw` `productivity`
-- **最后活动时间:** 2026-08-31
+- **最后活动时间:** 2026-10-16
+
+### [aider-desk](https://github.com/hotovo/aider-desk)
+
+面向软件工程师的AI编程代理桌面应用，基于Electron构建，提供智能代码辅助功能。
+
+- **Stars:** ⭐️ 1.5k
+- **Tags:** `AI Coding` `Electron` `Desktop App`
+- **最后活动时间:** 2026-10-17
 
 ### [PreMiD](https://github.com/PreMiD/PreMiD)
 
@@ -2832,13 +2872,21 @@ Mac端本地语音AI助手，支持文档问答和RAG检索，完全离线运行
 - **Tags:** `discord` `rich-presence` `browser-extension` `cross-platform`
 - **最后活动时间:** 2026-06-22
 
-### [aider-desk](https://github.com/hotovo/aider-desk)
+### [SwitchAI](https://github.com/WSTxda/SwitchAI)
 
-面向软件工程师的AI编程代理桌面应用，基于Electron构建，提供智能代码辅助功能。
+Android应用，轻松选择和管理您首选的AI数字助手，支持语音命令和快捷切换。
+
+- **Stars:** ⭐️ 1.5k
+- **Tags:** `ai` `android` `assistant` `voice-commands`
+- **最后活动时间:** 2026-10-17
+
+### [MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player)
+
+基于 mpv 的现代化易用视频播放器，开箱即用且界面美观。为强大的 mpv 带来友好的使用体验。
 
 - **Stars:** ⭐️ 1.4k
-- **Tags:** `AI Coding` `Electron` `Desktop App`
-- **最后活动时间:** 2026-09-30
+- **Tags:** `MPV` `Video-Player` `Media-Player` `FFmpeg` `Windows`
+- **最后活动时间:** 2026-10-11
 
 ### [Mouse Jiggler](https://github.com/arkane-systems/mousejiggler)
 
@@ -2848,29 +2896,13 @@ Mac端本地语音AI助手，支持文档问答和RAG检索，完全离线运行
 - **Tags:** `windows` `mouse` `utility` `idle`
 - **最后活动时间:** 2026-08-07
 
-### [MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player)
+### [Capso](https://github.com/lzhgus/Capso)
 
-基于 mpv 的现代化易用视频播放器，开箱即用且界面美观。为强大的 mpv 带来友好的使用体验。
-
-- **Stars:** ⭐️ 1.4k
-- **Tags:** `MPV` `Video-Player` `Media-Player` `FFmpeg` `Windows`
-- **最后活动时间:** 2026-09-06
-
-### [SwitchAI](https://github.com/WSTxda/SwitchAI)
-
-Android应用，轻松选择和管理您首选的AI数字助手，支持语音命令和快捷切换。
+macOS开源截图和录屏工具，内置OCR文字识别功能，是CleanShot X的免费原生替代方案。
 
 - **Stars:** ⭐️ 1.4k
-- **Tags:** `ai` `android` `assistant` `voice-commands`
-- **最后活动时间:** 2026-08-30
-
-### [hermex](https://github.com/uzairansaruzi/hermex)
-
-一个原生的iPhone应用程序，用于与您的Hermes AI代理进行交互。
-
-- **Stars:** ⭐️ 1.4k
-- **Tags:** `hermes` `llm` `ios` `self-hosted` `swiftui`
-- **最后活动时间:** 2026-09-30
+- **Tags:** `screenshot` `ocr` `macos` `screen-recording` `swift`
+- **最后活动时间:** 2026-10-17
 
 ### [gemma-chat](https://github.com/ammaarreshi/gemma-chat)
 
@@ -2880,14 +2912,6 @@ Android应用，轻松选择和管理您首选的AI数字助手，支持语音�
 - **Tags:** `local-llm` `gemma` `mlx` `coding-agent` `apple-silicon`
 - **最后活动时间:** 2026-04-28
 
-### [imagej2](https://github.com/imagej/imagej2)
-
-开源科学级N维图像处理平台，广泛应用于生物医学图像分析与计算机视觉研究。
-
-- **Stars:** ⭐️ 1.4k
-- **Tags:** `computer-vision` `image-processing` `scientific-computing`
-- **最后活动时间:** 2026-08-07
-
 ### [open-android-backup](https://github.com/mrrfv/open-android-backup)
 
 无需 root、不依赖厂商工具即可备份安卓设备，开箱支持加密与压缩。跨平台运行，注重隐私安全。
@@ -2895,6 +2919,14 @@ Android应用，轻松选择和管理您首选的AI数字助手，支持语音�
 - **Stars:** ⭐️ 1.4k
 - **Tags:** `Android` `Backup` `Privacy` `Cross-Platform` `Flutter`
 - **最后活动时间:** 2026-09-13
+
+### [imagej2](https://github.com/imagej/imagej2)
+
+开源科学级N维图像处理平台，广泛应用于生物医学图像分析与计算机视觉研究。
+
+- **Stars:** ⭐️ 1.4k
+- **Tags:** `computer-vision` `image-processing` `scientific-computing`
+- **最后活动时间:** 2026-08-07
 
 ### [MulimgViewer](https://github.com/nachifur/MulimgViewer)
 
@@ -2910,7 +2942,7 @@ Android应用，轻松选择和管理您首选的AI数字助手，支持语音�
 
 - **Stars:** ⭐️ 1.4k
 - **Tags:** `Desktop` `Voice` `Live2D`
-- **最后活动时间:** 2026-09-28
+- **最后活动时间:** 2026-10-05
 
 ### [QField](https://github.com/opengisch/QField)
 
@@ -2918,15 +2950,15 @@ Android应用，轻松选择和管理您首选的AI数字助手，支持语音�
 
 - **Stars:** ⭐️ 1.4k
 - **Tags:** `gis` `qgis` `mobile` `fieldwork` `cross-platform`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
-### [Capso](https://github.com/lzhgus/Capso)
+### [qBitController](https://github.com/Bartuzen/qBitController)
 
-macOS开源截图和录屏工具，内置OCR文字识别功能，是CleanShot X的免费原生替代方案。
+跨平台 qBittorrent 远程控制客户端，支持从 Android、iOS 及桌面设备随时管理下载任务。
 
 - **Stars:** ⭐️ 1.4k
-- **Tags:** `screenshot` `ocr` `macos` `screen-recording` `swift`
-- **最后活动时间:** 2026-09-03
+- **Tags:** `qbittorrent` `torrent-client` `cross-platform` `kotlin`
+- **最后活动时间:** 2026-10-05
 
 ### [MTools](https://github.com/HG-ha/MTools)
 
@@ -2966,7 +2998,7 @@ DeepSeek Harness 桌面端 EAC 版本，内置 Node.js 运行时和完整 dsh-CL
 
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `offline-ai` `image-generation` `voice-chat` `stable-diffusion`
-- **最后活动时间:** 2026-09-23
+- **最后活动时间:** 2026-10-14
 
 ### [surrealist](https://github.com/surrealdb/surrealist)
 
@@ -2974,15 +3006,15 @@ SurrealDB的可视化管理工具，提供数据库浏览、查询与Schema管�
 
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `surrealdb` `database` `gui` `tauri`
-- **最后活动时间:** 2026-09-09
+- **最后活动时间:** 2026-10-03
 
-### [qBitController](https://github.com/Bartuzen/qBitController)
+### [openpets](https://github.com/OpenPetsHQ/openpets)
 
-跨平台 qBittorrent 远程控制客户端，支持从 Android、iOS 及桌面设备随时管理下载任务。
+本地优先的桌面宠物伴侣平台，提供动画宠物与插件SDK，可深度集成Claude Code、MCP等AI编程智能体。让AI编码助手以可爱的桌面宠物形式陪伴你的日常工作。
 
 - **Stars:** ⭐️ 1.3k
-- **Tags:** `qbittorrent` `torrent-client` `cross-platform` `kotlin`
-- **最后活动时间:** 2026-09-29
+- **Tags:** `desktop-pet` `ai-agents` `mcp` `claude-code` `electron` `plugin-sdk`
+- **最后活动时间:** 2026-10-17
 
 ### [ScreenTranslator](https://github.com/OneMoreGres/ScreenTranslator)
 
@@ -2992,13 +3024,21 @@ SurrealDB的可视化管理工具，提供数据库浏览、查询与Schema管�
 - **Tags:** `ocr` `translation` `screen-capture` `desktop`
 - **最后活动时间:** 2026-09-02
 
-### [openpets](https://github.com/OpenPetsHQ/openpets)
+### [MacPacker](https://github.com/sarensw/MacPacker)
 
-本地优先的桌面宠物伴侣平台，提供动画宠物与插件SDK，可深度集成Claude Code、MCP等AI编程智能体。让AI编码助手以可爱的桌面宠物形式陪伴你的日常工作。
+开源的 macOS 归档管理器，支持无需解压即可预览嵌套压缩包并提取单个文件。兼容 7zip、rar、tar 等多种格式。
 
 - **Stars:** ⭐️ 1.3k
-- **Tags:** `desktop-pet` `ai-agents` `mcp` `claude-code` `electron` `plugin-sdk`
-- **最后活动时间:** 2026-09-27
+- **Tags:** `7zip` `archive-manager` `macos` `native` `rar` `zip`
+- **最后活动时间:** 2026-10-17
+
+### [feed-flow](https://github.com/prof18/feed-flow)
+
+基于 Kotlin Multiplatform 构建的极简 RSS 阅读器，覆盖 Android、iOS、macOS、Windows 和 Linux 五大平台。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `rss-reader` `kotlin-multiplatform` `jetpack-compose` `swiftui`
+- **最后活动时间:** 2026-10-17
 
 ### [FluentHub](https://github.com/0x5bfa/FluentHub)
 
@@ -3008,6 +3048,14 @@ SurrealDB的可视化管理工具，提供数据库浏览、查询与Schema管�
 - **Tags:** `GitHub-Client` `Windows` `WinUI` `Fluent-Design` `CSharp`
 - **最后活动时间:** 2026-09-19
 
+### [zotero-mcp](https://github.com/cookjohn/zotero-mcp)
+
+Zotero MCP插件，实现AI助手与文献库深度集成，支持智能检索和问答分析。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `MCP` `Zotero` `Literature Management` `AI Integration`
+- **最后活动时间:** 2026-09-09
+
 ### [openpets](https://github.com/alvinunreal/openpets)
 
 为AI编程助手设计的桌面宠物应用，通过MCP连接Claude Code等工具，实时展示编码状态。趣味性与实用性兼具的可视化工具。
@@ -3016,13 +3064,13 @@ SurrealDB的可视化管理工具，提供数据库浏览、查询与Schema管�
 - **Tags:** `ai-agents` `claude-code` `desktop-pet` `mcp` `electron`
 - **最后活动时间:** 2026-09-25
 
-### [feed-flow](https://github.com/prof18/feed-flow)
+### [music-island](https://github.com/redheadesign/music-island)
 
-基于 Kotlin Multiplatform 构建的极简 RSS 阅读器，覆盖 Android、iOS、macOS、Windows 和 Linux 五大平台。
+位于 Windows 桌面顶部的智能悬浮条，集成音乐控制、本地语音听写与语音处理等 AI 能力。让日常桌面操作更高效、更智能。
 
 - **Stars:** ⭐️ 1.2k
-- **Tags:** `rss-reader` `kotlin-multiplatform` `jetpack-compose` `swiftui`
-- **最后活动时间:** 2026-09-29
+- **Tags:** `voice-assistant` `speech-recognition` `dictation` `windows` `tauri`
+- **最后活动时间:** 2026-10-12
 
 ### [metamask-desktop](https://github.com/MetaMask-AI/metamask-desktop)
 
@@ -3056,21 +3104,29 @@ MetaMask 桌面版应用，允许用户安全地浏览以太坊区块链支持�
 - **Tags:** `AI代理` `订阅管理` `桌面应用` `开发工具`
 - **最后活动时间:** 2026-09-13
 
-### [zotero-mcp](https://github.com/cookjohn/zotero-mcp)
-
-Zotero MCP插件，实现AI助手与文献库深度集成，支持智能检索和问答分析。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `MCP` `Zotero` `Literature Management` `AI Integration`
-- **最后活动时间:** 2026-09-09
-
 ### [lotti](https://github.com/matthiasn/lotti)
 
 注重隐私的 AI 数字助手，支持本地存储、语音识别和智能任务管理，跨平台支持。
 
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `ai-assistant` `local-first` `privacy` `flutter` `task-management`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
+
+### [look](https://github.com/kunkka19xx/look)
+
+开源跨平台的系统启动器，可视为 Spotlight 和 Raycast 的轻量社区替代品，基于 Rust 与 Tauri 构建。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `Launcher` `CrossPlatform` `Rust` `Tauri` `Productivity`
+- **最后活动时间:** 2026-10-17
+
+### [markeron](https://github.com/ifer47/markeron)
+
+轻量级（约1.5MB）开源屏幕标注工具，支持点击穿透模式与键盘优先快捷键，适用于演示、教学、会议与录屏场景。跨平台支持 Windows 与 macOS。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `screen-annotation` `annotation` `productivity` `tauri` `rust` `whiteboard` `cross-platform`
+- **最后活动时间:** 2026-10-08
 
 ### [ai-tools-mng](https://github.com/cubezhao/ai-tools-mng)
 
@@ -3078,15 +3134,7 @@ Zotero MCP插件，实现AI助手与文献库深度集成，支持智能检索�
 
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `AI Management` `Desktop App` `Tauri`
-- **最后活动时间:** 2026-09-10
-
-### [wisp-science](https://github.com/xuzhougeng/wisp-science)
-
-开源的本地优先桌面AI研究工作台，专为科学计算设计。支持Python/R环境、生物信息学MCP工具及多种大模型接入。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `ai-agent` `ai-for-science` `bioinformatics` `desktop-app` `llm` `mcp` `scientific-computing`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-16
 
 ### [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui)
 
@@ -3096,13 +3144,13 @@ Zotero MCP插件，实现AI助手与文献库深度集成，支持智能检索�
 - **Tags:** `claude` `generative-ui` `macos` `reverse-engineering`
 - **最后活动时间:** 2026-06-03
 
-### [HiPixel](https://github.com/okooo5km/HiPixel)
+### [KnowNote](https://github.com/MrSibe/KnowNote)
 
-基于 SwiftUI 构建的 macOS 原生应用，利用 AI 模型实现图像超分辨率放大，提供本地化的高质量图像增强体验。
+一款本地优先的AI知识库应用，作为NotebookLM的轻量级替代方案。支持本地运行，更好地理解和组织您的知识。
 
 - **Stars:** ⭐️ 1.2k
-- **Tags:** `macOS` `Super-Resolution` `SwiftUI`
-- **最后活动时间:** 2026-07-13
+- **Tags:** `知识库` `NotebookLM` `本地优先`
+- **最后活动时间:** 2026-10-02
 
 ### [tuui](https://github.com/AI-QL/tuui)
 
@@ -3112,13 +3160,21 @@ Zotero MCP插件，实现AI助手与文献库深度集成，支持智能检索�
 - **Tags:** `MCP` `LLM` `Desktop Client`
 - **最后活动时间:** 2026-05-14
 
-### [KnowNote](https://github.com/MrSibe/KnowNote)
+### [HiPixel](https://github.com/okooo5km/HiPixel)
 
-一款本地优先的AI知识库应用，作为NotebookLM的轻量级替代方案。支持本地运行，更好地理解和组织您的知识。
+基于 SwiftUI 构建的 macOS 原生应用，利用 AI 模型实现图像超分辨率放大，提供本地化的高质量图像增强体验。
 
 - **Stars:** ⭐️ 1.2k
-- **Tags:** `知识库` `NotebookLM` `本地优先`
-- **最后活动时间:** 2026-09-30
+- **Tags:** `macOS` `Super-Resolution` `SwiftUI`
+- **最后活动时间:** 2026-07-13
+
+### [RMT](https://github.com/zclucas/RMT)
+
+基于AutoHotkey的开源宏工具，集成图像识别和OCR功能实现智能自动化。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `automation` `ocr` `image-recognition` `autohotkey`
+- **最后活动时间:** 2026-10-14
 
 ### [claude-code-webui](https://github.com/sugyan/claude-code-webui)
 
@@ -3128,13 +3184,13 @@ Claude CLI的Web界面，支持流式聊天响应，提供更便捷的交互体�
 - **Tags:** `claude` `claude-cli` `web-ui` `chat-interface`
 - **最后活动时间:** 2026-05-29
 
-### [RMT](https://github.com/zclucas/RMT)
+### [NeuralScreen](https://github.com/perseval-BLR/NeuralScreen)
 
-基于AutoHotkey的开源宏工具，集成图像识别和OCR功能实现智能自动化。
+将 NVIDIA DLSS 神经渲染应用到整个 Windows 桌面，实时提供 AI 超分、帧生成与画质增强，支持 RTX 30/40/50。
 
 - **Stars:** ⭐️ 1.1k
-- **Tags:** `automation` `ocr` `image-recognition` `autohotkey`
-- **最后活动时间:** 2026-09-25
+- **Tags:** `dlss` `ai-upscaling` `neural-rendering` `nvidia` `desktop`
+- **最后活动时间:** 2026-10-11
 
 ### [WorkShadow](https://github.com/FutureUniant/WorkShadow)
 
@@ -3144,14 +3200,6 @@ Claude CLI的Web界面，支持流式聊天响应，提供更便捷的交互体�
 - **Tags:** `local-first` `rag` `semantic-search` `tauri` `byok`
 - **最后活动时间:** 2026-07-16
 
-### [look](https://github.com/kunkka19xx/look)
-
-开源跨平台的系统启动器，可视为 Spotlight 和 Raycast 的轻量社区替代品，基于 Rust 与 Tauri 构建。
-
-- **Stars:** ⭐️ 1.1k
-- **Tags:** `Launcher` `CrossPlatform` `Rust` `Tauri` `Productivity`
-- **最后活动时间:** 2026-09-30
-
 ### [wnr](https://github.com/RoderickQiu/wnr)
 
 更严格、更美观、功能更丰富的工作/休息计时器，跨平台番茄钟效率工具。
@@ -3159,6 +3207,14 @@ Claude CLI的Web界面，支持流式聊天响应，提供更便捷的交互体�
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `Pomodoro` `Timer` `Productivity` `Electron` `CrossPlatform`
 - **最后活动时间:** 2026-08-18
+
+### [PiDeck](https://github.com/ayuayue/PiDeck)
+
+基于Electron构建的开源桌面工作台，支持统一管理本地AI Agent会话及多项目工作区。提供会话历史、Git集成、内置终端和插件管理功能。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `ai-assistant` `desktop-app` `session-management` `electron` `coding-agent`
+- **最后活动时间:** 2026-10-17
 
 ### [DropPoint](https://github.com/GameGodS3/DropPoint)
 
@@ -3168,13 +3224,13 @@ Claude CLI的Web界面，支持流式聊天响应，提供更便捷的交互体�
 - **Tags:** `productivity` `drag-and-drop` `electron` `utility` `cross-platform`
 - **最后活动时间:** 2026-08-04
 
-### [markeron](https://github.com/ifer47/markeron)
+### [cotabby](https://github.com/FuJacob/cotabby)
 
-轻量级（约1.5MB）开源屏幕标注工具，支持点击穿透模式与键盘优先快捷键，适用于演示、教学、会议与录屏场景。跨平台支持 Windows 与 macOS。
+一款开源的本地AI自动补全工具，可在Mac上实现设备端的智能文本输入辅助。支持在任何输入场景下提供无缝的隐私保护写作体验。
 
 - **Stars:** ⭐️ 1.1k
-- **Tags:** `screen-annotation` `annotation` `productivity` `tauri` `rust` `whiteboard` `cross-platform`
-- **最后活动时间:** 2026-09-29
+- **Tags:** `ai` `autocomplete` `local-ai` `llama` `macos` `productivity`
+- **最后活动时间:** 2026-10-15
 
 ### [PotPlayer_ChatGPT_Translate](https://github.com/Felix3322/PotPlayer_ChatGPT_Translate)
 
@@ -3182,39 +3238,47 @@ PotPlayer实时字幕翻译插件，集成OpenAI API兼容模型，支持观看�
 
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `Subtitle Translation` `PotPlayer` `LLM` `Real-time`
-- **最后活动时间:** 2026-09-30
-
-### [livewallpaper](https://github.com/GiantappMan/livewallpaper)
-
-易用的 Windows 10/11 壁纸应用，支持动态与静态壁纸并内置壁纸社区。
-
-- **Stars:** ⭐️ 1.0k
-- **Tags:** `wallpaper` `live-wallpaper` `windows` `wpf` `desktop-app`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-16
 
 ### [NanaBox](https://github.com/M2Team/NanaBox)
 
 基于Host Compute System API的轻量级Hyper-V虚拟化管理工具，界面简洁、开箱即用。
 
-- **Stars:** ⭐️ 1.0k
+- **Stars:** ⭐️ 1.1k
 - **Tags:** `hyper-v` `virtualization` `windows` `gui`
-- **最后活动时间:** 2026-09-20
+- **最后活动时间:** 2026-10-07
 
 ### [SnapX](https://github.com/SnapXL/SnapX)
 
 跨平台截图工具，集成OCR文字识别和快速分享功能。
 
-- **Stars:** ⭐️ 1.0k
+- **Stars:** ⭐️ 1.1k
 - **Tags:** `screenshot` `ocr` `cross-platform` `screen-capture`
 - **最后活动时间:** 2026-09-23
 
-### [cotabby](https://github.com/FuJacob/cotabby)
+### [livewallpaper](https://github.com/GiantappMan/livewallpaper)
 
-一款开源的本地AI自动补全工具，可在Mac上实现设备端的智能文本输入辅助。支持在任何输入场景下提供无缝的隐私保护写作体验。
+易用的 Windows 10/11 壁纸应用，支持动态与静态壁纸并内置壁纸社区。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `wallpaper` `live-wallpaper` `windows` `wpf` `desktop-app`
+- **最后活动时间:** 2026-10-17
+
+### [wisp-science](https://github.com/xuzhougeng/wisp-science)
+
+开源的本地优先桌面AI研究工作台，专为科学计算设计。支持Python/R环境、生物信息学MCP工具及多种大模型接入。
 
 - **Stars:** ⭐️ 1.0k
-- **Tags:** `ai` `autocomplete` `local-ai` `llama` `macos` `productivity`
-- **最后活动时间:** 2026-09-29
+- **Tags:** `ai-agent` `ai-for-science` `bioinformatics` `desktop-app` `llm` `mcp` `scientific-computing`
+- **最后活动时间:** 2026-10-17
+
+### [mouzi](https://github.com/hsr88/mouzi)
+
+一款隐私优先的自动文件整理工具，可在系统托盘静默整理下载文件夹。
+
+- **Stars:** ⭐️ 1.0k
+- **Tags:** `file-organizer` `automation` `rust` `tauri` `privacy`
+- **最后活动时间:** 2026-10-17
 
 ### [fanbox](https://github.com/alchaincyf/fanbox)
 
@@ -3222,7 +3286,15 @@ Vibe Coding的驾驶舱桌面应用：左侧浏览文件，右侧指挥AI智能�
 
 - **Stars:** ⭐️ 1.0k
 - **Tags:** `vibe-coding` `ai-agents` `electron` `terminal` `local-first`
-- **最后活动时间:** 2026-09-03
+- **最后活动时间:** 2026-10-12
+
+### [AI-Playground](https://github.com/intel/AI-Playground)
+
+Intel Arc GPU驱动的AI PC应用，支持本地图像生成、风格化处理与聊天机器人功能。
+
+- **Stars:** ⭐️ 1.0k
+- **Tags:** `ai-pc` `image-generation` `chatbot` `intel-arc` `local-ai`
+- **最后活动时间:** 2026-10-01
 
 ### [Gausian_native_editor](https://github.com/gausian-AI/Gausian_native_editor)
 
@@ -3232,29 +3304,13 @@ Vibe Coding的驾驶舱桌面应用：左侧浏览文件，右侧指挥AI智能�
 - **Tags:** `rust` `video-editor` `ai-video-production` `local-app`
 - **最后活动时间:** 2026-07-01
 
-### [PiDeck](https://github.com/ayuayue/PiDeck)
+### [capcap](https://github.com/realskyrin/capcap)
 
-基于Electron构建的开源桌面工作台，支持统一管理本地AI Agent会话及多项目工作区。提供会话历史、Git集成、内置终端和插件管理功能。
-
-- **Stars:** ⭐️ 997
-- **Tags:** `ai-assistant` `desktop-app` `session-management` `electron` `coding-agent`
-- **最后活动时间:** 2026-09-30
-
-### [AI-Playground](https://github.com/intel/AI-Playground)
-
-Intel Arc GPU驱动的AI PC应用，支持本地图像生成、风格化处理与聊天机器人功能。
+一款轻量级的原生 macOS 截图工具，常驻菜单栏，双击 Command 键即可快速截屏。支持即时复制到剪贴板及画笔、马赛克等标注功能。
 
 - **Stars:** ⭐️ 988
-- **Tags:** `ai-pc` `image-generation` `chatbot` `intel-arc` `local-ai`
-- **最后活动时间:** 2026-09-21
-
-### [NeuralScreen](https://github.com/perseval-BLR/NeuralScreen)
-
-将 NVIDIA DLSS 神经渲染应用到整个 Windows 桌面，实时提供 AI 超分、帧生成与画质增强，支持 RTX 30/40/50。
-
-- **Stars:** ⭐️ 988
-- **Tags:** `dlss` `ai-upscaling` `neural-rendering` `nvidia` `desktop`
-- **最后活动时间:** 2026-09-29
+- **Tags:** `macos` `screenshot` `menu-bar` `swift` `screen-capture`
+- **最后活动时间:** 2026-10-16
 
 ### [zulip-desktop](https://github.com/zulip/zulip-desktop)
 
@@ -3263,6 +3319,22 @@ Zulip 官方跨平台桌面客户端，为开源团队提供高效的话题式�
 - **Stars:** ⭐️ 985
 - **Tags:** `chat` `electron` `desktop` `communication` `zulip`
 - **最后活动时间:** 2026-09-29
+
+### [thock](https://github.com/kamillobinski/thock)
+
+为 Mac 键盘添加清脆打字音效的趣味小工具，营造机械键盘般的敲击体验。简单好玩，广受社区喜爱。
+
+- **Stars:** ⭐️ 971
+- **Tags:** `keyboard` `sounds` `macos` `swift` `utility`
+- **最后活动时间:** 2026-10-16
+
+### [codex-mobile](https://github.com/friuns2/codex-mobile)
+
+跨平台 AI 编程助手，支持在 Linux、Windows 和 Android Termux 上运行 Codex 移动端。
+
+- **Stars:** ⭐️ 968
+- **Tags:** `ai-agents` `ai-coding-agent` `mobile` `codex` `android`
+- **最后活动时间:** 2026-09-20
 
 ### [Discord-CustomRP](https://github.com/maximmax42/Discord-CustomRP)
 
@@ -3280,37 +3352,13 @@ Zulip 官方跨平台桌面客户端，为开源团队提供高效的话题式�
 - **Tags:** `macOS` `LiveWallpaper` `OpenSource` `Desktop`
 - **最后活动时间:** 2026-09-30
 
-### [thock](https://github.com/kamillobinski/thock)
+### [wesight](https://github.com/freestylefly/wesight)
 
-为 Mac 键盘添加清脆打字音效的趣味小工具，营造机械键盘般的敲击体验。简单好玩，广受社区喜爱。
+开源桌面AI智能体工作空间，支持一键配置Claude Code、Codex等多种AI代理，并提供自定义LLM模型路由功能。
 
-- **Stars:** ⭐️ 952
-- **Tags:** `keyboard` `sounds` `macos` `swift` `utility`
-- **最后活动时间:** 2026-06-05
-
-### [codex-mobile](https://github.com/friuns2/codex-mobile)
-
-跨平台 AI 编程助手，支持在 Linux、Windows 和 Android Termux 上运行 Codex 移动端。
-
-- **Stars:** ⭐️ 947
-- **Tags:** `ai-agents` `ai-coding-agent` `mobile` `codex` `android`
-- **最后活动时间:** 2026-09-20
-
-### [capcap](https://github.com/realskyrin/capcap)
-
-一款轻量级的原生 macOS 截图工具，常驻菜单栏，双击 Command 键即可快速截屏。支持即时复制到剪贴板及画笔、马赛克等标注功能。
-
-- **Stars:** ⭐️ 946
-- **Tags:** `macos` `screenshot` `menu-bar` `swift` `screen-capture`
-- **最后活动时间:** 2026-09-30
-
-### [mouzi](https://github.com/hsr88/mouzi)
-
-一款隐私优先的自动文件整理工具，可在系统托盘静默整理下载文件夹。
-
-- **Stars:** ⭐️ 944
-- **Tags:** `file-organizer` `automation` `rust` `tauri` `privacy`
-- **最后活动时间:** 2026-09-28
+- **Stars:** ⭐️ 951
+- **Tags:** `ai-agent` `desktop-app` `model-router` `local-first` `electron`
+- **最后活动时间:** 2026-10-01
 
 ### [deepseek-harness-desktop](https://github.com/hairyf/deepseek-harness-desktop)
 
@@ -3320,21 +3368,29 @@ DeepSeek Harness 的 Tauri 桌面客户端，仅 5MB 安装包且零环境配置
 - **Tags:** `deepseek` `desktop` `tauri` `ai-agent`
 - **最后活动时间:** 2026-08-22
 
-### [wesight](https://github.com/freestylefly/wesight)
+### [Whisky](https://github.com/frankea/Whisky)
 
-开源桌面AI智能体工作空间，支持一键配置Claude Code、Codex等多种AI代理，并提供自定义LLM模型路由功能。
+基于 SwiftUI 的现代 Wine 封装器，让 Mac（含 Apple Silicon）轻松运行 Windows 游戏与应用。是已归档 Whisky 的活跃社区延续版本。
 
-- **Stars:** ⭐️ 933
-- **Tags:** `ai-agent` `desktop-app` `model-router` `local-first` `electron`
-- **最后活动时间:** 2026-09-19
+- **Stars:** ⭐️ 939
+- **Tags:** `wine` `macos` `gaming` `swiftui` `apple-silicon`
+- **最后活动时间:** 2026-10-01
 
 ### [macai](https://github.com/Renset/macai)
 
 原生macOS AI聊天应用，支持多种AI提供商（ChatGPT、Claude、Gemini、DeepSeek等）。
 
-- **Stars:** ⭐️ 930
+- **Stars:** ⭐️ 935
 - **Tags:** `macOS` `Chat` `Multi-provider`
 - **最后活动时间:** 2026-08-16
+
+### [codexia](https://github.com/milisp/codexia)
+
+Codex CLI + Claude Code 代理工作站，集成任务调度、Git Worktree 和远程控制功能。
+
+- **Stars:** ⭐️ 935
+- **Tags:** `claude-code` `codex` `agent-workstation` `tauri`
+- **最后活动时间:** 2026-10-17
 
 ### [AppleWin](https://github.com/AppleWin/AppleWin)
 
@@ -3348,17 +3404,49 @@ DeepSeek Harness 的 Tauri 桌面客户端，仅 5MB 安装包且零环境配置
 
 本地优先的 AI 数据助手，统一管理任务、笔记、文档、照片和书签，支持自托管。
 
-- **Stars:** ⭐️ 922
+- **Stars:** ⭐️ 926
 - **Tags:** `local-first` `ai-assistant` `self-hosted` `privacy` `knowledge-management`
 - **最后活动时间:** 2026-05-14
 
-### [codexia](https://github.com/milisp/codexia)
+### [open-pdf-studio](https://github.com/OpenAEC-Foundation/open-pdf-studio)
 
-Codex CLI + Claude Code 代理工作站，集成任务调度、Git Worktree 和远程控制功能。
+开源PDF查看与编辑器，搭载自研Rust高性能引擎，支持标注与编辑，基于Tauri构建跨平台桌面应用。
 
-- **Stars:** ⭐️ 920
-- **Tags:** `claude-code` `codex` `agent-workstation` `tauri`
-- **最后活动时间:** 2026-09-30
+- **Stars:** ⭐️ 923
+- **Tags:** `pdf-editor` `pdf-viewer` `rust` `tauri` `open-source`
+- **最后活动时间:** 2026-10-17
+
+### [Box](https://github.com/jegly/Box)
+
+Android端私有本地AI套件，支持llama.cpp、whisper.cpp、stable-diffusion.cpp，提供语音聊天、视觉AI、本地图像生成及生物识别锁定等隐私优先功能。
+
+- **Stars:** ⭐️ 919
+- **Tags:** `android` `local-ai` `llamacpp` `ondevice-ai` `privacy-first-ai`
+- **最后活动时间:** 2026-10-17
+
+### [MacsyZones](https://github.com/rohanrhu/MacsyZones)
+
+通过自定义布局快速整理 macOS 窗口的效率工具，拖拽即达。让多窗口工作流井然有序。
+
+- **Stars:** ⭐️ 919
+- **Tags:** `window-manager` `macos` `productivity` `layout`
+- **最后活动时间:** 2026-09-15
+
+### [TimeScribe](https://github.com/WINBIGFOX/TimeScribe)
+
+注重隐私的本地时间追踪应用，无云端、无注册、无付费墙，100% 离线记录工作时间，非常适合自由职业者。
+
+- **Stars:** ⭐️ 917
+- **Tags:** `time-tracking` `electron` `offline-first` `privacy` `productivity`
+- **最后活动时间:** 2026-09-21
+
+### [Mudlet](https://github.com/Mudlet/Mudlet)
+
+跨平台、开源且极速的 MUD 文字游戏客户端，内置 Lua 脚本与触发器扩展能力。是文字冒险与 MUD 玩家的首选工具。
+
+- **Stars:** ⭐️ 916
+- **Tags:** `mud` `game-client` `lua` `cross-platform` `qt`
+- **最后活动时间:** 2026-10-17
 
 ### [maka-agent](https://github.com/maka-agent/maka-agent)
 
@@ -3372,65 +3460,41 @@ Codex CLI + Claude Code 代理工作站，集成任务调度、Git Worktree 和�
 
 轻量级跨平台AI对话客户端与AI网关桌面应用，支持多种AI模型接入。
 
-- **Stars:** ⭐️ 913
-- **Tags:** `ai-client` `ai-gateway` `desktop-app`
-- **最后活动时间:** 2026-09-27
-
-### [Mudlet](https://github.com/Mudlet/Mudlet)
-
-跨平台、开源且极速的 MUD 文字游戏客户端，内置 Lua 脚本与触发器扩展能力。是文字冒险与 MUD 玩家的首选工具。
-
-- **Stars:** ⭐️ 913
-- **Tags:** `mud` `game-client` `lua` `cross-platform` `qt`
-- **最后活动时间:** 2026-09-30
-
-### [TimeScribe](https://github.com/WINBIGFOX/TimeScribe)
-
-注重隐私的本地时间追踪应用，无云端、无注册、无付费墙，100% 离线记录工作时间，非常适合自由职业者。
-
 - **Stars:** ⭐️ 911
-- **Tags:** `time-tracking` `electron` `offline-first` `privacy` `productivity`
-- **最后活动时间:** 2026-09-21
+- **Tags:** `ai-client` `ai-gateway` `desktop-app`
+- **最后活动时间:** 2026-10-09
 
-### [MacsyZones](https://github.com/rohanrhu/MacsyZones)
+### [voxt](https://github.com/hehehai/voxt)
 
-通过自定义布局快速整理 macOS 窗口的效率工具，拖拽即达。让多窗口工作流井然有序。
+macOS语音输入与翻译应用，按住说话松开粘贴，支持会议转录和语音助手功能。
 
-- **Stars:** ⭐️ 907
-- **Tags:** `window-manager` `macos` `productivity` `layout`
-- **最后活动时间:** 2026-09-15
+- **Stars:** ⭐️ 893
+- **Tags:** `voice-assistant` `whisper` `stt` `macos` `transcription`
+- **最后活动时间:** 2026-10-14
 
-### [MyAgents](https://github.com/hAcKlyc/MyAgents)
+### [scarf](https://github.com/awizemann/scarf)
 
-优雅易用的Agent桌面应用，一站式Agent工作台与任务管理中心。
+Hermes AI智能体的原生macOS和iOS客户端，支持多窗口、多服务器连接、聊天、仪表盘、会话管理等功能。
 
-- **Stars:** ⭐️ 906
-- **Tags:** `ai-agents` `desktop-app` `agent-workbench` `claude-code`
-- **最后活动时间:** 2026-09-30
-
-### [yoji](https://github.com/wangxijie001/yoji)
-
-一款隐私优先的AI桌面伴侣应用，支持语音唤醒、情绪交互与办公协助。通过MCP协议实现无限扩展，提供本地化的智能助手体验。
-
-- **Stars:** ⭐️ 888
-- **Tags:** `ai-companion` `local-ai` `desktop-assistant` `mcp`
-- **最后活动时间:** 2026-08-12
+- **Stars:** ⭐️ 892
+- **Tags:** `ai-agent` `macos` `swiftui` `hermes` `gui`
+- **最后活动时间:** 2026-10-06
 
 ### [SystemExplorer](https://github.com/zodiacon/SystemExplorer)
 
 功能全面的 Windows 系统信息与进程探索工具，深度查看系统运行状态。
 
-- **Stars:** ⭐️ 888
+- **Stars:** ⭐️ 890
 - **Tags:** `windows` `system-monitor` `process-explorer` `task-manager`
-- **最后活动时间:** 2026-07-04
+- **最后活动时间:** 2026-10-11
 
-### [Box](https://github.com/jegly/Box)
+### [local_ai_ocr](https://github.com/th1nhhdk/local_ai_ocr)
 
-Android端私有本地AI套件，支持llama.cpp、whisper.cpp、stable-diffusion.cpp，提供语音聊天、视觉AI、本地图像生成及生物识别锁定等隐私优先功能。
+一款本地离线OCR软件，基于DeepSeek-OCR AI实现图像和PDF文件的文字识别，支持多语言处理且无需联网即可运行。
 
-- **Stars:** ⭐️ 880
-- **Tags:** `android` `local-ai` `llamacpp` `ondevice-ai` `privacy-first-ai`
-- **最后活动时间:** 2026-09-30
+- **Stars:** ⭐️ 882
+- **Tags:** `OCR` `Local-AI` `Offline` `DeepSeek`
+- **最后活动时间:** 2026-07-05
 
 ### [voquill](https://github.com/josiahsrc/voquill)
 
@@ -3440,13 +3504,21 @@ Android端私有本地AI套件，支持llama.cpp、whisper.cpp、stable-diffusio
 - **Tags:** `Dictation` `Local AI` `Desktop`
 - **最后活动时间:** 2026-04-22
 
-### [local_ai_ocr](https://github.com/th1nhhdk/local_ai_ocr)
+### [aptakube](https://github.com/aptakube/aptakube)
 
-一款本地离线OCR软件，基于DeepSeek-OCR AI实现图像和PDF文件的文字识别，支持多语言处理且无需联网即可运行。
+现代、轻量级的多集群 Kubernetes 图形化管理工具。跨平台支持 Windows、macOS 和 Linux，简化集群管理流程。
 
 - **Stars:** ⭐️ 878
-- **Tags:** `OCR` `Local-AI` `Offline` `DeepSeek`
-- **最后活动时间:** 2026-07-05
+- **Tags:** `kubernetes` `gui` `kubectl` `tauri` `multi-cluster`
+- **最后活动时间:** 2026-10-15
+
+### [AstrBot-desktop](https://github.com/AstrBotDevs/AstrBot-desktop)
+
+AstrBot的桌面版应用程序，提供快速的本地安装和便捷的ChatUI访问及插件管理。
+
+- **Stars:** ⭐️ 877
+- **Tags:** `desktop-app` `chatbot` `local-deployment`
+- **最后活动时间:** 2026-10-17
 
 ### [Password Safe](https://github.com/pwsafe/pwsafe)
 
@@ -3456,67 +3528,35 @@ Android端私有本地AI套件，支持llama.cpp、whisper.cpp、stable-diffusio
 - **Tags:** `password-manager` `security` `encryption` `cross-platform`
 - **最后活动时间:** 2026-09-29
 
-### [aptakube](https://github.com/aptakube/aptakube)
-
-现代、轻量级的多集群 Kubernetes 图形化管理工具。跨平台支持 Windows、macOS 和 Linux，简化集群管理流程。
-
-- **Stars:** ⭐️ 876
-- **Tags:** `kubernetes` `gui` `kubectl` `tauri` `multi-cluster`
-- **最后活动时间:** 2026-09-30
-
-### [scarf](https://github.com/awizemann/scarf)
-
-Hermes AI智能体的原生macOS和iOS客户端，支持多窗口、多服务器连接、聊天、仪表盘、会话管理等功能。
-
-- **Stars:** ⭐️ 872
-- **Tags:** `ai-agent` `macos` `swiftui` `hermes` `gui`
-- **最后活动时间:** 2026-09-29
-
 ### [Dev-Janitor](https://github.com/cocojojo5213/Dev-Janitor)
 
 跨平台桌面应用，集成AI助手功能，帮助开发者清理开发产物、管理本地开发工具并检测常见环境问题。
 
-- **Stars:** ⭐️ 868
+- **Stars:** ⭐️ 863
 - **Tags:** `developer-tools` `assistants-ai` `vibe-coding` `desktop-app`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-14
 
-### [voxt](https://github.com/hehehai/voxt)
+### [Moonfin-Core](https://github.com/Moonfin-Client/Moonfin-Core)
 
-macOS语音输入与翻译应用，按住说话松开粘贴，支持会议转录和语音助手功能。
+面向多平台的高级 Jellyfin 客户端，覆盖 Android、iOS、macOS、Linux、Windows、tvOS 等平台，为 Jellyfin 生态提供统一优质的媒体播放体验。
 
-- **Stars:** ⭐️ 852
-- **Tags:** `voice-assistant` `whisper` `stt` `macos` `transcription`
-- **最后活动时间:** 2026-09-26
+- **Stars:** ⭐️ 853
+- **Tags:** `jellyfin` `media-client` `cross-platform`
+- **最后活动时间:** 2026-10-18
 
 ### [MoePeek](https://github.com/cosZone/MoePeek)
 
 轻量级macOS划词翻译工具，支持设备端Apple翻译和OCR，安装体积仅5MB。
 
-- **Stars:** ⭐️ 840
+- **Stars:** ⭐️ 851
 - **Tags:** `macos` `ocr` `translation` `swift` `desktop-app`
-- **最后活动时间:** 2026-09-28
-
-### [AstrBot-desktop](https://github.com/AstrBotDevs/AstrBot-desktop)
-
-AstrBot的桌面版应用程序，提供快速的本地安装和便捷的ChatUI访问及插件管理。
-
-- **Stars:** ⭐️ 840
-- **Tags:** `desktop-app` `chatbot` `local-deployment`
-- **最后活动时间:** 2026-09-28
-
-### [open-pdf-studio](https://github.com/OpenAEC-Foundation/open-pdf-studio)
-
-开源PDF查看与编辑器，搭载自研Rust高性能引擎，支持标注与编辑，基于Tauri构建跨平台桌面应用。
-
-- **Stars:** ⭐️ 833
-- **Tags:** `pdf-editor` `pdf-viewer` `rust` `tauri` `open-source`
-- **最后活动时间:** 2026-09-25
+- **最后活动时间:** 2026-10-03
 
 ### [pibooth](https://github.com/pibooth/pibooth)
 
 树莓派照片亭应用，开箱即用的拍照和打印解决方案。
 
-- **Stars:** ⭐️ 830
+- **Stars:** ⭐️ 836
 - **Tags:** `photobooth` `raspberry-pi` `opencv` `python` `camera`
 - **最后活动时间:** 2026-09-27
 
@@ -3528,27 +3568,11 @@ AstrBot的桌面版应用程序，提供快速的本地安装和便捷的ChatUI�
 - **Tags:** `emulator` `nes` `qt` `retro-gaming` `cross-platform`
 - **最后活动时间:** 2026-09-01
 
-### [Whisky](https://github.com/frankea/Whisky)
-
-基于 SwiftUI 的现代 Wine 封装器，让 Mac（含 Apple Silicon）轻松运行 Windows 游戏与应用。是已归档 Whisky 的活跃社区延续版本。
-
-- **Stars:** ⭐️ 822
-- **Tags:** `wine` `macos` `gaming` `swiftui` `apple-silicon`
-- **最后活动时间:** 2026-09-16
-
-### [MacPacker](https://github.com/sarensw/MacPacker)
-
-开源的 macOS 归档管理器，支持无需解压即可预览嵌套压缩包并提取单个文件。兼容 7zip、rar、tar 等多种格式。
-
-- **Stars:** ⭐️ 810
-- **Tags:** `7zip` `archive-manager` `macos` `native` `rar` `zip`
-- **最后活动时间:** 2026-09-30
-
 ### [ccseva](https://github.com/Iamshankhadeep/ccseva)
 
 精美 macOS 菜单栏应用，实时追踪 Claude Code 使用情况。
 
-- **Stars:** ⭐️ 807
+- **Stars:** ⭐️ 806
 - **Tags:** `claude-code` `macos` `menubar` `usage-tracker`
 - **最后活动时间:** 2026-08-03
 
@@ -3560,6 +3584,14 @@ AstrBot的桌面版应用程序，提供快速的本地安装和便捷的ChatUI�
 - **Tags:** `claude-desktop` `ai-providers` `desktop-tool` `llm-switcher`
 - **最后活动时间:** 2026-08-18
 
+### [kiwix-apple](https://github.com/kiwix/kiwix-apple)
+
+适用于 iOS、iPadOS 和 macOS 的离线维基百科阅读器，允许用户在没有网络连接的情况下访问海量知识。基于 ZIM 文件格式实现高效压缩与检索。
+
+- **Stars:** ⭐️ 796
+- **Tags:** `ios` `macos` `offline` `wikipedia` `swift`
+- **最后活动时间:** 2026-10-17
+
 ### [FlyPhotos](https://github.com/riyasy/FlyPhotos)
 
 极速且超轻量级的Windows照片查看器。操作体验类似Picasa，提供流畅的图片浏览功能。
@@ -3568,19 +3600,11 @@ AstrBot的桌面版应用程序，提供快速的本地安装和便捷的ChatUI�
 - **Tags:** `photo-viewer` `windows` `image` `lightweight`
 - **最后活动时间:** 2026-09-26
 
-### [kiwix-apple](https://github.com/kiwix/kiwix-apple)
-
-适用于 iOS、iPadOS 和 macOS 的离线维基百科阅读器，允许用户在没有网络连接的情况下访问海量知识。基于 ZIM 文件格式实现高效压缩与检索。
-
-- **Stars:** ⭐️ 788
-- **Tags:** `ios` `macos` `offline` `wikipedia` `swift`
-- **最后活动时间:** 2026-09-29
-
 ### [ClashX](https://github.com/ClashX-Pro/ClashX)
 
 macOS 平台上经典的 Clash 代理客户端，界面简洁、社区活跃。
 
-- **Stars:** ⭐️ 785
+- **Stars:** ⭐️ 788
 - **Tags:** `macOS` `Proxy` `Clash` `Swift` `VPN`
 - **最后活动时间:** 2026-07-24
 
@@ -3600,19 +3624,27 @@ macOS 平台上经典的 Clash 代理客户端，界面简洁、社区活跃。
 - **Tags:** `AI Desktop Client` `DeepSeek Harness` `Agent Marketplace` `Commercialization Platform`
 - **最后活动时间:** 2026-09-30
 
-### [Moonfin-Core](https://github.com/Moonfin-Client/Moonfin-Core)
+### [gsmartcontrol](https://github.com/ashaduri/gsmartcontrol)
 
-面向多平台的高级 Jellyfin 客户端，覆盖 Android、iOS、macOS、Linux、Windows、tvOS 等平台，为 Jellyfin 生态提供统一优质的媒体播放体验。
+跨平台的硬盘与 SSD 健康检测工具，基于 smartmontools 提供 GUI 界面，可查看 SMART 数据、运行自检并及早发现磁盘故障。
 
-- **Stars:** ⭐️ 768
-- **Tags:** `jellyfin` `media-client` `cross-platform`
-- **最后活动时间:** 2026-09-30
+- **Stars:** ⭐️ 766
+- **Tags:** `smart` `hdd` `ssd` `diagnostics` `gtk`
+- **最后活动时间:** 2026-10-15
+
+### [herdrm](https://github.com/missuo/herdrm)
+
+macOS 原生控制台，用于管理多个编码智能体及其终端，支持跨设备同步。
+
+- **Stars:** ⭐️ 762
+- **Tags:** `coding-agent` `macos` `terminal` `ai-tools`
+- **最后活动时间:** 2026-10-17
 
 ### [Harbour](https://github.com/rrroyal/Harbour)
 
 基于 SwiftUI 的 Docker/Portainer 管理应用，同时支持 iOS、iPadOS 与 macOS。
 
-- **Stars:** ⭐️ 763
+- **Stars:** ⭐️ 762
 - **Tags:** `Docker` `SwiftUI` `macOS` `iOS` `ContainerManagement`
 - **最后活动时间:** 2026-07-23
 
@@ -3624,6 +3656,14 @@ Claude Cowork 桌面应用的开源替代方案，提供 AI 协作编程功能�
 - **Tags:** `Claude` `Desktop App` `Open Source`
 - **最后活动时间:** 2026-09-07
 
+### [Veyra-NRVideo](https://github.com/Likely7/Veyra-NRVideo)
+
+一款先进的 Windows 视频播放与采集增强工具，支持视频、图片和采集卡源的实时预览。结合 AI 超分辨率、DLSS5 图像增强与帧生成技术，带来次世代视觉体验。
+
+- **Stars:** ⭐️ 757
+- **Tags:** `Video-Player` `Super-Resolution` `DLSS` `Frame-Generation` `Windows` `Capture-Card`
+- **最后活动时间:** 2026-10-17
+
 ### [uxplay-windows](https://github.com/leapbtw/uxplay-windows)
 
 免费将 iPhone/iPad 的 AirPlay 屏幕镜像投屏到 Windows PC，无需 Apple TV。
@@ -3632,45 +3672,37 @@ Claude Cowork 桌面应用的开源替代方案，提供 AI 协作编程功能�
 - **Tags:** `airplay` `screen-mirroring` `windows` `streaming`
 - **最后活动时间:** 2026-09-13
 
-### [gsmartcontrol](https://github.com/ashaduri/gsmartcontrol)
-
-跨平台的硬盘与 SSD 健康检测工具，基于 smartmontools 提供 GUI 界面，可查看 SMART 数据、运行自检并及早发现磁盘故障。
-
-- **Stars:** ⭐️ 752
-- **Tags:** `smart` `hdd` `ssd` `diagnostics` `gtk`
-- **最后活动时间:** 2026-07-08
-
 ### [widgets](https://github.com/widget-js/widgets)
 
 基于 Vue3 构建的 Windows 桌面小组件工具，集成 AI 助手、剪贴板历史、待办事项等实用功能。
 
-- **Stars:** ⭐️ 737
+- **Stars:** ⭐️ 740
 - **Tags:** `desktop-widgets` `vue3` `ai-assistant` `chatgpt`
-- **最后活动时间:** 2026-09-28
-
-### [JamTools](https://github.com/fandesfyf/JamTools)
-
-跨平台开源工具集，集成OCR文字识别、多语言翻译、聊天机器人等AI功能，同时支持截屏录屏、文件传输和格式转换。
-
-- **Stars:** ⭐️ 734
-- **Tags:** `ocr` `chatbot` `translator` `screencapture` `python` `cross-platform`
 - **最后活动时间:** 2026-09-28
 
 ### [Clendar](https://github.com/vinhnx/Clendar)
 
 极简风格的跨平台日历应用，基于 SwiftUI 开发，覆盖 iOS、iPadOS、macOS、watchOS，集成 EventKit 与 Siri 快捷指令。
 
-- **Stars:** ⭐️ 732
+- **Stars:** ⭐️ 738
 - **Tags:** `swiftui` `calendar` `ios` `macos` `eventkit`
-- **最后活动时间:** 2026-09-27
+- **最后活动时间:** 2026-10-15
 
-### [herdrm](https://github.com/missuo/herdrm)
+### [qaul.net](https://github.com/qaul/qaul.net)
 
-macOS 原生控制台，用于管理多个编码智能体及其终端，支持跨设备同步。
+无需依赖互联网的无线网状通信应用，通过WiFi和蓝牙BLE构建点对点加密mesh网络，支持Android、Linux、macOS与Windows多平台。
 
-- **Stars:** ⭐️ 727
-- **Tags:** `coding-agent` `macos` `terminal` `ai-tools`
-- **最后活动时间:** 2026-09-23
+- **Stars:** ⭐️ 734
+- **Tags:** `mesh-networking` `p2p` `flutter` `rust` `ble`
+- **最后活动时间:** 2026-10-17
+
+### [JamTools](https://github.com/fandesfyf/JamTools)
+
+跨平台开源工具集，集成OCR文字识别、多语言翻译、聊天机器人等AI功能，同时支持截屏录屏、文件传输和格式转换。
+
+- **Stars:** ⭐️ 732
+- **Tags:** `ocr` `chatbot` `translator` `screencapture` `python` `cross-platform`
+- **最后活动时间:** 2026-09-28
 
 ### [coco-app](https://github.com/infinilabs/coco-app)
 
@@ -3680,13 +3712,13 @@ macOS 原生控制台，用于管理多个编码智能体及其终端，支持�
 - **Tags:** `AI搜索` `桌面助手` `Tauri`
 - **最后活动时间:** 2026-08-06
 
-### [qaul.net](https://github.com/qaul/qaul.net)
+### [Zephyr](https://github.com/Juwan-Hwang/Zephyr)
 
-无需依赖互联网的无线网状通信应用，通过WiFi和蓝牙BLE构建点对点加密mesh网络，支持Android、Linux、macOS与Windows多平台。
+一款基于 Tauri 和 Rust 构建的轻量级 Mihomo / Clash Meta GUI 客户端。提供跨平台的网络代理与规则引擎管理功能。
 
-- **Stars:** ⭐️ 726
-- **Tags:** `mesh-networking` `p2p` `flutter` `rust` `ble`
-- **最后活动时间:** 2026-09-25
+- **Stars:** ⭐️ 722
+- **Tags:** `clash` `proxy` `tauri` `rust` `cross-platform`
+- **最后活动时间:** 2026-10-17
 
 ### [fanplayer](https://github.com/rockcarry/fanplayer)
 
@@ -3696,29 +3728,37 @@ macOS 原生控制台，用于管理多个编码智能体及其终端，支持�
 - **Tags:** `ffmpeg` `video-player` `media-player` `rtsp` `windows` `android`
 - **最后活动时间:** 2026-06-05
 
-### [Zephyr](https://github.com/Juwan-Hwang/Zephyr)
-
-一款基于 Tauri 和 Rust 构建的轻量级 Mihomo / Clash Meta GUI 客户端。提供跨平台的网络代理与规则引擎管理功能。
-
-- **Stars:** ⭐️ 717
-- **Tags:** `clash` `proxy` `tauri` `rust` `cross-platform`
-- **最后活动时间:** 2026-09-28
-
 ### [op](https://github.com/WallBreaker2/op)
 
 Windows平台自动化工具，支持GDI/DX/OpenGL截图、图像识别和OCR找字功能。
 
-- **Stars:** ⭐️ 714
+- **Stars:** ⭐️ 718
 - **Tags:** `automation` `ocr` `image-recognition` `windows`
 - **最后活动时间:** 2026-09-11
 
-### [dshcode](https://github.com/whitelonng/dshcode)
+### [native](https://github.com/Obiente/native)
 
-DeepSeek Harness 的社区桌面伴侣应用，支持一键启动。为 macOS 和 Windows 提供便捷的 AI 代理交互界面。
+采用Kotlin Multiplatform与Compose构建的现代化Nextcloud客户端，覆盖移动端与桌面端。离线优先设计，动态支持Nextcloud丰富的应用生态。
+
+- **Stars:** ⭐️ 717
+- **Tags:** `nextcloud` `kotlin-multiplatform` `compose-multiplatform` `self-hosted` `offline-first`
+- **最后活动时间:** 2026-10-17
+
+### [Cyrene-Agent](https://github.com/Playa-Cyrene/Cyrene-Agent)
+
+开源桌面 AI 智能体，围绕 Cyrene 人设打造，基于自研 Cyrene_Harness 框架。融合 Live2D 沉浸式角色对话与实用 Agent 能力，支持长期记忆、MCP 工具调用及日常与编程辅助。
+
+- **Stars:** ⭐️ 714
+- **Tags:** `AI-Agent` `Desktop-App` `Live2D` `Electron` `MCP`
+- **最后活动时间:** 2026-10-17
+
+### [mykvm](https://github.com/XxMinor/mykvm)
+
+开源跨平台软件 KVM，基于 Rust 和 Tauri，在局域网内共享键盘、鼠标和剪贴板。
 
 - **Stars:** ⭐️ 713
-- **Tags:** `deepseek` `electron` `desktop` `harness`
-- **最后活动时间:** 2026-09-13
+- **Tags:** `kvm` `rust` `tauri` `keyboard-mouse-sharing`
+- **最后活动时间:** 2026-10-13
 
 ### [vocalinux](https://github.com/jatinkrmalik/vocalinux)
 
@@ -3728,29 +3768,45 @@ DeepSeek Harness 的社区桌面伴侣应用，支持一键启动。为 macOS �
 - **Tags:** `speech-to-text` `voice-typing` `whisper` `vosk` `linux` `offline`
 - **最后活动时间:** 2026-08-05
 
-### [openyak](https://github.com/openyak/openyak)
+### [DSH-X](https://github.com/yyh-001/DSH-X)
 
-一款开源桌面AI智能体，可在本地使用任意大模型处理文档、文件和日常工作流程，支持MCP协议。
+DeepSeek Harness 轻量启动器，支持 macOS 与 Windows，一键选择版本并快速启动 DSH Web 界面。大幅简化本地 AI 应用的部署流程。
 
-- **Stars:** ⭐️ 703
-- **Tags:** `agent` `desktop` `llm` `local` `mcp`
-- **最后活动时间:** 2026-09-05
+- **Stars:** ⭐️ 710
+- **Tags:** `deepseek` `launcher` `dsh` `desktop-app` `cross-platform`
+- **最后活动时间:** 2026-10-17
+
+### [MacCheck](https://github.com/andyhuo520/MacCheck)
+
+本地运行的 Mac 硬件检测与验机工具，支持交互式验机流程并导出 PDF/PNG 报告，特别适合二手 Mac 交易验机场景。
+
+- **Stars:** ⭐️ 708
+- **Tags:** `macos` `hardware-diagnostics` `swiftui` `second-hand-mac`
+- **最后活动时间:** 2026-07-15
 
 ### [ungoogled-chromium-macos](https://github.com/ungoogled-software/ungoogled-chromium-macos)
 
 ungoogled-chromium 的 macOS 打包发行版，移除 Google 服务依赖、强化隐私保护。为 Mac 用户提供开箱即用的去 Google 化浏览器。
 
-- **Stars:** ⭐️ 703
+- **Stars:** ⭐️ 706
 - **Tags:** `Chromium` `Privacy` `Browser` `macOS` `Ungoogled`
-- **最后活动时间:** 2026-09-28
+- **最后活动时间:** 2026-10-15
 
-### [mykvm](https://github.com/XxMinor/mykvm)
+### [dshcode](https://github.com/whitelonng/dshcode)
 
-开源跨平台软件 KVM，基于 Rust 和 Tauri，在局域网内共享键盘、鼠标和剪贴板。
+DeepSeek Harness 的社区桌面伴侣应用，支持一键启动。为 macOS 和 Windows 提供便捷的 AI 代理交互界面。
 
-- **Stars:** ⭐️ 696
-- **Tags:** `kvm` `rust` `tauri` `keyboard-mouse-sharing`
-- **最后活动时间:** 2026-07-27
+- **Stars:** ⭐️ 705
+- **Tags:** `deepseek` `electron` `desktop` `harness`
+- **最后活动时间:** 2026-09-13
+
+### [veloxdb](https://github.com/veloxbase/veloxdb)
+
+面向开发者的跨平台数据库管理工具，支持 MySQL、PostgreSQL 和 SQLite。
+
+- **Stars:** ⭐️ 697
+- **Tags:** `database` `rust` `tauri` `sqlite`
+- **最后活动时间:** 2026-10-15
 
 ### [XAPKDetector](https://github.com/horsicq/XAPKDetector)
 
@@ -3760,21 +3816,29 @@ ungoogled-chromium 的 macOS 打包发行版，移除 Google 服务依赖、强�
 - **Tags:** `android` `apk` `malware-analysis` `reverse-engineering`
 - **最后活动时间:** 2026-09-30
 
-### [native](https://github.com/Obiente/native)
+### [openyak](https://github.com/openyak/openyak)
 
-采用Kotlin Multiplatform与Compose构建的现代化Nextcloud客户端，覆盖移动端与桌面端。离线优先设计，动态支持Nextcloud丰富的应用生态。
+一款开源桌面AI智能体，可在本地使用任意大模型处理文档、文件和日常工作流程，支持MCP协议。
 
-- **Stars:** ⭐️ 686
-- **Tags:** `nextcloud` `kotlin-multiplatform` `compose-multiplatform` `self-hosted` `offline-first`
-- **最后活动时间:** 2026-09-29
+- **Stars:** ⭐️ 693
+- **Tags:** `agent` `desktop` `llm` `local` `mcp`
+- **最后活动时间:** 2026-09-05
+
+### [meikipop](https://github.com/rtr46/meikipop)
+
+跨平台日语 OCR 弹窗词典，支持 Windows、Linux 和 macOS，通过屏幕取词识别辅助日语学习。
+
+- **Stars:** ⭐️ 683
+- **Tags:** `ocr` `japanese` `dictionary` `popup` `pyqt6`
+- **最后活动时间:** 2026-10-12
 
 ### [obsidian-local-gpt](https://github.com/pfrankov/obsidian-local-gpt)
 
 Obsidian插件，支持本地Ollama和类OpenAI GPT模型，注重隐私与离线访问。
 
-- **Stars:** ⭐️ 677
+- **Stars:** ⭐️ 676
 - **Tags:** `obsidian` `local-llm` `ollama` `privacy`
-- **最后活动时间:** 2026-05-02
+- **最后活动时间:** 2026-10-16
 
 ### [desktop](https://github.com/openyak/desktop)
 
@@ -3784,35 +3848,43 @@ Yak是一款开源的桌面级AI智能体应用，支持本地运行LLM、MCP协
 - **Tags:** `agent` `desktop-application` `llm` `mcp` `local`
 - **最后活动时间:** 2026-04-22
 
-### [meikipop](https://github.com/rtr46/meikipop)
+### [multivnc](https://github.com/bk138/multivnc)
 
-跨平台日语 OCR 弹窗词典，支持 Windows、Linux 和 macOS，通过屏幕取词识别辅助日语学习。
+跨平台 VNC 远程桌面查看器，支持 SSH 隧道与多播 VNC，桌面端覆盖 Unix、macOS、Windows，另有 Android 客户端。
 
-- **Stars:** ⭐️ 676
-- **Tags:** `ocr` `japanese` `dictionary` `popup` `pyqt6`
-- **最后活动时间:** 2026-09-28
+- **Stars:** ⭐️ 670
+- **Tags:** `vnc` `remote-desktop` `ssh` `cross-platform`
+- **最后活动时间:** 2026-10-15
 
 ### [Minke](https://github.com/lencx/Minke)
 
 DeepSeek Harness 的桌面端应用，支持跨平台使用。为 AI 代理提供便捷的本地运行与管理环境。
 
-- **Stars:** ⭐️ 673
+- **Stars:** ⭐️ 668
 - **Tags:** `deepseek` `desktop` `ai-agents` `harness`
 - **最后活动时间:** 2026-09-26
 
-### [multivnc](https://github.com/bk138/multivnc)
+### [yoji](https://github.com/wangxijie001/yoji)
 
-跨平台 VNC 远程桌面查看器，支持 SSH 隧道与多播 VNC，桌面端覆盖 Unix、macOS、Windows，另有 Android 客户端。
+一款隐私优先的AI桌面伴侣应用，支持语音唤醒、情绪交互与办公协助。通过MCP协议实现无限扩展，提供本地化的智能助手体验。
 
-- **Stars:** ⭐️ 667
-- **Tags:** `vnc` `remote-desktop` `ssh` `cross-platform`
-- **最后活动时间:** 2026-09-26
+- **Stars:** ⭐️ 666
+- **Tags:** `ai-companion` `local-ai` `desktop-assistant` `mcp`
+- **最后活动时间:** 2026-08-12
+
+### [ios-mac-app](https://github.com/ProtonVPN/ios-mac-app)
+
+ProtonVPN 官方开源的 iOS 与 macOS 客户端，提供安全、隐私优先的 VPN 服务。代码完全开源，是隐私工具领域的标杆项目。
+
+- **Stars:** ⭐️ 664
+- **Tags:** `vpn` `privacy` `security` `macos` `ios`
+- **最后活动时间:** 2026-10-13
 
 ### [Web](https://github.com/nuance-dev/Web)
 
 原生 macOS 浏览器，支持 Glance 快速查询，并可选用基于 MLX 的本地 AI 能力。
 
-- **Stars:** ⭐️ 667
+- **Stars:** ⭐️ 664
 - **Tags:** `macOS` `Local-AI` `MLX` `Browser`
 - **最后活动时间:** 2026-09-14
 
@@ -3820,33 +3892,17 @@ DeepSeek Harness 的桌面端应用，支持跨平台使用。为 AI 代理提�
 
 跨平台 GUI 工具，统一管理 Claude、Gemini、Codex、Copilot、Kiro 等多种 AI 编码代理。
 
-- **Stars:** ⭐️ 664
+- **Stars:** ⭐️ 654
 - **Tags:** `ai-agent` `gui` `claude` `copilot` `cross-platform`
 - **最后活动时间:** 2026-08-19
 
-### [ios-mac-app](https://github.com/ProtonVPN/ios-mac-app)
+### [tldraw-offline](https://github.com/tldraw/tldraw-offline)
 
-ProtonVPN 官方开源的 iOS 与 macOS 客户端，提供安全、隐私优先的 VPN 服务。代码完全开源，是隐私工具领域的标杆项目。
+支持本地文件的 tldraw 桌面应用，结合 AI 与白板画布能力。
 
-- **Stars:** ⭐️ 661
-- **Tags:** `vpn` `privacy` `security` `macos` `ios`
-- **最后活动时间:** 2026-06-08
-
-### [veloxdb](https://github.com/veloxbase/veloxdb)
-
-面向开发者的跨平台数据库管理工具，支持 MySQL、PostgreSQL 和 SQLite。
-
-- **Stars:** ⭐️ 641
-- **Tags:** `database` `rust` `tauri` `sqlite`
-- **最后活动时间:** 2026-09-30
-
-### [Cyrene-Agent](https://github.com/Playa-Cyrene/Cyrene-Agent)
-
-开源桌面 AI 智能体，围绕 Cyrene 人设打造，基于自研 Cyrene_Harness 框架。融合 Live2D 沉浸式角色对话与实用 Agent 能力，支持长期记忆、MCP 工具调用及日常与编程辅助。
-
-- **Stars:** ⭐️ 641
-- **Tags:** `AI-Agent` `Desktop-App` `Live2D` `Electron` `MCP`
-- **最后活动时间:** 2026-09-30
+- **Stars:** ⭐️ 651
+- **Tags:** `tldraw` `whiteboard` `desktop` `ai-canvas`
+- **最后活动时间:** 2026-10-14
 
 ### [jarvis-ai-assistant](https://github.com/akshayaggarwal99/jarvis-ai-assistant)
 
@@ -3876,7 +3932,7 @@ Mac平台语音驱动AI助手，支持语音交互和智能辅助功能。
 
 社区驱动的Perplexity AI桌面应用，基于Electron构建，提供便捷的AI对话体验。
 
-- **Stars:** ⭐️ 632
+- **Stars:** ⭐️ 633
 - **Tags:** `ai` `chatbot` `electron` `perplexity` `desktop-app`
 - **最后活动时间:** 2026-08-16
 
@@ -3888,37 +3944,29 @@ Mac平台语音驱动AI助手，支持语音交互和智能辅助功能。
 - **Tags:** `waifu2x` `image-upscaling` `windows` `gui` `image-processing`
 - **最后活动时间:** 2026-09-25
 
-### [MacCheck](https://github.com/andyhuo520/MacCheck)
+### [desktop](https://github.com/TurboWarp/desktop)
 
-本地运行的 Mac 硬件检测与验机工具，支持交互式验机流程并导出 PDF/PNG 报告，特别适合二手 Mac 交易验机场景。
+Scratch 3 离线编辑器，让孩子们无需联网也能进行创意编程。
 
-- **Stars:** ⭐️ 631
-- **Tags:** `macos` `hardware-diagnostics` `swiftui` `second-hand-mac`
-- **最后活动时间:** 2026-07-15
-
-### [tldraw-offline](https://github.com/tldraw/tldraw-offline)
-
-支持本地文件的 tldraw 桌面应用，结合 AI 与白板画布能力。
-
-- **Stars:** ⭐️ 625
-- **Tags:** `tldraw` `whiteboard` `desktop` `ai-canvas`
-- **最后活动时间:** 2026-09-30
+- **Stars:** ⭐️ 627
+- **Tags:** `Scratch` `Electron` `Education` `OfflineEditor`
+- **最后活动时间:** 2026-10-12
 
 ### [mission-control](https://github.com/robsannaa/mission-control)
 
 为 OpenClaw 提供的图形化管理界面，让非技术用户无需命令行即可完全管理智能体主机。支持一键部署到 agentbay.space。
 
-- **Stars:** ⭐️ 622
+- **Stars:** ⭐️ 623
 - **Tags:** `openclaw` `agent-gui` `agent-management` `ai-agents`
 - **最后活动时间:** 2026-08-19
 
-### [desktop](https://github.com/TurboWarp/desktop)
+### [ComfyUI-Windows-Portable](https://github.com/YanWenKun/ComfyUI-Windows-Portable)
 
-Scratch 3 离线编辑器，让孩子们无需联网也能进行创意编程。
+ComfyUI Windows便携版整合包，预装40+自定义节点，开箱即用。
 
-- **Stars:** ⭐️ 621
-- **Tags:** `Scratch` `Electron` `Education` `OfflineEditor`
-- **最后活动时间:** 2026-09-30
+- **Stars:** ⭐️ 619
+- **Tags:** `comfyui` `stable-diffusion` `portable`
+- **最后活动时间:** 2026-10-17
 
 ### [deepseek-harness-desktop-app](https://github.com/vibeinging/deepseek-harness-desktop-app)
 
@@ -3936,45 +3984,45 @@ Scratch 3 离线编辑器，让孩子们无需联网也能进行创意编程。
 - **Tags:** `adb` `android-control` `scrcpy` `screen-mirroring` `windows`
 - **最后活动时间:** 2026-08-28
 
-### [ComfyUI-Windows-Portable](https://github.com/YanWenKun/ComfyUI-Windows-Portable)
+### [Gloss-Mod-Manager](https://github.com/GlossMod/Gloss-Mod-Manager)
 
-ComfyUI Windows便携版整合包，预装40+自定义节点，开箱即用。
+一款综合性游戏模组管理器，深度集成AI智能管理系统，支持多款游戏Mod的自动识别、安装与统一管理。让繁琐的模组管理变得智能高效，界面简洁易用。
 
-- **Stars:** ⭐️ 614
-- **Tags:** `comfyui` `stable-diffusion` `portable`
-- **最后活动时间:** 2026-09-28
+- **Stars:** ⭐️ 615
+- **Tags:** `Electron` `ModManager` `GameMods` `AI`
+- **最后活动时间:** 2026-10-14
 
 ### [photon](https://github.com/abhi16180/photon)
 
 基于 Flutter 的跨平台文件传输应用，通过 HTTP 在任意设备间快速共享文件与文件夹。无需账号与云端，局域网直连。
 
-- **Stars:** ⭐️ 608
+- **Stars:** ⭐️ 610
 - **Tags:** `file-sharing` `flutter` `cross-platform` `transfer`
 - **最后活动时间:** 2026-05-31
 
-### [Gloss-Mod-Manager](https://github.com/GlossMod/Gloss-Mod-Manager)
+### [quick-rss](https://github.com/jaywcjlove/quick-rss)
 
-一款综合性游戏模组管理器，深度集成AI智能管理系统，支持多款游戏Mod的自动识别、安装与统一管理。让繁琐的模组管理变得智能高效，界面简洁易用。
+强大且直观的 macOS 桌面 RSS 阅读器，帮助用户轻松管理和阅读喜爱的 RSS 订阅源。基于 SwiftUI 构建，体验流畅。
 
-- **Stars:** ⭐️ 606
-- **Tags:** `Electron` `ModManager` `GameMods` `AI`
-- **最后活动时间:** 2026-09-29
-
-### [HermesPet](https://github.com/basionwang-bot/HermesPet)
-
-驻留在MacBook刘海的零依赖桌面AI伴侣应用。支持多引擎并行，提供开箱即用的智能对话体验。
-
-- **Stars:** ⭐️ 600
-- **Tags:** `ai` `desktop-app` `macos` `swiftui` `llm`
-- **最后活动时间:** 2026-09-23
+- **Stars:** ⭐️ 604
+- **Tags:** `rss-reader` `macos` `swiftui` `rss-feed` `news`
+- **最后活动时间:** 2026-10-15
 
 ### [MiniSearch](https://github.com/felladrin/MiniSearch)
 
 极简AI搜索引擎，完全在浏览器本地运行，结合WebLLM和SearXNG实现智能问答与网络搜索。
 
-- **Stars:** ⭐️ 598
+- **Stars:** ⭐️ 599
 - **Tags:** `AI搜索` `本地运行` `隐私保护`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
+
+### [HermesPet](https://github.com/basionwang-bot/HermesPet)
+
+驻留在MacBook刘海的零依赖桌面AI伴侣应用。支持多引擎并行，提供开箱即用的智能对话体验。
+
+- **Stars:** ⭐️ 598
+- **Tags:** `ai` `desktop-app` `macos` `swiftui` `llm`
+- **最后活动时间:** 2026-10-15
 
 ### [xiaoer-videolab](https://github.com/Jane-xiaoer/xiaoer-videolab)
 
@@ -3988,25 +4036,17 @@ ComfyUI Windows便携版整合包，预装40+自定义节点，开箱即用。
 
 基于 MLX 的高性能 macOS LLM 推理引擎，采用原生 Swift 实现，专为 Apple Silicon 优化。
 
-- **Stars:** ⭐️ 592
+- **Stars:** ⭐️ 593
 - **Tags:** `llm` `mlx` `macos` `swift` `inference-engine`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-07
 
 ### [spool](https://github.com/paperboytm/spool)
 
 本地AI会话管理库，支持收集Claude Code、Codex CLI、Gemini CLI等多个AI工具的会话记录，提供可浏览和快捷搜索功能。
 
-- **Stars:** ⭐️ 591
+- **Stars:** ⭐️ 592
 - **Tags:** `ai-agents` `claude-code` `codex-cli` `gemini-cli` `local-first` `electron` `mcp`
 - **最后活动时间:** 2026-07-27
-
-### [quick-rss](https://github.com/jaywcjlove/quick-rss)
-
-强大且直观的 macOS 桌面 RSS 阅读器，帮助用户轻松管理和阅读喜爱的 RSS 订阅源。基于 SwiftUI 构建，体验流畅。
-
-- **Stars:** ⭐️ 591
-- **Tags:** `rss-reader` `macos` `swiftui` `rss-feed` `news`
-- **最后活动时间:** 2026-09-26
 
 ### [dsh-desktop](https://github.com/vibeinging/dsh-desktop)
 
@@ -4020,33 +4060,65 @@ ComfyUI Windows便携版整合包，预装40+自定义节点，开箱即用。
 
 Windows平台免费离线全能文件转换器，在本地完成文档、图片、音视频转换，无需上传联网，基于Python与PySide6构建并支持多引擎回退。
 
-- **Stars:** ⭐️ 585
+- **Stars:** ⭐️ 591
 - **Tags:** `file-converter` `offline` `pyside6` `python` `windows`
-- **最后活动时间:** 2026-09-20
-
-### [coucou](https://github.com/Louis-CFM/coucou)
-
-一只住在 macOS 刘海或 Windows 屏幕顶部的小宠物，实时盯梢你的 Claude Code 会话状态。将 AI 编程助手监控以趣味化方式融入桌面体验。
-
-- **Stars:** ⭐️ 579
-- **Tags:** `claude-code` `macos` `swiftui` `menubar-app` `ai-monitoring` `notch`
-- **最后活动时间:** 2026-09-30
-
-### [WinArk](https://github.com/BeneficialCode/WinArk)
-
-Windows 反 Rootkit 工具，帮助用户检测和清除系统中的隐藏威胁。
-
-- **Stars:** ⭐️ 574
-- **Tags:** `anti-rootkit` `security` `windows` `kernel`
-- **最后活动时间:** 2026-07-25
+- **最后活动时间:** 2026-10-13
 
 ### [qwen3-tts-apple-silicon](https://github.com/kapi2800/qwen3-tts-apple-silicon)
 
 在Apple Silicon芯片上本地运行Qwen3-TTS的解决方案。支持完全离线的语音克隆与自定义语音生成。
 
-- **Stars:** ⭐️ 572
+- **Stars:** ⭐️ 584
 - **Tags:** `apple-silicon` `mlx` `qwen3-tts` `text-to-speech` `voice-cloning`
 - **最后活动时间:** 2026-05-02
+
+### [MyAgents](https://github.com/hAcKlyc/MyAgents)
+
+优雅易用的Agent桌面应用，一站式Agent工作台与任务管理中心。
+
+- **Stars:** ⭐️ 581
+- **Tags:** `ai-agents` `desktop-app` `agent-workbench` `claude-code`
+- **最后活动时间:** 2026-10-13
+
+### [WinArk](https://github.com/BeneficialCode/WinArk)
+
+Windows 反 Rootkit 工具，帮助用户检测和清除系统中的隐藏威胁。
+
+- **Stars:** ⭐️ 581
+- **Tags:** `anti-rootkit` `security` `windows` `kernel`
+- **最后活动时间:** 2026-07-25
+
+### [PYAS](https://github.com/87owo/PYAS)
+
+基于Python和C++开发的杀毒软件，利用机器学习（LightGBM）与行为监控技术主动拦截威胁。轻量级Windows安全防护工具，将AI应用于恶意软件检测。
+
+- **Stars:** ⭐️ 580
+- **Tags:** `antivirus` `machine-learning` `lightgbm` `security` `malware-detection` `windows`
+- **最后活动时间:** 2026-10-17
+
+### [SkillDeck](https://github.com/crossoverJie/SkillDeck)
+
+原生 macOS SwiftUI 应用，用于管理多个 AI 代码智能体的技能。
+
+- **Stars:** ⭐️ 579
+- **Tags:** `macos` `skills` `ai-agents`
+- **最后活动时间:** 2026-09-22
+
+### [Musly](https://github.com/dddevid/Musly)
+
+美观的Flutter音乐流媒体客户端，兼容Subsonic、Navidrome等自建服务器，拥有类Apple Music的现代界面。
+
+- **Stars:** ⭐️ 574
+- **Tags:** `flutter` `music-player` `subsonic` `cross-platform` `self-hosted`
+- **最后活动时间:** 2026-10-17
+
+### [FaceGate-Mac](https://github.com/dweep-desai/FaceGate-Mac)
+
+全球首款支持人脸识别的macOS应用锁，可用面容、TouchID或密码解锁应用，全程本地加密处理，数据不出设备。
+
+- **Stars:** ⭐️ 573
+- **Tags:** `face-recognition` `computer-vision` `macos` `biometric-authentication` `swiftui`
+- **最后活动时间:** 2026-09-04
 
 ### [claude-desktop-bin](https://github.com/patrickjaja/claude-desktop-bin)
 
@@ -4056,13 +4128,13 @@ Claude Desktop AI助手非官方Linux安装包，支持自动更新。提供AppI
 - **Tags:** `anthropic` `claude` `claude-desktop` `linux` `appimage`
 - **最后活动时间:** 2026-07-27
 
-### [SkillDeck](https://github.com/crossoverJie/SkillDeck)
+### [Pulse](https://github.com/qunqin24/Pulse)
 
-原生 macOS SwiftUI 应用，用于管理多个 AI 代码智能体的技能。
+一款免费开源的 macOS 屏幕边缘监控工具，实时显示 Claude Code、Codex、Cursor、Copilot 等 70+ AI 编程工具的剩余用量与配额。让开发者随时掌握 AI 工具使用状况，避免额度意外耗尽。
 
-- **Stars:** ⭐️ 569
-- **Tags:** `macos` `skills` `ai-agents`
-- **最后活动时间:** 2026-09-22
+- **Stars:** ⭐️ 566
+- **Tags:** `macos` `menu-bar` `usage-monitor` `claude-code` `cursor` `quota`
+- **最后活动时间:** 2026-10-16
 
 ### [ghostwriter](https://github.com/awwaiid/ghostwriter)
 
@@ -4072,29 +4144,29 @@ Claude Desktop AI助手非官方Linux安装包，支持自动更新。提供AppI
 - **Tags:** `E-ink` `LLM Interface` `reMarkable`
 - **最后活动时间:** 2026-07-10
 
-### [Musly](https://github.com/dddevid/Musly)
+### [SoundCloud-Desktop](https://github.com/zxcloli666/SoundCloud-Desktop)
 
-美观的Flutter音乐流媒体客户端，兼容Subsonic、Navidrome等自建服务器，拥有类Apple Music的现代界面。
+最佳非官方 SoundCloud 桌面客户端，支持 Windows/Linux/macOS，无广告、无验证码、无审查。
 
-- **Stars:** ⭐️ 561
-- **Tags:** `flutter` `music-player` `subsonic` `cross-platform` `self-hosted`
-- **最后活动时间:** 2026-09-30
-
-### [PYAS](https://github.com/87owo/PYAS)
-
-基于Python和C++开发的杀毒软件，利用机器学习（LightGBM）与行为监控技术主动拦截威胁。轻量级Windows安全防护工具，将AI应用于恶意软件检测。
-
-- **Stars:** ⭐️ 559
-- **Tags:** `antivirus` `machine-learning` `lightgbm` `security` `malware-detection` `windows`
-- **最后活动时间:** 2026-09-25
+- **Stars:** ⭐️ 557
+- **Tags:** `SoundCloud` `MusicPlayer` `CrossPlatform` `DesktopApp` `AdBlocker`
+- **最后活动时间:** 2026-10-17
 
 ### [BrightIntosh](https://github.com/niklasr22/BrightIntosh)
 
 解锁 MacBook Pro XDR 显示屏全部亮度的实用工具，让屏幕突破系统亮度限制。
 
-- **Stars:** ⭐️ 556
+- **Stars:** ⭐️ 555
 - **Tags:** `macOS` `Brightness` `MacBookPro` `XDR` `HDR`
-- **最后活动时间:** 2026-09-05
+- **最后活动时间:** 2026-10-08
+
+### [EnvKit](https://github.com/Env-Kit/envkit-releases)
+
+一款免费的 Windows 与 macOS 本地开发环境集成工具，内置 Nginx、多版本 PHP、MySQL、Redis、MongoDB 等常用服务。其内置的 MCP 服务器允许 AI 助手直接控制开发环境，是 Laragon/XAMPP/Herd 的现代替代方案。
+
+- **Stars:** ⭐️ 552
+- **Tags:** `MCP` `AIAssistant` `LocalDevelopment` `DevEnvironment` `WebDevelopment`
+- **最后活动时间:** 2026-10-17
 
 ### [ackem](https://github.com/JasonLiu0826/ackem)
 
@@ -4112,6 +4184,14 @@ Claude Desktop AI助手非官方Linux安装包，支持自动更新。提供AppI
 - **Tags:** `accessibility` `microsoft` `windows` `testing`
 - **最后活动时间:** 2026-09-15
 
+### [kiri](https://github.com/yuxino/kiri)
+
+本地优先的截图标注、OCR 文字识别、录屏与视频剪辑桌面工具，支持 macOS 和 Windows。内置 AI 文字识别能力，数据全程保留在本地，注重隐私安全。
+
+- **Stars:** ⭐️ 543
+- **Tags:** `OCR` `Screenshot` `Screen-Recording` `Video-Editing` `Tauri` `Local-First`
+- **最后活动时间:** 2026-10-17
+
 ### [iris](https://github.com/nini22P/iris)
 
 基于 Flutter 的轻量级视频播放器，支持 Android 与 Windows 平台及 WebDAV 播放。
@@ -4126,45 +4206,21 @@ Claude Desktop AI助手非官方Linux安装包，支持自动更新。提供AppI
 
 - **Stars:** ⭐️ 539
 - **Tags:** `Windows` `System Info` `Hardware` `Benchmark` `Diagnostics`
-- **最后活动时间:** 2026-09-19
-
-### [saga-reader](https://github.com/sopaco/saga-reader)
-
-由AI驱动的极速轻量级互联网阅读器，基于Rust、Tauri与Svelte构建。
-
-- **Stars:** ⭐️ 537
-- **Tags:** `reader` `desktop` `rust` `tauri`
-- **最后活动时间:** 2026-07-11
+- **最后活动时间:** 2026-10-16
 
 ### [Tuneful](https://github.com/martinfekete10/Tuneful)
 
 原生 macOS 音乐播放管理工具，支持从刘海、菜单栏或迷你播放器控制音乐。兼容 Apple Music 和 Spotify。
 
-- **Stars:** ⭐️ 537
+- **Stars:** ⭐️ 538
 - **Tags:** `apple-music` `macos` `music-player` `spotify` `swiftui`
-- **最后活动时间:** 2026-05-23
-
-### [music-island](https://github.com/redheadesign/music-island)
-
-位于 Windows 桌面顶部的智能悬浮条，集成音乐控制、本地语音听写与语音处理等 AI 能力。让日常桌面操作更高效、更智能。
-
-- **Stars:** ⭐️ 535
-- **Tags:** `voice-assistant` `speech-recognition` `dictation` `windows` `tauri`
-- **最后活动时间:** 2026-09-23
-
-### [SoundCloud-Desktop](https://github.com/zxcloli666/SoundCloud-Desktop)
-
-最佳非官方 SoundCloud 桌面客户端，支持 Windows/Linux/macOS，无广告、无验证码、无审查。
-
-- **Stars:** ⭐️ 533
-- **Tags:** `SoundCloud` `MusicPlayer` `CrossPlatform` `DesktopApp` `AdBlocker`
-- **最后活动时间:** 2026-08-22
+- **最后活动时间:** 2026-10-06
 
 ### [NativeYoutube](https://github.com/Aayush9029/NativeYoutube)
 
 原生 SwiftUI 打造的 macOS YouTube 客户端，提供迷你播放器与画中画等体验。从个人项目成长为持续发布的实用应用。
 
-- **Stars:** ⭐️ 532
+- **Stars:** ⭐️ 537
 - **Tags:** `youtube` `macos` `swiftui` `video-player`
 - **最后活动时间:** 2026-09-19
 
@@ -4172,17 +4228,17 @@ Claude Desktop AI助手非官方Linux安装包，支持自动更新。提供AppI
 
 OpenClaw 客户端，支持多会话生产力提升，集成 Git 和任务管理功能。
 
-- **Stars:** ⭐️ 531
+- **Stars:** ⭐️ 534
 - **Tags:** `ai-agent` `desktop-app` `developer-tools` `electron` `task-management`
 - **最后活动时间:** 2026-08-24
 
-### [EnvKit](https://github.com/Env-Kit/envkit-releases)
+### [saga-reader](https://github.com/sopaco/saga-reader)
 
-一款免费的 Windows 与 macOS 本地开发环境集成工具，内置 Nginx、多版本 PHP、MySQL、Redis、MongoDB 等常用服务。其内置的 MCP 服务器允许 AI 助手直接控制开发环境，是 Laragon/XAMPP/Herd 的现代替代方案。
+由AI驱动的极速轻量级互联网阅读器，基于Rust、Tauri与Svelte构建。
 
-- **Stars:** ⭐️ 531
-- **Tags:** `MCP` `AIAssistant` `LocalDevelopment` `DevEnvironment` `WebDevelopment`
-- **最后活动时间:** 2026-09-28
+- **Stars:** ⭐️ 532
+- **Tags:** `reader` `desktop` `rust` `tauri`
+- **最后活动时间:** 2026-07-11
 
 ### [SymlinkCreator](https://github.com/arnobpl/SymlinkCreator)
 
@@ -4192,6 +4248,14 @@ OpenClaw 客户端，支持多会话生产力提升，集成 Git 和任务管理
 - **Tags:** `symlink` `mklink` `windows` `gui` `utility`
 - **最后活动时间:** 2026-09-04
 
+### [Viz](https://github.com/alienator88/Viz)
+
+屏幕截图提取工具，可从屏幕片段中捕获文本、二维码、条形码和颜色。提升信息获取效率，适合设计与开发场景。
+
+- **Stars:** ⭐️ 528
+- **Tags:** `macos` `barcode` `scanner` `colorpicker` `swiftui`
+- **最后活动时间:** 2026-05-11
+
 ### [harnessclaw](https://github.com/harnessclaw/harnessclaw)
 
 基于 Electron 的桌面应用，用于管理和操作 AI 智能体及技能的统一界面。
@@ -4200,13 +4264,13 @@ OpenClaw 客户端，支持多会话生产力提升，集成 Git 和任务管理
 - **Tags:** `ai-agents` `desktop-app` `electron-app` `chatbot`
 - **最后活动时间:** 2026-05-22
 
-### [Viz](https://github.com/alienator88/Viz)
+### [dinky](https://github.com/heyderekj/dinky)
 
-屏幕截图提取工具，可从屏幕片段中捕获文本、二维码、条形码和颜色。提升信息获取效率，适合设计与开发场景。
+macOS 上的文件压缩利器，快速压缩图片、PDF 与视频，支持 AVIF、WebP 等现代格式。拖拽即用，简单高效。
 
-- **Stars:** ⭐️ 527
-- **Tags:** `macos` `barcode` `scanner` `colorpicker` `swiftui`
-- **最后活动时间:** 2026-05-11
+- **Stars:** ⭐️ 526
+- **Tags:** `compression` `image-compression` `pdf` `video` `swiftui`
+- **最后活动时间:** 2026-09-25
 
 ### [OwlPlug](https://github.com/DropSnorz/OwlPlug)
 
@@ -4216,21 +4280,37 @@ OpenClaw 客户端，支持多会话生产力提升，集成 Git 和任务管理
 - **Tags:** `audio-plugin` `vst` `plugin-manager` `desktop-app`
 - **最后活动时间:** 2026-09-25
 
+### [PerformanceMonitor](https://github.com/erikdarlingdata/PerformanceMonitor)
+
+开源的 SQL Server 与 Postgres 性能监控桌面工具，提供实时告警和执行计划可视化，并内置 MCP 服务器供 AI 分析数据库性能。
+
+- **Stars:** ⭐️ 520
+- **Tags:** `MCP` `SQL-Server` `PostgreSQL` `Performance-Monitoring` `Database`
+- **最后活动时间:** 2026-10-17
+
 ### [Detto](https://github.com/Gremble-io/Detto)
 
 专为macOS设计的本地会议捕获与听写工具，所有数据保留在设备本地以确保隐私。
 
-- **Stars:** ⭐️ 518
+- **Stars:** ⭐️ 519
 - **Tags:** `macos` `dictation` `local-first` `mlx`
 - **最后活动时间:** 2026-07-22
 
-### [dinky](https://github.com/heyderekj/dinky)
+### [TokenEater](https://github.com/AThevon/TokenEater)
 
-macOS 上的文件压缩利器，快速压缩图片、PDF 与视频，支持 AVIF、WebP 等现代格式。拖拽即用，简单高效。
+原生 macOS 菜单栏应用，实时监控 Claude AI 使用限额并可视化编程会话，帮助开发者掌握 AI 用量。
 
-- **Stars:** ⭐️ 515
-- **Tags:** `compression` `image-compression` `pdf` `video` `swiftui`
-- **最后活动时间:** 2026-09-25
+- **Stars:** ⭐️ 516
+- **Tags:** `Claude` `Anthropic` `macOS` `UsageMonitor` `SwiftUI`
+- **最后活动时间:** 2026-10-17
+
+### [gemini-cli-desktop](https://github.com/Piebald-AI/gemini-cli-desktop)
+
+为Gemini CLI和Qwen Code打造的跨平台桌面与Web界面，支持项目管理、历史对话搜索和MCP服务器管理。
+
+- **Stars:** ⭐️ 510
+- **Tags:** `gemini` `desktop-app` `qwen` `mcp` `tauri`
+- **最后活动时间:** 2026-10-10
 
 ### [sqlkit](https://github.com/geek-fun/sqlkit)
 
@@ -4240,46 +4320,6 @@ macOS 上的文件压缩利器，快速压缩图片、PDF 与视频，支持 AVI
 - **Tags:** `ai-sql-client` `database-gui` `tauri-app` `rust` `cross-platform`
 - **最后活动时间:** 2026-09-28
 
-### [FaceGate-Mac](https://github.com/dweep-desai/FaceGate-Mac)
-
-全球首款支持人脸识别的macOS应用锁，可用面容、TouchID或密码解锁应用，全程本地加密处理，数据不出设备。
-
-- **Stars:** ⭐️ 508
-- **Tags:** `face-recognition` `computer-vision` `macos` `biometric-authentication` `swiftui`
-- **最后活动时间:** 2026-09-04
-
-### [TokenEater](https://github.com/AThevon/TokenEater)
-
-原生 macOS 菜单栏应用，实时监控 Claude AI 使用限额并可视化编程会话，帮助开发者掌握 AI 用量。
-
-- **Stars:** ⭐️ 507
-- **Tags:** `Claude` `Anthropic` `macOS` `UsageMonitor` `SwiftUI`
-- **最后活动时间:** 2026-09-26
-
-### [PerformanceMonitor](https://github.com/erikdarlingdata/PerformanceMonitor)
-
-开源的 SQL Server 与 Postgres 性能监控桌面工具，提供实时告警和执行计划可视化，并内置 MCP 服务器供 AI 分析数据库性能。
-
-- **Stars:** ⭐️ 507
-- **Tags:** `MCP` `SQL-Server` `PostgreSQL` `Performance-Monitoring` `Database`
-- **最后活动时间:** 2026-09-30
-
-### [gemini-cli-desktop](https://github.com/Piebald-AI/gemini-cli-desktop)
-
-为Gemini CLI和Qwen Code打造的跨平台桌面与Web界面，支持项目管理、历史对话搜索和MCP服务器管理。
-
-- **Stars:** ⭐️ 504
-- **Tags:** `gemini` `desktop-app` `qwen` `mcp` `tauri`
-- **最后活动时间:** 2026-09-26
-
-### [DSH-X](https://github.com/yyh-001/DSH-X)
-
-DeepSeek Harness 轻量启动器，支持 macOS 与 Windows，一键选择版本并快速启动 DSH Web 界面。大幅简化本地 AI 应用的部署流程。
-
-- **Stars:** ⭐️ 503
-- **Tags:** `deepseek` `launcher` `dsh` `desktop-app` `cross-platform`
-- **最后活动时间:** 2026-09-26
-
 ### [codex-history-sync-tool](https://github.com/GODGOD126/codex-history-sync-tool)
 
 codex-history-sync-tool 是一款工具，用于同步 Codex Desktop 的本地对话历史到当前提供商。这确保了您的聊天记录可以无缝迁移。
@@ -4288,63 +4328,55 @@ codex-history-sync-tool 是一款工具，用于同步 Codex Desktop 的本地�
 - **Tags:** `Codex` `Sync` `History` `Desktop`
 - **最后活动时间:** 2026-08-11
 
-### [kiri](https://github.com/yuxino/kiri)
-
-本地优先的截图标注、OCR 文字识别、录屏与视频剪辑桌面工具，支持 macOS 和 Windows。内置 AI 文字识别能力，数据全程保留在本地，注重隐私安全。
-
-- **Stars:** ⭐️ 500
-- **Tags:** `OCR` `Screenshot` `Screen-Recording` `Video-Editing` `Tauri` `Local-First`
-- **最后活动时间:** 2026-09-23
-
 ## OS Integrations
 
 ### [Ventoy](https://github.com/ventoy/Ventoy)
 
 新一代多合一启动U盘解决方案，只需将多个ISO文件拷贝到U盘即可启动，无需反复格式化。支持UEFI/Legacy、Secure Boot及持久化分区。
 
-- **Stars:** ⭐️ 79.6k
+- **Stars:** ⭐️ 80.1k
 - **Tags:** `bootable-usb` `multiboot` `uefi` `iso` `windows`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-12
 
 ### [winutil](https://github.com/ChrisTitusTech/winutil)
 
 Chris Titus Tech 出品的一体化 Windows 工具，可一键完成软件安装、系统精简、隐私调整与修复更新，是装机优化的利器。
 
-- **Stars:** ⭐️ 63.1k
+- **Stars:** ⭐️ 64.4k
 - **Tags:** `Windows` `PowerShell` `Debloat` `System Utilities`
-- **最后活动时间:** 2026-09-19
+- **最后活动时间:** 2026-10-13
 
 ### [Win11Debloat](https://github.com/Raphire/Win11Debloat)
 
 Windows 系统精简优化脚本，一键移除预装应用、关闭遥测、自定义系统设置。支持 Windows 10/11。
 
-- **Stars:** ⭐️ 57.8k
+- **Stars:** ⭐️ 59.5k
 - **Tags:** `windows` `powershell` `debloat` `privacy`
-- **最后活动时间:** 2026-09-10
+- **最后活动时间:** 2026-10-16
 
 ### [stats](https://github.com/exelban/stats)
 
 macOS 菜单栏系统监控工具，实时展示 CPU、内存、磁盘、网络、风扇与传感器等信息。
 
-- **Stars:** ⭐️ 42.2k
+- **Stars:** ⭐️ 42.6k
 - **Tags:** `macos` `system-monitor` `menubar` `menu-bar-app`
-- **最后活动时间:** 2026-09-30
-
-### [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)
-
-深度增强Windows工作环境的开源工具，可恢复经典任务栏、资源管理器布局并自定义系统行为。让Windows 11拥有更熟悉的操作体验。
-
-- **Stars:** ⭐️ 34.0k
-- **Tags:** `Windows` `Taskbar` `Explorer` `Customization` `System Tools`
-- **最后活动时间:** 2026-07-06
+- **最后活动时间:** 2026-10-17
 
 ### [WSL](https://github.com/microsoft/WSL)
 
 微软官方的 Windows Subsystem for Linux，让用户在 Windows 上原生运行 GNU/Linux 环境。
 
-- **Stars:** ⭐️ 33.8k
+- **Stars:** ⭐️ 34.1k
 - **Tags:** `WSL` `Linux` `Windows` `Microsoft` `Kernel`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
+
+### [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)
+
+深度增强Windows工作环境的开源工具，可恢复经典任务栏、资源管理器布局并自定义系统行为。让Windows 11拥有更熟悉的操作体验。
+
+- **Stars:** ⭐️ 34.1k
+- **Tags:** `Windows` `Taskbar` `Explorer` `Customization` `System Tools`
+- **最后活动时间:** 2026-07-06
 
 ### [yabai](https://github.com/asmvik/yabai)
 
@@ -4360,63 +4392,63 @@ macOS 菜单栏系统监控工具，实时展示 CPU、内存、磁盘、网络�
 
 - **Stars:** ⭐️ 26.5k
 - **Tags:** `package-manager` `windows` `cli` `microsoft`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-14
 
 ### [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)
 
 macOS 上最强大的键盘自定义工具之一，允许用户深度修改键盘映射和创建复杂快捷键。极大地提升了键盘的工作效率和个性化体验。
 
-- **Stars:** ⭐️ 22.9k
+- **Stars:** ⭐️ 23.0k
 - **Tags:** `macos` `keyboard` `customization` `os-integration`
-- **最后活动时间:** 2026-09-28
+- **最后活动时间:** 2026-10-13
 
 ### [omlx](https://github.com/jundot/omlx)
 
 专为Apple Silicon优化的LLM推理服务器，支持连续批处理和SSD缓存，菜单栏管理。
 
-- **Stars:** ⭐️ 22.4k
+- **Stars:** ⭐️ 22.9k
 - **Tags:** `Apple Silicon` `MLX` `Local Inference`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [CodexBar](https://github.com/steipete/CodexBar)
 
 macOS菜单栏应用，无需登录即可查看OpenAI Codex和Claude Code的使用统计。
 
-- **Stars:** ⭐️ 22.1k
+- **Stars:** ⭐️ 22.6k
 - **Tags:** `macOS` `Usage Stats` `Menu Bar`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [lima](https://github.com/lima-vm/lima)
 
 macOS 上的 Linux 虚拟机管理工具,专注于运行容器,自动处理文件共享与端口转发。是 Docker Desktop 的优秀开源替代方案。
 
-- **Stars:** ⭐️ 22.0k
+- **Stars:** ⭐️ 22.1k
 - **Tags:** `macos` `linux` `virtual-machine` `containers` `qemu`
-- **最后活动时间:** 2026-09-28
+- **最后活动时间:** 2026-10-16
 
 ### [screenpipe](https://github.com/screenpipe/screenpipe)
 
 将电脑变成个人AI助手，记录、搜索和自动化操作，完全本地运行保护隐私，打造个人数字记忆。
 
-- **Stars:** ⭐️ 21.8k
+- **Stars:** ⭐️ 22.0k
 - **Tags:** `Privacy` `Automation` `Local AI`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB)
 
 轻量级Windows工具，可将任务栏设置为透明、半透明或Acrylic模糊效果。资源占用极低，是Windows美化必备神器。
 
-- **Stars:** ⭐️ 20.5k
+- **Stars:** ⭐️ 20.6k
 - **Tags:** `Windows` `Taskbar` `Transparency` `Customization` `Utility`
-- **最后活动时间:** 2026-09-21
+- **最后活动时间:** 2026-10-13
 
 ### [BlackHole](https://github.com/ExistentialAudio/BlackHole)
 
 现代化的 macOS 虚拟音频环回驱动，可在应用之间零延迟传输音频，是录屏、直播与音频路由场景的利器。
 
-- **Stars:** ⭐️ 19.8k
+- **Stars:** ⭐️ 19.9k
 - **Tags:** `macos` `audio` `loopback` `virtual-audio-driver` `recording`
-- **最后活动时间:** 2026-09-22
+- **最后活动时间:** 2026-10-07
 
 ### [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic)
 
@@ -4430,31 +4462,31 @@ macOS 音频实用工具，可自动暂停音乐、为每个应用单独调节�
 
 免费开源的Windows兼容操作系统，从内核层面实现与Win32 API的兼容，历史悠久且持续开发中。
 
-- **Stars:** ⭐️ 18.1k
+- **Stars:** ⭐️ 18.2k
 - **Tags:** `operating-system` `windows-compatible` `open-source` `kernel`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-18
 
 ### [Seelen-UI](https://github.com/eythaann/Seelen-UI)
 
 面向 Windows 10/11 的完全可定制桌面环境，集成停靠栏、应用启动器与平铺窗口管理等功能。
 
-- **Stars:** ⭐️ 17.9k
+- **Stars:** ⭐️ 18.1k
 - **Tags:** `Desktop-Environment` `Tauri` `Windows-11` `Tiling-Window-Manager` `Customization`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-16
 
 ### [alt-tab-macos](https://github.com/lwouis/alt-tab-macos)
 
 在 macOS 上还原 Windows 风格的 Alt+Tab 窗口切换体验，支持窗口实时预览、模糊搜索与高度自定义，Mac 效率党必备工具。
 
-- **Stars:** ⭐️ 16.3k
+- **Stars:** ⭐️ 16.4k
 - **Tags:** `macos` `alt-tab` `window-switcher` `productivity` `utility`
-- **最后活动时间:** 2026-09-26
+- **最后活动时间:** 2026-10-13
 
 ### [hammerspoon](https://github.com/Hammerspoon/hammerspoon)
 
 通过 Lua 脚本实现极其强大的 macOS 桌面自动化，可深度控制窗口、键盘、鼠标与系统 API，堪称自动化瑞士军刀。
 
-- **Stars:** ⭐️ 16.2k
+- **Stars:** ⭐️ 16.3k
 - **Tags:** `macos` `automation` `lua` `scripting` `desktop-automation`
 - **最后活动时间:** 2026-07-08
 
@@ -4462,15 +4494,15 @@ macOS 音频实用工具，可自动暂停音乐、为每个应用单独调节�
 
 Windows平铺式窗口管理器，用Rust编写，支持whkd快捷键绑定，让Windows拥有Linux式的高效窗口布局体验。
 
-- **Stars:** ⭐️ 15.2k
+- **Stars:** ⭐️ 15.3k
 - **Tags:** `tiling-window-manager` `rust` `windows` `productivity`
-- **最后活动时间:** 2026-09-27
+- **最后活动时间:** 2026-10-11
 
 ### [hidden](https://github.com/dwarvesf/hidden)
 
 超轻量级macOS实用工具，帮助隐藏菜单栏图标。保持桌面整洁，提升专注度。
 
-- **Stars:** ⭐️ 15.0k
+- **Stars:** ⭐️ 15.2k
 - **Tags:** `macos` `menu-bar` `utility`
 - **最后活动时间:** 2026-09-23
 
@@ -4478,15 +4510,15 @@ Windows平铺式窗口管理器，用Rust编写，支持whkd快捷键绑定，�
 
 将强大的Everything搜索引擎深度集成到Windows任务栏，实现全盘文件的即时秒搜。
 
-- **Stars:** ⭐️ 14.8k
+- **Stars:** ⭐️ 14.9k
 - **Tags:** `windows` `search` `taskbar` `everything` `productivity`
-- **最后活动时间:** 2026-09-28
+- **最后活动时间:** 2026-10-09
 
 ### [winsw](https://github.com/winsw/winsw)
 
 可将任意可执行程序包装为 Windows 服务的轻量工具，采用宽松许可证，便于部署与管理。
 
-- **Stars:** ⭐️ 14.3k
+- **Stars:** ⭐️ 14.4k
 - **Tags:** `Windows-Service` `CSharp` `DotNet` `Wrapper` `NuGet`
 - **最后活动时间:** 2026-07-30
 
@@ -4506,43 +4538,43 @@ Linux上的Darwin/macOS模拟层。允许在Linux系统上直接运行macOS应�
 - **Tags:** `macos` `emulation` `linux`
 - **最后活动时间:** 2026-09-06
 
+### [RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI)
+
+一个用于强制移除 Windows 11 中 Copilot、Recall 等 AI 预装功能的工具。帮助用户保护隐私并精简系统。
+
+- **Stars:** ⭐️ 13.4k
+- **Tags:** `ai` `windows` `privacy` `debloat` `powershell`
+- **最后活动时间:** 2026-10-17
+
 ### [LuLu](https://github.com/objective-see/LuLu)
 
 免费开源的macOS防火墙。监控和阻止未经授权的网络连接，保障系统安全。
 
 - **Stars:** ⭐️ 13.3k
 - **Tags:** `firewall` `macos` `security`
-- **最后活动时间:** 2026-08-05
+- **最后活动时间:** 2026-10-17
 
 ### [AutoHotkey](https://github.com/AutoHotkey/AutoHotkey)
 
 Windows平台上强大的自动化脚本语言与工具，可通过自定义热键、按键模拟和脚本实现各种任务自动化。生态成熟，是效率玩家的必备利器。
 
-- **Stars:** ⭐️ 13.2k
+- **Stars:** ⭐️ 13.3k
 - **Tags:** `Automation` `Scripting` `Hotkeys` `Windows` `Productivity`
-- **最后活动时间:** 2026-09-28
-
-### [RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI)
-
-一个用于强制移除 Windows 11 中 Copilot、Recall 等 AI 预装功能的工具。帮助用户保护隐私并精简系统。
-
-- **Stars:** ⭐️ 13.1k
-- **Tags:** `ai` `windows` `privacy` `debloat` `powershell`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-11
 
 ### [distrobox](https://github.com/89luca89/distrobox)
 
 在终端中无缝使用任意 Linux 发行版，基于容器实现与宿主系统深度集成，兼顾软件环境的向前向后兼容与自由选择。
 
-- **Stars:** ⭐️ 13.0k
+- **Stars:** ⭐️ 13.1k
 - **Tags:** `Containers` `Docker` `Podman` `Linux`
-- **最后活动时间:** 2026-09-17
+- **最后活动时间:** 2026-10-15
 
 ### [glazewm](https://github.com/glzr-io/glazewm)
 
 受i3wm启发的macOS和Windows平铺式窗口管理器。提升桌面操作效率，支持快捷键管理。
 
-- **Stars:** ⭐️ 12.8k
+- **Stars:** ⭐️ 12.9k
 - **Tags:** `window-manager` `tiling` `rust`
 - **最后活动时间:** 2026-06-20
 
@@ -4550,9 +4582,17 @@ Windows平台上强大的自动化脚本语言与工具，可通过自定义热�
 
 高度可定制的macOS状态栏替代品。支持通过shell脚本进行深度个性化设置。
 
-- **Stars:** ⭐️ 12.4k
+- **Stars:** ⭐️ 12.5k
 - **Tags:** `statusbar` `macos` `customization`
-- **最后活动时间:** 2026-09-16
+- **最后活动时间:** 2026-10-14
+
+### [Thaw](https://github.com/thaw-app/Thaw)
+
+macOS菜单栏管理工具。帮助整理和隐藏菜单栏图标，保持桌面清爽。
+
+- **Stars:** ⭐️ 12.1k
+- **Tags:** `menu-bar` `macos` `swiftui`
+- **最后活动时间:** 2026-10-17
 
 ### [mactype](https://github.com/snowie2000/mactype)
 
@@ -4566,41 +4606,41 @@ Windows平台上强大的自动化脚本语言与工具，可通过自定义热�
 
 优雅的窗口管理工具，专为macOS设计。提供径向菜单，简化窗口布局操作。
 
-- **Stars:** ⭐️ 11.7k
+- **Stars:** ⭐️ 11.8k
 - **Tags:** `window-management` `macos` `swiftui`
-- **最后活动时间:** 2026-09-30
-
-### [Thaw](https://github.com/thaw-app/Thaw)
-
-macOS菜单栏管理工具。帮助整理和隐藏菜单栏图标，保持桌面清爽。
-
-- **Stars:** ⭐️ 11.7k
-- **Tags:** `menu-bar` `macos` `swiftui`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-14
 
 ### [vicinae](https://github.com/vicinaehq/vicinae)
 
 原生、快速、可扩展的桌面启动器，Raycast的开源替代品。为高级用户打造的高效生产力工具。
 
-- **Stars:** ⭐️ 10.1k
+- **Stars:** ⭐️ 10.3k
 - **Tags:** `launcher` `productivity` `raycast-alternative` `qt` `extensible`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-16
 
 ### [UFO](https://github.com/microsoft/UFO)
 
 Windows平台智能体框架，实现跨应用的GUI自动化操作与智能决策。
 
-- **Stars:** ⭐️ 9.9k
+- **Stars:** ⭐️ 10.1k
 - **Tags:** `Agent` `Automation` `Windows` `GUI`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-17
 
 ### [WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme)
 
 macOS 风格的 GTK 主题，适用于所有基于 GTK 的桌面环境。
 
-- **Stars:** ⭐️ 9.3k
+- **Stars:** ⭐️ 9.4k
 - **Tags:** `gtk-theme` `macos-style` `gnome`
 - **最后活动时间:** 2026-09-11
+
+### [simplewall](https://github.com/henrypp/simplewall)
+
+用于配置Windows筛选平台(WFP)的轻量级防火墙工具。可精细控制应用程序的网络活动，保障系统网络安全。
+
+- **Stars:** ⭐️ 9.2k
+- **Tags:** `firewall` `network` `windows` `security`
+- **最后活动时间:** 2026-10-17
 
 ### [twinkle-tray](https://github.com/xanderfrangos/twinkle-tray)
 
@@ -4610,29 +4650,21 @@ macOS 风格的 GTK 主题，适用于所有基于 GTK 的桌面环境。
 - **Tags:** `brightness` `monitor` `windows` `system-tray`
 - **最后活动时间:** 2026-08-19
 
-### [simplewall](https://github.com/henrypp/simplewall)
-
-用于配置Windows筛选平台(WFP)的轻量级防火墙工具。可精细控制应用程序的网络活动，保障系统网络安全。
-
-- **Stars:** ⭐️ 9.1k
-- **Tags:** `firewall` `network` `windows` `security`
-- **最后活动时间:** 2026-09-29
-
 ### [winfsp](https://github.com/winfsp/winfsp)
 
 Windows文件系统代理，相当于Windows平台上的FUSE。允许开发者轻松创建自定义文件系统而无需编写内核级驱动。
 
-- **Stars:** ⭐️ 8.9k
+- **Stars:** ⭐️ 9.0k
 - **Tags:** `filesystem` `fuse` `windows` `driver`
-- **最后活动时间:** 2026-09-22
+- **最后活动时间:** 2026-10-13
 
 ### [osaurus](https://github.com/osaurus-ai/osaurus)
 
 原生macOS AI智能体平台，支持任意模型、持久记忆、自主执行与加密身份，完全离线运行。
 
-- **Stars:** ⭐️ 8.0k
+- **Stars:** ⭐️ 8.1k
 - **Tags:** `macos` `autonomous-agents` `offline` `swift` `mlx`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [kanata](https://github.com/jtroo/kanata)
 
@@ -4640,7 +4672,7 @@ Windows文件系统代理，相当于Windows平台上的FUSE。允许开发者�
 
 - **Stars:** ⭐️ 8.0k
 - **Tags:** `keyboard` `cross-platform` `rust` `linux` `macos`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-14
 
 ### [btrfs](https://github.com/maharmstone/btrfs)
 
@@ -4664,15 +4696,23 @@ Windows平台的开源Btrfs文件系统驱动。允许在Windows环境下原生�
 
 - **Stars:** ⭐️ 7.6k
 - **Tags:** `display-manager` `login` `linux` `tui` `zig`
-- **最后活动时间:** 2026-09-08
+- **最后活动时间:** 2026-10-05
 
 ### [ravynos](https://github.com/ravynsoft/ravynos)
 
 致力于与 macOS 兼容的开源操作系统项目，提供源码与二进制兼容及相似的用户体验。
 
-- **Stars:** ⭐️ 7.0k
+- **Stars:** ⭐️ 7.1k
 - **Tags:** `OperatingSystem` `macOS` `Cocoa` `OpenSource`
 - **最后活动时间:** 2026-09-06
+
+### [linearmouse](https://github.com/linearmouse/linearmouse)
+
+macOS 上的鼠标和触控板实用工具，旨在提供更自然的滚动和指针体验。支持自定义鼠标灵敏度、加速度及禁用触控板等功能。
+
+- **Stars:** ⭐️ 7.0k
+- **Tags:** `macos` `mouse` `trackpad` `utility`
+- **最后活动时间:** 2026-10-11
 
 ### [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal)
 
@@ -4682,13 +4722,13 @@ macOS Finder工具栏应用，一键在Terminal、iTerm、Hyper或Alacritty中�
 - **Tags:** `macos` `finder` `terminal` `productivity`
 - **最后活动时间:** 2026-07-14
 
-### [linearmouse](https://github.com/linearmouse/linearmouse)
+### [qingjian](https://github.com/qingjian-team/qingjian)
 
-macOS 上的鼠标和触控板实用工具，旨在提供更自然的滚动和指针体验。支持自定义鼠标灵敏度、加速度及禁用触控板等功能。
+青简是一款用Rust编写的离线拼音输入法，在候选词旁实时显示正在学习语言的译词，边打字边学外语。支持双拼、Windows与macOS。
 
-- **Stars:** ⭐️ 6.9k
-- **Tags:** `macos` `mouse` `trackpad` `utility`
-- **最后活动时间:** 2026-09-26
+- **Stars:** ⭐️ 6.8k
+- **Tags:** `Pinyin` `IME` `Language-Learning` `Rust` `Input-Method`
+- **最后活动时间:** 2026-10-16
 
 ### [noMeiryoUI](https://github.com/Tatsu-syo/noMeiryoUI)
 
@@ -4702,9 +4742,9 @@ macOS 上的鼠标和触控板实用工具，旨在提供更自然的滚动和�
 
 优雅高效的跨平台饼形菜单启动器，通过手势与标记菜单帮助用户极速执行常用操作。
 
-- **Stars:** ⭐️ 6.4k
+- **Stars:** ⭐️ 6.5k
 - **Tags:** `pie-menu` `launcher` `cross-platform` `productivity`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-14
 
 ### [sshfs-win](https://github.com/winfsp/sshfs-win)
 
@@ -4718,17 +4758,17 @@ macOS 上的鼠标和触控板实用工具，旨在提供更自然的滚动和�
 
 一个专为现代云工作负载设计的虚拟机监视器。使用 Rust 编写，支持 CPU、内存热插拔，并具备强大的安全性和轻量级特点。
 
-- **Stars:** ⭐️ 6.3k
+- **Stars:** ⭐️ 6.4k
 - **Tags:** `virtualization` `kvm` `rust` `cloud` `hypervisor`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
-### [pywinauto](https://github.com/pywinauto/pywinauto)
+### [SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash)
 
-Windows GUI自动化测试框架，支持基于文本属性的UI操作，可用于AI智能体的桌面应用交互自动化。
+一款针对 Spotify 桌面客户端的 Mac 和 Linux 广告拦截工具，通过 Bash 脚本实现去广告和禁用更新功能。有效提升纯音乐聆听体验。
 
-- **Stars:** ⭐️ 6.2k
-- **Tags:** `automation` `gui` `windows` `testing` `ui-automation`
-- **最后活动时间:** 2026-05-23
+- **Stars:** ⭐️ 6.3k
+- **Tags:** `spotify` `adblocker` `bash` `macos` `linux`
+- **最后活动时间:** 2026-10-16
 
 ### [usbipd-win](https://github.com/dorssel/usbipd-win)
 
@@ -4736,15 +4776,23 @@ Windows 下的 USB 设备共享软件，支持将本地 USB 设备传递给 Hype
 
 - **Stars:** ⭐️ 6.2k
 - **Tags:** `usb` `usbip` `windows` `wsl2` `hyper-v`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-16
 
-### [SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash)
+### [pywinauto](https://github.com/pywinauto/pywinauto)
 
-一款针对 Spotify 桌面客户端的 Mac 和 Linux 广告拦截工具，通过 Bash 脚本实现去广告和禁用更新功能。有效提升纯音乐聆听体验。
+Windows GUI自动化测试框架，支持基于文本属性的UI操作，可用于AI智能体的桌面应用交互自动化。
 
 - **Stars:** ⭐️ 6.2k
-- **Tags:** `spotify` `adblocker` `bash` `macos` `linux`
-- **最后活动时间:** 2026-09-28
+- **Tags:** `automation` `gui` `windows` `testing` `ui-automation`
+- **最后活动时间:** 2026-10-15
+
+### [OnlySwitch](https://github.com/jacklandrin/OnlySwitch)
+
+macOS菜单栏全能工具，支持隐藏刘海、暗黑模式、AirPods管理和快捷指令等功能。提供便捷的系统状态管理和AI代理组件。
+
+- **Stars:** ⭐️ 6.0k
+- **Tags:** `macos` `menubar` `swiftui` `ai-agents` `utility`
+- **最后活动时间:** 2026-10-17
 
 ### [UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall)
 
@@ -4753,14 +4801,6 @@ Windows 下的 USB 设备共享软件，支持将本地 USB 设备传递给 Hype
 - **Stars:** ⭐️ 6.0k
 - **Tags:** `windows` `unattended-installation` `debloat` `autounattend`
 - **最后活动时间:** 2026-06-03
-
-### [OnlySwitch](https://github.com/jacklandrin/OnlySwitch)
-
-macOS菜单栏全能工具，支持隐藏刘海、暗黑模式、AirPods管理和快捷指令等功能。提供便捷的系统状态管理和AI代理组件。
-
-- **Stars:** ⭐️ 6.0k
-- **Tags:** `macos` `menubar` `swiftui` `ai-agents` `utility`
-- **最后活动时间:** 2026-09-28
 
 ### [MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect)
 
@@ -4776,7 +4816,15 @@ macOS 上的智能外接显示器自适应亮度调节工具。通过 DDC/CI 协
 
 - **Stars:** ⭐️ 5.7k
 - **Tags:** `macos` `display` `brightness` `ddc-ci`
-- **最后活动时间:** 2026-07-14
+- **最后活动时间:** 2026-10-11
+
+### [opendisplay](https://github.com/peetzweg/opendisplay)
+
+开源 Sidecar/Duet 替代方案，通过 USB 或 WiFi 将 iPhone/iPad 变成 Mac 的低延迟真第二屏幕，支持 Retina HiDPI 与触控。
+
+- **Stars:** ⭐️ 5.7k
+- **Tags:** `macos` `second-monitor` `sidecar` `swift`
+- **最后活动时间:** 2026-10-17
 
 ### [Malware-Patch](https://github.com/the1812/Malware-Patch)
 
@@ -4790,25 +4838,25 @@ macOS 上的智能外接显示器自适应亮度调节工具。通过 DDC/CI 协
 
 通过局域网在多台设备间共享鼠标和键盘的开源 KVM 替代方案，支持 Wayland、macOS 与 Windows。
 
-- **Stars:** ⭐️ 5.3k
+- **Stars:** ⭐️ 5.4k
 - **Tags:** `kvm` `lan` `rust` `wayland` `cross-platform`
 - **最后活动时间:** 2026-09-26
-
-### [MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone)
-
-为 Windows 11 上的 Win32 应用标题栏启用 Mica 等背景效果，让系统界面焕然一新。
-
-- **Stars:** ⭐️ 5.2k
-- **Tags:** `windows-11` `mica` `acrylic` `win32` `backdrop`
-- **最后活动时间:** 2026-07-17
 
 ### [Peekaboo](https://github.com/openclaw/Peekaboo)
 
 Peekaboo 是一个 macOS 命令行工具和 MCP 服务器，让 AI 智能体能够截取应用或系统截图，并通过本地或远程 AI 模型进行视觉问答。
 
-- **Stars:** ⭐️ 5.2k
+- **Stars:** ⭐️ 5.3k
 - **Tags:** `ai` `macos` `mcp` `screenshots` `swift`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
+
+### [MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone)
+
+为 Windows 11 上的 Win32 应用标题栏启用 Mica 等背景效果，让系统界面焕然一新。
+
+- **Stars:** ⭐️ 5.3k
+- **Tags:** `windows-11` `mica` `acrylic` `win32` `backdrop`
+- **最后活动时间:** 2026-07-17
 
 ### [WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker)
 
@@ -4816,13 +4864,13 @@ Peekaboo 是一个 macOS 命令行工具和 MCP 服务器，让 AI 智能体能�
 
 - **Stars:** ⭐️ 5.2k
 - **Tags:** `privacy` `telemetry` `firewall` `windows`
-- **最后活动时间:** 2026-09-09
+- **最后活动时间:** 2026-10-15
 
 ### [finicky](https://github.com/johnste/finicky)
 
 强大的 macOS 默认浏览器路由工具，可根据 URL 规则智能决定用哪个浏览器或浏览器配置打开链接。
 
-- **Stars:** ⭐️ 5.1k
+- **Stars:** ⭐️ 5.2k
 - **Tags:** `macos` `browser` `url-handler` `productivity`
 - **最后活动时间:** 2026-09-16
 
@@ -4832,7 +4880,15 @@ Peekaboo 是一个 macOS 命令行工具和 MCP 服务器，让 AI 智能体能�
 
 - **Stars:** ⭐️ 5.1k
 - **Tags:** `developer-tools` `kubernetes` `port-killer` `process-manager`
-- **最后活动时间:** 2026-09-17
+- **最后活动时间:** 2026-10-15
+
+### [DeepSeek-Balance-Whale-Widget](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget)
+
+一只住在 DSH 界面右下角的桌面宠物鲸鱼娘插件，帮你实时监控 DeepSeek 账户余额。支持拖拽吸附与数字滚动动画，萌趣且实用。
+
+- **Stars:** ⭐️ 5.1k
+- **Tags:** `deepseek-harness` `floating-widget` `desktop-pet` `dsh-plugin`
+- **最后活动时间:** 2026-10-11
 
 ### [kmonad](https://github.com/kmonad/kmonad)
 
@@ -4846,23 +4902,15 @@ Peekaboo 是一个 macOS 命令行工具和 MCP 服务器，让 AI 智能体能�
 
 为 Windows 资源管理器添加多标签页功能的经典工具，大幅提升文件浏览与管理效率。
 
-- **Stars:** ⭐️ 4.9k
+- **Stars:** ⭐️ 5.0k
 - **Tags:** `windows` `explorer` `tabs` `productivity`
-- **最后活动时间:** 2026-09-21
-
-### [opendisplay](https://github.com/peetzweg/opendisplay)
-
-开源 Sidecar/Duet 替代方案，通过 USB 或 WiFi 将 iPhone/iPad 变成 Mac 的低延迟真第二屏幕，支持 Retina HiDPI 与触控。
-
-- **Stars:** ⭐️ 4.9k
-- **Tags:** `macos` `second-monitor` `sidecar` `swift`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-12
 
 ### [encrypted-dns](https://github.com/paulmillr/encrypted-dns)
 
 为 iOS 和 macOS 提供主流加密 DNS（DoH/DoT）配置描述文件，一键启用保护你的 DNS 查询隐私。
 
-- **Stars:** ⭐️ 4.8k
+- **Stars:** ⭐️ 4.9k
 - **Tags:** `dns` `doh` `privacy` `ios` `macos`
 - **最后活动时间:** 2026-07-25
 
@@ -4872,21 +4920,21 @@ Peekaboo 是一个 macOS 命令行工具和 MCP 服务器，让 AI 智能体能�
 
 - **Stars:** ⭐️ 4.8k
 - **Tags:** `security` `windows` `hardening` `defender` `compliance`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-16
 
 ### [FluentFlyout](https://github.com/unchihugo/FluentFlyout)
 
 一款基于 Fluent 2 设计原则构建的 Windows 11 现代浮窗应用。提供媒体控制、任务栏小部件等丰富的系统级集成功能。
 
-- **Stars:** ⭐️ 4.6k
+- **Stars:** ⭐️ 4.7k
 - **Tags:** `windows-11` `fluent-design` `flyout` `taskbar` `media`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [SwiftBar](https://github.com/swiftbar/SwiftBar)
 
 强大的 macOS 菜单栏定制工具，用任意脚本语言即可输出自定义菜单栏插件，生态丰富。
 
-- **Stars:** ⭐️ 4.6k
+- **Stars:** ⭐️ 4.7k
 - **Tags:** `macos` `menubar` `scripting` `productivity` `swiftbar`
 - **最后活动时间:** 2026-09-29
 
@@ -4894,9 +4942,9 @@ Peekaboo 是一个 macOS 命令行工具和 MCP 服务器，让 AI 智能体能�
 
 为 Linux 桌面打造的流畅变形界面，基于 Hyprland 提供精美的动态桌面体验。
 
-- **Stars:** ⭐️ 4.5k
+- **Stars:** ⭐️ 4.6k
 - **Tags:** `linux` `hyprland` `desktop` `rice` `ui`
-- **最后活动时间:** 2026-09-22
+- **最后活动时间:** 2026-10-17
 
 ### [linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot)
 
@@ -4934,9 +4982,9 @@ Peekaboo 是一个 macOS 命令行工具和 MCP 服务器，让 AI 智能体能�
 
 一款适用于 Windows、macOS 和 Linux 的桌面广告拦截器与隐私保护工具。基于 Go 语言构建，提供高效无干扰的网络浏览体验。
 
-- **Stars:** ⭐️ 4.2k
+- **Stars:** ⭐️ 4.3k
 - **Tags:** `adblocker` `privacy` `desktop-app` `go` `cross-platform`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-14
 
 ### [UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels)
 
@@ -4952,15 +5000,7 @@ macOS 实用工具，可为物理滚轮鼠标反转滚动方向，同时保持�
 
 - **Stars:** ⭐️ 4.0k
 - **Tags:** `WSL` `MCP` `GUI` `Virtualization` `LLM`
-- **最后活动时间:** 2026-09-20
-
-### [autoMate](https://github.com/yuruotong1/autoMate)
-
-AI驱动的本地自动化助手，通过自然语言控制电脑自动执行任务，支持多种AI后端。
-
-- **Stars:** ⭐️ 4.0k
-- **Tags:** `Agent` `RPA` `Computer Use` `自动化`
-- **最后活动时间:** 2026-09-18
+- **最后活动时间:** 2026-10-01
 
 ### [keyboard](https://github.com/boppreh/keyboard)
 
@@ -4970,13 +5010,13 @@ AI驱动的本地自动化助手，通过自然语言控制电脑自动执行任
 - **Tags:** `python` `keyboard` `automation` `hotkey` `hooks`
 - **最后活动时间:** 2026-07-10
 
-### [fusuma](https://github.com/iberianpig/fusuma)
+### [autoMate](https://github.com/yuruotong1/autoMate)
 
-在 Linux 上通过 libinput 实现多点触控手势，让触控板支持滑动等手势操作，提升桌面效率。
+AI驱动的本地自动化助手，通过自然语言控制电脑自动执行任务，支持多种AI后端。
 
-- **Stars:** ⭐️ 3.9k
-- **Tags:** `touchpad` `gestures` `linux` `libinput`
-- **最后活动时间:** 2026-07-10
+- **Stars:** ⭐️ 4.0k
+- **Tags:** `Agent` `RPA` `Computer Use` `自动化`
+- **最后活动时间:** 2026-09-18
 
 ### [autokey](https://github.com/autokey/autokey)
 
@@ -4984,7 +5024,15 @@ Linux/X11 桌面自动化利器，支持通过脚本和缩写扩展实现文本�
 
 - **Stars:** ⭐️ 3.9k
 - **Tags:** `automation` `linux` `python` `productivity` `desktop`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-07
+
+### [fusuma](https://github.com/iberianpig/fusuma)
+
+在 Linux 上通过 libinput 实现多点触控手势，让触控板支持滑动等手势操作，提升桌面效率。
+
+- **Stars:** ⭐️ 3.9k
+- **Tags:** `touchpad` `gestures` `linux` `libinput`
+- **最后活动时间:** 2026-07-10
 
 ### [osxphotos](https://github.com/RhetTbull/osxphotos)
 
@@ -4994,13 +5042,21 @@ Linux/X11 桌面自动化利器，支持通过脚本和缩写扩展实现文本�
 - **Tags:** `python` `macos` `apple-photos` `photos-export`
 - **最后活动时间:** 2026-09-29
 
-### [JankyBorders](https://github.com/FelixKratz/JankyBorders)
+### [codex-app-mirror](https://github.com/Wangnov/codex-app-mirror)
 
-轻量的 macOS 窗口边框高亮工具，为平铺式窗口管理（如 yabai）提供清晰的焦点指示。快速、极简、高度可定制。
+官方 Codex 桌面应用的镜像仓库，提供国内直连下载和增量更新。每 15 分钟探测并支持 SHA256 校验以确保文件完整性。
 
-- **Stars:** ⭐️ 3.8k
-- **Tags:** `window-manager` `macos` `borders` `yabai` `tiling`
-- **最后活动时间:** 2026-05-14
+- **Stars:** ⭐️ 3.9k
+- **Tags:** `codex-app` `mirror` `windows` `macos` `openai-codex`
+- **最后活动时间:** 2026-10-16
+
+### [openless](https://github.com/Open-Less/openless)
+
+开源语音输入工具，按住快捷键说话松开即得AI润色后的文字，支持macOS和Windows系统级应用。
+
+- **Stars:** ⭐️ 3.9k
+- **Tags:** `speech-to-text` `voice-input` `llm` `tauri`
+- **最后活动时间:** 2026-10-17
 
 ### [OliveTin](https://github.com/OliveTin/OliveTin)
 
@@ -5008,7 +5064,23 @@ Linux/X11 桌面自动化利器，支持通过脚本和缩写扩展实现文本�
 
 - **Stars:** ⭐️ 3.8k
 - **Tags:** `selfhosted` `web-ui` `sysadmin` `automation` `linux`
-- **最后活动时间:** 2026-09-24
+- **最后活动时间:** 2026-10-16
+
+### [HypoMux](https://github.com/Hypostasis-Cat/HypoMux)
+
+Windows 多网卡聚合与网络加速工具，一键融合有线、Wi-Fi、热点等连接。实现多路径传输与智能流量调度，提升整体网络体验。
+
+- **Stars:** ⭐️ 3.8k
+- **Tags:** `network` `windows` `multi-nic` `wails` `go`
+- **最后活动时间:** 2026-10-15
+
+### [JankyBorders](https://github.com/FelixKratz/JankyBorders)
+
+轻量的 macOS 窗口边框高亮工具，为平铺式窗口管理（如 yabai）提供清晰的焦点指示。快速、极简、高度可定制。
+
+- **Stars:** ⭐️ 3.8k
+- **Tags:** `window-manager` `macos` `borders` `yabai` `tiling`
+- **最后活动时间:** 2026-05-14
 
 ### [box86](https://github.com/ptitSeb/box86)
 
@@ -5018,45 +5090,13 @@ Linux/X11 桌面自动化利器，支持通过脚本和缩写扩展实现文本�
 - **Tags:** `emulator` `arm` `x86` `linux` `dynarec`
 - **最后活动时间:** 2026-09-27
 
-### [HypoMux](https://github.com/Hypostasis-Cat/HypoMux)
-
-Windows 多网卡聚合与网络加速工具，一键融合有线、Wi-Fi、热点等连接。实现多路径传输与智能流量调度，提升整体网络体验。
-
-- **Stars:** ⭐️ 3.7k
-- **Tags:** `network` `windows` `multi-nic` `wails` `go`
-- **最后活动时间:** 2026-09-29
-
-### [openless](https://github.com/Open-Less/openless)
-
-开源语音输入工具，按住快捷键说话松开即得AI润色后的文字，支持macOS和Windows系统级应用。
-
-- **Stars:** ⭐️ 3.7k
-- **Tags:** `speech-to-text` `voice-input` `llm` `tauri`
-- **最后活动时间:** 2026-09-30
-
-### [codex-app-mirror](https://github.com/Wangnov/codex-app-mirror)
-
-官方 Codex 桌面应用的镜像仓库，提供国内直连下载和增量更新。每 15 分钟探测并支持 SHA256 校验以确保文件完整性。
-
-- **Stars:** ⭐️ 3.6k
-- **Tags:** `codex-app` `mirror` `windows` `macos` `openai-codex`
-- **最后活动时间:** 2026-09-30
-
 ### [Claude-Usage-Tracker](https://github.com/hamed-elfayome/Claude-Usage-Tracker)
 
 原生macOS菜单栏应用，实时追踪Claude AI使用限额，Swift/SwiftUI构建，便捷监控使用情况。
 
-- **Stars:** ⭐️ 3.6k
+- **Stars:** ⭐️ 3.7k
 - **Tags:** `Claude` `macOS` `使用追踪`
 - **最后活动时间:** 2026-08-31
-
-### [Python-UIAutomation-for-Windows](https://github.com/yinkaisheng/Python-UIAutomation-for-Windows)
-
-微软 UIAutomation 的 Python 3 封装，支持对 MFC、WPF、Qt、Chrome 等各类 Windows 应用进行 GUI 自动化操作，是构建桌面自动化流程的利器。
-
-- **Stars:** ⭐️ 3.6k
-- **Tags:** `python` `uiautomation` `gui-automation` `windows` `rpa`
-- **最后活动时间:** 2026-06-02
 
 ### [windows11](https://github.com/awesome-windows11/windows11)
 
@@ -5066,21 +5106,13 @@ Windows 多网卡聚合与网络加速工具，一键融合有线、Wi-Fi、热�
 - **Tags:** `windows-11` `powershell` `tweaks` `debloat` `scripts`
 - **最后活动时间:** 2026-08-26
 
-### [DeepSeek-Balance-Whale-Widget](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget)
+### [Python-UIAutomation-for-Windows](https://github.com/yinkaisheng/Python-UIAutomation-for-Windows)
 
-一只住在 DSH 界面右下角的桌面宠物鲸鱼娘插件，帮你实时监控 DeepSeek 账户余额。支持拖拽吸附与数字滚动动画，萌趣且实用。
+微软 UIAutomation 的 Python 3 封装，支持对 MFC、WPF、Qt、Chrome 等各类 Windows 应用进行 GUI 自动化操作，是构建桌面自动化流程的利器。
 
 - **Stars:** ⭐️ 3.6k
-- **Tags:** `deepseek-harness` `floating-widget` `desktop-pet` `dsh-plugin`
-- **最后活动时间:** 2026-09-29
-
-### [FlashSpace](https://github.com/wojciech-kulik/FlashSpace)
-
-极速的 macOS 虚拟工作区管理器，可秒级切换不同工作空间的窗口组合。为多项目工作流提供流畅的空间管理体验。
-
-- **Stars:** ⭐️ 3.5k
-- **Tags:** `window-manager` `macos` `productivity` `workspace` `swift`
-- **最后活动时间:** 2026-09-17
+- **Tags:** `python` `uiautomation` `gui-automation` `windows` `rpa`
+- **最后活动时间:** 2026-06-02
 
 ### [ContextMenuMgr](https://github.com/PLFJY/ContextMenuMgr)
 
@@ -5088,21 +5120,29 @@ Windows 多网卡聚合与网络加速工具，一键融合有线、Wi-Fi、热�
 
 - **Stars:** ⭐️ 3.5k
 - **Tags:** `context-menu` `windows` `system-tools`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-15
+
+### [FlashSpace](https://github.com/wojciech-kulik/FlashSpace)
+
+极速的 macOS 虚拟工作区管理器，可秒级切换不同工作空间的窗口组合。为多项目工作流提供流畅的空间管理体验。
+
+- **Stars:** ⭐️ 3.5k
+- **Tags:** `window-manager` `macos` `productivity` `workspace` `swift`
+- **最后活动时间:** 2026-10-16
 
 ### [InputTip](https://github.com/abgox/InputTip)
 
 规则驱动的 Windows 输入法状态管理器，通过鼠标样式等提示实时显示输入法状态。即时、强大且高效的输入体验增强工具。
 
-- **Stars:** ⭐️ 3.4k
+- **Stars:** ⭐️ 3.5k
 - **Tags:** `autohotkey` `input-method` `windows` `productivity`
-- **最后活动时间:** 2026-08-02
+- **最后活动时间:** 2026-10-01
 
 ### [display-switch](https://github.com/haimgel/display-switch)
 
 通过DDC/CI协议将廉价USB切换器升级为完整的多显示器KVM切换器。一键切换显示器输入源，省下专业KVM的开销。
 
-- **Stars:** ⭐️ 3.4k
+- **Stars:** ⭐️ 3.5k
 - **Tags:** `ddc-ci` `kvm` `monitor` `rust`
 - **最后活动时间:** 2026-09-01
 
@@ -5114,13 +5154,21 @@ Windows 多网卡聚合与网络加速工具，一键融合有线、Wi-Fi、热�
 - **Tags:** `windows` `compatibility` `win16` `emulator`
 - **最后活动时间:** 2026-09-22
 
+### [Snapzy](https://github.com/duongductrong/Snapzy)
+
+一款开源的原生 macOS 截图与录屏应用，可作为 CleanShot X 的替代品。基于 SwiftUI 构建，提供简洁高效的捕获体验。
+
+- **Stars:** ⭐️ 3.4k
+- **Tags:** `macos` `screenshot` `screen-recording` `swiftui`
+- **最后活动时间:** 2026-10-15
+
 ### [breeze-shell](https://github.com/std-microblock/breeze-shell)
 
 Windows 11 右键菜单的替代方案，提供更现代、高效的上下文菜单体验。功能不止于菜单，持续扩展中。
 
 - **Stars:** ⭐️ 3.3k
 - **Tags:** `context-menu` `windows-11` `shell` `explorer`
-- **最后活动时间:** 2026-09-20
+- **最后活动时间:** 2026-10-06
 
 ### [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu)
 
@@ -5128,15 +5176,7 @@ Windows 11 右键菜单的替代方案，提供更现代、高效的上下文菜
 
 - **Stars:** ⭐️ 3.3k
 - **Tags:** `windows` `system-menu` `window-management` `desktop-utility`
-- **最后活动时间:** 2026-09-27
-
-### [Snapzy](https://github.com/duongductrong/Snapzy)
-
-一款开源的原生 macOS 截图与录屏应用，可作为 CleanShot X 的替代品。基于 SwiftUI 构建，提供简洁高效的捕获体验。
-
-- **Stars:** ⭐️ 3.2k
-- **Tags:** `macos` `screenshot` `screen-recording` `swiftui`
-- **最后活动时间:** 2026-09-28
+- **最后活动时间:** 2026-10-10
 
 ### [Ghost Pepper](https://github.com/matthartman/ghost-pepper)
 
@@ -5152,7 +5192,7 @@ macOS本地语音转文字工具，按住Control键录音，松开即可转录�
 
 - **Stars:** ⭐️ 3.2k
 - **Tags:** `launcher` `macos` `command-palette` `spotlight` `raycast`
-- **最后活动时间:** 2026-09-20
+- **最后活动时间:** 2026-10-14
 
 ### [zebar](https://github.com/glzr-io/zebar)
 
@@ -5168,7 +5208,7 @@ macOS本地语音转文字工具，按住Control键录音，松开即可转录�
 
 - **Stars:** ⭐️ 3.0k
 - **Tags:** `windows` `file-transfer` `clipboard-sync` `winui` `cross-device`
-- **最后活动时间:** 2026-09-19
+- **最后活动时间:** 2026-10-17
 
 ### [OmniWM](https://github.com/BarutSRB/OmniWM)
 
@@ -5206,9 +5246,9 @@ QEMU/KVM 虚拟机的 Windows 半虚拟化驱动程序集（virtio-win），显�
 
 一款仅906KB的轻量级桌面助手，支持超级热键与AI集成功能，并提供输入法状态跟踪提示。
 
-- **Stars:** ⭐️ 2.6k
+- **Stars:** ⭐️ 2.7k
 - **Tags:** `aardio` `ime` `input-method` `windows` `ai-integration`
-- **最后活动时间:** 2026-09-03
+- **最后活动时间:** 2026-10-08
 
 ### [hallelujahIM](https://github.com/dongyuwei/hallelujahIM)
 
@@ -5216,7 +5256,7 @@ macOS 上的智能英文输入法，支持自动补全、拼写检查与文本�
 
 - **Stars:** ⭐️ 2.6k
 - **Tags:** `input-method` `macos` `autocomplete` `spell-check` `productivity`
-- **最后活动时间:** 2026-09-24
+- **最后活动时间:** 2026-10-17
 
 ### [fibratus](https://github.com/rabbitstack/fibratus)
 
@@ -5224,15 +5264,7 @@ macOS 上的智能英文输入法，支持自动补全、拼写检查与文本�
 
 - **Stars:** ⭐️ 2.6k
 - **Tags:** `security` `edr` `threat-detection` `windows-kernel`
-- **最后活动时间:** 2026-09-28
-
-### [macos_security](https://github.com/usnistgov/macos_security)
-
-macOS 安全合规项目（MSCP），提供安全基线、配置脚本与指导文档。助力企业与机构实现 macOS 设备的安全加固与合规管理。
-
-- **Stars:** ⭐️ 2.5k
-- **Tags:** `security` `compliance` `macos` `hardening` `mdm`
-- **最后活动时间:** 2026-09-24
+- **最后活动时间:** 2026-10-16
 
 ### [Nidhogg](https://github.com/Idov31/Nidhogg)
 
@@ -5242,6 +5274,22 @@ macOS 安全合规项目（MSCP），提供安全基线、配置脚本与指导�
 - **Tags:** `rootkit` `windows-kernel` `red-team` `security-research` `driver`
 - **最后活动时间:** 2026-09-26
 
+### [macos_security](https://github.com/usnistgov/macos_security)
+
+macOS 安全合规项目（MSCP），提供安全基线、配置脚本与指导文档。助力企业与机构实现 macOS 设备的安全加固与合规管理。
+
+- **Stars:** ⭐️ 2.5k
+- **Tags:** `security` `compliance` `macos` `hardening` `mdm`
+- **最后活动时间:** 2026-10-14
+
+### [CodeIsland](https://github.com/wxtsky/CodeIsland)
+
+在 MacBook 刘海区实时显示 AI 编码助手状态的桌面面板。支持 13 种 AI 工具的实时状态监控、审批与回复，并配有 iPhone 和 Apple Watch 伴侣应用。
+
+- **Stars:** ⭐️ 2.5k
+- **Tags:** `ai-agents` `dynamic-island` `macos` `developer-tools` `swift`
+- **最后活动时间:** 2026-10-11
+
 ### [WritingTools](https://github.com/theJayTea/WritingTools)
 
 系统级语法助手工具，支持Gemini API和本地LLM，跨平台替代Apple Intelligence写作工具。
@@ -5249,14 +5297,6 @@ macOS 安全合规项目（MSCP），提供安全基线、配置脚本与指导�
 - **Stars:** ⭐️ 2.5k
 - **Tags:** `grammar-checker` `local-llm` `gemini` `cross-platform`
 - **最后活动时间:** 2026-08-19
-
-### [CodeIsland](https://github.com/wxtsky/CodeIsland)
-
-在 MacBook 刘海区实时显示 AI 编码助手状态的桌面面板。支持 13 种 AI 工具的实时状态监控、审批与回复，并配有 iPhone 和 Apple Watch 伴侣应用。
-
-- **Stars:** ⭐️ 2.4k
-- **Tags:** `ai-agents` `dynamic-island` `macos` `developer-tools` `swift`
-- **最后活动时间:** 2026-09-24
 
 ### [macOCR](https://github.com/schappim/macOCR)
 
@@ -5272,15 +5312,7 @@ macOS屏幕文字识别工具，一键将屏幕任意区域的文字提取到剪
 
 - **Stars:** ⭐️ 2.4k
 - **Tags:** `macos` `calendar` `menubar` `swiftui` `productivity`
-- **最后活动时间:** 2026-09-30
-
-### [qingjian](https://github.com/qingjian-team/qingjian)
-
-青简是一款用Rust编写的离线拼音输入法，在候选词旁实时显示正在学习语言的译词，边打字边学外语。支持双拼、Windows与macOS。
-
-- **Stars:** ⭐️ 2.3k
-- **Tags:** `Pinyin` `IME` `Language-Learning` `Rust` `Input-Method`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-16
 
 ### [windows-arm](https://github.com/dockur/windows-arm)
 
@@ -5288,7 +5320,7 @@ macOS屏幕文字识别工具，一键将屏幕任意区域的文字提取到剪
 
 - **Stars:** ⭐️ 2.3k
 - **Tags:** `Docker` `Windows-ARM` `Virtualization` `QEMU`
-- **最后活动时间:** 2026-09-27
+- **最后活动时间:** 2026-10-05
 
 ### [IPBan](https://github.com/DigitalRuby/IPBan)
 
@@ -5296,7 +5328,7 @@ macOS屏幕文字识别工具，一键将屏幕任意区域的文字提取到剪
 
 - **Stars:** ⭐️ 2.2k
 - **Tags:** `security` `fail2ban` `intrusion-prevention` `firewall`
-- **最后活动时间:** 2026-09-28
+- **最后活动时间:** 2026-10-05
 
 ### [HyprPanel](https://github.com/Jas-SinghFSU/HyprPanel)
 
@@ -5326,9 +5358,9 @@ macOS屏幕文字识别工具，一键将屏幕任意区域的文字提取到剪
 
 OpenClaw的Windows伴侣套件，包含系统托盘应用、共享库、Node服务和PowerToys命令面板扩展。
 
-- **Stars:** ⭐️ 2.1k
+- **Stars:** ⭐️ 2.2k
 - **Tags:** `openclaw` `windows` `desktop-integration` `system-tray`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [New-Bing-Anywhere](https://github.com/ha0z1/New-Bing-Anywhere)
 
@@ -5344,7 +5376,7 @@ OpenClaw的Windows伴侣套件，包含系统托盘应用、共享库、Node服�
 
 - **Stars:** ⭐️ 2.1k
 - **Tags:** `windows` `debloat` `gaming` `privacy` `tweaks`
-- **最后活动时间:** 2026-09-21
+- **最后活动时间:** 2026-10-09
 
 ### [WhiteSur-icon-theme](https://github.com/vinceliuice/WhiteSur-icon-theme)
 
@@ -5376,7 +5408,23 @@ PopClip 官方扩展目录的源码仓库，收录大量实用的 macOS 剪贴�
 
 - **Stars:** ⭐️ 2.0k
 - **Tags:** `macos` `popclip` `extensions` `clipboard` `productivity`
-- **最后活动时间:** 2026-09-28
+- **最后活动时间:** 2026-10-17
+
+### [macmon](https://github.com/vladkens/macmon)
+
+专为 Apple Silicon Mac 设计的实时系统监控工具，支持 TUI 界面和 Prometheus 指标输出。
+
+- **Stars:** ⭐️ 2.0k
+- **Tags:** `apple-silicon` `system-monitor` `rust` `prometheus` `macos`
+- **最后活动时间:** 2026-10-17
+
+### [FaceWinUnlock-Tauri](https://github.com/zs1083339604/FaceWinUnlock-Tauri)
+
+基于 Tauri 框架的 Windows 面容识别解锁软件，通过自定义 Credential Provider 注入登录界面，结合 OpenCV 实现类似 Windows Hello 的人脸解锁体验。
+
+- **Stars:** ⭐️ 2.0k
+- **Tags:** `Face Recognition` `Windows` `Tauri`
+- **最后活动时间:** 2026-10-01
 
 ### [NootedRed](https://github.com/ChefKissInc/NootedRed)
 
@@ -5394,22 +5442,6 @@ Windows 虚拟网络声卡，可在虚拟机与物理机之间低延迟传输音
 - **Tags:** `audio` `virtual-sound-card` `network` `windows`
 - **最后活动时间:** 2026-08-11
 
-### [Crisp](https://github.com/didriksg/Crisp)
-
-BetterDisplay 和 Lunar 的免费开源替代品，提供轻量级的菜单栏应用。支持外接显示器的清晰 HiDPI/Retina 缩放及亮度控制。
-
-- **Stars:** ⭐️ 1.9k
-- **Tags:** `macos` `display-manager` `hidpi` `retina` `menu-bar` `ddc`
-- **最后活动时间:** 2026-09-29
-
-### [FaceWinUnlock-Tauri](https://github.com/zs1083339604/FaceWinUnlock-Tauri)
-
-基于 Tauri 框架的 Windows 面容识别解锁软件，通过自定义 Credential Provider 注入登录界面，结合 OpenCV 实现类似 Windows Hello 的人脸解锁体验。
-
-- **Stars:** ⭐️ 1.9k
-- **Tags:** `Face Recognition` `Windows` `Tauri`
-- **最后活动时间:** 2026-08-27
-
 ### [TRex](https://github.com/amebalabs/TRex)
 
 macOS屏幕文字识别工具，一键复制屏幕任意位置的文本内容。
@@ -5418,21 +5450,13 @@ macOS屏幕文字识别工具，一键复制屏幕任意位置的文本内容。
 - **Tags:** `ocr` `macos` `swift` `screenshot` `productivity`
 - **最后活动时间:** 2026-09-29
 
-### [IbEverythingExt](https://github.com/Chaoses-Ib/IbEverythingExt)
+### [Crisp](https://github.com/didriksg/Crisp)
 
-为 Everything 增加拼音、罗马字搜索以及通配符、快速选中能力的增强插件。中文用户文件搜索效率神器。
-
-- **Stars:** ⭐️ 1.9k
-- **Tags:** `everything` `pinyin` `search` `shell-extension` `windows`
-- **最后活动时间:** 2026-08-02
-
-### [macmon](https://github.com/vladkens/macmon)
-
-专为 Apple Silicon Mac 设计的实时系统监控工具，支持 TUI 界面和 Prometheus 指标输出。
+BetterDisplay 和 Lunar 的免费开源替代品，提供轻量级的菜单栏应用。支持外接显示器的清晰 HiDPI/Retina 缩放及亮度控制。
 
 - **Stars:** ⭐️ 1.9k
-- **Tags:** `apple-silicon` `system-monitor` `rust` `prometheus` `macos`
-- **最后活动时间:** 2026-08-04
+- **Tags:** `macos` `display-manager` `hidpi` `retina` `menu-bar` `ddc`
+- **最后活动时间:** 2026-09-29
 
 ### [Icaros](https://github.com/Xanashi/Icaros)
 
@@ -5441,6 +5465,14 @@ macOS屏幕文字识别工具，一键复制屏幕任意位置的文本内容。
 - **Stars:** ⭐️ 1.9k
 - **Tags:** `shell-extension` `thumbnails` `windows-explorer` `media`
 - **最后活动时间:** 2026-06-17
+
+### [IbEverythingExt](https://github.com/Chaoses-Ib/IbEverythingExt)
+
+为 Everything 增加拼音、罗马字搜索以及通配符、快速选中能力的增强插件。中文用户文件搜索效率神器。
+
+- **Stars:** ⭐️ 1.9k
+- **Tags:** `everything` `pinyin` `search` `shell-extension` `windows`
+- **最后活动时间:** 2026-08-02
 
 ### [opendia](https://github.com/aaronjmars/opendia)
 
@@ -5456,7 +5488,7 @@ macOS屏幕文字识别工具，一键复制屏幕任意位置的文本内容。
 
 - **Stars:** ⭐️ 1.8k
 - **Tags:** `greetd` `login-manager` `wayland` `tui`
-- **最后活动时间:** 2026-09-16
+- **最后活动时间:** 2026-10-14
 
 ### [PaperWM.spoon](https://github.com/mogenson/PaperWM.spoon)
 
@@ -5464,23 +5496,23 @@ macOS屏幕文字识别工具，一键复制屏幕任意位置的文本内容。
 
 - **Stars:** ⭐️ 1.8k
 - **Tags:** `macos` `window-manager` `tiling-window-manager` `hammerspoon` `lua`
-- **最后活动时间:** 2026-09-24
+- **最后活动时间:** 2026-10-13
+
+### [iMCP](https://github.com/mattt/iMCP)
+
+一款macOS应用，提供MCP服务器接口，让AI模型能够访问你的信息、联系人、提醒事项等系统数据。
+
+- **Stars:** ⭐️ 1.8k
+- **Tags:** `macos` `mcp` `apple`
+- **最后活动时间:** 2026-10-16
 
 ### [batt](https://github.com/charlie0129/batt)
 
 一款用于控制和限制 Apple Silicon MacBook 电池充电阈值的实用工具，有助于延长电池寿命。
 
-- **Stars:** ⭐️ 1.7k
+- **Stars:** ⭐️ 1.8k
 - **Tags:** `macos` `battery` `apple-silicon` `smc`
-- **最后活动时间:** 2026-09-29
-
-### [ChrysaLisp](https://github.com/vygr/ChrysaLisp)
-
-实验性并行操作系统，自带 GUI、终端、OO 汇编器、类库、C-Script 编译器与 Lisp 解释器，探索系统级并行编程。
-
-- **Stars:** ⭐️ 1.7k
-- **Tags:** `OS` `Lisp` `Assembly` `Parallel-Computing`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-12
 
 ### [macs-fan-control](https://github.com/crystalidea/macs-fan-control)
 
@@ -5490,12 +5522,12 @@ macOS屏幕文字识别工具，一键复制屏幕任意位置的文本内容。
 - **Tags:** `macos` `fan-control` `apple` `smc`
 - **最后活动时间:** 2026-09-02
 
-### [iMCP](https://github.com/mattt/iMCP)
+### [ChrysaLisp](https://github.com/vygr/ChrysaLisp)
 
-一款macOS应用，提供MCP服务器接口，让AI模型能够访问你的信息、联系人、提醒事项等系统数据。
+实验性并行操作系统，自带 GUI、终端、OO 汇编器、类库、C-Script 编译器与 Lisp 解释器，探索系统级并行编程。
 
 - **Stars:** ⭐️ 1.7k
-- **Tags:** `macos` `mcp` `apple`
+- **Tags:** `OS` `Lisp` `Assembly` `Parallel-Computing`
 - **最后活动时间:** 2026-09-29
 
 ### [macos-defaults](https://github.com/yannbertrand/macos-defaults)
@@ -5504,7 +5536,15 @@ macOS屏幕文字识别工具，一键复制屏幕任意位置的文本内容。
 
 - **Stars:** ⭐️ 1.7k
 - **Tags:** `macos` `defaults` `terminal` `system-tweaks` `cheatsheet`
-- **最后活动时间:** 2026-09-24
+- **最后活动时间:** 2026-10-14
+
+### [anylinuxfs](https://github.com/nohajc/anylinuxfs)
+
+在 macOS 上通过 NFS 与微型虚拟机读写挂载任意 Linux 文件系统（ext4、btrfs、ZFS 等）。还支持 BitLocker/LUKS 加密盘，是跨平台磁盘管理利器。
+
+- **Stars:** ⭐️ 1.6k
+- **Tags:** `macOS` `Filesystem` `NTFS` `Ext4` `Virtualization` `Docker`
+- **最后活动时间:** 2026-09-27
 
 ### [simple-bar](https://github.com/Jean-Tinland/simple-bar)
 
@@ -5520,15 +5560,23 @@ macOS屏幕文字识别工具，一键复制屏幕任意位置的文本内容。
 
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `apple-silicon` `local-development` `agent-sandboxes` `mcp`
-- **最后活动时间:** 2026-09-28
+- **最后活动时间:** 2026-10-04
 
-### [anylinuxfs](https://github.com/nohajc/anylinuxfs)
+### [glance](https://github.com/jonnyoo/glance)
 
-在 macOS 上通过 NFS 与微型虚拟机读写挂载任意 Linux 文件系统（ext4、btrfs、ZFS 等）。还支持 BitLocker/LUKS 加密盘，是跨平台磁盘管理利器。
+基于计算机视觉的开源人脸识别工具，为 Mac 带来类似 iPhone 的面部解锁体验。让 macOS 用户无需输入密码，看一眼即可安全解锁电脑。
 
 - **Stars:** ⭐️ 1.6k
-- **Tags:** `macOS` `Filesystem` `NTFS` `Ext4` `Virtualization` `Docker`
-- **最后活动时间:** 2026-09-27
+- **Tags:** `computer-vision` `face-recognition` `face-unlock` `macos` `biometrics`
+- **最后活动时间:** 2026-09-30
+
+### [Burrow](https://github.com/caezium/Burrow)
+
+原生macOS系统清理与监控GUI应用，内置MCP服务器以支持AI智能体调用。
+
+- **Stars:** ⭐️ 1.6k
+- **Tags:** `macos` `mcp` `system-monitor` `open-source`
+- **最后活动时间:** 2026-10-17
 
 ### [hyprland-material-you](https://github.com/koeqaife/hyprland-material-you)
 
@@ -5544,7 +5592,15 @@ macOS菜单栏应用，实时监控Claude、Codex、Gemini等AI编程助手的�
 
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `macOS` `Quota Monitor` `AI Coding`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-16
+
+### [Insomnia](https://github.com/krishhgg/Insomnia)
+
+一款 macOS 菜单栏应用，可在合盖状态下安全保持 MacBook 唤醒，专为定时运行的 AI 智能体会话设计。完美适配 Claude Code 与 Codex 等工具，是 Amphetamine 的理想替代品。
+
+- **Stars:** ⭐️ 1.5k
+- **Tags:** `macos` `menu-bar-app` `keep-awake` `claude-code` `caffeinate` `swiftui`
+- **最后活动时间:** 2026-10-17
 
 ### [ai-dev-gallery](https://github.com/microsoft/ai-dev-gallery)
 
@@ -5552,15 +5608,7 @@ macOS菜单栏应用，实时监控Claude、Codex、Gemini等AI编程助手的�
 
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `Windows` `ONNX` `Local Models`
-- **最后活动时间:** 2026-09-26
-
-### [Burrow](https://github.com/caezium/Burrow)
-
-原生macOS系统清理与监控GUI应用，内置MCP服务器以支持AI智能体调用。
-
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `macos` `mcp` `system-monitor` `open-source`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-13
 
 ### [cue](https://github.com/Blueturboguy07/cue)
 
@@ -5608,7 +5656,23 @@ Linux原生系统级语音转文字工具，快速、准确且保护隐私。支
 
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `Linux` `系统级听写` `Wayland`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
+
+### [window-switcher](https://github.com/sigoden/window-switcher)
+
+用 Alt+` 快速在同一应用的多窗口间切换，并增强 Alt+Tab 的应用切换体验。Rust 编写的轻量级 Windows 效率工具。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `Windows` `Rust` `Window-Management` `Productivity` `Keyboard-Shortcuts`
+- **最后活动时间:** 2026-08-02
+
+### [WindInput](https://github.com/huanfeng/WindInput)
+
+清风输入法，一款轻量、快速、可定制的开源中文输入法，专为五笔与码表输入方案设计。基于Rust开发，支持Windows与macOS。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `input-method` `ime` `wubi` `rust` `chinese`
+- **最后活动时间:** 2026-10-17
 
 ### [MetasequoiaImeTsf](https://github.com/metasequoiaime/MetasequoiaImeTsf)
 
@@ -5622,9 +5686,17 @@ Linux原生系统级语音转文字工具，快速、准确且保护隐私。支
 
 基于 Codex 的 Chrome 侧边栏助手，支持页面上下文理解、标签页管理、语音和图像工作流。
 
-- **Stars:** ⭐️ 1.2k
+- **Stars:** ⭐️ 1.1k
 - **Tags:** `chrome-extension` `codex` `browser-assistant` `voice`
 - **最后活动时间:** 2026-06-15
+
+### [ping-island](https://github.com/erha19/ping-island)
+
+一款 macOS 菜单栏应用，以灵动岛风格集中监控多个 AI 编程助手的会话，支持审批、追问和窗口跳转。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `macos` `ai-coding` `menu-bar` `vibe-coding`
+- **最后活动时间:** 2026-10-15
 
 ### [Work_Review](https://github.com/wm94i/Work_Review)
 
@@ -5633,22 +5705,6 @@ AI驱动的自动时间追踪工具，记录应用使用、网页浏览和任务
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `time-tracking` `productivity` `privacy`
 - **最后活动时间:** 2026-05-08
-
-### [ping-island](https://github.com/erha19/ping-island)
-
-一款 macOS 菜单栏应用，以灵动岛风格集中监控多个 AI 编程助手的会话，支持审批、追问和窗口跳转。
-
-- **Stars:** ⭐️ 1.1k
-- **Tags:** `macos` `ai-coding` `menu-bar` `vibe-coding`
-- **最后活动时间:** 2026-09-21
-
-### [window-switcher](https://github.com/sigoden/window-switcher)
-
-用 Alt+` 快速在同一应用的多窗口间切换，并增强 Alt+Tab 的应用切换体验。Rust 编写的轻量级 Windows 效率工具。
-
-- **Stars:** ⭐️ 1.1k
-- **Tags:** `Windows` `Rust` `Window-Management` `Productivity` `Keyboard-Shortcuts`
-- **最后活动时间:** 2026-08-02
 
 ### [GNOME-macOS-Tahoe](https://github.com/kayozxo/GNOME-macOS-Tahoe)
 
@@ -5664,7 +5720,7 @@ BlueBubbles 生态的服务端，将 iMessage 转发到各平台客户端，实�
 
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `imessage` `macos` `server` `electron`
-- **最后活动时间:** 2026-09-19
+- **最后活动时间:** 2026-10-15
 
 ### [proxy-audio-device](https://github.com/briankendall/proxy-audio-device)
 
@@ -5672,7 +5728,23 @@ macOS 虚拟音频驱动，可将系统音频重定向到任意其他输出设�
 
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `macOS` `Audio-Driver` `Virtual-Audio` `CoreAudio`
-- **最后活动时间:** 2026-08-29
+- **最后活动时间:** 2026-10-16
+
+### [RClick](https://github.com/wflixu/RClick)
+
+为 macOS Finder 添加自定义右键菜单的开源工具，基于 SwiftUI 构建。可快速集成常用脚本与操作，提升文件管理效率。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `macOS` `Finder` `Context-Menu` `SwiftUI` `Productivity`
+- **最后活动时间:** 2026-10-14
+
+### [azooKey-Desktop](https://github.com/azooKey/azooKey-Desktop)
+
+macOS 开源日语输入法，集成 Zenzai 神经网络假名汉字转换器，支持 LLM 驱动的智能转换功能。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `ime` `macos` `swift` `llm` `japanese`
+- **最后活动时间:** 2026-09-27
 
 ### [XQuartz](https://github.com/XQuartz/XQuartz)
 
@@ -5682,29 +5754,13 @@ macOS 平台的 X11 服务器与客户端库，在 Mac 上运行 Linux 图形应
 - **Tags:** `X11` `macOS` `Server` `Graphics`
 - **最后活动时间:** 2026-08-18
 
-### [RClick](https://github.com/wflixu/RClick)
-
-为 macOS Finder 添加自定义右键菜单的开源工具，基于 SwiftUI 构建。可快速集成常用脚本与操作，提升文件管理效率。
-
-- **Stars:** ⭐️ 1.0k
-- **Tags:** `macOS` `Finder` `Context-Menu` `SwiftUI` `Productivity`
-- **最后活动时间:** 2026-09-16
-
 ### [cocoa-way](https://github.com/J-x-Z/cocoa-way)
 
 在 macOS 上通过原生 Metal Wayland 合成器运行 Linux 桌面与应用，集成容器 GUI 与无根窗口，是 XQuartz 的现代替代方案。
 
-- **Stars:** ⭐️ 1.0k
+- **Stars:** ⭐️ 1.1k
 - **Tags:** `macOS` `Wayland` `Linux` `Container` `Metal`
-- **最后活动时间:** 2026-09-09
-
-### [azooKey-Desktop](https://github.com/azooKey/azooKey-Desktop)
-
-macOS 开源日语输入法，集成 Zenzai 神经网络假名汉字转换器，支持 LLM 驱动的智能转换功能。
-
-- **Stars:** ⭐️ 1.0k
-- **Tags:** `ime` `macos` `swift` `llm` `japanese`
-- **最后活动时间:** 2026-09-27
+- **最后活动时间:** 2026-10-14
 
 ### [notchi](https://github.com/sk-ruban/notchi)
 
@@ -5712,7 +5768,7 @@ macOS 刘海区域工具栏应用，集成 Claude Code 等编程工具，提升�
 
 - **Stars:** ⭐️ 1.0k
 - **Tags:** `claude-code` `swift` `macos` `notch` `developer-tools`
-- **最后活动时间:** 2026-09-28
+- **最后活动时间:** 2026-10-04
 
 ### [ahk](https://github.com/spyoungtech/ahk)
 
@@ -5720,7 +5776,7 @@ macOS 刘海区域工具栏应用，集成 Claude Code 等编程工具，提升�
 
 - **Stars:** ⭐️ 1.0k
 - **Tags:** `Python` `AutoHotkey` `Automation` `Windows` `Asyncio`
-- **最后活动时间:** 2026-09-28
+- **最后活动时间:** 2026-10-13
 
 ### [nautilus-open-any-terminal](https://github.com/Stunkymonkey/nautilus-open-any-terminal)
 
@@ -5738,6 +5794,14 @@ GNOME Files (Nautilus) 扩展，支持用任意终端模拟器打开当前目录
 - **Tags:** `xfce` `windows95` `linux` `ublue` `theme`
 - **最后活动时间:** 2026-09-02
 
+### [Jarvis-Desktop-Voice-Assistant](https://github.com/kishanrajput23/Jarvis-Desktop-Voice-Assistant)
+
+基于Python的桌面语音助手，集成语音识别与文本转语音功能，可执行系统级命令并处理异步用户交互。
+
+- **Stars:** ⭐️ 998
+- **Tags:** `Voice Assistant` `Speech Recognition` `Desktop AI`
+- **最后活动时间:** 2026-10-07
+
 ### [Sefirah-Android](https://github.com/shrimqy/Sefirah-Android)
 
 Sefirah的Android端应用，KDE Connect与Phone Link的开源替代，实现手机与PC间的剪贴板同步、文件传输与媒体控制。
@@ -5750,9 +5814,9 @@ Sefirah的Android端应用，KDE Connect与Phone Link的开源替代，实现手
 
 面向开发者及其 AI 智能体的个人云操作系统，一键部署于 Ubuntu，在浏览器中提供窗口化桌面与隔离工作区。内置 VS Code、Claude Code、Codex 及数百款自托管应用，仅通过 Tailscale 安全访问。
 
-- **Stars:** ⭐️ 984
+- **Stars:** ⭐️ 980
 - **Tags:** `AI-Agents` `Self-Hosted` `Cloud-OS` `Claude-Code` `Rust`
-- **最后活动时间:** 2026-09-12
+- **最后活动时间:** 2026-10-04
 
 ### [SiliconScope](https://github.com/kennss/SiliconScope)
 
@@ -5762,21 +5826,29 @@ Sefirah的Android端应用，KDE Connect与Phone Link的开源替代，实现手
 - **Tags:** `apple-silicon` `llm` `local-llm` `macos` `system-monitor`
 - **最后活动时间:** 2026-09-29
 
+### [vocalinux](https://github.com/VocaHQ/vocalinux)
+
+一款免费、开源且完全离线的 Linux 语音听写工具。支持 Whisper 和 VOSK 引擎，提供 GPU 加速，兼容 X11 与 Wayland。
+
+- **Stars:** ⭐️ 945
+- **Tags:** `linux` `speech-to-text` `whisper` `vosk` `offline` `dictation`
+- **最后活动时间:** 2026-10-17
+
+### [LIVI](https://github.com/f-io/LIVI)
+
+一个适用于 Linux 和 macOS 的原生 CarPlay 与 Android Auto 车载头显单元。支持多会话投影与零拷贝硬件视频解码，实现低延迟音频体验。
+
+- **Stars:** ⭐️ 917
+- **Tags:** `carplay` `android-auto` `linux` `automotive` `gstreamer`
+- **最后活动时间:** 2026-10-17
+
 ### [ds4-control](https://github.com/notatestuser/ds4-control)
 
 macOS 菜单栏应用，提供快速的本地 DeepSeek V4 Pro/Flash 模型访问，支持高达 100 万 token 的上下文。极大提升本地大模型的使用效率。
 
-- **Stars:** ⭐️ 946
+- **Stars:** ⭐️ 914
 - **Tags:** `deepseek` `macos` `local-llm` `menubar-app`
 - **最后活动时间:** 2026-09-19
-
-### [WindInput](https://github.com/huanfeng/WindInput)
-
-清风输入法，一款轻量、快速、可定制的开源中文输入法，专为五笔与码表输入方案设计。基于Rust开发，支持Windows与macOS。
-
-- **Stars:** ⭐️ 924
-- **Tags:** `input-method` `ime` `wubi` `rust` `chinese`
-- **最后活动时间:** 2026-09-30
 
 ### [mousemaster](https://github.com/petoncle/mousemaster)
 
@@ -5786,35 +5858,43 @@ macOS 菜单栏应用，提供快速的本地 DeepSeek V4 Pro/Flash 模型访问
 - **Tags:** `keyboard` `mouseless` `accessibility` `productivity`
 - **最后活动时间:** 2026-09-17
 
-### [vocalinux](https://github.com/VocaHQ/vocalinux)
+### [phosphene](https://github.com/kageroumado/phosphene)
 
-一款免费、开源且完全离线的 Linux 语音听写工具。支持 Whisper 和 VOSK 引擎，提供 GPU 加速，兼容 X11 与 Wayland。
+macOS 自定义视频壁纸工具，支持在桌面和锁屏界面设置任意视频壁纸。可直接从系统设置的壁纸面板中进行选择。
 
-- **Stars:** ⭐️ 896
-- **Tags:** `linux` `speech-to-text` `whisper` `vosk` `offline` `dictation`
-- **最后活动时间:** 2026-09-30
+- **Stars:** ⭐️ 892
+- **Tags:** `animated-wallpaper` `desktop-wallpaper` `macos` `macos-wallpaper`
+- **最后活动时间:** 2026-10-14
 
 ### [orbit](https://github.com/expo/orbit)
 
 macOS 菜单栏开发助手，一键启动 Expo/React Native 构建并管理模拟器，大幅提升开发工作流效率。
 
-- **Stars:** ⭐️ 880
+- **Stars:** ⭐️ 891
 - **Tags:** `menubar` `expo` `react-native` `simulator` `developer-tools`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-16
 
-### [phosphene](https://github.com/kageroumado/phosphene)
+### [jarvis](https://github.com/ethanplusai/jarvis)
 
-macOS 自定义视频壁纸工具，支持在桌面和锁屏界面设置任意视频壁纸。可直接从系统设置的壁纸面板中进行选择。
+macOS 语音优先 AI 助手，灵感来自钢铁侠 JARVIS。支持语音交互，让用户通过对话控制电脑完成任务。
 
-- **Stars:** ⭐️ 867
-- **Tags:** `animated-wallpaper` `desktop-wallpaper` `macos` `macos-wallpaper`
-- **最后活动时间:** 2026-09-19
+- **Stars:** ⭐️ 882
+- **Tags:** `voice-assistant` `claude` `macos` `ai` `python`
+- **最后活动时间:** 2026-09-10
+
+### [MFCMouseEffect](https://github.com/sqmw/MFCMouseEffect)
+
+跨平台鼠标特效与输入可视化引擎，支持点击/轨迹/滚轮等效果展示，具备手势识别自动映射快捷键功能，可扩展WASM插件。
+
+- **Stars:** ⭐️ 863
+- **Tags:** `gesture-recognition` `input-visualization` `cross-platform` `wasm` `automation`
+- **最后活动时间:** 2026-07-26
 
 ### [Verve](https://github.com/ParthJadhav/Verve)
 
 基于 Rust 与 Tauri 构建的 macOS 轻量极速启动器，可秒开应用、文件与文档。
 
-- **Stars:** ⭐️ 858
+- **Stars:** ⭐️ 859
 - **Tags:** `launcher` `macos` `rust` `tauri` `spotlight`
 - **最后活动时间:** 2026-09-05
 
@@ -5842,13 +5922,29 @@ macOS 平台上广受欢迎的开源注音输入法「小麥注音」，提供�
 - **Tags:** `reverse-engineering` `macos` `security` `hooking` `kernel`
 - **最后活动时间:** 2026-05-14
 
-### [MFCMouseEffect](https://github.com/sqmw/MFCMouseEffect)
+### [santa](https://github.com/northpolesec/santa)
 
-跨平台鼠标特效与输入可视化引擎，支持点击/轨迹/滚轮等效果展示，具备手势识别自动映射快捷键功能，可扩展WASM插件。
+Google 开源的 macOS 二进制与文件访问授权系统，通过白名单/黑名单机制提供企业级端点安全防护。
 
-- **Stars:** ⭐️ 839
-- **Tags:** `gesture-recognition` `input-visualization` `cross-platform` `wasm` `automation`
-- **最后活动时间:** 2026-07-26
+- **Stars:** ⭐️ 834
+- **Tags:** `macos` `security` `endpoint-security` `allowlist`
+- **最后活动时间:** 2026-10-17
+
+### [neru](https://github.com/y3owk1n/neru)
+
+一款系统级无鼠标导航工具，利用 OCR 技术实现全屏幕的键盘驱动操作。支持 Linux、macOS 及 Wayland/X11 环境。
+
+- **Stars:** ⭐️ 825
+- **Tags:** `Accessibility` `OCR` `Keyboard-Navigation` `OS-Integration`
+- **最后活动时间:** 2026-10-15
+
+### [process-governor](https://github.com/lowleveldesign/process-governor)
+
+为 Windows 进程设置 CPU 亲和性、内存上限等各类限制的进程管理工具。适合开发调试与系统资源管控场景。
+
+- **Stars:** ⭐️ 823
+- **Tags:** `Windows` `Process-Management` `CPU-Affinity` `Memory-Limit` `System-Tools`
+- **最后活动时间:** 2026-07-08
 
 ### [lime](https://github.com/xushengfeng/lime)
 
@@ -5858,45 +5954,13 @@ macOS 平台上广受欢迎的开源注音输入法「小麥注音」，提供�
 - **Tags:** `IME` `LLM` `Pinyin` `Qwen3` `RIME`
 - **最后活动时间:** 2026-06-30
 
-### [LIVI](https://github.com/f-io/LIVI)
-
-一个适用于 Linux 和 macOS 的原生 CarPlay 与 Android Auto 车载头显单元。支持多会话投影与零拷贝硬件视频解码，实现低延迟音频体验。
-
-- **Stars:** ⭐️ 819
-- **Tags:** `carplay` `android-auto` `linux` `automotive` `gstreamer`
-- **最后活动时间:** 2026-09-30
-
-### [process-governor](https://github.com/lowleveldesign/process-governor)
-
-为 Windows 进程设置 CPU 亲和性、内存上限等各类限制的进程管理工具。适合开发调试与系统资源管控场景。
-
-- **Stars:** ⭐️ 818
-- **Tags:** `Windows` `Process-Management` `CPU-Affinity` `Memory-Limit` `System-Tools`
-- **最后活动时间:** 2026-07-08
-
-### [jarvis](https://github.com/ethanplusai/jarvis)
-
-macOS 语音优先 AI 助手，灵感来自钢铁侠 JARVIS。支持语音交互，让用户通过对话控制电脑完成任务。
-
-- **Stars:** ⭐️ 814
-- **Tags:** `voice-assistant` `claude` `macos` `ai` `python`
-- **最后活动时间:** 2026-09-10
-
-### [santa](https://github.com/northpolesec/santa)
-
-Google 开源的 macOS 二进制与文件访问授权系统，通过白名单/黑名单机制提供企业级端点安全防护。
-
-- **Stars:** ⭐️ 814
-- **Tags:** `macos` `security` `endpoint-security` `allowlist`
-- **最后活动时间:** 2026-09-30
-
 ### [agent-notifications](https://github.com/777genius/agent-notifications)
 
 为 Claude 与 Codex 提供跨平台智能通知，支持桌面提醒、声音、点击聚焦和 Webhook。
 
-- **Stars:** ⭐️ 812
+- **Stars:** ⭐️ 816
 - **Tags:** `notifications` `claude` `codex` `desktop` `webhooks`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [interpreter](https://github.com/bquenin/interpreter)
 
@@ -5914,13 +5978,13 @@ Google 开源的 macOS 二进制与文件访问授权系统，通过白名单/�
 - **Tags:** `macos` `app-switcher` `window-manager` `productivity`
 - **最后活动时间:** 2026-09-30
 
-### [neru](https://github.com/y3owk1n/neru)
+### [OpenGlass](https://github.com/ALTaleX531/OpenGlass)
 
-一款系统级无鼠标导航工具，利用 OCR 技术实现全屏幕的键盘驱动操作。支持 Linux、macOS 及 Wayland/X11 环境。
+为 Windows 10/11 恢复经典 Aero Glass 毛玻璃视觉效果的系统美化工具，通过 DWM Hook 与自定义着色器实现透明模糊效果。
 
-- **Stars:** ⭐️ 766
-- **Tags:** `Accessibility` `OCR` `Keyboard-Navigation` `OS-Integration`
-- **最后活动时间:** 2026-09-30
+- **Stars:** ⭐️ 759
+- **Tags:** `Windows` `DWM` `AeroGlass` `Customization` `Win32`
+- **最后活动时间:** 2026-10-15
 
 ### [NetSpeedTray](https://github.com/erez-c137/NetSpeedTray)
 
@@ -5930,13 +5994,13 @@ Google 开源的 macOS 二进制与文件访问授权系统，通过白名单/�
 - **Tags:** `network-monitor` `taskbar` `windows` `bandwidth` `utility`
 - **最后活动时间:** 2026-09-23
 
-### [OpenGlass](https://github.com/ALTaleX531/OpenGlass)
+### [karukan](https://github.com/togatoga/karukan)
 
-为 Windows 10/11 恢复经典 Aero Glass 毛玻璃视觉效果的系统美化工具，通过 DWM Hook 与自定义着色器实现透明模糊效果。
+一款基于Rust开发的日语输入法系统，内置神经假名-汉字转换引擎。支持Linux和macOS系统，提供高效的自然语言处理输入体验。
 
-- **Stars:** ⭐️ 748
-- **Tags:** `Windows` `DWM` `AeroGlass` `Customization` `Win32`
-- **最后活动时间:** 2026-09-20
+- **Stars:** ⭐️ 738
+- **Tags:** `ime` `input-method` `japanese` `nlp` `rust` `linux` `macos`
+- **最后活动时间:** 2026-10-17
 
 ### [windows-11-taskbar-styling-guide](https://github.com/ramensoftware/windows-11-taskbar-styling-guide)
 
@@ -5946,29 +6010,29 @@ Google 开源的 macOS 二进制与文件访问授权系统，通过白名单/�
 - **Tags:** `windows-11` `taskbar` `customization` `styling`
 - **最后活动时间:** 2026-09-21
 
-### [karukan](https://github.com/togatoga/karukan)
-
-一款基于Rust开发的日语输入法系统，内置神经假名-汉字转换引擎。支持Linux和macOS系统，提供高效的自然语言处理输入体验。
-
-- **Stars:** ⭐️ 734
-- **Tags:** `ime` `input-method` `japanese` `nlp` `rust` `linux` `macos`
-- **最后活动时间:** 2026-09-29
-
 ### [EventViewerX](https://github.com/EvotecIT/EventViewerX)
 
 面向 PowerShell 与 .NET 的 Windows 事件日志工具库，提供强类型查询、报表导出与 WEC 自动化。系统运维利器。
 
-- **Stars:** ⭐️ 731
+- **Stars:** ⭐️ 732
 - **Tags:** `PowerShell` `Windows` `Event-Log` `DotNet` `Monitoring`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-11
 
 ### [claude-status-bar](https://github.com/m1ckc3s/claude-status-bar)
 
 macOS 菜单栏的 Claude Code 状态指示器，提供动画图标、计时器和生命周期管理。
 
-- **Stars:** ⭐️ 704
+- **Stars:** ⭐️ 716
 - **Tags:** `claude-code` `macos` `menubar` `statusbar`
 - **最后活动时间:** 2026-09-18
+
+### [ai-usagebar](https://github.com/akitaonrails/ai-usagebar)
+
+基于 Rust 的 Waybar 小组件，用于监控 Claude、GPT、GLM、OpenRouter 等 AI 服务的套餐与额度状态。
+
+- **Stars:** ⭐️ 687
+- **Tags:** `waybar` `rust` `claude` `openai` `openrouter` `linux`
+- **最后活动时间:** 2026-10-17
 
 ### [icewm](https://github.com/bbidulock/icewm)
 
@@ -5990,9 +6054,17 @@ Claude Desktop Windows 版中文汉化补丁，覆盖 12700+ 翻译键值及 JS 
 
 为 Claude Desktop AI 助手提供非官方的 Linux 安装包，支持自动更新。涵盖 AppImage、Deb 和 RPM 等多种格式。
 
-- **Stars:** ⭐️ 651
+- **Stars:** ⭐️ 675
 - **Tags:** `claude` `anthropic` `linux` `appimage` `desktop`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-16
+
+### [vChewing-macOS](https://github.com/vChewing/vChewing-macOS)
+
+唯音输入法macOS版，纯Swift编写的免费第三方输入法，功能多样性极强。专为简繁中文注音输入打造，配备特制词库与众多特色功能。
+
+- **Stars:** ⭐️ 647
+- **Tags:** `input-method` `macos` `ime` `swift` `chinese`
+- **最后活动时间:** 2026-10-15
 
 ### [quicktime_video_hack](https://github.com/danielpaulus/quicktime_video_hack)
 
@@ -6002,21 +6074,29 @@ Claude Desktop Windows 版中文汉化补丁，覆盖 12700+ 翻译键值及 JS 
 - **Tags:** `ios` `screen-capture` `gstreamer` `usb` `macos`
 - **最后活动时间:** 2026-05-29
 
-### [vChewing-macOS](https://github.com/vChewing/vChewing-macOS)
+### [Claude-Code-Usage-Monitor](https://github.com/CodeZeno/Claude-Code-Usage-Monitor)
 
-唯音输入法macOS版，纯Swift编写的免费第三方输入法，功能多样性极强。专为简繁中文注音输入打造，配备特制词库与众多特色功能。
+Windows 任务栏小组件，实时追踪 Claude Code、Codex、Cursor 等 AI 编程工具的用量限额与重置时间。免费开源，帮助开发者避免额度耗尽中断工作。
 
-- **Stars:** ⭐️ 630
-- **Tags:** `input-method` `macos` `ime` `swift` `chinese`
-- **最后活动时间:** 2026-09-29
+- **Stars:** ⭐️ 621
+- **Tags:** `claude-code` `usage-monitor` `cursor` `codex` `windows`
+- **最后活动时间:** 2026-10-16
 
 ### [Reef](https://github.com/gouwsxander/Reef)
 
 为每个应用提供独立 Alt-Tab 的 macOS 窗口管理器，让多窗口切换更高效。深度集成系统级任务切换体验。
 
-- **Stars:** ⭐️ 611
+- **Stars:** ⭐️ 614
 - **Tags:** `window-manager` `macos` `productivity` `task-switcher`
 - **最后活动时间:** 2026-09-26
+
+### [LockIME](https://github.com/oomol-lab/LockIME)
+
+原生 macOS 菜单栏应用，可锁定键盘输入源，支持全局、按应用和按 URL 进行设置。提升多语言用户的输入效率。
+
+- **Stars:** ⭐️ 613
+- **Tags:** `macos` `input-method` `menu-bar` `keyboard` `swiftui`
+- **最后活动时间:** 2026-09-18
 
 ### [claude-watch](https://github.com/shobhit99/claude-watch)
 
@@ -6042,21 +6122,21 @@ Claude Desktop Windows 版中文汉化补丁，覆盖 12700+ 翻译键值及 JS 
 - **Tags:** `macos` `ntfs` `apple-silicon` `filesystem`
 - **最后活动时间:** 2026-09-15
 
-### [ai-usagebar](https://github.com/akitaonrails/ai-usagebar)
+### [sentient-os](https://github.com/Sentient-OS-Labs/sentient-os)
 
-基于 Rust 的 Waybar 小组件，用于监控 Claude、GPT、GLM、OpenRouter 等 AI 服务的套餐与额度状态。
+端侧个人智能操作系统：本地LLM理解你的生活信息，并通过计算机操控主动帮你完成工作。
 
-- **Stars:** ⭐️ 599
-- **Tags:** `waybar` `rust` `claude` `openai` `openrouter` `linux`
-- **最后活动时间:** 2026-09-30
+- **Stars:** ⭐️ 585
+- **Tags:** `on-device-ai` `macos` `personal-ai` `mcp` `ai-agents`
+- **最后活动时间:** 2026-10-15
 
-### [LockIME](https://github.com/oomol-lab/LockIME)
+### [biopass](https://github.com/TickLabVN/biopass)
 
-原生 macOS 菜单栏应用，可锁定键盘输入源，支持全局、按应用和按 URL 进行设置。提升多语言用户的输入效率。
+一款开源生物识别认证工具，可作为 Windows Hello 与 Howdy 的替代方案，支持人脸与指纹登录。内置防伪（antispoofing）检测，通过 PAM 深度集成操作系统认证流程。
 
-- **Stars:** ⭐️ 595
-- **Tags:** `macos` `input-method` `menu-bar` `keyboard` `swiftui`
-- **最后活动时间:** 2026-09-18
+- **Stars:** ⭐️ 583
+- **Tags:** `face-authentication` `fingerprint` `biometric` `antispoofing` `pam` `computer-vision`
+- **最后活动时间:** 2026-10-17
 
 ### [sony-head-tracker](https://github.com/NicholasSlattery/sony-head-tracker)
 
@@ -6074,6 +6154,22 @@ Claude Desktop Windows 版中文汉化补丁，覆盖 12700+ 翻译键值及 JS 
 - **Tags:** `apple` `macos` `macos-app` `dock` `multi-monitor`
 - **最后活动时间:** 2026-07-09
 
+### [fcitx5-vinput](https://github.com/xifan2333/fcitx5-vinput)
+
+为 Linux 输入法框架 Fcitx5 打造的语音输入工具，支持本地与云端 ASR 识别及 LLM 智能改写。提供跨发行版安装包，让打字变成说话。
+
+- **Stars:** ⭐️ 576
+- **Tags:** `Voice-Input` `ASR` `Speech-Recognition` `Linux` `Fcitx5` `LLM`
+- **最后活动时间:** 2026-10-17
+
+### [ZeroLaunch-rs](https://github.com/ghost-him/ZeroLaunch-rs)
+
+隐私优先的Windows智能启动器，支持拼音和模糊匹配。可选本地AI语义搜索，实现意图智能检索。
+
+- **Stars:** ⭐️ 572
+- **Tags:** `Launcher` `Semantic Search` `Windows`
+- **最后活动时间:** 2026-10-17
+
 ### [soundkeeper](https://github.com/vrubleg/soundkeeper)
 
 防止 SPDIF/HDMI/蓝牙数字音频设备休眠的小工具，解决声音断连烦恼。
@@ -6090,27 +6186,11 @@ Claude Desktop Windows 版中文汉化补丁，覆盖 12700+ 翻译键值及 JS 
 - **Tags:** `macOS` `Codex` `Computer-Use` `Permissions` `Accessibility` `AI-Agents`
 - **最后活动时间:** 2026-07-01
 
-### [ZeroLaunch-rs](https://github.com/ghost-him/ZeroLaunch-rs)
-
-隐私优先的Windows智能启动器，支持拼音和模糊匹配。可选本地AI语义搜索，实现意图智能检索。
-
-- **Stars:** ⭐️ 566
-- **Tags:** `Launcher` `Semantic Search` `Windows`
-- **最后活动时间:** 2026-09-28
-
-### [biopass](https://github.com/TickLabVN/biopass)
-
-一款开源生物识别认证工具，可作为 Windows Hello 与 Howdy 的替代方案，支持人脸与指纹登录。内置防伪（antispoofing）检测，通过 PAM 深度集成操作系统认证流程。
-
-- **Stars:** ⭐️ 566
-- **Tags:** `face-authentication` `fingerprint` `biometric` `antispoofing` `pam` `computer-vision`
-- **最后活动时间:** 2026-09-30
-
 ### [akvirtualcamera](https://github.com/webcamoid/akvirtualcamera)
 
 为 Mac 和 Windows 创建虚拟摄像头的开源工具，可将任意视频源作为系统摄像头输入。广泛用于直播、会议与自动化场景。
 
-- **Stars:** ⭐️ 562
+- **Stars:** ⭐️ 566
 - **Tags:** `virtual-camera` `macos` `windows` `coremediaio` `directshow`
 - **最后活动时间:** 2026-05-15
 
@@ -6126,9 +6206,9 @@ Claude Desktop Windows 版中文汉化补丁，覆盖 12700+ 翻译键值及 JS 
 
 macOS Finder 右键菜单增强工具，让右键菜单功能更加强大。支持快速创建文件和复制路径等便捷操作。
 
-- **Stars:** ⭐️ 556
+- **Stars:** ⭐️ 559
 - **Tags:** `macos` `finder` `rightmenu` `swiftui` `desktop-app`
-- **最后活动时间:** 2026-09-18
+- **最后活动时间:** 2026-10-15
 
 ### [ClawPhone](https://github.com/marshallrichards/ClawPhone)
 
@@ -6138,21 +6218,13 @@ macOS Finder 右键菜单增强工具，让右键菜单功能更加强大。支�
 - **Tags:** `android` `ai-agents` `mobile` `claude-code` `codex`
 - **最后活动时间:** 2026-05-25
 
-### [Claude-Code-Usage-Monitor](https://github.com/CodeZeno/Claude-Code-Usage-Monitor)
-
-Windows 任务栏小组件，实时追踪 Claude Code、Codex、Cursor 等 AI 编程工具的用量限额与重置时间。免费开源，帮助开发者避免额度耗尽中断工作。
-
-- **Stars:** ⭐️ 547
-- **Tags:** `claude-code` `usage-monitor` `cursor` `codex` `windows`
-- **最后活动时间:** 2026-09-28
-
 ### [MioIsland](https://github.com/MioMioOS/MioIsland)
 
 macOS灵动岛AI编码智能体监控工具，允许用户直接从刘海屏监控、批准并跳转至Claude Code会话。极大提升了开发者在Mac上使用AI编码助手的效率与体验。
 
-- **Stars:** ⭐️ 540
+- **Stars:** ⭐️ 539
 - **Tags:** `ai-coding` `claude-code` `macos` `dynamic-island` `developer-tools`
-- **最后活动时间:** 2026-08-14
+- **最后活动时间:** 2026-10-13
 
 ### [openvanilla](https://github.com/openvanilla/openvanilla)
 
@@ -6166,9 +6238,17 @@ macOS灵动岛AI编码智能体监控工具，允许用户直接从刘海屏监�
 
 跨平台输入法系统，支持 Android、iOS、Linux、macOS、Windows 及网页端。致力于提供多语言键盘布局和 Unicode 支持。
 
-- **Stars:** ⭐️ 535
+- **Stars:** ⭐️ 537
 - **Tags:** `keyboard` `input-method` `cross-platform` `unicode`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
+
+### [mac-ocr](https://github.com/privatenumber/mac-ocr)
+
+基于 Apple Vision 框架的 macOS 命令行 OCR 工具，支持将图像转换为文本并生成可搜索的 PDF。
+
+- **Stars:** ⭐️ 537
+- **Tags:** `ocr` `macos` `apple-vision` `cli` `swift`
+- **最后活动时间:** 2026-10-17
 
 ### [app-ssh](https://github.com/hassio-addons/app-ssh)
 
@@ -6178,13 +6258,13 @@ Home Assistant社区的高级SSH与Web终端插件，方便远程管理与调试
 - **Tags:** `home-assistant` `ssh` `terminal` `addon` `web-terminal`
 - **最后活动时间:** 2026-09-30
 
-### [sentient-os](https://github.com/Sentient-OS-Labs/sentient-os)
+### [PokeTokenBar](https://github.com/chattymin/PokeTokenBar)
 
-端侧个人智能操作系统：本地LLM理解你的生活信息，并通过计算机操控主动帮你完成工作。
+一款趣味 macOS 菜单栏应用，将 Claude Code、Codex、Gemini CLI 等 AI 编程工具的 Token 消耗可视化，用养成、进化宝可梦的游戏化方式追踪用量。让枯燥的 Token 监控变得生动有趣。
 
-- **Stars:** ⭐️ 526
-- **Tags:** `on-device-ai` `macos` `personal-ai` `mcp` `ai-agents`
-- **最后活动时间:** 2026-09-29
+- **Stars:** ⭐️ 525
+- **Tags:** `claude-code` `codex` `gemini-cli` `token-usage` `menubar-app` `swiftui` `macos`
+- **最后活动时间:** 2026-10-16
 
 ### [claw-in-chrome](https://github.com/S-Trespassing/claw-in-chrome)
 
@@ -6194,14 +6274,6 @@ Home Assistant社区的高级SSH与Web终端插件，方便远程管理与调试
 - **Tags:** `Chrome Extension` `Browser Assistant` `Claude` `Custom Models`
 - **最后活动时间:** 2026-05-06
 
-### [mac-ocr](https://github.com/privatenumber/mac-ocr)
-
-基于 Apple Vision 框架的 macOS 命令行 OCR 工具，支持将图像转换为文本并生成可搜索的 PDF。
-
-- **Stars:** ⭐️ 521
-- **Tags:** `ocr` `macos` `apple-vision` `cli` `swift`
-- **最后活动时间:** 2026-08-22
-
 ### [hyprmon](https://github.com/erans/hyprmon)
 
 Hyprland 显示器配置 TUI 工具，支持可视化布局、拖拽排列与配置文件管理。
@@ -6210,13 +6282,21 @@ Hyprland 显示器配置 TUI 工具，支持可视化布局、拖拽排列与配
 - **Tags:** `hyprland` `wayland` `monitor` `tui`
 - **最后活动时间:** 2026-09-14
 
+### [adrafinil](https://github.com/kageroumado/adrafinil)
+
+一款 macOS 菜单栏工具，只在 AI 编程智能体（如 Claude Code、Codex）工作时阻止 Mac 休眠，任务结束自动恢复睡眠。
+
+- **Stars:** ⭐️ 516
+- **Tags:** `ai-agents` `macos` `claude-code` `keep-awake` `menu-bar-app`
+- **最后活动时间:** 2026-10-17
+
 ### [welsonjs](https://github.com/gnh1201/welsonjs)
 
 利用Windows内置JavaScript引擎构建桌面应用与自动化脚本的框架。深度集成ChatGPT、Copilot、Grok及MCP协议，实现RPA与系统级AI编排。
 
-- **Stars:** ⭐️ 511
+- **Stars:** ⭐️ 513
 - **Tags:** `javascript` `windows` `automation` `mcp` `rpa` `ai-agents`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [automator-workflows](https://github.com/sparanoid/automator-workflows)
 
@@ -6232,55 +6312,55 @@ Hyprland 显示器配置 TUI 工具，支持可视化布局、拖拽排列与配
 
 一个社区驱动的Zsh配置管理框架，包含300多个插件和140多个主题。它极大地提升了终端操作的效率和美观度。
 
-- **Stars:** ⭐️ 190.0k
+- **Stars:** ⭐️ 190.1k
 - **Tags:** `shell` `terminal` `cli` `zsh` `productivity`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-13
 
 ### [gemini-cli](https://github.com/google-gemini/gemini-cli)
 
 开源AI智能体，将Gemini能力带入终端，支持MCP协议，提供便捷的命令行交互体验。
 
-- **Stars:** ⭐️ 107.2k
+- **Stars:** ⭐️ 107.4k
 - **Tags:** `CLI` `Gemini` `MCP`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [terminal](https://github.com/microsoft/terminal)
 
 微软官方推出的全新Windows终端应用，集成了Windows控制台主机。它支持多标签页、Unicode和UTF-8字符集，提供现代化的命令行体验。
 
-- **Stars:** ⭐️ 105.0k
+- **Stars:** ⭐️ 105.2k
 - **Tags:** `terminal` `windows` `command-line` `console`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-16
 
 ### [lazygit](https://github.com/jesseduffield/lazygit)
 
 一个简单且直观的终端UI工具，用于执行Git命令。它让Git操作变得更加高效和便捷。
 
-- **Stars:** ⭐️ 82.8k
+- **Stars:** ⭐️ 83.3k
 - **Tags:** `git` `cli` `terminal` `ui`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [tabby](https://github.com/Eugeny/tabby)
 
 一款现代化的终端工具，支持SSH、Telnet和串口连接。它基于Web技术构建，提供跨平台的精美界面和丰富的功能。
 
-- **Stars:** ⭐️ 74.8k
+- **Stars:** ⭐️ 75.0k
 - **Tags:** `terminal` `ssh` `serial` `cross-platform`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-16
 
 ### [alacritty](https://github.com/alacritty/alacritty)
 
 一款跨平台且基于OpenGL的终端模拟器，强调性能与简洁。它使用Rust编写，能够提供极致流畅的终端体验。
 
-- **Stars:** ⭐️ 65.9k
+- **Stars:** ⭐️ 66.0k
 - **Tags:** `terminal` `rust` `opengl` `cross-platform`
-- **最后活动时间:** 2026-08-31
+- **最后活动时间:** 2026-10-16
 
 ### [termux-app](https://github.com/termux/termux-app)
 
 Android平台上的终端模拟器应用，可通过丰富的包进行扩展。它为移动设备提供了完整的Linux环境。
 
-- **Stars:** ⭐️ 61.7k
+- **Stars:** ⭐️ 62.8k
 - **Tags:** `android` `terminal` `linux`
 - **最后活动时间:** 2026-09-26
 
@@ -6288,15 +6368,15 @@ Android平台上的终端模拟器应用，可通过丰富的包进行扩展。�
 
 带有语法高亮和Git集成的cat命令克隆工具。它让终端中的文件查看变得更加清晰和美观。
 
-- **Stars:** ⭐️ 60.6k
+- **Stars:** ⭐️ 60.8k
 - **Tags:** `cli` `rust` `syntax-highlighting` `terminal`
-- **最后活动时间:** 2026-09-22
+- **最后活动时间:** 2026-10-17
 
 ### [rich](https://github.com/Textualize/rich)
 
 一个Python库，用于在终端中输出富文本和精美的格式化内容。它支持颜色、表情符号、表格和进度条等丰富元素。
 
-- **Stars:** ⭐️ 57.5k
+- **Stars:** ⭐️ 57.6k
 - **Tags:** `python` `terminal` `cli` `formatting`
 - **最后活动时间:** 2026-06-23
 
@@ -6304,17 +6384,17 @@ Android平台上的终端模拟器应用，可通过丰富的包进行扩展。�
 
 微软官方跨平台自动化 Shell 与脚本语言，可在 Linux、macOS 和 Windows 上统一管理命令行任务。
 
-- **Stars:** ⭐️ 55.6k
+- **Stars:** ⭐️ 55.8k
 - **Tags:** `shell` `command-line` `automation` `cross-platform` `terminal`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-16
 
 ### [brew](https://github.com/Homebrew/brew)
 
 著名的Homebrew包管理器，macOS与Linux上最流行的软件包管理工具。一条命令即可安装、更新和管理各类软件。
 
-- **Stars:** ⭐️ 49.8k
+- **Stars:** ⭐️ 50.0k
 - **Tags:** `package-manager` `homebrew` `macos` `cli`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [zx](https://github.com/google/zx)
 
@@ -6322,15 +6402,23 @@ Android平台上的终端模拟器应用，可通过丰富的包进行扩展。�
 
 - **Stars:** ⭐️ 45.8k
 - **Tags:** `cli` `javascript` `shell` `nodejs`
-- **最后活动时间:** 2026-08-14
+- **最后活动时间:** 2026-10-12
 
 ### [bubbletea](https://github.com/charmbracelet/bubbletea)
 
 基于 Elm 架构的强大终端 UI（TUI）框架，使用 Go 语言编写。帮助开发者轻松构建美观且交互性强的命令行应用程序。
 
-- **Stars:** ⭐️ 45.2k
+- **Stars:** ⭐️ 45.4k
 - **Tags:** `cli` `tui` `framework` `golang`
-- **最后活动时间:** 2026-09-28
+- **最后活动时间:** 2026-10-08
+
+### [fd](https://github.com/sharkdp/fd)
+
+一个简单、快速且用户友好的 'find' 命令替代品，使用 Rust 编写。提供直观的语法和极佳的终端搜索体验。
+
+- **Stars:** ⭐️ 44.8k
+- **Tags:** `cli` `filesystem` `search` `rust`
+- **最后活动时间:** 2026-10-17
 
 ### [hyper](https://github.com/vercel/hyper)
 
@@ -6340,77 +6428,69 @@ Android平台上的终端模拟器应用，可通过丰富的包进行扩展。�
 - **Tags:** `terminal` `javascript` `react` `cross-platform`
 - **最后活动时间:** 2026-08-21
 
-### [fd](https://github.com/sharkdp/fd)
-
-一个简单、快速且用户友好的 'find' 命令替代品，使用 Rust 编写。提供直观的语法和极佳的终端搜索体验。
-
-- **Stars:** ⭐️ 44.6k
-- **Tags:** `cli` `filesystem` `search` `rust`
-- **最后活动时间:** 2026-09-24
-
 ### [yazi](https://github.com/sxyazi/yazi)
 
 基于 Rust 异步 I/O 打造的极速终端文件管理器,界面精美且支持图片预览。跨平台支持 Linux、macOS 和 Windows,是终端党的高效文件管理利器。
 
-- **Stars:** ⭐️ 42.5k
+- **Stars:** ⭐️ 42.9k
 - **Tags:** `rust` `terminal` `file-manager` `tui` `cli`
-- **最后活动时间:** 2026-09-30
-
-### [ink](https://github.com/vadimdemedes/ink)
-
-使用 React 构建交互式命令行应用程序的框架。支持 Flexbox 布局，让开发者能用熟悉的 Web 技术编写终端 UI。
-
-- **Stars:** ⭐️ 40.0k
-- **Tags:** `cli` `react` `javascript` `terminal`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [zoxide](https://github.com/ajeetdsouza/zoxide)
 
 更智能的 cd 命令替代工具，支持所有主流 Shell。基于访问频率自动跳转目录，大幅提升终端效率。
 
-- **Stars:** ⭐️ 39.8k
+- **Stars:** ⭐️ 40.2k
 - **Tags:** `cli` `rust` `shell` `terminal`
-- **最后活动时间:** 2026-09-28
+- **最后活动时间:** 2026-10-14
 
-### [zellij](https://github.com/zellij-org/zellij)
+### [ink](https://github.com/vadimdemedes/ink)
 
-一款功能强大且开箱即用的终端工作区与多路复用器。它简化了终端环境配置，提升了多任务处理效率。
+使用 React 构建交互式命令行应用程序的框架。支持 Flexbox 布局，让开发者能用熟悉的 Web 技术编写终端 UI。
 
-- **Stars:** ⭐️ 35.6k
-- **Tags:** `terminal` `multiplexer` `workspace` `rust`
-- **最后活动时间:** 2026-09-30
-
-### [kitty](https://github.com/kovidgoyal/kitty)
-
-一款跨平台、基于GPU加速的高性能终端模拟器，专为重度终端用户设计。支持丰富的现代特性且运行极速。
-
-- **Stars:** ⭐️ 35.1k
-- **Tags:** `terminal` `kitty` `gpu` `cross-platform`
-- **最后活动时间:** 2026-09-30
-
-### [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)
-
-基于Tesseract OCR引擎的PDF文字识别工具，可为扫描版PDF添加可搜索的文本层。
-
-- **Stars:** ⭐️ 34.9k
-- **Tags:** `OCR` `PDF` `文档处理`
-- **最后活动时间:** 2026-09-29
-
-### [fish-shell](https://github.com/fish-shell/fish-shell)
-
-一款用户友好的命令行Shell。它开箱即用提供智能自动补全和语法高亮，无需复杂配置即可获得极佳体验。
-
-- **Stars:** ⭐️ 34.2k
-- **Tags:** `shell` `terminal` `cli` `rust`
-- **最后活动时间:** 2026-09-28
+- **Stars:** ⭐️ 40.1k
+- **Tags:** `cli` `react` `javascript` `terminal`
+- **最后活动时间:** 2026-10-03
 
 ### [oh-my-pi](https://github.com/can1357/oh-my-pi)
 
 强大的终端AI编程助手，支持哈希锚定编辑、LSP集成及多模型支持，采用子代理架构优化工具调用能力。
 
-- **Stars:** ⭐️ 33.9k
+- **Stars:** ⭐️ 35.8k
 - **Tags:** `终端工具` `AI编程` `多模型`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
+
+### [zellij](https://github.com/zellij-org/zellij)
+
+一款功能强大且开箱即用的终端工作区与多路复用器。它简化了终端环境配置，提升了多任务处理效率。
+
+- **Stars:** ⭐️ 35.8k
+- **Tags:** `terminal` `multiplexer` `workspace` `rust`
+- **最后活动时间:** 2026-10-14
+
+### [kitty](https://github.com/kovidgoyal/kitty)
+
+一款跨平台、基于GPU加速的高性能终端模拟器，专为重度终端用户设计。支持丰富的现代特性且运行极速。
+
+- **Stars:** ⭐️ 35.3k
+- **Tags:** `terminal` `kitty` `gpu` `cross-platform`
+- **最后活动时间:** 2026-10-17
+
+### [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)
+
+基于Tesseract OCR引擎的PDF文字识别工具，可为扫描版PDF添加可搜索的文本层。
+
+- **Stars:** ⭐️ 35.1k
+- **Tags:** `OCR` `PDF` `文档处理`
+- **最后活动时间:** 2026-10-12
+
+### [fish-shell](https://github.com/fish-shell/fish-shell)
+
+一款用户友好的命令行Shell。它开箱即用提供智能自动补全和语法高亮，无需复杂配置即可获得极佳体验。
+
+- **Stars:** ⭐️ 34.3k
+- **Tags:** `shell` `terminal` `cli` `rust`
+- **最后活动时间:** 2026-10-16
 
 ### [DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)
 
@@ -6424,31 +6504,31 @@ Android平台上的终端模拟器应用，可通过丰富的包进行扩展。�
 
 跨平台的系统监控工具，可作为top/htop的替代方案。它通过终端或Web界面提供全面的系统资源视图。
 
-- **Stars:** ⭐️ 33.7k
+- **Stars:** ⭐️ 33.8k
 - **Tags:** `monitoring` `terminal` `system` `python`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [cli](https://github.com/googleworkspace/cli)
 
 Google Workspace统一命令行工具，内置AI代理技能实现智能自动化操作，支持Drive、Gmail等多种服务。
 
-- **Stars:** ⭐️ 31.2k
+- **Stars:** ⭐️ 31.6k
 - **Tags:** `CLI` `Google Workspace` `AI Agent`
-- **最后活动时间:** 2026-09-24
+- **最后活动时间:** 2026-10-06
 
 ### [colima](https://github.com/abiosoft/colima)
 
 在 macOS（和 Linux）上以最小配置运行容器运行时的命令行工具，支持 Docker、Kubernetes(k3s)、containerd 等。是 Mac 上搭建轻量级容器环境的理想选择。
 
-- **Stars:** ⭐️ 31.1k
+- **Stars:** ⭐️ 31.3k
 - **Tags:** `docker` `containers` `macos` `kubernetes` `containerd` `cli` `lima`
-- **最后活动时间:** 2026-09-23
+- **最后活动时间:** 2026-10-13
 
 ### [wttr.in](https://github.com/chubin/wttr.in)
 
 一个通过终端查看天气的便捷工具。支持使用curl命令直接获取当前位置的精美天气信息及预报。
 
-- **Stars:** ⭐️ 30.6k
+- **Stars:** ⭐️ 30.7k
 - **Tags:** `weather` `terminal` `cli` `curl`
 - **最后活动时间:** 2026-09-07
 
@@ -6458,15 +6538,23 @@ Google Workspace统一命令行工具，内置AI代理技能实现智能自动�
 
 - **Stars:** ⭐️ 29.7k
 - **Tags:** `terminal` `editor` `cli` `golang`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [wezterm](https://github.com/wezterm/wezterm)
 
 一款GPU加速的跨平台终端模拟器和多路复用器。使用Rust编写，提供高性能和高度可配置的终端体验。
 
-- **Stars:** ⭐️ 29.1k
+- **Stars:** ⭐️ 29.3k
 - **Tags:** `terminal` `rust` `gpu` `multiplexer`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-12
+
+### [hyperfine](https://github.com/sharkdp/hyperfine)
+
+一款强大的命令行基准测试工具。它提供准确的统计分析和进度显示，帮助开发者轻松评估命令性能。
+
+- **Stars:** ⭐️ 29.1k
+- **Tags:** `benchmark` `cli` `terminal` `rust`
+- **最后活动时间:** 2026-10-12
 
 ### [maple-font](https://github.com/subframe7536/maple-font)
 
@@ -6476,37 +6564,29 @@ Google Workspace统一命令行工具，内置AI代理技能实现智能自动�
 - **Tags:** `Monospace-Font` `Ligatures` `Nerd-Font` `Typography`
 - **最后活动时间:** 2026-09-20
 
-### [hyperfine](https://github.com/sharkdp/hyperfine)
-
-一款强大的命令行基准测试工具。它提供准确的统计分析和进度显示，帮助开发者轻松评估命令性能。
-
-- **Stars:** ⭐️ 28.9k
-- **Tags:** `benchmark` `cli` `terminal` `rust`
-- **最后活动时间:** 2026-04-30
-
 ### [cmux](https://github.com/manaflow-ai/cmux)
 
 基于Ghostty的macOS终端，专为AI编程代理设计，支持垂直标签页和通知功能。
 
-- **Stars:** ⭐️ 27.5k
+- **Stars:** ⭐️ 28.2k
 - **Tags:** `Terminal` `AI Agents` `macOS`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [glow](https://github.com/charmbracelet/glow)
 
 一个在终端中渲染 Markdown 文件的 CLI 工具，具有极佳的排版和样式。让命令行下的文档阅读变得赏心悦目。
 
-- **Stars:** ⭐️ 27.5k
+- **Stars:** ⭐️ 27.7k
 - **Tags:** `cli` `markdown` `terminal` `golang`
-- **最后活动时间:** 2026-09-27
+- **最后活动时间:** 2026-10-05
 
 ### [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)
 
 包含超过450种终端配色方案和主题的集合。支持iTerm、Windows Terminal、PuTTY等多种主流终端模拟器。
 
-- **Stars:** ⭐️ 27.2k
+- **Stars:** ⭐️ 27.3k
 - **Tags:** `terminal` `color-scheme` `themes` `iTerm2`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-16
 
 ### [cmder](https://github.com/cmderdev/cmder)
 
@@ -6514,7 +6594,7 @@ Windows上美观易用的控制台模拟器软件包，集成ConEmu与Git for Wi
 
 - **Stars:** ⭐️ 27.0k
 - **Tags:** `terminal` `console` `powershell` `windows`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-13
 
 ### [cool-retro-term](https://github.com/Swordfish90/cool-retro-term)
 
@@ -6532,13 +6612,21 @@ Windows上美观易用的控制台模拟器软件包，集成ConEmu与Git for Wi
 - **Tags:** `tmux` `terminal` `cli` `configuration`
 - **最后活动时间:** 2026-08-08
 
+### [spicetify-cli](https://github.com/spicetify/cli)
+
+强大的 Spotify 客户端定制命令行工具,支持安装主题、扩展和应用,自由自定义播放器界面与功能。跨平台支持 Windows、macOS 和 Linux。
+
+- **Stars:** ⭐️ 25.1k
+- **Tags:** `spotify` `cli` `customization` `golang` `themes`
+- **最后活动时间:** 2026-10-15
+
 ### [fastfetch](https://github.com/fastfetch-cli/fastfetch)
 
 一款维护良好且性能优先的系统信息显示工具，类似于neofetch。它能在终端中快速展示美观的系统信息。
 
-- **Stars:** ⭐️ 24.8k
+- **Stars:** ⭐️ 25.1k
 - **Tags:** `terminal` `cli` `system-info` `neofetch`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [Scoop](https://github.com/ScoopInstaller/Scoop)
 
@@ -6546,29 +6634,21 @@ Windows命令行安装器，从命令行以便携方式安装和管理软件，�
 
 - **Stars:** ⭐️ 24.7k
 - **Tags:** `installer` `package-manager` `powershell` `windows`
-- **最后活动时间:** 2026-09-30
-
-### [spicetify-cli](https://github.com/spicetify/cli)
-
-强大的 Spotify 客户端定制命令行工具,支持安装主题、扩展和应用,自由自定义播放器界面与功能。跨平台支持 Windows、macOS 和 Linux。
-
-- **Stars:** ⭐️ 24.7k
-- **Tags:** `spotify` `cli` `customization` `golang` `themes`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [superfile](https://github.com/yorukot/superfile)
 
 一个现代且美观的终端文件管理器，使用 Go 语言编写。提供极其流畅的文件浏览和管理体验。
 
-- **Stars:** ⭐️ 23.6k
+- **Stars:** ⭐️ 23.9k
 - **Tags:** `cli` `file-manager` `tui` `golang`
-- **最后活动时间:** 2026-09-28
+- **最后活动时间:** 2026-10-16
 
 ### [eza](https://github.com/eza-community/eza)
 
 一款现代化的ls命令替代工具，使用Rust编写。它支持颜色、图标和Git集成，让文件列表更加直观美观。
 
-- **Stars:** ⭐️ 23.4k
+- **Stars:** ⭐️ 23.6k
 - **Tags:** `cli` `terminal` `ls` `rust`
 - **最后活动时间:** 2026-08-06
 
@@ -6584,57 +6664,57 @@ Windows命令行安装器，从命令行以便携方式安装和管理软件，�
 
 一个用于追踪进程、端口、容器或文件来源的 CLI 和 TUI 工具。非常适合运维和开发人员进行系统故障排查。
 
-- **Stars:** ⭐️ 22.5k
+- **Stars:** ⭐️ 22.7k
 - **Tags:** `cli` `tui` `devops` `troubleshooting`
-- **最后活动时间:** 2026-08-15
+- **最后活动时间:** 2026-10-04
 
 ### [waveterm](https://github.com/wavetermdev/waveterm)
 
 一款开源的AI集成跨平台终端，支持智能命令补全和工作流自动化，提升开发者效率。
 
-- **Stars:** ⭐️ 22.4k
+- **Stars:** ⭐️ 22.5k
 - **Tags:** `Terminal` `AI` `Cross-platform` `Developer Tools`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-17
 
 ### [nnn](https://github.com/jarun/nnn)
 
 一个功能强大且极简的终端文件管理器。提供极快的文件浏览、搜索和批量重命名功能，支持多种插件扩展。
 
-- **Stars:** ⭐️ 22.0k
+- **Stars:** ⭐️ 22.1k
 - **Tags:** `cli` `file-manager` `terminal` `c`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-07
 
 ### [xterm.js](https://github.com/xtermjs/xterm.js)
 
 一个用于在Web浏览器中构建终端的前端组件。它支持VT100和WebGL，广泛应用于各类Web端SSH和终端工具中。
 
-- **Stars:** ⭐️ 21.2k
+- **Stars:** ⭐️ 21.3k
 - **Tags:** `terminal` `javascript` `typescript` `web`
-- **最后活动时间:** 2026-09-13
+- **最后活动时间:** 2026-10-13
 
 ### [vhs](https://github.com/charmbracelet/vhs)
 
 一款用于录制终端操作的命令行视频录制工具。它能轻松生成高质量的GIF动图，非常适合制作终端演示教程。
 
-- **Stars:** ⭐️ 21.0k
+- **Stars:** ⭐️ 21.1k
 - **Tags:** `terminal` `cli` `gif` `recording`
-- **最后活动时间:** 2026-09-24
+- **最后活动时间:** 2026-10-01
 
 ### [goaccess](https://github.com/allinurl/goaccess)
 
 一个实时的 Web 日志分析器和交互式查看器，可在终端或浏览器中运行。提供快速且隐私友好的 Web 服务器数据监控体验。
 
-- **Stars:** ⭐️ 21.0k
+- **Stars:** ⭐️ 21.1k
 - **Tags:** `cli` `analytics` `monitoring` `web-analytics`
-- **最后活动时间:** 2026-09-28
+- **最后活动时间:** 2026-10-17
 
 ### [PEASS-ng](https://github.com/peass-ng/PEASS-ng)
 
 知名的提权枚举脚本套件，包含 linpeas 与 winpeas，可快速发现 Linux/Windows 系统中的权限提升路径。
 
-- **Stars:** ⭐️ 20.6k
+- **Stars:** ⭐️ 20.7k
 - **Tags:** `security` `privesc` `enumeration` `linpeas` `pentest`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt)
 
@@ -6648,9 +6728,9 @@ Windows命令行安装器，从命令行以便携方式安装和管理软件，�
 
 一个基于 Python 类型提示的强大 CLI 框架。让开发者能以极低的成本编写出优秀且易用的命令行工具。
 
-- **Stars:** ⭐️ 20.0k
+- **Stars:** ⭐️ 20.1k
 - **Tags:** `cli` `python` `terminal` `typehints`
-- **最后活动时间:** 2026-09-19
+- **最后活动时间:** 2026-10-15
 
 ### [asciinema](https://github.com/asciinema/asciinema)
 
@@ -6658,15 +6738,15 @@ Windows命令行安装器，从命令行以便携方式安装和管理软件，�
 
 - **Stars:** ⭐️ 17.9k
 - **Tags:** `cli` `recording` `terminal` `rust`
-- **最后活动时间:** 2026-08-14
+- **最后活动时间:** 2026-10-13
 
 ### [navi](https://github.com/denisidoro/navi)
 
 一个交互式的命令行备忘单工具，帮助用户快速查找和使用命令片段。通过简化命令记忆，大幅提升终端工作效率。
 
-- **Stars:** ⭐️ 17.7k
+- **Stars:** ⭐️ 17.8k
 - **Tags:** `cli` `cheatsheets` `rust` `terminal`
-- **最后活动时间:** 2026-09-20
+- **最后活动时间:** 2026-10-16
 
 ### [wtf](https://github.com/wtfutil/wtf)
 
@@ -6674,23 +6754,23 @@ Windows命令行安装器，从命令行以便携方式安装和管理软件，�
 
 - **Stars:** ⭐️ 17.1k
 - **Tags:** `dashboard` `terminal` `tui` `go`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-09-30
 
 ### [zapret](https://github.com/bol-van/zapret)
 
 多平台通用的 DPI 绕过工具，帮助用户应对网络审查与流量干扰。
 
-- **Stars:** ⭐️ 16.2k
+- **Stars:** ⭐️ 16.3k
 - **Tags:** `DPI` `AntiCensorship` `CrossPlatform` `Networking` `Linux`
-- **最后活动时间:** 2026-09-18
+- **最后活动时间:** 2026-10-04
 
 ### [yq](https://github.com/mikefarah/yq)
 
 一个轻便的命令行 YAML、JSON、XML 等格式处理器。非常适合在命令行下对配置文件进行快速查询和修改。
 
-- **Stars:** ⭐️ 16.0k
+- **Stars:** ⭐️ 16.1k
 - **Tags:** `cli` `yaml` `json` `golang`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-15
 
 ### [blessed-contrib](https://github.com/yaronn/blessed-contrib)
 
@@ -6704,9 +6784,9 @@ Windows命令行安装器，从命令行以便携方式安装和管理软件，�
 
 自托管的SSH和远程桌面管理工具。集中管理远程连接和文件传输。
 
-- **Stars:** ⭐️ 15.3k
+- **Stars:** ⭐️ 15.6k
 - **Tags:** `ssh` `rdp` `self-hosted` `terminal`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [tokei](https://github.com/XAMPPRocky/tokei)
 
@@ -6722,7 +6802,7 @@ Windows命令行安装器，从命令行以便携方式安装和管理软件，�
 
 - **Stars:** ⭐️ 14.4k
 - **Tags:** `zsh` `prompt` `shell` `minimal`
-- **最后活动时间:** 2026-09-19
+- **最后活动时间:** 2026-10-07
 
 ### [bottom](https://github.com/ClementTsang/bottom)
 
@@ -6730,7 +6810,7 @@ Windows命令行安装器，从命令行以便携方式安装和管理软件，�
 
 - **Stars:** ⭐️ 14.1k
 - **Tags:** `monitoring` `rust` `terminal` `tui`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-04
 
 ### [sshuttle](https://github.com/sshuttle/sshuttle)
 
@@ -6738,7 +6818,7 @@ Windows命令行安装器，从命令行以便携方式安装和管理软件，�
 
 - **Stars:** ⭐️ 13.6k
 - **Tags:** `proxy` `vpn` `ssh`
-- **最后活动时间:** 2026-09-28
+- **最后活动时间:** 2026-10-16
 
 ### [tig](https://github.com/jonas/tig)
 
@@ -6746,15 +6826,15 @@ Windows命令行安装器，从命令行以便携方式安装和管理软件，�
 
 - **Stars:** ⭐️ 13.4k
 - **Tags:** `C` `Git` `ncurses` `TUI`
-- **最后活动时间:** 2026-09-19
+- **最后活动时间:** 2026-10-13
 
 ### [ccstatusline](https://github.com/sirmalloc/ccstatusline)
 
 为Claude Code CLI设计的可定制状态栏工具，支持powerline样式和多种主题，提升终端开发体验。
 
-- **Stars:** ⭐️ 13.1k
+- **Stars:** ⭐️ 13.3k
 - **Tags:** `Claude Code` `状态栏` `终端工具`
-- **最后活动时间:** 2026-09-28
+- **最后活动时间:** 2026-10-13
 
 ### [gping](https://github.com/orf/gping)
 
@@ -6762,7 +6842,23 @@ Windows命令行安装器，从命令行以便携方式安装和管理软件，�
 
 - **Stars:** ⭐️ 12.7k
 - **Tags:** `ping` `cli` `rust` `network-monitoring` `graph`
-- **最后活动时间:** 2026-09-28
+- **最后活动时间:** 2026-10-06
+
+### [gh-dash](https://github.com/dlvhdr/gh-dash)
+
+一个功能丰富的终端GitHub UI工具，不会打断你的工作流。让开发者可以在终端内高效管理GitHub仓库和PR。
+
+- **Stars:** ⭐️ 12.6k
+- **Tags:** `cli` `github` `tui` `go`
+- **最后活动时间:** 2026-10-17
+
+### [llm](https://github.com/simonw/llm)
+
+强大的命令行工具，支持在终端直接访问OpenAI、Anthropic等多个大语言模型提供商。
+
+- **Stars:** ⭐️ 12.6k
+- **Tags:** `CLI` `LLM` `终端工具`
+- **最后活动时间:** 2026-10-15
 
 ### [portless](https://github.com/vercel-labs/portless)
 
@@ -6772,27 +6868,11 @@ Windows命令行安装器，从命令行以便携方式安装和管理软件，�
 - **Tags:** `localhost` `developer-tools` `local-urls` `agent-friendly`
 - **最后活动时间:** 2026-09-30
 
-### [gh-dash](https://github.com/dlvhdr/gh-dash)
-
-一个功能丰富的终端GitHub UI工具，不会打断你的工作流。让开发者可以在终端内高效管理GitHub仓库和PR。
-
-- **Stars:** ⭐️ 12.6k
-- **Tags:** `cli` `github` `tui` `go`
-- **最后活动时间:** 2026-09-22
-
-### [llm](https://github.com/simonw/llm)
-
-强大的命令行工具，支持在终端直接访问OpenAI、Anthropic等多个大语言模型提供商。
-
-- **Stars:** ⭐️ 12.6k
-- **Tags:** `CLI` `LLM` `终端工具`
-- **最后活动时间:** 2026-09-22
-
 ### [ttyd](https://github.com/tsl0922/ttyd)
 
 一款通过Web共享终端的工具，支持SSL和WebSocket。方便开发者进行远程终端访问和设备管理。
 
-- **Stars:** ⭐️ 12.4k
+- **Stars:** ⭐️ 12.5k
 - **Tags:** `terminal` `web` `websocket` `tty`
 - **最后活动时间:** 2026-08-12
 
@@ -6826,15 +6906,15 @@ Charm 出品的 Go 语言终端样式库，可轻松为 CLI/TUI 应用打造精�
 
 - **Stars:** ⭐️ 11.9k
 - **Tags:** `Go` `TUI` `CLI` `Styling` `Terminal`
-- **最后活动时间:** 2026-09-13
+- **最后活动时间:** 2026-10-11
 
 ### [ipatool](https://github.com/majd/ipatool)
 
 命令行工具，用于搜索和下载 iOS App Store 的应用安装包。
 
-- **Stars:** ⭐️ 11.4k
+- **Stars:** ⭐️ 11.7k
 - **Tags:** `ios` `cli` `appstore`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-15
 
 ### [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish)
 
@@ -6844,6 +6924,14 @@ Fish Shell的框架，提供插件和主题管理。让终端配置更加简单�
 - **Tags:** `fish` `shell` `framework` `terminal`
 - **最后活动时间:** 2026-09-30
 
+### [FTXUI](https://github.com/ArthurSonzogni/FTXUI)
+
+一个用于C++的函数式终端用户界面库。提供简单易用的组件来构建美观的命令行界面。
+
+- **Stars:** ⭐️ 10.8k
+- **Tags:** `cpp` `tui` `terminal` `ui`
+- **最后活动时间:** 2026-10-17
+
 ### [Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner)
 
 一个收集了实用Bash单行命令和终端技巧的合集。涵盖数据处理和Linux系统维护，帮助开发者提高命令行效率。
@@ -6852,21 +6940,13 @@ Fish Shell的框架，提供插件和主题管理。让终端配置更加简单�
 - **Tags:** `bash` `cli` `linux` `shell`
 - **最后活动时间:** 2026-09-22
 
-### [FTXUI](https://github.com/ArthurSonzogni/FTXUI)
-
-一个用于C++的函数式终端用户界面库。提供简单易用的组件来构建美观的命令行界面。
-
-- **Stars:** ⭐️ 10.8k
-- **Tags:** `cpp` `tui` `terminal` `ui`
-- **最后活动时间:** 2026-09-30
-
 ### [lnav](https://github.com/tstack/lnav)
 
 一款功能强大的日志文件导航和分析工具。提供终端界面下的日志监控、合并与可视化功能。
 
 - **Stars:** ⭐️ 10.7k
 - **Tags:** `log-analysis` `terminal` `tui` `cli`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-14
 
 ### [oha](https://github.com/hatoo/oha)
 
@@ -6874,7 +6954,7 @@ Fish Shell的框架，提供插件和主题管理。让终端配置更加简单�
 
 - **Stars:** ⭐️ 10.6k
 - **Tags:** `cli` `load-testing` `http` `rust`
-- **最后活动时间:** 2026-09-10
+- **最后活动时间:** 2026-10-12
 
 ### [qrcp](https://github.com/claudiodangelis/qrcp)
 
@@ -6890,7 +6970,7 @@ Fish Shell的框架，提供插件和主题管理。让终端配置更加简单�
 
 - **Stars:** ⭐️ 10.3k
 - **Tags:** `color-scheme` `terminal` `shell`
-- **最后活动时间:** 2026-09-28
+- **最后活动时间:** 2026-10-10
 
 ### [m-cli](https://github.com/rgcr/m-cli)
 
@@ -6906,7 +6986,7 @@ macOS系统的瑞士军刀命令行工具。集成多种常用系统管理功能
 
 - **Stars:** ⭐️ 9.8k
 - **Tags:** `php` `cli` `console` `symfony`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-15
 
 ### [Sophia Script for Windows](https://github.com/farag2/Sophia-Script-for-Windows)
 
@@ -6914,7 +6994,7 @@ GitHub上最强大的Windows 10/11微调PowerShell模块，一键完成系统去
 
 - **Stars:** ⭐️ 9.8k
 - **Tags:** `powershell` `windows` `debloat` `tweaks` `automation`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-17
 
 ### [ora](https://github.com/sindresorhus/ora)
 
@@ -6930,15 +7010,15 @@ Python驱动的智能Shell终端，支持AI集成，为数据科学家提供强�
 
 - **Stars:** ⭐️ 9.7k
 - **Tags:** `Shell` `Python` `AI Integration` `Terminal`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-17
 
 ### [lf](https://github.com/gokcehan/lf)
 
 受ranger启发的终端文件管理器。提供快捷的键盘操作和高效的文件管理体验。
 
-- **Stars:** ⭐️ 9.5k
+- **Stars:** ⭐️ 9.6k
 - **Tags:** `file-manager` `terminal` `go`
-- **最后活动时间:** 2026-09-28
+- **最后活动时间:** 2026-10-14
 
 ### [fresh](https://github.com/sinelaw/fresh)
 
@@ -6954,7 +7034,7 @@ Python驱动的智能Shell终端，支持AI集成，为数据科学家提供强�
 
 - **Stars:** ⭐️ 9.0k
 - **Tags:** `cli` `tui` `go` `terminal`
-- **最后活动时间:** 2026-09-06
+- **最后活动时间:** 2026-10-04
 
 ### [presenterm](https://github.com/mfontanini/presenterm)
 
@@ -6972,14 +7052,6 @@ Python驱动的智能Shell终端，支持AI集成，为数据科学家提供强�
 - **Tags:** `Claude` `监控工具` `终端`
 - **最后活动时间:** 2026-07-05
 
-### [wego](https://github.com/schachmat/wego)
-
-一款在终端显示天气预报的工具。通过ASCII艺术呈现直观的天气预测信息。
-
-- **Stars:** ⭐️ 8.6k
-- **Tags:** `weather` `terminal` `go` `cli`
-- **最后活动时间:** 2026-09-26
-
 ### [claude-squad](https://github.com/smtg-ai/claude-squad)
 
 多AI终端代理管理工具，统一管理Claude Code、Codex、OpenCode等多个AI编程助手。
@@ -6987,6 +7059,14 @@ Python驱动的智能Shell终端，支持AI集成，为数据科学家提供强�
 - **Stars:** ⭐️ 8.6k
 - **Tags:** `Multi-Agent` `CLI` `Management`
 - **最后活动时间:** 2026-08-20
+
+### [wego](https://github.com/schachmat/wego)
+
+一款在终端显示天气预报的工具。通过ASCII艺术呈现直观的天气预测信息。
+
+- **Stars:** ⭐️ 8.6k
+- **Tags:** `weather` `terminal` `go` `cli`
+- **最后活动时间:** 2026-09-26
 
 ### [gogcli](https://github.com/openclaw/gogcli)
 
@@ -7002,7 +7082,7 @@ Python驱动的智能Shell终端，支持AI集成，为数据科学家提供强�
 
 - **Stars:** ⭐️ 8.4k
 - **Tags:** `process-monitor` `terminal` `linux`
-- **最后活动时间:** 2026-09-27
+- **最后活动时间:** 2026-10-17
 
 ### [Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH)
 
@@ -7018,7 +7098,15 @@ OpenSSH的Windows原生移植版本。为Windows系统提供开箱即用的安�
 
 - **Stars:** ⭐️ 8.0k
 - **Tags:** `network` `traceroute` `cli` `rust` `tui`
-- **最后活动时间:** 2026-09-28
+- **最后活动时间:** 2026-10-12
+
+### [App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI)
+
+快速、可脚本化的App Store Connect API命令行工具，可自动化TestFlight、构建、提交、签名与分析等流程。iOS开发者提升CI/CD效率的利器。
+
+- **Stars:** ⭐️ 8.0k
+- **Tags:** `cli` `app-store-connect` `automation` `cicd` `golang`
+- **最后活动时间:** 2026-10-17
 
 ### [mcfly](https://github.com/cantino/mcfly)
 
@@ -7032,7 +7120,7 @@ OpenSSH的Windows原生移植版本。为Windows系统提供开箱即用的安�
 
 社区驱动的Bash配置框架，提供丰富的主题和插件。让终端环境更加美观易用。
 
-- **Stars:** ⭐️ 7.7k
+- **Stars:** ⭐️ 7.8k
 - **Tags:** `bash` `shell` `framework` `terminal`
 - **最后活动时间:** 2026-09-02
 
@@ -7042,15 +7130,7 @@ OpenSSH的Windows原生移植版本。为Windows系统提供开箱即用的安�
 
 - **Stars:** ⭐️ 7.6k
 - **Tags:** `terminal-emulator` `gpu` `rust` `wgpu`
-- **最后活动时间:** 2026-09-27
-
-### [App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI)
-
-快速、可脚本化的App Store Connect API命令行工具，可自动化TestFlight、构建、提交、签名与分析等流程。iOS开发者提升CI/CD效率的利器。
-
-- **Stars:** ⭐️ 7.6k
-- **Tags:** `cli` `app-store-connect` `automation` `cicd` `golang`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [useful-scripts](https://github.com/oldratlee/useful-scripts)
 
@@ -7064,9 +7144,9 @@ OpenSSH的Windows原生移植版本。为Windows系统提供开箱即用的安�
 
 一个用于管理邮件的命令行客户端。支持IMAP/SMTP和PGP加密，提供高效的终端邮件处理体验。
 
-- **Stars:** ⭐️ 7.4k
+- **Stars:** ⭐️ 7.5k
 - **Tags:** `cli` `email` `rust` `terminal`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [consola](https://github.com/unjs/consola)
 
@@ -7074,13 +7154,13 @@ OpenSSH的Windows原生移植版本。为Windows系统提供开箱即用的安�
 
 - **Stars:** ⭐️ 7.3k
 - **Tags:** `cli` `console` `nodejs` `log`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-16
 
 ### [spotify-player](https://github.com/aome510/spotify-player)
 
 一个功能完备的终端Spotify播放器。支持Vim操作和全功能对等，让音乐播放融入终端工作流。
 
-- **Stars:** ⭐️ 7.2k
+- **Stars:** ⭐️ 7.3k
 - **Tags:** `cli` `music` `rust` `spotify`
 - **最后活动时间:** 2026-09-19
 
@@ -7114,7 +7194,7 @@ Charm出品的Go终端表单与交互式提示构建库，让CLI输入体验更�
 
 - **Stars:** ⭐️ 6.8k
 - **Tags:** `http` `benchmarking` `cli` `golang` `load-testing`
-- **最后活动时间:** 2026-08-25
+- **最后活动时间:** 2026-10-10
 
 ### [pastel](https://github.com/sharkdp/pastel)
 
@@ -7128,17 +7208,17 @@ Charm出品的Go终端表单与交互式提示构建库，让CLI输入体验更�
 
 在命令行中使用 Apple Intelligence 的终端工具。基于 FoundationModels 框架实现本地 LLM，无需 API 密钥和云端依赖，支持 OpenAI 兼容接口和工具调用。
 
-- **Stars:** ⭐️ 6.4k
+- **Stars:** ⭐️ 6.5k
 - **Tags:** `apple-intelligence` `cli` `llm` `on-device` `openai-compatible` `swift`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-14
 
 ### [television](https://github.com/alexpasmantier/television)
 
 极快、可移植且高度可定制的 Rust 模糊搜索工具，可对接 grep 等多种数据源。
 
-- **Stars:** ⭐️ 6.3k
+- **Stars:** ⭐️ 6.4k
 - **Tags:** `Rust` `TUI` `FuzzyFinder` `CLI` `Search`
-- **最后活动时间:** 2026-09-28
+- **最后活动时间:** 2026-10-15
 
 ### [procs](https://github.com/dalance/procs)
 
@@ -7146,7 +7226,7 @@ Rust 编写的现代进程查看工具，替代 ps 命令。彩色输出、支�
 
 - **Stars:** ⭐️ 6.2k
 - **Tags:** `cli` `rust` `process` `terminal`
-- **最后活动时间:** 2026-09-22
+- **最后活动时间:** 2026-10-06
 
 ### [tmate](https://github.com/tmate-io/tmate)
 
@@ -7170,7 +7250,7 @@ Windows 下的 sudo 命令行提权工具。允许用户在终端中以管理员
 
 - **Stars:** ⭐️ 6.0k
 - **Tags:** `Jira` `CLI` `Golang` `TUI` `Productivity`
-- **最后活动时间:** 2026-09-22
+- **最后活动时间:** 2026-10-17
 
 ### [Clipboard](https://github.com/Slackadays/Clipboard)
 
@@ -7186,7 +7266,7 @@ Windows 11 官方引入的 sudo 命令行提权工具。允许用户在终端中
 
 - **Stars:** ⭐️ 5.9k
 - **Tags:** `sudo` `windows-11` `command-line` `elevate`
-- **最后活动时间:** 2026-08-26
+- **最后活动时间:** 2026-10-01
 
 ### [discordo](https://github.com/ayn2op/discordo)
 
@@ -7194,7 +7274,7 @@ Windows 11 官方引入的 sudo 命令行提权工具。允许用户在终端中
 
 - **Stars:** ⭐️ 5.8k
 - **Tags:** `discord` `tui` `terminal` `golang` `cross-platform`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [tilix](https://github.com/gnunn1/tilix)
 
@@ -7218,7 +7298,7 @@ Windows 11 官方引入的 sudo 命令行提权工具。允许用户在终端中
 
 - **Stars:** ⭐️ 5.6k
 - **Tags:** `cli` `php` `static-analysis` `code-quality`
-- **最后活动时间:** 2026-09-15
+- **最后活动时间:** 2026-10-14
 
 ### [wetty](https://github.com/butlerx/wetty)
 
@@ -7226,7 +7306,15 @@ Windows 11 官方引入的 sudo 命令行提权工具。允许用户在终端中
 
 - **Stars:** ⭐️ 5.5k
 - **Tags:** `terminal` `web` `http` `xterm`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-16
+
+### [tuios](https://github.com/Gaurav-Gosain/tuios)
+
+基于 Go 与 Bubbletea 构建的终端 UI 操作系统，提供强大的终端复用与窗口管理能力。
+
+- **Stars:** ⭐️ 5.5k
+- **Tags:** `Go` `TUI` `TerminalMultiplexer` `Bubbletea`
+- **最后活动时间:** 2026-10-17
 
 ### [viddy](https://github.com/sachaos/viddy)
 
@@ -7240,9 +7328,17 @@ Windows 11 官方引入的 sudo 命令行提权工具。允许用户在终端中
 
 LM Studio命令行工具，在终端中便捷管理和运行本地大语言模型。
 
-- **Stars:** ⭐️ 5.3k
+- **Stars:** ⭐️ 5.4k
 - **Tags:** `CLI工具` `本地模型` `LM Studio`
-- **最后活动时间:** 2026-09-25
+- **最后活动时间:** 2026-10-14
+
+### [chafa](https://github.com/hpjansson/chafa)
+
+一款强大的终端图形库和图像查看器，可在终端内显示图像。支持多种图形协议和字符画渲染。
+
+- **Stars:** ⭐️ 5.3k
+- **Tags:** `terminal-graphics` `image-viewer` `cli` `graphics-library`
+- **最后活动时间:** 2026-10-06
 
 ### [linutil](https://github.com/ChrisTitusTech/linutil)
 
@@ -7252,13 +7348,21 @@ Chris Titus Tech 出品的 Linux 工具箱，与发行版无关，旨在简化�
 - **Tags:** `linux` `toolbox` `cli` `automation`
 - **最后活动时间:** 2026-09-28
 
-### [chafa](https://github.com/hpjansson/chafa)
+### [rustnet](https://github.com/domcyrus/rustnet)
 
-一款强大的终端图形库和图像查看器，可在终端内显示图像。支持多种图形协议和字符画渲染。
+一款跨平台的终端网络监控工具，提供进程级的深度数据包检测（DPI）功能。在沙盒环境中运行，保障系统安全的同时实现精准网络分析。
 
-- **Stars:** ⭐️ 5.3k
-- **Tags:** `terminal-graphics` `image-viewer` `cli` `graphics-library`
-- **最后活动时间:** 2026-09-29
+- **Stars:** ⭐️ 5.1k
+- **Tags:** `network-monitoring` `dpi` `rust` `cli` `cross-platform`
+- **最后活动时间:** 2026-10-17
+
+### [gitlogue](https://github.com/unhappychoice/gitlogue)
+
+将 Git 提交历史转化为终端中的电影级动画回放，让代码演变像故事一样生动呈现。
+
+- **Stars:** ⭐️ 5.1k
+- **Tags:** `git` `visualization` `terminal` `rust`
+- **最后活动时间:** 2026-10-17
 
 ### [aliyunpan](https://github.com/tickstep/aliyunpan)
 
@@ -7268,29 +7372,13 @@ Chris Titus Tech 出品的 Linux 工具箱，与发行版无关，旨在简化�
 - **Tags:** `cli` `cloud-storage` `sync` `backup` `aliyundrive`
 - **最后活动时间:** 2026-09-07
 
-### [rustnet](https://github.com/domcyrus/rustnet)
-
-一款跨平台的终端网络监控工具，提供进程级的深度数据包检测（DPI）功能。在沙盒环境中运行，保障系统安全的同时实现精准网络分析。
-
-- **Stars:** ⭐️ 5.1k
-- **Tags:** `network-monitoring` `dpi` `rust` `cli` `cross-platform`
-- **最后活动时间:** 2026-09-29
-
 ### [peon-ping](https://github.com/PeonPing/peon-ping)
 
 为Claude Code、Codex等AI工具提供Warcraft III风格的语音通知。
 
 - **Stars:** ⭐️ 5.1k
 - **Tags:** `Terminal` `Notifications` `AI Workflow`
-- **最后活动时间:** 2026-08-30
-
-### [gitlogue](https://github.com/unhappychoice/gitlogue)
-
-将 Git 提交历史转化为终端中的电影级动画回放，让代码演变像故事一样生动呈现。
-
-- **Stars:** ⭐️ 5.1k
-- **Tags:** `git` `visualization` `terminal` `rust`
-- **最后活动时间:** 2026-09-25
+- **最后活动时间:** 2026-10-06
 
 ### [YouPlot](https://github.com/red-data-tools/YouPlot)
 
@@ -7300,21 +7388,29 @@ Chris Titus Tech 出品的 Linux 工具箱，与发行版无关，旨在简化�
 - **Tags:** `Ruby` `CLI` `Visualization` `Terminal` `Plots`
 - **最后活动时间:** 2026-06-22
 
-### [cursive](https://github.com/gyscos/cursive)
-
-Rust语言的TUI文本界面库，提供丰富组件用于构建复杂的终端应用。
-
-- **Stars:** ⭐️ 4.8k
-- **Tags:** `rust` `tui` `terminal` `ncurses`
-- **最后活动时间:** 2026-09-25
-
 ### [xcodes](https://github.com/XcodesOrg/xcodes)
 
 命令行下安装与切换多个 Xcode 版本的最佳工具，帮助 iOS/macOS 开发者高效管理开发环境。
 
-- **Stars:** ⭐️ 4.8k
+- **Stars:** ⭐️ 4.9k
 - **Tags:** `xcode` `cli` `macos` `swift`
 - **最后活动时间:** 2026-09-14
+
+### [cursive](https://github.com/gyscos/cursive)
+
+Rust语言的TUI文本界面库，提供丰富组件用于构建复杂的终端应用。
+
+- **Stars:** ⭐️ 4.9k
+- **Tags:** `rust` `tui` `terminal` `ncurses`
+- **最后活动时间:** 2026-09-25
+
+### [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI)
+
+Claude Code 风格的终端 TUI 插件，提供鲸鱼顶栏、实时状态、流式思考展示、双击 Esc 回滚及上下文进度与 TPS 显示，支持 npm 一键安装。
+
+- **Stars:** ⭐️ 4.7k
+- **Tags:** `claude-code` `tui` `terminal` `coding-agent` `ink`
+- **最后活动时间:** 2026-10-17
 
 ### [progressbar](https://github.com/schollz/progressbar)
 
@@ -7324,6 +7420,14 @@ Go语言线程安全的进度条库，轻量易集成，支持多种显示样式
 - **Tags:** `go` `progress-bar` `cli` `terminal`
 - **最后活动时间:** 2026-09-19
 
+### [topgrade](https://github.com/topgrade-rs/topgrade)
+
+一键升级系统中所有软件包和工具。跨平台支持 Linux、macOS 和 Windows，自动化系统维护流程。
+
+- **Stars:** ⭐️ 4.7k
+- **Tags:** `cli` `rust` `package-manager` `system`
+- **最后活动时间:** 2026-10-17
+
 ### [guake](https://github.com/Guake/guake)
 
 GNOME 桌面上经典的下拉式终端模拟器，一键呼出、快捷高效。深受开发者和系统管理员喜爱的老牌终端工具。
@@ -7332,13 +7436,13 @@ GNOME 桌面上经典的下拉式终端模拟器，一键呼出、快捷高效�
 - **Tags:** `GNOME` `Terminal` `TerminalEmulator` `Linux`
 - **最后活动时间:** 2026-08-19
 
-### [topgrade](https://github.com/topgrade-rs/topgrade)
+### [cliamp](https://github.com/bjarneo/cliamp)
 
-一键升级系统中所有软件包和工具。跨平台支持 Linux、macOS 和 Windows，自动化系统维护流程。
+受 Winamp 启发的终端音乐播放器，支持 Spotify、YouTube、网络电台、播客以及 Navidrome/Jellyfin/Plex 等多种流媒体源，并带插件系统。
 
-- **Stars:** ⭐️ 4.6k
-- **Tags:** `cli` `rust` `package-manager` `system`
-- **最后活动时间:** 2026-09-29
+- **Stars:** ⭐️ 4.5k
+- **Tags:** `Music-Player` `TUI` `Terminal` `Streaming`
+- **最后活动时间:** 2026-10-11
 
 ### [binsider](https://github.com/orhun/binsider)
 
@@ -7346,31 +7450,15 @@ GNOME 桌面上经典的下拉式终端模拟器，一键呼出、快捷高效�
 
 - **Stars:** ⭐️ 4.5k
 - **Tags:** `binary-analysis` `elf` `reverse-engineering` `rust` `tui`
-- **最后活动时间:** 2026-09-27
+- **最后活动时间:** 2026-10-11
 
 ### [gptme](https://github.com/gptme/gptme)
 
 终端AI智能体，具备本地工具能力：编写代码、使用终端、浏览网页，支持构建持久化自主智能体。
 
-- **Stars:** ⭐️ 4.4k
+- **Stars:** ⭐️ 4.5k
 - **Tags:** `terminal-agent` `cli` `autonomous-agents` `local-tools`
-- **最后活动时间:** 2026-09-30
-
-### [tuios](https://github.com/Gaurav-Gosain/tuios)
-
-基于 Go 与 Bubbletea 构建的终端 UI 操作系统，提供强大的终端复用与窗口管理能力。
-
-- **Stars:** ⭐️ 4.4k
-- **Tags:** `Go` `TUI` `TerminalMultiplexer` `Bubbletea`
-- **最后活动时间:** 2026-09-30
-
-### [cliamp](https://github.com/bjarneo/cliamp)
-
-受 Winamp 启发的终端音乐播放器，支持 Spotify、YouTube、网络电台、播客以及 Navidrome/Jellyfin/Plex 等多种流媒体源，并带插件系统。
-
-- **Stars:** ⭐️ 4.4k
-- **Tags:** `Music-Player` `TUI` `Terminal` `Streaming`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-17
 
 ### [asciimatics](https://github.com/peterbrittain/asciimatics)
 
@@ -7384,7 +7472,7 @@ Python跨平台curses类库，可创建文本UI、ASCII艺术动画及炫酷终�
 
 在 Android 上一键运行带桌面环境的 Debian 13，基于 proot 实现，无需 Root。
 
-- **Stars:** ⭐️ 4.2k
+- **Stars:** ⭐️ 4.3k
 - **Tags:** `android` `termux` `debian` `proot` `container`
 - **最后活动时间:** 2026-09-13
 
@@ -7404,6 +7492,14 @@ Linux 下的堆内存分析器，帮助开发者定位内存泄漏与分配热�
 - **Tags:** `profiling` `memory` `performance` `linux` `cpp`
 - **最后活动时间:** 2026-09-24
 
+### [nsjail](https://github.com/google/nsjail)
+
+基于 Linux namespaces、cgroups 与 seccomp-bpf 的轻量级进程隔离工具，为沙箱安全提供强大保障。
+
+- **Stars:** ⭐️ 4.2k
+- **Tags:** `security` `sandbox` `isolation` `linux` `seccomp`
+- **最后活动时间:** 2026-10-02
+
 ### [amp](https://github.com/jmacdonald/amp)
 
 用 Rust 编写的完整终端文本编辑器,兼具 Vim 风格操作与现代编辑体验。
@@ -7412,13 +7508,13 @@ Linux 下的堆内存分析器，帮助开发者定位内存泄漏与分配热�
 - **Tags:** `rust` `text-editor` `terminal` `vim`
 - **最后活动时间:** 2026-06-10
 
-### [nsjail](https://github.com/google/nsjail)
+### [a-shell](https://github.com/holzschu/a-shell)
 
-基于 Linux namespaces、cgroups 与 seccomp-bpf 的轻量级进程隔离工具，为沙箱安全提供强大保障。
+iOS 上的终端模拟器，提供完整的 Unix 命令行环境和多窗口支持，让移动设备也能进行开发操作。
 
-- **Stars:** ⭐️ 4.1k
-- **Tags:** `security` `sandbox` `isolation` `linux` `seccomp`
-- **最后活动时间:** 2026-09-30
+- **Stars:** ⭐️ 4.0k
+- **Tags:** `ios` `terminal` `shell` `command-line`
+- **最后活动时间:** 2026-10-17
 
 ### [spectre-meltdown-checker](https://github.com/speed47/spectre-meltdown-checker)
 
@@ -7428,14 +7524,6 @@ Linux 下的堆内存分析器，帮助开发者定位内存泄漏与分配热�
 - **Tags:** `security` `vulnerability` `cpu` `kernel` `linux`
 - **最后活动时间:** 2026-09-26
 
-### [a-shell](https://github.com/holzschu/a-shell)
-
-iOS 上的终端模拟器，提供完整的 Unix 命令行环境和多窗口支持，让移动设备也能进行开发操作。
-
-- **Stars:** ⭐️ 3.9k
-- **Tags:** `ios` `terminal` `shell` `command-line`
-- **最后活动时间:** 2026-09-23
-
 ### [newsboat](https://github.com/newsboat/newsboat)
 
 老牌的终端RSS/Atom阅读器，轻量高效，是文本终端下阅读资讯的首选。
@@ -7444,21 +7532,13 @@ iOS 上的终端模拟器，提供完整的 Unix 命令行环境和多窗口支�
 - **Tags:** `rss` `terminal` `feed-reader` `tui` `news`
 - **最后活动时间:** 2026-09-26
 
-### [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI)
-
-Claude Code 风格的终端 TUI 插件，提供鲸鱼顶栏、实时状态、流式思考展示、双击 Esc 回滚及上下文进度与 TPS 显示，支持 npm 一键安装。
-
-- **Stars:** ⭐️ 3.9k
-- **Tags:** `claude-code` `tui` `terminal` `coding-agent` `ink`
-- **最后活动时间:** 2026-09-30
-
 ### [pwru](https://github.com/cilium/pwru)
 
 基于 eBPF 的 Linux 内核网络调试工具，可追踪数据包在内核中的完整路径，快速定位网络问题。
 
 - **Stars:** ⭐️ 3.8k
 - **Tags:** `ebpf` `networking` `debugging` `linux` `kernel`
-- **最后活动时间:** 2026-09-21
+- **最后活动时间:** 2026-10-16
 
 ### [termora](https://github.com/TermoraDev/termora)
 
@@ -7482,7 +7562,7 @@ Rust 编写的无痛压缩解压命令行工具，一条命令即可搞定 zip�
 
 - **Stars:** ⭐️ 3.8k
 - **Tags:** `Rust` `CLI` `Compression` `Terminal`
-- **最后活动时间:** 2026-09-28
+- **最后活动时间:** 2026-10-14
 
 ### [doxx](https://github.com/bgreenwell/doxx)
 
@@ -7491,6 +7571,14 @@ Rust 编写的无痛压缩解压命令行工具，一条命令即可搞定 zip�
 - **Stars:** ⭐️ 3.8k
 - **Tags:** `Rust` `Docx` `Terminal` `CLI` `TUI`
 - **最后活动时间:** 2026-08-10
+
+### [abtop](https://github.com/graykode/abtop)
+
+类似 htop 的 AI 编码代理监控工具，实时监控 Claude Code 和 Codex CLI 会话、Token 使用和速率限制。
+
+- **Stars:** ⭐️ 3.8k
+- **Tags:** `ai-agents` `monitoring` `terminal` `tui` `rust` `developer-tools`
+- **最后活动时间:** 2026-09-14
 
 ### [ox](https://github.com/curlpipe/ox)
 
@@ -7506,7 +7594,7 @@ Rust 编写的无痛压缩解压命令行工具，一条命令即可搞定 zip�
 
 - **Stars:** ⭐️ 3.7k
 - **Tags:** `API-Client` `TUI` `Rust` `Ratatui`
-- **最后活动时间:** 2026-09-03
+- **最后活动时间:** 2026-10-11
 
 ### [joshuto](https://github.com/kamiyaa/joshuto)
 
@@ -7514,15 +7602,7 @@ Rust 编写的无痛压缩解压命令行工具，一条命令即可搞定 zip�
 
 - **Stars:** ⭐️ 3.7k
 - **Tags:** `Rust` `FileManager` `TUI` `Terminal` `ncurses`
-- **最后活动时间:** 2026-09-24
-
-### [pb](https://github.com/cheggaaa/pb)
-
-Go语言经典的控制台进度条库，简单易用且天然支持并发场景。
-
-- **Stars:** ⭐️ 3.7k
-- **Tags:** `go` `progress-bar` `cli` `terminal`
-- **最后活动时间:** 2026-09-21
+- **最后活动时间:** 2026-10-07
 
 ### [glamour](https://github.com/charmbracelet/glamour)
 
@@ -7530,15 +7610,23 @@ Go语言经典的控制台进度条库，简单易用且天然支持并发场景
 
 - **Stars:** ⭐️ 3.7k
 - **Tags:** `cli` `markdown` `terminal` `go`
-- **最后活动时间:** 2026-09-22
+- **最后活动时间:** 2026-10-15
 
-### [abtop](https://github.com/graykode/abtop)
+### [pb](https://github.com/cheggaaa/pb)
 
-类似 htop 的 AI 编码代理监控工具，实时监控 Claude Code 和 Codex CLI 会话、Token 使用和速率限制。
+Go语言经典的控制台进度条库，简单易用且天然支持并发场景。
 
 - **Stars:** ⭐️ 3.7k
-- **Tags:** `ai-agents` `monitoring` `terminal` `tui` `rust` `developer-tools`
-- **最后活动时间:** 2026-09-14
+- **Tags:** `go` `progress-bar` `cli` `terminal`
+- **最后活动时间:** 2026-10-12
+
+### [psmux](https://github.com/psmux/psmux)
+
+专为Windows打造的高性能原生Tmux替代工具，支持PowerShell和Windows Terminal。
+
+- **Stars:** ⭐️ 3.7k
+- **Tags:** `cli` `powershell` `rust` `terminal-multiplexer` `tmux`
+- **最后活动时间:** 2026-10-17
 
 ### [chainsaw](https://github.com/WithSecureLabs/chainsaw)
 
@@ -7548,21 +7636,13 @@ Go语言经典的控制台进度条库，简单易用且天然支持并发场景
 - **Tags:** `rust` `dfir` `forensics` `sigma` `threat-hunting`
 - **最后活动时间:** 2026-08-25
 
-### [psmux](https://github.com/psmux/psmux)
-
-专为Windows打造的高性能原生Tmux替代工具，支持PowerShell和Windows Terminal。
-
-- **Stars:** ⭐️ 3.6k
-- **Tags:** `cli` `powershell` `rust` `terminal-multiplexer` `tmux`
-- **最后活动时间:** 2026-09-30
-
 ### [Surge](https://github.com/SurgeDM/Surge)
 
 为高级用户打造的极速 TUI 下载管理器，基于 Go 构建，界面流畅、功能聚焦。
 
 - **Stars:** ⭐️ 3.6k
 - **Tags:** `TUI` `Go` `Download-Manager` `Terminal`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [ddgr](https://github.com/jarun/ddgr)
 
@@ -7576,9 +7656,9 @@ Go语言经典的控制台进度条库，简单易用且天然支持并发场景
 
 Emacs的简洁可扩展LLM客户端，支持多种后端和org-mode集成。
 
-- **Stars:** ⭐️ 3.5k
+- **Stars:** ⭐️ 3.6k
 - **Tags:** `emacs` `llm-client` `org-mode`
-- **最后活动时间:** 2026-09-25
+- **最后活动时间:** 2026-10-14
 
 ### [grok-cli](https://github.com/superagent-ai/grok-cli)
 
@@ -7594,7 +7674,7 @@ Emacs的简洁可扩展LLM客户端，支持多种后端和org-mode集成。
 
 - **Stars:** ⭐️ 3.5k
 - **Tags:** `Web` `TerminalEmulator` `JavaScript`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-17
 
 ### [toad](https://github.com/batrachianai/toad)
 
@@ -7604,13 +7684,13 @@ Emacs的简洁可扩展LLM客户端，支持多种后端和org-mode集成。
 - **Tags:** `Terminal` `CLI` `TUI`
 - **最后活动时间:** 2026-05-26
 
-### [axel](https://github.com/axel-download-accelerator/axel)
+### [pebrel](https://github.com/Kuddev/pebrel)
 
-一个轻量级的命令行下载加速器，通过多线程并发连接大幅提升下载速度。它简单易用，是终端环境下下载大文件的利器。
+面向 Windows 的 AI 原生 GPU 加速终端，深度集成 Claude Code、Codex 等 AI CLI，支持 SSH、持久会话与分屏工作流。
 
 - **Stars:** ⭐️ 3.4k
-- **Tags:** `cli` `downloader` `accelerate` `lightweight`
-- **最后活动时间:** 2026-08-29
+- **Tags:** `ai-terminal` `terminal-emulator` `gpu-accelerated` `claude-code` `windows`
+- **最后活动时间:** 2026-10-17
 
 ### [rmpc](https://github.com/mierak/rmpc)
 
@@ -7618,15 +7698,15 @@ Emacs的简洁可扩展LLM客户端，支持多种后端和org-mode集成。
 
 - **Stars:** ⭐️ 3.4k
 - **Tags:** `music-player` `mpd` `tui` `rust`
-- **最后活动时间:** 2026-09-13
+- **最后活动时间:** 2026-10-17
 
-### [xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja)
+### [axel](https://github.com/axel-download-accelerator/axel)
 
-检查 $HOME 目录中不符合 XDG 规范的散落文件的 Shell 脚本,帮你保持主目录整洁。
+一个轻量级的命令行下载加速器，通过多线程并发连接大幅提升下载速度。它简单易用，是终端环境下下载大文件的利器。
 
 - **Stars:** ⭐️ 3.4k
-- **Tags:** `shell` `xdg` `linux` `dotfiles`
-- **最后活动时间:** 2026-05-10
+- **Tags:** `cli` `downloader` `accelerate` `lightweight`
+- **最后活动时间:** 2026-09-30
 
 ### [hayabusa](https://github.com/Yamato-Security/hayabusa)
 
@@ -7634,7 +7714,15 @@ Emacs的简洁可扩展LLM客户端，支持多种后端和org-mode集成。
 
 - **Stars:** ⭐️ 3.4k
 - **Tags:** `rust` `sigma` `threat-hunting` `dfir` `windows-event-logs`
-- **最后活动时间:** 2026-09-26
+- **最后活动时间:** 2026-10-13
+
+### [xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja)
+
+检查 $HOME 目录中不符合 XDG 规范的散落文件的 Shell 脚本,帮你保持主目录整洁。
+
+- **Stars:** ⭐️ 3.4k
+- **Tags:** `shell` `xdg` `linux` `dotfiles`
+- **最后活动时间:** 2026-10-04
 
 ### [wrkflw](https://github.com/bahdotsh/wrkflw)
 
@@ -7650,7 +7738,7 @@ Emacs的简洁可扩展LLM客户端，支持多种后端和org-mode集成。
 
 - **Stars:** ⭐️ 3.3k
 - **Tags:** `grep` `search` `regex` `fuzzy-search` `tui`
-- **最后活动时间:** 2026-09-21
+- **最后活动时间:** 2026-10-12
 
 ### [dry](https://github.com/moncho/dry)
 
@@ -7666,7 +7754,7 @@ Go 编写的终端 Docker 管理器，可交互式地监控和管理容器、镜
 
 - **Stars:** ⭐️ 3.3k
 - **Tags:** `ai` `chatbot` `cli` `terminal` `gpt4` `llama`
-- **最后活动时间:** 2026-09-23
+- **最后活动时间:** 2026-10-14
 
 ### [PowerShell](https://github.com/fleschutz/PowerShell)
 
@@ -7674,15 +7762,15 @@ Go 编写的终端 Docker 管理器，可交互式地监控和管理容器、镜
 
 - **Stars:** ⭐️ 3.3k
 - **Tags:** `powershell` `scripts` `automation` `cross-platform`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-14
 
 ### [kew](https://github.com/ravachol/kew)
 
 快速、沉浸式且注重隐私的终端音乐播放器，跨平台支持 Linux、macOS 与 Windows。
 
-- **Stars:** ⭐️ 3.1k
+- **Stars:** ⭐️ 3.2k
 - **Tags:** `C` `MusicPlayer` `CLI` `Terminal` `TUI`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [termscp](https://github.com/veeso/termscp)
 
@@ -7690,7 +7778,7 @@ Go 编写的终端 Docker 管理器，可交互式地监控和管理容器、镜
 
 - **Stars:** ⭐️ 3.1k
 - **Tags:** `Rust` `TUI` `SFTP` `FileTransfer` `Terminal`
-- **最后活动时间:** 2026-09-16
+- **最后活动时间:** 2026-10-15
 
 ### [gobackup](https://github.com/gobackup/gobackup)
 
@@ -7714,7 +7802,15 @@ Go 编写的终端 Docker 管理器，可交互式地监控和管理容器、镜
 
 - **Stars:** ⭐️ 3.1k
 - **Tags:** `tui` `system-monitor` `terminal` `performance`
-- **最后活动时间:** 2026-09-02
+- **最后活动时间:** 2026-10-01
+
+### [bluetui](https://github.com/pythops/bluetui)
+
+Linux 蓝牙管理的 TUI 工具，让蓝牙设备配对与控制在终端中轻松完成。
+
+- **Stars:** ⭐️ 3.1k
+- **Tags:** `bluetooth` `linux` `tui` `rust`
+- **最后活动时间:** 2026-10-10
 
 ### [contour](https://github.com/contour-terminal/contour)
 
@@ -7722,15 +7818,15 @@ Go 编写的终端 Docker 管理器，可交互式地监控和管理容器、镜
 
 - **Stars:** ⭐️ 3.0k
 - **Tags:** `Terminal-Emulator` `Cpp` `Sixel` `Unicode`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-17
 
-### [bluetui](https://github.com/pythops/bluetui)
+### [llm-checker](https://github.com/signerless/llm-checker)
 
-Linux 蓝牙管理的 TUI 工具，让蓝牙设备配对与控制在终端中轻松完成。
+一款高级 CLI 工具，能够扫描您的硬件并准确告知您可以本地运行哪些大模型或小模型。它集成了 Ollama，方便用户快速评估和部署本地 AI 模型。
 
 - **Stars:** ⭐️ 3.0k
-- **Tags:** `bluetooth` `linux` `tui` `rust`
-- **最后活动时间:** 2026-08-28
+- **Tags:** `llm` `cli` `ollama` `hardware` `local-deployment`
+- **最后活动时间:** 2026-10-13
 
 ### [AutoCLI](https://github.com/nashsu/AutoCLI)
 
@@ -7739,14 +7835,6 @@ Linux 蓝牙管理的 TUI 工具，让蓝牙设备配对与控制在终端中轻
 - **Stars:** ⭐️ 3.0k
 - **Tags:** `cli` `web-scraping` `automation` `ai`
 - **最后活动时间:** 2026-04-20
-
-### [llm-checker](https://github.com/signerless/llm-checker)
-
-一款高级 CLI 工具，能够扫描您的硬件并准确告知您可以本地运行哪些大模型或小模型。它集成了 Ollama，方便用户快速评估和部署本地 AI 模型。
-
-- **Stars:** ⭐️ 3.0k
-- **Tags:** `llm` `cli` `ollama` `hardware` `local-deployment`
-- **最后活动时间:** 2026-09-06
 
 ### [dooit](https://github.com/dooit-org/dooit)
 
@@ -7770,7 +7858,7 @@ Linux 内核管理器和活动监控工具，以 TUI 方式管理内核模块并
 
 - **Stars:** ⭐️ 2.9k
 - **Tags:** `terminal` `recording` `player` `asciinema` `web`
-- **最后活动时间:** 2026-09-13
+- **最后活动时间:** 2026-10-12
 
 ### [lumen](https://github.com/jnsahaj/lumen)
 
@@ -7786,7 +7874,7 @@ Linux 内核管理器和活动监控工具，以 TUI 方式管理内核模块并
 
 - **Stars:** ⭐️ 2.9k
 - **Tags:** `tui` `wifi` `linux` `iwd` `ratatui`
-- **最后活动时间:** 2026-09-19
+- **最后活动时间:** 2026-10-07
 
 ### [extraterm](https://github.com/sedwards2009/extraterm)
 
@@ -7796,14 +7884,6 @@ Linux 内核管理器和活动监控工具，以 TUI 方式管理内核模块并
 - **Tags:** `terminal-emulator` `ssh` `typescript` `wsl`
 - **最后活动时间:** 2026-06-05
 
-### [gonzo](https://github.com/control-theory/gonzo)
-
-基于Go语言的终端日志分析工具，集成Ollama和OpenAI等AI能力，支持OpenTelemetry协议智能分析日志。
-
-- **Stars:** ⭐️ 2.8k
-- **Tags:** `日志分析` `TUI` `OpenTelemetry` `LLM`
-- **最后活动时间:** 2026-09-23
-
 ### [timg](https://github.com/hzeller/timg)
 
 一款终端图像和视频查看器，支持在终端内查看各种格式的图片与动态GIF。兼容多种现代终端图形协议。
@@ -7811,6 +7891,14 @@ Linux 内核管理器和活动监控工具，以 TUI 方式管理内核模块并
 - **Stars:** ⭐️ 2.8k
 - **Tags:** `terminal` `image-viewer` `video-viewer` `sixel`
 - **最后活动时间:** 2026-08-05
+
+### [gonzo](https://github.com/control-theory/gonzo)
+
+基于Go语言的终端日志分析工具，集成Ollama和OpenAI等AI能力，支持OpenTelemetry协议智能分析日志。
+
+- **Stars:** ⭐️ 2.8k
+- **Tags:** `日志分析` `TUI` `OpenTelemetry` `LLM`
+- **最后活动时间:** 2026-09-23
 
 ### [iredis](https://github.com/laixintao/iredis)
 
@@ -7820,13 +7908,13 @@ Linux 内核管理器和活动监控工具，以 TUI 方式管理内核模块并
 - **Tags:** `Redis` `CLI` `Terminal` `Syntax-Highlighting`
 - **最后活动时间:** 2026-09-21
 
-### [git-split-diffs](https://github.com/banga/git-split-diffs)
+### [dekit](https://github.com/pvolok/dekit)
 
-在终端中显示语法高亮的并排 Git diff，让代码审查体验焕然一新。
+基于 Rust 的终端工具，支持并行运行多条命令，显著提升开发与运维效率。界面友好的 TUI 设计让任务编排一目了然。
 
-- **Stars:** ⭐️ 2.7k
-- **Tags:** `git` `diff` `syntax-highlighting` `terminal`
-- **最后活动时间:** 2026-09-13
+- **Stars:** ⭐️ 2.8k
+- **Tags:** `cli` `tui` `rust` `parallel` `terminal`
+- **最后活动时间:** 2026-10-15
 
 ### [patat](https://github.com/jaspervdj/patat)
 
@@ -7836,21 +7924,21 @@ Linux 内核管理器和活动监控工具，以 TUI 方式管理内核模块并
 - **Tags:** `presentation` `markdown` `pandoc` `slides` `terminal`
 - **最后活动时间:** 2026-06-25
 
+### [git-split-diffs](https://github.com/banga/git-split-diffs)
+
+在终端中显示语法高亮的并排 Git diff，让代码审查体验焕然一新。
+
+- **Stars:** ⭐️ 2.7k
+- **Tags:** `git` `diff` `syntax-highlighting` `terminal`
+- **最后活动时间:** 2026-10-11
+
 ### [pspg](https://github.com/okbob/pspg)
 
 专为表格数据设计的功能丰富的 Unix 分页器，对 PostgreSQL、MySQL 及 CSV/TSV 文件支持出色。
 
 - **Stars:** ⭐️ 2.7k
 - **Tags:** `pager` `postgresql` `csv` `terminal` `c`
-- **最后活动时间:** 2026-09-21
-
-### [dekit](https://github.com/pvolok/dekit)
-
-基于 Rust 的终端工具，支持并行运行多条命令，显著提升开发与运维效率。界面友好的 TUI 设计让任务编排一目了然。
-
-- **Stars:** ⭐️ 2.7k
-- **Tags:** `cli` `tui` `rust` `parallel` `terminal`
-- **最后活动时间:** 2026-09-28
+- **最后活动时间:** 2026-10-14
 
 ### [terminator](https://github.com/gnome-terminator/terminator)
 
@@ -7876,21 +7964,21 @@ Linux 内核管理器和活动监控工具，以 TUI 方式管理内核模块并
 - **Tags:** `windows` `security` `hardening` `powershell` `cis`
 - **最后活动时间:** 2026-08-31
 
-### [pebrel](https://github.com/Kuddev/pebrel)
-
-面向 Windows 的 AI 原生 GPU 加速终端，深度集成 Claude Code、Codex 等 AI CLI，支持 SSH、持久会话与分屏工作流。
-
-- **Stars:** ⭐️ 2.7k
-- **Tags:** `ai-terminal` `terminal-emulator` `gpu-accelerated` `claude-code` `windows`
-- **最后活动时间:** 2026-09-30
-
 ### [create-dmg](https://github.com/create-dmg/create-dmg)
 
 经典的 Shell 脚本工具，几条命令即可为 macOS 应用生成美观专业的 DMG 安装镜像。macOS 应用打包分发的必备利器。
 
-- **Stars:** ⭐️ 2.6k
+- **Stars:** ⭐️ 2.7k
 - **Tags:** `bash` `dmg` `macos` `packaging` `script`
 - **最后活动时间:** 2026-07-02
+
+### [dwarfs](https://github.com/mhx/dwarfs)
+
+高性能、高压缩比的只读文件系统，支持 Linux、FreeBSD、macOS 和 Windows。凭借去重与压缩优势，非常适合归档与分发场景。
+
+- **Stars:** ⭐️ 2.6k
+- **Tags:** `filesystem` `compression` `cpp` `cross-platform` `archiving`
+- **最后活动时间:** 2026-10-11
 
 ### [llm-checker](https://github.com/Pavelevich/llm-checker)
 
@@ -7900,21 +7988,13 @@ Linux 内核管理器和活动监控工具，以 TUI 方式管理内核模块并
 - **Tags:** `llm` `cli` `hardware` `ollama` `local-ai`
 - **最后活动时间:** 2026-06-10
 
-### [dwarfs](https://github.com/mhx/dwarfs)
-
-高性能、高压缩比的只读文件系统，支持 Linux、FreeBSD、macOS 和 Windows。凭借去重与压缩优势，非常适合归档与分发场景。
-
-- **Stars:** ⭐️ 2.6k
-- **Tags:** `filesystem` `compression` `cpp` `cross-platform` `archiving`
-- **最后活动时间:** 2026-09-30
-
 ### [valet](https://github.com/laravel/valet)
 
 Laravel 出品的 macOS 本地开发环境工具，无需配置即可快速托管 PHP 站点。让本地 Web 开发体验更加流畅愉悦。
 
 - **Stars:** ⭐️ 2.6k
 - **Tags:** `laravel` `php` `local-development` `macos` `cli`
-- **最后活动时间:** 2026-09-22
+- **最后活动时间:** 2026-10-14
 
 ### [PresentMon](https://github.com/GameTechDev/PresentMon)
 
@@ -7940,6 +8020,14 @@ Intel出品的图形应用性能分析工具，可捕获并分析PC应用的帧�
 - **Tags:** `WeChat` `CLI` `Codex` `Local-First` `Chat-Analysis` `Productivity`
 - **最后活动时间:** 2026-09-29
 
+### [nanocoder](https://github.com/Nano-Collective/nanocoder)
+
+美观的本地优先终端AI编程助手，支持Ollama、OpenAI等多种LLM后端，由社区共建。
+
+- **Stars:** ⭐️ 2.5k
+- **Tags:** `AI Agent` `Coding Assistant` `Terminal` `Local-first`
+- **最后活动时间:** 2026-10-17
+
 ### [asciinema-server](https://github.com/asciinema/asciinema-server)
 
 自托管的终端会话录制托管与分享平台，可与asciinema播放器无缝配合。
@@ -7948,21 +8036,13 @@ Intel出品的图形应用性能分析工具，可捕获并分析PC应用的帧�
 - **Tags:** `terminal` `recording` `self-hosted` `elixir` `sharing`
 - **最后活动时间:** 2026-08-14
 
-### [smenu](https://github.com/p-gen/smenu)
+### [flow](https://github.com/neurocyte/flow)
 
-强大灵活的终端选择器，可将任意输入转化为交互式菜单。广泛用于交互操作与 Shell 脚本自动化场景。
-
-- **Stars:** ⭐️ 2.5k
-- **Tags:** `tui` `cli` `selection` `terminal` `shell`
-- **最后活动时间:** 2026-04-17
-
-### [nanocoder](https://github.com/Nano-Collective/nanocoder)
-
-美观的本地优先终端AI编程助手，支持Ollama、OpenAI等多种LLM后端，由社区共建。
+面向程序员的终端文本编辑器，基于 Zig 构建，内置 LSP 与 Tree-sitter 支持。
 
 - **Stars:** ⭐️ 2.5k
-- **Tags:** `AI Agent` `Coding Assistant` `Terminal` `Local-first`
-- **最后活动时间:** 2026-09-30
+- **Tags:** `text-editor` `zig` `lsp` `tree-sitter`
+- **最后活动时间:** 2026-10-16
 
 ### [whosthere](https://github.com/ramonvermeulen/whosthere)
 
@@ -7970,15 +8050,15 @@ Intel出品的图形应用性能分析工具，可捕获并分析PC应用的帧�
 
 - **Stars:** ⭐️ 2.5k
 - **Tags:** `Go` `TUI` `Network` `Scanner` `LAN`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-16
 
-### [flow](https://github.com/neurocyte/flow)
+### [kondo](https://github.com/tbillington/kondo)
 
-面向程序员的终端文本编辑器，基于 Zig 构建，内置 LSP 与 Tree-sitter 支持。
+一键清理项目中的依赖与构建产物，释放磁盘空间。支持 Rust、Node、Unity 等多种生态，提供 CLI 与 GUI。
 
 - **Stars:** ⭐️ 2.5k
-- **Tags:** `text-editor` `zig` `lsp` `tree-sitter`
-- **最后活动时间:** 2026-09-29
+- **Tags:** `Rust` `CLI` `Disk-Cleanup` `Developer-Tools` `Cross-Platform`
+- **最后活动时间:** 2026-04-24
 
 ### [oterm](https://github.com/ggozad/oterm)
 
@@ -7986,15 +8066,7 @@ Ollama的终端客户端，提供简洁的命令行界面与本地大模型交�
 
 - **Stars:** ⭐️ 2.4k
 - **Tags:** `ollama` `terminal` `llm` `python`
-- **最后活动时间:** 2026-09-27
-
-### [kondo](https://github.com/tbillington/kondo)
-
-一键清理项目中的依赖与构建产物，释放磁盘空间。支持 Rust、Node、Unity 等多种生态，提供 CLI 与 GUI。
-
-- **Stars:** ⭐️ 2.4k
-- **Tags:** `Rust` `CLI` `Disk-Cleanup` `Developer-Tools` `Cross-Platform`
-- **最后活动时间:** 2026-04-24
+- **最后活动时间:** 2026-10-12
 
 ### [calcure](https://github.com/anufrievroman/calcure)
 
@@ -8018,7 +8090,15 @@ Ollama的终端客户端，提供简洁的命令行界面与本地大模型交�
 
 - **Stars:** ⭐️ 2.3k
 - **Tags:** `sandbox` `security` `landlock` `cli` `linux` `kernel`
-- **最后活动时间:** 2026-07-23
+- **最后活动时间:** 2026-10-16
+
+### [muxy](https://github.com/muxy-app/muxy)
+
+基于SwiftUI和libghostty构建的轻量级Mac终端，专为AI开发工作流优化，支持多智能体环境。
+
+- **Stars:** ⭐️ 2.3k
+- **Tags:** `terminal` `macos` `swiftui` `ghostty` `multiplexer`
+- **最后活动时间:** 2026-10-17
 
 ### [h-m-m](https://github.com/nadrad/h-m-m)
 
@@ -8036,13 +8116,13 @@ Ollama的终端客户端，提供简洁的命令行界面与本地大模型交�
 - **Tags:** `Secure Boot` `UEFI` `Go` `Key Management` `Linux`
 - **最后活动时间:** 2026-09-06
 
-### [muxy](https://github.com/muxy-app/muxy)
+### [kimchi](https://github.com/getkimchi/kimchi)
 
-基于SwiftUI和libghostty构建的轻量级Mac终端，专为AI开发工作流优化，支持多智能体环境。
+由多模型编排驱动的终端编码智能体，提升开发效率。
 
 - **Stars:** ⭐️ 2.3k
-- **Tags:** `terminal` `macos` `swiftui` `ghostty` `multiplexer`
-- **最后活动时间:** 2026-09-30
+- **Tags:** `terminal` `coding-agent` `multi-model`
+- **最后活动时间:** 2026-10-17
 
 ### [codex-console](https://github.com/dou-jiang/codex-console)
 
@@ -8051,14 +8131,6 @@ Ollama的终端客户端，提供简洁的命令行界面与本地大模型交�
 - **Stars:** ⭐️ 2.2k
 - **Tags:** `codex` `console` `task-management` `productivity`
 - **最后活动时间:** 2026-08-06
-
-### [kimchi](https://github.com/getkimchi/kimchi)
-
-由多模型编排驱动的终端编码智能体，提升开发效率。
-
-- **Stars:** ⭐️ 2.2k
-- **Tags:** `terminal` `coding-agent` `multi-model`
-- **最后活动时间:** 2026-09-30
 
 ### [far2l](https://github.com/elfmz/far2l)
 
@@ -8082,7 +8154,7 @@ Ollama的终端客户端，提供简洁的命令行界面与本地大模型交�
 
 - **Stars:** ⭐️ 2.2k
 - **Tags:** `vcs` `git` `tui` `golang`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [zmx](https://github.com/neurosnap/zmx)
 
@@ -8092,11 +8164,27 @@ Ollama的终端客户端，提供简洁的命令行界面与本地大模型交�
 - **Tags:** `terminal` `tmux` `session` `zig`
 - **最后活动时间:** 2026-09-25
 
+### [leaf](https://github.com/RivoLink/leaf)
+
+终端中的 Markdown 预览器,提供类 GUI 的流畅阅读体验,并支持 Termux 移动端使用。
+
+- **Stars:** ⭐️ 2.2k
+- **Tags:** `markdown` `tui` `terminal` `preview`
+- **最后活动时间:** 2026-10-17
+
+### [serie](https://github.com/lusingander/serie)
+
+在终端中呈现精美 Git 提交图谱的 TUI 工具,基于 Ratatui 打造,让提交历史一目了然。
+
+- **Stars:** ⭐️ 2.2k
+- **Tags:** `git` `tui` `terminal` `visualization`
+- **最后活动时间:** 2026-10-12
+
 ### [isd](https://github.com/kainctl/isd)
 
 交互式 systemd 管理工具，让 systemctl 单元的查看与操作更直观高效。
 
-- **Stars:** ⭐️ 2.1k
+- **Stars:** ⭐️ 2.2k
 - **Tags:** `systemd` `tui` `cli` `linux`
 - **最后活动时间:** 2026-05-16
 
@@ -8106,15 +8194,7 @@ Taskwarrior 的终端用户界面，让任务管理更加直观高效。
 
 - **Stars:** ⭐️ 2.1k
 - **Tags:** `taskwarrior` `tui` `rust` `productivity`
-- **最后活动时间:** 2026-09-27
-
-### [serie](https://github.com/lusingander/serie)
-
-在终端中呈现精美 Git 提交图谱的 TUI 工具,基于 Ratatui 打造,让提交历史一目了然。
-
-- **Stars:** ⭐️ 2.1k
-- **Tags:** `git` `tui` `terminal` `visualization`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-11
 
 ### [tmux-xpanes](https://github.com/greymd/tmux-xpanes)
 
@@ -8130,7 +8210,7 @@ Taskwarrior 的终端用户界面，让任务管理更加直观高效。
 
 - **Stars:** ⭐️ 2.1k
 - **Tags:** `terminal` `charts` `ascii` `visualization` `javascript`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [circumflex](https://github.com/bensadeh/circumflex)
 
@@ -8138,23 +8218,7 @@ Taskwarrior 的终端用户界面，让任务管理更加直观高效。
 
 - **Stars:** ⭐️ 2.1k
 - **Tags:** `tui` `hacker-news` `cli` `terminal`
-- **最后活动时间:** 2026-09-28
-
-### [leaf](https://github.com/RivoLink/leaf)
-
-终端中的 Markdown 预览器,提供类 GUI 的流畅阅读体验,并支持 Termux 移动端使用。
-
-- **Stars:** ⭐️ 2.1k
-- **Tags:** `markdown` `tui` `terminal` `preview`
-- **最后活动时间:** 2026-09-28
-
-### [systemctl-tui](https://github.com/rgwood/systemctl-tui)
-
-快速简洁的 systemd 服务管理 TUI，可直观查看和管理系统服务及其日志。
-
-- **Stars:** ⭐️ 2.1k
-- **Tags:** `Rust` `systemd` `TUI` `Linux`
-- **最后活动时间:** 2026-07-27
+- **最后活动时间:** 2026-10-13
 
 ### [astroterm](https://github.com/da-luce/astroterm)
 
@@ -8164,13 +8228,45 @@ Taskwarrior 的终端用户界面，让任务管理更加直观高效。
 - **Tags:** `tui` `astronomy` `ascii-art` `terminal` `c`
 - **最后活动时间:** 2026-09-11
 
+### [systemctl-tui](https://github.com/rgwood/systemctl-tui)
+
+快速简洁的 systemd 服务管理 TUI，可直观查看和管理系统服务及其日志。
+
+- **Stars:** ⭐️ 2.1k
+- **Tags:** `Rust` `systemd` `TUI` `Linux`
+- **最后活动时间:** 2026-07-27
+
+### [hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel)
+
+轻量、高速、稳定的 tun2socks 实现，可将设备流量通过 SOCKS5 隧道转发。支持 IPv6、UDP 及多平台部署。
+
+- **Stars:** ⭐️ 2.1k
+- **Tags:** `tun2socks` `SOCKS5` `Proxy` `Tunnel` `Networking`
+- **最后活动时间:** 2026-10-15
+
+### [intelligent-terminal](https://github.com/microsoft/intelligent-terminal)
+
+集成原生AI智能体的Windows终端分支，直接在命令行中提供Copilot辅助。提升开发者的终端操作与编码体验。
+
+- **Stars:** ⭐️ 2.1k
+- **Tags:** `terminal` `ai-agent` `cli` `copilot`
+- **最后活动时间:** 2026-10-16
+
 ### [smassh](https://github.com/kraanzu/smassh)
 
 终端版 MonkeyType 打字测速工具，基于 Textual 构建，界面精美且功能完整。
 
 - **Stars:** ⭐️ 2.1k
 - **Tags:** `Python` `Textual` `Typing Test` `TUI`
-- **最后活动时间:** 2026-08-17
+- **最后活动时间:** 2026-10-14
+
+### [open-vibe-island](https://github.com/Octane0411/open-vibe-island)
+
+开源的vibe-island替代品，专为重度AI代码智能体用户设计的终端工作环境，支持Claude Code、Codex、OpenCode等多种AI编程工具。
+
+- **Stars:** ⭐️ 2.0k
+- **Tags:** `agent` `claude-code` `codex` `terminal` `vibe-coding`
+- **最后活动时间:** 2026-10-16
 
 ### [sad](https://github.com/ms-jpq/sad)
 
@@ -8180,29 +8276,13 @@ Taskwarrior 的终端用户界面，让任务管理更加直观高效。
 - **Tags:** `rust` `cli` `search-and-replace` `fzf`
 - **最后活动时间:** 2026-05-11
 
-### [hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel)
+### [nodeterm](https://github.com/eneskirca/nodeterm)
 
-轻量、高速、稳定的 tun2socks 实现，可将设备流量通过 SOCKS5 隧道转发。支持 IPv6、UDP 及多平台部署。
-
-- **Stars:** ⭐️ 2.0k
-- **Tags:** `tun2socks` `SOCKS5` `Proxy` `Tunnel` `Networking`
-- **最后活动时间:** 2026-09-29
-
-### [open-vibe-island](https://github.com/Octane0411/open-vibe-island)
-
-开源的vibe-island替代品，专为重度AI代码智能体用户设计的终端工作环境，支持Claude Code、Codex、OpenCode等多种AI编程工具。
+基于节点的终端管理器，专为AI编码智能体设计。支持在无限画布上拖拽节点进行并行代理会话。
 
 - **Stars:** ⭐️ 2.0k
-- **Tags:** `agent` `claude-code` `codex` `terminal` `vibe-coding`
-- **最后活动时间:** 2026-09-15
-
-### [intelligent-terminal](https://github.com/microsoft/intelligent-terminal)
-
-集成原生AI智能体的Windows终端分支，直接在命令行中提供Copilot辅助。提升开发者的终端操作与编码体验。
-
-- **Stars:** ⭐️ 2.0k
-- **Tags:** `terminal` `ai-agent` `cli` `copilot`
-- **最后活动时间:** 2026-09-30
+- **Tags:** `ai-agents` `terminal` `tmux` `agent-orchestration`
+- **最后活动时间:** 2026-10-17
 
 ### [ov](https://github.com/noborus/ov)
 
@@ -8210,7 +8290,7 @@ Taskwarrior 的终端用户界面，让任务管理更加直观高效。
 
 - **Stars:** ⭐️ 2.0k
 - **Tags:** `pager` `tui` `terminal` `go` `less`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-12
 
 ### [dotter](https://github.com/SuperCuber/dotter)
 
@@ -8226,7 +8306,7 @@ Taskwarrior 的终端用户界面，让任务管理更加直观高效。
 
 - **Stars:** ⭐️ 2.0k
 - **Tags:** `macos` `cli` `disk-cleaner` `open-source` `developer-tools`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-15
 
 ### [tdf](https://github.com/itsjunetime/tdf)
 
@@ -8236,6 +8316,14 @@ Taskwarrior 的终端用户界面，让任务管理更加直观高效。
 - **Tags:** `TUI` `PDF Viewer` `Terminal`
 - **最后活动时间:** 2026-08-16
 
+### [nchat](https://github.com/d99kris/nchat)
+
+一个基于终端的消息客户端，支持在 Linux 和 macOS 上使用 Telegram、WhatsApp 和 Signal。提供轻量级的命令行即时通讯体验。
+
+- **Stars:** ⭐️ 2.0k
+- **Tags:** `terminal` `telegram` `whatsapp` `signal` `tui`
+- **最后活动时间:** 2026-10-17
+
 ### [amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli)
 
 终端中的智能编程助手，支持自然语言构建应用，集成MCP协议实现Agent能力。
@@ -8244,21 +8332,29 @@ Taskwarrior 的终端用户界面，让任务管理更加直观高效。
 - **Tags:** `CLI` `Agent` `Amazon-Q` `Terminal`
 - **最后活动时间:** 2026-08-24
 
-### [nchat](https://github.com/d99kris/nchat)
-
-一个基于终端的消息客户端，支持在 Linux 和 macOS 上使用 Telegram、WhatsApp 和 Signal。提供轻量级的命令行即时通讯体验。
-
-- **Stars:** ⭐️ 2.0k
-- **Tags:** `terminal` `telegram` `whatsapp` `signal` `tui`
-- **最后活动时间:** 2026-09-27
-
 ### [natmap](https://github.com/heiher/natmap)
 
 针对全锥型 NAT 的 TCP/UDP 端口映射工具，可保持端口映射长期有效。常用于改善 P2P 连接与网络穿透场景。
 
 - **Stars:** ⭐️ 2.0k
 - **Tags:** `NAT` `Port-Mapping` `TCP` `UDP` `Networking`
-- **最后活动时间:** 2026-08-30
+- **最后活动时间:** 2026-10-11
+
+### [agent-shell](https://github.com/xenodium/agent-shell)
+
+原生Emacs缓冲区工具，用于与ACP驱动的LLM智能体交互，支持Claude、OpenAI、Gemini等多种AI模型。
+
+- **Stars:** ⭐️ 2.0k
+- **Tags:** `Emacs` `LLM` `AI Agent`
+- **最后活动时间:** 2026-10-17
+
+### [tmuxai](https://github.com/alvinunreal/tmuxai)
+
+AI驱动的非侵入式终端助手，集成tmux提升命令行效率。
+
+- **Stars:** ⭐️ 2.0k
+- **Tags:** `terminal` `tmux` `ai-assistant` `chatgpt`
+- **最后活动时间:** 2026-10-17
 
 ### [kibi](https://github.com/ilai-deutel/kibi)
 
@@ -8266,7 +8362,15 @@ Taskwarrior 的终端用户界面，让任务管理更加直观高效。
 
 - **Stars:** ⭐️ 2.0k
 - **Tags:** `text-editor` `rust` `tui` `education`
-- **最后活动时间:** 2026-09-27
+- **最后活动时间:** 2026-10-11
+
+### [gita](https://github.com/nosarthur/gita)
+
+从容管理多个 Git 仓库的命令行工具,支持分组与批量操作,大幅提升多仓库开发效率。
+
+- **Stars:** ⭐️ 2.0k
+- **Tags:** `git` `cli` `developer-tools` `productivity`
+- **最后活动时间:** 2026-07-06
 
 ### [dotdrop](https://github.com/deadc0de6/dotdrop)
 
@@ -8276,22 +8380,6 @@ Taskwarrior 的终端用户界面，让任务管理更加直观高效。
 - **Tags:** `dotfiles` `cli` `python` `git` `templating`
 - **最后活动时间:** 2026-09-29
 
-### [tmuxai](https://github.com/alvinunreal/tmuxai)
-
-AI驱动的非侵入式终端助手，集成tmux提升命令行效率。
-
-- **Stars:** ⭐️ 2.0k
-- **Tags:** `terminal` `tmux` `ai-assistant` `chatgpt`
-- **最后活动时间:** 2026-09-28
-
-### [gita](https://github.com/nosarthur/gita)
-
-从容管理多个 Git 仓库的命令行工具,支持分组与批量操作,大幅提升多仓库开发效率。
-
-- **Stars:** ⭐️ 1.9k
-- **Tags:** `git` `cli` `developer-tools` `productivity`
-- **最后活动时间:** 2026-07-06
-
 ### [unimatrix](https://github.com/will8211/unimatrix)
 
 在终端模拟《黑客帝国》字符雨效果的 Python 脚本,支持自定义字符集与键盘交互。
@@ -8300,21 +8388,21 @@ AI驱动的非侵入式终端助手，集成tmux提升命令行效率。
 - **Tags:** `python` `matrix` `terminal` `cmatrix`
 - **最后活动时间:** 2026-05-20
 
-### [nodeterm](https://github.com/eneskirca/nodeterm)
+### [oxker](https://github.com/mrjackwills/oxker)
 
-基于节点的终端管理器，专为AI编码智能体设计。支持在无限画布上拖拽节点进行并行代理会话。
-
-- **Stars:** ⭐️ 1.9k
-- **Tags:** `ai-agents` `terminal` `tmux` `agent-orchestration`
-- **最后活动时间:** 2026-09-30
-
-### [agent-shell](https://github.com/xenodium/agent-shell)
-
-原生Emacs缓冲区工具，用于与ACP驱动的LLM智能体交互，支持Claude、OpenAI、Gemini等多种AI模型。
+简洁的 Docker 容器管理 TUI，可实时查看日志、状态并控制容器。基于 Rust 异步生态构建，性能出色。
 
 - **Stars:** ⭐️ 1.9k
-- **Tags:** `Emacs` `LLM` `AI Agent`
-- **最后活动时间:** 2026-09-30
+- **Tags:** `docker` `tui` `rust` `containers` `monitoring`
+- **最后活动时间:** 2026-08-22
+
+### [OpenMonoAgent.ai](https://github.com/StartupHakk/OpenMonoAgent.ai)
+
+终端原生AI编程助手，支持本地LLM无限token使用，一键安装完全免费开源。
+
+- **Stars:** ⭐️ 1.9k
+- **Tags:** `ai-agent` `terminal` `local-llm` `coding-assistant` `csharp`
+- **最后活动时间:** 2026-10-17
 
 ### [yazi.nvim](https://github.com/mikavilpas/yazi.nvim)
 
@@ -8332,21 +8420,29 @@ AI驱动的非侵入式终端助手，集成tmux提升命令行效率。
 - **Tags:** `network-scanner` `wifi` `tui` `rust`
 - **最后活动时间:** 2026-07-06
 
-### [oxker](https://github.com/mrjackwills/oxker)
+### [TinyNvidiaUpdateChecker](https://github.com/HawaiiBeach/TinyNvidiaUpdateChecker)
 
-简洁的 Docker 容器管理 TUI，可实时查看日志、状态并控制容器。基于 Rust 异步生态构建，性能出色。
-
-- **Stars:** ⭐️ 1.9k
-- **Tags:** `docker` `tui` `rust` `containers` `monitoring`
-- **最后活动时间:** 2026-08-22
-
-### [OpenMonoAgent.ai](https://github.com/StartupHakk/OpenMonoAgent.ai)
-
-终端原生AI编程助手，支持本地LLM无限token使用，一键安装完全免费开源。
+轻量开源的 NVIDIA 驱动更新检查工具，帮助玩家快速检测并下载最新 GPU 驱动。专为 Windows 高级用户打造。
 
 - **Stars:** ⭐️ 1.9k
-- **Tags:** `ai-agent` `terminal` `local-llm` `coding-assistant` `csharp`
-- **最后活动时间:** 2026-09-21
+- **Tags:** `nvidia` `gpu` `driver-update` `windows` `cli`
+- **最后活动时间:** 2026-10-10
+
+### [tuxedo](https://github.com/webstonehq/tuxedo)
+
+一款为 todo.txt 打造的高速键盘驱动终端待办事项管理工具，让任务管理行云流水。
+
+- **Stars:** ⭐️ 1.9k
+- **Tags:** `terminal` `tui` `todo-txt` `productivity`
+- **最后活动时间:** 2026-10-13
+
+### [HardeningKitty](https://github.com/scipag/HardeningKitty)
+
+基于 PowerShell 的 Windows 安全基线检查与加固工具，可按 CIS 等标准审计系统配置。蓝队防御实用利器。
+
+- **Stars:** ⭐️ 1.9k
+- **Tags:** `hardening` `security` `powershell` `windows` `audit`
+- **最后活动时间:** 2026-07-21
 
 ### [3mux](https://github.com/aaronjanse/3mux)
 
@@ -8356,29 +8452,13 @@ AI驱动的非侵入式终端助手，集成tmux提升命令行效率。
 - **Tags:** `tmux` `terminal-multiplexer` `tui` `terminal`
 - **最后活动时间:** 2026-07-06
 
-### [TinyNvidiaUpdateChecker](https://github.com/HawaiiBeach/TinyNvidiaUpdateChecker)
-
-轻量开源的 NVIDIA 驱动更新检查工具，帮助玩家快速检测并下载最新 GPU 驱动。专为 Windows 高级用户打造。
-
-- **Stars:** ⭐️ 1.9k
-- **Tags:** `nvidia` `gpu` `driver-update` `windows` `cli`
-- **最后活动时间:** 2026-09-23
-
-### [HardeningKitty](https://github.com/scipag/HardeningKitty)
-
-基于 PowerShell 的 Windows 安全基线检查与加固工具，可按 CIS 等标准审计系统配置。蓝队防御实用利器。
-
-- **Stars:** ⭐️ 1.8k
-- **Tags:** `hardening` `security` `powershell` `windows` `audit`
-- **最后活动时间:** 2026-07-21
-
 ### [durdraw](https://github.com/durdraw/durdraw)
 
 功能丰富的终端 ASCII/ANSI 艺术编辑器，支持动画、256 色、Unicode 与 CP437 编码及自定义主题。在终端中尽情创作字符画。
 
 - **Stars:** ⭐️ 1.8k
 - **Tags:** `ascii-art` `ansi` `tui` `editor` `animation`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-16
 
 ### [RackPeek](https://github.com/Timmoth/RackPeek)
 
@@ -8386,7 +8466,15 @@ AI驱动的非侵入式终端助手，集成tmux提升命令行效率。
 
 - **Stars:** ⭐️ 1.8k
 - **Tags:** `cli` `infrastructure` `inventory` `home-lab`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-11
+
+### [tere](https://github.com/mgunyho/tere)
+
+用 Rust 编写的轻快终端文件浏览器，支持模糊搜索与快速跳转。与 Shell 无缝集成，即用即退。
+
+- **Stars:** ⭐️ 1.8k
+- **Tags:** `tui` `file-explorer` `rust` `terminal`
+- **最后活动时间:** 2026-10-17
 
 ### [RecoverPy](https://github.com/PabloLec/RecoverPy)
 
@@ -8410,7 +8498,7 @@ Cygwin/MSYS/WSL 生态中广受欢迎的终端模拟器,轻量稳定的经典之
 
 - **Stars:** ⭐️ 1.8k
 - **Tags:** `gpg` `tui` `rust` `security` `pgp`
-- **最后活动时间:** 2026-09-21
+- **最后活动时间:** 2026-10-13
 
 ### [brick](https://github.com/jtdaugherty/brick)
 
@@ -8420,21 +8508,13 @@ Haskell 编写的声明式 Unix 终端 UI 库，以简洁的声明式接口构�
 - **Tags:** `Haskell` `TUI` `Terminal` `UI-Library`
 - **最后活动时间:** 2026-09-26
 
-### [tuxedo](https://github.com/webstonehq/tuxedo)
-
-一款为 todo.txt 打造的高速键盘驱动终端待办事项管理工具，让任务管理行云流水。
-
-- **Stars:** ⭐️ 1.7k
-- **Tags:** `terminal` `tui` `todo-txt` `productivity`
-- **最后活动时间:** 2026-09-21
-
 ### [clifm](https://github.com/leo-arch/clifm)
 
 一个基于命令行的终端文件管理器，支持自动补全、批量重命名和文件预览等功能。它提供了类似Shell的操作体验，是开发者和系统管理员的强大工具。
 
 - **Stars:** ⭐️ 1.7k
 - **Tags:** `cli` `file-manager` `terminal` `command-line`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-17
 
 ### [agg](https://github.com/asciinema/agg)
 
@@ -8444,6 +8524,14 @@ asciinema 官方出品的 GIF 生成器，可将终端录制快速转换为 GIF 
 - **Tags:** `Rust` `asciinema` `GIF` `Terminal`
 - **最后活动时间:** 2026-08-14
 
+### [SwiftTerm](https://github.com/migueldeicaza/SwiftTerm)
+
+用 Swift 实现的高质量 Xterm/VT100 终端模拟引擎，可为 iOS 与 macOS 应用轻松嵌入完整终端能力。
+
+- **Stars:** ⭐️ 1.7k
+- **Tags:** `terminal` `swift` `xterm` `vt100` `ios` `macos`
+- **最后活动时间:** 2026-10-17
+
 ### [smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim)
 
 在 Neovim 与 tmux/Zellij/WezTerm/Kitty 之间实现无缝的方向性分屏导航与窗口调整,告别面板切换烦恼。
@@ -8451,6 +8539,14 @@ asciinema 官方出品的 GIF 生成器，可将终端录制快速转换为 GIF 
 - **Stars:** ⭐️ 1.7k
 - **Tags:** `neovim` `tmux` `zellij` `window-management`
 - **最后活动时间:** 2026-09-04
+
+### [jiratui](https://github.com/whyisdifficult/jiratui)
+
+一个基于文本用户界面的命令行工具，用于从终端直接与Atlassian Jira交互。它简化了任务管理流程，让开发者无需离开终端即可管理Jira任务。
+
+- **Stars:** ⭐️ 1.7k
+- **Tags:** `cli` `jira` `tui` `task-management`
+- **最后活动时间:** 2026-10-15
 
 ### [yank](https://github.com/mptre/yank)
 
@@ -8460,21 +8556,13 @@ asciinema 官方出品的 GIF 生成器，可将终端录制快速转换为 GIF 
 - **Tags:** `clipboard` `terminal` `cli` `utility`
 - **最后活动时间:** 2026-07-16
 
-### [SwiftTerm](https://github.com/migueldeicaza/SwiftTerm)
+### [spotatui](https://github.com/LargeModGames/spotatui)
 
-用 Swift 实现的高质量 Xterm/VT100 终端模拟引擎，可为 iOS 与 macOS 应用轻松嵌入完整终端能力。
-
-- **Stars:** ⭐️ 1.7k
-- **Tags:** `terminal` `swift` `xterm` `vt100` `ios` `macos`
-- **最后活动时间:** 2026-09-29
-
-### [jiratui](https://github.com/whyisdifficult/jiratui)
-
-一个基于文本用户界面的命令行工具，用于从终端直接与Atlassian Jira交互。它简化了任务管理流程，让开发者无需离开终端即可管理Jira任务。
+Rust 编写的高速终端音乐播放器，原生支持 Spotify 流媒体，并兼容本地、Subsonic、电台与 YouTube 等多种音源。
 
 - **Stars:** ⭐️ 1.7k
-- **Tags:** `cli` `jira` `tui` `task-management`
-- **最后活动时间:** 2026-09-30
+- **Tags:** `Rust` `TUI` `MusicPlayer` `Spotify` `Terminal`
+- **最后活动时间:** 2026-10-17
 
 ### [TerminalImageViewer](https://github.com/stefanhaustein/TerminalImageViewer)
 
@@ -8482,15 +8570,7 @@ asciinema 官方出品的 GIF 生成器，可将终端录制快速转换为 GIF 
 
 - **Stars:** ⭐️ 1.7k
 - **Tags:** `Cpp` `Terminal-Graphics` `ANSI` `Image`
-- **最后活动时间:** 2026-09-03
-
-### [timewarrior](https://github.com/GothenburgBitFactory/timewarrior)
-
-一个强大的命令行时间跟踪和报告工具，帮助用户高效管理个人时间。它支持精细化的时间记录和自定义报表生成。
-
-- **Stars:** ⭐️ 1.7k
-- **Tags:** `cli` `time-tracking` `time-tracker` `terminal`
-- **最后活动时间:** 2026-09-27
+- **最后活动时间:** 2026-10-03
 
 ### [yt-x](https://github.com/Benexl/yt-x)
 
@@ -8498,7 +8578,7 @@ asciinema 官方出品的 GIF 生成器，可将终端录制快速转换为 GIF 
 
 - **Stars:** ⭐️ 1.7k
 - **Tags:** `youtube` `yt-dlp` `fzf` `cli` `terminal`
-- **最后活动时间:** 2026-08-30
+- **最后活动时间:** 2026-10-06
 
 ### [AdGuardian-Term](https://github.com/lissy93/AdGuardian-Term)
 
@@ -8506,7 +8586,7 @@ asciinema 官方出品的 GIF 生成器，可将终端录制快速转换为 GIF 
 
 - **Stars:** ⭐️ 1.7k
 - **Tags:** `adguard` `dns` `monitoring` `tui` `rust`
-- **最后活动时间:** 2026-09-15
+- **最后活动时间:** 2026-10-06
 
 ### [mactop](https://github.com/metaspartan/mactop)
 
@@ -8516,13 +8596,13 @@ asciinema 官方出品的 GIF 生成器，可将终端录制快速转换为 GIF 
 - **Tags:** `AppleSilicon` `Terminal` `Monitoring` `Go` `CPU`
 - **最后活动时间:** 2026-09-30
 
-### [args](https://github.com/Taywee/args)
+### [timewarrior](https://github.com/GothenburgBitFactory/timewarrior)
 
-一个轻量级的C++头文件参数解析库，提供强大且灵活的命令行参数解析功能。它旨在兼容Python标准argparse库的特性，方便C++开发者构建CLI应用。
+一个强大的命令行时间跟踪和报告工具，帮助用户高效管理个人时间。它支持精细化的时间记录和自定义报表生成。
 
-- **Stars:** ⭐️ 1.6k
-- **Tags:** `cli` `argument-parser` `cpp` `command-line`
-- **最后活动时间:** 2026-08-03
+- **Stars:** ⭐️ 1.7k
+- **Tags:** `cli` `time-tracking` `time-tracker` `terminal`
+- **最后活动时间:** 2026-10-16
 
 ### [rkn-block-checker](https://github.com/MayersScott/rkn-block-checker)
 
@@ -8530,15 +8610,15 @@ asciinema 官方出品的 GIF 生成器，可将终端录制快速转换为 GIF 
 
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `cli` `network-diagnostics` `censorship` `dns`
-- **最后活动时间:** 2026-09-12
+- **最后活动时间:** 2026-10-02
 
-### [CliFx](https://github.com/Tyrrrz/CliFx)
+### [args](https://github.com/Taywee/args)
 
-一个基于类优先原则的命令行界面构建框架，适用于.NET Core和.NET Standard。它简化了CLI应用的开发流程，提供了强大的命令路由和依赖注入支持。
+一个轻量级的C++头文件参数解析库，提供强大且灵活的命令行参数解析功能。它旨在兼容Python标准argparse库的特性，方便C++开发者构建CLI应用。
 
 - **Stars:** ⭐️ 1.6k
-- **Tags:** `cli` `dotnet` `framework` `command-line`
-- **最后活动时间:** 2026-09-01
+- **Tags:** `cli` `argument-parser` `cpp` `command-line`
+- **最后活动时间:** 2026-08-03
 
 ### [sshs](https://github.com/quantumsheep/sshs)
 
@@ -8548,6 +8628,14 @@ asciinema 官方出品的 GIF 生成器，可将终端录制快速转换为 GIF 
 - **Tags:** `cli` `ssh` `tui` `terminal`
 - **最后活动时间:** 2026-08-29
 
+### [CliFx](https://github.com/Tyrrrz/CliFx)
+
+一个基于类优先原则的命令行界面构建框架，适用于.NET Core和.NET Standard。它简化了CLI应用的开发流程，提供了强大的命令路由和依赖注入支持。
+
+- **Stars:** ⭐️ 1.6k
+- **Tags:** `cli` `dotnet` `framework` `command-line`
+- **最后活动时间:** 2026-10-09
+
 ### [rtail](https://github.com/kilianc/rtail)
 
 通过 Unix 管道把终端输出实时推送到浏览器,几秒内即可构建日志可视化页面。
@@ -8556,6 +8644,14 @@ asciinema 官方出品的 GIF 生成器，可将终端录制快速转换为 GIF 
 - **Tags:** `logs` `terminal` `real-time` `browser`
 - **最后活动时间:** 2026-08-22
 
+### [concord](https://github.com/chojs23/concord)
+
+功能丰富的 Discord 终端客户端,基于 Rust 与 Ratatui 打造的沉浸式命令行聊天体验。
+
+- **Stars:** ⭐️ 1.6k
+- **Tags:** `discord` `tui` `chat` `rust`
+- **最后活动时间:** 2026-10-15
+
 ### [color](https://github.com/gookit/color)
 
 一个Go语言的终端颜色渲染库，支持8/16色、256色及RGB色彩渲染输出。它兼容Windows环境，并提供类似Print/Sprintf的简便调用方法。
@@ -8563,6 +8659,14 @@ asciinema 官方出品的 GIF 生成器，可将终端录制快速转换为 GIF 
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `cli` `terminal-colors` `go` `console`
 - **最后活动时间:** 2026-09-19
+
+### [ttyper](https://github.com/max-niederman/ttyper)
+
+一个基于终端的打字测试游戏，使用Rust编写，提供流畅的TUI交互体验。它支持多种练习模式，是提高打字速度的有趣工具。
+
+- **Stars:** ⭐️ 1.6k
+- **Tags:** `cli` `tui` `typing-game` `rust`
+- **最后活动时间:** 2026-10-13
 
 ### [oh-my-logo](https://github.com/shinshin86/oh-my-logo)
 
@@ -8579,6 +8683,22 @@ asciinema 官方出品的 GIF 生成器，可将终端录制快速转换为 GIF 
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `cli` `terminal` `color` `cpp`
 - **最后活动时间:** 2026-05-16
+
+### [diffnav](https://github.com/dlvhdr/diffnav)
+
+基于 delta 的 Git diff 查看器，增加文件树导航，带来类似 GitHub 的差异浏览体验。
+
+- **Stars:** ⭐️ 1.6k
+- **Tags:** `git` `diff` `tui` `golang`
+- **最后活动时间:** 2026-10-17
+
+### [systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui)
+
+基于 Rust 的 systemd 服务管理 TUI 应用，轻松查看与控制系统服务状态。
+
+- **Stars:** ⭐️ 1.6k
+- **Tags:** `systemd` `tui` `rust` `linux`
+- **最后活动时间:** 2026-10-10
 
 ### [sql-tap](https://github.com/mickamy/sql-tap)
 
@@ -8604,29 +8724,29 @@ asciinema 官方出品的 GIF 生成器，可将终端录制快速转换为 GIF 
 - **Tags:** `mermaid` `diagram` `terminal` `ascii`
 - **最后活动时间:** 2026-09-10
 
-### [systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui)
+### [nerdlog](https://github.com/dimonomid/nerdlog)
 
-基于 Rust 的 systemd 服务管理 TUI 应用，轻松查看与控制系统服务状态。
-
-- **Stars:** ⭐️ 1.6k
-- **Tags:** `systemd` `tui` `rust` `linux`
-- **最后活动时间:** 2026-09-21
-
-### [diffnav](https://github.com/dlvhdr/diffnav)
-
-基于 delta 的 Git diff 查看器，增加文件树导航，带来类似 GitHub 的差异浏览体验。
+快速、远程优先的多主机 TUI 日志查看器，带时间线直方图且无需中心服务器。
 
 - **Stars:** ⭐️ 1.6k
-- **Tags:** `git` `diff` `tui` `golang`
-- **最后活动时间:** 2026-09-22
+- **Tags:** `log-viewer` `devops` `monitoring` `golang`
+- **最后活动时间:** 2026-10-03
 
-### [concord](https://github.com/chojs23/concord)
+### [ghgrab](https://github.com/abhixdd/ghgrab)
 
-功能丰富的 Discord 终端客户端,基于 Rust 与 Ratatui 打造的沉浸式命令行聊天体验。
+漂亮的终端工具，无需离开 CLI 即可浏览和下载 GitHub、GitLab、Codeberg 等平台上的文件。
 
 - **Stars:** ⭐️ 1.6k
-- **Tags:** `discord` `tui` `chat` `rust`
-- **最后活动时间:** 2026-09-29
+- **Tags:** `Rust` `Ratatui` `GitHub` `CLI` `File Downloader`
+- **最后活动时间:** 2026-10-16
+
+### [neomacs](https://github.com/eval-exec/neomacs)
+
+Rust 编写的 GPU 加速 Emacs 替代品，主打多线程 Elisp 与现代显示引擎，目标 10 倍性能提升并 100% 兼容 Emacs。
+
+- **Stars:** ⭐️ 1.6k
+- **Tags:** `emacs` `rust` `editor` `gpu` `elisp`
+- **最后活动时间:** 2026-10-17
 
 ### [kftray](https://github.com/hcavarsan/kftray)
 
@@ -8634,15 +8754,15 @@ asciinema 官方出品的 GIF 生成器，可将终端录制快速转换为 GIF 
 
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `kubernetes` `port-forwarding` `tunnel` `tui` `devops`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
-### [nerdlog](https://github.com/dimonomid/nerdlog)
+### [ClaudeCode-Portable](https://github.com/techjarves/ClaudeCode-Portable)
 
-快速、远程优先的多主机 TUI 日志查看器，带时间线直方图且无需中心服务器。
+将 Claude Code 做成免安装的便携版，可从 U 盘在任意电脑上直接运行，方便在受限环境中使用 AI 编程助手。
 
 - **Stars:** ⭐️ 1.6k
-- **Tags:** `log-viewer` `devops` `monitoring` `golang`
-- **最后活动时间:** 2026-09-26
+- **Tags:** `Claude-Code` `Portable` `CLI` `USB`
+- **最后活动时间:** 2026-09-12
 
 ### [fanyi](https://github.com/afc163/fanyi)
 
@@ -8660,53 +8780,13 @@ asciinema 官方出品的 GIF 生成器，可将终端录制快速转换为 GIF 
 - **Tags:** `rust` `cli` `tui` `tree` `developer-tools`
 - **最后活动时间:** 2026-09-28
 
-### [ghgrab](https://github.com/abhixdd/ghgrab)
-
-漂亮的终端工具，无需离开 CLI 即可浏览和下载 GitHub、GitLab、Codeberg 等平台上的文件。
-
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `Rust` `Ratatui` `GitHub` `CLI` `File Downloader`
-- **最后活动时间:** 2026-09-21
-
-### [ClaudeCode-Portable](https://github.com/techjarves/ClaudeCode-Portable)
-
-将 Claude Code 做成免安装的便携版，可从 U 盘在任意电脑上直接运行，方便在受限环境中使用 AI 编程助手。
-
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `Claude-Code` `Portable` `CLI` `USB`
-- **最后活动时间:** 2026-09-12
-
-### [neomacs](https://github.com/eval-exec/neomacs)
-
-Rust 编写的 GPU 加速 Emacs 替代品，主打多线程 Elisp 与现代显示引擎，目标 10 倍性能提升并 100% 兼容 Emacs。
-
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `emacs` `rust` `editor` `gpu` `elisp`
-- **最后活动时间:** 2026-09-30
-
 ### [xleak](https://github.com/bgreenwell/xleak)
 
 用 Rust 构建的高速终端 Excel 查看器，支持全文搜索、公式显示、大文件懒加载及 CSV/JSON 导出。
 
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `Rust` `Ratatui` `Excel` `Spreadsheet` `TUI`
-- **最后活动时间:** 2026-09-07
-
-### [tmux-fingers](https://github.com/Morantron/tmux-fingers)
-
-在终端中通过类 Vimium 的字母提示实现快速复制粘贴,大幅提升 tmux 下的文本操作效率。
-
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `tmux` `copy-paste` `keyboard-shortcuts` `productivity`
-- **最后活动时间:** 2026-06-22
-
-### [systeroid](https://github.com/orhun/systeroid)
-
-更强大的 sysctl(8) 替代品，带终端用户界面，轻松查看和管理 Linux 内核参数。
-
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `Linux` `Sysctl` `Rust` `TUI` `Kernel`
-- **最后活动时间:** 2026-07-30
+- **最后活动时间:** 2026-10-13
 
 ### [uac](https://github.com/tclahr/uac)
 
@@ -8716,13 +8796,29 @@ Rust 编写的 GPU 加速 Emacs 替代品，主打多线程 Elisp 与现代显�
 - **Tags:** `DFIR` `Forensics` `Incident-Response` `Security`
 - **最后活动时间:** 2026-09-09
 
+### [tmux-fingers](https://github.com/Morantron/tmux-fingers)
+
+在终端中通过类 Vimium 的字母提示实现快速复制粘贴,大幅提升 tmux 下的文本操作效率。
+
+- **Stars:** ⭐️ 1.5k
+- **Tags:** `tmux` `copy-paste` `keyboard-shortcuts` `productivity`
+- **最后活动时间:** 2026-06-22
+
 ### [ttl](https://github.com/lance0/ttl)
 
 现代化 traceroute 工具,提供实时 TUI、逐跳统计、ASN/地理定位、ECMP 检测与 MPLS 解析,堪称更好的 mtr。
 
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `traceroute` `networking` `tui` `rust`
-- **最后活动时间:** 2026-09-24
+- **最后活动时间:** 2026-10-16
+
+### [systeroid](https://github.com/orhun/systeroid)
+
+更强大的 sysctl(8) 替代品，带终端用户界面，轻松查看和管理 Linux 内核参数。
+
+- **Stars:** ⭐️ 1.5k
+- **Tags:** `Linux` `Sysctl` `Rust` `TUI` `Kernel`
+- **最后活动时间:** 2026-07-30
 
 ### [cronboard](https://github.com/antoniorodr/cronboard)
 
@@ -8738,15 +8834,7 @@ Rust 编写的 GPU 加速 Emacs 替代品，主打多线程 Elisp 与现代显�
 
 - **Stars:** ⭐️ 1.4k
 - **Tags:** `cli` `terminal` `image-viewer` `sixel` `markdown`
-- **最后活动时间:** 2026-09-14
-
-### [lazyjournal](https://github.com/Lifailon/lazyjournal)
-
-强大的日志查看 TUI，支持 journald、auditd、Docker/Podman 容器与 Kubernetes Pod 日志，带高亮与多种过滤模式。
-
-- **Stars:** ⭐️ 1.4k
-- **Tags:** `Logs` `Docker` `Kubernetes` `TUI` `Go`
-- **最后活动时间:** 2026-08-01
+- **最后活动时间:** 2026-10-14
 
 ### [bluetuith](https://github.com/bluetuith-org/bluetuith)
 
@@ -8756,37 +8844,13 @@ Rust 编写的 GPU 加速 Emacs 替代品，主打多线程 Elisp 与现代显�
 - **Tags:** `Bluetooth` `TUI` `Cross-platform` `Linux`
 - **最后活动时间:** 2026-07-01
 
-### [sshm](https://github.com/Gu1llaum-3/sshm)
+### [lazyjournal](https://github.com/Lifailon/lazyjournal)
 
-用 Go 构建的精美 SSH 主机管理工具，通过直观的 TUI 界面让 SSH 连接管理变得轻松高效。
-
-- **Stars:** ⭐️ 1.4k
-- **Tags:** `Go` `SSH` `TUI` `CLI` `Developer Tools`
-- **最后活动时间:** 2026-07-27
-
-### [spotatui](https://github.com/LargeModGames/spotatui)
-
-Rust 编写的高速终端音乐播放器，原生支持 Spotify 流媒体，并兼容本地、Subsonic、电台与 YouTube 等多种音源。
+强大的日志查看 TUI，支持 journald、auditd、Docker/Podman 容器与 Kubernetes Pod 日志，带高亮与多种过滤模式。
 
 - **Stars:** ⭐️ 1.4k
-- **Tags:** `Rust` `TUI` `MusicPlayer` `Spotify` `Terminal`
-- **最后活动时间:** 2026-09-30
-
-### [arttime](https://github.com/poetaman/arttime)
-
-将 ASCII 艺术与时钟/计时器功能融合的终端应用，让提醒与番茄钟兼具美感与实用性。
-
-- **Stars:** ⭐️ 1.4k
-- **Tags:** `CLI` `Terminal` `Timer` `ASCIIArt` `Pomodoro`
-- **最后活动时间:** 2026-08-18
-
-### [mac-monitor](https://github.com/Brandon7CC/mac-monitor)
-
-被誉为「macOS 版 ProcMon」的安全监控工具，通过 Endpoint Security 记录并分析系统事件。
-
-- **Stars:** ⭐️ 1.4k
-- **Tags:** `macOS` `Security` `EndpointSecurity` `SwiftUI` `Monitoring`
-- **最后活动时间:** 2026-09-20
+- **Tags:** `Logs` `Docker` `Kubernetes` `TUI` `Go`
+- **最后活动时间:** 2026-10-12
 
 ### [agent](https://github.com/PentesterFlow/agent)
 
@@ -8796,13 +8860,45 @@ Rust 编写的高速终端音乐播放器，原生支持 Spotify 流媒体，并
 - **Tags:** `ai-agents` `penetration-testing` `security-audit` `terminal` `cybersecurity`
 - **最后活动时间:** 2026-08-31
 
+### [sshm](https://github.com/Gu1llaum-3/sshm)
+
+用 Go 构建的精美 SSH 主机管理工具，通过直观的 TUI 界面让 SSH 连接管理变得轻松高效。
+
+- **Stars:** ⭐️ 1.4k
+- **Tags:** `Go` `SSH` `TUI` `CLI` `Developer Tools`
+- **最后活动时间:** 2026-07-27
+
+### [mac-monitor](https://github.com/Brandon7CC/mac-monitor)
+
+被誉为「macOS 版 ProcMon」的安全监控工具，通过 Endpoint Security 记录并分析系统事件。
+
+- **Stars:** ⭐️ 1.4k
+- **Tags:** `macOS` `Security` `EndpointSecurity` `SwiftUI` `Monitoring`
+- **最后活动时间:** 2026-10-08
+
+### [arttime](https://github.com/poetaman/arttime)
+
+将 ASCII 艺术与时钟/计时器功能融合的终端应用，让提醒与番茄钟兼具美感与实用性。
+
+- **Stars:** ⭐️ 1.4k
+- **Tags:** `CLI` `Terminal` `Timer` `ASCIIArt` `Pomodoro`
+- **最后活动时间:** 2026-08-18
+
 ### [basalt](https://github.com/erikjuhani/basalt)
 
 基于 ratatui 的 Obsidian 笔记管理 TUI，直接在终端中浏览、编辑与管理知识库。为重度终端用户打造。
 
 - **Stars:** ⭐️ 1.4k
 - **Tags:** `tui` `obsidian` `markdown` `notes` `ratatui`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
+
+### [gh-skyline](https://github.com/github/gh-skyline)
+
+GitHub 官方 CLI 扩展，可将你的 GitHub 贡献历史生成 3D 模型。支持 3D 打印，让代码贡献可视化别具一格。
+
+- **Stars:** ⭐️ 1.4k
+- **Tags:** `GitHub` `CLI` `3D` `Golang` `Visualization`
+- **最后活动时间:** 2026-10-15
 
 ### [amfora](https://github.com/makew0rld/amfora)
 
@@ -8810,15 +8906,15 @@ Rust 编写的高速终端音乐播放器，原生支持 Spotify 流媒体，并
 
 - **Stars:** ⭐️ 1.4k
 - **Tags:** `Go` `Gemini Protocol` `Terminal Browser` `TUI`
-- **最后活动时间:** 2026-07-03
+- **最后活动时间:** 2026-10-01
 
-### [gh-skyline](https://github.com/github/gh-skyline)
+### [flyline](https://github.com/HalFrgrd/flyline)
 
-GitHub 官方 CLI 扩展，可将你的 GitHub 贡献历史生成 3D 模型。支持 3D 打印，让代码贡献可视化别具一格。
+一款用 Rust 编写的 Bash 行编辑插件，取代传统 readline，提供语法高亮、模糊历史搜索、富提示符与 AI Agent 集成等现代化终端体验。
 
-- **Stars:** ⭐️ 1.3k
-- **Tags:** `GitHub` `CLI` `3D` `Golang` `Visualization`
-- **最后活动时间:** 2026-08-13
+- **Stars:** ⭐️ 1.4k
+- **Tags:** `bash` `terminal` `line-editor` `ai-agent` `rust`
+- **最后活动时间:** 2026-10-17
 
 ### [tcping](https://github.com/pouriyajamshidi/tcping)
 
@@ -8826,7 +8922,7 @@ GitHub 官方 CLI 扩展，可将你的 GitHub 贡献历史生成 3D 模型。�
 
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `cli` `networking` `tcp` `ping` `golang`
-- **最后活动时间:** 2026-09-27
+- **最后活动时间:** 2026-10-17
 
 ### [version-manager](https://github.com/gvcgo/version-manager)
 
@@ -8852,6 +8948,22 @@ GitHub 官方 CLI 扩展，可将你的 GitHub 贡献历史生成 3D 模型。�
 - **Tags:** `mastodon` `tui` `cli` `python`
 - **最后活动时间:** 2026-09-12
 
+### [upterm](https://github.com/owenthereal/upterm)
+
+即时终端共享工具,通过 SSH 让他人安全地协作或协助调试你的终端会话。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `ssh` `terminal` `sharing` `collaboration`
+- **最后活动时间:** 2026-10-17
+
+### [winappCli](https://github.com/microsoft/winappCli)
+
+Windows 应用开发统一命令行工具，一站式管理 SDK、打包、应用标识、清单与证书。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `CLI` `Windows-SDK` `MSIX` `WinDev` `Packaging`
+- **最后活动时间:** 2026-10-17
+
 ### [yori](https://github.com/malxau/yori)
 
 功能增强的 Windows CMD 替代 Shell，支持反引号、作业控制，并改进了 Tab 补全、文件匹配、别名与命令历史等功能。
@@ -8866,15 +8978,7 @@ GitHub 官方 CLI 扩展，可将你的 GitHub 贡献历史生成 3D 模型。�
 
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `ssh` `pastebin` `tui` `go` `self-hosted`
-- **最后活动时间:** 2026-09-08
-
-### [flyline](https://github.com/HalFrgrd/flyline)
-
-一款用 Rust 编写的 Bash 行编辑插件，取代传统 readline，提供语法高亮、模糊历史搜索、富提示符与 AI Agent 集成等现代化终端体验。
-
-- **Stars:** ⭐️ 1.3k
-- **Tags:** `bash` `terminal` `line-editor` `ai-agent` `rust`
-- **最后活动时间:** 2026-09-28
+- **最后活动时间:** 2026-10-01
 
 ### [bashhub-client](https://github.com/rcaloras/bashhub-client)
 
@@ -8882,15 +8986,7 @@ GitHub 官方 CLI 扩展，可将你的 GitHub 贡献历史生成 3D 模型。�
 
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `bash` `zsh` `history` `cloud` `search`
-- **最后活动时间:** 2026-08-30
-
-### [upterm](https://github.com/owenthereal/upterm)
-
-即时终端共享工具,通过 SSH 让他人安全地协作或协助调试你的终端会话。
-
-- **Stars:** ⭐️ 1.3k
-- **Tags:** `ssh` `terminal` `sharing` `collaboration`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-07
 
 ### [toxic](https://github.com/JFreegman/toxic)
 
@@ -8900,13 +8996,13 @@ GitHub 官方 CLI 扩展，可将你的 GitHub 贡献历史生成 3D 模型。�
 - **Tags:** `Tox` `Instant Messaging` `Privacy` `ncurses` `P2P`
 - **最后活动时间:** 2026-07-14
 
-### [winappCli](https://github.com/microsoft/winappCli)
+### [bfs](https://github.com/tavianator/bfs)
 
-Windows 应用开发统一命令行工具，一站式管理 SDK、打包、应用标识、清单与证书。
+一个广度优先的 UNIX find 命令替代工具，提供更快的文件系统搜索体验。
 
 - **Stars:** ⭐️ 1.3k
-- **Tags:** `CLI` `Windows-SDK` `MSIX` `WinDev` `Packaging`
-- **最后活动时间:** 2026-09-30
+- **Tags:** `command-line` `filesystem` `unix` `search`
+- **最后活动时间:** 2026-10-13
 
 ### [micasa](https://github.com/micasa-dev/micasa)
 
@@ -8916,14 +9012,6 @@ Windows 应用开发统一命令行工具，一站式管理 SDK、打包、应�
 - **Tags:** `TUI` `Home Management` `Productivity` `Terminal`
 - **最后活动时间:** 2026-09-24
 
-### [bfs](https://github.com/tavianator/bfs)
-
-一个广度优先的 UNIX find 命令替代工具，提供更快的文件系统搜索体验。
-
-- **Stars:** ⭐️ 1.3k
-- **Tags:** `command-line` `filesystem` `unix` `search`
-- **最后活动时间:** 2026-09-28
-
 ### [critique](https://github.com/remorses/critique)
 
 用于审查 git 变更的 TUI 与配套网站，让代码 diff 审阅在终端中更高效直观。适合开发者日常 code review。
@@ -8931,6 +9019,22 @@ Windows 应用开发统一命令行工具，一站式管理 SDK、打包、应�
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `tui` `git` `diff` `code-review`
 - **最后活动时间:** 2026-09-27
+
+### [dnsglobe](https://github.com/514-labs/dnsglobe)
+
+全球 DNS 传播检测 TUI，在终端世界地图上实时观察 DNS 记录向 34 个公共解析器传播的过程。网络运维可视化利器。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `dns` `tui` `rust` `networking` `ratatui`
+- **最后活动时间:** 2026-09-10
+
+### [podman-tui](https://github.com/containers/podman-tui)
+
+Podman 终端 UI，在终端中直观管理容器、镜像和卷等资源。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `Podman` `Containers` `TUI` `Terminal`
+- **最后活动时间:** 2026-10-15
 
 ### [OpenClaude-Portable](https://github.com/techjarves/OpenClaude-Portable)
 
@@ -8940,29 +9044,13 @@ Windows 应用开发统一命令行工具，一站式管理 SDK、打包、应�
 - **Tags:** `claude-code` `portable` `desktop` `ai-tools`
 - **最后活动时间:** 2026-05-07
 
-### [podman-tui](https://github.com/containers/podman-tui)
-
-Podman 终端 UI，在终端中直观管理容器、镜像和卷等资源。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `Podman` `Containers` `TUI` `Terminal`
-- **最后活动时间:** 2026-09-18
-
 ### [claude-code-log](https://github.com/daaain/claude-code-log)
 
 Python CLI工具，将Claude Code的JSONL转录文件转换为可读的HTML格式，便于查看和分析。
 
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `claude-code` `cli-tool` `transcript-converter`
-- **最后活动时间:** 2026-09-27
-
-### [termimad](https://github.com/Canop/termimad)
-
-Rust 库，用于在终端应用中渲染富文本 Markdown 片段，支持 skin 定制与多种排版元素展示。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `Rust` `Markdown` `Terminal` `Library`
-- **最后活动时间:** 2026-09-28
+- **最后活动时间:** 2026-10-09
 
 ### [opensessions](https://github.com/Ataraxy-Labs/opensessions)
 
@@ -8972,13 +9060,21 @@ Tmux持久化侧边栏插件，可跨所有会话实时显示AI代理的运行�
 - **Tags:** `agents` `tmux` `tmux-plugins`
 - **最后活动时间:** 2026-06-23
 
-### [slumber](https://github.com/LucasPickering/slumber)
+### [bookokrat](https://github.com/bugzmanov/bookokrat)
 
-基于终端的 HTTP/REST 客户端，让 API 调试与请求管理无需离开命令行。
+终端 EPUB/PDF/DjVu 电子书阅读器，让你在命令行中舒适地阅读文档。
 
 - **Stars:** ⭐️ 1.2k
-- **Tags:** `http-client` `rest-client` `api` `terminal` `rust`
-- **最后活动时间:** 2026-09-24
+- **Tags:** `ebook-reader` `epub` `pdf` `rust` `tui`
+- **最后活动时间:** 2026-10-17
+
+### [termimad](https://github.com/Canop/termimad)
+
+Rust 库，用于在终端应用中渲染富文本 Markdown 片段，支持 skin 定制与多种排版元素展示。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `Rust` `Markdown` `Terminal` `Library`
+- **最后活动时间:** 2026-09-28
 
 ### [lla](https://github.com/chaqchase/lla)
 
@@ -8986,7 +9082,15 @@ Tmux持久化侧边栏插件，可跨所有会话实时显示AI代理的运行�
 
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `cli` `ls` `rust` `terminal`
-- **最后活动时间:** 2026-09-21
+- **最后活动时间:** 2026-10-12
+
+### [slumber](https://github.com/LucasPickering/slumber)
+
+基于终端的 HTTP/REST 客户端，让 API 调试与请求管理无需离开命令行。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `http-client` `rest-client` `api` `terminal` `rust`
+- **最后活动时间:** 2026-10-17
 
 ### [desed](https://github.com/SoptikHa2/desed)
 
@@ -9002,15 +9106,7 @@ tmux 的 Python API 封装，让开发者能用脚本程序化管理终端会话
 
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `python` `tmux` `terminal` `api` `cli`
-- **最后活动时间:** 2026-09-30
-
-### [dnsglobe](https://github.com/514-labs/dnsglobe)
-
-全球 DNS 传播检测 TUI，在终端世界地图上实时观察 DNS 记录向 34 个公共解析器传播的过程。网络运维可视化利器。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `dns` `tui` `rust` `networking` `ratatui`
-- **最后活动时间:** 2026-09-10
+- **最后活动时间:** 2026-10-17
 
 ### [dstask](https://github.com/naggie/dstask)
 
@@ -9026,23 +9122,15 @@ Git 驱动的终端任务与笔记管理器,每个任务对应一个 Markdown �
 
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `C++` `TUI` `Widget Toolkit` `Framework` `Library`
-- **最后活动时间:** 2026-09-23
+- **最后活动时间:** 2026-10-15
 
-### [playball](https://github.com/paaatrick/playball)
+### [nova](https://github.com/Yazelix/nova)
 
-在终端中观看 MLB 棒球比赛直播的趣味工具，无需离开命令行即可享受赛事。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `Terminal` `Streaming` `MLB` `CLI`
-- **最后活动时间:** 2026-09-02
-
-### [console](https://github.com/console-rs/console)
-
-Rust 生态广泛使用的终端与控制台抽象库，提供 Term、Style 等跨平台终端能力，是众多 Rust CLI 工具的底层依赖。
+基于 Nix 打包的一体化终端工作区，整合 Helix、Zellij、Yazi 与 Nushell 等自研组件，开箱即用。
 
 - **Stars:** ⭐️ 1.2k
-- **Tags:** `Rust` `Terminal` `Library` `Console`
-- **最后活动时间:** 2026-09-10
+- **Tags:** `nix` `terminal` `helix` `zellij` `nushell`
+- **最后活动时间:** 2026-10-17
 
 ### [tg](https://github.com/paul-nameless/tg)
 
@@ -9052,13 +9140,37 @@ Rust 生态广泛使用的终端与控制台抽象库，提供 Term、Style 等�
 - **Tags:** `telegram` `tui` `terminal` `cli`
 - **最后活动时间:** 2026-05-04
 
-### [nova](https://github.com/Yazelix/nova)
+### [playball](https://github.com/paaatrick/playball)
 
-基于 Nix 打包的一体化终端工作区，整合 Helix、Zellij、Yazi 与 Nushell 等自研组件，开箱即用。
+在终端中观看 MLB 棒球比赛直播的趣味工具，无需离开命令行即可享受赛事。
 
 - **Stars:** ⭐️ 1.2k
-- **Tags:** `nix` `terminal` `helix` `zellij` `nushell`
-- **最后活动时间:** 2026-09-27
+- **Tags:** `Terminal` `Streaming` `MLB` `CLI`
+- **最后活动时间:** 2026-10-04
+
+### [console](https://github.com/console-rs/console)
+
+Rust 生态广泛使用的终端与控制台抽象库，提供 Term、Style 等跨平台终端能力，是众多 Rust CLI 工具的底层依赖。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `Rust` `Terminal` `Library` `Console`
+- **最后活动时间:** 2026-09-10
+
+### [simutil](https://github.com/dungngminh/simutil)
+
+跨平台 TUI 小工具，可在终端中快速启动和管理 Android 模拟器与 iOS 模拟器。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `tui` `android` `ios` `cli`
+- **最后活动时间:** 2026-10-16
+
+### [coding_agent_session_search](https://github.com/Dicklesworthstone/coding_agent_session_search)
+
+统一的TUI/CLI工具，支持索引和搜索11+种AI编程助手的本地会话历史记录，包括Codex、Claude、Gemini、Cursor等。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `TUI` `Search` `Session History`
+- **最后活动时间:** 2026-10-17
 
 ### [vim-quickui](https://github.com/skywind3000/vim-quickui)
 
@@ -9068,21 +9180,13 @@ Rust 生态广泛使用的终端与控制台抽象库，提供 Term、Style 等�
 - **Tags:** `vim` `neovim` `plugin` `ui` `terminal`
 - **最后活动时间:** 2026-06-30
 
-### [simutil](https://github.com/dungngminh/simutil)
+### [youtube-tui](https://github.com/Siriusmart/youtube-tui)
 
-跨平台 TUI 小工具，可在终端中快速启动和管理 Android 模拟器与 iOS 模拟器。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `tui` `android` `ios` `cli`
-- **最后活动时间:** 2026-09-25
-
-### [bookokrat](https://github.com/bugzmanov/bookokrat)
-
-终端 EPUB/PDF/DjVu 电子书阅读器，让你在命令行中舒适地阅读文档。
+用 Rust 编写的美观 YouTube 终端客户端，支持搜索、浏览与下载视频。界面精致、操作流畅。
 
 - **Stars:** ⭐️ 1.2k
-- **Tags:** `ebook-reader` `epub` `pdf` `rust` `tui`
-- **最后活动时间:** 2026-09-06
+- **Tags:** `tui` `youtube` `rust` `terminal`
+- **最后活动时间:** 2026-05-29
 
 ### [log-update](https://github.com/sindresorhus/log-update)
 
@@ -9092,21 +9196,21 @@ Rust 生态广泛使用的终端与控制台抽象库，提供 Term、Style 等�
 - **Tags:** `nodejs` `terminal` `cli` `progress`
 - **最后活动时间:** 2026-09-18
 
-### [youtube-tui](https://github.com/Siriusmart/youtube-tui)
-
-用 Rust 编写的美观 YouTube 终端客户端，支持搜索、浏览与下载视频。界面精致、操作流畅。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `tui` `youtube` `rust` `terminal`
-- **最后活动时间:** 2026-05-29
-
 ### [matterhorn](https://github.com/matterhorn-chat/matterhorn)
 
 功能丰富的 Mattermost 终端客户端，让团队沟通完整保留在命令行中。
 
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `haskell` `mattermost` `tui` `chat`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-11
+
+### [xq](https://github.com/sibprogrammer/xq)
+
+命令行 XML/HTML 美化与内容提取工具，支持 XPath 查询与语法高亮。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `golang` `xml` `html` `cli` `xpath`
+- **最后活动时间:** 2026-10-12
 
 ### [lurk](https://github.com/JakWai01/lurk)
 
@@ -9115,22 +9219,6 @@ Rust 生态广泛使用的终端与控制台抽象库，提供 Term、Style 等�
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `rust` `strace` `cli` `debugging`
 - **最后活动时间:** 2026-04-20
-
-### [xq](https://github.com/sibprogrammer/xq)
-
-命令行 XML/HTML 美化与内容提取工具，支持 XPath 查询与语法高亮。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `golang` `xml` `html` `cli` `xpath`
-- **最后活动时间:** 2026-09-14
-
-### [coding_agent_session_search](https://github.com/Dicklesworthstone/coding_agent_session_search)
-
-统一的TUI/CLI工具，支持索引和搜索11+种AI编程助手的本地会话历史记录，包括Codex、Claude、Gemini、Cursor等。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `TUI` `Search` `Session History`
-- **最后活动时间:** 2026-09-30
 
 ### [tokentab](https://github.com/crwdla/tokentab)
 
@@ -9170,23 +9258,7 @@ Rust 生态广泛使用的终端与控制台抽象库，提供 Term、Style 等�
 
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `golang` `flamegraph` `profiling` `tui`
-- **最后活动时间:** 2026-09-21
-
-### [localgpt](https://github.com/localgpt-app/localgpt)
-
-基于 Rust 和 Bevy 构建的本地 AI 助手，支持探索式世界生成。
-
-- **Stars:** ⭐️ 1.1k
-- **Tags:** `local-ai` `rust` `agent` `bevy`
-- **最后活动时间:** 2026-09-30
-
-### [ghui](https://github.com/kitlangton/ghui)
-
-在终端中浏览和操作 GitHub 的 TUI 工具，让代码托管平台的日常操作更加高效。
-
-- **Stars:** ⭐️ 1.1k
-- **Tags:** `GitHub` `TUI` `Terminal` `CLI`
-- **最后活动时间:** 2026-09-25
+- **最后活动时间:** 2026-10-01
 
 ### [ghostling](https://github.com/ghostty-org/ghostling)
 
@@ -9196,13 +9268,37 @@ Rust 生态广泛使用的终端与控制台抽象库，提供 Term、Style 等�
 - **Tags:** `terminal-emulator` `ghostty` `libghostty`
 - **最后活动时间:** 2026-08-09
 
+### [localgpt](https://github.com/localgpt-app/localgpt)
+
+基于 Rust 和 Bevy 构建的本地 AI 助手，支持探索式世界生成。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `local-ai` `rust` `agent` `bevy`
+- **最后活动时间:** 2026-10-17
+
+### [ghui](https://github.com/kitlangton/ghui)
+
+在终端中浏览和操作 GitHub 的 TUI 工具，让代码托管平台的日常操作更加高效。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `GitHub` `TUI` `Terminal` `CLI`
+- **最后活动时间:** 2026-09-25
+
 ### [otel-tui](https://github.com/ymtdzzz/otel-tui)
 
 受 otel-desktop-viewer 启发的终端 OpenTelemetry 查看器，在命令行中实时观测遥测数据。
 
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `OpenTelemetry` `TUI` `Observability`
-- **最后活动时间:** 2026-09-27
+- **最后活动时间:** 2026-10-14
+
+### [agent-deck](https://github.com/asheshgoplani/agent-deck)
+
+专为AI编程助手设计的终端会话管理器，统一管理Claude、Gemini等多种AI代理会话。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `AI Agent` `Terminal` `TUI` `Session Manager`
+- **最后活动时间:** 2026-10-17
 
 ### [mac_apt](https://github.com/ydkhatri/mac_apt)
 
@@ -9210,7 +9306,7 @@ Rust 生态广泛使用的终端与控制台抽象库，提供 Term、Style 等�
 
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `macos` `dfir` `forensics` `security` `cli`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-10
 
 ### [hwatch](https://github.com/blacknon/hwatch)
 
@@ -9220,13 +9316,13 @@ watch 命令的增强替代品，支持历史记录、diff 视图、JSONL 日志
 - **Tags:** `watch` `monitoring` `terminal` `rust`
 - **最后活动时间:** 2026-08-30
 
-### [ekphos](https://github.com/nostacks/ekphos)
+### [sshpilot](https://github.com/mfat/sshpilot)
 
-受 Obsidian 启发的轻量终端 Markdown 研究工具，快速高效。适合在命令行中管理笔记与知识库。
+跨平台、用户友好的SSH连接管理器，简化多服务器连接与隧道管理。
 
 - **Stars:** ⭐️ 1.1k
-- **Tags:** `tui` `markdown` `notes` `productivity`
-- **最后活动时间:** 2026-09-23
+- **Tags:** `ssh` `terminal` `gnome` `linux` `ssh-client`
+- **最后活动时间:** 2026-10-16
 
 ### [wiremix](https://github.com/tsowell/wiremix)
 
@@ -9234,7 +9330,15 @@ watch 命令的增强替代品，支持历史记录、diff 视图、JSONL 日志
 
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `PipeWire` `Audio` `TUI` `Linux`
-- **最后活动时间:** 2026-07-12
+- **最后活动时间:** 2026-10-16
+
+### [ekphos](https://github.com/nostacks/ekphos)
+
+受 Obsidian 启发的轻量终端 Markdown 研究工具，快速高效。适合在命令行中管理笔记与知识库。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `tui` `markdown` `notes` `productivity`
+- **最后活动时间:** 2026-10-06
 
 ### [snow-cli](https://github.com/MayDay-wpf/snow-cli)
 
@@ -9242,7 +9346,7 @@ watch 命令的增强替代品，支持历史记录、diff 视图、JSONL 日志
 
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `ai-agents` `ai-coding` `terminal`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-16
 
 ### [trzsz-go](https://github.com/trzsz/trzsz-go)
 
@@ -9250,7 +9354,7 @@ trzsz 的 Go 语言实现，让所有支持本地 Shell 的终端都能使用 tr
 
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `Go` `FileTransfer` `ZMODEM` `Terminal` `tmux`
-- **最后活动时间:** 2026-08-15
+- **最后活动时间:** 2026-10-10
 
 ### [cloudflare-speed-cli](https://github.com/kavehtehrani/cloudflare-speed-cli)
 
@@ -9258,7 +9362,15 @@ trzsz 的 Go 语言实现，让所有支持本地 Shell 的终端都能使用 tr
 
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `Rust` `Speedtest` `Cloudflare` `CLI` `Networking`
-- **最后活动时间:** 2026-07-27
+- **最后活动时间:** 2026-10-16
+
+### [clipse](https://github.com/savedra1/clipse)
+
+可高度配置的 Unix 剪贴板管理器 TUI，支持历史记录、预览与多选粘贴。让终端下的剪贴板管理变得高效而优雅。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `tui` `clipboard` `unix` `terminal`
+- **最后活动时间:** 2026-06-09
 
 ### [macports-base](https://github.com/macports/macports-base)
 
@@ -9268,37 +9380,21 @@ MacPorts 的命令行客户端，macOS 上历史悠久的开源包管理器，�
 - **Tags:** `macos` `package-manager` `cli` `open-source`
 - **最后活动时间:** 2026-09-28
 
-### [clipse](https://github.com/savedra1/clipse)
-
-可高度配置的 Unix 剪贴板管理器 TUI，支持历史记录、预览与多选粘贴。让终端下的剪贴板管理变得高效而优雅。
-
-- **Stars:** ⭐️ 1.0k
-- **Tags:** `tui` `clipboard` `unix` `terminal`
-- **最后活动时间:** 2026-06-09
-
-### [sshpilot](https://github.com/mfat/sshpilot)
-
-跨平台、用户友好的SSH连接管理器，简化多服务器连接与隧道管理。
-
-- **Stars:** ⭐️ 1.0k
-- **Tags:** `ssh` `terminal` `gnome` `linux` `ssh-client`
-- **最后活动时间:** 2026-09-30
-
 ### [kaskade](https://github.com/sauljabin/kaskade)
 
 Kafka 的终端 UI 工具，可在命令行中浏览 Topic、消费消息，界面时尚直观。
 
 - **Stars:** ⭐️ 1.0k
 - **Tags:** `kafka` `tui` `python` `cli`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-16
 
-### [PrivFu](https://github.com/daem0nc0re/PrivFu)
+### [eilmeldung](https://github.com/christo-auer/eilmeldung)
 
-面向Windows内核的WinDbg调试扩展，提供令牌特权调查工具与概念验证代码。适合安全研究人员深入分析Windows权限机制。
+基于 news-flash 库打造的 Rust TUI RSS 阅读器，在终端中高效订阅和阅读新闻资讯。
 
 - **Stars:** ⭐️ 1.0k
-- **Tags:** `windbg` `windows-kernel` `security` `debugging`
-- **最后活动时间:** 2026-09-28
+- **Tags:** `RSS` `Rust` `TUI` `News`
+- **最后活动时间:** 2026-10-16
 
 ### [wikiman](https://github.com/filiparag/wikiman)
 
@@ -9314,23 +9410,15 @@ Kafka 的终端 UI 工具，可在命令行中浏览 Topic、消费消息，界�
 
 - **Stars:** ⭐️ 1.0k
 - **Tags:** `tui` `telegram` `rust` `messaging`
+- **最后活动时间:** 2026-10-13
+
+### [PrivFu](https://github.com/daem0nc0re/PrivFu)
+
+面向Windows内核的WinDbg调试扩展，提供令牌特权调查工具与概念验证代码。适合安全研究人员深入分析Windows权限机制。
+
+- **Stars:** ⭐️ 1.0k
+- **Tags:** `windbg` `windows-kernel` `security` `debugging`
 - **最后活动时间:** 2026-09-28
-
-### [eilmeldung](https://github.com/christo-auer/eilmeldung)
-
-基于 news-flash 库打造的 Rust TUI RSS 阅读器，在终端中高效订阅和阅读新闻资讯。
-
-- **Stars:** ⭐️ 1.0k
-- **Tags:** `RSS` `Rust` `TUI` `News`
-- **最后活动时间:** 2026-09-27
-
-### [rclip](https://github.com/yurijmikhalevich/rclip)
-
-基于CLIP模型的命令行照片搜索工具，支持自然语言图像检索。
-
-- **Stars:** ⭐️ 1.0k
-- **Tags:** `Image Search` `CLI` `CLIP`
-- **最后活动时间:** 2026-09-23
 
 ### [cleanmymac-cli](https://github.com/MacPaw/cleanmymac-cli)
 
@@ -9340,6 +9428,22 @@ Kafka 的终端 UI 工具，可在命令行中浏览 Topic、消费消息，界�
 - **Tags:** `macos` `cli` `cache-cleaner` `developer-tools` `ai-tools` `disk-cleanup`
 - **最后活动时间:** 2026-08-26
 
+### [rclip](https://github.com/yurijmikhalevich/rclip)
+
+基于CLIP模型的命令行照片搜索工具，支持自然语言图像检索。
+
+- **Stars:** ⭐️ 1.0k
+- **Tags:** `Image Search` `CLI` `CLIP`
+- **最后活动时间:** 2026-10-13
+
+### [endcord](https://github.com/sparklost/endcord)
+
+功能丰富的 Discord 终端客户端，支持 Rich Presence 富状态显示。在命令行中畅聊 Discord。
+
+- **Stars:** ⭐️ 1.0k
+- **Tags:** `discord` `tui` `terminal` `rich-presence`
+- **最后活动时间:** 2026-10-13
+
 ### [OpenCppCoverage](https://github.com/OpenCppCoverage/OpenCppCoverage)
 
 Windows 平台下开源的 C++ 代码覆盖率工具，帮助开发者轻松分析测试覆盖情况。
@@ -9348,19 +9452,19 @@ Windows 平台下开源的 C++ 代码覆盖率工具，帮助开发者轻松分�
 - **Tags:** `cpp` `code-coverage` `windows` `testing`
 - **最后活动时间:** 2026-09-06
 
-### [endcord](https://github.com/sparklost/endcord)
+### [zlib](https://github.com/heartleo/zlib)
 
-功能丰富的 Discord 终端客户端，支持 Rich Presence 富状态显示。在命令行中畅聊 Discord。
+一款功能强大的 Z-Library 命令行工具，支持搜索、下载电子书并一键发送到 Kindle。更内置 AI 智能体集成，可与 ChatGPT、Claude、Gemini 等协同实现自动化图书检索与管理。
 
-- **Stars:** ⭐️ 999
-- **Tags:** `discord` `tui` `terminal` `rich-presence`
-- **最后活动时间:** 2026-09-29
+- **Stars:** ⭐️ 998
+- **Tags:** `zlibrary` `ebook` `cli` `ai-agents` `chatgpt` `claude` `kindle` `tui`
+- **最后活动时间:** 2026-10-07
 
 ### [godap](https://github.com/Macmod/godap)
 
 功能完备的 LDAP 终端用户界面（TUI），让管理员在命令行中高效浏览和管理 LDAP 目录与 Active Directory。
 
-- **Stars:** ⭐️ 984
+- **Stars:** ⭐️ 988
 - **Tags:** `LDAP` `TUI` `Go` `Active-Directory` `Terminal`
 - **最后活动时间:** 2026-08-21
 
@@ -9368,23 +9472,15 @@ Windows 平台下开源的 C++ 代码覆盖率工具，帮助开发者轻松分�
 
 面向 Apple Silicon 的实时功耗树 TUI，可视化展示各组件电力分布。助你深入洞察 Mac 的能耗状况。
 
-- **Stars:** ⭐️ 983
+- **Stars:** ⭐️ 987
 - **Tags:** `tui` `macos` `apple-silicon` `power` `monitoring`
 - **最后活动时间:** 2026-05-11
-
-### [agent-deck](https://github.com/asheshgoplani/agent-deck)
-
-专为AI编程助手设计的终端会话管理器，统一管理Claude、Gemini等多种AI代理会话。
-
-- **Stars:** ⭐️ 977
-- **Tags:** `AI Agent` `Terminal` `TUI` `Session Manager`
-- **最后活动时间:** 2026-09-28
 
 ### [termshot](https://github.com/homeport/termshot)
 
 根据终端命令输出生成精美截图的工具，让命令行演示更易分享。
 
-- **Stars:** ⭐️ 975
+- **Stars:** ⭐️ 976
 - **Tags:** `cli` `screenshot` `terminal` `shell`
 - **最后活动时间:** 2026-09-15
 
@@ -9400,9 +9496,9 @@ Windows 平台下开源的 C++ 代码覆盖率工具，帮助开发者轻松分�
 
 经典的 curses 邮件客户端，采用线程加标签的邮件管理方式，适合邮件列表重度用户。
 
-- **Stars:** ⭐️ 972
+- **Stars:** ⭐️ 971
 - **Tags:** `Ruby` `Email` `MUA` `TUI` `Terminal`
-- **最后活动时间:** 2026-07-19
+- **最后活动时间:** 2026-10-10
 
 ### [any_share](https://github.com/nightmare-space/any_share)
 
@@ -9412,19 +9508,11 @@ Windows 平台下开源的 C++ 代码覆盖率工具，帮助开发者轻松分�
 - **Tags:** `flutter` `file-sharing` `lan` `airdrop`
 - **最后活动时间:** 2026-05-14
 
-### [httpjail](https://github.com/coder/httpjail)
-
-一款进程级 HTTP(S) 请求过滤防火墙，可为 AI 编码代理和 LLM 工具设置精细的网络访问白名单。有效防止智能体意外外发敏感数据或访问危险端点，是 AI 代理沙箱化的实用安全层。
-
-- **Stars:** ⭐️ 963
-- **Tags:** `ai` `firewall` `security` `http` `sandbox` `proxy` `rust`
-- **最后活动时间:** 2026-09-24
-
 ### [chatgpt-cli](https://github.com/kardolus/chatgpt-cli)
 
 强大的多提供商命令行工具，支持 OpenAI、Azure、LLaMA 等 LLM，具备流式输出、MCP 工具调用和智能体模式。
 
-- **Stars:** ⭐️ 961
+- **Stars:** ⭐️ 963
 - **Tags:** `CLI` `ChatGPT` `LLM` `MCP`
 - **最后活动时间:** 2026-09-30
 
@@ -9436,6 +9524,22 @@ Emacs大语言模型交互工具，在编辑器内直接使用LLM辅助编程与
 - **Tags:** `emacs` `llm-client` `editor-integration`
 - **最后活动时间:** 2026-09-29
 
+### [httpjail](https://github.com/coder/httpjail)
+
+一款进程级 HTTP(S) 请求过滤防火墙，可为 AI 编码代理和 LLM 工具设置精细的网络访问白名单。有效防止智能体意外外发敏感数据或访问危险端点，是 AI 代理沙箱化的实用安全层。
+
+- **Stars:** ⭐️ 961
+- **Tags:** `ai` `firewall` `security` `http` `sandbox` `proxy` `rust`
+- **最后活动时间:** 2026-09-24
+
+### [mle](https://github.com/adsr/mle)
+
+灵活的 C 语言终端文本编辑器,小巧高效,适合服务器环境下的快速编辑。
+
+- **Stars:** ⭐️ 956
+- **Tags:** `c` `text-editor` `terminal` `console`
+- **最后活动时间:** 2026-05-05
+
 ### [erase-install](https://github.com/grahampugh/erase-install)
 
 自动化下载 macOS 安装器并一键抹掉重装或升级系统的脚本。macOS 管理员批量部署的得力助手。
@@ -9444,13 +9548,13 @@ Emacs大语言模型交互工具，在编辑器内直接使用LLM辅助编程与
 - **Tags:** `macOS` `Automation` `Script` `System-Administration` `Reinstall`
 - **最后活动时间:** 2026-09-09
 
-### [mle](https://github.com/adsr/mle)
+### [manga-tui](https://github.com/josueBarretogit/manga-tui)
 
-灵活的 C 语言终端文本编辑器,小巧高效,适合服务器环境下的快速编辑。
+终端漫画阅读器与下载器，支持图片渲染，可从 MangaDex 等来源在线追漫。
 
-- **Stars:** ⭐️ 953
-- **Tags:** `c` `text-editor` `terminal` `console`
-- **最后活动时间:** 2026-05-05
+- **Stars:** ⭐️ 950
+- **Tags:** `Manga` `Rust` `TUI` `Downloader` `Ratatui`
+- **最后活动时间:** 2026-07-13
 
 ### [typewritten](https://github.com/reobin/typewritten)
 
@@ -9472,9 +9576,17 @@ macOS 原生终端工作区管理工具，为多终端会话提供优雅的组�
 
 基于 todo.txt 格式的强大命令行待办事项应用，跨平台且功能完善。
 
-- **Stars:** ⭐️ 941
+- **Stars:** ⭐️ 943
 - **Tags:** `todo` `cli` `todotxt` `python`
 - **最后活动时间:** 2026-09-16
+
+### [e1s](https://github.com/keidarcy/e1s)
+
+终端中的 AWS ECS 资源管理器，堪称 ECS 版 k9s，轻松查看与操作集群服务。
+
+- **Stars:** ⭐️ 940
+- **Tags:** `aws` `ecs` `golang` `tui` `cli`
+- **最后活动时间:** 2026-10-05
 
 ### [rdrview](https://github.com/eafer/rdrview)
 
@@ -9484,61 +9596,45 @@ macOS 原生终端工作区管理工具，为多终端会话提供优雅的组�
 - **Tags:** `cli` `reader` `firefox` `html` `terminal`
 - **最后活动时间:** 2026-08-31
 
-### [vex-tui](https://github.com/CodeOne45/vex-tui)
+### [hermes-hud](https://github.com/joeynyc/hermes-hud)
 
-用 Go 构建的终端 Excel/CSV 查看与编辑器，美观快速、功能丰富。让表格处理回归命令行。
-
-- **Stars:** ⭐️ 937
-- **Tags:** `tui` `csv` `excel` `go` `terminal`
-- **最后活动时间:** 2026-04-17
-
-### [manga-tui](https://github.com/josueBarretogit/manga-tui)
-
-终端漫画阅读器与下载器，支持图片渲染，可从 MangaDex 等来源在线追漫。
-
-- **Stars:** ⭐️ 936
-- **Tags:** `Manga` `Rust` `TUI` `Downloader` `Ratatui`
-- **最后活动时间:** 2026-07-13
-
-### [e1s](https://github.com/keidarcy/e1s)
-
-终端中的 AWS ECS 资源管理器，堪称 ECS 版 k9s，轻松查看与操作集群服务。
+AI智能体意识监控终端界面，提供实时状态展示和可视化监控功能。
 
 - **Stars:** ⭐️ 934
-- **Tags:** `aws` `ecs` `golang` `tui` `cli`
-- **最后活动时间:** 2026-09-29
-
-### [ducker](https://github.com/robertpsoane/ducker)
-
-灵感来自 k9s 的 Docker 终端管理工具，用键盘高效管理容器、镜像与日志。
-
-- **Stars:** ⭐️ 931
-- **Tags:** `docker` `tui` `rust` `developer-tools`
-- **最后活动时间:** 2026-08-03
+- **Tags:** `ai-agent` `tui` `terminal` `dashboard` `monitoring`
+- **最后活动时间:** 2026-07-05
 
 ### [Whale](https://github.com/usewhale/Whale)
 
 一款极速的终端优先AI编程助手，专为DeepSeek优化。具备高提示缓存命中率、百万级上下文支持及动态工作流等强大功能。
 
-- **Stars:** ⭐️ 930
+- **Stars:** ⭐️ 933
 - **Tags:** `coding-agent` `deepseek` `llm` `mcp` `terminal`
-- **最后活动时间:** 2026-08-11
-
-### [hermes-hud](https://github.com/joeynyc/hermes-hud)
-
-AI智能体意识监控终端界面，提供实时状态展示和可视化监控功能。
-
-- **Stars:** ⭐️ 928
-- **Tags:** `ai-agent` `tui` `terminal` `dashboard` `monitoring`
-- **最后活动时间:** 2026-07-05
+- **最后活动时间:** 2026-10-14
 
 ### [scoop-directory](https://github.com/rasa/scoop-directory)
 
 Scoop包管理器社区桶的可搜索目录，帮助Windows用户快速发现并安装优质软件包。
 
-- **Stars:** ⭐️ 928
+- **Stars:** ⭐️ 930
 - **Tags:** `scoop` `package-manager` `windows` `directory`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
+
+### [ducker](https://github.com/robertpsoane/ducker)
+
+灵感来自 k9s 的 Docker 终端管理工具，用键盘高效管理容器、镜像与日志。
+
+- **Stars:** ⭐️ 926
+- **Tags:** `docker` `tui` `rust` `developer-tools`
+- **最后活动时间:** 2026-08-03
+
+### [lazyrsync](https://github.com/westpoint-io/lazyrsync)
+
+rsync 的友好终端界面，支持可复用配置、诚实的 dry-run 差异预览与实时进度显示，SSH 场景同样流畅。
+
+- **Stars:** ⭐️ 923
+- **Tags:** `rsync` `rust` `tui` `backup` `file-sync`
+- **最后活动时间:** 2026-08-10
 
 ### [reminders-cli](https://github.com/keith/reminders-cli)
 
@@ -9548,19 +9644,11 @@ Scoop包管理器社区桶的可搜索目录，帮助Windows用户快速发现�
 - **Tags:** `CLI` `macOS` `Reminders` `Productivity`
 - **最后活动时间:** 2026-09-24
 
-### [yaspin](https://github.com/pavdmyt/yaspin)
-
-轻量级 Python 终端加载动画（spinner）库，一行代码即可为 CLI 添加优雅的进度指示。
-
-- **Stars:** ⭐️ 916
-- **Tags:** `python` `spinner` `cli` `terminal` `library`
-- **最后活动时间:** 2026-09-19
-
 ### [stu](https://github.com/lusingander/stu)
 
 Amazon S3 的 TUI 资源管理器，基于 Ratatui 构建，在终端中高效浏览和管理 S3 存储桶。
 
-- **Stars:** ⭐️ 914
+- **Stars:** ⭐️ 919
 - **Tags:** `AWS` `S3` `TUI` `Ratatui` `Terminal`
 - **最后活动时间:** 2026-04-30
 
@@ -9568,71 +9656,95 @@ Amazon S3 的 TUI 资源管理器，基于 Ratatui 构建，在终端中高效�
 
 受 yazi 启发的极速 Kubernetes 集群管理 TUI，采用三列 Miller 布局与基于 Owner 的资源层级，为键盘流用户打造。
 
-- **Stars:** ⭐️ 908
+- **Stars:** ⭐️ 917
 - **Tags:** `Kubernetes` `TUI` `Kubectl` `CLI`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
-### [undercut-f1](https://github.com/JustAman62/undercut-f1)
+### [capcut-cli](https://github.com/renezander030/capcut-cli)
 
-F1 官方计时数据的终端实时仪表盘，支持自定义延迟与电视画面同步，还可回放历史比赛会话。
+非官方剪映/CapCut 草稿 CLI，直接读写 draft JSON，支持字幕、变速、音量及长视频切短视频。可作为 Claude Code 插件与 AI Agent 技能，无需官方 API。
 
-- **Stars:** ⭐️ 904
-- **Tags:** `f1` `live-timing` `tui` `terminal`
-- **最后活动时间:** 2026-07-20
+- **Stars:** ⭐️ 915
+- **Tags:** `CLI` `CapCut` `Video-Editing` `AI-Agent` `Claude-Code`
+- **最后活动时间:** 2026-10-17
 
 ### [syswatch](https://github.com/matthart1983/syswatch)
 
 单机系统诊断 TUI，拥有十二个标签页、通俗易懂的洞察分析和会话回放功能，支持 macOS 与 Linux。
 
-- **Stars:** ⭐️ 903
+- **Stars:** ⭐️ 914
 - **Tags:** `System-Monitoring` `Diagnostics` `TUI` `macOS` `Linux`
-- **最后活动时间:** 2026-09-22
+- **最后活动时间:** 2026-10-10
 
-### [lazyrsync](https://github.com/westpoint-io/lazyrsync)
+### [yaspin](https://github.com/pavdmyt/yaspin)
 
-rsync 的友好终端界面，支持可复用配置、诚实的 dry-run 差异预览与实时进度显示，SSH 场景同样流畅。
+轻量级 Python 终端加载动画（spinner）库，一行代码即可为 CLI 添加优雅的进度指示。
 
-- **Stars:** ⭐️ 900
-- **Tags:** `rsync` `rust` `tui` `backup` `file-sync`
-- **最后活动时间:** 2026-08-10
+- **Stars:** ⭐️ 914
+- **Tags:** `python` `spinner` `cli` `terminal` `library`
+- **最后活动时间:** 2026-10-12
+
+### [undercut-f1](https://github.com/JustAman62/undercut-f1)
+
+F1 官方计时数据的终端实时仪表盘，支持自定义延迟与电视画面同步，还可回放历史比赛会话。
+
+- **Stars:** ⭐️ 909
+- **Tags:** `f1` `live-timing` `tui` `terminal`
+- **最后活动时间:** 2026-07-20
 
 ### [meli](https://github.com/meli/meli)
 
 Rust编写的现代化终端邮件客户端，支持IMAP、JMAP、NNTP等多种协议。
 
-- **Stars:** ⭐️ 895
+- **Stars:** ⭐️ 899
 - **Tags:** `email` `terminal` `tui` `rust` `imap`
-- **最后活动时间:** 2026-09-30
-
-### [eureka](https://github.com/simeg/eureka)
-
-在终端中快速记录与存储灵感的 CLI 工具，让好想法不再流失。
-
-- **Stars:** ⭐️ 885
-- **Tags:** `rust` `cli` `productivity` `notes`
-- **最后活动时间:** 2026-08-28
+- **最后活动时间:** 2026-10-17
 
 ### [elio](https://github.com/elio-fm/elio)
 
 响应迅速、功能齐全的终端文件管理器，支持富预览、内联图片、批量操作与回收站。
 
-- **Stars:** ⭐️ 876
+- **Stars:** ⭐️ 897
 - **Tags:** `file-manager` `terminal` `rust` `tui`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
+
+### [eureka](https://github.com/simeg/eureka)
+
+在终端中快速记录与存储灵感的 CLI 工具，让好想法不再流失。
+
+- **Stars:** ⭐️ 886
+- **Tags:** `rust` `cli` `productivity` `notes`
+- **最后活动时间:** 2026-08-28
+
+### [VTCode](https://github.com/vinhnx/VTCode)
+
+语义化AI编码智能体，在终端中提供智能代码生成与辅助功能。
+
+- **Stars:** ⭐️ 880
+- **Tags:** `coding-agent` `semantic-ai` `terminal` `rust` `tui`
+- **最后活动时间:** 2026-10-17
 
 ### [soar](https://github.com/pkgforge/soar)
 
 一款用 Rust 编写的快速、现代、发行版无关的 Linux 包管理器，可统一管理 AppImage 等便携应用。
 
-- **Stars:** ⭐️ 874
+- **Stars:** ⭐️ 880
 - **Tags:** `package-manager` `rust` `linux` `appimage` `cli`
-- **最后活动时间:** 2026-09-27
+- **最后活动时间:** 2026-10-16
+
+### [KS-Downloader](https://github.com/JoeanAmier/KS-Downloader)
+
+快手作品（视频/图片）批量下载工具，支持命令行与 Web 服务两种模式。基于 Python 与 FastAPI 构建，部署灵活。
+
+- **Stars:** ⭐️ 880
+- **Tags:** `Kuaishou` `Downloader` `Python` `FastAPI` `Docker`
+- **最后活动时间:** 2026-09-16
 
 ### [golazo](https://github.com/0xjuanma/golazo)
 
 在终端里看球的极简 TUI 应用，基于 Go 与 Bubble Tea 构建，可实时追踪足球赛事比分与近期赛果。
 
-- **Stars:** ⭐️ 868
+- **Stars:** ⭐️ 870
 - **Tags:** `TUI` `Go` `Football` `Terminal`
 - **最后活动时间:** 2026-09-07
 
@@ -9644,29 +9756,21 @@ ufw 防火墙的终端 UI 界面，让 Linux 防火墙规则管理一目了然�
 - **Tags:** `ufw` `firewall` `tui` `golang`
 - **最后活动时间:** 2026-06-08
 
-### [KS-Downloader](https://github.com/JoeanAmier/KS-Downloader)
-
-快手作品（视频/图片）批量下载工具，支持命令行与 Web 服务两种模式。基于 Python 与 FastAPI 构建，部署灵活。
-
-- **Stars:** ⭐️ 861
-- **Tags:** `Kuaishou` `Downloader` `Python` `FastAPI` `Docker`
-- **最后活动时间:** 2026-09-16
-
-### [VTCode](https://github.com/vinhnx/VTCode)
-
-语义化AI编码智能体，在终端中提供智能代码生成与辅助功能。
-
-- **Stars:** ⭐️ 858
-- **Tags:** `coding-agent` `semantic-ai` `terminal` `rust` `tui`
-- **最后活动时间:** 2026-09-30
-
 ### [serpl](https://github.com/yassinebridi/serpl)
 
 类 VS Code 的终端搜索替换 TUI 工具,基于 ast-grep 实现精准的代码批量修改。
 
-- **Stars:** ⭐️ 858
+- **Stars:** ⭐️ 860
 - **Tags:** `rust` `tui` `search-and-replace` `ast-grep`
-- **最后活动时间:** 2026-05-31
+- **最后活动时间:** 2026-10-10
+
+### [uniterm](https://github.com/ys-ll/uniterm)
+
+轻量级一体化终端，支持 SSH、RDP、数据库、K8s 等 30+ 协议，并内置可规划、执行多轮 Shell 命令的自主 AI Agent。
+
+- **Stars:** ⭐️ 856
+- **Tags:** `ai-agent` `terminal` `ssh` `kubernetes` `cross-platform`
+- **最后活动时间:** 2026-10-17
 
 ### [workflows](https://github.com/warpdotdev/workflows)
 
@@ -9692,6 +9796,14 @@ ufw 防火墙的终端 UI 界面，让 Linux 防火墙规则管理一目了然�
 - **Tags:** `dpi-bypass` `rust` `tls` `proxy` `censorship-circumvention`
 - **最后活动时间:** 2026-06-02
 
+### [ai-security-tool](https://github.com/ZeroDayEvil/ai-security-tool)
+
+开源的 AI 驱动安全终端与漏洞扫描器，支持 CVE、SBOM 扫描及 SSH/SFTP/RDP/VNC 等多种连接方式。内置 12+ 自主 AI 智能体（DeepSeek、OpenAI）实现自动化安全工作流，适用于 CTF 与 DevSecOps 场景。
+
+- **Stars:** ⭐️ 838
+- **Tags:** `AI-Security` `Vulnerability-Scanner` `Pentesting` `Cybersecurity` `MCP` `Terminal` `CVE` `SBOM`
+- **最后活动时间:** 2026-10-16
+
 ### [lucario](https://github.com/raphamorim/lucario)
 
 适用于 Vim、iTerm、Xcode、Windows Terminal 等众多编辑器与终端的扁平化配色主题，护目又美观。
@@ -9712,15 +9824,15 @@ Linux 上一键安装 osu! stable 的脚本，附带修补版 wine-osu 及多项
 
 功能丰富的终端TUI客户端，支持通过Ollama与MCP服务器交互。具备智能体模式、多服务器支持和人机协作功能。
 
-- **Stars:** ⭐️ 828
+- **Stars:** ⭐️ 831
 - **Tags:** `MCP` `Ollama` `TUI` `本地LLM`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-13
 
 ### [TUIFIManager](https://github.com/GiorgosXou/TUIFIManager)
 
 跨平台、面向 Termux 优化的终端文件管理器，支持 Vim 风格按键操作。轻量高效，也可作为组件嵌入其他项目。
 
-- **Stars:** ⭐️ 828
+- **Stars:** ⭐️ 827
 - **Tags:** `file-manager` `tui` `terminal` `termux` `cross-platform`
 - **最后活动时间:** 2026-06-30
 
@@ -9732,45 +9844,37 @@ Linux 上一键安装 osu! stable 的脚本，附带修补版 wine-osu 及多项
 - **Tags:** `terminal` `multi-agent` `cli` `ai-collaboration`
 - **最后活动时间:** 2026-05-26
 
-### [tokentap](https://github.com/jmuncor/tokentap)
+### [GMSSH](https://github.com/GMSSH/GMSSH)
 
-拦截LLM API流量并在终端仪表板可视化token使用情况，帮助追踪成本、调试提示词和监控上下文窗口。
+桌面级 AI 运维终端，高性能、非侵入式、AI 智能驱动的 SSH 客户端，为运维人员提供智能化操作体验。
 
-- **Stars:** ⭐️ 814
-- **Tags:** `LLM` `Token监控` `终端仪表板`
-- **最后活动时间:** 2026-06-21
-
-### [capcut-cli](https://github.com/renezander030/capcut-cli)
-
-非官方剪映/CapCut 草稿 CLI，直接读写 draft JSON，支持字幕、变速、音量及长视频切短视频。可作为 Claude Code 插件与 AI Agent 技能，无需官方 API。
-
-- **Stars:** ⭐️ 813
-- **Tags:** `CLI` `CapCut` `Video-Editing` `AI-Agent` `Claude-Code`
-- **最后活动时间:** 2026-09-28
+- **Stars:** ⭐️ 816
+- **Tags:** `ai` `ssh` `terminal` `devops` `sysadmin`
+- **最后活动时间:** 2026-10-15
 
 ### [owo-colors](https://github.com/owo-colors/owo-colors)
 
 零分配、零成本的 Rust 终端着色库，兼容 no_std，为 CLI 增色毫无性能负担。
 
-- **Stars:** ⭐️ 810
+- **Stars:** ⭐️ 813
 - **Tags:** `rust` `color` `terminal` `no_std` `library`
 - **最后活动时间:** 2026-08-27
+
+### [tokentap](https://github.com/jmuncor/tokentap)
+
+拦截LLM API流量并在终端仪表板可视化token使用情况，帮助追踪成本、调试提示词和监控上下文窗口。
+
+- **Stars:** ⭐️ 811
+- **Tags:** `LLM` `Token监控` `终端仪表板`
+- **最后活动时间:** 2026-06-21
 
 ### [keifu](https://github.com/trasta298/keifu)
 
 专注于 Git 提交图谱可视化的 TUI 工具，用色彩与清晰布局理清分支脉络。
 
-- **Stars:** ⭐️ 809
+- **Stars:** ⭐️ 811
 - **Tags:** `git` `tui` `visualization` `rust` `developer-tools`
-- **最后活动时间:** 2026-07-30
-
-### [GMSSH](https://github.com/GMSSH/GMSSH)
-
-桌面级 AI 运维终端，高性能、非侵入式、AI 智能驱动的 SSH 客户端，为运维人员提供智能化操作体验。
-
-- **Stars:** ⭐️ 807
-- **Tags:** `ai` `ssh` `terminal` `devops` `sysadmin`
-- **最后活动时间:** 2026-09-01
+- **最后活动时间:** 2026-10-12
 
 ### [innotop](https://github.com/innotop/innotop)
 
@@ -9784,9 +9888,17 @@ Linux 上一键安装 osu! stable 的脚本，附带修补版 wine-osu 及多项
 
 基于 libghostty 构建的 GNU screen 风格终端复用器，主打 AI 编码场景下的终端体验。轻量现代，适合开发者在终端中高效进行 AI 辅助编程。
 
-- **Stars:** ⭐️ 793
+- **Stars:** ⭐️ 791
 - **Tags:** `terminal` `multiplexer` `ghostty` `ai` `coding`
 - **最后活动时间:** 2026-07-05
+
+### [tui-journal](https://github.com/AmmarAbouZor/tui-journal)
+
+为终端居民打造的日记应用，在命令行中轻松记录和管理你的日志与随笔。
+
+- **Stars:** ⭐️ 788
+- **Tags:** `Journal` `Rust` `TUI` `Notes`
+- **最后活动时间:** 2026-10-16
 
 ### [lue](https://github.com/superstarryeyes/lue)
 
@@ -9796,27 +9908,19 @@ Linux 上一键安装 osu! stable 的脚本，附带修补版 wine-osu 及多项
 - **Tags:** `ebook-reader` `terminal` `text-to-speech` `tui`
 - **最后活动时间:** 2026-07-04
 
-### [tui-journal](https://github.com/AmmarAbouZor/tui-journal)
-
-为终端居民打造的日记应用，在命令行中轻松记录和管理你的日志与随笔。
-
-- **Stars:** ⭐️ 786
-- **Tags:** `Journal` `Rust` `TUI` `Notes`
-- **最后活动时间:** 2026-09-06
-
 ### [windows-terminal-quake](https://github.com/flyingpie/windows-terminal-quake)
 
 为几乎所有应用启用 Quake 风格的下拉式窗口，一键呼出/隐藏终端，大幅提升多任务操作效率。
 
-- **Stars:** ⭐️ 786
+- **Stars:** ⭐️ 785
 - **Tags:** `terminal` `quake` `dropdown` `windows` `productivity`
-- **最后活动时间:** 2026-09-20
+- **最后活动时间:** 2026-10-17
 
 ### [chatgpt-cli](https://github.com/j178/chatgpt)
 
 优雅的ChatGPT命令行交互工具，支持GPT-3和GPT-4模型。
 
-- **Stars:** ⭐️ 778
+- **Stars:** ⭐️ 777
 - **Tags:** `chatgpt` `cli` `golang` `gpt-4` `terminal`
 - **最后活动时间:** 2026-08-29
 
@@ -9848,9 +9952,25 @@ Linux 上一键安装 osu! stable 的脚本，附带修补版 wine-osu 及多项
 
 现代化终端方块堆叠游戏，支持自定义和跨平台，在终端中享受游戏乐趣。
 
-- **Stars:** ⭐️ 761
+- **Stars:** ⭐️ 763
 - **Tags:** `Rust` `Terminal Game` `Puzzle Game` `TUI` `Cross-platform`
 - **最后活动时间:** 2026-08-13
+
+### [SlimBrave-Neo](https://github.com/ChaoticSi1ence/SlimBrave-Neo)
+
+利用 Chromium 企业策略对 Brave 浏览器进行精简与安全加固的跨平台工具，提供 79 项策略与 6 种预设，零依赖。
+
+- **Stars:** ⭐️ 754
+- **Tags:** `brave-browser` `privacy` `hardening` `tui` `chromium`
+- **最后活动时间:** 2026-10-01
+
+### [pvetui](https://github.com/devnullvoid/pvetui)
+
+Proxmox VE 的终端管理界面，让虚拟机与容器运维在命令行中高效完成。
+
+- **Stars:** ⭐️ 745
+- **Tags:** `proxmox` `virtualization` `tui` `go`
+- **最后活动时间:** 2026-10-15
 
 ### [magic-cli](https://github.com/guywaldman/magic-cli)
 
@@ -9864,9 +9984,25 @@ Linux 上一键安装 osu! stable 的脚本，附带修补版 wine-osu 及多项
 
 受 Plan 9 acme 启发的可适配文本编辑器，支持 9p 协议与正则表达式，用 Rust 编写。
 
-- **Stars:** ⭐️ 742
+- **Stars:** ⭐️ 744
 - **Tags:** `Text-Editor` `Rust` `Plan9` `TUI`
 - **最后活动时间:** 2026-09-19
+
+### [tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url)
+
+实用的 tmux 插件，结合 fzf 快速打开终端屏幕中的 URL，提升浏览效率。
+
+- **Stars:** ⭐️ 736
+- **Tags:** `tmux` `fzf` `Plugin` `CLI`
+- **最后活动时间:** 2026-08-13
+
+### [taproom](https://github.com/hzqtc/taproom)
+
+Homebrew 的交互式 TUI，让包的搜索、安装与管理在终端中更加顺手。
+
+- **Stars:** ⭐️ 735
+- **Tags:** `homebrew` `tui` `macos` `package-manager`
+- **最后活动时间:** 2026-07-13
 
 ### [shell-plugins](https://github.com/1Password/shell-plugins)
 
@@ -9876,29 +10012,13 @@ Linux 上一键安装 osu! stable 的脚本，附带修补版 wine-osu 及多项
 - **Tags:** `cli` `authentication` `shell` `1password` `security`
 - **最后活动时间:** 2026-09-28
 
-### [tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url)
+### [RHash](https://github.com/rhash/RHash)
 
-实用的 tmux 插件，结合 fzf 快速打开终端屏幕中的 URL，提升浏览效率。
+老牌哈希校验工具，支持SHA3、GOST等多种哈希算法，还可生成磁力链接。提供命令行与库两种使用方式。
 
 - **Stars:** ⭐️ 734
-- **Tags:** `tmux` `fzf` `Plugin` `CLI`
-- **最后活动时间:** 2026-08-13
-
-### [pvetui](https://github.com/devnullvoid/pvetui)
-
-Proxmox VE 的终端管理界面，让虚拟机与容器运维在命令行中高效完成。
-
-- **Stars:** ⭐️ 731
-- **Tags:** `proxmox` `virtualization` `tui` `go`
-- **最后活动时间:** 2026-09-14
-
-### [taproom](https://github.com/hzqtc/taproom)
-
-Homebrew 的交互式 TUI，让包的搜索、安装与管理在终端中更加顺手。
-
-- **Stars:** ⭐️ 730
-- **Tags:** `homebrew` `tui` `macos` `package-manager`
-- **最后活动时间:** 2026-07-13
+- **Tags:** `hash` `checksum` `sha3` `cli`
+- **最后活动时间:** 2026-10-04
 
 ### [moe](https://github.com/fox0430/moe)
 
@@ -9906,7 +10026,15 @@ Homebrew 的交互式 TUI，让包的搜索、安装与管理在终端中更加�
 
 - **Stars:** ⭐️ 729
 - **Tags:** `Text-Editor` `Nim` `TUI` `Vim`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-16
+
+### [purple](https://github.com/erickochen/purple)
+
+基于 Rust 的终端 SSH 管理器，支持多云同步与容器管理，并内置 MCP 服务器供 AI 智能体调用。
+
+- **Stars:** ⭐️ 728
+- **Tags:** `ssh` `terminal` `rust` `mcp`
+- **最后活动时间:** 2026-10-16
 
 ### [rootshell](https://github.com/kitknox/rootshell)
 
@@ -9915,6 +10043,14 @@ Homebrew 的交互式 TUI，让包的搜索、安装与管理在终端中更加�
 - **Stars:** ⭐️ 727
 - **Tags:** `terminal` `macos` `apple` `shell`
 - **最后活动时间:** 2026-09-30
+
+### [pay-respects](https://github.com/iffse/pay-respects)
+
+基于AI的智能命令建议工具，可替代thefuck，在终端中提供命令纠错和建议功能。
+
+- **Stars:** ⭐️ 725
+- **Tags:** `artificial-intelligence` `cli` `terminal` `rust` `shell`
+- **最后活动时间:** 2026-10-17
 
 ### [wiki-tui](https://github.com/Builditluc/wiki-tui)
 
@@ -9940,91 +10076,75 @@ Homebrew 的交互式 TUI，让包的搜索、安装与管理在终端中更加�
 - **Tags:** `CLI工具` `命令助手` `LLM`
 - **最后活动时间:** 2026-06-17
 
-### [pay-respects](https://github.com/iffse/pay-respects)
-
-基于AI的智能命令建议工具，可替代thefuck，在终端中提供命令纠错和建议功能。
-
-- **Stars:** ⭐️ 715
-- **Tags:** `artificial-intelligence` `cli` `terminal` `rust` `shell`
-- **最后活动时间:** 2026-09-13
-
-### [purple](https://github.com/erickochen/purple)
-
-基于 Rust 的终端 SSH 管理器，支持多云同步与容器管理，并内置 MCP 服务器供 AI 智能体调用。
-
-- **Stars:** ⭐️ 715
-- **Tags:** `ssh` `terminal` `rust` `mcp`
-- **最后活动时间:** 2026-09-29
-
 ### [horizon](https://github.com/peters/horizon)
 
 GPU加速的终端画板，将所有会话置于无限画布上。支持Claude、Codex等多种AI CLI工具，适合AI开发工作流。
 
-- **Stars:** ⭐️ 713
+- **Stars:** ⭐️ 718
 - **Tags:** `terminal` `rust` `gpu` `developer-tools` `ai-agents`
-- **最后活动时间:** 2026-09-30
-
-### [nve](https://github.com/ehmicky/nve)
-
-在指定 Node.js 版本上运行任意命令的轻量 CLI 工具，无需像 nvm 那样切换全局环境即可做多版本测试。
-
-- **Stars:** ⭐️ 712
-- **Tags:** `NodeJS` `CLI` `Version-Manager` `JavaScript`
-- **最后活动时间:** 2026-09-29
-
-### [orbiton](https://github.com/xyproto/orbiton)
-
-免配置、响应迅速的终端文本编辑器/IDE，支持语法高亮、LSP、宏与 gdb 前端，适合快速编辑与编码迭代。
-
-- **Stars:** ⭐️ 706
-- **Tags:** `editor` `ide` `terminal` `tui` `lsp`
-- **最后活动时间:** 2026-09-28
+- **最后活动时间:** 2026-10-17
 
 ### [vortix](https://github.com/Harry-kp/vortix)
 
 基于 Rust 的 WireGuard/OpenVPN 终端管理界面，提供实时遥测与流量泄漏防护。让 VPN 连接状态尽在命令行掌控。
 
-- **Stars:** ⭐️ 702
+- **Stars:** ⭐️ 718
 - **Tags:** `vpn` `wireguard` `openvpn` `tui` `rust` `network-security`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-12
 
-### [SlimBrave-Neo](https://github.com/ChaoticSi1ence/SlimBrave-Neo)
+### [nve](https://github.com/ehmicky/nve)
 
-利用 Chromium 企业策略对 Brave 浏览器进行精简与安全加固的跨平台工具，提供 79 项策略与 6 种预设，零依赖。
+在指定 Node.js 版本上运行任意命令的轻量 CLI 工具，无需像 nvm 那样切换全局环境即可做多版本测试。
 
-- **Stars:** ⭐️ 700
-- **Tags:** `brave-browser` `privacy` `hardening` `tui` `chromium`
-- **最后活动时间:** 2026-09-28
+- **Stars:** ⭐️ 714
+- **Tags:** `NodeJS` `CLI` `Version-Manager` `JavaScript`
+- **最后活动时间:** 2026-10-13
 
-### [ytermusic](https://github.com/ccgauche/ytermusic)
+### [orbiton](https://github.com/xyproto/orbiton)
 
-注重隐私、简洁与性能的终端 YouTube 音乐客户端，用 Rust 编写。
+免配置、响应迅速的终端文本编辑器/IDE，支持语法高亮、LSP、宏与 gdb 前端，适合快速编辑与编码迭代。
 
-- **Stars:** ⭐️ 699
-- **Tags:** `Music-Player` `Rust` `YouTube` `TUI`
-- **最后活动时间:** 2026-05-13
+- **Stars:** ⭐️ 712
+- **Tags:** `editor` `ide` `terminal` `tui` `lsp`
+- **最后活动时间:** 2026-10-17
 
 ### [treemd](https://github.com/Epistates/treemd)
 
 在终端中以树状结构导航 Markdown 文档的 TUI/CLI 工具，让长文档的章节层级一目了然。
 
-- **Stars:** ⭐️ 698
+- **Stars:** ⭐️ 703
 - **Tags:** `markdown` `tui` `cli` `terminal`
-- **最后活动时间:** 2026-09-23
+- **最后活动时间:** 2026-10-15
+
+### [usbtree](https://github.com/gnomeria/usbtree)
+
+终端中的实时 USB 设备树工具，基于 Rust TUI 打造，无需 root 与 libusb，支持完整活动指标。
+
+- **Stars:** ⭐️ 699
+- **Tags:** `Rust` `TUI` `USB` `CLI` `Terminal`
+- **最后活动时间:** 2026-08-20
+
+### [ytermusic](https://github.com/ccgauche/ytermusic)
+
+注重隐私、简洁与性能的终端 YouTube 音乐客户端，用 Rust 编写。
+
+- **Stars:** ⭐️ 698
+- **Tags:** `Music-Player` `Rust` `YouTube` `TUI`
+- **最后活动时间:** 2026-05-13
 
 ### [neonmodem](https://github.com/mrusme/neonmodem)
 
 复古 BBS 风格的终端论坛客户端，一站聚合 Hacker News、Lemmy、Discourse 等社区。在命令行里也能舒适刷帖。
 
-- **Stars:** ⭐️ 696
+- **Stars:** ⭐️ 698
 - **Tags:** `tui` `hacker-news` `lemmy` `discourse` `forum` `cli`
-- **最后活动时间:** 2026-07-21
+- **最后活动时间:** 2026-10-10
 
 ### [tplay](https://github.com/maxcurzi/tplay)
 
 终端 ASCII 媒体播放器，可直接在命令行中观看图片、GIF、视频甚至 YouTube。
 
-- **Stars:** ⭐️ 692
+- **Stars:** ⭐️ 696
 - **Tags:** `ascii-art` `terminal` `media-player` `python`
 - **最后活动时间:** 2026-08-31
 
@@ -10032,9 +10152,17 @@ GPU加速的终端画板，将所有会话置于无限画布上。支持Claude�
 
 Node.js 任务列表 CLI 库，轻松构建生动且可交互的命令行任务界面。
 
-- **Stars:** ⭐️ 691
+- **Stars:** ⭐️ 693
 - **Tags:** `nodejs` `typescript` `cli` `task-list` `terminal`
-- **最后活动时间:** 2026-09-28
+- **最后活动时间:** 2026-10-17
+
+### [turbo](https://github.com/magiblot/turbo)
+
+基于 Scintilla 与 Turbo Vision 的实验性文本编辑器，可运行于 Linux 控制台与 Windows 终端。兼具经典界面风格与现代编辑能力。
+
+- **Stars:** ⭐️ 690
+- **Tags:** `text-editor` `tui` `turbo-vision` `cpp` `ncurses`
+- **最后活动时间:** 2026-10-04
 
 ### [clashtui](https://github.com/JohanChane/clashtui)
 
@@ -10044,53 +10172,61 @@ Mihomo (Clash.Meta) 与 sing-box 的 TUI 客户端，在终端中便捷管理代
 - **Tags:** `clash` `mihomo` `sing-box` `tui` `proxy`
 - **最后活动时间:** 2026-09-29
 
-### [tenere](https://github.com/pythops/tenere)
-
-基于Rust的LLM终端用户界面，支持多种后端如Ollama和llama.cpp。
-
-- **Stars:** ⭐️ 685
-- **Tags:** `llm` `tui` `cli` `rust` `ollama`
-- **最后活动时间:** 2026-05-10
-
-### [turbo](https://github.com/magiblot/turbo)
-
-基于 Scintilla 与 Turbo Vision 的实验性文本编辑器，可运行于 Linux 控制台与 Windows 终端。兼具经典界面风格与现代编辑能力。
-
-- **Stars:** ⭐️ 685
-- **Tags:** `text-editor` `tui` `turbo-vision` `cpp` `ncurses`
-- **最后活动时间:** 2026-08-28
-
 ### [castero](https://github.com/xgi/castero)
 
 终端播客客户端，支持订阅管理、播放控制与快捷键操作。在命令行中也能畅听播客。
 
-- **Stars:** ⭐️ 684
+- **Stars:** ⭐️ 685
 - **Tags:** `tui` `podcast` `terminal` `python`
 - **最后活动时间:** 2026-04-21
+
+### [tenere](https://github.com/pythops/tenere)
+
+基于Rust的LLM终端用户界面，支持多种后端如Ollama和llama.cpp。
+
+- **Stars:** ⭐️ 683
+- **Tags:** `llm` `tui` `cli` `rust` `ollama`
+- **最后活动时间:** 2026-05-10
 
 ### [sudo-touchid](https://github.com/artginzburg/sudo-touchid)
 
 为 macOS 终端命令提供永久的 Touch ID 支持。通过生物识别简化 sudo 权限验证，提升安全性与便捷性。
 
-- **Stars:** ⭐️ 682
+- **Stars:** ⭐️ 683
 - **Tags:** `macos` `authentication` `touchid` `cli` `security`
 - **最后活动时间:** 2026-07-30
+
+### [tamboui](https://github.com/tamboui/tamboui)
+
+用于构建现代终端用户界面的 Java 库，让 Java 生态也能轻松开发漂亮的 TUI 应用。
+
+- **Stars:** ⭐️ 682
+- **Tags:** `Java` `TUI` `Terminal` `Library`
+- **最后活动时间:** 2026-10-17
 
 ### [ytconverter](https://github.com/kaifcodec/ytconverter)
 
 基于 yt-dlp 的命令行 YouTube 视频下载与格式转换工具，支持元数据处理等多种功能。
 
-- **Stars:** ⭐️ 681
+- **Stars:** ⭐️ 679
 - **Tags:** `python` `yt-dlp` `youtube` `cli` `downloader`
 - **最后活动时间:** 2026-04-30
 
-### [usbtree](https://github.com/gnomeria/usbtree)
+### [HiSH](https://github.com/harmoninux/HiSH)
 
-终端中的实时 USB 设备树工具，基于 Rust TUI 打造，无需 root 与 libusb，支持完整活动指标。
+在鸿蒙系统上运行 Linux Shell 的创新工具，全面支持手机、平板及 2in1/PC 设备。为鸿蒙生态带来完整的 Linux 命令行体验。
 
-- **Stars:** ⭐️ 675
-- **Tags:** `Rust` `TUI` `USB` `CLI` `Terminal`
-- **最后活动时间:** 2026-08-20
+- **Stars:** ⭐️ 672
+- **Tags:** `HarmonyOS` `Linux` `Shell` `Terminal` `VirtualMachine`
+- **最后活动时间:** 2026-10-11
+
+### [pacseek](https://github.com/moson-mo/pacseek)
+
+Arch Linux 软件包搜索与安装的终端界面，可快速浏览官方仓库和 AUR 并直接安装。
+
+- **Stars:** ⭐️ 670
+- **Tags:** `arch-linux` `pacman` `aur` `package-manager` `tui`
+- **最后活动时间:** 2026-09-07
 
 ### [enigma-bbs](https://github.com/NuSkooler/enigma-bbs)
 
@@ -10100,13 +10236,13 @@ Mihomo (Clash.Meta) 与 sing-box 的 TUI 客户端，在终端中便捷管理代
 - **Tags:** `NodeJS` `BBS` `Terminal` `Retro` `SSH`
 - **最后活动时间:** 2026-09-28
 
-### [tamboui](https://github.com/tamboui/tamboui)
+### [box-cli-maker](https://github.com/box-cli-maker/box-cli-maker)
 
-用于构建现代终端用户界面的 Java 库，让 Java 生态也能轻松开发漂亮的 TUI 应用。
+在终端中渲染高度自定义的边框盒子，让 CLI 工具的输出更美观醒目。
 
-- **Stars:** ⭐️ 668
-- **Tags:** `Java` `TUI` `Terminal` `Library`
-- **最后活动时间:** 2026-09-28
+- **Stars:** ⭐️ 667
+- **Tags:** `cli` `terminal` `box` `unicode` `golang`
+- **最后活动时间:** 2026-09-18
 
 ### [superseedr](https://github.com/Jagalite/superseedr)
 
@@ -10115,14 +10251,6 @@ Mihomo (Clash.Meta) 与 sing-box 的 TUI 客户端，在终端中便捷管理代
 - **Stars:** ⭐️ 667
 - **Tags:** `bittorrent` `tui` `rust` `terminal`
 - **最后活动时间:** 2026-09-30
-
-### [box-cli-maker](https://github.com/box-cli-maker/box-cli-maker)
-
-在终端中渲染高度自定义的边框盒子，让 CLI 工具的输出更美观醒目。
-
-- **Stars:** ⭐️ 666
-- **Tags:** `cli` `terminal` `box` `unicode` `golang`
-- **最后活动时间:** 2026-09-18
 
 ### [docker-mac-net-connect](https://github.com/chipmk/docker-mac-net-connect)
 
@@ -10148,14 +10276,6 @@ Python 性能分析器 Austin 的 top 风格终端界面，实时观测函数级
 - **Tags:** `neofetch` `cli` `posix` `nerdfont` `system-info`
 - **最后活动时间:** 2026-07-16
 
-### [pacseek](https://github.com/moson-mo/pacseek)
-
-Arch Linux 软件包搜索与安装的终端界面，可快速浏览官方仓库和 AUR 并直接安装。
-
-- **Stars:** ⭐️ 663
-- **Tags:** `arch-linux` `pacman` `aur` `package-manager` `tui`
-- **最后活动时间:** 2026-09-07
-
 ### [nebula](https://github.com/Kuddev/nebula)
 
 一款 AI 原生且 GPU 加速的 Windows 终端模拟器，内置 SSH、分屏及一流的 AI CLI 工作流。深度集成现代 AI 命令行工具，提升终端开发效率。
@@ -10168,33 +10288,57 @@ Arch Linux 软件包搜索与安装的终端界面，可快速浏览官方仓库
 
 友好的 Kubernetes CloudShell 解决方案，让用户通过 Web 终端轻松管理和操作 K8s 集群。为云原生环境提供便捷的命令行访问体验。
 
-- **Stars:** ⭐️ 661
+- **Stars:** ⭐️ 662
 - **Tags:** `Kubernetes` `CloudShell` `WebTerminal` `Terminal`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-15
 
-### [HiSH](https://github.com/harmoninux/HiSH)
+### [pro.webssh.net](https://github.com/isontheline/pro.webssh.net)
 
-在鸿蒙系统上运行 Linux Shell 的创新工具，全面支持手机、平板及 2in1/PC 设备。为鸿蒙生态带来完整的 Linux 命令行体验。
+面向 iOS/iPadOS/macOS 的 SSH 与 SFTP 客户端，随时随地安全管理远程服务器与终端会话。
 
-- **Stars:** ⭐️ 656
-- **Tags:** `HarmonyOS` `Linux` `Shell` `Terminal` `VirtualMachine`
-- **最后活动时间:** 2026-09-26
+- **Stars:** ⭐️ 662
+- **Tags:** `ssh` `sftp` `terminal` `ios` `macos`
+- **最后活动时间:** 2026-10-17
 
-### [kooky](https://github.com/iAmCorey/kooky)
+### [herdr-file-viewer](https://github.com/smarzban/herdr-file-viewer)
 
-专为AI编程体验设计的极简现代终端工具。支持侧边栏工作区、分屏面板及一键启动智能体等功能。
+git 感知的只读文件查看器 TUI，树形浏览加内容面板，支持 diff 查看、Markdown 渲染与语法高亮，鼠标键盘双友好。
 
-- **Stars:** ⭐️ 654
-- **Tags:** `ai-coding` `terminal` `claude-code` `developer-tools` `macos`
-- **最后活动时间:** 2026-09-23
+- **Stars:** ⭐️ 659
+- **Tags:** `TUI` `Rust` `Git` `File-Viewer`
+- **最后活动时间:** 2026-10-17
 
 ### [Transity](https://github.com/ad-si/Transity)
 
 面向未来的纯文本记账工具，让你在命令行中轻松追踪资金、时间与资产。
 
-- **Stars:** ⭐️ 653
+- **Stars:** ⭐️ 654
 - **Tags:** `accounting` `cli` `finance` `plaintext-accounting`
-- **最后活动时间:** 2026-09-27
+- **最后活动时间:** 2026-10-10
+
+### [kooky](https://github.com/iAmCorey/kooky)
+
+专为AI编程体验设计的极简现代终端工具。支持侧边栏工作区、分屏面板及一键启动智能体等功能。
+
+- **Stars:** ⭐️ 653
+- **Tags:** `ai-coding` `terminal` `claude-code` `developer-tools` `macos`
+- **最后活动时间:** 2026-10-12
+
+### [ReTerminal](https://github.com/RohitKushvaha01/ReTerminal)
+
+一款简洁的 Android 终端模拟器,让你在手机上随时使用 shell 与 adb 命令。
+
+- **Stars:** ⭐️ 653
+- **Tags:** `android` `terminal-emulator` `adb` `shell`
+- **最后活动时间:** 2026-09-26
+
+### [xytz](https://github.com/xdagiz/xytz)
+
+精美的 YouTube 下载/播放终端界面，基于 yt-dlp 与 ffmpeg 封装。
+
+- **Stars:** ⭐️ 651
+- **Tags:** `youtube` `downloader` `tui` `golang`
+- **最后活动时间:** 2026-10-16
 
 ### [browsr](https://github.com/juftin/browsr)
 
@@ -10204,29 +10348,13 @@ Arch Linux 软件包搜索与安装的终端界面，可快速浏览官方仓库
 - **Tags:** `File-Explorer` `Python` `TUI` `S3` `Textual`
 - **最后活动时间:** 2026-04-22
 
-### [ReTerminal](https://github.com/RohitKushvaha01/ReTerminal)
-
-一款简洁的 Android 终端模拟器,让你在手机上随时使用 shell 与 adb 命令。
-
-- **Stars:** ⭐️ 649
-- **Tags:** `android` `terminal-emulator` `adb` `shell`
-- **最后活动时间:** 2026-09-26
-
-### [xytz](https://github.com/xdagiz/xytz)
-
-精美的 YouTube 下载/播放终端界面，基于 yt-dlp 与 ffmpeg 封装。
-
-- **Stars:** ⭐️ 642
-- **Tags:** `youtube` `downloader` `tui` `golang`
-- **最后活动时间:** 2026-09-07
-
 ### [fnt](https://github.com/alexmyczko/fnt)
 
 类似 apt 的字体管理命令行工具，填补了 macOS 和 Linux 缺失字体管理器的空白。支持快速安装和管理单个字体。
 
-- **Stars:** ⭐️ 641
+- **Stars:** ⭐️ 646
 - **Tags:** `cli` `fonts` `macos` `linux` `typography`
-- **最后活动时间:** 2026-09-25
+- **最后活动时间:** 2026-10-17
 
 ### [agterm](https://github.com/umputun/agterm)
 
@@ -10234,14 +10362,6 @@ Arch Linux 软件包搜索与安装的终端界面，可快速浏览官方仓库
 
 - **Stars:** ⭐️ 641
 - **Tags:** `ai-agents` `cli` `terminal`
-- **最后活动时间:** 2026-09-30
-
-### [pro.webssh.net](https://github.com/isontheline/pro.webssh.net)
-
-面向 iOS/iPadOS/macOS 的 SSH 与 SFTP 客户端，随时随地安全管理远程服务器与终端会话。
-
-- **Stars:** ⭐️ 641
-- **Tags:** `ssh` `sftp` `terminal` `ios` `macos`
 - **最后活动时间:** 2026-09-30
 
 ### [goldboot](https://github.com/fossable/goldboot)
@@ -10252,6 +10372,14 @@ Arch Linux 软件包搜索与安装的终端界面，可快速浏览官方仓库
 - **Tags:** `devops` `golden-image` `ci` `automation` `ansible`
 - **最后活动时间:** 2026-09-01
 
+### [mg](https://github.com/troglobit/mg)
+
+轻量级的类 Micro Emacs 文本编辑器，公共领域开源，可运行于各类 Unix 系统。适合在服务器与终端环境中快速编辑文件。
+
+- **Stars:** ⭐️ 637
+- **Tags:** `Emacs` `Text-Editor` `Terminal` `Unix` `Public-Domain`
+- **最后活动时间:** 2026-10-16
+
 ### [qrcode.show](https://github.com/sayanarijit/qrcode.show)
 
 免费便捷的二维码生成服务，一条 curl 命令即可在终端中生成二维码。
@@ -10260,61 +10388,45 @@ Arch Linux 软件包搜索与安装的终端界面，可快速浏览官方仓库
 - **Tags:** `qr-code` `qrcode` `terminal` `rust` `api`
 - **最后活动时间:** 2026-07-01
 
+### [Live-Forensicator](https://github.com/Johnng007/Live-Forensicator)
+
+跨平台应急响应与在线取证工具包，集成威胁检测、结构化分析与报告生成。帮助安全人员快速完成事件调查。
+
+- **Stars:** ⭐️ 635
+- **Tags:** `Forensics` `Incident-Response` `Security` `Bash` `PowerShell`
+- **最后活动时间:** 2026-10-17
+
 ### [twitch-tui](https://github.com/Xithrius/twitch-tui)
 
 在终端中收发 Twitch 直播聊天消息，开启沉浸式刷弹幕的新姿势。
 
 - **Stars:** ⭐️ 634
 - **Tags:** `twitch` `chat` `tui` `rust`
-- **最后活动时间:** 2026-09-02
-
-### [Live-Forensicator](https://github.com/Johnng007/Live-Forensicator)
-
-跨平台应急响应与在线取证工具包，集成威胁检测、结构化分析与报告生成。帮助安全人员快速完成事件调查。
-
-- **Stars:** ⭐️ 634
-- **Tags:** `Forensics` `Incident-Response` `Security` `Bash` `PowerShell`
-- **最后活动时间:** 2026-09-10
-
-### [mg](https://github.com/troglobit/mg)
-
-轻量级的类 Micro Emacs 文本编辑器，公共领域开源，可运行于各类 Unix 系统。适合在服务器与终端环境中快速编辑文件。
-
-- **Stars:** ⭐️ 628
-- **Tags:** `Emacs` `Text-Editor` `Terminal` `Unix` `Public-Domain`
-- **最后活动时间:** 2026-09-29
-
-### [shai](https://github.com/ovh/shai)
-
-Rust编写的终端AI编程助手，作为结对编程伙伴在命令行中协助开发。
-
-- **Stars:** ⭐️ 624
-- **Tags:** `CLI` `Coding Agent` `Rust`
-- **最后活动时间:** 2026-08-31
-
-### [docsagent](https://github.com/docsagent/docsagent)
-
-本地优先的AI文档助手，支持安全索引和对话式检索数千份桌面文档，零云端泄露风险。
-
-- **Stars:** ⭐️ 624
-- **Tags:** `local-ai` `documents` `mcp` `cli` `search`
-- **最后活动时间:** 2026-09-28
+- **最后活动时间:** 2026-10-15
 
 ### [con-terminal](https://github.com/nowledge-co/con-terminal)
 
 内置AI驱动的原生终端模拟器，提供智能化的命令行工作流体验。结合Rust与AI技能提升终端操作效率。
 
-- **Stars:** ⭐️ 624
+- **Stars:** ⭐️ 632
 - **Tags:** `terminal` `ai` `rust` `workflow`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
+
+### [shai](https://github.com/ovh/shai)
+
+Rust编写的终端AI编程助手，作为结对编程伙伴在命令行中协助开发。
+
+- **Stars:** ⭐️ 626
+- **Tags:** `CLI` `Coding Agent` `Rust`
+- **最后活动时间:** 2026-10-09
 
 ### [ascii-movie](https://github.com/gabe565/ascii-movie)
 
 用 Go 编写的《星球大战》ASCII 动画 SSH/Telnet 服务器，可自托管让任意终端播放经典动画。趣味性与技术性兼备。
 
-- **Stars:** ⭐️ 621
+- **Stars:** ⭐️ 623
 - **Tags:** `ascii-art` `ssh` `telnet` `go` `star-wars`
-- **最后活动时间:** 2026-09-18
+- **最后活动时间:** 2026-10-13
 
 ### [samytools](https://github.com/samyk/samytools)
 
@@ -10328,9 +10440,9 @@ Rust编写的终端AI编程助手，作为结对编程伙伴在命令行中协�
 
 轻量高性能的 SOCKS5 服务器实现，资源占用极低。支持 IPv4/IPv6、UDP 及 DNS 转发，适合嵌入式与多平台环境。
 
-- **Stars:** ⭐️ 618
+- **Stars:** ⭐️ 619
 - **Tags:** `SOCKS5` `Proxy-Server` `Networking` `High-Performance`
-- **最后活动时间:** 2026-08-30
+- **最后活动时间:** 2026-10-13
 
 ### [shell-safe-rm](https://github.com/kaelzhang/shell-safe-rm)
 
@@ -10340,13 +10452,13 @@ bash rm 命令的安全替代品，功能几乎完全兼容原生命令，防止
 - **Tags:** `cli` `shell` `safe-rm` `bash` `trash`
 - **最后活动时间:** 2026-06-14
 
-### [herdr-file-viewer](https://github.com/smarzban/herdr-file-viewer)
+### [jellyfin-tui](https://github.com/dhonus/jellyfin-tui)
 
-git 感知的只读文件查看器 TUI，树形浏览加内容面板，支持 diff 查看、Markdown 渲染与语法高亮，鼠标键盘双友好。
+基于 ratatui 与 mpv 的现代终端音乐流媒体客户端，对接 Jellyfin 服务器。支持离线播放，在命令行中享受音乐。
 
-- **Stars:** ⭐️ 614
-- **Tags:** `TUI` `Rust` `Git` `File-Viewer`
-- **最后活动时间:** 2026-09-16
+- **Stars:** ⭐️ 613
+- **Tags:** `tui` `music` `jellyfin` `ratatui` `mpv`
+- **最后活动时间:** 2026-09-30
 
 ### [nemu](https://github.com/nemuTUI/nemu)
 
@@ -10380,21 +10492,13 @@ QEMU 的 Ncurses 界面，让虚拟机的管理与监控在终端中变得直观
 - **Tags:** `claude` `claude-code` `terminal` `tmux`
 - **最后活动时间:** 2026-06-16
 
-### [jellyfin-tui](https://github.com/dhonus/jellyfin-tui)
-
-基于 ratatui 与 mpv 的现代终端音乐流媒体客户端，对接 Jellyfin 服务器。支持离线播放，在命令行中享受音乐。
-
-- **Stars:** ⭐️ 602
-- **Tags:** `tui` `music` `jellyfin` `ratatui` `mpv`
-- **最后活动时间:** 2026-09-30
-
 ### [thokr](https://github.com/jrnxf/thokr)
 
 界面精美的终端打字练习工具,提供可视化成绩与历史记录统计。
 
-- **Stars:** ⭐️ 602
+- **Stars:** ⭐️ 603
 - **Tags:** `rust` `tui` `typing` `cli`
-- **最后活动时间:** 2026-06-12
+- **最后活动时间:** 2026-10-15
 
 ### [radio-active](https://github.com/dpnkrpl/radio-active)
 
@@ -10420,14 +10524,6 @@ System76 COSMIC 桌面环境官方终端模拟器，采用 Rust 编写，界面�
 - **Tags:** `Rust` `TerminalEmulator` `COSMIC` `Linux`
 - **最后活动时间:** 2026-09-23
 
-### [uniterm](https://github.com/ys-ll/uniterm)
-
-轻量级一体化终端，支持 SSH、RDP、数据库、K8s 等 30+ 协议，并内置可规划、执行多轮 Shell 命令的自主 AI Agent。
-
-- **Stars:** ⭐️ 589
-- **Tags:** `ai-agent` `terminal` `ssh` `kubernetes` `cross-platform`
-- **最后活动时间:** 2026-09-30
-
 ### [tailpipe](https://github.com/turbot/tailpipe)
 
 基于 DuckDB 的开源 SIEM 工具，可在终端中秒级分析数百万条日志事件。为安全审计与事件响应提供即时日志洞察。
@@ -10436,29 +10532,37 @@ System76 COSMIC 桌面环境官方终端模拟器，采用 Rust 编写，界面�
 - **Tags:** `SIEM` `DuckDB` `LogAnalysis` `Security` `Terminal`
 - **最后活动时间:** 2026-09-25
 
-### [TerminalGuiDesigner](https://github.com/tui-cs/TerminalGuiDesigner)
+### [pik](https://github.com/jacek-kurlit/pik)
 
-为 Terminal.Gui (gui.cs) 打造的可视化表单设计器，让开发者以拖拽方式快速构建终端 GUI 界面。
+交互式进程查杀工具（Process Interactive Kill），在终端中快速查找并精准终止顽固进程。
 
-- **Stars:** ⭐️ 577
-- **Tags:** `CSharp` `TUI` `GUI-Designer` `DotNet`
-- **最后活动时间:** 2026-09-03
+- **Stars:** ⭐️ 580
+- **Tags:** `process` `kill` `terminal` `rust` `tui`
+- **最后活动时间:** 2026-09-22
 
 ### [dorothy](https://github.com/bevry/dorothy)
 
 一站式终端生态系统，提供跨 shell 脚本框架、dotfiles 互操作层、跨源包管理器以及数百个跨操作系统命令。
 
-- **Stars:** ⭐️ 576
+- **Stars:** ⭐️ 580
 - **Tags:** `Shell` `Dotfiles` `Terminal` `CLI` `Bash`
 - **最后活动时间:** 2026-09-14
 
-### [pik](https://github.com/jacek-kurlit/pik)
+### [TerminalGuiDesigner](https://github.com/tui-cs/TerminalGuiDesigner)
 
-交互式进程查杀工具（Process Interactive Kill），在终端中快速查找并精准终止顽固进程。
+为 Terminal.Gui (gui.cs) 打造的可视化表单设计器，让开发者以拖拽方式快速构建终端 GUI 界面。
 
 - **Stars:** ⭐️ 575
-- **Tags:** `process` `kill` `terminal` `rust` `tui`
-- **最后活动时间:** 2026-09-22
+- **Tags:** `CSharp` `TUI` `GUI-Designer` `DotNet`
+- **最后活动时间:** 2026-09-03
+
+### [docsagent](https://github.com/docsagent/docsagent)
+
+本地优先的AI文档助手，支持安全索引和对话式检索数千份桌面文档，零云端泄露风险。
+
+- **Stars:** ⭐️ 574
+- **Tags:** `local-ai` `documents` `mcp` `cli` `search`
+- **最后活动时间:** 2026-09-28
 
 ### [batgrl](https://github.com/salt-die/batgrl)
 
@@ -10466,31 +10570,39 @@ Python 编写的强大终端图形库，支持 truecolor、异步与组件化开
 
 - **Stars:** ⭐️ 574
 - **Tags:** `Python` `TUI` `Graphics` `TerminalGraphics` `Async`
-- **最后活动时间:** 2026-09-13
-
-### [fish-ai](https://github.com/Realiserad/fish-ai)
-
-为Fish Shell集成LLM能力的插件，提供智能Shell脚本辅助和命令行建议。
-
-- **Stars:** ⭐️ 563
-- **Tags:** `Fish` `Shell` `LLM`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-01
 
 ### [ku](https://github.com/bjarneo/ku)
 
 键盘驱动的 Kubernetes TUI，可浏览任意资源、编辑对象、跟踪日志并直接进入 Pod Shell。k9s 的有力竞争者。
 
-- **Stars:** ⭐️ 563
+- **Stars:** ⭐️ 567
 - **Tags:** `kubernetes` `k8s` `tui` `devops` `go`
-- **最后活动时间:** 2026-09-17
+- **最后活动时间:** 2026-10-15
 
 ### [jmxterm](https://github.com/jiaqi/jmxterm)
 
 交互式 JMX 命令行客户端，方便开发与运维人员在终端中管理和监控 Java 应用。
 
-- **Stars:** ⭐️ 562
+- **Stars:** ⭐️ 563
 - **Tags:** `Java` `JMX` `CLI` `Monitoring`
-- **最后活动时间:** 2026-09-28
+- **最后活动时间:** 2026-10-15
+
+### [fish-ai](https://github.com/Realiserad/fish-ai)
+
+为Fish Shell集成LLM能力的插件，提供智能Shell脚本辅助和命令行建议。
+
+- **Stars:** ⭐️ 562
+- **Tags:** `Fish` `Shell` `LLM`
+- **最后活动时间:** 2026-10-16
+
+### [aish](https://github.com/AI-Shell-Team/aish)
+
+赋予 Shell 思考能力，进化运维操作的 AI 终端工具。
+
+- **Stars:** ⭐️ 562
+- **Tags:** `ai-agent` `shell` `zsh` `fish`
+- **最后活动时间:** 2026-10-16
 
 ### [Kiri](https://github.com/GaoSSR/Kiri)
 
@@ -10500,21 +10612,21 @@ Python 编写的强大终端图形库，支持 truecolor、异步与组件化开
 - **Tags:** `cli` `developer-tools` `local-development` `port-management` `rust`
 - **最后活动时间:** 2026-07-30
 
-### [aish](https://github.com/AI-Shell-Team/aish)
-
-赋予 Shell 思考能力，进化运维操作的 AI 终端工具。
-
-- **Stars:** ⭐️ 557
-- **Tags:** `ai-agent` `shell` `zsh` `fish`
-- **最后活动时间:** 2026-09-30
-
 ### [devtui](https://github.com/skatkov/devtui)
 
 面向开发者的终端瑞士军刀，将多种常用开发小工具整合进统一的 TUI 界面，提升命令行工作效率。
 
-- **Stars:** ⭐️ 555
+- **Stars:** ⭐️ 556
 - **Tags:** `cli` `tui` `developer-tools` `terminal`
-- **最后活动时间:** 2026-09-21
+- **最后活动时间:** 2026-10-13
+
+### [ansible-navigator](https://github.com/ansible/ansible-navigator)
+
+Ansible 官方生态的文本用户界面（TUI），让开发者可在终端中高效运行与调试 Playbook 和清单。
+
+- **Stars:** ⭐️ 554
+- **Tags:** `ansible` `tui` `python` `devops`
+- **最后活动时间:** 2026-10-13
 
 ### [md-tui](https://github.com/henriklovhaug/md-tui)
 
@@ -10532,27 +10644,19 @@ Python 编写的强大终端图形库，支持 truecolor、异步与组件化开
 - **Tags:** `TerminalMultiplexer` `GPU` `Linux` `Terminal`
 - **最后活动时间:** 2026-09-29
 
-### [ansible-navigator](https://github.com/ansible/ansible-navigator)
-
-Ansible 官方生态的文本用户界面（TUI），让开发者可在终端中高效运行与调试 Playbook 和清单。
-
-- **Stars:** ⭐️ 551
-- **Tags:** `ansible` `tui` `python` `devops`
-- **最后活动时间:** 2026-09-28
-
 ### [tmux-ide](https://github.com/wavyrai/tmux-ide)
 
 通过一个简单的 ide.yml 配置文件，即可将任意项目变成由 tmux 驱动的终端 IDE。
 
-- **Stars:** ⭐️ 550
+- **Stars:** ⭐️ 551
 - **Tags:** `tmux` `CLI` `DeveloperTools` `Terminal`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
 ### [stmux](https://github.com/rse/stmux)
 
 面向 Node.js 环境的简易终端多路复用器，可在一个界面中同时运行并监控多个任务。
 
-- **Stars:** ⭐️ 547
+- **Stars:** ⭐️ 548
 - **Tags:** `terminal` `multiplexer` `nodejs` `tmux`
 - **最后活动时间:** 2026-07-19
 
@@ -10560,71 +10664,71 @@ Ansible 官方生态的文本用户界面（TUI），让开发者可在终端中
 
 受 Powerlevel10k 启发的 Claude Code 终端状态栏工具。只需粘贴一次提示词，AI 就会引导你完成安装配置。
 
-- **Stars:** ⭐️ 544
+- **Stars:** ⭐️ 547
 - **Tags:** `claude` `claude-code` `terminal` `statusline` `bash`
-- **最后活动时间:** 2026-09-25
-
-### [xfr](https://github.com/lance0/xfr)
-
-现代 iperf3 替代品，内置实时 TUI、多客户端服务端与 QUIC 支持，使用 Rust 构建。
-
-- **Stars:** ⭐️ 543
-- **Tags:** `network` `benchmark` `iperf` `rust` `tui`
-- **最后活动时间:** 2026-09-27
+- **最后活动时间:** 2026-10-09
 
 ### [tmux-agent-sidebar](https://github.com/hiroppy/tmux-agent-sidebar)
 
 一个实用的 tmux 侧边栏工具，可实时监控所有窗口和会话中运行的 AI 编程智能体状态。让开发者在终端中轻松掌握多个 AI Agent 的工作进展。
 
-- **Stars:** ⭐️ 541
+- **Stars:** ⭐️ 545
 - **Tags:** `tmux` `ai-agents` `terminal` `monitoring` `developer-tools` `cli`
-- **最后活动时间:** 2026-09-27
+- **最后活动时间:** 2026-10-17
 
-### [rucola](https://github.com/Linus-Mussmaecher/rucola)
+### [xfr](https://github.com/lance0/xfr)
 
-基于 Rust 的终端 Markdown 笔记管理器，支持 Zettelkasten 卡片盒笔记法，让知识管理专注高效。
+现代 iperf3 替代品，内置实时 TUI、多客户端服务端与 QUIC 支持，使用 Rust 构建。
 
-- **Stars:** ⭐️ 540
-- **Tags:** `markdown` `notes` `zettelkasten` `rust` `tui`
-- **最后活动时间:** 2026-08-25
-
-### [pingtop](https://github.com/laixintao/pingtop)
-
-以 top 风格的 TUI 同时 ping 多台服务器并展示结果。网络诊断状况一目了然。
-
-- **Stars:** ⭐️ 537
-- **Tags:** `ping` `tui` `networking` `monitoring`
-- **最后活动时间:** 2026-07-13
+- **Stars:** ⭐️ 545
+- **Tags:** `network` `benchmark` `iperf` `rust` `tui`
+- **最后活动时间:** 2026-10-16
 
 ### [termio](https://github.com/termio-sh/termio)
 
 专为智能编码代理打造的终端优先开发环境，可作为 Tmux 替代方案，支持并行运行多个 CLI/TUI 编码 Agent。
 
-- **Stars:** ⭐️ 534
+- **Stars:** ⭐️ 544
 - **Tags:** `AI-Agents` `Terminal` `Coding-Agents` `CLI` `Multiplexer`
-- **最后活动时间:** 2026-09-28
+- **最后活动时间:** 2026-10-17
 
-### [goto](https://github.com/grafviktor/goto)
+### [rucola](https://github.com/Linus-Mussmaecher/rucola)
 
-简洁易用的终端 SSH 管理器，功能强大且跨平台，附带开箱即用的二进制文件。
+基于 Rust 的终端 Markdown 笔记管理器，支持 Zettelkasten 卡片盒笔记法，让知识管理专注高效。
 
-- **Stars:** ⭐️ 533
-- **Tags:** `ssh` `ssh-manager` `terminal` `golang` `cli`
-- **最后活动时间:** 2026-09-24
+- **Stars:** ⭐️ 542
+- **Tags:** `markdown` `notes` `zettelkasten` `rust` `tui`
+- **最后活动时间:** 2026-10-01
+
+### [pingtop](https://github.com/laixintao/pingtop)
+
+以 top 风格的 TUI 同时 ping 多台服务器并展示结果。网络诊断状况一目了然。
+
+- **Stars:** ⭐️ 541
+- **Tags:** `ping` `tui` `networking` `monitoring`
+- **最后活动时间:** 2026-07-13
 
 ### [goschedviz](https://github.com/justskiv/goschedviz)
 
 终端版 Go 调度器可视化工具，实时展示 goroutine 调度指标与图表，助力深入理解运行时行为。
 
-- **Stars:** ⭐️ 530
+- **Stars:** ⭐️ 533
 - **Tags:** `golang` `scheduler` `visualization` `terminal` `profiling`
 - **最后活动时间:** 2026-06-17
+
+### [goto](https://github.com/grafviktor/goto)
+
+简洁易用的终端 SSH 管理器，功能强大且跨平台，附带开箱即用的二进制文件。
+
+- **Stars:** ⭐️ 532
+- **Tags:** `ssh` `ssh-manager` `terminal` `golang` `cli`
+- **最后活动时间:** 2026-10-15
 
 ### [clsh](https://github.com/my-claude-utils/clsh)
 
 允许从任何设备（手机、平板、桌面）访问终端和AI代理的开源工具。支持远程终端、SSH和WebSocket连接。
 
-- **Stars:** ⭐️ 525
+- **Stars:** ⭐️ 527
 - **Tags:** `claude-code` `cli` `developer-tools` `remote-terminal` `ssh` `pwa`
 - **最后活动时间:** 2026-06-20
 
@@ -10636,6 +10740,22 @@ Ansible 官方生态的文本用户界面（TUI），让开发者可在终端中
 - **Tags:** `terminal` `windows` `shell` `command-line`
 - **最后活动时间:** 2026-08-02
 
+### [better-agent-terminal](https://github.com/tony1223/better-agent-terminal)
+
+better-agent-terminal 是一个多工作区终端聚合器，集成Claude Code AI，提供改进的开发者工作流和多终端管理。
+
+- **Stars:** ⭐️ 519
+- **Tags:** `Terminal-Tools` `AI-Agent` `Developer-Tools`
+- **最后活动时间:** 2026-10-16
+
+### [rssh](https://github.com/rssh-org/rssh)
+
+跨平台 SSH/SFTP 客户端，集成 AI Agent 能力，面向远程运维痛点，覆盖桌面与移动端。
+
+- **Stars:** ⭐️ 517
+- **Tags:** `SSH` `AI-Agent` `Terminal` `SFTP` `Tauri`
+- **最后活动时间:** 2026-10-15
+
 ### [soundcli](https://github.com/baairon/soundcli)
 
 在终端中下载并离线播放 YouTube、SoundCloud、Spotify 音乐库，一站式管理本地音乐。
@@ -10644,45 +10764,29 @@ Ansible 官方生态的文本用户界面（TUI），让开发者可在终端中
 - **Tags:** `cli` `music` `downloader` `tui` `terminal`
 - **最后活动时间:** 2026-08-19
 
-### [better-agent-terminal](https://github.com/tony1223/better-agent-terminal)
-
-better-agent-terminal 是一个多工作区终端聚合器，集成Claude Code AI，提供改进的开发者工作流和多终端管理。
-
-- **Stars:** ⭐️ 513
-- **Tags:** `Terminal-Tools` `AI-Agent` `Developer-Tools`
-- **最后活动时间:** 2026-09-30
-
-### [rssh](https://github.com/rssh-org/rssh)
-
-跨平台 SSH/SFTP 客户端，集成 AI Agent 能力，面向远程运维痛点，覆盖桌面与移动端。
-
-- **Stars:** ⭐️ 509
-- **Tags:** `SSH` `AI-Agent` `Terminal` `SFTP` `Tauri`
-- **最后活动时间:** 2026-09-30
-
 ### [ansis](https://github.com/webdiscus/ansis)
 
 支持 CJS/ESM 的终端 ANSI 颜色库，兼容 Bun、Deno、Next.js 及 Chromium 浏览器控制台。提供 Truecolor 等丰富样式。
 
-- **Stars:** ⭐️ 508
+- **Stars:** ⭐️ 510
 - **Tags:** `ANSI` `Colors` `NodeJS` `CLI` `Terminal`
 - **最后活动时间:** 2026-09-19
-
-### [gut](https://github.com/julien040/gut)
-
-面向新手的友好 Git 命令行工具,用简单直观的命令简化版本控制操作。
-
-- **Stars:** ⭐️ 507
-- **Tags:** `git` `cli` `golang` `version-control`
-- **最后活动时间:** 2026-06-07
 
 ### [turm](https://github.com/karimknaebel/turm)
 
 Slurm 工作负载管理器的终端 UI，让 HPC 集群任务的查看与管理更加直观高效。
 
-- **Stars:** ⭐️ 506
+- **Stars:** ⭐️ 507
 - **Tags:** `slurm` `hpc` `tui` `rust`
 - **最后活动时间:** 2026-07-02
+
+### [KKTerm](https://github.com/ryantsai/KKTerm)
+
+为 Vibe Coder 和系统管理员打造的全能终端工具，集 SSH、SFTP、RDP/VNC、仪表盘与内置 AI 助手于一体。基于 Tauri + Rust 构建，本地优先且高效流畅。
+
+- **Stars:** ⭐️ 507
+- **Tags:** `terminal` `ssh` `ai-assistant` `mcp` `tauri` `devops` `sysadmin`
+- **最后活动时间:** 2026-10-14
 
 ### [nsh](https://github.com/fluffypony/nsh)
 
@@ -10700,13 +10804,13 @@ Slurm 工作负载管理器的终端 UI，让 HPC 集群任务的查看与管理
 - **Tags:** `CLI` `Apple-Reminders` `AI-Agents` `macOS` `Productivity`
 - **最后活动时间:** 2026-09-30
 
-### [KKTerm](https://github.com/ryantsai/KKTerm)
+### [gut](https://github.com/julien040/gut)
 
-为 Vibe Coder 和系统管理员打造的全能终端工具，集 SSH、SFTP、RDP/VNC、仪表盘与内置 AI 助手于一体。基于 Tauri + Rust 构建，本地优先且高效流畅。
+面向新手的友好 Git 命令行工具,用简单直观的命令简化版本控制操作。
 
-- **Stars:** ⭐️ 500
-- **Tags:** `terminal` `ssh` `ai-assistant` `mcp` `tauri` `devops` `sysadmin`
-- **最后活动时间:** 2026-09-30
+- **Stars:** ⭐️ 503
+- **Tags:** `git` `cli` `golang` `version-control`
+- **最后活动时间:** 2026-06-07
 
 ## 未分类 (Others)
 
@@ -10714,7 +10818,7 @@ Slurm 工作负载管理器的终端 UI，让 HPC 集群任务的查看与管理
 
 使用Rust/Tauri将网页打包为桌面应用，可封装ChatGPT等AI工具
 
-- **Stars:** ⭐️ 61.8k
+- **Stars:** ⭐️ 62.1k
 - **Tags:** `desktop` `rust` `tauri` `chatgpt`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
