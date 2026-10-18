@@ -2,7 +2,7 @@
 
 > Retrieval Augmented Generation and Database solutions.
 
-> 当前分类已收录 **589** 个相关项目。
+> 当前分类已收录 **592** 个相关项目。
 
 ## Data Parsers
 
@@ -10,9 +10,9 @@
 
 专为AI设计的网页数据API，将网站转换为LLM可用的Markdown或结构化数据，是RAG应用的理想数据源。
 
-- **Stars:** ⭐️ 192.5k
+- **Stars:** ⭐️ 192.6k
 - **Tags:** `网页爬取` `数据提取` `LLM数据`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [markitdown](https://github.com/microsoft/markitdown)
 
@@ -34,7 +34,7 @@
 
 自适应AI网页抓取框架，支持从简单请求到大规模爬取，内置MCP服务器支持AI代理智能数据提取。
 
-- **Stars:** ⭐️ 88.3k
+- **Stars:** ⭐️ 88.4k
 - **Tags:** `网页抓取` `MCP` `数据提取`
 - **最后活动时间:** 2026-10-17
 
@@ -60,7 +60,7 @@
 
 - **Stars:** ⭐️ 69.0k
 - **Tags:** `Document Parsing` `PDF Converter` `GenAI Ready`
-- **最后活动时间:** 2026-10-16
+- **最后活动时间:** 2026-10-18
 
 ### [EasySpider](https://github.com/NaiboWang/EasySpider)
 
@@ -244,7 +244,7 @@ Python新闻文章全文与元数据提取库，支持多语言新闻抓取，�
 
 - **Stars:** ⭐️ 11.7k
 - **Tags:** `数据处理` `ETL` `实时索引`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [great_expectations](https://github.com/great-expectations/great_expectations)
 
@@ -292,7 +292,7 @@ Apache基金会的高性能分布式数据集成工具，支持实时和批量�
 
 - **Stars:** ⭐️ 9.7k
 - **Tags:** `Data Integration` `ETL` `Apache` `Real-time` `LLM Data`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [crawlee-python](https://github.com/apify/crawlee-python)
 
@@ -324,7 +324,7 @@ Apache DataFusion 是高性能的 SQL 查询引擎，专为大数据分析和 ML
 
 - **Stars:** ⭐️ 9.4k
 - **Tags:** `document-intelligence` `pdf-extraction` `rag` `text-extraction` `rust`
-- **最后活动时间:** 2026-10-16
+- **最后活动时间:** 2026-10-18
 
 ### [google-images-download](https://github.com/hardikvasa/google-images-download)
 
@@ -349,6 +349,14 @@ Python API工具，用于获取YouTube视频的字幕和转录文本，无需API
 - **Stars:** ⭐️ 8.5k
 - **Tags:** `YouTube` `Transcript` `Data-Extraction` `Python`
 - **最后活动时间:** 2026-09-10
+
+### [megaparse](https://github.com/The-Vibe-Company/megaparse)
+
+专为 LLM 摄取优化的文件解析器，可将 PDF、Docx、PPTx 等文档无损转换为最适合大语言模型处理的格式。是构建 RAG 管道和数据预处理流程的实用工具。
+
+- **Stars:** ⭐️ 7.4k
+- **Tags:** `LLM` `PDF` `Document Parsing` `RAG` `Data Ingestion`
+- **最后活动时间:** 2026-10-15
 
 ### [unstract](https://github.com/Zipstack/unstract)
 
@@ -604,7 +612,7 @@ Google开源的差分隐私库，提供保护用户数据隐私的算法和工�
 
 - **Stars:** ⭐️ 3.3k
 - **Tags:** `columnar` `file-format` `multimodal` `rust` `arrow`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [deepdoctection](https://github.com/deepdoctection/deepdoctection)
 
@@ -676,7 +684,7 @@ Slack消息导出工具，支持导出私聊、频道、文件和用户数据，
 
 - **Stars:** ⭐️ 2.8k
 - **Tags:** `Multimodal` `ETL` `LLM`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [twscrape](https://github.com/vladkens/twscrape)
 
@@ -724,15 +732,15 @@ Slack消息导出工具，支持导出私聊、频道、文件和用户数据，
 
 - **Stars:** ⭐️ 2.6k
 - **Tags:** `csharp` `pdf` `text-extraction` `document-analysis` `layout-analysis`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [kordoc](https://github.com/chrisryugj/kordoc)
 
 支持多种文档格式（HWP、HWPX、PDF、XLSX、DOCX）转换为Markdown的解析工具，提供CLI和MCP服务器接口，适合RAG应用场景。
 
-- **Stars:** ⭐️ 2.5k
+- **Stars:** ⭐️ 2.6k
 - **Tags:** `document-parser` `mcp` `pdf` `docx` `markdown`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [awesome-duckdb](https://github.com/davidgasquez/awesome-duckdb)
 
@@ -741,6 +749,14 @@ DuckDB资源精选列表，适用于AI数据管道和分析型数据库场景。
 - **Stars:** ⭐️ 2.5k
 - **Tags:** `duckdb` `database` `data-analytics` `sql`
 - **最后活动时间:** 2026-10-13
+
+### [ossie](https://github.com/apache/ossie)
+
+开源语义元数据规范，为分析、AI 与 BI 平台提供厂商中立的统一语义数据交换标准。
+
+- **Stars:** ⭐️ 2.5k
+- **Tags:** `Semantic-Metadata` `AI` `Analytics` `Specification`
+- **最后活动时间:** 2026-10-18
 
 ### [splink](https://github.com/moj-analytical-services/splink)
 
@@ -782,13 +798,13 @@ LandingAI 推出的官方命令行工具，用于智能文档提取（ADE）。�
 - **Tags:** `pdf` `markdown` `llm` `pdf-converter`
 - **最后活动时间:** 2026-09-23
 
-### [ossie](https://github.com/apache/ossie)
+### [pymupdf4llm](https://github.com/pymupdf/pymupdf4llm)
 
-开源语义元数据规范，为分析、AI 与 BI 平台提供厂商中立的统一语义数据交换标准。
+专为LLM优化的PDF解析库，基于PyMuPDF提供高效的文档提取能力。
 
-- **Stars:** ⭐️ 2.2k
-- **Tags:** `Semantic-Metadata` `AI` `Analytics` `Specification`
-- **最后活动时间:** 2026-09-29
+- **Stars:** ⭐️ 2.3k
+- **Tags:** `pdf` `parsing` `llm` `rag`
+- **最后活动时间:** 2026-10-16
 
 ### [invoice2data](https://github.com/invoice-x/invoice2data)
 
@@ -797,14 +813,6 @@ LandingAI 推出的官方命令行工具，用于智能文档提取（ADE）。�
 - **Stars:** ⭐️ 2.2k
 - **Tags:** `pdf-parsing` `data-extraction` `python`
 - **最后活动时间:** 2026-10-17
-
-### [pymupdf4llm](https://github.com/pymupdf/pymupdf4llm)
-
-专为LLM优化的PDF解析库，基于PyMuPDF提供高效的文档提取能力。
-
-- **Stars:** ⭐️ 2.2k
-- **Tags:** `pdf` `parsing` `llm` `rag`
-- **最后活动时间:** 2026-09-29
 
 ### [MarginaliaSearch](https://github.com/MarginaliaSearch/MarginaliaSearch)
 
@@ -870,14 +878,6 @@ LandingAI 推出的官方命令行工具，用于智能文档提取（ADE）。�
 - **Tags:** `Document Parsing` `OCR` `Markdown`
 - **最后活动时间:** 2026-08-04
 
-### [tika-python](https://github.com/chrismattmann/tika-python)
-
-Apache Tika的Python绑定，提供文本提取和内容解析功能。支持多种文档格式的文本和元数据提取。
-
-- **Stars:** ⭐️ 1.7k
-- **Tags:** `text-extraction` `document-parsing` `python`
-- **最后活动时间:** 2026-10-01
-
 ### [arctic_shift](https://github.com/ArthurHeitmann/arctic_shift)
 
 让Reddit数据对研究人员、版主和所有人开放访问。提供大规模数据转储、API和Web界面，适用于AI训练数据采集和RAG系统构建。
@@ -885,6 +885,14 @@ Apache Tika的Python绑定，提供文本提取和内容解析功能。支持多
 - **Stars:** ⭐️ 1.7k
 - **Tags:** `reddit` `data-api` `dataset` `data-access`
 - **最后活动时间:** 2026-10-11
+
+### [tika-python](https://github.com/chrismattmann/tika-python)
+
+Apache Tika的Python绑定，提供文本提取和内容解析功能。支持多种文档格式的文本和元数据提取。
+
+- **Stars:** ⭐️ 1.7k
+- **Tags:** `text-extraction` `document-parsing` `python`
+- **最后活动时间:** 2026-10-01
 
 ### [ExtractThinker](https://github.com/enoch3712/ExtractThinker)
 
@@ -916,7 +924,7 @@ LLM文档智能处理库，提供ORM风格的文档工作流，支持PDF解析�
 
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `文档标注` `知识库` `MCP`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [prince](https://github.com/MaxHalford/prince)
 
@@ -934,6 +942,14 @@ Python多变量探索性数据分析库，支持PCA、CA、MCA等降维方法。
 - **Tags:** `serp-api` `web-scraping` `search-engine` `seo`
 - **最后活动时间:** 2026-09-28
 
+### [fastctx](https://github.com/yc-duan/fastctx)
+
+为AI智能体提供快速且上下文高效的代码仓库解析工具，支持MCP协议。帮助开发者更好地提取和喂入代码上下文给大模型。
+
+- **Stars:** ⭐️ 1.5k
+- **Tags:** `mcp` `context` `ai-agents` `code-parsing`
+- **最后活动时间:** 2026-10-18
+
 ### [OpenOCR](https://github.com/Topdu/OpenOCR)
 
 开源OCR工具包，集成统一训练评估基准和商业级文档解析系统，支持场景文本检测与识别。
@@ -941,14 +957,6 @@ Python多变量探索性数据分析库，支持PCA、CA、MCA等降维方法。
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `OCR` `文档解析` `PyTorch`
 - **最后活动时间:** 2026-09-21
-
-### [fastctx](https://github.com/yc-duan/fastctx)
-
-为AI智能体提供快速且上下文高效的代码仓库解析工具，支持MCP协议。帮助开发者更好地提取和喂入代码上下文给大模型。
-
-- **Stars:** ⭐️ 1.4k
-- **Tags:** `mcp` `context` `ai-agents` `code-parsing`
-- **最后活动时间:** 2026-09-05
 
 ### [odd-platform](https://github.com/opendatadiscovery/odd-platform)
 
@@ -1014,6 +1022,14 @@ AWS上的科学数据管理平台，帮助团队和AI系统高效发现、信任
 - **Tags:** `markdown` `document-conversion` `data-parsing` `rag` `etl`
 - **最后活动时间:** 2026-08-17
 
+### [commonforms](https://github.com/jbarrow/commonforms)
+
+利用开放模型自动检测 PDF 中的表单字段（如文本框、复选框），将静态 PDF 转化为可交互文档。为文档智能化与自动化处理提供了开箱即用的 AI 能力。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `PDF` `Document-AI` `Form-Field-Detection` `Machine-Learning` `Open-Models`
+- **最后活动时间:** 2026-06-17
+
 ### [WhatsApp-Chat-Exporter](https://github.com/KnugiHK/WhatsApp-Chat-Exporter)
 
 可解析WhatsApp数据库并导出结构化HTML或JSON数据。适合作为聊天数据整理与RAG数据预处理工具。
@@ -1078,14 +1094,6 @@ AWS上的科学数据管理平台，帮助团队和AI系统高效发现、信任
 - **Tags:** `llms` `vlms` `data-redaction` `privacy` `local-ai`
 - **最后活动时间:** 2026-07-22
 
-### [json-schema-ref-parser](https://github.com/APIDevTools/json-schema-ref-parser)
-
-解析与展开JSON Schema引用，适用于AI工具链和API规范处理。
-
-- **Stars:** ⭐️ 1.1k
-- **Tags:** `JSONSchema` `OpenAPI` `Parser`
-- **最后活动时间:** 2026-09-20
-
 ### [chatlog_alpha](https://github.com/teest114514/chatlog_alpha)
 
 微信数据库读取工具，提供MCP服务接口，可用于AI数据提取和RAG应用。
@@ -1093,6 +1101,14 @@ AWS上的科学数据管理平台，帮助团队和AI系统高效发现、信任
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `wechat` `mcp-server` `data-extraction`
 - **最后活动时间:** 2026-08-01
+
+### [json-schema-ref-parser](https://github.com/APIDevTools/json-schema-ref-parser)
+
+解析与展开JSON Schema引用，适用于AI工具链和API规范处理。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `JSONSchema` `OpenAPI` `Parser`
+- **最后活动时间:** 2026-10-11
 
 ### [pdf_oxide](https://github.com/yfedoseev/pdf_oxide)
 
@@ -1156,7 +1172,7 @@ GitHub上最快的HTML转Markdown转换器，专为LLM优化并支持流式处�
 
 - **Stars:** ⭐️ 1.0k
 - **Tags:** `DotNet` `FSharp` `DataFrame` `Time-Series` `Data-Manipulation`
-- **最后活动时间:** 2026-09-20
+- **最后活动时间:** 2026-10-10
 
 ### [jonex](https://github.com/jonexaiorg/jonex)
 
@@ -1166,6 +1182,14 @@ GitHub上最快的HTML转Markdown转换器，专为LLM优化并支持流式处�
 - **Tags:** `multimodal-parsing` `knowledge-engine` `ontology` `llm`
 - **最后活动时间:** 2026-09-04
 
+### [awkward](https://github.com/scikit-hep/awkward)
+
+使用NumPy风格操作处理不规则JSON数据的库，支持嵌套和变长数据结构。广泛应用于AI数据预处理。
+
+- **Stars:** ⭐️ 986
+- **Tags:** `jagged-array` `numpy` `data-analysis` `apache-arrow`
+- **最后活动时间:** 2026-10-17
+
 ### [ontop](https://github.com/ontop/ontop)
 
 Ontop 是一个虚拟知识图谱（VKG）平台，可将关系型数据库映射为 RDF 知识图谱并通过 SPARQL 查询，支持 OBDA 与 R2RML 标准。它是构建知识图谱与语义检索类 AI 应用的成熟开源方案。
@@ -1173,14 +1197,6 @@ Ontop 是一个虚拟知识图谱（VKG）平台，可将关系型数据库映�
 - **Stars:** ⭐️ 984
 - **Tags:** `knowledge-graph` `sparql` `rdf` `obda` `data-integration`
 - **最后活动时间:** 2026-10-15
-
-### [awkward](https://github.com/scikit-hep/awkward)
-
-使用NumPy风格操作处理不规则JSON数据的库，支持嵌套和变长数据结构。广泛应用于AI数据预处理。
-
-- **Stars:** ⭐️ 978
-- **Tags:** `jagged-array` `numpy` `data-analysis` `apache-arrow`
-- **最后活动时间:** 2026-09-30
 
 ### [extruct](https://github.com/scrapinghub/extruct)
 
@@ -1190,13 +1206,13 @@ Ontop 是一个虚拟知识图谱（VKG）平台，可将关系型数据库映�
 - **Tags:** `data-extraction` `json-ld` `microdata` `microformats` `opengraph` `rdfa` `semantic-web`
 - **最后活动时间:** 2026-09-27
 
-### [x-reader](https://github.com/runesleo/x-reader)
+### [neosemantics](https://github.com/neo4j-labs/neosemantics)
 
-支持10+平台的通用内容读取MCP服务器，为RAG应用提供数据解析能力。
+Neo4j 的 RDF 导入导出插件，支持 SHACL 校验与模型映射，助力构建语义知识图谱。
 
 - **Stars:** ⭐️ 968
-- **Tags:** `mcp` `data-parser` `rag` `content-reader`
-- **最后活动时间:** 2026-10-15
+- **Tags:** `neo4j` `rdf` `knowledge-graph` `semantic-web` `shacl`
+- **最后活动时间:** 2026-10-09
 
 ### [data-prep-kit](https://github.com/data-prep-kit/data-prep-kit)
 
@@ -1206,13 +1222,13 @@ Ontop 是一个虚拟知识图谱（VKG）平台，可将关系型数据库映�
 - **Tags:** `data-preparation` `llm` `data-processing` `finetuning`
 - **最后活动时间:** 2026-09-29
 
-### [neosemantics](https://github.com/neo4j-labs/neosemantics)
+### [x-reader](https://github.com/runesleo/x-reader)
 
-Neo4j 的 RDF 导入导出插件，支持 SHACL 校验与模型映射，助力构建语义知识图谱。
+支持10+平台的通用内容读取MCP服务器，为RAG应用提供数据解析能力。
 
 - **Stars:** ⭐️ 967
-- **Tags:** `neo4j` `rdf` `knowledge-graph` `semantic-web` `shacl`
-- **最后活动时间:** 2026-09-22
+- **Tags:** `mcp` `data-parser` `rag` `content-reader`
+- **最后活动时间:** 2026-10-18
 
 ### [hyparquet](https://github.com/hyparam/hyparquet)
 
@@ -1262,6 +1278,14 @@ Unstructured 的 API 服务，可将 PDF、HTML、Word 等非结构化文档解�
 - **Tags:** `pdf` `text-extraction` `parser` `zig` `high-performance` `simd`
 - **最后活动时间:** 2026-08-13
 
+### [TikHub-API-Python-SDK](https://github.com/TikHub/TikHub-API-Python-SDK)
+
+高性能异步Python SDK，聚合抖音、TikTok、小红书、Instagram、YouTube等主流社媒平台的数据接口，并集成验证码求解与临时邮箱服务。是AI数据采集与多平台数据解析管道的理想数据源工具。
+
+- **Stars:** ⭐️ 918
+- **Tags:** `API` `Data-Collection` `Crawler` `TikTok` `Douyin` `Python-SDK` `Async` `Web-Scraping`
+- **最后活动时间:** 2026-10-03
+
 ### [janome](https://github.com/mocobeta/janome)
 
 纯Python编写的日文形态学分析引擎，无需外部依赖即可完成日文分词与词性标注，适合NLP与文本处理管道。
@@ -1274,7 +1298,7 @@ Unstructured 的 API 服务，可将 PDF、HTML、Word 等非结构化文档解�
 
 最大的AI就绪文档目录，实现llms.txt标准，帮助LLM更好地理解和检索文档内容。
 
-- **Stars:** ⭐️ 912
+- **Stars:** ⭐️ 913
 - **Tags:** `llms-txt` `documentation` `RAG`
 - **最后活动时间:** 2026-10-17
 
@@ -1309,14 +1333,6 @@ Hugging Face 数据集查看器的后端服务，提供公开 API 用于浏览�
 - **Stars:** ⭐️ 900
 - **Tags:** `table-extraction` `ocr` `document-ai`
 - **最后活动时间:** 2026-07-12
-
-### [TikHub-API-Python-SDK](https://github.com/TikHub/TikHub-API-Python-SDK)
-
-高性能异步Python SDK，聚合抖音、TikTok、小红书、Instagram、YouTube等主流社媒平台的数据接口，并集成验证码求解与临时邮箱服务。是AI数据采集与多平台数据解析管道的理想数据源工具。
-
-- **Stars:** ⭐️ 899
-- **Tags:** `API` `Data-Collection` `Crawler` `TikTok` `Douyin` `Python-SDK` `Async` `Web-Scraping`
-- **最后活动时间:** 2026-06-05
 
 ### [deeptime](https://github.com/deeptime-ml/deeptime)
 
@@ -1366,6 +1382,14 @@ Tree-sitter的Node绑定，可用于代码解析、代码理解和AI代码工具
 - **Tags:** `document-converter` `ocr` `markdown` `paddleocr`
 - **最后活动时间:** 2026-05-16
 
+### [donsetch](https://github.com/dondai44423/donsetch)
+
+专为 AI 智能体设计的网页抓取、搜索与爬虫工具，使用纯 Rust 从头构建。无需 API 密钥或账户，支持 PDF 解析与 MCP 协议。
+
+- **Stars:** ⭐️ 858
+- **Tags:** `web-scraper` `ai-agents` `rust` `mcp` `web-search`
+- **最后活动时间:** 2026-10-16
+
 ### [loaders.gl](https://github.com/visgl/loaders.gl)
 
 面向大规模数据与3D地理数据的解析工具集，适合AI数据预处理与检索管道集成。
@@ -1374,29 +1398,21 @@ Tree-sitter的Node绑定，可用于代码解析、代码理解和AI代码工具
 - **Tags:** `DataParsing` `Geospatial` `Parquet` `Arrow`
 - **最后活动时间:** 2026-09-24
 
-### [donsetch](https://github.com/dondai44423/donsetch)
+### [mineru-tianshu](https://github.com/magicyuan876/mineru-tianshu)
 
-专为 AI 智能体设计的网页抓取、搜索与爬虫工具，使用纯 Rust 从头构建。无需 API 密钥或账户，支持 PDF 解析与 MCP 协议。
+企业级AI数据预处理平台，支持PDF/Office转Markdown、多模态信息提取，集成MCP协议AI助手。
 
-- **Stars:** ⭐️ 851
-- **Tags:** `web-scraper` `ai-agents` `rust` `mcp` `web-search`
+- **Stars:** ⭐️ 844
+- **Tags:** `document-parsing` `mcp` `multimodal` `rag`
 - **最后活动时间:** 2026-10-16
 
 ### [PrimeKG](https://github.com/mims-harvard/PrimeKG)
 
 精准医学知识图谱数据集，用于生物医学研究和药物发现。
 
-- **Stars:** ⭐️ 831
+- **Stars:** ⭐️ 833
 - **Tags:** `knowledge-graph` `biomedical` `precision-medicine`
 - **最后活动时间:** 2026-06-30
-
-### [mineru-tianshu](https://github.com/magicyuan876/mineru-tianshu)
-
-企业级AI数据预处理平台，支持PDF/Office转Markdown、多模态信息提取，集成MCP协议AI助手。
-
-- **Stars:** ⭐️ 829
-- **Tags:** `document-parsing` `mcp` `multimodal` `rag`
-- **最后活动时间:** 2026-09-28
 
 ### [logai](https://github.com/salesforce/logai)
 
@@ -1482,9 +1498,9 @@ Tree-sitter的Node绑定，可用于代码解析、代码理解和AI代码工具
 
 自托管文档搜索引擎，支持命名实体识别(NER)和文本提取，适用于调查性新闻和数据挖掘场景。
 
-- **Stars:** ⭐️ 763
+- **Stars:** ⭐️ 764
 - **Tags:** `named-entity-recognition` `text-extraction` `elasticsearch` `search-engine`
-- **最后活动时间:** 2026-09-28
+- **最后活动时间:** 2026-10-16
 
 ### [Wikipedia-API](https://github.com/martin-majlis/Wikipedia-API)
 
@@ -1634,7 +1650,7 @@ Python Wikipedia API 封装库，方便获取维基百科内容，适用于 RAG 
 
 基于 PP-OCRv6 的轻量离线 OCR 引擎，支持 Core ML 与 WebGPU 硬件加速，可在 Node.js/C++ 中识别图像文字并返回置信度与坐标。
 
-- **Stars:** ⭐️ 637
+- **Stars:** ⭐️ 638
 - **Tags:** `OCR` `PaddleOCR` `ComputerVision` `MachineLearning` `NodeJS`
 - **最后活动时间:** 2026-10-08
 
@@ -1694,6 +1710,14 @@ Python Wikipedia API 封装库，方便获取维基百科内容，适用于 RAG 
 - **Tags:** `reddit` `scraper` `data-collection` `open-source`
 - **最后活动时间:** 2026-10-02
 
+### [indra](https://github.com/datalab-to/indra)
+
+基于ONNX的极速CPU端OCR引擎，支持行检测、CTC识别、阅读顺序分析与Markdown输出。是文档理解与RAG数据解析管线的理想轻量级选择。
+
+- **Stars:** ⭐️ 589
+- **Tags:** `OCR` `ONNX` `Document-Parsing` `CPU` `PDF` `Markdown`
+- **最后活动时间:** 2026-10-15
+
 ### [youtube-transcript](https://github.com/Kakulukian/youtube-transcript)
 
 用于从YouTube视频中快速获取字幕文本的轻量级工具，非常适合为AI大模型和RAG系统提供视频内容解析与数据提取支持。
@@ -1710,21 +1734,13 @@ Python Wikipedia API 封装库，方便获取维基百科内容，适用于 RAG 
 - **Tags:** `mcp` `pandoc` `document-conversion` `ai`
 - **最后活动时间:** 2026-08-15
 
-### [indra](https://github.com/datalab-to/indra)
-
-基于ONNX的极速CPU端OCR引擎，支持行检测、CTC识别、阅读顺序分析与Markdown输出。是文档理解与RAG数据解析管线的理想轻量级选择。
-
-- **Stars:** ⭐️ 581
-- **Tags:** `OCR` `ONNX` `Document-Parsing` `CPU` `PDF` `Markdown`
-- **最后活动时间:** 2026-10-15
-
 ### [OfficeIMO](https://github.com/EvotecIT/OfficeIMO)
 
 MIT 协议的免费 .NET 库,无需 COM 组件即可创建、读取、编辑、转换和提取 Word、Excel、PPT、PDF、邮件及 OneNote 等文档格式,是 Aspose 的开源替代品。其强大的文档解析与提取能力可作为 RAG 数据管道中的文档处理组件。
 
 - **Stars:** ⭐️ 578
 - **Tags:** `dotnet` `openxml` `docx` `pdf` `document-parsing` `rag` `document-conversion`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [r-polars](https://github.com/pola-rs/r-polars)
 
@@ -1758,6 +1774,14 @@ NodeJS 的 PHP 解析器，可生成 AST 与词法标记，适合作为代码理
 - **Tags:** `docx` `pptx` `xlsx` `parser` `rag` `typescript` `nodejs`
 - **最后活动时间:** 2026-10-05
 
+### [devnors-data-mcp](https://github.com/DevnorsAI/devnors-data-mcp)
+
+Devnors 数据 MCP 服务器，为 Claude、Cursor 等 AI 代理提供裁判文书、法律法规、企业工商、热搜榜、快递查询等统一数据查询 API。
+
+- **Stars:** ⭐️ 558
+- **Tags:** `mcp` `model-context-protocol` `data-api` `ai-agents` `llm`
+- **最后活动时间:** 2026-09-15
+
 ### [reader](https://github.com/vakra-dev/reader)
 
 专为LLM设计的生产级网页抓取引擎，可将网页内容转换为干净的Markdown格式，为AI智能体提供高质量数据输入。
@@ -1765,14 +1789,6 @@ NodeJS 的 PHP 解析器，可生成 AST 与词法标记，适合作为代码理
 - **Stars:** ⭐️ 557
 - **Tags:** `ai-crawler` `web-scraping` `llm` `markdown` `content-extraction`
 - **最后活动时间:** 2026-10-06
-
-### [devnors-data-mcp](https://github.com/DevnorsAI/devnors-data-mcp)
-
-Devnors 数据 MCP 服务器，为 Claude、Cursor 等 AI 代理提供裁判文书、法律法规、企业工商、热搜榜、快递查询等统一数据查询 API。
-
-- **Stars:** ⭐️ 557
-- **Tags:** `mcp` `model-context-protocol` `data-api` `ai-agents` `llm`
-- **最后活动时间:** 2026-09-15
 
 ### [oxylabs-ai-studio-openclaw](https://github.com/oxylabs/oxylabs-ai-studio-openclaw)
 
@@ -1810,7 +1826,7 @@ Java PDF 表格提取与 OCR 库，支持从文本和扫描 PDF 中提取结构�
 
 一个大规模的天文多模态数据集，适用于科学领域的AI研究与模型训练。
 
-- **Stars:** ⭐️ 510
+- **Stars:** ⭐️ 516
 - **Tags:** `astronomy` `multimodal` `dataset`
 - **最后活动时间:** 2026-06-17
 
@@ -1828,7 +1844,7 @@ Java PDF 表格提取与 OCR 库，支持从文本和扫描 PDF 中提取结构�
 
 一款强大的AI编码助手技能，能将代码、数据库模式、文档等多种格式转化为可查询的知识图谱。结合图RAG技术，为多种AI编程工具提供深度的项目结构理解。
 
-- **Stars:** ⭐️ 127.7k
+- **Stars:** ⭐️ 128.0k
 - **Tags:** `graphrag` `knowledge-graph` `claude-code` `rag` `tree-sitter`
 - **最后活动时间:** 2026-10-16
 
@@ -1854,7 +1870,7 @@ Java PDF 表格提取与 OCR 库，支持从文本和扫描 PDF 中提取结构�
 
 - **Stars:** ⭐️ 62.1k
 - **Tags:** `ETL` `RAG` `Stream Processing` `LLM`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [llm-app](https://github.com/pathwaycom/llm-app)
 
@@ -1918,7 +1934,7 @@ Java PDF 表格提取与 OCR 库，支持从文本和扫描 PDF 中提取结构�
 
 - **Stars:** ⭐️ 39.2k
 - **Tags:** `RAG` `文档索引` `推理检索`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [graphrag](https://github.com/microsoft/graphrag)
 
@@ -1932,7 +1948,7 @@ Java PDF 表格提取与 OCR 库，支持从文本和扫描 PDF 中提取结构�
 
 基于LLM的深度文档理解框架，采用RAG范式实现语义检索和上下文感知问答，支持多租户和多模型架构。
 
-- **Stars:** ⭐️ 34.5k
+- **Stars:** ⭐️ 34.6k
 - **Tags:** `RAG` `Semantic Search` `Document Understanding`
 - **最后活动时间:** 2026-10-17
 
@@ -1940,7 +1956,7 @@ Java PDF 表格提取与 OCR 库，支持从文本和扫描 PDF 中提取结构�
 
 AI代理记忆知识引擎，6行代码即可集成知识图谱与向量数据库，支持Graph RAG和多种后端存储。
 
-- **Stars:** ⭐️ 32.4k
+- **Stars:** ⭐️ 32.5k
 - **Tags:** `知识图谱` `Graph RAG` `AI代理记忆`
 - **最后活动时间:** 2026-10-16
 
@@ -2094,7 +2110,7 @@ BAAI开源的嵌入模型与检索增强生成工具包，支持文本语义相�
 
 - **Stars:** ⭐️ 9.3k
 - **Tags:** `Deep Research` `Local LLM` `RAG` `Self-hosted`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [deep-searcher](https://github.com/zilliztech/deep-searcher)
 
@@ -2158,7 +2174,7 @@ PostgreSQL AI扩展工具集，让开发者能够更轻松地构建RAG、语义�
 
 - **Stars:** ⭐️ 5.3k
 - **Tags:** `RAG` `Knowledge Graph` `Code Analysis` `MCP`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)
 
@@ -2166,7 +2182,7 @@ PostgreSQL AI扩展工具集，让开发者能够更轻松地构建RAG、语义�
 
 - **Stars:** ⭐️ 5.1k
 - **Tags:** `RAG` `Evaluation` `AutoML`
-- **最后活动时间:** 2026-10-16
+- **最后活动时间:** 2026-10-18
 
 ### [OpenKB](https://github.com/VectifyAI/OpenKB)
 
@@ -2224,6 +2240,14 @@ Apache Lucene和Solr开源搜索引擎，提供强大的全文检索、分面搜
 - **Tags:** `RAG` `Agent` `LangGraph` `Qdrant`
 - **最后活动时间:** 2026-10-17
 
+### [knowledge_graph](https://github.com/rahulnyk/knowledge_graph)
+
+将任意文本转换为知识图谱，支持Graph Augmented Generation和基于知识图谱的问答系统。
+
+- **Stars:** ⭐️ 4.2k
+- **Tags:** `Knowledge Graph` `RAG` `Text Processing`
+- **最后活动时间:** 2026-08-15
+
 ### [Hyper-Extract](https://github.com/yifanfeng97/Hyper-Extract)
 
 使用LLM将非结构化文本转换为结构化知识图谱和超图的CLI工具，支持时空信息提取，一键完成知识抽取。
@@ -2246,15 +2270,7 @@ Apache Lucene和Solr开源搜索引擎，提供强大的全文检索、分面搜
 
 - **Stars:** ⭐️ 4.1k
 - **Tags:** `AI Agents` `Semantic Search` `Vector Search` `MCP` `Code Search` `Local-First`
-- **最后活动时间:** 2026-10-17
-
-### [knowledge_graph](https://github.com/rahulnyk/knowledge_graph)
-
-将任意文本转换为知识图谱，支持Graph Augmented Generation和基于知识图谱的问答系统。
-
-- **Stars:** ⭐️ 4.1k
-- **Tags:** `Knowledge Graph` `RAG` `Text Processing`
-- **最后活动时间:** 2026-08-15
+- **最后活动时间:** 2026-10-18
 
 ### [HippoRAG](https://github.com/OSU-NLP-Group/HippoRAG)
 
@@ -2295,6 +2311,14 @@ Apache Lucene是业界领先的开源全文搜索引擎库，为RAG系统和信�
 - **Stars:** ⭐️ 3.6k
 - **Tags:** `search-engine` `information-retrieval` `java` `full-text-search`
 - **最后活动时间:** 2026-10-16
+
+### [instagraph](https://github.com/yoheinakajima/instagraph)
+
+将文本或URL内容自动转换为知识图谱并可视化展示的轻量工具。
+
+- **Stars:** ⭐️ 3.6k
+- **Tags:** `knowledge-graph` `visualization` `text-analysis` `nlp`
+- **最后活动时间:** 2026-10-04
 
 ### [notebooklm-mcp](https://github.com/PleasePrompto/notebooklm-mcp)
 
@@ -2374,7 +2398,7 @@ ColVision系列模型训练与推理代码，支持ColPali、ColQwen2等视觉�
 
 - **Stars:** ⭐️ 2.8k
 - **Tags:** `claude-code` `memory` `rag` `supermemory`
-- **最后活动时间:** 2026-09-17
+- **最后活动时间:** 2026-10-16
 
 ### [memsearch](https://github.com/zilliztech/memsearch)
 
@@ -2390,7 +2414,7 @@ SQL驱动的RAG引擎，查询时自动构建知识图谱，支持向量搜索�
 
 - **Stars:** ⭐️ 2.6k
 - **Tags:** `rag` `knowledge-graph` `graphrag` `llm`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [llm-wiki-skill](https://github.com/sdyckjq-lab/llm-wiki-skill)
 
@@ -2446,7 +2470,7 @@ SQL驱动的RAG引擎，查询时自动构建知识图谱，支持向量搜索�
 
 - **Stars:** ⭐️ 2.2k
 - **Tags:** `information-retrieval` `search` `python`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [obsidian-omnisearch](https://github.com/scambier/obsidian-omnisearch)
 
@@ -2574,7 +2598,7 @@ GenAI应用快速开发构建块，提供文档搜索、评估、护栏、提示
 
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `agentic-ai` `knowledge-graph` `local-llm` `obsidian-plugin` `rag-alternative`
-- **最后活动时间:** 2026-10-16
+- **最后活动时间:** 2026-10-17
 
 ### [rag-stack](https://github.com/finic-ai/rag-stack)
 
@@ -2648,6 +2672,14 @@ Ragflow的二次开发增强版本，优化了原版使其更加简洁实用，�
 - **Tags:** `rag` `llm` `retrieval-augmented-generation` `knowledge-base`
 - **最后活动时间:** 2026-10-04
 
+### [pdftochat](https://github.com/Nutlope/pdftochat)
+
+基于AI的PDF文档对话工具，让用户能够直接与PDF内容进行智能交互。
+
+- **Stars:** ⭐️ 1.4k
+- **Tags:** `pdf` `rag` `chatbot` `ai`
+- **最后活动时间:** 2026-06-26
+
 ### [search-index](https://github.com/fergiemcdowall/search-index)
 
 持久化、网络弹性的全文搜索库，支持浏览器和Node.js环境。
@@ -2671,14 +2703,6 @@ jonex 是一个全能的多模态解析引擎，结合本体论和 LLM 驱动的
 - **Stars:** ⭐️ 1.4k
 - **Tags:** `Memory` `MCP` `RAG`
 - **最后活动时间:** 2026-09-22
-
-### [pdftochat](https://github.com/Nutlope/pdftochat)
-
-基于AI的PDF文档对话工具，让用户能够直接与PDF内容进行智能交互。
-
-- **Stars:** ⭐️ 1.4k
-- **Tags:** `pdf` `rag` `chatbot` `ai`
-- **最后活动时间:** 2026-06-26
 
 ### [algoliasearch-client-javascript](https://github.com/algolia/algoliasearch-client-javascript)
 
@@ -2758,7 +2782,7 @@ Neo4j官方推出的GraphRAG Python库，将知识图谱与RAG技术结合，提
 
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `information-retrieval` `lucene` `search` `rag`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [chat-with-your-data-solution-accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator)
 
@@ -2830,7 +2854,7 @@ Azure RAG解决方案加速器，集成Azure AI Search和Azure OpenAI，快速�
 
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `RAG` `MCP` `AI-Agents` `Semantic-Search` `Local-First`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [fastembed-rs](https://github.com/Anush008/fastembed-rs)
 
@@ -2854,7 +2878,7 @@ Rust语言实现的向量嵌入和重排序库，高性能支持RAG检索系统�
 
 - **Stars:** ⭐️ 1.0k
 - **Tags:** `GraphRAG` `Knowledge Graph` `SDK`
-- **最后活动时间:** 2026-10-14
+- **最后活动时间:** 2026-10-17
 
 ### [FlashRank](https://github.com/PrithivirajDamodaran/FlashRank)
 
@@ -2868,7 +2892,7 @@ Rust语言实现的向量嵌入和重排序库，高性能支持RAG检索系统�
 
 阿里通义实验室开发的多模态检索增强生成框架，支持图文等多模态数据的RAG检索与生成。
 
-- **Stars:** ⭐️ 984
+- **Stars:** ⭐️ 988
 - **Tags:** `rag` `multimodal` `retrieval-augmented-generation` `alibaba`
 - **最后活动时间:** 2026-04-29
 
@@ -2876,7 +2900,7 @@ Rust语言实现的向量嵌入和重排序库，高性能支持RAG检索系统�
 
 基于视觉语言模型的无解析RAG框架，实现文档检索与理解的深度融合。
 
-- **Stars:** ⭐️ 981
+- **Stars:** ⭐️ 983
 - **Tags:** `RAG` `VLM` `Document Understanding`
 - **最后活动时间:** 2026-08-09
 
@@ -2892,7 +2916,7 @@ Rust语言实现的向量嵌入和重排序库，高性能支持RAG检索系统�
 
 纯Python实现的RAG框架，支持FAISS+BM25混合检索，兼容Ollama和SiliconFlow，适合新手学习RAG技术。
 
-- **Stars:** ⭐️ 961
+- **Stars:** ⭐️ 962
 - **Tags:** `rag` `faiss` `bm25` `document-qa`
 - **最后活动时间:** 2026-08-31
 
@@ -2902,7 +2926,7 @@ Rust语言实现的向量嵌入和重排序库，高性能支持RAG检索系统�
 
 - **Stars:** ⭐️ 959
 - **Tags:** `RAG` `Vector Search` `Ranking Fusion`
-- **最后活动时间:** 2026-09-27
+- **最后活动时间:** 2026-10-10
 
 ### [recipes](https://github.com/weaviate/recipes)
 
@@ -2948,7 +2972,7 @@ rag-api 是一个基于 Langchain 和 PostgreSQL/pgvector 的 ID-based RAG FastA
 
 纯Rust实现的代码GraphRAG框架，支持AST解析和语义搜索，为代码智能体提供高效的上下文管理能力。
 
-- **Stars:** ⭐️ 899
+- **Stars:** ⭐️ 900
 - **Tags:** `graphrag` `code-analysis` `rust` `semantic-search` `ai-agents`
 - **最后活动时间:** 2026-10-12
 
@@ -2984,6 +3008,14 @@ rag-api 是一个基于 Langchain 和 PostgreSQL/pgvector 的 ID-based RAG FastA
 - **Tags:** `search-engine` `ai-agents` `mcp` `rag` `llms-txt` `information-retrieval` `sdk`
 - **最后活动时间:** 2026-08-05
 
+### [AutoSchemaKG](https://github.com/HKUST-KnowComp/AutoSchemaKG)
+
+自动知识图谱构建框架，结合概念化实现模式自动生成和知识抽取。
+
+- **Stars:** ⭐️ 839
+- **Tags:** `knowledge-graph` `graph-construction` `rag`
+- **最后活动时间:** 2026-04-29
+
 ### [leviathan](https://github.com/elstongun/leviathan)
 
 Leviathan 是一个单文件静态二进制工具，可将 JSONL、CSV、SQLite 等数据记录转化为排序的全文索引，为 AI 智能体在超大规模数据集上提供深度记忆与检索能力。
@@ -2992,19 +3024,11 @@ Leviathan 是一个单文件静态二进制工具，可将 JSONL、CSV、SQLite 
 - **Tags:** `agents` `retrieval` `full-text-search` `agent-memory` `cli`
 - **最后活动时间:** 2026-10-13
 
-### [AutoSchemaKG](https://github.com/HKUST-KnowComp/AutoSchemaKG)
-
-自动知识图谱构建框架，结合概念化实现模式自动生成和知识抽取。
-
-- **Stars:** ⭐️ 827
-- **Tags:** `knowledge-graph` `graph-construction` `rag`
-- **最后活动时间:** 2026-04-29
-
 ### [XRAG](https://github.com/DocAILab/XRAG)
 
 系统性基准测试 RAG 核心组件的研究项目，深入评估高级检索增强生成中各基础模块的表现。
 
-- **Stars:** ⭐️ 809
+- **Stars:** ⭐️ 811
 - **Tags:** `rag` `llm` `benchmark` `llamaindex` `evaluation`
 - **最后活动时间:** 2026-10-11
 
@@ -3100,7 +3124,7 @@ SIGIR展示的统一文档检索工具包，支持跨规模、跨语言、跨模
 
 将 Obsidian 知识库转化为 AI 持久化工作记忆的开源系统，无需向量数据库，仅依赖 Markdown。
 
-- **Stars:** ⭐️ 705
+- **Stars:** ⭐️ 706
 - **Tags:** `ai-memory` `obsidian` `mcp` `knowledge-management`
 - **最后活动时间:** 2026-08-31
 
@@ -3140,7 +3164,7 @@ Meilisearch 官方 Go 语言客户端，提供快速全文搜索能力，可集�
 
 通用RAG框架，支持在任何数据集上应用大语言模型的强大能力。
 
-- **Stars:** ⭐️ 679
+- **Stars:** ⭐️ 678
 - **Tags:** `rag` `llm` `framework` `data-processing`
 - **最后活动时间:** 2026-09-12
 
@@ -3176,13 +3200,21 @@ Meilisearch 官方 Go 语言客户端，提供快速全文搜索能力，可集�
 - **Tags:** `rag` `graph-rag` `agentic-ai` `content-system` `self-hosted`
 - **最后活动时间:** 2026-06-11
 
+### [pdf-brain](https://github.com/joelhooks/pdf-brain)
+
+基于本地向量搜索的PDF知识库工具，利用libsql存储和检索向量数据。帮助用户快速从大量PDF文档中提取和查询信息。
+
+- **Stars:** ⭐️ 662
+- **Tags:** `pdf` `vector-search` `knowledge-base` `local-llm` `rag`
+- **最后活动时间:** 2026-06-25
+
 ### [rank_llm](https://github.com/castorini/rank_llm)
 
 专注于Listwise重排序的Python工具包，支持可复现的信息检索研究。
 
-- **Stars:** ⭐️ 658
+- **Stars:** ⭐️ 660
 - **Tags:** `reranking` `information-retrieval` `LLM`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-18
 
 ### [ForgeRAG](https://github.com/deeplethe/ForgeRAG)
 
@@ -3199,14 +3231,6 @@ Meilisearch 官方 Go 语言客户端，提供快速全文搜索能力，可集�
 - **Stars:** ⭐️ 650
 - **Tags:** `knowledge-graph` `nlp` `hypergraphs` `knowledge-representation` `text-analysis`
 - **最后活动时间:** 2026-10-17
-
-### [pdf-brain](https://github.com/joelhooks/pdf-brain)
-
-基于本地向量搜索的PDF知识库工具，利用libsql存储和检索向量数据。帮助用户快速从大量PDF文档中提取和查询信息。
-
-- **Stars:** ⭐️ 650
-- **Tags:** `pdf` `vector-search` `knowledge-base` `local-llm` `rag`
-- **最后活动时间:** 2026-06-25
 
 ### [MinerU-Document-Explorer](https://github.com/opendatalab/MinerU-Document-Explorer)
 
@@ -3268,7 +3292,7 @@ JavaScript知识图谱查询框架，支持SPARQL/GraphQL，具备MCP协议集�
 
 一个自维护的、兼容 Obsidian 的知识库，可将原始资料转化为互连的 Wiki，为大模型提供持久化记忆。
 
-- **Stars:** ⭐️ 611
+- **Stars:** ⭐️ 612
 - **Tags:** `llm-wiki` `knowledge-base` `mcp` `rag` `obsidian`
 - **最后活动时间:** 2026-10-14
 
@@ -3300,7 +3324,7 @@ NodeJS RAG开发框架，简化LLM和嵌入向量的集成，支持多种向量�
 
 针对企业内部文档的RAG数据集与基准测试工具，用于评估检索增强生成效果。支持问答、语义搜索及合成数据生成等多种评估场景。
 
-- **Stars:** ⭐️ 597
+- **Stars:** ⭐️ 598
 - **Tags:** `rag` `benchmark` `enterprise` `evaluation` `llm`
 - **最后活动时间:** 2026-09-03
 
@@ -3432,14 +3456,6 @@ GraphRAG的高性能Rust实现，从文档构建知识图谱并支持自然语�
 - **Tags:** `rag` `pgvector` `document-chat` `embeddings` `supabase`
 - **最后活动时间:** 2026-05-12
 
-### [Masuit.LuceneEFCore.SearchEngine](https://github.com/ldqk/Masuit.LuceneEFCore.SearchEngine)
-
-基于 EntityFrameworkCore 和 Lucene.NET 实现的全文检索搜索引擎。它简化了 .NET 应用中数据库模型与全文搜索功能的集成。
-
-- **Stars:** ⭐️ 511
-- **Tags:** `csharp` `lucene` `entity-framework-core` `search`
-- **最后活动时间:** 2026-05-10
-
 ### [GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
 
 GraphRAG-Bench 官方仓库（ICLR'26），系统评估图检索增强生成模型在何种场景下应使用图结构。GraphRAG 研究与评测的重要基准资源。
@@ -3447,6 +3463,14 @@ GraphRAG-Bench 官方仓库（ICLR'26），系统评估图检索增强生成模�
 - **Stars:** ⭐️ 511
 - **Tags:** `GraphRAG` `RAG` `Benchmark` `Dataset` `Evaluation`
 - **最后活动时间:** 2026-06-07
+
+### [Masuit.LuceneEFCore.SearchEngine](https://github.com/ldqk/Masuit.LuceneEFCore.SearchEngine)
+
+基于 EntityFrameworkCore 和 Lucene.NET 实现的全文检索搜索引擎。它简化了 .NET 应用中数据库模型与全文搜索功能的集成。
+
+- **Stars:** ⭐️ 509
+- **Tags:** `csharp` `lucene` `entity-framework-core` `search`
+- **最后活动时间:** 2026-10-14
 
 ### [PAI-RAG](https://github.com/aigc-apps/PAI-RAG)
 
@@ -3472,7 +3496,7 @@ GraphRAG-Bench 官方仓库（ICLR'26），系统评估图检索增强生成模�
 
 - **Stars:** ⭐️ 111.7k
 - **Tags:** `Vector Database` `PostgreSQL` `Embeddings`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [elasticsearch](https://github.com/elastic/elasticsearch)
 
@@ -3480,7 +3504,7 @@ GraphRAG-Bench 官方仓库（ICLR'26），系统评估图检索增强生成模�
 
 - **Stars:** ⭐️ 78.3k
 - **Tags:** `Search Engine` `Vector Search` `RAG`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [redis](https://github.com/redis/redis)
 
@@ -3504,7 +3528,7 @@ GraphRAG-Bench 官方仓库（ICLR'26），系统评估图检索增强生成模�
 
 - **Stars:** ⭐️ 50.5k
 - **Tags:** `analytics` `database` `big-data` `olap` `sql`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [milvus](https://github.com/milvus-io/milvus)
 
@@ -3546,14 +3570,6 @@ TiDB是一款分布式SQL数据库，原生支持向量搜索功能，专为AI�
 - **Tags:** `Vector Database` `In-Memory` `Redis Compatible`
 - **最后活动时间:** 2026-10-17
 
-### [chroma](https://github.com/chroma-core/chroma)
-
-专为AI应用设计的向量数据库，提供高效的数据存储和检索能力。
-
-- **Stars:** ⭐️ 29.5k
-- **Tags:** `vector-database` `ai` `embeddings` `rag`
-- **最后活动时间:** 2026-10-17
-
 ### [TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
 
 为AI智能体提供完全本地化的长期记忆解决方案，采用四层渐进式管道且零外部API依赖。
@@ -3561,6 +3577,14 @@ TiDB是一款分布式SQL数据库，原生支持向量搜索功能，专为AI�
 - **Stars:** ⭐️ 29.5k
 - **Tags:** `ai-agent` `long-term-memory` `vector-search` `local-first`
 - **最后活动时间:** 2026-10-15
+
+### [chroma](https://github.com/chroma-core/chroma)
+
+专为AI应用设计的向量数据库，提供高效的数据存储和检索能力。
+
+- **Stars:** ⭐️ 29.5k
+- **Tags:** `vector-database` `ai` `embeddings` `rag`
+- **最后活动时间:** 2026-10-17
 
 ### [typesense](https://github.com/typesense/typesense)
 
@@ -3584,7 +3608,7 @@ PostgreSQL开源向量相似度搜索扩展，让Postgres支持向量存储与�
 
 - **Stars:** ⭐️ 21.8k
 - **Tags:** `graph-database` `distributed-database` `knowledge-graph` `go`
-- **最后活动时间:** 2026-10-15
+- **最后活动时间:** 2026-10-17
 
 ### [sonic](https://github.com/valeriansaliou/sonic)
 
@@ -3632,7 +3656,7 @@ Apache Doris 是一款高性能、易用的实时分析型数据库，支持海�
 
 - **Stars:** ⭐️ 16.1k
 - **Tags:** `database` `olap` `real-time` `analytics` `sql`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [OpenSearch](https://github.com/opensearch-project/OpenSearch)
 
@@ -3656,7 +3680,7 @@ StarRocks 是一款极速的开放式查询引擎，专为数据湖仓和亚秒�
 
 - **Stars:** ⭐️ 12.2k
 - **Tags:** `analytics` `database` `lakehouse` `mpp` `olap`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [manticoresearch](https://github.com/manticoresoftware/manticoresearch)
 
@@ -3672,7 +3696,7 @@ StarRocks 是一款极速的开放式查询引擎，专为数据湖仓和亚秒�
 
 - **Stars:** ⭐️ 11.7k
 - **Tags:** `vector-database` `semantic-search` `multimodal` `embeddings` `rag`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [bleve](https://github.com/blevesearch/bleve)
 
@@ -3696,7 +3720,7 @@ StarRocks 是一款极速的开放式查询引擎，专为数据湖仓和亚秒�
 
 - **Stars:** ⭐️ 10.4k
 - **Tags:** `Graph Database` `GraphRAG` `Knowledge Graph` `Real-time`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [oceanbase](https://github.com/oceanbase/oceanbase)
 
@@ -3712,7 +3736,7 @@ StarRocks 是一款极速的开放式查询引擎，专为数据湖仓和亚秒�
 
 - **Stars:** ⭐️ 9.5k
 - **Tags:** `向量数据库` `数据仓库` `Rust`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [paradedb](https://github.com/paradedb/paradedb)
 
@@ -3720,7 +3744,7 @@ StarRocks 是一款极速的开放式查询引擎，专为数据湖仓和亚秒�
 
 - **Stars:** ⭐️ 9.4k
 - **Tags:** `postgresql` `search` `vector-database` `full-text-search` `similarity-search`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [deeplake](https://github.com/activeloopai/deeplake)
 
@@ -3736,7 +3760,7 @@ GPU原生、沙盒化的AI代理Postgres数据库，支持向量搜索和多模�
 
 - **Stars:** ⭐️ 8.4k
 - **Tags:** `world-model` `knowledge-graph` `rag` `llm` `pgvector`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [mariadb](https://github.com/MariaDB/server)
 
@@ -3758,9 +3782,9 @@ GPU原生、沙盒化的AI代理Postgres数据库，支持向量搜索和多模�
 
 专为AI数据搜索设计的工具，能高效索引代码、文档和日志，支持RAG和向量检索，比grep节省40倍Token。
 
-- **Stars:** ⭐️ 7.7k
+- **Stars:** ⭐️ 8.0k
 - **Tags:** `AI Search` `Vector Database` `RAG` `Elasticsearch`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [lance](https://github.com/lance-format/lance)
 
@@ -3768,7 +3792,7 @@ GPU原生、沙盒化的AI代理Postgres数据库，支持向量搜索和多模�
 
 - **Stars:** ⭐️ 7.2k
 - **Tags:** `Vector Storage` `Multimodal AI` `Data Format`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [vespa](https://github.com/vespa-engine/vespa)
 
@@ -3872,7 +3896,7 @@ Go 语言编写的高性能分布式搜索引擎，支持全文检索与向量�
 
 - **Stars:** ⭐️ 4.6k
 - **Tags:** `Vector Database` `GNN` `Rust` `Graph Neural Networks`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [LongMemory](https://github.com/CaviraOSS/LongMemory)
 
@@ -3952,7 +3976,7 @@ Delta Lake 的原生 Rust 库，提供 Python 绑定。适用于 AI/ML 数据管
 
 - **Stars:** ⭐️ 3.3k
 - **Tags:** `lakehouse` `datalake` `pytorch` `spark` `streaming`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [hugegraph](https://github.com/apache/hugegraph)
 
@@ -3976,7 +4000,7 @@ AI原生搜索数据库，统一向量、文本、结构化数据，支持混合
 
 - **Stars:** ⭐️ 3.1k
 - **Tags:** `postgres` `vector-database` `diskann` `pgvector` `vector-search`
-- **最后活动时间:** 2026-04-30
+- **最后活动时间:** 2026-10-14
 
 ### [attu](https://github.com/zilliztech/attu)
 
@@ -4064,7 +4088,7 @@ AI 原生 HTAP 数据库，内置向量搜索功能，可作为智能体的数�
 
 - **Stars:** ⭐️ 2.1k
 - **Tags:** `Vector Database` `AI-Native` `HTAP`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [DiskANN](https://github.com/microsoft/DiskANN)
 
@@ -4088,7 +4112,7 @@ LadybugDB 图数据库，支持 Cypher 查询语言，可用于构建代码知�
 
 - **Stars:** ⭐️ 1.9k
 - **Tags:** `graph-database` `cypher` `knowledge-graph` `database`
-- **最后活动时间:** 2026-10-16
+- **最后活动时间:** 2026-10-18
 
 ### [VectorChord](https://github.com/supervc-stack/VectorChord)
 
@@ -4160,7 +4184,7 @@ PostgreSQL向量搜索扩展，pgvecto.rs的继任者，提供可扩展、快速
 
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `多模态` `特征存储` `向量数据库`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [voyager](https://github.com/spotify/voyager)
 
@@ -4234,6 +4258,14 @@ Apache Iceberg的高性能Rust实现，为大规模数据湖提供可靠的表�
 - **Tags:** `apache-iceberg` `data-lake` `rust` `ml-data`
 - **最后活动时间:** 2026-09-29
 
+### [NGT](https://github.com/NGT-labs/NGT)
+
+针对高维数据设计的近邻搜索库，结合了邻域图和树结构以实现高效的近似最近邻搜索。非常适合作为向量数据库的底层检索引擎。
+
+- **Stars:** ⭐️ 1.4k
+- **Tags:** `approximate-nearest-neighbor-search` `knn-search` `vector-search` `high-dimensional-data`
+- **最后活动时间:** 2026-10-08
+
 ### [qdrant-client](https://github.com/qdrant/qdrant-client)
 
 Qdrant向量搜索引擎的Python客户端，用于AI应用中的向量存储与相似性检索。
@@ -4242,14 +4274,6 @@ Qdrant向量搜索引擎的Python客户端，用于AI应用中的向量存储与
 - **Tags:** `qdrant` `vector-database` `vector-search` `vector-search-engine`
 - **最后活动时间:** 2026-10-17
 
-### [NGT](https://github.com/NGT-labs/NGT)
-
-针对高维数据设计的近邻搜索库，结合了邻域图和树结构以实现高效的近似最近邻搜索。非常适合作为向量数据库的底层检索引擎。
-
-- **Stars:** ⭐️ 1.4k
-- **Tags:** `approximate-nearest-neighbor-search` `knn-search` `vector-search` `high-dimensional-data`
-- **最后活动时间:** 2026-07-27
-
 ### [infinispan](https://github.com/infinispan/infinispan)
 
 Infinispan 是一个开源的分布式内存数据网格平台，提供高度可扩展的 NoSQL 数据存储和语义搜索功能。它支持作为向量数据库使用，非常适合用于 AI 检索增强生成（RAG）场景。
@@ -4257,6 +4281,14 @@ Infinispan 是一个开源的分布式内存数据网格平台，提供高度可
 - **Stars:** ⭐️ 1.4k
 - **Tags:** `vector-database` `nosql` `inmemory-cache` `semantic-search` `datagrid`
 - **最后活动时间:** 2026-09-29
+
+### [omnigraph](https://github.com/ModernRelay/omnigraph)
+
+原生湖仓图引擎，支持Git风格的工作流和知识图谱管理。结合Apache Arrow和DataFusion提供高性能数据分析。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `graph-database` `knowledge-graph` `lakehouse` `rust` `datafusion`
+- **最后活动时间:** 2026-10-18
 
 ### [supabase-swift](https://github.com/supabase/supabase-swift)
 
@@ -4274,21 +4306,13 @@ Swift SDK for Supabase，支持 pgvector 向量数据库查询，可用于 AI �
 - **Tags:** `Vector Database` `HNSW` `ANN` `AI Search`
 - **最后活动时间:** 2026-07-29
 
-### [omnigraph](https://github.com/ModernRelay/omnigraph)
-
-原生湖仓图引擎，支持Git风格的工作流和知识图谱管理。结合Apache Arrow和DataFusion提供高性能数据分析。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `graph-database` `knowledge-graph` `lakehouse` `rust` `datafusion`
-- **最后活动时间:** 2026-10-03
-
 ### [arcadedb](https://github.com/ArcadeData/arcadedb)
 
 多模型数据库，支持SQL、图查询和向量嵌入搜索，适合RAG应用的相似性搜索场景。
 
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `Vector Database` `Multi-Model` `Graph Database`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [VectorDBBench](https://github.com/zilliztech/VectorDBBench)
 
@@ -4384,7 +4408,7 @@ GPU加速的同态加密Python库，支持Paillier与BFV方案，并实现加密
 
 - **Stars:** ⭐️ 908
 - **Tags:** `vector-database` `graph-rag` `hnsw` `llm` `mcp-server`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [vectordb](https://github.com/epsilla-cloud/vectordb)
 
@@ -4486,9 +4510,9 @@ Lucene++ 是流行 Java Lucene 库的最新 C++ 移植版本，提供高性能�
 
 面向生产级AI系统的极速检索层，无需向量数据库即可实现低于10毫秒的搜索延迟。完美适配浏览器、边缘计算、端侧及云端环境。
 
-- **Stars:** ⭐️ 799
+- **Stars:** ⭐️ 798
 - **Tags:** `ai-infra` `hybrid-search` `rag` `retrieval` `semantic-search`
-- **最后活动时间:** 2026-10-16
+- **最后活动时间:** 2026-10-18
 
 ### [write-you-a-vector-db](https://github.com/skyzh/write-you-a-vector-db)
 
@@ -4566,7 +4590,7 @@ Elasticsearch MCP 服务器，支持向量数据库集成，为 AI 应用提供�
 
 Python超图分析与可视化库，支持知识图谱和复杂网络结构分析，适用于RAG系统中的关系建模。
 
-- **Stars:** ⭐️ 717
+- **Stars:** ⭐️ 718
 - **Tags:** `hypergraph` `knowledge-graph` `python` `visualization`
 - **最后活动时间:** 2026-07-08
 
@@ -4662,7 +4686,7 @@ Typesense 的 JavaScript/TypeScript 官方客户端，支持 typo 容错的快�
 
 Go语言嵌入式向量搜索库，基于llama.cpp实现语义搜索和向量检索。
 
-- **Stars:** ⭐️ 560
+- **Stars:** ⭐️ 561
 - **Tags:** `vector-search` `semantic-search` `llamacpp` `embeddings`
 - **最后活动时间:** 2026-09-19
 
@@ -4670,17 +4694,17 @@ Go语言嵌入式向量搜索库，基于llama.cpp实现语义搜索和向量检
 
 vsag 是一个用于相似性搜索的高效向量索引库，支持近似最近邻（ANN）查询。它为向量数据库和检索增强生成（RAG）应用提供了底层的基础设施支持。
 
-- **Stars:** ⭐️ 502
+- **Stars:** ⭐️ 516
 - **Tags:** `ann` `vector` `similarity-search` `vectordb` `indexing-library`
-- **最后活动时间:** 2026-08-11
+- **最后活动时间:** 2026-10-16
 
 ### [graphqlite](https://github.com/colliery-io/graphqlite)
 
 为 SQLite 扩展图数据库能力，支持 Cypher 查询语言与内置图算法，可构建知识图谱并服务 GraphRAG 场景。
 
-- **Stars:** ⭐️ 500
+- **Stars:** ⭐️ 512
 - **Tags:** `graph-database` `sqlite` `cypher` `knowledge-graph` `graph-rag`
-- **最后活动时间:** 2026-09-07
+- **最后活动时间:** 2026-10-17
 
 ### [milvus-sdk-java](https://github.com/milvus-io/milvus-sdk-java)
 
@@ -4722,5 +4746,5 @@ Dolt 是一个支持版本控制的 SQL 数据库，被誉为「数据界的 Git
 
 - **Stars:** ⭐️ 630
 - **Tags:** `knowledge-graph` `linked-data` `low-code` `rdf` `semantic-web`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-17
 
