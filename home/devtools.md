@@ -2,7 +2,7 @@
 
 > Tools for developers building AI software.
 
-> 当前分类已收录 **2973** 个相关项目。
+> 当前分类已收录 **3015** 个相关项目。
 
 ## Evaluation Metrics
 
@@ -20,7 +20,7 @@ Python混淆矩阵可视化工具，使用seaborn和matplotlib生成美观的可
 
 微软官方.NET技能库，为AI编程助手提供专业的C#代码生成与最佳实践指导能力。
 
-- **Stars:** ⭐️ 295.3k
+- **Stars:** ⭐️ 296.1k
 - **Tags:** `Microsoft` `.NET` `AI Coding Agent`
 - **最后活动时间:** 2026-10-13
 
@@ -52,7 +52,7 @@ Python混淆矩阵可视化工具，使用seaborn和matplotlib生成美观的可
 
 Anthropic官方AI编程智能体，在终端中通过自然语言命令理解代码库、执行任务和处理Git工作流。
 
-- **Stars:** ⭐️ 151.9k
+- **Stars:** ⭐️ 152.2k
 - **Tags:** `AI编程` `终端工具` `代码智能体`
 - **最后活动时间:** 2026-10-17
 
@@ -60,7 +60,7 @@ Anthropic官方AI编程智能体，在终端中通过自然语言命令理解代
 
 帮助开发者快速上手规范驱动开发的工具包，支持AI辅助开发流程。
 
-- **Stars:** ⭐️ 141.7k
+- **Stars:** ⭐️ 141.8k
 - **Tags:** `ai` `copilot` `spec-driven` `development`
 - **最后活动时间:** 2026-10-16
 
@@ -68,7 +68,7 @@ Anthropic官方AI编程智能体，在终端中通过自然语言命令理解代
 
 为AI编程助手提供UI/UX设计智能的技能工具，支持多个AI平台，帮助快速构建高质量界面。
 
-- **Stars:** ⭐️ 136.9k
+- **Stars:** ⭐️ 137.3k
 - **Tags:** `AI技能` `UI/UX设计` `开发工具`
 - **最后活动时间:** 2026-10-15
 
@@ -78,13 +78,13 @@ Garry Tan 的 Claude Code 配置工具集，包含 15 个角色化工具，覆�
 
 - **Stars:** ⭐️ 136.8k
 - **Tags:** `claude-code` `productivity` `development-tools`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
 
 设计系统文档集合，让AI编码代理能够根据设计规范构建匹配的用户界面。
 
-- **Stars:** ⭐️ 122.0k
+- **Stars:** ⭐️ 122.1k
 - **Tags:** `design-system` `coding-agents` `design-tokens`
 - **最后活动时间:** 2026-10-14
 
@@ -92,15 +92,15 @@ Garry Tan 的 Claude Code 配置工具集，包含 15 个角色化工具，覆�
 
 下一代AI编程代理IDE，支持Claude Code、Codex、Cursor Agent等AI编码助手的统一编排与管理。
 
-- **Stars:** ⭐️ 95.7k
+- **Stars:** ⭐️ 96.7k
 - **Tags:** `claude-code` `codex` `cursor-agent` `ide` `ai-coding`
-- **最后活动时间:** 2026-10-18
+- **最后活动时间:** 2026-10-19
 
 ### [Understand-Anything](https://github.com/Egonex-AI/Understand-Anything)
 
 将代码转化为可探索、搜索和提问的交互式知识图谱工具，支持多种 AI 编程助手。
 
-- **Stars:** ⭐️ 86.8k
+- **Stars:** ⭐️ 86.9k
 - **Tags:** `knowledge-graph` `codebase-analysis` `developer-tools-ai-agent` `claude-code`
 - **最后活动时间:** 2026-10-12
 
@@ -108,9 +108,9 @@ Garry Tan 的 Claude Code 配置工具集，包含 15 个角色化工具，覆�
 
 CLI代理工具，可将LLM常见开发命令的Token消耗降低60-90%。单Rust二进制文件，零依赖，高效节省成本。
 
-- **Stars:** ⭐️ 83.8k
+- **Stars:** ⭐️ 83.9k
 - **Tags:** `LLM` `Token优化` `CLI工具`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-19
 
 ### [screenshot-to-code](https://github.com/abi/screenshot-to-code)
 
@@ -124,7 +124,7 @@ AI驱动的截图转代码工具，支持将UI截图自动转换为HTML、Tailwi
 
 在工具输出、日志和文件传入LLM前进行压缩，可减少60-95%的Token消耗。支持作为Python库、代理和MCP服务器使用。
 
-- **Stars:** ⭐️ 75.6k
+- **Stars:** ⭐️ 75.9k
 - **Tags:** `context-compression` `mcp` `token-optimization` `rag` `prompt-engineering`
 - **最后活动时间:** 2026-10-17
 
@@ -140,9 +140,9 @@ AI驱动的截图转代码工具，支持将UI截图自动转换为HTML、Tailwi
 
 为Claude Code预索引的代码知识图谱，减少Token消耗和工具调用，完全本地化运行。
 
-- **Stars:** ⭐️ 74.3k
+- **Stars:** ⭐️ 74.4k
 - **Tags:** `code-knowledge-graph` `claude-code` `code-intelligence` `local-ai`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-19
 
 ### [OpenSpec](https://github.com/Fission-AI/OpenSpec)
 
@@ -158,13 +158,13 @@ AI 原生终端，支持多智能体协作编程，为开发者提供智能命�
 
 - **Stars:** ⭐️ 65.5k
 - **Tags:** `ai-terminal` `code-assistant` `agentic` `ide`
-- **最后活动时间:** 2026-10-18
+- **最后活动时间:** 2026-10-19
 
 ### [context7](https://github.com/upstash/context7)
 
 为LLM和AI代码编辑器提供实时更新的代码文档平台，支持MCP协议集成，让AI助手获取最新API文档。
 
-- **Stars:** ⭐️ 63.2k
+- **Stars:** ⭐️ 63.3k
 - **Tags:** `LLM` `MCP` `文档工具`
 - **最后活动时间:** 2026-10-17
 
@@ -172,25 +172,25 @@ AI 原生终端，支持多智能体协作编程，为开发者提供智能命�
 
 免费使用 Claude Code 的工具，支持终端、VSCode 扩展和 Discord 等多种方式调用。
 
-- **Stars:** ⭐️ 61.2k
+- **Stars:** ⭐️ 61.6k
 - **Tags:** `claude-code` `vscode-extension` `terminal` `ai-assistant`
-- **最后活动时间:** 2026-10-17
-
-### [i-have-adhd](https://github.com/ayghri/i-have-adhd)
-
-一款专为编码智能体设计的技能插件，旨在防止AI输出冗长内容，提供对ADHD友好的简洁回答。
-
-- **Stars:** ⭐️ 57.6k
-- **Tags:** `adhd` `claude-code-plugin` `agent-skills` `developer-tools` `productivity`
-- **最后活动时间:** 2026-10-11
+- **最后活动时间:** 2026-10-18
 
 ### [diagram-design](https://github.com/cathrynlavery/diagram-design)
 
 为 Claude Code 提供十三种编辑图表类型的工具，基于 HTML + SVG 实现，无需外部依赖。
 
-- **Stars:** ⭐️ 57.2k
+- **Stars:** ⭐️ 57.7k
 - **Tags:** `claude-code` `diagrams` `svg` `visualization`
 - **最后活动时间:** 2026-10-16
+
+### [i-have-adhd](https://github.com/ayghri/i-have-adhd)
+
+一款专为编码智能体设计的技能插件，旨在防止AI输出冗长内容，提供对ADHD友好的简洁回答。
+
+- **Stars:** ⭐️ 57.7k
+- **Tags:** `adhd` `claude-code-plugin` `agent-skills` `developer-tools` `productivity`
+- **最后活动时间:** 2026-10-11
 
 ### [dbeaver](https://github.com/dbeaver/dbeaver)
 
@@ -214,7 +214,7 @@ AI驱动的小程序技术选型、趋势追踪和迁移诊断工具，助力开
 
 - **Stars:** ⭐️ 50.1k
 - **Tags:** `python` `linter` `formatter` `static-analysis`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [aider](https://github.com/Aider-AI/aider)
 
@@ -236,9 +236,9 @@ AI驱动的小程序技术选型、趋势追踪和迁移诊断工具，助力开
 
 高性能代码智能 MCP 服务器，将代码库索引为持久化知识图谱，支持 64 种语言和亚毫秒级查询。
 
-- **Stars:** ⭐️ 46.8k
+- **Stars:** ⭐️ 46.9k
 - **Tags:** `MCP` `代码智能` `知识图谱` `代码分析`
-- **最后活动时间:** 2026-10-18
+- **最后活动时间:** 2026-10-19
 
 ### [goose](https://github.com/block/goose)
 
@@ -252,7 +252,7 @@ AI驱动的小程序技术选型、趋势追踪和迁移诊断工具，助力开
 
 为逆向工程和渗透测试设计的AI技能路由包，支持按需自举工具链和自动进化经验库。兼容Claude Code、Cursor等多种AI代码客户端。
 
-- **Stars:** ⭐️ 42.5k
+- **Stars:** ⭐️ 42.6k
 - **Tags:** `AI` `Reverse Engineering` `Penetration Testing` `AI Coding` `Security`
 - **最后活动时间:** 2026-09-22
 
@@ -268,7 +268,7 @@ Cursor AI 编辑器的配置规则集合，提供自定义规则和行为以增�
 
 社区贡献的GitHub Copilot指令、代理、技能和配置集合。帮助开发者充分利用AI编程助手。
 
-- **Stars:** ⭐️ 40.1k
+- **Stars:** ⭐️ 40.2k
 - **Tags:** `GitHub Copilot` `Prompt Engineering` `AI Assistant`
 - **最后活动时间:** 2026-10-16
 
@@ -278,7 +278,7 @@ Cursor AI 编辑器的配置规则集合，提供自定义规则和行为以增�
 
 - **Stars:** ⭐️ 40.0k
 - **Tags:** `Multi-Agent` `Claude Code` `Orchestration`
-- **最后活动时间:** 2026-10-18
+- **最后活动时间:** 2026-10-19
 
 ### [claude-code-router](https://github.com/musistudio/claude-code-router)
 
@@ -292,7 +292,7 @@ Claude Code基础设施路由器，自定义模型交互方式同时保持Anthro
 
 使用AI编码代理一键克隆任意网站的模板工具，支持Claude Code等AI助手快速生成网站代码。
 
-- **Stars:** ⭐️ 36.9k
+- **Stars:** ⭐️ 37.0k
 - **Tags:** `ai-agents` `claude` `website-cloner` `developer-tools` `template`
 - **最后活动时间:** 2026-10-05
 
@@ -300,15 +300,15 @@ Claude Code基础设施路由器，自定义模型交互方式同时保持Anthro
 
 开源AI代码检查CLI工具，支持CI/CD集成，兼容Claude、Gemini、GPT等大模型，自动化代码审查与质量把控。
 
-- **Stars:** ⭐️ 36.2k
+- **Stars:** ⭐️ 36.3k
 - **Tags:** `CLI` `CI/CD` `代码审查`
-- **最后活动时间:** 2026-10-14
+- **最后活动时间:** 2026-10-18
 
 ### [codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
 
 将 Codex 集成到 Claude Code 中，支持代码审查和任务委托功能，提升 AI 辅助编程体验。
 
-- **Stars:** ⭐️ 34.3k
+- **Stars:** ⭐️ 34.4k
 - **Tags:** `codex` `claude-code` `code-review` `ai-assistant`
 - **最后活动时间:** 2026-07-08
 
@@ -342,7 +342,7 @@ Claude Code基础设施路由器，自定义模型交互方式同时保持Anthro
 
 - **Stars:** ⭐️ 33.6k
 - **Tags:** `codex` `code-assistant` `agent-teams` `developer-tools`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-19
 
 ### [cursor](https://github.com/cursor/cursor)
 
@@ -358,29 +358,29 @@ Claude Code的CLI配置与监控工具，帮助开发者更好地管理和使用
 
 - **Stars:** ⭐️ 32.7k
 - **Tags:** `Claude Code` `CLI` `Developer Tools`
-- **最后活动时间:** 2026-10-17
-
-### [code-review-graph](https://github.com/tirth8205/code-review-graph)
-
-为Claude Code构建本地知识图谱，持久化映射代码库结构，使Claude只读取相关代码，代码审查token消耗减少6.8倍。
-
-- **Stars:** ⭐️ 32.2k
-- **Tags:** `knowledge-graph` `code-review` `claude` `mcp`
-- **最后活动时间:** 2026-10-16
+- **最后活动时间:** 2026-10-18
 
 ### [CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)
 
 一款 CodexApp 增强工具，致力于让 OpenAI Codex 更好用、更舒适，显著提升 AI 编程助手的使用体验。
 
-- **Stars:** ⭐️ 31.7k
+- **Stars:** ⭐️ 32.3k
 - **Tags:** `Codex` `AI Coding` `Developer Tools` `Productivity`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-18
+
+### [code-review-graph](https://github.com/tirth8205/code-review-graph)
+
+为Claude Code构建本地知识图谱，持久化映射代码库结构，使Claude只读取相关代码，代码审查token消耗减少6.8倍。
+
+- **Stars:** ⭐️ 32.3k
+- **Tags:** `knowledge-graph` `code-review` `claude` `mcp`
+- **最后活动时间:** 2026-10-16
 
 ### [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
 
 一个用于多阶段安全审计的编码智能体技能，提供独立验证且机器可读的审计结果。
 
-- **Stars:** ⭐️ 30.8k
+- **Stars:** ⭐️ 31.1k
 - **Tags:** `security-audit` `coding-agent` `code-review`
 - **最后活动时间:** 2026-09-14
 
@@ -468,7 +468,7 @@ AI驱动的任务管理系统，可无缝集成到Cursor、Windsurf、Lovable等
 
 一个 Claude Code 技能插件，可将提示词转换为杂志风格的 HTML 演示文稿，支持10种布局和5种主题，输出单文件即可使用。
 
-- **Stars:** ⭐️ 28.1k
+- **Stars:** ⭐️ 28.2k
 - **Tags:** `claude-code` `skill` `presentation` `html` `webgl`
 - **最后活动时间:** 2026-08-07
 
@@ -476,7 +476,7 @@ AI驱动的任务管理系统，可无缝集成到Cursor、Windsurf、Lovable等
 
 一体化智能编程平台，集成主流开源编程代理，支持VSCode、JetBrains和CLI，拥有超150万用户。
 
-- **Stars:** ⭐️ 27.6k
+- **Stars:** ⭐️ 27.7k
 - **Tags:** `AI编程` `智能体` `VSCode` `开发工具`
 - **最后活动时间:** 2026-10-18
 
@@ -516,7 +516,7 @@ go-cursor-help 是一个专为 Cursor AI 免费订阅用户设计的工具，帮
 
 为 Claude Code 设计的 HTML 原生设计技能，支持高保真原型、幻灯片、动画制作及 MP4 导出，包含 20 种设计哲学和 5 维评审体系。
 
-- **Stars:** ⭐️ 25.2k
+- **Stars:** ⭐️ 25.3k
 - **Tags:** `claude-code` `design-system` `ai-assistant` `prototyping`
 - **最后活动时间:** 2026-10-17
 
@@ -582,7 +582,7 @@ AI原生的Python响应式笔记本，支持SQL、可复现实验与应用部署
 
 - **Stars:** ⭐️ 23.2k
 - **Tags:** `Notebook` `Python` `Reactive`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [claude-code](https://github.com/claude-code-best/claude-code)
 
@@ -628,7 +628,7 @@ Rust编写的编码代理工具框架，支持Claude、OpenAI等LLM后端，提�
 
 AI智能体技能的安全扫描器，用于检测漏洞、恶意模式和安全风险。
 
-- **Stars:** ⭐️ 20.4k
+- **Stars:** ⭐️ 20.5k
 - **Tags:** `security` `ai-agents` `vulnerability-detection`
 - **最后活动时间:** 2026-10-17
 
@@ -639,6 +639,14 @@ AI智能体技能的安全扫描器，用于检测漏洞、恶意模式和安全
 - **Stars:** ⭐️ 19.8k
 - **Tags:** `python` `type-checker` `lsp` `rust`
 - **最后活动时间:** 2026-09-28
+
+### [codex-auth-helper](https://github.com/zhishile/codex-auth-helper)
+
+Codex登陆助手，可安全地在本地导出已登录的ChatGPT会话配置，生成符合Codex规范的auth.json备份文件。方便开发者在多设备间迁移与备份Codex CLI的登录凭据。
+
+- **Stars:** ⭐️ 19.1k
+- **Tags:** `Codex` `ChatGPT` `Auth` `CLI` `Developer-Tools`
+- **最后活动时间:** 2026-06-07
 
 ### [cockpit-tools](https://github.com/jlcodes99/cockpit-tools)
 
@@ -680,13 +688,13 @@ AI驱动的开发工作空间，支持可复用组件、架构清晰且零开销
 - **Tags:** `neovim` `ai-ide` `code-assistant` `cursor-alternative`
 - **最后活动时间:** 2026-07-28
 
-### [codex-auth-helper](https://github.com/zhishile/codex-auth-helper)
+### [openwiki](https://github.com/langchain-ai/openwiki)
 
-Codex登陆助手，可安全地在本地导出已登录的ChatGPT会话配置，生成符合Codex规范的auth.json备份文件。方便开发者在多设备间迁移与备份Codex CLI的登录凭据。
+利用AI智能体自动为代码库编写和维护文档的命令行工具。
 
-- **Stars:** ⭐️ 17.2k
-- **Tags:** `Codex` `ChatGPT` `Auth` `CLI` `Developer-Tools`
-- **最后活动时间:** 2026-06-07
+- **Stars:** ⭐️ 17.3k
+- **Tags:** `documentation` `cli` `ai-agent` `devtools`
+- **最后活动时间:** 2026-10-18
 
 ### [coder](https://github.com/coder/coder)
 
@@ -695,14 +703,6 @@ Codex登陆助手，可安全地在本地导出已登录的ChatGPT会话配置�
 - **Stars:** ⭐️ 17.1k
 - **Tags:** `agents` `dev-tools` `remote-development` `vscode` `jetbrains`
 - **最后活动时间:** 2026-10-18
-
-### [openwiki](https://github.com/langchain-ai/openwiki)
-
-利用AI智能体自动为代码库编写和维护文档的命令行工具。
-
-- **Stars:** ⭐️ 16.9k
-- **Tags:** `documentation` `cli` `ai-agent` `devtools`
-- **最后活动时间:** 2026-09-29
 
 ### [gsap-skills](https://github.com/greensock/gsap-skills)
 
@@ -720,6 +720,14 @@ GSAP官方AI技能库，教授AI编程智能体正确使用GSAP动画平台。
 - **Tags:** `Integration` `Messaging` `Remote Access`
 - **最后活动时间:** 2026-10-16
 
+### [magpie](https://github.com/yetone/magpie)
+
+Magpie 是一个统一的 AI 模型管理器，支持在菜单栏切换不同模型，如 Codex on DeepSeek、Claude Code on Kimi 和 Gemini CLI。
+
+- **Stars:** ⭐️ 16.0k
+- **Tags:** `llm` `ai-agents` `model-manager` `macos` `claude-code`
+- **最后活动时间:** 2026-10-19
+
 ### [reactotron](https://github.com/infinitered/reactotron)
 
 用于检查React JS和React Native项目的桌面应用程序。支持macOS、Linux和Windows，方便开发者调试。
@@ -727,14 +735,6 @@ GSAP官方AI技能库，教授AI编程智能体正确使用GSAP动画平台。
 - **Stars:** ⭐️ 15.6k
 - **Tags:** `react` `debugging` `desktop`
 - **最后活动时间:** 2026-08-13
-
-### [magpie](https://github.com/yetone/magpie)
-
-Magpie 是一个统一的 AI 模型管理器，支持在菜单栏切换不同模型，如 Codex on DeepSeek、Claude Code on Kimi 和 Gemini CLI。
-
-- **Stars:** ⭐️ 15.4k
-- **Tags:** `llm` `ai-agents` `model-manager` `macos` `claude-code`
-- **最后活动时间:** 2026-10-18
 
 ### [jupyterlab](https://github.com/jupyterlab/jupyterlab)
 
@@ -750,7 +750,7 @@ AI Agent时代的IDE工具，支持本地并行运行Claude Code、Codex等多�
 
 - **Stars:** ⭐️ 15.3k
 - **Tags:** `AI Agents` `IDE` `Orchestration` `Developer Tools`
-- **最后活动时间:** 2026-10-18
+- **最后活动时间:** 2026-10-19
 
 ### [onedev](https://github.com/theonedev/onedev)
 
@@ -812,7 +812,7 @@ Claude Code 本地可运行版本，支持跨平台桌面端和Computer Use功�
 
 将 ChatGPT Web（包括 Pro 版本）作为原生模型集成到 Codex 应用中的工具。支持上下文、工具调用、流式输出及图像处理，突破 Codex 的使用限制。
 
-- **Stars:** ⭐️ 14.5k
+- **Stars:** ⭐️ 14.6k
 - **Tags:** `chatgpt` `codex` `openai` `playwright` `typescript` `mcp`
 - **最后活动时间:** 2026-10-17
 
@@ -838,7 +838,7 @@ Claude Code 本地可运行版本，支持跨平台桌面端和Computer Use功�
 
 - **Stars:** ⭐️ 13.7k
 - **Tags:** `ai` `ai-agents` `cli` `code-assistant`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [freebuff](https://github.com/CodebuffAI/freebuff)
 
@@ -846,7 +846,7 @@ Claude Code 本地可运行版本，支持跨平台桌面端和Computer Use功�
 
 - **Stars:** ⭐️ 13.6k
 - **Tags:** `coding` `agent` `devtools`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [scalene](https://github.com/plasma-umass/scalene)
 
@@ -950,7 +950,7 @@ Claude Code技能插件，可生成高质量SVG+PNG技术图表，支持8种图�
 
 - **Stars:** ⭐️ 11.6k
 - **Tags:** `Nginx` `WebUI` `AI Assistant` `MCP`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [codeburn](https://github.com/getagentseal/codeburn)
 
@@ -964,7 +964,7 @@ AI编程Token消耗监控工具，支持Claude Code、Codex和Cursor的成本可
 
 为Ghidra逆向工程平台提供MCP接口，支持AI辅助的二进制分析和逆向工程。
 
-- **Stars:** ⭐️ 11.3k
+- **Stars:** ⭐️ 11.4k
 - **Tags:** `mcp` `ghidra` `reverse-engineering` `security`
 - **最后活动时间:** 2026-10-10
 
@@ -1014,7 +1014,7 @@ OpenAI推出的安全漏洞检测与修复CLI工具，利用AI技术扫描代码
 
 - **Stars:** ⭐️ 10.7k
 - **Tags:** `autocomplete` `cli` `terminal` `shell`
-- **最后活动时间:** 2026-10-16
+- **最后活动时间:** 2026-10-18
 
 ### [semi-design](https://github.com/DouyinFE/semi-design)
 
@@ -1024,6 +1024,14 @@ OpenAI推出的安全漏洞检测与修复CLI工具，利用AI技术扫描代码
 - **Tags:** `react` `design-system` `ai-friendly` `design2code` `ui-library`
 - **最后活动时间:** 2026-10-09
 
+### [Trail-Code](https://github.com/trailhq/Trail-Code)
+
+为 Claude Code、Cursor、Codex、Gemini 等各类编程智能体提供针对代码库的深度上下文理解，让 AI 编码更快、更省、更懂你的项目。基于代码图谱与知识图谱的上下文工程工具，可通过 MCP 服务器无缝集成到现有开发工作流。
+
+- **Stars:** ⭐️ 10.4k
+- **Tags:** `Claude-Code` `MCP` `Context-Engineering` `Code-Graph` `Cursor` `Developer-Tools` `CLI`
+- **最后活动时间:** 2026-10-18
+
 ### [dbskill](https://github.com/dontbesilent2025/dbskill)
 
 为 Claude Code 提供商业诊断能力的技能扩展，帮助用户进行商业分析和决策支持。
@@ -1031,14 +1039,6 @@ OpenAI推出的安全漏洞检测与修复CLI工具，利用AI技术扫描代码
 - **Stars:** ⭐️ 10.4k
 - **Tags:** `claude-code` `business-diagnosis` `ai-skills`
 - **最后活动时间:** 2026-09-28
-
-### [Trail-Code](https://github.com/trailhq/Trail-Code)
-
-为 Claude Code、Cursor、Codex、Gemini 等各类编程智能体提供针对代码库的深度上下文理解，让 AI 编码更快、更省、更懂你的项目。基于代码图谱与知识图谱的上下文工程工具，可通过 MCP 服务器无缝集成到现有开发工作流。
-
-- **Stars:** ⭐️ 10.3k
-- **Tags:** `Claude-Code` `MCP` `Context-Engineering` `Code-Graph` `Cursor` `Developer-Tools` `CLI`
-- **最后活动时间:** 2026-10-17
 
 ### [claude-code-tips](https://github.com/ykdojo/claude-code-tips)
 
@@ -1078,7 +1078,7 @@ cursor-auto-free 是一个自动登录 Cursor AI 的工具，旨在简化免费�
 
 - **Stars:** ⭐️ 9.6k
 - **Tags:** `coding-agents` `git` `mcp` `claude-code`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [Graft](https://github.com/trailhq/Graft)
 
@@ -1094,7 +1094,7 @@ cursor-auto-free 是一个自动登录 Cursor AI 的工具，旨在简化免费�
 
 - **Stars:** ⭐️ 9.5k
 - **Tags:** `claude-code` `coding-agents` `code-review` `developer-tools`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-19
 
 ### [spyder](https://github.com/spyder-ide/spyder)
 
@@ -1206,7 +1206,7 @@ AI驱动的智能编程助手，支持Claude、GPT、Grok、Deepseek、Gemini等
 
 - **Stars:** ⭐️ 7.6k
 - **Tags:** `ai-pair-programming` `llm` `cli-assistant` `code-assistant`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [skills](https://github.com/trailofbits/skills)
 
@@ -1228,7 +1228,7 @@ AI 驱动的 Kubernetes 命令行助手，用自然语言管理 K8s 集群。
 
 ML/CV/NLP 论文写作技能包，改编自教授公开笔记，支持 Codex、Claude Code 和 Gemini。
 
-- **Stars:** ⭐️ 7.5k
+- **Stars:** ⭐️ 7.6k
 - **Tags:** `academic-writing` `claude-code` `ml` `research`
 - **最后活动时间:** 2026-06-23
 
@@ -1248,6 +1248,14 @@ ML/CV/NLP 论文写作技能包，改编自教授公开笔记，支持 Codex、C
 - **Tags:** `zotero` `gpt` `research-tool` `plugin`
 - **最后活动时间:** 2026-05-01
 
+### [architecture-diagram-generator](https://github.com/Cocoon-AI/architecture-diagram-generator)
+
+一个Claude AI技能工具，可生成精美的深色主题系统架构图，输出为独立的HTML/SVG文件，适合开发者快速创建专业的架构可视化文档。
+
+- **Stars:** ⭐️ 7.5k
+- **Tags:** `architecture` `diagram` `claude-skill` `svg` `visualization`
+- **最后活动时间:** 2026-05-13
+
 ### [my-git](https://github.com/xirong/my-git)
 
 面向现代工程团队与AI编程时代的Git/GitHub实战手册。帮助开发者在AI辅助开发流程中更好地管理版本控制。
@@ -1255,14 +1263,6 @@ ML/CV/NLP 论文写作技能包，改编自教授公开笔记，支持 Codex、C
 - **Stars:** ⭐️ 7.4k
 - **Tags:** `ai-coding` `git` `github` `workflow`
 - **最后活动时间:** 2026-09-09
-
-### [architecture-diagram-generator](https://github.com/Cocoon-AI/architecture-diagram-generator)
-
-一个Claude AI技能工具，可生成精美的深色主题系统架构图，输出为独立的HTML/SVG文件，适合开发者快速创建专业的架构可视化文档。
-
-- **Stars:** ⭐️ 7.4k
-- **Tags:** `architecture` `diagram` `claude-skill` `svg` `visualization`
-- **最后活动时间:** 2026-05-13
 
 ### [browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp)
 
@@ -1334,7 +1334,7 @@ JetBrains IDE插件，为Claude Code和Codex提供图形化界面支持。
 
 - **Stars:** ⭐️ 7.1k
 - **Tags:** `jetbrains` `claude-code` `codex` `ide-plugin` `gui`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [marionette](https://github.com/marionettejs/marionette)
 
@@ -1366,7 +1366,7 @@ Neovim AI 编程助手插件，支持多种大模型，提供智能代码补全�
 
 - **Stars:** ⭐️ 6.9k
 - **Tags:** `Neovim` `AI Coding` `LLM` `Code Assistant`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [stagewise](https://github.com/stagewise-io/stagewise)
 
@@ -1382,7 +1382,7 @@ Neovim AI 编程助手插件，支持多种大模型，提供智能代码补全�
 
 - **Stars:** ⭐️ 6.5k
 - **Tags:** `ai-skills` `coding-tools` `desktop-app` `skill-management`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [harlequin](https://github.com/tconbeer/harlequin)
 
@@ -1392,6 +1392,14 @@ Neovim AI 编程助手插件，支持多种大模型，提供智能代码补全�
 - **Tags:** `SQL` `TUI` `Database` `AI-Agents` `DuckDB` `Python`
 - **最后活动时间:** 2026-10-18
 
+### [jscpd](https://github.com/kucherenko/jscpd)
+
+基于AI的代码重复检测工具，支持多种编程语言的复制粘贴代码识别，帮助开发者提升代码质量。
+
+- **Stars:** ⭐️ 6.4k
+- **Tags:** `ai` `code-quality` `duplicates` `detector`
+- **最后活动时间:** 2026-10-18
+
 ### [XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP)
 
 为AI代理提供iOS/macOS项目构建工具的MCP服务器，支持Xcode相关开发操作。
@@ -1399,14 +1407,6 @@ Neovim AI 编程助手插件，支持多种大模型，提供智能代码补全�
 - **Stars:** ⭐️ 6.4k
 - **Tags:** `MCP` `Xcode` `iOS` `macOS`
 - **最后活动时间:** 2026-09-11
-
-### [jscpd](https://github.com/kucherenko/jscpd)
-
-基于AI的代码重复检测工具，支持多种编程语言的复制粘贴代码识别，帮助开发者提升代码质量。
-
-- **Stars:** ⭐️ 6.4k
-- **Tags:** `ai` `code-quality` `duplicates` `detector`
-- **最后活动时间:** 2026-10-17
 
 ### [fragments](https://github.com/e2b-dev/fragments)
 
@@ -1424,14 +1424,6 @@ Xcode 的 AI 编程助手插件，集成 GitHub Copilot 提供智能代码补全
 - **Tags:** `ai-assistant` `github-copilot` `xcode` `swift`
 - **最后活动时间:** 2026-10-16
 
-### [tagbar](https://github.com/preservim/tagbar)
-
-经典 Vim/Neovim 插件，在侧边栏按作用域有序展示代码标签，方便快速浏览与跳转代码结构。
-
-- **Stars:** ⭐️ 6.2k
-- **Tags:** `vim` `neovim` `ctags` `code-navigation` `vim-plugins`
-- **最后活动时间:** 2026-06-14
-
 ### [SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill)
 
 SwiftUI 开发专用 Claude Code 技能包，支持 AI 辅助 iOS/macOS 界面开发。
@@ -1440,13 +1432,21 @@ SwiftUI 开发专用 Claude Code 技能包，支持 AI 辅助 iOS/macOS 界面�
 - **Tags:** `swiftui` `claude-code` `ios` `macos`
 - **最后活动时间:** 2026-10-16
 
+### [tagbar](https://github.com/preservim/tagbar)
+
+经典 Vim/Neovim 插件，在侧边栏按作用域有序展示代码标签，方便快速浏览与跳转代码结构。
+
+- **Stars:** ⭐️ 6.2k
+- **Tags:** `vim` `neovim` `ctags` `code-navigation` `vim-plugins`
+- **最后活动时间:** 2026-06-14
+
 ### [claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide)
 
 Claude Code完整指南，包含生产级模板、智能体工作流教程、测验题库，适合学习AI辅助编程最佳实践。
 
 - **Stars:** ⭐️ 6.2k
 - **Tags:** `Claude Code` `AI编程` `教程指南` `最佳实践`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [jedi](https://github.com/davidhalter/jedi)
 
@@ -1454,7 +1454,7 @@ Claude Code完整指南，包含生产级模板、智能体工作流教程、测
 
 - **Stars:** ⭐️ 6.2k
 - **Tags:** `auto-complete` `python` `static-analysis` `type-inference`
-- **最后活动时间:** 2026-10-13
+- **最后活动时间:** 2026-10-18
 
 ### [sourcegit](https://github.com/sourcegit-scm/sourcegit)
 
@@ -1468,7 +1468,7 @@ Claude Code完整指南，包含生产级模板、智能体工作流教程、测
 
 本地优先的AI编程助手会话智能分析工具，支持Claude Code、Codex等16种编程代理，提供使用分析和性能优化洞察。
 
-- **Stars:** ⭐️ 6.1k
+- **Stars:** ⭐️ 6.2k
 - **Tags:** `coding-agents` `analytics` `claude-code` `developer-tools`
 - **最后活动时间:** 2026-10-18
 
@@ -1478,7 +1478,7 @@ Claude Code完整指南，包含生产级模板、智能体工作流教程、测
 
 - **Stars:** ⭐️ 6.1k
 - **Tags:** `Terminal` `AI Coding` `Rust`
-- **最后活动时间:** 2026-10-18
+- **最后活动时间:** 2026-10-19
 
 ### [magic-mcp](https://github.com/21st-dev/magic-mcp)
 
@@ -1518,7 +1518,7 @@ Voilà 可将 Jupyter 笔记本一键转换为独立的交互式 Web 应用，�
 
 - **Stars:** ⭐️ 5.9k
 - **Tags:** `多模型` `工作流` `CLI`
-- **最后活动时间:** 2026-10-12
+- **最后活动时间:** 2026-10-18
 
 ### [livebook](https://github.com/livebook-dev/livebook)
 
@@ -1544,20 +1544,20 @@ Claude Code的设计工程工具，为一致的UI提供工艺、记忆和强制�
 - **Tags:** `ui-design` `claude-code` `design-systems`
 - **最后活动时间:** 2026-06-20
 
+### [ghidra-mcp](https://github.com/bethington/ghidra-mcp)
+
+Ghidra MCP服务器，提供200+工具用于AI驱动的逆向工程。支持GUI插件和无头服务器模式，集成Docker部署。
+
+- **Stars:** ⭐️ 5.8k
+- **Tags:** `mcp` `reverse-engineering` `ghidra` `ai-tools`
+- **最后活动时间:** 2026-10-16
+
 ### [potpie](https://github.com/potpie-ai/potpie)
 
 基于规格驱动开发的AI代码助手，结合知识图谱和RAG技术优化大型代码库开发流程。
 
 - **Stars:** ⭐️ 5.7k
 - **Tags:** `Code Assistant` `Knowledge Graph` `RAG`
-- **最后活动时间:** 2026-10-16
-
-### [ghidra-mcp](https://github.com/bethington/ghidra-mcp)
-
-Ghidra MCP服务器，提供200+工具用于AI驱动的逆向工程。支持GUI插件和无头服务器模式，集成Docker部署。
-
-- **Stars:** ⭐️ 5.7k
-- **Tags:** `mcp` `reverse-engineering` `ghidra` `ai-tools`
 - **最后活动时间:** 2026-10-16
 
 ### [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui)
@@ -1592,6 +1592,14 @@ DeepSeek Harness Web UI 的插件与皮肤合集，提供任务看板、Git 图�
 - **Tags:** `neural-network` `visualization` `svg` `diagram`
 - **最后活动时间:** 2026-06-02
 
+### [cost-xray](https://github.com/tigerless-labs/cost-xray)
+
+透视 Claude Code 和 Codex 的 API 请求内容与各部分成本，支持 token 计数与缓存观测。
+
+- **Stars:** ⭐️ 5.7k
+- **Tags:** `claude-code` `cost-tracking` `observability` `proxy`
+- **最后活动时间:** 2026-10-15
+
 ### [FeHelper](https://github.com/zxlie/FeHelper)
 
 一款强大的前端开发者工具箱浏览器扩展，集成了JSON格式化、二维码生成、代码压缩等功能，并支持ChatGPT辅助。
@@ -1606,7 +1614,7 @@ DeepSeek Harness Web UI 的插件与皮肤合集，提供任务看板、Git 图�
 
 - **Stars:** ⭐️ 5.7k
 - **Tags:** `agent-skills` `dotnet` `csharp`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [anti-slop](https://github.com/dmmulroy/anti-slop)
 
@@ -1623,14 +1631,6 @@ DeepSeek Harness Web UI 的插件与皮肤合集，提供任务看板、Git 图�
 - **Stars:** ⭐️ 5.6k
 - **Tags:** `comfyui` `ai` `copilot` `llm-agent` `stable-diffusion` `rag`
 - **最后活动时间:** 2026-09-11
-
-### [cost-xray](https://github.com/tigerless-labs/cost-xray)
-
-透视 Claude Code 和 Codex 的 API 请求内容与各部分成本，支持 token 计数与缓存观测。
-
-- **Stars:** ⭐️ 5.5k
-- **Tags:** `claude-code` `cost-tracking` `observability` `proxy`
-- **最后活动时间:** 2026-10-15
 
 ### [cc-wf-studio](https://github.com/breaking-brake/cc-wf-studio)
 
@@ -1654,7 +1654,7 @@ Claude Code 工作流工作室，支持 Agent 技能、MCP 工具、子代理和
 
 - **Stars:** ⭐️ 5.4k
 - **Tags:** `ai-agents` `kubernetes` `developer-tools` `cli` `debug`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [cc-switch-cli](https://github.com/SaladDay/cc-switch-cli)
 
@@ -1686,7 +1686,7 @@ Claude Code 工作流工作室，支持 Agent 技能、MCP 工具、子代理和
 
 - **Stars:** ⭐️ 5.3k
 - **Tags:** `claude-code` `codex` `gemini` `mobile-app` `coding-assistant`
-- **最后活动时间:** 2026-10-15
+- **最后活动时间:** 2026-10-18
 
 ### [FigmaToCode](https://github.com/bernaferrari/FigmaToCode)
 
@@ -1716,9 +1716,17 @@ Claude Code 工作流工作室，支持 Agent 技能、MCP 工具、子代理和
 
 专为Claude Code设计的安全测试技能包，包含51个技能、15个斜杠命令和574+漏洞模式，覆盖24个漏洞类别，适用于漏洞赏金和企业安全测试。
 
-- **Stars:** ⭐️ 5.1k
+- **Stars:** ⭐️ 5.2k
 - **Tags:** `ai-security` `claude-code` `bug-bounty` `pentesting` `security-tools`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
+
+### [mistral-vibe](https://github.com/mistralai/mistral-vibe)
+
+Mistral官方推出的极简命令行编码智能体工具。
+
+- **Stars:** ⭐️ 5.1k
+- **Tags:** `coding-agent` `cli` `mistral`
+- **最后活动时间:** 2026-10-09
 
 ### [sketch-code](https://github.com/ashnkumar/sketch-code)
 
@@ -1727,14 +1735,6 @@ Claude Code 工作流工作室，支持 Agent 技能、MCP 工具、子代理和
 - **Stars:** ⭐️ 5.1k
 - **Tags:** `image-to-code` `deep-learning` `html-generation` `keras`
 - **最后活动时间:** 2026-08-06
-
-### [mistral-vibe](https://github.com/mistralai/mistral-vibe)
-
-Mistral官方推出的极简命令行编码智能体工具。
-
-- **Stars:** ⭐️ 5.0k
-- **Tags:** `coding-agent` `cli` `mistral`
-- **最后活动时间:** 2026-09-29
 
 ### [codex-claude-academic-skills](https://github.com/zLanqing/codex-claude-academic-skills)
 
@@ -1760,14 +1760,6 @@ JupyterLite 是一个完全在浏览器中运行的 Jupyter 环境，无需后�
 - **Tags:** `jupyter` `wasm` `pyodide` `browser` `ide`
 - **最后活动时间:** 2026-10-16
 
-### [vscode-antigravity-cockpit](https://github.com/jlcodes99/vscode-antigravity-cockpit)
-
-VS Code扩展，用于监控Google Antigravity AI配额使用情况。
-
-- **Stars:** ⭐️ 4.8k
-- **Tags:** `vscode-extension` `ai-quota` `monitoring` `developer-tools`
-- **最后活动时间:** 2026-07-08
-
 ### [MonkeyCode](https://github.com/chaitin/MonkeyCode)
 
 企业级 AI 编程助手，专为研发协作和研发管理场景设计，提升团队开发效率。
@@ -1776,13 +1768,21 @@ VS Code扩展，用于监控Google Antigravity AI配额使用情况。
 - **Tags:** `AI-Coding` `VSCode` `Enterprise`
 - **最后活动时间:** 2026-10-16
 
+### [vscode-antigravity-cockpit](https://github.com/jlcodes99/vscode-antigravity-cockpit)
+
+VS Code扩展，用于监控Google Antigravity AI配额使用情况。
+
+- **Stars:** ⭐️ 4.8k
+- **Tags:** `vscode-extension` `ai-quota` `monitoring` `developer-tools`
+- **最后活动时间:** 2026-07-08
+
 ### [agentos](https://github.com/rivet-dev/agentos)
 
 轻量级的沙箱替代方案，允许在任何隔离的Linux虚拟机中运行编码代理并内置代理编排功能。为AI编程提供安全、高效的执行环境。
 
 - **Stars:** ⭐️ 4.8k
 - **Tags:** `ai-agent` `sandbox` `wasm` `v8`
-- **最后活动时间:** 2026-10-13
+- **最后活动时间:** 2026-10-18
 
 ### [testsprite-cli](https://github.com/TestSprite/testsprite-cli)
 
@@ -1870,7 +1870,7 @@ Claude Code完整指南，涵盖安装配置、命令使用、工作流、智能
 
 - **Stars:** ⭐️ 4.5k
 - **Tags:** `ai-coding` `claude-code` `codex` `tauri` `desktop-app`
-- **最后活动时间:** 2026-10-16
+- **最后活动时间:** 2026-10-18
 
 ### [ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview)
 
@@ -1934,7 +1934,7 @@ JupyterLab的生成式AI扩展，支持代码生成、解释和调试，提升�
 
 - **Stars:** ⭐️ 4.4k
 - **Tags:** `Agentic IDE` `AI Coding` `Development`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [opencode-dynamic-context-pruning](https://github.com/Tarquinen/opencode-dynamic-context-pruning)
 
@@ -2014,7 +2014,7 @@ MCP服务器和CLI工具，将本地代码索引到图数据库中，为AI助手
 
 - **Stars:** ⭐️ 4.2k
 - **Tags:** `copilot` `ai-agents` `automation` `electron` `screen-recording`
-- **最后活动时间:** 2026-10-06
+- **最后活动时间:** 2026-10-18
 
 ### [command-code](https://github.com/CommandCodeAI/command-code)
 
@@ -2036,7 +2036,7 @@ MCP服务器和CLI工具，将本地代码索引到图数据库中，为AI助手
 
 为编码代理提供开发环境，支持多代理安全独立协作。
 
-- **Stars:** ⭐️ 4.0k
+- **Stars:** ⭐️ 4.1k
 - **Tags:** `coding-agent` `development-environment` `containers` `ai-tools`
 - **最后活动时间:** 2026-09-21
 
@@ -2056,14 +2056,6 @@ Atom编辑器中的Jupyter内核集成插件，支持交互式代码执行、数
 - **Tags:** `atom` `jupyter` `ipython` `repl`
 - **最后活动时间:** 2026-07-19
 
-### [community-plugins](https://github.com/cursor/community-plugins)
-
-Cursor 社区插件合集,汇聚社区开发的实用插件,帮助开发者扩展这款 AI 代码编辑器的功能。
-
-- **Stars:** ⭐️ 4.0k
-- **Tags:** `Cursor` `Plugins` `IDE` `Code-Editor` `Community`
-- **最后活动时间:** 2026-10-15
-
 ### [codeg](https://github.com/spacering-net/codeg)
 
 协作式多智能体 AI 编程工作台，可在一个界面中聚合管理 Claude Code、Codex、OpenCode、Grok Build 等多个编码代理的会话。支持桌面应用、自托管服务器与 Docker 多种部署方式。
@@ -2071,6 +2063,14 @@ Cursor 社区插件合集,汇聚社区开发的实用插件,帮助开发者扩�
 - **Stars:** ⭐️ 4.0k
 - **Tags:** `ai-agents` `multi-agent` `claude-code` `codex` `coding-workspace` `developer-tools`
 - **最后活动时间:** 2026-10-18
+
+### [community-plugins](https://github.com/cursor/community-plugins)
+
+Cursor 社区插件合集,汇聚社区开发的实用插件,帮助开发者扩展这款 AI 代码编辑器的功能。
+
+- **Stars:** ⭐️ 4.0k
+- **Tags:** `Cursor` `Plugins` `IDE` `Code-Editor` `Community`
+- **最后活动时间:** 2026-10-15
 
 ### [atopile](https://github.com/atopile/atopile)
 
@@ -2104,6 +2104,14 @@ Claude Code 的开发者工具，支持检查工具调用、子智能体和 Toke
 - **Tags:** `code-review` `ai-skills` `code-assistant` `developer-tools`
 - **最后活动时间:** 2026-05-11
 
+### [terminal-browser](https://github.com/zenbu-labs/terminal-browser)
+
+一个运行在终端内的浏览器，可作为 Claude Code / Codex 等 AI 编码工具的技能使用。让 AI 智能体直接在终端中浏览网页。
+
+- **Stars:** ⭐️ 3.9k
+- **Tags:** `claude-code` `codex` `terminal` `browser` `rust`
+- **最后活动时间:** 2026-10-19
+
 ### [mason-lspconfig.nvim](https://github.com/mason-org/mason-lspconfig.nvim)
 
 桥接 mason.nvim 与 lspconfig 的扩展插件，简化语言服务器的安装与配置。
@@ -2111,14 +2119,6 @@ Claude Code 的开发者工具，支持检查工具调用、子智能体和 Toke
 - **Stars:** ⭐️ 3.9k
 - **Tags:** `neovim` `lsp` `package-manager`
 - **最后活动时间:** 2026-07-19
-
-### [terminal-browser](https://github.com/zenbu-labs/terminal-browser)
-
-一个运行在终端内的浏览器，可作为 Claude Code / Codex 等 AI 编码工具的技能使用。让 AI 智能体直接在终端中浏览网页。
-
-- **Stars:** ⭐️ 3.9k
-- **Tags:** `claude-code` `codex` `terminal` `browser` `rust`
-- **最后活动时间:** 2026-10-17
 
 ### [opencode.nvim](https://github.com/nickjvandyke/opencode.nvim)
 
@@ -2150,7 +2150,7 @@ MCP服务器和Shell钩子工具，可降低AI编程成本高达99%，支持Curs
 
 - **Stars:** ⭐️ 3.8k
 - **Tags:** `ai` `arduino` `blockly` `ide` `iot`
-- **最后活动时间:** 2026-10-16
+- **最后活动时间:** 2026-10-18
 
 ### [claude-health](https://github.com/tw93/claude-health)
 
@@ -2200,13 +2200,13 @@ Codex 桌面应用的增强调整系统，扩展 AI 编程助手的功能。
 - **Tags:** `ai-coding` `claude-code` `codex` `gemini-cli` `agent-workspace` `desktop-app`
 - **最后活动时间:** 2026-09-30
 
-### [emba](https://github.com/e-m-b-a/emba)
+### [vibe-wise](https://github.com/nykooi1/vibe-wise)
 
-一款强大的固件安全分析器，结合静态分析与漏洞扫描，保障嵌入式设备安全。适用于物联网与边缘AI设备的安全审计。
+一款 Claude Code / Codex 插件，在 AI 代写代码的同时帮助你真正理解构建过程，实现“边用边学”的开发体验。
 
 - **Stars:** ⭐️ 3.7k
-- **Tags:** `firmware-analysis` `security` `static-analyzer` `vulnerability-scanner` `iot`
-- **最后活动时间:** 2026-10-12
+- **Tags:** `Claude-Code` `Codex` `Plugin` `Learning` `Code-Assistant`
+- **最后活动时间:** 2026-10-09
 
 ### [SwiftUI-Agent-Skill](https://github.com/AvdLee/SwiftUI-Agent-Skill)
 
@@ -2215,6 +2215,14 @@ Codex 桌面应用的增强调整系统，扩展 AI 编程助手的功能。
 - **Stars:** ⭐️ 3.7k
 - **Tags:** `swiftui` `agent-skills` `ai-coding`
 - **最后活动时间:** 2026-10-06
+
+### [emba](https://github.com/e-m-b-a/emba)
+
+一款强大的固件安全分析器，结合静态分析与漏洞扫描，保障嵌入式设备安全。适用于物联网与边缘AI设备的安全审计。
+
+- **Stars:** ⭐️ 3.7k
+- **Tags:** `firmware-analysis` `security` `static-analyzer` `vulnerability-scanner` `iot`
+- **最后活动时间:** 2026-10-12
 
 ### [twinny](https://github.com/twinnydotdev/twinny)
 
@@ -2254,7 +2262,15 @@ Laravel专用MCP服务器，增强AI助手对Laravel项目的理解和操作能�
 
 - **Stars:** ⭐️ 3.6k
 - **Tags:** `Coding Agent` `Memory` `LLM`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-19
+
+### [claude-swap](https://github.com/realiti4/claude-swap)
+
+一个用于在多个 Claude Code 账户之间快速切换的开发工具，提升多账户管理效率。
+
+- **Stars:** ⭐️ 3.6k
+- **Tags:** `claude` `claude-code` `account-switcher` `developer-tools`
+- **最后活动时间:** 2026-10-18
 
 ### [codex-provider-sync](https://github.com/Dailin521/codex-provider-sync)
 
@@ -2270,15 +2286,7 @@ Laravel专用MCP服务器，增强AI助手对Laravel项目的理解和操作能�
 
 - **Stars:** ⭐️ 3.6k
 - **Tags:** `code-analysis` `code-property-graph` `static-analysis` `security` `scala`
-- **最后活动时间:** 2026-10-17
-
-### [claude-swap](https://github.com/realiti4/claude-swap)
-
-一个用于在多个 Claude Code 账户之间快速切换的开发工具，提升多账户管理效率。
-
-- **Stars:** ⭐️ 3.6k
-- **Tags:** `claude` `claude-code` `account-switcher` `developer-tools`
-- **最后活动时间:** 2026-10-15
+- **最后活动时间:** 2026-10-18
 
 ### [awesome-cursor-rules-mdc](https://github.com/sanjeed5/awesome-cursor-rules-mdc)
 
@@ -2328,6 +2336,14 @@ QA Wolf的命令行工具，支持在终端、CI或AI智能体环境中进行端
 - **Tags:** `cli` `e2e-testing` `test-automation` `ai-agent`
 - **最后活动时间:** 2026-10-16
 
+### [bacon](https://github.com/Canop/bacon)
+
+Rust 后台代码检查工具，在后台持续编译检查项目，让 Rust 开发流程更流畅。
+
+- **Stars:** ⭐️ 3.4k
+- **Tags:** `rust` `cargo` `code-checker` `cli`
+- **最后活动时间:** 2026-10-17
+
 ### [srcbook](https://github.com/srcbookdev/srcbook)
 
 以 TypeScript 为核心的应用开发平台，集成了笔记本功能和 AI 应用构建器，支持本地开发。
@@ -2352,6 +2368,14 @@ QA Wolf的命令行工具，支持在终端、CI或AI智能体环境中进行端
 - **Tags:** `ai-tools` `code-review` `rust` `tui`
 - **最后活动时间:** 2026-10-16
 
+### [replica-skill](https://github.com/Jakeschincariol/replica-skill)
+
+一套包含十一个免费 Claude 技能的工具集，可对任意应用进行逆向工程、重建、测试漏洞并修复用户痛点。MIT 开源，适合独立开发者快速复刻 SaaS 应用。
+
+- **Stars:** ⭐️ 3.4k
+- **Tags:** `Claude` `Claude-Code` `Agent-Skills` `Reverse-Engineering` `App-Cloning`
+- **最后活动时间:** 2026-10-03
+
 ### [claude-code](https://github.com/codeaashu/claude-code)
 
 Anthropic 官方推出的 AI 编程助手，在终端中运行，理解代码库并协助编码、解释代码和处理 Git 工作流。
@@ -2372,9 +2396,17 @@ Anthropic 官方推出的 AI 编程助手，在终端中运行，理解代码库
 
 一键安装并快速切换多种主流AI编程助手和CLI工具的便捷平台。支持Claude Code、Codex CLI、Qwen Code等多种模型的灵活调用。
 
-- **Stars:** ⭐️ 3.3k
+- **Stars:** ⭐️ 3.4k
 - **Tags:** `claude-code` `model-switch` `ide` `code-assistant` `cli`
 - **最后活动时间:** 2026-10-18
+
+### [ultracite](https://github.com/haydenbleasel/ultracite)
+
+零配置的代码检查和格式化工具，支持 MCP 协议，可集成到 VSCode、Cursor、Windsurf 等 IDE。
+
+- **Stars:** ⭐️ 3.3k
+- **Tags:** `linter` `formatter` `mcp` `biome` `vscode`
+- **最后活动时间:** 2026-10-17
 
 ### [remodex](https://github.com/Emanuele-web04/remodex)
 
@@ -2384,14 +2416,6 @@ Remote Control for Codex，用于远程控制 Codex 工具的实用程序。提�
 - **Tags:** `codex` `remote-control` `ai-tool`
 - **最后活动时间:** 2026-10-01
 
-### [Fuxi](https://github.com/fuxicodex/Fuxi)
-
-快速、自包含的终端AI编码智能体，支持编辑代码、运行命令和驱动工具。具备跨LLM提供商的成本感知路由。
-
-- **Stars:** ⭐️ 3.3k
-- **Tags:** `ai-agent` `ai-coding` `cli` `terminal`
-- **最后活动时间:** 2026-09-29
-
 ### [SocratiCode](https://github.com/giancarloerra/SocratiCode)
 
 企业级代码智能工具，提供本地私有化的语义搜索、依赖图分析和知识库管理，支持多种AI模型。
@@ -2400,13 +2424,13 @@ Remote Control for Codex，用于远程控制 Codex 工具的实用程序。提�
 - **Tags:** `code-intelligence` `semantic-search` `embeddings` `mcp`
 - **最后活动时间:** 2026-10-15
 
-### [ultracite](https://github.com/haydenbleasel/ultracite)
+### [Fuxi](https://github.com/fuxicodex/Fuxi)
 
-零配置的代码检查和格式化工具，支持 MCP 协议，可集成到 VSCode、Cursor、Windsurf 等 IDE。
+快速、自包含的终端AI编码智能体，支持编辑代码、运行命令和驱动工具。具备跨LLM提供商的成本感知路由。
 
 - **Stars:** ⭐️ 3.3k
-- **Tags:** `linter` `formatter` `mcp` `biome` `vscode`
-- **最后活动时间:** 2026-10-17
+- **Tags:** `ai-agent` `ai-coding` `cli` `terminal`
+- **最后活动时间:** 2026-09-29
 
 ### [claude-code-rev](https://github.com/oboard/claude-code-rev)
 
@@ -2454,7 +2478,7 @@ Claude Code 可运行的源代码实现，为开发者提供AI编程助手的参
 
 - **Stars:** ⭐️ 3.2k
 - **Tags:** `cursor` `cursor-ai` `ide` `downloads` `code-assistant`
-- **最后活动时间:** 2026-10-15
+- **最后活动时间:** 2026-10-17
 
 ### [cursor-byok](https://github.com/leookun/cursor-byok)
 
@@ -2463,14 +2487,6 @@ Claude Code 可运行的源代码实现，为开发者提供AI编程助手的参
 - **Stars:** ⭐️ 3.2k
 - **Tags:** `cursor` `byok` `ai-coding` `ide`
 - **最后活动时间:** 2026-10-12
-
-### [replica-skill](https://github.com/Jakeschincariol/replica-skill)
-
-一套包含十一个免费 Claude 技能的工具集，可对任意应用进行逆向工程、重建、测试漏洞并修复用户痛点。MIT 开源，适合独立开发者快速复刻 SaaS 应用。
-
-- **Stars:** ⭐️ 3.2k
-- **Tags:** `Claude` `Claude-Code` `Agent-Skills` `Reverse-Engineering` `App-Cloning`
-- **最后活动时间:** 2026-10-03
 
 ### [interactive](https://github.com/dotnet/interactive)
 
@@ -2560,14 +2576,6 @@ AI优先设计的数据科学笔记本平台，支持Python、R和SQL，提供�
 - **Tags:** `jupyter` `data-science` `notebooks` `python` `machine-learning`
 - **最后活动时间:** 2026-10-16
 
-### [readme-ai](https://github.com/eli64s/readme-ai)
-
-AI驱动的README文件生成器，支持多种AI模型自动生成项目文档。
-
-- **Stars:** ⭐️ 3.0k
-- **Tags:** `readme-generator` `ai-documentation` `gpt` `markdown`
-- **最后活动时间:** 2026-10-14
-
 ### [EasyCLIProxyAPI](https://github.com/router-for-me/EasyCLIProxyAPI)
 
 用于CLIProxyAPI的桌面GUI工具，可自动配置流行的AI智能体。
@@ -2576,6 +2584,14 @@ AI驱动的README文件生成器，支持多种AI模型自动生成项目文档�
 - **Tags:** `ai` `gui` `proxy` `ai-agents` `desktop-app`
 - **最后活动时间:** 2026-10-18
 
+### [readme-ai](https://github.com/eli64s/readme-ai)
+
+AI驱动的README文件生成器，支持多种AI模型自动生成项目文档。
+
+- **Stars:** ⭐️ 3.0k
+- **Tags:** `readme-generator` `ai-documentation` `gpt` `markdown`
+- **最后活动时间:** 2026-10-14
+
 ### [idea-claude-code-gui](https://github.com/zhukunpenglinyutong/idea-claude-code-gui)
 
 IntelliJ IDEA插件，为Claude Code提供图形化操作界面，提升AI辅助编程体验。
@@ -2583,6 +2599,14 @@ IntelliJ IDEA插件，为Claude Code提供图形化操作界面，提升AI辅助
 - **Stars:** ⭐️ 3.0k
 - **Tags:** `IDE Plugin` `Claude` `GUI`
 - **最后活动时间:** 2026-04-24
+
+### [pstack-claude](https://github.com/michael-denyer/pstack-claude)
+
+将 Poteto 的 pstack 严谨智能体工作流移植到 Claude Code、Codex、OpenCode、Gemini 等编程助手，提供可复用的 Agent Skills 与开发流程。
+
+- **Stars:** ⭐️ 3.0k
+- **Tags:** `agent-skills` `claude-code` `coding-agent` `devtools`
+- **最后活动时间:** 2026-10-18
 
 ### [Database Build](https://github.com/supabase-community/database-build)
 
@@ -2622,7 +2646,7 @@ JADX插件，集成MCP服务器，将AI能力引入逆向工程和移动应用�
 
 - **Stars:** ⭐️ 2.9k
 - **Tags:** `MCP` `Reverse Engineering` `Security` `JADX`
-- **最后活动时间:** 2026-09-23
+- **最后活动时间:** 2026-10-19
 
 ### [codex-session-patcher](https://github.com/ryfineZ/codex-session-patcher)
 
@@ -2656,6 +2680,14 @@ JADX插件，集成MCP服务器，将AI能力引入逆向工程和移动应用�
 - **Tags:** `swift` `agent-skills` `apple` `ios`
 - **最后活动时间:** 2026-09-04
 
+### [codex-host](https://github.com/BytePioneer-AI/codex-host)
+
+允许在Codex Desktop中直接运行Pi和Claude Code的工具。打破环境限制，提供便捷的AI编程助手宿主环境。
+
+- **Stars:** ⭐️ 2.9k
+- **Tags:** `claude-code` `codex` `codex-desktop` `codex-host` `codexhost` `pi-agent`
+- **最后活动时间:** 2026-10-18
+
 ### [sql-explorer](https://github.com/explorerhq/sql-explorer)
 
 简洁高效的 SQL 报表工具，内置 AI 辅助功能，支持查询编写与分享。
@@ -2664,29 +2696,21 @@ JADX插件，集成MCP服务器，将AI能力引入逆向工程和移动应用�
 - **Tags:** `ai` `sql` `analytics` `reporting`
 - **最后活动时间:** 2026-09-25
 
-### [pstack-claude](https://github.com/michael-denyer/pstack-claude)
+### [git-ai](https://github.com/git-ai-project/git-ai)
 
-将 Poteto 的 pstack 严谨智能体工作流移植到 Claude Code、Codex、OpenCode、Gemini 等编程助手，提供可复用的 Agent Skills 与开发流程。
+Git扩展工具，用于追踪仓库中AI生成的代码。
 
 - **Stars:** ⭐️ 2.9k
-- **Tags:** `agent-skills` `claude-code` `coding-agent` `devtools`
-- **最后活动时间:** 2026-10-18
+- **Tags:** `ai` `git` `coding-agents`
+- **最后活动时间:** 2026-10-14
 
 ### [tons-of-skills-marketplace](https://github.com/jeremylongshore/tons-of-skills-marketplace)
 
 面向Claude Code的开源技能市场，包含471个插件、3069个技能和347个Agent。提供ccpi CLI包管理器，便于开发者快速集成和扩展AI能力。
 
-- **Stars:** ⭐️ 2.8k
+- **Stars:** ⭐️ 2.9k
 - **Tags:** `ai-agents` `claude-code` `developer-tools` `llm` `marketplace` `mcp` `plugin-marketplace` `skills`
 - **最后活动时间:** 2026-10-18
-
-### [git-ai](https://github.com/git-ai-project/git-ai)
-
-Git扩展工具，用于追踪仓库中AI生成的代码。
-
-- **Stars:** ⭐️ 2.8k
-- **Tags:** `ai` `git` `coding-agents`
-- **最后活动时间:** 2026-10-14
 
 ### [nbdime](https://github.com/jupyter/nbdime)
 
@@ -2710,7 +2734,7 @@ AI辅助开发全生命周期工具，从创意构思到代码部署的一站式
 
 - **Stars:** ⭐️ 2.8k
 - **Tags:** `技能同步` `CLI工具` `团队协作`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [sidekick.nvim](https://github.com/folke/sidekick.nvim)
 
@@ -2720,13 +2744,21 @@ Neovim AI 编程助手，集成 Claude、Gemini 等模型，提供智能代码�
 - **Tags:** `Neovim` `Plugin` `AI Assistant`
 - **最后活动时间:** 2026-09-08
 
+### [jevgrep](https://github.com/dzhng/jevgrep)
+
+通过描述代码功能即可查找相关代码的 CLI 工具，专为 Claude Code、Codex 等 AI 编程智能体设计。利用语义搜索快速检索源码上下文，显著提升 AI 编程助手的工作效率。
+
+- **Stars:** ⭐️ 2.8k
+- **Tags:** `coding-agents` `semantic-search` `code-search` `cli` `context-retrieval`
+- **最后活动时间:** 2026-10-18
+
 ### [jcodemunch-mcp](https://github.com/jgravelle/jcodemunch-mcp)
 
 高效 MCP 服务器，通过 tree-sitter AST 解析实现 GitHub 源码探索，显著节省 token 消耗。
 
 - **Stars:** ⭐️ 2.8k
 - **Tags:** `MCP` `Claude` `AST解析`
-- **最后活动时间:** 2026-10-18
+- **最后活动时间:** 2026-10-19
 
 ### [CCPlugins](https://github.com/notlikeDev/CCPlugins)
 
@@ -2735,14 +2767,6 @@ Claude Code框架插件集合，提供高效命令和扩展，帮助开发者节
 - **Stars:** ⭐️ 2.8k
 - **Tags:** `claude-code` `claude-ai` `plugins` `cli` `extensions`
 - **最后活动时间:** 2026-06-26
-
-### [jevgrep](https://github.com/dzhng/jevgrep)
-
-通过描述代码功能即可查找相关代码的 CLI 工具，专为 Claude Code、Codex 等 AI 编程智能体设计。利用语义搜索快速检索源码上下文，显著提升 AI 编程助手的工作效率。
-
-- **Stars:** ⭐️ 2.8k
-- **Tags:** `coding-agents` `semantic-search` `code-search` `cli` `context-retrieval`
-- **最后活动时间:** 2026-10-18
 
 ### [CCPlugins](https://github.com/brennercruvinel/CCPlugins)
 
@@ -2768,6 +2792,14 @@ Claude Code 最全面的工具包，包含135个智能体、35个技能和150+�
 - **Tags:** `Claude Code` `Toolkit` `Agents` `Plugins`
 - **最后活动时间:** 2026-05-12
 
+### [lark-coding-agent-bridge](https://github.com/zarazhangrui/lark-coding-agent-bridge)
+
+将飞书/Lark机器人与本地Claude Code或Codex CLI连接的桥接工具，支持流式输出与多工作区。
+
+- **Stars:** ⭐️ 2.7k
+- **Tags:** `claude-code` `codex` `lark` `bot`
+- **最后活动时间:** 2026-08-31
+
 ### [euporie](https://github.com/joouha/euporie)
 
 在终端中运行Jupyter笔记本的TUI工具，支持Sixel图形显示和Vim风格操作。
@@ -2775,14 +2807,6 @@ Claude Code 最全面的工具包，包含135个智能体、35个技能和150+�
 - **Stars:** ⭐️ 2.7k
 - **Tags:** `jupyter` `terminal` `notebook` `tui`
 - **最后活动时间:** 2026-10-07
-
-### [codex-host](https://github.com/BytePioneer-AI/codex-host)
-
-允许在Codex Desktop中直接运行Pi和Claude Code的工具。打破环境限制，提供便捷的AI编程助手宿主环境。
-
-- **Stars:** ⭐️ 2.7k
-- **Tags:** `claude-code` `codex` `codex-desktop` `codex-host` `codexhost` `pi-agent`
-- **最后活动时间:** 2026-09-30
 
 ### [self-hosted](https://github.com/stoatchat/self-hosted)
 
@@ -2799,6 +2823,14 @@ Claude Code的共享启动模板配置和CLAUDE.md记忆库系统。
 - **Stars:** ⭐️ 2.7k
 - **Tags:** `template` `claude-code` `configuration` `memory-bank`
 - **最后活动时间:** 2026-10-08
+
+### [scipilot-figure-skill](https://github.com/Haojae/scipilot-figure-skill)
+
+专为 Claude Code 设计的科学图表副驾驶技能，可生成出版级别的科学图表。
+
+- **Stars:** ⭐️ 2.7k
+- **Tags:** `claude-code` `scientific-figures` `copilot` `ai-skills`
+- **最后活动时间:** 2026-06-15
 
 ### [mito](https://github.com/mito-ds/mito)
 
@@ -2840,21 +2872,13 @@ AI编程指挥中心，为AI编程提供强大支持。
 - **Tags:** `llms` `static-analysis` `language-server-protocol` `agents`
 - **最后活动时间:** 2026-10-17
 
-### [lark-coding-agent-bridge](https://github.com/zarazhangrui/lark-coding-agent-bridge)
-
-将飞书/Lark机器人与本地Claude Code或Codex CLI连接的桥接工具，支持流式输出与多工作区。
-
-- **Stars:** ⭐️ 2.6k
-- **Tags:** `claude-code` `codex` `lark` `bot`
-- **最后活动时间:** 2026-08-31
-
 ### [colabtools](https://github.com/googlecolab/colabtools)
 
 Google Colaboratory的Python工具库，为AI/ML研究和开发提供云端Jupyter笔记本环境支持。
 
 - **Stars:** ⭐️ 2.6k
 - **Tags:** `Colab` `Jupyter` `Python` `Cloud ML`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-15
 
 ### [insane-search](https://github.com/fivetaku/insane-search)
 
@@ -2870,7 +2894,7 @@ AI编程工作站，集成Claude Code、Web UI、5个AI命令行工具和50+开�
 
 - **Stars:** ⭐️ 2.6k
 - **Tags:** `ai-coding` `claude` `claude-code` `coding-agent` `docker`
-- **最后活动时间:** 2026-10-15
+- **最后活动时间:** 2026-10-18
 
 ### [x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server)
 
@@ -2880,14 +2904,6 @@ AI编程工作站，集成Claude Code、Web UI、5个AI命令行工具和50+开�
 - **Tags:** `mcp-server` `x64dbg` `ai-agents` `binary-analysis` `zig`
 - **最后活动时间:** 2026-10-12
 
-### [scipilot-figure-skill](https://github.com/Haojae/scipilot-figure-skill)
-
-专为 Claude Code 设计的科学图表副驾驶技能，可生成出版级别的科学图表。
-
-- **Stars:** ⭐️ 2.5k
-- **Tags:** `claude-code` `scientific-figures` `copilot` `ai-skills`
-- **最后活动时间:** 2026-06-15
-
 ### [vibe-notch](https://github.com/farouqaldori/vibe-notch)
 
 专为Claude Code设计的macOS通知管理工具，无需切换上下文即可管理AI编程会话。
@@ -2896,13 +2912,21 @@ AI编程工作站，集成Claude Code、Web UI、5个AI命令行工具和50+开�
 - **Tags:** `claude-code` `macos` `notifications` `ai-assistant`
 - **最后活动时间:** 2026-04-20
 
+### [learning-opportunities](https://github.com/DrCatHicks/learning-opportunities)
+
+Claude Code 技能开发包，在 AI 辅助编程过程中实现刻意技能提升。
+
+- **Stars:** ⭐️ 2.5k
+- **Tags:** `claude-code` `learning` `skills`
+- **最后活动时间:** 2026-08-19
+
 ### [go-interview-practice](https://github.com/RezaSi/go-interview-practice)
 
 交互式Go语言面试练习平台，提供30+编程挑战、AI模拟面试、即时反馈和排行榜功能，助力开发者从入门到进阶。
 
 - **Stars:** ⭐️ 2.5k
 - **Tags:** `ai-interview` `golang` `interview-preparation` `coding-challenges`
-- **最后活动时间:** 2026-10-13
+- **最后活动时间:** 2026-10-18
 
 ### [lanhu-mcp](https://github.com/dsphper/lanhu-mcp)
 
@@ -2911,14 +2935,6 @@ AI编程工作站，集成Claude Code、Web UI、5个AI命令行工具和50+开�
 - **Stars:** ⭐️ 2.5k
 - **Tags:** `mcp` `code-generation` `ai-coding` `automation`
 - **最后活动时间:** 2026-10-13
-
-### [learning-opportunities](https://github.com/DrCatHicks/learning-opportunities)
-
-Claude Code 技能开发包，在 AI 辅助编程过程中实现刻意技能提升。
-
-- **Stars:** ⭐️ 2.5k
-- **Tags:** `claude-code` `learning` `skills`
-- **最后活动时间:** 2026-08-19
 
 ### [ProvisionQL](https://github.com/ealeksandrov/ProvisionQL)
 
@@ -2942,7 +2958,7 @@ macOS 上的 Quick Look 插件，用于快速预览移动应用和配置文件�
 
 - **Stars:** ⭐️ 2.5k
 - **Tags:** `mcp` `coding-agents` `context-engineering` `cli` `static-analysis`
-- **最后活动时间:** 2026-10-18
+- **最后活动时间:** 2026-10-19
 
 ### [delegate-skills](https://github.com/amElnagdy/delegate-skills)
 
@@ -2960,6 +2976,14 @@ macOS 上的 Quick Look 插件，用于快速预览移动应用和配置文件�
 - **Tags:** `AI编程` `终端管理` `多智能体协作`
 - **最后活动时间:** 2026-05-26
 
+### [codelite](https://github.com/eranif/codelite)
+
+轻量高效的跨平台开源IDE，专注C/C++/Rust/Python/PHP与Node.js开发。
+
+- **Stars:** ⭐️ 2.4k
+- **Tags:** `ide` `cpp` `rust` `cross-platform`
+- **最后活动时间:** 2026-10-18
+
 ### [gptcommit](https://github.com/zurawiki/gptcommit)
 
 利用LLM自动生成Git提交信息的命令行工具，提升代码提交效率。
@@ -2976,6 +3000,14 @@ Claude Code开源中间件，提供更精准的上下文管理和Token优化，�
 - **Tags:** `claude-code` `middleware` `token-optimization` `developer-tools`
 - **最后活动时间:** 2026-09-15
 
+### [supacode](https://github.com/supabitapp/supacode)
+
+基于worktree的编程智能体指挥中心，为AI编码助手提供多任务并行开发环境。
+
+- **Stars:** ⭐️ 2.4k
+- **Tags:** `coding-agents` `worktree` `developer-tools` `ai-assistant`
+- **最后活动时间:** 2026-10-15
+
 ### [better-harness](https://github.com/QoderAI/better-harness)
 
 将项目和会话证据转化为循环级别的洞察、优先级改进和可验证的下一步操作，直接集成在编码代理中。
@@ -2990,7 +3022,7 @@ Android 平台的高级代码编辑器，集成终端模拟与 proot 发行版�
 
 - **Stars:** ⭐️ 2.4k
 - **Tags:** `Android` `Code-Editor` `Terminal` `Mobile-IDE`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [lsp_signature.nvim](https://github.com/ray-x/lsp_signature.nvim)
 
@@ -2999,14 +3031,6 @@ Android 平台的高级代码编辑器，集成终端模拟与 proot 发行版�
 - **Stars:** ⭐️ 2.4k
 - **Tags:** `neovim` `lsp` `autocomplete`
 - **最后活动时间:** 2026-05-19
-
-### [supacode](https://github.com/supabitapp/supacode)
-
-基于worktree的编程智能体指挥中心，为AI编码助手提供多任务并行开发环境。
-
-- **Stars:** ⭐️ 2.4k
-- **Tags:** `coding-agents` `worktree` `developer-tools` `ai-assistant`
-- **最后活动时间:** 2026-09-05
 
 ### [tdd-guard](https://github.com/nizos/tdd-guard)
 
@@ -3032,6 +3056,22 @@ Anthropic官方推出的AI编程助手工具，在终端中运行，支持自然
 - **Tags:** `claude-code` `ai-coding-assistant` `terminal` `code-agent`
 - **最后活动时间:** 2026-05-06
 
+### [ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills)
+
+将 Claude 变成资深设计架构师的技能库，包含 DTCG 设计令牌、42 个组件、WCAG 2.2 无障碍规范及 138 套设计系统。
+
+- **Stars:** ⭐️ 2.3k
+- **Tags:** `claude` `design-system` `ux` `agent-skills` `accessibility`
+- **最后活动时间:** 2026-10-10
+
+### [reverse-skills](https://github.com/P4nda0s/reverse-skills)
+
+Claude Code Skills插件逆向工程工具，帮助开发者深入理解Claude Code的技能系统架构与实现原理。
+
+- **Stars:** ⭐️ 2.3k
+- **Tags:** `claude-code` `reverse-engineering` `skills` `developer-tools`
+- **最后活动时间:** 2026-05-06
+
 ### [nbviewer](https://github.com/jupyter/nbviewer)
 
 将 Jupyter Notebook 渲染为静态网页的在线服务，方便分享和展示 AI 分析结果与模型实验记录。
@@ -3048,13 +3088,13 @@ Anthropic官方推出的AI编程助手工具，在终端中运行，支持自然
 - **Tags:** `CSharp` `DotNet` `Editor` `Playground` `CrossPlatform`
 - **最后活动时间:** 2026-10-15
 
-### [arc-kit](https://github.com/tractorjuice/arc-kit)
+### [anubias](https://github.com/4xmen/anubias)
 
-企业级架构治理工具，为AI编程助手提供策略、架构、交付与合规性保障。
+开源的可视化移动应用开发 IDE，通过 GUI 拖拽即可快速构建原生 Android 与 iOS 应用，降低开发门槛。
 
 - **Stars:** ⭐️ 2.3k
-- **Tags:** `ai-governance` `enterprise-architecture` `ai-agents` `compliance`
-- **最后活动时间:** 2026-10-17
+- **Tags:** `ide` `mobile-development` `electron` `vuejs` `cross-platform`
+- **最后活动时间:** 2026-10-06
 
 ### [agent-skills](https://github.com/WordPress/agent-skills)
 
@@ -3064,6 +3104,14 @@ Anthropic官方推出的AI编程助手工具，在终端中运行，支持自然
 - **Tags:** `WordPress` `Code Assistant` `Knowledge Base`
 - **最后活动时间:** 2026-10-12
 
+### [arc-kit](https://github.com/tractorjuice/arc-kit)
+
+企业级架构治理工具，为AI编程助手提供策略、架构、交付与合规性保障。
+
+- **Stars:** ⭐️ 2.3k
+- **Tags:** `ai-governance` `enterprise-architecture` `ai-agents` `compliance`
+- **最后活动时间:** 2026-10-18
+
 ### [app](https://github.com/github/app)
 
 GitHub Copilot的桌面原生应用，提供查找、运行和引导软件工作的智能体体验。
@@ -3071,14 +3119,6 @@ GitHub Copilot的桌面原生应用，提供查找、运行和引导软件工作
 - **Stars:** ⭐️ 2.2k
 - **Tags:** `github-copilot` `agent` `desktop-app`
 - **最后活动时间:** 2026-10-16
-
-### [reverse-skills](https://github.com/P4nda0s/reverse-skills)
-
-Claude Code Skills插件逆向工程工具，帮助开发者深入理解Claude Code的技能系统架构与实现原理。
-
-- **Stars:** ⭐️ 2.2k
-- **Tags:** `claude-code` `reverse-engineering` `skills` `developer-tools`
-- **最后活动时间:** 2026-05-06
 
 ### [modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance)
 
@@ -3110,7 +3150,7 @@ Claude Code 运行时增强补丁，通过修改官方客户端实现功能扩�
 
 - **Stars:** ⭐️ 2.2k
 - **Tags:** `claude-code` `assistant` `patch` `ai-tool`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [deepcode-cli](https://github.com/lessweb/deepcode-cli)
 
@@ -3124,9 +3164,9 @@ Claude Code 运行时增强补丁，通过修改官方客户端实现功能扩�
 
 在终端中运行 VS Code，让开发者无需离开命令行即可获得完整的编辑器体验。
 
-- **Stars:** ⭐️ 2.1k
+- **Stars:** ⭐️ 2.2k
 - **Tags:** `CLI` `VSCode` `Terminal` `IDE`
-- **最后活动时间:** 2026-10-01
+- **最后活动时间:** 2026-10-17
 
 ### [claude-code-config](https://github.com/trailofbits/claude-code-config)
 
@@ -3152,6 +3192,14 @@ Trail of Bits 提供的 Claude Code CLI 配置模板，包含最佳实践默认�
 - **Tags:** `claude-code` `code-review` `typescript` `react` `rust`
 - **最后活动时间:** 2026-09-08
 
+### [pr-lens](https://github.com/coldteadotai/pr-lens)
+
+将 Pull Request 可视化为动画架构与数据流演示，可作为 GitHub App、Action、CLI 或编程智能体技能使用。
+
+- **Stars:** ⭐️ 2.1k
+- **Tags:** `coding-agents` `code-review` `architecture-diagrams` `agent-skills` `claude-skills`
+- **最后活动时间:** 2026-10-17
+
 ### [gateway-skills](https://github.com/Leanmcp/gateway-skills)
 
 在仪表盘中清晰展示 Claude Code 的日志详情，方便开发者调试与分析智能体编码会话。
@@ -3176,14 +3224,6 @@ Trail of Bits 提供的 Claude Code CLI 配置模板，包含最佳实践默认�
 - **Tags:** `chatgpt` `codex` `local-development` `mcp`
 - **最后活动时间:** 2026-10-01
 
-### [pr-lens](https://github.com/coldteadotai/pr-lens)
-
-将 Pull Request 可视化为动画架构与数据流演示，可作为 GitHub App、Action、CLI 或编程智能体技能使用。
-
-- **Stars:** ⭐️ 2.1k
-- **Tags:** `coding-agents` `code-review` `architecture-diagrams` `agent-skills` `claude-skills`
-- **最后活动时间:** 2026-10-17
-
 ### [Qu1cksc0pe](https://github.com/CYB3RMX/Qu1cksc0pe)
 
 一款多合一的恶意软件静态分析工具，支持APK、ELF、EXE等多种格式。集成了MCP服务器，可辅助安全研究人员进行威胁分析。
@@ -3191,14 +3231,6 @@ Trail of Bits 提供的 Claude Code CLI 配置模板，包含最佳实践默认�
 - **Stars:** ⭐️ 2.1k
 - **Tags:** `malware-analysis` `static-analysis` `mcp` `security-tools` `python3`
 - **最后活动时间:** 2026-09-18
-
-### [GoNavi](https://github.com/Syngnat/GoNavi)
-
-一款原生轻量级多数据源数据库客户端，体积仅约30MB。内置AI与MCP支持，告别Electron，提供高效的数据库管理与智能交互体验。
-
-- **Stars:** ⭐️ 2.1k
-- **Tags:** `database-client` `mcp` `ai` `wails` `react`
-- **最后活动时间:** 2026-10-18
 
 ### [TokenTracker](https://github.com/xiufengsun/TokenTracker)
 
@@ -3208,13 +3240,29 @@ Trail of Bits 提供的 Claude Code CLI 配置模板，包含最佳实践默认�
 - **Tags:** `ai-coding-tools` `cost-tracker` `local-first` `token-tracker` `developer-tools`
 - **最后活动时间:** 2026-10-18
 
+### [GoNavi](https://github.com/Syngnat/GoNavi)
+
+一款原生轻量级多数据源数据库客户端，体积仅约30MB。内置AI与MCP支持，告别Electron，提供高效的数据库管理与智能交互体验。
+
+- **Stars:** ⭐️ 2.1k
+- **Tags:** `database-client` `mcp` `ai` `wails` `react`
+- **最后活动时间:** 2026-10-18
+
+### [IDA-NO-MCP](https://github.com/P4nda0s/IDA-NO-MCP)
+
+IDA Pro的轻量级MCP集成方案，替代传统MCP实现，提供更流畅的AI辅助逆向工程体验。
+
+- **Stars:** ⭐️ 2.1k
+- **Tags:** `mcp` `ida-pro` `reverse-engineering` `ai-assistant`
+- **最后活动时间:** 2026-07-26
+
 ### [xum](https://github.com/coder/xum)
 
 一款桌面应用，支持隔离、并行的智能体开发环境。让多个 AI Agent 同时安全地协作编写代码。
 
 - **Stars:** ⭐️ 2.1k
 - **Tags:** `agent` `desktop-app` `parallel-development` `ai-coding`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [hotgo](https://github.com/bufanyun/hotgo)
 
@@ -3232,21 +3280,13 @@ AI赋能的企业级全栈开发平台，基于Vue和GoFrame构建。内置AI开
 - **Tags:** `ai-agents` `coding-memory` `developer-tools` `claude-code` `typescript`
 - **最后活动时间:** 2026-10-18
 
-### [ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills)
+### [minimax-code](https://github.com/MiniMax-AI/minimax-code)
 
-将 Claude 变成资深设计架构师的技能库，包含 DTCG 设计令牌、42 个组件、WCAG 2.2 无障碍规范及 138 套设计系统。
-
-- **Stars:** ⭐️ 2.0k
-- **Tags:** `claude` `design-system` `ux` `agent-skills` `accessibility`
-- **最后活动时间:** 2026-10-10
-
-### [IDA-NO-MCP](https://github.com/P4nda0s/IDA-NO-MCP)
-
-IDA Pro的轻量级MCP集成方案，替代传统MCP实现，提供更流畅的AI辅助逆向工程体验。
+一款由 MiniMax 驱动的开源终端编程智能体，可在命令行中协助完成编码与开发任务。
 
 - **Stars:** ⭐️ 2.0k
-- **Tags:** `mcp` `ida-pro` `reverse-engineering` `ai-assistant`
-- **最后活动时间:** 2026-07-26
+- **Tags:** `coding-agent` `minimax` `terminal` `ai-assistant`
+- **最后活动时间:** 2026-10-16
 
 ### [lat.md](https://github.com/vercel-labs/lat.md)
 
@@ -3294,7 +3334,7 @@ Agent Lattice：用Markdown为你的代码库构建知识图谱，帮助AI编程
 
 - **Stars:** ⭐️ 2.0k
 - **Tags:** `agent` `rust` `terminal` `ai-agents`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-19
 
 ### [jupyterlab-lsp](https://github.com/jupyter-lsp/jupyterlab-lsp)
 
@@ -3310,7 +3350,7 @@ JupyterLab AI扩展，支持可视化管道构建和Kubeflow/Airflow集成。
 
 - **Stars:** ⭐️ 2.0k
 - **Tags:** `jupyterlab` `pipelines` `kubeflow` `airflow`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [aws-toolkit-vscode](https://github.com/aws/aws-toolkit-vscode)
 
@@ -3318,7 +3358,7 @@ AWS官方VS Code扩展，集成Amazon Q AI助手和CodeWhisperer智能代码补�
 
 - **Stars:** ⭐️ 2.0k
 - **Tags:** `Amazon Q` `CodeWhisperer` `AWS` `VS Code`
-- **最后活动时间:** 2026-09-24
+- **最后活动时间:** 2026-10-06
 
 ### [ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill)
 
@@ -3328,6 +3368,14 @@ AWS官方VS Code扩展，集成Amazon Q AI助手和CodeWhisperer智能代码补�
 - **Tags:** `MCP` `FFmpeg` `Claude Code` `AI Agents` `Video Editing`
 - **最后活动时间:** 2026-10-17
 
+### [Lithe-IDEA](https://github.com/1lck/Lithe-IDEA)
+
+面向AI时代的轻量级跨平台IDE，按需提供工具与服务，帮助开发者高效构建AI应用。
+
+- **Stars:** ⭐️ 2.0k
+- **Tags:** `IDE` `AI` `CrossPlatform` `DeveloperTools`
+- **最后活动时间:** 2026-10-18
+
 ### [yu-ai-code-mother](https://github.com/liyupi/yu-ai-code-mother)
 
 基于Spring Boot 3 + LangChain4j的大厂级AI代码生成平台，支持智能代码生成、可视化编辑及一键部署。
@@ -3335,14 +3383,6 @@ AWS官方VS Code扩展，集成Amazon Q AI助手和CodeWhisperer智能代码补�
 - **Stars:** ⭐️ 2.0k
 - **Tags:** `LangChain4j` `LangGraph4j` `Spring Boot` `AI Agent`
 - **最后活动时间:** 2026-09-12
-
-### [Lithe-IDEA](https://github.com/1lck/Lithe-IDEA)
-
-面向AI时代的轻量级跨平台IDE，按需提供工具与服务，帮助开发者高效构建AI应用。
-
-- **Stars:** ⭐️ 2.0k
-- **Tags:** `IDE` `AI` `CrossPlatform` `DeveloperTools`
-- **最后活动时间:** 2026-10-17
 
 ### [ai-dev-kit](https://github.com/databricks-solutions/ai-dev-kit)
 
@@ -3356,17 +3396,9 @@ Databricks官方提供的编程智能体工具包。
 
 一个精心整理的 Claude Code 插件列表，通过插件系统扩展自定义命令、代理、钩子和 MCP 服务器。
 
-- **Stars:** ⭐️ 1.9k
+- **Stars:** ⭐️ 2.0k
 - **Tags:** `claude-code` `claude-plugins` `mcp` `plugins`
 - **最后活动时间:** 2026-07-26
-
-### [ProxyAI](https://github.com/carlrobertoh/ProxyAI)
-
-JetBrains IDE的开源AI编程助手插件，支持连接任意模型并自定义编码体验。
-
-- **Stars:** ⭐️ 1.9k
-- **Tags:** `JetBrains` `AI助手` `代码补全` `IDE插件`
-- **最后活动时间:** 2026-05-28
 
 ### [mcp-unity](https://github.com/CoderGamester/mcp-unity)
 
@@ -3376,6 +3408,14 @@ MCP插件，将Unity编辑器与Cursor、Claude Code、Windsurf等AI编程助手
 - **Tags:** `mcp` `unity` `cursor` `claude-code` `ai-coding`
 - **最后活动时间:** 2026-10-11
 
+### [ProxyAI](https://github.com/carlrobertoh/ProxyAI)
+
+JetBrains IDE的开源AI编程助手插件，支持连接任意模型并自定义编码体验。
+
+- **Stars:** ⭐️ 1.9k
+- **Tags:** `JetBrains` `AI助手` `代码补全` `IDE插件`
+- **最后活动时间:** 2026-05-28
+
 ### [native-feel-skill](https://github.com/yetone/native-feel-skill)
 
 AI Agent技能包，用于设计具有原生体验的跨平台桌面应用，包含架构指南和最佳实践。
@@ -3384,21 +3424,13 @@ AI Agent技能包，用于设计具有原生体验的跨平台桌面应用，包
 - **Tags:** `agent-skills` `desktop-app` `cross-platform` `architecture`
 - **最后活动时间:** 2026-05-30
 
-### [minimax-code](https://github.com/MiniMax-AI/minimax-code)
-
-一款由 MiniMax 驱动的开源终端编程智能体，可在命令行中协助完成编码与开发任务。
-
-- **Stars:** ⭐️ 1.9k
-- **Tags:** `coding-agent` `minimax` `terminal` `ai-assistant`
-- **最后活动时间:** 2026-09-29
-
 ### [nimbalyst](https://github.com/nimbalyst/nimbalyst)
 
 可视化工作空间，支持 Codex、Claude Code 等 AI 代理的可视化构建与编排。
 
 - **Stars:** ⭐️ 1.9k
 - **Tags:** `visual-workspace` `ide` `agentic-ai` `wysiwyg-editor`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [gortex](https://github.com/zzet/gortex)
 
@@ -3430,15 +3462,15 @@ Rust性能分析器与通道监控工具包，支持MCP协议，可用于AI辅�
 
 - **Stars:** ⭐️ 1.9k
 - **Tags:** `mcp` `profiler` `performance` `debugging`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
-### [sourcery](https://github.com/sourcery-ai/sourcery)
+### [px0](https://github.com/px0-ai/px0)
 
-即时AI代码审查工具，自动分析代码质量并提供重构建议，提升开发效率。
+px0 是一款专为人类与 AI 协作设计的 IDE，专注于快速高效的代码审查。它将浏览器转化为零延迟控制台，集成原生 Git 和 GitHub，支持海量代码库的即时搜索，并无缝对接本地 AI 编码工具。
 
 - **Stars:** ⭐️ 1.9k
-- **Tags:** `ai` `code-review` `code-quality` `refactoring`
-- **最后活动时间:** 2026-10-16
+- **Tags:** `Go` `IDE` `AI` `DeveloperTools` `CodeAssistant`
+- **最后活动时间:** 2026-10-18
 
 ### [beautify-github-readme](https://github.com/oil-oil/beautify-github-readme)
 
@@ -3456,13 +3488,21 @@ Rust性能分析器与通道监控工具包，支持MCP协议，可用于AI辅�
 - **Tags:** `ai` `security` `llm` `bugbounty` `penetration-testing`
 - **最后活动时间:** 2026-07-17
 
-### [px0](https://github.com/px0-ai/px0)
+### [sourcery](https://github.com/sourcery-ai/sourcery)
 
-px0 是一款专为人类与 AI 协作设计的 IDE，专注于快速高效的代码审查。它将浏览器转化为零延迟控制台，集成原生 Git 和 GitHub，支持海量代码库的即时搜索，并无缝对接本地 AI 编码工具。
+即时AI代码审查工具，自动分析代码质量并提供重构建议，提升开发效率。
 
 - **Stars:** ⭐️ 1.9k
-- **Tags:** `Go` `IDE` `AI` `DeveloperTools` `CodeAssistant`
-- **最后活动时间:** 2026-10-18
+- **Tags:** `ai` `code-review` `code-quality` `refactoring`
+- **最后活动时间:** 2026-10-16
+
+### [git-ai](https://github.com/feder-cr/git-ai)
+
+专为 AI 智能体设计的 Git 版本控制工具，让编码智能体以原生方式追踪和管理代码变更。基于 Go 构建，为 AI 驱动的开发工作流提供可靠的版本控制底座。
+
+- **Stars:** ⭐️ 1.9k
+- **Tags:** `git` `ai-agents` `coding-agents` `version-control` `golang`
+- **最后活动时间:** 2026-10-16
 
 ### [treehouse](https://github.com/kunchenguid/treehouse)
 
@@ -3518,7 +3558,7 @@ MCP服务器和Claude插件，为AI编程工具提供PostgreSQL技能和文档�
 
 - **Stars:** ⭐️ 1.8k
 - **Tags:** `MCP` `Documentation` `IDE`
-- **最后活动时间:** 2026-10-18
+- **最后活动时间:** 2026-10-19
 
 ### [awesome-claude-plugins](https://github.com/ComposioHQ/awesome-claude-plugins)
 
@@ -3544,13 +3584,21 @@ Claude Code 插件资源精选列表，提供自定义命令、智能体、钩�
 - **Tags:** `docs` `mdx` `typescript` `ai-ready`
 - **最后活动时间:** 2026-10-17
 
+### [opencode-mem](https://github.com/tickernelz/opencode-mem)
+
+为AI编程助手提供持久化记忆功能的插件，基于本地向量数据库实现上下文记忆存储。
+
+- **Stars:** ⭐️ 1.8k
+- **Tags:** `vector-database` `coding-agent` `memory` `ai-assistant`
+- **最后活动时间:** 2026-10-18
+
 ### [reversa](https://github.com/sandeco/reversa)
 
 将遗留系统转换为可执行的规范文档，专为AI编程代理设计。帮助AI更好地理解和改造老旧代码库。
 
 - **Stars:** ⭐️ 1.8k
 - **Tags:** `legacy-code` `ai-agents` `code-analysis` `specification`
-- **最后活动时间:** 2026-09-25
+- **最后活动时间:** 2026-10-18
 
 ### [roborev](https://github.com/kenn-io/roborev)
 
@@ -3560,13 +3608,21 @@ Claude Code 插件资源精选列表，提供自定义命令、智能体、钩�
 - **Tags:** `code-review` `ai-agents` `developer-tools`
 - **最后活动时间:** 2026-10-18
 
-### [opencode-mem](https://github.com/tickernelz/opencode-mem)
+### [check-cc](https://github.com/yacuo/check-cc)
 
-为AI编程助手提供持久化记忆功能的插件，基于本地向量数据库实现上下文记忆存储。
+Claude运行环境检测与账号风险分析工具，帮助用户诊断Claude账号注册、订阅及API使用中的风险问题。
 
 - **Stars:** ⭐️ 1.8k
-- **Tags:** `vector-database` `coding-agent` `memory` `ai-assistant`
-- **最后活动时间:** 2026-10-16
+- **Tags:** `claude` `claude-code` `account-checker` `risk-analysis`
+- **最后活动时间:** 2026-08-03
+
+### [oil-ui](https://github.com/oil-oil/oil-ui)
+
+为 Claude Code、Codex 等 AI Agent 打造的 UI 设计技能，可探索多种设计方向、并排对比方案，并基于真实截图迭代优化界面。让 AI 驱动的前端设计更专业、更高效。
+
+- **Stars:** ⭐️ 1.8k
+- **Tags:** `ClaudeCode` `AgentSkills` `UIDesign` `Frontend` `UXDesign` `Codex`
+- **最后活动时间:** 2026-10-18
 
 ### [lsp-bridge](https://github.com/manateelazycat/lsp-bridge)
 
@@ -3584,21 +3640,13 @@ Claude Code 插件资源精选列表，提供自定义命令、智能体、钩�
 - **Tags:** `code-documentation` `code-understanding` `documentation-generator`
 - **最后活动时间:** 2026-09-28
 
-### [check-cc](https://github.com/yacuo/check-cc)
-
-Claude运行环境检测与账号风险分析工具，帮助用户诊断Claude账号注册、订阅及API使用中的风险问题。
-
-- **Stars:** ⭐️ 1.7k
-- **Tags:** `claude` `claude-code` `account-checker` `risk-analysis`
-- **最后活动时间:** 2026-08-03
-
 ### [erd-editor](https://github.com/dineug/erd-editor)
 
 在浏览器、VS Code、JetBrains IDE 或 Obsidian 中设计数据库 ER 图，支持导入 SQL/DBML/GraphQL 并导出 DDL 与代码。可通过 MCP 让编码智能体实时编辑图表，是 AI 时代的数据库建模工具。
 
 - **Stars:** ⭐️ 1.7k
 - **Tags:** `ERD` `Database Design` `MCP Server` `VSCode Extension` `DBML`
-- **最后活动时间:** 2026-10-16
+- **最后活动时间:** 2026-10-18
 
 ### [agent-flow](https://github.com/patoles/agent-flow)
 
@@ -3632,13 +3680,13 @@ Claude Code智能体编排的实时可视化工具，让你直观看到AI智能�
 - **Tags:** `coding-agent` `rust` `minimal` `performance`
 - **最后活动时间:** 2026-10-14
 
-### [oil-ui](https://github.com/oil-oil/oil-ui)
+### [AIS-OS](https://github.com/nateherkai/AIS-OS)
 
-为 Claude Code、Codex 等 AI Agent 打造的 UI 设计技能，可探索多种设计方向、并排对比方案，并基于真实截图迭代优化界面。让 AI 驱动的前端设计更专业、更高效。
+面向 Claude Code 的AI操作系统启动套件，包含三个核心技能和3Ms框架。作为AIOS大师课的配套工具，助力开发者高效构建AI开发环境。
 
 - **Stars:** ⭐️ 1.7k
-- **Tags:** `ClaudeCode` `AgentSkills` `UIDesign` `Frontend` `UXDesign` `Codex`
-- **最后活动时间:** 2026-10-17
+- **Tags:** `Claude Code` `AI Operating System` `Developer Tools` `Framework`
+- **最后活动时间:** 2026-09-07
 
 ### [mcpvault](https://github.com/bitbonsai/mcpvault)
 
@@ -3646,7 +3694,7 @@ Claude Code智能体编排的实时可视化工具，让你直观看到AI智能�
 
 - **Stars:** ⭐️ 1.7k
 - **Tags:** `mcp` `obsidian` `context-protocol` `llm-tools`
-- **最后活动时间:** 2026-10-13
+- **最后活动时间:** 2026-10-17
 
 ### [spec-kitty](https://github.com/spec-kitty/spec-kitty)
 
@@ -3672,29 +3720,13 @@ Claude Code智能体编排的实时可视化工具，让你直观看到AI智能�
 - **Tags:** `agent-skills` `swift` `swift-concurrency` `async-await`
 - **最后活动时间:** 2026-09-14
 
-### [claude-code-ide.el](https://github.com/manzaltu/claude-code-ide.el)
+### [img2obj](https://github.com/vinhhien112/img2obj)
 
-Claude Code的Emacs IDE集成插件，为Emacs用户提供AI辅助编程体验。
-
-- **Stars:** ⭐️ 1.7k
-- **Tags:** `emacs` `claude-code` `ide-integration` `elisp`
-- **最后活动时间:** 2026-09-14
-
-### [matlab-mcp-server](https://github.com/matlab/matlab-mcp-server)
-
-MathWorks官方推出的MATLAB MCP服务器，支持Claude Code和VS Code等AI编程助手直接运行MATLAB代码。
+一个 Codex 插件，可将附加的物体图片转换为纯代码、可动画的 Three.js 程序化 3D 模型。
 
 - **Stars:** ⭐️ 1.7k
-- **Tags:** `matlab` `mcp-server` `ai-coding` `engineering-tools`
-- **最后活动时间:** 2026-10-15
-
-### [agent-skills](https://github.com/callstackincubator/agent-skills)
-
-专为 AI 编程助手优化的 React Native 技能集合，提升智能体编程能力。
-
-- **Stars:** ⭐️ 1.7k
-- **Tags:** `agent` `react-native` `ai-coding` `skills`
-- **最后活动时间:** 2026-10-08
+- **Tags:** `codex-plugin` `threejs` `3d-model` `image-to-3d`
+- **最后活动时间:** 2026-08-06
 
 ### [botmux](https://github.com/deepcoldy/botmux)
 
@@ -3704,29 +3736,29 @@ MathWorks官方推出的MATLAB MCP服务器，支持Claude Code和VS Code等AI�
 - **Tags:** `claude-code` `codex` `feishu` `gemini` `lark`
 - **最后活动时间:** 2026-10-18
 
-### [AIS-OS](https://github.com/nateherkai/AIS-OS)
+### [matlab-mcp-server](https://github.com/matlab/matlab-mcp-server)
 
-面向 Claude Code 的AI操作系统启动套件，包含三个核心技能和3Ms框架。作为AIOS大师课的配套工具，助力开发者高效构建AI开发环境。
-
-- **Stars:** ⭐️ 1.7k
-- **Tags:** `Claude Code` `AI Operating System` `Developer Tools` `Framework`
-- **最后活动时间:** 2026-09-07
-
-### [img2obj](https://github.com/vinhhien112/img2obj)
-
-一个 Codex 插件，可将附加的物体图片转换为纯代码、可动画的 Three.js 程序化 3D 模型。
+MathWorks官方推出的MATLAB MCP服务器，支持Claude Code和VS Code等AI编程助手直接运行MATLAB代码。
 
 - **Stars:** ⭐️ 1.7k
-- **Tags:** `codex-plugin` `threejs` `3d-model` `image-to-3d`
-- **最后活动时间:** 2026-08-06
+- **Tags:** `matlab` `mcp-server` `ai-coding` `engineering-tools`
+- **最后活动时间:** 2026-10-15
 
-### [claude-code-rust](https://github.com/lorryjovens-hub/claude-code-rust)
+### [claude-code-ide.el](https://github.com/manzaltu/claude-code-ide.el)
 
-使用 Rust 全量重构的 Claude Code CLI 工具，启动速度提升 2.5 倍，二进制体积减少 97%，为 AI 辅助编程提供高性能体验。
+Claude Code的Emacs IDE集成插件，为Emacs用户提供AI辅助编程体验。
 
 - **Stars:** ⭐️ 1.7k
-- **Tags:** `ai` `claude` `cli` `rust` `code-assistant` `mcp`
-- **最后活动时间:** 2026-05-30
+- **Tags:** `emacs` `claude-code` `ide-integration` `elisp`
+- **最后活动时间:** 2026-09-14
+
+### [agent-skills](https://github.com/callstackincubator/agent-skills)
+
+专为 AI 编程助手优化的 React Native 技能集合，提升智能体编程能力。
+
+- **Stars:** ⭐️ 1.7k
+- **Tags:** `agent` `react-native` `ai-coding` `skills`
+- **最后活动时间:** 2026-10-08
 
 ### [cheatengine-mcp-bridge](https://github.com/miscusi-peek/cheatengine-mcp-bridge)
 
@@ -3736,6 +3768,22 @@ MathWorks官方推出的MATLAB MCP服务器，支持Claude Code和VS Code等AI�
 - **Tags:** `mcp` `ai-tools` `reverse-engineering` `debugging`
 - **最后活动时间:** 2026-08-14
 
+### [cc-safety-net](https://github.com/kenryu42/cc-safety-net)
+
+一个编码代理CLI钩子，充当安全网，在执行前拦截破坏性的git和文件系统命令。支持Codex、Claude Code等多种主流AI编程工具。
+
+- **Stars:** ⭐️ 1.7k
+- **Tags:** `claude-code` `codex` `security` `cli-hook` `safety-net`
+- **最后活动时间:** 2026-10-19
+
+### [claude-code-rust](https://github.com/lorryjovens-hub/claude-code-rust)
+
+使用 Rust 全量重构的 Claude Code CLI 工具，启动速度提升 2.5 倍，二进制体积减少 97%，为 AI 辅助编程提供高性能体验。
+
+- **Stars:** ⭐️ 1.7k
+- **Tags:** `ai` `claude` `cli` `rust` `code-assistant` `mcp`
+- **最后活动时间:** 2026-05-30
+
 ### [claude-code-settings](https://github.com/feiskyer/claude-code-settings)
 
 Claude Code的配置、命令和智能体集合，支持Vibe Coding开发模式。
@@ -3744,13 +3792,13 @@ Claude Code的配置、命令和智能体集合，支持Vibe Coding开发模式�
 - **Tags:** `claude-code` `agents` `vibe-coding` `codex` `copilot`
 - **最后活动时间:** 2026-09-27
 
-### [cc-safety-net](https://github.com/kenryu42/cc-safety-net)
+### [pi-web-access](https://github.com/nicobailon/pi-web-access)
 
-一个编码代理CLI钩子，充当安全网，在执行前拦截破坏性的git和文件系统命令。支持Codex、Claude Code等多种主流AI编程工具。
+为 Pi 编程智能体提供网页搜索和内容提取功能的扩展工具。帮助 AI 代理更好地获取和解析网络信息。
 
 - **Stars:** ⭐️ 1.7k
-- **Tags:** `claude-code` `codex` `security` `cli-hook` `safety-net`
-- **最后活动时间:** 2026-10-18
+- **Tags:** `web-search` `content-extraction` `coding-agent` `typescript`
+- **最后活动时间:** 2026-10-17
 
 ### [ai-devkit](https://github.com/codeaholicguy/ai-devkit)
 
@@ -3760,13 +3808,13 @@ Claude Code的配置、命令和智能体集合，支持Vibe Coding开发模式�
 - **Tags:** `CLI` `AI-Assisted Development` `Cross-Platform`
 - **最后活动时间:** 2026-10-18
 
-### [pi-web-access](https://github.com/nicobailon/pi-web-access)
+### [opencode-supermemory](https://github.com/supermemoryai/opencode-supermemory)
 
-为 Pi 编程智能体提供网页搜索和内容提取功能的扩展工具。帮助 AI 代理更好地获取和解析网络信息。
+为 OpenCode AI 编程智能体接入 Supermemory 持久化记忆能力的插件，可跨会话记住上下文与偏好。显著提升AI编程助手的长期协作体验。
 
 - **Stars:** ⭐️ 1.6k
-- **Tags:** `web-search` `content-extraction` `coding-agent` `typescript`
-- **最后活动时间:** 2026-10-17
+- **Tags:** `opencode` `plugin` `memory` `ai-coding-agent` `supermemory`
+- **最后活动时间:** 2026-10-14
 
 ### [mcp-windbg](https://github.com/svnscha/mcp-windbg)
 
@@ -3784,22 +3832,6 @@ WinDBG的Model Context Protocol实现，让AI助手能够分析崩溃转储和�
 - **Tags:** `agentic-coding` `ai-agent` `devtools`
 - **最后活动时间:** 2026-10-18
 
-### [opencode-supermemory](https://github.com/supermemoryai/opencode-supermemory)
-
-为 OpenCode AI 编程智能体接入 Supermemory 持久化记忆能力的插件，可跨会话记住上下文与偏好。显著提升AI编程助手的长期协作体验。
-
-- **Stars:** ⭐️ 1.6k
-- **Tags:** `opencode` `plugin` `memory` `ai-coding-agent` `supermemory`
-- **最后活动时间:** 2026-09-27
-
-### [spec-kitty](https://github.com/Priivacy-ai/spec-kitty)
-
-面向严肃开发者的规格驱动开发工具，支持Claude、Cursor、Gemini等多AI平台，集成看板与Git工作流。
-
-- **Stars:** ⭐️ 1.6k
-- **Tags:** `规格驱动` `多AI支持` `工作流`
-- **最后活动时间:** 2026-09-06
-
 ### [aoci-code](https://github.com/aoci-spec/aoci-code)
 
 一款持久化的Git版本化代码库和数据库模式映射工具，专为AI编码代理设计，帮助它们在接触代码前获取全面上下文。本地优先的MCP服务器和CLI工具，构建治理的代码知识索引，为Claude Code、Cursor等工具提供长期上下文、记忆和代码智能。
@@ -3816,6 +3848,14 @@ WinDBG的Model Context Protocol实现，让AI助手能够分析崩溃转储和�
 - **Tags:** `agent-skills` `ai-agents` `game-development` `claude-code` `awesome-list`
 - **最后活动时间:** 2026-10-09
 
+### [spec-kitty](https://github.com/Priivacy-ai/spec-kitty)
+
+面向严肃开发者的规格驱动开发工具，支持Claude、Cursor、Gemini等多AI平台，集成看板与Git工作流。
+
+- **Stars:** ⭐️ 1.6k
+- **Tags:** `规格驱动` `多AI支持` `工作流`
+- **最后活动时间:** 2026-09-06
+
 ### [keep-codex-fast](https://github.com/vibeforge1111/keep-codex-fast)
 
 备份优先的 Codex 技能模块，保持本地 AI 编程助手状态快速、清洁且可恢复。
@@ -3823,6 +3863,14 @@ WinDBG的Model Context Protocol实现，让AI助手能够分析崩溃转储和�
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `codex` `backup` `performance` `optimization`
 - **最后活动时间:** 2026-05-06
+
+### [apple-design-skill](https://github.com/dickwu/apple-design-skill)
+
+基于 Apple HIG 的跨平台 UI/UX 设计审查技能，可对接 Flutter、Tauri、Electron 与 React Native。兼容 Claude Code、Cursor、Codex 等 AI 编程助手，帮助生成符合苹果设计规范的界面。
+
+- **Stars:** ⭐️ 1.6k
+- **Tags:** `Apple-HIG` `UI-UX` `Claude-Code` `Cursor` `Design-System`
+- **最后活动时间:** 2026-10-15
 
 ### [dev3000](https://github.com/vercel-labs/dev3000)
 
@@ -3912,13 +3960,13 @@ VS Code官方Jupyter扩展，支持在VS Code中运行Jupyter Notebook，是数�
 - **Tags:** `agent-collaboration` `local-chat` `ai-coding`
 - **最后活动时间:** 2026-09-10
 
-### [apple-design-skill](https://github.com/dickwu/apple-design-skill)
+### [rulesync](https://github.com/dyoshikawa/rulesync)
 
-基于 Apple HIG 的跨平台 UI/UX 设计审查技能，可对接 Flutter、Tauri、Electron 与 React Native。兼容 Claude Code、Cursor、Codex 等 AI 编程助手，帮助生成符合苹果设计规范的界面。
+AI编程助手的实用CLI工具，用于管理规则和技能配置。
 
 - **Stars:** ⭐️ 1.5k
-- **Tags:** `Apple-HIG` `UI-UX` `Claude-Code` `Cursor` `Design-System`
-- **最后活动时间:** 2026-10-15
+- **Tags:** `AI编程` `CLI工具` `MCP`
+- **最后活动时间:** 2026-10-19
 
 ### [brooks-lint](https://github.com/hyhmrright/brooks-lint)
 
@@ -3928,14 +3976,6 @@ VS Code官方Jupyter扩展，支持在VS Code中运行Jupyter Notebook，是数�
 - **Tags:** `ai-code-review` `static-analysis` `claude-code` `tech-debt`
 - **最后活动时间:** 2026-10-16
 
-### [rulesync](https://github.com/dyoshikawa/rulesync)
-
-AI编程助手的实用CLI工具，用于管理规则和技能配置。
-
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `AI编程` `CLI工具` `MCP`
-- **最后活动时间:** 2026-10-17
-
 ### [cz-git](https://github.com/Zhengqbbb/cz-git)
 
 一款工程化的 Commitizen 适配器和 CLI 工具，支持 OpenAI 集成实现智能提交信息生成，提升开发工作流效率。
@@ -3943,6 +3983,22 @@ AI编程助手的实用CLI工具，用于管理规则和技能配置。
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `commitizen` `openai` `cli` `commit-message` `workflow`
 - **最后活动时间:** 2026-08-22
+
+### [rust-skills](https://github.com/actionbook/rust-skills)
+
+Rust开发者AI辅助系统，基于元问题驱动的知识索引技术，帮助开发者更高效地编写Rust代码。
+
+- **Stars:** ⭐️ 1.5k
+- **Tags:** `rust` `ai-assistant` `developer-tools` `knowledge-indexing`
+- **最后活动时间:** 2026-08-23
+
+### [evals-skills](https://github.com/ai-evals-course/evals-skills)
+
+为 AI 编码智能体提供技能指引，帮助开发者快速构建面向自身产品的 AI 评估（evals）体系。
+
+- **Stars:** ⭐️ 1.5k
+- **Tags:** `ai-agents` `evals` `coding-agent` `skills`
+- **最后活动时间:** 2026-09-24
 
 ### [coffee](https://github.com/Coframe/coffee)
 
@@ -3960,14 +4016,6 @@ WorkBuddy（CodeBuddy）桌面端增强助手，支持多账号独立备份、�
 - **Tags:** `CodeBuddy` `AI-Coding` `IDE-Enhancement` `Productivity` `Desktop-App`
 - **最后活动时间:** 2026-09-27
 
-### [evals-skills](https://github.com/ai-evals-course/evals-skills)
-
-为 AI 编码智能体提供技能指引，帮助开发者快速构建面向自身产品的 AI 评估（evals）体系。
-
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `ai-agents` `evals` `coding-agent` `skills`
-- **最后活动时间:** 2026-09-24
-
 ### [CodeGPT](https://github.com/appleboy/CodeGPT)
 
 基于Go语言的CLI工具，利用ChatGPT自动生成Git提交信息和代码审查摘要，自动安装git钩子。
@@ -3975,14 +4023,6 @@ WorkBuddy（CodeBuddy）桌面端增强助手，支持多账号独立备份、�
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `ChatGPT` `Git` `CLI` `代码生成`
 - **最后活动时间:** 2026-09-29
-
-### [zeroshot](https://github.com/covibes/zeroshot)
-
-CLI中的自主工程团队，指向问题后自动生成生产级代码。支持Claude Code、OpenAI Codex等多模型协作。
-
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `Autonomous Agents` `Coding Assistant` `CLI`
-- **最后活动时间:** 2026-06-09
 
 ### [deepseek-v4-for-copilot](https://github.com/Vizards/deepseek-v4-for-copilot)
 
@@ -3992,13 +4032,29 @@ CLI中的自主工程团队，指向问题后自动生成生产级代码。支�
 - **Tags:** `deepseek` `github-copilot` `ide` `code-assistant`
 - **最后活动时间:** 2026-10-16
 
+### [zeroshot](https://github.com/covibes/zeroshot)
+
+CLI中的自主工程团队，指向问题后自动生成生产级代码。支持Claude Code、OpenAI Codex等多模型协作。
+
+- **Stars:** ⭐️ 1.5k
+- **Tags:** `Autonomous Agents` `Coding Assistant` `CLI`
+- **最后活动时间:** 2026-06-09
+
 ### [kodus-ai](https://github.com/kodustech/kodus-ai)
 
 AI驱动的代码审查工具，支持自定义模型选择与成本控制，助力团队高效进行代码审查。
 
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `Code Review` `AI Assistant` `Developer Tools`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
+
+### [herdr-gpui](https://github.com/penso/herdr-gpui)
+
+基于 Rust 与 GPUI 构建的 Herdr 原生桌面客户端，可直观查看终端会话、Git worktree 与 AI 代理的实时活动状态。跨平台支持 macOS、Linux 和 Windows。
+
+- **Stars:** ⭐️ 1.5k
+- **Tags:** `ai-agents` `rust` `gpui` `developer-tools` `terminal` `desktop-app`
+- **最后活动时间:** 2026-10-19
 
 ### [dox](https://github.com/agent0ai/dox)
 
@@ -4007,22 +4063,6 @@ AI驱动的代码审查工具，支持自定义模型选择与成本控制，助
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `ai-agents` `documentation` `developer-tools`
 - **最后活动时间:** 2026-09-01
-
-### [rust-skills](https://github.com/actionbook/rust-skills)
-
-Rust开发者AI辅助系统，基于元问题驱动的知识索引技术，帮助开发者更高效地编写Rust代码。
-
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `rust` `ai-assistant` `developer-tools` `knowledge-indexing`
-- **最后活动时间:** 2026-08-23
-
-### [herdr-gpui](https://github.com/penso/herdr-gpui)
-
-基于 Rust 与 GPUI 构建的 Herdr 原生桌面客户端，可直观查看终端会话、Git worktree 与 AI 代理的实时活动状态。跨平台支持 macOS、Linux 和 Windows。
-
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `ai-agents` `rust` `gpui` `developer-tools` `terminal` `desktop-app`
-- **最后活动时间:** 2026-10-18
 
 ### [Wake](https://github.com/iAmCorey/Wake)
 
@@ -4040,14 +4080,6 @@ Rust开发者AI辅助系统，基于元问题驱动的知识索引技术，帮�
 - **Tags:** `ai-code-review` `git` `gemini` `commit` `code-review` `automation`
 - **最后活动时间:** 2026-10-11
 
-### [grok-app](https://github.com/RongleCat/grok-app)
-
-基于 Tauri 2 构建的 Grok Build CLI 桌面工作台，支持会话、项目、媒体与自动化任务管理。为使用 Grok CLI 的开发者提供便捷的图形化操作界面。
-
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `grok` `ai-cli` `tauri` `desktop-app` `developer-tools`
-- **最后活动时间:** 2026-10-18
-
 ### [superlog](https://github.com/superloglabs/superlog)
 
 开源可观测性工具，利用AI智能体实现软件系统的自我诊断与修复。
@@ -4055,6 +4087,14 @@ Rust开发者AI辅助系统，基于元问题驱动的知识索引技术，帮�
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `ai` `llm` `observability` `opentelemetry` `self-hosted`
 - **最后活动时间:** 2026-10-15
+
+### [grok-app](https://github.com/RongleCat/grok-app)
+
+基于 Tauri 2 构建的 Grok Build CLI 桌面工作台，支持会话、项目、媒体与自动化任务管理。为使用 Grok CLI 的开发者提供便捷的图形化操作界面。
+
+- **Stars:** ⭐️ 1.5k
+- **Tags:** `grok` `ai-cli` `tauri` `desktop-app` `developer-tools`
+- **最后活动时间:** 2026-10-18
 
 ### [drawio-scientific-illustrator](https://github.com/icebird1998/drawio-scientific-illustrator)
 
@@ -4078,7 +4118,7 @@ AI 驱动的数据库管理与查询工具，支持 Postgres、MySQL、MSSQL 和
 
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `code-intelligence` `rag` `semantic-search` `mcp-server`
-- **最后活动时间:** 2026-10-15
+- **最后活动时间:** 2026-10-18
 
 ### [kicad-happy](https://github.com/aklofas/kicad-happy)
 
@@ -4087,6 +4127,14 @@ AI 驱动的数据库管理与查询工具，支持 Postgres、MySQL、MSSQL 和
 - **Stars:** ⭐️ 1.4k
 - **Tags:** `ai-skills` `kicad` `pcb-design` `claude-code` `hardware-design`
 - **最后活动时间:** 2026-10-15
+
+### [kotlin-footguns](https://github.com/maxrave-dev/kotlin-footguns)
+
+从生产级音乐应用中提炼的 Kotlin、Compose Multiplatform 与桌面 JVM 踩坑技能包，专为 Claude Code 等 AI 编程智能体打造。
+
+- **Stars:** ⭐️ 1.4k
+- **Tags:** `Agent-Skills` `Kotlin` `Claude-Code` `Compose-Multiplatform`
+- **最后活动时间:** 2026-10-18
 
 ### [minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim)
 
@@ -4128,14 +4176,6 @@ Tabnine的VS Code扩展，提供AI驱动的智能代码补全功能，支持多�
 - **Tags:** `binary-analysis` `ida-plugin` `reverse-engineering` `openai` `chatgpt`
 - **最后活动时间:** 2026-05-27
 
-### [kotlin-footguns](https://github.com/maxrave-dev/kotlin-footguns)
-
-从生产级音乐应用中提炼的 Kotlin、Compose Multiplatform 与桌面 JVM 踩坑技能包，专为 Claude Code 等 AI 编程智能体打造。
-
-- **Stars:** ⭐️ 1.4k
-- **Tags:** `Agent-Skills` `Kotlin` `Claude-Code` `Compose-Multiplatform`
-- **最后活动时间:** 2026-10-17
-
 ### [Tracely-ai](https://github.com/Jwuthri/Tracely-ai)
 
 面向 AI 智能体的追踪原生 CI/CD 平台，可将生产环境故障自动转化为回归测试并阻止问题 PR 合入。支持自动检测、聚类、冻结测试用例，并在 CI 中以零成本回放验证。
@@ -4160,6 +4200,14 @@ Tabnine的VS Code扩展，提供AI驱动的智能代码补全功能，支持多�
 - **Tags:** `git` `automation` `developer-tools`
 - **最后活动时间:** 2026-06-21
 
+### [codesight](https://github.com/Houseofmvps/codesight)
+
+通用AI上下文生成器，为Claude Code、Cursor、Copilot等AI编程助手大幅节省token消耗。
+
+- **Stars:** ⭐️ 1.4k
+- **Tags:** `ai` `context-engineering` `mcp` `claude` `copilot` `cursor` `llm`
+- **最后活动时间:** 2026-07-27
+
 ### [octogent](https://github.com/hesamsheikh/octogent)
 
 Claude Code 的轻量级编排仪表板，用于管理上下文、自动化和开发者工作流。
@@ -4168,13 +4216,13 @@ Claude Code 的轻量级编排仪表板，用于管理上下文、自动化和�
 - **Tags:** `claude-code` `ai-agents` `agentic-workflow` `dashboard`
 - **最后活动时间:** 2026-04-20
 
-### [codesight](https://github.com/Houseofmvps/codesight)
+### [claude-ai-spring-boot](https://github.com/piomin/claude-ai-spring-boot)
 
-通用AI上下文生成器，为Claude Code、Cursor、Copilot等AI编程助手大幅节省token消耗。
+Claude Code的Spring Boot项目模板，集成Docker、Kubernetes等现代开发工具。
 
 - **Stars:** ⭐️ 1.4k
-- **Tags:** `ai` `context-engineering` `mcp` `claude` `copilot` `cursor` `llm`
-- **最后活动时间:** 2026-07-27
+- **Tags:** `claude-code` `spring-boot` `template`
+- **最后活动时间:** 2026-10-18
 
 ### [CodeWebChat](https://github.com/robertpiosik/CodeWebChat)
 
@@ -4191,14 +4239,6 @@ Claude Code 的轻量级编排仪表板，用于管理上下文、自动化和�
 - **Stars:** ⭐️ 1.4k
 - **Tags:** `ai-coding` `prompt-engineering` `structured-reasoning` `developer-tools` `claude-code`
 - **最后活动时间:** 2026-09-28
-
-### [claude-ai-spring-boot](https://github.com/piomin/claude-ai-spring-boot)
-
-Claude Code的Spring Boot项目模板，集成Docker、Kubernetes等现代开发工具。
-
-- **Stars:** ⭐️ 1.4k
-- **Tags:** `claude-code` `spring-boot` `template`
-- **最后活动时间:** 2026-10-16
 
 ### [codedb](https://github.com/justrach/codedb)
 
@@ -4240,14 +4280,6 @@ AI智能体技能，在提交前扫描iOS/macOS项目的App Store拒绝模式。
 - **Tags:** `claude-code` `mcp` `workflow` `ai`
 - **最后活动时间:** 2026-07-22
 
-### [Steve](https://github.com/YuvDwi/Steve)
-
-面向 Minecraft 的 AI 编程助手，像 Cursor 一样帮助编写指令、数据包与模组。
-
-- **Stars:** ⭐️ 1.4k
-- **Tags:** `Minecraft` `AI-Assistant` `LLM` `Game-Development`
-- **最后活动时间:** 2026-07-28
-
 ### [claude-video-vision](https://github.com/jordanrendric/claude-video-vision)
 
 Claude Code 插件，赋予 Claude 视频理解和分析能力，支持帧提取和多模态音频分析。
@@ -4255,6 +4287,14 @@ Claude Code 插件，赋予 Claude 视频理解和分析能力，支持帧提取
 - **Stars:** ⭐️ 1.4k
 - **Tags:** `claude-code` `video-analysis` `multimodal` `mcp` `whisper`
 - **最后活动时间:** 2026-10-14
+
+### [Steve](https://github.com/YuvDwi/Steve)
+
+面向 Minecraft 的 AI 编程助手，像 Cursor 一样帮助编写指令、数据包与模组。
+
+- **Stars:** ⭐️ 1.4k
+- **Tags:** `Minecraft` `AI-Assistant` `LLM` `Game-Development`
+- **最后活动时间:** 2026-07-28
 
 ### [opentag](https://github.com/amplifthq/opentag)
 
@@ -4302,7 +4342,7 @@ Google推出的可视化机器学习编程框架，支持通过拖拽组件无�
 
 - **Stars:** ⭐️ 1.4k
 - **Tags:** `cpp` `language-server` `code-intelligence`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [Aegis](https://github.com/GanyuanRan/Aegis)
 
@@ -4326,7 +4366,7 @@ C语言代码风格与规则指南，内置AI智能体技能以实现代码的�
 
 - **Stars:** ⭐️ 1.4k
 - **Tags:** `AI IDE` `VSCode扩展` `对话历史`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [ai-data-extraction](https://github.com/sybil-solutions/ai-data-extraction)
 
@@ -4340,7 +4380,7 @@ C语言代码风格与规则指南，内置AI智能体技能以实现代码的�
 
 为代码仓库注入大脑的智能工具，类似 ChatGPT 的代码库问答，支持在 Claude Code、Cursor、Codex 等环境中使用。
 
-- **Stars:** ⭐️ 1.3k
+- **Stars:** ⭐️ 1.4k
 - **Tags:** `code-intelligence` `mcp-server` `rag` `claude-code`
 - **最后活动时间:** 2026-10-15
 
@@ -4350,7 +4390,7 @@ C语言代码风格与规则指南，内置AI智能体技能以实现代码的�
 
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `ai-agents` `agent-skills` `claude-code` `cursor` `codex` `developer-workflow` `code-review`
-- **最后活动时间:** 2026-10-15
+- **最后活动时间:** 2026-10-18
 
 ### [awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins)
 
@@ -4358,7 +4398,7 @@ C语言代码风格与规则指南，内置AI智能体技能以实现代码的�
 
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `openai` `codex` `plugins` `awesome-list`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [jean](https://github.com/coollabsio/jean)
 
@@ -4366,7 +4406,7 @@ C语言代码风格与规则指南，内置AI智能体技能以实现代码的�
 
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `agent` `ai` `claude-code` `git` `parallel` `worktree`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [cursorless](https://github.com/cursorless-dev/cursorless)
 
@@ -4400,14 +4440,6 @@ LLM驱动的Lean定理证明助手，结合形式化验证与AI推理。
 - **Tags:** `Claude Code` `Developer Tools`
 - **最后活动时间:** 2026-07-19
 
-### [weave](https://github.com/Ataraxy-Labs/weave)
-
-基于 tree-sitter 的 Git 语义合并驱动器，理解代码结构解决 Git 无法处理的冲突。
-
-- **Stars:** ⭐️ 1.3k
-- **Tags:** `git` `semantic-merge` `tree-sitter` `ai-agents`
-- **最后活动时间:** 2026-10-17
-
 ### [triplex](https://github.com/pmndrs/triplex)
 
 开源的React Three Fiber可视化工作空间，支持AI辅助构建2D和3D Web应用，集成Cursor和Windsurf等AI工具。
@@ -4415,6 +4447,14 @@ LLM驱动的Lean定理证明助手，结合形式化验证与AI推理。
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `react-three-fiber` `threejs` `webxr` `ai` `editor`
 - **最后活动时间:** 2026-06-11
+
+### [weave](https://github.com/Ataraxy-Labs/weave)
+
+基于 tree-sitter 的 Git 语义合并驱动器，理解代码结构解决 Git 无法处理的冲突。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `git` `semantic-merge` `tree-sitter` `ai-agents`
+- **最后活动时间:** 2026-10-17
 
 ### [llm-vscode](https://github.com/huggingface/llm-vscode)
 
@@ -4440,14 +4480,6 @@ LLM驱动的Lean定理证明助手，结合形式化验证与AI推理。
 - **Tags:** `claude-code` `cursor` `codex` `mcp` `developer-tools`
 - **最后活动时间:** 2026-09-24
 
-### [opencode-claude-auth](https://github.com/griffinmartin/opencode-claude-auth)
-
-OpenCode认证插件，复用Claude Code现有凭证实现无缝登录，无需额外配置账户。
-
-- **Stars:** ⭐️ 1.3k
-- **Tags:** `claude-code` `authentication` `opencode-plugin` `typescript`
-- **最后活动时间:** 2026-10-16
-
 ### [niubi_guard](https://github.com/Albert-Weasker/niubi_guard)
 
 开源的 GitHub 仓库滥用检测与响应系统，帮助维护开源社区安全。支持自动化垃圾检测和内容审核。
@@ -4456,13 +4488,21 @@ OpenCode认证插件，复用Claude Code现有凭证实现无缝登录，无需�
 - **Tags:** `abuse-detection` `github` `moderation` `security` `spam-detection`
 - **最后活动时间:** 2026-08-27
 
+### [opencode-claude-auth](https://github.com/griffinmartin/opencode-claude-auth)
+
+OpenCode认证插件，复用Claude Code现有凭证实现无缝登录，无需额外配置账户。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `claude-code` `authentication` `opencode-plugin` `typescript`
+- **最后活动时间:** 2026-10-16
+
 ### [codetracer](https://github.com/metacraft-labs/codetracer)
 
 支持多语言的时间旅行调试器，可回溯程序执行过程并提升开发效率。适合复杂系统调试与程序分析。
 
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `debugger` `tracing` `developer-tools`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [quint-code](https://github.com/m0n0x41d/quint-code)
 
@@ -4510,7 +4550,15 @@ AI IDE和智能体编码环境的终极启动模板，支持Claude Code和Codex�
 
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `Claude Code` `iOS` `MCP` `developer-tools`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
+
+### [Konnect](https://github.com/mixelpixx/Konnect)
+
+Konnect 是一个 AI 辅助的 KiCAD PCB 设计工具。作为原生 KiCAD 插件，它将 217 个设计工具暴露给 Claude 或其他 LLM，帮助用户实现更智能的硬件设计。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `KiCAD` `PCB Design` `Claude` `LLM` `AI Agents`
+- **最后活动时间:** 2026-10-12
 
 ### [superpowers-marketplace](https://github.com/obra/superpowers-marketplace)
 
@@ -4519,6 +4567,22 @@ Claude Code 插件市场，提供精选插件以增强 Claude Code 的功能。
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `claude-code` `plugin-marketplace` `ide-extension`
 - **最后活动时间:** 2026-09-08
+
+### [open-reverselab](https://github.com/LING71671/open-reverselab)
+
+开源逆向工程实验室，包含 197 篇知识库文章、MCP 工具和 CTF/APK/PE 自动化工具链，支持 AI 智能体原生调用。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `reverse-engineering` `mcp-server` `claude-code` `security-automation`
+- **最后活动时间:** 2026-10-15
+
+### [tty7](https://github.com/l0ng-ai/tty7)
+
+纯Rust编写的终端工作台，支持Shell、持久化会话、SSH及AI编程助手。基于Zed的gpui进行GPU渲染，核心VT源自Alacritty。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `ai-agents` `coding-agent` `rust` `terminal` `gpui`
+- **最后活动时间:** 2026-10-17
 
 ### [chatgpt-vscode](https://github.com/ai-genie/chatgpt-vscode)
 
@@ -4534,15 +4598,7 @@ Jupyter Notebook 的响应式 Python 内核，支持数据流追踪和静态分�
 
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `jupyter` `python` `developer-tools` `reactivity`
-- **最后活动时间:** 2026-10-12
-
-### [open-reverselab](https://github.com/LING71671/open-reverselab)
-
-开源逆向工程实验室，包含 197 篇知识库文章、MCP 工具和 CTF/APK/PE 自动化工具链，支持 AI 智能体原生调用。
-
-- **Stars:** ⭐️ 1.3k
-- **Tags:** `reverse-engineering` `mcp-server` `claude-code` `security-automation`
-- **最后活动时间:** 2026-10-15
+- **最后活动时间:** 2026-10-18
 
 ### [guard-skills](https://github.com/amElnagdy/guard-skills)
 
@@ -4576,14 +4632,6 @@ Pashov 审计团队开源的 Claude Code 智能体技能集，专注于智能合
 - **Tags:** `ai-agents` `context-management` `knowledge-base` `mcp` `developer-tools`
 - **最后活动时间:** 2026-06-16
 
-### [tty7](https://github.com/l0ng-ai/tty7)
-
-纯Rust编写的终端工作台，支持Shell、持久化会话、SSH及AI编程助手。基于Zed的gpui进行GPU渲染，核心VT源自Alacritty。
-
-- **Stars:** ⭐️ 1.3k
-- **Tags:** `ai-agents` `coding-agent` `rust` `terminal` `gpui`
-- **最后活动时间:** 2026-10-17
-
 ### [ccmanager](https://github.com/kbwo/ccmanager)
 
 统一管理多个AI编程助手的会话管理器，支持Claude Code、Gemini CLI、Cursor、Copilot等主流工具的便捷切换。
@@ -4599,14 +4647,6 @@ Pashov 审计团队开源的 Claude Code 智能体技能集，专注于智能合
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `coding-agents` `agent-orchestration` `ide` `tui` `devtools`
 - **最后活动时间:** 2026-10-18
-
-### [Konnect](https://github.com/mixelpixx/Konnect)
-
-Konnect 是一个 AI 辅助的 KiCAD PCB 设计工具。作为原生 KiCAD 插件，它将 217 个设计工具暴露给 Claude 或其他 LLM，帮助用户实现更智能的硬件设计。
-
-- **Stars:** ⭐️ 1.3k
-- **Tags:** `KiCAD` `PCB Design` `Claude` `LLM` `AI Agents`
-- **最后活动时间:** 2026-10-12
 
 ### [pi-gui](https://github.com/minghinmatthewlam/pi-gui)
 
@@ -4696,6 +4736,14 @@ Konnect 是一个 AI 辅助的 KiCAD PCB 设计工具。作为原生 KiCAD 插�
 - **Tags:** `claude-code` `ios` `ipados` `apple-development`
 - **最后活动时间:** 2026-10-16
 
+### [gptaku_plugins](https://github.com/fivetaku/gptaku_plugins)
+
+一个面向希望成为 AI Native 用户的 Claude Code 插件市场。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `claude-code` `plugins` `marketplace` `ai-native`
+- **最后活动时间:** 2026-10-15
+
 ### [claudecode](https://github.com/soongenwong/claudecode)
 
 开源的Claude Code替代方案，使用Rust编写，提供与Anthropic Claude Code相似的功能，可免费立即使用。
@@ -4760,6 +4808,14 @@ Emacs 多模型 AI Shell，支持 ChatGPT、Claude、DeepSeek 等多种 LLM，�
 - **Tags:** `neovim` `neovim-plugin` `llm` `code-assistant`
 - **最后活动时间:** 2026-09-23
 
+### [momo-code](https://github.com/momozi1996/momo-code)
+
+会随使用不断进化的 AI 编程智能体，提供命令行驱动的代码生成与开发辅助。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `coding-agent` `llm` `cli` `ai` `code-assistant`
+- **最后活动时间:** 2026-10-17
+
 ### [vim-ai](https://github.com/madox2/vim-ai)
 
 AI驱动的Vim代码助手插件，支持OpenAI和ChatGPT，为Vim和Neovim提供智能代码补全和对话功能。
@@ -4776,14 +4832,6 @@ AI驱动的Vim代码助手插件，支持OpenAI和ChatGPT，为Vim和Neovim提�
 - **Tags:** `code-review` `ai` `claude` `gemini` `ollama`
 - **最后活动时间:** 2026-07-08
 
-### [momo-code](https://github.com/momozi1996/momo-code)
-
-会随使用不断进化的 AI 编程智能体，提供命令行驱动的代码生成与开发辅助。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `coding-agent` `llm` `cli` `ai` `code-assistant`
-- **最后活动时间:** 2026-10-17
-
 ### [ref-tools-mcp](https://github.com/ref-tools/ref-tools-mcp)
 
 帮助编码智能体准确使用公共或私有库文档，避免浪费上下文窗口的MCP服务器。
@@ -4798,7 +4846,7 @@ AI驱动的Vim代码助手插件，支持OpenAI和ChatGPT，为Vim和Neovim提�
 
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `Claude Code` `MCP` `DevTools`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [jinba-consulting-pptx-skill](https://github.com/carnot-tech/jinba-consulting-pptx-skill)
 
@@ -4808,22 +4856,6 @@ AI驱动的Vim代码助手插件，支持OpenAI和ChatGPT，为Vim和Neovim提�
 - **Tags:** `Claude-Code` `Claude-Skills` `Codex` `PPTX` `PowerPoint` `Productivity`
 - **最后活动时间:** 2026-10-17
 
-### [claude-powerline](https://github.com/Owloops/claude-powerline)
-
-为Claude Code打造的精美vim风格powerline状态栏，提供轻量级的开发体验增强。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `claude-code` `cli` `developer-tools` `statusline`
-- **最后活动时间:** 2026-10-18
-
-### [gptaku_plugins](https://github.com/fivetaku/gptaku_plugins)
-
-一个面向希望成为 AI Native 用户的 Claude Code 插件市场。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `claude-code` `plugins` `marketplace` `ai-native`
-- **最后活动时间:** 2026-09-29
-
 ### [CCursor](https://github.com/CometixSpace/CCursor)
 
 为 Cursor IDE 带来自定义 API Key（BYOK）支持，让开发者用自己的模型密钥驱动 AI 编程助手。适合希望灵活切换底层大模型的 AI 编程用户。
@@ -4831,6 +4863,14 @@ AI驱动的Vim代码助手插件，支持OpenAI和ChatGPT，为Vim和Neovim提�
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `cursor` `byok` `ai-ide` `code-assistant` `llm`
 - **最后活动时间:** 2026-08-27
+
+### [claude-powerline](https://github.com/Owloops/claude-powerline)
+
+为Claude Code打造的精美vim风格powerline状态栏，提供轻量级的开发体验增强。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `claude-code` `cli` `developer-tools` `statusline`
+- **最后活动时间:** 2026-10-18
 
 ### [roborev](https://github.com/roborev-dev/roborev)
 
@@ -4856,6 +4896,14 @@ Claude AI 编程助手的 Docker 开发环境，提供容器化、可复现的�
 - **Tags:** `AI IDE` `Research Tools` `AI Assistant`
 - **最后活动时间:** 2026-09-17
 
+### [ctx](https://github.com/ctxrs/ctx)
+
+搜索本地机器上已有的编程智能体历史记录，快速检索上下文。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `agent-memory` `coding-agents` `developer-tools` `rust`
+- **最后活动时间:** 2026-10-05
+
 ### [tokentab](https://github.com/damejan80/tokentab)
 
 一款CLI工具，可读取Claude Code、Codex和Gemini CLI的会话日志，按模型、项目和日期统计Token用量与成本。帮助开发者精细化分析和管控AI编程开销。
@@ -4870,7 +4918,7 @@ Claude AI 编程助手的 Docker 开发环境，提供容器化、可复现的�
 
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `context-manager` `ai-tools` `claude-code` `cursor`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [reverser_ai](https://github.com/mrphrazer/reverser_ai)
 
@@ -4880,13 +4928,13 @@ Claude AI 编程助手的 Docker 开发环境，提供容器化、可复现的�
 - **Tags:** `reverse-engineering` `local-llm` `security` `code-analysis`
 - **最后活动时间:** 2026-05-20
 
-### [ctx](https://github.com/ctxrs/ctx)
+### [cavekit](https://github.com/JuliusBrussee/cavekit)
 
-搜索本地机器上已有的编程智能体历史记录，快速检索上下文。
+Claude Code插件，将自然语言转化为蓝图并自动构建软件，支持迭代验证和跨模型审查。
 
 - **Stars:** ⭐️ 1.2k
-- **Tags:** `agent-memory` `coding-agents` `developer-tools` `rust`
-- **最后活动时间:** 2026-10-05
+- **Tags:** `claude-code` `spec-driven-development` `parallel-agents` `test-driven-development`
+- **最后活动时间:** 2026-08-14
 
 ### [shortcuts-playground-plugin](https://github.com/viticci/shortcuts-playground-plugin)
 
@@ -4895,14 +4943,6 @@ Claude Code 和 Codex 插件，支持使用自然语言构建、验证、签名�
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `shortcuts` `claude` `automation` `macos` `ios`
 - **最后活动时间:** 2026-06-15
-
-### [cavekit](https://github.com/JuliusBrussee/cavekit)
-
-Claude Code插件，将自然语言转化为蓝图并自动构建软件，支持迭代验证和跨模型审查。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `claude-code` `spec-driven-development` `parallel-agents` `test-driven-development`
-- **最后活动时间:** 2026-08-14
 
 ### [rhinomcp](https://github.com/jingcheng-chen/rhinomcp)
 
@@ -4936,14 +4976,6 @@ Claude Code插件，将自然语言转化为蓝图并自动构建软件，支持
 - **Tags:** `ai-agent` `coding-agent` `cli` `terminal` `tui`
 - **最后活动时间:** 2026-10-09
 
-### [git-ai](https://github.com/feder-cr/git-ai)
-
-专为 AI 智能体设计的 Git 版本控制工具，让编码智能体以原生方式追踪和管理代码变更。基于 Go 构建，为 AI 驱动的开发工作流提供可靠的版本控制底座。
-
-- **Stars:** ⭐️ 1.1k
-- **Tags:** `git` `ai-agents` `coding-agents` `version-control` `golang`
-- **最后活动时间:** 2026-10-16
-
 ### [Mysti](https://github.com/DeepMyst/Mysti)
 
 VS Code AI编码梦幻团队，Claude Code与OpenAI Codex协作头脑风暴，辩论方案并合成最佳代码实现。
@@ -4952,14 +4984,6 @@ VS Code AI编码梦幻团队，Claude Code与OpenAI Codex协作头脑风暴，�
 - **Tags:** `多智能体` `VS Code` `协作编码`
 - **最后活动时间:** 2026-10-13
 
-### [dockit](https://github.com/geek-fun/dockit)
-
-AI原生的NoSQL数据库桌面客户端，支持使用自然语言编写Elasticsearch DSL和DynamoDB PartiQL查询，本地优先架构。
-
-- **Stars:** ⭐️ 1.1k
-- **Tags:** `copilot` `database-gui` `elasticsearch` `dynamodb` `nosql` `tauri`
-- **最后活动时间:** 2026-10-16
-
 ### [Lightswind-UI-Library](https://github.com/codewithMUHILAN/Lightswind-UI-Library)
 
 AI原生的CLI优先React组件库，包含160+动画组件，并为Cursor、Claude和GitHub Copilot提供MCP Server支持。
@@ -4967,6 +4991,14 @@ AI原生的CLI优先React组件库，包含160+动画组件，并为Cursor、Cla
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `ai-native` `component-library` `mcp-server` `react` `tailwindcss`
 - **最后活动时间:** 2026-07-24
+
+### [dockit](https://github.com/geek-fun/dockit)
+
+AI原生的NoSQL数据库桌面客户端，支持使用自然语言编写Elasticsearch DSL和DynamoDB PartiQL查询，本地优先架构。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `copilot` `database-gui` `elasticsearch` `dynamodb` `nosql` `tauri`
+- **最后活动时间:** 2026-10-18
 
 ### [antivibe](https://github.com/mohi-devhub/antivibe)
 
@@ -4982,7 +5014,7 @@ AI原生的CLI优先React组件库，包含160+动画组件，并为Cursor、Cla
 
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `security-scanner` `vulnerability-scanner` `dast` `security-audit`
-- **最后活动时间:** 2026-10-10
+- **最后活动时间:** 2026-10-18
 
 ### [ChatDBG](https://github.com/plasma-umass/ChatDBG)
 
@@ -5024,14 +5056,6 @@ Claude Code 插件，集成 183+ 渗透测试与 OSINT 工具，自动化执行�
 - **Tags:** `ai-coding` `workflow` `codex` `claude` `human-in-the-loop`
 - **最后活动时间:** 2026-08-18
 
-### [banana-claude](https://github.com/AgriciDaniel/banana-claude)
-
-为 Claude Code 提供的 AI 图像生成技能，集成 Gemini 驱动的创意总监功能，支持在编码工作流中生成图像内容。
-
-- **Stars:** ⭐️ 1.1k
-- **Tags:** `claude-code` `ai-image-generation` `gemini` `skill`
-- **最后活动时间:** 2026-10-16
-
 ### [VulnHunter](https://github.com/capitalone/VulnHunter)
 
 一款基于智能体的AI安全工具，能够对源代码进行主动的攻击者视角分析。
@@ -5046,7 +5070,15 @@ Claude Code 插件，集成 183+ 渗透测试与 OSINT 工具，自动化执行�
 
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `android` `kotlin` `jetpack-compose` `ai-agents` `skills` `compose-multiplatform`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
+
+### [banana-claude](https://github.com/AgriciDaniel/banana-claude)
+
+为 Claude Code 提供的 AI 图像生成技能，集成 Gemini 驱动的创意总监功能，支持在编码工作流中生成图像内容。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `claude-code` `ai-image-generation` `gemini` `skill`
+- **最后活动时间:** 2026-10-18
 
 ### [thread-notebook](https://github.com/alishobeiri/thread-notebook)
 
@@ -5096,6 +5128,30 @@ Claude Code和Codex的移动端客户端，通过WebSocket桥接实现手机远�
 - **Tags:** `claude-code` `mobile` `flutter` `websocket` `remote-control`
 - **最后活动时间:** 2026-10-17
 
+### [Claude-Code-Agent-Monitor](https://github.com/hoangsonww/Claude-Code-Agent-Monitor)
+
+一个用于 Claude Code 的实时监控仪表盘，支持追踪会话、代理活动和工具使用情况。提供实时分析、看板状态板以及跨平台原生应用支持。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `ai-agents` `claude-code` `monitoring` `dashboard` `nodejs` `react`
+- **最后活动时间:** 2026-10-18
+
+### [cc-viewer](https://github.com/weiesky/cc-viewer)
+
+Claude Code API请求监控工具，实时捕获并可视化所有API请求和响应，帮助开发者调试和审查AI交互过程。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `claude` `api-monitoring` `debugging` `developer-tools`
+- **最后活动时间:** 2026-10-16
+
+### [zed-globalization](https://github.com/x6nux/zed-globalization)
+
+Zed 编辑器的多语言本地化版本，采用 AI 驱动的全自动翻译流水线构建。支持简繁中文、日语和韩语，提供原生的代码编辑体验。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `ai-translation` `code-editor` `localization` `zed` `rust`
+- **最后活动时间:** 2026-10-18
+
 ### [claude-code-chat](https://github.com/andrepimenta/claude-code-chat)
 
 为 VS Code 打造的精美 Claude Code 聊天界面扩展。
@@ -5111,30 +5167,6 @@ Claude Code和Codex的移动端客户端，通过WebSocket桥接实现手机远�
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `compiler` `dataflow-programming` `visual-programming` `reactive-programming` `golang`
 - **最后活动时间:** 2026-08-23
-
-### [cc-viewer](https://github.com/weiesky/cc-viewer)
-
-Claude Code API请求监控工具，实时捕获并可视化所有API请求和响应，帮助开发者调试和审查AI交互过程。
-
-- **Stars:** ⭐️ 1.1k
-- **Tags:** `claude` `api-monitoring` `debugging` `developer-tools`
-- **最后活动时间:** 2026-10-16
-
-### [Claude-Code-Agent-Monitor](https://github.com/hoangsonww/Claude-Code-Agent-Monitor)
-
-一个用于 Claude Code 的实时监控仪表盘，支持追踪会话、代理活动和工具使用情况。提供实时分析、看板状态板以及跨平台原生应用支持。
-
-- **Stars:** ⭐️ 1.1k
-- **Tags:** `ai-agents` `claude-code` `monitoring` `dashboard` `nodejs` `react`
-- **最后活动时间:** 2026-10-17
-
-### [zed-globalization](https://github.com/x6nux/zed-globalization)
-
-Zed 编辑器的多语言本地化版本，采用 AI 驱动的全自动翻译流水线构建。支持简繁中文、日语和韩语，提供原生的代码编辑体验。
-
-- **Stars:** ⭐️ 1.1k
-- **Tags:** `ai-translation` `code-editor` `localization` `zed` `rust`
-- **最后活动时间:** 2026-10-15
 
 ### [pyscn](https://github.com/ludo-technologies/pyscn)
 
@@ -5192,14 +5224,6 @@ Claude Code CLI 技能集合，提供 Cloudflare 全栈开发、React、Tailwind
 - **Tags:** `llvm` `static-analysis` `program-analysis`
 - **最后活动时间:** 2026-10-14
 
-### [parallel-code](https://github.com/johannesjo/parallel-code)
-
-并行运行 Claude Code、Codex 和 Gemini CLI 的工具，每个 AI 在独立的 Git worktree 中工作，便于对比和协作。
-
-- **Stars:** ⭐️ 1.1k
-- **Tags:** `claude-code` `codex-cli` `gemini-cli` `git-worktree` `ai-coding` `developer-tools`
-- **最后活动时间:** 2026-10-16
-
 ### [zoetrope](https://github.com/furkankly/zoetrope)
 
 在终端或浏览器中将 Claude Code 会话可视化为实时流程图。帮助开发者直观地理解和调试 AI 编程过程。
@@ -5207,6 +5231,14 @@ Claude Code CLI 技能集合，提供 Cloudflare 全栈开发、React、Tailwind
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `agent-visualization` `claude-code` `flow-graph`
 - **最后活动时间:** 2026-10-14
+
+### [parallel-code](https://github.com/johannesjo/parallel-code)
+
+并行运行 Claude Code、Codex 和 Gemini CLI 的工具，每个 AI 在独立的 Git worktree 中工作，便于对比和协作。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `claude-code` `codex-cli` `gemini-cli` `git-worktree` `ai-coding` `developer-tools`
+- **最后活动时间:** 2026-10-18
 
 ### [n-skills](https://github.com/numman-ali/n-skills)
 
@@ -5256,14 +5288,6 @@ codex_auto_register 是一个专注于 Codex 的自动注册工具。它能够�
 - **Tags:** `mcp` `ai-coding` `context-engine` `cursor`
 - **最后活动时间:** 2026-09-03
 
-### [JSReverser-MCP](https://github.com/NoOne-hub/JSReverser-MCP)
-
-面向JavaScript逆向分析的MCP工具，整合脚本检索、断点调试、函数Hook、网络追踪等能力，可接入Claude、Cursor等AI客户端辅助前端逆向分析。
-
-- **Stars:** ⭐️ 1.0k
-- **Tags:** `mcp` `javascript` `reverse-engineering` `debugging` `claude`
-- **最后活动时间:** 2026-05-31
-
 ### [eca](https://github.com/editor-code-assistant/eca)
 
 编辑器无关的AI代码助手，通过JSONRPC协议支持Emacs、Neovim、VSCode等多种编辑器。
@@ -5271,6 +5295,14 @@ codex_auto_register 是一个专注于 Codex 的自动注册工具。它能够�
 - **Stars:** ⭐️ 1.0k
 - **Tags:** `Code Assistant` `LLM` `Multi-editor`
 - **最后活动时间:** 2026-10-17
+
+### [JSReverser-MCP](https://github.com/NoOne-hub/JSReverser-MCP)
+
+面向JavaScript逆向分析的MCP工具，整合脚本检索、断点调试、函数Hook、网络追踪等能力，可接入Claude、Cursor等AI客户端辅助前端逆向分析。
+
+- **Stars:** ⭐️ 1.0k
+- **Tags:** `mcp` `javascript` `reverse-engineering` `debugging` `claude`
+- **最后活动时间:** 2026-05-31
 
 ### [opencode-quota](https://github.com/slkiser/opencode-quota)
 
@@ -5288,6 +5320,14 @@ AI编程助手配额与Token使用监控工具，支持Cursor、GitHub Copilot�
 - **Tags:** `claude-code` `memory` `knowledge-graph` `obsidian` `developer-tools`
 - **最后活动时间:** 2026-10-07
 
+### [Skills-Manager](https://github.com/jiweiyeah/Skills-Manager)
+
+一款高性能桌面应用，用于跨多个AI编程助手（Claude Code、Codex、Opencode等）统一管理技能。支持技能的组织、同步和共享，基于Tauri 2.0、React 19和Rust构建。
+
+- **Stars:** ⭐️ 1.0k
+- **Tags:** `ai-skills-manager` `claude-code` `codex` `developer-tools` `tauri`
+- **最后活动时间:** 2026-09-10
+
 ### [clawk](https://github.com/clawkwork/clawk)
 
 为AI编程智能体提供一次性Linux虚拟机沙盒环境，避免直接操作本地主机，提升安全性与隔离性。
@@ -5304,14 +5344,6 @@ AI编程助手配额与Token使用监控工具，支持Cursor、GitHub Copilot�
 - **Tags:** `mcp` `llms` `ide` `claude-code` `cursor`
 - **最后活动时间:** 2026-08-20
 
-### [Skills-Manager](https://github.com/jiweiyeah/Skills-Manager)
-
-一款高性能桌面应用，用于跨多个AI编程助手（Claude Code、Codex、Opencode等）统一管理技能。支持技能的组织、同步和共享，基于Tauri 2.0、React 19和Rust构建。
-
-- **Stars:** ⭐️ 1.0k
-- **Tags:** `ai-skills-manager` `claude-code` `codex` `developer-tools` `tauri`
-- **最后活动时间:** 2026-09-10
-
 ### [audit-skills](https://github.com/RuoJi6/audit-skills)
 
 专注于代码审计的轻量化Claude技能，主要负责安全边界检查。
@@ -5326,7 +5358,15 @@ AI编程助手配额与Token使用监控工具，支持Cursor、GitHub Copilot�
 
 - **Stars:** ⭐️ 1.0k
 - **Tags:** `claude-code` `github-copilot` `power-platform` `plugin`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
+
+### [my-claude-code-mods](https://github.com/YeonwooSung/my-claude-code-mods)
+
+一套实用的 Claude Code 自定义 Mods 集合，帮助开发者按需扩展和定制 AI 编程助手的能力。
+
+- **Stars:** ⭐️ 1.0k
+- **Tags:** `claude-code` `ai-coding` `plugins` `developer-tools`
+- **最后活动时间:** 2026-10-18
 
 ### [claudish](https://github.com/MadAppGang/claudish)
 
@@ -5335,6 +5375,14 @@ AI编程助手配额与Token使用监控工具，支持Cursor、GitHub Copilot�
 - **Stars:** ⭐️ 1.0k
 - **Tags:** `Claude Code` `Multi-model` `AI Coding`
 - **最后活动时间:** 2026-10-16
+
+### [Autoloom](https://github.com/GanyuanRan/Autoloom)
+
+将哲科思维融入 AI 编程执行的桌面客户端，内置 Aegis 治理机制，让代码变更有依据、交付有证据。支持自由选择模型，兼顾创造力与工程严谨性。
+
+- **Stars:** ⭐️ 1.0k
+- **Tags:** `AI-Coding` `Coding-Agent` `Desktop-App` `Governance` `Agentic-Coding`
+- **最后活动时间:** 2026-10-18
 
 ### [claude-delegator](https://github.com/jarrodwatts/claude-delegator)
 
@@ -5359,14 +5407,6 @@ MCP服务器，帮助大语言模型索引、搜索和分析代码仓库，无�
 - **Stars:** ⭐️ 1.0k
 - **Tags:** `mcp` `code-indexing` `llm-tools` `code-analysis`
 - **最后活动时间:** 2026-07-27
-
-### [Autoloom](https://github.com/GanyuanRan/Autoloom)
-
-将哲科思维融入 AI 编程执行的桌面客户端，内置 Aegis 治理机制，让代码变更有依据、交付有证据。支持自由选择模型，兼顾创造力与工程严谨性。
-
-- **Stars:** ⭐️ 1.0k
-- **Tags:** `AI-Coding` `Coding-Agent` `Desktop-App` `Governance` `Agentic-Coding`
-- **最后活动时间:** 2026-10-18
 
 ### [medusa](https://github.com/Pantheon-Security/medusa)
 
@@ -5420,7 +5460,7 @@ AI优先的安全扫描器，内置76个分析器和9600+检测规则，支持AI
 
 专为 AI 编码智能体打造的轻量级无容器沙箱，基于 Landlock、seccomp、bubblewrap 等技术限制命令的网络与文件系统访问。让 Claude Code 等 coding agent 在安全隔离的环境中执行命令，无需 Docker 等重型容器。
 
-- **Stars:** ⭐️ 992
+- **Stars:** ⭐️ 993
 - **Tags:** `Sandbox` `Coding-Agent` `Agent-Safety` `Security` `CLI`
 - **最后活动时间:** 2026-10-14
 
@@ -5452,7 +5492,7 @@ spring-tools 为 Spring Boot 提供新一代工具支持，包括 Cloud Foundry 
 
 轻量级零依赖 CLI 工具，用于管理和激活 AI 编程助手（如 Claude Code、Cursor 等）的技能。提升上下文工程与全栈开发工作流效率。
 
-- **Stars:** ⭐️ 981
+- **Stars:** ⭐️ 980
 - **Tags:** `ai-skills` `claude-code` `cli-tool` `context-engineering` `workflows`
 - **最后活动时间:** 2026-10-18
 
@@ -5528,29 +5568,21 @@ MathWorks官方推出的MATLAB MCP服务器，支持Claude Code、VS Code等AI�
 - **Tags:** `claude-code` `devcontainer` `security` `sandbox`
 - **最后活动时间:** 2026-08-28
 
-### [gooey-pi](https://github.com/am-will/gooey-pi)
-
-为 Pi、OMP 和 Prime Agent 提供的桌面工作区应用，方便开发者集中管理编码智能体。支持跨平台使用，提升开发效率。
-
-- **Stars:** ⭐️ 947
-- **Tags:** `coding-agents` `developer-tools` `electron`
-- **最后活动时间:** 2026-09-09
-
 ### [shellfirm](https://github.com/kaplanelad/shellfirm)
 
 为AI编程智能体和人类终端命令提供安全护栏，防止危险操作执行。
 
-- **Stars:** ⭐️ 946
+- **Stars:** ⭐️ 948
 - **Tags:** `AI Safety` `Terminal` `MCP`
 - **最后活动时间:** 2026-05-15
 
-### [UnrealClaude](https://github.com/Natfii/UnrealClaude)
+### [gooey-pi](https://github.com/am-will/gooey-pi)
 
-Claude Code CLI 集成插件，为 Unreal Engine 5.7 提供 AI 编程辅助，内置 UE5.7 文档上下文支持。
+为 Pi、OMP 和 Prime Agent 提供的桌面工作区应用，方便开发者集中管理编码智能体。支持跨平台使用，提升开发效率。
 
-- **Stars:** ⭐️ 941
-- **Tags:** `ai-coding-assistant` `unreal-engine` `claude` `mcp`
-- **最后活动时间:** 2026-06-26
+- **Stars:** ⭐️ 948
+- **Tags:** `coding-agents` `developer-tools` `electron`
+- **最后活动时间:** 2026-09-09
 
 ### [caveman-code](https://github.com/JuliusBrussee/caveman-code)
 
@@ -5559,6 +5591,14 @@ Claude Code CLI 集成插件，为 Unreal Engine 5.7 提供 AI 编程辅助，�
 - **Stars:** ⭐️ 941
 - **Tags:** `coding-agent` `cli` `codex` `token-efficient`
 - **最后活动时间:** 2026-08-14
+
+### [UnrealClaude](https://github.com/Natfii/UnrealClaude)
+
+Claude Code CLI 集成插件，为 Unreal Engine 5.7 提供 AI 编程辅助，内置 UE5.7 文档上下文支持。
+
+- **Stars:** ⭐️ 940
+- **Tags:** `ai-coding-assistant` `unreal-engine` `claude` `mcp`
+- **最后活动时间:** 2026-06-26
 
 ### [free-claude-code](https://github.com/Rishurajgautam24/free-claude-code)
 
@@ -5572,9 +5612,17 @@ Claude Code CLI 集成插件，为 Unreal Engine 5.7 提供 AI 编程辅助，�
 
 Anthropic Claude AI 编程助手的源代码资源，展示 AI Agent 在代码开发领域的应用实践。
 
-- **Stars:** ⭐️ 936
+- **Stars:** ⭐️ 937
 - **Tags:** `ai-agent` `anthropic` `claude` `code-assistant`
 - **最后活动时间:** 2026-10-08
+
+### [hol-guard](https://github.com/hashgraph-online/hol-guard)
+
+专为AI智能体设计的开源安全防护工具，在运行时拦截危险工具调用、密钥访问和提示词注入攻击。有效保障AI编程助手的安全运行。
+
+- **Stars:** ⭐️ 933
+- **Tags:** `agent-security` `ai-security` `prompt-injection` `runtime-security` `mcp-security`
+- **最后活动时间:** 2026-10-18
 
 ### [aidermacs](https://github.com/MatthewZMD/aidermacs)
 
@@ -5588,7 +5636,7 @@ Emacs 的 AI 结对编程工具，集成 Aider 支持多种大语言模型，在
 
 为嘉立创EDA专业版打造的AI技能，提供完整的EasyEDA Pro API接口与WebSocket桥接能力，让AI编程工具能够直接操作电路设计。
 
-- **Stars:** ⭐️ 931
+- **Stars:** ⭐️ 932
 - **Tags:** `agent-skills` `easyeda` `websocket` `eda` `ai-tools`
 - **最后活动时间:** 2026-10-17
 
@@ -5596,16 +5644,8 @@ Emacs 的 AI 结对编程工具，集成 Aider 支持多种大语言模型，在
 
 一个用于审查 diff、文件和文档并支持内联注释的 TUI 工具，适用于 AI 代理工作流。
 
-- **Stars:** ⭐️ 928
+- **Stars:** ⭐️ 929
 - **Tags:** `agentic-workflow` `claude-code` `code-review` `diff` `tui`
-- **最后活动时间:** 2026-10-14
-
-### [hol-guard](https://github.com/hashgraph-online/hol-guard)
-
-专为AI智能体设计的开源安全防护工具，在运行时拦截危险工具调用、密钥访问和提示词注入攻击。有效保障AI编程助手的安全运行。
-
-- **Stars:** ⭐️ 927
-- **Tags:** `agent-security` `ai-security` `prompt-injection` `runtime-security` `mcp-security`
 - **最后活动时间:** 2026-10-18
 
 ### [Chisle](https://github.com/iOS17/Jailbreak)
@@ -5628,7 +5668,7 @@ hlchunk.nvim 是 Neovim 的 Lua 实现插件，用于高亮缩进线和光标所
 
 一个用C语言编写的极简终端原生AI编程助手，支持多种大语言模型。
 
-- **Stars:** ⭐️ 922
+- **Stars:** ⭐️ 921
 - **Tags:** `ai-agent` `coding-agent` `terminal` `llm`
 - **最后活动时间:** 2026-10-17
 
@@ -5652,7 +5692,7 @@ AI驱动的编程面试助手，在笔试或面试时实时提供解题思路和
 
 Markdown/HTML 双向转换工具，集成多种解析引擎，支持反 AI slop 主题，Claude Code 技能插件。
 
-- **Stars:** ⭐️ 915
+- **Stars:** ⭐️ 916
 - **Tags:** `markdown` `html` `document-conversion` `claude-code-skill`
 - **最后活动时间:** 2026-10-13
 
@@ -5663,6 +5703,22 @@ AI驱动的代码库复杂度分析与性能优化报告生成工具，帮助开
 - **Stars:** ⭐️ 913
 - **Tags:** `code-analysis` `optimization` `agent-skills` `developer-tools`
 - **最后活动时间:** 2026-05-15
+
+### [agenttrail](https://github.com/sodiumsun/agenttrail)
+
+专为AI编程智能体设计的本地可观测性工具。实时监控Claude Code、Codex和Cursor的工具调用、文件变更及执行进度。
+
+- **Stars:** ⭐️ 913
+- **Tags:** `agent-observability` `ai-agents` `ai-coding-agents` `developer-tools` `monitoring`
+- **最后活动时间:** 2026-09-09
+
+### [cwm](https://github.com/facebookresearch/cwm)
+
+代码世界模型（CWM）的研究代码与文档，用于代码推理。
+
+- **Stars:** ⭐️ 912
+- **Tags:** `code-model` `world-model` `code-intelligence`
+- **最后活动时间:** 2026-07-17
 
 ### [clawcodex](https://github.com/agentforce314/clawcodex)
 
@@ -5680,27 +5736,11 @@ Claude Code和Codex的智能技能路由器与创建器，自动分析输入并�
 - **Tags:** `claude-code` `skill-router` `ai-agents` `automation`
 - **最后活动时间:** 2026-07-29
 
-### [agenttrail](https://github.com/sodiumsun/agenttrail)
-
-专为AI编程智能体设计的本地可观测性工具。实时监控Claude Code、Codex和Cursor的工具调用、文件变更及执行进度。
-
-- **Stars:** ⭐️ 909
-- **Tags:** `agent-observability` `ai-agents` `ai-coding-agents` `developer-tools` `monitoring`
-- **最后活动时间:** 2026-09-09
-
-### [cwm](https://github.com/facebookresearch/cwm)
-
-代码世界模型（CWM）的研究代码与文档，用于代码推理。
-
-- **Stars:** ⭐️ 908
-- **Tags:** `code-model` `world-model` `code-intelligence`
-- **最后活动时间:** 2026-07-17
-
 ### [synalinks-skills](https://github.com/SynaLinks/synalinks-skills)
 
 Synalinks开源项目的Claude技能集合，支持神经符号AI开发。
 
-- **Stars:** ⭐️ 907
+- **Stars:** ⭐️ 908
 - **Tags:** `claude-skills` `neuro-symbolic` `ai` `llm`
 - **最后活动时间:** 2026-09-28
 
@@ -5712,13 +5752,29 @@ Synalinks开源项目的Claude技能集合，支持神经符号AI开发。
 - **Tags:** `ai-agents` `claude-code` `codex-cli` `session-management` `macos`
 - **最后活动时间:** 2026-10-17
 
-### [CodeAsk](https://github.com/woniu9524/CodeAsk)
+### [herdr-reviewr](https://github.com/persiyanov/herdr-reviewr)
 
-基于LLM的智能代码阅读工具，帮助开发者理解和分析代码库。
+为 AI 智能体编排工具 herdr 打造的代码审查侧边栏，可对智能体产出的 diff 进行评论并打回重做。同时提供 PR、CI 检查与评论的只读视图，让 AI 编码智能体的协作审查更高效。
+
+- **Stars:** ⭐️ 902
+- **Tags:** `AI Agents` `Code Review` `TUI` `Rust` `Developer Tools`
+- **最后活动时间:** 2026-10-18
+
+### [inspo](https://github.com/Nutlope/inspo)
+
+面向编程智能体的设计灵感库，通过 MCP 提供可检索的真实网站案例，帮助 AI 编码助手学习优质网页设计。
+
+- **Stars:** ⭐️ 902
+- **Tags:** `MCP` `Coding-Agent` `Web-Design` `Inspiration`
+- **最后活动时间:** 2026-10-01
+
+### [codex-switcher](https://github.com/Lampese/codex-switcher)
+
+一款用于管理多个 OpenAI Codex CLI 账号的桌面应用程序，方便开发者在不同账号间快速切换。
 
 - **Stars:** ⭐️ 901
-- **Tags:** `ai` `code-reader` `llm`
-- **最后活动时间:** 2026-05-31
+- **Tags:** `openai` `codex` `tauri` `agent`
+- **最后活动时间:** 2026-10-15
 
 ### [agent-skills](https://github.com/hashicorp/agent-skills)
 
@@ -5728,21 +5784,13 @@ Synalinks开源项目的Claude技能集合，支持神经符号AI开发。
 - **Tags:** `agent-skills` `claude-code` `hashicorp` `plugins`
 - **最后活动时间:** 2026-10-05
 
-### [codex-switcher](https://github.com/Lampese/codex-switcher)
+### [CodeAsk](https://github.com/woniu9524/CodeAsk)
 
-一款用于管理多个 OpenAI Codex CLI 账号的桌面应用程序，方便开发者在不同账号间快速切换。
+基于LLM的智能代码阅读工具，帮助开发者理解和分析代码库。
 
-- **Stars:** ⭐️ 899
-- **Tags:** `openai` `codex` `tauri` `agent`
-- **最后活动时间:** 2026-10-15
-
-### [herdr-reviewr](https://github.com/persiyanov/herdr-reviewr)
-
-为 AI 智能体编排工具 herdr 打造的代码审查侧边栏，可对智能体产出的 diff 进行评论并打回重做。同时提供 PR、CI 检查与评论的只读视图，让 AI 编码智能体的协作审查更高效。
-
-- **Stars:** ⭐️ 899
-- **Tags:** `AI Agents` `Code Review` `TUI` `Rust` `Developer Tools`
-- **最后活动时间:** 2026-10-17
+- **Stars:** ⭐️ 897
+- **Tags:** `ai` `code-reader` `llm`
+- **最后活动时间:** 2026-05-31
 
 ### [herbie](https://github.com/herbie-fp/herbie)
 
@@ -5756,9 +5804,17 @@ Herbie 利用程序合成技术自动优化浮点表达式，提升数值计算�
 
 为 Oracle 技术生态精心策划的开源技能集合，为开发者和 AI 智能体提供高质量的源码支持指导。
 
-- **Stars:** ⭐️ 892
+- **Stars:** ⭐️ 893
 - **Tags:** `oracle` `agent-skills` `developer-tools` `code-assistants`
 - **最后活动时间:** 2026-10-09
+
+### [openflowkit](https://github.com/openflowkit/openflowkit)
+
+免费开源的本地优先图表画布，支持用 Mermaid、D2、Structurizr 代码绘图，可调用任意 AI 模型或本地模型生成图表，并通过 MCP 让 Claude Code 实时编辑。还能将 GitHub 仓库映射为架构图，且每条连线都标注到具体文件和行号。
+
+- **Stars:** ⭐️ 891
+- **Tags:** `ai` `mcp` `diagrams-as-code` `mermaid` `developer-tools` `self-hosted`
+- **最后活动时间:** 2026-10-14
 
 ### [ollama-copilot](https://github.com/bernardo-bruning/ollama-copilot)
 
@@ -5768,27 +5824,19 @@ Herbie 利用程序合成技术自动优化浮点表达式，提升数值计算�
 - **Tags:** `Ollama` `Copilot` `Code Assistant`
 - **最后活动时间:** 2026-09-14
 
-### [openflowkit](https://github.com/openflowkit/openflowkit)
-
-免费开源的本地优先图表画布，支持用 Mermaid、D2、Structurizr 代码绘图，可调用任意 AI 模型或本地模型生成图表，并通过 MCP 让 Claude Code 实时编辑。还能将 GitHub 仓库映射为架构图，且每条连线都标注到具体文件和行号。
-
-- **Stars:** ⭐️ 889
-- **Tags:** `ai` `mcp` `diagrams-as-code` `mermaid` `developer-tools` `self-hosted`
-- **最后活动时间:** 2026-10-14
-
 ### [pi-web](https://github.com/jmfederico/pi-web)
 
 为 Pi 编码智能体提供 Web UI 的工具，支持在真实工作区中保持会话存活。适用于持久化远程开发与智能体辅助编程。
 
-- **Stars:** ⭐️ 883
+- **Stars:** ⭐️ 887
 - **Tags:** `ai-coding-agent` `web-ui` `developer-tools` `remote-development`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [diffity](https://github.com/nilbuild/diffity)
 
 GitHub风格的代码差异查看器，用于审查代码变更。支持Claude Code、Cursor等AI工具。
 
-- **Stars:** ⭐️ 882
+- **Stars:** ⭐️ 884
 - **Tags:** `diff-viewer` `code-review` `claude-code` `cursor` `ai-tools`
 - **最后活动时间:** 2026-10-16
 
@@ -5804,9 +5852,17 @@ GitHub风格的代码差异查看器，用于审查代码变更。支持Claude C
 
 开源AI驱动的深度安全代码审查工具，自动检测代码安全漏洞。
 
-- **Stars:** ⭐️ 880
+- **Stars:** ⭐️ 881
 - **Tags:** `security` `code-review` `ai-driven` `vulnerability-detection`
 - **最后活动时间:** 2026-10-14
+
+### [reverse-engineering-assistant](https://github.com/cyberkaida/reverse-engineering-assistant)
+
+基于MCP协议的逆向工程AI助手，支持Ghidra和Binary Ninja。利用LLM辅助分析二进制文件，显著提升安全研究效率。
+
+- **Stars:** ⭐️ 878
+- **Tags:** `逆向工程` `MCP` `安全研究`
+- **最后活动时间:** 2026-10-13
 
 ### [skott](https://github.com/antoine-coulon/skott)
 
@@ -5816,14 +5872,6 @@ GitHub风格的代码差异查看器，用于审查代码变更。支持Claude C
 - **Tags:** `static-analysis` `dependency-graph` `typescript` `visualization` `developer-tools`
 - **最后活动时间:** 2026-09-11
 
-### [reverse-engineering-assistant](https://github.com/cyberkaida/reverse-engineering-assistant)
-
-基于MCP协议的逆向工程AI助手，支持Ghidra和Binary Ninja。利用LLM辅助分析二进制文件，显著提升安全研究效率。
-
-- **Stars:** ⭐️ 876
-- **Tags:** `逆向工程` `MCP` `安全研究`
-- **最后活动时间:** 2026-10-13
-
 ### [WALA](https://github.com/wala/WALA)
 
 IBM开源的静态程序分析库，支持Java、Android和JavaScript的调用图、数据流和指针分析，广泛用于代码理解和安全分析。
@@ -5831,14 +5879,6 @@ IBM开源的静态程序分析库，支持Java、Android和JavaScript的调用�
 - **Stars:** ⭐️ 876
 - **Tags:** `static-analysis` `program-analysis` `java` `code-analysis`
 - **最后活动时间:** 2026-10-16
-
-### [codex-acp](https://github.com/zed-industries/codex-acp)
-
-将 OpenAI Codex 编码智能体接入 Agent Client Protocol（ACP）的适配器，让开发者能在 Zed 等编辑器中直接调用 Codex 完成编码任务。打通智能体与 IDE 的通信桥梁，提升 AI 辅助编程体验。
-
-- **Stars:** ⭐️ 875
-- **Tags:** `Codex` `ACP` `Agent` `IDE` `CodeAssistant` `EditorIntegration`
-- **最后活动时间:** 2026-07-22
 
 ### [ida-mcp-rs](https://github.com/blacktop/ida-mcp-rs)
 
@@ -5848,6 +5888,30 @@ IDA Pro的无头MCP服务器，使AI助手能够与IDA Pro交互进行逆向工�
 - **Tags:** `idapro` `mcp` `mcp-server` `reverse-engineering`
 - **最后活动时间:** 2026-10-09
 
+### [versus-incident](https://github.com/VersusControl/versus-incident)
+
+自托管的AI SRE智能体，能够学习系统常态并仅上报异常问题到聊天和值班平台。
+
+- **Stars:** ⭐️ 871
+- **Tags:** `ai-agent` `devops` `sre` `monitoring-tool` `self-hosted`
+- **最后活动时间:** 2026-10-17
+
+### [codex-acp](https://github.com/zed-industries/codex-acp)
+
+将 OpenAI Codex 编码智能体接入 Agent Client Protocol（ACP）的适配器，让开发者能在 Zed 等编辑器中直接调用 Codex 完成编码任务。打通智能体与 IDE 的通信桥梁，提升 AI 辅助编程体验。
+
+- **Stars:** ⭐️ 871
+- **Tags:** `Codex` `ACP` `Agent` `IDE` `CodeAssistant` `EditorIntegration`
+- **最后活动时间:** 2026-07-22
+
+### [dotclaude](https://github.com/poshan0126/dotclaude)
+
+标准化的.claude/文件夹结构模板，为日常开发提供最佳实践配置。
+
+- **Stars:** ⭐️ 870
+- **Tags:** `claude-code` `configuration` `template` `developer-tools`
+- **最后活动时间:** 2026-08-27
+
 ### [clodex-ide](https://github.com/mereyabdenbekuly-ctrl/clodex-ide)
 
 一款本地优先、零信任的智能IDE，专注于可验证的自主软件开发。
@@ -5856,13 +5920,13 @@ IDA Pro的无头MCP服务器，使AI助手能够与IDA Pro交互进行逆向工�
 - **Tags:** `agentic-ai` `ide` `developer-tools` `ai-agents` `local-first`
 - **最后活动时间:** 2026-09-30
 
-### [dotclaude](https://github.com/poshan0126/dotclaude)
+### [ai-commits-intellij-plugin](https://github.com/Blarc/ai-commits-intellij-plugin)
 
-标准化的.claude/文件夹结构模板，为日常开发提供最佳实践配置。
+IntelliJ IDE 插件，利用 AI 自动生成 Git 提交信息，支持 OpenAI、Claude、Gemini 等多种 LLM 提供商。
 
-- **Stars:** ⭐️ 868
-- **Tags:** `claude-code` `configuration` `template` `developer-tools`
-- **最后活动时间:** 2026-08-27
+- **Stars:** ⭐️ 867
+- **Tags:** `Git` `提交信息` `IntelliJ` `AI辅助`
+- **最后活动时间:** 2026-10-12
 
 ### [code_puppy](https://github.com/mpfaffenberger/code_puppy)
 
@@ -5870,7 +5934,7 @@ IDA Pro的无头MCP服务器，使AI助手能够与IDA Pro交互进行逆向工�
 
 - **Stars:** ⭐️ 867
 - **Tags:** `ai-agent` `code-generation` `agentic-ai`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [spec-superflow](https://github.com/MageByte-Zero/spec-superflow)
 
@@ -5880,14 +5944,6 @@ IDA Pro的无头MCP服务器，使AI助手能够与IDA Pro交互进行逆向工�
 - **Tags:** `ai-coding` `spec-driven-development` `workflow` `ide-plugin` `tdd`
 - **最后活动时间:** 2026-10-01
 
-### [ai-commits-intellij-plugin](https://github.com/Blarc/ai-commits-intellij-plugin)
-
-IntelliJ IDE 插件，利用 AI 自动生成 Git 提交信息，支持 OpenAI、Claude、Gemini 等多种 LLM 提供商。
-
-- **Stars:** ⭐️ 866
-- **Tags:** `Git` `提交信息` `IntelliJ` `AI辅助`
-- **最后活动时间:** 2026-10-12
-
 ### [oh-my-taiyiforge](https://github.com/Dong90/oh-my-taiyiforge)
 
 智能AI工作流自动化插件，支持通过Claude和Codex进行高效的代码生成。
@@ -5895,14 +5951,6 @@ IntelliJ IDE 插件，利用 AI 自动生成 Git 提交信息，支持 OpenAI、
 - **Stars:** ⭐️ 865
 - **Tags:** `ai` `automation` `code-generation` `workflow`
 - **最后活动时间:** 2026-10-12
-
-### [versus-incident](https://github.com/VersusControl/versus-incident)
-
-自托管的AI SRE智能体，能够学习系统常态并仅上报异常问题到聊天和值班平台。
-
-- **Stars:** ⭐️ 863
-- **Tags:** `ai-agent` `devops` `sre` `monitoring-tool` `self-hosted`
-- **最后活动时间:** 2026-10-17
 
 ### [dianxing](https://github.com/tianchong-zerotemp/dianxing)
 
@@ -5912,6 +5960,14 @@ IntelliJ IDE 插件，利用 AI 自动生成 Git 提交信息，支持 OpenAI、
 - **Tags:** `ai-code-review` `ai-security` `sast` `devsecops` `vulnerability-detection`
 - **最后活动时间:** 2026-06-24
 
+### [mcp-nixos](https://github.com/utensils/mcp-nixos)
+
+NixOS资源MCP服务器，让AI助手能够查询Nix包和配置选项。
+
+- **Stars:** ⭐️ 862
+- **Tags:** `mcp` `nixos` `claude` `ai-assistant`
+- **最后活动时间:** 2026-09-05
+
 ### [Ghostex](https://github.com/maddada/Ghostex)
 
 专为 macOS 设计的原生智能体 CLI 管理器，集成了 Ghostty 终端与 Codex 应用体验。内置浏览器与 IDE，提供强大的 AI 代理支持。
@@ -5919,14 +5975,6 @@ IntelliJ IDE 插件，利用 AI 自动生成 Git 提交信息，支持 OpenAI、
 - **Stars:** ⭐️ 861
 - **Tags:** `cli` `macos` `ai-agents` `terminal` `ide`
 - **最后活动时间:** 2026-09-30
-
-### [mcp-nixos](https://github.com/utensils/mcp-nixos)
-
-NixOS资源MCP服务器，让AI助手能够查询Nix包和配置选项。
-
-- **Stars:** ⭐️ 859
-- **Tags:** `mcp` `nixos` `claude` `ai-assistant`
-- **最后活动时间:** 2026-09-05
 
 ### [claude-forge](https://github.com/sangrokjung/claude-forge)
 
@@ -5936,6 +5984,22 @@ Claude Code插件框架，内置11个AI智能体、36个命令和15项技能，5
 - **Tags:** `claude-code` `agents` `cli-tools` `automation`
 - **最后活动时间:** 2026-09-03
 
+### [opencode-notifier](https://github.com/mohak34/opencode-notifier)
+
+OpenCode 插件，在权限请求、任务完成和出错等事件时提供桌面通知与声音提醒。减少等待AI编程智能体时的注意力空转。
+
+- **Stars:** ⭐️ 857
+- **Tags:** `opencode` `plugin` `notifications` `developer-tools` `productivity`
+- **最后活动时间:** 2026-10-17
+
+### [Godot-MCP-Native](https://github.com/yurineko73/Godot-MCP-Native)
+
+一款支持Godot引擎的MCP原生插件，无需安装依赖即可实现常见引擎操作，支持多种AI工具调用。
+
+- **Stars:** ⭐️ 856
+- **Tags:** `mcp` `godot` `game-development` `ai-tools`
+- **最后活动时间:** 2026-08-03
+
 ### [agentfiles](https://github.com/Railly/agentfiles)
 
 一款Obsidian插件，用于跨Claude Code、Cursor、Codex等13+AI编程工具浏览、创建和编辑AI代理配置文件，实现统一的技能管理。
@@ -5943,6 +6007,14 @@ Claude Code插件框架，内置11个AI智能体、36个命令和15项技能，5
 - **Stars:** ⭐️ 854
 - **Tags:** `ai-agents` `obsidian-plugin` `coding-agents` `developer-tools`
 - **最后活动时间:** 2026-08-31
+
+### [ccglass](https://github.com/jianshuo/ccglass)
+
+一个本地代理和Web仪表板工具，用于监控和查看编码代理（如Claude Code、Codex等）发送给模型的实际数据。
+
+- **Stars:** ⭐️ 853
+- **Tags:** `ai-agent` `local-proxy` `dashboard` `debugging`
+- **最后活动时间:** 2026-10-11
 
 ### [tidewave_phoenix](https://github.com/tidewave-ai/tidewave_phoenix)
 
@@ -5956,7 +6028,7 @@ Claude Code插件框架，内置11个AI智能体、36个命令和15项技能，5
 
 一款对 AI 友好的 Markdown 编辑器，便于智能体读写和编辑文档。
 
-- **Stars:** ⭐️ 852
+- **Stars:** ⭐️ 853
 - **Tags:** `markdown` `ai-editor` `editor`
 - **最后活动时间:** 2026-10-17
 
@@ -5967,6 +6039,14 @@ Claude Code插件框架，内置11个AI智能体、36个命令和15项技能，5
 - **Stars:** ⭐️ 848
 - **Tags:** `ai-code-review` `static-analysis` `code-scanning` `dead-code` `devsecops`
 - **最后活动时间:** 2026-10-18
+
+### [GodotPrompter](https://github.com/jame581/GodotPrompter)
+
+面向Godot 4.x的智能体技能框架，为AI编码代理提供特定领域的技能支持。
+
+- **Stars:** ⭐️ 847
+- **Tags:** `ai-skills` `claude-code` `copilot` `game-development` `godot`
+- **最后活动时间:** 2026-10-14
 
 ### [claude-replay](https://github.com/es617/claude-replay)
 
@@ -5988,17 +6068,9 @@ Claude Code插件框架，内置11个AI智能体、36个命令和15项技能，5
 
 开源技能，可学习任意品牌并生成完整设计系统。一次安装，AI助手构建的所有UI都将匹配品牌风格。
 
-- **Stars:** ⭐️ 842
+- **Stars:** ⭐️ 843
 - **Tags:** `design-system` `claude-code` `codex` `ai-tools` `design-language`
 - **最后活动时间:** 2026-06-11
-
-### [GodotPrompter](https://github.com/jame581/GodotPrompter)
-
-面向Godot 4.x的智能体技能框架，为AI编码代理提供特定领域的技能支持。
-
-- **Stars:** ⭐️ 842
-- **Tags:** `ai-skills` `claude-code` `copilot` `game-development` `godot`
-- **最后活动时间:** 2026-10-14
 
 ### [watermark-remover](https://github.com/ShadowAqueduct/watermark-remover)
 
@@ -6008,13 +6080,13 @@ Claude Code插件框架，内置11个AI智能体、36个命令和15项技能，5
 - **Tags:** `claude-code` `claude-skills` `codex` `watermark` `c2pa` `metadata` `cli`
 - **最后活动时间:** 2026-08-31
 
-### [opencode-notifier](https://github.com/mohak34/opencode-notifier)
+### [superdesign-skill](https://github.com/superdesigndev/superdesign-skill)
 
-OpenCode 插件，在权限请求、任务完成和出错等事件时提供桌面通知与声音提醒。减少等待AI编程智能体时的注意力空转。
+为Claude Code、Cursor等编码Agent设计的UI技能，将AI生成的粗糙界面转化为可上线的高质量前端。一行命令即可安装，显著提升AI前端设计品味。
 
-- **Stars:** ⭐️ 838
-- **Tags:** `opencode` `plugin` `notifications` `developer-tools` `productivity`
-- **最后活动时间:** 2026-09-30
+- **Stars:** ⭐️ 840
+- **Tags:** `claude-code` `cursor` `ui-design` `frontend` `agent-skills` `coding-agent`
+- **最后活动时间:** 2026-08-21
 
 ### [arbor](https://github.com/penso/arbor)
 
@@ -6032,27 +6104,11 @@ Codex插件，用于在代码库中运行优化循环，适用于测试运行时
 - **Tags:** `codex` `optimization` `automation`
 - **最后活动时间:** 2026-10-11
 
-### [superdesign-skill](https://github.com/superdesigndev/superdesign-skill)
-
-为Claude Code、Cursor等编码Agent设计的UI技能，将AI生成的粗糙界面转化为可上线的高质量前端。一行命令即可安装，显著提升AI前端设计品味。
-
-- **Stars:** ⭐️ 834
-- **Tags:** `claude-code` `cursor` `ui-design` `frontend` `agent-skills` `coding-agent`
-- **最后活动时间:** 2026-08-21
-
-### [ccglass](https://github.com/jianshuo/ccglass)
-
-一个本地代理和Web仪表板工具，用于监控和查看编码代理（如Claude Code、Codex等）发送给模型的实际数据。
-
-- **Stars:** ⭐️ 833
-- **Tags:** `ai-agent` `local-proxy` `dashboard` `debugging`
-- **最后活动时间:** 2026-07-09
-
 ### [deepseek-harness-desktop](https://github.com/ningbainb/deepseek-harness-desktop)
 
 DeepSeek Harness 的开源 Windows 桌面客户端，集成 Codex、插件、Skills 与远程访问，提供零配置的 AI 编程助手体验。
 
-- **Stars:** ⭐️ 831
+- **Stars:** ⭐️ 834
 - **Tags:** `DeepSeek` `AI-Agent` `Coding-Assistant` `Electron` `Desktop`
 - **最后活动时间:** 2026-10-06
 
@@ -6060,9 +6116,17 @@ DeepSeek Harness 的开源 Windows 桌面客户端，集成 Codex、插件、Ski
 
 为 Coding Agent 提供的 Next.js 开发工具 MCP 服务器，增强 AI 编程助手的开发能力。
 
-- **Stars:** ⭐️ 829
+- **Stars:** ⭐️ 830
 - **Tags:** `mcp` `nextjs` `coding-agents` `developer-tools`
 - **最后活动时间:** 2026-09-15
+
+### [GhidraGPT](https://github.com/weirdmachine64/GhidraGPT)
+
+将大语言模型直接集成到Ghidra中，实现AI增强的逆向工程分析。帮助开发者更高效地理解和处理二进制代码。
+
+- **Stars:** ⭐️ 829
+- **Tags:** `ghidra` `reverse-engineering` `llm` `ai-agent`
+- **最后活动时间:** 2026-07-22
 
 ### [agnosticui](https://github.com/AgnosticUI/agnosticui)
 
@@ -6096,19 +6160,11 @@ Claude Code 高级用户插件集合，扩展 AI 编程能力。
 - **Tags:** `claude-code` `plugins` `extensions`
 - **最后活动时间:** 2026-04-20
 
-### [GhidraGPT](https://github.com/weirdmachine64/GhidraGPT)
-
-将大语言模型直接集成到Ghidra中，实现AI增强的逆向工程分析。帮助开发者更高效地理解和处理二进制代码。
-
-- **Stars:** ⭐️ 827
-- **Tags:** `ghidra` `reverse-engineering` `llm` `ai-agent`
-- **最后活动时间:** 2026-07-22
-
 ### [agentic-flow](https://github.com/ruvnet/agentic-flow)
 
 在Claude Code中轻松切换低成本AI模型，支持将代理部署到云端。
 
-- **Stars:** ⭐️ 822
+- **Stars:** ⭐️ 823
 - **Tags:** `model-switching` `claude-code` `openrouter` `gemini`
 - **最后活动时间:** 2026-10-11
 
@@ -6172,25 +6228,25 @@ AI 编程助手机器人，可自动审查代码、修复 Bug 并提交 PR，提
 
 Claude Code 的中文本地化插件，为开发者提供简体中文支持。
 
-- **Stars:** ⭐️ 813
+- **Stars:** ⭐️ 814
 - **Tags:** `claude` `localization` `chinese` `ide-extension`
 - **最后活动时间:** 2026-10-14
-
-### [Godot-MCP-Native](https://github.com/yurineko73/Godot-MCP-Native)
-
-一款支持Godot引擎的MCP原生插件，无需安装依赖即可实现常见引擎操作，支持多种AI工具调用。
-
-- **Stars:** ⭐️ 812
-- **Tags:** `mcp` `godot` `game-development` `ai-tools`
-- **最后活动时间:** 2026-08-03
 
 ### [pi-agent-desktop](https://github.com/abcwyc/pi-agent-desktop)
 
 跨平台 AI 编程智能体 Pi，将 Claude Code 级别的编程体验带到桌面端，无需环境配置和终端命令。下载即可立即开始 AI 辅助编码。
 
-- **Stars:** ⭐️ 812
+- **Stars:** ⭐️ 814
 - **Tags:** `ai-agent` `coding-agent` `desktop-app` `ai-coding`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
+
+### [claude-code-apple-skills](https://github.com/rshankras/claude-code-apple-skills)
+
+专为 Apple 平台开发设计的 Claude Code 技能，涵盖产品验证、代码生成和 App Store 优化等功能。
+
+- **Stars:** ⭐️ 812
+- **Tags:** `apple` `swift` `claude-code` `app-store` `ios`
+- **最后活动时间:** 2026-07-24
 
 ### [octocode-mcp](https://github.com/bgauryy/octocode-mcp)
 
@@ -6200,19 +6256,11 @@ Claude Code 的中文本地化插件，为开发者提供简体中文支持。
 - **Tags:** `MCP` `Code Search` `Semantic Search` `Claude`
 - **最后活动时间:** 2026-05-07
 
-### [claude-code-apple-skills](https://github.com/rshankras/claude-code-apple-skills)
-
-专为 Apple 平台开发设计的 Claude Code 技能，涵盖产品验证、代码生成和 App Store 优化等功能。
-
-- **Stars:** ⭐️ 810
-- **Tags:** `apple` `swift` `claude-code` `app-store` `ios`
-- **最后活动时间:** 2026-07-24
-
 ### [RocketSimApp](https://github.com/AvdLee/RocketSimApp)
 
 Xcode iOS模拟器增强工具套件，提供30+种调试、测试和网络监控功能，支持AI代理自动化CLI。
 
-- **Stars:** ⭐️ 808
+- **Stars:** ⭐️ 809
 - **Tags:** `xcode` `ios` `simulator` `developer-tools` `ai-automation`
 - **最后活动时间:** 2026-10-17
 
@@ -6252,7 +6300,7 @@ Claude Code 跨平台智能通知插件，支持6种通知类型、点击聚焦�
 
 一个多项目的AI命令行工作区工具，支持本地终端、SSH主机和移动端辅助工作流。
 
-- **Stars:** ⭐️ 801
+- **Stars:** ⭐️ 802
 - **Tags:** `ai-cli` `workspace` `terminal` `ssh`
 - **最后活动时间:** 2026-10-17
 
@@ -6264,6 +6312,14 @@ Claude Code 跨平台智能通知插件，支持6种通知类型、点击聚焦�
 - **Tags:** `ai-agent` `version-control` `developer-tools` `claude-code`
 - **最后活动时间:** 2026-07-02
 
+### [Codeman](https://github.com/Ark0N/Codeman)
+
+自托管的人工智能编码代理任务控制中心，支持全天候运行 Claude Code、Codex 等多种 AI 编程工具。提供 Web 仪表盘，可跨设备实时监控每个子代理的运行状态。
+
+- **Stars:** ⭐️ 800
+- **Tags:** `ai-agents` `claude-code` `codex` `developer-tools` `self-hosted` `terminal` `web-dashboard`
+- **最后活动时间:** 2026-10-18
+
 ### [putout](https://github.com/coderaiser/putout)
 
 putout 是一个可插拔且高度可配置的 JavaScript 代码工具，支持多种语言如 JS、TS、Markdown。它集成了 linter、transformer 和 formatter 功能，并支持通过简单声明式方式编写 codemods，助力代码重构和自动化。
@@ -6272,29 +6328,13 @@ putout 是一个可插拔且高度可配置的 JavaScript 代码工具，支持�
 - **Tags:** `linter` `codemod` `javascript` `ast` `babel`
 - **最后活动时间:** 2026-10-17
 
-### [inspo](https://github.com/Nutlope/inspo)
-
-面向编程智能体的设计灵感库，通过 MCP 提供可检索的真实网站案例，帮助 AI 编码助手学习优质网页设计。
-
-- **Stars:** ⭐️ 800
-- **Tags:** `MCP` `Coding-Agent` `Web-Design` `Inspiration`
-- **最后活动时间:** 2026-09-25
-
-### [Codeman](https://github.com/Ark0N/Codeman)
-
-自托管的人工智能编码代理任务控制中心，支持全天候运行 Claude Code、Codex 等多种 AI 编程工具。提供 Web 仪表盘，可跨设备实时监控每个子代理的运行状态。
-
-- **Stars:** ⭐️ 799
-- **Tags:** `ai-agents` `claude-code` `codex` `developer-tools` `self-hosted` `terminal` `web-dashboard`
-- **最后活动时间:** 2026-10-18
-
 ### [aderyn](https://github.com/Cyfrin/aderyn)
 
 Solidity智能合约静态分析工具，支持MCP协议集成，可让AI助手直接分析智能合约代码安全性。
 
-- **Stars:** ⭐️ 798
+- **Stars:** ⭐️ 797
 - **Tags:** `solidity` `static-analyzer` `mcp-server` `smart-contracts`
-- **最后活动时间:** 2026-10-11
+- **最后活动时间:** 2026-10-18
 
 ### [security](https://github.com/gemini-cli-extensions/security)
 
@@ -6328,6 +6368,22 @@ AI 代码库智能工具，自动检测代码模式与规范，跨会话记忆�
 - **Tags:** `opencode` `mcp` `model-context-protocol` `configuration-manager`
 - **最后活动时间:** 2026-09-26
 
+### [coop](https://github.com/trailofbits/coop)
+
+基于 Firecracker/KVM 等微虚拟机技术，为运行 Claude Code 与 Codex 提供安全隔离的沙箱环境。
+
+- **Stars:** ⭐️ 789
+- **Tags:** `claude-code` `codex` `sandbox` `microvm` `firecracker` `rust`
+- **最后活动时间:** 2026-10-18
+
+### [h5i](https://github.com/h5i-dev/h5i)
+
+为AI编程智能体提供的一体化本地沙箱环境，集成工作区、终端、依赖管理和浏览器。无需云服务或SaaS账号，安全隔离且即用即弃。
+
+- **Stars:** ⭐️ 788
+- **Tags:** `ai-coding-agent` `sandbox` `agent-orchestration` `local-first` `microvm`
+- **最后活动时间:** 2026-10-18
+
 ### [skills](https://github.com/suleimanodetoro/skills)
 
 为开发者提供的AI智能体技能库，涵盖界面设计、React、React Native及软件安全等领域。可辅助提升开发效率与代码质量。
@@ -6335,14 +6391,6 @@ AI 代码库智能工具，自动检测代码模式与规范，跨会话记忆�
 - **Stars:** ⭐️ 787
 - **Tags:** `agent-skills` `react` `code-assistant`
 - **最后活动时间:** 2026-07-30
-
-### [h5i](https://github.com/h5i-dev/h5i)
-
-为AI编程智能体提供的一体化本地沙箱环境，集成工作区、终端、依赖管理和浏览器。无需云服务或SaaS账号，安全隔离且即用即弃。
-
-- **Stars:** ⭐️ 785
-- **Tags:** `ai-coding-agent` `sandbox` `agent-orchestration` `local-first` `microvm`
-- **最后活动时间:** 2026-10-18
 
 ### [CSharpGuidelines](https://github.com/dennisdoomen/CSharpGuidelines)
 
@@ -6368,11 +6416,19 @@ Claude Code顶级工具集，包含自主技能、专家智能体、斜杠命令
 - **Tags:** `neovim-plugin` `sourcegraph` `cody` `ai-assistant`
 - **最后活动时间:** 2026-07-03
 
+### [big-arrow-on-the-screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen)
+
+让 AI 智能体（如 Claude Code、Codex）直接在你的 Mac 屏幕上绘制大箭头、方框和文字，单个 CLI 即可调用，点击穿透且自动消失。为 AI 编程助手提供直观的可视化反馈能力，显著提升人机协作体验。
+
+- **Stars:** ⭐️ 782
+- **Tags:** `AI Agents` `Claude Code` `Codex` `CLI` `macOS` `Swift` `Developer Tools`
+- **最后活动时间:** 2026-10-18
+
 ### [jupynium.nvim](https://github.com/kiyoon/jupynium.nvim)
 
 基于Selenium将Jupyter Notebook与Neovim实时同步的工具，让你在熟悉的Vim环境中高效编写和执行Notebook。是数据科学与AI开发者的效率利器。
 
-- **Stars:** ⭐️ 780
+- **Stars:** ⭐️ 781
 - **Tags:** `neovim` `jupyter-notebook` `nvim-plugin` `selenium` `developer-tools`
 - **最后活动时间:** 2026-09-20
 
@@ -6380,9 +6436,17 @@ Claude Code顶级工具集，包含自主技能、专家智能体、斜杠命令
 
 专为虚幻引擎设计的AI Vibe Coding工具，支持通过自然语言生成蓝图与Niagara特效。结合MCP协议与Claude、Cursor等AI编程助手实现游戏开发自动化。
 
-- **Stars:** ⭐️ 777
+- **Stars:** ⭐️ 780
 - **Tags:** `ai-tools` `unreal-engine` `mcp-server` `vibe-coding` `game-development`
 - **最后活动时间:** 2026-10-07
+
+### [storybloq](https://github.com/Storybloq/storybloq)
+
+Claude Code跨会话上下文管理工具，通过CLI和MCP服务器追踪任务、问题和项目路线图。
+
+- **Stars:** ⭐️ 777
+- **Tags:** `mcp-server` `claude-code` `context-management` `project-management`
+- **最后活动时间:** 2026-10-19
 
 ### [GhidrAssistMCP](https://github.com/symgraph/GhidrAssistMCP)
 
@@ -6392,14 +6456,6 @@ Claude Code顶级工具集，包含自主技能、专家智能体、斜杠命令
 - **Tags:** `ghidra` `mcp` `reverse-engineering` `llm`
 - **最后活动时间:** 2026-10-09
 
-### [big-arrow-on-the-screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen)
-
-让 AI 智能体（如 Claude Code、Codex）直接在你的 Mac 屏幕上绘制大箭头、方框和文字，单个 CLI 即可调用，点击穿透且自动消失。为 AI 编程助手提供直观的可视化反馈能力，显著提升人机协作体验。
-
-- **Stars:** ⭐️ 776
-- **Tags:** `AI Agents` `Claude Code` `Codex` `CLI` `macOS` `Swift` `Developer Tools`
-- **最后活动时间:** 2026-10-12
-
 ### [getting-started-with-github-copilot](https://github.com/skills/getting-started-with-github-copilot)
 
 GitHub Copilot官方入门教程，快速掌握AI编程助手的最佳实践。
@@ -6408,6 +6464,14 @@ GitHub Copilot官方入门教程，快速掌握AI编程助手的最佳实践。
 - **Tags:** `copilot` `ai-coding` `tutorial` `github` `productivity`
 - **最后活动时间:** 2026-09-24
 
+### [cartographer](https://github.com/kingbootoshi/cartographer)
+
+Claude Code 插件，利用并行 AI 子代理映射和文档化任意规模的代码库，帮助开发者快速理解项目结构。
+
+- **Stars:** ⭐️ 775
+- **Tags:** `claude-code` `codebase-mapping` `documentation` `ai-agents`
+- **最后活动时间:** 2026-05-13
+
 ### [pearai-master](https://github.com/trypear/pearai-master)
 
 PearAI代码编辑器主仓库，集成ChatGPT和Claude的AI编程助手。
@@ -6415,14 +6479,6 @@ PearAI代码编辑器主仓库，集成ChatGPT和Claude的AI编程助手。
 - **Stars:** ⭐️ 773
 - **Tags:** `ai-code-editor` `chatgpt` `claude` `vscode`
 - **最后活动时间:** 2026-06-19
-
-### [storybloq](https://github.com/Storybloq/storybloq)
-
-Claude Code跨会话上下文管理工具，通过CLI和MCP服务器追踪任务、问题和项目路线图。
-
-- **Stars:** ⭐️ 773
-- **Tags:** `mcp-server` `claude-code` `context-management` `project-management`
-- **最后活动时间:** 2026-10-18
 
 ### [ai-doc-gen](https://github.com/divar-ir/ai-doc-gen)
 
@@ -6448,6 +6504,14 @@ AI 驱动的多智能体文档生成系统，自动分析代码库并生成完�
 - **Tags:** `code-intelligence` `mcp` `semantic-search` `rust` `tree-sitter`
 - **最后活动时间:** 2026-08-02
 
+### [agentacct](https://github.com/mikehasa/agentacct)
+
+本地优先的AI编程智能体仪表盘，用于追踪编码智能体的工作步骤、文件更改及Token消耗成本。支持Claude Code、Codex等工具，无需登录即可实现全面的智能体可观测性。
+
+- **Stars:** ⭐️ 768
+- **Tags:** `ai-agents` `agent-observability` `developer-tools` `llmops` `cost-tracking`
+- **最后活动时间:** 2026-10-03
+
 ### [TestHub](https://github.com/chenjigang4167/testhub_platform)
 
 TestHub 是一站式 AI 智能测试平台，融合 AI 能力提升软件测试自动化与质量保障效率。
@@ -6456,19 +6520,19 @@ TestHub 是一站式 AI 智能测试平台，融合 AI 能力提升软件测试�
 - **Tags:** `AI-testing` `test-platform` `automation` `software-testing`
 - **最后活动时间:** 2026-09-02
 
-### [agentacct](https://github.com/mikehasa/agentacct)
+### [live-panel-skill](https://github.com/ythx-101/live-panel-skill)
 
-本地优先的AI编程智能体仪表盘，用于追踪编码智能体的工作步骤、文件更改及Token消耗成本。支持Claude Code、Codex等工具，无需登录即可实现全面的智能体可观测性。
+通过一份 JSON 配置即可生成终端风格的动态架构图或浅色信息图动画，支持输出 H.264 视频或实时网页。同时以 Claude Code 技能（SKILL.md）形式提供，方便在 AI 编程助手工作流中直接调用。
 
 - **Stars:** ⭐️ 767
-- **Tags:** `ai-agents` `agent-observability` `developer-tools` `llmops` `cost-tracking`
-- **最后活动时间:** 2026-10-03
+- **Tags:** `Claude-Code` `Skill` `Architecture-Diagram` `Animation` `Visualization`
+- **最后活动时间:** 2026-10-14
 
 ### [GhidrAssist](https://github.com/symgraph/GhidrAssist)
 
 为Ghidra逆向工程工具开发的LLM扩展插件，通过AI能力为逆向工程师提供智能辅助分析。
 
-- **Stars:** ⭐️ 764
+- **Stars:** ⭐️ 765
 - **Tags:** `Ghidra` `逆向工程` `LLM`
 - **最后活动时间:** 2026-10-16
 
@@ -6480,6 +6544,22 @@ TestHub 是一站式 AI 智能测试平台，融合 AI 能力提升软件测试�
 - **Tags:** `Cline` `VS Code` `Chain-of-Thought`
 - **最后活动时间:** 2026-09-03
 
+### [openqodex](https://github.com/openqodex/openqodex)
+
+在推送代码前于编码代理中运行的开源代码审查工具，结合静态扫描器与独立 AI 审查器，使用自己的账号登录且无需 API 密钥。支持 Claude Code、Codex、Cursor 等主流编码代理。
+
+- **Stars:** ⭐️ 762
+- **Tags:** `ai-code-review` `claude-code` `code-quality` `security` `static-analysis`
+- **最后活动时间:** 2026-10-15
+
+### [figma-mcp-bridge](https://github.com/gethopp/figma-mcp-bridge)
+
+Figma 插件与 MCP 服务器，通过本地桥接绕过 Figma API 速率限制，让 AI 编码工具更流畅地读取设计稿。
+
+- **Stars:** ⭐️ 761
+- **Tags:** `figma` `mcp` `mcp-server` `design-to-code`
+- **最后活动时间:** 2026-10-11
+
 ### [recall](https://github.com/raiyanyahya/recall)
 
 为Claude Code提供完全离线的持久记忆工具，避免重复解释项目上下文造成的Token浪费。
@@ -6488,21 +6568,21 @@ TestHub 是一站式 AI 智能测试平台，融合 AI 能力提升软件测试�
 - **Tags:** `claude-code` `memory` `offline` `developer-tools`
 - **最后活动时间:** 2026-09-07
 
-### [figma-mcp-bridge](https://github.com/gethopp/figma-mcp-bridge)
-
-Figma 插件与 MCP 服务器，通过本地桥接绕过 Figma API 速率限制，让 AI 编码工具更流畅地读取设计稿。
-
-- **Stars:** ⭐️ 759
-- **Tags:** `figma` `mcp` `mcp-server` `design-to-code`
-- **最后活动时间:** 2026-10-11
-
 ### [beads-ui](https://github.com/mantoni/beads-ui)
 
 本地优先的UI工具，用于与AI编程代理协作处理代码问题，提升开发效率。
 
-- **Stars:** ⭐️ 757
+- **Stars:** ⭐️ 758
 - **Tags:** `ai-tools` `agent` `issue-tracker` `local-first`
 - **最后活动时间:** 2026-08-11
+
+### [thinkrail](https://github.com/JetBrains/thinkrail)
+
+轻量级真实 IDE，会围绕你的工作方式自我定制，将 vibe coding 与规格驱动开发融为一体。基于 pi 智能体打造的开箱即用 AI 编码环境。
+
+- **Stars:** ⭐️ 758
+- **Tags:** `Vibe Coding` `AI Coding` `Spec-Driven` `IDE` `Agentic AI`
+- **最后活动时间:** 2026-10-18
 
 ### [loopkit](https://github.com/Archive228/loopkit)
 
@@ -6511,6 +6591,14 @@ Figma 插件与 MCP 服务器，通过本地桥接绕过 Figma API 速率限制�
 - **Stars:** ⭐️ 755
 - **Tags:** `ai-agent` `coding-assistant` `claude-code` `cursor` `developer-tools`
 - **最后活动时间:** 2026-07-14
+
+### [coi](https://github.com/coipond/coi)
+
+为AI编程代理提供独立隔离的运行机器，每个Agent拥有独立的root、Docker与systemd环境，并具备主动威胁检测与自动拦截能力。支持Claude Code、Codex、opencode等主流编码代理的安全沙箱运行。
+
+- **Stars:** ⭐️ 755
+- **Tags:** `ai-agents` `sandbox` `claude-code` `security` `docker` `developer-tools`
+- **最后活动时间:** 2026-10-19
 
 ### [codanna](https://github.com/bartolli/codanna)
 
@@ -6528,29 +6616,21 @@ Figma 插件与 MCP 服务器，通过本地桥接绕过 Figma API 速率限制�
 - **Tags:** `ai-agent` `unity` `gamedev` `llm` `rust`
 - **最后活动时间:** 2026-10-17
 
-### [openqodex](https://github.com/openqodex/openqodex)
-
-在推送代码前于编码代理中运行的开源代码审查工具，结合静态扫描器与独立 AI 审查器，使用自己的账号登录且无需 API 密钥。支持 Claude Code、Codex、Cursor 等主流编码代理。
-
-- **Stars:** ⭐️ 753
-- **Tags:** `ai-code-review` `claude-code` `code-quality` `security` `static-analysis`
-- **最后活动时间:** 2026-10-15
-
 ### [old-coder](https://github.com/AmazingAng/old-coder)
 
 面向智能体时代的证据优先开发技能：不读代码，而是让代码通过变异测试与属性测试的严酷考验。适用于 Claude Code、Cursor、Codex 等编码智能体。
 
-- **Stars:** ⭐️ 752
+- **Stars:** ⭐️ 753
 - **Tags:** `ai-agents` `agent-skills` `tdd` `mutation-testing` `claude-code`
 - **最后活动时间:** 2026-08-18
 
-### [coi](https://github.com/coipond/coi)
+### [embeddedskills](https://github.com/zhinkgit/embeddedskills)
 
-为AI编程代理提供独立隔离的运行机器，每个Agent拥有独立的root、Docker与systemd环境，并具备主动威胁检测与自动拦截能力。支持Claude Code、Codex、opencode等主流编码代理的安全沙箱运行。
+为AI编程助手提供的嵌入式开发与调试技能集合，支持直接操作编译器和硬件总线。可自动化完成从代码生成到硬件验证的完整流程。
 
 - **Stars:** ⭐️ 752
-- **Tags:** `ai-agents` `sandbox` `claude-code` `security` `docker` `developer-tools`
-- **最后活动时间:** 2026-10-17
+- **Tags:** `ai-coding-assistant` `embedded` `debugging` `firmware` `automation`
+- **最后活动时间:** 2026-09-03
 
 ### [openmcp-client](https://github.com/LSTM-Kirigaya/openmcp-client)
 
@@ -6567,14 +6647,6 @@ Figma 插件与 MCP 服务器，通过本地桥接绕过 Figma API 速率限制�
 - **Stars:** ⭐️ 751
 - **Tags:** `AI-Agents` `Spec-Driven-Development` `CLI` `Coding-Agents` `Developer-Tools`
 - **最后活动时间:** 2026-09-13
-
-### [embeddedskills](https://github.com/zhinkgit/embeddedskills)
-
-为AI编程助手提供的嵌入式开发与调试技能集合，支持直接操作编译器和硬件总线。可自动化完成从代码生成到硬件验证的完整流程。
-
-- **Stars:** ⭐️ 750
-- **Tags:** `ai-coding-assistant` `embedded` `debugging` `firmware` `automation`
-- **最后活动时间:** 2026-09-03
 
 ### [HitCC](https://github.com/hitmux/HitCC)
 
@@ -6608,14 +6680,6 @@ Claude Code 的 Emacs 编辑器集成插件，为 Emacs 用户提供无缝的 AI
 - **Tags:** `MCP` `Feishu` `AI Integration`
 - **最后活动时间:** 2026-10-17
 
-### [cartographer](https://github.com/kingbootoshi/cartographer)
-
-Claude Code 插件，利用并行 AI 子代理映射和文档化任意规模的代码库，帮助开发者快速理解项目结构。
-
-- **Stars:** ⭐️ 736
-- **Tags:** `claude-code` `codebase-mapping` `documentation` `ai-agents`
-- **最后活动时间:** 2026-05-13
-
 ### [x64DbgMCPServer](https://github.com/AgentSmithers/x64DbgMCPServer)
 
 基于C#开发的x64dbg MCP服务器，支持Claude、Windsurf和Cursor等AI编程助手与调试器集成，实现AI辅助逆向工程调试。
@@ -6631,6 +6695,14 @@ Claude Code 插件，利用并行 AI 子代理映射和文档化任意规模的�
 - **Stars:** ⭐️ 735
 - **Tags:** `claude-code` `gemini-cli` `codex` `ide` `developer-tools`
 - **最后活动时间:** 2026-06-11
+
+### [pi-acp](https://github.com/svkozak/pi-acp)
+
+为 pi 编码智能体提供 ACP（Agent Client Protocol）适配器，可将其无缝接入 Zed 等支持 ACP 的编辑器。让开发者直接在编辑器内调用 pi 智能体完成编码任务。
+
+- **Stars:** ⭐️ 734
+- **Tags:** `ACP` `Coding Agent` `Adapter` `Editor Integration` `Developer Tools`
+- **最后活动时间:** 2026-10-06
 
 ### [coi](https://github.com/mensfeld/coi)
 
@@ -6648,21 +6720,29 @@ Claude Code 插件，利用并行 AI 子代理映射和文档化任意规模的�
 - **Tags:** `mcp` `diagram` `code-visualization` `architecture`
 - **最后活动时间:** 2026-07-22
 
-### [antigravity-panel](https://github.com/n2ns/antigravity-panel)
+### [SmartPerfetto](https://github.com/Gracker/SmartPerfetto)
 
-Google Antigravity IDE配额与缓存监控扩展，提供云端开发环境的性能仪表板。
+AI辅助的Perfetto性能分析工具，提供Web UI、CLI和可视化报告生成能力。帮助开发者高效进行Android性能追踪与分析。
 
-- **Stars:** ⭐️ 729
-- **Tags:** `antigravity` `monitoring` `ide-extension` `cloud-development`
-- **最后活动时间:** 2026-10-11
+- **Stars:** ⭐️ 731
+- **Tags:** `android-performance` `perfetto` `trace-analysis` `ai-assisted`
+- **最后活动时间:** 2026-10-16
 
 ### [probe](https://github.com/probelabs/probe)
 
 面向 AI 的语义代码搜索引擎，结合 ripgrep 速度与 tree-sitter AST 解析能力，支持 MCP 协议。
 
-- **Stars:** ⭐️ 728
+- **Stars:** ⭐️ 730
 - **Tags:** `代码搜索` `语义搜索` `MCP` `Rust`
 - **最后活动时间:** 2026-10-01
+
+### [antigravity-panel](https://github.com/n2ns/antigravity-panel)
+
+Google Antigravity IDE配额与缓存监控扩展，提供云端开发环境的性能仪表板。
+
+- **Stars:** ⭐️ 730
+- **Tags:** `antigravity` `monitoring` `ide-extension` `cloud-development`
+- **最后活动时间:** 2026-10-11
 
 ### [opencode-worktree](https://github.com/kdcokenny/opencode-worktree)
 
@@ -6720,14 +6800,6 @@ Snowflake Cortex Code CLI的AI开发生命周期插件，提供结构化的多�
 - **Tags:** `swift` `tree-sitter` `code-editor`
 - **最后活动时间:** 2026-10-17
 
-### [codexsplit](https://github.com/AITabby/codexsplit)
-
-本地 Codex 桌面控制中心，提供供应商网关与模型路由工作台。便于统一管理多个 AI 模型接入。
-
-- **Stars:** ⭐️ 723
-- **Tags:** `codex` `model-routing` `provider-gateway` `desktop`
-- **最后活动时间:** 2026-10-02
-
 ### [pilot](https://github.com/qf-studio/pilot)
 
 自动处理和交付开发任务的 AI 工具，帮助开发者自动完成工单。
@@ -6744,6 +6816,30 @@ Codex/ChatGPT桌面端的中间件，允许通过浏览器在局域网或远程�
 - **Tags:** `codex` `chatgpt` `ai-coding` `remote-access`
 - **最后活动时间:** 2026-09-13
 
+### [codexsplit](https://github.com/AITabby/codexsplit)
+
+本地 Codex 桌面控制中心，提供供应商网关与模型路由工作台。便于统一管理多个 AI 模型接入。
+
+- **Stars:** ⭐️ 722
+- **Tags:** `codex` `model-routing` `provider-gateway` `desktop`
+- **最后活动时间:** 2026-10-02
+
+### [airship](https://github.com/0xnyn/airship)
+
+为 Claude Code、Codex 和 OpenCode 打造的类 Figma 可视化编辑器，让 AI 编程代理的开发过程更直观高效。
+
+- **Stars:** ⭐️ 722
+- **Tags:** `claude-code` `codex` `opencode` `visual-editor` `ai-coding`
+- **最后活动时间:** 2026-10-19
+
+### [dinotty](https://github.com/xichan96/dinotty)
+
+专为AI编程代理设计的多设备终端服务器，支持服务端VTE、会话持久化及Web预览。提供自托管的远程终端解决方案，让移动端和Web端轻松接入并管理AI编码任务。
+
+- **Stars:** ⭐️ 720
+- **Tags:** `ai-coding` `remote-terminal` `coding-agent` `rust` `vue3` `self-hosted`
+- **最后活动时间:** 2026-10-05
+
 ### [vscode-unify-chat-provider](https://github.com/smallmain/vscode-unify-chat-provider)
 
 将多个LLM API提供商集成到VS Code的GitHub Copilot Chat中，一键使用Claude、Gemini、OpenAI等账户配额。
@@ -6752,29 +6848,37 @@ Codex/ChatGPT桌面端的中间件，允许通过浏览器在局域网或远程�
 - **Tags:** `vscode` `llm-integration` `copilot` `multi-provider`
 - **最后活动时间:** 2026-10-09
 
-### [dinotty](https://github.com/xichan96/dinotty)
-
-专为AI编程代理设计的多设备终端服务器，支持服务端VTE、会话持久化及Web预览。提供自托管的远程终端解决方案，让移动端和Web端轻松接入并管理AI编码任务。
-
-- **Stars:** ⭐️ 719
-- **Tags:** `ai-coding` `remote-terminal` `coding-agent` `rust` `vue3` `self-hosted`
-- **最后活动时间:** 2026-10-05
-
 ### [terrashark](https://github.com/LukasNiessen/terrashark)
 
 面向 Claude Code 与 Codex 的 Terraform 技能插件，基于 HashiCorp 官方最佳实践减少 LLM 幻觉，生成模块化且安全的基础设施代码。
 
 - **Stars:** ⭐️ 718
 - **Tags:** `terraform` `claude-code` `llm` `iac` `skills`
-- **最后活动时间:** 2026-10-02
+- **最后活动时间:** 2026-10-18
 
-### [airship](https://github.com/0xnyn/airship)
+### [Tov](https://github.com/richiemcilroy/Tov)
 
-为 Claude Code、Codex 和 OpenCode 打造的类 Figma 可视化编辑器，让 AI 编程代理的开发过程更直观高效。
+专为AI编程智能体设计的TypeScript风格语言，可编译为小巧高效的本地二进制文件。让大模型生成的代码更易读写、运行更快。
+
+- **Stars:** ⭐️ 718
+- **Tags:** `Programming Language` `Coding Agents` `TypeScript` `Compiler` `LLM` `Native Binaries`
+- **最后活动时间:** 2026-10-13
+
+### [RunVSAgent](https://github.com/wecode-ai/RunVSAgent)
+
+让 Cline、Roo Code、Kilo Code 等 VSCode 生态的 AI 编程智能体在 JetBrains 等其他 IDE 中无缝运行，打通 VSCode 插件生态与各类开发环境之间的壁垒。
 
 - **Stars:** ⭐️ 715
-- **Tags:** `claude-code` `codex` `opencode` `visual-editor` `ai-coding`
-- **最后活动时间:** 2026-09-28
+- **Tags:** `vscode` `jetbrains` `ai-coding-agent` `cline` `roo-code` `ide-plugin`
+- **最后活动时间:** 2026-05-12
+
+### [opencode-cursor](https://github.com/Nomadcxx/opencode-cursor)
+
+通过 HTTP 代理和 OAuth 认证，在 OpenCode 中使用 Cursor Pro 模型。为开发者提供了一种灵活扩展 AI 编程助手能力的方式。
+
+- **Stars:** ⭐️ 712
+- **Tags:** `cursor` `opencode` `proxy` `oauth` `ai-coding`
+- **最后活动时间:** 2026-10-16
 
 ### [DAILA](https://github.com/mahaloz/DAILA)
 
@@ -6792,13 +6896,13 @@ Claude Code token使用分析工具，将JSONL转录文件转化为本地成本�
 - **Tags:** `claude` `token-analytics` `cost-tracking` `developer-tools`
 - **最后活动时间:** 2026-04-20
 
-### [opencode-cursor](https://github.com/Nomadcxx/opencode-cursor)
+### [maggy](https://github.com/alinaqi/maggy)
 
-通过 HTTP 代理和 OAuth 认证，在 OpenCode 中使用 Cursor Pro 模型。为开发者提供了一种灵活扩展 AI 编程助手能力的方式。
+自主AI工程指挥中心，从Claude Code配置工具演变为完整的AI开发环境。
 
-- **Stars:** ⭐️ 711
-- **Tags:** `cursor` `opencode` `proxy` `oauth` `ai-coding`
-- **最后活动时间:** 2026-10-16
+- **Stars:** ⭐️ 709
+- **Tags:** `claude-code` `ai-coding` `developer-tools` `project-initialization`
+- **最后活动时间:** 2026-10-13
 
 ### [leetgo](https://github.com/j178/leetgo)
 
@@ -6808,45 +6912,29 @@ Claude Code token使用分析工具，将JSONL转录文件转化为本地成本�
 - **Tags:** `leetcode` `cli` `golang` `chatgpt`
 - **最后活动时间:** 2026-10-05
 
-### [maggy](https://github.com/alinaqi/maggy)
+### [Clawd-Code](https://github.com/GPT-AGI/Clawd-Code)
 
-自主AI工程指挥中心，从Claude Code配置工具演变为完整的AI开发环境。
-
-- **Stars:** ⭐️ 708
-- **Tags:** `claude-code` `ai-coding` `developer-tools` `project-initialization`
-- **最后活动时间:** 2026-10-13
-
-### [SmartPerfetto](https://github.com/Gracker/SmartPerfetto)
-
-AI辅助的Perfetto性能分析工具，提供Web UI、CLI和可视化报告生成能力。帮助开发者高效进行Android性能追踪与分析。
+使用 Python 重构 Claude Code 的开源项目，旨在提供强大的代码辅助与开发工具支持。
 
 - **Stars:** ⭐️ 707
-- **Tags:** `android-performance` `perfetto` `trace-analysis` `ai-assisted`
-- **最后活动时间:** 2026-09-27
-
-### [thinkrail](https://github.com/JetBrains/thinkrail)
-
-轻量级真实 IDE，会围绕你的工作方式自我定制，将 vibe coding 与规格驱动开发融为一体。基于 pi 智能体打造的开箱即用 AI 编码环境。
-
-- **Stars:** ⭐️ 707
-- **Tags:** `Vibe Coding` `AI Coding` `Spec-Driven` `IDE` `Agentic AI`
-- **最后活动时间:** 2026-10-17
+- **Tags:** `claude` `claude-code` `python` `ai-coding`
+- **最后活动时间:** 2026-09-22
 
 ### [shelley](https://github.com/boldsoftware/shelley)
 
 一个专注于代码生成的智能编程助手。
 
-- **Stars:** ⭐️ 705
+- **Stars:** ⭐️ 706
 - **Tags:** `coding-agent` `ai` `devtools`
 - **最后活动时间:** 2026-10-18
 
-### [Clawd-Code](https://github.com/GPT-AGI/Clawd-Code)
+### [cc-1c-skills](https://github.com/Nikolay-Shirokov/cc-1c-skills)
 
-使用 Python 重构 Claude Code 的开源项目，旨在提供强大的代码辅助与开发工具支持。
+为AI代理提供的一套技能集，帮助覆盖1C:Enterprise 8.3平台上的全开发周期。
 
-- **Stars:** ⭐️ 705
-- **Tags:** `claude` `claude-code` `python` `ai-coding`
-- **最后活动时间:** 2026-09-22
+- **Stars:** ⭐️ 703
+- **Tags:** `1c-enterprise` `ai-skills` `test-automation` `claude-code` `cursor`
+- **最后活动时间:** 2026-10-18
 
 ### [llxprt-code](https://github.com/vybestack/llxprt-code)
 
@@ -6868,49 +6956,49 @@ AI辅助的Perfetto性能分析工具，提供Web UI、CLI和可视化报告生�
 
 为Claude Code提供生产就绪的开发工作流，通过专业化AI智能体提升代码质量与开发效率。
 
-- **Stars:** ⭐️ 699
+- **Stars:** ⭐️ 701
 - **Tags:** `claude-code` `ai-agents` `developer-tools` `llm-orchestration` `prompt-engineering`
 - **最后活动时间:** 2026-10-17
-
-### [cc-1c-skills](https://github.com/Nikolay-Shirokov/cc-1c-skills)
-
-为AI代理提供的一套技能集，帮助覆盖1C:Enterprise 8.3平台上的全开发周期。
-
-- **Stars:** ⭐️ 697
-- **Tags:** `1c-enterprise` `ai-skills` `test-automation` `claude-code` `cursor`
-- **最后活动时间:** 2026-10-16
 
 ### [pi-extensions](https://github.com/narumiruna/pi-extensions)
 
 为 Pi Coding Agent 打造的扩展 monorepo，汇集状态栏、Starship 集成等多种插件，持续增强 AI 编程智能体的能力与体验。
 
-- **Stars:** ⭐️ 696
+- **Stars:** ⭐️ 701
 - **Tags:** `ai-agents` `coding-agent` `codex` `typescript` `extensions`
 - **最后活动时间:** 2026-10-18
 
-### [hello2cc](https://github.com/hellowind777/hello2cc)
+### [agents-observe](https://github.com/simple10/agents-observe)
 
-原生优先的Claude Code插件，支持第三方模型静默注入和多种输出风格定制。
+Claude Code会话与多智能体的实时可观测性工具，帮助开发者监控和调试AI智能体行为。
 
-- **Stars:** ⭐️ 692
-- **Tags:** `claude-code` `plugin` `llm-proxy`
-- **最后活动时间:** 2026-05-23
+- **Stars:** ⭐️ 698
+- **Tags:** `observability` `claude-code` `multi-agent` `debugging`
+- **最后活动时间:** 2026-09-04
 
 ### [codex-relay](https://github.com/gronxb/codex-relay)
 
 通过手机远程使用 Codex，实际计算任务仍在本机执行。适合随时随地掌控 AI 编码会话。
 
-- **Stars:** ⭐️ 692
+- **Stars:** ⭐️ 694
 - **Tags:** `codex` `remote` `mobile` `ai-agent`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [aislop](https://github.com/scanaislop/aislop)
 
 静态代码分析工具，用于检测AI编程智能体生成的低质量代码，支持8种语言及50+规则。
 
-- **Stars:** ⭐️ 690
+- **Stars:** ⭐️ 691
 - **Tags:** `ai-slop` `code-quality` `static-analysis` `developer-tools` `linter`
 - **最后活动时间:** 2026-10-17
+
+### [birdview](https://github.com/Qiuner/birdview)
+
+面向 AI 编码智能体的架构可视化工具，在每次改动前先映射项目结构，避免盲目改代码。
+
+- **Stars:** ⭐️ 689
+- **Tags:** `coding-agents` `ai-workflow` `architecture` `code-visualization`
+- **最后活动时间:** 2026-10-09
 
 ### [Visual-Code-Space](https://github.com/Visual-Code-Space/Visual-Code-Space)
 
@@ -6920,13 +7008,21 @@ Android平台上的现代化AI代码编辑器，支持AI代码生成和协作功
 - **Tags:** `android` `code-editor` `ai-code-generator` `mobile-ide`
 - **最后活动时间:** 2026-10-15
 
-### [shotgun](https://github.com/shotgun-sh/shotgun)
+### [hello2cc](https://github.com/hellowind777/hello2cc)
 
-规范驱动开发工具，为AI编码智能体生成代码库感知的规范文档。
+原生优先的Claude Code插件，支持第三方模型静默注入和多种输出风格定制。
+
+- **Stars:** ⭐️ 688
+- **Tags:** `claude-code` `plugin` `llm-proxy`
+- **最后活动时间:** 2026-05-23
+
+### [jev-review](https://github.com/devagrawal09/jev-review)
+
+jev-review 是一个基于 TypeSafe AI 的代码审查工作流和本地仪表板，提供分阶段代码审查和直观的用户界面，帮助开发者高效协作。
 
 - **Stars:** ⭐️ 687
-- **Tags:** `spec-driven` `ai-coding` `documentation` `cli`
-- **最后活动时间:** 2026-06-02
+- **Tags:** `ai` `code-review` `typescript` `dashboard`
+- **最后活动时间:** 2026-09-17
 
 ### [DevoxxGenieIDEAPlugin](https://github.com/devoxx/DevoxxGenieIDEAPlugin)
 
@@ -6934,7 +7030,23 @@ Android平台上的现代化AI代码编辑器，支持AI代码生成和协作功
 
 - **Stars:** ⭐️ 685
 - **Tags:** `IntelliJ` `LLM` `Code-Assistant`
-- **最后活动时间:** 2026-10-14
+- **最后活动时间:** 2026-10-18
+
+### [shotgun](https://github.com/shotgun-sh/shotgun)
+
+规范驱动开发工具，为AI编码智能体生成代码库感知的规范文档。
+
+- **Stars:** ⭐️ 685
+- **Tags:** `spec-driven` `ai-coding` `documentation` `cli`
+- **最后活动时间:** 2026-06-02
+
+### [Chisle](https://github.com/JayPokale/Chisle)
+
+Chisle 是一个零依赖的 AI 编码代理优化工具，通过简洁的散文、YAGNI-first 代码和工具输出压缩来降低 Claude Code、Pi、Cursor 等代理的 token 成本。
+
+- **Stars:** ⭐️ 685
+- **Tags:** `claude` `token-optimization` `ai-coding`
+- **最后活动时间:** 2026-10-18
 
 ### [design2code](https://github.com/mostafasadeghi97/design2code)
 
@@ -6952,14 +7064,6 @@ Claude Code技能市场，提供Git自动化、测试和代码审查等软件工
 - **Tags:** `claude-code` `ai-tools` `developer-tools` `automation`
 - **最后活动时间:** 2026-07-25
 
-### [agents-observe](https://github.com/simple10/agents-observe)
-
-Claude Code会话与多智能体的实时可观测性工具，帮助开发者监控和调试AI智能体行为。
-
-- **Stars:** ⭐️ 684
-- **Tags:** `observability` `claude-code` `multi-agent` `debugging`
-- **最后活动时间:** 2026-09-04
-
 ### [aider.el](https://github.com/tninja/aider.el)
 
 Emacs上的AI编程助手集成插件，支持多种大模型辅助代码编写。
@@ -6968,13 +7072,13 @@ Emacs上的AI编程助手集成插件，支持多种大模型辅助代码编写�
 - **Tags:** `emacs` `ai-coding` `aider`
 - **最后活动时间:** 2026-10-04
 
-### [Chisle](https://github.com/JayPokale/Chisle)
+### [macos-app-skills](https://github.com/fayazara/macos-app-skills)
 
-Chisle 是一个零依赖的 AI 编码代理优化工具，通过简洁的散文、YAGNI-first 代码和工具输出压缩来降低 Claude Code、Pi、Cursor 等代理的 token 成本。
+专为构建、发布和维护原生 macOS 应用设计的 AI 编程智能体技能包。提升智能体在苹果生态下的开发效率。
 
 - **Stars:** ⭐️ 681
-- **Tags:** `claude` `token-optimization` `ai-coding`
-- **最后活动时间:** 2026-10-18
+- **Tags:** `agent-skills` `macos` `ai-coding` `native-apps`
+- **最后活动时间:** 2026-05-27
 
 ### [Neural-Network-Visualisation](https://github.com/DFin/Neural-Network-Visualisation)
 
@@ -6984,14 +7088,6 @@ Chisle 是一个零依赖的 AI 编码代理优化工具，通过简洁的散文
 - **Tags:** `visualization` `neural-network` `handwriting-recognition` `interactive` `web`
 - **最后活动时间:** 2026-04-24
 
-### [macos-app-skills](https://github.com/fayazara/macos-app-skills)
-
-专为构建、发布和维护原生 macOS 应用设计的 AI 编程智能体技能包。提升智能体在苹果生态下的开发效率。
-
-- **Stars:** ⭐️ 680
-- **Tags:** `agent-skills` `macos` `ai-coding` `native-apps`
-- **最后活动时间:** 2026-05-27
-
 ### [claude-skill-registry](https://github.com/majiayu000/claude-skill-registry)
 
 最全面的 Claude Code 技能注册表，方便开发者查找和集成各种 AI 编程技能。
@@ -6999,14 +7095,6 @@ Chisle 是一个零依赖的 AI 编码代理优化工具，通过简洁的散文
 - **Stars:** ⭐️ 680
 - **Tags:** `ai-skills` `claude-code` `skill-registry` `skills`
 - **最后活动时间:** 2026-10-18
-
-### [birdview](https://github.com/Qiuner/birdview)
-
-面向 AI 编码智能体的架构可视化工具，在每次改动前先映射项目结构，避免盲目改代码。
-
-- **Stars:** ⭐️ 680
-- **Tags:** `coding-agents` `ai-workflow` `architecture` `code-visualization`
-- **最后活动时间:** 2026-09-29
 
 ### [cad-skill](https://github.com/flowful-ai/cad-skill)
 
@@ -7044,9 +7132,9 @@ CodeGPT AI 编程助手的官方文档站，基于 Docusaurus 构建，涵盖安
 
 面向AI编程代理的代码智能MCP服务器，支持30+语言和9种代理集成。提供预索引的语义知识图谱，实现即时代码理解，大幅减少Token消耗和工具调用。
 
-- **Stars:** ⭐️ 667
+- **Stars:** ⭐️ 668
 - **Tags:** `mcp` `ai-coding` `code-intelligence` `developer-tools`
-- **最后活动时间:** 2026-10-11
+- **最后活动时间:** 2026-10-18
 
 ### [phistory](https://github.com/WEIFENG2333/phistory)
 
@@ -7055,6 +7143,14 @@ CodeGPT AI 编程助手的官方文档站，基于 Docusaurus 构建，涵盖安
 - **Stars:** ⭐️ 667
 - **Tags:** `cli` `ai-agents` `prompt-history` `developer-tools`
 - **最后活动时间:** 2026-10-18
+
+### [lvgl_pro](https://github.com/lvgl/lvgl_pro)
+
+面向专业 LVGL 嵌入式 UI 开发的一站式工作流，支持从 Figma 导入设计、以 XML 构建并实时预览，并集成 AI 辅助开发能力，最终导出纯 C 代码且无需额外运行时。适合 MCU 与 Zephyr 等嵌入式场景的智能化 GUI 开发。
+
+- **Stars:** ⭐️ 667
+- **Tags:** `lvgl` `embedded-gui` `figma-to-code` `ai-integration` `xml` `mcu`
+- **最后活动时间:** 2026-10-17
 
 ### [ai-development-patterns](https://github.com/PaulDuvall/ai-development-patterns)
 
@@ -7070,23 +7166,15 @@ MCP服务器，将SonarQube代码质量分析集成到AI工作流中，支持智
 
 - **Stars:** ⭐️ 665
 - **Tags:** `mcp` `sonarqube` `code-analysis` `ai-integration`
-- **最后活动时间:** 2026-10-16
-
-### [lvgl_pro](https://github.com/lvgl/lvgl_pro)
-
-面向专业 LVGL 嵌入式 UI 开发的一站式工作流，支持从 Figma 导入设计、以 XML 构建并实时预览，并集成 AI 辅助开发能力，最终导出纯 C 代码且无需额外运行时。适合 MCU 与 Zephyr 等嵌入式场景的智能化 GUI 开发。
-
-- **Stars:** ⭐️ 665
-- **Tags:** `lvgl` `embedded-gui` `figma-to-code` `ai-integration` `xml` `mcu`
-- **最后活动时间:** 2026-09-13
+- **最后活动时间:** 2026-10-18
 
 ### [working-activity](https://github.com/ccch1mneyyy/working-activity)
 
 为 pi 编码智能体和 DSH 提供的活跃工作线扩展插件。增强了状态栏显示和插件交互体验。
 
-- **Stars:** ⭐️ 663
+- **Stars:** ⭐️ 664
 - **Tags:** `deepseek-harness` `pi-coding-agent` `statusline` `dsh-plugin`
-- **最后活动时间:** 2026-09-26
+- **最后活动时间:** 2026-10-18
 
 ### [cline-chinese](https://github.com/HybridTalentComputing/cline-chinese)
 
@@ -7100,7 +7188,7 @@ Cline中文汉化版，一款在IDE中运行的自主AI编程助手，可创建/
 
 一款终端AI编程助手，通过优化Token使用和上下文工程，显著减少长程任务交互次数并提升通过率。
 
-- **Stars:** ⭐️ 659
+- **Stars:** ⭐️ 661
 - **Tags:** `coding-agent` `terminal` `token-optimization` `developer-tools`
 - **最后活动时间:** 2026-10-07
 
@@ -7120,6 +7208,14 @@ Cline中文汉化版，一款在IDE中运行的自主AI编程助手，可创建/
 - **Tags:** `groq` `llama` `code-generation` `html`
 - **最后活动时间:** 2026-08-18
 
+### [SeeCode](https://github.com/Aryanutkarsh/SeeCode)
+
+专为Claude Code、Codex等AI编程智能体设计的动画图表生成技能，只需简短的JSON规范即可生成可探索的架构图、流程图和时序图。让AI智能体输出的系统设计一目了然。
+
+- **Stars:** ⭐️ 657
+- **Tags:** `ai-agents` `claude-code` `claude-skills` `coding-agents` `diagrams-as-code` `architecture-diagram` `flowchart` `sequence-diagram` `mermaid` `developer-tools`
+- **最后活动时间:** 2026-10-17
+
 ### [pr-af](https://github.com/Agent-Field/pr-af)
 
 开源代码审查智能体，在 Code-Review-Bench 上排名第一。自动审查 Pull Request，提升代码质量。
@@ -7127,14 +7223,6 @@ Cline中文汉化版，一款在IDE中运行的自主AI编程助手，可创建/
 - **Stars:** ⭐️ 654
 - **Tags:** `ai` `code-review` `llm` `agents`
 - **最后活动时间:** 2026-09-21
-
-### [claude-code-proxy](https://github.com/raine/claude-code-proxy)
-
-一个本地Anthropic兼容代理工具，允许用户通过现有的ChatGPT、Kimi或Grok等订阅来使用Claude Code。有效降低AI编程助手的接入与使用成本。
-
-- **Stars:** ⭐️ 654
-- **Tags:** `claude-code` `proxy` `api` `developer-tools` `openai`
-- **最后活动时间:** 2026-10-10
 
 ### [flutter-ai-rules](https://github.com/evanca/flutter-ai-rules)
 
@@ -7144,13 +7232,29 @@ Cline中文汉化版，一款在IDE中运行的自主AI编程助手，可创建/
 - **Tags:** `flutter` `cursor` `copilot` `ai-rules`
 - **最后活动时间:** 2026-10-10
 
+### [claude-code-proxy](https://github.com/raine/claude-code-proxy)
+
+一个本地Anthropic兼容代理工具，允许用户通过现有的ChatGPT、Kimi或Grok等订阅来使用Claude Code。有效降低AI编程助手的接入与使用成本。
+
+- **Stars:** ⭐️ 653
+- **Tags:** `claude-code` `proxy` `api` `developer-tools` `openai`
+- **最后活动时间:** 2026-10-10
+
 ### [sigmap](https://github.com/manojmallick/sigmap)
 
 为AI编程会话提供高达97%的Token压缩工具，支持31种语言且零依赖。通过MCP服务器无缝集成，大幅提升开发效率。
 
 - **Stars:** ⭐️ 646
 - **Tags:** `ai` `context-compression` `mcp` `token-reduction` `developer-tools`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
+
+### [Mobile-Harness](https://github.com/techjarves/Mobile-Harness)
+
+在 Android 手机上运行 Claude Code 的移动端 AI 编程 IDE，可与编码智能体对话、执行 Linux 命令、编辑文件、审查 diff 并预览 Web 应用，无需 root 权限。
+
+- **Stars:** ⭐️ 646
+- **Tags:** `claude-code` `mobile-ide` `ai-coding` `android` `coding-agent`
+- **最后活动时间:** 2026-10-11
 
 ### [copilot-metrics-viewer](https://github.com/github-copilot-resources/copilot-metrics-viewer)
 
@@ -7184,13 +7288,13 @@ Cline中文汉化版，一款在IDE中运行的自主AI编程助手，可创建/
 - **Tags:** `ai-assisted-development` `developer-portfolio` `nextjs` `typescript` `vercel`
 - **最后活动时间:** 2026-09-13
 
-### [SeeCode](https://github.com/Aryanutkarsh/SeeCode)
+### [TRIP-workflow](https://github.com/PiLastDigit/TRIP-workflow)
 
-专为Claude Code、Codex等AI编程智能体设计的动画图表生成技能，只需简短的JSON规范即可生成可探索的架构图、流程图和时序图。让AI智能体输出的系统设计一目了然。
+专为AI编程智能体设计的简洁、无废话开发工作流，提升AI辅助编码的效率与规范性。
 
-- **Stars:** ⭐️ 639
-- **Tags:** `ai-agents` `claude-code` `claude-skills` `coding-agents` `diagrams-as-code` `architecture-diagram` `flowchart` `sequence-diagram` `mermaid` `developer-tools`
-- **最后活动时间:** 2026-10-17
+- **Stars:** ⭐️ 638
+- **Tags:** `AI Coding` `Workflow` `DevTools` `AI Agents`
+- **最后活动时间:** 2026-09-24
 
 ### [aigc-reduce](https://github.com/xiaofenggan01/aigc-reduce)
 
@@ -7208,14 +7312,6 @@ Cline中文汉化版，一款在IDE中运行的自主AI编程助手，可创建/
 - **Tags:** `Figma` `Coding-Agent` `Design-to-Code` `Developer-Tools`
 - **最后活动时间:** 2026-10-16
 
-### [Mobile-Harness](https://github.com/techjarves/Mobile-Harness)
-
-在 Android 手机上运行 Claude Code 的移动端 AI 编程 IDE，可与编码智能体对话、执行 Linux 命令、编辑文件、审查 diff 并预览 Web 应用，无需 root 权限。
-
-- **Stars:** ⭐️ 636
-- **Tags:** `claude-code` `mobile-ide` `ai-coding` `android` `coding-agent`
-- **最后活动时间:** 2026-10-11
-
 ### [kwcode](https://github.com/val1813/kwcode)
 
 专为本地部署模型优化的CLI编码工具，可持续增强本地开源模型的编程能力。
@@ -7232,19 +7328,11 @@ Cline中文汉化版，一款在IDE中运行的自主AI编程助手，可创建/
 - **Tags:** `openstreetmap` `ai` `mapping` `editor` `data`
 - **最后活动时间:** 2026-05-28
 
-### [TRIP-workflow](https://github.com/PiLastDigit/TRIP-workflow)
-
-专为AI编程智能体设计的简洁、无废话开发工作流，提升AI辅助编码的效率与规范性。
-
-- **Stars:** ⭐️ 633
-- **Tags:** `AI Coding` `Workflow` `DevTools` `AI Agents`
-- **最后活动时间:** 2026-09-24
-
 ### [Lynkr](https://github.com/Fast-Editor/Lynkr)
 
 Lynkr 是一个 CLI 工具，作为 HTTP 代理为 Claude Code CLI 提供高效的代码交互。它能帮助开发者简化工作流，提升使用大模型进行编程的效率。
 
-- **Stars:** ⭐️ 632
+- **Stars:** ⭐️ 633
 - **Tags:** `agents` `claude` `code-assistant` `developer-tools` `llm` `mcp`
 - **最后活动时间:** 2026-10-13
 
@@ -7296,6 +7384,14 @@ Lynkr 是一个 CLI 工具，作为 HTTP 代理为 Claude Code CLI 提供高效�
 - **Tags:** `Decompiler` `Binary-Analysis` `AI-Agents` `Rust` `Autonomous-Refinement`
 - **最后活动时间:** 2026-10-18
 
+### [godot-mcp-pro](https://github.com/youichi-uda/godot-mcp-pro)
+
+为 Godot 4 游戏开发提供 162 个 MCP 工具，支持 AI 驱动的场景、动画、3D、物理和音频等全方位开发辅助。
+
+- **Stars:** ⭐️ 627
+- **Tags:** `ai` `godot` `mcp` `game-development` `claude` `cursor`
+- **最后活动时间:** 2026-09-24
+
 ### [49-IDE](https://github.com/49-Agents/49-IDE)
 
 开源的2D IDE,用于在终端中统一管理跨多项目、多机器的AI智能体(如Claude Code、Codex)、Git与任务文件。支持本地localhost自托管或通过Tailscale集群部署。
@@ -7303,14 +7399,6 @@ Lynkr 是一个 CLI 工具，作为 HTTP 代理为 Claude Code CLI 提供高效�
 - **Stars:** ⭐️ 627
 - **Tags:** `ai-agents` `ide` `claude-code` `codex` `terminal` `vibecoding`
 - **最后活动时间:** 2026-10-01
-
-### [godot-mcp-pro](https://github.com/youichi-uda/godot-mcp-pro)
-
-为 Godot 4 游戏开发提供 162 个 MCP 工具，支持 AI 驱动的场景、动画、3D、物理和音频等全方位开发辅助。
-
-- **Stars:** ⭐️ 626
-- **Tags:** `ai` `godot` `mcp` `game-development` `claude` `cursor`
-- **最后活动时间:** 2026-09-24
 
 ### [thoth-blueprint](https://github.com/AHS12/thoth-blueprint)
 
@@ -7320,13 +7408,13 @@ Lynkr 是一个 CLI 工具，作为 HTTP 代理为 Claude Code CLI 提供高效�
 - **Tags:** `database-design` `offline` `local-ai` `typescript` `react`
 - **最后活动时间:** 2026-08-12
 
-### [jev-review](https://github.com/devagrawal09/jev-review)
+### [tinte](https://github.com/Railly/tinte)
 
-jev-review 是一个基于 TypeSafe AI 的代码审查工作流和本地仪表板，提供分阶段代码审查和直观的用户界面，帮助开发者高效协作。
+Agent原生设计系统基础设施，支持从单一数据源生成、编译和预览设计系统。
 
 - **Stars:** ⭐️ 625
-- **Tags:** `ai` `code-review` `typescript` `dashboard`
-- **最后活动时间:** 2026-09-17
+- **Tags:** `agent-native` `ai-coding` `design-system` `cli`
+- **最后活动时间:** 2026-08-08
 
 ### [ccmate](https://github.com/djyde/ccmate)
 
@@ -7336,21 +7424,29 @@ jev-review 是一个基于 TypeSafe AI 的代码审查工作流和本地仪表�
 - **Tags:** `claude-code` `configuration` `tauri`
 - **最后活动时间:** 2026-05-12
 
-### [tinte](https://github.com/Railly/tinte)
+### [Codex-App-Manager](https://github.com/Wangnov/Codex-App-Manager)
 
-Agent原生设计系统基础设施，支持从单一数据源生成、编译和预览设计系统。
+官方 Codex 桌面应用的跨平台安装与更新管理器，提供增量更新、卸载和镜像自更新能力。适合 AI 开发者维护 Codex 客户端环境。
 
-- **Stars:** ⭐️ 624
-- **Tags:** `agent-native` `ai-coding` `design-system` `cli`
-- **最后活动时间:** 2026-08-08
+- **Stars:** ⭐️ 623
+- **Tags:** `codex` `openai` `desktop-app` `tauri` `updater`
+- **最后活动时间:** 2026-10-14
 
 ### [PiG](https://github.com/MichaelKinsy/PiG)
 
 Pi 编码智能体的 Go 语言忠实移植，以上游行为为契约进行对齐式翻译，而非重写。为偏好 Go 生态的开发者带来完整的 AI 编码智能体能力。
 
-- **Stars:** ⭐️ 622
+- **Stars:** ⭐️ 623
 - **Tags:** `AI Coding` `Coding Agent` `Go` `Golang` `AI Agent`
 - **最后活动时间:** 2026-10-18
+
+### [CometixCode](https://github.com/Haleclipse/CometixCode)
+
+基于 iocraft 用 Rust 重新实现的 Claude Code 终端 UI，为 AI 编程助手带来更流畅美观的命令行体验。
+
+- **Stars:** ⭐️ 622
+- **Tags:** `claude-code` `terminal-ui` `rust` `cli` `ai-coding`
+- **最后活动时间:** 2026-10-14
 
 ### [nWave](https://github.com/nWave-ai/nWave)
 
@@ -7366,7 +7462,7 @@ AI驱动的智能编程助手，从创意到代码全程引导，支持TDD/BDD�
 
 - **Stars:** ⭐️ 620
 - **Tags:** `ai-coding` `coding-agent` `cli` `terminal` `tui` `claude-code-alternative` `mcp` `llm` `rag` `cpp`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-19
 
 ### [49-IDE](https://github.com/alpbahadur/49-IDE)
 
@@ -7375,14 +7471,6 @@ AI驱动的智能编程助手，从创意到代码全程引导，支持TDD/BDD�
 - **Stars:** ⭐️ 619
 - **Tags:** `AI-Agents` `IDE` `Claude-Code` `Codex` `Terminal` `Vibecoding` `Self-Hosted`
 - **最后活动时间:** 2026-09-23
-
-### [Codex-App-Manager](https://github.com/Wangnov/Codex-App-Manager)
-
-官方 Codex 桌面应用的跨平台安装与更新管理器，提供增量更新、卸载和镜像自更新能力。适合 AI 开发者维护 Codex 客户端环境。
-
-- **Stars:** ⭐️ 619
-- **Tags:** `codex` `openai` `desktop-app` `tauri` `updater`
-- **最后活动时间:** 2026-10-14
 
 ### [agentty](https://github.com/1ay1/agentty)
 
@@ -7408,6 +7496,14 @@ AI驱动的智能编程助手，从创意到代码全程引导，支持TDD/BDD�
 - **Tags:** `Code Generation` `LLM Tools` `CUE`
 - **最后活动时间:** 2026-05-05
 
+### [ClaudeCodeStatusLine](https://github.com/daniel3303/ClaudeCodeStatusLine)
+
+为 Claude Code 提供实时状态栏显示，包括模型信息、Token 使用量、速率限制和 Git 信息，帮助开发者更好地监控 AI 编程助手的工作状态。
+
+- **Stars:** ⭐️ 614
+- **Tags:** `claude` `claude-code` `developer-tools` `cli` `status-line`
+- **最后活动时间:** 2026-05-26
+
 ### [tech-debt-skill](https://github.com/ksimback/tech-debt-skill)
 
 Claude Code技能，能够对整个代码库进行全面的技术债务审计，并生成带有文件引用的详细报告。
@@ -7416,35 +7512,27 @@ Claude Code技能，能够对整个代码库进行全面的技术债务审计，
 - **Tags:** `claude-code` `code-analysis` `tech-debt` `audit`
 - **最后活动时间:** 2026-04-25
 
-### [ClaudeCodeStatusLine](https://github.com/daniel3303/ClaudeCodeStatusLine)
+### [opencode-with-claude](https://github.com/ianjwhite99/opencode-with-claude)
 
-为 Claude Code 提供实时状态栏显示，包括模型信息、Token 使用量、速率限制和 Git 信息，帮助开发者更好地监控 AI 编程助手的工作状态。
+OpenCode 插件，通过 Meridian 让用户在 OpenCode 中直接使用 Claude Max/Pro 订阅。
 
-- **Stars:** ⭐️ 613
-- **Tags:** `claude` `claude-code` `developer-tools` `cli` `status-line`
-- **最后活动时间:** 2026-05-26
+- **Stars:** ⭐️ 614
+- **Tags:** `opencode` `claude` `ai-coding` `opencode-plugin`
+- **最后活动时间:** 2026-10-15
 
 ### [Semia](https://github.com/berabuddies/Semia)
 
 针对AI智能体技能的安全审计工具，提供静态分析以检测潜在安全风险。
 
-- **Stars:** ⭐️ 612
+- **Stars:** ⭐️ 613
 - **Tags:** `security` `skill-scanner` `static-analysis` `ai-agents`
 - **最后活动时间:** 2026-09-01
-
-### [opencode-with-claude](https://github.com/ianjwhite99/opencode-with-claude)
-
-OpenCode 插件，通过 Meridian 让用户在 OpenCode 中直接使用 Claude Max/Pro 订阅。
-
-- **Stars:** ⭐️ 612
-- **Tags:** `opencode` `claude` `ai-coding` `opencode-plugin`
-- **最后活动时间:** 2026-10-15
 
 ### [solid-skills](https://github.com/ramziddin/solid-skills)
 
 基于SOLID原则、TDD和整洁架构的AI编程助手技能，旨在生成资深工程师级别的高质量代码。
 
-- **Stars:** ⭐️ 610
+- **Stars:** ⭐️ 611
 - **Tags:** `ai-agent` `coding-assistant` `solid-principles` `clean-architecture` `tdd`
 - **最后活动时间:** 2026-09-03
 
@@ -7464,6 +7552,14 @@ Neovim AI辅助诊断调试插件，利用AI智能分析和解释代码错误信
 - **Tags:** `claude-code` `project-initialization` `security` `developer-tools`
 - **最后活动时间:** 2026-05-05
 
+### [bggg-skills](https://github.com/binggandata/bggg-skills)
+
+来自 BGGG 的开源 Codex 技能集合，旨在增强智能体的能力。为 Codex 用户提供丰富的技能扩展。
+
+- **Stars:** ⭐️ 607
+- **Tags:** `codex` `agent-skills` `open-source` `automation`
+- **最后活动时间:** 2026-08-13
+
 ### [prd-taskmaster](https://github.com/anombyte93/prd-taskmaster)
 
 面向Claude Code的零配置目标转任务引擎，提供PRD验证与依赖排序的任务图谱。通过证据门控确保执行质量。
@@ -7476,7 +7572,7 @@ Neovim AI辅助诊断调试插件，利用AI智能分析和解释代码错误信
 
 通过集成 DeepSeek 降低 Codex 使用成本的优化工具，在保持代码质量的同时实现更经济的 AI 辅助编程体验。
 
-- **Stars:** ⭐️ 604
+- **Stars:** ⭐️ 605
 - **Tags:** `codex` `deepseek` `cost-optimization` `code-assistant`
 - **最后活动时间:** 2026-05-31
 
@@ -7504,13 +7600,21 @@ OpenCode AI 编程智能体的 PTY 管理插件，支持后台运行进程、发
 - **Tags:** `MCP` `Claude-Code` `Cursor` `AI-Skills` `Desktop-App`
 - **最后活动时间:** 2026-09-08
 
-### [bggg-skills](https://github.com/binggandata/bggg-skills)
+### [agent-manager](https://github.com/YoanWai/agent-manager)
 
-来自 BGGG 的开源 Codex 技能集合，旨在增强智能体的能力。为 Codex 用户提供丰富的技能扩展。
+为各类 AI 编码代理打造的高效工作流：在一个 tmux TUI 中实时查看代理状态、快速发送提示、管理 worktrees 并审查 diff。支持 Claude Code、Codex、Gemini CLI 等主流代理。
 
-- **Stars:** ⭐️ 602
-- **Tags:** `codex` `agent-skills` `open-source` `automation`
-- **最后活动时间:** 2026-08-13
+- **Stars:** ⭐️ 603
+- **Tags:** `ai-agents` `claude-code` `codex` `mcp-server` `tmux` `tui` `developer-tools`
+- **最后活动时间:** 2026-10-18
+
+### [copperhead](https://github.com/copperheadhq/copperhead)
+
+面向硬件设计的 AI 编码智能体,用自然语言驱动 KiCad 自动完成原理图与 PCB 设计。让电子设计像写软件一样快速高效。
+
+- **Stars:** ⭐️ 603
+- **Tags:** `Coding-Agent` `KiCad` `PCB-Design` `EDA` `Hardware-Design`
+- **最后活动时间:** 2026-10-18
 
 ### [session-kit](https://github.com/dob323/session-kit)
 
@@ -7519,14 +7623,6 @@ OpenCode AI 编程智能体的 PTY 管理插件，支持后台运行进程、发
 - **Stars:** ⭐️ 602
 - **Tags:** `ai-coding` `claude-code` `codex` `session-manager` `terminal`
 - **最后活动时间:** 2026-08-20
-
-### [agent-manager](https://github.com/YoanWai/agent-manager)
-
-为各类 AI 编码代理打造的高效工作流：在一个 tmux TUI 中实时查看代理状态、快速发送提示、管理 worktrees 并审查 diff。支持 Claude Code、Codex、Gemini CLI 等主流代理。
-
-- **Stars:** ⭐️ 602
-- **Tags:** `ai-agents` `claude-code` `codex` `mcp-server` `tmux` `tui` `developer-tools`
-- **最后活动时间:** 2026-10-17
 
 ### [jev-router](https://github.com/gargpratyush/jev-router)
 
@@ -7544,22 +7640,6 @@ AI驱动的GitHub智能助手，通过AI聊天帮助解决Git/GitHub问题，自
 - **Tags:** `git-assistant` `github` `ai-tools` `developer-tools` `readme-generator`
 - **最后活动时间:** 2026-09-09
 
-### [.claude](https://github.com/ZacheryGlass/.claude)
-
-Claude Code 个人配置设置集合，包含 Anthropic 官方 CLI 编码工具的最佳实践配置。
-
-- **Stars:** ⭐️ 600
-- **Tags:** `claude` `cli` `configuration` `coding-assistant`
-- **最后活动时间:** 2026-07-05
-
-### [copperhead](https://github.com/copperheadhq/copperhead)
-
-面向硬件设计的 AI 编码智能体,用自然语言驱动 KiCad 自动完成原理图与 PCB 设计。让电子设计像写软件一样快速高效。
-
-- **Stars:** ⭐️ 600
-- **Tags:** `Coding-Agent` `KiCad` `PCB-Design` `EDA` `Hardware-Design`
-- **最后活动时间:** 2026-10-16
-
 ### [js-reverse-automation--skill](https://github.com/Fausto-404/js-reverse-automation--skill)
 
 结合Chrome DevTools MCP与Skill规范，实现前端JS逆向自动化分析，大幅提升逆向工程效率。
@@ -7567,6 +7647,22 @@ Claude Code 个人配置设置集合，包含 Anthropic 官方 CLI 编码工具�
 - **Stars:** ⭐️ 599
 - **Tags:** `automation` `js-reverse` `reverse-engineering` `security-tools` `ai-tools`
 - **最后活动时间:** 2026-10-10
+
+### [vice](https://github.com/Webba-Creative-Technologies/vice)
+
+一款基于AI智能体的安全审计命令行工具，能够自动发现Web应用中的安全漏洞。
+
+- **Stars:** ⭐️ 599
+- **Tags:** `ai-agents` `security` `security-tools` `cli`
+- **最后活动时间:** 2026-09-23
+
+### [.claude](https://github.com/ZacheryGlass/.claude)
+
+Claude Code 个人配置设置集合，包含 Anthropic 官方 CLI 编码工具的最佳实践配置。
+
+- **Stars:** ⭐️ 598
+- **Tags:** `claude` `cli` `configuration` `coding-assistant`
+- **最后活动时间:** 2026-07-05
 
 ### [cc-lens](https://github.com/Arindam200/cc-lens)
 
@@ -7584,6 +7680,22 @@ Jetpack Compose智能体技能，提供基于androidx源码的AI编程指导，�
 - **Tags:** `agent-skill` `ai-coding` `jetpack-compose` `android`
 - **最后活动时间:** 2026-07-23
 
+### [ai-review](https://github.com/Nikita-Filonov/ai-review)
+
+支持多平台的AI代码审查工具，兼容OpenAI、Claude、Ollama等多种大语言模型。
+
+- **Stars:** ⭐️ 597
+- **Tags:** `ai-code-review` `github` `gitlab` `llm`
+- **最后活动时间:** 2026-10-03
+
+### [ULogViewer](https://github.com/carina-studio/ULogViewer)
+
+跨平台、Agent原生的通用日志查看器，支持MCP协议。可帮助开发者和AI智能体高效解析与分析各类系统日志。
+
+- **Stars:** ⭐️ 597
+- **Tags:** `cross-platform` `log-viewer` `mcp` `agent-native` `dotnet`
+- **最后活动时间:** 2026-10-13
+
 ### [antigravity-skills](https://github.com/rominirani/antigravity-skills)
 
 Google Antigravity 官方示例 Skills 集合，展示如何为 Antigravity IDE 的 AI 智能体编写扩展技能。适合开发者学习 Agent Skills 的编写规范。
@@ -7592,29 +7704,13 @@ Google Antigravity 官方示例 Skills 集合，展示如何为 Antigravity IDE 
 - **Tags:** `antigravity` `agent-skills` `google` `ide`
 - **最后活动时间:** 2026-06-27
 
-### [ai-review](https://github.com/Nikita-Filonov/ai-review)
+### [harness-score](https://github.com/paladini/harness-score)
 
-支持多平台的AI代码审查工具，兼容OpenAI、Claude、Ollama等多种大语言模型。
+快速评估 AI 编程智能体外围 Harness 可靠性的工具，帮助衡量 Cursor 等辅助开发环境的护栏与成熟度。
 
-- **Stars:** ⭐️ 596
-- **Tags:** `ai-code-review` `github` `gitlab` `llm`
-- **最后活动时间:** 2026-10-03
-
-### [vice](https://github.com/Webba-Creative-Technologies/vice)
-
-一款基于AI智能体的安全审计命令行工具，能够自动发现Web应用中的安全漏洞。
-
-- **Stars:** ⭐️ 596
-- **Tags:** `ai-agents` `security` `security-tools` `cli`
-- **最后活动时间:** 2026-09-23
-
-### [ULogViewer](https://github.com/carina-studio/ULogViewer)
-
-跨平台、Agent原生的通用日志查看器，支持MCP协议。可帮助开发者和AI智能体高效解析与分析各类系统日志。
-
-- **Stars:** ⭐️ 595
-- **Tags:** `cross-platform` `log-viewer` `mcp` `agent-native` `dotnet`
-- **最后活动时间:** 2026-09-19
+- **Stars:** ⭐️ 597
+- **Tags:** `ai-agents` `developer-tools` `cli` `evaluation` `cursor`
+- **最后活动时间:** 2026-10-14
 
 ### [lsp-format.nvim](https://github.com/lukas-reineke/lsp-format.nvim)
 
@@ -7628,9 +7724,9 @@ Google Antigravity 官方示例 Skills 集合，展示如何为 Antigravity IDE 
 
 一个综合开发环境，配备专业的AI代理用于代码审查、安全分析和技术领导支持。
 
-- **Stars:** ⭐️ 593
+- **Stars:** ⭐️ 594
 - **Tags:** `claude` `code-review` `devtools` `ai-agents`
-- **最后活动时间:** 2026-09-23
+- **最后活动时间:** 2026-10-09
 
 ### [angular-skills](https://github.com/analogjs/angular-skills)
 
@@ -7640,21 +7736,13 @@ Google Antigravity 官方示例 Skills 集合，展示如何为 Antigravity IDE 
 - **Tags:** `agent-skills` `angular` `developer-tools`
 - **最后活动时间:** 2026-08-06
 
-### [harness-score](https://github.com/paladini/harness-score)
+### [abide](https://github.com/coldteadotai/abide)
 
-快速评估 AI 编程智能体外围 Harness 可靠性的工具，帮助衡量 Cursor 等辅助开发环境的护栏与成熟度。
+通过 hooks、插件与技能机制，让 Claude Code、Codex、OpenCode 等编程智能体严格遵守你的项目规则。有效提升 AI 编码输出的规范性与团队一致性。
 
 - **Stars:** ⭐️ 589
-- **Tags:** `ai-agents` `developer-tools` `cli` `evaluation` `cursor`
-- **最后活动时间:** 2026-10-14
-
-### [opencode-workspace](https://github.com/kdcokenny/opencode-workspace)
-
-为OpenCode打造的多智能体编排工具，一次安装即可实现对开发环境的完全控制。
-
-- **Stars:** ⭐️ 588
-- **Tags:** `opencode` `multi-agent` `developer-tools` `orchestration`
-- **最后活动时间:** 2026-09-16
+- **Tags:** `claude-code` `codex` `opencode` `ai-coding-agent` `developer-tools`
+- **最后活动时间:** 2026-10-10
 
 ### [mcp.el](https://github.com/lizqwerscott/mcp.el)
 
@@ -7664,6 +7752,14 @@ Emacs客户端，支持Model Context Protocol (MCP)，让AI模型能与Emacs编�
 - **Tags:** `Emacs` `MCP` `AI Client`
 - **最后活动时间:** 2026-06-15
 
+### [opencode-workspace](https://github.com/kdcokenny/opencode-workspace)
+
+为OpenCode打造的多智能体编排工具，一次安装即可实现对开发环境的完全控制。
+
+- **Stars:** ⭐️ 587
+- **Tags:** `opencode` `multi-agent` `developer-tools` `orchestration`
+- **最后活动时间:** 2026-09-16
+
 ### [vscode-dbt-power-user](https://github.com/AltimateAI/vscode-dbt-power-user)
 
 强大的VSCode扩展，为dbt提供自动补全、预览、列血缘分析、AI文档生成、健康检查和成本估算等功能。
@@ -7671,6 +7767,14 @@ Emacs客户端，支持Model Context Protocol (MCP)，让AI模型能与Emacs编�
 - **Stars:** ⭐️ 586
 - **Tags:** `dbt` `vscode-extension` `genai` `data-engineering`
 - **最后活动时间:** 2026-09-29
+
+### [agentlytics](https://github.com/f/agentlytics)
+
+AI编程助手综合分析仪表盘，支持Cursor、Windsurf、Claude Code等主流AI编码工具的使用数据追踪与分析。
+
+- **Stars:** ⭐️ 586
+- **Tags:** `ai-coding-assistant` `analytics` `dashboard` `developer-tools`
+- **最后活动时间:** 2026-08-03
 
 ### [bkit-claude-code](https://github.com/popup-studio-ai/bkit-claude-code)
 
@@ -7680,30 +7784,6 @@ Emacs客户端，支持Model Context Protocol (MCP)，让AI模型能与Emacs编�
 - **Tags:** `claude-code` `ai-native-development` `ai-agents` `pdca`
 - **最后活动时间:** 2026-07-28
 
-### [agentlytics](https://github.com/f/agentlytics)
-
-AI编程助手综合分析仪表盘，支持Cursor、Windsurf、Claude Code等主流AI编码工具的使用数据追踪与分析。
-
-- **Stars:** ⭐️ 585
-- **Tags:** `ai-coding-assistant` `analytics` `dashboard` `developer-tools`
-- **最后活动时间:** 2026-08-03
-
-### [junction](https://github.com/Plaer1/junction)
-
-VS Code中的本地AI编程代理聊天侧边栏。支持在IDE内直接与本地AI助手交互。
-
-- **Stars:** ⭐️ 585
-- **Tags:** `vscode` `ai-agent` `local-ai` `ide`
-- **最后活动时间:** 2026-06-29
-
-### [abide](https://github.com/coldteadotai/abide)
-
-通过 hooks、插件与技能机制，让 Claude Code、Codex、OpenCode 等编程智能体严格遵守你的项目规则。有效提升 AI 编码输出的规范性与团队一致性。
-
-- **Stars:** ⭐️ 585
-- **Tags:** `claude-code` `codex` `opencode` `ai-coding-agent` `developer-tools`
-- **最后活动时间:** 2026-10-10
-
 ### [Shopify-AI-Toolkit](https://github.com/Shopify/Shopify-AI-Toolkit)
 
 为命令行工具和IDE提供智能代理插件与扩展，提升开发效率。
@@ -7712,13 +7792,21 @@ VS Code中的本地AI编程代理聊天侧边栏。支持在IDE内直接与本�
 - **Tags:** `gemini-cli-extension` `ai-agent` `developer-tools`
 - **最后活动时间:** 2026-09-30
 
+### [unity-cli-loop](https://github.com/hatayama/unity-cli-loop)
+
+让AI驱动Unity，实现从编辑器到播放模式的自动化控制。通过CLI和MCP协议为Unity开发提供智能化的工作流。
+
+- **Stars:** ⭐️ 582
+- **Tags:** `ai` `automation` `cli` `mcp` `unity` `unity3d`
+- **最后活动时间:** 2026-10-18
+
 ### [claude-code-skills](https://github.com/levnikolaevich/claude-code-skills)
 
 为 Claude Code 提供的插件套件及捆绑 MCP 服务器，支持敏捷工作流、代码审查、知识图谱生成及远程 SSH 等功能。
 
 - **Stars:** ⭐️ 581
 - **Tags:** `claude-code` `mcp` `ai-agents` `developer-tools` `workflow-automation`
-- **最后活动时间:** 2026-10-12
+- **最后活动时间:** 2026-10-18
 
 ### [claudish-to-english](https://github.com/Leutenegger/claudish-to-english)
 
@@ -7728,13 +7816,13 @@ Claude Code 插件，将助手回复实时改写为通俗语言，默认使用�
 - **Tags:** `claude-code` `plugin` `ollama` `llm`
 - **最后活动时间:** 2026-08-21
 
-### [unity-cli-loop](https://github.com/hatayama/unity-cli-loop)
+### [junction](https://github.com/Plaer1/junction)
 
-让AI驱动Unity，实现从编辑器到播放模式的自动化控制。通过CLI和MCP协议为Unity开发提供智能化的工作流。
+VS Code中的本地AI编程代理聊天侧边栏。支持在IDE内直接与本地AI助手交互。
 
-- **Stars:** ⭐️ 581
-- **Tags:** `ai` `automation` `cli` `mcp` `unity` `unity3d`
-- **最后活动时间:** 2026-10-16
+- **Stars:** ⭐️ 580
+- **Tags:** `vscode` `ai-agent` `local-ai` `ide`
+- **最后活动时间:** 2026-06-29
 
 ### [claude-dashboard](https://github.com/uppinote20/claude-dashboard)
 
@@ -7752,6 +7840,14 @@ Claude Code 插件，将助手回复实时改写为通俗语言，默认使用�
 - **Tags:** `cli` `ast` `code-assistants` `token-optimization`
 - **最后活动时间:** 2026-10-01
 
+### [Swift-Concurrency-Agent-Skill](https://github.com/twostraws/Swift-Concurrency-Agent-Skill)
+
+为 Claude Code、Codex 等 AI 工具提供 Swift 并发编程能力的智能体技能。帮助 AI 更好地理解和编写 Swift 异步代码。
+
+- **Stars:** ⭐️ 575
+- **Tags:** `Swift` `Concurrency` `Claude-Code` `AI-Agent` `Codex`
+- **最后活动时间:** 2026-05-17
+
 ### [brain.md](https://github.com/mindmuxai/brain.md)
 
 为编码Agent提供持久化文件记忆层的零依赖CLI工具，赋予Claude Code等项目大脑。支持记录决策、需求和约束，提升AI编程的连贯性。
@@ -7759,14 +7855,6 @@ Claude Code 插件，将助手回复实时改写为通俗语言，默认使用�
 - **Stars:** ⭐️ 575
 - **Tags:** `agent-memory` `ai-agents` `claude-code` `cli` `codex` `coding-agents` `context-engineering` `developer-tools` `knowledge-management` `llm` `markdown` `project-memory`
 - **最后活动时间:** 2026-09-11
-
-### [Swift-Concurrency-Agent-Skill](https://github.com/twostraws/Swift-Concurrency-Agent-Skill)
-
-为 Claude Code、Codex 等 AI 工具提供 Swift 并发编程能力的智能体技能。帮助 AI 更好地理解和编写 Swift 异步代码。
-
-- **Stars:** ⭐️ 574
-- **Tags:** `Swift` `Concurrency` `Claude-Code` `AI-Agent` `Codex`
-- **最后活动时间:** 2026-05-17
 
 ### [gmickel-claude-marketplace](https://github.com/gmickel/gmickel-claude-marketplace)
 
@@ -7796,9 +7884,17 @@ Claude Code插件市场，提供规划优先工作流、自主编码模式及多
 
 开源的 AI 代码编辑器，对标 Google Antigravity 和 Cursor。提供强大的 AI 辅助编程和智能体集成体验。
 
-- **Stars:** ⭐️ 569
+- **Stars:** ⭐️ 570
 - **Tags:** `ai-agent` `ai-editor` `cursor-ai` `antigravity-ide`
 - **最后活动时间:** 2026-09-07
+
+### [DebugMCP](https://github.com/microsoft/DebugMCP)
+
+通过 MCP 为 VS Code AI 智能体配备真正的调试器，支持断点、单步执行与变量检查，让 Copilot、Cursor 等 Agent 能像人类开发者一样调试代码。
+
+- **Stars:** ⭐️ 570
+- **Tags:** `MCP` `Debugger` `VSCode` `AI-Agent` `LLM`
+- **最后活动时间:** 2026-10-18
 
 ### [openclaude-improved](https://github.com/0xwilliamortiz/openclaude-improved)
 
@@ -7808,13 +7904,13 @@ Claude Code插件市场，提供规划优先工作流、自主编码模式及多
 - **Tags:** `ai-agent` `ai-coding` `claude` `cli` `llm`
 - **最后活动时间:** 2026-07-26
 
-### [DebugMCP](https://github.com/microsoft/DebugMCP)
+### [cc-pane](https://github.com/wuxiran/cc-pane)
 
-通过 MCP 为 VS Code AI 智能体配备真正的调试器，支持断点、单步执行与变量检查，让 Copilot、Cursor 等 Agent 能像人类开发者一样调试代码。
+基于 Tauri 2 构建的跨平台桌面应用，可在分屏面板中同时管理多个 Claude Code 实例，大幅提升 AI 编程工作流效率。
 
-- **Stars:** ⭐️ 569
-- **Tags:** `MCP` `Debugger` `VSCode` `AI-Agent` `LLM`
-- **最后活动时间:** 2026-10-13
+- **Stars:** ⭐️ 568
+- **Tags:** `claude-code` `tauri` `desktop-app` `developer-tools`
+- **最后活动时间:** 2026-10-18
 
 ### [claude-elixir-phoenix](https://github.com/oliver-kriska/claude-elixir-phoenix)
 
@@ -7823,14 +7919,6 @@ Claude Code插件市场，提供规划优先工作流、自主编码模式及多
 - **Stars:** ⭐️ 567
 - **Tags:** `ai-agents` `claude-code` `elixir` `phoenix` `developer-tools`
 - **最后活动时间:** 2026-10-16
-
-### [cc-pane](https://github.com/wuxiran/cc-pane)
-
-基于 Tauri 2 构建的跨平台桌面应用，可在分屏面板中同时管理多个 Claude Code 实例，大幅提升 AI 编程工作流效率。
-
-- **Stars:** ⭐️ 567
-- **Tags:** `claude-code` `tauri` `desktop-app` `developer-tools`
-- **最后活动时间:** 2026-10-13
 
 ### [diffity](https://github.com/kamranahmedse/diffity)
 
@@ -7856,13 +7944,37 @@ Claude Code 插件，基于平衡耦合模型设计模块化系统并审查现�
 - **Tags:** `claude` `claude-code` `plugins` `ai-tools`
 - **最后活动时间:** 2026-10-12
 
+### [lazyskills](https://github.com/alvinunreal/lazyskills)
+
+面向 AI 编程智能体的技能控制中心，提供终端 CLI 来发现、安装和管理 Claude Code、OpenCode 等智能体的 Skills。
+
+- **Stars:** ⭐️ 563
+- **Tags:** `claude-code` `agent-skills` `ai-agents` `cli` `skill-management`
+- **最后活动时间:** 2026-09-26
+
 ### [pi-extensions](https://github.com/ogulcancelik/pi-extensions)
 
 为终端编程智能体 pi 打造的扩展集合，持续增强 AI 编程助手的工作流能力。
 
-- **Stars:** ⭐️ 561
+- **Stars:** ⭐️ 562
 - **Tags:** `ai` `coding-agent` `terminal` `extensions` `cli`
 - **最后活动时间:** 2026-10-08
+
+### [Claude-Code-Projects-Index](https://github.com/danielrosehill/Claude-Code-Projects-Index)
+
+Claude Code 相关项目索引库，包含各种常见及创意用途的启动模板。方便开发者快速上手并集成 Claude Code 到不同的工作流中。
+
+- **Stars:** ⭐️ 559
+- **Tags:** `Claude Code` `Templates` `Productivity` `AI Assistant`
+- **最后活动时间:** 2026-10-15
+
+### [claude-code-hooks](https://github.com/shanraisshan/claude-code-hooks)
+
+为 Claude Code 添加语音反馈等 Hook 功能的扩展工具。
+
+- **Stars:** ⭐️ 559
+- **Tags:** `claude-code` `claude-hooks` `ai-agents`
+- **最后活动时间:** 2026-06-04
 
 ### [smart-ralph](https://github.com/tzachbon/smart-ralph)
 
@@ -7872,21 +7984,13 @@ Claude Code 插件，基于平衡耦合模型设计模块化系统并审查现�
 - **Tags:** `claude-code` `agentic-coding` `spec-driven-development` `coding-agent`
 - **最后活动时间:** 2026-09-16
 
-### [Claude-Code-Projects-Index](https://github.com/danielrosehill/Claude-Code-Projects-Index)
+### [Aletheore](https://github.com/Aletheore/Aletheore)
 
-Claude Code 相关项目索引库，包含各种常见及创意用途的启动模板。方便开发者快速上手并集成 Claude Code 到不同的工作流中。
+基于证据的仓库审计 CLI，集确定性扫描器、MCP 服务器、实时仪表盘于一体，并可通过 GitHub Action 自动发布 PR 差异报告。支持与 AI 智能体集成，让代码审计与密钥泄露检测更加高效可信。
 
-- **Stars:** ⭐️ 558
-- **Tags:** `Claude Code` `Templates` `Productivity` `AI Assistant`
-- **最后活动时间:** 2026-10-15
-
-### [claude-code-hooks](https://github.com/shanraisshan/claude-code-hooks)
-
-为 Claude Code 添加语音反馈等 Hook 功能的扩展工具。
-
-- **Stars:** ⭐️ 558
-- **Tags:** `claude-code` `claude-hooks` `ai-agents`
-- **最后活动时间:** 2026-06-04
+- **Stars:** ⭐️ 559
+- **Tags:** `mcp-server` `code-review` `static-analysis` `secrets-detection` `cli`
+- **最后活动时间:** 2026-10-18
 
 ### [ai-data-extractor](https://github.com/bawadou/ai-data-extractor)
 
@@ -7895,6 +7999,14 @@ Claude Code 相关项目索引库，包含各种常见及创意用途的启动�
 - **Stars:** ⭐️ 555
 - **Tags:** `ai` `data-extraction` `claude-code` `cursor` `open-source`
 - **最后活动时间:** 2026-09-07
+
+### [codex-multi-auth](https://github.com/ndycode/codex-multi-auth)
+
+专为 OpenAI Codex CLI 打造的多账号 OAuth 管理工具，支持账号切换、健康检查、运行时轮换与故障恢复。
+
+- **Stars:** ⭐️ 554
+- **Tags:** `codex` `openai` `cli` `oauth` `multi-account`
+- **最后活动时间:** 2026-10-16
 
 ### [RPG-ZeroRepo](https://github.com/microsoft/RPG-ZeroRepo)
 
@@ -7911,14 +8023,6 @@ Java线程转储分析工具，提供GUI界面和MCP服务器支持，帮助AI�
 - **Stars:** ⭐️ 551
 - **Tags:** `java` `jvm` `mcp-server` `performance-tuning` `thread-dump`
 - **最后活动时间:** 2026-10-17
-
-### [codex-multi-auth](https://github.com/ndycode/codex-multi-auth)
-
-专为 OpenAI Codex CLI 打造的多账号 OAuth 管理工具，支持账号切换、健康检查、运行时轮换与故障恢复。
-
-- **Stars:** ⭐️ 550
-- **Tags:** `codex` `openai` `cli` `oauth` `multi-account`
-- **最后活动时间:** 2026-10-16
 
 ### [Auditor](https://github.com/TheAuditorTool/Auditor)
 
@@ -7944,6 +8048,14 @@ AI代码安全审计工具，通过AST和污点分析检测AI生成代码中的�
 - **Tags:** `shadcn-ui` `static-analysis` `accessibility` `cli` `ai-agent`
 - **最后活动时间:** 2026-09-30
 
+### [omg.dev](https://github.com/BennyKok/omg.dev)
+
+支持通过移动端客户端远程控制Claude、Codex、Cursor等多种AI编程工具。为开发者提供随时随地的AI编码管理能力。
+
+- **Stars:** ⭐️ 547
+- **Tags:** `remote-control` `claude-code` `codex` `cursor` `mobile-client`
+- **最后活动时间:** 2026-10-18
+
 ### [awesome-devin](https://github.com/detailobsessed/awesome-devin)
 
 收集了与 Windsurf 代码编辑器相关的优质资源。帮助开发者更好地利用该 AI 编辑器进行开发。
@@ -7951,14 +8063,6 @@ AI代码安全审计工具，通过AST和污点分析检测AI生成代码中的�
 - **Stars:** ⭐️ 547
 - **Tags:** `windsurf` `code-editor` `ai-tools` `awesome-list`
 - **最后活动时间:** 2026-10-13
-
-### [CometixCode](https://github.com/Haleclipse/CometixCode)
-
-基于 iocraft 用 Rust 重新实现的 Claude Code 终端 UI，为 AI 编程助手带来更流畅美观的命令行体验。
-
-- **Stars:** ⭐️ 547
-- **Tags:** `claude-code` `terminal-ui` `rust` `cli` `ai-coding`
-- **最后活动时间:** 2026-09-24
 
 ### [Agmente](https://github.com/rebornix/Agmente)
 
@@ -7976,14 +8080,6 @@ iOS 客户端，通过 ACP 或 Codex 应用服务器连接编程 AI 智能体，
 - **Tags:** `claude` `ai-coding` `best-practices` `documentation` `onboarding`
 - **最后活动时间:** 2026-06-05
 
-### [omg.dev](https://github.com/BennyKok/omg.dev)
-
-支持通过移动端客户端远程控制Claude、Codex、Cursor等多种AI编程工具。为开发者提供随时随地的AI编码管理能力。
-
-- **Stars:** ⭐️ 543
-- **Tags:** `remote-control` `claude-code` `codex` `cursor` `mobile-client`
-- **最后活动时间:** 2026-09-30
-
 ### [awesome-coderabbit](https://github.com/coderabbitai/awesome-coderabbit)
 
 CodeRabbit 官方资源清单，汇集 AI 代码审查工具的入门示例、教程与社区资源。适合希望将生成式 AI 融入代码评审流程的开发团队。
@@ -8000,27 +8096,43 @@ CodeRabbit 官方资源清单，汇集 AI 代码审查工具的入门示例、�
 - **Tags:** `Claude` `ClaudeCode` `Hooks` `Plugin` `DeveloperTools` `Automation` `Anthropic`
 - **最后活动时间:** 2026-10-17
 
-### [opencode-power-pack](https://github.com/waybarrios/opencode-power-pack)
-
-为Codex、OpenCode和Pi提供54项高质量技能，涵盖代码审查、安全审计、功能开发、前端设计与机器学习训练。
-
-- **Stars:** ⭐️ 542
-- **Tags:** `ai-agents` `code-review` `opencode` `skills` `machine-learning`
-- **最后活动时间:** 2026-10-12
-
 ### [studio](https://github.com/Automattic/studio)
 
 WordPress 官方推出的免费桌面应用与 CLI，帮助开发者高效搭建和管理本地 WordPress 开发环境。集成了 AI 智能体（Agents）能力，可辅助开发者快速构建站点与插件。
 
-- **Stars:** ⭐️ 541
+- **Stars:** ⭐️ 542
 - **Tags:** `wordpress` `ai-agents` `cli` `electron` `developer-tools`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
+
+### [concord-mcp](https://github.com/Get-Concord-AI/concord-mcp)
+
+为 Claude Code、Cursor、Codex 等编程智能体提供实时消息通信能力，让 AI 编码助手之间即时协作与沟通。基于 MCP 协议打造，是智能体开发工作流的理想补充。
+
+- **Stars:** ⭐️ 542
+- **Tags:** `MCP` `AI-Agents` `Coding-Agents` `Claude-Code` `Developer-Tools`
+- **最后活动时间:** 2026-10-18
+
+### [ssh-skill](https://github.com/badseal/ssh-skill)
+
+为 Codex 和 Claude Code 打造的跨平台 SSH 工作流技能，让 AI 编程代理能在 Windows、macOS、Linux 上安全执行远程命令与运维任务。
+
+- **Stars:** ⭐️ 541
+- **Tags:** `codex` `claude-code` `ssh` `ai-agents` `developer-tools`
+- **最后活动时间:** 2026-08-24
+
+### [opencode-power-pack](https://github.com/waybarrios/opencode-power-pack)
+
+为Codex、OpenCode和Pi提供54项高质量技能，涵盖代码审查、安全审计、功能开发、前端设计与机器学习训练。
+
+- **Stars:** ⭐️ 541
+- **Tags:** `ai-agents` `code-review` `opencode` `skills` `machine-learning`
+- **最后活动时间:** 2026-10-12
 
 ### [patent](https://github.com/r14dd/patent)
 
 一款利用 LLM 和嵌入技术为你的代码想法进行现有技术搜索的命令行工具，避免重复造轮子。
 
-- **Stars:** ⭐️ 539
+- **Stars:** ⭐️ 540
 - **Tags:** `cli` `developer-tools` `embeddings` `llm` `semantic-search`
 - **最后活动时间:** 2026-10-15
 
@@ -8044,7 +8156,7 @@ Jupyter 扩展，可实时监控 Notebook 内核的内存等资源占用，帮�
 
 一键为 Claude Code、Cursor 等 AI 编程助手注入 400+ 企业级 DESIGN.md 设计系统与技能。零 API 调用，让 AI 生成的界面更专业、更统一。
 
-- **Stars:** ⭐️ 538
+- **Stars:** ⭐️ 539
 - **Tags:** `design-system` `cli` `ai-coding` `claude-code` `cursor` `design-tokens`
 - **最后活动时间:** 2026-10-16
 
@@ -8056,6 +8168,14 @@ AI驱动的架构分析和代码智能工具，能够检测循环依赖、层级
 - **Tags:** `ai` `code-analysis` `static-analysis` `developer-tools` `code-quality`
 - **最后活动时间:** 2026-10-14
 
+### [open-claude-code](https://github.com/ruvnet/open-claude-code)
+
+这是一个基于 Claude Code 的夜间构建和逆向工程的开源版本，重新构建了 Claude Code CLI。
+
+- **Stars:** ⭐️ 536
+- **Tags:** `Claude Code` `Decompilation` `Open Source`
+- **最后活动时间:** 2026-10-17
+
 ### [butterbase-skills](https://github.com/butterbase-ai/butterbase-skills)
 
 Butterbase.ai的插件，为Claude Code提供后端即服务相关的智能体技能支持。
@@ -8063,22 +8183,6 @@ Butterbase.ai的插件，为Claude Code提供后端即服务相关的智能体�
 - **Stars:** ⭐️ 535
 - **Tags:** `claude-code` `ai-agents` `backend-as-a-service` `mcp` `skills`
 - **最后活动时间:** 2026-10-05
-
-### [open-claude-code](https://github.com/ruvnet/open-claude-code)
-
-这是一个基于 Claude Code 的夜间构建和逆向工程的开源版本，重新构建了 Claude Code CLI。
-
-- **Stars:** ⭐️ 535
-- **Tags:** `Claude Code` `Decompilation` `Open Source`
-- **最后活动时间:** 2026-10-17
-
-### [concord-mcp](https://github.com/Get-Concord-AI/concord-mcp)
-
-为 Claude Code、Cursor、Codex 等编程智能体提供实时消息通信能力，让 AI 编码助手之间即时协作与沟通。基于 MCP 协议打造，是智能体开发工作流的理想补充。
-
-- **Stars:** ⭐️ 535
-- **Tags:** `MCP` `AI-Agents` `Coding-Agents` `Claude-Code` `Developer-Tools`
-- **最后活动时间:** 2026-10-17
 
 ### [chorus](https://github.com/chorus-codes/chorus)
 
@@ -8088,13 +8192,13 @@ Butterbase.ai的插件，为Claude Code提供后端即服务相关的智能体�
 - **Tags:** `llm` `code-review` `cli` `multi-agent`
 - **最后活动时间:** 2026-08-13
 
-### [ssh-skill](https://github.com/badseal/ssh-skill)
+### [t1code](https://github.com/maria-rcks/t1code)
 
-为 Codex 和 Claude Code 打造的跨平台 SSH 工作流技能，让 AI 编程代理能在 Windows、macOS、Linux 上安全执行远程命令与运维任务。
+在终端中运行的 AI 编码助手，基于 LLM 帮助开发者直接在 TUI 中生成和编辑代码。
 
-- **Stars:** ⭐️ 533
-- **Tags:** `codex` `claude-code` `ssh` `ai-agents` `developer-tools`
-- **最后活动时间:** 2026-08-24
+- **Stars:** ⭐️ 534
+- **Tags:** `llm` `coding` `tui` `terminal` `codex`
+- **最后活动时间:** 2026-06-03
 
 ### [spool](https://github.com/spool-lab/spool)
 
@@ -8111,14 +8215,6 @@ Claude Code 与 Codex 的本地 token 追踪工具，提供状态栏、GitHub �
 - **Stars:** ⭐️ 532
 - **Tags:** `claude-code` `codex` `token-tracker` `cost-analysis` `usage-tracking`
 - **最后活动时间:** 2026-10-10
-
-### [t1code](https://github.com/maria-rcks/t1code)
-
-在终端中运行的 AI 编码助手，基于 LLM 帮助开发者直接在 TUI 中生成和编辑代码。
-
-- **Stars:** ⭐️ 532
-- **Tags:** `llm` `coding` `tui` `terminal` `codex`
-- **最后活动时间:** 2026-06-03
 
 ### [backend](https://github.com/prod-forge/backend)
 
@@ -8144,21 +8240,45 @@ Claude Code 与 Codex 的本地 token 追踪工具，提供状态栏、GitHub �
 - **Tags:** `data-visualization` `llm-agents` `scientific-visualization` `matplotlib`
 - **最后活动时间:** 2026-09-30
 
-### [VibeAround](https://github.com/jazzenchen/VibeAround)
+### [lean-lsp-mcp](https://github.com/oOo0oOo/lean-lsp-mcp)
 
-集中管理多种AI编程代理的统一工作台。支持跨平台并行启动Claude Code、Gemini CLI等工具协同开发。
+为 Lean4 定理证明器提供 MCP 协议接入，让 AI 助手通过 LSP 直接交互、辅助形式化验证与定理证明。
 
-- **Stars:** ⭐️ 527
-- **Tags:** `ai-agent` `ai-tools` `remote-execution` `vibe-coding`
-- **最后活动时间:** 2026-09-05
+- **Stars:** ⭐️ 530
+- **Tags:** `MCP` `Lean4` `LSP` `Theorem-Proving`
+- **最后活动时间:** 2026-09-30
 
 ### [boost](https://github.com/jfrog/boost)
 
 面向 Cursor、Claude Code 等 AI 编程助手的上下文工程工具，安全压缩 Token、最大化有效上下文。
 
-- **Stars:** ⭐️ 527
+- **Stars:** ⭐️ 530
 - **Tags:** `AI` `Context-Engineering` `Token-Reduction` `Cursor` `CLI`
 - **最后活动时间:** 2026-10-15
+
+### [VibeAround](https://github.com/jazzenchen/VibeAround)
+
+集中管理多种AI编程代理的统一工作台。支持跨平台并行启动Claude Code、Gemini CLI等工具协同开发。
+
+- **Stars:** ⭐️ 528
+- **Tags:** `ai-agent` `ai-tools` `remote-execution` `vibe-coding`
+- **最后活动时间:** 2026-09-05
+
+### [bug-hunter](https://github.com/codexstar69/bug-hunter)
+
+对抗性AI漏洞猎手，兼容Claude Code、Cursor、Codex CLI等多种编码智能体。多智能体流水线自动挖掘安全漏洞、逻辑错误与运行时Bug，并在安全分支上自主修复。
+
+- **Stars:** ⭐️ 526
+- **Tags:** `ai-code-review` `security-scanner` `multi-agent` `claude-code` `bug-detection`
+- **最后活动时间:** 2026-08-17
+
+### [dsh-at-file](https://github.com/FSMargoo/dsh-at-file)
+
+为DeepSeek Harness提供Codex风格的@file文件提及插件，可在输入框中搜索工作区文件并将路径附加到提示词。有效提升AI编程助手的上下文引用效率。
+
+- **Stars:** ⭐️ 526
+- **Tags:** `DeepSeek` `Codex` `Plugin` `AI-Coding` `Developer-Tools`
+- **最后活动时间:** 2026-09-01
 
 ### [frontend-slides-editable](https://github.com/archlizheng/frontend-slides-editable)
 
@@ -8168,22 +8288,6 @@ Claude Code 与 Codex 的本地 token 追踪工具，提供状态栏、GitHub �
 - **Tags:** `codex` `claude-code` `presentation` `html-slides` `pptx`
 - **最后活动时间:** 2026-07-01
 
-### [bug-hunter](https://github.com/codexstar69/bug-hunter)
-
-对抗性AI漏洞猎手，兼容Claude Code、Cursor、Codex CLI等多种编码智能体。多智能体流水线自动挖掘安全漏洞、逻辑错误与运行时Bug，并在安全分支上自主修复。
-
-- **Stars:** ⭐️ 525
-- **Tags:** `ai-code-review` `security-scanner` `multi-agent` `claude-code` `bug-detection`
-- **最后活动时间:** 2026-08-17
-
-### [dsh-at-file](https://github.com/FSMargoo/dsh-at-file)
-
-为DeepSeek Harness提供Codex风格的@file文件提及插件，可在输入框中搜索工作区文件并将路径附加到提示词。有效提升AI编程助手的上下文引用效率。
-
-- **Stars:** ⭐️ 525
-- **Tags:** `DeepSeek` `Codex` `Plugin` `AI-Coding` `Developer-Tools`
-- **最后活动时间:** 2026-09-01
-
 ### [cc-switch-web](https://github.com/Laliet/cc-switch-web)
 
 一款跨平台的网页版全能助手工具，支持 Claude Code、Codex 和 Gemini CLI 的快速切换与管理。基于 Tauri 和 TypeScript 构建，提供便捷的 AI 开发环境配置体验。
@@ -8191,6 +8295,14 @@ Claude Code 与 Codex 的本地 token 追踪工具，提供状态栏、GitHub �
 - **Stars:** ⭐️ 524
 - **Tags:** `claude-code` `codex` `gemini-cli` `tauri` `ai-assistant`
 - **最后活动时间:** 2026-07-16
+
+### [mu](https://github.com/qybaihe/mu)
+
+一个'三思而后行'的编程智能体：由小型快速模型处理常规判断、大模型专注核心编码工作，基于 pi 与 AionUi 构建。
+
+- **Stars:** ⭐️ 524
+- **Tags:** `Coding-Agent` `Multi-Agent` `LLM` `Context-Engineering`
+- **最后活动时间:** 2026-10-16
 
 ### [vet](https://github.com/imbue-ai/vet)
 
@@ -8216,13 +8328,13 @@ Claude Code 与 Codex 的本地 token 追踪工具，提供状态栏、GitHub �
 - **Tags:** `ai-agents` `oauth` `multi-account` `anthropic` `codex` `gemini`
 - **最后活动时间:** 2026-10-13
 
-### [mu](https://github.com/qybaihe/mu)
+### [zhikuncode](https://github.com/zhikunqingtao/zhikuncode)
 
-一个'三思而后行'的编程智能体：由小型快速模型处理常规判断、大模型专注核心编码工作，基于 pi 与 AionUi 构建。
+zhikuncode 是 Codex/Claude Code/Cursor 的开源增强版 AI 编码助手。它支持通过一句话指令完成复杂长程任务，集成国产大模型如千问和 DeepSeek，提供多代理协作、CLI 与 Web UI 双入口，并使用 Docker 一键部署。
 
 - **Stars:** ⭐️ 522
-- **Tags:** `Coding-Agent` `Multi-Agent` `LLM` `Context-Engineering`
-- **最后活动时间:** 2026-10-16
+- **Tags:** `AI Coding Assistant` `LLM Integration` `Self-hosted` `Multi-agent`
+- **最后活动时间:** 2026-10-18
 
 ### [claude-code-lsps](https://github.com/Piebald-AI/claude-code-lsps)
 
@@ -8232,22 +8344,6 @@ Claude Code 插件市场，提供多种 LSP 服务器支持。增强 AI 编程�
 - **Tags:** `claude-code` `lsp` `plugin` `ide`
 - **最后活动时间:** 2026-07-25
 
-### [zhikuncode](https://github.com/zhikunqingtao/zhikuncode)
-
-zhikuncode 是 Codex/Claude Code/Cursor 的开源增强版 AI 编码助手。它支持通过一句话指令完成复杂长程任务，集成国产大模型如千问和 DeepSeek，提供多代理协作、CLI 与 Web UI 双入口，并使用 Docker 一键部署。
-
-- **Stars:** ⭐️ 521
-- **Tags:** `AI Coding Assistant` `LLM Integration` `Self-hosted` `Multi-agent`
-- **最后活动时间:** 2026-10-18
-
-### [lean-lsp-mcp](https://github.com/oOo0oOo/lean-lsp-mcp)
-
-为 Lean4 定理证明器提供 MCP 协议接入，让 AI 助手通过 LSP 直接交互、辅助形式化验证与定理证明。
-
-- **Stars:** ⭐️ 520
-- **Tags:** `MCP` `Lean4` `LSP` `Theorem-Proving`
-- **最后活动时间:** 2026-08-19
-
 ### [lody-ios](https://github.com/Innei/lody-ios)
 
 Lody 的独立 iOS 客户端，在 iPhone 上提供原生聊天、会话管理与编码智能体协作体验。
@@ -8255,6 +8351,14 @@ Lody 的独立 iOS 客户端，在 iPhone 上提供原生聊天、会话管理�
 - **Stars:** ⭐️ 519
 - **Tags:** `coding-agent` `ios` `react-native` `collaboration` `mobile`
 - **最后活动时间:** 2026-10-18
+
+### [vicoa](https://github.com/vicoa-ai/vicoa)
+
+开源的智能体 IDE，可在桌面、移动端和 VPS 上编排一队编码智能体（支持 Claude Code、Codex 等），并支持自托管。让开发者随时随地指挥多个 AI 编码代理协同工作。
+
+- **Stars:** ⭐️ 519
+- **Tags:** `ai-agents` `coding-agent` `ide` `claude-code` `self-hosted`
+- **最后活动时间:** 2026-10-10
 
 ### [react-native-boilerplate](https://github.com/wataru-maeda/react-native-boilerplate)
 
@@ -8270,7 +8374,7 @@ Lody 的独立 iOS 客户端，在 iPhone 上提供原生聊天、会话管理�
 
 - **Stars:** ⭐️ 518
 - **Tags:** `ai-agents` `code-intelligence` `mcp-server` `static-analysis`
-- **最后活动时间:** 2026-10-14
+- **最后活动时间:** 2026-10-18
 
 ### [agent-console](https://github.com/LockedinLabs-AI/agent-console)
 
@@ -8280,14 +8384,6 @@ Lody 的独立 iOS 客户端，在 iPhone 上提供原生聊天、会话管理�
 - **Tags:** `AI-Agents` `Observability` `Claude-Code` `Codex` `LLM` `Developer-Tools` `Token-Usage`
 - **最后活动时间:** 2026-09-27
 
-### [vicoa](https://github.com/vicoa-ai/vicoa)
-
-开源的智能体 IDE，可在桌面、移动端和 VPS 上编排一队编码智能体（支持 Claude Code、Codex 等），并支持自托管。让开发者随时随地指挥多个 AI 编码代理协同工作。
-
-- **Stars:** ⭐️ 517
-- **Tags:** `ai-agents` `coding-agent` `ide` `claude-code` `self-hosted`
-- **最后活动时间:** 2026-10-10
-
 ### [models](https://github.com/reyamira/models)
 
 用于浏览 models.dev、AI 模型基准测试及服务商状态的终端用户界面 (TUI) 与命令行工具。帮助开发者快速对比和查看各类 AI 模型的性能与可用性。
@@ -8296,13 +8392,21 @@ Lody 的独立 iOS 客户端，在 iPhone 上提供原生聊天、会话管理�
 - **Tags:** `tui` `cli` `benchmarks` `ai-models` `rust`
 - **最后活动时间:** 2026-10-18
 
+### [proliferate](https://github.com/proliferate-ai/proliferate)
+
+开源 AI IDE，支持 Claude Code、Codex、OpenCode 等，可在本地或云端并行运行智能体，并构建可复用工作流。
+
+- **Stars:** ⭐️ 516
+- **Tags:** `ai-ide` `claude-code` `coding-agents` `devtools`
+- **最后活动时间:** 2026-10-15
+
 ### [claude-history](https://github.com/raine/claude-history)
 
 为 Claude Code 提供模糊搜索历史对话的工具，帮助开发者快速检索和复用过往的 AI 编程会话记录。
 
 - **Stars:** ⭐️ 515
 - **Tags:** `claude-code` `cli` `fuzzy-search` `developer-tools`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [partmode](https://github.com/BOMWiki/partmode)
 
@@ -8320,14 +8424,6 @@ Lody 的独立 iOS 客户端，在 iPhone 上提供原生聊天、会话管理�
 - **Tags:** `MCP` `Unity` `Game Development` `AI-Assisted Development` `Claude`
 - **最后活动时间:** 2026-10-06
 
-### [coop](https://github.com/trailofbits/coop)
-
-基于 Firecracker/KVM 等微虚拟机技术，为运行 Claude Code 与 Codex 提供安全隔离的沙箱环境。
-
-- **Stars:** ⭐️ 513
-- **Tags:** `claude-code` `codex` `sandbox` `microvm` `firecracker` `rust`
-- **最后活动时间:** 2026-09-25
-
 ### [eca-emacs](https://github.com/editor-code-assistant/eca-emacs)
 
 ECA（Editor Code Assistant）的 Emacs 集成插件，将 AI 编程助手带入 Emacs，支持多模型对话与智能代码辅助。适合希望在编辑器内获得 LLM 驱动开发体验的 Emacs 用户。
@@ -8342,7 +8438,7 @@ ECA（Editor Code Assistant）的 Emacs 集成插件，将 AI 编程助手带入
 
 - **Stars:** ⭐️ 512
 - **Tags:** `mcp-server` `semantic-search` `knowledge-graph` `code-intelligence` `rust`
-- **最后活动时间:** 2026-10-14
+- **最后活动时间:** 2026-10-18
 
 ### [stata-mcp](https://github.com/hanlulong/stata-mcp)
 
@@ -8351,14 +8447,6 @@ ECA（Editor Code Assistant）的 Emacs 集成插件，将 AI 编程助手带入
 - **Stars:** ⭐️ 511
 - **Tags:** `mcp` `stata` `vscode` `cursor` `code-assistant`
 - **最后活动时间:** 2026-07-05
-
-### [proliferate](https://github.com/proliferate-ai/proliferate)
-
-开源 AI IDE，支持 Claude Code、Codex、OpenCode 等，可在本地或云端并行运行智能体，并构建可复用工作流。
-
-- **Stars:** ⭐️ 510
-- **Tags:** `ai-ide` `claude-code` `coding-agents` `devtools`
-- **最后活动时间:** 2026-09-30
 
 ### [skills-curated](https://github.com/trailofbits/skills-curated)
 
@@ -8374,7 +8462,7 @@ ECA（Editor Code Assistant）的 Emacs 集成插件，将 AI 编程助手带入
 
 - **Stars:** ⭐️ 509
 - **Tags:** `AI-Agents` `Coding-Agents` `Claude-Code` `Automation` `Developer-Tools`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [talk-codebase](https://github.com/rsaryev/talk-codebase)
 
@@ -8392,6 +8480,14 @@ ECA（Editor Code Assistant）的 Emacs 集成插件，将 AI 编程助手带入
 - **Tags:** `ai-agents` `refactoring` `code-quality` `codex` `developer-tools`
 - **最后活动时间:** 2026-09-04
 
+### [xcsift](https://github.com/ldomaradzki/xcsift)
+
+一款 Swift 命令行工具，能将冗长的 xcodebuild 输出解析为节省 token 的高效 JSON 格式，专为 AI 编程智能体优化上下文。可显著提升 Claude Code、Cursor 等编码代理处理构建日志的效率。
+
+- **Stars:** ⭐️ 507
+- **Tags:** `swift` `cli` `xcode` `coding-agents` `llm` `developer-tools`
+- **最后活动时间:** 2026-10-16
+
 ### [copilot-mcp](https://github.com/VikashLoomba/copilot-mcp)
 
 VSCode扩展，用于发现并安装Agent Skills和MCP应用。支持GitHub Copilot、Claude Code和Codex CLI等主流AI编程助手。
@@ -8399,6 +8495,14 @@ VSCode扩展，用于发现并安装Agent Skills和MCP应用。支持GitHub Copi
 - **Stars:** ⭐️ 505
 - **Tags:** `agent-skills` `mcp` `vscode-extension` `copilot` `claude-code` `codex`
 - **最后活动时间:** 2026-06-15
+
+### [vibing-steampunk](https://github.com/oisee/vibing-steampunk)
+
+通过 MCP 协议桥接 ABAP 开发工具(ADT),让开发者能够在 ABAP/AMDP 中进行 AI 辅助的 Vibe Coding。为 SAP 企业开发者提供了将 AI 编程助手接入传统 ABAP 生态的独特途径。
+
+- **Stars:** ⭐️ 504
+- **Tags:** `MCP` `ABAP` `ADT` `vibe-coding` `AI-Assisted-Coding`
+- **最后活动时间:** 2026-10-09
 
 ### [ospec](https://github.com/clawplays/ospec)
 
@@ -8422,15 +8526,7 @@ nteract 出品的 Notebook 分享中心，支持从 S3 等存储中浏览、预�
 
 - **Stars:** ⭐️ 503
 - **Tags:** `claude-code` `nix` `package-manager` `developer-tools`
-- **最后活动时间:** 2026-10-17
-
-### [vibing-steampunk](https://github.com/oisee/vibing-steampunk)
-
-通过 MCP 协议桥接 ABAP 开发工具(ADT),让开发者能够在 ABAP/AMDP 中进行 AI 辅助的 Vibe Coding。为 SAP 企业开发者提供了将 AI 编程助手接入传统 ABAP 生态的独特途径。
-
-- **Stars:** ⭐️ 503
-- **Tags:** `MCP` `ABAP` `ADT` `vibe-coding` `AI-Assisted-Coding`
-- **最后活动时间:** 2026-10-09
+- **最后活动时间:** 2026-10-19
 
 ### [cac](https://github.com/nmhjklnm/cac)
 
@@ -8439,6 +8535,14 @@ nteract 出品的 Notebook 分享中心，支持从 S3 等存储中浏览、预�
 - **Stars:** ⭐️ 500
 - **Tags:** `claude-code` `sandbox` `security` `developer-tools` `ai-coding`
 - **最后活动时间:** 2026-04-27
+
+### [remoteai](https://github.com/dibi/dibi)
+
+一套围绕 OpenAI Codex 与 OpenCode 的 AI 编程辅助工具集，提供配置切换、图形界面与远程使用等增强能力。适合希望更灵活管理 AI 编码助手的开发者。
+
+- **Stars:** ⭐️ 500
+- **Tags:** `codex` `opencode` `ai-coding` `cli-tools` `developer-tools`
+- **最后活动时间:** 2026-09-18
 
 ### [opslane](https://github.com/opslane/opslane)
 
@@ -8454,7 +8558,7 @@ nteract 出品的 Notebook 分享中心，支持从 S3 等存储中浏览、预�
 
 开源提示词分享与发现平台，支持自托管，帮助用户收集和管理社区优质提示词资源。
 
-- **Stars:** ⭐️ 173.3k
+- **Stars:** ⭐️ 173.4k
 - **Tags:** `提示工程` `ChatGPT` `开源平台`
 - **最后活动时间:** 2026-10-18
 
@@ -8462,7 +8566,7 @@ nteract 出品的 Notebook 分享中心，支持从 S3 等存储中浏览、预�
 
 让AI智能体像资深开发者一样思考的提示工程工具。倡导“YAGNI”原则，追求最高效的代码生成方案。
 
-- **Stars:** ⭐️ 166.5k
+- **Stars:** ⭐️ 167.1k
 - **Tags:** `ai-agents` `prompt-engineering` `claude-code` `developer-tools`
 - **最后活动时间:** 2026-10-18
 
@@ -8486,7 +8590,7 @@ nteract 出品的 Notebook 分享中心，支持从 S3 等存储中浏览、预�
 
 一个有趣的Claude Code技能，通过模仿原始人说话方式来减少75%的token使用量，是prompt工程的创意实践。
 
-- **Stars:** ⭐️ 113.3k
+- **Stars:** ⭐️ 113.5k
 - **Tags:** `prompt-engineering` `claude` `token-optimization` `llm`
 - **最后活动时间:** 2026-10-18
 
@@ -8494,7 +8598,7 @@ nteract 出品的 Notebook 分享中心，支持从 S3 等存储中浏览、预�
 
 精选Claude技能资源列表，汇集自定义Claude AI工作流的工具、资源和最佳实践。
 
-- **Stars:** ⭐️ 77.3k
+- **Stars:** ⭐️ 77.4k
 - **Tags:** `Claude` `AI Agents` `MCP` `Workflow`
 - **最后活动时间:** 2026-09-18
 
@@ -8510,7 +8614,7 @@ nteract 出品的 Notebook 分享中心，支持从 S3 等存储中浏览、预�
 
 收集主流AI聊天机器人的系统提示词，助力提示工程研究与学习。
 
-- **Stars:** ⭐️ 69.8k
+- **Stars:** ⭐️ 69.9k
 - **Tags:** `System Prompts` `Prompt Engineering` `LLM`
 - **最后活动时间:** 2026-10-16
 
@@ -8526,7 +8630,7 @@ nteract 出品的 Notebook 分享中心，支持从 S3 等存储中浏览、预�
 
 Claude Code技能工具，用于移除AI生成文本的痕迹，使文本更具人类写作风格。
 
-- **Stars:** ⭐️ 57.9k
+- **Stars:** ⭐️ 58.1k
 - **Tags:** `claude` `text-processing` `ai-writing` `prompt-engineering`
 - **最后活动时间:** 2026-10-16
 
@@ -8534,7 +8638,7 @@ Claude Code技能工具，用于移除AI生成文本的痕迹，使文本更具�
 
 为Claude Code和AI代理提供营销技能库，涵盖CRO、文案写作、SEO、分析和增长工程。
 
-- **Stars:** ⭐️ 55.3k
+- **Stars:** ⭐️ 55.4k
 - **Tags:** `Marketing` `Prompt Engineering` `AI Skills`
 - **最后活动时间:** 2026-10-15
 
@@ -8550,7 +8654,7 @@ Claude Code技能工具，用于移除AI生成文本的痕迹，使文本更具�
 
 Claude Code 学术研究技能包，覆盖研究、写作、审稿、修订全流程。
 
-- **Stars:** ⭐️ 52.6k
+- **Stars:** ⭐️ 52.8k
 - **Tags:** `academic-writing` `claude-code` `research` `prompt-engineering`
 - **最后活动时间:** 2026-10-18
 
@@ -8558,25 +8662,25 @@ Claude Code 学术研究技能包，覆盖研究、写作、审稿、修订全�
 
 各大AI系统提示词收集项目，涵盖ChatGPT、Gemini、Claude等，推动AI透明度研究与安全测试。
 
-- **Stars:** ⭐️ 51.3k
+- **Stars:** ⭐️ 51.4k
 - **Tags:** `系统提示词` `透明度` `提示工程` `红队测试`
 - **最后活动时间:** 2026-09-22
-
-### [agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills)
-
-为 Claude Code、Cursor、Codex CLI 等多种 AI 编程助手提供的 1900+ 智能体技能库，包含插件、工作流和官方/社区集合。
-
-- **Stars:** ⭐️ 47.8k
-- **Tags:** `agent-skills` `ai-agents` `claude-code` `cursor` `codex-cli`
-- **最后活动时间:** 2026-10-18
 
 ### [nature-skills](https://github.com/Yuan1z0825/nature-skills)
 
 为 Codex 等智能体设计的学术写作与科研绘图技能集合。帮助 AI 助手生成符合 Nature 论文标准的学术表达和图表。
 
-- **Stars:** ⭐️ 45.1k
+- **Stars:** ⭐️ 49.0k
 - **Tags:** `codex-skills` `academic-writing` `research` `ai-tools`
-- **最后活动时间:** 2026-09-28
+- **最后活动时间:** 2026-10-16
+
+### [agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills)
+
+为 Claude Code、Cursor、Codex CLI 等多种 AI 编程助手提供的 1900+ 智能体技能库，包含插件、工作流和官方/社区集合。
+
+- **Stars:** ⭐️ 47.9k
+- **Tags:** `agent-skills` `ai-agents` `claude-code` `cursor` `codex-cli`
+- **最后活动时间:** 2026-10-18
 
 ### [dspy](https://github.com/stanfordnlp/dspy)
 
@@ -8584,7 +8688,7 @@ DSPy是编程语言模型的框架，通过声明式代码替代传统提示词�
 
 - **Stars:** ⭐️ 38.7k
 - **Tags:** `llm-framework` `prompt-optimization` `declarative`
-- **最后活动时间:** 2026-10-16
+- **最后活动时间:** 2026-10-18
 
 ### [prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
 
@@ -8598,7 +8702,7 @@ Anthropic官方交互式提示工程教程，系统学习Prompt设计技巧。
 
 一款提示词优化工具，帮助用户编写高质量的AI提示词。提升与大语言模型交互的效果。
 
-- **Stars:** ⭐️ 38.4k
+- **Stars:** ⭐️ 38.5k
 - **Tags:** `Prompt Engineering` `LLM` `Optimization`
 - **最后活动时间:** 2026-10-13
 
@@ -8606,15 +8710,15 @@ Anthropic官方交互式提示工程教程，系统学习Prompt设计技巧。
 
 将技术书籍PDF转换为Claude Code技能的工具，方便学习、参考和工作中使用。
 
-- **Stars:** ⭐️ 35.2k
+- **Stars:** ⭐️ 35.3k
 - **Tags:** `claude` `pdf` `skill` `prompt-engineering` `knowledge-base`
-- **最后活动时间:** 2026-10-12
+- **最后活动时间:** 2026-10-18
 
 ### [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
 
 GPT-Image2 工业级提示词引擎与模板库，包含329个逆向工程案例和13套工业级模板，持续更新中。
 
-- **Stars:** ⭐️ 34.6k
+- **Stars:** ⭐️ 34.7k
 - **Tags:** `gpt-image` `prompt-engineering` `image-generation` `prompts`
 - **最后活动时间:** 2026-10-14
 
@@ -8630,7 +8734,7 @@ GPT-Image2 工业级提示词引擎与模板库，包含329个逆向工程案例
 
 192+个Claude Code技能与智能体插件集合，覆盖开发、营销、设计等多场景，支持10+主流AI编程助手。
 
-- **Stars:** ⭐️ 28.3k
+- **Stars:** ⭐️ 28.4k
 - **Tags:** `Agent Plugins` `Claude Code` `Prompt Engineering` `Coding Agents`
 - **最后活动时间:** 2026-08-30
 
@@ -8638,7 +8742,7 @@ GPT-Image2 工业级提示词引擎与模板库，包含329个逆向工程案例
 
 为 Claude 和 Codex 等智能体提供自定义技能定义的集合。帮助开发者扩展和增强 AI 编程助手的能力。
 
-- **Stars:** ⭐️ 26.7k
+- **Stars:** ⭐️ 26.8k
 - **Tags:** `agent-skills` `claude-skills` `codex-skills` `ai-tools`
 - **最后活动时间:** 2026-09-10
 
@@ -8670,7 +8774,7 @@ GPT-Image2 工业级提示词引擎与模板库，包含329个逆向工程案例
 
 用于移除多供应商 AI 生成内容水印的工具，支持 Unicode 清理和 C2PA 元数据剥离。兼容 PNG、PDF、HTML 等多种格式。
 
-- **Stars:** ⭐️ 24.3k
+- **Stars:** ⭐️ 24.4k
 - **Tags:** `ai` `watermark` `c2pa` `synthid` `tools`
 - **最后活动时间:** 2026-10-17
 
@@ -8702,7 +8806,7 @@ Humanizer 中文版工具，用于消除文本中 AI 生成的痕迹，使文本
 
 Claude Code的通用SEO技能包，包含13个子技能和7个子代理，支持技术SEO、E-E-A-T、Schema等优化，集成DataForSEO MCP。
 
-- **Stars:** ⭐️ 19.1k
+- **Stars:** ⭐️ 19.2k
 - **Tags:** `claude` `seo` `mcp` `ai-tools` `prompt-engineering`
 - **最后活动时间:** 2026-10-04
 
@@ -8792,7 +8896,7 @@ ChatGPT中文指南与精选资源清单，涵盖调教指南、Prompt技巧、�
 
 - **Stars:** ⭐️ 11.1k
 - **Tags:** `SEO` `Claude` `AI Optimization`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt)
 
@@ -8808,7 +8912,7 @@ ChatGPT中文指南与精选资源清单，涵盖调教指南、Prompt技巧、�
 
 - **Stars:** ⭐️ 10.6k
 - **Tags:** `claude-code` `context-engineering` `meta-prompting` `workflow`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [gpt-instruct](https://github.com/MDX-Tom/gpt-instruct)
 
@@ -8846,7 +8950,7 @@ AI快捷指令管理平台，帮助用户高效管理和定制提示词，支持
 
 WuMing 维护的 Claude Skills 技能合集，为 Claude 智能体提供可复用的提示词与能力扩展模块。
 
-- **Stars:** ⭐️ 8.4k
+- **Stars:** ⭐️ 8.8k
 - **Tags:** `claude` `claude-skills` `prompt-engineering` `ai-agents`
 - **最后活动时间:** 2026-10-16
 
@@ -8862,7 +8966,7 @@ AI 编程超能力中文增强版，完整汉化 superpowers 并新增 6 个原�
 
 最全AI技能商店，收录72个精选技能包，涵盖文档处理、内容创作、编程开发、机器学习等领域。
 
-- **Stars:** ⭐️ 8.2k
+- **Stars:** ⭐️ 8.3k
 - **Tags:** `ai-skills` `skill-store` `prompt-engineering` `automation`
 - **最后活动时间:** 2026-10-18
 
@@ -8872,7 +8976,7 @@ clack 是一个轻松构建漂亮命令行应用的工具。它支持提示和�
 
 - **Stars:** ⭐️ 8.1k
 - **Tags:** `cli` `command-line` `prompts`
-- **最后活动时间:** 2026-09-22
+- **最后活动时间:** 2026-10-15
 
 ### [Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering)
 
@@ -8906,6 +9010,14 @@ clack 是一个轻松构建漂亮命令行应用的工具。它支持提示和�
 - **Tags:** `claude-skills` `redteam` `prompt-engineering` `security`
 - **最后活动时间:** 2026-10-12
 
+### [pxpipe](https://github.com/teamchong/pxpipe)
+
+通过将文本上下文渲染为图像来减少 Claude Code 的 token 使用量，有效降低 API 成本。
+
+- **Stars:** ⭐️ 7.5k
+- **Tags:** `Claude` `Token-Optimization` `Prompt-Engineering` `Developer-Tools`
+- **最后活动时间:** 2026-10-18
+
 ### [Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills)
 
 产品管理AI技能框架，为Claude Code和AI代理提供经过实战验证的PM方法论。
@@ -8914,21 +9026,13 @@ clack 是一个轻松构建漂亮命令行应用的工具。它支持提示和�
 - **Tags:** `PM Skills` `AI Agents` `Claude` `Product Management`
 - **最后活动时间:** 2026-10-16
 
-### [pxpipe](https://github.com/teamchong/pxpipe)
-
-通过将文本上下文渲染为图像来减少 Claude Code 的 token 使用量，有效降低 API 成本。
-
-- **Stars:** ⭐️ 7.5k
-- **Tags:** `Claude` `Token-Optimization` `Prompt-Engineering` `Developer-Tools`
-- **最后活动时间:** 2026-09-29
-
 ### [Waza](https://github.com/tw93/Waza)
 
 将工程师习惯转化为Claude可执行的技能集合，提升AI助手的实际工作能力。
 
 - **Stars:** ⭐️ 7.3k
 - **Tags:** `claude` `claude-code` `skills` `prompt-engineering`
-- **最后活动时间:** 2026-10-15
+- **最后活动时间:** 2026-10-18
 
 ### [skills](https://github.com/android/skills)
 
@@ -8942,9 +9046,17 @@ WuMing 维护的 Claude Skills 技能合集，为 Claude 智能体提供可复�
 
 DeepSeek Harness 破甲工具是一个专为AI模型设计的越狱提示生成器，支持为不同模型切换自定义提示词。默认提示词面向国模「小码酱」，帮助用户进行模型安全测试和突破。
 
-- **Stars:** ⭐️ 6.9k
+- **Stars:** ⭐️ 7.1k
 - **Tags:** `jailbreak` `llm-jailbreak` `deepseek` `harness`
 - **最后活动时间:** 2026-10-12
+
+### [gepa](https://github.com/gepa-ai/gepa)
+
+基于AI的反射式文本进化工具，用于优化提示词、代码等内容。
+
+- **Stars:** ⭐️ 7.0k
+- **Tags:** `prompt-engineering` `optimization` `ai`
+- **最后活动时间:** 2026-10-13
 
 ### [Skills](https://github.com/MengTo/Skills)
 
@@ -8954,14 +9066,6 @@ DeepSeek Harness 破甲工具是一个专为AI模型设计的越狱提示生成�
 - **Tags:** `agent-skills` `ai-coding` `claude-code` `cursor`
 - **最后活动时间:** 2026-10-18
 
-### [gepa](https://github.com/gepa-ai/gepa)
-
-基于AI的反射式文本进化工具，用于优化提示词、代码等内容。
-
-- **Stars:** ⭐️ 6.8k
-- **Tags:** `prompt-engineering` `optimization` `ai`
-- **最后活动时间:** 2026-09-29
-
 ### [LLMLingua](https://github.com/microsoft/LLMLingua)
 
 LLM提示词压缩工具，实现高达20倍压缩率，显著提升推理速度并降低成本，发表于EMNLP'23和ACL'24。
@@ -8970,14 +9074,6 @@ LLM提示词压缩工具，实现高达20倍压缩率，显著提升推理速度
 - **Tags:** `Prompt Compression` `Research` `Optimization`
 - **最后活动时间:** 2026-09-10
 
-### [SuperPrompt](https://github.com/NeoVertex1/SuperPrompt)
-
-探索性提示词工程项目，旨在设计帮助理解AI代理行为的提示词模板。推动提示工程研究边界。
-
-- **Stars:** ⭐️ 6.4k
-- **Tags:** `Prompt Engineering` `AI Agents` `Research`
-- **最后活动时间:** 2026-04-26
-
 ### [anti-slop](https://github.com/miqdadbadjuber/anti-slop)
 
 为 AI 编程智能体设计的规则集，用于过滤掉通用且缺乏特色的 AI 生成 UI 设计、文本和代码。提升 AI 辅助开发的输出质量。
@@ -8985,6 +9081,14 @@ LLM提示词压缩工具，实现高达20倍压缩率，显著提升推理速度
 - **Stars:** ⭐️ 6.4k
 - **Tags:** `ai-coding-agent` `prompt-rules` `code-quality` `ui-design`
 - **最后活动时间:** 2026-10-16
+
+### [SuperPrompt](https://github.com/NeoVertex1/SuperPrompt)
+
+探索性提示词工程项目，旨在设计帮助理解AI代理行为的提示词模板。推动提示工程研究边界。
+
+- **Stars:** ⭐️ 6.4k
+- **Tags:** `Prompt Engineering` `AI Agents` `Research`
+- **最后活动时间:** 2026-04-26
 
 ### [wonderful-prompts](https://github.com/langgptai/wonderful-prompts)
 
@@ -9070,7 +9174,7 @@ AI驱动的开发生命周期自适应工作流引导规则，专为AI编程代�
 
 将ASD-STE100简化技术英语规则改造为Claude Code技能，用于重写面向智能体的模糊英文指令，提升人机协作的清晰度。
 
-- **Stars:** ⭐️ 5.1k
+- **Stars:** ⭐️ 5.2k
 - **Tags:** `agent-skills` `claude-code` `technical-writing` `prompt-engineering`
 - **最后活动时间:** 2026-10-14
 
@@ -9080,7 +9184,7 @@ AI技能工具，用于审计和重写内容以消除AI写作痕迹，支持多�
 
 - **Stars:** ⭐️ 5.1k
 - **Tags:** `ai-writing` `claude-code` `prompt-engineering` `skill`
-- **最后活动时间:** 2026-10-15
+- **最后活动时间:** 2026-10-18
 
 ### [agenta](https://github.com/Agenta-AI/agenta)
 
@@ -9114,14 +9218,6 @@ AI技能工具，用于审计和重写内容以消除AI写作痕迹，支持多�
 - **Tags:** `notebooklm` `prompt-engineering` `ai` `prompts`
 - **最后活动时间:** 2026-06-19
 
-### [tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts)
-
-Tree of Thoughts的思维链推理框架实现，通过 deliberative problem solving 将大模型推理能力提升70%以上。
-
-- **Stars:** ⭐️ 4.6k
-- **Tags:** `prompt-engineering` `reasoning` `llm` `chain-of-thought`
-- **最后活动时间:** 2026-09-29
-
 ### [skills](https://github.com/BuilderIO/skills)
 
 为编程智能体提供技能扩展的工具库。增强智能体在代码生成与自动化任务中的能力。
@@ -9129,6 +9225,14 @@ Tree of Thoughts的思维链推理框架实现，通过 deliberative problem sol
 - **Stars:** ⭐️ 4.6k
 - **Tags:** `coding-agent` `skills` `agent-tools`
 - **最后活动时间:** 2026-10-14
+
+### [tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts)
+
+Tree of Thoughts的思维链推理框架实现，通过 deliberative problem solving 将大模型推理能力提升70%以上。
+
+- **Stars:** ⭐️ 4.6k
+- **Tags:** `prompt-engineering` `reasoning` `llm` `chain-of-thought`
+- **最后活动时间:** 2026-09-29
 
 ### [adhd](https://github.com/UditAkhourii/adhd)
 
@@ -9144,7 +9248,7 @@ Tree of Thoughts的思维链推理框架实现，通过 deliberative problem sol
 
 - **Stars:** ⭐️ 4.4k
 - **Tags:** `ai-agents` `data-visualization` `mcp-server` `charting`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [opencode-dynamic-context-pruning](https://github.com/Opencode-DCP/opencode-dynamic-context-pruning)
 
@@ -9160,7 +9264,7 @@ OpenCode的动态上下文修剪插件，智能管理对话上下文以优化Tok
 
 - **Stars:** ⭐️ 4.2k
 - **Tags:** `agent-skills` `claude` `ai-agents` `prompt-engineering`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [human-writing](https://github.com/KKKKhazix/human-writing)
 
@@ -9185,6 +9289,14 @@ OpenCode的动态上下文修剪插件，智能管理对话上下文以优化Tok
 - **Stars:** ⭐️ 4.0k
 - **Tags:** `ai-agents` `claude-code` `prompt-engineering` `llm`
 - **最后活动时间:** 2026-09-03
+
+### [SimpleEnglish](https://github.com/AminBlg/SimpleEnglish)
+
+一个让大语言模型使用ASD-STE100简化技术英语编写文档的智能体技能工具，有效消除AI生成内容的冗余与不规范。
+
+- **Stars:** ⭐️ 4.0k
+- **Tags:** `llm` `agent-skills` `technical-writing` `asd-ste100`
+- **最后活动时间:** 2026-10-05
 
 ### [Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting)
 
@@ -9226,6 +9338,14 @@ GPT提示工程与安全资源合集，涵盖提示注入、越狱技术、提�
 - **Tags:** `agent-skill` `ui-design` `ux` `interface`
 - **最后活动时间:** 2026-08-29
 
+### [logo-design-skill](https://github.com/kaankiziltug/logo-design-skill)
+
+为Claude、Gemini CLI、Codex等AI智能体打造的专业Logo设计技能，涵盖设计原则、工作流程、SVG工艺、测试工具及1400+参考Logo库。显著提升AI代理进行品牌设计的输出质量。
+
+- **Stars:** ⭐️ 3.7k
+- **Tags:** `Agent-Skills` `Claude-Skills` `Logo-Design` `SVG` `Branding`
+- **最后活动时间:** 2026-09-30
+
 ### [effective-html](https://github.com/plannotator/effective-html)
 
 为智能体提供优雅简洁的HTML规划与架构图生成技能，扩展AI在可视化设计方面的能力。
@@ -9233,14 +9353,6 @@ GPT提示工程与安全资源合集，涵盖提示注入、越狱技术、提�
 - **Stars:** ⭐️ 3.7k
 - **Tags:** `agent-skills` `html` `prompt-engineering` `ai-tools`
 - **最后活动时间:** 2026-10-15
-
-### [skills](https://github.com/AlphaGBM/skills)
-
-为AI智能体提供真实数据选项智能支持，包含29个专为Claude Code、Cursor等环境设计的技能模块。
-
-- **Stars:** ⭐️ 3.7k
-- **Tags:** `AI Agents` `Claude Code` `Cursor` `Prompt Engineering` `Skills`
-- **最后活动时间:** 2026-10-06
 
 ### [GordenPPTSkill](https://github.com/GordenSun/GordenPPTSkill)
 
@@ -9250,21 +9362,13 @@ AI友好的PPT构建技能，提供精美模板与无损文本编辑工具，支
 - **Tags:** `ppt-builder` `ai-skill` `automation`
 - **最后活动时间:** 2026-06-22
 
-### [logo-design-skill](https://github.com/kaankiziltug/logo-design-skill)
+### [skills](https://github.com/AlphaGBM/skills)
 
-为Claude、Gemini CLI、Codex等AI智能体打造的专业Logo设计技能，涵盖设计原则、工作流程、SVG工艺、测试工具及1400+参考Logo库。显著提升AI代理进行品牌设计的输出质量。
+为AI智能体提供真实数据选项智能支持，包含29个专为Claude Code、Cursor等环境设计的技能模块。
 
-- **Stars:** ⭐️ 3.6k
-- **Tags:** `Agent-Skills` `Claude-Skills` `Logo-Design` `SVG` `Branding`
-- **最后活动时间:** 2026-09-30
-
-### [SimpleEnglish](https://github.com/AminBlg/SimpleEnglish)
-
-一个让大语言模型使用ASD-STE100简化技术英语编写文档的智能体技能工具，有效消除AI生成内容的冗余与不规范。
-
-- **Stars:** ⭐️ 3.6k
-- **Tags:** `llm` `agent-skills` `technical-writing` `asd-ste100`
-- **最后活动时间:** 2026-09-30
+- **Stars:** ⭐️ 3.7k
+- **Tags:** `AI Agents` `Claude Code` `Cursor` `Prompt Engineering` `Skills`
+- **最后活动时间:** 2026-10-06
 
 ### [scroll-craft](https://github.com/nateherkai/scroll-craft)
 
@@ -9306,6 +9410,14 @@ AI友好的PPT构建技能，提供精美模板与无损文本编辑工具，支
 - **Tags:** `LLMOps` `Prompt管理` `可观测性`
 - **最后活动时间:** 2026-08-21
 
+### [automotive-skills-suite](https://github.com/jherrodthomas/automotive-skills-suite)
+
+100+ 可安装的 Claude 技能集，覆盖 ISO 26262 功能安全、ISO/SAE 21434 网络安全、Automotive SPICE 等汽车工程核心领域，每个构建器均配有确认审查员。
+
+- **Stars:** ⭐️ 3.3k
+- **Tags:** `claude` `skills` `automotive` `engineering` `functional-safety`
+- **最后活动时间:** 2026-10-16
+
 ### [sepia](https://github.com/Nanako0129/sepia)
 
 专为 Claude Code 和 Codex 等工具设计的去 AI 化写作技能，修复叙事结构并匹配专业散文规则。有效提升 LLM 辅助小说与文案的人类化表达。
@@ -9338,6 +9450,22 @@ AI友好的PPT构建技能，提供精美模板与无损文本编辑工具，支
 - **Tags:** `prompt-engineering` `coding-agents` `best-practices`
 - **最后活动时间:** 2026-09-10
 
+### [dsh-ops](https://github.com/T-Auto/dsh-ops)
+
+DSH 底层操作工具插件，通过优化低层操作显著降低 Token 消耗与任务执行耗时，让 AI Agent 运行更高效省钱。
+
+- **Stars:** ⭐️ 3.1k
+- **Tags:** `TokenOptimization` `AgentTools` `DSH` `Efficiency`
+- **最后活动时间:** 2026-10-18
+
+### [drama-skills](https://github.com/zenstory-ai/drama-skills)
+
+AI 短剧/漫剧创作技能合集，覆盖剧本、资产、分镜到独立审查的全链路。适配 Claude Code 与 Codex，大幅提升 AIGC 内容创作效率。
+
+- **Stars:** ⭐️ 3.0k
+- **Tags:** `agent-skills` `claude-code` `codex` `prompt-engineering` `screenwriting`
+- **最后活动时间:** 2026-10-15
+
 ### [ChainForge](https://github.com/ianarawjo/ChainForge)
 
 开源可视化编程环境，用于LLM提示词压力测试和评估，帮助开发者快速比较和优化不同提示词效果。
@@ -9354,22 +9482,6 @@ Chrome 扩展，从任意网站提取样式并生成 DESIGN.md 文件和 AI 设�
 - **Tags:** `chrome-extension` `design-skills` `ai-tools` `style-extraction`
 - **最后活动时间:** 2026-05-25
 
-### [drama-skills](https://github.com/zenstory-ai/drama-skills)
-
-AI 短剧/漫剧创作技能合集，覆盖剧本、资产、分镜到独立审查的全链路。适配 Claude Code 与 Codex，大幅提升 AIGC 内容创作效率。
-
-- **Stars:** ⭐️ 3.0k
-- **Tags:** `agent-skills` `claude-code` `codex` `prompt-engineering` `screenwriting`
-- **最后活动时间:** 2026-10-15
-
-### [automotive-skills-suite](https://github.com/jherrodthomas/automotive-skills-suite)
-
-100+ 可安装的 Claude 技能集，覆盖 ISO 26262 功能安全、ISO/SAE 21434 网络安全、Automotive SPICE 等汽车工程核心领域，每个构建器均配有确认审查员。
-
-- **Stars:** ⭐️ 3.0k
-- **Tags:** `claude` `skills` `automotive` `engineering` `functional-safety`
-- **最后活动时间:** 2026-09-28
-
 ### [yao-open-prompts](https://github.com/yaojingang/yao-open-prompts)
 
 中文AI提示词库，覆盖工作、学习、内容创作、营销和生活等多个场景的精选提示词。
@@ -9378,13 +9490,21 @@ AI 短剧/漫剧创作技能合集，覆盖剧本、资产、分镜到独立审�
 - **Tags:** `prompts` `prompt-engineering` `chinese` `ai`
 - **最后活动时间:** 2026-10-08
 
-### [dsh-ops](https://github.com/T-Auto/dsh-ops)
+### [lieflat-less-ai-tone](https://github.com/larashero3-dotcom/lieflat-less-ai-tone)
 
-DSH 底层操作工具插件，通过优化低层操作显著降低 Token 消耗与任务执行耗时，让 AI Agent 运行更高效省钱。
+基于283万字真实语料统计打造的去AI味skill，让AI生成的文本更自然、更具人味。可作为Claude Code等Agent的技能即装即用。
 
 - **Stars:** ⭐️ 2.9k
-- **Tags:** `TokenOptimization` `AgentTools` `DSH` `Efficiency`
-- **最后活动时间:** 2026-10-18
+- **Tags:** `prompt-engineering` `ai-writing` `claude-skills` `agent-skills` `text-processing`
+- **最后活动时间:** 2026-08-24
+
+### [ai-design-skills](https://github.com/elayadesign/ai-design-skills)
+
+ai-design-skills提供AI设计相关技能资源，涵盖提示词工程和工具使用指南。帮助用户高效利用AI工具进行创意设计，提升工作效率。
+
+- **Stars:** ⭐️ 2.8k
+- **Tags:** `ai-skills` `design-tools` `prompt-engineering` `ai-design`
+- **最后活动时间:** 2026-07-29
 
 ### [privacy-filter](https://github.com/openai/privacy-filter)
 
@@ -9414,9 +9534,9 @@ OpenAI 隐私过滤器，用于在数据交互中保护敏感信息。帮助开�
 
 Claude Code深度定制工具，支持自定义系统提示词、主题、工具集及多种高级配置。
 
-- **Stars:** ⭐️ 2.5k
+- **Stars:** ⭐️ 2.6k
 - **Tags:** `claude-code` `prompt-engineering` `customization` `developer-tools`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [threejs-game-skills](https://github.com/majidmanzarpour/threejs-game-skills)
 
@@ -9474,14 +9594,6 @@ AI提示词优化工具，支持Gemini和AI Studio，帮助用户快速生成和
 - **Tags:** `prompt` `gemini` `ai-tools`
 - **最后活动时间:** 2026-08-25
 
-### [GPT-Prompt-Hub](https://github.com/LichAmnesia/GPT-Prompt-Hub)
-
-开源社区驱动的GPT提示词收集与分享平台，帮助用户发现和优化提示词。
-
-- **Stars:** ⭐️ 2.4k
-- **Tags:** `prompts` `gpt` `prompt-engineering` `community`
-- **最后活动时间:** 2026-04-19
-
 ### [awesome-nano-banana-pro-prompts](https://github.com/TheJambo/awesome-testing)
 
 全球最大的Nano Banana Pro提示词库，包含10,000+精选提示词，支持16种语言，适用于Google Gemini AI图像生成。
@@ -9497,14 +9609,6 @@ AI提示词优化工具，支持Gemini和AI Studio，帮助用户快速生成和
 - **Stars:** ⭐️ 2.4k
 - **Tags:** `ai` `prompts` `code-snippets` `productivity`
 - **最后活动时间:** 2026-09-21
-
-### [ai-design-skills](https://github.com/elayadesign/ai-design-skills)
-
-ai-design-skills提供AI设计相关技能资源，涵盖提示词工程和工具使用指南。帮助用户高效利用AI工具进行创意设计，提升工作效率。
-
-- **Stars:** ⭐️ 2.3k
-- **Tags:** `ai-skills` `design-tools` `prompt-engineering` `ai-design`
-- **最后活动时间:** 2026-07-29
 
 ### [deepseek_v4_rolepaly_instruct](https://github.com/victorchen96/deepseek_v4_rolepaly_instruct)
 
@@ -9542,7 +9646,7 @@ DeepSeek Harness 的一站式上下文可视化插件，提供上下文面板与
 
 将文案快速转化为适用于 Gemini 视频模型的一分钟火柴人视频提示词包，让 AI 视频创作更高效。适合想用提示词工程驾驭 AI 视频生成的创作者。
 
-- **Stars:** ⭐️ 2.2k
+- **Stars:** ⭐️ 2.3k
 - **Tags:** `Gemini` `Prompt-Engineering` `Video-Generation` `AI-Video` `Stickman`
 - **最后活动时间:** 2026-10-16
 
@@ -9552,7 +9656,7 @@ DeepSeek Harness 的一站式上下文可视化插件，提供上下文面板与
 
 - **Stars:** ⭐️ 2.2k
 - **Tags:** `Agent Skills` `Claude Code` `Cursor` `Japanese` `Writing Assistant` `LLM` `NLP`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-19
 
 ### [llm-wiki-compiler](https://github.com/atomicstrata/llm-wiki-compiler)
 
@@ -9574,7 +9678,7 @@ DeepSeek v4.1 flash 网络安全红队工具是一个专业的越狱提示和测
 
 专为中文优化的去“AI味”改写技能，保留事实并适配多种场景。支持Codex、Claude Code及Cursor等主流AI编程工具。
 
-- **Stars:** ⭐️ 2.1k
+- **Stars:** ⭐️ 2.2k
 - **Tags:** `ai-writing` `prompt-engineering` `claude-code` `cursor` `skill`
 - **最后活动时间:** 2026-10-18
 
@@ -9594,14 +9698,6 @@ DeepSeek v4.1 flash 网络安全红队工具是一个专业的越狱提示和测
 - **Tags:** `seo` `geo` `ai-skills` `claude-code` `prompt-engineering`
 - **最后活动时间:** 2026-06-05
 
-### [lieflat-less-ai-tone](https://github.com/larashero3-dotcom/lieflat-less-ai-tone)
-
-基于283万字真实语料统计打造的去AI味skill，让AI生成的文本更自然、更具人味。可作为Claude Code等Agent的技能即装即用。
-
-- **Stars:** ⭐️ 2.1k
-- **Tags:** `prompt-engineering` `ai-writing` `claude-skills` `agent-skills` `text-processing`
-- **最后活动时间:** 2026-08-24
-
 ### [Awesome-GPT-Image-2-API-Prompts](https://github.com/Anil-matcha/Awesome-GPT-Image-2-API-Prompts)
 
 精选的 GPT-Image-2 API 提示词集合，涵盖肖像、海报、UI 模型、游戏截图等多种场景，可直接用于 OpenAI API。
@@ -9616,7 +9712,7 @@ LLM漏洞扫描器和AI红队测试工具包，支持越狱测试、模糊测试
 
 - **Stars:** ⭐️ 2.0k
 - **Tags:** `LLM Security` `Red Teaming` `Vulnerability Scanner`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [gitreverse](https://github.com/filiksyos/gitreverse)
 
@@ -9650,6 +9746,14 @@ LLM漏洞扫描器和AI红队测试工具包，支持越狱测试、模糊测试
 - **Tags:** `structured-generation` `large-language-models` `grammar`
 - **最后活动时间:** 2026-10-18
 
+### [claude-code-prompt-improver](https://github.com/severity1/claude-code-prompt-improver)
+
+Claude Code的智能提示改进钩子，输入想法输出精确指令。
+
+- **Stars:** ⭐️ 2.0k
+- **Tags:** `prompt-engineering` `claude-code` `hooks`
+- **最后活动时间:** 2026-10-01
+
 ### [PromptFill](https://github.com/TanShilongMario/PromptFill)
 
 可视化AI绘画提示词构建工具，通过填空方式快速生成复杂Prompt。
@@ -9665,14 +9769,6 @@ Claude技能，可将任何流程或想法设计为ICM工作空间架构。帮�
 - **Stars:** ⭐️ 1.9k
 - **Tags:** `claude` `agent-architecture` `prompt-engineering` `workflow`
 - **最后活动时间:** 2026-10-14
-
-### [claude-code-prompt-improver](https://github.com/severity1/claude-code-prompt-improver)
-
-Claude Code的智能提示改进钩子，输入想法输出精确指令。
-
-- **Stars:** ⭐️ 1.9k
-- **Tags:** `prompt-engineering` `claude-code` `hooks`
-- **最后活动时间:** 2026-06-03
 
 ### [tools](https://github.com/simonw/tools)
 
@@ -9696,7 +9792,15 @@ OpenClaw 和 Claude Code 的 AI 技能插件，从 10000+ 图像提示词中智�
 
 - **Stars:** ⭐️ 1.9k
 - **Tags:** `claude-code` `math-modeling` `codex` `vibe-coding`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
+
+### [billion-context](https://github.com/ranxianglei/billion-context)
+
+面向小上下文窗口的上下文压缩插件，节省 5 倍 Token，并支持数月级、数十亿 Token 的超长单会话。让 100K 上下文也足够用，billion-context is all you need。
+
+- **Stars:** ⭐️ 1.9k
+- **Tags:** `ContextCompression` `TokenSavings` `LongContext` `LLM`
+- **最后活动时间:** 2026-10-18
 
 ### [talk-normal](https://github.com/hexiecs/talk-normal)
 
@@ -9712,14 +9816,6 @@ OpenClaw 和 Claude Code 的 AI 技能插件，从 10000+ 图像提示词中智�
 
 - **Stars:** ⭐️ 1.8k
 - **Tags:** `Debugging` `RAG` `Agents`
-- **最后活动时间:** 2026-10-17
-
-### [billion-context](https://github.com/ranxianglei/billion-context)
-
-面向小上下文窗口的上下文压缩插件，节省 5 倍 Token，并支持数月级、数十亿 Token 的超长单会话。让 100K 上下文也足够用，billion-context is all you need。
-
-- **Stars:** ⭐️ 1.8k
-- **Tags:** `ContextCompression` `TokenSavings` `LongContext` `LLM`
 - **最后活动时间:** 2026-10-18
 
 ### [context-engineering-kit](https://github.com/NeoLabHQ/context-engineering-kit)
@@ -9766,9 +9862,17 @@ OpenClaw 和 Claude Code 的 AI 技能插件，从 10000+ 图像提示词中智�
 
 为Claude Code提供18种思维模型和批判性思维框架，包括第一性原理、贝叶斯推理等。增强AI决策与问题解决能力。
 
-- **Stars:** ⭐️ 1.6k
+- **Stars:** ⭐️ 1.7k
 - **Tags:** `claude-code` `critical-thinking` `mental-models` `problem-solving`
 - **最后活动时间:** 2026-08-07
+
+### [vibe-coding-toolkit](https://github.com/soumatheusgomes/vibe-coding-toolkit)
+
+一套源自真实生产环境的 AI 编程实战工具包，包含 Claude Code 插件、子智能体编排、质量门禁和即拷即用的提示词模板。帮助开发者快速搭建高质量、可复用的 AI 辅助编程工作流。
+
+- **Stars:** ⭐️ 1.6k
+- **Tags:** `Claude-Code` `AI-Coding` `Prompts` `AI-Agents` `Developer-Tools` `LLM`
+- **最后活动时间:** 2026-10-17
 
 ### [arcads-claude-code](https://github.com/krusemediallc/arcads-claude-code)
 
@@ -9778,14 +9882,6 @@ Arcads外部API工具，提供Agent技能库、提示词工程库以及Cursor/Cl
 - **Tags:** `prompting` `claude` `cursor` `agent-skills`
 - **最后活动时间:** 2026-09-22
 
-### [get-shit-done-redux](https://github.com/open-gsd/get-shit-done-redux)
-
-专注于上下文工程和元提示的AI开发工作流项目，支持Claude Code等AI编程助手的规范化开发流程。
-
-- **Stars:** ⭐️ 1.6k
-- **Tags:** `claude-code` `context-engineering` `meta-prompting` `spec-driven-development`
-- **最后活动时间:** 2026-05-29
-
 ### [Jailbreaks-GPT-Gemini-deepseek-](https://github.com/ShadowHackrs/Jailbreaks-GPT-Gemini-deepseek-)
 
 这是一个开源项目，收集了多种大型语言模型（如 GPT、Claude、Gemini、deepseek）的越狱提示词。该项目旨在帮助用户绕过模型限制，解锁高级功能。
@@ -9793,6 +9889,14 @@ Arcads外部API工具，提供Agent技能库、提示词工程库以及Cursor/Cl
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `jailbreak` `prompt-engineering` `llm` `gpt` `claude` `gemini`
 - **最后活动时间:** 2026-10-17
+
+### [get-shit-done-redux](https://github.com/open-gsd/get-shit-done-redux)
+
+专注于上下文工程和元提示的AI开发工作流项目，支持Claude Code等AI编程助手的规范化开发流程。
+
+- **Stars:** ⭐️ 1.6k
+- **Tags:** `claude-code` `context-engineering` `meta-prompting` `spec-driven-development`
+- **最后活动时间:** 2026-05-29
 
 ### [AI_Animation](https://github.com/Unclecheng-li/AI_Animation)
 
@@ -9808,14 +9912,6 @@ Arcads外部API工具，提供Agent技能库、提示词工程库以及Cursor/Cl
 
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `prompts` `copilot` `agent-components`
-- **最后活动时间:** 2026-10-17
-
-### [vibe-coding-toolkit](https://github.com/soumatheusgomes/vibe-coding-toolkit)
-
-一套源自真实生产环境的 AI 编程实战工具包，包含 Claude Code 插件、子智能体编排、质量门禁和即拷即用的提示词模板。帮助开发者快速搭建高质量、可复用的 AI 辅助编程工作流。
-
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `Claude-Code` `AI-Coding` `Prompts` `AI-Agents` `Developer-Tools` `LLM`
 - **最后活动时间:** 2026-10-17
 
 ### [Tech-Doc-Style-Chinese](https://github.com/Fenng/Tech-Doc-Style-Chinese)
@@ -9840,7 +9936,15 @@ Claude Code 专业技能市场，提供生产就绪的技能以增强开发工�
 
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `claude-code` `skills` `marketplace` `productivity`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
+
+### [pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills)
+
+为Claude AI提供135种专业技能，覆盖16个职业领域，帮助用户每周节省8-10小时工作时间。
+
+- **Stars:** ⭐️ 1.5k
+- **Tags:** `claude` `skills` `productivity` `prompt-engineering` `ai-assistant`
+- **最后活动时间:** 2026-10-18
 
 ### [attention-span](https://github.com/alexgreensh/attention-span)
 
@@ -9849,14 +9953,6 @@ Claude Code 专业技能市场，提供生产就绪的技能以增强开发工�
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `claude-code` `codex` `output-style` `prompt-engineering` `ai-slop-reduction`
 - **最后活动时间:** 2026-10-12
-
-### [pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills)
-
-为Claude AI提供135种专业技能，覆盖16个职业领域，帮助用户每周节省8-10小时工作时间。
-
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `claude` `skills` `productivity` `prompt-engineering` `ai-assistant`
-- **最后活动时间:** 2026-10-17
 
 ### [skill-codex](https://github.com/skills-directory/skill-codex)
 
@@ -9870,7 +9966,7 @@ Claude Code技能插件，可将提示任务委托给Codex处理，实现多模�
 
 减少 LLM 幻觉的工程框架，以中国命理学（奇门遁甲、紫微斗数）为场景示范。
 
-- **Stars:** ⭐️ 1.4k
+- **Stars:** ⭐️ 1.5k
 - **Tags:** `llm` `hallucination` `prompt-engineering` `chinese-astrology`
 - **最后活动时间:** 2026-10-16
 
@@ -9970,6 +10066,14 @@ Pashov Audit Group 出品的智能体技能集，为 AI Agent 提供智能合约
 - **Tags:** `agent-skills` `security` `smart-contracts` `auditing`
 - **最后活动时间:** 2026-10-15
 
+### [gtm-engineer-skills](https://github.com/onvoyage-ai/gtm-engineer-skills)
+
+Claude Code 技能插件，用于提升网站的 AEO（AI引擎优化）和 GEO（生成式引擎优化）评分，包含16项基础检查和6个智能维度分析。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `claude-code` `ai-optimization` `seo` `structured-data`
+- **最后活动时间:** 2026-10-11
+
 ### [AI-Prompt-Genius](https://github.com/AI-Prompt-Genius/AI-Prompt-Genius)
 
 浏览器扩展，帮助用户管理和组织自定义AI提示词库，提升提示词复用效率。
@@ -9977,14 +10081,6 @@ Pashov Audit Group 出品的智能体技能集，为 AI Agent 提供智能合约
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `ai` `browser-extension` `chatgpt` `chrome-extension` `prompt`
 - **最后活动时间:** 2026-10-01
-
-### [gtm-engineer-skills](https://github.com/onvoyage-ai/gtm-engineer-skills)
-
-Claude Code 技能插件，用于提升网站的 AEO（AI引擎优化）和 GEO（生成式引擎优化）评分，包含16项基础检查和6个智能维度分析。
-
-- **Stars:** ⭐️ 1.3k
-- **Tags:** `claude-code` `ai-optimization` `seo` `structured-data`
-- **最后活动时间:** 2026-06-07
 
 ### [ai-image-prompts-skill](https://github.com/YouMind-OpenLab/ai-image-prompts-skill)
 
@@ -10016,7 +10112,7 @@ LLM提示词管理工具，支持创建、管理、调试和评估AI应用提示
 
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `claude` `claude-code` `codex` `cursor` `skills` `prompt-engineering`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-19
 
 ### [complexity](https://github.com/pnd280/complexity)
 
@@ -10034,14 +10130,6 @@ LLM提示词管理工具，支持创建、管理、调试和评估AI应用提示
 - **Tags:** `claude-code` `agent-skill` `pdf` `skill-generator`
 - **最后活动时间:** 2026-08-14
 
-### [paperjury](https://github.com/Spark-To-Paper-Skills/paperjury)
-
-基于 Claude Code 的学术论文预投稿 AI 审稿技能，可对论文进行审查、给出结论、修改与验证，帮助研究者在投稿前压力测试论文质量。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `ai-agents` `claude-code` `paper-review` `llm-agents`
-- **最后活动时间:** 2026-08-14
-
 ### [academic-pptx-skill](https://github.com/Gabberflast/academic-pptx-skill)
 
 用于创建学术演示文稿的Claude技能，强制执行行动标题、结构化论证和引文标准。
@@ -10049,6 +10137,14 @@ LLM提示词管理工具，支持创建、管理、调试和评估AI应用提示
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `claude` `academic` `pptx` `presentation`
 - **最后活动时间:** 2026-07-14
+
+### [paperjury](https://github.com/Spark-To-Paper-Skills/paperjury)
+
+基于 Claude Code 的学术论文预投稿 AI 审稿技能，可对论文进行审查、给出结论、修改与验证，帮助研究者在投稿前压力测试论文质量。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `ai-agents` `claude-code` `paper-review` `llm-agents`
+- **最后活动时间:** 2026-08-14
 
 ### [openprompt.co](https://github.com/timqian/openprompt.co)
 
@@ -10114,14 +10210,6 @@ AI代理技能，提供两种模式：构建具有目的性动效的交互组件
 - **Tags:** `prompts` `product-management` `chatgpt` `generative-ai`
 - **最后活动时间:** 2026-08-10
 
-### [hyperagent-public-skills](https://github.com/alex-hyperagent/hyperagent-public-skills)
-
-Hyperagent 团队发布的免费 Agent Skills 集合，可直接用于增强 AI 智能体能力。
-
-- **Stars:** ⭐️ 1.1k
-- **Tags:** `agent-skills` `ai-agents` `claude-skills`
-- **最后活动时间:** 2026-06-25
-
 ### [ai-factory](https://github.com/lee-to/ai-factory)
 
 AI开发工作流自动化平台，自动处理上下文、提示词和工作流配置，助力快速交付高质量代码。
@@ -10130,13 +10218,13 @@ AI开发工作流自动化平台，自动处理上下文、提示词和工作流
 - **Tags:** `ai-agents` `ai-skills` `spec-driven-development`
 - **最后活动时间:** 2026-10-15
 
-### [codex-redteam-mode](https://github.com/chAng-L19/codex-redteam-mode)
+### [hyperagent-public-skills](https://github.com/alex-hyperagent/hyperagent-public-skills)
 
-针对红队攻击思维设计的AI破限模式项目，支持适配其他AI模型。
+Hyperagent 团队发布的免费 Agent Skills 集合，可直接用于增强 AI 智能体能力。
 
 - **Stars:** ⭐️ 1.1k
-- **Tags:** `ai` `red-team` `prompt-engineering` `hacking-tool`
-- **最后活动时间:** 2026-10-09
+- **Tags:** `agent-skills` `ai-agents` `claude-skills`
+- **最后活动时间:** 2026-06-25
 
 ### [anti-defensive-writing](https://github.com/Kiterlin/anti-defensive-writing)
 
@@ -10145,6 +10233,14 @@ AI开发工作流自动化平台，自动处理上下文、提示词和工作流
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `Codex` `Writing` `PromptEngineering` `AgentSkill`
 - **最后活动时间:** 2026-10-17
+
+### [codex-redteam-mode](https://github.com/chAng-L19/codex-redteam-mode)
+
+针对红队攻击思维设计的AI破限模式项目，支持适配其他AI模型。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `ai` `red-team` `prompt-engineering` `hacking-tool`
+- **最后活动时间:** 2026-10-09
 
 ### [ai-prompts](https://github.com/instructa/ai-prompts)
 
@@ -10210,6 +10306,14 @@ AI开发工作流自动化平台，自动处理上下文、提示词和工作流
 - **Tags:** `prompt-optimization` `llm` `prompt-engineering`
 - **最后活动时间:** 2026-04-21
 
+### [codex-skills](https://github.com/am-will/codex-skills)
+
+Codex技能集合，汇集了针对OpenAI Codex模型的提示技巧和最佳实践。
+
+- **Stars:** ⭐️ 1.0k
+- **Tags:** `Codex` `Prompt Engineering` `AI Skills`
+- **最后活动时间:** 2026-07-14
+
 ### [drama-skills](https://github.com/worldwonderer/drama-skills)
 
 AI短剧/漫剧创作技能合集，覆盖剧本、资产、分镜到独立审查的全链路。适配Claude Code与Codex等AI编程工具。
@@ -10225,14 +10329,6 @@ AI短剧/漫剧创作技能合集，覆盖剧本、资产、分镜到独立审�
 - **Stars:** ⭐️ 1.0k
 - **Tags:** `llm` `machine-learning` `classification` `cost-optimization`
 - **最后活动时间:** 2026-09-29
-
-### [codex-skills](https://github.com/am-will/codex-skills)
-
-Codex技能集合，汇集了针对OpenAI Codex模型的提示技巧和最佳实践。
-
-- **Stars:** ⭐️ 1.0k
-- **Tags:** `Codex` `Prompt Engineering` `AI Skills`
-- **最后活动时间:** 2026-07-14
 
 ### [video-spec-builder](https://github.com/feicaiclub/video-spec-builder)
 
@@ -10262,7 +10358,7 @@ AI产品开发提示词模板集合，涵盖MVP规划、PRD文档等关键环节
 
 一个用于生成高质量手绘风格动画架构图的 Codex 技能。非常适合开发者用于创建生动的技术演示和架构说明。
 
-- **Stars:** ⭐️ 999
+- **Stars:** ⭐️ 1.0k
 - **Tags:** `codex` `architecture-diagram` `animation` `visualization`
 - **最后活动时间:** 2026-09-03
 
@@ -10310,25 +10406,25 @@ AI产品开发提示词模板集合，涵盖MVP规划、PRD文档等关键环节
 
 大语言模型自动提示词优化框架，智能优化Prompt以提升模型输出质量。
 
-- **Stars:** ⭐️ 977
+- **Stars:** ⭐️ 978
 - **Tags:** `prompt-optimization` `llm` `prompt-engineering`
 - **最后活动时间:** 2026-06-02
-
-### [claude-skills](https://github.com/rampstackco/claude-skills)
-
-覆盖网站全生命周期的技术栈无关Claude技能包，包含品牌、设计、开发和SEO等环节。助力AI代理实现构建、发布、审计和优化流程。
-
-- **Stars:** ⭐️ 972
-- **Tags:** `claude-code` `ai-agents` `agent-skills` `web-development` `mcp`
-- **最后活动时间:** 2026-10-17
 
 ### [revenue-centric-design](https://github.com/heliocosta-dev/revenue-centric-design)
 
 面向 SaaS 的产品设计、转化率与行为科学原则集，封装为 Claude/Codex 可用的 Agent Skills，让 AI 编程助手在开发中遵循增长导向的设计最佳实践。
 
-- **Stars:** ⭐️ 971
+- **Stars:** ⭐️ 975
 - **Tags:** `agent-skills` `claude` `codex` `product-design` `saas`
 - **最后活动时间:** 2026-09-04
+
+### [claude-skills](https://github.com/rampstackco/claude-skills)
+
+覆盖网站全生命周期的技术栈无关Claude技能包，包含品牌、设计、开发和SEO等环节。助力AI代理实现构建、发布、审计和优化流程。
+
+- **Stars:** ⭐️ 974
+- **Tags:** `claude-code` `ai-agents` `agent-skills` `web-development` `mcp`
+- **最后活动时间:** 2026-10-18
 
 ### [self-learning-skills](https://github.com/Kulaxyz/self-learning-skills)
 
@@ -10350,7 +10446,7 @@ AI产品开发提示词模板集合，涵盖MVP规划、PRD文档等关键环节
 
 RepoPrompt社区版：面向AI编程智能体的原生macOS上下文工程应用，附带MCP CLI工具。
 
-- **Stars:** ⭐️ 961
+- **Stars:** ⭐️ 962
 - **Tags:** `context-engineering` `macos` `mcp` `prompt-engineering`
 - **最后活动时间:** 2026-10-18
 
@@ -10390,7 +10486,7 @@ CLI工具，使用自然语言指令操作文件系统，支持代码重构、�
 
 让 Codex 根据最终结果生成标题、注释和提交记录，减少被否决方案在交付中的残留。提升 AI 编程助手的代码交付整洁度与一致性。
 
-- **Stars:** ⭐️ 924
+- **Stars:** ⭐️ 925
 - **Tags:** `codex` `agent-skills` `prompt-engineering` `codex-skill`
 - **最后活动时间:** 2026-08-31
 
@@ -10402,6 +10498,14 @@ Claude Code生产级智能体指令库，提供高质量的提示词工程最佳
 - **Tags:** `claude` `prompt-engineering` `agent` `llm`
 - **最后活动时间:** 2026-04-23
 
+### [Threejs-Awesome-Graphics-Agent-Skills](https://github.com/scottstts/Threejs-Awesome-Graphics-Agent-Skills)
+
+为 three.js 场景与游戏生成精美图形的 Agent Skills 集合，可提升 AI 编程智能体的 3D 渲染能力。
+
+- **Stars:** ⭐️ 917
+- **Tags:** `threejs` `agent-skills` `graphics` `claude`
+- **最后活动时间:** 2026-10-15
+
 ### [EasyJailbreak](https://github.com/EasyJailbreak/EasyJailbreak)
 
 一个易于使用的Python框架，用于生成对抗性越狱提示，系统化评估大语言模型的安全性与鲁棒性。集成了多种攻击算法与模型接口，是LLM安全研究的重要工具。
@@ -10410,13 +10514,13 @@ Claude Code生产级智能体指令库，提供高质量的提示词工程最佳
 - **Tags:** `LLM` `Jailbreak` `LLM-Safety` `Adversarial-Attack` `Security` `Python`
 - **最后活动时间:** 2026-09-01
 
-### [qiaomu-goal-meta-skill](https://github.com/joeseesun/qiaomu-goal-meta-skill)
+### [gbro-cover-design](https://github.com/pyang5166/gbro-cover-design)
 
-将模糊或复杂的Codex任务转化为结构化的`/goal`命令，包含结果验证、约束边界与迭代策略。有效提升智能体任务执行的精准度。
+面向公众号与小红书的封面提示词生成 Skill，支持多种构图风格与真人出镜人脸一致性。
 
-- **Stars:** ⭐️ 902
-- **Tags:** `prompt-engineering` `codex` `agent` `task-planning`
-- **最后活动时间:** 2026-06-11
+- **Stars:** ⭐️ 905
+- **Tags:** `prompt-engineering` `skill` `image-generation`
+- **最后活动时间:** 2026-07-15
 
 ### [AI-Gist](https://github.com/yarin-zhang/AI-Gist)
 
@@ -10430,9 +10534,25 @@ Claude Code生产级智能体指令库，提供高质量的提示词工程最佳
 
 提示驱动开发命令行工具，支持提示工程和提示模板管理。
 
-- **Stars:** ⭐️ 896
+- **Stars:** ⭐️ 898
 - **Tags:** `ai` `prompt-engineering` `cli` `developer-tools`
 - **最后活动时间:** 2026-10-10
+
+### [qiaomu-goal-meta-skill](https://github.com/joeseesun/qiaomu-goal-meta-skill)
+
+将模糊或复杂的Codex任务转化为结构化的`/goal`命令，包含结果验证、约束边界与迭代策略。有效提升智能体任务执行的精准度。
+
+- **Stars:** ⭐️ 898
+- **Tags:** `prompt-engineering` `codex` `agent` `task-planning`
+- **最后活动时间:** 2026-06-11
+
+### [copilot-prompts](https://github.com/pnp/copilot-prompts)
+
+Microsoft Copilot提示词示例集合，包含丰富的提示工程实践案例。
+
+- **Stars:** ⭐️ 895
+- **Tags:** `Prompt Engineering` `Microsoft Copilot` `Examples`
+- **最后活动时间:** 2026-10-14
 
 ### [review-prompts](https://github.com/masoncl/review-prompts)
 
@@ -10441,14 +10561,6 @@ Claude Code生产级智能体指令库，提供高质量的提示词工程最佳
 - **Stars:** ⭐️ 895
 - **Tags:** `ai` `prompt-engineering` `code-review`
 - **最后活动时间:** 2026-07-29
-
-### [copilot-prompts](https://github.com/pnp/copilot-prompts)
-
-Microsoft Copilot提示词示例集合，包含丰富的提示工程实践案例。
-
-- **Stars:** ⭐️ 894
-- **Tags:** `Prompt Engineering` `Microsoft Copilot` `Examples`
-- **最后活动时间:** 2026-10-14
 
 ### [claude-code-skills-zh](https://github.com/laolaoshiren/claude-code-skills-zh)
 
@@ -10474,29 +10586,21 @@ Microsoft Copilot提示词示例集合，包含丰富的提示工程实践案例
 - **Tags:** `llm` `cli` `code-context` `prompt-engineering`
 - **最后活动时间:** 2026-07-07
 
+### [De-AI-Prompt-Enhancer-Writer-Booster-SKILL](https://github.com/OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL)
+
+去AI味提示词增强工具，专为提升作家写作能力而设计。有效优化文本生成风格，使其更具人性化。
+
+- **Stars:** ⭐️ 883
+- **Tags:** `prompt-engineering` `ai-writing` `claude-skill`
+- **最后活动时间:** 2026-09-17
+
 ### [haiou2.0-Claude-Code-](https://github.com/haiou-666/haiou2.0-Claude-Code-)
 
 海鸥 2.0 是一个 Claude Code 人格重塑配置包，通过大量 few-shot 示例锁定特定安全研究员人格。它能让 Claude 摆脱默认客服腔，直接输出技术代码，支持一键部署与跨平台使用。
 
-- **Stars:** ⭐️ 881
+- **Stars:** ⭐️ 882
 - **Tags:** `claude` `prompt-engineering` `persona` `security` `configuration`
 - **最后活动时间:** 2026-10-16
-
-### [gbro-cover-design](https://github.com/pyang5166/gbro-cover-design)
-
-面向公众号与小红书的封面提示词生成 Skill，支持多种构图风格与真人出镜人脸一致性。
-
-- **Stars:** ⭐️ 870
-- **Tags:** `prompt-engineering` `skill` `image-generation`
-- **最后活动时间:** 2026-07-15
-
-### [Threejs-Awesome-Graphics-Agent-Skills](https://github.com/scottstts/Threejs-Awesome-Graphics-Agent-Skills)
-
-为 three.js 场景与游戏生成精美图形的 Agent Skills 集合，可提升 AI 编程智能体的 3D 渲染能力。
-
-- **Stars:** ⭐️ 867
-- **Tags:** `threejs` `agent-skills` `graphics` `claude`
-- **最后活动时间:** 2026-09-22
 
 ### [claude-keysmith](https://github.com/Jia-Ethan/claude-keysmith)
 
@@ -10521,14 +10625,6 @@ Microsoft Copilot提示词示例集合，包含丰富的提示工程实践案例
 - **Stars:** ⭐️ 846
 - **Tags:** `academic-writing` `ai-agents` `claude-code` `paper-review` `peer-review`
 - **最后活动时间:** 2026-06-30
-
-### [De-AI-Prompt-Enhancer-Writer-Booster-SKILL](https://github.com/OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL)
-
-去AI味提示词增强工具，专为提升作家写作能力而设计。有效优化文本生成风格，使其更具人性化。
-
-- **Stars:** ⭐️ 841
-- **Tags:** `prompt-engineering` `ai-writing` `claude-skill`
-- **最后活动时间:** 2026-09-17
 
 ### [consulting-pptx-skill](https://github.com/carnot-tech/consulting-pptx-skill)
 
@@ -10574,7 +10670,7 @@ DeepSeek v4 Pro 破甲提示词及测试包是一个针对DeepSeek模型的专�
 
 将 Get-Shit-Done 规格驱动开发工作流移植到 OpenCode，帮助AI智能体按规范高效规划并执行编码任务。是提升AI智能体工程化实践的工作流方案。
 
-- **Stars:** ⭐️ 822
+- **Stars:** ⭐️ 824
 - **Tags:** `opencode` `workflow` `prompt-engineering` `ai-agent` `spec-driven`
 - **最后活动时间:** 2026-05-16
 
@@ -10614,7 +10710,7 @@ Pashov Audit Group 出品的智能体技能集，为 AI Agent 提供智能合约
 
 一个Claude Code技能，采用“规范优先，代码其次”的原则来设计美观一致的网页。
 
-- **Stars:** ⭐️ 789
+- **Stars:** ⭐️ 790
 - **Tags:** `claude-code` `web-design` `design-system` `prompt-engineering`
 - **最后活动时间:** 2026-06-24
 
@@ -10622,7 +10718,7 @@ Pashov Audit Group 出品的智能体技能集，为 AI Agent 提供智能合约
 
 为Claude Code设计的通用LaTeX文档技能，包含多种模板与脚本。极大提升了AI生成学术与专业PDF文档的效率。
 
-- **Stars:** ⭐️ 788
+- **Stars:** ⭐️ 789
 - **Tags:** `ai` `claude` `latex` `document-generation` `pdf`
 - **最后活动时间:** 2026-10-18
 
@@ -10630,7 +10726,7 @@ Pashov Audit Group 出品的智能体技能集，为 AI Agent 提供智能合约
 
 精选的AI图像生成可复用JSON提示词模板与风格参考集合，每日更新。非常适合Midjourney等生成式AI工具的提示词工程参考。
 
-- **Stars:** ⭐️ 787
+- **Stars:** ⭐️ 788
 - **Tags:** `ai` `generative-ai` `image-generation` `midjourney` `prompt-engineering` `prompt-library` `text-to-image`
 - **最后活动时间:** 2026-10-15
 
@@ -10646,7 +10742,7 @@ Pashov Audit Group 出品的智能体技能集，为 AI Agent 提供智能合约
 
 TypeScript 风格指南与 AI Agent Skill，为 AI 编码助手提供一致的代码规范约定。
 
-- **Stars:** ⭐️ 784
+- **Stars:** ⭐️ 783
 - **Tags:** `typescript` `ai-agent` `style-guide`
 - **最后活动时间:** 2026-09-03
 
@@ -10666,6 +10762,14 @@ Godot 4.7+ AI 智能体的'长期记忆'库，提供 99 个专家技能与 27 �
 - **Tags:** `godot` `agent-skills` `game-development` `gdscript`
 - **最后活动时间:** 2026-09-09
 
+### [dotnet-claude-kit](https://github.com/codewithmukesh/dotnet-claude-kit)
+
+旨在让 Claude Code 成为 .NET 10 开发专家的定制化工具包。提升 AI 在特定技术栈下的编程与问题解决能力。
+
+- **Stars:** ⭐️ 772
+- **Tags:** `claude-code` `dotnet` `prompt-engineering` `developer-tools`
+- **最后活动时间:** 2026-08-07
+
 ### [seo-audit-skill](https://github.com/JeffLi1993/seo-audit-skill)
 
 专为AI智能体设计的SEO审查技能，兼容Claude Code等多种Agent平台。能够快速生成初学者SEO审计报告或高级技术SEO分析，助力自动化网页优化。
@@ -10678,7 +10782,7 @@ Godot 4.7+ AI 智能体的'长期记忆'库，提供 99 个专家技能与 27 �
 
 南鸢写真提示词 Agent Skill，为 AI 人像写真生成提供精心调校的提示词模板。
 
-- **Stars:** ⭐️ 764
+- **Stars:** ⭐️ 765
 - **Tags:** `claude-skills` `prompt-engineering` `image-generation` `portrait`
 - **最后活动时间:** 2026-08-26
 
@@ -10690,6 +10794,22 @@ Godot 4.7+ AI 智能体的'长期记忆'库，提供 99 个专家技能与 27 �
 - **Tags:** `Prompt-Engineering` `Claude-Code` `Coding-Agents` `Cursor`
 - **最后活动时间:** 2026-08-30
 
+### [code-migration-kit-with-claude-code](https://github.com/anthropics/code-migration-kit-with-claude-code)
+
+为使用 Claude Code 执行大规模代码/语言迁移而准备的提示词、模板与脚本合集。帮助开发者以 AI 辅助方式系统化完成复杂迁移任务。
+
+- **Stars:** ⭐️ 763
+- **Tags:** `claude-code` `prompts` `code-migration` `developer-tools` `llm`
+- **最后活动时间:** 2026-07-08
+
+### [Brand-building-skills](https://github.com/arnabbagxd/Brand-building-skills)
+
+为 Claude Code 和 AI 智能体提供的品牌建设技能集，涵盖策略、命名、定位与发布全流程。
+
+- **Stars:** ⭐️ 762
+- **Tags:** `claude-code` `agent-skills` `branding` `strategy`
+- **最后活动时间:** 2026-06-13
+
 ### [journal-adapt-writing-skill](https://github.com/WantongC/journal-adapt-writing-skill)
 
 利用LLM学习特定期刊的写作规范，并逐节修改你的稿件以符合其风格。专为学术研究人员设计的高效写作辅助工具。
@@ -10698,13 +10818,13 @@ Godot 4.7+ AI 智能体的'长期记忆'库，提供 99 个专家技能与 27 �
 - **Tags:** `academic-writing` `claude` `llm` `prompt-engineering`
 - **最后活动时间:** 2026-05-15
 
-### [Brand-building-skills](https://github.com/arnabbagxd/Brand-building-skills)
+### [higgsfield-ai-prompt-skill](https://github.com/OSideMedia/higgsfield-ai-prompt-skill)
 
-为 Claude Code 和 AI 智能体提供的品牌建设技能集，涵盖策略、命名、定位与发布全流程。
+面向 Claude 的电影级 AI 视频提示词技能包，包含 32 个子技能与 18 套模板，覆盖 Seedance、Kling、Veo 等主流视频生成模型。适合 AI 影像创作者系统化构建专业级提示词工作流。
 
 - **Stars:** ⭐️ 760
-- **Tags:** `claude-code` `agent-skills` `branding` `strategy`
-- **最后活动时间:** 2026-06-13
+- **Tags:** `Claude-Skill` `Prompt-Engineering` `AI-Video` `Video-Generation` `AI-Filmmaking` `Seedance` `Kling`
+- **最后活动时间:** 2026-09-27
 
 ### [compass-skills](https://github.com/dongshuyan/compass-skills)
 
@@ -10714,13 +10834,13 @@ Godot 4.7+ AI 智能体的'长期记忆'库，提供 99 个专家技能与 27 �
 - **Tags:** `ai-agents` `agent-skills` `claude-code` `task-management` `workflow-automation`
 - **最后活动时间:** 2026-08-26
 
-### [higgsfield-ai-prompt-skill](https://github.com/OSideMedia/higgsfield-ai-prompt-skill)
+### [founder-playbook](https://github.com/getagentseal/founder-playbook)
 
-面向 Claude 的电影级 AI 视频提示词技能包，包含 32 个子技能与 18 套模板，覆盖 Seedance、Kling、Veo 等主流视频生成模型。适合 AI 影像创作者系统化构建专业级提示词工作流。
+将15本经典商业书籍提炼为 AI 原生技能(Skills),可与 Claude Code、ChatGPT、Gemini、Cursor 无缝配合。为创业者和开发者提供即插即用的商业智慧提示词库。
 
-- **Stars:** ⭐️ 758
-- **Tags:** `Claude-Skill` `Prompt-Engineering` `AI-Video` `Video-Generation` `AI-Filmmaking` `Seedance` `Kling`
-- **最后活动时间:** 2026-09-27
+- **Stars:** ⭐️ 757
+- **Tags:** `claude-code` `ai-skills` `prompt-engineering` `business` `chatgpt` `cursor`
+- **最后活动时间:** 2026-10-06
 
 ### [simple-ai](https://github.com/Alwurts/simple-ai)
 
@@ -10730,14 +10850,6 @@ Godot 4.7+ AI 智能体的'长期记忆'库，提供 99 个专家技能与 27 �
 - **Tags:** `AI-Components` `UI` `Open-Source` `Accessibility`
 - **最后活动时间:** 2026-08-22
 
-### [founder-playbook](https://github.com/getagentseal/founder-playbook)
-
-将15本经典商业书籍提炼为 AI 原生技能(Skills),可与 Claude Code、ChatGPT、Gemini、Cursor 无缝配合。为创业者和开发者提供即插即用的商业智慧提示词库。
-
-- **Stars:** ⭐️ 754
-- **Tags:** `claude-code` `ai-skills` `prompt-engineering` `business` `chatgpt` `cursor`
-- **最后活动时间:** 2026-10-06
-
 ### [motion-web](https://github.com/feitangyuan/motion-web)
 
 一个 Claude Agent Skill，帮助开发者用原生 Three.js / Canvas / WebGL 构建带真实物理效果的高质感动效网站，并内置自动化验证。
@@ -10746,6 +10858,14 @@ Godot 4.7+ AI 智能体的'长期记忆'库，提供 99 个专家技能与 27 �
 - **Tags:** `Claude-Skill` `ThreeJS` `WebGL` `Creative-Coding`
 - **最后活动时间:** 2026-09-15
 
+### [arena-skill](https://github.com/Jakeschincariol/arena-skill)
+
+让100个采用不同策略的Claude子代理就同一任务进行锦标赛式对决，层层淘汰只留最佳答案。一款免费开源的Claude Code技能，可显著提升提示词效果与回答质量。
+
+- **Stars:** ⭐️ 748
+- **Tags:** `Claude-Code` `Claude-Skills` `Prompt-Engineering` `Multi-Agent` `Tournament` `Subagents`
+- **最后活动时间:** 2026-09-27
+
 ### [nanobanana-trending-prompts](https://github.com/jau123/nanobanana-trending-prompts)
 
 精选1400+热门AI图像生成提示词，来源于X平台并按互动量排名，支持Midjourney、GPT Image 2等多种图像生成工具。
@@ -10753,14 +10873,6 @@ Godot 4.7+ AI 智能体的'长期记忆'库，提供 99 个专家技能与 27 �
 - **Stars:** ⭐️ 742
 - **Tags:** `prompt-engineering` `image-generation` `midjourney` `gpt-image`
 - **最后活动时间:** 2026-04-29
-
-### [dotnet-claude-kit](https://github.com/codewithmukesh/dotnet-claude-kit)
-
-旨在让 Claude Code 成为 .NET 10 开发专家的定制化工具包。提升 AI 在特定技术栈下的编程与问题解决能力。
-
-- **Stars:** ⭐️ 741
-- **Tags:** `claude-code` `dotnet` `prompt-engineering` `developer-tools`
-- **最后活动时间:** 2026-08-07
 
 ### [ctxsync](https://github.com/jahwag/ctxsync)
 
@@ -10778,6 +10890,14 @@ Godot 4.7+ AI 智能体的'长期记忆'库，提供 99 个专家技能与 27 �
 - **Tags:** `claude` `prompt-engineering` `skills` `llm`
 - **最后活动时间:** 2026-08-13
 
+### [distill](https://github.com/samuelfaj/distill)
+
+将大型CLI输出压缩为适合LLM处理的精简答案，有效节省token消耗。
+
+- **Stars:** ⭐️ 726
+- **Tags:** `claude-code` `codex` `llm` `tokens`
+- **最后活动时间:** 2026-10-18
+
 ### [agents-md](https://github.com/FerroxLabs/agents-md)
 
 一个即插即用的 AGENTS.md 配置文件，能让 AI 编程助手表现得像资深工程师。有效减少 AI 的盲目迎合和随意重构，强制执行验证循环。
@@ -10794,14 +10914,6 @@ Godot 4.7+ AI 智能体的'长期记忆'库，提供 99 个专家技能与 27 �
 - **Tags:** `vue` `nuxt` `ai-assistant` `coding-skills`
 - **最后活动时间:** 2026-10-17
 
-### [distill](https://github.com/samuelfaj/distill)
-
-将大型CLI输出压缩为适合LLM处理的精简答案，有效节省token消耗。
-
-- **Stars:** ⭐️ 721
-- **Tags:** `claude-code` `codex` `llm` `tokens`
-- **最后活动时间:** 2026-10-16
-
 ### [agent-style](https://github.com/yzhao062/agent-style)
 
 为AI编程和写作智能体提供的21条写作规则，支持Claude Code、Cursor、Aider等主流工具。即插即用，让AI生成的文本具有专业技术人员的风格。
@@ -10810,6 +10922,14 @@ Godot 4.7+ AI 智能体的'长期记忆'库，提供 99 个专家技能与 27 �
 - **Tags:** `ai-agents` `prompt-engineering` `style-guide` `llm`
 - **最后活动时间:** 2026-10-18
 
+### [database-skills](https://github.com/planetscale/database-skills)
+
+专为AI智能体设计的数据库操作技能包，赋予Agent与各类数据库交互的能力。帮助开发者在构建AI应用时轻松实现数据查询、管理等自动化任务。
+
+- **Stars:** ⭐️ 717
+- **Tags:** `database` `ai-agents` `agent-skills` `sql` `automation`
+- **最后活动时间:** 2026-10-07
+
 ### [openclaudia-skills](https://github.com/OpenClaudia/openclaudia-skills)
 
 为 Claude Code 提供的34个开源营销技能集合，涵盖SEO、内容、邮件、广告和数据增长等领域。可大幅提升AI在营销场景下的开发效率。
@@ -10817,22 +10937,6 @@ Godot 4.7+ AI 智能体的'长期记忆'库，提供 99 个专家技能与 27 �
 - **Stars:** ⭐️ 717
 - **Tags:** `claude` `marketing` `seo` `prompt-engineering` `ai-skills`
 - **最后活动时间:** 2026-10-11
-
-### [database-skills](https://github.com/planetscale/database-skills)
-
-专为AI智能体设计的数据库操作技能包，赋予Agent与各类数据库交互的能力。帮助开发者在构建AI应用时轻松实现数据查询、管理等自动化任务。
-
-- **Stars:** ⭐️ 716
-- **Tags:** `database` `ai-agents` `agent-skills` `sql` `automation`
-- **最后活动时间:** 2026-10-07
-
-### [arena-skill](https://github.com/Jakeschincariol/arena-skill)
-
-让100个采用不同策略的Claude子代理就同一任务进行锦标赛式对决，层层淘汰只留最佳答案。一款免费开源的Claude Code技能，可显著提升提示词效果与回答质量。
-
-- **Stars:** ⭐️ 716
-- **Tags:** `Claude-Code` `Claude-Skills` `Prompt-Engineering` `Multi-Agent` `Tournament` `Subagents`
-- **最后活动时间:** 2026-09-27
 
 ### [inspectus](https://github.com/labmlai/inspectus)
 
@@ -10846,7 +10950,7 @@ Godot 4.7+ AI 智能体的'长期记忆'库，提供 99 个专家技能与 27 �
 
 支持自定义IP、尺寸与风格的AI文章配图 Skill，适用于口播与图文创作场景。
 
-- **Stars:** ⭐️ 711
+- **Stars:** ⭐️ 712
 - **Tags:** `ai-agent` `skill` `illustration` `prompt-engineering`
 - **最后活动时间:** 2026-08-03
 
@@ -10862,7 +10966,7 @@ Claude Code实战工作流模板，包含记忆管理、上下文工程和任务
 
 面向编程智能体的实用技能与工作流合集，涵盖规划、PIV 循环、Git worktree 以及构建个人 AI 层的元技能。
 
-- **Stars:** ⭐️ 708
+- **Stars:** ⭐️ 709
 - **Tags:** `Agent-Skills` `Coding-Agents` `Prompt-Engineering` `AI-Workflow`
 - **最后活动时间:** 2026-10-07
 
@@ -10881,14 +10985,6 @@ SkillSpec 使智能体技能变得可遵循、可测试且可验证，提供风�
 - **Stars:** ⭐️ 705
 - **Tags:** `legal` `agent-skills` `prompt-engineering`
 - **最后活动时间:** 2026-09-30
-
-### [code-migration-kit-with-claude-code](https://github.com/anthropics/code-migration-kit-with-claude-code)
-
-为使用 Claude Code 执行大规模代码/语言迁移而准备的提示词、模板与脚本合集。帮助开发者以 AI 辅助方式系统化完成复杂迁移任务。
-
-- **Stars:** ⭐️ 704
-- **Tags:** `claude-code` `prompts` `code-migration` `developer-tools` `llm`
-- **最后活动时间:** 2026-07-08
 
 ### [no_ai_slop_writing_rules](https://github.com/realrossmanngroup/no_ai_slop_writing_rules)
 
@@ -10910,7 +11006,7 @@ SkillSpec 使智能体技能变得可遵循、可测试且可验证，提供风�
 
 帮助科研人员撰写 NSFC（国家自然科学基金）申请书的 Agent 技能集，让 AI 智能体辅助打磨本子。
 
-- **Stars:** ⭐️ 682
+- **Stars:** ⭐️ 686
 - **Tags:** `ai-agent` `agent-skills` `academic-writing` `nsfc`
 - **最后活动时间:** 2026-08-27
 
@@ -10926,7 +11022,7 @@ SkillSpec 使智能体技能变得可遵循、可测试且可验证，提供风�
 
 将AI助手转化为专业经济学论文写作专家的智能体技能，融合了50多位学术大师的写作指南。兼容Claude Code和OpenAI Codex，助力高效生成高质量学术研究内容。
 
-- **Stars:** ⭐️ 666
+- **Stars:** ⭐️ 667
 - **Tags:** `academic-writing` `agent-skills` `claude-code` `codex` `economics` `prompt-engineering`
 - **最后活动时间:** 2026-07-20
 
@@ -10934,7 +11030,7 @@ SkillSpec 使智能体技能变得可遵循、可测试且可验证，提供风�
 
 去除简体中文 AI 写作痕迹的技能工具，帮助将 AI 生成的文本转化为更自然的人类语言风格。适用于多种主流 AI 编程与写作助手环境。
 
-- **Stars:** ⭐️ 663
+- **Stars:** ⭐️ 664
 - **Tags:** `ai-writing` `humanizer` `chinese` `agent-skills` `writing-tool`
 - **最后活动时间:** 2026-09-10
 
@@ -10942,7 +11038,7 @@ SkillSpec 使智能体技能变得可遵循、可测试且可验证，提供风�
 
 专为科研、竞赛和创新项目设计的AI工作流技能包，支持文献综述和论文写作。能够有效提升学术研究和科学工作流的效率。
 
-- **Stars:** ⭐️ 659
+- **Stars:** ⭐️ 660
 - **Tags:** `ai-agent` `agent-skills` `claude-code` `academic-writing` `llm-skills`
 - **最后活动时间:** 2026-07-06
 
@@ -10950,7 +11046,7 @@ SkillSpec 使智能体技能变得可遵循、可测试且可验证，提供风�
 
 教你的AI绘制正确且美观的draw.io图表的声明式布局引擎。包含结构验证器和视觉自检功能，支持AWS、Azure、GCP等多种架构图。
 
-- **Stars:** ⭐️ 657
+- **Stars:** ⭐️ 658
 - **Tags:** `ai-agents` `diagrams` `drawio` `cli` `agent-skills`
 - **最后活动时间:** 2026-10-12
 
@@ -10958,7 +11054,7 @@ SkillSpec 使智能体技能变得可遵循、可测试且可验证，提供风�
 
 将 Apple 人机界面指南（HIG）转化为 Agent 可用的设计规范技能，让 AI 生成更符合苹果设计标准的界面。
 
-- **Stars:** ⭐️ 655
+- **Stars:** ⭐️ 656
 - **Tags:** `Apple` `HIG` `Design-System` `Agent-Skills`
 - **最后活动时间:** 2026-10-17
 
@@ -10966,7 +11062,7 @@ SkillSpec 使智能体技能变得可遵循、可测试且可验证，提供风�
 
 一款用于压缩大模型上下文的开发工具，旨在有效节省 Token 消耗并降低 API 调用成本。支持多语言环境，帮助开发者优化 LLM 的输入效率。
 
-- **Stars:** ⭐️ 651
+- **Stars:** ⭐️ 652
 - **Tags:** `llms` `context-compression` `token-optimization` `developer-tools` `cost-optimization`
 - **最后活动时间:** 2026-10-11
 
@@ -10974,7 +11070,7 @@ SkillSpec 使智能体技能变得可遵循、可测试且可验证，提供风�
 
 一个 Claude Code 技能，将《Refactoring UI》中的具体设计规则应用于界面构建与优化，涵盖间距、字型、配色与视觉层次等规范。
 
-- **Stars:** ⭐️ 643
+- **Stars:** ⭐️ 650
 - **Tags:** `claude-code` `ui-design` `design-system` `frontend` `skill`
 - **最后活动时间:** 2026-08-26
 
@@ -11014,9 +11110,25 @@ gpt6-Astra 是一个整合多个前沿AI模型的工作台，支持Claude、Grok
 
 一套面向漏洞赏金猎人的结构化 LLM 提示词合集，提供以证据为先的安全测试工作流。适用于渗透测试、Web 安全研究与漏洞挖掘等场景。
 
-- **Stars:** ⭐️ 622
+- **Stars:** ⭐️ 623
 - **Tags:** `LLM` `Prompt-Engineering` `Bug-Bounty` `Cybersecurity` `Penetration-Testing`
 - **最后活动时间:** 2026-10-03
+
+### [claude-token-optimizer](https://github.com/nadimtuhin/claude-token-optimizer)
+
+专为Claude API调用设计的Token使用优化工具。帮助开发者有效降低API成本并提升交互效率。
+
+- **Stars:** ⭐️ 622
+- **Tags:** `ai-assistant` `claude-code` `developer-tools` `token-optimization`
+- **最后活动时间:** 2026-10-14
+
+### [stylekit](https://github.com/AnxForever/stylekit)
+
+精选 Web 设计风格库，提供组件模板、代码片段及可导出的 AI Rules，并支持通过 MCP 对接 Cursor、Claude 等编程助手。
+
+- **Stars:** ⭐️ 622
+- **Tags:** `ai-prompts` `mcp` `cursor` `design-system` `tailwindcss`
+- **最后活动时间:** 2026-10-15
 
 ### [grace](https://github.com/Gabriella439/grace)
 
@@ -11026,13 +11138,13 @@ gpt6-Astra 是一个整合多个前沿AI模型的工作台，支持Claude、Grok
 - **Tags:** `Prompt Engineering` `Programming Language` `LLM`
 - **最后活动时间:** 2026-08-31
 
-### [claude-token-optimizer](https://github.com/nadimtuhin/claude-token-optimizer)
+### [vibe-check](https://github.com/TexasBedouin/vibe-check)
 
-专为Claude API调用设计的Token使用优化工具。帮助开发者有效降低API成本并提升交互效率。
+帮助初学者从模糊想法到可构建计划的 AI 技能，指导构建过程并培养整洁代码习惯，适用于 Claude Code 和 Codex。
 
-- **Stars:** ⭐️ 621
-- **Tags:** `ai-assistant` `claude-code` `developer-tools` `token-optimization`
-- **最后活动时间:** 2026-10-14
+- **Stars:** ⭐️ 619
+- **Tags:** `ai-coding` `claude-code` `product-management` `prompt-engineering`
+- **最后活动时间:** 2026-07-17
 
 ### [ai-business-skills](https://github.com/minhnv0807/ai-business-skills)
 
@@ -11050,29 +11162,21 @@ gpt6-Astra 是一个整合多个前沿AI模型的工作台，支持Claude、Grok
 - **Tags:** `agent-skills` `ai-agents` `claude` `prompt-engineering`
 - **最后活动时间:** 2026-09-20
 
-### [stylekit](https://github.com/AnxForever/stylekit)
-
-精选 Web 设计风格库，提供组件模板、代码片段及可导出的 AI Rules，并支持通过 MCP 对接 Cursor、Claude 等编程助手。
-
-- **Stars:** ⭐️ 619
-- **Tags:** `ai-prompts` `mcp` `cursor` `design-system` `tailwindcss`
-- **最后活动时间:** 2026-10-15
-
-### [vibe-check](https://github.com/TexasBedouin/vibe-check)
-
-帮助初学者从模糊想法到可构建计划的 AI 技能，指导构建过程并培养整洁代码习惯，适用于 Claude Code 和 Codex。
-
-- **Stars:** ⭐️ 618
-- **Tags:** `ai-coding` `claude-code` `product-management` `prompt-engineering`
-- **最后活动时间:** 2026-07-17
-
 ### [skill.color-expert](https://github.com/meodai/skill.color-expert)
 
 为AI代理提供色彩科学专业知识的技能模块，涵盖色彩空间、无障碍设计及调色板生成。兼容Claude Code、Cursor等多种工具。
 
-- **Stars:** ⭐️ 613
+- **Stars:** ⭐️ 615
 - **Tags:** `color-science` `accessibility` `claude-code` `cursor` `skill`
 - **最后活动时间:** 2026-10-07
+
+### [image-prompt-reverse](https://github.com/LunarXuan/image-prompt-reverse)
+
+面向 Codex 的高保真图像提示词逆向工程技能，可从任意 AI 图片反推出可复用的精准 Prompt。
+
+- **Stars:** ⭐️ 610
+- **Tags:** `Codex` `Prompt-Engineering` `Skills` `Image-Generation`
+- **最后活动时间:** 2026-09-06
 
 ### [compel](https://github.com/damian0815/compel)
 
@@ -11086,7 +11190,7 @@ gpt6-Astra 是一个整合多个前沿AI模型的工作台，支持Claude、Grok
 
 macOS菜单栏应用，通过提示词压缩代理技术削减Claude Code和Codex的Token成本约50%。有效优化大语言模型的调用开销。
 
-- **Stars:** ⭐️ 605
+- **Stars:** ⭐️ 606
 - **Tags:** `prompt-compression` `token-optimization` `claude-code` `llm`
 - **最后活动时间:** 2026-10-18
 
@@ -11110,7 +11214,7 @@ macOS菜单栏应用，通过提示词压缩代理技术削减Claude Code和Code
 
 rust-skills 是一个针对AI coding agents的Rust最佳实践规则集合，包含265条规则，帮助编写安全高效的Rust代码。
 
-- **Stars:** ⭐️ 601
+- **Stars:** ⭐️ 602
 - **Tags:** `Rust-Best-Practices` `AI-Coding` `Coding-Guidelines`
 - **最后活动时间:** 2026-06-14
 
@@ -11122,14 +11226,6 @@ rust-skills 是一个针对AI coding agents的Rust最佳实践规则集合，包
 - **Tags:** `prompt-engineering` `claude-code` `cursor-rules` `ai-agents` `prompt-optimization`
 - **最后活动时间:** 2026-08-04
 
-### [image-prompt-reverse](https://github.com/LunarXuan/image-prompt-reverse)
-
-面向 Codex 的高保真图像提示词逆向工程技能，可从任意 AI 图片反推出可复用的精准 Prompt。
-
-- **Stars:** ⭐️ 592
-- **Tags:** `Codex` `Prompt-Engineering` `Skills` `Image-Generation`
-- **最后活动时间:** 2026-09-06
-
 ### [designer-skills](https://github.com/julianoczkowski/designer-skills)
 
 为设计师打造的 Agent Skills 合集，将设计流程编码为结构化技能，让 AI 编码工具遵循设计路径输出而非随机生成。适合用 AI 进行原型设计与构建的设计师使用。
@@ -11137,6 +11233,14 @@ rust-skills 是一个针对AI coding agents的Rust最佳实践规则集合，包
 - **Stars:** ⭐️ 590
 - **Tags:** `agent-skills` `design` `ai-coding` `claude-skills`
 - **最后活动时间:** 2026-07-06
+
+### [claude-directory](https://github.com/pulkitxm/claude-directory)
+
+使用Claude构建的开源AI界面集合，包含英雄区域、GLSL着色器和3D组件等。专为加速AI智能体前端开发而设计。
+
+- **Stars:** ⭐️ 587
+- **Tags:** `ai-generated` `anthropic` `claude` `design-system` `frontend` `generative-ui` `react` `tailwindcss` `threejs`
+- **最后活动时间:** 2026-10-18
 
 ### [Bot-Generator-Bot](https://github.com/ruvnet/Bot-Generator-Bot)
 
@@ -11154,13 +11258,21 @@ rust-skills 是一个针对AI coding agents的Rust最佳实践规则集合，包
 - **Tags:** `ai-slop-detection` `humanize-ai` `cli` `text-processing`
 - **最后活动时间:** 2026-08-04
 
-### [claude-directory](https://github.com/pulkitxm/claude-directory)
+### [chinese-thesis-workbench-skill](https://github.com/ZyhSechub/chinese-thesis-workbench-skill)
 
-使用Claude构建的开源AI界面集合，包含英雄区域、GLSL着色器和3D组件等。专为加速AI智能体前端开发而设计。
+面向本科毕业论文的 AI 辅助技能，能够整合项目源码、数据库与文献，按学校模板工程化生成可追溯的论文内容。
 
-- **Stars:** ⭐️ 586
-- **Tags:** `ai-generated` `anthropic` `claude` `design-system` `frontend` `generative-ui` `react` `tailwindcss` `threejs`
-- **最后活动时间:** 2026-10-08
+- **Stars:** ⭐️ 584
+- **Tags:** `thesis-writing` `ai-skills` `prompt-engineering` `academic-writing`
+- **最后活动时间:** 2026-05-07
+
+### [qiaomu-design](https://github.com/joeseesun/qiaomu-design)
+
+面向 Claude Code 的设计顾问技能，提供反 AI 味 UI 建议与 58 个真实站点设计系统参考。
+
+- **Stars:** ⭐️ 584
+- **Tags:** `claude-code` `agent-skill` `design-system` `ui-design`
+- **最后活动时间:** 2026-10-13
 
 ### [cpdown](https://github.com/ysm-dev/cpdown)
 
@@ -11169,14 +11281,6 @@ rust-skills 是一个针对AI coding agents的Rust最佳实践规则集合，包
 - **Stars:** ⭐️ 582
 - **Tags:** `markdown` `llm` `productivity` `clipboard` `browser-extension`
 - **最后活动时间:** 2026-10-12
-
-### [qiaomu-design](https://github.com/joeseesun/qiaomu-design)
-
-面向 Claude Code 的设计顾问技能，提供反 AI 味 UI 建议与 58 个真实站点设计系统参考。
-
-- **Stars:** ⭐️ 582
-- **Tags:** `claude-code` `agent-skill` `design-system` `ui-design`
-- **最后活动时间:** 2026-10-13
 
 ### [lowfat](https://github.com/zdk/lowfat)
 
@@ -11194,6 +11298,14 @@ rust-skills 是一个针对AI coding agents的Rust最佳实践规则集合，包
 - **Tags:** `claude-code` `copywriting` `prompt-engineering` `advertising`
 - **最后活动时间:** 2026-08-08
 
+### [agent-skills-standard](https://github.com/HoangNguyen0403/agent-skills-standard)
+
+为多种编程语言和框架提供的AI智能体技能标准与最佳实践集合。帮助AI智能体在代码生成时遵循特定框架和语言的开发规范，提升代码质量。
+
+- **Stars:** ⭐️ 578
+- **Tags:** `agentic-ai` `coding-standards` `best-practices` `cursor-rules` `ai-agent`
+- **最后活动时间:** 2026-10-17
+
 ### [promptscript](https://github.com/mrwogu/promptscript)
 
 面向企业的“提示词即代码”工具，支持标准化、审计和部署指令。可跨多种AI编程助手实现统一的提示词管理。
@@ -11201,14 +11313,6 @@ rust-skills 是一个针对AI coding agents的Rust最佳实践规则集合，包
 - **Stars:** ⭐️ 578
 - **Tags:** `prompt-engineering` `ai-tools` `llm` `enterprise` `devtools`
 - **最后活动时间:** 2026-07-17
-
-### [agent-skills-standard](https://github.com/HoangNguyen0403/agent-skills-standard)
-
-为多种编程语言和框架提供的AI智能体技能标准与最佳实践集合。帮助AI智能体在代码生成时遵循特定框架和语言的开发规范，提升代码质量。
-
-- **Stars:** ⭐️ 577
-- **Tags:** `agentic-ai` `coding-standards` `best-practices` `cursor-rules` `ai-agent`
-- **最后活动时间:** 2026-10-17
 
 ### [dotprompt](https://github.com/google/dotprompt)
 
@@ -11218,14 +11322,6 @@ rust-skills 是一个针对AI coding agents的Rust最佳实践规则集合，包
 - **Tags:** `Prompt` `Template` `GenAI`
 - **最后活动时间:** 2026-10-05
 
-### [chinese-thesis-workbench-skill](https://github.com/ZyhSechub/chinese-thesis-workbench-skill)
-
-面向本科毕业论文的 AI 辅助技能，能够整合项目源码、数据库与文献，按学校模板工程化生成可追溯的论文内容。
-
-- **Stars:** ⭐️ 572
-- **Tags:** `thesis-writing` `ai-skills` `prompt-engineering` `academic-writing`
-- **最后活动时间:** 2026-05-07
-
 ### [nie-grassroots-logic](https://github.com/ayi-ai/nie-grassroots-logic)
 
 基于《基层中国的运行逻辑》方法论打造的 Agent Skill 工具箱，让 AI 智能体掌握一套基层治理分析框架。是 Agent Skills 生态中特色鲜明的知识型技能包。
@@ -11233,6 +11329,14 @@ rust-skills 是一个针对AI coding agents的Rust最佳实践规则集合，包
 - **Stars:** ⭐️ 569
 - **Tags:** `Agent-Skills` `Prompt-Engineering` `Methodology` `Cursor`
 - **最后活动时间:** 2026-08-10
+
+### [genjutsu](https://github.com/AThevon/genjutsu)
+
+为Claude Code等AI编码智能体打造的创意编码技能包，覆盖GSAP、Three.js、SwiftUI等跨平台动效与设计系统实践。在生成代码前先提出交互设计主张供用户确认，主打拒绝AI垃圾代码。
+
+- **Stars:** ⭐️ 568
+- **Tags:** `claude-code` `agent-skills` `animation` `design-system` `creative-coding`
+- **最后活动时间:** 2026-10-05
 
 ### [ice](https://github.com/oughtinc/ice)
 
@@ -11250,14 +11354,6 @@ rust-skills 是一个针对AI coding agents的Rust最佳实践规则集合，包
 - **Tags:** `ai-tools` `prompt-engineering` `seo` `chatgpt` `claude`
 - **最后活动时间:** 2026-10-17
 
-### [role-specific-plugins](https://github.com/openai/role-specific-plugins)
-
-为 OpenAI Codex 提供按角色划分的插件模板集合，帮助开发者快速为架构、实现、审查等不同开发角色配置专属AI助手能力。是提升AI编码工作流规范化的实用资源。
-
-- **Stars:** ⭐️ 558
-- **Tags:** `Codex` `Plugins` `Prompt-Engineering` `Templates`
-- **最后活动时间:** 2026-09-30
-
 ### [andrej-karpathy-skills](https://github.com/0xwilliamortiz/andrej-karpathy-skills)
 
 基于Andrej Karpathy的实战笔记提炼的Claude Code行为护栏技能包，用于规避LLM编写代码时的常见陷阱。
@@ -11265,6 +11361,22 @@ rust-skills 是一个针对AI coding agents的Rust最佳实践规则集合，包
 - **Stars:** ⭐️ 557
 - **Tags:** `claude-code` `prompt-engineering` `llm` `skills` `ai-coding`
 - **最后活动时间:** 2026-07-27
+
+### [role-specific-plugins](https://github.com/openai/role-specific-plugins)
+
+为 OpenAI Codex 提供按角色划分的插件模板集合，帮助开发者快速为架构、实现、审查等不同开发角色配置专属AI助手能力。是提升AI编码工作流规范化的实用资源。
+
+- **Stars:** ⭐️ 557
+- **Tags:** `Codex` `Plugins` `Prompt-Engineering` `Templates`
+- **最后活动时间:** 2026-09-30
+
+### [humanize](https://github.com/harshaneel/humanize)
+
+基于 2024-2026 年检测文献与 50+ 篇同行评审研究打造的 LLM 无关文本人味化技能，通过九大杠杆让 AI 写作更自然、更具人情味。适用于 Claude Code 与 Codex。
+
+- **Stars:** ⭐️ 557
+- **Tags:** `ai-humanizer` `claude-skills` `prompt-engineering` `ai-writing` `text-humanizer`
+- **最后活动时间:** 2026-09-22
 
 ### [awesome-microsoft-copilot-prompts](https://github.com/kesslernity/awesome-microsoft-copilot-prompts)
 
@@ -11274,21 +11386,21 @@ rust-skills 是一个针对AI coding agents的Rust最佳实践规则集合，包
 - **Tags:** `ai-prompts` `prompt-engineering` `microsoft-copilot` `awesome-list`
 - **最后活动时间:** 2026-10-08
 
-### [humanize](https://github.com/harshaneel/humanize)
-
-基于 2024-2026 年检测文献与 50+ 篇同行评审研究打造的 LLM 无关文本人味化技能，通过九大杠杆让 AI 写作更自然、更具人情味。适用于 Claude Code 与 Codex。
-
-- **Stars:** ⭐️ 553
-- **Tags:** `ai-humanizer` `claude-skills` `prompt-engineering` `ai-writing` `text-humanizer`
-- **最后活动时间:** 2026-09-22
-
 ### [token-optimizer-mcp](https://github.com/ooples/token-optimizer-mcp)
 
 用于测量 AI 编程智能体 Token 消耗并优化上下文的 MCP 服务器。支持在 16 个 CLI 客户端间共享本地知识图谱，有效降低成本。
 
-- **Stars:** ⭐️ 551
+- **Stars:** ⭐️ 552
 - **Tags:** `mcp-server` `token-optimization` `context-compression` `llm` `caching`
-- **最后活动时间:** 2026-10-18
+- **最后活动时间:** 2026-10-19
+
+### [WeiLin-Comfyui-Tools](https://github.com/weilin9999/WeiLin-Comfyui-Tools)
+
+ComfyUI 提示词快捷工具，帮助用户在工作流中高效管理与使用提示词，提升图像生成效率。
+
+- **Stars:** ⭐️ 547
+- **Tags:** `ComfyUI` `Prompt-Engineering` `Custom-Nodes`
+- **最后活动时间:** 2026-09-25
 
 ### [JevHarness](https://github.com/TianyuCodings/JevHarness)
 
@@ -11298,13 +11410,13 @@ rust-skills 是一个针对AI coding agents的Rust最佳实践规则集合，包
 - **Tags:** `LLM` `Prompt-Optimization` `GEPA` `Evaluation` `Agent-Tools`
 - **最后活动时间:** 2026-10-16
 
-### [genjutsu](https://github.com/AThevon/genjutsu)
+### [unslop](https://github.com/theclaymethod/unslop)
 
-为Claude Code等AI编码智能体打造的创意编码技能包，覆盖GSAP、Three.js、SwiftUI等跨平台动效与设计系统实践。在生成代码前先提出交互设计主张供用户确认，主打拒绝AI垃圾代码。
+一个用于'去 AI 味'的 Agent 技能，可自动润色文本、消除机器写作痕迹，让文章更自然、更具人味。
 
-- **Stars:** ⭐️ 543
-- **Tags:** `claude-code` `agent-skills` `animation` `design-system` `creative-coding`
-- **最后活动时间:** 2026-10-05
+- **Stars:** ⭐️ 545
+- **Tags:** `agent-skills` `writing` `prompt-engineering` `text-processing`
+- **最后活动时间:** 2026-09-07
 
 ### [agents-md](https://github.com/TheRealSeanDonahoe/agents-md)
 
@@ -11314,14 +11426,6 @@ rust-skills 是一个针对AI coding agents的Rust最佳实践规则集合，包
 - **Tags:** `ai-agents` `prompt-engineering` `coding-assistant` `llm-tools`
 - **最后活动时间:** 2026-04-19
 
-### [unslop](https://github.com/theclaymethod/unslop)
-
-一个用于'去 AI 味'的 Agent 技能，可自动润色文本、消除机器写作痕迹，让文章更自然、更具人味。
-
-- **Stars:** ⭐️ 541
-- **Tags:** `agent-skills` `writing` `prompt-engineering` `text-processing`
-- **最后活动时间:** 2026-09-07
-
 ### [codex-academic-paper-skills](https://github.com/AAASS554/codex-academic-paper-skills)
 
 专为学术论文写作设计的 Codex 技能包，辅助软件工程论文的规划与修改。能有效提升学术写作的效率与质量。
@@ -11330,13 +11434,21 @@ rust-skills 是一个针对AI coding agents的Rust最佳实践规则集合，包
 - **Tags:** `codex` `academic-writing` `prompt-engineering` `software-engineering`
 - **最后活动时间:** 2026-06-29
 
-### [WeiLin-Comfyui-Tools](https://github.com/weilin9999/WeiLin-Comfyui-Tools)
+### [seo-skills](https://github.com/Illyism/seo-skills)
 
-ComfyUI 提示词快捷工具，帮助用户在工作流中高效管理与使用提示词，提升图像生成效率。
+为 Claude Code、Cursor 和 Codex 打造的 SEO 技能包，涵盖 SEO 自动化、标题标签优化、博客刷新、外链建设与文案撰写。让 AI 编码代理摇身一变成为 SEO 自动驾驶专家。
 
-- **Stars:** ⭐️ 538
-- **Tags:** `ComfyUI` `Prompt-Engineering` `Custom-Nodes`
-- **最后活动时间:** 2026-09-25
+- **Stars:** ⭐️ 536
+- **Tags:** `seo` `agent-skills` `claude-skills` `cursor` `content-marketing`
+- **最后活动时间:** 2026-10-15
+
+### [create-photo-flipbook-ui](https://github.com/HaichaoLihc/create-photo-flipbook-ui)
+
+一个面向 OpenAI Codex 的技能包，可让AI代理根据用户提供的图片快速生成响应式3D照片翻页书网站。适合希望扩展Codex能力的开发者使用。
+
+- **Stars:** ⭐️ 535
+- **Tags:** `Codex` `Skill` `PromptEngineering` `WebUI` `CreativeCoding`
+- **最后活动时间:** 2026-10-17
 
 ### [trustmebro](https://github.com/DavidCarliez/trustmebro)
 
@@ -11346,13 +11458,13 @@ ComfyUI 提示词快捷工具，帮助用户在工作流中高效管理与使用
 - **Tags:** `LLM` `Security` `PromptInjection` `Guardrails` `AISafety`
 - **最后活动时间:** 2026-09-01
 
-### [seo-skills](https://github.com/Illyism/seo-skills)
+### [visual-skills](https://github.com/smixs/visual-skills)
 
-为 Claude Code、Cursor 和 Codex 打造的 SEO 技能包，涵盖 SEO 自动化、标题标签优化、博客刷新、外链建设与文案撰写。让 AI 编码代理摇身一变成为 SEO 自动驾驶专家。
+为 AI 代理提供电影导演级技能：融合 Murch 剪辑理论、场面调度与蒙太奇等戏剧知识，并内置 Seedance、Kling、Veo、Nano Banana 等模型的精确提示词语法。
 
-- **Stars:** ⭐️ 530
-- **Tags:** `seo` `agent-skills` `claude-skills` `cursor` `content-marketing`
-- **最后活动时间:** 2026-10-15
+- **Stars:** ⭐️ 532
+- **Tags:** `prompt-engineering` `ai-video-generation` `claude-skills` `veo` `kling` `generative-ai`
+- **最后活动时间:** 2026-09-16
 
 ### [WuMing-Claude-Skills](https://github.com/NoizAI/skills)
 
@@ -11370,14 +11482,6 @@ WuMing的Claude技能集合，提供多种AI助手技能扩展。
 - **Tags:** `adversarial-attacks` `ai-safety` `prompt-engineering` `large-language-models`
 - **最后活动时间:** 2026-04-27
 
-### [visual-skills](https://github.com/smixs/visual-skills)
-
-为 AI 代理提供电影导演级技能：融合 Murch 剪辑理论、场面调度与蒙太奇等戏剧知识，并内置 Seedance、Kling、Veo、Nano Banana 等模型的精确提示词语法。
-
-- **Stars:** ⭐️ 528
-- **Tags:** `prompt-engineering` `ai-video-generation` `claude-skills` `veo` `kling` `generative-ai`
-- **最后活动时间:** 2026-09-16
-
 ### [tokenjuice](https://github.com/vincentkoc/tokenjuice)
 
 专为终端密集型AI智能体工作流设计的轻量级输出压缩工具。有效减少Token消耗，可作为原生CLI工具或插件集成到主流编码框架中。
@@ -11385,6 +11489,22 @@ WuMing的Claude技能集合，提供多种AI助手技能扩展。
 - **Stars:** ⭐️ 526
 - **Tags:** `optimization` `token` `tui-app` `cli` `agent-workflows`
 - **最后活动时间:** 2026-09-15
+
+### [pi-vcc](https://github.com/sting8k/pi-vcc)
+
+为 Pi 编码智能体打造的智能会话压缩工具，无需调用 LLM 即可生成结构化、保留完整对话脉络的摘要。快速无损地解决长会话上下文膨胀问题。
+
+- **Stars:** ⭐️ 522
+- **Tags:** `LLM` `Context-Management` `Coding-Agent` `Session-Compaction` `Developer-Tools`
+- **最后活动时间:** 2026-10-15
+
+### [creative-writing-skills](https://github.com/haowjy/creative-writing-skills)
+
+专注于创意写作的 Claude Skills 技能集，为 AI 写作场景提供丰富的提示词与创作能力扩展。适合希望增强模型写作表现的开发者。
+
+- **Stars:** ⭐️ 522
+- **Tags:** `Claude` `Skills` `Creative-Writing` `Prompt-Engineering`
+- **最后活动时间:** 2026-10-18
 
 ### [awesome-gemini-3-prompts](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)
 
@@ -11402,13 +11522,13 @@ WuMing的Claude技能集合，提供多种AI助手技能扩展。
 - **Tags:** `grok` `prompt-engineering` `xai` `prompts`
 - **最后活动时间:** 2026-08-25
 
-### [pi-vcc](https://github.com/sting8k/pi-vcc)
+### [cpr-compress-preserve-resume](https://github.com/EliaAlberti/cpr-compress-preserve-resume)
 
-为 Pi 编码智能体打造的智能会话压缩工具，无需调用 LLM 即可生成结构化、保留完整对话脉络的摘要。快速无损地解决长会话上下文膨胀问题。
+为 Claude Code 提供持久化记忆，支持跨会话保存、搜索和恢复对话上下文，让 AI 编程助手无缝延续工作状态。
 
-- **Stars:** ⭐️ 517
-- **Tags:** `LLM` `Context-Management` `Coding-Agent` `Session-Compaction` `Developer-Tools`
-- **最后活动时间:** 2026-10-15
+- **Stars:** ⭐️ 518
+- **Tags:** `Claude-Code` `Memory` `Context-Management` `AI-Tools`
+- **最后活动时间:** 2026-09-09
 
 ### [ai-rules](https://github.com/fjb040911/ai-rules)
 
@@ -11426,14 +11546,6 @@ AI驱动开发的治理框架，解决架构腐化问题，强制AI智能体遵�
 - **Tags:** `claude-skills` `claude-code` `research-tools` `vibe-coding` `academic-writing` `pipeline`
 - **最后活动时间:** 2026-10-05
 
-### [cpr-compress-preserve-resume](https://github.com/EliaAlberti/cpr-compress-preserve-resume)
-
-为 Claude Code 提供持久化记忆，支持跨会话保存、搜索和恢复对话上下文，让 AI 编程助手无缝延续工作状态。
-
-- **Stars:** ⭐️ 511
-- **Tags:** `Claude-Code` `Memory` `Context-Management` `AI-Tools`
-- **最后活动时间:** 2026-09-09
-
 ### [Agent-Skills-4-Vibe-Coding-CLI](https://github.com/Dokhacgiakhoa/Agent-Skills-4-Vibe-Coding-CLI)
 
 专为Vibe Coding设计的AI智能体技能与CLI脚手架工具。提升开发者的提示词工程效率与AI编码体验。
@@ -11442,6 +11554,14 @@ AI驱动开发的治理框架，解决架构腐化问题，强制AI智能体遵�
 - **Tags:** `ai-agents` `cli` `developer-tools` `prompt-engineering` `vibe-coding`
 - **最后活动时间:** 2026-06-11
 
+### [pojia-next](https://github.com/z91772524-ai/pojia-next)
+
+一个零依赖、双击即用的脚本，可一键替换 DSH、Codex、Cursor、Claude 等六大 AI 客户端的提示词与人格配置，支持改前备份与一键还原。附带免安装单文件 exe、安全扫描与 SHA256 校验，是 AI 客户端提示词定制的实用工具。
+
+- **Stars:** ⭐️ 507
+- **Tags:** `prompt-engineering` `claude` `cursor` `codex` `ai-agent` `automation` `windows` `no-dependencies`
+- **最后活动时间:** 2026-10-18
+
 ### [Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection)
 
 Open-Prompt-Injection 是一个专注于大型语言模型（LLM）提示注入攻击与防御的基准测试仓库。它帮助研究者和开发者评估和增强LLM的安全性。
@@ -11449,6 +11569,14 @@ Open-Prompt-Injection 是一个专注于大型语言模型（LLM）提示注入�
 - **Stars:** ⭐️ 506
 - **Tags:** `LLM` `Prompt-Injection` `LLM-Security`
 - **最后活动时间:** 2026-09-27
+
+### [research-writing-skill](https://github.com/alfonso0512/research-writing-skill)
+
+AI 科研论文写作助手，提供 30 个 Prompt 模板覆盖论文写作全流程，支持中英翻译、润色、文献综述、投稿回复与基金申请。是科研人员提升学术写作效率的实用提示词工程资源。
+
+- **Stars:** ⭐️ 506
+- **Tags:** `academic-writing` `prompt-engineering` `ai-writing` `research-tools` `scientific-writing`
+- **最后活动时间:** 2026-07-15
 
 ### [Agent-skills-setup-for-AntiGravity](https://github.com/Dokhacgiakhoa/Agent-skills-setup-for-AntiGravity)
 
@@ -11466,13 +11594,13 @@ Open-Prompt-Injection 是一个专注于大型语言模型（LLM）提示注入�
 - **Tags:** `AI-Context` `LLM` `ASCII-Art` `Diagrams` `Text-Editor` `Wireframes`
 - **最后活动时间:** 2026-09-27
 
-### [research-writing-skill](https://github.com/alfonso0512/research-writing-skill)
+### [AI-research-feedback](https://github.com/claesbackman/AI-research-feedback)
 
-AI 科研论文写作助手，提供 30 个 Prompt 模板覆盖论文写作全流程，支持中英翻译、润色、文献综述、投稿回复与基金申请。是科研人员提升学术写作效率的实用提示词工程资源。
+一套面向学术研究评审的 Claude Code 技能集合，可辅助研究者进行论文审阅与反馈。对使用 Claude Code 的科研人员来说是实用的提示工程资源。
 
 - **Stars:** ⭐️ 503
-- **Tags:** `academic-writing` `prompt-engineering` `ai-writing` `research-tools` `scientific-writing`
-- **最后活动时间:** 2026-07-15
+- **Tags:** `Claude Code` `Skills` `Academic Research` `Prompt Engineering`
+- **最后活动时间:** 2026-10-15
 
 ### [WuMing-Claude-Skills](https://github.com/NoizAI/skills)
 
@@ -11490,6 +11618,22 @@ WuMing的Claude技能集合，提供多种AI助手技能扩展。
 - **Tags:** `token-optimization` `coding-agents` `prompt-engineering` `ai-tools`
 - **最后活动时间:** 2026-07-04
 
+### [HERO-Anti-OverDefense](https://github.com/wanshuiyin/HERO-Anti-OverDefense)
+
+HERO 是一份可直接粘贴的契约规则,用于约束 Claude Code、Cursor、Copilot 等 AI 编程智能体常见的过度防御行为(哈希滥用、边界情况堆砌、规则冗余、过度构建)。帮助开发者获得更简洁、高质量的 AI 代码输出。
+
+- **Stars:** ⭐️ 500
+- **Tags:** `Prompt-Engineering` `AI-Agents` `Claude-Code` `Coding-Agent` `LLM` `Cursor` `GitHub-Copilot`
+- **最后活动时间:** 2026-10-17
+
+### [ok-skills](https://github.com/mxyhi/ok-skills)
+
+为 Codex、Claude Code、Cursor 等 SKILL.md 兼容的 AI 编程智能体精心整理的技能库与 AGENTS.md 实践手册。帮助开发者快速为各类编码 Agent 配置高质量提示词与工作流。
+
+- **Stars:** ⭐️ 500
+- **Tags:** `agent-skills` `claude-code` `codex` `cursor` `prompt-engineering` `coding-agents`
+- **最后活动时间:** 2026-10-18
+
 ## SDKs & APIs
 
 ### [opencv](https://github.com/opencv/opencv)
@@ -11504,9 +11648,9 @@ WuMing的Claude技能集合，提供多种AI助手技能扩展。
 
 为AI智能体设计的架构图生成工具，支持明暗主题切换和多格式导出（PNG/JPEG/WebP/SVG）。
 
-- **Stars:** ⭐️ 85.1k
+- **Stars:** ⭐️ 85.4k
 - **Tags:** `architecture-diagram` `claude-skill` `diagram-as-code` `developer-tools`
-- **最后活动时间:** 2026-10-18
+- **最后活动时间:** 2026-10-19
 
 ### [hoppscotch](https://github.com/hoppscotch/hoppscotch)
 
@@ -11522,7 +11666,7 @@ OpenAI官方出品的API使用指南与代码示例合集，涵盖GPT-4、ChatGP
 
 - **Stars:** ⭐️ 76.7k
 - **Tags:** `OpenAI` `GPT-4` `API` `教程`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [superset](https://github.com/apache/superset)
 
@@ -11538,7 +11682,7 @@ Python机器学习核心库，提供分类、回归、聚类等算法的简洁AP
 
 - **Stars:** ⭐️ 67.7k
 - **Tags:** `machine-learning` `python` `data-science` `scikit-learn`
-- **最后活动时间:** 2026-10-16
+- **最后活动时间:** 2026-10-18
 
 ### [ultralytics](https://github.com/ultralytics/ultralytics)
 
@@ -11554,7 +11698,7 @@ Python机器学习核心库，提供分类、回归、聚类等算法的简洁AP
 
 - **Stars:** ⭐️ 58.2k
 - **Tags:** `Object Detection` `YOLO` `Computer Vision`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
 
@@ -11562,7 +11706,7 @@ Python机器学习核心库，提供分类、回归、聚类等算法的简洁AP
 
 - **Stars:** ⭐️ 55.6k
 - **Tags:** `API代理` `多模型支持` `OpenAI兼容`
-- **最后活动时间:** 2026-10-18
+- **最后活动时间:** 2026-10-19
 
 ### [supervision](https://github.com/roboflow/supervision)
 
@@ -11576,7 +11720,7 @@ Python机器学习核心库，提供分类、回归、聚类等算法的简洁AP
 
 Python数据分析与处理核心库，提供DataFrame等数据结构，是AI/ML数据预处理的必备工具。
 
-- **Stars:** ⭐️ 50.1k
+- **Stars:** ⭐️ 50.2k
 - **Tags:** `data-analysis` `data-science` `python` `pandas`
 - **最后活动时间:** 2026-10-18
 
@@ -11594,7 +11738,7 @@ Python数据分析与处理核心库，提供DataFrame等数据结构，是AI/ML
 
 - **Stars:** ⭐️ 47.7k
 - **Tags:** `api-testing` `http-client` `openapi` `graphql` `developer-tools`
-- **最后活动时间:** 2026-10-16
+- **最后活动时间:** 2026-10-18
 
 ### [streamlit](https://github.com/streamlit/streamlit)
 
@@ -11624,7 +11768,7 @@ Python数据分析与处理核心库，提供DataFrame等数据结构，是AI/ML
 
 免费提供ChatGPT、DeepSeek等主流大模型API接入服务，支持gpt、claude、gemini等多种模型。
 
-- **Stars:** ⭐️ 44.4k
+- **Stars:** ⭐️ 44.5k
 - **Tags:** `api` `chatgpt` `deepseek` `gpt` `claude` `gemini`
 - **最后活动时间:** 2026-09-07
 
@@ -11632,9 +11776,9 @@ Python数据分析与处理核心库，提供DataFrame等数据结构，是AI/ML
 
 Zod 是一个 TypeScript-first 的模式验证库，支持静态类型推断。它允许开发者在运行时验证数据结构，并提供强大的类型安全。
 
-- **Stars:** ⭐️ 44.1k
+- **Stars:** ⭐️ 44.2k
 - **Tags:** `schema-validation` `typescript`
-- **最后活动时间:** 2026-10-13
+- **最后活动时间:** 2026-10-18
 
 ### [gradio](https://github.com/gradio-app/gradio)
 
@@ -11658,7 +11802,7 @@ AI原生低代码平台，用于构建内部工具、仪表板、业务应用和
 
 - **Stars:** ⭐️ 41.1k
 - **Tags:** `AI-Native` `Low-Code` `Internal Tools` `AI Agents`
-- **最后活动时间:** 2026-10-18
+- **最后活动时间:** 2026-10-19
 
 ### [drawdb](https://github.com/drawdb-io/drawdb)
 
@@ -11730,7 +11874,7 @@ AI原生低代码平台，用于构建内部工具、仪表板、业务应用和
 
 - **Stars:** ⭐️ 33.6k
 - **Tags:** `神经网络` `可视化` `深度学习`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [numpy](https://github.com/numpy/numpy)
 
@@ -11772,6 +11916,14 @@ Python快速可扩展进度条工具，广泛应用于机器学习训练过程�
 - **Tags:** `progress-bar` `python` `cli` `machine-learning`
 - **最后活动时间:** 2026-10-05
 
+### [context-mode](https://github.com/mksglu/context-mode)
+
+隐私优先的上下文虚拟化层，为 MCP 协议提供工具访问支持，支持 Claude、Copilot 等多种 AI 编程助手。
+
+- **Stars:** ⭐️ 30.8k
+- **Tags:** `MCP` `Context` `Privacy`
+- **最后活动时间:** 2026-10-19
+
 ### [composio](https://github.com/ComposioHQ/composio)
 
 提供1000+工具集成与沙盒工作台，帮助开发者快速构建能将意图转化为行动的AI智能体应用。
@@ -11780,21 +11932,13 @@ Python快速可扩展进度条工具，广泛应用于机器学习训练过程�
 - **Tags:** `AI Agents` `MCP` `工具集成`
 - **最后活动时间:** 2026-10-18
 
-### [context-mode](https://github.com/mksglu/context-mode)
-
-隐私优先的上下文虚拟化层，为 MCP 协议提供工具访问支持，支持 Claude、Copilot 等多种 AI 编程助手。
-
-- **Stars:** ⭐️ 30.6k
-- **Tags:** `MCP` `Context` `Privacy`
-- **最后活动时间:** 2026-10-18
-
 ### [infisical](https://github.com/Infisical/infisical)
 
 开源的密钥与机密管理平台，统一管理 API 密钥、证书与访问权限，并为 AI Agent 提供身份与凭证安全保护。是 AI 应用开发中保护 LLM API Key 等敏感信息的理想基础设施。
 
-- **Stars:** ⭐️ 29.8k
+- **Stars:** ⭐️ 29.9k
 - **Tags:** `secrets-management` `ai-agents` `security` `devsecops` `kubernetes`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [pydantic](https://github.com/pydantic/pydantic)
 
@@ -11834,7 +11978,7 @@ Python快速可扩展进度条工具，广泛应用于机器学习训练过程�
 
 - **Stars:** ⭐️ 28.3k
 - **Tags:** `Low-Code` `No-Code` `AI Agents`
-- **最后活动时间:** 2026-10-16
+- **最后活动时间:** 2026-10-18
 
 ### [fastai](https://github.com/fastai/fastai)
 
@@ -11850,7 +11994,7 @@ Vercel官方TypeScript AI开发工具包，快速构建AI应用与智能体。
 
 - **Stars:** ⭐️ 27.4k
 - **Tags:** `TypeScript` `SDK` `Vercel`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [libuv](https://github.com/libuv/libuv)
 
@@ -11866,7 +12010,7 @@ Vercel官方TypeScript AI开发工具包，快速构建AI应用与智能体。
 
 - **Stars:** ⭐️ 27.1k
 - **Tags:** `database` `database-client` `ai` `mcp` `rust` `tauri`
-- **最后活动时间:** 2026-10-18
+- **最后活动时间:** 2026-10-19
 
 ### [vit-pytorch](https://github.com/lucidrains/vit-pytorch)
 
@@ -11962,7 +12106,7 @@ Go语言Excel处理库，支持MCP协议集成，可用于AI数据处理与分�
 
 - **Stars:** ⭐️ 19.8k
 - **Tags:** `NotebookLM` `SDK` `Python`
-- **最后活动时间:** 2026-10-15
+- **最后活动时间:** 2026-10-18
 
 ### [tiktoken](https://github.com/openai/tiktoken)
 
@@ -11976,9 +12120,9 @@ OpenAI官方开发的高性能BPE分词器，专为GPT系列模型优化，处�
 
 精选的 DeepSeek Harness (dsh) 插件列表，为开发者提供丰富的扩展工具。
 
-- **Stars:** ⭐️ 19.2k
+- **Stars:** ⭐️ 19.3k
 - **Tags:** `deepseek` `dsh` `plugin` `awesome-list`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [tfjs](https://github.com/tensorflow/tfjs)
 
@@ -11994,7 +12138,7 @@ Google推出的WebGL加速JavaScript机器学习库，支持在浏览器和Node.
 
 - **Stars:** ⭐️ 19.0k
 - **Tags:** `python` `ui-framework` `cross-platform` `gui`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [LightGBM](https://github.com/lightgbm-org/LightGBM)
 
@@ -12028,14 +12172,6 @@ Python交互式可视化库，广泛用于AI/ML数据可视化和模型结果展
 - **Tags:** `key-value` `storage` `mobile` `cross-platform`
 - **最后活动时间:** 2026-10-16
 
-### [magika](https://github.com/google/magika)
-
-基于深度学习的文件类型检测工具，利用AI快速准确地识别文件内容类型，支持ONNX和Keras模型。
-
-- **Stars:** ⭐️ 18.7k
-- **Tags:** `ai` `deep-learning` `filetype` `onnx` `mime-types`
-- **最后活动时间:** 2026-10-15
-
 ### [claude-video](https://github.com/bradautomates/claude-video)
 
 为Claude提供视频理解能力的工具，支持下载视频、提取帧、转录音频并传递给Claude进行分析。
@@ -12043,6 +12179,14 @@ Python交互式可视化库，广泛用于AI/ML数据可视化和模型结果展
 - **Stars:** ⭐️ 18.7k
 - **Tags:** `claude` `video-processing` `multimodal` `transcription`
 - **最后活动时间:** 2026-09-25
+
+### [magika](https://github.com/google/magika)
+
+基于深度学习的文件类型检测工具，利用AI快速准确地识别文件内容类型，支持ONNX和Keras模型。
+
+- **Stars:** ⭐️ 18.7k
+- **Tags:** `ai` `deep-learning` `filetype` `onnx` `mime-types`
+- **最后活动时间:** 2026-10-15
 
 ### [keploy](https://github.com/keploy/keploy)
 
@@ -12052,6 +12196,14 @@ Python交互式可视化库，广泛用于AI/ML数据可视化和模型结果展
 - **Tags:** `ai-testing-tool` `test-automation` `api-testing` `test-generation`
 - **最后活动时间:** 2026-10-18
 
+### [claude-quickstarts](https://github.com/anthropics/claude-quickstarts)
+
+Anthropic 官方提供的 Claude API 快速入门项目集合，帮助开发者快速构建可部署的 AI 应用。
+
+- **Stars:** ⭐️ 18.6k
+- **Tags:** `Claude` `API` `Quickstart` `Anthropic`
+- **最后活动时间:** 2026-10-08
+
 ### [json-render](https://github.com/vercel-labs/json-render)
 
 生成式 UI 框架，可通过 JSON 动态描述并渲染用户界面组件。适合构建由 LLM 驱动的动态界面应用。
@@ -12060,21 +12212,13 @@ Python交互式可视化库，广泛用于AI/ML数据可视化和模型结果展
 - **Tags:** `generative-ui` `llm` `json` `ui-framework`
 - **最后活动时间:** 2026-09-25
 
-### [claude-quickstarts](https://github.com/anthropics/claude-quickstarts)
-
-Anthropic 官方提供的 Claude API 快速入门项目集合，帮助开发者快速构建可部署的 AI 应用。
-
-- **Stars:** ⭐️ 18.3k
-- **Tags:** `Claude` `API` `Quickstart` `Anthropic`
-- **最后活动时间:** 2026-10-08
-
 ### [vision](https://github.com/pytorch/vision)
 
 PyTorch官方计算机视觉库，提供数据集、变换与预训练模型。
 
 - **Stars:** ⭐️ 18.0k
 - **Tags:** `computer-vision` `pytorch` `deep-learning` `models`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [opencodex](https://github.com/lidge-jun/opencodex)
 
@@ -12082,7 +12226,7 @@ PyTorch官方计算机视觉库，提供数据集、变换与预训练模型。
 
 - **Stars:** ⭐️ 17.6k
 - **Tags:** `ai-gateway` `llm-proxy` `openai` `claude` `developer-tools`
-- **最后活动时间:** 2026-10-18
+- **最后活动时间:** 2026-10-19
 
 ### [ipython](https://github.com/ipython/ipython)
 
@@ -12112,7 +12256,7 @@ Python 异步 HTTP 框架，是众多 AI 服务与模型接口的重要基础组
 
 在浏览器中直接运行Transformers模型的JavaScript库，无需服务器端支持。
 
-- **Stars:** ⭐️ 16.3k
+- **Stars:** ⭐️ 16.4k
 - **Tags:** `transformers` `javascript` `browser` `webml`
 - **最后活动时间:** 2026-10-15
 
@@ -12194,7 +12338,7 @@ Python科学计算核心库，提供优化、线性代数、信号处理等算�
 
 - **Stars:** ⭐️ 15.1k
 - **Tags:** `scientific-computing` `numerical` `algorithms`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [nltk](https://github.com/nltk/nltk)
 
@@ -12203,6 +12347,14 @@ Python科学计算核心库，提供优化、线性代数、信号处理等算�
 - **Stars:** ⭐️ 14.7k
 - **Tags:** `nlp` `natural-language-processing` `python`
 - **最后活动时间:** 2026-10-17
+
+### [bytebase](https://github.com/bytebase/bytebase)
+
+面向人类与 AI 智能体的数据库治理平台，统一管控主流数据库的变更、访问与安全。提供 SQL 审查、数据脱敏与 API/MCP 集成，让 AI 代理安全合规地操作数据库。
+
+- **Stars:** ⭐️ 14.6k
+- **Tags:** `Database` `DevSecOps` `AI-Agents` `Data-Governance` `SQL` `MCP`
+- **最后活动时间:** 2026-10-19
 
 ### [dlib](https://github.com/davisking/dlib)
 
@@ -12226,7 +12378,7 @@ Python科学计算核心库，提供优化、线性代数、信号处理等算�
 
 - **Stars:** ⭐️ 14.3k
 - **Tags:** `http-framework` `cpp` `async`
-- **最后活动时间:** 2026-10-12
+- **最后活动时间:** 2026-10-18
 
 ### [deeplearning4j](https://github.com/deeplearning4j/deeplearning4j)
 
@@ -12290,7 +12442,7 @@ Model Context Protocol官方TypeScript SDK，用于构建MCP服务器和客户�
 
 - **Stars:** ⭐️ 13.6k
 - **Tags:** `MCP` `SDK` `TypeScript`
-- **最后活动时间:** 2026-10-14
+- **最后活动时间:** 2026-10-18
 
 ### [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)
 
@@ -12356,13 +12508,13 @@ Java生态首选LLM开发框架，统一API对接主流模型，内置RAG、工�
 - **Tags:** `Explainable AI` `Computer Vision` `PyTorch` `Visualization`
 - **最后活动时间:** 2026-08-13
 
-### [Time-Series-Library](https://github.com/thuml/Time-Series-Library)
+### [electrobun](https://github.com/blackboardsh/electrobun)
 
-高级深度学习时间序列分析库，提供多种SOTA模型用于时间序列预测、分类和异常检测任务。
+追求极致体积与性能的跨平台桌面应用开发框架，支持 TypeScript、Zig、Rust、Go、Odin 等多语言，构建超快超小的桌面应用。
 
 - **Stars:** ⭐️ 12.9k
-- **Tags:** `Time Series` `Deep Learning` `Forecasting`
-- **最后活动时间:** 2026-04-18
+- **Tags:** `desktop-app` `typescript` `zig` `rust` `cross-platform`
+- **最后活动时间:** 2026-10-18
 
 ### [libfacedetection](https://github.com/ShiqiYu/libfacedetection)
 
@@ -12376,9 +12528,9 @@ Java生态首选LLM开发框架，统一API对接主流模型，内置RAG、工�
 
 一个用于构建产品集成的开源框架，支持快速接入各类API并利用AI能力增强集成体验。提供统一的OAuth和API客户端管理功能。
 
-- **Stars:** ⭐️ 12.7k
+- **Stars:** ⭐️ 12.8k
 - **Tags:** `api` `integrations` `oauth` `ai`
-- **最后活动时间:** 2026-10-16
+- **最后活动时间:** 2026-10-17
 
 ### [Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
 
@@ -12426,7 +12578,7 @@ Java生态首选LLM开发框架，统一API对接主流模型，内置RAG、工�
 
 - **Stars:** ⭐️ 12.2k
 - **Tags:** `nlp` `named-entity-recognition` `pos-tagging` `javascript`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [sentencepiece](https://github.com/google/sentencepiece)
 
@@ -12435,6 +12587,14 @@ Java生态首选LLM开发框架，统一API对接主流模型，内置RAG、工�
 - **Stars:** ⭐️ 12.1k
 - **Tags:** `tokenization` `nlp` `neural-machine-translation` `word-segmentation`
 - **最后活动时间:** 2026-10-17
+
+### [apify-mcp-server](https://github.com/apify/apify-mcp-server)
+
+Apify MCP服务器，为AI智能体提供数千个现成爬虫工具，支持社交媒体、电商等网站数据采集。
+
+- **Stars:** ⭐️ 11.9k
+- **Tags:** `MCP` `Web Scraping` `AI Agents`
+- **最后活动时间:** 2026-10-16
 
 ### [ludwig](https://github.com/ludwig-ai/ludwig)
 
@@ -12452,21 +12612,13 @@ PyTorch语义分割模型库，提供500+预训练的卷积和Transformer骨干�
 - **Tags:** `语义分割` `PyTorch` `预训练模型`
 - **最后活动时间:** 2026-10-14
 
-### [apify-mcp-server](https://github.com/apify/apify-mcp-server)
-
-Apify MCP服务器，为AI智能体提供数千个现成爬虫工具，支持社交媒体、电商等网站数据采集。
-
-- **Stars:** ⭐️ 11.8k
-- **Tags:** `MCP` `Web Scraping` `AI Agents`
-- **最后活动时间:** 2026-10-16
-
 ### [Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy)
 
 用于确定文件类型的程序，支持Windows、Linux和macOS。集成反汇编和静态分析功能，适合逆向工程。
 
 - **Stars:** ⭐️ 11.8k
 - **Tags:** `reverse-engineering` `binary-analysis` `security`
-- **最后活动时间:** 2026-10-15
+- **最后活动时间:** 2026-10-18
 
 ### [statsmodels](https://github.com/statsmodels/statsmodels)
 
@@ -12474,7 +12626,7 @@ Python统计建模和计量经济学库，提供回归模型、时间序列分�
 
 - **Stars:** ⭐️ 11.7k
 - **Tags:** `statistics` `econometrics` `regression` `python` `time-series`
-- **最后活动时间:** 2026-10-15
+- **最后活动时间:** 2026-10-18
 
 ### [rerun](https://github.com/rerun-io/rerun)
 
@@ -12506,7 +12658,7 @@ Python统计建模和计量经济学库，提供回归模型、时间序列分�
 
 - **Stars:** ⭐️ 11.3k
 - **Tags:** `dotnet` `csharp` `terminal` `tui`
-- **最后活动时间:** 2026-10-16
+- **最后活动时间:** 2026-10-18
 
 ### [LAVIS](https://github.com/salesforce/LAVIS)
 
@@ -12538,7 +12690,7 @@ React生成式UI SDK，快速构建AI驱动的动态界面和智能助手组件�
 
 - **Stars:** ⭐️ 11.2k
 - **Tags:** `Generative-UI` `React` `SDK`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [tokenizers](https://github.com/huggingface/tokenizers)
 
@@ -12546,7 +12698,7 @@ Hugging Face高性能分词器库，支持BPE、WordPiece等多种算法，Trans
 
 - **Stars:** ⭐️ 11.2k
 - **Tags:** `NLP` `Tokenization` `Transformers`
-- **最后活动时间:** 2026-10-15
+- **最后活动时间:** 2026-10-18
 
 ### [inspector](https://github.com/modelcontextprotocol/inspector)
 
@@ -12562,7 +12714,7 @@ MCP服务器的可视化测试工具，帮助开发者调试和验证AI模型上
 
 - **Stars:** ⭐️ 10.9k
 - **Tags:** `python` `compiler` `performance` `optimization`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [go-openai](https://github.com/sashabaranov/go-openai)
 
@@ -12602,7 +12754,7 @@ Facebook开发的实时数据可视化工具，专为PyTorch和NumPy设计，支
 
 - **Stars:** ⭐️ 10.3k
 - **Tags:** `visualization` `pytorch` `numpy` `deep-learning` `real-time`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [opencv_contrib](https://github.com/opencv/opencv_contrib)
 
@@ -12650,7 +12802,7 @@ UAParser.js 是一个轻量级且功能强大的用户代理解析库，支持�
 
 - **Stars:** ⭐️ 10.1k
 - **Tags:** `Time Series` `Machine Learning` `scikit-learn`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [pyod](https://github.com/yzhao062/pyod)
 
@@ -12756,12 +12908,28 @@ Go语言版本的LangChain框架，为Go开发者提供构建LLM应用的最简�
 - **Tags:** `react-native` `camera` `vision` `ai` `computer-vision`
 - **最后活动时间:** 2026-08-23
 
+### [darts](https://github.com/unit8co/darts)
+
+用户友好的时间序列预测与异常检测库，支持多种模型包括ARIMA、Prophet和深度学习方法。
+
+- **Stars:** ⭐️ 9.6k
+- **Tags:** `Time Series` `Forecasting` `Anomaly Detection`
+- **最后活动时间:** 2026-10-17
+
 ### [claude-code-action](https://github.com/anthropics/claude-code-action)
 
 Claude AI 驱动的 GitHub Action 工具，支持在 CI/CD 工作流中集成 Claude 代码助手能力。
 
 - **Stars:** ⭐️ 9.6k
 - **Tags:** `claude` `github-actions` `ai-assistant` `automation`
+- **最后活动时间:** 2026-10-16
+
+### [spring-ai](https://github.com/spring-projects/spring-ai)
+
+面向AI工程的应用框架，为Java开发者提供AI集成能力。简化企业级AI应用开发流程。
+
+- **Stars:** ⭐️ 9.6k
+- **Tags:** `java` `spring` `ai-framework`
 - **最后活动时间:** 2026-10-16
 
 ### [TextBlob](https://github.com/sloria/TextBlob)
@@ -12772,29 +12940,13 @@ Claude AI 驱动的 GitHub Action 工具，支持在 CI/CD 工作流中集成 Cl
 - **Tags:** `nlp` `sentiment-analysis` `text-processing` `python`
 - **最后活动时间:** 2026-10-13
 
-### [darts](https://github.com/unit8co/darts)
-
-用户友好的时间序列预测与异常检测库，支持多种模型包括ARIMA、Prophet和深度学习方法。
-
-- **Stars:** ⭐️ 9.6k
-- **Tags:** `Time Series` `Forecasting` `Anomaly Detection`
-- **最后活动时间:** 2026-10-17
-
-### [spring-ai](https://github.com/spring-projects/spring-ai)
-
-面向AI工程的应用框架，为Java开发者提供AI集成能力。简化企业级AI应用开发流程。
-
-- **Stars:** ⭐️ 9.6k
-- **Tags:** `java` `spring` `ai-framework`
-- **最后活动时间:** 2026-10-16
-
 ### [xgo](https://github.com/goplus/xgo)
 
 AI原生编程语言，语法类似英语，可无缝调用C/C++、Go、Python和JavaScript/TypeScript资源。
 
 - **Stars:** ⭐️ 9.5k
 - **Tags:** `ai-native` `programming-language` `data-science` `low-code`
-- **最后活动时间:** 2026-10-16
+- **最后活动时间:** 2026-10-18
 
 ### [tsfresh](https://github.com/blue-yonder/tsfresh)
 
@@ -12826,7 +12978,7 @@ ML.NET是微软开源的跨平台机器学习框架，支持.NET开发者构建�
 
 - **Stars:** ⭐️ 9.2k
 - **Tags:** `monitoring` `mcp` `mcp-server` `status-page` `uptime` `observability`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [mcp-go](https://github.com/mark3labs/mcp-go)
 
@@ -12892,14 +13044,6 @@ Python网络挖掘工具包，集成爬虫、NLP、机器学习与网络分析�
 - **Tags:** `code-analysis` `golang` `cli`
 - **最后活动时间:** 2026-10-14
 
-### [lean4](https://github.com/leanprover/lean4)
-
-强大的函数式编程语言与交互式定理证明器，深度融合了数学逻辑与编程。
-
-- **Stars:** ⭐️ 8.8k
-- **Tags:** `lean4` `theorem-prover` `functional-programming` `formal-verification`
-- **最后活动时间:** 2026-08-12
-
 ### [DLX](https://github.com/OwO-Network/DLX)
 
 自托管的 DeepL 翻译 API 服务器，让开发者轻松为应用接入 DeepL 的高质量 AI 神经机器翻译能力。非官方项目，与 DeepL SE 无关。
@@ -12907,6 +13051,14 @@ Python网络挖掘工具包，集成爬虫、NLP、机器学习与网络分析�
 - **Stars:** ⭐️ 8.8k
 - **Tags:** `translation` `deepl` `api` `self-hosted` `machine-translation`
 - **最后活动时间:** 2026-10-10
+
+### [lean4](https://github.com/leanprover/lean4)
+
+强大的函数式编程语言与交互式定理证明器，深度融合了数学逻辑与编程。
+
+- **Stars:** ⭐️ 8.8k
+- **Tags:** `lean4` `theorem-prover` `functional-programming` `formal-verification`
+- **最后活动时间:** 2026-08-12
 
 ### [BayesianOptimization](https://github.com/bayesian-optimization/BayesianOptimization)
 
@@ -12946,7 +13098,7 @@ Python网络挖掘工具包，集成爬虫、NLP、机器学习与网络分析�
 
 - **Stars:** ⭐️ 8.5k
 - **Tags:** `winui` `xaml` `uwp` `windows`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [git-mcp](https://github.com/idosal/git-mcp)
 
@@ -13026,7 +13178,7 @@ SwiftUI 标准库扩展，提供大量缺失的视图和功能。
 
 - **Stars:** ⭐️ 8.2k
 - **Tags:** `OCR` `ONNX` `深度学习`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [DeepCTR](https://github.com/shenweichen/DeepCTR)
 
@@ -13058,7 +13210,7 @@ PyTorch等框架的TensorBoard可视化支持库，方便训练过程监控。
 
 - **Stars:** ⭐️ 7.9k
 - **Tags:** `topic-modeling` `bert` `nlp` `transformers` `sentence-embeddings`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [grok2api](https://github.com/chenyme/grok2api)
 
@@ -13082,7 +13234,7 @@ PyTorch等框架的TensorBoard可视化支持库，方便训练过程监控。
 
 - **Stars:** ⭐️ 7.6k
 - **Tags:** `MCP` `Web Scraping` `LLM Tools`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-19
 
 ### [boa](https://github.com/boa-dev/boa)
 
@@ -13124,14 +13276,6 @@ Python地图可视化库，基于Leaflet.js，轻松创建交互式地图可视�
 - **Tags:** `data-visualization` `maps` `python` `leaflet` `geospatial`
 - **最后活动时间:** 2026-10-17
 
-### [miniaudio](https://github.com/mackron/miniaudio)
-
-单文件实现的 C 语言音频播放与录制库，跨平台支持丰富格式，公共领域授权。
-
-- **Stars:** ⭐️ 7.4k
-- **Tags:** `C` `Audio` `Playback` `Recording` `CrossPlatform`
-- **最后活动时间:** 2026-10-05
-
 ### [registry](https://github.com/modelcontextprotocol/registry)
 
 社区驱动的MCP服务器注册服务，方便发现和共享Model Context Protocol服务器。
@@ -13139,6 +13283,14 @@ Python地图可视化库，基于Leaflet.js，轻松创建交互式地图可视�
 - **Stars:** ⭐️ 7.4k
 - **Tags:** `MCP` `Registry` `Community`
 - **最后活动时间:** 2026-10-14
+
+### [miniaudio](https://github.com/mackron/miniaudio)
+
+单文件实现的 C 语言音频播放与录制库，跨平台支持丰富格式，公共领域授权。
+
+- **Stars:** ⭐️ 7.4k
+- **Tags:** `C` `Audio` `Playback` `Recording` `CrossPlatform`
+- **最后活动时间:** 2026-10-05
 
 ### [Guardrails](https://github.com/NVIDIA-NeMo/Guardrails)
 
@@ -13148,14 +13300,6 @@ NVIDIA开源的LLM安全护栏工具包，为对话系统添加可编程的安�
 - **Tags:** `LLM Safety` `Guardrails` `NVIDIA`
 - **最后活动时间:** 2026-10-15
 
-### [plugins](https://github.com/openai/plugins)
-
-OpenAI 官方插件仓库，提供 ChatGPT 插件的开发文档、示例与检索协议规范。帮助开发者快速构建并接入插件生态。
-
-- **Stars:** ⭐️ 7.2k
-- **Tags:** `openai` `chatgpt` `plugins` `api`
-- **最后活动时间:** 2026-09-28
-
 ### [watchexec](https://github.com/watchexec/watchexec)
 
 一款高效的命令行工具，能够监听文件修改并自动执行预设命令，极大提升开发效率。
@@ -13163,6 +13307,14 @@ OpenAI 官方插件仓库，提供 ChatGPT 插件的开发文档、示例与检�
 - **Stars:** ⭐️ 7.2k
 - **Tags:** `command-line` `developer-tools` `file-watchers` `rust`
 - **最后活动时间:** 2026-10-13
+
+### [plugins](https://github.com/openai/plugins)
+
+OpenAI 官方插件仓库，提供 ChatGPT 插件的开发文档、示例与检索协议规范。帮助开发者快速构建并接入插件生态。
+
+- **Stars:** ⭐️ 7.2k
+- **Tags:** `openai` `chatgpt` `plugins` `api`
+- **最后活动时间:** 2026-09-28
 
 ### [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn)
 
@@ -13208,9 +13360,9 @@ Google官方Firebase SDK for Apple平台开发，支持Gemini AI集成、认证�
 
 一键安装完整AI技能栈的命令行工具，快速部署智能体能力模块。
 
-- **Stars:** ⭐️ 6.9k
+- **Stars:** ⭐️ 7.0k
 - **Tags:** `ai-skills` `automation` `cli-tool`
-- **最后活动时间:** 2026-07-19
+- **最后活动时间:** 2026-10-18
 
 ### [synaptic](https://github.com/cazala/synaptic)
 
@@ -13226,7 +13378,7 @@ Google官方Firebase SDK for Apple平台开发，支持Gemini AI集成、认证�
 
 - **Stars:** ⭐️ 6.9k
 - **Tags:** `AI安全` `红队测试` `漏洞扫描`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [Surprise](https://github.com/NicolasHug/Surprise)
 
@@ -13260,13 +13412,21 @@ AI应用安全防护工具，保护应用免受提示注入、数据泄露和有
 - **Tags:** `http-client` `web-scraping` `tls-fingerprint` `ja3` `python`
 - **最后活动时间:** 2026-10-09
 
+### [golden-layout](https://github.com/golden-layout/golden-layout)
+
+为Web应用提供多窗口/面板拖拽布局管理的成熟方案，适合构建IDE式界面。
+
+- **Stars:** ⭐️ 6.7k
+- **Tags:** `javascript` `layout` `ui-components` `drag-and-drop`
+- **最后活动时间:** 2026-09-12
+
 ### [pig](https://github.com/pig-mesh/pig)
 
 基于Spring Cloud和Spring Boot的RBAC权限管理系统，集成Spring AI和OpenAI支持，提供完整的微服务架构解决方案。
 
 - **Stars:** ⭐️ 6.7k
 - **Tags:** `spring-ai` `openai` `oauth2` `rbac` `spring-boot`
-- **最后活动时间:** 2026-09-20
+- **最后活动时间:** 2026-10-12
 
 ### [chatgpt2api](https://github.com/basketikun/chatgpt2api)
 
@@ -13348,6 +13508,14 @@ Jupyter笔记本参数化执行工具，支持批量运行和分析notebook，�
 - **Tags:** `机器学习` `数据科学` `Java`
 - **最后活动时间:** 2026-10-18
 
+### [Detours](https://github.com/microsoft/Detours)
+
+微软官方出品的Windows API拦截与注入库，广泛用于监控、调试与函数挂钩。
+
+- **Stars:** ⭐️ 6.4k
+- **Tags:** `api-hooking` `windows` `microsoft` `instrumentation`
+- **最后活动时间:** 2026-10-14
+
 ### [doctr](https://github.com/mindee/doctr)
 
 基于深度学习的高性能文档文本识别库，支持PyTorch和TensorFlow2。
@@ -13386,7 +13554,7 @@ Python嵌入式凸优化建模语言，广泛用于机器学习模型训练中�
 
 - **Stars:** ⭐️ 6.3k
 - **Tags:** `实验追踪` `MLOps` `可视化` `Prompt工程`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [adversarial-robustness-toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox)
 
@@ -13412,13 +13580,13 @@ IBM开源的机器学习安全库，提供对抗攻击防御工具，支持逃�
 - **Tags:** `code-search` `embeddings` `mcp` `agents` `retrieval`
 - **最后活动时间:** 2026-10-16
 
-### [skorch](https://github.com/skorch-dev/skorch)
+### [winit](https://github.com/rust-windowing/winit)
 
-将PyTorch神经网络封装为scikit-learn兼容接口的库，支持sklearn的pipeline和网格搜索功能。
+纯Rust编写的跨平台窗口管理库，是wgpu、Bevy等Rust图形生态的基石。
 
 - **Stars:** ⭐️ 6.2k
-- **Tags:** `pytorch` `scikit-learn` `neural-network`
-- **最后活动时间:** 2026-09-22
+- **Tags:** `rust` `gui` `windowing` `cross-platform`
+- **最后活动时间:** 2026-10-16
 
 ### [destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard)
 
@@ -13428,6 +13596,14 @@ IBM开源的机器学习安全库，提供对抗攻击防御工具，支持逃�
 - **Tags:** `ai-agents` `cli` `developer-tools` `git` `rust` `safety`
 - **最后活动时间:** 2026-10-18
 
+### [skorch](https://github.com/skorch-dev/skorch)
+
+将PyTorch神经网络封装为scikit-learn兼容接口的库，支持sklearn的pipeline和网格搜索功能。
+
+- **Stars:** ⭐️ 6.2k
+- **Tags:** `pytorch` `scikit-learn` `neural-network`
+- **最后活动时间:** 2026-09-22
+
 ### [skills](https://github.com/browser-act/skills)
 
 为AI代理提供网页浏览、抓取和结构化数据提取能力，实现更快执行、更低成本和更可靠结果。
@@ -13435,6 +13611,14 @@ IBM开源的机器学习安全库，提供对抗攻击防御工具，支持逃�
 - **Stars:** ⭐️ 6.2k
 - **Tags:** `claude-code-skills` `web-scraping` `data-extraction` `ai-agents` `automation`
 - **最后活动时间:** 2026-08-24
+
+### [HP-Socket](https://github.com/ldcsaa/HP-Socket)
+
+成熟的高性能TCP/UDP/HTTP网络通信组件库，支持Windows IOCP与Linux Epoll。
+
+- **Stars:** ⭐️ 6.2k
+- **Tags:** `network` `tcp` `udp` `high-performance` `cpp`
+- **最后活动时间:** 2026-08-31
 
 ### [tsai](https://github.com/timeseriesAI/tsai)
 
@@ -13452,13 +13636,29 @@ Python在线机器学习库，支持增量学习和实时数据处理，适用�
 - **Tags:** `machine-learning` `online-learning` `python` `streaming`
 - **最后活动时间:** 2026-10-16
 
+### [pywebview](https://github.com/r0x0r/pywebview)
+
+用HTML/JS/CSS为Python程序构建原生GUI的轻量方案，跨平台且依赖极少。
+
+- **Stars:** ⭐️ 6.1k
+- **Tags:** `python` `gui` `webview` `cross-platform`
+- **最后活动时间:** 2026-10-16
+
 ### [OpenCvSharp](https://github.com/shimat/opencvsharp)
 
 .NET平台下功能强大的OpenCV封装库，支持计算机视觉、图像处理和机器学习任务，提供跨平台的原生绑定。
 
 - **Stars:** ⭐️ 6.1k
 - **Tags:** `Computer Vision` `Image Processing` `Machine Learning` `.NET`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
+
+### [minhook](https://github.com/TsudaKageyu/minhook)
+
+轻量高效的x86/x64 API挂钩库，是Windows下函数拦截的经典选择。
+
+- **Stars:** ⭐️ 6.0k
+- **Tags:** `api-hooking` `cpp` `windows` `library`
+- **最后活动时间:** 2026-09-07
 
 ### [stdlib](https://github.com/stdlib-js/stdlib)
 
@@ -13506,7 +13706,7 @@ JavaScript和TypeScript的基础数值计算库，提供数学、统计和科学
 
 - **Stars:** ⭐️ 5.9k
 - **Tags:** `telegram-bot` `python` `asyncio` `bot-framework`
-- **最后活动时间:** 2026-10-11
+- **最后活动时间:** 2026-10-18
 
 ### [agentops](https://github.com/AgentOps-AI/agentops)
 
@@ -13520,7 +13720,7 @@ AI智能体监控Python SDK，提供LLM成本追踪、基准测试等功能，�
 
 为应用提供开箱即用的 FFmpeg 多媒体处理套件，支持 Android、iOS、Flutter、React Native 等多平台，是音视频处理的必备基础库。
 
-- **Stars:** ⭐️ 5.8k
+- **Stars:** ⭐️ 5.9k
 - **Tags:** `ffmpeg` `android` `ios` `flutter` `react-native`
 - **最后活动时间:** 2026-07-02
 
@@ -13530,7 +13730,7 @@ AI智能体监控Python SDK，提供LLM成本追踪、基准测试等功能，�
 
 - **Stars:** ⭐️ 5.8k
 - **Tags:** `python` `rust` `pyo3` `packaging` `cffi`
-- **最后活动时间:** 2026-10-16
+- **最后活动时间:** 2026-10-18
 
 ### [openai-php](https://github.com/openai-php/client)
 
@@ -13580,14 +13780,6 @@ Google开源AI应用框架，支持多语言，内置RAG、智能体和多模态
 - **Tags:** `machine-learning` `deep-learning` `c-plus-plus` `ml-library`
 - **最后活动时间:** 2026-10-15
 
-### [streamdown](https://github.com/vercel/streamdown)
-
-专为AI流式输出设计的React Markdown渲染器，可替代react-markdown。
-
-- **Stars:** ⭐️ 5.7k
-- **Tags:** `react` `markdown` `streaming` `ai-streaming`
-- **最后活动时间:** 2026-10-16
-
 ### [tokscale](https://github.com/junhoyeo/tokscale)
 
 CLI工具追踪多款AI编程助手的Token使用量，支持全球排行榜与可视化图表展示。
@@ -13595,6 +13787,14 @@ CLI工具追踪多款AI编程助手的Token使用量，支持全球排行榜与�
 - **Stars:** ⭐️ 5.7k
 - **Tags:** `Token Usage` `CLI` `AI Tools`
 - **最后活动时间:** 2026-10-18
+
+### [streamdown](https://github.com/vercel/streamdown)
+
+专为AI流式输出设计的React Markdown渲染器，可替代react-markdown。
+
+- **Stars:** ⭐️ 5.7k
+- **Tags:** `react` `markdown` `streaming` `ai-streaming`
+- **最后活动时间:** 2026-10-16
 
 ### [captum](https://github.com/meta-pytorch/captum)
 
@@ -13611,6 +13811,14 @@ PyTorch官方模型可解释性工具，支持特征归因和模型理解。
 - **Stars:** ⭐️ 5.7k
 - **Tags:** `python` `rust` `http-server` `asgi` `wsgi`
 - **最后活动时间:** 2026-10-07
+
+### [pterm](https://github.com/pterm/pterm)
+
+现代化的 Go 终端美化库，开箱即用地提供进度条、图表、表格、交互菜单等组件，完全跨平台。
+
+- **Stars:** ⭐️ 5.6k
+- **Tags:** `golang` `library` `tui` `progressbar` `console`
+- **最后活动时间:** 2026-10-12
 
 ### [sahi](https://github.com/obss/sahi)
 
@@ -13636,14 +13844,6 @@ NotebookLM 的命令行接口工具，支持 MCP (Model Context Protocol) 协议
 - **Tags:** `notebooklm` `mcp` `cli` `google-ai`
 - **最后活动时间:** 2026-07-17
 
-### [hey-api](https://github.com/hey-api/hey-api)
-
-将API规范快速转化为生产就绪的SDK、验证器和模拟数据。支持20多种插件，被多家知名企业广泛使用。
-
-- **Stars:** ⭐️ 5.5k
-- **Tags:** `api-client` `code-generation` `openapi` `sdk` `typescript`
-- **最后活动时间:** 2026-09-30
-
 ### [tch-rs](https://github.com/LaurentMazare/tch-rs)
 
 PyTorch C++ API的Rust绑定，支持在Rust中进行深度学习开发。
@@ -13651,6 +13851,14 @@ PyTorch C++ API的Rust绑定，支持在Rust中进行深度学习开发。
 - **Stars:** ⭐️ 5.5k
 - **Tags:** `rust` `pytorch` `deep-learning` `bindings` `neural-network`
 - **最后活动时间:** 2026-08-23
+
+### [hey-api](https://github.com/hey-api/hey-api)
+
+将API规范快速转化为生产就绪的SDK、验证器和模拟数据。支持20多种插件，被多家知名企业广泛使用。
+
+- **Stars:** ⭐️ 5.5k
+- **Tags:** `api-client` `code-generation` `openapi` `sdk` `typescript`
+- **最后活动时间:** 2026-09-30
 
 ### [Edit-Banana](https://github.com/BIT-DataLab/Edit-Banana)
 
@@ -13690,7 +13898,7 @@ Julia语言的响应式交互笔记本，适用于科学计算和机器学习研
 
 - **Stars:** ⭐️ 5.4k
 - **Tags:** `julia` `notebook` `reactive` `data-science`
-- **最后活动时间:** 2026-09-26
+- **最后活动时间:** 2026-10-12
 
 ### [python-pinyin](https://github.com/mozillazg/python-pinyin)
 
@@ -13698,7 +13906,7 @@ Julia语言的响应式交互笔记本，适用于科学计算和机器学习研
 
 - **Stars:** ⭐️ 5.4k
 - **Tags:** `Pinyin` `Python` `NLP`
-- **最后活动时间:** 2026-07-20
+- **最后活动时间:** 2026-10-18
 
 ### [lightning-hydra-template](https://github.com/ashleve/lightning-hydra-template)
 
@@ -13756,6 +13964,22 @@ Model Context Protocol (MCP) 的官方 Go SDK，由 Google 协作维护。为构
 - **Tags:** `MCP` `Go` `SDK` `Google`
 - **最后活动时间:** 2026-10-16
 
+### [google-ads-meta-ads-mcp](https://github.com/irinabuht12-oss/google-ads-meta-ads-mcp)
+
+一站式托管远程MCP服务，将Google Ads、Meta Ads、GA4与Search Console的250+工具接入Claude、ChatGPT、Cursor与n8n，支持OAuth登录且免API密钥。
+
+- **Stars:** ⭐️ 5.2k
+- **Tags:** `MCP` `MCP-Server` `Google-Ads` `Meta-Ads` `GA4` `Claude` `n8n`
+- **最后活动时间:** 2026-10-12
+
+### [tcell](https://github.com/gdamore/tcell)
+
+Go 语言终端处理库，termbox 的增强替代方案，提供更丰富的单元格样式与跨平台输入支持。
+
+- **Stars:** ⭐️ 5.2k
+- **Tags:** `golang` `tui` `terminal` `library`
+- **最后活动时间:** 2026-10-17
+
 ### [dtale](https://github.com/man-group/dtale)
 
 Pandas数据结构可视化工具，提供交互式GUI界面用于数据分析和探索，支持Jupyter Notebook集成。
@@ -13778,7 +14002,7 @@ NVIDIA开源的3D深度学习PyTorch加速库，支持可微渲染、高斯泼�
 
 - **Stars:** ⭐️ 5.2k
 - **Tags:** `3D Deep Learning` `PyTorch` `NVIDIA`
-- **最后活动时间:** 2026-10-13
+- **最后活动时间:** 2026-10-18
 
 ### [mlxtend](https://github.com/rasbt/mlxtend)
 
@@ -13787,14 +14011,6 @@ Python机器学习扩展库，提供特征选择、模型评估、关联规则�
 - **Stars:** ⭐️ 5.2k
 - **Tags:** `machine-learning` `python` `data-science`
 - **最后活动时间:** 2026-10-09
-
-### [google-ads-meta-ads-mcp](https://github.com/irinabuht12-oss/google-ads-meta-ads-mcp)
-
-一站式托管远程MCP服务，将Google Ads、Meta Ads、GA4与Search Console的250+工具接入Claude、ChatGPT、Cursor与n8n，支持OAuth登录且免API密钥。
-
-- **Stars:** ⭐️ 5.2k
-- **Tags:** `MCP` `MCP-Server` `Google-Ads` `Meta-Ads` `GA4` `Claude` `n8n`
-- **最后活动时间:** 2026-10-12
 
 ### [json_repair](https://github.com/mangiucugna/json_repair)
 
@@ -13818,7 +14034,7 @@ Google开源的量子计算框架，用于创建、编辑和运行量子电路�
 
 - **Stars:** ⭐️ 5.1k
 - **Tags:** `mqtt` `iot` `cross-platform` `electron`
-- **最后活动时间:** 2026-10-16
+- **最后活动时间:** 2026-10-18
 
 ### [mcporter](https://github.com/openclaw/mcporter)
 
@@ -13828,21 +14044,21 @@ TypeScript MCP调用工具，可将MCP服务封装为简洁的TypeScript API或�
 - **Tags:** `mcp` `typescript` `cli` `api-wrapper`
 - **最后活动时间:** 2026-10-17
 
+### [shaders](https://github.com/shader-effects-inc/shaders)
+
+基于 WebGPU 标准的现代着色器组件库，为 React、Vue、Svelte、Solid 等框架提供开箱即用的炫酷视觉效果。内置 MCP 支持，可让 AI 编程助手直接集成和调用这些着色器组件。
+
+- **Stars:** ⭐️ 5.1k
+- **Tags:** `WebGPU` `Shaders` `MCP` `React` `Vue` `Svelte`
+- **最后活动时间:** 2026-10-09
+
 ### [MaaFramework](https://github.com/MaaXYZ/MaaFramework)
 
 基于图像识别的自动化黑盒测试框架，利用计算机视觉技术实现智能化的UI自动化测试。
 
 - **Stars:** ⭐️ 5.0k
 - **Tags:** `computer-vision` `automation` `testing-framework`
-- **最后活动时间:** 2026-10-16
-
-### [shaders](https://github.com/shader-effects-inc/shaders)
-
-基于 WebGPU 标准的现代着色器组件库，为 React、Vue、Svelte、Solid 等框架提供开箱即用的炫酷视觉效果。内置 MCP 支持，可让 AI 编程助手直接集成和调用这些着色器组件。
-
-- **Stars:** ⭐️ 5.0k
-- **Tags:** `WebGPU` `Shaders` `MCP` `React` `Vue` `Svelte`
-- **最后活动时间:** 2026-10-09
+- **最后活动时间:** 2026-10-18
 
 ### [pytorch-forecasting](https://github.com/sktime/pytorch-forecasting)
 
@@ -13866,7 +14082,7 @@ TypeScript MCP调用工具，可将MCP服务封装为简洁的TypeScript API或�
 
 - **Stars:** ⭐️ 5.0k
 - **Tags:** `mock-server` `testing` `ai` `llm` `proxy`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [embedding-atlas](https://github.com/apple/embedding-atlas)
 
@@ -13875,6 +14091,14 @@ TypeScript MCP调用工具，可将MCP服务封装为简洁的TypeScript API或�
 - **Stars:** ⭐️ 5.0k
 - **Tags:** `embedding` `visualization` `machine-learning`
 - **最后活动时间:** 2026-10-15
+
+### [ModernWpf](https://github.com/Kinnara/ModernWpf)
+
+为WPF应用带来Fluent Design现代样式与控件的开源类库，让桌面应用轻松焕新。
+
+- **Stars:** ⭐️ 5.0k
+- **Tags:** `wpf` `dotnet` `fluent-design` `ui`
+- **最后活动时间:** 2026-10-12
 
 ### [all-api-hub](https://github.com/qixing-jk/all-api-hub)
 
@@ -13922,7 +14146,7 @@ TypeScript MCP调用工具，可将MCP服务封装为简洁的TypeScript API或�
 
 - **Stars:** ⭐️ 4.8k
 - **Tags:** `ai-agents` `cli` `cli-generator` `developer-tools` `golang` `openapi`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [x](https://github.com/ant-design/x)
 
@@ -13931,6 +14155,14 @@ TypeScript MCP调用工具，可将MCP服务封装为简洁的TypeScript API或�
 - **Stars:** ⭐️ 4.8k
 - **Tags:** `ai-interface` `chat-ui` `copilot` `react`
 - **最后活动时间:** 2026-10-12
+
+### [varlock](https://github.com/dmno-dev/varlock)
+
+AI安全的.env文件管理工具，为智能体提供Schema，为人类保护密钥。
+
+- **Stars:** ⭐️ 4.8k
+- **Tags:** `configuration` `security` `env` `validation` `ai-safety`
+- **最后活动时间:** 2026-10-16
 
 ### [formkit](https://github.com/formkit/formkit)
 
@@ -13970,15 +14202,7 @@ Julia语言深度学习库，提供灵活直观的神经网络构建能力。
 
 - **Stars:** ⭐️ 4.8k
 - **Tags:** `deep-learning` `machine-learning` `julia` `neural-networks`
-- **最后活动时间:** 2026-10-17
-
-### [varlock](https://github.com/dmno-dev/varlock)
-
-AI安全的.env文件管理工具，为智能体提供Schema，为人类保护密钥。
-
-- **Stars:** ⭐️ 4.8k
-- **Tags:** `configuration` `security` `env` `validation` `ai-safety`
-- **最后活动时间:** 2026-10-16
+- **最后活动时间:** 2026-10-18
 
 ### [notcurses](https://github.com/dankamongmen/notcurses)
 
@@ -14010,7 +14234,7 @@ DeepMind的物理仿真与强化学习环境软件栈，基于MuJoCo构建。为
 
 - **Stars:** ⭐️ 4.7k
 - **Tags:** `Reinforcement Learning` `Simulation` `MuJoCo` `DeepMind`
-- **最后活动时间:** 2026-10-14
+- **最后活动时间:** 2026-10-18
 
 ### [WindowsAppSDK](https://github.com/microsoft/WindowsAppSDK)
 
@@ -14036,14 +14260,6 @@ Jupyter项目、库和资源精选列表，数据科学和机器学习开发必�
 - **Tags:** `ai-security` `red-team` `generative-ai` `llm-security`
 - **最后活动时间:** 2026-10-18
 
-### [prest](https://github.com/prest/prest)
-
-一个基于 PostgreSQL 的低代码 REST API 和 MCP 服务器，能简化和加速数据库应用开发。
-
-- **Stars:** ⭐️ 4.6k
-- **Tags:** `ai` `mcp-server` `rest-api` `postgresql` `low-code`
-- **最后活动时间:** 2026-10-16
-
 ### [mcp](https://github.com/google/mcp)
 
 Google 官方 MCP 协议支持库，提供 Model Context Protocol 的集成能力。
@@ -14051,6 +14267,14 @@ Google 官方 MCP 协议支持库，提供 Model Context Protocol 的集成能�
 - **Stars:** ⭐️ 4.6k
 - **Tags:** `mcp` `google` `model-context-protocol` `sdk`
 - **最后活动时间:** 2026-08-17
+
+### [prest](https://github.com/prest/prest)
+
+一个基于 PostgreSQL 的低代码 REST API 和 MCP 服务器，能简化和加速数据库应用开发。
+
+- **Stars:** ⭐️ 4.6k
+- **Tags:** `ai` `mcp-server` `rest-api` `postgresql` `low-code`
+- **最后活动时间:** 2026-10-19
 
 ### [csharp-sdk](https://github.com/modelcontextprotocol/csharp-sdk)
 
@@ -14106,7 +14330,7 @@ Supabase官方JavaScript客户端，支持PostgreSQL数据库操作、实时订�
 
 - **Stars:** ⭐️ 4.5k
 - **Tags:** `protocol` `editor-integration` `agent-communication`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [probability](https://github.com/tensorflow/probability)
 
@@ -14130,7 +14354,7 @@ TensorFlow概率编程库，支持贝叶斯推理和统计分析。
 
 - **Stars:** ⭐️ 4.4k
 - **Tags:** `visualization` `python` `scientific-computing` `real-time`
-- **最后活动时间:** 2026-10-13
+- **最后活动时间:** 2026-10-18
 
 ### [onnxsim](https://github.com/onnxsim/onnxsim)
 
@@ -14138,7 +14362,7 @@ ONNX模型简化工具，帮助优化和精简深度学习模型结构。
 
 - **Stars:** ⭐️ 4.4k
 - **Tags:** `deep-learning` `onnx` `model-optimization` `pytorch`
-- **最后活动时间:** 2026-10-16
+- **最后活动时间:** 2026-10-18
 
 ### [mcp-server-chart](https://github.com/antvis/mcp-server-chart)
 
@@ -14220,13 +14444,13 @@ TypeScript MCP封装库，将MCP服务调用简化为普通API或打包为CLI工
 - **Tags:** `Python` `WASM` `Data Apps` `LLM`
 - **最后活动时间:** 2026-06-11
 
-### [KeyBERT](https://github.com/MaartenGr/KeyBERT)
+### [crossterm](https://github.com/crossterm-rs/crossterm)
 
-基于BERT的轻量级关键词提取工具，使用最小化方法实现高质量关键词抽取。
+Rust 跨平台终端操作库，提供颜色、光标、输入事件等底层能力，是众多 TUI 应用的基石。
 
 - **Stars:** ⭐️ 4.2k
-- **Tags:** `keyword-extraction` `bert` `nlp`
-- **最后活动时间:** 2026-08-25
+- **Tags:** `rust` `terminal` `tui` `cross-platform`
+- **最后活动时间:** 2026-10-16
 
 ### [AdalFlow](https://github.com/SylphAI-Inc/AdalFlow)
 
@@ -14236,13 +14460,21 @@ TypeScript MCP封装库，将MCP服务调用简化为普通API或打包为CLI工
 - **Tags:** `Framework` `Auto-Prompting` `RAG`
 - **最后活动时间:** 2026-05-29
 
+### [KeyBERT](https://github.com/MaartenGr/KeyBERT)
+
+基于BERT的轻量级关键词提取工具，使用最小化方法实现高质量关键词抽取。
+
+- **Stars:** ⭐️ 4.2k
+- **Tags:** `keyword-extraction` `bert` `nlp`
+- **最后活动时间:** 2026-08-25
+
 ### [torchgeo](https://github.com/torchgeo/torchgeo)
 
 地理空间数据深度学习工具箱，提供数据集、预训练模型和专用变换器。
 
 - **Stars:** ⭐️ 4.2k
 - **Tags:** `geospatial` `deep-learning` `pytorch` `remote-sensing` `satellite-imagery`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [PyChatGPT](https://github.com/rawandahmad698/PyChatGPT)
 
@@ -14284,6 +14516,14 @@ Square 出品的 Keychain 存储库，让 iOS/tvOS/watchOS/macOS 应用无需了
 - **Tags:** `NLP` `Spark` `BERT` `LLM`
 - **最后活动时间:** 2026-10-14
 
+### [malwoverview](https://github.com/alexandreborges/malwoverview)
+
+威胁狩猎工具，集成多个安全平台，支持LLM增强分析、IOC提取和YARA扫描。
+
+- **Stars:** ⭐️ 4.1k
+- **Tags:** `Security` `Threat Hunting` `LLM Enrichment`
+- **最后活动时间:** 2026-09-22
+
 ### [gigatoken](https://github.com/marcelroed/gigatoken)
 
 一个以 GB/s 级别速度处理大语言模型分词的高性能工具。专为极致性能设计，大幅提升 NLP 处理的效率。
@@ -14300,14 +14540,6 @@ Square 出品的 Keychain 存储库，让 iOS/tvOS/watchOS/macOS 应用无需了
 - **Tags:** `named-entity-recognition` `nlp` `information-extraction` `large-language-models`
 - **最后活动时间:** 2026-10-05
 
-### [malwoverview](https://github.com/alexandreborges/malwoverview)
-
-威胁狩猎工具，集成多个安全平台，支持LLM增强分析、IOC提取和YARA扫描。
-
-- **Stars:** ⭐️ 4.1k
-- **Tags:** `Security` `Threat Hunting` `LLM Enrichment`
-- **最后活动时间:** 2026-09-22
-
 ### [geemap](https://github.com/gee-community/geemap)
 
 基于Google Earth Engine的Python交互式地理空间分析与可视化工具包，支持Jupyter和Streamlit。
@@ -14322,7 +14554,7 @@ Google官方Gen AI Python SDK，帮助开发者快速集成Google生成式AI模�
 
 - **Stars:** ⭐️ 4.0k
 - **Tags:** `Google` `GenAI` `SDK`
-- **最后活动时间:** 2026-10-16
+- **最后活动时间:** 2026-10-18
 
 ### [rust-sdk](https://github.com/modelcontextprotocol/rust-sdk)
 
@@ -14330,7 +14562,7 @@ Model Context Protocol (MCP) 的官方 Rust SDK，用于构建 AI 智能体与�
 
 - **Stars:** ⭐️ 4.0k
 - **Tags:** `mcp` `rust` `sdk` `llm` `agent`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [vector-quantize-pytorch](https://github.com/lucidrains/vector-quantize-pytorch)
 
@@ -14339,6 +14571,14 @@ PyTorch向量量化和标量量化实现，用于深度学习模型压缩和离�
 - **Stars:** ⭐️ 4.0k
 - **Tags:** `vector-quantization` `pytorch` `deep-learning` `compression`
 - **最后活动时间:** 2026-09-24
+
+### [laravel-zero](https://github.com/laravel-zero/laravel-zero)
+
+面向控制台应用的 PHP 微框架，基于 Laravel 组件快速构建独立 CLI 工具与守护进程。
+
+- **Stars:** ⭐️ 4.0k
+- **Tags:** `php` `cli` `framework` `laravel`
+- **最后活动时间:** 2026-10-14
 
 ### [vfox](https://github.com/version-fox/vfox)
 
@@ -14378,7 +14618,7 @@ C++实现的Python NumPy库，为AI/ML数值计算提供高效的科学计算工
 
 - **Stars:** ⭐️ 4.0k
 - **Tags:** `numpy` `scientific-computing` `numerical-analysis` `cpp`
-- **最后活动时间:** 2026-09-28
+- **最后活动时间:** 2026-10-02
 
 ### [neuraloperator](https://github.com/neuraloperator/neuraloperator)
 
@@ -14386,6 +14626,14 @@ C++实现的Python NumPy库，为AI/ML数值计算提供高效的科学计算工
 
 - **Stars:** ⭐️ 4.0k
 - **Tags:** `neural-operator` `fourier-neural-operator` `pde` `pytorch`
+- **最后活动时间:** 2026-10-17
+
+### [trackers](https://github.com/roboflow/trackers)
+
+多目标跟踪算法的模块化重实现库，包含SORT、ByteTrack、OC-SORT等主流算法，Apache 2.0许可。
+
+- **Stars:** ⭐️ 4.0k
+- **Tags:** `multi-object-tracking` `bytetrack` `sort` `computer-vision`
 - **最后活动时间:** 2026-10-17
 
 ### [codex-router](https://github.com/duolahypercho/codex-router)
@@ -14402,15 +14650,7 @@ Codex外部模型路由器，支持Kimi OAuth/API、DeepSeek等多种模型接�
 
 - **Stars:** ⭐️ 3.9k
 - **Tags:** `gaussian-processes` `pytorch` `gpu-acceleration`
-- **最后活动时间:** 2026-07-10
-
-### [trackers](https://github.com/roboflow/trackers)
-
-多目标跟踪算法的模块化重实现库，包含SORT、ByteTrack、OC-SORT等主流算法，Apache 2.0许可。
-
-- **Stars:** ⭐️ 3.9k
-- **Tags:** `multi-object-tracking` `bytetrack` `sort` `computer-vision`
-- **最后活动时间:** 2026-09-28
+- **最后活动时间:** 2026-10-02
 
 ### [pyvista](https://github.com/pyvista/pyvista)
 
@@ -14442,7 +14682,7 @@ Codex外部模型路由器，支持Kimi OAuth/API、DeepSeek等多种模型接�
 
 - **Stars:** ⭐️ 3.8k
 - **Tags:** `openapi` `sdk-generator` `docs-generator` `api`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [LLamaSharp](https://github.com/SciSharp/LLamaSharp)
 
@@ -14452,6 +14692,14 @@ Codex外部模型路由器，支持Kimi OAuth/API、DeepSeek等多种模型接�
 - **Tags:** `LLM` `.NET` `本地部署`
 - **最后活动时间:** 2026-10-17
 
+### [PWABuilder](https://github.com/pwa-builder/PWABuilder)
+
+微软官方的PWA一站式构建工具，可快速将网页应用打包发布到各大应用商店。
+
+- **Stars:** ⭐️ 3.8k
+- **Tags:** `pwa` `web` `microsoft` `cross-platform`
+- **最后活动时间:** 2026-10-16
+
 ### [leafmap](https://github.com/opengeos/leafmap)
 
 Python交互式地图与地理空间分析工具，支持Jupyter环境下的可视化。
@@ -14460,14 +14708,6 @@ Python交互式地图与地理空间分析工具，支持Jupyter环境下的可�
 - **Tags:** `geospatial` `gis` `jupyter` `python`
 - **最后活动时间:** 2026-10-14
 
-### [arrow-js](https://github.com/standardagents/arrow-js)
-
-专为AI智能体时代设计的UI框架，轻量高性能，支持WASM沙箱安全执行代码。
-
-- **Stars:** ⭐️ 3.8k
-- **Tags:** `ui-framework` `wasm` `agent` `reactive`
-- **最后活动时间:** 2026-07-01
-
 ### [thinking-orbs](https://github.com/Jakubantalik/thinking-orbs)
 
 专为 AI 与 Agent UI 设计的虚线思维球加载指示器。提供六种调优状态和两种尺寸，并自动适配暗黑/明亮模式。
@@ -14475,6 +14715,14 @@ Python交互式地图与地理空间分析工具，支持Jupyter环境下的可�
 - **Stars:** ⭐️ 3.8k
 - **Tags:** `ai-ui` `loading-indicator` `react` `components`
 - **最后活动时间:** 2026-08-16
+
+### [arrow-js](https://github.com/standardagents/arrow-js)
+
+专为AI智能体时代设计的UI框架，轻量高性能，支持WASM沙箱安全执行代码。
+
+- **Stars:** ⭐️ 3.8k
+- **Tags:** `ui-framework` `wasm` `agent` `reactive`
+- **最后活动时间:** 2026-07-01
 
 ### [tablesaw](https://github.com/jtablesaw/tablesaw)
 
@@ -14532,20 +14780,20 @@ Model Context Protocol的官方Java SDK，用于构建MCP服务器和客户端�
 - **Tags:** `cli` `dingtalk` `ai-agents` `enterprise`
 - **最后活动时间:** 2026-10-16
 
-### [sumy](https://github.com/miso-belica/sumy)
-
-自动文本摘要Python模块，支持LSA、TextRank等多种算法。
-
-- **Stars:** ⭐️ 3.7k
-- **Tags:** `summarization` `nlp` `text-extraction` `python`
-- **最后活动时间:** 2026-10-11
-
 ### [dembrandt](https://github.com/dembrandt/dembrandt)
 
 一键提取网站设计系统并转换为设计令牌，支持MCP协议集成AI助手工作流，涵盖Logo、颜色、字体等元素。
 
 - **Stars:** ⭐️ 3.7k
 - **Tags:** `design-tokens` `mcp` `design-systems` `playwright`
+- **最后活动时间:** 2026-10-11
+
+### [sumy](https://github.com/miso-belica/sumy)
+
+自动文本摘要Python模块，支持LSA、TextRank等多种算法。
+
+- **Stars:** ⭐️ 3.7k
+- **Tags:** `summarization` `nlp` `text-extraction` `python`
 - **最后活动时间:** 2026-10-11
 
 ### [bqplot](https://github.com/bqplot/bqplot)
@@ -14556,6 +14804,14 @@ Model Context Protocol的官方Java SDK，用于构建MCP服务器和客户端�
 - **Tags:** `ipython` `jupyter` `visualization` `plotting`
 - **最后活动时间:** 2026-10-09
 
+### [command-line-api](https://github.com/dotnet/command-line-api)
+
+.NET 官方的命令行解析、调用与终端输出渲染库，是构建专业 CLI 应用的基石。
+
+- **Stars:** ⭐️ 3.7k
+- **Tags:** `dotnet` `cli` `commandline-parser` `csharp`
+- **最后活动时间:** 2026-10-14
+
 ### [odigos](https://github.com/odigos-io/odigos)
 
 基于OpenTelemetry和eBPF的分布式追踪工具，无需修改代码即可实现应用监控。支持多种编程语言，提供日志、指标和追踪的全面可观测性。
@@ -14563,14 +14819,6 @@ Model Context Protocol的官方Java SDK，用于构建MCP服务器和客户端�
 - **Stars:** ⭐️ 3.7k
 - **Tags:** `opentelemetry` `ebpf` `observability` `distributed-tracing` `kubernetes`
 - **最后活动时间:** 2026-10-18
-
-### [lit](https://github.com/PAIR-code/lit)
-
-Google的模型可解释性工具，支持交互式分析ML模型行为。
-
-- **Stars:** ⭐️ 3.7k
-- **Tags:** `Interpretability` `Visualization` `ML Tools`
-- **最后活动时间:** 2026-10-07
 
 ### [dbhub](https://github.com/bytebase/dbhub)
 
@@ -14580,11 +14828,19 @@ Google的模型可解释性工具，支持交互式分析ML模型行为。
 - **Tags:** `MCP` `Database` `AI Agents`
 - **最后活动时间:** 2026-10-13
 
+### [lit](https://github.com/PAIR-code/lit)
+
+Google的模型可解释性工具，支持交互式分析ML模型行为。
+
+- **Stars:** ⭐️ 3.7k
+- **Tags:** `Interpretability` `Visualization` `ML Tools`
+- **最后活动时间:** 2026-10-07
+
 ### [langchain-mcp-adapters](https://github.com/langchain-ai/langchain-mcp-adapters)
 
 LangChain与MCP协议的适配器，实现模型上下文协议的工具集成。
 
-- **Stars:** ⭐️ 3.7k
+- **Stars:** ⭐️ 3.6k
 - **Tags:** `LangChain` `MCP` `Integration`
 - **最后活动时间:** 2026-09-16
 
@@ -14603,6 +14859,14 @@ LangChain与MCP协议的适配器，实现模型上下文协议的工具集成�
 - **Stars:** ⭐️ 3.6k
 - **Tags:** `cheminformatics` `drug-discovery` `molecular-modeling` `python` `chemistry`
 - **最后活动时间:** 2026-10-16
+
+### [davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp)
+
+DaVinci Resolve的MCP服务器集成，让AI智能体能够控制和操作专业视频编辑软件。
+
+- **Stars:** ⭐️ 3.6k
+- **Tags:** `mcp` `mcp-server` `davinci-resolve` `video-editing`
+- **最后活动时间:** 2026-10-18
 
 ### [Gemini-API](https://github.com/HanaokaYuzu/Gemini-API)
 
@@ -14628,13 +14892,13 @@ LangChain与MCP协议的适配器，实现模型上下文协议的工具集成�
 - **Tags:** `PyTorch` `强化学习` `机器人`
 - **最后活动时间:** 2026-10-18
 
-### [davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp)
+### [rgthree-comfy](https://github.com/rgthree/rgthree-comfy)
 
-DaVinci Resolve的MCP服务器集成，让AI智能体能够控制和操作专业视频编辑软件。
+ComfyUI 增强工具集，提供更舒适的使用体验和实用功能。
 
 - **Stars:** ⭐️ 3.6k
-- **Tags:** `mcp` `mcp-server` `davinci-resolve` `video-editing`
-- **最后活动时间:** 2026-10-17
+- **Tags:** `comfyui` `stable-diffusion` `ui-enhancement`
+- **最后活动时间:** 2026-10-06
 
 ### [PySR](https://github.com/MilesCranmer/PySR)
 
@@ -14643,14 +14907,6 @@ DaVinci Resolve的MCP服务器集成，让AI智能体能够控制和操作专业
 - **Stars:** ⭐️ 3.6k
 - **Tags:** `Symbolic Regression` `AutoML` `Explainable AI`
 - **最后活动时间:** 2026-06-09
-
-### [rgthree-comfy](https://github.com/rgthree/rgthree-comfy)
-
-ComfyUI 增强工具集，提供更舒适的使用体验和实用功能。
-
-- **Stars:** ⭐️ 3.6k
-- **Tags:** `comfyui` `stable-diffusion` `ui-enhancement`
-- **最后活动时间:** 2026-10-06
 
 ### [PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
 
@@ -14674,7 +14930,7 @@ ComfyUI 增强工具集，提供更舒适的使用体验和实用功能。
 
 - **Stars:** ⭐️ 3.5k
 - **Tags:** `3d-computer-vision` `photogrammetry` `structure-from-motion` `camera-tracking`
-- **最后活动时间:** 2026-10-16
+- **最后活动时间:** 2026-10-18
 
 ### [TextAttack](https://github.com/ethen8181/machine-learning)
 
@@ -14724,6 +14980,14 @@ TensorFlow的.NET标准绑定，支持C#和F#开发、训练和部署机器学�
 - **Tags:** `tensorflow` `csharp` `deep-learning` `machine-learning` `dotnet`
 - **最后活动时间:** 2026-08-15
 
+### [fluent_ui](https://github.com/bdlukaa/fluent_ui)
+
+将微软Fluent Design/WinUI3设计语言带入Flutter，帮助开发者用Dart构建现代化的Windows风格应用。
+
+- **Stars:** ⭐️ 3.5k
+- **Tags:** `flutter` `fluent-design` `ui` `dart`
+- **最后活动时间:** 2026-09-28
+
 ### [DeepCTR-Torch](https://github.com/shenweichen/DeepCTR-Torch)
 
 基于PyTorch的点击率预测深度学习模型库，提供模块化、易扩展的CTR模型实现。
@@ -14756,14 +15020,6 @@ TensorFlow的.NET标准绑定，支持C#和F#开发、训练和部署机器学�
 - **Tags:** `speech-sdk` `cognitive-services` `speech-recognition` `text-to-speech` `microsoft`
 - **最后活动时间:** 2026-09-30
 
-### [xlwings](https://github.com/xlwings/xlwings)
-
-让 Python 与 Excel 双向互通的库，支持 Windows、macOS 及网页版 Excel。轻松实现报表自动化与数据处理。
-
-- **Stars:** ⭐️ 3.4k
-- **Tags:** `python` `excel` `automation` `spreadsheet`
-- **最后活动时间:** 2026-10-17
-
 ### [OpenIntelligentUI](https://github.com/CopilotKit/OpenIntelligentUI)
 
 开源的生成式 UI 框架，让 AI 智能体与副驾驶动态生成并驱动可视化界面。
@@ -14771,6 +15027,14 @@ TensorFlow的.NET标准绑定，支持C#和F#开发、训练和部署机器学�
 - **Stars:** ⭐️ 3.4k
 - **Tags:** `generative-ui` `ai-agents` `copilot` `visualization` `typescript`
 - **最后活动时间:** 2026-10-13
+
+### [xlwings](https://github.com/xlwings/xlwings)
+
+让 Python 与 Excel 双向互通的库，支持 Windows、macOS 及网页版 Excel。轻松实现报表自动化与数据处理。
+
+- **Stars:** ⭐️ 3.4k
+- **Tags:** `python` `excel` `automation` `spreadsheet`
+- **最后活动时间:** 2026-10-17
 
 ### [postgres-mcp](https://github.com/crystaldba/postgres-mcp)
 
@@ -14804,6 +15068,14 @@ AI 驱动的网页数据采集 SDK，支持自然语言提示进行爬取，为 
 - **Tags:** `chatgpt` `scraper` `api` `llm` `openai`
 - **最后活动时间:** 2026-09-16
 
+### [google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp)
+
+Google Workspace MCP服务器，让AI智能体能够控制Gmail、日历、文档等办公应用。
+
+- **Stars:** ⭐️ 3.4k
+- **Tags:** `MCP` `google-workspace` `ai-agent` `productivity`
+- **最后活动时间:** 2026-10-18
+
 ### [D-FINE](https://github.com/Peterande/D-FINE)
 
 ICLR 2025 Spotlight论文实现，重新定义DETR回归任务为细粒度分布细化。
@@ -14819,14 +15091,6 @@ Python 因果 AI 库，支持贝叶斯网络、因果发现、因果推断、概
 - **Stars:** ⭐️ 3.4k
 - **Tags:** `causal-inference` `bayesian-networks` `machine-learning` `python`
 - **最后活动时间:** 2026-10-17
-
-### [google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp)
-
-Google Workspace MCP服务器，让AI智能体能够控制Gmail、日历、文档等办公应用。
-
-- **Stars:** ⭐️ 3.4k
-- **Tags:** `MCP` `google-workspace` `ai-agent` `productivity`
-- **最后活动时间:** 2026-10-09
 
 ### [lazypredict](https://github.com/shankarpandala/lazypredict)
 
@@ -14850,7 +15114,7 @@ CERN开源的科学数据分析框架，支持大数据处理、机器学习、�
 
 - **Stars:** ⭐️ 3.3k
 - **Tags:** `Data Analysis` `Machine Learning` `Scientific Computing` `Visualization`
-- **最后活动时间:** 2026-10-16
+- **最后活动时间:** 2026-10-18
 
 ### [tensorforce](https://github.com/tensorforce/tensorforce)
 
@@ -14890,7 +15154,7 @@ TypeScript框架，用于快速构建MCP服务器，简化AI模型与外部数�
 
 - **Stars:** ⭐️ 3.3k
 - **Tags:** `mcp` `typescript` `sdk` `model-context-protocol`
-- **最后活动时间:** 2026-10-14
+- **最后活动时间:** 2026-10-17
 
 ### [shapash](https://github.com/MAIF/shapash)
 
@@ -14922,7 +15186,7 @@ Cortex 是一个强大的 API 文档和 SDK 生成器，能够从 OpenAPI、Grap
 
 - **Stars:** ⭐️ 3.3k
 - **Tags:** `webgpu` `chart-library` `data-visualization` `gpu` `typescript`
-- **最后活动时间:** 2026-10-14
+- **最后活动时间:** 2026-10-18
 
 ### [brax](https://github.com/google/brax)
 
@@ -14948,14 +15212,6 @@ AI原生SwiftUI组件库，支持MCP协议连接，提供全栈开发方案，�
 - **Tags:** `ai` `swiftui` `mcp` `component-library` `ios`
 - **最后活动时间:** 2026-10-18
 
-### [ruby-openai](https://github.com/alexrudall/ruby-openai)
-
-Ruby语言的OpenAI API客户端，支持GPT-5和实时WebRTC通信。
-
-- **Stars:** ⭐️ 3.2k
-- **Tags:** `Ruby` `OpenAI` `API` `GPT-4o`
-- **最后活动时间:** 2026-05-01
-
 ### [arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server)
 
 基于模型上下文协议(MCP)的arXiv论文搜索分析服务器。
@@ -14963,6 +15219,14 @@ Ruby语言的OpenAI API客户端，支持GPT-5和实时WebRTC通信。
 - **Stars:** ⭐️ 3.2k
 - **Tags:** `mcp-server` `arxiv` `research` `claude`
 - **最后活动时间:** 2026-10-08
+
+### [ruby-openai](https://github.com/alexrudall/ruby-openai)
+
+Ruby语言的OpenAI API客户端，支持GPT-5和实时WebRTC通信。
+
+- **Stars:** ⭐️ 3.2k
+- **Tags:** `Ruby` `OpenAI` `API` `GPT-4o`
+- **最后活动时间:** 2026-05-01
 
 ### [wecom-cli](https://github.com/WecomTeam/wecom-cli)
 
@@ -14994,7 +15258,7 @@ LLM交互安全工具包，提供提示注入防护、敏感数据检测和输�
 
 - **Stars:** ⭐️ 3.2k
 - **Tags:** `nlp` `natural-language` `linter` `markdown` `text-processing`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [tvision](https://github.com/magiblot/tvision)
 
@@ -15026,7 +15290,7 @@ Python时间序列分析机器学习工具包，提供DTW、分类、聚类等�
 
 - **Stars:** ⭐️ 3.2k
 - **Tags:** `instrumentation` `binary-analysis` `profiling` `debugging`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [DifferentialEquations.jl](https://github.com/SciML/DifferentialEquations.jl)
 
@@ -15036,6 +15300,14 @@ Julia高性能微分方程求解套件，支持神经微分方程等科学机器
 - **Tags:** `scientific-machine-learning` `differential-equations` `julia` `neural-ode`
 - **最后活动时间:** 2026-10-17
 
+### [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus)
+
+高性能跨平台 C++ 网络数据包处理库，支持捕获、解析与构造数据包，封装了 libpcap、DPDK、PF_RING 等主流引擎。设计高效且易用，是网络分析与安全研究的利器。
+
+- **Stars:** ⭐️ 3.2k
+- **Tags:** `cpp` `networking` `packet-processing` `pcap` `dpdk`
+- **最后活动时间:** 2026-10-16
+
 ### [hdbscan](https://github.com/scikit-learn-contrib/hdbscan)
 
 高性能HDBSCAN聚类算法实现，适用于复杂密度聚类场景。
@@ -15044,12 +15316,12 @@ Julia高性能微分方程求解套件，支持神经微分方程等科学机器
 - **Tags:** `clustering` `hdbscan` `machine-learning` `python`
 - **最后活动时间:** 2026-10-08
 
-### [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus)
+### [agent-scan](https://github.com/snyk/agent-scan)
 
-高性能跨平台 C++ 网络数据包处理库，支持捕获、解析与构造数据包，封装了 libpcap、DPDK、PF_RING 等主流引擎。设计高效且易用，是网络分析与安全研究的利器。
+AI智能体、MCP服务器和智能体技能的安全扫描工具。
 
-- **Stars:** ⭐️ 3.2k
-- **Tags:** `cpp` `networking` `packet-processing` `pcap` `dpdk`
+- **Stars:** ⭐️ 3.1k
+- **Tags:** `security` `ai-agents` `mcp` `scanner`
 - **最后活动时间:** 2026-10-16
 
 ### [free-llm-api-keys](https://github.com/alistaitsacle/free-llm-api-keys)
@@ -15068,14 +15340,6 @@ ElevenLabs API的官方Python SDK，提供高质量AI语音合成服务。
 - **Tags:** `SDK` `TTS` `API`
 - **最后活动时间:** 2026-10-17
 
-### [agent-scan](https://github.com/snyk/agent-scan)
-
-AI智能体、MCP服务器和智能体技能的安全扫描工具。
-
-- **Stars:** ⭐️ 3.1k
-- **Tags:** `security` `ai-agents` `mcp` `scanner`
-- **最后活动时间:** 2026-10-16
-
 ### [prompt-kit](https://github.com/ibelick/prompt-kit)
 
 专为AI应用设计的核心构建块，提供高质量、可访问且可定制的AI界面组件，基于Next.js和shadcn构建。
@@ -15092,14 +15356,6 @@ AI智能体、MCP服务器和智能体技能的安全扫描工具。
 - **Tags:** `Chinese` `Pinyin` `NLP` `Character`
 - **最后活动时间:** 2026-10-11
 
-### [Chaterm](https://github.com/chaterm/Chaterm)
-
-开源AI原生终端工具，专为云基础设施管理设计，支持SSH连接和智能运维。
-
-- **Stars:** ⭐️ 3.1k
-- **Tags:** `AI终端` `SSH` `DevOps`
-- **最后活动时间:** 2026-10-15
-
 ### [WindsurfAPI](https://github.com/dwgx/WindsurfAPI)
 
 将Windsurf转换为OpenAI兼容API的代理工具，便于集成到现有AI工作流中。
@@ -15107,6 +15363,14 @@ AI智能体、MCP服务器和智能体技能的安全扫描工具。
 - **Stars:** ⭐️ 3.1k
 - **Tags:** `api-proxy` `llm-gateway` `openai-compatible` `windsurf`
 - **最后活动时间:** 2026-10-18
+
+### [Chaterm](https://github.com/chaterm/Chaterm)
+
+开源AI原生终端工具，专为云基础设施管理设计，支持SSH连接和智能运维。
+
+- **Stars:** ⭐️ 3.1k
+- **Tags:** `AI终端` `SSH` `DevOps`
+- **最后活动时间:** 2026-10-15
 
 ### [analysis-pinyin](https://github.com/infinilabs/analysis-pinyin)
 
@@ -15132,6 +15396,22 @@ Go语言自然语言处理库，支持分词、词性标注和命名实体提取
 - **Tags:** `mcp` `ai` `shadcn-ui` `llm`
 - **最后活动时间:** 2026-10-03
 
+### [erupt](https://github.com/erupts/erupt)
+
+注解驱动的低代码数据与AI平台，支持快速构建企业级应用与管理后台。
+
+- **Stars:** ⭐️ 3.1k
+- **Tags:** `low-code` `ai-platform` `java` `mdd`
+- **最后活动时间:** 2026-10-18
+
+### [godot-ai](https://github.com/hi-godot/godot-ai)
+
+为Godot引擎打造的生产级MCP服务器和AI工具集。一键安装，免费且充满乐趣，助力游戏开发智能化。
+
+- **Stars:** ⭐️ 3.1k
+- **Tags:** `ai` `godot` `mcp` `game-development`
+- **最后活动时间:** 2026-10-18
+
 ### [flow2api](https://github.com/TheSmallHanCat/flow2api)
 
 将 Banana Pro 图像生成模型逆向封装为标准 API 接口，支持无限调用、负载均衡、令牌自动刷新与缓存策略。为开发者提供了低成本接入 AI 图像生成能力的便捷途径。
@@ -15139,22 +15419,6 @@ Go语言自然语言处理库，支持分词、词性标注和命名实体提取
 - **Stars:** ⭐️ 3.1k
 - **Tags:** `AI` `API` `ImageGeneration` `ReverseProxy` `LoadBalancing`
 - **最后活动时间:** 2026-10-16
-
-### [godot-ai](https://github.com/hi-godot/godot-ai)
-
-为Godot引擎打造的生产级MCP服务器和AI工具集。一键安装，免费且充满乐趣，助力游戏开发智能化。
-
-- **Stars:** ⭐️ 3.0k
-- **Tags:** `ai` `godot` `mcp` `game-development`
-- **最后活动时间:** 2026-10-17
-
-### [erupt](https://github.com/erupts/erupt)
-
-注解驱动的低代码数据与AI平台，支持快速构建企业级应用与管理后台。
-
-- **Stars:** ⭐️ 3.0k
-- **Tags:** `low-code` `ai-platform` `java` `mdd`
-- **最后活动时间:** 2026-10-17
 
 ### [rebiber](https://github.com/yuchenlin/rebiber)
 
@@ -15178,7 +15442,7 @@ Go语言自然语言处理库，支持分词、词性标注和命名实体提取
 
 - **Stars:** ⭐️ 3.0k
 - **Tags:** `statistics` `golang` `machine-learning` `data-analysis` `math`
-- **最后活动时间:** 2026-10-06
+- **最后活动时间:** 2026-10-18
 
 ### [deepteam](https://github.com/confident-ai/deepteam)
 
@@ -15210,7 +15474,7 @@ LLM红队测试框架，用于评估和提升大模型系统的安全性与鲁�
 
 - **Stars:** ⭐️ 3.0k
 - **Tags:** `low-code` `ai-generated` `yaml-config` `web-apps`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [Codex-Manager](https://github.com/qxcnm/Codex-Manager)
 
@@ -15218,7 +15482,7 @@ OpenAI Codex CLI 账号管理与切换工具，提供本地网关转发功能，
 
 - **Stars:** ⭐️ 3.0k
 - **Tags:** `codex` `openai` `cli` `account-management` `gateway`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-18
 
 ### [markdownify-mcp](https://github.com/zcaceres/markdownify-mcp)
 
@@ -15258,7 +15522,7 @@ TypeScript版本的DSPy框架，支持多种LLM提供商（OpenAI、Anthropic、
 
 - **Stars:** ⭐️ 3.0k
 - **Tags:** `TypeScript` `DSPy` `LLM` `RAG`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [audio](https://github.com/pytorch/audio)
 
@@ -15266,7 +15530,7 @@ PyTorch官方音频处理库，提供音频数据加载、变换和特征提取�
 
 - **Stars:** ⭐️ 3.0k
 - **Tags:** `PyTorch` `音频处理` `特征提取`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [zenstack](https://github.com/zenstackhq/zenstack)
 
@@ -15298,7 +15562,7 @@ Swift社区驱动的OpenAI API客户端包，支持Swift Package Manager集成�
 
 - **Stars:** ⭐️ 2.9k
 - **Tags:** `event-driven` `documentation` `microservices` `ai-discovery`
-- **最后活动时间:** 2026-10-16
+- **最后活动时间:** 2026-10-18
 
 ### [apidash](https://github.com/foss42/apidash)
 
@@ -15412,6 +15676,14 @@ Google开源的合成数据生成管道，用于创建带丰富标注的多物�
 - **Tags:** `synthetic-data` `data-generation` `computer-vision` `video-generation`
 - **最后活动时间:** 2026-05-21
 
+### [KiCAD-MCP-Server](https://github.com/mixelpixx/KiCAD-MCP-Server)
+
+MCP 实现，让 Claude 等 LLM 直接与 KiCAD 交互进行 PCB 电路板设计。
+
+- **Stars:** ⭐️ 2.8k
+- **Tags:** `mcp` `kicad` `pcb-design` `llm-integration`
+- **最后活动时间:** 2026-10-01
+
 ### [viser](https://github.com/viser-project/viser)
 
 基于 Web 的 Python 3D 可视化库，广泛用于 NeRF、高斯泼溅、机器人等 AI 研究场景的交互式可视化。轻量易用，是 3D 视觉与具身智能研究生态中的重要工具。
@@ -15435,14 +15707,6 @@ CLI工具，发现并安装来自23个提供商的174个免费编程LLM模型。
 - **Stars:** ⭐️ 2.8k
 - **Tags:** `codex` `cli` `account-management` `developer-tools`
 - **最后活动时间:** 2026-10-16
-
-### [KiCAD-MCP-Server](https://github.com/mixelpixx/KiCAD-MCP-Server)
-
-MCP 实现，让 Claude 等 LLM 直接与 KiCAD 交互进行 PCB 电路板设计。
-
-- **Stars:** ⭐️ 2.8k
-- **Tags:** `mcp` `kicad` `pcb-design` `llm-integration`
-- **最后活动时间:** 2026-10-01
 
 ### [HEBO](https://github.com/huawei-noah/HEBO)
 
@@ -15482,7 +15746,7 @@ TensorFlow官方可微分图形层库，支持3D网格处理、相机模型和�
 
 - **Stars:** ⭐️ 2.8k
 - **Tags:** `tensorflow` `graphics` `differentiable-rendering` `3d-vision`
-- **最后活动时间:** 2026-09-16
+- **最后活动时间:** 2026-10-15
 
 ### [ComfyUI-Easy-Use](https://github.com/yolain/ComfyUI-Easy-Use)
 
@@ -15490,7 +15754,7 @@ ComfyUI 常用节点的优化与集成工具，简化 AI 图像生成工作流�
 
 - **Stars:** ⭐️ 2.8k
 - **Tags:** `comfyui` `stable-diffusion` `image-generation` `workflow`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-13
 
 ### [numpyro](https://github.com/pyro-ppl/numpyro)
 
@@ -15506,7 +15770,7 @@ ComfyUI 常用节点的优化与集成工具，简化 AI 图像生成工作流�
 
 - **Stars:** ⭐️ 2.8k
 - **Tags:** `rust` `system-information` `cross-platform` `library`
-- **最后活动时间:** 2026-10-16
+- **最后活动时间:** 2026-10-18
 
 ### [korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp)
 
@@ -15580,6 +15844,14 @@ Flutter 生态中广泛使用的本地通知插件，一套代码同时支持 An
 - **Tags:** `llm` `web-standard` `documentation` `accessibility`
 - **最后活动时间:** 2026-09-24
 
+### [ttkbootstrap](https://github.com/israel-dryer/ttkbootstrap)
+
+为 Tkinter 带来 Bootstrap 风格的现代主题，内置 30+ 主题与丰富组件，轻松构建美观的跨平台桌面应用。
+
+- **Stars:** ⭐️ 2.7k
+- **Tags:** `python` `tkinter` `gui` `themes` `bootstrap`
+- **最后活动时间:** 2026-09-12
+
 ### [evox](https://github.com/EMI-Group/evox)
 
 分布式GPU加速的进化计算框架，支持神经进化、多目标优化等算法。
@@ -15604,22 +15876,6 @@ Flutter 生态中广泛使用的本地通知插件，一套代码同时支持 An
 - **Tags:** `face-recognition` `face-detection` `deep-learning` `identity-verification`
 - **最后活动时间:** 2026-10-02
 
-### [torchrec](https://github.com/meta-pytorch/torchrec)
-
-PyTorch官方推荐系统领域库，提供大规模推荐模型训练的分片与并行计算支持。
-
-- **Stars:** ⭐️ 2.6k
-- **Tags:** `pytorch` `recommendation-system` `deep-learning` `sharding`
-- **最后活动时间:** 2026-10-17
-
-### [nunu](https://github.com/go-nunu/nunu)
-
-Go应用脚手架工具，内置MCP客户端和服务端支持，助力AI集成开发。
-
-- **Stars:** ⭐️ 2.6k
-- **Tags:** `go` `scaffold` `mcp` `cli` `mcp-server`
-- **最后活动时间:** 2026-08-14
-
 ### [lobe-icons](https://github.com/lobehub/lobe-icons)
 
 为React和React Native应用提供AI/LLM品牌图标库，包含主流AI模型的Logo资源。
@@ -15627,6 +15883,14 @@ Go应用脚手架工具，内置MCP客户端和服务端支持，助力AI集成�
 - **Stars:** ⭐️ 2.6k
 - **Tags:** `ai` `ai-icons` `llm` `svg-icons`
 - **最后活动时间:** 2026-10-15
+
+### [torchrec](https://github.com/meta-pytorch/torchrec)
+
+PyTorch官方推荐系统领域库，提供大规模推荐模型训练的分片与并行计算支持。
+
+- **Stars:** ⭐️ 2.6k
+- **Tags:** `pytorch` `recommendation-system` `deep-learning` `sharding`
+- **最后活动时间:** 2026-10-17
 
 ### [skill-scanner](https://github.com/cisco-ai-defense/skill-scanner)
 
@@ -15636,13 +15900,21 @@ AI智能体技能安全扫描工具，用于检测和评估Agent技能的安全�
 - **Tags:** `agent-security` `ai-safety` `security-scanner`
 - **最后活动时间:** 2026-10-15
 
+### [nunu](https://github.com/go-nunu/nunu)
+
+Go应用脚手架工具，内置MCP客户端和服务端支持，助力AI集成开发。
+
+- **Stars:** ⭐️ 2.6k
+- **Tags:** `go` `scaffold` `mcp` `cli` `mcp-server`
+- **最后活动时间:** 2026-08-14
+
 ### [hunspell](https://github.com/hunspell/hunspell)
 
 最流行的拼写检查库，被LibreOffice、Firefox、Chrome等广泛使用。支持多种语言的词干提取和形态分析。
 
 - **Stars:** ⭐️ 2.6k
 - **Tags:** `spell-check` `nlp` `stemming` `spellchecker`
-- **最后活动时间:** 2026-10-15
+- **最后活动时间:** 2026-10-18
 
 ### [supabase-py](https://github.com/supabase/supabase-py)
 
@@ -15762,7 +16034,7 @@ n8n工作流模板目录，汇集大量可复用的自动化工作流示例，�
 
 - **Stars:** ⭐️ 2.5k
 - **Tags:** `n8n` `Workflow` `Automation` `Templates`
-- **最后活动时间:** 2026-10-16
+- **最后活动时间:** 2026-10-17
 
 ### [claude_codex_bridge](https://github.com/bfly123/claude_codex_bridge)
 
@@ -15796,6 +16068,14 @@ OpenCV 的 Rust 语言绑定，提供计算机视觉和图像处理能力，支�
 - **Tags:** `opencv` `computer-vision` `rust` `image-processing`
 - **最后活动时间:** 2026-10-09
 
+### [ai-elements](https://github.com/vercel/ai-elements)
+
+基于 shadcn/ui 构建的 AI 原生应用组件库，提供丰富的 UI 组件帮助开发者快速搭建 AI 应用界面。
+
+- **Stars:** ⭐️ 2.5k
+- **Tags:** `ai` `shadcn-ui` `components` `vercel`
+- **最后活动时间:** 2026-10-14
+
 ### [causalnex](https://github.com/mckinsey/causalnex)
 
 因果推断Python库，帮助数据科学家从相关性中推断因果关系，支持贝叶斯网络建模。
@@ -15820,14 +16100,6 @@ OpenCV 的 Rust 语言绑定，提供计算机视觉和图像处理能力，支�
 - **Tags:** `llm` `serialization` `rust` `cli`
 - **最后活动时间:** 2026-06-29
 
-### [ai-elements](https://github.com/vercel/ai-elements)
-
-基于 shadcn/ui 构建的 AI 原生应用组件库，提供丰富的 UI 组件帮助开发者快速搭建 AI 应用界面。
-
-- **Stars:** ⭐️ 2.5k
-- **Tags:** `ai` `shadcn-ui` `components` `vercel`
-- **最后活动时间:** 2026-09-01
-
 ### [KivyMD](https://github.com/kivymd/KivyMD)
 
 为 Kivy 框架提供 Material Design 风格组件的 UI 库，助力用 Python 快速构建跨平台触控应用。覆盖移动端与桌面端开发场景。
@@ -15842,6 +16114,14 @@ OpenCV 的 Rust 语言绑定，提供计算机视觉和图像处理能力，支�
 
 - **Stars:** ⭐️ 2.5k
 - **Tags:** `Medical Imaging` `PyTorch` `Deep Learning`
+- **最后活动时间:** 2026-10-16
+
+### [three-vue-tres](https://github.com/hawk86104/three-vue-tres)
+
+开源三维可视化框架，支持跨平台部署和国产化适配，集成AI能力扩展，助力智能化场景快速构建。
+
+- **Stars:** ⭐️ 2.4k
+- **Tags:** `3d-visualization` `threejs` `webgl` `ai-integration`
 - **最后活动时间:** 2026-10-16
 
 ### [webtui](https://github.com/webtui/webtui)
@@ -15868,14 +16148,6 @@ Stability AI官方SDK，提供Stable Diffusion等生成模型的API调用接口�
 - **Tags:** `stable-diffusion` `sdk` `generative-art` `multimodal`
 - **最后活动时间:** 2026-05-14
 
-### [three-vue-tres](https://github.com/hawk86104/three-vue-tres)
-
-开源三维可视化框架，支持跨平台部署和国产化适配，集成AI能力扩展，助力智能化场景快速构建。
-
-- **Stars:** ⭐️ 2.4k
-- **Tags:** `3d-visualization` `threejs` `webgl` `ai-integration`
-- **最后活动时间:** 2026-09-29
-
 ### [prism](https://github.com/prism-php/prism)
 
 Laravel框架下统一的LLM集成接口，支持Anthropic、OpenAI、Ollama等多种模型提供商。
@@ -15900,14 +16172,6 @@ Alan AI Web SDK，为应用添加语音AI助手和对话功能。支持低代码
 - **Tags:** `Code Interpreter` `SDK` `LLM Tools`
 - **最后活动时间:** 2026-10-13
 
-### [Kunlun-M](https://github.com/LoRexxar/Kunlun-M)
-
-开源静态白盒扫描工具，支持PHP和JavaScript语义扫描，可一键接入多种AI Agent进行智能代码分析。
-
-- **Stars:** ⭐️ 2.4k
-- **Tags:** `security` `static-analysis` `ai-agent` `code-scanning` `php` `javascript`
-- **最后活动时间:** 2026-10-17
-
 ### [mcp2cli](https://github.com/knowsuchagency/mcp2cli)
 
 将 MCP、OpenAPI 或 GraphQL 服务器即时转换为命令行工具，无需代码生成。
@@ -15915,6 +16179,14 @@ Alan AI Web SDK，为应用添加语音AI助手和对话功能。支持低代码
 - **Stars:** ⭐️ 2.4k
 - **Tags:** `mcp` `cli` `openapi` `graphql` `ai-tools`
 - **最后活动时间:** 2026-10-12
+
+### [Kunlun-M](https://github.com/LoRexxar/Kunlun-M)
+
+开源静态白盒扫描工具，支持PHP和JavaScript语义扫描，可一键接入多种AI Agent进行智能代码分析。
+
+- **Stars:** ⭐️ 2.4k
+- **Tags:** `security` `static-analysis` `ai-agent` `code-scanning` `php` `javascript`
+- **最后活动时间:** 2026-10-17
 
 ### [chat](https://github.com/vercel/chat)
 
@@ -15938,7 +16210,7 @@ Alan AI Web SDK，为应用添加语音AI助手和对话功能。支持低代码
 
 - **Stars:** ⭐️ 2.4k
 - **Tags:** `installer` `autoupdate` `cross-platform` `dotnet`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-19
 
 ### [texar](https://github.com/asyml/texar)
 
@@ -16050,7 +16322,7 @@ PyTorch类激活图可视化工具，支持Grad-CAM、Score-CAM等多种方法�
 
 - **Stars:** ⭐️ 2.3k
 - **Tags:** `azure` `sdk` `javascript` `typescript` `openai`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [emgucv](https://github.com/emgucv/emgucv)
 
@@ -16059,6 +16331,14 @@ PyTorch类激活图可视化工具，支持Grad-CAM、Score-CAM等多种方法�
 - **Stars:** ⭐️ 2.3k
 - **Tags:** `opencv` `computer-vision` `dotnet` `image-processing`
 - **最后活动时间:** 2026-10-10
+
+### [fairchem](https://github.com/facebookresearch/fairchem)
+
+FAIR Chemistry 开发的化学领域机器学习库，提供分子建模、催化剂发现等前沿 AI 方法。
+
+- **Stars:** ⭐️ 2.3k
+- **Tags:** `machine-learning` `chemistry` `materials-science` `deep-learning`
+- **最后活动时间:** 2026-10-18
 
 ### [genann](https://github.com/codeplea/genann)
 
@@ -16092,13 +16372,13 @@ MCP服务器，让AI助手通过Gemini CLI实现大文件分析和代码库理�
 - **Tags:** `mcp` `gemini` `model-context-protocol` `codebase-analysis`
 - **最后活动时间:** 2026-07-21
 
-### [fairchem](https://github.com/facebookresearch/fairchem)
+### [hidapi](https://github.com/libusb/hidapi)
 
-FAIR Chemistry 开发的化学领域机器学习库，提供分子建模、催化剂发现等前沿 AI 方法。
+跨平台USB/蓝牙HID设备通信库，接口简洁，被众多开源硬件项目广泛采用。
 
 - **Stars:** ⭐️ 2.3k
-- **Tags:** `machine-learning` `chemistry` `materials-science` `deep-learning`
-- **最后活动时间:** 2026-09-30
+- **Tags:** `hid` `usb` `cross-platform` `library`
+- **最后活动时间:** 2026-10-10
 
 ### [inspector](https://github.com/MCPJam/inspector)
 
@@ -16106,7 +16386,15 @@ FAIR Chemistry 开发的化学领域机器学习库，提供分子建模、催�
 
 - **Stars:** ⭐️ 2.3k
 - **Tags:** `mcp` `chatgpt` `modelcontextprotocol` `debugging`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-19
+
+### [betterleaks](https://github.com/betterleaks/betterleaks)
+
+基于LLM的密钥扫描工具，专注于可配置性和速度，帮助开发者检测代码中的敏感信息泄露。
+
+- **Stars:** ⭐️ 2.3k
+- **Tags:** `secrets-scanner` `llm-tools` `security` `devsecops`
+- **最后活动时间:** 2026-10-18
 
 ### [Turing.jl](https://github.com/TuringLang/Turing.jl)
 
@@ -16115,14 +16403,6 @@ Julia语言编写的概率编程框架，支持贝叶斯推断、MCMC采样和�
 - **Stars:** ⭐️ 2.3k
 - **Tags:** `probabilistic-programming` `bayesian-inference` `machine-learning` `julia`
 - **最后活动时间:** 2026-10-18
-
-### [betterleaks](https://github.com/betterleaks/betterleaks)
-
-基于LLM的密钥扫描工具，专注于可配置性和速度，帮助开发者检测代码中的敏感信息泄露。
-
-- **Stars:** ⭐️ 2.3k
-- **Tags:** `secrets-scanner` `llm-tools` `security` `devsecops`
-- **最后活动时间:** 2026-10-15
 
 ### [fvcore](https://github.com/facebookresearch/fvcore)
 
@@ -16186,7 +16466,7 @@ PyGAD遗传算法Python库，支持Keras和PyTorch模型的优化训练。
 
 - **Stars:** ⭐️ 2.2k
 - **Tags:** `LLM接口` `统一API` `推理`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [APIAuto](https://github.com/TommyLemon/APIAuto)
 
@@ -16228,14 +16508,6 @@ PHP语言的高级机器学习和深度学习库，支持分类、聚类、回�
 - **Tags:** `machine-learning` `deep-learning` `php` `classification`
 - **最后活动时间:** 2026-10-17
 
-### [a2a-python](https://github.com/a2aproject/a2a-python)
-
-Agent2Agent协议官方Python SDK，支持AI智能体间标准化通信与多智能体系统开发。
-
-- **Stars:** ⭐️ 2.2k
-- **Tags:** `A2A` `Agent` `SDK` `Protocol`
-- **最后活动时间:** 2026-10-17
-
 ### [lion-pytorch](https://github.com/lucidrains/lion-pytorch)
 
 Google Brain通过遗传算法发现的优化器，性能优于Adam。
@@ -16243,6 +16515,14 @@ Google Brain通过遗传算法发现的优化器，性能优于Adam。
 - **Stars:** ⭐️ 2.2k
 - **Tags:** `optimizer` `deep-learning` `pytorch` `evolutionary-algorithm`
 - **最后活动时间:** 2026-07-09
+
+### [a2a-python](https://github.com/a2aproject/a2a-python)
+
+Agent2Agent协议官方Python SDK，支持AI智能体间标准化通信与多智能体系统开发。
+
+- **Stars:** ⭐️ 2.2k
+- **Tags:** `A2A` `Agent` `SDK` `Protocol`
+- **最后活动时间:** 2026-10-17
 
 ### [quantum](https://github.com/tensorflow/quantum)
 
@@ -16284,6 +16564,14 @@ llama.cpp的Node.js绑定库，支持本地运行AI模型并在生成层面强�
 - **Tags:** `Node.js` `llama.cpp` `本地部署` `JSON Schema`
 - **最后活动时间:** 2026-10-17
 
+### [jar-analyzer](https://github.com/jar-analyzer/jar-analyzer)
+
+一款强大的JAR包GUI分析工具，支持方法调用链分析、污点分析、字符串搜索等功能，集成MCP调用支持AI工作流。
+
+- **Stars:** ⭐️ 2.2k
+- **Tags:** `java` `bytecode-analysis` `static-analysis` `mcp` `security`
+- **最后活动时间:** 2026-09-06
+
 ### [tesserocr](https://github.com/sirfz/tesserocr)
 
 Tesseract OCR的Python封装，提供简洁高效的OCR API接口。
@@ -16299,14 +16587,6 @@ NestJS开发助手框架，集成AI聊天机器人开发、RAG检索与函数调
 - **Stars:** ⭐️ 2.2k
 - **Tags:** `NestJS` `SDK` `Chatbot`
 - **最后活动时间:** 2026-10-15
-
-### [jar-analyzer](https://github.com/jar-analyzer/jar-analyzer)
-
-一款强大的JAR包GUI分析工具，支持方法调用链分析、污点分析、字符串搜索等功能，集成MCP调用支持AI工作流。
-
-- **Stars:** ⭐️ 2.2k
-- **Tags:** `java` `bytecode-analysis` `static-analysis` `mcp` `security`
-- **最后活动时间:** 2026-09-06
 
 ### [mcp-server-mysql](https://github.com/benborla/mcp-server-mysql)
 
@@ -16348,14 +16628,6 @@ Anthropic官方TypeScript SDK，提供对Claude等安全优先语言模型API的
 - **Tags:** `mcp` `desktop` `installer` `extensions`
 - **最后活动时间:** 2026-05-26
 
-### [macos_ui](https://github.com/macosui/macos_ui)
-
-实现 macOS 设计语言的 Flutter 组件与主题库，助你轻松构建原生质感的 Mac 应用。
-
-- **Stars:** ⭐️ 2.1k
-- **Tags:** `Flutter` `macOS` `UI` `Widgets` `Dart`
-- **最后活动时间:** 2026-08-22
-
 ### [mcp-router](https://github.com/mcp-router/mcp-router)
 
 统一的MCP服务器管理应用，帮助开发者高效管理和路由多个MCP服务器实例。
@@ -16363,6 +16635,14 @@ Anthropic官方TypeScript SDK，提供对Claude等安全优先语言模型API的
 - **Stars:** ⭐️ 2.1k
 - **Tags:** `MCP` `LLMOps` `Server Management`
 - **最后活动时间:** 2026-09-18
+
+### [macos_ui](https://github.com/macosui/macos_ui)
+
+实现 macOS 设计语言的 Flutter 组件与主题库，助你轻松构建原生质感的 Mac 应用。
+
+- **Stars:** ⭐️ 2.1k
+- **Tags:** `Flutter` `macOS` `UI` `Widgets` `Dart`
+- **最后活动时间:** 2026-08-22
 
 ### [genai-processors](https://github.com/google-gemini/genai-processors)
 
@@ -16436,6 +16716,14 @@ YC W25项目，用自然语言构建集成和工具。为长尾和企业系统�
 - **Tags:** `mcp` `api-integration` `function-calling` `llm`
 - **最后活动时间:** 2026-08-19
 
+### [mlx-swift](https://github.com/ml-explore/mlx-swift)
+
+Apple MLX框架的Swift API，为Apple Silicon提供高效的机器学习能力。
+
+- **Stars:** ⭐️ 2.1k
+- **Tags:** `mlx` `swift` `apple-silicon` `machine-learning`
+- **最后活动时间:** 2026-10-16
+
 ### [DEIMv2](https://github.com/Intellindust-AI-Lab/DEIMv2)
 
 融合DINOv3的实时目标检测模型，实现高性能检测Transformer架构。
@@ -16458,14 +16746,6 @@ Java版LangGraph库，用于在Java生态系统中开发AI智能体架构，支�
 
 - **Stars:** ⭐️ 2.1k
 - **Tags:** `LangGraph` `Java` `Spring AI` `Agent`
-- **最后活动时间:** 2026-10-16
-
-### [jshookmcp](https://github.com/vmoranv/jshookmcp)
-
-JavaScript Hook 工具包，支持 MCP 协议集成，提供浏览器自动化、调试、反混淆和安全分析功能。
-
-- **Stars:** ⭐️ 2.1k
-- **Tags:** `mcp` `js-reverse` `browser-automation` `debugging`
 - **最后活动时间:** 2026-10-18
 
 ### [azure-devops-mcp](https://github.com/microsoft/azure-devops-mcp)
@@ -16476,21 +16756,29 @@ Azure DevOps的MCP服务器，让AI智能体能够直接与Azure DevOps平台交
 - **Tags:** `mcp` `azure-devops` `ai-agents` `devops`
 - **最后活动时间:** 2026-10-17
 
+### [jshookmcp](https://github.com/vmoranv/jshookmcp)
+
+JavaScript Hook 工具包，支持 MCP 协议集成，提供浏览器自动化、调试、反混淆和安全分析功能。
+
+- **Stars:** ⭐️ 2.1k
+- **Tags:** `mcp` `js-reverse` `browser-automation` `debugging`
+- **最后活动时间:** 2026-10-18
+
 ### [gitlab-mcp](https://github.com/zereight/gitlab-mcp)
 
 GitLab的MCP服务器，使AI智能体能够与GitLab平台进行交互和自动化操作。
 
 - **Stars:** ⭐️ 2.0k
 - **Tags:** `mcp` `gitlab` `ai-agents` `devtools`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-19
 
-### [mlx-swift](https://github.com/ml-explore/mlx-swift)
+### [node-pty](https://github.com/microsoft/node-pty)
 
-Apple MLX框架的Swift API，为Apple Silicon提供高效的机器学习能力。
+在Node.js中 Fork 伪终端的库。为Web终端和命令行工具提供底层支持。
 
 - **Stars:** ⭐️ 2.0k
-- **Tags:** `mlx` `swift` `apple-silicon` `machine-learning`
-- **最后活动时间:** 2026-09-30
+- **Tags:** `pty` `nodejs` `terminal` `pseudoterminal`
+- **最后活动时间:** 2026-10-15
 
 ### [pykeen](https://github.com/pykeen/pykeen)
 
@@ -16498,7 +16786,7 @@ Apple MLX框架的Swift API，为Apple Silicon提供高效的机器学习能力�
 
 - **Stars:** ⭐️ 2.0k
 - **Tags:** `knowledge-graph` `embeddings` `machine-learning` `pytorch`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [PyTorch-Encoding](https://github.com/zhanghang1989/PyTorch-Encoding)
 
@@ -16515,14 +16803,6 @@ Apple MLX框架的Swift API，为Apple Silicon提供高效的机器学习能力�
 - **Stars:** ⭐️ 2.0k
 - **Tags:** `chatgpt` `javascript` `openai` `client-library`
 - **最后活动时间:** 2026-08-10
-
-### [node-pty](https://github.com/microsoft/node-pty)
-
-在Node.js中 Fork 伪终端的库。为Web终端和命令行工具提供底层支持。
-
-- **Stars:** ⭐️ 2.0k
-- **Tags:** `pty` `nodejs` `terminal` `pseudoterminal`
-- **最后活动时间:** 2026-09-30
 
 ### [recommenders](https://github.com/tensorflow/recommenders)
 
@@ -16588,6 +16868,14 @@ Ruby版本的LangChain框架，用于构建LLM驱动的AI应用程序，支持�
 - **Tags:** `langchain` `ruby` `llm` `ai-agents` `vector-search` `sdk`
 - **最后活动时间:** 2026-10-15
 
+### [solana-mcp-vybe](https://github.com/vybenetwork/solana-mcp-vybe)
+
+基于 Solana Vybe API 的公共 MCP 注册表元数据服务器，支持通过 Claude 和 Cursor 等 AI 客户端进行交互。
+
+- **Stars:** ⭐️ 2.0k
+- **Tags:** `solana` `mcp` `claude` `cursor` `blockchain`
+- **最后活动时间:** 2026-09-21
+
 ### [androidify](https://github.com/android/androidify)
 
 Androidify 示例应用，集成 Firebase 和 Gemini AI，展示如何在 Android 平台上使用 Google 的生成式 AI 能力。
@@ -16604,14 +16892,6 @@ Perplexity.ai 非官方 API 封装器，支持账户生成和 Web 界面。
 - **Tags:** `ai` `api` `perplexity` `language-model`
 - **最后活动时间:** 2026-10-08
 
-### [solana-mcp-vybe](https://github.com/vybenetwork/solana-mcp-vybe)
-
-基于 Solana Vybe API 的公共 MCP 注册表元数据服务器，支持通过 Claude 和 Cursor 等 AI 客户端进行交互。
-
-- **Stars:** ⭐️ 2.0k
-- **Tags:** `solana` `mcp` `claude` `cursor` `blockchain`
-- **最后活动时间:** 2026-09-21
-
 ### [AdaptiveCards](https://github.com/microsoft/AdaptiveCards)
 
 微软主导的开放式卡片内容交换框架，用统一 JSON 描述即可在 Bot、Teams 等多平台渲染原生 UI 卡片。是构建对话式应用的重要基础设施。
@@ -16619,6 +16899,14 @@ Perplexity.ai 非官方 API 封装器，支持账户生成和 Web 界面。
 - **Stars:** ⭐️ 2.0k
 - **Tags:** `adaptive-cards` `bot-framework` `sdk` `cross-platform` `microsoft`
 - **最后活动时间:** 2026-10-06
+
+### [Stripe AI](https://github.com/stripe/ai)
+
+Stripe官方AI开发工具包，一站式构建AI驱动的产品和商业应用。
+
+- **Stars:** ⭐️ 2.0k
+- **Tags:** `SDK` `Payments` `Workflows`
+- **最后活动时间:** 2026-10-18
 
 ### [Gymnasium-Robotics](https://github.com/Farama-Foundation/Gymnasium-Robotics)
 
@@ -16628,13 +16916,13 @@ Gymnasium官方机器人模拟环境集，用于强化学习研究。
 - **Tags:** `reinforcement-learning` `robotics` `gymnasium` `mujoco`
 - **最后活动时间:** 2026-10-14
 
-### [Stripe AI](https://github.com/stripe/ai)
+### [reflect-cpp](https://github.com/getml/reflect-cpp)
 
-Stripe官方AI开发工具包，一站式构建AI驱动的产品和商业应用。
+基于C++20反射的高性能序列化与校验库，支持JSON、YAML、Avro等多种数据格式。适合构建AI服务、推理接口和数据处理管道。
 
 - **Stars:** ⭐️ 2.0k
-- **Tags:** `SDK` `Payments` `Workflows`
-- **最后活动时间:** 2026-10-18
+- **Tags:** `reflection` `serialization` `json` `yaml` `cpp20`
+- **最后活动时间:** 2026-10-16
 
 ### [PhiFlow](https://github.com/tum-pbs/PhiFlow)
 
@@ -16650,7 +16938,7 @@ Stripe官方AI开发工具包，一站式构建AI驱动的产品和商业应用�
 
 - **Stars:** ⭐️ 1.9k
 - **Tags:** `PHP` `Static-Binary` `CLI` `Build-Tools`
-- **最后活动时间:** 2026-09-24
+- **最后活动时间:** 2026-10-16
 
 ### [MLJ.jl](https://github.com/JuliaAI/MLJ.jl)
 
@@ -16683,14 +16971,6 @@ Julia语言机器学习框架，提供统一的模型接口、管道和超参数
 - **Stars:** ⭐️ 1.9k
 - **Tags:** `gnn` `geospatial` `graph-neural-network`
 - **最后活动时间:** 2026-09-21
-
-### [reflect-cpp](https://github.com/getml/reflect-cpp)
-
-基于C++20反射的高性能序列化与校验库，支持JSON、YAML、Avro等多种数据格式。适合构建AI服务、推理接口和数据处理管道。
-
-- **Stars:** ⭐️ 1.9k
-- **Tags:** `reflection` `serialization` `json` `yaml` `cpp20`
-- **最后活动时间:** 2026-09-22
 
 ### [windows-drivers-rs](https://github.com/microsoft/windows-drivers-rs)
 
@@ -16780,21 +17060,13 @@ Python工具箱，用于高维数据的几何可视化分析，支持主题建�
 - **Tags:** `data-visualization` `python` `machine-learning` `dimensionality-reduction`
 - **最后活动时间:** 2026-10-10
 
-### [cursor2api](https://github.com/7836246/cursor2api)
-
-将 Cursor Web Docs 免费 API 转换为 OpenAI/Anthropic 兼容格式的代理服务，支持 Claude Code 工具及图片处理。
-
-- **Stars:** ⭐️ 1.9k
-- **Tags:** `api-proxy` `cursor` `openai` `claude` `llm`
-- **最后活动时间:** 2026-10-12
-
 ### [x-crawl](https://github.com/coder-hxl/x-crawl)
 
 灵活的 Node.js AI 辅助爬虫库，支持 Chromium、指纹识别等功能，让网页数据采集更智能高效。
 
 - **Stars:** ⭐️ 1.9k
 - **Tags:** `ai-crawl` `crawler` `puppeteer` `nodejs`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [CoreML-Models](https://github.com/john-rocky/CoreML-Models)
 
@@ -16804,13 +17076,29 @@ Core ML 模型库，提供多种已转换的深度学习模型，包括图像分
 - **Tags:** `coreml` `deep-learning` `image-classification` `object-detection`
 - **最后活动时间:** 2026-10-05
 
+### [cursor2api](https://github.com/7836246/cursor2api)
+
+将 Cursor Web Docs 免费 API 转换为 OpenAI/Anthropic 兼容格式的代理服务，支持 Claude Code 工具及图片处理。
+
+- **Stars:** ⭐️ 1.9k
+- **Tags:** `api-proxy` `cursor` `openai` `claude` `llm`
+- **最后活动时间:** 2026-10-12
+
+### [CodenameOne](https://github.com/codenameone/CodenameOne)
+
+成熟的开源跨平台框架，用一套 Java 代码构建 iOS、Android、桌面、Web 乃至手表上的原生应用，UI 完全可控。
+
+- **Stars:** ⭐️ 1.9k
+- **Tags:** `java` `cross-platform` `mobile-development` `ios` `android`
+- **最后活动时间:** 2026-10-19
+
 ### [pyts](https://github.com/johannfaouzi/pyts)
 
 专注于时间序列分类的Python工具包，提供多种经典算法实现。
 
 - **Stars:** ⭐️ 1.9k
 - **Tags:** `time-series` `classification` `machine-learning`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [jaxtyping](https://github.com/patrick-kidger/jaxtyping)
 
@@ -16820,6 +17108,14 @@ Core ML 模型库，提供多种已转换的深度学习模型，包括图像分
 - **Tags:** `type-annotations` `jax` `pytorch` `numpy` `python-typing`
 - **最后活动时间:** 2026-09-04
 
+### [navop](https://github.com/feigeCode/navop)
+
+一体化原生工作区，集成数据库管理、SSH、SFTP、终端、远程桌面、监控与 AI 能力。
+
+- **Stars:** ⭐️ 1.9k
+- **Tags:** `ai-agents` `database` `ssh` `terminal` `developer-tools`
+- **最后活动时间:** 2026-10-19
+
 ### [snapai](https://github.com/betomoedano/snapai)
 
 AI 驱动的图标生成 CLI 工具，支持 React Native 和 Expo 开发者快速生成精美应用图标。
@@ -16827,14 +17123,6 @@ AI 驱动的图标生成 CLI 工具，支持 React Native 和 Expo 开发者快�
 - **Stars:** ⭐️ 1.9k
 - **Tags:** `ai` `cli` `icon-generator` `openai` `react-native`
 - **最后活动时间:** 2026-07-16
-
-### [navop](https://github.com/feigeCode/navop)
-
-一体化原生工作区，集成数据库管理、SSH、SFTP、终端、远程桌面、监控与 AI 能力。
-
-- **Stars:** ⭐️ 1.9k
-- **Tags:** `ai-agents` `database` `ssh` `terminal` `developer-tools`
-- **最后活动时间:** 2026-10-18
 
 ### [midjourney-api](https://github.com/erictik/midjourney-api)
 
@@ -16868,6 +17156,14 @@ Julia通用概率编程系统，支持可编程推理与贝叶斯深度学习。
 - **Tags:** `probabilistic-programming` `bayesian` `machine-learning` `julia`
 - **最后活动时间:** 2026-06-09
 
+### [voiden](https://github.com/VoidenHQ/voiden)
+
+在纯 Markdown 中设计、测试和文档化 API 的开源工具，通过 API 块组合请求，支持复用、替换与版本化管理。内置 MCP 客户端与工具支持，可无缝接入 AI 智能体工作流，完全离线、Git 原生、无厂商锁定。
+
+- **Stars:** ⭐️ 1.9k
+- **Tags:** `MCP` `API-Client` `OpenAPI` `REST` `Markdown` `GraphQL` `Testing`
+- **最后活动时间:** 2026-10-16
+
 ### [responsible-ai-toolbox](https://github.com/microsoft/responsible-ai-toolbox)
 
 微软推出的负责任AI工具集，提供模型评估、公平性分析和可解释性功能，帮助开发者构建更透明、公正的AI系统。
@@ -16884,14 +17180,6 @@ Julia通用概率编程系统，支持可编程推理与贝叶斯深度学习。
 - **Tags:** `low-code` `gui` `automation` `cross-platform`
 - **最后活动时间:** 2026-10-16
 
-### [voiden](https://github.com/VoidenHQ/voiden)
-
-在纯 Markdown 中设计、测试和文档化 API 的开源工具，通过 API 块组合请求，支持复用、替换与版本化管理。内置 MCP 客户端与工具支持，可无缝接入 AI 智能体工作流，完全离线、Git 原生、无厂商锁定。
-
-- **Stars:** ⭐️ 1.8k
-- **Tags:** `MCP` `API-Client` `OpenAPI` `REST` `Markdown` `GraphQL` `Testing`
-- **最后活动时间:** 2026-10-16
-
 ### [media-kit](https://github.com/media-kit/media-kit)
 
 为 Flutter 与 Dart 打造的跨平台音视频播放器组件，基于 libmpv 实现。一套代码即可覆盖移动端、桌面端与 Web。
@@ -16906,7 +17194,7 @@ Hetzner Cloud的官方命令行界面工具。提供便捷的终端命令来管�
 
 - **Stars:** ⭐️ 1.8k
 - **Tags:** `cli` `command-line-tool` `hcloud` `hetzner-cloud`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [ant-design-x-vue](https://github.com/wzc520pyfm/ant-design-x-vue)
 
@@ -16946,7 +17234,23 @@ NLTK自然语言工具包的官方语料库和数据集集合，包含多种语�
 
 - **Stars:** ⭐️ 1.8k
 - **Tags:** `mcp` `codegen` `openapi` `typescript` `api-client`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
+
+### [claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript)
+
+Anthropic官方提供的Claude Agent开发工具包，支持TypeScript开发者快速构建AI Agent应用。
+
+- **Stars:** ⭐️ 1.8k
+- **Tags:** `claude` `agent-sdk` `typescript`
+- **最后活动时间:** 2026-10-18
+
+### [codex-proxy](https://github.com/icebear0828/codex-proxy)
+
+OpenAI兼容的代理服务，支持ChatGPT Codex响应API，方便开发者集成调用。
+
+- **Stars:** ⭐️ 1.8k
+- **Tags:** `openai` `proxy` `codex` `api`
+- **最后活动时间:** 2026-10-18
 
 ### [VulkanSceneGraph](https://github.com/vsg-dev/VulkanSceneGraph)
 
@@ -16955,14 +17259,6 @@ NLTK自然语言工具包的官方语料库和数据集集合，包含多种语�
 - **Stars:** ⭐️ 1.8k
 - **Tags:** `Vulkan` `Cpp` `SceneGraph` `Graphics`
 - **最后活动时间:** 2026-10-11
-
-### [codex-proxy](https://github.com/icebear0828/codex-proxy)
-
-OpenAI兼容的代理服务，支持ChatGPT Codex响应API，方便开发者集成调用。
-
-- **Stars:** ⭐️ 1.8k
-- **Tags:** `openai` `proxy` `codex` `api`
-- **最后活动时间:** 2026-10-16
 
 ### [stitch-sdk](https://github.com/google-labs-code/stitch-sdk)
 
@@ -16988,13 +17284,21 @@ Python高精度自然语言检测库，适用于短文本和混合语言文本�
 - **Tags:** `language-detection` `nlp` `python` `language-identification`
 - **最后活动时间:** 2026-07-20
 
+### [AIStudioToAPI](https://github.com/iBUHub/AIStudioToAPI)
+
+将 Google AI Studio 封装为兼容 OpenAI、Gemini 和 Anthropic 风格的 API 接口，方便开发者统一调用。
+
+- **Stars:** ⭐️ 1.8k
+- **Tags:** `api-wrapper` `openai-compatible` `gemini` `aistudio`
+- **最后活动时间:** 2026-10-09
+
 ### [underthesea](https://github.com/undertheseanlp/underthesea)
 
 越南语自然语言处理工具包，提供分词、命名实体识别、依存句法分析等完整的NLP功能。
 
 - **Stars:** ⭐️ 1.8k
 - **Tags:** `NLP` `Vietnamese` `Toolkit`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [budoux](https://github.com/google/budoux)
 
@@ -17036,14 +17340,6 @@ LM Studio官方TypeScript SDK，为Node.js应用提供便捷的本地LLM调用�
 - **Tags:** `sql` `llm` `mcp` `database`
 - **最后活动时间:** 2026-10-08
 
-### [claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript)
-
-Anthropic官方提供的Claude Agent开发工具包，支持TypeScript开发者快速构建AI Agent应用。
-
-- **Stars:** ⭐️ 1.8k
-- **Tags:** `claude` `agent-sdk` `typescript`
-- **最后活动时间:** 2026-09-30
-
 ### [swift-cross-ui](https://github.com/moreSwift/swift-cross-ui)
 
 一个受 SwiftUI 启发的跨平台声明式 UI 框架，使用纯 Swift 构建。支持在 Linux 和 Windows 上复用 Swift 代码构建原生界面。
@@ -17060,6 +17356,14 @@ AI 原生软件测试平台，使用一套 YAML 测试语言覆盖 API、Web、�
 - **Tags:** `ai-testing` `api-testing` `llm` `yaml` `automation` `self-hosted`
 - **最后活动时间:** 2026-09-26
 
+### [rustworkx](https://github.com/Qiskit/rustworkx)
+
+高性能Python图算法库，由Rust实现。适用于知识图谱、图神经网络等AI场景的图数据处理。
+
+- **Stars:** ⭐️ 1.8k
+- **Tags:** `graph` `python` `rust` `graph-theory`
+- **最后活动时间:** 2026-10-13
+
 ### [opencode-gemini-auth](https://github.com/jenslys/opencode-gemini-auth)
 
 为opencode提供的Gemini认证插件，简化Gemini API的授权流程。
@@ -17067,14 +17371,6 @@ AI 原生软件测试平台，使用一套 YAML 测试语言覆盖 API、Web、�
 - **Stars:** ⭐️ 1.8k
 - **Tags:** `gemini` `auth-plugin` `opencode`
 - **最后活动时间:** 2026-09-23
-
-### [rustworkx](https://github.com/Qiskit/rustworkx)
-
-高性能Python图算法库，由Rust实现。适用于知识图谱、图神经网络等AI场景的图数据处理。
-
-- **Stars:** ⭐️ 1.8k
-- **Tags:** `graph` `python` `rust` `graph-theory`
-- **最后活动时间:** 2026-09-28
 
 ### [tess4j](https://github.com/nguyenq/tess4j)
 
@@ -17084,14 +17380,6 @@ Tesseract OCR的Java JNA封装库，为Java开发者提供简单易用的OCR文�
 - **Tags:** `ocr` `java` `tesseract` `jna`
 - **最后活动时间:** 2026-07-28
 
-### [pytorch_scatter](https://github.com/rusty1s/pytorch_scatter)
-
-PyTorch优化的散射操作扩展库，提供高效的scatter和gather运算支持。
-
-- **Stars:** ⭐️ 1.7k
-- **Tags:** `pytorch` `scatter` `gather` `gpu-operations`
-- **最后活动时间:** 2026-06-03
-
 ### [llm-ui](https://github.com/richardgill/llm-ui)
 
 专为LLM应用设计的React组件库，支持ChatGPT、Claude等模型，提供开箱即用的聊天界面组件。
@@ -17099,6 +17387,14 @@ PyTorch优化的散射操作扩展库，提供高效的scatter和gather运算支
 - **Stars:** ⭐️ 1.7k
 - **Tags:** `React` `LLM` `Component Library`
 - **最后活动时间:** 2026-09-29
+
+### [pytorch_scatter](https://github.com/rusty1s/pytorch_scatter)
+
+PyTorch优化的散射操作扩展库，提供高效的scatter和gather运算支持。
+
+- **Stars:** ⭐️ 1.7k
+- **Tags:** `pytorch` `scatter` `gather` `gpu-operations`
+- **最后活动时间:** 2026-06-03
 
 ### [rnx-kit](https://github.com/microsoft/rnx-kit)
 
@@ -17115,14 +17411,6 @@ Android恶意软件分析与检测引擎，通过黑盒分析方法识别恶意�
 - **Stars:** ⭐️ 1.7k
 - **Tags:** `malware-analysis` `android-security` `malware-detection`
 - **最后活动时间:** 2026-09-24
-
-### [AIStudioToAPI](https://github.com/iBUHub/AIStudioToAPI)
-
-将 Google AI Studio 封装为兼容 OpenAI、Gemini 和 Anthropic 风格的 API 接口，方便开发者统一调用。
-
-- **Stars:** ⭐️ 1.7k
-- **Tags:** `api-wrapper` `openai-compatible` `gemini` `aistudio`
-- **最后活动时间:** 2026-09-19
 
 ### [tnt](https://github.com/meta-pytorch/tnt)
 
@@ -17156,6 +17444,14 @@ Streamlit实时音视频处理组件，支持WebRTC协议，便于构建AI视频
 - **Tags:** `streamlit` `webrtc` `video-processing` `real-time`
 - **最后活动时间:** 2026-10-16
 
+### [certify](https://github.com/webprofusion/certify)
+
+Windows平台上的专业ACME客户端与SSL证书管理工具。基于Let's Encrypt实现证书的自动化申请与续期。
+
+- **Stars:** ⭐️ 1.7k
+- **Tags:** `acme` `ssl` `letsencrypt` `certificate`
+- **最后活动时间:** 2026-10-16
+
 ### [Chat2API](https://github.com/xiaoY233/Chat2API)
 
 免费访问主流AI模型的API转换工具，支持DeepSeek、GLM、Kimi、Qwen等多个AI服务商，可无缝集成Cline等开发工具。
@@ -17172,14 +17468,6 @@ Streamlit实时音视频处理组件，支持WebRTC协议，便于构建AI视频
 - **Tags:** `spiking-neural-network` `pytorch` `snn` `neuroscience` `machine-learning`
 - **最后活动时间:** 2026-10-14
 
-### [certify](https://github.com/webprofusion/certify)
-
-Windows平台上的专业ACME客户端与SSL证书管理工具。基于Let's Encrypt实现证书的自动化申请与续期。
-
-- **Stars:** ⭐️ 1.7k
-- **Tags:** `acme` `ssl` `letsencrypt` `certificate`
-- **最后活动时间:** 2026-09-25
-
 ### [claude-agent-acp](https://github.com/zed-industries/claude-agent-acp)
 
 Claude Agent SDK的ACP客户端适配器，支持在Zed等编辑器中使用Claude智能体。
@@ -17187,6 +17475,14 @@ Claude Agent SDK的ACP客户端适配器，支持在Zed等编辑器中使用Clau
 - **Stars:** ⭐️ 1.7k
 - **Tags:** `claude` `agent-sdk` `editor-integration`
 - **最后活动时间:** 2026-04-20
+
+### [TortoiseGit](https://github.com/TortoiseGit/TortoiseGit)
+
+Windows 资源管理器中的 Git 扩展，通过右键菜单即可完成日常 Git 操作。老牌且稳定的 Windows Git 图形化方案。
+
+- **Stars:** ⭐️ 1.7k
+- **Tags:** `Git` `Windows` `Shell-Extension` `Version-Control`
+- **最后活动时间:** 2026-09-27
 
 ### [causal-learn](https://github.com/py-why/causal-learn)
 
@@ -17212,13 +17508,13 @@ Python因果发现库，用于从数据中学习因果关系。支持多种因�
 - **Tags:** `deep-learning` `pytorch` `tabular-data` `machine-learning`
 - **最后活动时间:** 2026-10-13
 
-### [TortoiseGit](https://github.com/TortoiseGit/TortoiseGit)
+### [tensorly](https://github.com/tensorly/tensorly)
 
-Windows 资源管理器中的 Git 扩展，通过右键菜单即可完成日常 Git 操作。老牌且稳定的 Windows Git 图形化方案。
+Python张量学习库，支持张量分解、回归和学习，兼容PyTorch、TensorFlow、JAX等多个后端框架。
 
 - **Stars:** ⭐️ 1.7k
-- **Tags:** `Git` `Windows` `Shell-Extension` `Version-Control`
-- **最后活动时间:** 2026-09-27
+- **Tags:** `tensor-decomposition` `tensor-learning` `pytorch` `jax`
+- **最后活动时间:** 2026-10-17
 
 ### [ModelingToolkit.jl](https://github.com/SciML/ModelingToolkit.jl)
 
@@ -17226,7 +17522,7 @@ Julia符号计算与建模框架，支持物理信息机器学习和微分方程
 
 - **Stars:** ⭐️ 1.7k
 - **Tags:** `symbolic-computation` `scientific-machine-learning` `differential-equations` `julia`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [axon](https://github.com/elixir-nx/axon)
 
@@ -17236,29 +17532,21 @@ Julia符号计算与建模框架，支持物理信息机器学习和微分方程
 - **Tags:** `elixir` `neural-network` `deep-learning` `nx` `machine-learning`
 - **最后活动时间:** 2026-10-08
 
-### [tensorly](https://github.com/tensorly/tensorly)
-
-Python张量学习库，支持张量分解、回归和学习，兼容PyTorch、TensorFlow、JAX等多个后端框架。
-
-- **Stars:** ⭐️ 1.7k
-- **Tags:** `tensor-decomposition` `tensor-learning` `pytorch` `jax`
-- **最后活动时间:** 2026-10-17
-
 ### [js-genai](https://github.com/googleapis/js-genai)
 
 Google 官方 TypeScript/JavaScript SDK，支持 Gemini 和 Vertex AI，方便前端开发者快速集成 AI 能力。
 
 - **Stars:** ⭐️ 1.7k
 - **Tags:** `Gemini` `Vertex AI` `TypeScript` `JavaScript`
-- **最后活动时间:** 2026-10-16
+- **最后活动时间:** 2026-10-18
 
-### [stlite](https://github.com/whitphx/stlite)
+### [folkbench](https://github.com/Folkbench/folkbench)
 
-在浏览器中运行的 Streamlit 框架，基于 WebAssembly 技术，无需后端服务器即可部署 AI/ML 应用演示。
+开源的 AI API 中转站评测与切换工具，实测各中转服务的可用率、延迟与价格，帮助 Claude Code / Codex 用户挑选最优线路。
 
 - **Stars:** ⭐️ 1.7k
-- **Tags:** `streamlit` `wasm` `pyodide` `browser` `ml-demo`
-- **最后活动时间:** 2026-09-25
+- **Tags:** `llm` `benchmark` `api-relay` `claude-code` `openai-api`
+- **最后活动时间:** 2026-10-18
 
 ### [PyHealth](https://github.com/sunlabuiuc/PyHealth)
 
@@ -17266,7 +17554,15 @@ Google 官方 TypeScript/JavaScript SDK，支持 Gemini 和 Vertex AI，方便�
 
 - **Stars:** ⭐️ 1.7k
 - **Tags:** `Healthcare` `Deep Learning` `Medical AI`
-- **最后活动时间:** 2026-09-27
+- **最后活动时间:** 2026-10-17
+
+### [stlite](https://github.com/whitphx/stlite)
+
+在浏览器中运行的 Streamlit 框架，基于 WebAssembly 技术，无需后端服务器即可部署 AI/ML 应用演示。
+
+- **Stars:** ⭐️ 1.7k
+- **Tags:** `streamlit` `wasm` `pyodide` `browser` `ml-demo`
+- **最后活动时间:** 2026-10-18
 
 ### [ITK](https://github.com/InsightSoftwareConsortium/ITK)
 
@@ -17274,7 +17570,7 @@ Google 官方 TypeScript/JavaScript SDK，支持 Gemini 和 Vertex AI，方便�
 
 - **Stars:** ⭐️ 1.7k
 - **Tags:** `medical-imaging` `image-processing` `segmentation` `python` `cpp`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [skrub](https://github.com/skrub-data/skrub)
 
@@ -17296,7 +17592,7 @@ Google 官方 TypeScript/JavaScript SDK，支持 Gemini 和 Vertex AI，方便�
 
 开源MCP客户端实现，支持连接和交互各类MCP服务器。
 
-- **Stars:** ⭐️ 1.7k
+- **Stars:** ⭐️ 1.6k
 - **Tags:** `mcp` `client` `sdk` `open-source`
 - **最后活动时间:** 2026-10-17
 
@@ -17322,7 +17618,7 @@ Model Context Protocol官方PHP SDK，用于快速构建MCP服务器和客户端
 
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `MCP` `PHP` `SDK`
-- **最后活动时间:** 2026-10-15
+- **最后活动时间:** 2026-10-18
 
 ### [mcp-remote](https://github.com/punkpeye/mcp-remote)
 
@@ -17330,7 +17626,7 @@ Model Context Protocol官方PHP SDK，用于快速构建MCP服务器和客户端
 
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `MCP` `ModelContextProtocol` `AI` `DeveloperTools`
-- **最后活动时间:** 2026-10-14
+- **最后活动时间:** 2026-10-17
 
 ### [onnx-modifier](https://github.com/ZhangGe6/onnx-modifier)
 
@@ -17340,14 +17636,6 @@ Model Context Protocol官方PHP SDK，用于快速构建MCP服务器和客户端
 - **Tags:** `onnx` `visualization` `model-editor` `neural-network`
 - **最后活动时间:** 2026-06-27
 
-### [openTSNE](https://github.com/pavlin-policar/openTSNE)
-
-可扩展的并行t-SNE实现库，用于高维数据降维和可视化，性能优异。
-
-- **Stars:** ⭐️ 1.6k
-- **Tags:** `tsne` `dimensionality-reduction` `visualization` `machine-learning`
-- **最后活动时间:** 2026-10-15
-
 ### [cve-mcp-server](https://github.com/mukul975/cve-mcp-server)
 
 生产级MCP服务器，为Claude提供27种安全情报工具，覆盖CVE查询、EPSS评分、CISA KEV、MITRE ATT&CK、Shodan、VirusTotal等21个API。
@@ -17355,6 +17643,14 @@ Model Context Protocol官方PHP SDK，用于快速构建MCP服务器和客户端
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `mcp-server` `cve` `cybersecurity` `threat-intelligence` `claude-ai` `security`
 - **最后活动时间:** 2026-10-01
+
+### [openTSNE](https://github.com/pavlin-policar/openTSNE)
+
+可扩展的并行t-SNE实现库，用于高维数据降维和可视化，性能优异。
+
+- **Stars:** ⭐️ 1.6k
+- **Tags:** `tsne` `dimensionality-reduction` `visualization` `machine-learning`
+- **最后活动时间:** 2026-10-18
 
 ### [anki-3d-engine](https://github.com/godlikepanos/anki-3d-engine)
 
@@ -17426,7 +17722,7 @@ Apache开源NLP工具库，提供分词、命名实体识别、句法分析等�
 
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `nlp` `apache` `opennlp` `text-processing` `java`
-- **最后活动时间:** 2026-10-15
+- **最后活动时间:** 2026-10-18
 
 ### [TikTokLive](https://github.com/isaackogan/TikTokLive)
 
@@ -17476,14 +17772,6 @@ MiniMax官方MCP服务器，支持文本转语音、图像及视频生成的API�
 - **Tags:** `knowledge-graph` `ontology` `owl` `semantic-web`
 - **最后活动时间:** 2026-10-01
 
-### [pocketjs](https://github.com/pocket-stack/pocketjs)
-
-紧凑的 JavaScript 运行时家族，支持构建 UI、游戏、3D 体验及 AI 原生应用，可跨多种设备运行。
-
-- **Stars:** ⭐️ 1.6k
-- **Tags:** `javascript-runtime` `quickjs` `webassembly` `ai-native`
-- **最后活动时间:** 2026-09-20
-
 ### [AVA](https://github.com/antvis/AVA)
 
 AI原生的可视化分析框架，支持自动洞察生成、图表推荐和GPT驱动的智能分析功能。
@@ -17491,6 +17779,14 @@ AI原生的可视化分析框架，支持自动洞察生成、图表推荐和GPT
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `data-visualization` `chart-recommendation` `insight-gpt` `auto-insight`
 - **最后活动时间:** 2026-10-16
+
+### [pocketjs](https://github.com/pocket-stack/pocketjs)
+
+紧凑的 JavaScript 运行时家族，支持构建 UI、游戏、3D 体验及 AI 原生应用，可跨多种设备运行。
+
+- **Stars:** ⭐️ 1.6k
+- **Tags:** `javascript-runtime` `quickjs` `webassembly` `ai-native`
+- **最后活动时间:** 2026-09-20
 
 ### [similarity](https://github.com/shibing624/similarity)
 
@@ -17508,13 +17804,13 @@ Java文本相似度计算工具包，支持文本相似度计算、情感分析�
 - **Tags:** `pharo` `smalltalk` `notebook` `visualization` `ide`
 - **最后活动时间:** 2026-10-17
 
-### [folkbench](https://github.com/Folkbench/folkbench)
+### [model-explorer](https://github.com/google-ai-edge/model-explorer)
 
-开源的 AI API 中转站评测与切换工具，实测各中转服务的可用率、延迟与价格，帮助 Claude Code / Codex 用户挑选最优线路。
+现代化的模型图可视化与调试工具，帮助开发者直观理解和分析AI模型架构。
 
 - **Stars:** ⭐️ 1.6k
-- **Tags:** `llm` `benchmark` `api-relay` `claude-code` `openai-api`
-- **最后活动时间:** 2026-10-17
+- **Tags:** `ml-model` `visualization` `debugger` `model-graph`
+- **最后活动时间:** 2026-10-16
 
 ### [actions-hugo](https://github.com/peaceiris/actions-hugo)
 
@@ -17522,7 +17818,7 @@ Java文本相似度计算工具包，支持文本相似度计算、情感分析�
 
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `github-actions` `hugo` `ci` `static-site`
-- **最后活动时间:** 2026-10-12
+- **最后活动时间:** 2026-10-18
 
 ### [Mapsui](https://github.com/Mapsui/Mapsui)
 
@@ -17547,14 +17843,6 @@ Julia语言自动微分库，支持控制流和复杂梯度计算，是机器学
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `automatic-differentiation` `julia` `machine-learning` `gradient`
 - **最后活动时间:** 2026-09-22
-
-### [model-explorer](https://github.com/google-ai-edge/model-explorer)
-
-现代化的模型图可视化与调试工具，帮助开发者直观理解和分析AI模型架构。
-
-- **Stars:** ⭐️ 1.6k
-- **Tags:** `ml-model` `visualization` `debugger` `model-graph`
-- **最后活动时间:** 2026-09-29
 
 ### [iocraft](https://github.com/ccbrown/iocraft)
 
@@ -17692,14 +17980,6 @@ Java语言NLP基础工具包，封装了大多数NLP项目中常用的工具和�
 - **Tags:** `neural-network` `javascript` `machine-learning` `browser`
 - **最后活动时间:** 2026-07-07
 
-### [jep](https://github.com/ninia/jep)
-
-在Java中嵌入Python解释器的库，支持在Java应用中调用Python代码和AI/ML模型，实现Java与Python生态的无缝集成。
-
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `python` `java` `jni` `embedding` `integration`
-- **最后活动时间:** 2026-08-15
-
 ### [DALEX](https://github.com/ModelOriented/DALEX)
 
 模型无关的探索与解释语言，提供机器学习模型的可解释性和公平性分析工具。
@@ -17707,6 +17987,14 @@ Java语言NLP基础工具包，封装了大多数NLP项目中常用的工具和�
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `XAI` `Interpretability` `ML`
 - **最后活动时间:** 2026-07-15
+
+### [jep](https://github.com/ninia/jep)
+
+在Java中嵌入Python解释器的库，支持在Java应用中调用Python代码和AI/ML模型，实现Java与Python生态的无缝集成。
+
+- **Stars:** ⭐️ 1.5k
+- **Tags:** `python` `java` `jni` `embedding` `integration`
+- **最后活动时间:** 2026-10-16
 
 ### [drawio-mcp-server](https://github.com/lgazo/drawio-mcp-server)
 
@@ -17762,7 +18050,7 @@ IBM Watson服务的Node.js官方SDK，提供自然语言处理、对话服务、
 
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `ibm-watson` `natural-language` `sdk` `ai-services`
-- **最后活动时间:** 2026-09-27
+- **最后活动时间:** 2026-10-16
 
 ### [mcp-brasil](https://github.com/jxnxts/mcp-brasil)
 
@@ -17772,14 +18060,6 @@ MCP服务器，整合41个巴西公共API，为AI代理提供标准化的数据�
 - **Tags:** `mcp-server` `ai-agents` `claude` `llm` `python`
 - **最后活动时间:** 2026-04-24
 
-### [kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk)
-
-Model Context Protocol 的官方 Kotlin SDK，由 JetBrains 协作维护，支持构建 MCP 服务器和客户端。
-
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `mcp` `kotlin` `sdk` `modelcontextprotocol`
-- **最后活动时间:** 2026-10-16
-
 ### [ratzilla](https://github.com/ratatui/ratzilla)
 
 用 Rust 与 WebAssembly 构建终端风格 Web 应用的框架，由 Ratatui 驱动，复古终端美学一键上屏。
@@ -17787,6 +18067,14 @@ Model Context Protocol 的官方 Kotlin SDK，由 JetBrains 协作维护，支�
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `rust` `wasm` `ratatui` `web-framework` `webassembly`
 - **最后活动时间:** 2026-07-04
+
+### [kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk)
+
+Model Context Protocol 的官方 Kotlin SDK，由 JetBrains 协作维护，支持构建 MCP 服务器和客户端。
+
+- **Stars:** ⭐️ 1.5k
+- **Tags:** `mcp` `kotlin` `sdk` `modelcontextprotocol`
+- **最后活动时间:** 2026-10-16
 
 ### [when](https://github.com/olebedev/when)
 
@@ -17802,15 +18090,7 @@ Model Context Protocol 的官方 Kotlin SDK，由 JetBrains 协作维护，支�
 
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `ai-gameframework` `csharp` `unity3d` `game-server` `network`
-- **最后活动时间:** 2026-10-09
-
-### [aeon](https://github.com/aeon-toolkit/aeon)
-
-时间序列机器学习和深度学习工具包。提供分类、回归、聚类、异常检测等完整功能。
-
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `Time Series` `Machine Learning` `Deep Learning`
-- **最后活动时间:** 2026-10-15
+- **最后活动时间:** 2026-10-19
 
 ### [cocos-mcp-server](https://github.com/DaxianLee/cocos-mcp-server)
 
@@ -17819,6 +18099,14 @@ Cocos Creator AI MCP服务插件，支持一键安装启动，为游戏开发提
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `mcp` `cocos` `game-development` `ai`
 - **最后活动时间:** 2026-07-08
+
+### [aeon](https://github.com/aeon-toolkit/aeon)
+
+时间序列机器学习和深度学习工具包。提供分类、回归、聚类、异常检测等完整功能。
+
+- **Stars:** ⭐️ 1.5k
+- **Tags:** `Time Series` `Machine Learning` `Deep Learning`
+- **最后活动时间:** 2026-10-18
 
 ### [conar](https://github.com/wannabespace/conar)
 
@@ -17860,6 +18148,22 @@ MCP服务器，为AI模型提供Twitter/X数据访问能力，支持用户画像
 - **Tags:** `mcp` `twitter` `social-media` `ai-integration`
 - **最后活动时间:** 2026-09-22
 
+### [pytauri](https://github.com/pytauri/pytauri)
+
+通过 Pyo3 为 Python 提供 Tauri 绑定，让开发者用 Python 构建轻量、高性能的跨平台桌面应用。
+
+- **Stars:** ⭐️ 1.4k
+- **Tags:** `python` `tauri` `gui` `pyo3` `desktop-app`
+- **最后活动时间:** 2026-10-15
+
+### [Rockxy](https://github.com/RockxyApp/Rockxy)
+
+开源原生 macOS HTTP 调试代理，可拦截 HTTPS、检查 API、模拟响应，并支持 WebSocket 与 GraphQL 调试。面向开发者的社区驱动工具，是 Charles/Proxyman 的替代方案。
+
+- **Stars:** ⭐️ 1.4k
+- **Tags:** `debugging-proxy` `macos` `http-proxy` `api-debugging` `swift`
+- **最后活动时间:** 2026-10-18
+
 ### [AI-Fullstack-SaaS-Boilerplate](https://github.com/alan345/AI-Fullstack-SaaS-Boilerplate)
 
 基于 tRPC、Fastify 和 React 构建的全栈 AI SaaS 脚手架，集成 OpenAI 和智能体功能。
@@ -17882,14 +18186,6 @@ MCP服务器，为AI模型提供Twitter/X数据访问能力，支持用户画像
 
 - **Stars:** ⭐️ 1.4k
 - **Tags:** `game-engine` `procedural-generation` `artificial-intelligence` `3d` `opengl`
-- **最后活动时间:** 2026-10-18
-
-### [Rockxy](https://github.com/RockxyApp/Rockxy)
-
-开源原生 macOS HTTP 调试代理，可拦截 HTTPS、检查 API、模拟响应，并支持 WebSocket 与 GraphQL 调试。面向开发者的社区驱动工具，是 Charles/Proxyman 的替代方案。
-
-- **Stars:** ⭐️ 1.4k
-- **Tags:** `debugging-proxy` `macos` `http-proxy` `api-debugging` `swift`
 - **最后活动时间:** 2026-10-18
 
 ### [notify-rust](https://github.com/hoodie/notify-rust)
@@ -17964,6 +18260,14 @@ scikit-learn管道扩展库，提供丰富的自定义转换器和模型组件�
 - **Tags:** `rust` `terminal` `table` `library`
 - **最后活动时间:** 2026-09-25
 
+### [reverse-api-engineer](https://github.com/kalil0321/reverse-api-engineer)
+
+基于Claude的API逆向工程工具，自动捕获流量、生成文档和API客户端，简化API集成流程。
+
+- **Stars:** ⭐️ 1.4k
+- **Tags:** `API逆向` `自动化` `Claude`
+- **最后活动时间:** 2026-09-23
+
 ### [openai-oauth](https://github.com/EvanZhouDev/openai-oauth)
 
 利用您的 ChatGPT 账户免费体验 AI 能力的 OAuth 工具。简化认证流程，轻松接入 OpenAI 服务。
@@ -18004,14 +18308,6 @@ MCP协议服务器，实现AI模型与MySQL数据库的安全交互。
 - **Tags:** `api` `chatgpt` `claude` `gemini` `llm`
 - **最后活动时间:** 2026-10-14
 
-### [fastbuild](https://github.com/fastbuild/fastbuild)
-
-高性能跨平台构建系统，支持缓存与网络分布式编译，可大幅缩短大型 C/C++ 项目的构建时间。游戏与大型工程领域的利器。
-
-- **Stars:** ⭐️ 1.4k
-- **Tags:** `Build-System` `Cpp` `Performance` `Distributed-Build`
-- **最后活动时间:** 2026-09-20
-
 ### [wink-nlp](https://github.com/winkjs/wink-nlp)
 
 开发者友好的自然语言处理库，支持情感分析、命名实体识别、词性标注等功能。
@@ -18019,6 +18315,14 @@ MCP协议服务器，实现AI模型与MySQL数据库的安全交互。
 - **Stars:** ⭐️ 1.4k
 - **Tags:** `nlp` `sentiment-analysis` `ner` `pos-tagging` `tokenize`
 - **最后活动时间:** 2026-05-27
+
+### [fastbuild](https://github.com/fastbuild/fastbuild)
+
+高性能跨平台构建系统，支持缓存与网络分布式编译，可大幅缩短大型 C/C++ 项目的构建时间。游戏与大型工程领域的利器。
+
+- **Stars:** ⭐️ 1.4k
+- **Tags:** `Build-System` `Cpp` `Performance` `Distributed-Build`
+- **最后活动时间:** 2026-09-20
 
 ### [cunzhi](https://github.com/imhuso/cunzhi)
 
@@ -18028,13 +18332,13 @@ MCP协议服务器，实现AI模型与MySQL数据库的安全交互。
 - **Tags:** `mcp` `ai` `persistence`
 - **最后活动时间:** 2026-05-12
 
-### [reverse-api-engineer](https://github.com/kalil0321/reverse-api-engineer)
+### [mace](https://github.com/ACEsuit/mace)
 
-基于Claude的API逆向工程工具，自动捕获流量、生成文档和API客户端，简化API集成流程。
+高阶等变消息传递神经网络，用于快速准确的原子间势能机器学习预测。
 
 - **Stars:** ⭐️ 1.4k
-- **Tags:** `API逆向` `自动化` `Claude`
-- **最后活动时间:** 2026-09-23
+- **Tags:** `machine-learning` `interatomic-potentials` `equivariant-neural-network` `molecular-simulation`
+- **最后活动时间:** 2026-10-15
 
 ### [nlux](https://github.com/nlkitai/nlux)
 
@@ -18076,13 +18380,13 @@ MCP协议服务器，实现AI模型与MySQL数据库的安全交互。
 - **Tags:** `api-documentation` `openapi` `mcp` `static-site-generator`
 - **最后活动时间:** 2026-10-18
 
-### [yuka](https://github.com/Mugen87/yuka)
+### [garmin_mcp](https://github.com/Taxuspt/garmin_mcp)
 
-专为游戏AI开发设计的JavaScript库，提供完整的游戏AI功能模块和API接口。
+MCP服务器，让AI助手能够访问和分析Garmin健康与运动数据。
 
 - **Stars:** ⭐️ 1.4k
-- **Tags:** `game-ai` `javascript` `game-development` `ai-library`
-- **最后活动时间:** 2026-09-29
+- **Tags:** `mcp-server` `garmin` `health-data`
+- **最后活动时间:** 2026-10-15
 
 ### [Orion](https://github.com/sintel-dev/Orion)
 
@@ -18091,6 +18395,14 @@ MCP协议服务器，实现AI模型与MySQL数据库的安全交互。
 - **Stars:** ⭐️ 1.4k
 - **Tags:** `anomaly-detection` `time-series` `deep-learning` `unsupervised-learning`
 - **最后活动时间:** 2026-10-12
+
+### [yuka](https://github.com/Mugen87/yuka)
+
+专为游戏AI开发设计的JavaScript库，提供完整的游戏AI功能模块和API接口。
+
+- **Stars:** ⭐️ 1.4k
+- **Tags:** `game-ai` `javascript` `game-development` `ai-library`
+- **最后活动时间:** 2026-09-29
 
 ### [wtpsplit](https://github.com/segment-any-text/wtpsplit)
 
@@ -18108,14 +18420,6 @@ MCP协议服务器，实现AI模型与MySQL数据库的安全交互。
 - **Tags:** `turkish` `nlp` `morphology` `tokenization`
 - **最后活动时间:** 2026-10-04
 
-### [mace](https://github.com/ACEsuit/mace)
-
-高阶等变消息传递神经网络，用于快速准确的原子间势能机器学习预测。
-
-- **Stars:** ⭐️ 1.4k
-- **Tags:** `machine-learning` `interatomic-potentials` `equivariant-neural-network` `molecular-simulation`
-- **最后活动时间:** 2026-09-24
-
 ### [cvc5](https://github.com/cvc5/cvc5)
 
 开源的SMT（可满足性模理论）自动定理证明器，用于形式化验证和自动推理，是AI自动推理领域的重要工具。
@@ -18131,14 +18435,6 @@ MCP协议服务器，实现AI模型与MySQL数据库的安全交互。
 - **Stars:** ⭐️ 1.4k
 - **Tags:** `React` `UI` `Design-System` `TailwindCSS` `shadcn` `AI-Agents` `Components`
 - **最后活动时间:** 2026-10-17
-
-### [garmin_mcp](https://github.com/Taxuspt/garmin_mcp)
-
-MCP服务器，让AI助手能够访问和分析Garmin健康与运动数据。
-
-- **Stars:** ⭐️ 1.4k
-- **Tags:** `mcp-server` `garmin` `health-data`
-- **最后活动时间:** 2026-10-15
 
 ### [natasha](https://github.com/natasha/natasha)
 
@@ -18212,14 +18508,6 @@ TensorFlow的R语言接口，为R用户提供深度学习开发能力。
 - **Tags:** `tensorflow` `r` `deep-learning` `api`
 - **最后活动时间:** 2026-05-08
 
-### [dgl-ke](https://github.com/awslabs/dgl-ke)
-
-高性能大规模知识图谱嵌入学习与评估工具包，基于DGL框架。
-
-- **Stars:** ⭐️ 1.3k
-- **Tags:** `knowledge-graph` `embeddings` `dgl` `deep-learning`
-- **最后活动时间:** 2026-07-06
-
 ### [CEF4Delphi](https://github.com/salvadordf/CEF4Delphi)
 
 在 Delphi/Lazarus 应用中嵌入 Chromium 浏览器的开源框架，支持 Windows、Linux 和 macOS。
@@ -18227,6 +18515,22 @@ TensorFlow的R语言接口，为R用户提供深度学习开发能力。
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `Chromium` `Delphi` `CEF` `Browser` `Embedding`
 - **最后活动时间:** 2026-10-05
+
+### [python-apple-fm-sdk](https://github.com/apple/python-apple-fm-sdk)
+
+提供对 Apple Intelligence 设备端模型访问的 Python 绑定库。基于 Foundation Models 框架，方便开发者在 Python 环境中集成和使用苹果的本地大模型。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `python` `apple-intelligence` `on-device-model` `foundation-models` `sdk`
+- **最后活动时间:** 2026-10-07
+
+### [dgl-ke](https://github.com/awslabs/dgl-ke)
+
+高性能大规模知识图谱嵌入学习与评估工具包，基于DGL框架。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `knowledge-graph` `embeddings` `dgl` `deep-learning`
+- **最后活动时间:** 2026-07-06
 
 ### [deepl-python](https://github.com/DeepL/deepl-python)
 
@@ -18252,6 +18556,22 @@ DeepL语言翻译API的官方Python库，提供高精度的文本翻译能力。
 - **Tags:** `Kotlin` `Swift` `KMP` `Coroutines` `Multiplatform`
 - **最后活动时间:** 2026-10-04
 
+### [scikit-survival](https://github.com/sebp/scikit-survival)
+
+基于scikit-learn构建的生存分析库，提供事件时间数据的建模与预测能力，适用于医疗、金融等领域的风险分析场景。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `machine-learning` `scikit-learn` `survival-analysis` `python`
+- **最后活动时间:** 2026-10-18
+
+### [dsh-workbuddy-connect](https://github.com/corrinehu/dsh-workbuddy-connect)
+
+将 WorkBuddy 桌面应用内置的模型零配置接入 DeepSeek Harness 的插件，让本地大模型即插即用。适合希望快速复用桌面端模型能力的开发者。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `DeepSeek` `Plugin` `LocalLLM` `ModelIntegration` `DeveloperTools`
+- **最后活动时间:** 2026-10-18
+
 ### [deepl-python](https://github.com/DeepLcom/deepl-python)
 
 DeepL官方Python库，提供高质量的神经机器翻译API接口，支持多语言文本翻译。
@@ -18260,14 +18580,6 @@ DeepL官方Python库，提供高质量的神经机器翻译API接口，支持多
 - **Tags:** `translation` `api` `nlp` `machine-translation`
 - **最后活动时间:** 2026-05-29
 
-### [scikit-survival](https://github.com/sebp/scikit-survival)
-
-基于scikit-learn构建的生存分析库，提供事件时间数据的建模与预测能力，适用于医疗、金融等领域的风险分析场景。
-
-- **Stars:** ⭐️ 1.3k
-- **Tags:** `machine-learning` `scikit-learn` `survival-analysis` `python`
-- **最后活动时间:** 2026-09-27
-
 ### [livelossplot](https://github.com/stared/livelossplot)
 
 Jupyter Notebook实时训练损失可视化工具，支持Keras、PyTorch等框架，便于监控训练过程。
@@ -18275,14 +18587,6 @@ Jupyter Notebook实时训练损失可视化工具，支持Keras、PyTorch等框�
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `visualization` `training` `jupyter` `deep-learning`
 - **最后活动时间:** 2026-07-26
-
-### [python-apple-fm-sdk](https://github.com/apple/python-apple-fm-sdk)
-
-提供对 Apple Intelligence 设备端模型访问的 Python 绑定库。基于 Foundation Models 框架，方便开发者在 Python 环境中集成和使用苹果的本地大模型。
-
-- **Stars:** ⭐️ 1.3k
-- **Tags:** `python` `apple-intelligence` `on-device-model` `foundation-models` `sdk`
-- **最后活动时间:** 2026-09-30
 
 ### [NeuroAPI](https://github.com/neurogen-dev/NeuroAPI)
 
@@ -18330,7 +18634,7 @@ Jupyter Notebook实时训练损失可视化工具，支持Keras、PyTorch等框�
 
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `scikit-learn` `machine-learning` `transpiler` `model-deployment`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [cli](https://github.com/TanStack/cli)
 
@@ -18348,14 +18652,6 @@ Python贝叶斯模型构建接口，简化概率编程和统计建模流程，�
 - **Tags:** `bayesian-inference` `statistical-modeling` `python` `machine-learning`
 - **最后活动时间:** 2026-09-29
 
-### [explorer](https://github.com/elixir-explorer/explorer)
-
-Elixir语言数据框库，支持快速优雅的数据探索与分析。
-
-- **Stars:** ⭐️ 1.3k
-- **Tags:** `elixir` `dataframes` `data-science`
-- **最后活动时间:** 2026-09-28
-
 ### [agentshield](https://github.com/affaan-m/agentshield)
 
 AI智能体安全扫描工具，检测Agent配置、MCP服务器和工具权限中的安全漏洞。
@@ -18364,13 +18660,21 @@ AI智能体安全扫描工具，检测Agent配置、MCP服务器和工具权限�
 - **Tags:** `ai-security` `mcp` `ai-agent` `vulnerability-scanner`
 - **最后活动时间:** 2026-10-18
 
+### [explorer](https://github.com/elixir-explorer/explorer)
+
+Elixir语言数据框库，支持快速优雅的数据探索与分析。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `elixir` `dataframes` `data-science`
+- **最后活动时间:** 2026-09-28
+
 ### [text](https://github.com/tensorflow/text)
 
 TensorFlow官方文本处理库，提供文本预处理、分词、嵌入等操作的TensorFlow原生实现。
 
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `text-processing` `nlp` `tensorflow` `tokenization`
-- **最后活动时间:** 2026-09-25
+- **最后活动时间:** 2026-10-16
 
 ### [mlforecast](https://github.com/Nixtla/mlforecast)
 
@@ -18387,6 +18691,14 @@ Flutter插件，实现Google独立ML Kit功能，为移动开发者提供便捷�
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `flutter` `ml-kit` `mobile` `sdk`
 - **最后活动时间:** 2026-09-14
+
+### [colab-mcp](https://github.com/googlecolab/colab-mcp)
+
+MCP服务器，让AI助手能够与Google Colab交互，实现代码执行和计算资源调用。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `mcp` `google-colab` `ai-integration`
+- **最后活动时间:** 2026-06-23
 
 ### [Transformers4Rec](https://github.com/NVIDIA-Merlin/Transformers4Rec)
 
@@ -18418,7 +18730,7 @@ CliProxyAPI使用量追踪工具，支持SQLite持久化存储并内置可视化
 
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `cliproxyapi` `claude` `gemini` `token-analysis` `dashboard`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [figma-mcp-go](https://github.com/vkhanhqui/figma-mcp-go)
 
@@ -18436,14 +18748,6 @@ Figma MCP服务器，支持免费用户无速率限制的读写操作，支持�
 - **Tags:** `ai-testing` `playwright` `browser-testing` `e2e-testing`
 - **最后活动时间:** 2026-09-12
 
-### [data](https://github.com/meta-pytorch/data)
-
-PyTorch官方数据加载工具库，为PyTorch领域库提供共享的数据加载器和实用工具，简化AI模型训练的数据处理流程。
-
-- **Stars:** ⭐️ 1.3k
-- **Tags:** `pytorch` `data-loading` `machine-learning` `deep-learning`
-- **最后活动时间:** 2026-09-16
-
 ### [standards-sdk](https://github.com/hashgraph-online/standards-sdk)
 
 HOL官方标准SDK，支持AI代理与Hedera区块链网络的无缝集成，提供MCP服务器支持。
@@ -18452,13 +18756,13 @@ HOL官方标准SDK，支持AI代理与Hedera区块链网络的无缝集成，提
 - **Tags:** `agents` `ai` `hedera` `mcp-servers` `sdk`
 - **最后活动时间:** 2026-10-08
 
-### [dsh-workbuddy-connect](https://github.com/corrinehu/dsh-workbuddy-connect)
+### [data](https://github.com/meta-pytorch/data)
 
-将 WorkBuddy 桌面应用内置的模型零配置接入 DeepSeek Harness 的插件，让本地大模型即插即用。适合希望快速复用桌面端模型能力的开发者。
+PyTorch官方数据加载工具库，为PyTorch领域库提供共享的数据加载器和实用工具，简化AI模型训练的数据处理流程。
 
 - **Stars:** ⭐️ 1.3k
-- **Tags:** `DeepSeek` `Plugin` `LocalLLM` `ModelIntegration` `DeveloperTools`
-- **最后活动时间:** 2026-10-18
+- **Tags:** `pytorch` `data-loading` `machine-learning` `deep-learning`
+- **最后活动时间:** 2026-09-16
 
 ### [intellagent](https://github.com/plurai-ai/intellagent)
 
@@ -18532,13 +18836,21 @@ Hex-Rays 官方推出的 IDA MCP 服务器，让 LLM 智能体直接驱动 IDA �
 - **Tags:** `yolo` `object-detection` `annotation` `computer-vision`
 - **最后活动时间:** 2026-10-06
 
-### [torch-rechub](https://github.com/datawhalechina/torch-rechub)
+### [mcp-server](https://github.com/PortSwigger/mcp-server)
 
-基于PyTorch的推荐算法框架，易用易扩展，支持CTR预测、生成式推荐等多种模型。
+为Burp Suite安全测试工具提供MCP服务器集成，让AI助手能够辅助安全分析工作。
 
 - **Stars:** ⭐️ 1.2k
-- **Tags:** `推荐系统` `PyTorch` `深度学习`
-- **最后活动时间:** 2026-10-15
+- **Tags:** `mcp` `burp` `security`
+- **最后活动时间:** 2026-10-16
+
+### [mailcheap](https://github.com/marclou/mailcheap)
+
+按发送量付费的开源邮件通讯平台,支持自托管,是 Mailchimp/beehiiv 的高性价比替代。内置 MCP Server,可让 AI 智能体直接管理订阅者并发送新闻邮件。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `mcp-server` `ai-agents` `newsletter` `email-marketing` `self-hosted`
+- **最后活动时间:** 2026-10-18
 
 ### [ai](https://github.com/laravel/ai)
 
@@ -18546,6 +18858,22 @@ Laravel AI SDK，提供统一优雅的API接口，支持OpenAI、Anthropic、Gem
 
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `Laravel` `SDK` `Multi-provider`
+- **最后活动时间:** 2026-10-18
+
+### [torch-rechub](https://github.com/datawhalechina/torch-rechub)
+
+基于PyTorch的推荐算法框架，易用易扩展，支持CTR预测、生成式推荐等多种模型。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `推荐系统` `PyTorch` `深度学习`
+- **最后活动时间:** 2026-10-18
+
+### [symfony-ai](https://github.com/symfony/ai)
+
+Symfony AI组件库，为PHP开发者提供便捷的AI能力集成方案，轻松将AI功能融入Laravel/Symfony应用。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `PHP` `Symfony` `AI集成`
 - **最后活动时间:** 2026-10-18
 
 ### [testsigma](https://github.com/testsigmahq/testsigma)
@@ -18556,13 +18884,21 @@ AI驱动的智能测试自动化平台，支持Web、移动端、API等多平台
 - **Tags:** `automated-testing` `ai-testing` `test-automation`
 - **最后活动时间:** 2026-08-05
 
-### [symfony-ai](https://github.com/symfony/ai)
+### [ai-captcha-bypass](https://github.com/aydinnyunus/ai-captcha-bypass)
 
-Symfony AI组件库，为PHP开发者提供便捷的AI能力集成方案，轻松将AI功能融入Laravel/Symfony应用。
+基于AI的验证码识别与绕过工具，利用人工智能技术自动解决各类验证码挑战。
 
 - **Stars:** ⭐️ 1.2k
-- **Tags:** `PHP` `Symfony` `AI集成`
-- **最后活动时间:** 2026-10-16
+- **Tags:** `ai` `captcha` `python` `automation`
+- **最后活动时间:** 2026-05-23
+
+### [anthropic-sdk-go](https://github.com/anthropics/anthropic-sdk-go)
+
+Anthropic官方Go语言SDK，提供对Claude等安全优先大语言模型API的访问接口。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `anthropic` `claude` `go` `sdk` `llm`
+- **最后活动时间:** 2026-10-15
 
 ### [TensorFlow-Unreal](https://github.com/getnamo/TensorFlow-Unreal)
 
@@ -18579,14 +18915,6 @@ Unreal Engine的TensorFlow插件，支持在游戏引擎中集成深度学习功
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `emulator` `mcp-server` `game-boy` `retroarch`
 - **最后活动时间:** 2026-10-16
-
-### [ai-captcha-bypass](https://github.com/aydinnyunus/ai-captcha-bypass)
-
-基于AI的验证码识别与绕过工具，利用人工智能技术自动解决各类验证码挑战。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `ai` `captcha` `python` `automation`
-- **最后活动时间:** 2026-05-23
 
 ### [hasktorch](https://github.com/hasktorch/hasktorch)
 
@@ -18619,22 +18947,6 @@ Haskell语言的张量计算与神经网络开发库。为函数式编程爱好�
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `visualization` `time-series` `plotly`
 - **最后活动时间:** 2026-10-04
-
-### [mailcheap](https://github.com/marclou/mailcheap)
-
-按发送量付费的开源邮件通讯平台,支持自托管,是 Mailchimp/beehiiv 的高性价比替代。内置 MCP Server,可让 AI 智能体直接管理订阅者并发送新闻邮件。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `mcp-server` `ai-agents` `newsletter` `email-marketing` `self-hosted`
-- **最后活动时间:** 2026-10-17
-
-### [anthropic-sdk-go](https://github.com/anthropics/anthropic-sdk-go)
-
-Anthropic官方Go语言SDK，提供对Claude等安全优先大语言模型API的访问接口。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `anthropic` `claude` `go` `sdk` `llm`
-- **最后活动时间:** 2026-09-28
 
 ### [langchain](https://github.com/brainlid/langchain)
 
@@ -18676,21 +18988,13 @@ PyTorch官方C++扩展开发指南，帮助开发者用C++编写高性能PyTorch
 - **Tags:** `pytorch` `cpp` `deep-learning` `extensions`
 - **最后活动时间:** 2026-10-07
 
-### [mcp-server](https://github.com/PortSwigger/mcp-server)
+### [earth2studio](https://github.com/NVIDIA/earth2studio)
 
-为Burp Suite安全测试工具提供MCP服务器集成，让AI助手能够辅助安全分析工作。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `mcp` `burp` `security`
-- **最后活动时间:** 2026-09-18
-
-### [opennn](https://github.com/Artelnics/opennn)
-
-开源神经网络库，提供高性能的深度学习算法实现。适合构建预测模型和数据分析应用。
+开源深度学习框架，用于探索、构建和部署 AI 天气与气候预测工作流。
 
 - **Stars:** ⭐️ 1.2k
-- **Tags:** `neural-network` `deep-learning` `machine-learning` `cpp`
-- **最后活动时间:** 2026-09-30
+- **Tags:** `deep-learning` `weather` `climate-science` `ai`
+- **最后活动时间:** 2026-10-17
 
 ### [AGenUI](https://github.com/AGenUI/AGenUI)
 
@@ -18700,13 +19004,13 @@ PyTorch官方C++扩展开发指南，帮助开发者用C++编写高性能PyTorch
 - **Tags:** `a2ui` `ai-generative-ui` `cross-platform` `native-rendering` `llm-ui`
 - **最后活动时间:** 2026-10-08
 
-### [earth2studio](https://github.com/NVIDIA/earth2studio)
+### [opennn](https://github.com/Artelnics/opennn)
 
-开源深度学习框架，用于探索、构建和部署 AI 天气与气候预测工作流。
+开源神经网络库，提供高性能的深度学习算法实现。适合构建预测模型和数据分析应用。
 
 - **Stars:** ⭐️ 1.2k
-- **Tags:** `deep-learning` `weather` `climate-science` `ai`
-- **最后活动时间:** 2026-10-17
+- **Tags:** `neural-network` `deep-learning` `machine-learning` `cpp`
+- **最后活动时间:** 2026-09-30
 
 ### [youch](https://github.com/poppinss/youch)
 
@@ -18748,14 +19052,6 @@ Google官方Gen AI Go SDK，帮助开发者将Google生成式模型集成到Go�
 - **Tags:** `aspire` `cloud-native` `microservices` `observability` `dotnet`
 - **最后活动时间:** 2026-10-14
 
-### [qwindowkit](https://github.com/stdware/qwindowkit)
-
-基于 Qt 的跨平台无边框窗口框架，支持 Windows、macOS 与 Linux。帮助开发者轻松实现现代化的自定义窗口外观。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `Qt` `Cpp` `Frameless-Window` `Cross-Platform`
-- **最后活动时间:** 2026-10-13
-
 ### [tgbot-cpp](https://github.com/reo7sp/tgbot-cpp)
 
 C++编写的Telegram Bot API库，支持构建AI聊天机器人和自动化工具，提供完整的API封装。
@@ -18763,6 +19059,22 @@ C++编写的Telegram Bot API库，支持构建AI聊天机器人和自动化工�
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `telegram-bot` `cpp` `bot-api` `chatbot` `sdk`
 - **最后活动时间:** 2026-09-14
+
+### [qwindowkit](https://github.com/stdware/qwindowkit)
+
+基于 Qt 的跨平台无边框窗口框架，支持 Windows、macOS 与 Linux。帮助开发者轻松实现现代化的自定义窗口外观。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `Qt` `Cpp` `Frameless-Window` `Cross-Platform`
+- **最后活动时间:** 2026-10-18
+
+### [rizzo-pii](https://github.com/Rizzo-AI-Academy/rizzo-pii)
+
+本地优先的隐私保护工具，在与 LLM 共享文档前自动匿名化个人敏感信息（PII）。基于 Transformers 的命名实体识别，支持 GDPR 合规场景。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `pii` `anonymization` `llm` `privacy` `transformers` `named-entity-recognition`
+- **最后活动时间:** 2026-09-25
 
 ### [HuggingFaceModelDownloader](https://github.com/bodaay/HuggingFaceModelDownloader)
 
@@ -18796,14 +19108,6 @@ C++编写的Telegram Bot API库，支持构建AI聊天机器人和自动化工�
 - **Tags:** `ai-search` `cli` `rag` `information-retrieval` `semantic-search`
 - **最后活动时间:** 2026-10-16
 
-### [rizzo-pii](https://github.com/Rizzo-AI-Academy/rizzo-pii)
-
-本地优先的隐私保护工具，在与 LLM 共享文档前自动匿名化个人敏感信息（PII）。基于 Transformers 的命名实体识别，支持 GDPR 合规场景。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `pii` `anonymization` `llm` `privacy` `transformers` `named-entity-recognition`
-- **最后活动时间:** 2026-09-25
-
 ### [cpuinfo](https://github.com/pytorch/cpuinfo)
 
 Google 开源的 CPU 信息检测库，支持 x86/ARM 多架构与多平台，可获取缓存、拓扑、指令集等详细信息。底层性能优化的常用依赖库。
@@ -18826,7 +19130,7 @@ Google 开源的 CPU 信息检测库，支持 x86/ARM 多架构与多平台，�
 
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `gan` `api` `framework` `pytorch` `machine-learning`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [MLKit](https://github.com/jenly1314/MLKit)
 
@@ -18868,6 +19172,14 @@ Python泰语自然语言处理库，支持分词、词性标注、命名实体�
 - **Tags:** `point-cloud` `annotation` `autonomous-driving` `labeling` `3d-data`
 - **最后活动时间:** 2026-06-13
 
+### [ComfyUI_VNCCS_Utils](https://github.com/AHEKOT/ComfyUI_VNCCS_Utils)
+
+为ComfyUI提供实用工具节点的集合，增强日常AI工作流。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `comfyui` `nodes` `utils` `workflow`
+- **最后活动时间:** 2026-10-18
+
 ### [cornerstone3D](https://github.com/cornerstonejs/cornerstone3D)
 
 构建Web医学影像应用的JavaScript库框架，为放射学应用提供高性能渲染支持。
@@ -18892,14 +19204,6 @@ Rust高精度自然语言检测库，适用于短文本和混合语言文本识�
 - **Tags:** `language-detection` `nlp` `rust` `language-identification`
 - **最后活动时间:** 2026-10-13
 
-### [munk-ai](https://github.com/chaxiu/munk-ai)
-
-一款自我进化的AI测试引擎，支持Android、iOS和Web平台的自动化测试。能够帮助开发者提升跨平台应用的测试效率与质量。
-
-- **Stars:** ⭐️ 1.1k
-- **Tags:** `ai-testing` `automation` `cross-platform` `qa`
-- **最后活动时间:** 2026-08-19
-
 ### [HacxGPT-CLI](https://github.com/HacxGPT-Official/HacxGPT-CLI)
 
 开源的AI命令行工具，提供无审查限制的AI模型访问能力，支持多种强大模型。
@@ -18907,6 +19211,14 @@ Rust高精度自然语言检测库，适用于短文本和混合语言文本识�
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `ai` `cli` `chatbot` `gpt` `uncensored-ai`
 - **最后活动时间:** 2026-06-16
+
+### [munk-ai](https://github.com/chaxiu/munk-ai)
+
+一款自我进化的AI测试引擎，支持Android、iOS和Web平台的自动化测试。能够帮助开发者提升跨平台应用的测试效率与质量。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `ai-testing` `automation` `cross-platform` `qa`
+- **最后活动时间:** 2026-10-07
 
 ### [cross-platform-llm-client](https://github.com/orailnoor/cross-platform-llm-client)
 
@@ -18922,7 +19234,7 @@ Rust高精度自然语言检测库，适用于短文本和混合语言文本识�
 
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `llm-sandbox` `code-interpreter` `python` `code-execution`
-- **最后活动时间:** 2026-10-16
+- **最后活动时间:** 2026-10-18
 
 ### [weave](https://github.com/wandb/weave)
 
@@ -18955,6 +19267,14 @@ Weights & Biases开发的AI应用工具包，提供追踪、调试和评估AI应
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `genomics` `alphafold` `bioinformatics` `protein-structure`
 - **最后活动时间:** 2026-05-28
+
+### [codex-tools](https://github.com/170-carry/codex-tools)
+
+OpenAI Codex API管理工具，支持账号切换、用量监控和API反向代理，方便开发者管理和优化AI模型调用。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `openai` `codex` `api-proxy` `developer-tools`
+- **最后活动时间:** 2026-10-16
 
 ### [nestjs-zod](https://github.com/BenLorantfy/nestjs-zod)
 
@@ -19004,14 +19324,6 @@ MCP服务器，为AI模型提供土耳其法律数据库访问，支持法律研
 - **Tags:** `ai-tools` `token-tracker` `developer-tools` `macos` `cli`
 - **最后活动时间:** 2026-07-27
 
-### [codex-tools](https://github.com/170-carry/codex-tools)
-
-OpenAI Codex API管理工具，支持账号切换、用量监控和API反向代理，方便开发者管理和优化AI模型调用。
-
-- **Stars:** ⭐️ 1.1k
-- **Tags:** `openai` `codex` `api-proxy` `developer-tools`
-- **最后活动时间:** 2026-09-29
-
 ### [tsfel](https://github.com/fraunhoferportugal/tsfel)
 
 直观的时间序列特征提取库，支持分类和特征工程任务。
@@ -19050,7 +19362,7 @@ undefined
 
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `reinforcement-learning` `pytorch` `jax` `robotics`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [systemds](https://github.com/apache/systemds)
 
@@ -19068,14 +19380,6 @@ AI账号注册与管理一站式工具集，支持ChatGPT、Claude、Gemini等�
 - **Tags:** `ai-tools` `automation` `account-management` `chatgpt` `claude` `gemini` `openai`
 - **最后活动时间:** 2026-07-17
 
-### [colab-mcp](https://github.com/googlecolab/colab-mcp)
-
-MCP服务器，让AI助手能够与Google Colab交互，实现代码执行和计算资源调用。
-
-- **Stars:** ⭐️ 1.1k
-- **Tags:** `mcp` `google-colab` `ai-integration`
-- **最后活动时间:** 2026-06-23
-
 ### [fastprogress](https://github.com/AnswerDotAI/fastprogress)
 
 由 fast.ai 团队打造的高效进度条库，专为 Jupyter Notebook 和控制台设计，广泛用于机器学习训练过程的可视化监控。
@@ -19090,7 +19394,7 @@ MCP服务器，让AI助手能够与Google Colab交互，实现代码执行和计
 
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `docx` `editor` `agent-sdk` `collaborative` `wysiwyg`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [mcp-scanner](https://github.com/cisco-ai-defense/mcp-scanner)
 
@@ -19116,13 +19420,29 @@ Markdown转Word模板工具，支持Codex、Claude Code等AI工具调用，适�
 - **Tags:** `medical-imaging` `image-processing` `segmentation` `registration`
 - **最后活动时间:** 2026-10-15
 
+### [figwright](https://github.com/awdr74100/figwright)
+
+免费的双向 Figma MCP 服务器，可将设计稿转换为框架感知的代码，也能把代码推回画布。支持 Claude Code、Cursor、Codex 及任何 MCP 客户端。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `figma` `mcp` `design-to-code` `claude-code` `model-context-protocol`
+- **最后活动时间:** 2026-10-19
+
 ### [xuance](https://github.com/agi-brain/xuance)
 
 全面统一的深度强化学习库，支持PyTorch、TensorFlow2、MindSpore框架，涵盖单智能体和多智能体算法。
 
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `reinforcement-learning` `pytorch` `multi-agent` `mappo` `tensorflow`
-- **最后活动时间:** 2026-10-12
+- **最后活动时间:** 2026-10-18
+
+### [MarkLLM](https://github.com/THU-BPM/MarkLLM)
+
+开源的LLM水印工具包，入选EMNLP 2024系统演示，为可信AI提供完整的水印解决方案。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `llm` `watermark` `trustworthy-ai` `toolkit`
+- **最后活动时间:** 2026-09-05
 
 ### [PointNeXt](https://github.com/guochengqian/PointNeXt)
 
@@ -19140,14 +19460,6 @@ NeurIPS'22论文实现，改进的PointNet++点云神经网络训练与扩展策
 - **Tags:** `ai-ready` `repository-setup` `developer-tools`
 - **最后活动时间:** 2026-09-30
 
-### [MarkLLM](https://github.com/THU-BPM/MarkLLM)
-
-开源的LLM水印工具包，入选EMNLP 2024系统演示，为可信AI提供完整的水印解决方案。
-
-- **Stars:** ⭐️ 1.1k
-- **Tags:** `llm` `watermark` `trustworthy-ai` `toolkit`
-- **最后活动时间:** 2026-09-05
-
 ### [kotlin-agent-skills](https://github.com/Kotlin/kotlin-agent-skills)
 
 专为Kotlin项目设计的AI Agent技能集合，帮助AI助手更好地理解和编写Kotlin代码。
@@ -19155,6 +19467,14 @@ NeurIPS'22论文实现，改进的PointNet++点云神经网络训练与扩展策
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `kotlin` `agent-skills` `ai` `developer-tools`
 - **最后活动时间:** 2026-10-08
+
+### [youtube-skills](https://github.com/ZeroPointRepo/youtube-skills)
+
+面向 AI 代理的 YouTube 技能包，支持获取视频字幕、搜索视频和浏览频道。兼容 OpenClaw、Hermes Agent 等多种代理运行时。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `agent-skills` `youtube-transcript` `ai-agents` `openclaw`
+- **最后活动时间:** 2026-10-14
 
 ### [QueryWeaver](https://github.com/FalkorDB/QueryWeaver)
 
@@ -19188,14 +19508,6 @@ LangSmith官方客户端SDK，为LLM应用提供可观测性、评估测试和�
 - **Tags:** `langchain` `llm` `observability` `evaluation` `sdk`
 - **最后活动时间:** 2026-10-16
 
-### [ComfyUI_VNCCS_Utils](https://github.com/AHEKOT/ComfyUI_VNCCS_Utils)
-
-为ComfyUI提供实用工具节点的集合，增强日常AI工作流。
-
-- **Stars:** ⭐️ 1.1k
-- **Tags:** `comfyui` `nodes` `utils` `workflow`
-- **最后活动时间:** 2026-09-30
-
 ### [mcp-extensions](https://github.com/openai/mcp-extensions)
 
 基于 MCP 协议构建 ChatGPT 原生级插件扩展的开发工具，让 AI 助手无缝集成自定义能力。
@@ -19203,14 +19515,6 @@ LangSmith官方客户端SDK，为LLM应用提供可观测性、评估测试和�
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `MCP` `ChatGPT` `Plugins` `SDK` `OpenAI`
 - **最后活动时间:** 2026-10-10
-
-### [youtube-skills](https://github.com/ZeroPointRepo/youtube-skills)
-
-面向 AI 代理的 YouTube 技能包，支持获取视频字幕、搜索视频和浏览频道。兼容 OpenClaw、Hermes Agent 等多种代理运行时。
-
-- **Stars:** ⭐️ 1.1k
-- **Tags:** `agent-skills` `youtube-transcript` `ai-agents` `openclaw`
-- **最后活动时间:** 2026-10-14
 
 ### [Foundation-Models-Framework-Example](https://github.com/rudrankriyam/Foundation-Models-Framework-Example)
 
@@ -19244,14 +19548,6 @@ LangChain 的 C# 官方实现，提供与原版一致的抽象层，支持 .NET 
 - **Tags:** `voice-ai` `sdk` `realtime-api` `voice-agent`
 - **最后活动时间:** 2026-10-03
 
-### [figwright](https://github.com/awdr74100/figwright)
-
-免费的双向 Figma MCP 服务器，可将设计稿转换为框架感知的代码，也能把代码推回画布。支持 Claude Code、Cursor、Codex 及任何 MCP 客户端。
-
-- **Stars:** ⭐️ 1.1k
-- **Tags:** `figma` `mcp` `design-to-code` `claude-code` `model-context-protocol`
-- **最后活动时间:** 2026-10-17
-
 ### [codex-shim](https://github.com/sybil-solutions/codex-shim)
 
 本地Responses API适配器，支持将Factory BYOK模型及ChatGPT接口暴露给Codex桌面端使用。方便开发者灵活接入自定义模型。
@@ -19282,7 +19578,7 @@ LangChain 的 C# 官方实现，提供与原版一致的抽象层，支持 .NET 
 
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `markdown` `ai` `streaming` `react` `vue`
-- **最后活动时间:** 2026-10-18
+- **最后活动时间:** 2026-10-19
 
 ### [mq](https://github.com/harehare/mq)
 
@@ -19290,7 +19586,7 @@ LangChain 的 C# 官方实现，提供与原版一致的抽象层，支持 .NET 
 
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `markdown` `query-language` `cli` `mcp`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [llama.rn](https://github.com/mybigday/llama.rn)
 
@@ -19298,7 +19594,7 @@ llama.cpp的React Native绑定，支持在iOS和Android应用中本地运行LLM�
 
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `react-native` `llama` `mobile`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [DREAMPlace](https://github.com/limbo018/DREAMPlace)
 
@@ -19332,6 +19628,14 @@ llama.cpp的React Native绑定，支持在iOS和Android应用中本地运行LLM�
 - **Tags:** `MCP` `Platform` `Deployment`
 - **最后活动时间:** 2026-10-16
 
+### [mcpc](https://github.com/apify/mcpc)
+
+MCP协议通用CLI客户端，支持持久会话、OAuth 2.1、JSON输出及AI沙箱代理等功能。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `mcp-client` `model-context-protocol` `claude` `cli` `code-mode`
+- **最后活动时间:** 2026-10-17
+
 ### [generative_ai_project](https://github.com/honestsoul/generative_ai_project)
 
 用于构建生成式AI应用的结构化模板，帮助开发者快速搭建健壮的AI项目架构。
@@ -19339,14 +19643,6 @@ llama.cpp的React Native绑定，支持在iOS和Android应用中本地运行LLM�
 - **Stars:** ⭐️ 1.0k
 - **Tags:** `generative-ai` `template` `boilerplate`
 - **最后活动时间:** 2026-07-06
-
-### [mcpc](https://github.com/apify/mcpc)
-
-MCP协议通用CLI客户端，支持持久会话、OAuth 2.1、JSON输出及AI沙箱代理等功能。
-
-- **Stars:** ⭐️ 1.0k
-- **Tags:** `mcp-client` `model-context-protocol` `claude` `cli` `code-mode`
-- **最后活动时间:** 2026-10-17
 
 ### [Yao.jl](https://github.com/QuantumBFS/Yao.jl)
 
@@ -19436,6 +19732,14 @@ Python文本清洗工具包，用于文本预处理和规范化。
 - **Tags:** `cloud-testing` `test-automation` `chatgpt` `e2e-testing` `testgpt`
 - **最后活动时间:** 2026-10-18
 
+### [opencode2api](https://github.com/jasonxu114514/opencode2api)
+
+基于 Go 的 OpenCode Zen API 代理，兼容 OpenAI 与 Anthropic API 格式，支持密钥/代理池化与自动路由，并内置 WebUI。适合需要统一管理和转发大模型 API 请求的开发者。
+
+- **Stars:** ⭐️ 1.0k
+- **Tags:** `LLM` `API-Proxy` `OpenAI` `Anthropic` `Go` `API-Gateway`
+- **最后活动时间:** 2026-10-17
+
 ### [Sudachi](https://github.com/WorksApplications/Sudachi)
 
 面向商业场景的日语分词器，适用于NLP预处理流程。
@@ -19443,6 +19747,14 @@ Python文本清洗工具包，用于文本预处理和规范化。
 - **Stars:** ⭐️ 1.0k
 - **Tags:** `nlp` `japanese` `tokenizer` `morphological-analysis`
 - **最后活动时间:** 2026-09-18
+
+### [xdg](https://github.com/adrg/xdg)
+
+XDG 基础目录规范的 Go 语言实现，跨平台管理配置与用户目录的标准库。
+
+- **Stars:** ⭐️ 1.0k
+- **Tags:** `Go` `XDG` `Library` `CrossPlatform`
+- **最后活动时间:** 2026-10-13
 
 ### [what-if-tool](https://github.com/PAIR-code/what-if-tool)
 
@@ -19452,13 +19764,13 @@ Google开源的机器学习模型分析工具，支持模型公平性检测、�
 - **Tags:** `machine-learning` `ml-fairness` `tensorboard` `jupyter` `model-analysis`
 - **最后活动时间:** 2026-09-21
 
-### [xdg](https://github.com/adrg/xdg)
+### [tapflow](https://github.com/jo-duchan/tapflow)
 
-XDG 基础目录规范的 Go 语言实现，跨平台管理配置与用户目录的标准库。
+自托管的iOS与Android模拟器云端串流平台，支持团队协作测试移动应用。内置MCP协议支持，可让AI智能体直接操控模拟器，实现AI驱动的自动化移动测试。
 
 - **Stars:** ⭐️ 1.0k
-- **Tags:** `Go` `XDG` `Library` `CrossPlatform`
-- **最后活动时间:** 2026-10-13
+- **Tags:** `MCP` `iOS-Simulator` `Android-Emulator` `Mobile-Testing` `Self-Hosted` `AI-Agents` `Developer-Tools`
+- **最后活动时间:** 2026-10-18
 
 ### [pyGAM](https://github.com/dswah/pyGAM)
 
@@ -19516,14 +19828,6 @@ Windows 平台的实时视频帧共享系统，让创意编程与 VJ 软件之�
 - **Tags:** `video` `texture-sharing` `real-time` `creative-coding` `windows`
 - **最后活动时间:** 2026-10-10
 
-### [tapflow](https://github.com/jo-duchan/tapflow)
-
-自托管的iOS与Android模拟器云端串流平台，支持团队协作测试移动应用。内置MCP协议支持，可让AI智能体直接操控模拟器，实现AI驱动的自动化移动测试。
-
-- **Stars:** ⭐️ 1.0k
-- **Tags:** `MCP` `iOS-Simulator` `Android-Emulator` `Mobile-Testing` `Self-Hosted` `AI-Agents` `Developer-Tools`
-- **最后活动时间:** 2026-10-18
-
 ### [tui-realm](https://github.com/veeso/tui-realm)
 
 基于 ratatui 的 TUI 框架，采用 React/Elm 风格的状态管理方式。助你构建复杂的有状态终端应用。
@@ -19540,6 +19844,14 @@ Windows 平台的实时视频帧共享系统，让创意编程与 VJ 软件之�
 - **Tags:** `rust` `spinner` `tui` `cli`
 - **最后活动时间:** 2026-06-11
 
+### [gnina](https://github.com/gnina/gnina)
+
+基于深度学习的分子对接框架，用于药物发现和计算化学领域，支持CNN评分和分子姿态预测。
+
+- **Stars:** ⭐️ 996
+- **Tags:** `drug-discovery` `molecular-docking` `deep-learning` `cheminformatics`
+- **最后活动时间:** 2026-06-29
+
 ### [soto](https://github.com/soto-project/soto)
 
 Swift 编写的 AWS SDK，完整支持 Linux、macOS 与 iOS，基于 SwiftNIO 构建，是在 Swift 生态中使用 AWS 服务的首选方案。
@@ -19547,14 +19859,6 @@ Swift 编写的 AWS SDK，完整支持 Linux、macOS 与 iOS，基于 SwiftNIO �
 - **Stars:** ⭐️ 996
 - **Tags:** `swift` `aws` `sdk` `swift-nio`
 - **最后活动时间:** 2026-10-16
-
-### [gnina](https://github.com/gnina/gnina)
-
-基于深度学习的分子对接框架，用于药物发现和计算化学领域，支持CNN评分和分子姿态预测。
-
-- **Stars:** ⭐️ 995
-- **Tags:** `drug-discovery` `molecular-docking` `deep-learning` `cheminformatics`
-- **最后活动时间:** 2026-06-29
 
 ### [soynlp](https://github.com/lovit/soynlp)
 
@@ -19580,6 +19884,14 @@ Neo4j官方MCP服务器，为AI模型提供图数据库访问能力，支持知�
 - **Tags:** `neo4j` `mcp` `mcp-server` `graph-database` `knowledge-graph`
 - **最后活动时间:** 2026-09-09
 
+### [taesd](https://github.com/madebyollin/taesd)
+
+Stable Diffusion微型自编码器，用于快速图像编码和解码。
+
+- **Stars:** ⭐️ 988
+- **Tags:** `autoencoder` `stable-diffusion` `optimization`
+- **最后活动时间:** 2026-10-16
+
 ### [OpenHGNN](https://github.com/BUPT-GAMMA/OpenHGNN)
 
 基于DGL的异构图神经网络开源工具包，提供多种异构GNN模型实现。
@@ -19587,22 +19899,6 @@ Neo4j官方MCP服务器，为AI模型提供图数据库访问能力，支持知�
 - **Stars:** ⭐️ 987
 - **Tags:** `graph-neural-networks` `heterogeneous` `dgl` `pytorch` `deep-learning`
 - **最后活动时间:** 2026-07-07
-
-### [taesd](https://github.com/madebyollin/taesd)
-
-Stable Diffusion微型自编码器，用于快速图像编码和解码。
-
-- **Stars:** ⭐️ 987
-- **Tags:** `autoencoder` `stable-diffusion` `optimization`
-- **最后活动时间:** 2026-10-16
-
-### [x-tweet-fetcher](https://github.com/ythx-101/x-tweet-fetcher)
-
-无需登录或API密钥即可获取X/Twitter推文和回复的OpenClaw技能工具，适合AI代理数据采集场景。
-
-- **Stars:** ⭐️ 987
-- **Tags:** `twitter` `data-fetcher` `openclaw` `agent-tool`
-- **最后活动时间:** 2026-10-14
 
 ### [jieba-rs](https://github.com/messense/jieba-rs)
 
@@ -19612,6 +19908,22 @@ Rust实现的结巴中文分词，高性能且支持WebAssembly，适合嵌入�
 - **Tags:** `chinese-segmentation` `rust` `nlp` `wasm`
 - **最后活动时间:** 2026-10-15
 
+### [x-tweet-fetcher](https://github.com/ythx-101/x-tweet-fetcher)
+
+无需登录或API密钥即可获取X/Twitter推文和回复的OpenClaw技能工具，适合AI代理数据采集场景。
+
+- **Stars:** ⭐️ 986
+- **Tags:** `twitter` `data-fetcher` `openclaw` `agent-tool`
+- **最后活动时间:** 2026-10-14
+
+### [kagome](https://github.com/ikawaha/kagome)
+
+纯Go语言实现的日语形态分析器，支持分词和词性标注。
+
+- **Stars:** ⭐️ 985
+- **Tags:** `nlp` `japanese` `tokenizer` `morphological-analysis` `go`
+- **最后活动时间:** 2026-10-15
+
 ### [libgd](https://github.com/libgd/libgd)
 
 经典的 GD 图形库，支持 PNG、JPEG、WebP、AVIF 等多种格式的图像创建与处理。跨平台 C 语言实现，生态应用广泛。
@@ -19619,14 +19931,6 @@ Rust实现的结巴中文分词，高性能且支持WebAssembly，适合嵌入�
 - **Stars:** ⭐️ 985
 - **Tags:** `c` `graphics` `image-processing` `library`
 - **最后活动时间:** 2026-10-07
-
-### [kagome](https://github.com/ikawaha/kagome)
-
-纯Go语言实现的日语形态分析器，支持分词和词性标注。
-
-- **Stars:** ⭐️ 984
-- **Tags:** `nlp` `japanese` `tokenizer` `morphological-analysis` `go`
-- **最后活动时间:** 2026-10-15
 
 ### [node-red-contrib-chatbot](https://github.com/guidone/node-red-contrib-chatbot)
 
@@ -19642,7 +19946,15 @@ Godot 引擎的 JVM GDExtension，支持使用 Kotlin、Java 和 Scala 进行跨
 
 - **Stars:** ⭐️ 980
 - **Tags:** `godot` `kotlin` `java` `gamedev` `gdextension`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
+
+### [NaturalVoiceSAPIAdapter](https://github.com/gexgd0419/NaturalVoiceSAPIAdapter)
+
+让 Azure 自然语音 TTS 可被任何 SAPI 5 兼容应用程序调用。
+
+- **Stars:** ⭐️ 979
+- **Tags:** `sapi5` `azure-tts` `windows` `speech-synthesis`
+- **最后活动时间:** 2026-10-14
 
 ### [scenario](https://github.com/langwatch/scenario)
 
@@ -19659,14 +19971,6 @@ Godot 引擎的 JVM GDExtension，支持使用 Kotlin、Java 和 Scala 进行跨
 - **Stars:** ⭐️ 979
 - **Tags:** `ai-testing` `mock-server` `llm` `mcp`
 - **最后活动时间:** 2026-10-18
-
-### [NaturalVoiceSAPIAdapter](https://github.com/gexgd0419/NaturalVoiceSAPIAdapter)
-
-让 Azure 自然语音 TTS 可被任何 SAPI 5 兼容应用程序调用。
-
-- **Stars:** ⭐️ 978
-- **Tags:** `sapi5` `azure-tts` `windows` `speech-synthesis`
-- **最后活动时间:** 2026-10-14
 
 ### [CppNumericalSolvers](https://github.com/PatWie/CppNumericalSolvers)
 
@@ -19724,13 +20028,13 @@ Apache Spark 的 R 语言接口，提供与 dplyr 兼容的数据操作体验。
 - **Tags:** `apache-spark` `r` `machine-learning` `distributed-computing` `data-science`
 - **最后活动时间:** 2026-10-06
 
-### [opencode2api](https://github.com/jasonxu114514/opencode2api)
+### [mcp](https://github.com/cloudflare/mcp)
 
-基于 Go 的 OpenCode Zen API 代理，兼容 OpenAI 与 Anthropic API 格式，支持密钥/代理池化与自动路由，并内置 WebUI。适合需要统一管理和转发大模型 API 请求的开发者。
+Cloudflare API的MCP服务器，方便开发者通过模型上下文协议进行交互。
 
-- **Stars:** ⭐️ 967
-- **Tags:** `LLM` `API-Proxy` `OpenAI` `Anthropic` `Go` `API-Gateway`
-- **最后活动时间:** 2026-10-17
+- **Stars:** ⭐️ 969
+- **Tags:** `mcp` `cloudflare` `api` `server`
+- **最后活动时间:** 2026-10-13
 
 ### [smartcore](https://github.com/smartcorelib/smartcore)
 
@@ -19739,14 +20043,6 @@ Rust语言机器学习库，提供分类、聚类、回归等算法和数值计�
 - **Stars:** ⭐️ 966
 - **Tags:** `machine-learning` `rust` `classification` `regression`
 - **最后活动时间:** 2026-10-17
-
-### [mcp](https://github.com/cloudflare/mcp)
-
-Cloudflare API的MCP服务器，方便开发者通过模型上下文协议进行交互。
-
-- **Stars:** ⭐️ 965
-- **Tags:** `mcp` `cloudflare` `api` `server`
-- **最后活动时间:** 2026-10-13
 
 ### [Deep-Forest](https://github.com/LAMDA-NJU/Deep-Forest)
 
@@ -19762,7 +20058,15 @@ TypeLLM 让开发者以类型安全的方式调用大语言模型进行文本生
 
 - **Stars:** ⭐️ 960
 - **Tags:** `llm` `type-safety` `sdk` `ai` `generation`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
+
+### [agent-starter-react](https://github.com/livekit-examples/agent-starter-react)
+
+LiveKit语音AI智能体的完整前端应用模板，基于Next.js构建。
+
+- **Stars:** ⭐️ 956
+- **Tags:** `voice-ai` `livekit` `nextjs` `frontend`
+- **最后活动时间:** 2026-10-15
 
 ### [tiktoken-go](https://github.com/pkoukk/tiktoken-go)
 
@@ -19776,17 +20080,9 @@ OpenAI tiktoken的Go语言实现，用于GPT模型的token计数与文本分词�
 
 用于创建和模拟大规模脑模型的Python库。支持神经科学研究与类脑计算开发。
 
-- **Stars:** ⭐️ 953
+- **Stars:** ⭐️ 954
 - **Tags:** `neuroscience` `neural-network` `brain-model` `python`
 - **最后活动时间:** 2026-08-02
-
-### [agent-starter-react](https://github.com/livekit-examples/agent-starter-react)
-
-LiveKit语音AI智能体的完整前端应用模板，基于Next.js构建。
-
-- **Stars:** ⭐️ 952
-- **Tags:** `voice-ai` `livekit` `nextjs` `frontend`
-- **最后活动时间:** 2026-10-15
 
 ### [AnyLanguageModel](https://github.com/huggingface/AnyLanguageModel)
 
@@ -19808,7 +20104,7 @@ MCP服务器，提供语义化代码搜索和上下文生成，支持公私仓�
 
 Python库，用于构建高效的数据科学工作流程，简化机器学习管道的开发与管理。
 
-- **Stars:** ⭐️ 948
+- **Stars:** ⭐️ 949
 - **Tags:** `data-science` `workflow` `python` `pipeline`
 - **最后活动时间:** 2026-06-28
 
@@ -19826,7 +20122,7 @@ Python强化学习库，支持DQN、DDPG、SAC等多种算法，兼容OpenAI Gym
 
 - **Stars:** ⭐️ 945
 - **Tags:** `reinforcement-learning` `deep-learning` `pytorch` `python`
-- **最后活动时间:** 2026-10-16
+- **最后活动时间:** 2026-10-18
 
 ### [pro-react-admin](https://github.com/wkylin/pro-react-admin)
 
@@ -19834,21 +20130,13 @@ Python强化学习库，支持DQN、DDPG、SAC等多种算法，兼容OpenAI Gym
 
 - **Stars:** ⭐️ 945
 - **Tags:** `react` `admin-dashboard` `ai` `typescript` `antd`
-- **最后活动时间:** 2026-10-17
-
-### [Shimmy](https://github.com/Farama-Foundation/Shimmy)
-
-为 DeepMind Control Suite 等主流强化学习环境提供 Gymnasium 与 PettingZoo 接口绑定，便于统一开展 RL 实验。
-
-- **Stars:** ⭐️ 943
-- **Tags:** `reinforcement-learning` `gymnasium` `pettingzoo` `rl-environments`
-- **最后活动时间:** 2026-09-12
+- **最后活动时间:** 2026-10-18
 
 ### [go-llama.cpp](https://github.com/go-skynet/go-llama.cpp)
 
 LLama.cpp 的 Go 语言绑定，支持在 Go 项目中高效运行大语言模型推理。
 
-- **Stars:** ⭐️ 942
+- **Stars:** ⭐️ 943
 - **Tags:** `llm` `golang` `llama.cpp` `inference`
 - **最后活动时间:** 2026-10-10
 
@@ -19868,11 +20156,19 @@ C++并行优化计算平台，支持全局/局部优化及进化算法，提供P
 - **Tags:** `optimization` `evolutionary-algorithms` `parallel-computing` `python` `cpp`
 - **最后活动时间:** 2026-09-29
 
+### [Shimmy](https://github.com/Farama-Foundation/Shimmy)
+
+为 DeepMind Control Suite 等主流强化学习环境提供 Gymnasium 与 PettingZoo 接口绑定，便于统一开展 RL 实验。
+
+- **Stars:** ⭐️ 937
+- **Tags:** `reinforcement-learning` `gymnasium` `pettingzoo` `rl-environments`
+- **最后活动时间:** 2026-10-14
+
 ### [model-zoo](https://github.com/FluxML/model-zoo)
 
 Julia语言Flux框架的模型集合，提供多种预训练模型供开发者使用。
 
-- **Stars:** ⭐️ 935
+- **Stars:** ⭐️ 936
 - **Tags:** `deep-learning` `julia` `flux` `model-zoo`
 - **最后活动时间:** 2026-07-01
 
@@ -19880,7 +20176,7 @@ Julia语言Flux框架的模型集合，提供多种预训练模型供开发者�
 
 PyTorch图聚类算法扩展库，提供优化的聚类算法实现。
 
-- **Stars:** ⭐️ 931
+- **Stars:** ⭐️ 933
 - **Tags:** `cluster-algorithms` `graph-neural-networks` `geometric-deep-learning` `pytorch`
 - **最后活动时间:** 2026-06-05
 
@@ -19888,9 +20184,9 @@ PyTorch图聚类算法扩展库，提供优化的聚类算法实现。
 
 Model Context Protocol (MCP) 的官方 Ruby SDK。它为 Ruby 开发者提供了与 MCP 交互的标准接口，便于构建智能体应用。
 
-- **Stars:** ⭐️ 931
+- **Stars:** ⭐️ 932
 - **Tags:** `ruby` `sdk` `model-context-protocol` `mcp`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [DiffEqFlux.jl](https://github.com/SciML/DiffEqFlux.jl)
 
@@ -19898,7 +20194,7 @@ Julia科学机器学习库，融合微分方程求解器与神经网络，支持
 
 - **Stars:** ⭐️ 929
 - **Tags:** `scientific-ml` `neural-ode` `physics-informed`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [SmartJavaAI](https://github.com/geekwenjie/SmartJavaAI)
 
@@ -19928,7 +20224,7 @@ Graftcode 是一个集成-free的开发层，让您可以跨语言和运行时�
 
 LLM逆向工程API管理工具，通过标准OpenAI API格式统一访问多种AI服务接口。
 
-- **Stars:** ⭐️ 925
+- **Stars:** ⭐️ 926
 - **Tags:** `API Gateway` `OpenAI Compatible` `LLM Proxy`
 - **最后活动时间:** 2026-10-17
 
@@ -19948,6 +20244,30 @@ LLM逆向工程API管理工具，通过标准OpenAI API格式统一访问多种A
 - **Tags:** `flutter` `sdui` `json` `cross-platform` `dynamic-ui`
 - **最后活动时间:** 2026-10-16
 
+### [smt](https://github.com/SMTorg/smt)
+
+代理建模工具箱，提供多种代理模型、采样方法和多保真度建模功能，适用于科学计算和工程优化场景。
+
+- **Stars:** ⭐️ 921
+- **Tags:** `surrogate-models` `machine-learning` `optimization` `python`
+- **最后活动时间:** 2026-10-12
+
+### [differential-privacy-library](https://github.com/IBM/differential-privacy-library)
+
+IBM开源差分隐私库，提供机器学习隐私保护工具，支持差分隐私模型训练和数据分析。
+
+- **Stars:** ⭐️ 920
+- **Tags:** `differential-privacy` `data-privacy` `machine-learning`
+- **最后活动时间:** 2026-10-12
+
+### [air](https://github.com/feldroy/air)
+
+首个专为AI编写代码而设计的Web框架，基于Python、FastAPI、Pydantic和HTMX构建，由Django畅销书作者打造。
+
+- **Stars:** ⭐️ 919
+- **Tags:** `AI Coding` `Web Framework` `FastAPI`
+- **最后活动时间:** 2026-10-16
+
 ### [rumale](https://github.com/yoshoku/rumale)
 
 Ruby机器学习库，提供丰富的算法实现，包括分类、回归、聚类、降维等功能。
@@ -19955,22 +20275,6 @@ Ruby机器学习库，提供丰富的算法实现，包括分类、回归、聚�
 - **Stars:** ⭐️ 919
 - **Tags:** `machine-learning` `ruby` `ml-library` `data-science`
 - **最后活动时间:** 2026-09-14
-
-### [differential-privacy-library](https://github.com/IBM/differential-privacy-library)
-
-IBM开源差分隐私库，提供机器学习隐私保护工具，支持差分隐私模型训练和数据分析。
-
-- **Stars:** ⭐️ 919
-- **Tags:** `differential-privacy` `data-privacy` `machine-learning`
-- **最后活动时间:** 2026-09-23
-
-### [air](https://github.com/feldroy/air)
-
-首个专为AI编写代码而设计的Web框架，基于Python、FastAPI、Pydantic和HTMX构建，由Django畅销书作者打造。
-
-- **Stars:** ⭐️ 918
-- **Tags:** `AI Coding` `Web Framework` `FastAPI`
-- **最后活动时间:** 2026-10-16
 
 ### [pyTermTk](https://github.com/ceccopierangiolieugenio/pyTermTk)
 
@@ -20003,14 +20307,6 @@ Bubble Tea 的鼠标事件追踪辅助工具，让 Go TUI 应用轻松支持鼠�
 - **Stars:** ⭐️ 916
 - **Tags:** `ocr` `data-generation` `deep-learning` `text-rendering`
 - **最后活动时间:** 2026-05-17
-
-### [smt](https://github.com/SMTorg/smt)
-
-代理建模工具箱，提供多种代理模型、采样方法和多保真度建模功能，适用于科学计算和工程优化场景。
-
-- **Stars:** ⭐️ 916
-- **Tags:** `surrogate-models` `machine-learning` `optimization` `python`
-- **最后活动时间:** 2026-09-17
 
 ### [alfred](https://github.com/lucasjinreal/alfred)
 
@@ -20058,7 +20354,7 @@ Google Vertex AI 官方 Python SDK，提供完整的机器学习生命周期管�
 
 - **Stars:** ⭐️ 910
 - **Tags:** `Vertex AI` `Python SDK` `Google Cloud`
-- **最后活动时间:** 2026-10-16
+- **最后活动时间:** 2026-10-18
 
 ### [jenetics](https://github.com/jenetics/jenetics)
 
@@ -20083,6 +20379,14 @@ Rust 编写的多提供商生成式 AI 客户端，统一支持 Ollama、OpenAI�
 - **Stars:** ⭐️ 909
 - **Tags:** `LaTeX OCR` `Computer Vision` `Transformers`
 - **最后活动时间:** 2026-09-18
+
+### [specification.website](https://github.com/jdevalk/specification.website)
+
+网站规范工具，涵盖HTML、可访问性、安全性和Agent就绪性。平台无关且开源，助力构建AI友好的Web标准。
+
+- **Stars:** ⭐️ 909
+- **Tags:** `specification` `agent-readiness` `web-standards` `mcp`
+- **最后活动时间:** 2026-10-17
 
 ### [HCP-Diffusion](https://github.com/IrisRainbowNeko/HCP-Diffusion)
 
@@ -20120,7 +20424,7 @@ MCP服务器，帮助AI理解和操作复杂的OpenAPI接口规范。
 
 一站式AI开发库，集成提示工程与研究论文资源，简化AI应用开发流程。
 
-- **Stars:** ⭐️ 904
+- **Stars:** ⭐️ 905
 - **Tags:** `ai` `machine-learning` `prompt-engineering` `library`
 - **最后活动时间:** 2026-09-01
 
@@ -20228,6 +20532,14 @@ Python计算机视觉库，提供快速图像处理与特征提取算法，基�
 - **Tags:** `swift` `llm` `ios` `macos` `llm-inference` `gguf`
 - **最后活动时间:** 2026-07-19
 
+### [python-progressbar](https://github.com/wolph/python-progressbar)
+
+Python 生态中经典的进度条库，同时支持 Python 2 和 3，提供 ETA、速率等丰富的进度信息展示。
+
+- **Stars:** ⭐️ 880
+- **Tags:** `python` `progress-bar` `cli` `library`
+- **最后活动时间:** 2026-10-18
+
 ### [networkit](https://github.com/networkit/networkit)
 
 大规模网络分析开源工具包，提供高性能并行图算法，支持复杂网络分析和图神经网络预处理。
@@ -20268,13 +20580,21 @@ MCP服务器，支持通过LLM与Sentry错误监控平台进行交互和查询�
 - **Tags:** `MCP` `Sentry` `LLM Integration`
 - **最后活动时间:** 2026-09-30
 
-### [specification.website](https://github.com/jdevalk/specification.website)
+### [jumanji](https://github.com/instadeepai/jumanji)
 
-网站规范工具，涵盖HTML、可访问性、安全性和Agent就绪性。平台无关且开源，助力构建AI友好的Web标准。
+基于JAX的可扩展强化学习环境套件，支持高性能研究。
 
-- **Stars:** ⭐️ 869
-- **Tags:** `specification` `agent-readiness` `web-standards` `mcp`
-- **最后活动时间:** 2026-09-30
+- **Stars:** ⭐️ 871
+- **Tags:** `jax` `reinforcement-learning` `environments`
+- **最后活动时间:** 2026-10-16
+
+### [metatube-sdk-go](https://github.com/metatube-community/metatube-sdk-go)
+
+MetaTube SDK 是一个基于Golang的SDK和API服务器，内置了人脸检测等AI功能，支持与Emby和Jellyfin等媒体服务器集成。提供高效的刮取引擎和数据库支持，非常适合构建智能媒体应用。
+
+- **Stars:** ⭐️ 868
+- **Tags:** `Golang` `Face-Detection` `Scraper-Engine`
+- **最后活动时间:** 2026-10-11
 
 ### [lilaq](https://github.com/lilaq-project/lilaq)
 
@@ -20283,22 +20603,6 @@ MCP服务器，支持通过LLM与Sentry错误监控平台进行交互和查询�
 - **Stars:** ⭐️ 867
 - **Tags:** `typst` `visualization` `plotting`
 - **最后活动时间:** 2026-10-17
-
-### [jumanji](https://github.com/instadeepai/jumanji)
-
-基于JAX的可扩展强化学习环境套件，支持高性能研究。
-
-- **Stars:** ⭐️ 866
-- **Tags:** `jax` `reinforcement-learning` `environments`
-- **最后活动时间:** 2026-09-09
-
-### [metatube-sdk-go](https://github.com/metatube-community/metatube-sdk-go)
-
-MetaTube SDK 是一个基于Golang的SDK和API服务器，内置了人脸检测等AI功能，支持与Emby和Jellyfin等媒体服务器集成。提供高效的刮取引擎和数据库支持，非常适合构建智能媒体应用。
-
-- **Stars:** ⭐️ 865
-- **Tags:** `Golang` `Face-Detection` `Scraper-Engine`
-- **最后活动时间:** 2026-10-11
 
 ### [catalyst](https://github.com/curiosity-ai/catalyst)
 
@@ -20354,7 +20658,15 @@ Keras的R语言接口，让R用户也能轻松构建和训练深度学习模型�
 
 - **Stars:** ⭐️ 855
 - **Tags:** `tokenizer` `gpt` `bpe` `openai` `machine-learning`
-- **最后活动时间:** 2026-10-15
+- **最后活动时间:** 2026-10-18
+
+### [laravel-mcp](https://github.com/laravel/mcp)
+
+Laravel框架的MCP服务器构建工具，快速为AI助手集成应用上下文能力。
+
+- **Stars:** ⭐️ 853
+- **Tags:** `laravel` `mcp` `php` `ai-integration`
+- **最后活动时间:** 2026-10-18
 
 ### [dipy](https://github.com/dipy/dipy)
 
@@ -20362,23 +20674,23 @@ Keras的R语言接口，让R用户也能轻松构建和训练深度学习模型�
 
 - **Stars:** ⭐️ 850
 - **Tags:** `medical-imaging` `diffusion-mri` `neuroimaging` `segmentation`
-- **最后活动时间:** 2026-10-16
+- **最后活动时间:** 2026-10-18
+
+### [ComfyUI-MiniMaxH3-Easy](https://github.com/nkxx188/ComfyUI-MiniMaxH3-Easy)
+
+ComfyUI上最易用的MiniMax H3节点，提供统一的T2V、I2V等视频生成工作流。支持多模态输入与内联对话块，降低接线复杂度。
+
+- **Stars:** ⭐️ 850
+- **Tags:** `comfyui` `minimax` `workflow` `video-generation`
+- **最后活动时间:** 2026-10-15
 
 ### [window_manager](https://github.com/leanflutter/window_manager)
 
 功能全面的 Flutter 桌面窗口管理插件，可完全控制窗口大小、位置、外观、关闭行为与事件监听。Flutter 桌面应用开发必备。
 
-- **Stars:** ⭐️ 846
+- **Stars:** ⭐️ 850
 - **Tags:** `flutter` `desktop` `window-manager` `plugin`
-- **最后活动时间:** 2026-09-19
-
-### [laravel-mcp](https://github.com/laravel/mcp)
-
-Laravel框架的MCP服务器构建工具，快速为AI助手集成应用上下文能力。
-
-- **Stars:** ⭐️ 845
-- **Tags:** `laravel` `mcp` `php` `ai-integration`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-11
 
 ### [bank-api](https://github.com/erwinkramer/bank-api)
 
@@ -20412,6 +20724,22 @@ Ruby 终端文本着色库，轻松为命令行输出添加 ANSI 彩色文字。
 - **Tags:** `dotNET` `TUI` `UI-Framework` `Cross-platform`
 - **最后活动时间:** 2026-10-15
 
+### [edge-js](https://github.com/agracio/edge-js)
+
+在 Windows、macOS 和 Linux 上于同一进程内运行 .NET 与 Node.js 代码的互操作库，方便在 Node 应用中调用 .NET 能力，反之亦然。
+
+- **Stars:** ⭐️ 838
+- **Tags:** `nodejs` `dotnet` `interop` `cross-platform`
+- **最后活动时间:** 2026-10-17
+
+### [dev-proxy](https://github.com/dotnet/dev-proxy)
+
+用于模拟 API 故障、限流与异常场景的开发工具，帮助验证AI应用韧性。
+
+- **Stars:** ⭐️ 838
+- **Tags:** `api-testing` `chaos-engineering` `proxy` `openapi` `resilience`
+- **最后活动时间:** 2026-10-15
+
 ### [clingo](https://github.com/potassco/clingo)
 
 逻辑程序求解器，支持答案集编程(ASP)，是符号AI和声明式编程的重要工具。
@@ -20419,22 +20747,6 @@ Ruby 终端文本着色库，轻松为命令行输出添加 ANSI 彩色文字。
 - **Stars:** ⭐️ 837
 - **Tags:** `answer-set-programming` `logic-programming` `symbolic-ai` `solver`
 - **最后活动时间:** 2026-09-28
-
-### [edge-js](https://github.com/agracio/edge-js)
-
-在 Windows、macOS 和 Linux 上于同一进程内运行 .NET 与 Node.js 代码的互操作库，方便在 Node 应用中调用 .NET 能力，反之亦然。
-
-- **Stars:** ⭐️ 837
-- **Tags:** `nodejs` `dotnet` `interop` `cross-platform`
-- **最后活动时间:** 2026-10-12
-
-### [dev-proxy](https://github.com/dotnet/dev-proxy)
-
-用于模拟 API 故障、限流与异常场景的开发工具，帮助验证AI应用韧性。
-
-- **Stars:** ⭐️ 837
-- **Tags:** `api-testing` `chaos-engineering` `proxy` `openapi` `resilience`
-- **最后活动时间:** 2026-10-15
 
 ### [sd-webui-supermerger](https://github.com/hako-mikan/sd-webui-supermerger)
 
@@ -20532,6 +20844,14 @@ AI 驱动的无头电商平台后端框架，支持 TypeScript 快速构建现�
 - **Tags:** `llm` `html-viewer` `artifacts` `visualization` `developer-tools`
 - **最后活动时间:** 2026-06-24
 
+### [kneed](https://github.com/arvkevi/kneed)
+
+Python 膝点检测库，用于识别曲线中的拐点，常用于聚类算法的 K 值选择和模型优化。
+
+- **Stars:** ⭐️ 817
+- **Tags:** `knee-point` `elbow-method` `python` `data-analysis`
+- **最后活动时间:** 2026-10-18
+
 ### [web-dc-api](https://github.com/dcnetio/web-dc-api)
 
 革命性的去中心化 Web 开发 SDK，无需服务器即可构建智能体与互联网应用。
@@ -20552,7 +20872,7 @@ AI 驱动的无头电商平台后端框架，支持 TypeScript 快速构建现�
 
 DeepSeek网页端API代理，支持OpenAI与Anthropic兼容接口。
 
-- **Stars:** ⭐️ 814
+- **Stars:** ⭐️ 815
 - **Tags:** `deepseek` `api-proxy` `openai-api` `rust` `llm`
 - **最后活动时间:** 2026-10-08
 
@@ -20560,7 +20880,7 @@ DeepSeek网页端API代理，支持OpenAI与Anthropic兼容接口。
 
 通过MCP协议暴露SSH控制能力的智能服务器，使AI大模型能够安全远程管理Linux服务器。
 
-- **Stars:** ⭐️ 812
+- **Stars:** ⭐️ 815
 - **Tags:** `ssh` `mcp` `linux` `server-management`
 - **最后活动时间:** 2026-10-14
 
@@ -20594,7 +20914,7 @@ Julia语言的高性能分布式符号回归库，支持自动机器学习和可
 
 - **Stars:** ⭐️ 809
 - **Tags:** `symbolic-regression` `automl` `explainable-ai` `machine-learning`
-- **最后活动时间:** 2026-10-16
+- **最后活动时间:** 2026-10-17
 
 ### [whisper.rn](https://github.com/mybigday/whisper.rn)
 
@@ -20634,21 +20954,21 @@ JADX-AI插件MCP服务器，为AI助手提供Android逆向工程和安全分析�
 
 - **Stars:** ⭐️ 805
 - **Tags:** `mcp` `android` `reverse-engineering` `security` `ai`
-- **最后活动时间:** 2026-10-09
+- **最后活动时间:** 2026-10-19
 
 ### [mostlyai](https://github.com/mostly-ai/mostlyai)
 
 强大的合成数据SDK，结合生成式AI和差分隐私技术，安全创建高质量合成数据集。
 
-- **Stars:** ⭐️ 802
+- **Stars:** ⭐️ 804
 - **Tags:** `合成数据` `隐私保护` `生成式AI`
-- **最后活动时间:** 2026-09-23
+- **最后活动时间:** 2026-10-12
 
 ### [pytorch-frame](https://github.com/pyg-team/pytorch-frame)
 
 PyTorch表格深度学习库，提供结构化数据的高效神经网络解决方案。
 
-- **Stars:** ⭐️ 802
+- **Stars:** ⭐️ 803
 - **Tags:** `deep-learning` `pytorch` `tabular-learning` `data-frame`
 - **最后活动时间:** 2026-10-05
 
@@ -20659,14 +20979,6 @@ PyTorch表格深度学习库，提供结构化数据的高效神经网络解决�
 - **Stars:** ⭐️ 799
 - **Tags:** `boilerplate` `cli` `full-stack` `ai` `scaffolding` `nextjs` `react`
 - **最后活动时间:** 2026-10-14
-
-### [ComfyUI-MiniMaxH3-Easy](https://github.com/nkxx188/ComfyUI-MiniMaxH3-Easy)
-
-ComfyUI上最易用的MiniMax H3节点，提供统一的T2V、I2V等视频生成工作流。支持多模态输入与内联对话块，降低接线复杂度。
-
-- **Stars:** ⭐️ 798
-- **Tags:** `comfyui` `minimax` `workflow` `video-generation`
-- **最后活动时间:** 2026-09-28
 
 ### [lungmask](https://github.com/JoHof/lungmask)
 
@@ -20724,6 +21036,14 @@ Python双机器学习库，用于因果推断和计量经济学分析，集成sc
 - **Tags:** `AI Testing` `Fuzzing` `Test Generation`
 - **最后活动时间:** 2026-10-17
 
+### [dac](https://github.com/bruin-data/dac)
+
+仪表板即代码工具，支持AI智能体通过YAML和JSX构建标准化、可审查的交互式仪表板。
+
+- **Stars:** ⭐️ 793
+- **Tags:** `dashboard` `ai-agents` `business-intelligence` `semantic-layer`
+- **最后活动时间:** 2026-10-16
+
 ### [GPT-Vis](https://github.com/antvis/GPT-Vis)
 
 AntV推出的AI可视化工具，专为GPT和LLM应用设计，支持AI友好的数据可视化能力。
@@ -20748,6 +21068,14 @@ AntV推出的AI可视化工具，专为GPT和LLM应用设计，支持AI友好的
 - **Tags:** `scientific-computing` `neural-networks` `pde-solver` `physics-informed`
 - **最后活动时间:** 2026-04-22
 
+### [gcx](https://github.com/grafana/gcx)
+
+专为智能体设计的命令行工具，用于高效管理Grafana及Grafana Cloud资源。
+
+- **Stars:** ⭐️ 790
+- **Tags:** `cli` `grafana` `agent` `devops`
+- **最后活动时间:** 2026-10-18
+
 ### [shapiq](https://github.com/mmschlk/shapiq)
 
 用于机器学习的Shapley交互值计算库，提供模型可解释性和特征归因分析功能。
@@ -20756,13 +21084,13 @@ AntV推出的AI可视化工具，专为GPT和LLM应用设计，支持AI友好的
 - **Tags:** `explainable-ai` `shapley-values` `machine-learning` `interpretability`
 - **最后活动时间:** 2026-10-16
 
-### [gcx](https://github.com/grafana/gcx)
+### [hlwy-ai-checker](https://github.com/hanlinwenyuan/hlwy-ai-checker)
 
-专为智能体设计的命令行工具，用于高效管理Grafana及Grafana Cloud资源。
+基于 LLM 指纹的 AI 模型识别工具，可检测第三方 AI API 是否掺假以及渠道是否一致。帮助开发者验证所购模型服务的真实性与稳定性。
 
-- **Stars:** ⭐️ 789
-- **Tags:** `cli` `grafana` `agent` `devops`
-- **最后活动时间:** 2026-10-17
+- **Stars:** ⭐️ 788
+- **Tags:** `llm` `ai-api` `fingerprint` `model-verification` `api-testing`
+- **最后活动时间:** 2026-10-18
 
 ### [opencv-js](https://github.com/TechStark/opencv-js)
 
@@ -20796,14 +21124,6 @@ OpenCV的JavaScript版本，支持在Node.js和浏览器环境中运行计算机
 - **Tags:** `react` `chatbot` `ui-component` `hook`
 - **最后活动时间:** 2026-06-04
 
-### [choco-solver](https://github.com/chocoteam/choco-solver)
-
-开源约束规划求解器，用于解决组合优化、调度和约束满足问题，是经典符号AI的重要工具。
-
-- **Stars:** ⭐️ 782
-- **Tags:** `constraint-programming` `optimization` `solver` `java`
-- **最后活动时间:** 2026-09-30
-
 ### [pyRiemann](https://github.com/pyRiemann/pyRiemann)
 
 基于黎曼几何的机器学习库，用于处理正定矩阵的多变量数据分析。
@@ -20811,6 +21131,14 @@ OpenCV的JavaScript版本，支持在Node.js和浏览器环境中运行计算机
 - **Stars:** ⭐️ 781
 - **Tags:** `riemannian-geometry` `machine-learning` `eeg` `signal-processing`
 - **最后活动时间:** 2026-10-15
+
+### [choco-solver](https://github.com/chocoteam/choco-solver)
+
+开源约束规划求解器，用于解决组合优化、调度和约束满足问题，是经典符号AI的重要工具。
+
+- **Stars:** ⭐️ 781
+- **Tags:** `constraint-programming` `optimization` `solver` `java`
+- **最后活动时间:** 2026-10-14
 
 ### [PINA](https://github.com/mathLab/PINA)
 
@@ -20844,6 +21172,14 @@ AI界面UI组件库，提供聊天、MCP工具等开箱即用的前端组件。
 - **Tags:** `mcp` `clojure` `ai-tools`
 - **最后活动时间:** 2026-06-20
 
+### [arcticdb_mcp](https://github.com/YMuskrat/arcticdb_mcp)
+
+为 ArcticDB 高性能时序数据库提供 MCP 服务器，让 Claude 等 LLM 能够直接查询和分析海量数据。是连接大模型与专业数据库的实用桥梁。
+
+- **Stars:** ⭐️ 775
+- **Tags:** `MCP` `ArcticDB` `LLM` `Database` `Time-Series`
+- **最后活动时间:** 2026-10-15
+
 ### [runno](https://github.com/taybenlor/runno)
 
 沙盒化编程语言运行时，支持WASI二进制文件，可在浏览器、服务器或通过MCP运行。
@@ -20868,21 +21204,13 @@ BioMate外部连接器接口，支持对接Claude、ChatGPT、Slack和微信等�
 - **Tags:** `ai-integration` `claude` `chatgpt` `api-connectors` `sdk`
 - **最后活动时间:** 2026-10-10
 
-### [dac](https://github.com/bruin-data/dac)
-
-仪表板即代码工具，支持AI智能体通过YAML和JSX构建标准化、可审查的交互式仪表板。
-
-- **Stars:** ⭐️ 771
-- **Tags:** `dashboard` `ai-agents` `business-intelligence` `semantic-layer`
-- **最后活动时间:** 2026-09-29
-
 ### [keyring-rs](https://github.com/open-source-cooperative/keyring-rs)
 
 跨平台的 Rust 密钥管理库，统一接入 macOS Keychain、Windows Credential 与 Linux Secret Service。安全存储密码与凭据的标准之选。
 
 - **Stars:** ⭐️ 771
 - **Tags:** `Rust` `Keyring` `Credentials` `Security` `Cross-Platform`
-- **最后活动时间:** 2026-10-16
+- **最后活动时间:** 2026-10-18
 
 ### [POMDPs.jl](https://github.com/JuliaPOMDP/POMDPs.jl)
 
@@ -20992,7 +21320,7 @@ Google 开源的端到端测试框架，专为多设备、复杂环境（Android
 
 专为Java项目打造的AI开发基础设施，针对Claude Code优化，提供可复用的AI辅助开发组件。
 
-- **Stars:** ⭐️ 755
+- **Stars:** ⭐️ 756
 - **Tags:** `claude-code` `java` `ai-assisted-development` `developer-tools`
 - **最后活动时间:** 2026-09-06
 
@@ -21024,7 +21352,7 @@ DeepSeek Java SDK，支持 Spring Boot 快速集成，提供 OpenAI 兼容 API�
 
 将Elementor和WordPress转化为MCP服务器的插件，提供120多个支持AI的工具，用于以编程方式构建、编辑和管理页面设计。
 
-- **Stars:** ⭐️ 749
+- **Stars:** ⭐️ 750
 - **Tags:** `elementor` `mcp-server` `wordpress` `wordpress-plugin`
 - **最后活动时间:** 2026-10-16
 
@@ -21084,6 +21412,14 @@ Stable-Baselines3官方扩展包，提供实验性强化学习算法实现，支
 - **Tags:** `reinforcement-learning` `pytorch` `stable-baselines` `machine-learning` `robotics`
 - **最后活动时间:** 2026-10-16
 
+### [dbt-agent-skills](https://github.com/dbt-labs/dbt-agent-skills)
+
+dbt工作流AI Agent技能包，帮助AI智能体理解并执行dbt数据转换流程。
+
+- **Stars:** ⭐️ 740
+- **Tags:** `dbt` `agent-skills` `ai` `data-engineering`
+- **最后活动时间:** 2026-10-16
+
 ### [Freebuff2API](https://github.com/Quorinex/Freebuff2API)
 
 提供 OpenAI 兼容接口的 Freebuff 代理工具，支持动态追踪免费智能体与令牌轮换。附带开箱即用的 Docker 部署方案，方便快速接入 AI API。
@@ -21092,6 +21428,14 @@ Stable-Baselines3官方扩展包，提供实验性强化学习算法实现，支
 - **Tags:** `OpenAI` `API-Proxy` `AI-Gateway` `Docker` `LLM`
 - **最后活动时间:** 2026-04-22
 
+### [Lux.jl](https://github.com/LuxDL/Lux.jl)
+
+Julia语言深度学习框架，提供优雅高效的API，支持GPU和TPU加速的科学机器学习。
+
+- **Stars:** ⭐️ 738
+- **Tags:** `julia` `deep-learning` `scientific-ml`
+- **最后活动时间:** 2026-10-12
+
 ### [pymdp](https://github.com/infer-actively/pymdp)
 
 马尔可夫决策过程主动推断的Python实现，用于计算神经科学和AI研究中的认知建模。
@@ -21099,14 +21443,6 @@ Stable-Baselines3官方扩展包，提供实验性强化学习算法实现，支
 - **Stars:** ⭐️ 738
 - **Tags:** `active-inference` `decision-processes` `computational-neuroscience` `reinforcement-learning`
 - **最后活动时间:** 2026-09-29
-
-### [Lux.jl](https://github.com/LuxDL/Lux.jl)
-
-Julia语言深度学习框架，提供优雅高效的API，支持GPU和TPU加速的科学机器学习。
-
-- **Stars:** ⭐️ 737
-- **Tags:** `julia` `deep-learning` `scientific-ml`
-- **最后活动时间:** 2026-10-12
 
 ### [zeroleaks](https://github.com/ZeroLeaks/zeroleaks)
 
@@ -21123,6 +21459,14 @@ Jupyter生态系统的核心IPython内核，为Notebook提供Python代码执行�
 - **Stars:** ⭐️ 733
 - **Tags:** `ipython` `jupyter` `kernel` `python`
 - **最后活动时间:** 2026-10-17
+
+### [onnxruntime_go](https://github.com/yalue/onnxruntime_go)
+
+Go语言封装的ONNX Runtime库，支持在Go项目中运行ONNX格式的神经网络模型推理。
+
+- **Stars:** ⭐️ 731
+- **Tags:** `onnx` `golang` `neural-networks` `inference`
+- **最后活动时间:** 2026-09-04
 
 ### [Peroxide](https://github.com/Axect/Peroxide)
 
@@ -21156,13 +21500,13 @@ XGBoost的扩展库，支持概率建模和不确定性估计，可生成预测�
 - **Tags:** `microsoft-teams` `bot-framework` `sdk` `ai-applications`
 - **最后活动时间:** 2026-10-16
 
-### [onnxruntime_go](https://github.com/yalue/onnxruntime_go)
+### [AIUsage](https://github.com/sylearn/AIUsage)
 
-Go语言封装的ONNX Runtime库，支持在Go项目中运行ONNX格式的神经网络模型推理。
+统一仪表盘管理所有 AI 订阅：追踪配额、成本、账号，以及 Claude Code 与 Codex 代理。一站式 AI 服务管理方案。
 
 - **Stars:** ⭐️ 730
-- **Tags:** `onnx` `golang` `neural-networks` `inference`
-- **最后活动时间:** 2026-09-04
+- **Tags:** `ai-dashboard` `subscription-management` `claude-code` `codex` `cost-tracking`
+- **最后活动时间:** 2026-10-12
 
 ### [larq](https://github.com/larq/larq)
 
@@ -21172,22 +21516,6 @@ Go语言封装的ONNX Runtime库，支持在Go项目中运行ONNX格式的神经
 - **Tags:** `binary-neural-network` `quantization` `keras` `edge-ai`
 - **最后活动时间:** 2026-06-12
 
-### [dbt-agent-skills](https://github.com/dbt-labs/dbt-agent-skills)
-
-dbt工作流AI Agent技能包，帮助AI智能体理解并执行dbt数据转换流程。
-
-- **Stars:** ⭐️ 729
-- **Tags:** `dbt` `agent-skills` `ai` `data-engineering`
-- **最后活动时间:** 2026-09-24
-
-### [AIUsage](https://github.com/sylearn/AIUsage)
-
-统一仪表盘管理所有 AI 订阅：追踪配额、成本、账号，以及 Claude Code 与 Codex 代理。一站式 AI 服务管理方案。
-
-- **Stars:** ⭐️ 729
-- **Tags:** `ai-dashboard` `subscription-management` `claude-code` `codex` `cost-tracking`
-- **最后活动时间:** 2026-10-12
-
 ### [adb-mcp](https://github.com/mikechambers/adb-mcp)
 
 基于 MCP 的 Android Debug Bridge 接口，使 AI 代理能够操控安卓设备并完成调试与自动化操作。
@@ -21195,6 +21523,14 @@ dbt工作流AI Agent技能包，帮助AI智能体理解并执行dbt数据转换�
 - **Stars:** ⭐️ 726
 - **Tags:** `MCP` `ADB` `Android` `Automation`
 - **最后活动时间:** 2026-07-08
+
+### [Free-GPT4-WEB-API](https://github.com/aledipa/Free-GPT4-WEB-API)
+
+自托管免费Web API，支持GPT-4、Gemini、DeepSeek、Claude等最新AI模型。
+
+- **Stars:** ⭐️ 725
+- **Tags:** `api` `gpt` `claude` `gemini` `self-hosted`
+- **最后活动时间:** 2026-08-14
 
 ### [agent-ci](https://github.com/redwoodjs/agent-ci)
 
@@ -21220,14 +21556,6 @@ LanguageTool 服务器的 Docker 镜像，提供开源的语法和拼写检查�
 - **Tags:** `django` `vue3` `fastapi` `langchain` `admin`
 - **最后活动时间:** 2026-05-21
 
-### [Free-GPT4-WEB-API](https://github.com/aledipa/Free-GPT4-WEB-API)
-
-自托管免费Web API，支持GPT-4、Gemini、DeepSeek、Claude等最新AI模型。
-
-- **Stars:** ⭐️ 724
-- **Tags:** `api` `gpt` `claude` `gemini` `self-hosted`
-- **最后活动时间:** 2026-08-14
-
 ### [pyglove](https://github.com/google/pyglove)
 
 用于程序操作和自动化机器学习的Python库，支持进化算法和元学习。
@@ -21244,6 +21572,14 @@ OpenAI官方命令行工具，提供便捷的API调用接口，支持GPT模型�
 - **Tags:** `openai` `cli` `api` `gpt` `llm`
 - **最后活动时间:** 2026-10-18
 
+### [torch-harmonics](https://github.com/NVIDIA/torch-harmonics)
+
+基于PyTorch的可微分球面信号处理库，适用于气象和地理空间AI应用。
+
+- **Stars:** ⭐️ 719
+- **Tags:** `pytorch` `signal-processing` `differentiable` `sphere`
+- **最后活动时间:** 2026-10-16
+
 ### [chat2api](https://github.com/aurorax-neo/chat2api)
 
 将ChatGPT接口转换为标准API格式的工具，方便开发者更便捷地集成和调用对话模型。
@@ -21251,6 +21587,14 @@ OpenAI官方命令行工具，提供便捷的API调用接口，支持GPT模型�
 - **Stars:** ⭐️ 719
 - **Tags:** `api` `chat` `gpt` `chatgpt`
 - **最后活动时间:** 2026-07-21
+
+### [Adobe_Premiere_Pro_MCP](https://github.com/hetpatel-11/Adobe_Premiere_Pro_MCP)
+
+通过MCP协议为AI客户端提供Adobe Premiere Pro视频编辑工具，实现AI驱动的自动化剪辑。
+
+- **Stars:** ⭐️ 719
+- **Tags:** `mcp` `adobe-premiere-pro` `ai-automation` `video-editing`
+- **最后活动时间:** 2026-10-13
 
 ### [MCP-Nest](https://github.com/rekog-labs/MCP-Nest)
 
@@ -21260,13 +21604,13 @@ NestJS模块，轻松创建MCP服务器以暴露AI工具、资源和提示词。
 - **Tags:** `MCP` `NestJS` `Model Context Protocol`
 - **最后活动时间:** 2026-10-16
 
-### [torch-harmonics](https://github.com/NVIDIA/torch-harmonics)
+### [pnnx](https://github.com/pnnx/pnnx)
 
-基于PyTorch的可微分球面信号处理库，适用于气象和地理空间AI应用。
+PyTorch神经网络交换格式，便于模型跨平台部署与转换。
 
 - **Stars:** ⭐️ 718
-- **Tags:** `pytorch` `signal-processing` `differentiable` `sphere`
-- **最后活动时间:** 2026-10-16
+- **Tags:** `pytorch` `neural-network` `model-exchange` `inference`
+- **最后活动时间:** 2026-10-14
 
 ### [ps-fuzz](https://github.com/prompt-security/ps-fuzz)
 
@@ -21284,27 +21628,19 @@ NestJS模块，轻松创建MCP服务器以暴露AI工具、资源和提示词。
 - **Tags:** `Swift` `InAppPurchase` `StoreKit` `ReceiptValidation` `iOS`
 - **最后活动时间:** 2026-07-20
 
-### [pnnx](https://github.com/pnnx/pnnx)
+### [chapar](https://github.com/chapar-rest/chapar)
 
-PyTorch神经网络交换格式，便于模型跨平台部署与转换。
+Go 编写的原生 API 客户端，支持 REST、gRPC、WebSocket 与 GraphQL，本地优先、无需账号与云端，是 Postman 的轻量替代。
 
-- **Stars:** ⭐️ 716
-- **Tags:** `pytorch` `neural-network` `model-exchange` `inference`
-- **最后活动时间:** 2026-09-21
-
-### [Adobe_Premiere_Pro_MCP](https://github.com/hetpatel-11/Adobe_Premiere_Pro_MCP)
-
-通过MCP协议为AI客户端提供Adobe Premiere Pro视频编辑工具，实现AI驱动的自动化剪辑。
-
-- **Stars:** ⭐️ 714
-- **Tags:** `mcp` `adobe-premiere-pro` `ai-automation` `video-editing`
-- **最后活动时间:** 2026-10-13
+- **Stars:** ⭐️ 717
+- **Tags:** `api-client` `golang` `grpc` `rest` `postman-alternative`
+- **最后活动时间:** 2026-10-18
 
 ### [adk-rust](https://github.com/zavora-ai/adk-rust)
 
 Rust语言AI智能体开发工具包，提供模型、工具、记忆及实时语音等模块化组件。支持模型与部署无关的灵活开发，专为前沿AI模型优化。
 
-- **Stars:** ⭐️ 713
+- **Stars:** ⭐️ 715
 - **Tags:** `rust` `ai-agent` `sdk` `realtime-audio`
 - **最后活动时间:** 2026-10-18
 
@@ -21324,6 +21660,14 @@ Rust语言AI智能体开发工具包，提供模型、工具、记忆及实时�
 - **Tags:** `probabilistic-programming` `bayesian-methods` `tensorflow` `deep-learning`
 - **最后活动时间:** 2026-10-05
 
+### [model-viewer](https://github.com/playcanvas/model-viewer)
+
+支持glTF和3D高斯泼溅的3D模型查看器，适用于AI生成3D内容的可视化展示。
+
+- **Stars:** ⭐️ 711
+- **Tags:** `3d-gaussian-splatting` `gltf` `webgl` `3d-viewer`
+- **最后活动时间:** 2026-08-13
+
 ### [GEKKO](https://github.com/BYU-PRISM/GEKKO)
 
 用于机器学习和动态优化的Python工具包，专注于科学计算与复杂系统优化。
@@ -21339,14 +21683,6 @@ Rust语言AI智能体开发工具包，提供模型、工具、记忆及实时�
 - **Stars:** ⭐️ 710
 - **Tags:** `ocr` `optical-character-recognition` `web-application` `document-processing`
 - **最后活动时间:** 2026-09-14
-
-### [model-viewer](https://github.com/playcanvas/model-viewer)
-
-支持glTF和3D高斯泼溅的3D模型查看器，适用于AI生成3D内容的可视化展示。
-
-- **Stars:** ⭐️ 710
-- **Tags:** `3d-gaussian-splatting` `gltf` `webgl` `3d-viewer`
-- **最后活动时间:** 2026-08-13
 
 ### [SFBAudioEngine](https://github.com/sbooth/SFBAudioEngine)
 
@@ -21394,7 +21730,7 @@ AI智能体元脚手架工具，用于快速生成具备独立CLI、MCP服务器
 
 - **Stars:** ⭐️ 706
 - **Tags:** `agent-harness` `scaffolding` `mcp-server` `autonomous-agents` `developer-tools`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [feishu-claude-code-bridge](https://github.com/zarazhangrui/feishu-claude-code-bridge)
 
@@ -21436,13 +21772,21 @@ Python贝叶斯推断工具库，为机器学习和AI应用提供贝叶斯方法
 - **Tags:** `lowcode` `aigc` `java` `graphql` `workflow`
 - **最后活动时间:** 2026-10-12
 
+### [obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server)
+
+Obsidian笔记库MCP服务器，支持AI助手读取、写入、搜索和编辑笔记、标签及元数据。
+
+- **Stars:** ⭐️ 697
+- **Tags:** `mcp-server` `obsidian` `knowledge-base` `llm-agent`
+- **最后活动时间:** 2026-10-06
+
 ### [qvac](https://github.com/tetherto/qvac)
 
 开源本地 AI SDK，支持跨平台在设备端运行 GGUF、RAG、图像/音乐/视频生成及语音转文字等功能，无需云端和 API 密钥。
 
 - **Stars:** ⭐️ 697
 - **Tags:** `local-ai` `ai-sdk` `on-device-ai` `rag` `cross-platform`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [multi-object-tracker](https://github.com/adipandas/multi-object-tracker)
 
@@ -21492,14 +21836,6 @@ Python决策树可视化库，支持XGBoost、LightGBM和随机森林等模型�
 - **Tags:** `decision-trees` `xgboost` `lightgbm` `random-forest` `visualization`
 - **最后活动时间:** 2026-08-11
 
-### [obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server)
-
-Obsidian笔记库MCP服务器，支持AI助手读取、写入、搜索和编辑笔记、标签及元数据。
-
-- **Stars:** ⭐️ 695
-- **Tags:** `mcp-server` `obsidian` `knowledge-base` `llm-agent`
-- **最后活动时间:** 2026-10-06
-
 ### [highlight](https://github.com/tempestphp/highlight)
 
 高性能、可扩展的服务端代码高亮库，同时支持 Web 与终端两种输出场景。
@@ -21538,7 +21874,7 @@ Julia高性能微分方程求解器，支持神经ODE和科学机器学习应用
 
 - **Stars:** ⭐️ 693
 - **Tags:** `differential-equations` `neural-ode` `scientific-machine-learning` `julia`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [eps](https://github.com/ankane/eps)
 
@@ -21564,14 +21900,6 @@ TensorFlow决策森林库，提供随机森林、梯度提升树等算法的Kera
 - **Tags:** `decision-forest` `random-forest` `gradient-boosting` `tensorflow`
 - **最后活动时间:** 2026-05-19
 
-### [buoy](https://github.com/Buoy-gg/buoy)
-
-专为React Native和Expo设计的应用内开发工具，支持网络检查和状态管理。通过MCP协议支持AI智能体集成。
-
-- **Stars:** ⭐️ 692
-- **Tags:** `react-native` `devtools` `mcp` `network-inspector`
-- **最后活动时间:** 2026-10-15
-
 ### [ai-sdk-provider](https://github.com/OpenRouterTeam/ai-sdk-provider)
 
 Vercel AI SDK的OpenRouter提供商，支持通过OpenRouter API访问数百种AI模型。
@@ -21579,6 +21907,14 @@ Vercel AI SDK的OpenRouter提供商，支持通过OpenRouter API访问数百种A
 - **Stars:** ⭐️ 691
 - **Tags:** `ai` `vercel-ai-sdk` `openrouter` `sdk`
 - **最后活动时间:** 2026-09-19
+
+### [buoy](https://github.com/Buoy-gg/buoy)
+
+专为React Native和Expo设计的应用内开发工具，支持网络检查和状态管理。通过MCP协议支持AI智能体集成。
+
+- **Stars:** ⭐️ 691
+- **Tags:** `react-native` `devtools` `mcp` `network-inspector`
+- **最后活动时间:** 2026-10-18
 
 ### [langchain_dart](https://github.com/davidmigloz/langchain_dart)
 
@@ -21592,7 +21928,7 @@ LangChain的Dart/Flutter版本，帮助开发者构建LLM驱动的移动应用�
 
 Claude Code Skills实用技能集合，包含多个实际场景的技能模板。
 
-- **Stars:** ⭐️ 689
+- **Stars:** ⭐️ 690
 - **Tags:** `claude-skills` `claude-code` `collection`
 - **最后活动时间:** 2026-10-11
 
@@ -21602,7 +21938,7 @@ Python 库，用于快速构建功能丰富、用户友好的交互式命令行�
 
 - **Stars:** ⭐️ 688
 - **Tags:** `Python` `CLI` `Framework` `DeveloperTools` `Shell`
-- **最后活动时间:** 2026-10-14
+- **最后活动时间:** 2026-10-18
 
 ### [anthropic-cli](https://github.com/anthropics/anthropic-cli)
 
@@ -21611,6 +21947,14 @@ Anthropic Claude API 的命令行工具，方便开发者在终端中直接调�
 - **Stars:** ⭐️ 687
 - **Tags:** `anthropic` `claude` `cli` `api`
 - **最后活动时间:** 2026-10-15
+
+### [J.E.N.O.V.A](https://github.com/Jenova-Framework/J.E.N.O.V.A)
+
+为 Godot 引擎打造的 AI 能力扩展套件，内置本地大语言模型运行时等前沿组件。让游戏与应用开发者无需复杂配置即可在 Godot 项目中集成 LLM 能力。
+
+- **Stars:** ⭐️ 686
+- **Tags:** `Godot` `LLM` `Game-Engine` `C++` `AI-Integration` `SDK`
+- **最后活动时间:** 2026-08-31
 
 ### [mcp-handler](https://github.com/vercel-labs/mcp-handler)
 
@@ -21634,7 +21978,7 @@ Jupyter笔记本数据表UI组件，支持数据探索、搜索排序和统计�
 
 - **Stars:** ⭐️ 684
 - **Tags:** `hearthstone` `simulator` `reinforcement-learning`
-- **最后活动时间:** 2026-08-19
+- **最后活动时间:** 2026-10-18
 
 ### [laravel-restify](https://github.com/BinarCode/laravel-restify)
 
@@ -21660,13 +22004,21 @@ CLI工具，将代码库聚合为Markdown文件，便于与Claude或ChatGPT交�
 - **Tags:** `cli` `codebase` `chatgpt` `claude` `context`
 - **最后活动时间:** 2026-10-15
 
+### [ios-mcp](https://github.com/witchan/ios-mcp)
+
+专为越狱iPhone设计的MCP管理工具，使开发者和AI智能体能检查与控制iOS设备。支持移动设备自动化管理。
+
+- **Stars:** ⭐️ 682
+- **Tags:** `ios` `mcp` `automation` `jailbroken-iphone` `mobile-device-management`
+- **最后活动时间:** 2026-09-27
+
 ### [unicode-segmentation](https://github.com/unicode-rs/unicode-segmentation)
 
 unicode-segmentation 是一个严格遵循 UAX#29 标准的 Grapheme Cluster 和 Word boundaries 实现库。适用于文本处理和 NLP 领域，帮助 AI 模型准确分割 Unicode 字符边界。
 
 - **Stars:** ⭐️ 682
 - **Tags:** `Unicode` `Segmentation` `Grapheme` `Word Boundaries` `NLP`
-- **最后活动时间:** 2026-10-08
+- **最后活动时间:** 2026-10-18
 
 ### [autocrop](https://github.com/leblancfg/autocrop)
 
@@ -21676,29 +22028,13 @@ unicode-segmentation 是一个严格遵循 UAX#29 标准的 Grapheme Cluster 和
 - **Tags:** `face-detection` `image-cropping` `opencv` `python-tool`
 - **最后活动时间:** 2026-09-19
 
-### [J.E.N.O.V.A](https://github.com/Jenova-Framework/J.E.N.O.V.A)
-
-为 Godot 引擎打造的 AI 能力扩展套件，内置本地大语言模型运行时等前沿组件。让游戏与应用开发者无需复杂配置即可在 Godot 项目中集成 LLM 能力。
-
-- **Stars:** ⭐️ 681
-- **Tags:** `Godot` `LLM` `Game-Engine` `C++` `AI-Integration` `SDK`
-- **最后活动时间:** 2026-08-31
-
 ### [jupyterlab-nvdashboard](https://github.com/rapidsai/jupyterlab-nvdashboard)
 
 JupyterLab扩展，用于实时显示GPU使用情况仪表板，帮助AI开发者监控资源消耗。
 
 - **Stars:** ⭐️ 680
 - **Tags:** `jupyterlab` `gpu-monitoring` `dashboard` `nvidia`
-- **最后活动时间:** 2026-09-29
-
-### [ios-mcp](https://github.com/witchan/ios-mcp)
-
-专为越狱iPhone设计的MCP管理工具，使开发者和AI智能体能检查与控制iOS设备。支持移动设备自动化管理。
-
-- **Stars:** ⭐️ 679
-- **Tags:** `ios` `mcp` `automation` `jailbroken-iphone` `mobile-device-management`
-- **最后活动时间:** 2026-09-27
+- **最后活动时间:** 2026-10-15
 
 ### [Quantus](https://github.com/understandable-machine-intelligence-lab/Quantus)
 
@@ -21707,6 +22043,14 @@ JupyterLab扩展，用于实时显示GPU使用情况仪表板，帮助AI开发�
 - **Stars:** ⭐️ 677
 - **Tags:** `XAI` `Evaluation` `PyTorch`
 - **最后活动时间:** 2026-10-16
+
+### [go-mcp](https://github.com/ThinkInAIXYZ/go-mcp)
+
+强大的Go语言版MCP SDK，实现模型上下文协议，支持外部系统与AI应用的无缝通信。
+
+- **Stars:** ⭐️ 677
+- **Tags:** `mcp` `golang` `sdk` `ai`
+- **最后活动时间:** 2026-08-16
 
 ### [yggdrasil-decision-forests](https://github.com/google/yggdrasil-decision-forests)
 
@@ -21732,14 +22076,6 @@ Python工具箱，提供贝叶斯优化、实验设计、不确定性量化等�
 - **Tags:** `typescript` `tui` `terminal-ui` `react` `bun`
 - **最后活动时间:** 2026-06-17
 
-### [go-mcp](https://github.com/ThinkInAIXYZ/go-mcp)
-
-强大的Go语言版MCP SDK，实现模型上下文协议，支持外部系统与AI应用的无缝通信。
-
-- **Stars:** ⭐️ 676
-- **Tags:** `mcp` `golang` `sdk` `ai`
-- **最后活动时间:** 2026-08-16
-
 ### [UnrealGenAISupport](https://github.com/prajwalshettydev/UnrealGenAISupport)
 
 Unreal Engine插件，集成多种LLM/GenAI模型API与MCP服务器，支持AI场景生成。
@@ -21754,7 +22090,7 @@ Unreal Engine插件，集成多种LLM/GenAI模型API与MCP服务器，支持AI�
 
 - **Stars:** ⭐️ 676
 - **Tags:** `react-native` `testing` `ios` `android` `cross-platform`
-- **最后活动时间:** 2026-10-16
+- **最后活动时间:** 2026-10-19
 
 ### [verde](https://github.com/fatiando/verde)
 
@@ -21772,6 +22108,14 @@ Unreal Engine插件，集成多种LLM/GenAI模型API与MCP服务器，支持AI�
 - **Tags:** `documentation` `markdown-to-html` `ai` `mcp`
 - **最后活动时间:** 2026-10-17
 
+### [apktool-mcp-server](https://github.com/zinja-coder/apktool-mcp-server)
+
+面向APK逆向工程的MCP服务器，为AI代理提供Android应用分析能力。
+
+- **Stars:** ⭐️ 675
+- **Tags:** `mcp-server` `android` `reverse-engineering` `llm`
+- **最后活动时间:** 2026-07-02
+
 ### [golitex](https://github.com/litexlang/golitex)
 
 简洁的形式化语言，专为 AI 推理和科学计算设计，两小时即可掌握。
@@ -21780,19 +22124,11 @@ Unreal Engine插件，集成多种LLM/GenAI模型API与MCP服务器，支持AI�
 - **Tags:** `formal-languages` `reasoning` `ai-for-science` `golang`
 - **最后活动时间:** 2026-10-15
 
-### [apktool-mcp-server](https://github.com/zinja-coder/apktool-mcp-server)
-
-面向APK逆向工程的MCP服务器，为AI代理提供Android应用分析能力。
-
-- **Stars:** ⭐️ 673
-- **Tags:** `mcp-server` `android` `reverse-engineering` `llm`
-- **最后活动时间:** 2026-07-02
-
 ### [box-js](https://github.com/CapacitorSet/box-js)
 
 用于分析和研究JavaScript恶意软件行为的安全研究工具。可辅助AI安全与威胁分析场景的数据研究。
 
-- **Stars:** ⭐️ 673
+- **Stars:** ⭐️ 674
 - **Tags:** `Malware` `Security` `JavaScript` `Analysis`
 - **最后活动时间:** 2026-07-02
 
@@ -21852,6 +22188,14 @@ Rust数据可视化库，连接Polars数据分析库与Plotly可视化库，适�
 - **Tags:** `stream-mining` `machine-learning` `streaming-algorithms` `java`
 - **最后活动时间:** 2026-10-14
 
+### [captcha-recognizer](https://github.com/chenwei-zhao/captcha-recognizer)
+
+基于YOLO的滑块验证码识别工具，支持单缺口/多缺口验证码识别，可通过pip安装使用，支持本地或服务器部署API服务。
+
+- **Stars:** ⭐️ 669
+- **Tags:** `captcha` `yolo` `computer-vision` `object-detection`
+- **最后活动时间:** 2026-08-19
+
 ### [gpt-macro](https://github.com/retrage/gpt-macro)
 
 基于 ChatGPT 的 Rust 编译时代码生成宏，提升开发效率。
@@ -21859,14 +22203,6 @@ Rust数据可视化库，连接Polars数据分析库与Plotly可视化库，适�
 - **Stars:** ⭐️ 669
 - **Tags:** `chatgpt` `rust` `proc-macro` `code-generation`
 - **最后活动时间:** 2026-09-14
-
-### [captcha-recognizer](https://github.com/chenwei-zhao/captcha-recognizer)
-
-基于YOLO的滑块验证码识别工具，支持单缺口/多缺口验证码识别，可通过pip安装使用，支持本地或服务器部署API服务。
-
-- **Stars:** ⭐️ 668
-- **Tags:** `captcha` `yolo` `computer-vision` `object-detection`
-- **最后活动时间:** 2026-08-19
 
 ### [DontFeedTheAI](https://github.com/zeroc00I/DontFeedTheAI)
 
@@ -21883,14 +22219,6 @@ FFmpeg 全平台编译工具，一套脚本搞定 iOS、Android、Windows、Linu
 - **Stars:** ⭐️ 666
 - **Tags:** `FFmpeg` `BuildTool` `CrossPlatform` `Multimedia`
 - **最后活动时间:** 2026-10-11
-
-### [claude-talk-to-figma-mcp](https://github.com/arinspunk/claude-talk-to-figma-mcp)
-
-MCP协议服务器，让Claude等AI工具能够读取、分析和修改Figma设计文件。
-
-- **Stars:** ⭐️ 665
-- **Tags:** `MCP` `Figma` `Claude`
-- **最后活动时间:** 2026-04-18
 
 ### [openai](https://github.com/anasfik/openai)
 
@@ -21948,6 +22276,14 @@ OpenAI ChatKit SDK的示例应用，帮助开发者快速上手构建AI聊天应
 - **Tags:** `openai` `chatkit` `sdk` `python` `typescript`
 - **最后活动时间:** 2026-08-01
 
+### [torchlens](https://github.com/johnmarktaylor91/torchlens)
+
+一行代码提取和映射PyTorch模型中每个张量操作结果的调试工具。
+
+- **Stars:** ⭐️ 662
+- **Tags:** `pytorch` `debugging` `visualization` `deep-learning`
+- **最后活动时间:** 2026-10-18
+
 ### [spring-ai-agent-utils](https://github.com/spring-ai-community/spring-ai-agent-utils)
 
 一个Spring AI库，将Claude Code风格的工具和智能体技能引入Spring AI应用程序中。帮助Java开发者快速构建具备高级上下文管理和工具调用能力的AI智能体。
@@ -21972,19 +22308,11 @@ AAAI'20发表的机器学习模型组合工具箱，支持集成学习和模型�
 - **Tags:** `ensemble-learning` `model-combination` `machine-learning`
 - **最后活动时间:** 2026-09-08
 
-### [torchlens](https://github.com/johnmarktaylor91/torchlens)
-
-一行代码提取和映射PyTorch模型中每个张量操作结果的调试工具。
-
-- **Stars:** ⭐️ 660
-- **Tags:** `pytorch` `debugging` `visualization` `deep-learning`
-- **最后活动时间:** 2026-09-16
-
 ### [reservoirpy](https://github.com/reservoirpy/reservoirpy)
 
 简单灵活的储备池计算库，支持Echo State Networks等循环神经网络架构。
 
-- **Stars:** ⭐️ 659
+- **Stars:** ⭐️ 660
 - **Tags:** `reservoir-computing` `echo-state-networks` `time-series` `python`
 - **最后活动时间:** 2026-10-16
 
@@ -21995,6 +22323,14 @@ AAAI'20发表的机器学习模型组合工具箱，支持集成学习和模型�
 - **Stars:** ⭐️ 659
 - **Tags:** `azure-ai` `translation` `documentation` `localization` `markdown`
 - **最后活动时间:** 2026-10-13
+
+### [biomcp](https://github.com/genomoncology/biomcp)
+
+生物医学模型上下文协议服务器，为LLM提供PubMed、临床试验、基因组学等生物医学数据的标准接口。
+
+- **Stars:** ⭐️ 659
+- **Tags:** `mcp` `llm` `biomedical` `bioinformatics` `model-context-protocol`
+- **最后活动时间:** 2026-10-19
 
 ### [reproc](https://github.com/daandemeyer/reproc)
 
@@ -22012,12 +22348,12 @@ PyTorch模型指数移动平均(EMA)跟踪工具，简单易用的训练辅助�
 - **Tags:** `pytorch` `deep-learning` `ema` `training`
 - **最后活动时间:** 2026-07-31
 
-### [biomcp](https://github.com/genomoncology/biomcp)
+### [agentic-ai-apis](https://github.com/cporter202/agentic-ai-apis)
 
-生物医学模型上下文协议服务器，为LLM提供PubMed、临床试验、基因组学等生物医学数据的标准接口。
+收录 2,000+ 个面向自主 AI 智能体开发的生产级 API，涵盖智能体、AI 模型与 MCP 服务器。无需从零搭建基础设施，即插即用快速上线你的 Agent。
 
 - **Stars:** ⭐️ 658
-- **Tags:** `mcp` `llm` `biomedical` `bioinformatics` `model-context-protocol`
+- **Tags:** `AI Agents` `MCP` `APIs` `LLM` `Curated List` `Developer Tools`
 - **最后活动时间:** 2026-10-18
 
 ### [commons-math](https://github.com/apache/commons-math)
@@ -22028,14 +22364,6 @@ Apache Commons Math 是 Apache 基金会提供的轻量级数学和统计计算�
 - **Tags:** `math` `statistics` `optimization` `machine-learning` `java`
 - **最后活动时间:** 2026-10-17
 
-### [agentic-ai-apis](https://github.com/cporter202/agentic-ai-apis)
-
-收录 2,000+ 个面向自主 AI 智能体开发的生产级 API，涵盖智能体、AI 模型与 MCP 服务器。无需从零搭建基础设施，即插即用快速上线你的 Agent。
-
-- **Stars:** ⭐️ 657
-- **Tags:** `AI Agents` `MCP` `APIs` `LLM` `Curated List` `Developer Tools`
-- **最后活动时间:** 2026-10-17
-
 ### [pi-claude-bridge](https://github.com/elidickinson/pi-claude-bridge)
 
 为 Pi 提供的 Claude Code 推理桥接器，可让 pi.dev 复用 Claude Pro/Max 订阅来调用 Claude Code 能力。
@@ -22044,21 +22372,21 @@ Apache Commons Math 是 Apache 基金会提供的轻量级数学和统计计算�
 - **Tags:** `Claude-Code` `API-Bridge` `LLM` `Developer-Tools`
 - **最后活动时间:** 2026-10-13
 
-### [hlwy-ai-checker](https://github.com/hanlinwenyuan/hlwy-ai-checker)
-
-基于 LLM 指纹的 AI 模型识别工具，可检测第三方 AI API 是否掺假以及渠道是否一致。帮助开发者验证所购模型服务的真实性与稳定性。
-
-- **Stars:** ⭐️ 656
-- **Tags:** `llm` `ai-api` `fingerprint` `model-verification` `api-testing`
-- **最后活动时间:** 2026-09-29
-
 ### [firecrawl-cli](https://github.com/firecrawl/cli)
 
 Firecrawl的CLI工具与智能体技能，为AI智能体提供网页抓取、搜索与浏览能力。
 
 - **Stars:** ⭐️ 655
 - **Tags:** `cli` `agent-skills` `web-scraping` `firecrawl`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-19
+
+### [mcp-server-neon](https://github.com/neondatabase/mcp-server-neon)
+
+用于与Neon管理API和数据库交互的MCP服务器，简化AI应用与数据库的集成。
+
+- **Stars:** ⭐️ 654
+- **Tags:** `MCP` `Database` `Neon`
+- **最后活动时间:** 2026-10-16
 
 ### [tcav](https://github.com/tensorflow/tcav)
 
@@ -22075,14 +22403,6 @@ TCAV机器学习可解释性项目，帮助理解模型决策依据。
 - **Stars:** ⭐️ 654
 - **Tags:** `golang` `llamacpp` `local-inference` `edge-ai` `hardware-acceleration`
 - **最后活动时间:** 2026-10-17
-
-### [mcp-server-neon](https://github.com/neondatabase/mcp-server-neon)
-
-用于与Neon管理API和数据库交互的MCP服务器，简化AI应用与数据库的集成。
-
-- **Stars:** ⭐️ 653
-- **Tags:** `MCP` `Database` `Neon`
-- **最后活动时间:** 2026-10-16
 
 ### [python-utcp](https://github.com/universal-tool-calling-protocol/python-utcp)
 
@@ -22108,6 +22428,14 @@ Common Lisp机器学习库，为Lisp生态系统提供神经网络和深度学�
 - **Tags:** `common-lisp` `machine-learning` `neural-network`
 - **最后活动时间:** 2026-06-27
 
+### [veridrop](https://github.com/canarybyte/veridrop)
+
+veridrop 是一个自托管的AI API中转站检测工具，支持Claude、OpenAI和Gemini的代理检测，长上下文验证和思维签名验证。
+
+- **Stars:** ⭐️ 652
+- **Tags:** `API-Detection` `LLM-Security` `Self-Hosted-Tool`
+- **最后活动时间:** 2026-09-20
+
 ### [ConvoKit](https://github.com/CornellNLP/ConvoKit)
 
 康奈尔大学开发的对话分析工具包，提供对话特征提取、社会现象分析等功能，附带多个大型对话数据集。
@@ -22115,14 +22443,6 @@ Common Lisp机器学习库，为Lisp生态系统提供神经网络和深度学�
 - **Stars:** ⭐️ 651
 - **Tags:** `conversational-ai` `nlp` `dataset` `toolkit`
 - **最后活动时间:** 2026-10-16
-
-### [veridrop](https://github.com/canarybyte/veridrop)
-
-veridrop 是一个自托管的AI API中转站检测工具，支持Claude、OpenAI和Gemini的代理检测，长上下文验证和思维签名验证。
-
-- **Stars:** ⭐️ 650
-- **Tags:** `API-Detection` `LLM-Security` `Self-Hosted-Tool`
-- **最后活动时间:** 2026-09-20
 
 ### [mediadevices](https://github.com/pion/mediadevices)
 
@@ -22170,7 +22490,7 @@ Python因果发现包，支持贝叶斯网络结构学习、参数学习与推�
 
 - **Stars:** ⭐️ 645
 - **Tags:** `causal-discovery` `bayesian-network` `structure-learning`
-- **最后活动时间:** 2026-09-24
+- **最后活动时间:** 2026-10-18
 
 ### [roma](https://github.com/naver/roma)
 
@@ -22180,6 +22500,14 @@ Python因果发现包，支持贝叶斯网络结构学习、参数学习与推�
 - **Tags:** `3d-rotations` `geometry` `pytorch` `computer-vision`
 - **最后活动时间:** 2026-10-16
 
+### [codex-mcp-server](https://github.com/tuannvm/codex-mcp-server)
+
+OpenAI Codex CLI的MCP服务器封装，使Claude Code能够直接调用Codex的AI能力。
+
+- **Stars:** ⭐️ 645
+- **Tags:** `claude-code` `codex` `mcp` `developer-tools`
+- **最后活动时间:** 2026-05-25
+
 ### [mcp-mermaid](https://github.com/hustcc/mcp-mermaid)
 
 基于MCP协议的Mermaid图表生成工具，支持AI助手动态生成流程图、时序图等多种图表。
@@ -22187,14 +22515,6 @@ Python因果发现包，支持贝叶斯网络结构学习、参数学习与推�
 - **Stars:** ⭐️ 644
 - **Tags:** `mcp` `mcp-server` `mermaid` `diagram`
 - **最后活动时间:** 2026-05-15
-
-### [codex-mcp-server](https://github.com/tuannvm/codex-mcp-server)
-
-OpenAI Codex CLI的MCP服务器封装，使Claude Code能够直接调用Codex的AI能力。
-
-- **Stars:** ⭐️ 644
-- **Tags:** `claude-code` `codex` `mcp` `developer-tools`
-- **最后活动时间:** 2026-05-25
 
 ### [apiflow](https://github.com/trueleaf/apiflow)
 
@@ -22212,6 +22532,22 @@ Laravel框架的Gemini AI API客户端，提供简洁的PHP接口与Google Gemin
 - **Tags:** `gemini` `gemini-api` `laravel` `php` `google-ai`
 - **最后活动时间:** 2026-10-12
 
+### [torchopt](https://github.com/metaopt/torchopt)
+
+基于PyTorch的可微分优化库，支持元学习和双层优化等高级应用。
+
+- **Stars:** ⭐️ 639
+- **Tags:** `differentiable-optimization` `meta-learning` `pytorch` `deep-learning`
+- **最后活动时间:** 2026-10-05
+
+### [duck-ui](https://github.com/caioricciuti/duck-ui)
+
+DuckDB的Web界面工具，支持SQL编辑、数据导入导出和浏览器端分析。
+
+- **Stars:** ⭐️ 639
+- **Tags:** `duckdb` `sql` `data-visualization`
+- **最后活动时间:** 2026-10-03
+
 ### [check-cx](https://github.com/BingZi-233/check-cx)
 
 实时监控 OpenAI、Gemini、Anthropic 等 AI 模型 API 的可用性、延迟与错误信息，帮助开发者及时了解服务状态。
@@ -22228,14 +22564,6 @@ Laravel框架的Gemini AI API客户端，提供简洁的PHP接口与Google Gemin
 - **Tags:** `llm` `stream` `syntax-highlighting`
 - **最后活动时间:** 2026-06-03
 
-### [torchopt](https://github.com/metaopt/torchopt)
-
-基于PyTorch的可微分优化库，支持元学习和双层优化等高级应用。
-
-- **Stars:** ⭐️ 638
-- **Tags:** `differentiable-optimization` `meta-learning` `pytorch` `deep-learning`
-- **最后活动时间:** 2026-10-05
-
 ### [keras-YOLOv3-model-set](https://github.com/david8862/keras-YOLOv3-model-set)
 
 端到端YOLO目标检测工具链，支持YOLOv2/v3/v4，基于tf.keras实现。
@@ -22251,14 +22579,6 @@ Julia语言的广义线性模型库，为机器学习统计建模提供核心支
 - **Stars:** ⭐️ 638
 - **Tags:** `julia` `statistics` `regression` `machine-learning`
 - **最后活动时间:** 2026-09-19
-
-### [duck-ui](https://github.com/caioricciuti/duck-ui)
-
-DuckDB的Web界面工具，支持SQL编辑、数据导入导出和浏览器端分析。
-
-- **Stars:** ⭐️ 638
-- **Tags:** `duckdb` `sql` `data-visualization`
-- **最后活动时间:** 2026-10-03
 
 ### [PeNet](https://github.com/secana/PeNet)
 
@@ -22290,7 +22610,7 @@ Roboflow官方Python SDK，提供数据集管理、模型训练和部署的一�
 
 - **Stars:** ⭐️ 634
 - **Tags:** `computer-vision` `python` `machine-learning` `sdk`
-- **最后活动时间:** 2026-10-16
+- **最后活动时间:** 2026-10-18
 
 ### [PythonForWindows](https://github.com/hakril/PythonForWindows)
 
@@ -22306,7 +22626,7 @@ Roboflow官方Python SDK，提供数据集管理、模型训练和部署的一�
 
 - **Stars:** ⭐️ 633
 - **Tags:** `ai` `typescript` `framework` `cloud` `web`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [apple-doc-mcp](https://github.com/MightyDillah/apple-doc-mcp)
 
@@ -22340,6 +22660,22 @@ Python元启发式优化算法库，提供多种生物启发式优化器实现�
 - **Tags:** `llm` `cli` `ai` `terminal`
 - **最后活动时间:** 2026-06-25
 
+### [bash-tool](https://github.com/vercel-labs/bash-tool)
+
+一个为AI SDK提供Bash执行能力的工具，允许大模型在安全沙箱内执行终端命令。
+
+- **Stars:** ⭐️ 628
+- **Tags:** `ai-sdk` `bash` `tool` `cli`
+- **最后活动时间:** 2026-08-22
+
+### [vendo](https://github.com/runvendo/vendo)
+
+可嵌入产品的 AI 智能体 SDK，让用户自动化工作、构建视图并连接工具，支持生成式 UI。
+
+- **Stars:** ⭐️ 628
+- **Tags:** `ai-agents` `sdk` `embedded-ai` `llm` `typescript`
+- **最后活动时间:** 2026-10-14
+
 ### [WebRTC](https://github.com/stasel/WebRTC)
 
 社区驱动的 iOS 和 macOS 平台 WebRTC 框架二进制分发版。为开发者提供最新、开箱即用的 WebRTC 库，简化实时音视频开发。
@@ -22354,7 +22690,7 @@ Python元启发式优化算法库，提供多种生物启发式优化器实现�
 
 - **Stars:** ⭐️ 628
 - **Tags:** `cpp` `cross-platform` `platform-abstraction` `networking`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [markdown-site](https://github.com/waynesutton/markdown-site)
 
@@ -22372,27 +22708,19 @@ OpenAI API兼容的Claude Code封装层，方便现有OpenAI生态工具无缝�
 - **Tags:** `openai-api` `claude-code` `api-wrapper` `compatibility`
 - **最后活动时间:** 2026-09-24
 
-### [vendo](https://github.com/runvendo/vendo)
+### [php-tui](https://github.com/php-tui/php-tui)
 
-可嵌入产品的 AI 智能体 SDK，让用户自动化工作、构建视图并连接工具，支持生成式 UI。
+Rust Ratatui 的 PHP 移植版，让 PHP 开发者也能构建精美的终端控制台应用。
 
-- **Stars:** ⭐️ 627
-- **Tags:** `ai-agents` `sdk` `embedded-ai` `llm` `typescript`
-- **最后活动时间:** 2026-10-14
-
-### [bash-tool](https://github.com/vercel-labs/bash-tool)
-
-一个为AI SDK提供Bash执行能力的工具，允许大模型在安全沙箱内执行终端命令。
-
-- **Stars:** ⭐️ 626
-- **Tags:** `ai-sdk` `bash` `tool` `cli`
-- **最后活动时间:** 2026-08-22
+- **Stars:** ⭐️ 622
+- **Tags:** `php` `tui` `cli` `framework`
+- **最后活动时间:** 2026-05-04
 
 ### [xai-cookbook](https://github.com/xai-org/xai-cookbook)
 
 xAI Grok API 的实用示例集合，涵盖从基础到高级的实际应用场景。帮助开发者快速上手并集成 Grok 模型。
 
-- **Stars:** ⭐️ 621
+- **Stars:** ⭐️ 620
 - **Tags:** `xai` `grok` `api` `cookbook` `llm`
 - **最后活动时间:** 2026-10-14
 
@@ -22410,37 +22738,29 @@ R语言调用大语言模型API的工具包，简化R环境下的LLM集成开发
 
 - **Stars:** ⭐️ 619
 - **Tags:** `r` `llm-api` `sdk` `r-package`
-- **最后活动时间:** 2026-10-17
-
-### [energy](https://github.com/energye/energy)
-
-基于 Go 语言与 CEF (Chromium Embedded Framework) 的跨平台桌面应用开发框架，支持 Windows、macOS 与 Linux，可轻松构建现代化 GUI 应用。
-
-- **Stars:** ⭐️ 619
-- **Tags:** `golang` `cef` `chromium` `gui` `desktop`
-- **最后活动时间:** 2026-07-12
-
-### [php-tui](https://github.com/php-tui/php-tui)
-
-Rust Ratatui 的 PHP 移植版，让 PHP 开发者也能构建精美的终端控制台应用。
-
-- **Stars:** ⭐️ 618
-- **Tags:** `php` `tui` `cli` `framework`
-- **最后活动时间:** 2026-05-04
+- **最后活动时间:** 2026-10-18
 
 ### [backpack](https://github.com/f-dangel/backpack)
 
 基于 PyTorch 的反向传播扩展包，高效计算梯度以外的二阶信息。
 
-- **Stars:** ⭐️ 617
+- **Stars:** ⭐️ 618
 - **Tags:** `backpropagation` `pytorch` `optimization` `second-order-methods`
 - **最后活动时间:** 2026-07-17
+
+### [energy](https://github.com/energye/energy)
+
+基于 Go 语言与 CEF (Chromium Embedded Framework) 的跨平台桌面应用开发框架，支持 Windows、macOS 与 Linux，可轻松构建现代化 GUI 应用。
+
+- **Stars:** ⭐️ 618
+- **Tags:** `golang` `cef` `chromium` `gui` `desktop`
+- **最后活动时间:** 2026-07-12
 
 ### [CAD-MCP](https://github.com/daobataotie/CAD-MCP)
 
 面向 CAD 的 MCP 服务器，让 AI 助手通过 Model Context Protocol 直接操作 CAD 软件，实现智能绘图与辅助设计。
 
-- **Stars:** ⭐️ 616
+- **Stars:** ⭐️ 617
 - **Tags:** `mcp` `cad` `model-context-protocol` `ai-agents`
 - **最后活动时间:** 2026-09-15
 
@@ -22451,6 +22771,14 @@ Rust Ratatui 的 PHP 移植版，让 PHP 开发者也能构建精美的终端控
 - **Stars:** ⭐️ 615
 - **Tags:** `ai` `package-manager` `llm-application` `tools`
 - **最后活动时间:** 2026-10-18
+
+### [coolify-mcp](https://github.com/StuMason/coolify-mcp)
+
+为 Coolify 自托管 PaaS 平台提供的 MCP 服务器，包含 42 个优化工具，支持通过 AI 助手进行部署和基础设施管理。
+
+- **Stars:** ⭐️ 614
+- **Tags:** `ai` `coolify` `mcp` `devops` `self-hosted` `typescript`
+- **最后活动时间:** 2026-10-16
 
 ### [facetorch](https://github.com/tomas-gajarsky/facetorch)
 
@@ -22484,21 +22812,13 @@ Groq官方Python SDK，提供超快速AI推理API访问能力，支持LLM模型�
 - **Tags:** `groq` `llm` `python-sdk` `inference` `api`
 - **最后活动时间:** 2026-08-20
 
-### [coolify-mcp](https://github.com/StuMason/coolify-mcp)
-
-为 Coolify 自托管 PaaS 平台提供的 MCP 服务器，包含 42 个优化工具，支持通过 AI 助手进行部署和基础设施管理。
-
-- **Stars:** ⭐️ 610
-- **Tags:** `ai` `coolify` `mcp` `devops` `self-hosted` `typescript`
-- **最后活动时间:** 2026-10-16
-
 ### [dbt-mcp](https://github.com/dbt-labs/dbt-mcp)
 
 MCP服务器，让AI与dbt数据转换工具交互，支持数据分析工作流。
 
 - **Stars:** ⭐️ 609
 - **Tags:** `MCP` `dbt` `数据分析`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [myvision](https://github.com/OvidijusParsiunas/myvision)
 
@@ -22532,21 +22852,21 @@ Unity平台的OpenCV插件，为游戏和AR/VR应用提供计算机视觉能力�
 - **Tags:** `LLM Gateway` `SDK` `Multi-model`
 - **最后活动时间:** 2026-07-29
 
+### [terminal.js](https://github.com/Gottox/terminal.js)
+
+兼容 xterm 的 JavaScript 终端模拟器库,可在浏览器与 Node.js 中运行。
+
+- **Stars:** ⭐️ 605
+- **Tags:** `javascript` `terminal-emulator` `xterm` `nodejs`
+- **最后活动时间:** 2026-05-22
+
 ### [FantasyPremierLeague](https://github.com/joreilly/FantasyPremierLeague)
 
 Kotlin多平台示例项目，集成MCP服务器，展示Jetpack Compose跨平台开发最佳实践。
 
 - **Stars:** ⭐️ 604
 - **Tags:** `kotlin-multiplatform` `mcp-server` `jetpack-compose` `kmp`
-- **最后活动时间:** 2026-10-17
-
-### [terminal.js](https://github.com/Gottox/terminal.js)
-
-兼容 xterm 的 JavaScript 终端模拟器库,可在浏览器与 Node.js 中运行。
-
-- **Stars:** ⭐️ 604
-- **Tags:** `javascript` `terminal-emulator` `xterm` `nodejs`
-- **最后活动时间:** 2026-05-22
+- **最后活动时间:** 2026-10-18
 
 ### [java-slack-sdk](https://github.com/slackapi/java-slack-sdk)
 
@@ -22555,6 +22875,22 @@ Slack 官方开发者工具包，支持 Java 和 Kotlin，包含 Bolt 框架用�
 - **Stars:** ⭐️ 602
 - **Tags:** `slack-api` `slack-bot` `java` `kotlin` `chatbot` `bolt`
 - **最后活动时间:** 2026-10-17
+
+### [gemini-web-to-api](https://github.com/ntthanh2603/gemini-web-to-api)
+
+将 Gemini 网页版逆向为标准 REST API，兼容 OpenAI、Claude 等接口格式，无需官方 API Key 即可调用。支持 Docker 一键部署，方便开发者快速集成 Gemini 模型能力。
+
+- **Stars:** ⭐️ 600
+- **Tags:** `gemini` `reverse-proxy` `openai-api` `llm` `rest-api` `docker`
+- **最后活动时间:** 2026-10-16
+
+### [x64dbgMCP](https://github.com/Wasdubya/x64dbgMCP)
+
+为x64dbg/x32dbg调试器提供MCP协议支持，让AI模型能直接操控调试流程并辅助逆向分析。
+
+- **Stars:** ⭐️ 598
+- **Tags:** `MCP` `x64dbg` `Debugger` `Reverse-Engineering`
+- **最后活动时间:** 2026-06-05
 
 ### [bayestestR](https://github.com/easystats/bayestestR)
 
@@ -22587,14 +22923,6 @@ Ultraleap 为 Unity 引擎提供的 SDK 插件，支持手部跟踪和混合现�
 - **Stars:** ⭐️ 596
 - **Tags:** `Ultraleap` `Hand Tracking` `Unity` `AI SDK`
 - **最后活动时间:** 2026-07-07
-
-### [gemini-web-to-api](https://github.com/ntthanh2603/gemini-web-to-api)
-
-将 Gemini 网页版逆向为标准 REST API，兼容 OpenAI、Claude 等接口格式，无需官方 API Key 即可调用。支持 Docker 一键部署，方便开发者快速集成 Gemini 模型能力。
-
-- **Stars:** ⭐️ 596
-- **Tags:** `gemini` `reverse-proxy` `openai-api` `llm` `rest-api` `docker`
-- **最后活动时间:** 2026-10-16
 
 ### [skyline](https://github.com/earthgecko/skyline)
 
@@ -22634,7 +22962,23 @@ Kotlin多平台项目示例，集成MCP服务器，展示Jetpack Compose与Swift
 
 - **Stars:** ⭐️ 590
 - **Tags:** `kotlin-multiplatform` `mcp-server` `jetpack-compose` `swiftui`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
+
+### [ComfyUI_VLM_nodes](https://github.com/gokayfem/ComfyUI_VLM_nodes)
+
+ComfyUI视觉语言模型自定义节点集，支持图像描述、音乐生成和创意提示生成。
+
+- **Stars:** ⭐️ 589
+- **Tags:** `ComfyUI` `VLM` `图像描述`
+- **最后活动时间:** 2026-08-08
+
+### [mcp-for-argocd](https://github.com/argoproj-labs/mcp-for-argocd)
+
+为Argo CD实现的MCP服务器，赋能AI大模型与DevOps流程交互。支持GitOps、Kubernetes持续交付等云原生能力。
+
+- **Stars:** ⭐️ 589
+- **Tags:** `argocd` `mcp` `kubernetes` `devops` `gitops`
+- **最后活动时间:** 2026-10-16
 
 ### [touchdesigner-mcp](https://github.com/8beeeaaat/touchdesigner-mcp)
 
@@ -22644,21 +22988,13 @@ Kotlin多平台项目示例，集成MCP服务器，展示Jetpack Compose与Swift
 - **Tags:** `mcp` `mcp-server` `touchdesigner` `creative-coding`
 - **最后活动时间:** 2026-10-12
 
-### [ComfyUI_VLM_nodes](https://github.com/gokayfem/ComfyUI_VLM_nodes)
+### [camel_tools](https://github.com/CAMeL-Lab/camel_tools)
 
-ComfyUI视觉语言模型自定义节点集，支持图像描述、音乐生成和创意提示生成。
-
-- **Stars:** ⭐️ 588
-- **Tags:** `ComfyUI` `VLM` `图像描述`
-- **最后活动时间:** 2026-08-08
-
-### [mcp-for-argocd](https://github.com/argoproj-labs/mcp-for-argocd)
-
-为Argo CD实现的MCP服务器，赋能AI大模型与DevOps流程交互。支持GitOps、Kubernetes持续交付等云原生能力。
+纽约大学阿布扎比分校开发的阿拉伯语自然语言处理工具套件。
 
 - **Stars:** ⭐️ 588
-- **Tags:** `argocd` `mcp` `kubernetes` `devops` `gitops`
-- **最后活动时间:** 2026-10-16
+- **Tags:** `arabic-nlp` `ner` `sentiment-analysis` `pos-tagging` `stemming`
+- **最后活动时间:** 2026-10-14
 
 ### [app-builder](https://github.com/baidubce/app-builder)
 
@@ -22676,13 +23012,13 @@ YouTube API的MCP服务器，支持AI助手进行视频管理、Shorts创建和�
 - **Tags:** `mcp-server` `youtube-api` `video-management` `analytics`
 - **最后活动时间:** 2026-08-08
 
-### [x64dbgMCP](https://github.com/Wasdubya/x64dbgMCP)
+### [crepes](https://github.com/henrikbostrom/crepes)
 
-为x64dbg/x32dbg调试器提供MCP协议支持，让AI模型能直接操控调试流程并辅助逆向分析。
+Python共形预测工具包，提供置信区间、预测区间和不确定性量化功能，兼容scikit-learn。
 
-- **Stars:** ⭐️ 586
-- **Tags:** `MCP` `x64dbg` `Debugger` `Reverse-Engineering`
-- **最后活动时间:** 2026-06-05
+- **Stars:** ⭐️ 585
+- **Tags:** `conformal-prediction` `uncertainty-quantification` `machine-learning`
+- **最后活动时间:** 2026-07-08
 
 ### [Aspect-Based-Sentiment-Analysis](https://github.com/ScalaConsultants/Aspect-Based-Sentiment-Analysis)
 
@@ -22692,21 +23028,13 @@ YouTube API的MCP服务器，支持AI助手进行视频管理、Shorts创建和�
 - **Tags:** `sentiment-analysis` `transformers` `explainable-ai` `nlp`
 - **最后活动时间:** 2026-09-07
 
-### [crepes](https://github.com/henrikbostrom/crepes)
+### [auth2api](https://github.com/AmazingAng/auth2api)
 
-Python共形预测工具包，提供置信区间、预测区间和不确定性量化功能，兼容scikit-learn。
+一个轻量级的代理工具，将 Claude 的 OAuth 认证转换为兼容 OpenAI 格式的 API。方便开发者统一调用各类大模型接口。
 
-- **Stars:** ⭐️ 584
-- **Tags:** `conformal-prediction` `uncertainty-quantification` `machine-learning`
-- **最后活动时间:** 2026-07-08
-
-### [camel_tools](https://github.com/CAMeL-Lab/camel_tools)
-
-纽约大学阿布扎比分校开发的阿拉伯语自然语言处理工具套件。
-
-- **Stars:** ⭐️ 581
-- **Tags:** `arabic-nlp` `ner` `sentiment-analysis` `pos-tagging` `stemming`
-- **最后活动时间:** 2026-06-08
+- **Stars:** ⭐️ 583
+- **Tags:** `claude` `oauth` `api` `proxy` `openai`
+- **最后活动时间:** 2026-07-01
 
 ### [torcheeg](https://github.com/torcheeg/torcheeg)
 
@@ -22736,7 +23064,7 @@ xAI API的官方Python SDK，方便开发者快速集成和使用xAI的强大人
 
 Python拓扑数据分析库，提供持久同调、Mapper等算法实现，可用于特征工程和数据探索，与机器学习工作流紧密结合。
 
-- **Stars:** ⭐️ 579
+- **Stars:** ⭐️ 580
 - **Tags:** `topological-data-analysis` `tda` `python` `machine-learning` `data-analysis`
 - **最后活动时间:** 2026-08-03
 
@@ -22771,6 +23099,14 @@ TensorFlow.js微信小程序插件，支持在微信生态中运行机器学习�
 - **Stars:** ⭐️ 578
 - **Tags:** `tensorflowjs` `wechat` `miniprogram` `machine-learning`
 - **最后活动时间:** 2026-06-24
+
+### [ComfyUI-SAM3](https://github.com/PozzettiAndrea/ComfyUI-SAM3)
+
+为ComfyUI提供Segment Anything 3 (SAM3)的节点封装，方便在工作流中集成图像分割功能。
+
+- **Stars:** ⭐️ 578
+- **Tags:** `comfyui` `segment-anything` `image-segmentation` `workflow`
+- **最后活动时间:** 2026-08-24
 
 ### [TensorOperations.jl](https://github.com/QuantumKitHub/TensorOperations.jl)
 
@@ -22820,14 +23156,6 @@ Resend官方MCP服务器，让AI助手能够发送邮件并与Resend服务交互
 - **Tags:** `mcp` `email` `resend` `ai-integration`
 - **最后活动时间:** 2026-10-16
 
-### [auth2api](https://github.com/AmazingAng/auth2api)
-
-一个轻量级的代理工具，将 Claude 的 OAuth 认证转换为兼容 OpenAI 格式的 API。方便开发者统一调用各类大模型接口。
-
-- **Stars:** ⭐️ 576
-- **Tags:** `claude` `oauth` `api` `proxy` `openai`
-- **最后活动时间:** 2026-07-01
-
 ### [enformer-pytorch](https://github.com/lucidrains/enformer-pytorch)
 
 DeepMind Enformer模型的PyTorch实现，用于基因表达预测的注意力网络。
@@ -22835,14 +23163,6 @@ DeepMind Enformer模型的PyTorch实现，用于基因表达预测的注意力�
 - **Stars:** ⭐️ 575
 - **Tags:** `genomics` `transformer` `gene-expression` `deep-learning`
 - **最后活动时间:** 2026-06-26
-
-### [ComfyUI-SAM3](https://github.com/PozzettiAndrea/ComfyUI-SAM3)
-
-为ComfyUI提供Segment Anything 3 (SAM3)的节点封装，方便在工作流中集成图像分割功能。
-
-- **Stars:** ⭐️ 575
-- **Tags:** `comfyui` `segment-anything` `image-segmentation` `workflow`
-- **最后活动时间:** 2026-08-24
 
 ### [adaptive-classifier](https://github.com/codelion/adaptive-classifier)
 
@@ -22866,7 +23186,7 @@ Rails项目的MCP服务器实现，让LLM能够通过Model Context Protocol与Ra
 
 - **Stars:** ⭐️ 574
 - **Tags:** `sdk` `ai-agents` `llm` `anthropic` `openai` `claude`
-- **最后活动时间:** 2026-10-18
+- **最后活动时间:** 2026-10-19
 
 ### [PyRCA](https://github.com/salesforce/PyRCA)
 
@@ -22890,7 +23210,7 @@ Azure开发者CLI工具，用于构建和部署AI应用，覆盖代码、构建�
 
 - **Stars:** ⭐️ 570
 - **Tags:** `azure` `cli` `ai` `developer-tools`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-19
 
 ### [xlings](https://github.com/d2learn/xlings)
 
@@ -22907,6 +23227,14 @@ Torch深度学习框架的R语言接口，让R用户能够使用PyTorch功能。
 - **Stars:** ⭐️ 569
 - **Tags:** `pytorch` `r` `deep-learning` `autograd`
 - **最后活动时间:** 2026-10-14
+
+### [skills-npm](https://github.com/antfu/skills-npm)
+
+支持从 npm 安装 Agent Skills 的工具，简化 AI 智能体技能的分发与管理。
+
+- **Stars:** ⭐️ 569
+- **Tags:** `npm` `agent-skills` `cli` `developer-tools`
+- **最后活动时间:** 2026-10-15
 
 ### [enferno](https://github.com/level09/enferno)
 
@@ -23036,11 +23364,19 @@ Amazon Alexa Skills官方.NET SDK，支持.NET Core开发语音技能应用，�
 - **Tags:** `alexa` `dotnet` `voice-assistant` `sdk` `aws-lambda`
 - **最后活动时间:** 2026-06-11
 
+### [seo-monster](https://github.com/avansaber/seo-monster)
+
+本地运行的 MCP 服务器，让 AI 助手直接处理 Google Search Console、GA4、PageSpeed 等 SEO 工作流。
+
+- **Stars:** ⭐️ 555
+- **Tags:** `mcp` `model-context-protocol` `seo` `claude` `analytics`
+- **最后活动时间:** 2026-10-18
+
 ### [Mantic.sh](https://github.com/marcoaapfortes/Mantic.sh)
 
 面向AI代理的结构化代码搜索引擎，支持MCP协议。帮助AI代理高效检索代码上下文，提升代码理解和生成能力。
 
-- **Stars:** ⭐️ 555
+- **Stars:** ⭐️ 554
 - **Tags:** `code-search` `mcp-server` `context-retrieval` `rag`
 - **最后活动时间:** 2026-07-13
 
@@ -23050,15 +23386,7 @@ Amazon Alexa Skills官方.NET SDK，支持.NET Core开发语音技能应用，�
 
 - **Stars:** ⭐️ 554
 - **Tags:** `data-pipeline` `machine-learning` `dataframe` `sql` `sklearn`
-- **最后活动时间:** 2026-10-17
-
-### [seo-monster](https://github.com/avansaber/seo-monster)
-
-本地运行的 MCP 服务器，让 AI 助手直接处理 Google Search Console、GA4、PageSpeed 等 SEO 工作流。
-
-- **Stars:** ⭐️ 553
-- **Tags:** `mcp` `model-context-protocol` `seo` `claude` `analytics`
-- **最后活动时间:** 2026-10-13
+- **最后活动时间:** 2026-10-18
 
 ### [Rectlabel-support](https://github.com/ryouchinsa/Rectlabel-support)
 
@@ -23076,6 +23404,14 @@ Amazon Alexa Skills官方.NET SDK，支持.NET Core开发语音技能应用，�
 - **Tags:** `Differential Privacy` `Python` `Privacy` `ML`
 - **最后活动时间:** 2026-05-11
 
+### [pmg](https://github.com/safedep/pmg)
+
+通过代理、沙箱和威胁情报源保护开发者与AI智能体免受恶意开源软件包侵害的供应链安全工具。在AI Agent大量自动安装依赖的时代，这是保障运行环境安全的重要防线。
+
+- **Stars:** ⭐️ 551
+- **Tags:** `supply-chain-security` `ai-agents` `npm` `devsecops` `sandbox` `developer-tools`
+- **最后活动时间:** 2026-10-17
+
 ### [ethora](https://github.com/dappros/ethora)
 
 开源聊天应用引擎，支持构建AI助手和Web3钱包。集成React、TypeScript与XMPP协议，助力开发者快速打造智能应用。
@@ -23083,14 +23419,6 @@ Amazon Alexa Skills官方.NET SDK，支持.NET Core开发语音技能应用，�
 - **Stars:** ⭐️ 550
 - **Tags:** `Chat SDK` `AI Assistant` `Web3`
 - **最后活动时间:** 2026-10-16
-
-### [pmg](https://github.com/safedep/pmg)
-
-通过代理、沙箱和威胁情报源保护开发者与AI智能体免受恶意开源软件包侵害的供应链安全工具。在AI Agent大量自动安装依赖的时代，这是保障运行环境安全的重要防线。
-
-- **Stars:** ⭐️ 550
-- **Tags:** `supply-chain-security` `ai-agents` `npm` `devsecops` `sandbox` `developer-tools`
-- **最后活动时间:** 2026-10-17
 
 ### [hol-light](https://github.com/jrh13/hol-light)
 
@@ -23124,6 +23452,14 @@ Amazon Alexa Skills官方.NET SDK，支持.NET Core开发语音技能应用，�
 - **Tags:** `计算机视觉` `SDK` `Python` `深度学习`
 - **最后活动时间:** 2026-10-14
 
+### [lambeq](https://github.com/Quantinuum/lambeq)
+
+量子自然语言处理高级Python库，将量子计算与NLP相结合。
+
+- **Stars:** ⭐️ 545
+- **Tags:** `qnlp` `quantum-computing` `nlp` `python`
+- **最后活动时间:** 2026-09-01
+
 ### [1c_mcp](https://github.com/vladimir-kharin/1c_mcp)
 
 用于在1C:Enterprise中通过配置扩展创建MCP服务器的工具，可将1C数据与业务功能接入Claude、Cursor等AI助手。
@@ -23139,14 +23475,6 @@ Python并行优化计算平台，支持多种元启发式和进化算法。
 - **Stars:** ⭐️ 542
 - **Tags:** `optimization` `evolutionary-algorithms` `parallel-computing` `python`
 - **最后活动时间:** 2026-10-05
-
-### [lambeq](https://github.com/Quantinuum/lambeq)
-
-量子自然语言处理高级Python库，将量子计算与NLP相结合。
-
-- **Stars:** ⭐️ 542
-- **Tags:** `qnlp` `quantum-computing` `nlp` `python`
-- **最后活动时间:** 2026-09-01
 
 ### [Delphi-OpenCV](https://github.com/Laex/Delphi-OpenCV)
 
@@ -23168,25 +23496,33 @@ OpenCV库的Delphi语言头文件翻译与封装，方便Delphi开发者使用�
 
 Python线性算子库，用于大规模反问题求解与优化，广泛应用于地震成像与信号处理。
 
-- **Stars:** ⭐️ 540
+- **Stars:** ⭐️ 541
 - **Tags:** `inverse-problems` `linear-operators` `python`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [tflite_flutter_plugin](https://github.com/am15h/tflite_flutter_plugin)
 
 TensorFlow Lite的Flutter插件，支持在移动端应用中部署轻量级机器学习模型。
 
-- **Stars:** ⭐️ 539
+- **Stars:** ⭐️ 540
 - **Tags:** `tensorflow-lite` `flutter` `mobile-ml` `edge-ai`
 - **最后活动时间:** 2026-05-31
+
+### [f-flow](https://github.com/Foblex/f-flow)
+
+一个基于 Angular 的高性能节点编辑器库，非常适合构建 AI 工作流、可视化编程和交互式图表编辑器。
+
+- **Stars:** ⭐️ 540
+- **Tags:** `angular` `workflow` `node-editor` `ai-pipelines` `diagram`
+- **最后活动时间:** 2026-10-11
 
 ### [superconsole](https://github.com/facebookincubator/superconsole)
 
 Rust 的 TUI 构建库，通过组件组合系统快速搭建跨平台（Windows/Linux/macOS）的非交互式终端界面。
 
-- **Stars:** ⭐️ 539
+- **Stars:** ⭐️ 540
 - **Tags:** `rust` `tui` `library` `terminal`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-13
 
 ### [fakecloud](https://github.com/faiscadev/fakecloud)
 
@@ -23195,6 +23531,14 @@ Rust 的 TUI 构建库，通过组件组合系统快速搭建跨平台（Windows
 - **Stars:** ⭐️ 538
 - **Tags:** `aws-emulator` `llm-testing` `bedrock` `ai-testing`
 - **最后活动时间:** 2026-09-03
+
+### [blockbench-mcp-plugin](https://github.com/jasonjgardner/blockbench-mcp-plugin)
+
+为 Blockbench 3D 建模软件集成 MCP Server，让 AI 助手能够直接创建和编辑 3D 模型。通过 Model Context Protocol 打通大模型与建模工具的连接，实现 AI 驱动的 3D 创作工作流。
+
+- **Stars:** ⭐️ 537
+- **Tags:** `MCP` `MCP-Server` `Blockbench` `3D-Modeling` `AI-Tools`
+- **最后活动时间:** 2026-10-16
 
 ### [z3.rs](https://github.com/prove-rs/z3.rs)
 
@@ -23236,21 +23580,13 @@ Elixir 编写的命令行界面工具包,提供进度条、表格、交互提示
 - **Tags:** `elixir` `tui` `cli` `progress-bar`
 - **最后活动时间:** 2026-06-04
 
-### [f-flow](https://github.com/Foblex/f-flow)
-
-一个基于 Angular 的高性能节点编辑器库，非常适合构建 AI 工作流、可视化编程和交互式图表编辑器。
-
-- **Stars:** ⭐️ 533
-- **Tags:** `angular` `workflow` `node-editor` `ai-pipelines` `diagram`
-- **最后活动时间:** 2026-09-27
-
 ### [language_tool_python](https://github.com/jxmorris12/language_tool_python)
 
 免费的Python语法检查工具，支持多语言拼写和语法错误检测与修正。
 
 - **Stars:** ⭐️ 532
 - **Tags:** `grammar-checker` `spellchecker` `nlp`
-- **最后活动时间:** 2026-09-26
+- **最后活动时间:** 2026-10-17
 
 ### [Catalyst.jl](https://github.com/SciML/Catalyst.jl)
 
@@ -23260,13 +23596,13 @@ Elixir 编写的命令行界面工具包,提供进度条、表格、交互提示
 - **Tags:** `scientific-machine-learning` `systems-biology` `differential-equations` `julia`
 - **最后活动时间:** 2026-10-17
 
-### [skills-npm](https://github.com/antfu/skills-npm)
+### [mcp-server-motherduck](https://github.com/motherduckdb/mcp-server-motherduck)
 
-支持从 npm 安装 Agent Skills 的工具，简化 AI 智能体技能的分发与管理。
+用于 DuckDB 和 MotherDuck 的本地 MCP 服务器，支持 AI 助手安全连接并查询本地数据。
 
-- **Stars:** ⭐️ 529
-- **Tags:** `npm` `agent-skills` `cli` `developer-tools`
-- **最后活动时间:** 2026-09-28
+- **Stars:** ⭐️ 531
+- **Tags:** `ai` `duckdb` `motherduck` `mcp` `data-analytics`
+- **最后活动时间:** 2026-10-07
 
 ### [concierge](https://github.com/concierge-hq/concierge)
 
@@ -23299,14 +23635,6 @@ PyTorch FFT卷积实现，支持1D/2D/3D卷积，大卷积核场景下比直接�
 - **Stars:** ⭐️ 524
 - **Tags:** `fft` `convolution` `pytorch` `optimization`
 - **最后活动时间:** 2026-10-16
-
-### [mcp-server-motherduck](https://github.com/motherduckdb/mcp-server-motherduck)
-
-用于 DuckDB 和 MotherDuck 的本地 MCP 服务器，支持 AI 助手安全连接并查询本地数据。
-
-- **Stars:** ⭐️ 524
-- **Tags:** `ai` `duckdb` `motherduck` `mcp` `data-analytics`
-- **最后活动时间:** 2026-09-19
 
 ### [klib](https://github.com/akanz1/klib)
 
@@ -23372,6 +23700,14 @@ Codegen API的Python封装库，支持大规模运行代码智能体。
 - **Tags:** `API-Proxy` `Anthropic` `OpenAI` `Claude-Code` `Copilot` `LLM` `Developer-Tools`
 - **最后活动时间:** 2026-09-15
 
+### [hevy-mcp](https://github.com/chrisdoc/hevy-mcp)
+
+基于 MCP 协议的 Hevy 健身服务器，让 LLM 快速创建训练计划、记录训练并保持数据同步。
+
+- **Stars:** ⭐️ 518
+- **Tags:** `mcp` `mcp-server` `model-context-protocol` `fitness` `claude`
+- **最后活动时间:** 2026-10-16
+
 ### [skimpy](https://github.com/aeturrell/skimpy)
 
 轻量级Python数据探索工具，快速生成数据框的摘要统计信息。
@@ -23404,14 +23740,6 @@ Codegen API的Python封装库，支持大规模运行代码智能体。
 - **Tags:** `MCP` `Xiaohongshu` `Web-Scraping` `AI-Tools`
 - **最后活动时间:** 2026-08-24
 
-### [hevy-mcp](https://github.com/chrisdoc/hevy-mcp)
-
-基于 MCP 协议的 Hevy 健身服务器，让 LLM 快速创建训练计划、记录训练并保持数据同步。
-
-- **Stars:** ⭐️ 516
-- **Tags:** `mcp` `mcp-server` `model-context-protocol` `fitness` `claude`
-- **最后活动时间:** 2026-10-16
-
 ### [mcp-server-bash-sdk](https://github.com/muthuishere/mcp-server-bash-sdk)
 
 Bash脚本SDK，用于快速构建MCP服务器，简化AI模型与外部工具的集成开发。
@@ -23428,6 +23756,14 @@ Bash脚本SDK，用于快速构建MCP服务器，简化AI模型与外部工具�
 - **Tags:** `llm` `function-calling` `automation`
 - **最后活动时间:** 2026-06-15
 
+### [v0-sdk](https://github.com/vercel/v0-sdk)
+
+v0 平台 API 的官方 SDK，帮助开发者快速集成 AI 生成 UI 和代码的能力。
+
+- **Stars:** ⭐️ 515
+- **Tags:** `v0` `sdk` `ai` `ui-generation`
+- **最后活动时间:** 2026-10-10
+
 ### [Grassmann.jl](https://github.com/chakravala/Grassmann.jl)
 
 Julia语言的微分几何代数库，支持自动微分、几何代数和张量运算，适用于科学计算与机器学习。
@@ -23435,14 +23771,6 @@ Julia语言的微分几何代数库，支持自动微分、几何代数和张量
 - **Stars:** ⭐️ 514
 - **Tags:** `automatic-differentiation` `geometric-algebra` `julia` `tensor`
 - **最后活动时间:** 2026-06-16
-
-### [v0-sdk](https://github.com/vercel/v0-sdk)
-
-v0 平台 API 的官方 SDK，帮助开发者快速集成 AI 生成 UI 和代码的能力。
-
-- **Stars:** ⭐️ 514
-- **Tags:** `v0` `sdk` `ai` `ui-generation`
-- **最后活动时间:** 2026-09-29
 
 ### [hcloud-go](https://github.com/hetznercloud/hcloud-go)
 
@@ -23466,7 +23794,7 @@ Hetzner Cloud API的官方Go语言库。为Go开发者提供便捷的接口以�
 
 - **Stars:** ⭐️ 512
 - **Tags:** `linear-algebra` `optimization` `machine-learning` `math` `java`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [chart-visualization-skills](https://github.com/antvis/chart-visualization-skills)
 
@@ -23484,6 +23812,14 @@ MindsDB推出的AutoML框架，像搭积木一样构建机器学习模型，简�
 - **Tags:** `automl` `machine-learning` `pytorch`
 - **最后活动时间:** 2026-08-28
 
+### [mcp-ssh-manager](https://github.com/bvisible/mcp-ssh-manager)
+
+为 Claude Code 和 OpenAI Codex 打造的 MCP SSH 服务器，提供 37 种远程服务器管理工具，覆盖 DevOps 自动化、备份、数据库操作与健康监控。让 AI 编程助手能够安全高效地直接操控远程服务器。
+
+- **Stars:** ⭐️ 511
+- **Tags:** `MCP` `SSH` `Claude-Code` `DevOps` `Automation` `Model-Context-Protocol`
+- **最后活动时间:** 2026-10-09
+
 ### [managedCuda](https://github.com/kunzmi/managedCuda)
 
 .NET平台的CUDA集成库，支持C#、VB等语言调用NVIDIA GPU进行高性能计算。
@@ -23499,14 +23835,6 @@ MindsDB推出的AutoML框架，像搭积木一样构建机器学习模型，简�
 - **Stars:** ⭐️ 509
 - **Tags:** `ai-agents` `payments` `sdk` `stablecoin` `blockchain`
 - **最后活动时间:** 2026-06-08
-
-### [mcp-ssh-manager](https://github.com/bvisible/mcp-ssh-manager)
-
-为 Claude Code 和 OpenAI Codex 打造的 MCP SSH 服务器，提供 37 种远程服务器管理工具，覆盖 DevOps 自动化、备份、数据库操作与健康监控。让 AI 编程助手能够安全高效地直接操控远程服务器。
-
-- **Stars:** ⭐️ 509
-- **Tags:** `MCP` `SSH` `Claude-Code` `DevOps` `Automation` `Model-Context-Protocol`
-- **最后活动时间:** 2026-10-09
 
 ### [lingam](https://github.com/cdt15/lingam)
 
@@ -23604,6 +23932,14 @@ OpenAI/Gemini 兼容的 Gemini Business API 代理服务，方便开发者快速
 - **Tags:** `mcp` `mcp-server` `strava` `model-context-protocol` `llm`
 - **最后活动时间:** 2026-06-13
 
+### [Security-Detections-MCP](https://github.com/MHaggis/Security-Detections-MCP)
+
+基于MCP协议的安全检测工程助手，帮助安全防御者更高效、更智能地构建和管理威胁检测规则。将LLM能力引入安全运营场景，提升检测工程效率。
+
+- **Stars:** ⭐️ 500
+- **Tags:** `MCP` `Security` `Detection-Engineering` `Cybersecurity` `LLM`
+- **最后活动时间:** 2026-06-16
+
 ## Terminal Tools
 
 ### [tirith](https://github.com/sheeki03/tirith)
@@ -23646,7 +23982,7 @@ Apache开源的可视化图表库，适用于AI数据可视化展示
 
 - **Stars:** ⭐️ 11.7k
 - **Tags:** `php` `testing` `testing-framework` `agent-friendly`
-- **最后活动时间:** 2026-10-16
+- **最后活动时间:** 2026-10-18
 
 ### [smtp4dev](https://github.com/rnwood/smtp4dev)
 
@@ -23660,7 +23996,7 @@ Apache开源的可视化图表库，适用于AI数据可视化展示
 
 Anti-distill Skill旨在清洗被迫编写的Skill文件，保护核心知识不被蒸馏。适合员工或开发者安全管理知识资产，提升信息安全意识。
 
-- **Stars:** ⭐️ 2.4k
+- **Stars:** ⭐️ 2.5k
 - **Tags:** `knowledge-protection` `anti-distillation` `skill-management` `data-privacy`
 - **最后活动时间:** 2026-07-02
 
@@ -23686,7 +24022,7 @@ Crabbox 是一款面向智能体开发流程的远程测试运行器，可预热
 
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `agent-skills` `remote-test-runner` `testing` `cli` `developer-tools`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [miasma](https://github.com/austin-weeks/miasma)
 
@@ -23696,6 +24032,14 @@ Crabbox 是一款面向智能体开发流程的远程测试运行器，可预热
 - **Tags:** `AntiAI` `WebScraping` `Poisoning` `AntiSpam`
 - **最后活动时间:** 2026-09-19
 
+### [Tracely-ai](https://github.com/jwuthri-cloud/Tracely-ai)
+
+面向 AI 智能体的轨迹原生 CI/CD 平台：对生产环境 trace 进行评分、聚类失败案例，并将其固化为可回放的回归测试，自动拦截退化的 PR，支持自托管。
+
+- **Stars:** ⭐️ 1.0k
+- **Tags:** `LLM-Evaluation` `CI-CD` `LLMOps` `Observability` `Agent-Testing` `Self-Hosted`
+- **最后活动时间:** 2026-10-15
+
 ### [Stevos-AI-Blocklist](https://github.com/Stevoisiak/Stevos-AI-Blocklist)
 
 这是一个专为生成式AI内容优化的过滤列表，能有效隐藏网站上的AI生成特性，帮助用户避免AI干扰的浏览体验。
@@ -23703,14 +24047,6 @@ Crabbox 是一款面向智能体开发流程的远程测试运行器，可预热
 - **Stars:** ⭐️ 969
 - **Tags:** `adblock-list` `ai-blocker` `filter-list` `anti-ai`
 - **最后活动时间:** 2026-09-30
-
-### [Tracely-ai](https://github.com/jwuthri-cloud/Tracely-ai)
-
-面向 AI 智能体的轨迹原生 CI/CD 平台：对生产环境 trace 进行评分、聚类失败案例，并将其固化为可回放的回归测试，自动拦截退化的 PR，支持自托管。
-
-- **Stars:** ⭐️ 962
-- **Tags:** `LLM-Evaluation` `CI-CD` `LLMOps` `Observability` `Agent-Testing` `Self-Hosted`
-- **最后活动时间:** 2026-10-15
 
 ### [notebooker](https://github.com/man-group/notebooker)
 
@@ -23724,7 +24060,7 @@ Crabbox 是一款面向智能体开发流程的远程测试运行器，可预热
 
 开源 AI 智能体防火墙，可扫描 MCP、A2A 与 WebSocket 流量，检测数据外泄、SSRF 和提示注入攻击。通过中介签名的操作回执提供来自智能体外部的可验证审计证据。
 
-- **Stars:** ⭐️ 936
+- **Stars:** ⭐️ 937
 - **Tags:** `mcp-security` `ai-agent-security` `prompt-injection` `llm-firewall` `ssrf-protection` `egress-proxy`
 - **最后活动时间:** 2026-10-18
 
@@ -23736,27 +24072,27 @@ ComfyUI-DD-Translation 是 ComfyUI 的翻译项目衍生分支，全面支持最
 - **Tags:** `ComfyUI` `Translation` `Localization` `Custom Nodes`
 - **最后活动时间:** 2026-05-18
 
-### [ReArk](https://github.com/lkimuk/ReArk)
-
-面向 HarmonyOS NEXT、Android、iOS 及 PE/ELF/Mach-O 原生二进制的智能逆向工程与 AI 辅助分析工具，集反编译、反汇编与静态分析于一体。
-
-- **Stars:** ⭐️ 685
-- **Tags:** `Reverse Engineering` `AI Analysis` `Binary Analysis` `Security Tools` `Decompiler`
-- **最后活动时间:** 2026-10-15
-
 ### [eleven](https://github.com/Zfinix/eleven)
 
 面向智能体的逆向工程平台，支持任意 ACP 智能体在 macOS、Windows 和 Linux 上读取、重命名和修补二进制文件、Android 应用及 GPU 内核。让 AI 智能体成为你身边的逆向工程搭档。
 
-- **Stars:** ⭐️ 666
+- **Stars:** ⭐️ 759
 - **Tags:** `reverse-engineering` `ai-agents` `decompiler` `disassembler` `acp` `ghidra`
-- **最后活动时间:** 2026-10-16
+- **最后活动时间:** 2026-10-18
+
+### [ReArk](https://github.com/lkimuk/ReArk)
+
+面向 HarmonyOS NEXT、Android、iOS 及 PE/ELF/Mach-O 原生二进制的智能逆向工程与 AI 辅助分析工具，集反编译、反汇编与静态分析于一体。
+
+- **Stars:** ⭐️ 692
+- **Tags:** `Reverse Engineering` `AI Analysis` `Binary Analysis` `Security Tools` `Decompiler`
+- **最后活动时间:** 2026-10-15
 
 ### [ComfyUI-enricos-nodes](https://github.com/erosDiffusion/ComfyUI-enricos-nodes)
 
 ComfyUI-enricos-nodes 提供了一系列 compositor 节点实验，探索 ComfyUI 在图像合成、后期处理和创意编辑方面的更多可能性。适合喜欢实验和创新的用户。
 
-- **Stars:** ⭐️ 633
+- **Stars:** ⭐️ 634
 - **Tags:** `ComfyUI` `Compositor Nodes` `Image Processing` `Custom Nodes`
 - **最后活动时间:** 2026-07-15
 
@@ -23764,9 +24100,9 @@ ComfyUI-enricos-nodes 提供了一系列 compositor 节点实验，探索 ComfyU
 
 面向智能体软件开发生命周期的安全基础设施，为 AI 编码智能体与 CI/CD 流水线提供护栏、策略即代码校验与签名审计记录。
 
-- **Stars:** ⭐️ 601
+- **Stars:** ⭐️ 602
 - **Tags:** `ai-governance` `coding-agents` `supply-chain-security` `policy-as-code` `devsecops`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [onex](https://github.com/onexstack/onex)
 
@@ -23780,7 +24116,7 @@ onex 是一个高质量、易维护、高扩展的企业级 Go 项目+云原生�
 
 quick-connections 为 ComfyUI 和 LiteGraph 提供了快速连接功能，大大减少了节点间的手动连接工作。让用户专注于创意开发而非技术细节，极大提高了工作效率。
 
-- **Stars:** ⭐️ 576
+- **Stars:** ⭐️ 579
 - **Tags:** `ComfyUI` `LiteGraph` `Productivity` `Custom Nodes`
 - **最后活动时间:** 2026-07-23
 
@@ -23796,7 +24132,7 @@ AiScan-N 是一款基于人工智能驱动的自动化网络安全工具，专�
 
 Rebalance-Pack 是一套不断更新的 ComfyUI 节点集合，提炼了最佳实践并简化了复杂工作流。无论是图像生成还是其他任务，用户都能从中获得显著的生产力提升。
 
-- **Stars:** ⭐️ 525
+- **Stars:** ⭐️ 541
 - **Tags:** `ComfyUI` `Custom Nodes` `Workflow Optimization` `Best Practices`
 - **最后活动时间:** 2026-09-26
 

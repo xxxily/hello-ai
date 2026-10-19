@@ -8,7 +8,7 @@
 
 涵盖各类有趣主题的Awesome列表合集。为开发者和研究者提供丰富的资源索引。
 
-- **Stars:** ⭐️ 520.5k
+- **Stars:** ⭐️ 520.8k
 - **Tags:** `awesome` `awesome-list` `resources`
 - **最后活动时间:** 2026-09-02
 
@@ -16,7 +16,7 @@
 
 汇集各类免费API的精选列表，包含多个AI和机器学习相关的API资源，是开发者寻找集成接口的实用参考。
 
-- **Stars:** ⭐️ 489.9k
+- **Stars:** ⭐️ 490.1k
 - **Tags:** `api` `public-apis` `free` `list`
 - **最后活动时间:** 2026-10-17
 
@@ -24,7 +24,7 @@
 
 跨平台个人AI助手，支持任意操作系统。注重数据隐私，让用户完全掌控自己的数据。
 
-- **Stars:** ⭐️ 392.3k
+- **Stars:** ⭐️ 392.4k
 - **Tags:** `AI助手` `跨平台` `隐私保护`
 - **最后活动时间:** 2026-10-18
 
@@ -32,7 +32,7 @@
 
 权威的Python框架、库和工具资源列表。帮助开发者快速找到所需的Python生态工具。
 
-- **Stars:** ⭐️ 328.2k
+- **Stars:** ⭐️ 328.4k
 - **Tags:** `awesome` `python` `awesome-list` `libraries`
 - **最后活动时间:** 2026-10-17
 
@@ -40,23 +40,23 @@
 
 可自托管的免费网络服务与Web应用列表合集。涵盖各类注重隐私的本地部署软件资源。
 
-- **Stars:** ⭐️ 327.7k
+- **Stars:** ⭐️ 328.1k
 - **Tags:** `awesome` `self-hosted` `awesome-list` `privacy`
-- **最后活动时间:** 2026-10-16
+- **最后活动时间:** 2026-10-18
 
 ## [rea](https://github.com/morluto/rea)
 
 用 AI 智能体逆向工程一切：从应用行为到原生二进制分析。集成 Ghidra、Hopper 等工具，支持 MCP 协议与 Claude Code。
 
-- **Stars:** ⭐️ 312.6k
+- **Stars:** ⭐️ 322.7k
 - **Tags:** `ai-agents` `reverse-engineering` `binary-analysis` `mcp` `ghidra`
-- **最后活动时间:** 2026-10-18
+- **最后活动时间:** 2026-10-19
 
 ## [superpowers](https://github.com/obra/superpowers)
 
 一个智能体技能框架和软件开发方法论，帮助开发者构建更高效的AI代理系统。
 
-- **Stars:** ⭐️ 301.3k
+- **Stars:** ⭐️ 301.7k
 - **Tags:** `agent-framework` `agentic-skills` `ai-agent`
 - **最后活动时间:** 2026-10-10
 
@@ -64,7 +64,7 @@
 
 微软官方.NET技能库，为AI编程助手提供专业的C#代码生成与最佳实践指导能力。
 
-- **Stars:** ⭐️ 295.3k
+- **Stars:** ⭐️ 296.1k
 - **Tags:** `Microsoft` `.NET` `AI Coding Agent`
 - **最后活动时间:** 2026-10-13
 
@@ -72,7 +72,7 @@
 
 AI Agent性能优化框架，为Claude Code、Codex、Cursor等编程智能体提供技能、记忆、安全和研究优先的开发能力。
 
-- **Stars:** ⭐️ 282.7k
+- **Stars:** ⭐️ 283.3k
 - **Tags:** `ai-agents` `claude-code` `mcp` `developer-tools`
 - **最后活动时间:** 2026-10-15
 
@@ -80,15 +80,15 @@ AI Agent性能优化框架，为Claude Code、Codex、Cursor等编程智能体�
 
 支持多主流大语言模型的智能AI代理，提供个性化交互体验，能够伴随用户持续成长进化。
 
-- **Stars:** ⭐️ 254.8k
+- **Stars:** ⭐️ 255.0k
 - **Tags:** `AI Agent` `LLM` `Claude` `ChatGPT`
-- **最后活动时间:** 2026-10-18
+- **最后活动时间:** 2026-10-19
 
 ## [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
 
 DeepSeek Harness 是一个将一切视为插件的智能体框架，提供灵活的扩展能力。
 
-- **Stars:** ⭐️ 252.5k
+- **Stars:** ⭐️ 253.1k
 - **Tags:** `ai-agents` `dsh` `dsh-plugin`
 - **最后活动时间:** 2026-10-17
 
@@ -96,7 +96,7 @@ DeepSeek Harness 是一个将一切视为插件的智能体框架，提供灵活
 
 开源的AI编程智能体，帮助开发者自动化代码编写和开发任务。
 
-- **Stars:** ⭐️ 215.6k
+- **Stars:** ⭐️ 216.5k
 - **Tags:** `coding-agent` `ai-assistant` `developer-tools`
 - **最后活动时间:** 2026-10-18
 
@@ -106,7 +106,7 @@ DeepSeek Harness 是一个将一切视为插件的智能体框架，提供灵活
 
 - **Stars:** ⭐️ 207.9k
 - **Tags:** `工作流自动化` `低代码` `AI集成` `MCP`
-- **最后活动时间:** 2026-10-18
+- **最后活动时间:** 2026-10-19
 
 ## [tensorflow](https://github.com/tensorflow/tensorflow)
 
@@ -136,7 +136,7 @@ JavaScript算法与数据结构实现集合，包含详细解释和延伸阅读�
 
 专为AI设计的网页数据API，将网站转换为LLM可用的Markdown或结构化数据，是RAG应用的理想数据源。
 
-- **Stars:** ⭐️ 192.6k
+- **Stars:** ⭐️ 192.8k
 - **Tags:** `网页爬取` `数据提取` `LLM数据`
 - **最后活动时间:** 2026-10-18
 
@@ -144,7 +144,7 @@ JavaScript算法与数据结构实现集合，包含详细解释和延伸阅读�
 
 将文件和Office文档转换为Markdown的Python工具，支持PDF等多种格式，可集成到RAG和AI工作流中。
 
-- **Stars:** ⭐️ 190.8k
+- **Stars:** ⭐️ 190.9k
 - **Tags:** `Markdown` `Document Conversion` `RAG`
 - **最后活动时间:** 2026-10-04
 
@@ -154,7 +154,7 @@ JavaScript算法与数据结构实现集合，包含详细解释和延伸阅读�
 
 - **Stars:** ⭐️ 190.1k
 - **Tags:** `shell` `terminal` `cli` `zsh` `productivity`
-- **最后活动时间:** 2026-10-13
+- **最后活动时间:** 2026-10-18
 
 ## [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
 
@@ -162,7 +162,7 @@ JavaScript算法与数据结构实现集合，包含详细解释和延伸阅读�
 
 - **Stars:** ⭐️ 187.6k
 - **Tags:** `Agent` `Automation` `Autonomous`
-- **最后活动时间:** 2026-10-18
+- **最后活动时间:** 2026-10-19
 
 ## [ollama](https://github.com/ollama/ollama)
 
@@ -176,7 +176,7 @@ JavaScript算法与数据结构实现集合，包含详细解释和延伸阅读�
 
 分享 GitHub 上有趣、入门级的开源项目。适合寻找高质量、易上手的开源资源和工具。
 
-- **Stars:** ⭐️ 182.7k
+- **Stars:** ⭐️ 182.9k
 - **Tags:** `github` `awesome-list` `open-source` `beginner`
 - **最后活动时间:** 2026-09-28
 
@@ -184,7 +184,7 @@ JavaScript算法与数据结构实现集合，包含详细解释和延伸阅读�
 
 Agent Skills 公共仓库，提供智能体技能模块的集合与共享。
 
-- **Stars:** ⭐️ 181.8k
+- **Stars:** ⭐️ 182.0k
 - **Tags:** `agent-skills` `ai-agent`
 - **最后活动时间:** 2026-10-09
 
@@ -192,7 +192,7 @@ Agent Skills 公共仓库，提供智能体技能模块的集合与共享。
 
 开源提示词分享与发现平台，支持自托管，帮助用户收集和管理社区优质提示词资源。
 
-- **Stars:** ⭐️ 173.3k
+- **Stars:** ⭐️ 173.4k
 - **Tags:** `提示工程` `ChatGPT` `开源平台`
 - **最后活动时间:** 2026-10-18
 
@@ -208,7 +208,7 @@ Hugging Face官方深度学习模型框架，支持文本、视觉、音频和�
 
 让AI智能体像资深开发者一样思考的提示工程工具。倡导“YAGNI”原则，追求最高效的代码生成方案。
 
-- **Stars:** ⭐️ 166.5k
+- **Stars:** ⭐️ 167.1k
 - **Tags:** `ai-agents` `prompt-engineering` `claude-code` `developer-tools`
 - **最后活动时间:** 2026-10-18
 
@@ -216,7 +216,7 @@ Hugging Face官方深度学习模型框架，支持文本、视觉、音频和�
 
 完整的AI代理团队框架，包含前端开发、社区运营、创意注入等多种专业化智能体。
 
-- **Stars:** ⭐️ 161.0k
+- **Stars:** ⭐️ 161.1k
 - **Tags:** `ai-agents` `agent-framework` `automation` `multi-agent`
 - **最后活动时间:** 2026-10-15
 
@@ -234,13 +234,13 @@ Java面试与后端开发指南，涵盖AI应用开发、Agent、MCP等前沿技
 
 - **Stars:** ⭐️ 158.8k
 - **Tags:** `Workflow` `Low-code` `RAG`
-- **最后活动时间:** 2026-10-18
+- **最后活动时间:** 2026-10-19
 
 ## [open-webui](https://github.com/open-webui/open-webui)
 
 功能强大的自托管AI Web界面，支持Ollama、OpenAI等多种LLM后端，内置RAG和MCP功能。
 
-- **Stars:** ⭐️ 156.0k
+- **Stars:** ⭐️ 156.1k
 - **Tags:** `LLM` `WebUI` `RAG` `Ollama`
-- **最后活动时间:** 2026-10-16
+- **最后活动时间:** 2026-10-18
 

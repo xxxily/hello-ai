@@ -2,7 +2,7 @@
 
 > Computer vision, image generation, audio, text-to-speech.
 
-> 当前分类已收录 **1127** 个相关项目。
+> 当前分类已收录 **1139** 个相关项目。
 
 ## Audio & Speech (TTS/STT)
 
@@ -10,7 +10,7 @@
 
 OpenAI推出的开源语音识别大模型，通过大规模弱监督学习实现高鲁棒性的多语言语音转文本。
 
-- **Stars:** ⭐️ 109.8k
+- **Stars:** ⭐️ 110.8k
 - **Tags:** `speech-recognition` `whisper` `openai` `stt`
 - **最后活动时间:** 2026-08-31
 
@@ -18,7 +18,7 @@ OpenAI推出的开源语音识别大模型，通过大规模弱监督学习实�
 
 开源的 ElevenLabs 替代方案，提供 AI 语音克隆、配音、听写、转录及有声书制作功能。集成了强大的语音工作流工作室，支持本地部署。
 
-- **Stars:** ⭐️ 73.9k
+- **Stars:** ⭐️ 75.4k
 - **Tags:** `ai` `voice-cloning` `tts` `transcription` `dubbing` `mlx`
 - **最后活动时间:** 2026-10-18
 
@@ -26,9 +26,9 @@ OpenAI推出的开源语音识别大模型，通过大规模弱监督学习实�
 
 少样本语音克隆TTS模型，仅需1分钟语音数据即可训练高质量语音合成模型。
 
-- **Stars:** ⭐️ 63.0k
+- **Stars:** ⭐️ 63.1k
 - **Tags:** `TTS` `Voice Cloning` `Few-shot`
-- **最后活动时间:** 2026-10-08
+- **最后活动时间:** 2026-10-18
 
 ### [voicebox](https://github.com/jamiepine/voicebox)
 
@@ -42,9 +42,9 @@ OpenAI推出的开源语音识别大模型，通过大规模弱监督学习实�
 
 开源的前沿语音AI项目，专注于语音识别与合成技术。
 
-- **Stars:** ⭐️ 54.6k
+- **Stars:** ⭐️ 54.9k
 - **Tags:** `voice-ai` `speech-synthesis` `speech-recognition`
-- **最后活动时间:** 2026-09-03
+- **最后活动时间:** 2026-10-08
 
 ### [whisper.cpp](https://github.com/ggml-org/whisper.cpp)
 
@@ -66,7 +66,7 @@ OpenAI Whisper模型的C/C++高性能移植版本，支持本地CPU/GPU推理，
 
 免费开源的离线语音转文字应用，支持完全离线运行保护隐私，基于Tauri v2跨平台构建。
 
-- **Stars:** ⭐️ 34.0k
+- **Stars:** ⭐️ 34.1k
 - **Tags:** `语音识别` `离线` `无障碍`
 - **最后活动时间:** 2026-10-15
 
@@ -74,7 +74,7 @@ OpenAI Whisper模型的C/C++高性能移植版本，支持本地CPU/GPU推理，
 
 开源SOTA级文本转语音项目，基于LLaMA和Transformer架构，支持高质量语音合成与克隆。
 
-- **Stars:** ⭐️ 33.2k
+- **Stars:** ⭐️ 33.3k
 - **Tags:** `TTS` `语音合成` `Transformer`
 - **最后活动时间:** 2026-10-14
 
@@ -90,9 +90,17 @@ Deezer开源的音频源分离库，利用深度学习技术将音乐分离为�
 
 开源SoTA文本转语音模型，提供高质量语音合成能力。
 
-- **Stars:** ⭐️ 27.0k
+- **Stars:** ⭐️ 27.1k
 - **Tags:** `TTS` `Speech Synthesis`
 - **最后活动时间:** 2026-07-21
+
+### [ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui)
+
+基于深度神经网络的人声分离GUI工具，支持音轨提取与伴奏分离。
+
+- **Stars:** ⭐️ 26.7k
+- **Tags:** `vocal-remover` `audio-separation` `pytorch`
+- **最后活动时间:** 2026-10-06
 
 ### [faster-whisper](https://github.com/SYSTRAN/faster-whisper)
 
@@ -106,15 +114,15 @@ Deezer开源的音频源分离库，利用深度学习技术将音乐分离为�
 
 基于Whisper的自动语音识别工具，支持词级时间戳和说话人分离，提供快速准确的语音转文字能力。
 
-- **Stars:** ⭐️ 24.6k
+- **Stars:** ⭐️ 24.7k
 - **Tags:** `ASR` `Speech-to-Text` `Whisper` `Diarization`
-- **最后活动时间:** 2026-09-26
+- **最后活动时间:** 2026-10-18
 
 ### [index-tts](https://github.com/index-tts/index-tts)
 
 工业级可控高效零样本文本转语音系统，支持跨语言语音合成。
 
-- **Stars:** ⭐️ 24.5k
+- **Stars:** ⭐️ 24.6k
 - **Tags:** `TTS` `Zero-shot` `Industrial`
 - **最后活动时间:** 2026-09-29
 
@@ -146,7 +154,7 @@ Deezer开源的音频源分离库，利用深度学习技术将音乐分离为�
 
 基于OpenAI Whisper的离线音频转录与翻译工具，支持在本地电脑上运行，无需联网即可实现高质量的语音转文字。
 
-- **Stars:** ⭐️ 22.0k
+- **Stars:** ⭐️ 22.1k
 - **Tags:** `whisper` `speech-to-text` `transcription` `offline-ai`
 - **最后活动时间:** 2026-10-17
 
@@ -156,7 +164,7 @@ Deezer开源的音频源分离库，利用深度学习技术将音乐分离为�
 
 - **Stars:** ⭐️ 20.7k
 - **Tags:** `speech-recognition` `asr` `pytorch` `pretrained-model` `vad`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [pyvideotrans](https://github.com/jianchang512/pyvideotrans)
 
@@ -166,21 +174,21 @@ AI驱动的视频翻译工具，支持跨语言翻译并自动生成配音与字
 - **Tags:** `video-translation` `speech-to-text` `text-to-speech` `subtitle`
 - **最后活动时间:** 2026-10-15
 
+### [VideoLingo](https://github.com/Huanshere/VideoLingo)
+
+Netflix级AI视频字幕处理工具，支持一键自动切割、翻译、对齐和配音，实现全自动视频本地化。
+
+- **Stars:** ⭐️ 18.8k
+- **Tags:** `video-translation` `ai-translation` `dubbing` `voice-cloning` `subtitle`
+- **最后活动时间:** 2026-09-30
+
 ### [Speech](https://github.com/NVIDIA-NeMo/Speech)
 
 一个可扩展的生成式AI框架，专为研究人员和开发者设计，支持大语言模型、多模态以及语音AI（自动语音识别和文本转语音）。
 
 - **Stars:** ⭐️ 18.6k
 - **Tags:** `asr` `deeplearning` `generative-ai` `tts` `speech-synthesis`
-- **最后活动时间:** 2026-10-17
-
-### [VideoLingo](https://github.com/Huanshere/VideoLingo)
-
-Netflix级AI视频字幕处理工具，支持一键自动切割、翻译、对齐和配音，实现全自动视频本地化。
-
-- **Stars:** ⭐️ 18.5k
-- **Tags:** `video-translation` `ai-translation` `dubbing` `voice-cloning` `subtitle`
-- **最后活动时间:** 2026-09-27
+- **最后活动时间:** 2026-10-18
 
 ### [VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner)
 
@@ -194,7 +202,7 @@ Netflix级AI视频字幕处理工具，支持一键自动切割、翻译、对�
 
 体积小于25MB的SOTA文本转语音模型，适合边缘设备部署。
 
-- **Stars:** ⭐️ 16.1k
+- **Stars:** ⭐️ 16.2k
 - **Tags:** `text-to-speech` `tts` `lightweight` `edge-deployment`
 - **最后活动时间:** 2026-10-16
 
@@ -210,7 +218,7 @@ Netflix级AI视频字幕处理工具，支持一键自动切割、翻译、对�
 
 离线语音处理神器，支持语音识别、语音合成、说话人分离、语音增强等功能，覆盖嵌入式设备到服务器的全平台部署。
 
-- **Stars:** ⭐️ 15.3k
+- **Stars:** ⭐️ 15.4k
 - **Tags:** `Speech-to-Text` `Text-to-Speech` `ONNX` `Embedded`
 - **最后活动时间:** 2026-10-17
 
@@ -250,7 +258,7 @@ Netflix级AI视频字幕处理工具，支持一键自动切割、翻译、对�
 
 强大的本地音乐生成模型，性能超越多数商业替代品，支持Mac、AMD、Intel和CUDA设备。
 
-- **Stars:** ⭐️ 13.7k
+- **Stars:** ⭐️ 13.8k
 - **Tags:** `music-generation` `text-to-music` `generative-ai` `local-inference`
 - **最后活动时间:** 2026-10-11
 
@@ -266,7 +274,7 @@ Netflix级AI视频字幕处理工具，支持一键自动切割、翻译、对�
 
 功能强大的Gradio WebUI音频处理工具，集成Edge-TTS、F5-TTS语音合成与克隆、Whisper语音识别及翻译功能。
 
-- **Stars:** ⭐️ 13.1k
+- **Stars:** ⭐️ 13.2k
 - **Tags:** `TTS` `Voice Cloning` `Whisper` `Gradio`
 - **最后活动时间:** 2026-07-13
 
@@ -326,6 +334,14 @@ Meta开源的先进语音和文本翻译基础模型，支持多语言无缝交�
 - **Tags:** `Video` `Translation` `TTS`
 - **最后活动时间:** 2026-09-05
 
+### [moshi](https://github.com/kyutai-labs/moshi)
+
+语音-文本基础模型和全双工口语对话框架，支持实时流式对话，采用Mimi编解码器实现高质量神经音频压缩。
+
+- **Stars:** ⭐️ 11.3k
+- **Tags:** `Speech` `Dialogue` `Voice AI` `Real-time`
+- **最后活动时间:** 2026-09-09
+
 ### [moonshine](https://github.com/moonshine-ai/moonshine)
 
 专为边缘设备设计的快速精准自动语音识别(ASR)模型，适合资源受限环境下的实时语音转文字应用。
@@ -334,19 +350,11 @@ Meta开源的先进语音和文本翻译基础模型，支持多语言无缝交�
 - **Tags:** `ASR` `Speech Recognition` `Edge AI`
 - **最后活动时间:** 2026-10-02
 
-### [moshi](https://github.com/kyutai-labs/moshi)
-
-语音-文本基础模型和全双工口语对话框架，支持实时流式对话，采用Mimi编解码器实现高质量神经音频压缩。
-
-- **Stars:** ⭐️ 11.2k
-- **Tags:** `Speech` `Dialogue` `Voice AI` `Real-time`
-- **最后活动时间:** 2026-09-09
-
 ### [WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit)
 
 提供实时同步的语音转文本模型工具包，适用于实时字幕和语音识别场景。
 
-- **Stars:** ⭐️ 11.1k
+- **Stars:** ⭐️ 11.2k
 - **Tags:** `speech-to-text` `whisper` `real-time` `transcription`
 - **最后活动时间:** 2026-10-01
 
@@ -364,13 +372,13 @@ OpenAI Whisper语音识别模型的高性能GPGPU推理实现，支持快速ASR�
 
 - **Stars:** ⭐️ 10.7k
 - **Tags:** `speaker-diarization` `speech-processing` `pytorch`
-- **最后活动时间:** 2026-10-16
+- **最后活动时间:** 2026-10-18
 
 ### [silero-vad](https://github.com/snakers4/silero-vad)
 
 企业级预训练语音活动检测器，轻量高效，支持ONNX运行时，适用于语音识别前端处理。
 
-- **Stars:** ⭐️ 10.3k
+- **Stars:** ⭐️ 10.5k
 - **Tags:** `VAD` `Speech-Processing` `ONNX`
 - **最后活动时间:** 2026-09-29
 
@@ -380,7 +388,7 @@ OpenAI Whisper语音识别模型的高性能GPGPU推理实现，支持快速ASR�
 
 - **Stars:** ⭐️ 10.2k
 - **Tags:** `speech-to-text` `realtime` `voice-activity-detection` `transcription`
-- **最后活动时间:** 2026-10-16
+- **最后活动时间:** 2026-10-18
 
 ### [espnet](https://github.com/espnet/espnet)
 
@@ -484,7 +492,7 @@ Boson AI开发的文本-音频基础模型，支持高质量音频生成与理�
 
 - **Stars:** ⭐️ 8.1k
 - **Tags:** `TTS` `STT` `Apple Silicon` `MLX`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [ffsubsync](https://github.com/smacke/ffsubsync)
 
@@ -538,9 +546,9 @@ ChatTTS的本地Web界面，支持文字转语音和对外API接口调用。
 
 macOS开源语音转文字应用，Superwhisper的免费替代方案，无需订阅。
 
-- **Stars:** ⭐️ 6.8k
+- **Stars:** ⭐️ 6.9k
 - **Tags:** `speech-to-text` `voice-recognition` `macos`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice)
 
@@ -734,14 +742,6 @@ Kokoro-82M语音合成模型的FastAPI封装服务，支持CPU ONNX和GPU PyTorc
 - **Tags:** `android` `tts` `text-to-speech` `kotlin`
 - **最后活动时间:** 2026-09-24
 
-### [MOSS-TTS-Nano](https://github.com/OpenMOSS/MOSS-TTS-Nano)
-
-开源多语言轻量级语音生成模型，仅0.1B参数即可实现实时语音合成，支持CPU运行。
-
-- **Stars:** ⭐️ 4.5k
-- **Tags:** `tts` `speech-synthesis` `multilingual` `realtime` `voice-clone`
-- **最后活动时间:** 2026-09-06
-
 ### [openscreen](https://github.com/getopenscreen/openscreen)
 
 免费开源的GPU加速屏幕录制工具，内置Whisper语音转文字功能。支持跨平台且无水印，适合快速制作产品演示。
@@ -749,6 +749,14 @@ Kokoro-82M语音合成模型的FastAPI封装服务，支持CPU ONNX和GPU PyTorc
 - **Stars:** ⭐️ 4.5k
 - **Tags:** `screen-recorder` `whisper` `speech-to-text` `gpu-acceleration` `cross-platform`
 - **最后活动时间:** 2026-10-18
+
+### [MOSS-TTS-Nano](https://github.com/OpenMOSS/MOSS-TTS-Nano)
+
+开源多语言轻量级语音生成模型，仅0.1B参数即可实现实时语音合成，支持CPU运行。
+
+- **Stars:** ⭐️ 4.5k
+- **Tags:** `tts` `speech-synthesis` `multilingual` `realtime` `voice-clone`
+- **最后活动时间:** 2026-09-06
 
 ### [auto-subs](https://github.com/tmoroney/auto-subs)
 
@@ -790,6 +798,14 @@ OpenAI Whisper的近实时实现，支持语音识别、翻译和听写功能。
 - **Tags:** `TTS` `Voice Cloning` `Multimodal`
 - **最后活动时间:** 2026-09-06
 
+### [stemdeck](https://github.com/stemdeckapp/stemdeck)
+
+面向音乐人、制作人和爱好者的现代音轨分离平台，可隔离人声、鼓点、贝斯、钢琴和吉他。适用于练习、转录、混音和创意音频工作流。
+
+- **Stars:** ⭐️ 4.2k
+- **Tags:** `audio` `stem-extraction` `music` `ai-audio`
+- **最后活动时间:** 2026-10-18
+
 ### [speakr](https://github.com/murtaza-nasir/speakr)
 
 自托管的音频转录Web应用，支持将录音文件自动转换为文字，注重隐私保护。
@@ -814,14 +830,6 @@ OpenAI Whisper的近实时实现，支持语音识别、翻译和听写功能。
 - **Tags:** `text-to-speech` `speech-synthesis` `realtime` `python`
 - **最后活动时间:** 2026-10-17
 
-### [stemdeck](https://github.com/stemdeckapp/stemdeck)
-
-面向音乐人、制作人和爱好者的现代音轨分离平台，可隔离人声、鼓点、贝斯、钢琴和吉他。适用于练习、转录、混音和创意音频工作流。
-
-- **Stars:** ⭐️ 4.0k
-- **Tags:** `audio` `stem-extraction` `music` `ai-audio`
-- **最后活动时间:** 2026-09-30
-
 ### [LiveCaptions-Translator](https://github.com/SakiRinn/LiveCaptions-Translator)
 
 基于Windows LiveCaptions的轻量级实时语音翻译工具，支持音频转文字和实时翻译。
@@ -842,7 +850,7 @@ OpenAI Whisper的近实时实现，支持语音识别、翻译和听写功能。
 
 简单易用的高质量语音转换工具，专注于性能优化和用户体验。
 
-- **Stars:** ⭐️ 3.8k
+- **Stars:** ⭐️ 3.9k
 - **Tags:** `Voice Conversion` `RVC` `TTS`
 - **最后活动时间:** 2026-10-17
 
@@ -878,6 +886,14 @@ HeartMuLa 官方开源仓库，号称2026年最强大的开源音乐生成模型
 - **Tags:** `audio-analysis` `music-information-retrieval` `dsp` `python`
 - **最后活动时间:** 2026-09-21
 
+### [Qwen3-ASR](https://github.com/QwenLM/Qwen3-ASR)
+
+Qwen团队开源的语音识别模型，支持多语言语音/音乐/歌曲识别及时间戳预测。
+
+- **Stars:** ⭐️ 3.7k
+- **Tags:** `ASR` `Speech-Recognition` `Qwen`
+- **最后活动时间:** 2026-06-26
+
 ### [speaches](https://github.com/speaches-ai/speaches)
 
 基于Whisper的语音转文字服务，支持Docker部署和OpenAI API兼容接口，提供高效的音频转录能力。
@@ -894,21 +910,13 @@ Meta官方音频分割模型SAM-Audio的推理代码和预训练权重，支持�
 - **Tags:** `audio-processing` `segment-anything` `meta-ai` `audio-model`
 - **最后活动时间:** 2026-05-26
 
-### [Qwen3-ASR](https://github.com/QwenLM/Qwen3-ASR)
-
-Qwen团队开源的语音识别模型，支持多语言语音/音乐/歌曲识别及时间戳预测。
-
-- **Stars:** ⭐️ 3.6k
-- **Tags:** `ASR` `Speech-Recognition` `Qwen`
-- **最后活动时间:** 2026-06-26
-
 ### [AI-Video-Transcriber](https://github.com/wendy7756/AI-Video-Transcriber)
 
 开源AI视频转录与摘要工具，支持多语言视频和播客内容转录。跨平台支持，可处理YouTube、TikTok等平台视频。
 
 - **Stars:** ⭐️ 3.3k
 - **Tags:** `transcribe` `ai` `video` `speech-to-text` `summarization`
-- **最后活动时间:** 2026-09-15
+- **最后活动时间:** 2026-10-11
 
 ### [TTS-WebUI](https://github.com/rsxdalv/TTS-WebUI)
 
@@ -932,7 +940,7 @@ Qwen团队开源的语音识别模型，支持多语言语音/音乐/歌曲识�
 
 - **Stars:** ⭐️ 3.2k
 - **Tags:** `Audio-to-MIDI` `Deep Learning` `Music Transcription`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [faust](https://github.com/grame-cncm/faust)
 
@@ -940,7 +948,15 @@ Qwen团队开源的语音识别模型，支持多语言语音/音乐/歌曲识�
 
 - **Stars:** ⭐️ 3.2k
 - **Tags:** `audio` `dsp` `compiler` `functional-programming`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
+
+### [opentalking](https://github.com/datascale-ai/opentalking)
+
+工业级开源 AI 数字人框架，支持实时对话、私有化部署及可插拔模型。
+
+- **Stars:** ⭐️ 3.2k
+- **Tags:** `digital-human` `real-time-conversation` `ai-framework` `tts` `stt`
+- **最后活动时间:** 2026-09-04
 
 ### [stemroller](https://github.com/stemrollerapp/stemroller)
 
@@ -950,14 +966,6 @@ Qwen团队开源的语音识别模型，支持多语言语音/音乐/歌曲识�
 - **Tags:** `source-separation` `deep-learning` `audio-processing` `demucs`
 - **最后活动时间:** 2026-06-30
 
-### [willow](https://github.com/HeyWillow/willow)
-
-开源、本地自托管的智能语音助手，可作为 Amazon Echo/Google Home 的替代方案。支持 Whisper 语音识别，注重隐私保护。
-
-- **Stars:** ⭐️ 3.1k
-- **Tags:** `voice-assistant` `speech-recognition` `whisper` `esp32` `home-automation`
-- **最后活动时间:** 2026-10-01
-
 ### [FluidAudio](https://github.com/FluidInference/FluidAudio)
 
 基于CoreML的前沿音频模型库，支持TTS、STT、语音活动检测和说话人分离，专为iOS/macOS设计。
@@ -965,6 +973,14 @@ Qwen团队开源的语音识别模型，支持多语言语音/音乐/歌曲识�
 - **Stars:** ⭐️ 3.1k
 - **Tags:** `CoreML` `Speech AI` `iOS`
 - **最后活动时间:** 2026-10-16
+
+### [willow](https://github.com/HeyWillow/willow)
+
+开源、本地自托管的智能语音助手，可作为 Amazon Echo/Google Home 的替代方案。支持 Whisper 语音识别，注重隐私保护。
+
+- **Stars:** ⭐️ 3.1k
+- **Tags:** `voice-assistant` `speech-recognition` `whisper` `esp32` `home-automation`
+- **最后活动时间:** 2026-10-01
 
 ### [Scriberr](https://github.com/rishikanthc/Scriberr)
 
@@ -981,14 +997,6 @@ Qwen团队开源的语音识别模型，支持多语言语音/音乐/歌曲识�
 - **Stars:** ⭐️ 3.1k
 - **Tags:** `asr` `tts` `voice-conversion` `audio`
 - **最后活动时间:** 2026-05-25
-
-### [opentalking](https://github.com/datascale-ai/opentalking)
-
-工业级开源 AI 数字人框架，支持实时对话、私有化部署及可插拔模型。
-
-- **Stars:** ⭐️ 3.1k
-- **Tags:** `digital-human` `real-time-conversation` `ai-framework` `tts` `stt`
-- **最后活动时间:** 2026-09-04
 
 ### [whishper](https://github.com/pluja/whishper)
 
@@ -1172,7 +1180,7 @@ OpenAI Whisper语音识别模型精选资源列表，汇集工具、模型、教
 
 - **Stars:** ⭐️ 2.3k
 - **Tags:** `birdnet` `audio-recognition` `wildlife` `edge-ai`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [ten-vad](https://github.com/TEN-framework/ten-vad)
 
@@ -1244,7 +1252,7 @@ Java音频处理框架，支持特征提取与实时音频分析。适用于语�
 
 - **Stars:** ⭐️ 2.1k
 - **Tags:** `asr` `ggml` `gguf` `speech-to-text`
-- **最后活动时间:** 2026-10-16
+- **最后活动时间:** 2026-10-18
 
 ### [diart](https://github.com/juanmc2005/diart)
 
@@ -1286,6 +1294,14 @@ Qwen3-TTS的ComfyUI插件实现，方便在ComfyUI中使用语音合成功能。
 - **Tags:** `TTS` `ComfyUI` `Qwen`
 - **最后活动时间:** 2026-09-22
 
+### [Montreal-Forced-Aligner](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner)
+
+基于Kaldi的强制对齐命令行工具，用于语音音频与文本的精确对齐。
+
+- **Stars:** ⭐️ 1.9k
+- **Tags:** `forced-alignment` `kaldi` `speech` `acoustic-model`
+- **最后活动时间:** 2026-10-08
+
 ### [audapolis](https://github.com/bugbakery/audapolis)
 
 一款专为口语音频设计的编辑器，内置自动转录功能，支持音视频编辑。
@@ -1326,14 +1342,6 @@ Magenta RealTime 2 是一个开放权重的实时音乐生成模型。它基于 
 - **Tags:** `music` `machine-learning` `jax` `mlx` `real-time`
 - **最后活动时间:** 2026-10-02
 
-### [Montreal-Forced-Aligner](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner)
-
-基于Kaldi的强制对齐命令行工具，用于语音音频与文本的精确对齐。
-
-- **Stars:** ⭐️ 1.8k
-- **Tags:** `forced-alignment` `kaldi` `speech` `acoustic-model`
-- **最后活动时间:** 2026-06-11
-
 ### [Audio8_TTS](https://github.com/Edge0-AI/Audio8_TTS)
 
 以紧凑模型规模实现 SOTA 级别的文本转语音效果，兼顾高质量语音合成与轻量化部署。
@@ -1356,7 +1364,7 @@ FireRedTTS3 是先进的多语言多方言语音克隆系统，支持指令引�
 
 - **Stars:** ⭐️ 1.8k
 - **Tags:** `text-to-speech` `browser-extension` `accessibility` `tts`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [vocal-remover](https://github.com/tsurumeso/vocal-remover)
 
@@ -1412,7 +1420,15 @@ Python音频科学研究资源精选，涵盖音频分析、处理和机器学�
 
 - **Stars:** ⭐️ 1.7k
 - **Tags:** `speech-to-text` `whisper` `wayland` `rust` `offline`
-- **最后活动时间:** 2026-10-16
+- **最后活动时间:** 2026-10-18
+
+### [yovoice](https://github.com/leemysw/yovoice)
+
+开源的本地 AI 音频与音乐工作室，支持 TTS 语音合成、声音克隆、歌词歌曲生成与多轨配乐，100% 离线运行且零 API 费用。支持 macOS 与 Windows 平台。
+
+- **Stars:** ⭐️ 1.7k
+- **Tags:** `tts` `voice-cloning` `ai-music` `local-ai` `offline-ai` `audio`
+- **最后活动时间:** 2026-10-18
 
 ### [obs-localvocal](https://github.com/royshil/obs-localvocal)
 
@@ -1421,14 +1437,6 @@ OBS Studio本地语音识别与字幕生成插件，基于Whisper AI实现实时
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `语音识别` `Whisper` `OBS插件`
 - **最后活动时间:** 2026-10-15
-
-### [yovoice](https://github.com/leemysw/yovoice)
-
-开源的本地 AI 音频与音乐工作室，支持 TTS 语音合成、声音克隆、歌词歌曲生成与多轨配乐，100% 离线运行且零 API 费用。支持 macOS 与 Windows 平台。
-
-- **Stars:** ⭐️ 1.6k
-- **Tags:** `tts` `voice-cloning` `ai-music` `local-ai` `offline-ai` `audio`
-- **最后活动时间:** 2026-10-18
 
 ### [yap](https://github.com/finnvoor/yap)
 
@@ -1554,7 +1562,7 @@ ByteDance 钢琴转录工具的简洁 GUI，支持踏板检测。
 
 基于Flow Matching的文本转语音模型，支持Emoji表情驱动的风格控制，实现富有表现力的语音合成。
 
-- **Stars:** ⭐️ 1.4k
+- **Stars:** ⭐️ 1.5k
 - **Tags:** `text-to-speech` `tts` `flow-matching` `voice-cloning` `speech-synthesis`
 - **最后活动时间:** 2026-09-12
 
@@ -1574,14 +1582,6 @@ ByteDance 钢琴转录工具的简洁 GUI，支持踏板检测。
 - **Tags:** `macos` `speech-to-text` `transcription` `on-device-ai` `privacy-first`
 - **最后活动时间:** 2026-10-15
 
-### [Speech-AI-Forge](https://github.com/lenML/Speech-AI-Forge)
-
-一站式语音AI平台，集成ChatTTS、CosyVoice、Fish-Speech等多种模型，提供API服务器和Gradio WebUI界面。
-
-- **Stars:** ⭐️ 1.4k
-- **Tags:** `TTS` `ASR` `语音合成` `WebUI`
-- **最后活动时间:** 2026-05-21
-
 ### [SoniTranslate](https://github.com/R3gm/SoniTranslate)
 
 视频同步翻译与自动配音工具，结合ASR、TTS和翻译技术实现跨语言视频内容转换。
@@ -1589,6 +1589,14 @@ ByteDance 钢琴转录工具的简洁 GUI，支持踏板检测。
 - **Stars:** ⭐️ 1.4k
 - **Tags:** `视频配音` `翻译` `TTS` `ASR`
 - **最后活动时间:** 2026-08-29
+
+### [Speech-AI-Forge](https://github.com/lenML/Speech-AI-Forge)
+
+一站式语音AI平台，集成ChatTTS、CosyVoice、Fish-Speech等多种模型，提供API服务器和Gradio WebUI界面。
+
+- **Stars:** ⭐️ 1.4k
+- **Tags:** `TTS` `ASR` `语音合成` `WebUI`
+- **最后活动时间:** 2026-05-21
 
 ### [transcribe-anything](https://github.com/zackees/transcribe-anything)
 
@@ -1676,7 +1684,7 @@ ICASSP 2024发表的快速文本转语音架构，采用条件流匹配技术实
 
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `speech-to-text` `obs` `captions` `google-speech`
-- **最后活动时间:** 2026-09-28
+- **最后活动时间:** 2026-10-09
 
 ### [dicio-android](https://github.com/Stypox/dicio-android)
 
@@ -1748,7 +1756,7 @@ ICASSP 2024发表的快速文本转语音架构，采用条件流匹配技术实
 
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `speech-recognition` `text-to-speech` `apple-silicon` `mlx` `coreml`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [offline-translator](https://github.com/DavidVentura/offline-translator)
 
@@ -1908,7 +1916,7 @@ INTERSPEECH 2020论文非官方实现，卷积增强的Transformer语音识别�
 
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `Speech-to-Text` `Privacy` `Local AI`
-- **最后活动时间:** 2026-10-16
+- **最后活动时间:** 2026-10-17
 
 ### [MiMo-Audio](https://github.com/XiaomiMiMo/MiMo-Audio)
 
@@ -1966,6 +1974,14 @@ AI驱动的多语音有声书生成器，支持LLM脚本标注、语音克隆、
 - **Tags:** `speech-recognition` `tensorflow` `asr` `deep-learning` `conformer`
 - **最后活动时间:** 2026-10-13
 
+### [claude-watch](https://github.com/taoufik123-collab/claude-watch)
+
+赋予Claude观看视频能力的工具，能提取场景变化帧、转录文本并生成结构化报告。
+
+- **Stars:** ⭐️ 1.0k
+- **Tags:** `claude` `video-analysis` `multimodal` `transcript`
+- **最后活动时间:** 2026-07-24
+
 ### [Cognitive-Speech-TTS](https://github.com/Azure-Samples/Cognitive-Speech-TTS)
 
 微软认知服务TTS API的多语言示例代码，支持自定义神经语音。
@@ -1998,19 +2014,11 @@ JZSub 是一款自动化视频处理工具，通过一条视频链接即可生�
 - **Tags:** `bilingual` `subtitles` `video` `gpt` `yt-dlp`
 - **最后活动时间:** 2026-07-29
 
-### [claude-watch](https://github.com/taoufik123-collab/claude-watch)
-
-赋予Claude观看视频能力的工具，能提取场景变化帧、转录文本并生成结构化报告。
-
-- **Stars:** ⭐️ 1.0k
-- **Tags:** `claude` `video-analysis` `multimodal` `transcript`
-- **最后活动时间:** 2026-07-24
-
 ### [whisper-flow](https://github.com/dimastatz/whisper-flow)
 
 基于OpenAI Whisper的实时音频转录框架，支持流式音频处理和增量转录输出。
 
-- **Stars:** ⭐️ 994
+- **Stars:** ⭐️ 995
 - **Tags:** `speech-to-text` `whisper` `real-time` `transcription`
 - **最后活动时间:** 2026-10-11
 
@@ -2018,7 +2026,7 @@ JZSub 是一款自动化视频处理工具，通过一条视频链接即可生�
 
 Band Split Roformer实现，ByteDance AI Labs的SOTA音乐源分离注意力网络。
 
-- **Stars:** ⭐️ 986
+- **Stars:** ⭐️ 987
 - **Tags:** `music-source-separation` `transformers` `attention` `pytorch`
 - **最后活动时间:** 2026-06-14
 
@@ -2038,6 +2046,14 @@ Nvidia Parakeet语音模型的Apple Silicon优化实现，基于MLX框架提供�
 - **Tags:** `shazam` `music-identification` `asyncio` `aiohttp` `python3`
 - **最后活动时间:** 2026-10-13
 
+### [sopro](https://github.com/samuel-vitorino/sopro)
+
+支持零样本语音克隆的轻量级文本转语音模型。
+
+- **Stars:** ⭐️ 976
+- **Tags:** `text-to-speech` `voice-cloning` `zero-shot` `tts`
+- **最后活动时间:** 2026-09-01
+
 ### [SoulX-Singer](https://github.com/Soul-AILab/SoulX-Singer)
 
 零样本歌唱语音合成项目，支持高质量歌声生成与推理。
@@ -2045,14 +2061,6 @@ Nvidia Parakeet语音模型的Apple Silicon优化实现，基于MLX框架提供�
 - **Stars:** ⭐️ 975
 - **Tags:** `singing-voice-synthesis` `zero-shot` `audio-generation` `tts`
 - **最后活动时间:** 2026-05-29
-
-### [sopro](https://github.com/samuel-vitorino/sopro)
-
-支持零样本语音克隆的轻量级文本转语音模型。
-
-- **Stars:** ⭐️ 975
-- **Tags:** `text-to-speech` `voice-cloning` `zero-shot` `tts`
-- **最后活动时间:** 2026-09-01
 
 ### [vocotype-cli](https://github.com/233stone/vocotype-cli)
 
@@ -2084,7 +2092,7 @@ Nvidia Parakeet语音模型的Apple Silicon优化实现，基于MLX框架提供�
 
 - **Stars:** ⭐️ 950
 - **Tags:** `speech-recognition` `speech-to-text` `whisper` `dotnet`
-- **最后活动时间:** 2026-10-13
+- **最后活动时间:** 2026-10-18
 
 ### [micro-wake-word](https://github.com/OHF-Voice/micro-wake-word)
 
@@ -2166,21 +2174,29 @@ Botium语音处理工具，集成语音转文本与文本转语音功能。
 - **Tags:** `语音识别` `TTS` `音频处理`
 - **最后活动时间:** 2026-09-09
 
-### [subvert](https://github.com/aschmelyun/subvert)
+### [YuE2-Studio](https://github.com/timoncool/YuE2-Studio)
 
-视频字幕生成工具，秒级生成字幕、摘要和章节标记。结合ChatGPT和Whisper，自动化视频内容处理流程。
+本地AI歌曲生成器，基于YuE2模型在GPU上生成带人声的完整歌曲，支持可编辑乐谱、翻唱与精确重放，原生Windows应用无需Python环境。
 
-- **Stars:** ⭐️ 868
-- **Tags:** `字幕生成` `视频处理` `Whisper`
-- **最后活动时间:** 2026-05-15
+- **Stars:** ⭐️ 871
+- **Tags:** `ai-music` `music-generation` `local-ai` `text-to-music` `gpu`
+- **最后活动时间:** 2026-10-18
 
 ### [GigaAM](https://github.com/salute-developers/GigaAM)
 
 强大的语音识别基础模型，支持语音识别、情感识别等任务，采用自监督学习方法训练。
 
-- **Stars:** ⭐️ 868
+- **Stars:** ⭐️ 870
 - **Tags:** `speech-recognition` `foundation-models` `self-supervised-learning` `emotion-recognition`
 - **最后活动时间:** 2026-08-17
+
+### [subvert](https://github.com/aschmelyun/subvert)
+
+视频字幕生成工具，秒级生成字幕、摘要和章节标记。结合ChatGPT和Whisper，自动化视频内容处理流程。
+
+- **Stars:** ⭐️ 866
+- **Tags:** `字幕生成` `视频处理` `Whisper`
+- **最后活动时间:** 2026-05-15
 
 ### [auditok](https://github.com/amsehili/auditok)
 
@@ -2210,7 +2226,7 @@ React Native Audio API 是一个高性能音频引擎，为 React Native 应用�
 
 基于Kotlin的Android语音输入法键盘，集成LLM与ASR语音识别，支持智能语音输入。
 
-- **Stars:** ⭐️ 845
+- **Stars:** ⭐️ 846
 - **Tags:** `Android` `ASR` `Keyboard` `Speech-to-Text`
 - **最后活动时间:** 2026-10-17
 
@@ -2218,7 +2234,7 @@ React Native Audio API 是一个高性能音频引擎，为 React Native 应用�
 
 轻量级离线Android TTS引擎，支持系统级语音克隆和高保真朗读。
 
-- **Stars:** ⭐️ 842
+- **Stars:** ⭐️ 844
 - **Tags:** `text-to-speech` `voice-cloning` `android` `offline-tts`
 - **最后活动时间:** 2026-07-30
 
@@ -2230,13 +2246,13 @@ React Native Audio API 是一个高性能音频引擎，为 React Native 应用�
 - **Tags:** `tts` `zero-shot-tts` `voice-clone` `speech-synthesis` `pytorch`
 - **最后活动时间:** 2026-09-03
 
-### [YuE2-Studio](https://github.com/timoncool/YuE2-Studio)
+### [LiveTranslate](https://github.com/TheDeathDragon/LiveTranslate)
 
-本地AI歌曲生成器，基于YuE2模型在GPU上生成带人声的完整歌曲，支持可编辑乐谱、翻唱与精确重放，原生Windows应用无需Python环境。
+实时音频翻译工具，捕获系统音频与麦克风，运行 Whisper/SenseVoice 语音识别并通过 LLM 流式翻译显示，适合主播与外语内容观看。
 
 - **Stars:** ⭐️ 833
-- **Tags:** `ai-music` `music-generation` `local-ai` `text-to-music` `gpu`
-- **最后活动时间:** 2026-10-17
+- **Tags:** `real-time-translation` `asr` `whisper` `speech-recognition` `subtitle`
+- **最后活动时间:** 2026-08-17
 
 ### [Confucius4-R2T2](https://github.com/netease-youdao/Confucius4-R2T2)
 
@@ -2254,14 +2270,6 @@ React Native Audio API 是一个高性能音频引擎，为 React Native 应用�
 - **Tags:** `TTS` `Rust` `语音合成`
 - **最后活动时间:** 2026-08-04
 
-### [LiveTranslate](https://github.com/TheDeathDragon/LiveTranslate)
-
-实时音频翻译工具，捕获系统音频与麦克风，运行 Whisper/SenseVoice 语音识别并通过 LLM 流式翻译显示，适合主播与外语内容观看。
-
-- **Stars:** ⭐️ 826
-- **Tags:** `real-time-translation` `asr` `whisper` `speech-recognition` `subtitle`
-- **最后活动时间:** 2026-08-17
-
 ### [MioSub](https://github.com/corvo007/MioSub)
 
 一站式全自动字幕生成软件，覆盖下载、转录、翻译到压制全流程，无需人工介入。
@@ -2270,13 +2278,21 @@ React Native Audio API 是一个高性能音频引擎，为 React Native 应用�
 - **Tags:** `speech-to-text` `whisper` `subtitle-generator` `transcription` `diarization`
 - **最后活动时间:** 2026-07-18
 
+### [voxtral-mini-realtime-rs](https://github.com/TrevorS/voxtral-mini-realtime-rs)
+
+基于Rust和Burn ML框架实现的Mistral Voxtral Mini 4B实时语音识别模型，支持本地运行和浏览器WASM部署。
+
+- **Stars:** ⭐️ 824
+- **Tags:** `speech-recognition` `rust` `mistral` `asr` `wasm` `realtime`
+- **最后活动时间:** 2026-10-12
+
 ### [AlphaAvatar](https://github.com/AlphaAvatar/AlphaAvatar)
 
 基于LiveKit的实时交互式全能虚拟化身平台，支持无缝集成各类开源虚拟角色组件，包括实时模型、视觉、语音、记忆和搜索功能。
 
 - **Stars:** ⭐️ 818
 - **Tags:** `Avatar` `Real-time` `LiveKit`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [lue](https://github.com/paulilaaso/lue)
 
@@ -2294,6 +2310,14 @@ React Native Audio API 是一个高性能音频引擎，为 React Native 应用�
 - **Tags:** `video-translation` `dubbing` `real-time` `multimodal`
 - **最后活动时间:** 2026-06-17
 
+### [TTS-Voice-Wizard](https://github.com/VRCWizard/TTS-Voice-Wizard)
+
+强大的语音转换工具，支持语音识别、TTS和实时翻译，可集成VRChat虚拟形象显示，适合VTuber使用。
+
+- **Stars:** ⭐️ 811
+- **Tags:** `TTS` `STT` `VRChat` `VTuber`
+- **最后活动时间:** 2026-10-12
+
 ### [rustpbx](https://github.com/restsend/rustpbx)
 
 基于 Rust 打造的开源 PBX 语音交换平台，支持 SIP/WebRTC 通话，并集成 ASR、TTS 与大模型能力。可用于快速构建 AI 语音助手、智能客服与语音机器人。
@@ -2301,14 +2325,6 @@ React Native Audio API 是一个高性能音频引擎，为 React Native 应用�
 - **Stars:** ⭐️ 811
 - **Tags:** `Rust` `PBX` `SIP` `VoiceAgent` `VoiceAssistant` `WebRTC` `TTS` `ASR`
 - **最后活动时间:** 2026-09-25
-
-### [TTS-Voice-Wizard](https://github.com/VRCWizard/TTS-Voice-Wizard)
-
-强大的语音转换工具，支持语音识别、TTS和实时翻译，可集成VRChat虚拟形象显示，适合VTuber使用。
-
-- **Stars:** ⭐️ 810
-- **Tags:** `TTS` `STT` `VRChat` `VTuber`
-- **最后活动时间:** 2026-10-12
 
 ### [lobe-tts](https://github.com/lobehub/lobe-tts)
 
@@ -2326,6 +2342,22 @@ React Native Audio API 是一个高性能音频引擎，为 React Native 应用�
 - **Tags:** `mlx` `speech-to-text` `text-to-speech` `swift` `apple-silicon`
 - **最后活动时间:** 2026-10-10
 
+### [nomily-app](https://github.com/Nomily-Ai/nomily-app)
+
+一款注重隐私的语音录制伴侣应用，支持 BYOK（自带密钥）的 ASR 语音转写、说话人分离与 AI 智能摘要，并可对接本地 ASR 端点。覆盖 iOS、Android 与 Apple Watch，是语音转文字与会议纪要场景的实用选择。
+
+- **Stars:** ⭐️ 798
+- **Tags:** `ASR` `Whisper` `Speech-to-Text` `Diarization` `AI-Summary` `Voice-Transcription` `Privacy` `SwiftUI`
+- **最后活动时间:** 2026-10-16
+
+### [translate](https://github.com/sign/translate)
+
+实时手语翻译工具，利用计算机视觉技术实现无障碍沟通，支持Android、iOS和Web多平台。
+
+- **Stars:** ⭐️ 795
+- **Tags:** `sign-language` `sign-language-recognition` `computer-vision` `translation`
+- **最后活动时间:** 2026-08-11
+
 ### [audio-diffusion](https://github.com/teticio/audio-diffusion)
 
 使用扩散模型进行音乐合成，基于Hugging Face diffusers实现音频生成。
@@ -2334,13 +2366,13 @@ React Native Audio API 是一个高性能音频引擎，为 React Native 应用�
 - **Tags:** `music-generation` `diffusion-models` `audio-synthesis`
 - **最后活动时间:** 2026-09-06
 
-### [translate](https://github.com/sign/translate)
+### [earshot](https://github.com/Leonxlnx/earshot)
 
-实时手语翻译工具，利用计算机视觉技术实现无障碍沟通，支持Android、iOS和Web多平台。
+为编码智能体打造“耳朵”的 MCP 工具，让 AI 能够听声音、审听音频并生成音效，纯 CPU 即可运行且完全开源。
 
-- **Stars:** ⭐️ 794
-- **Tags:** `sign-language` `sign-language-recognition` `computer-vision` `translation`
-- **最后活动时间:** 2026-08-11
+- **Stars:** ⭐️ 781
+- **Tags:** `mcp` `audio` `claude-code` `ai-agents` `sound-design`
+- **最后活动时间:** 2026-10-18
 
 ### [Dolphin](https://github.com/DataoceanAI/Dolphin)
 
@@ -2362,7 +2394,7 @@ React Native Audio API 是一个高性能音频引擎，为 React Native 应用�
 
 基于扩散模型的语音增强与去混响工具，利用分数生成模型实现高质量语音处理。
 
-- **Stars:** ⭐️ 773
+- **Stars:** ⭐️ 774
 - **Tags:** `Diffusion` `语音增强` `音频处理`
 - **最后活动时间:** 2026-05-12
 
@@ -2426,9 +2458,9 @@ Inworld TTS 语音合成引擎，提供高质量文本转语音服务。
 
 基于C++和ggml构建的多语言ASR与TTS运行时中心，支持Cohere Transcribe、Voxtral等多种语音模型及强制对齐功能。
 
-- **Stars:** ⭐️ 756
+- **Stars:** ⭐️ 759
 - **Tags:** `ggml` `speech-recognition` `speech-to-text` `stt` `transcription` `whisper-cpp`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [ComfyUI-Index-TTS](https://github.com/chenpipi0807/ComfyUI-Index-TTS)
 
@@ -2444,7 +2476,7 @@ ComfyUI 的 IndexTTS 自定义节点，支持中英文文本转语音和声音�
 
 - **Stars:** ⭐️ 747
 - **Tags:** `Voice AI` `STT/TTS` `Voice Agents` `Real-time Audio`
-- **最后活动时间:** 2026-10-18
+- **最后活动时间:** 2026-10-19
 
 ### [ttsfm](https://github.com/dbccccccc/ttsfm)
 
@@ -2466,7 +2498,7 @@ ComfyUI 的 IndexTTS 自定义节点，支持中英文文本转语音和声音�
 
 基于 Whisper 的离线语音转文字听写工具，面向 macOS 与 Windows，强调本地隐私与高效输入。
 
-- **Stars:** ⭐️ 736
+- **Stars:** ⭐️ 737
 - **Tags:** `whisper` `speech-to-text` `offline-ai` `voice-dictation` `tauri`
 - **最后活动时间:** 2026-10-16
 
@@ -2486,6 +2518,14 @@ ComfyUI 的 IndexTTS 自定义节点，支持中英文文本转语音和声音�
 - **Tags:** `voice-to-text` `whisper-ai` `tauri` `voice-assistant`
 - **最后活动时间:** 2026-09-06
 
+### [macparakeet](https://github.com/moona3k/macparakeet)
+
+一款专为 Apple Silicon Mac 设计的本地优先语音应用，支持听写、文件转录和会议录音。提供隐私保护的开源自动化语音转文本解决方案。
+
+- **Stars:** ⭐️ 717
+- **Tags:** `apple-silicon` `dictation` `speech-to-text` `transcription` `local-first`
+- **最后活动时间:** 2026-10-16
+
 ### [UVR5-UI](https://github.com/Eddycrack864/UVR5-UI)
 
 基于Gradio的人声分离工具，支持多种模型将音频分离为人声和伴奏轨道。
@@ -2502,13 +2542,13 @@ ComfyUI 的 IndexTTS 自定义节点，支持中英文文本转语音和声音�
 - **Tags:** `asr` `speech-recognition` `vad` `multimodal` `llm`
 - **最后活动时间:** 2026-06-02
 
-### [macparakeet](https://github.com/moona3k/macparakeet)
+### [rhino](https://github.com/Picovoice/rhino)
 
-一款专为 Apple Silicon Mac 设计的本地优先语音应用，支持听写、文件转录和会议录音。提供隐私保护的开源自动化语音转文本解决方案。
+基于深度学习的端上语音意图识别引擎，用于语音助手和命令控制。
 
 - **Stars:** ⭐️ 715
-- **Tags:** `apple-silicon` `dictation` `speech-to-text` `transcription` `local-first`
-- **最后活动时间:** 2026-10-16
+- **Tags:** `speech-recognition` `nlu` `voice-assistant` `intent-recognition` `on-device`
+- **最后活动时间:** 2026-10-14
 
 ### [openspeech](https://github.com/openspeech-team/openspeech)
 
@@ -2518,14 +2558,6 @@ ComfyUI 的 IndexTTS 自定义节点，支持中英文文本转语音和声音�
 - **Tags:** `ASR` `PyTorch` `端到端`
 - **最后活动时间:** 2026-06-21
 
-### [rhino](https://github.com/Picovoice/rhino)
-
-基于深度学习的端上语音意图识别引擎，用于语音助手和命令控制。
-
-- **Stars:** ⭐️ 714
-- **Tags:** `speech-recognition` `nlu` `voice-assistant` `intent-recognition` `on-device`
-- **最后活动时间:** 2026-10-14
-
 ### [WolfCut](https://github.com/jub0t/WolfCut)
 
 一款免费开源的跨平台视频编辑器，旨在替代CapCut。它集成了Whisper-cpp实现自动字幕生成，支持离线优先的视频处理。
@@ -2534,29 +2566,21 @@ ComfyUI 的 IndexTTS 自定义节点，支持中英文文本转语音和声音�
 - **Tags:** `video-editing` `whisper-cpp` `auto-caption` `tauri-app` `rust-lang`
 - **最后活动时间:** 2026-08-30
 
-### [nomily-app](https://github.com/Nomily-Ai/nomily-app)
-
-一款注重隐私的语音录制伴侣应用，支持 BYOK（自带密钥）的 ASR 语音转写、说话人分离与 AI 智能摘要，并可对接本地 ASR 端点。覆盖 iOS、Android 与 Apple Watch，是语音转文字与会议纪要场景的实用选择。
-
-- **Stars:** ⭐️ 707
-- **Tags:** `ASR` `Whisper` `Speech-to-Text` `Diarization` `AI-Summary` `Voice-Transcription` `Privacy` `SwiftUI`
-- **最后活动时间:** 2026-10-16
-
-### [earshot](https://github.com/Leonxlnx/earshot)
-
-为编码智能体打造“耳朵”的 MCP 工具，让 AI 能够听声音、审听音频并生成音效，纯 CPU 即可运行且完全开源。
-
-- **Stars:** ⭐️ 704
-- **Tags:** `mcp` `audio` `claude-code` `ai-agents` `sound-design`
-- **最后活动时间:** 2026-10-18
-
 ### [Mimi](https://github.com/yuxino/Mimi)
 
 将电脑或麦克风音频实时转为翻译字幕的跨平台工具，基于语音识别实现实时字幕叠加，支持 Windows、macOS 与 Linux。
 
-- **Stars:** ⭐️ 702
+- **Stars:** ⭐️ 707
 - **Tags:** `speech-recognition` `live-translation` `speech-to-text` `subtitles` `real-time`
-- **最后活动时间:** 2026-10-15
+- **最后活动时间:** 2026-10-18
+
+### [tapq](https://github.com/spaceamoeba-t/tapq)
+
+为 AI 编程代理打造的多模态语音代理，让你通过语音与 Claude Code、Codex 等工具对话：回答提问、下达指令或询问进度，彻底解放双手。
+
+- **Stars:** ⭐️ 700
+- **Tags:** `voice-agent` `ai-agents` `claude-code` `hands-free` `developer-tools`
+- **最后活动时间:** 2026-09-16
 
 ### [expo-speech-recognition](https://github.com/jamsch/expo-speech-recognition)
 
@@ -2566,13 +2590,13 @@ React Native Expo 语音识别库，支持语音转文字功能，适用于移�
 - **Tags:** `speech-recognition` `speech-to-text` `react-native` `expo` `voice-recognition`
 - **最后活动时间:** 2026-10-16
 
-### [tapq](https://github.com/spaceamoeba-t/tapq)
+### [aiavatarkit](https://github.com/uezo/aiavatarkit)
 
-为 AI 编程代理打造的多模态语音代理，让你通过语音与 Claude Code、Codex 等工具对话：回答提问、下达指令或询问进度，彻底解放双手。
+快速构建 AI 驱动的对话虚拟形象工具包。
 
-- **Stars:** ⭐️ 694
-- **Tags:** `voice-agent` `ai-agents` `claude-code` `hands-free` `developer-tools`
-- **最后活动时间:** 2026-09-16
+- **Stars:** ⭐️ 693
+- **Tags:** `ai-avatar` `chatgpt` `voicevox` `vrchat`
+- **最后活动时间:** 2026-10-18
 
 ### [MOSS-Audio](https://github.com/OpenMOSS/MOSS-Audio)
 
@@ -2581,14 +2605,6 @@ React Native Expo 语音识别库，支持语音转文字功能，适用于移�
 - **Stars:** ⭐️ 684
 - **Tags:** `audio-understanding` `speech-recognition` `audio-reasoning` `open-source-models`
 - **最后活动时间:** 2026-09-06
-
-### [aiavatarkit](https://github.com/uezo/aiavatarkit)
-
-快速构建 AI 驱动的对话虚拟形象工具包。
-
-- **Stars:** ⭐️ 682
-- **Tags:** `ai-avatar` `chatgpt` `voicevox` `vrchat`
-- **最后活动时间:** 2026-09-27
 
 ### [openlrc](https://github.com/zh-plus/openlrc)
 
@@ -2622,21 +2638,21 @@ IJCV论文，为无声视频生成生动同步的音效，AI拟音大师。
 - **Tags:** `diffusion-models` `video-to-audio` `foley-sound-synthesis`
 - **最后活动时间:** 2026-06-15
 
-### [guitarix](https://github.com/brummer10/guitarix)
-
-Linux 平台下功能丰富的虚拟吉他音箱与效果器架，基于 JACK 进行实时音频处理。集成神经网络音箱建模（Neural Amp Modeler）支持，可加载 AI 模型逼真还原真实音箱音色。
-
-- **Stars:** ⭐️ 653
-- **Tags:** `linux` `audio` `guitar` `neural-amp-modeler` `jack` `machine-learning`
-- **最后活动时间:** 2026-09-24
-
 ### [xiaohu-video-translate](https://github.com/xiaohuailabs/xiaohu-video-translate)
 
 一句话即可为外语视频自动添加中文字幕的AI工具，集下载、语音转写、翻译、润色与字幕烧录于一体。全程本地运行，转写零API费用。
 
-- **Stars:** ⭐️ 651
+- **Stars:** ⭐️ 659
 - **Tags:** `video-translation` `speech-to-text` `subtitles` `whisper` `local-ai`
 - **最后活动时间:** 2026-06-08
+
+### [guitarix](https://github.com/brummer10/guitarix)
+
+Linux 平台下功能丰富的虚拟吉他音箱与效果器架，基于 JACK 进行实时音频处理。集成神经网络音箱建模（Neural Amp Modeler）支持，可加载 AI 模型逼真还原真实音箱音色。
+
+- **Stars:** ⭐️ 655
+- **Tags:** `linux` `audio` `guitar` `neural-amp-modeler` `jack` `machine-learning`
+- **最后活动时间:** 2026-10-05
 
 ### [tts](https://github.com/zuoban/tts)
 
@@ -2670,11 +2686,19 @@ Node.js语音识别库，支持离线热词检测和语音转文字功能。
 - **Tags:** `text-to-speech` `voice-cloning` `audiobook` `xtts` `llm`
 - **最后活动时间:** 2026-10-18
 
+### [haoone-app](https://github.com/minghe36/haoone-app)
+
+新一代AI专业字幕软件，基于先进开源ASR模型实现97%+转录准确率，支持说话人识别、AI校正、智能热词、翻译与双语字幕，并提供100+字幕动画及达芬奇/PR插件。
+
+- **Stars:** ⭐️ 630
+- **Tags:** `ASR` `SpeechRecognition` `Subtitles` `Transcription` `AI`
+- **最后活动时间:** 2026-10-18
+
 ### [examples](https://github.com/elevenlabs/examples)
 
 ElevenLabs 官方示例代码，展示 AI 文本转语音与智能配音 API 的集成用法。
 
-- **Stars:** ⭐️ 629
+- **Stars:** ⭐️ 630
 - **Tags:** `elevenlabs` `text-to-speech` `tts` `dubbing` `ai-voice`
 - **最后活动时间:** 2026-10-02
 
@@ -2690,17 +2714,9 @@ ElevenLabs 官方示例代码，展示 AI 文本转语音与智能配音 API 的
 
 这是一个开源的AI语音输入工具，支持macOS、Windows和Linux。按下热键说话，自然地获得任何应用中的 polished text。使用Whisper实现语音转文本。
 
-- **Stars:** ⭐️ 622
+- **Stars:** ⭐️ 623
 - **Tags:** `AI` `Voice Typing` `Whisper` `Speech-to-Text` `Productivity`
 - **最后活动时间:** 2026-10-13
-
-### [haoone-app](https://github.com/minghe36/haoone-app)
-
-新一代AI专业字幕软件，基于先进开源ASR模型实现97%+转录准确率，支持说话人识别、AI校正、智能热词、翻译与双语字幕，并提供100+字幕动画及达芬奇/PR插件。
-
-- **Stars:** ⭐️ 617
-- **Tags:** `ASR` `SpeechRecognition` `Subtitles` `Transcription` `AI`
-- **最后活动时间:** 2026-09-26
 
 ### [room-impulse-responses](https://github.com/Graphi07/room-impulse-responses)
 
@@ -2754,15 +2770,23 @@ Whisper 语音识别模型的易用图形界面，针对各类 GPU 进行优化�
 
 类似 macOS say 命令的现代化语音合成工具，支持 ElevenLabs 等高质量 AI 语音生成。
 
-- **Stars:** ⭐️ 581
+- **Stars:** ⭐️ 583
 - **Tags:** `elevenlabs` `tts` `go` `speech-synthesis`
 - **最后活动时间:** 2026-09-14
+
+### [pymss-studio](https://github.com/pymss-project/pymss-studio)
+
+跨平台的音乐源分离桌面GUI工具，基于深度学习模型将歌曲中人声与伴奏精准分离。适合音乐制作、翻唱伴奏提取等AI音频处理场景。
+
+- **Stars:** ⭐️ 580
+- **Tags:** `music-source-separation` `audio` `deep-learning` `gui` `cross-platform`
+- **最后活动时间:** 2026-10-18
 
 ### [Talkify](https://github.com/tornikegomareli/Talkify)
 
 一款适用于macOS的极速本地语音听写工具，支持设备端转录。利用Apple Silicon和Metal实现高性能语音识别与合成。
 
-- **Stars:** ⭐️ 574
+- **Stars:** ⭐️ 575
 - **Tags:** `speech-to-text` `dictation` `macos` `apple-silicon` `local-first`
 - **最后活动时间:** 2026-10-17
 
@@ -2786,7 +2810,7 @@ wasm-audio-decoders 是一组高度优化的浏览器和 Node.js WebAssembly 音
 
 免费的 macOS/Windows 桌面听写工具，支持本地或云端语音识别，让你用语音快速输入消息、邮件和笔记。
 
-- **Stars:** ⭐️ 561
+- **Stars:** ⭐️ 563
 - **Tags:** `Speech-to-Text` `Dictation` `Transcription` `Voice-Typing`
 - **最后活动时间:** 2026-10-13
 
@@ -2858,15 +2882,23 @@ ComfyUI的OmniVoice TTS节点，支持零样本多语言文本转语音、声音
 
 开源的伴读文档阅读服务器,集成Kokoro、OpenAI TTS等多种高质量语音合成引擎,支持同步高亮与有声书导出。兼容EPUB、PDF、DOCX、TXT、MD等多种文档格式。
 
-- **Stars:** ⭐️ 542
+- **Stars:** ⭐️ 543
 - **Tags:** `tts` `text-to-speech` `epub-reader` `pdf` `audiobook` `document-reader` `openai`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
+
+### [moys-asr-workflow](https://github.com/Moyf/moys-asr-workflow)
+
+阿墨的字幕工作台（MAW），基于 ASR 语音识别技术自动生成字幕，并提供一体化的字幕编辑工作流。适合视频创作者快速完成语音转文字与字幕校对。
+
+- **Stars:** ⭐️ 531
+- **Tags:** `ASR` `Speech-Recognition` `Subtitle` `Workflow` `Audio`
+- **最后活动时间:** 2026-10-18
 
 ### [AudioMuse-AI-NV-plugin](https://github.com/NeptuneHub/AudioMuse-AI-NV-plugin)
 
 AudioMuse-AI Navidrome 插件通过声学分析技术实时队列类似歌曲，结合 ONNX 模型实现高效的音乐智能发现和播放列表管理。
 
-- **Stars:** ⭐️ 527
+- **Stars:** ⭐️ 529
 - **Tags:** `AudioMuse-AI` `Navidrome` `ONNX` `Sonic-Analysis` `Music-Recommendation`
 - **最后活动时间:** 2026-09-19
 
@@ -2890,9 +2922,17 @@ macOS本地会议转录与听写工具，可作为Granola和WisprFlow的替代�
 
 开源的音视频转录软件，支持将音频和视频内容高效转换为文本。
 
-- **Stars:** ⭐️ 517
+- **Stars:** ⭐️ 520
 - **Tags:** `speech-to-text` `transcription` `audio` `video`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-18
+
+### [awesome-ai-voice](https://github.com/wildminder/awesome-ai-voice)
+
+精选开源语音AI模型资源清单，涵盖文本转语音（TTS）、语音克隆与AI音乐生成等领域。适合快速了解和选用最新的语音合成与音频生成技术。
+
+- **Stars:** ⭐️ 518
+- **Tags:** `awesome` `tts` `voice-cloning` `speech` `music-generation` `asr` `ai-voice`
+- **最后活动时间:** 2026-09-23
 
 ### [ComfyUI-VoxCPM](https://github.com/wildminder/ComfyUI-VoxCPM)
 
@@ -2914,7 +2954,7 @@ ComfyUI节点插件，支持高表现力的语音合成与逼真的零样本声�
 
 Unreal Engine的MediaPipe插件，支持面部、手部、姿态追踪及TTS功能。
 
-- **Stars:** ⭐️ 509
+- **Stars:** ⭐️ 510
 - **Tags:** `mediapipe` `motion-capture` `tts` `unreal-engine`
 - **最后活动时间:** 2026-09-04
 
@@ -2958,21 +2998,13 @@ Azure TTS API 的简洁命令行客户端，支持高质量语音合成。可快
 - **Tags:** `text-to-speech` `tts` `azure-cognitive-services` `cli`
 - **最后活动时间:** 2026-04-23
 
-### [awesome-ai-voice](https://github.com/wildminder/awesome-ai-voice)
-
-精选开源语音AI模型资源清单，涵盖文本转语音（TTS）、语音克隆与AI音乐生成等领域。适合快速了解和选用最新的语音合成与音频生成技术。
-
-- **Stars:** ⭐️ 500
-- **Tags:** `awesome` `tts` `voice-cloning` `speech` `music-generation` `asr` `ai-voice`
-- **最后活动时间:** 2026-09-23
-
 ## Image Generation
 
 ### [ComfyUI](https://github.com/Comfy-Org/ComfyUI)
 
 最强大的模块化扩散模型GUI工具，基于节点的工作流界面，灵活构建复杂图像生成流程。
 
-- **Stars:** ⭐️ 138.1k
+- **Stars:** ⭐️ 138.6k
 - **Tags:** `Stable-Diffusion` `GUI` `Image-Generation`
 - **最后活动时间:** 2026-10-18
 
@@ -2980,9 +3012,9 @@ Azure TTS API 的简洁命令行客户端，支持高质量语音合成。可快
 
 开源OCR引擎，使用LSTM神经网络进行光学字符识别，支持多种语言。
 
-- **Stars:** ⭐️ 77.0k
+- **Stars:** ⭐️ 77.1k
 - **Tags:** `ocr` `machine-learning` `lstm` `tesseract`
-- **最后活动时间:** 2026-10-10
+- **最后活动时间:** 2026-10-18
 
 ### [face_recognition](https://github.com/ageitgey/face_recognition)
 
@@ -3004,15 +3036,15 @@ Azure TTS API 的简洁命令行客户端，支持高质量语音合成。可快
 
 Hugging Face推出的扩散模型库，支持图像、视频和音频生成，是生成式AI领域的核心工具。
 
-- **Stars:** ⭐️ 34.7k
+- **Stars:** ⭐️ 34.8k
 - **Tags:** `Diffusion` `PyTorch` `HuggingFace`
-- **最后活动时间:** 2026-10-16
+- **最后活动时间:** 2026-10-18
 
 ### [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
 
 开源AI图像生成与视频创作工作室，支持Flux、SDXL、Midjourney等20+模型，可自托管部署。
 
-- **Stars:** ⭐️ 30.7k
+- **Stars:** ⭐️ 30.8k
 - **Tags:** `ai-image-generation` `ai-video-generation` `generative-ai` `flux-1` `text-to-video`
 - **最后活动时间:** 2026-10-15
 
@@ -3028,9 +3060,9 @@ Hugging Face推出的扩散模型库，支持图像、视频和音频生成，�
 
 业界领先的2D/3D人脸分析项目，支持人脸检测、识别、属性分析等任务。
 
-- **Stars:** ⭐️ 29.9k
+- **Stars:** ⭐️ 30.0k
 - **Tags:** `face-recognition` `face-detection` `pytorch`
-- **最后活动时间:** 2026-09-09
+- **最后活动时间:** 2026-10-04
 
 ### [InvokeAI](https://github.com/invoke-ai/InvokeAI)
 
@@ -3038,7 +3070,7 @@ Hugging Face推出的扩散模型库，支持图像、视频和音频生成，�
 
 - **Stars:** ⭐️ 28.7k
 - **Tags:** `Stable Diffusion` `图像生成` `AI艺术`
-- **最后活动时间:** 2026-10-18
+- **最后活动时间:** 2026-10-19
 
 ### [blender-mcp](https://github.com/ahujasid/blender-mcp)
 
@@ -3100,7 +3132,7 @@ Meta第二代图像分割模型，支持图像和视频的实时分割，性能�
 
 将参考图像中的物体重建为纯代码、程序化且可直接用于动画的 Three.js 3D模型。提供了一种高效的图像到3D生成方案。
 
-- **Stars:** ⭐️ 18.3k
+- **Stars:** ⭐️ 18.4k
 - **Tags:** `image-to-3d` `threejs` `generative` `ai-agents` `procedural-generation`
 - **最后活动时间:** 2026-10-17
 
@@ -3120,20 +3152,20 @@ Meta第二代图像分割模型，支持图像和视频的实时分割，性能�
 - **Tags:** `Stable-Diffusion` `CoreML` `Apple-Silicon` `Image-Generation`
 - **最后活动时间:** 2026-09-11
 
-### [awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts)
-
-GPT-Image-2 API 和提示词资源合集，涵盖图像生成、图像到图像转换等功能，帮助开发者快速上手 OpenAI 图像生成技术。
-
-- **Stars:** ⭐️ 17.3k
-- **Tags:** `gpt-image-2` `image-generation` `openai` `prompts` `text-to-image`
-- **最后活动时间:** 2026-07-18
-
 ### [awesome-gpt-image-2-API-Prompts](https://github.com/Evolink-AI/awesome-gpt-image-2-API-Prompts)
 
 精选 GPT-Image-2 API 提示词与用例合集，涵盖文生图、图生图等创意玩法。帮助开发者与创作者快速上手图像生成模型并激发灵感。
 
 - **Stars:** ⭐️ 17.3k
 - **Tags:** `GPT-Image-2` `OpenAI` `Prompt-Engineering` `Image-Generation` `Awesome-List`
+- **最后活动时间:** 2026-07-18
+
+### [awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts)
+
+GPT-Image-2 API 和提示词资源合集，涵盖图像生成、图像到图像转换等功能，帮助开发者快速上手 OpenAI 图像生成技术。
+
+- **Stars:** ⭐️ 17.3k
+- **Tags:** `gpt-image-2` `image-generation` `openai` `prompts` `text-to-image`
 - **最后活动时间:** 2026-07-18
 
 ### [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)
@@ -3206,15 +3238,15 @@ Python图像处理库，支持多种图像格式操作。是AI图像处理和计
 
 - **Stars:** ⭐️ 13.9k
 - **Tags:** `image-processing` `python` `pil`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio)
 
 一站式扩散模型创作工作室，支持图像生成、视频合成等多种AI生成任务，轻松体验扩散模型的魔力。
 
-- **Stars:** ⭐️ 13.2k
+- **Stars:** ⭐️ 13.3k
 - **Tags:** `扩散模型` `图像生成` `视频合成`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-16
 
 ### [Meshroom](https://github.com/alicevision/Meshroom)
 
@@ -3230,13 +3262,13 @@ Python图像处理库，支持多种图像格式操作。是AI图像处理和计
 
 - **Stars:** ⭐️ 13.0k
 - **Tags:** `structure-from-motion` `multi-view-stereo` `3d-reconstruction` `computer-vision`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)
 
 一个用于生成中文小黑怪诞风格正文配图的Codex Skill。支持16:9白底手绘风格，并带有少量红橙蓝批注。
 
-- **Stars:** ⭐️ 12.6k
+- **Stars:** ⭐️ 12.7k
 - **Tags:** `ai-agent` `codex-skill` `image-generation` `illustration` `chinese`
 - **最后活动时间:** 2026-09-24
 
@@ -3256,6 +3288,14 @@ Python图像处理库，支持多种图像格式操作。是AI图像处理和计
 - **Tags:** `ocr` `ncnn` `pytorch` `chinese`
 - **最后活动时间:** 2026-05-18
 
+### [TRELLIS.2](https://github.com/microsoft/TRELLIS.2)
+
+用于3D内容生成的原生紧凑结构化潜变量模型，支持高质量3D资产生成与编辑。
+
+- **Stars:** ⭐️ 12.2k
+- **Tags:** `3d-generation` `latent-models` `image-generation` `deep-learning`
+- **最后活动时间:** 2026-07-10
+
 ### [sam3](https://github.com/facebookresearch/sam3)
 
 Meta Segment Anything Model 3 (SAM 3) 的官方仓库，提供模型推理、微调代码及预训练权重下载，支持图像分割任务。
@@ -3263,14 +3303,6 @@ Meta Segment Anything Model 3 (SAM 3) 的官方仓库，提供模型推理、微
 - **Stars:** ⭐️ 12.0k
 - **Tags:** `segment-anything` `image-segmentation` `computer-vision` `meta-ai` `sam`
 - **最后活动时间:** 2026-10-14
-
-### [TRELLIS.2](https://github.com/microsoft/TRELLIS.2)
-
-用于3D内容生成的原生紧凑结构化潜变量模型，支持高质量3D资产生成与编辑。
-
-- **Stars:** ⭐️ 11.4k
-- **Tags:** `3d-generation` `latent-models` `image-generation` `deep-learning`
-- **最后活动时间:** 2026-07-10
 
 ### [krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion)
 
@@ -3310,15 +3342,15 @@ Krita图像编辑器的AI扩散插件，支持文生图、内补和外补功能�
 
 - **Stars:** ⭐️ 10.4k
 - **Tags:** `creative-coding` `computer-vision` `opencv` `cpp`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [supersplat](https://github.com/playcanvas/supersplat)
 
 基于浏览器的3D高斯泼溅编辑器，支持编辑AI生成的3D场景重建结果。
 
-- **Stars:** ⭐️ 10.3k
+- **Stars:** ⭐️ 10.4k
 - **Tags:** `gaussian-splatting` `3d` `webgpu` `editor`
-- **最后活动时间:** 2026-09-29
+- **最后活动时间:** 2026-10-05
 
 ### [awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
 
@@ -3364,9 +3396,9 @@ Krita图像编辑器的AI扩散插件，支持文生图、内补和外补功能�
 
 3D高斯泼溅技术资源精选，涵盖神经渲染、NeRF相关的前沿论文与实现，是3D视觉与AI交叉领域的热门方向。
 
-- **Stars:** ⭐️ 8.9k
+- **Stars:** ⭐️ 9.0k
 - **Tags:** `3d-gaussian-splatting` `nerf` `neural-rendering` `computer-vision`
-- **最后活动时间:** 2026-09-24
+- **最后活动时间:** 2026-10-04
 
 ### [MONAI](https://github.com/Project-MONAI/MONAI)
 
@@ -3492,9 +3524,9 @@ Python生态核心图像处理库，提供丰富的图像处理算法和科学�
 
 用于移除AI生成图像水印的CLI工具，支持可见和不可见水印类型。
 
-- **Stars:** ⭐️ 6.0k
+- **Stars:** ⭐️ 6.1k
 - **Tags:** `ai` `computer-vision` `image-processing` `watermark-removal` `synthid`
-- **最后活动时间:** 2026-10-18
+- **最后活动时间:** 2026-10-19
 
 ### [VLM-R1](https://github.com/om-ai-lab/VLM-R1)
 
@@ -3559,14 +3591,6 @@ Meta AI开发的模块化多模态视觉-语言研究框架，支持VQA、图像
 - **Stars:** ⭐️ 5.6k
 - **Tags:** `lottie` `animation` `claude-code` `codex` `ai-generation`
 - **最后活动时间:** 2026-07-25
-
-### [neural-style](https://github.com/anishathalye/neural-style)
-
-TensorFlow实现的经典神经风格迁移算法，将艺术风格应用到普通图像上。
-
-- **Stars:** ⭐️ 5.5k
-- **Tags:** `neural-style` `style-transfer` `tensorflow` `image-generation`
-- **最后活动时间:** 2026-04-18
 
 ### [opencv-python](https://github.com/opencv/opencv-python)
 
@@ -3646,7 +3670,15 @@ LLaVA-NeXT 是新一代开源大型多模态模型，支持高分辨率图像理
 
 - **Stars:** ⭐️ 4.7k
 - **Tags:** `stable-diffusion` `image-generation` `ai` `comfyui`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
+
+### [dlssg_for_sm86](https://github.com/sdli1995/dlssg_for_sm86)
+
+dlssg_for_sm86 是一个专为RTX 30系列GPU设计的深度学习超采样生成模型。通过AI加速实现高质量图像超分辨率。
+
+- **Stars:** ⭐️ 4.6k
+- **Tags:** `dlssg` `upscaling` `ai-model` `gpu`
+- **最后活动时间:** 2026-10-14
 
 ### [agent-sprite-forge](https://github.com/0x0funky/agent-sprite-forge)
 
@@ -3678,7 +3710,7 @@ Hugging Face扩散模型课程，深入讲解图像生成模型原理与实践�
 
 - **Stars:** ⭐️ 4.4k
 - **Tags:** `diffusion-models` `image-generation` `huggingface` `generative-ai`
-- **最后活动时间:** 2026-09-17
+- **最后活动时间:** 2026-10-14
 
 ### [Generative-Media-Skills](https://github.com/Anil-matcha/Generative-Media-Skills)
 
@@ -3704,14 +3736,6 @@ Hugging Face扩散模型课程，深入讲解图像生成模型原理与实践�
 - **Tags:** `comfyui` `controlnet` `stable-diffusion` `image-generation`
 - **最后活动时间:** 2026-09-28
 
-### [dlssg_for_sm86](https://github.com/sdli1995/dlssg_for_sm86)
-
-dlssg_for_sm86 是一个专为RTX 30系列GPU设计的深度学习超采样生成模型。通过AI加速实现高质量图像超分辨率。
-
-- **Stars:** ⭐️ 4.1k
-- **Tags:** `dlssg` `upscaling` `ai-model` `gpu`
-- **最后活动时间:** 2026-09-19
-
 ### [gpt_image_playground](https://github.com/CookSleep/gpt_image_playground)
 
 基于 OpenAI gpt-image-2 API 的图片生成与编辑工具，支持多种图像处理功能，提供直观的 Web 界面。
@@ -3734,7 +3758,7 @@ dlssg_for_sm86 是一个专为RTX 30系列GPU设计的深度学习超采样生�
 
 - **Stars:** ⭐️ 3.9k
 - **Tags:** `gaussian-splatting` `3d-reconstruction` `computer-vision` `cuda`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [ml-mgie](https://github.com/apple-aiml-research/ml-mgie)
 
@@ -3752,6 +3776,14 @@ MGIE 借助多模态大模型按自然语言指令进行图像编辑，是视觉
 - **Tags:** `3d-reconstruction` `depth-estimation` `image-to-3d` `robotics`
 - **最后活动时间:** 2026-08-07
 
+### [spark](https://github.com/sparkjsdev/spark)
+
+基于THREE.js的高级3D高斯泼溅渲染器，支持神经辐射场风格的实时3D重建与渲染。
+
+- **Stars:** ⭐️ 3.8k
+- **Tags:** `3d-gaussian-splatting` `nerf` `threejs` `webgl`
+- **最后活动时间:** 2026-10-16
+
 ### [local-dream](https://github.com/xororz/local-dream)
 
 在Android设备上运行Stable Diffusion，支持骁龙NPU加速及CPU/GPU推理。
@@ -3768,14 +3800,6 @@ MGIE 借助多模态大模型按自然语言指令进行图像编辑，是视觉
 - **Tags:** `Vision-Language` `LMM` `LLaVA`
 - **最后活动时间:** 2026-06-24
 
-### [spark](https://github.com/sparkjsdev/spark)
-
-基于THREE.js的高级3D高斯泼溅渲染器，支持神经辐射场风格的实时3D重建与渲染。
-
-- **Stars:** ⭐️ 3.7k
-- **Tags:** `3d-gaussian-splatting` `nerf` `threejs` `webgl`
-- **最后活动时间:** 2026-09-30
-
 ### [Saber-Translator](https://github.com/MashiroSaber03/Saber-Translator)
 
 AI驱动的漫画翻译工具，智能检测气泡、识别日文文本并翻译成流畅中文。
@@ -3790,7 +3814,7 @@ waifu2x最新版本及2D视频转立体3D视频转换工具集。
 
 - **Stars:** ⭐️ 3.5k
 - **Tags:** `waifu2x` `super-resolution` `stereo-3d` `video-processing`
-- **最后活动时间:** 2026-09-18
+- **最后活动时间:** 2026-10-15
 
 ### [FoundationPose](https://github.com/NVlabs/FoundationPose)
 
@@ -3832,6 +3856,14 @@ SIGGRAPH 2026 论文项目，专注于动漫角色的单图像层分解技术。
 - **Tags:** `ComfyUI` `CustomNodes` `ImageEnhancement` `Detector` `Upscaler`
 - **最后活动时间:** 2026-04-19
 
+### [tribev2](https://github.com/facebookresearch/tribev2)
+
+TRIBE v2多模态模型，用于脑响应预测的研究项目，结合神经科学与深度学习技术。
+
+- **Stars:** ⭐️ 3.3k
+- **Tags:** `multimodal` `brain-response` `neuroscience` `deep-learning`
+- **最后活动时间:** 2026-06-23
+
 ### [HunyuanImage-3.0](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0)
 
 腾讯混元图像生成模型3.0版本，强大的原生多模态图像生成模型，支持高质量图像创作。
@@ -3847,14 +3879,6 @@ SIGGRAPH 2026 论文项目，专注于动漫角色的单图像层分解技术。
 - **Stars:** ⭐️ 3.3k
 - **Tags:** `point-cloud` `3d-vision` `pytorch`
 - **最后活动时间:** 2026-09-11
-
-### [tribev2](https://github.com/facebookresearch/tribev2)
-
-TRIBE v2多模态模型，用于脑响应预测的研究项目，结合神经科学与深度学习技术。
-
-- **Stars:** ⭐️ 3.3k
-- **Tags:** `multimodal` `brain-response` `neuroscience` `deep-learning`
-- **最后活动时间:** 2026-06-23
 
 ### [QualityScaler](https://github.com/Djdefrag/QualityScaler)
 
@@ -3904,6 +3928,14 @@ Skywork AI开发的高级多模态模型系列，专注于视觉语言推理任�
 - **Tags:** `comfyui` `image-generation` `canvas` `modelscope`
 - **最后活动时间:** 2026-08-28
 
+### [Qwen-MM-Plugins](https://github.com/QwenLM/Qwen-MM-Plugins)
+
+使任何智能体框架具备原生多模态能力的插件集合。助力大模型轻松处理图像与文本的联合理解。
+
+- **Stars:** ⭐️ 3.1k
+- **Tags:** `multimodal` `llm` `agents` `plugins`
+- **最后活动时间:** 2026-10-11
+
 ### [swift-coreml-diffusers](https://github.com/tensorflow/tflite-micro)
 
 基于Core ML的Stable Diffusion Swift实现，支持在Apple设备上本地运行图像生成。
@@ -3918,15 +3950,7 @@ takumi是一个多平台工具，支持从JSX、HTML和CSS渲染OG图像和分�
 
 - **Stars:** ⭐️ 3.1k
 - **Tags:** `image-generation` `html-to-image` `html-to-pdf` `og-image` `rust`
-- **最后活动时间:** 2026-10-17
-
-### [Qwen-MM-Plugins](https://github.com/QwenLM/Qwen-MM-Plugins)
-
-使任何智能体框架具备原生多模态能力的插件集合。助力大模型轻松处理图像与文本的联合理解。
-
-- **Stars:** ⭐️ 3.1k
-- **Tags:** `multimodal` `llm` `agents` `plugins`
-- **最后活动时间:** 2026-09-23
+- **最后活动时间:** 2026-10-18
 
 ### [pwa-asset-generator](https://github.com/elegantapp/pwa-asset-generator)
 
@@ -3958,7 +3982,7 @@ pwa-asset-generator是一个自动化工具，用于生成PWA资产。它能自�
 
 - **Stars:** ⭐️ 2.9k
 - **Tags:** `Diffusion` `Fine-tuning` `Stable Diffusion`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [ComfyUI-nunchaku](https://github.com/nunchux-ai/ComfyUI-nunchaku)
 
@@ -3999,6 +4023,14 @@ Stable Diffusion WebUI标签自动补全扩展，提供Booru风格的智能提�
 - **Stars:** ⭐️ 2.8k
 - **Tags:** `Stable Diffusion` `LoRA` `ComfyUI` `Image Generation`
 - **最后活动时间:** 2026-10-18
+
+### [qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill)
+
+基于 Qwen-Image 2.1 的 AI 图像生成技能包，提供作者级提示词配方、NSFW LoRA 与 136 种姿势人偶控制。适用于 Claude Code、Codex、Cursor 等 AI 编程智能体，快速实现高质量姿势出图。
+
+- **Stars:** ⭐️ 2.8k
+- **Tags:** `Qwen-Image` `Image-Generation` `LoRA` `Pose-Control` `ComfyUI` `Agent-Skills`
+- **最后活动时间:** 2026-10-17
 
 ### [voxelmorph](https://github.com/voxelmorph/voxelmorph)
 
@@ -4160,14 +4192,6 @@ C++背景减除库，提供多种背景建模算法，支持Python、MATLAB和Ja
 - **Tags:** `background-subtraction` `computer-vision` `opencv`
 - **最后活动时间:** 2026-05-28
 
-### [mflux](https://github.com/filipstrand/mflux)
-
-基于Apple MLX框架的原生生成图像模型实现，针对Apple Silicon优化。
-
-- **Stars:** ⭐️ 2.3k
-- **Tags:** `mlx` `flux` `apple-silicon` `image-generation`
-- **最后活动时间:** 2026-07-29
-
 ### [Step1X-Edit](https://github.com/stepfun-ai/Step1X-Edit)
 
 SOTA级开源图像编辑模型，性能媲美GPT-4o和Gemini 2 Flash等闭源模型。
@@ -4175,6 +4199,14 @@ SOTA级开源图像编辑模型，性能媲美GPT-4o和Gemini 2 Flash等闭源�
 - **Stars:** ⭐️ 2.3k
 - **Tags:** `image-editing` `multimodal` `visual-reasoning` `open-source`
 - **最后活动时间:** 2026-04-29
+
+### [mflux](https://github.com/filipstrand/mflux)
+
+基于Apple MLX框架的原生生成图像模型实现，针对Apple Silicon优化。
+
+- **Stars:** ⭐️ 2.3k
+- **Tags:** `mlx` `flux` `apple-silicon` `image-generation`
+- **最后活动时间:** 2026-07-29
 
 ### [OpenSplat](https://github.com/WebODM/OpenSplat)
 
@@ -4198,7 +4230,7 @@ SOTA级开源图像编辑模型，性能媲美GPT-4o和Gemini 2 Flash等闭源�
 
 - **Stars:** ⭐️ 2.1k
 - **Tags:** `sketch-extraction` `anime` `gan` `image-processing`
-- **最后活动时间:** 2026-09-08
+- **最后活动时间:** 2026-10-18
 
 ### [OpenSplat](https://github.com/pierotofy/OpenSplat)
 
@@ -4207,6 +4239,14 @@ SOTA级开源图像编辑模型，性能媲美GPT-4o和Gemini 2 Flash等闭源�
 - **Stars:** ⭐️ 2.1k
 - **Tags:** `3d` `gaussian-splatting` `radiance-field` `neural-rendering`
 - **最后活动时间:** 2026-08-10
+
+### [OpenSeeFace](https://github.com/emilianavt/OpenSeeFace)
+
+实时人脸与面部关键点追踪库，支持CPU运行并提供Unity集成，适用于虚拟主播等应用场景。
+
+- **Stars:** ⭐️ 2.1k
+- **Tags:** `face-tracking` `face-detection` `onnx` `pytorch` `unity`
+- **最后活动时间:** 2026-09-18
 
 ### [uniface](https://github.com/yakhyo/uniface)
 
@@ -4223,14 +4263,6 @@ SOTA级开源图像编辑模型，性能媲美GPT-4o和Gemini 2 Flash等闭源�
 - **Stars:** ⭐️ 2.1k
 - **Tags:** `image-processing` `computer-vision` `ocr` `c`
 - **最后活动时间:** 2026-09-02
-
-### [OpenSeeFace](https://github.com/emilianavt/OpenSeeFace)
-
-实时人脸与面部关键点追踪库，支持CPU运行并提供Unity集成，适用于虚拟主播等应用场景。
-
-- **Stars:** ⭐️ 2.1k
-- **Tags:** `face-tracking` `face-detection` `onnx` `pytorch` `unity`
-- **最后活动时间:** 2026-09-18
 
 ### [ComfyUI_frontend](https://github.com/Comfy-Org/ComfyUI_frontend)
 
@@ -4254,7 +4286,7 @@ ComfyUI官方前端实现，为节点式AI图像生成工作流提供现代化�
 
 - **Stars:** ⭐️ 2.0k
 - **Tags:** `comfyui` `stable-diffusion` `image-generation` `installer`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [Qwen-Image-2.1](https://github.com/QwenLM/Qwen-Image-2.1)
 
@@ -4280,14 +4312,6 @@ CVPR 2023论文实现，专注于文本到图像扩散模型的多概念定制�
 - **Tags:** `satellite-imagery` `building-detection` `dataset` `geospatial`
 - **最后活动时间:** 2026-08-14
 
-### [pymatting](https://github.com/pymatting/pymatting)
-
-Python图像Alpha抠图库，用于前景提取和图像处理任务。
-
-- **Stars:** ⭐️ 1.9k
-- **Tags:** `alpha-matting` `image-processing` `computer-vision`
-- **最后活动时间:** 2026-09-08
-
 ### [inkloom](https://github.com/Inkloom-art/inkloom)
 
 专为Logo设计打造的垂直生成式AI模型集：品牌分析模型将企业信息转化为设计约束，字体与符号模型构建标志，排版引擎输出真实组合与留白规范。目前已开放早期体验。
@@ -4295,6 +4319,14 @@ Python图像Alpha抠图库，用于前景提取和图像处理任务。
 - **Stars:** ⭐️ 1.9k
 - **Tags:** `generative-ai` `logo-design` `branding` `design-systems` `typography`
 - **最后活动时间:** 2026-09-26
+
+### [pymatting](https://github.com/pymatting/pymatting)
+
+Python图像Alpha抠图库，用于前景提取和图像处理任务。
+
+- **Stars:** ⭐️ 1.9k
+- **Tags:** `alpha-matting` `image-processing` `computer-vision`
+- **最后活动时间:** 2026-09-08
 
 ### [OnnxOCR](https://github.com/jingsongliujing/OnnxOCR)
 
@@ -4408,14 +4440,6 @@ JavaScript 高斯泼溅（Gaussian Splatting）渲染库，可在浏览器中实
 - **Tags:** `gaussian-splatting` `3d-reconstruction` `javascript` `webgl` `neural-rendering`
 - **最后活动时间:** 2026-09-24
 
-### [node-banana](https://github.com/shrimbly/node-banana)
-
-免费开源的节点式生成式AI工作流工具，可通过可视化节点编排构建生成流程。适合想要灵活搭建生成式AI管线的创作者和开发者。
-
-- **Stars:** ⭐️ 1.6k
-- **Tags:** `generative-ai` `node-editor` `workflow` `open-source`
-- **最后活动时间:** 2026-10-14
-
 ### [yomitoku](https://github.com/kotaro-kinoshita/yomitoku)
 
 专为日语设计的 AI 文档图像分析 Python 包，集成深度学习 OCR 和版面分析功能，支持 PyTorch 框架。
@@ -4423,6 +4447,14 @@ JavaScript 高斯泼溅（Gaussian Splatting）渲染库，可在浏览器中实
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `OCR` `文档分析` `日语` `PyTorch`
 - **最后活动时间:** 2026-10-15
+
+### [node-banana](https://github.com/shrimbly/node-banana)
+
+免费开源的节点式生成式AI工作流工具，可通过可视化节点编排构建生成流程。适合想要灵活搭建生成式AI管线的创作者和开发者。
+
+- **Stars:** ⭐️ 1.6k
+- **Tags:** `generative-ai` `node-editor` `workflow` `open-source`
+- **最后活动时间:** 2026-10-14
 
 ### [Magic123](https://github.com/guochengqian/Magic123)
 
@@ -4448,14 +4480,6 @@ NVIDIA 深度学习超级采样技术，利用神经网络提升游戏帧率并�
 - **Tags:** `dlss` `nvidia` `image-upscaling` `gaming`
 - **最后活动时间:** 2026-10-16
 
-### [3d-ken-burns](https://github.com/sniklaus/3d-ken-burns)
-
-基于PyTorch的单图3D Ken Burns效果实现，从静态图像生成动态运镜视频。
-
-- **Stars:** ⭐️ 1.6k
-- **Tags:** `deep-learning` `computer-vision` `3D` `PyTorch`
-- **最后活动时间:** 2026-06-01
-
 ### [ComfyUI_UltimateSDUpscale](https://github.com/ssitu/ComfyUI_UltimateSDUpscale)
 
 ComfyUI的高质量图像放大节点扩展，支持多种放大算法，显著提升Stable Diffusion生成图像的分辨率和细节。
@@ -4463,6 +4487,14 @@ ComfyUI的高质量图像放大节点扩展，支持多种放大算法，显著�
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `ComfyUI` `图像放大` `Stable Diffusion`
 - **最后活动时间:** 2026-06-22
+
+### [3d-ken-burns](https://github.com/sniklaus/3d-ken-burns)
+
+基于PyTorch的单图3D Ken Burns效果实现，从静态图像生成动态运镜视频。
+
+- **Stars:** ⭐️ 1.6k
+- **Tags:** `deep-learning` `computer-vision` `3D` `PyTorch`
+- **最后活动时间:** 2026-06-01
 
 ### [SAM-Adapter-PyTorch](https://github.com/tianrun-chen/SAM-Adapter-PyTorch)
 
@@ -4496,6 +4528,14 @@ ComfyUI的高质量图像放大节点扩展，支持多种放大算法，显著�
 - **Tags:** `real-esrgan` `super-resolution` `image-upscaling` `gui`
 - **最后活动时间:** 2026-05-02
 
+### [ComfyUI-Lora-Manager](https://github.com/willmiao/ComfyUI-Lora-Manager)
+
+ComfyUI 的 LoRA 模型管理扩展，支持模型组织、预览和元数据管理，提升工作流效率。
+
+- **Stars:** ⭐️ 1.5k
+- **Tags:** `ComfyUI` `LoRA Manager` `Image Generation`
+- **最后活动时间:** 2026-10-19
+
 ### [Ovis](https://github.com/ATH-MaaS/Ovis)
 
 一种新型多模态大语言模型架构，旨在从结构上对齐视觉和文本嵌入。支持Llama3和Qwen等模型，提升视觉语言学习与交互能力。
@@ -4519,14 +4559,6 @@ ComfyUI的高质量图像放大节点扩展，支持多种放大算法，显著�
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `3d-point-clouds` `deep-learning` `python` `3d-graphics`
 - **最后活动时间:** 2026-07-10
-
-### [ComfyUI-Lora-Manager](https://github.com/willmiao/ComfyUI-Lora-Manager)
-
-ComfyUI 的 LoRA 模型管理扩展，支持模型组织、预览和元数据管理，提升工作流效率。
-
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `ComfyUI` `LoRA Manager` `Image Generation`
-- **最后活动时间:** 2026-09-30
 
 ### [gorest-2d-animation-spritesheet-generator](https://github.com/NO6KIKO/gorest-2d-animation-spritesheet-generator)
 
@@ -4552,14 +4584,6 @@ AI智能体技能，用于生成中文手绘风格的技术PPT图像，支持封
 - **Tags:** `inpainting` `stable-diffusion` `comfyui`
 - **最后活动时间:** 2026-09-28
 
-### [ResShift](https://github.com/zsyOAOA/ResShift)
-
-NeurIPS 2023 Spotlight论文，高效图像超分辨率扩散模型，通过残差偏移机制实现快速高质量图像重建。
-
-- **Stars:** ⭐️ 1.4k
-- **Tags:** `超分辨率` `扩散模型` `计算机视觉`
-- **最后活动时间:** 2026-07-08
-
 ### [terrain-diffusion](https://github.com/xandergos/terrain-diffusion)
 
 基于扩散模型的地形程序化生成项目，展示了SIGGRAPH会议的前沿研究成果。利用AI技术实现高质量的地形自动生成与设计。
@@ -4567,6 +4591,14 @@ NeurIPS 2023 Spotlight论文，高效图像超分辨率扩散模型，通过残�
 - **Stars:** ⭐️ 1.4k
 - **Tags:** `diffusion-models` `procedural-generation` `terrain` `computer-graphics`
 - **最后活动时间:** 2026-08-12
+
+### [ResShift](https://github.com/zsyOAOA/ResShift)
+
+NeurIPS 2023 Spotlight论文，高效图像超分辨率扩散模型，通过残差偏移机制实现快速高质量图像重建。
+
+- **Stars:** ⭐️ 1.4k
+- **Tags:** `超分辨率` `扩散模型` `计算机视觉`
+- **最后活动时间:** 2026-07-08
 
 ### [ecom-details-image](https://github.com/liangdabiao/ecom-details-image)
 
@@ -4600,6 +4632,14 @@ ComfyUI 自定义节点，提供交互式 Three.js 视口控制相机角度，�
 - **Tags:** `3d-gaussian-splatting` `image-to-3d` `generative-ai`
 - **最后活动时间:** 2026-08-13
 
+### [splat-transform](https://github.com/playcanvas/splat-transform)
+
+3D高斯泼溅格式转换与变换的CLI工具，支持多种格式互转和3D场景处理。
+
+- **Stars:** ⭐️ 1.4k
+- **Tags:** `3d-gaussian-splatting` `gaussian-splatting` `3d` `cli`
+- **最后活动时间:** 2026-10-09
+
 ### [ComfyUI-ReActor](https://github.com/Gourieff/ComfyUI-ReActor)
 
 ComfyUI的快速人脸替换扩展节点，支持SFW内容，简单易用的AI换脸工具。
@@ -4614,7 +4654,7 @@ ComfyUI的快速人脸替换扩展节点，支持SFW内容，简单易用的AI�
 
 - **Stars:** ⭐️ 1.4k
 - **Tags:** `image-search` `reverse-image-search` `image-analysis` `trace-moe` `saucenao`
-- **最后活动时间:** 2026-09-06
+- **最后活动时间:** 2026-10-18
 
 ### [Lance](https://github.com/bytedance/Lance)
 
@@ -4624,21 +4664,21 @@ ComfyUI的快速人脸替换扩展节点，支持SFW内容，简单易用的AI�
 - **Tags:** `multimodal` `image-generation` `video-generation` `image-understanding`
 - **最后活动时间:** 2026-07-14
 
-### [splat-transform](https://github.com/playcanvas/splat-transform)
-
-3D高斯泼溅格式转换与变换的CLI工具，支持多种格式互转和3D场景处理。
-
-- **Stars:** ⭐️ 1.3k
-- **Tags:** `3d-gaussian-splatting` `gaussian-splatting` `3d` `cli`
-- **最后活动时间:** 2026-09-29
-
 ### [sceneview](https://github.com/sceneview/sceneview)
 
 跨平台3D与AR SDK，支持Android、iOS、Web、Desktop等多端部署，集成Filament和RealityKit渲染引擎。
 
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `3d` `ar` `arcore` `arkit` `kotlin` `swift` `webxr`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-19
+
+### [workflow_templates](https://github.com/Comfy-Org/workflow_templates)
+
+提供丰富的 ComfyUI 模板工作流集合。方便用户快速复用和构建各类图像生成任务。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `comfyui` `workflow` `templates` `image-generation`
+- **最后活动时间:** 2026-10-18
 
 ### [image-matching-webui](https://github.com/Vincentqyw/image-matching-webui)
 
@@ -4760,14 +4800,6 @@ KIRI Engine 出品的 3D Gaussian Splatting 渲染器 Blender 插件，支持神
 - **Tags:** `illustration` `data-visualization` `claude-code` `image-generation`
 - **最后活动时间:** 2026-07-07
 
-### [workflow_templates](https://github.com/Comfy-Org/workflow_templates)
-
-提供丰富的 ComfyUI 模板工作流集合。方便用户快速复用和构建各类图像生成任务。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `comfyui` `workflow` `templates` `image-generation`
-- **最后活动时间:** 2026-09-30
-
 ### [vertex-ai-creative-studio](https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio)
 
 Google Cloud Vertex AI生成媒体创意工作室，集成Imagen、Veo、Gemini TTS、Chirp等多模态AI能力。提供图像、视频、音频生成的完整解决方案。
@@ -4846,7 +4878,7 @@ NeurIPS 2020论文官方代码，用于矢量图形动画的分层生成网络�
 
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `Generative AI` `WebUI` `Stable Diffusion` `Multimodal`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [dsh-vision-router](https://github.com/ysr666/dsh-vision-router)
 
@@ -5060,7 +5092,7 @@ CVPR 2026 Oral 论文项目，提出像素级扩散 Transformer 用于高质量�
 
 基于扩散模型的多视角光学错觉生成工具，可创建从不同角度观看呈现不同图像的创意视觉作品。
 
-- **Stars:** ⭐️ 973
+- **Stars:** ⭐️ 974
 - **Tags:** `Diffusion Models` `Optical Illusion` `Generative AI`
 - **最后活动时间:** 2026-07-17
 
@@ -5100,7 +5132,7 @@ CVPR 2024 论文，首个能生成自然语言响应并无缝集成目标分割�
 
 强大的Blender插件，集成Stable Diffusion、ControlNet和Flux1-dev，实现智能3D纹理生成。
 
-- **Stars:** ⭐️ 953
+- **Stars:** ⭐️ 954
 - **Tags:** `Blender` `Stable Diffusion` `3D纹理`
 - **最后活动时间:** 2026-10-17
 
@@ -5132,7 +5164,7 @@ CVPR 2026论文，从单张图像生成具备物理仿真属性的3D资产。
 
 Niantic开源的3D高斯泼溅文件格式，压缩率比PLY格式高约10倍，几乎无视觉质量损失。
 
-- **Stars:** ⭐️ 935
+- **Stars:** ⭐️ 934
 - **Tags:** `gaussian-splatting` `3dgs` `compression` `3d-reconstruction`
 - **最后活动时间:** 2026-09-01
 
@@ -5172,7 +5204,7 @@ Marigold V2使用扩散Transformer实现高精度单目深度估计，改进深�
 
 农业与可持续发展领域的多模态地理空间机器学习模型平台。
 
-- **Stars:** ⭐️ 900
+- **Stars:** ⭐️ 902
 - **Tags:** `geospatial` `agriculture` `multi-modal`
 - **最后活动时间:** 2026-09-09
 
@@ -5180,7 +5212,7 @@ Marigold V2使用扩散Transformer实现高精度单目深度估计，改进深�
 
 LibreYOLO 是一个采用 MIT 许可证的开源计算机视觉库。它提供了目标检测功能，适用于多种视觉应用场景。
 
-- **Stars:** ⭐️ 899
+- **Stars:** ⭐️ 901
 - **Tags:** `computer-vision` `yolo` `object-detection` `open-source`
 - **最后活动时间:** 2026-10-17
 
@@ -5188,7 +5220,7 @@ LibreYOLO 是一个采用 MIT 许可证的开源计算机视觉库。它提供�
 
 为纯文本大模型设计的强大视觉工具箱，支持图片识别、多图问答及UI还原等功能。通过插件化增强Agent的视觉交互能力。
 
-- **Stars:** ⭐️ 896
+- **Stars:** ⭐️ 899
 - **Tags:** `computer-vision` `ocr` `agent-skills` `ui-restoration` `vision-language-model`
 - **最后活动时间:** 2026-10-18
 
@@ -5220,7 +5252,7 @@ Krea 2的官方推理代码，提供强大的图像生成能力。
 
 ima2-gen 是一个本地优先的视觉生成运行时和工作室，专为个人和编码代理设计。它支持跨多个提供商的可重复图像和视频工作流，让创意内容创作变得简单高效。
 
-- **Stars:** ⭐️ 874
+- **Stars:** ⭐️ 875
 - **Tags:** `image-generation` `ai-agent` `video-generation` `local-first`
 - **最后活动时间:** 2026-10-16
 
@@ -5231,6 +5263,14 @@ ICCV 2025论文，融合高斯泼溅与扩散模型，实现快速单阶段图�
 - **Stars:** ⭐️ 870
 - **Tags:** `3D生成` `高斯泼溅` `扩散模型`
 - **最后活动时间:** 2026-08-30
+
+### [ComfyUI-Trellis2](https://github.com/visualbruno/ComfyUI-Trellis2)
+
+Microsoft Trellis 3D生成模型的ComfyUI封装，支持从图像生成高质量3D模型。
+
+- **Stars:** ⭐️ 870
+- **Tags:** `3d-generation` `comfyui` `text-to-3d` `image-to-3d`
+- **最后活动时间:** 2026-09-25
 
 ### [PoinTr](https://github.com/yuxumin/PoinTr)
 
@@ -5256,6 +5296,22 @@ Meta开发的参数化全身数字人体模型，包含骨骼模型、3D网格�
 - **Tags:** `ai` `image-processing` `ocr` `image-upscale` `self-hosted`
 - **最后活动时间:** 2026-04-24
 
+### [DiffusionOPSD](https://github.com/worldbench/DiffusionOPSD)
+
+DiffusionOPSD 是一个专注于扩散模型的在线策略自我蒸馏项目。该研究旨在提升扩散模型的性能，通过自蒸馏技术实现更好的生成质量和效率。
+
+- **Stars:** ⭐️ 854
+- **Tags:** `Diffusion Models` `Self-Distillation` `Generative AI` `Image Generation`
+- **最后活动时间:** 2026-10-12
+
+### [ComfyUI-See-through](https://github.com/jtydhr88/ComfyUI-See-through)
+
+ComfyUI插件，利用AI系统将单张动漫插画分解为可操作的2.5D分层模型。支持深度排序，可直接用于Live2D工作流。
+
+- **Stars:** ⭐️ 853
+- **Tags:** `comfyui` `image-generation` `live2d` `ai-art`
+- **最后活动时间:** 2026-08-20
+
 ### [huobao-canvas](https://github.com/chatfire-AI/huobao-canvas)
 
 无限画布工具，支持文生图、图生图、图生视频及多模型切换，兼容OpenAI标准格式。
@@ -5264,21 +5320,13 @@ Meta开发的参数化全身数字人体模型，包含骨骼模型、3D网格�
 - **Tags:** `image-generation` `text-to-image` `video-generation`
 - **最后活动时间:** 2026-09-19
 
-### [ComfyUI-Trellis2](https://github.com/visualbruno/ComfyUI-Trellis2)
+### [image-to-3dlab](https://github.com/Bingeljell/image-to-3dlab)
 
-Microsoft Trellis 3D生成模型的ComfyUI封装，支持从图像生成高质量3D模型。
+AssetFurnace 是目前最完整的开源图像转3D流水线，可将提示词或图片在本地生成带纹理、已绑骨并支持动画的游戏角色。支持 Apple Silicon 与 NVIDIA 显卡，集成 TRELLIS、Hunyuan3D 等模型与自动绑骨，适合独立游戏开发者与3D美术师。
 
-- **Stars:** ⭐️ 847
-- **Tags:** `3d-generation` `comfyui` `text-to-3d` `image-to-3d`
-- **最后活动时间:** 2026-09-25
-
-### [ComfyUI-See-through](https://github.com/jtydhr88/ComfyUI-See-through)
-
-ComfyUI插件，利用AI系统将单张动漫插画分解为可操作的2.5D分层模型。支持深度排序，可直接用于Live2D工作流。
-
-- **Stars:** ⭐️ 847
-- **Tags:** `comfyui` `image-generation` `live2d` `ai-art`
-- **最后活动时间:** 2026-08-20
+- **Stars:** ⭐️ 848
+- **Tags:** `image-to-3d` `3d-generation` `game-assets` `hunyuan3d` `auto-rigging`
+- **最后活动时间:** 2026-10-18
 
 ### [LxgwZhenKai](https://github.com/lxgw/LxgwZhenKai)
 
@@ -5287,22 +5335,6 @@ ComfyUI插件，利用AI系统将单张动漫插画分解为可操作的2.5D分�
 - **Stars:** ⭐️ 845
 - **Tags:** `Font` `AI` `Typography` `Chinese`
 - **最后活动时间:** 2026-06-29
-
-### [DiffusionOPSD](https://github.com/worldbench/DiffusionOPSD)
-
-DiffusionOPSD 是一个专注于扩散模型的在线策略自我蒸馏项目。该研究旨在提升扩散模型的性能，通过自蒸馏技术实现更好的生成质量和效率。
-
-- **Stars:** ⭐️ 843
-- **Tags:** `Diffusion Models` `Self-Distillation` `Generative AI` `Image Generation`
-- **最后活动时间:** 2026-10-12
-
-### [image-to-3dlab](https://github.com/Bingeljell/image-to-3dlab)
-
-AssetFurnace 是目前最完整的开源图像转3D流水线，可将提示词或图片在本地生成带纹理、已绑骨并支持动画的游戏角色。支持 Apple Silicon 与 NVIDIA 显卡，集成 TRELLIS、Hunyuan3D 等模型与自动绑骨，适合独立游戏开发者与3D美术师。
-
-- **Stars:** ⭐️ 833
-- **Tags:** `image-to-3d` `3d-generation` `game-assets` `hunyuan3d` `auto-rigging`
-- **最后活动时间:** 2026-10-17
 
 ### [zotero-ocr](https://github.com/UB-Mannheim/zotero-ocr)
 
@@ -5340,17 +5372,9 @@ Zotero文献管理软件的OCR插件，基于Tesseract实现文档文字识别�
 
 自动化人脸提取、调整和对齐工具，适合制作自拍延时视频。基于Immich平台实现的人脸识别与处理工作流。
 
-- **Stars:** ⭐️ 815
+- **Stars:** ⭐️ 816
 - **Tags:** `immich` `face-detection` `timelapse` `self-hosted`
 - **最后活动时间:** 2026-07-08
-
-### [awesome-nanobananapro-prompts](https://github.com/xianyu110/awesome-nanobananapro-prompts)
-
-基于 Google Gemini 2.5 Flash 模型打造的精美 AI 图像生成与编辑 Web 应用。使用 Next.js 构建，提供直观的图像创作体验。
-
-- **Stars:** ⭐️ 815
-- **Tags:** `gemini` `image-generation` `nextjs` `ai-art`
-- **最后活动时间:** 2026-10-06
 
 ### [SSRS](https://github.com/sstary/SSRS)
 
@@ -5359,6 +5383,14 @@ Zotero文献管理软件的OCR插件，基于Tesseract实现文档文字识别�
 - **Stars:** ⭐️ 814
 - **Tags:** `semantic-segmentation` `remote-sensing` `transformer` `mamba`
 - **最后活动时间:** 2026-07-22
+
+### [awesome-nanobananapro-prompts](https://github.com/xianyu110/awesome-nanobananapro-prompts)
+
+基于 Google Gemini 2.5 Flash 模型打造的精美 AI 图像生成与编辑 Web 应用。使用 Next.js 构建，提供直观的图像创作体验。
+
+- **Stars:** ⭐️ 814
+- **Tags:** `gemini` `image-generation` `nextjs` `ai-art`
+- **最后活动时间:** 2026-10-06
 
 ### [scribeocr](https://github.com/scribeocr/scribeocr)
 
@@ -5464,19 +5496,11 @@ Level of Gaussians - 基于高斯泼溅的神经渲染技术，实现高质量�
 - **Tags:** `gaussian-splatting` `3d-reconstruction` `novel-view-synthesis` `neural-rendering`
 - **最后活动时间:** 2026-09-15
 
-### [tessera](https://github.com/ucam-eo/tessera)
-
-剑桥大学开发的卫星时序图像基础模型，支持土地分类和树冠高度预测等遥感应用。
-
-- **Stars:** ⭐️ 764
-- **Tags:** `Satellite` `Remote Sensing` `Foundation Models`
-- **最后活动时间:** 2026-08-17
-
 ### [YOLO-Master](https://github.com/Tencent/YOLO-Master)
 
 CVPR2026论文官方代码，基于MOE加速和专业Transformer增强的实时目标检测模型，支持分类、检测和分割任务。
 
-- **Stars:** ⭐️ 764
+- **Stars:** ⭐️ 765
 - **Tags:** `yolo` `object-detection` `moe` `computer-vision` `transformers`
 - **最后活动时间:** 2026-10-15
 
@@ -5484,9 +5508,17 @@ CVPR2026论文官方代码，基于MOE加速和专业Transformer增强的实时�
 
 利用轻量级超分辨率模型在mpv播放器中实现实时动漫4K画质放大。基于TensorRT和Vapoursynth提供高效的视频增强体验。
 
-- **Stars:** ⭐️ 764
+- **Stars:** ⭐️ 765
 - **Tags:** `super-resolution` `esrgan` `anime-upscaling` `tensorrt`
 - **最后活动时间:** 2026-10-15
+
+### [tessera](https://github.com/ucam-eo/tessera)
+
+剑桥大学开发的卫星时序图像基础模型，支持土地分类和树冠高度预测等遥感应用。
+
+- **Stars:** ⭐️ 764
+- **Tags:** `Satellite` `Remote Sensing` `Foundation Models`
+- **最后活动时间:** 2026-08-17
 
 ### [FG-CLIP](https://github.com/360CVGroup/FG-CLIP)
 
@@ -5504,6 +5536,14 @@ CVPR2026论文官方代码，基于MOE加速和专业Transformer增强的实时�
 - **Tags:** `3d-visualization` `computer-vision` `smpl` `meshes` `rendering`
 - **最后活动时间:** 2026-05-07
 
+### [EDGS](https://github.com/CompVis/EDGS)
+
+3D高斯泼溅高效收敛方法PyTorch实现，消除密集化步骤。3D重建新方法。
+
+- **Stars:** ⭐️ 748
+- **Tags:** `3dgs` `3d-reconstruction` `gaussian-splatting`
+- **最后活动时间:** 2026-07-04
+
 ### [Comfyui-zhenzhen](https://github.com/T8mars/Comfyui-zhenzhen)
 
 ComfyUI的平价API调用节点集合，支持Seedance2.0等多种图像生成模型。
@@ -5511,14 +5551,6 @@ ComfyUI的平价API调用节点集合，支持Seedance2.0等多种图像生成�
 - **Stars:** ⭐️ 748
 - **Tags:** `comfyui` `image-generation` `api-nodes`
 - **最后活动时间:** 2026-09-22
-
-### [EDGS](https://github.com/CompVis/EDGS)
-
-3D高斯泼溅高效收敛方法PyTorch实现，消除密集化步骤。3D重建新方法。
-
-- **Stars:** ⭐️ 744
-- **Tags:** `3dgs` `3d-reconstruction` `gaussian-splatting`
-- **最后活动时间:** 2026-07-04
 
 ### [tuna-2](https://github.com/facebookresearch/tuna-2)
 
@@ -5540,7 +5572,7 @@ Segment Anything模型在显微图像领域的适配应用，支持细胞与细�
 
 基于 tldraw 构建的本地专业 AI 画布工具，支持图像生成与编辑。
 
-- **Stars:** ⭐️ 736
+- **Stars:** ⭐️ 737
 - **Tags:** `ai` `ai-tools` `image-generation` `canvas`
 - **最后活动时间:** 2026-08-27
 
@@ -5548,17 +5580,9 @@ Segment Anything模型在显微图像领域的适配应用，支持细胞与细�
 
 全卷积几何特征提取网络，用于3D点云配准和对应关系建立。
 
-- **Stars:** ⭐️ 735
+- **Stars:** ⭐️ 736
 - **Tags:** `3d-vision` `feature-extraction` `point-cloud` `registration`
 - **最后活动时间:** 2026-07-02
-
-### [Nova3D](https://github.com/RareSense/Nova3D)
-
-支持通过文本或参考图像生成可编辑、部件感知的3D模型。结合大语言模型与生成式AI，为3D创作提供强大支持。
-
-- **Stars:** ⭐️ 734
-- **Tags:** `3d-generation` `generative-ai` `text-to-3d`
-- **最后活动时间:** 2026-10-15
 
 ### [libcom](https://github.com/bcmi/libcom)
 
@@ -5567,6 +5591,14 @@ Segment Anything模型在显微图像领域的适配应用，支持细胞与细�
 - **Stars:** ⭐️ 733
 - **Tags:** `image-composition` `image-blending` `image-harmonization` `object-insertion` `computer-vision`
 - **最后活动时间:** 2026-04-26
+
+### [Nova3D](https://github.com/RareSense/Nova3D)
+
+支持通过文本或参考图像生成可编辑、部件感知的3D模型。结合大语言模型与生成式AI，为3D创作提供强大支持。
+
+- **Stars:** ⭐️ 733
+- **Tags:** `3d-generation` `generative-ai` `text-to-3d`
+- **最后活动时间:** 2026-10-18
 
 ### [Point-Transformers](https://github.com/qq456cvb/Point-Transformers)
 
@@ -5580,9 +5612,9 @@ Segment Anything模型在显微图像领域的适配应用，支持细胞与细�
 
 基于 ComfyUI 与外部 API 的可视化 3D 生成工作台，串联文生图、图像编辑、网格生成、UV 展开与贴图全流程。一站式编排完整 3D 生成管线。
 
-- **Stars:** ⭐️ 725
+- **Stars:** ⭐️ 726
 - **Tags:** `3d-generation` `text-to-image` `comfyui` `mesh-generation` `texturing`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [NanoBananaEditor](https://github.com/markfulton/NanoBananaEditor)
 
@@ -5591,6 +5623,14 @@ Segment Anything模型在显微图像领域的适配应用，支持细胞与细�
 - **Stars:** ⭐️ 722
 - **Tags:** `image-generation` `image-editing` `gemini-api`
 - **最后活动时间:** 2026-10-07
+
+### [comfyui-krea2edit](https://github.com/lbouaraba/comfyui-krea2edit)
+
+为ComfyUI打造的Krea 2指令式图像编辑节点与工作流，借助Identity Edit LoRA在保持人物身份一致性的同时完成精准修图。让AI图像编辑既高效又可控。
+
+- **Stars:** ⭐️ 720
+- **Tags:** `ComfyUI` `Krea` `Image-Editing` `LoRA` `Diffusion`
+- **最后活动时间:** 2026-10-16
 
 ### [ai_gallery](https://github.com/selfboot/ai_gallery)
 
@@ -5614,7 +5654,7 @@ AI生成内容展示平台，汇集有趣的AI生成作品，基于Next.js 14和
 
 - **Stars:** ⭐️ 717
 - **Tags:** `sketch-to-image` `sketch-based-retrieval` `generative-ai` `computer-vision`
-- **最后活动时间:** 2026-08-21
+- **最后活动时间:** 2026-10-06
 
 ### [SenseNova-Vision](https://github.com/OpenSenseNova/SenseNova-Vision)
 
@@ -5740,7 +5780,7 @@ ICCV 2023 论文实现，专为移动设备设计的图像修复模型。通过�
 
 基于单摄像头的实时3D全身重建工具，支持多人BVH输出与70关节骨架。纯C++运行时结合ONNX与ggml，实现高性能动作捕捉。
 
-- **Stars:** ⭐️ 691
+- **Stars:** ⭐️ 690
 - **Tags:** `3d-human-pose` `pose-estimation` `onnx` `cpp` `real-time`
 - **最后活动时间:** 2026-10-14
 
@@ -5772,7 +5812,7 @@ Ultralytics官方资源库，包含YOLO系列模型权重和计算机视觉资�
 
 这是一个专为本地AI推理优化的工具集合，基于ComfyUI提供RTX 3090多卡工作流、LoRA模型和视频生成基准配置。
 
-- **Stars:** ⭐️ 683
+- **Stars:** ⭐️ 684
 - **Tags:** `ComfyUI` `Local Inference` `LoRA` `Video Generation`
 - **最后活动时间:** 2026-09-28
 
@@ -5808,21 +5848,29 @@ ComfyUI工具节点集合，支持将其作为后端服务使用，实现外部�
 - **Tags:** `multimodal` `llm` `vision-language`
 - **最后活动时间:** 2026-07-27
 
-### [comfyui-krea2edit](https://github.com/lbouaraba/comfyui-krea2edit)
-
-为ComfyUI打造的Krea 2指令式图像编辑节点与工作流，借助Identity Edit LoRA在保持人物身份一致性的同时完成精准修图。让AI图像编辑既高效又可控。
-
-- **Stars:** ⭐️ 674
-- **Tags:** `ComfyUI` `Krea` `Image-Editing` `LoRA` `Diffusion`
-- **最后活动时间:** 2026-07-29
-
 ### [Prism](https://github.com/Hash-Studios/Prism)
 
 开源的跨平台壁纸应用，支持社区上传、精选合集以及AI壁纸生成功能，让用户轻松创建个性化壁纸。
 
-- **Stars:** ⭐️ 663
+- **Stars:** ⭐️ 665
 - **Tags:** `flutter` `wallpaper` `ai` `image-generation`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
+
+### [nnDetection](https://github.com/MIC-DKFZ/nnDetection)
+
+自配置3D医学目标检测框架，支持12个数据集，无需手动干预即可应用于新数据。
+
+- **Stars:** ⭐️ 662
+- **Tags:** `medical-imaging` `3d-object-detection` `deep-learning`
+- **最后活动时间:** 2026-10-08
+
+### [RT-DETRv4](https://github.com/RT-DETRs/RT-DETRv4)
+
+RT-DETRv4官方实现，结合视觉基础模型无痛推进实时目标检测。该框架在保持高精度的同时实现了卓越的实时检测性能。
+
+- **Stars:** ⭐️ 662
+- **Tags:** `object-detection` `real-time` `vision-transformer` `computer-vision`
+- **最后活动时间:** 2026-07-06
 
 ### [UniControl](https://github.com/salesforce/UniControl)
 
@@ -5831,14 +5879,6 @@ ComfyUI工具节点集合，支持将其作为后端服务使用，实现外部�
 - **Stars:** ⭐️ 662
 - **Tags:** `aigc` `image-generation` `multi-modal` `controllable-generation`
 - **最后活动时间:** 2026-06-02
-
-### [nnDetection](https://github.com/MIC-DKFZ/nnDetection)
-
-自配置3D医学目标检测框架，支持12个数据集，无需手动干预即可应用于新数据。
-
-- **Stars:** ⭐️ 660
-- **Tags:** `medical-imaging` `3d-object-detection` `deep-learning`
-- **最后活动时间:** 2026-08-09
 
 ### [DrawingSpinUp](https://github.com/LordLiang/DrawingSpinUp)
 
@@ -5864,14 +5904,6 @@ ICCV 2021 Oral论文，基于金字塔网格对齐反馈循环的3D人体姿态�
 - **Tags:** `yolo` `object-detection` `object-tracking` `pytorch` `opencv`
 - **最后活动时间:** 2026-09-11
 
-### [comfyui-lumi-batcher](https://github.com/bytedance/comfyui-lumi-batcher)
-
-ComfyUI 的批量处理扩展插件，通过批量调试参数显著提升工作流效率。解决了传统图像生成中需要逐一调整参数的痛点。
-
-- **Stars:** ⭐️ 653
-- **Tags:** `comfyui` `batch-processing` `image-generation` `workflow`
-- **最后活动时间:** 2026-07-20
-
 ### [rtmlib](https://github.com/Tau-J/rtmlib)
 
 一个轻量级的人体姿态估计库，无需依赖mmcv等复杂框架即可运行RTMPose、DWPose等系列模型。提供高效且易于部署的全身姿态识别解决方案。
@@ -5879,6 +5911,14 @@ ComfyUI 的批量处理扩展插件，通过批量调试参数显著提升工作
 - **Stars:** ⭐️ 651
 - **Tags:** `pose-estimation` `openpose` `rtmpose` `computer-vision`
 - **最后活动时间:** 2026-08-03
+
+### [comfyui-lumi-batcher](https://github.com/bytedance/comfyui-lumi-batcher)
+
+ComfyUI 的批量处理扩展插件，通过批量调试参数显著提升工作流效率。解决了传统图像生成中需要逐一调整参数的痛点。
+
+- **Stars:** ⭐️ 650
+- **Tags:** `comfyui` `batch-processing` `image-generation` `workflow`
+- **最后活动时间:** 2026-10-10
 
 ### [pHash](https://github.com/aetilius/pHash)
 
@@ -5904,13 +5944,13 @@ ComfyUI 的批量处理扩展插件，通过批量调试参数显著提升工作
 - **Tags:** `deep-learning` `pathology` `whole-slide-image` `foundation-model`
 - **最后活动时间:** 2026-10-12
 
-### [RT-DETRv4](https://github.com/RT-DETRs/RT-DETRv4)
+### [FastSurfer](https://github.com/Deep-MI/FastSurfer)
 
-RT-DETRv4官方实现，结合视觉基础模型无痛推进实时目标检测。该框架在保持高精度的同时实现了卓越的实时检测性能。
+FastSurferCNN的PyTorch实现，用于脑部MRI图像快速分割。
 
 - **Stars:** ⭐️ 642
-- **Tags:** `object-detection` `real-time` `vision-transformer` `computer-vision`
-- **最后活动时间:** 2026-07-06
+- **Tags:** `pytorch` `medical-imaging` `brain-segmentation` `mri` `cnn`
+- **最后活动时间:** 2026-10-18
 
 ### [Liquid](https://github.com/FoundationVision/Liquid)
 
@@ -5920,13 +5960,13 @@ IJCV收录的多模态大语言模型，实现可扩展的统一文本到图像�
 - **Tags:** `Multimodal LLM` `Text-to-Image` `Generative AI`
 - **最后活动时间:** 2026-06-01
 
-### [FastSurfer](https://github.com/Deep-MI/FastSurfer)
+### [character_select_stand_alone_app](https://github.com/mirabarukaso/character_select_stand_alone_app)
 
-FastSurferCNN的PyTorch实现，用于脑部MRI图像快速分割。
+角色选择独立应用，支持AI提示词和ComfyUI/WebUI API，用于AI图像生成工作流。
 
-- **Stars:** ⭐️ 637
-- **Tags:** `pytorch` `medical-imaging` `brain-segmentation` `mri` `cnn`
-- **最后活动时间:** 2026-09-25
+- **Stars:** ⭐️ 638
+- **Tags:** `comfyui` `image-generation` `electron` `stable-diffusion`
+- **最后活动时间:** 2026-10-18
 
 ### [MMIF-CDDFuse](https://github.com/Zhaozixiang1228/MMIF-CDDFuse)
 
@@ -5935,14 +5975,6 @@ CVPR 2023 论文官方实现，提出相关性驱动的双分支特征分解方�
 - **Stars:** ⭐️ 637
 - **Tags:** `image-fusion` `deep-learning` `cvpr2023` `multi-modality`
 - **最后活动时间:** 2026-06-08
-
-### [character_select_stand_alone_app](https://github.com/mirabarukaso/character_select_stand_alone_app)
-
-角色选择独立应用，支持AI提示词和ComfyUI/WebUI API，用于AI图像生成工作流。
-
-- **Stars:** ⭐️ 637
-- **Tags:** `comfyui` `image-generation` `electron` `stable-diffusion`
-- **最后活动时间:** 2026-10-17
 
 ### [ComfyUI-DyPE](https://github.com/wildminder/ComfyUI-DyPE)
 
@@ -5972,9 +6004,9 @@ Allen AI开源的可提示3D目标检测模型，支持在开放场景中进行�
 
 面向DeepSeek Harness的AI图像工作室，支持在聊天中生成、编辑与对比图像，内置500+提示词库、画廊与多模型工作流，并集成ComfyUI。整合OpenAI、Gemini、Seedream等多种图像生成模型，是创意图像工作流的一站式工具。
 
-- **Stars:** ⭐️ 625
+- **Stars:** ⭐️ 628
 - **Tags:** `AI` `Image-Generation` `ComfyUI` `DeepSeek` `Prompt-Library` `OpenAI` `Gemini`
-- **最后活动时间:** 2026-10-15
+- **最后活动时间:** 2026-10-18
 
 ### [Awesome-Deep-Stereo-Matching](https://github.com/fabiotosi92/Awesome-Deep-Stereo-Matching)
 
@@ -5991,6 +6023,14 @@ ComfyUI自定义节点集合，为Stable Diffusion提供扩展功能和工作流
 - **Stars:** ⭐️ 611
 - **Tags:** `comfyui` `stable-diffusion` `nodes`
 - **最后活动时间:** 2026-05-17
+
+### [ComfyUI-MiniMax-H3-Turbo](https://github.com/Larryvrh/ComfyUI-MiniMax-H3-Turbo)
+
+ComfyUI-MiniMax-H3-Turbo 是一款将 MiniMax H3 Turbo 模型无缝接入 ComfyUI 的工具包。通过此节点，用户能快速生成高质量的 AI 图像或内容，大幅提升创作效率。
+
+- **Stars:** ⭐️ 606
+- **Tags:** `ComfyUI` `MiniMax` `Image Generation` `Custom Nodes`
+- **最后活动时间:** 2026-08-14
 
 ### [z-tipo-extension](https://github.com/KohakuBlueleaf/z-tipo-extension)
 
@@ -6048,14 +6088,6 @@ STARFlow 是面向高分辨率图像合成的可扩展潜在归一化流模型�
 - **Tags:** `Image Generation` `Video Generation` `OpenAI API` `Reverse Proxy` `Free API`
 - **最后活动时间:** 2026-09-27
 
-### [ComfyUI-MiniMax-H3-Turbo](https://github.com/Larryvrh/ComfyUI-MiniMax-H3-Turbo)
-
-ComfyUI-MiniMax-H3-Turbo 是一款将 MiniMax H3 Turbo 模型无缝接入 ComfyUI 的工具包。通过此节点，用户能快速生成高质量的 AI 图像或内容，大幅提升创作效率。
-
-- **Stars:** ⭐️ 589
-- **Tags:** `ComfyUI` `MiniMax` `Image Generation` `Custom Nodes`
-- **最后活动时间:** 2026-08-14
-
 ### [deepgen](https://github.com/deepgenteam/deepgen)
 
 轻量级统一多模态模型，专注于图像生成与编辑任务，提供高效的视觉创作能力。
@@ -6063,6 +6095,14 @@ ComfyUI-MiniMax-H3-Turbo 是一款将 MiniMax H3 Turbo 模型无缝接入 ComfyU
 - **Stars:** ⭐️ 583
 - **Tags:** `multimodal` `image-generation` `image-editing` `deep-learning`
 - **最后活动时间:** 2026-07-31
+
+### [Comfy-Desktop](https://github.com/Comfy-Org/Comfy-Desktop)
+
+ComfyUI 的官方桌面应用，为 AI 图像生成工作流提供开箱即用的跨平台客户端，内置环境管理与节点更新支持。
+
+- **Stars:** ⭐️ 583
+- **Tags:** `ComfyUI` `Stable Diffusion` `Image Generation` `Desktop App`
+- **最后活动时间:** 2026-10-18
 
 ### [xianxia-visual-director](https://github.com/liyue-aigc/xianxia-visual-director)
 
@@ -6078,7 +6118,15 @@ ComfyUI-MiniMax-H3-Turbo 是一款将 MiniMax H3 Turbo 模型无缝接入 ComfyU
 
 - **Stars:** ⭐️ 581
 - **Tags:** `sketch-generation` `sketch-synthesis` `vector-sketch` `generative-ai`
-- **最后活动时间:** 2026-09-21
+- **最后活动时间:** 2026-10-06
+
+### [proper-pixel-art](https://github.com/KennethJAllen/proper-pixel-art)
+
+一款用于修复和优化AI生成的像素艺术图像、视频及精灵图资源的工具。它能有效解决AI生成像素画时的瑕疵问题，适用于游戏开发场景。
+
+- **Stars:** ⭐️ 581
+- **Tags:** `computer-vision` `generative-ai` `image-processing` `pixel-art` `game-dev`
+- **最后活动时间:** 2026-10-10
 
 ### [PixelHacker](https://github.com/hustvl/PixelHacker)
 
@@ -6087,14 +6135,6 @@ ComfyUI-MiniMax-H3-Turbo 是一款将 MiniMax H3 Turbo 模型无缝接入 ComfyU
 - **Stars:** ⭐️ 581
 - **Tags:** `image-inpainting` `image-generation` `computer-vision`
 - **最后活动时间:** 2026-06-20
-
-### [proper-pixel-art](https://github.com/KennethJAllen/proper-pixel-art)
-
-一款用于修复和优化AI生成的像素艺术图像、视频及精灵图资源的工具。它能有效解决AI生成像素画时的瑕疵问题，适用于游戏开发场景。
-
-- **Stars:** ⭐️ 580
-- **Tags:** `computer-vision` `generative-ai` `image-processing` `pixel-art` `game-dev`
-- **最后活动时间:** 2026-10-10
 
 ### [TorchUMM](https://github.com/AIFrontierLab/TorchUMM)
 
@@ -6116,9 +6156,25 @@ ComfyUI-MiniMax-H3-Turbo 是一款将 MiniMax H3 Turbo 模型无缝接入 ComfyU
 
 ComfyUI 的 TRELLIS 2 封装节点，支持从图像生成高质量 3D 资产与场景重建。
 
-- **Stars:** ⭐️ 574
+- **Stars:** ⭐️ 578
 - **Tags:** `ComfyUI` `TRELLIS` `3D-Generation` `Multimodal`
 - **最后活动时间:** 2026-08-24
+
+### [PlateRecognition](https://github.com/pcb9382/PlateRecognition)
+
+高性能高精度的车牌识别开源项目，支持中国大陆、港澳台及韩国等12种车牌识别，准确率高达99%以上，可方便地移植到嵌入式和安卓端使用。
+
+- **Stars:** ⭐️ 576
+- **Tags:** `license-plate-recognition` `ocr` `computer-vision` `deep-learning`
+- **最后活动时间:** 2026-09-02
+
+### [ComfyUIWorkflow](https://github.com/axiomgraph/ComfyUIWorkflow)
+
+一套 ComfyUI 工作流合集，覆盖 AI 绘图与图像生成的常用节点流程。可直接导入 ComfyUI 复用，快速搭建 Stable Diffusion 出图管线。
+
+- **Stars:** ⭐️ 573
+- **Tags:** `ComfyUI` `Stable Diffusion` `Image Generation` `Workflow`
+- **最后活动时间:** 2026-10-15
 
 ### [Coherent-Line-Drawing](https://github.com/SSARCandy/Coherent-Line-Drawing)
 
@@ -6128,21 +6184,21 @@ ComfyUI 的 TRELLIS 2 封装节点，支持从图像生成高质量 3D 资产与
 - **Tags:** `line-drawing` `npr` `opencv` `computer-graphics`
 - **最后活动时间:** 2026-07-11
 
-### [PlateRecognition](https://github.com/pcb9382/PlateRecognition)
-
-高性能高精度的车牌识别开源项目，支持中国大陆、港澳台及韩国等12种车牌识别，准确率高达99%以上，可方便地移植到嵌入式和安卓端使用。
-
-- **Stars:** ⭐️ 570
-- **Tags:** `license-plate-recognition` `ocr` `computer-vision` `deep-learning`
-- **最后活动时间:** 2026-09-02
-
 ### [FaceRecognition_ReactNative](https://github.com/FaceAISDK/FaceRecognition_ReactNative)
 
 为 Android 和 iOS 提供端侧人脸验证、活体检测和人脸录入功能的 React Native 库。
 
-- **Stars:** ⭐️ 562
+- **Stars:** ⭐️ 563
 - **Tags:** `face-detection` `facerecognition` `faceverification` `liveness-detection` `react-native`
-- **最后活动时间:** 2026-09-23
+- **最后活动时间:** 2026-10-03
+
+### [MOSS-Image](https://github.com/OpenMOSS/MOSS-Image)
+
+MOSS 团队官方推出的 5B 参数 DiT 基础图像生成模型，擅长高质量文字渲染与版式布局生成，并支持高效微调。适用于可控文本到图像生成等多种场景。
+
+- **Stars:** ⭐️ 560
+- **Tags:** `text-to-image` `image-generation` `DiT` `text-rendering` `foundation-models` `controllable-generation`
+- **最后活动时间:** 2026-10-16
 
 ### [ComfyUI-OpenClaw](https://github.com/rookiestar28/ComfyUI-OpenClaw)
 
@@ -6152,14 +6208,6 @@ ComfyUI 的 TRELLIS 2 封装节点，支持从图像生成高质量 3D 资产与
 - **Tags:** `comfyui` `image-generation` `agent` `bot` `aigc`
 - **最后活动时间:** 2026-10-13
 
-### [ComfyUIWorkflow](https://github.com/axiomgraph/ComfyUIWorkflow)
-
-一套 ComfyUI 工作流合集，覆盖 AI 绘图与图像生成的常用节点流程。可直接导入 ComfyUI 复用，快速搭建 Stable Diffusion 出图管线。
-
-- **Stars:** ⭐️ 559
-- **Tags:** `ComfyUI` `Stable Diffusion` `Image Generation` `Workflow`
-- **最后活动时间:** 2026-09-29
-
 ### [segmenteverygrain](https://github.com/zsylvester/segmenteverygrain)
 
 基于SAM的颗粒图像实例分割模型，适用于地质和材料科学领域。
@@ -6168,21 +6216,29 @@ ComfyUI 的 TRELLIS 2 封装节点，支持从图像生成高质量 3D 资产与
 - **Tags:** `sam` `instance-segmentation` `grain-analysis` `geoscience`
 - **最后活动时间:** 2026-08-14
 
+### [facefusion-docker](https://github.com/facefusion/facefusion-docker)
+
+业界领先的人脸处理平台，支持人脸替换、唇形同步等多种AI视频处理功能。
+
+- **Stars:** ⭐️ 556
+- **Tags:** `ai` `face-swap` `lip-sync` `docker` `deepfake`
+- **最后活动时间:** 2026-09-30
+
+### [Bonsai-Image-Demo](https://github.com/PrismML-Eng/Bonsai-Image-Demo)
+
+支持本地端侧部署的AI图像生成演示项目，主打1-bit与三值化小型模型。适合在设备上直接运行轻量级图像生成任务。
+
+- **Stars:** ⭐️ 556
+- **Tags:** `image-generation` `on-device-ai` `small-models` `1-bit` `ternary`
+- **最后活动时间:** 2026-09-08
+
 ### [ptlflow](https://github.com/hmorimitsu/ptlflow)
 
 基于 PyTorch Lightning 的光流估计模型库，提供多种预训练模型和权重。
 
 - **Stars:** ⭐️ 555
 - **Tags:** `optical-flow` `pytorch-lightning` `pretrained-models` `computer-vision`
-- **最后活动时间:** 2026-10-11
-
-### [facefusion-docker](https://github.com/facefusion/facefusion-docker)
-
-业界领先的人脸处理平台，支持人脸替换、唇形同步等多种AI视频处理功能。
-
-- **Stars:** ⭐️ 555
-- **Tags:** `ai` `face-swap` `lip-sync` `docker` `deepfake`
-- **最后活动时间:** 2026-09-30
+- **最后活动时间:** 2026-10-18
 
 ### [opentryon](https://github.com/tryonlabs/opentryon)
 
@@ -6191,14 +6247,6 @@ ComfyUI 的 TRELLIS 2 封装节点，支持从图像生成高质量 3D 资产与
 - **Stars:** ⭐️ 555
 - **Tags:** `fashion-ai` `virtual-try-on` `open-source` `toolkit`
 - **最后活动时间:** 2026-10-17
-
-### [Bonsai-Image-Demo](https://github.com/PrismML-Eng/Bonsai-Image-Demo)
-
-支持本地端侧部署的AI图像生成演示项目，主打1-bit与三值化小型模型。适合在设备上直接运行轻量级图像生成任务。
-
-- **Stars:** ⭐️ 555
-- **Tags:** `image-generation` `on-device-ai` `small-models` `1-bit` `ternary`
-- **最后活动时间:** 2026-09-08
 
 ### [2txt](https://github.com/ai-ng/2txt)
 
@@ -6254,7 +6302,7 @@ ICCV 2025论文，从单视图重建多视角一致的场景图像。
 
 - **Stars:** ⭐️ 541
 - **Tags:** `diffusion-models` `novel-view-synthesis` `3d-reconstruction`
-- **最后活动时间:** 2026-04-25
+- **最后活动时间:** 2026-10-18
 
 ### [Pix2Vox](https://github.com/hzxie/Pix2Vox)
 
@@ -6318,7 +6366,7 @@ NeurIPS'25 论文官方仓库，提出联合2D-3D自监督学习方法，能够�
 
 - **Stars:** ⭐️ 535
 - **Tags:** `image-harmonization` `image-composition` `computer-vision` `generative-ai`
-- **最后活动时间:** 2026-09-25
+- **最后活动时间:** 2026-10-03
 
 ### [DeepMetricEye](https://github.com/sunyitong/DeepMetricEye)
 
@@ -6327,6 +6375,14 @@ NeurIPS'25 论文官方仓库，提出联合2D-3D自监督学习方法，能够�
 - **Stars:** ⭐️ 534
 - **Tags:** `computer-vision` `depth-estimation` `metahuman` `pytorch` `vr`
 - **最后活动时间:** 2026-06-19
+
+### [TE_MAN](https://github.com/tl2012tl/TE_MAN)
+
+首个专为ComfyUI打造的漫剧创作插件，集增强生图与生视频于一体，助力AI漫画短剧一站式制作。
+
+- **Stars:** ⭐️ 534
+- **Tags:** `ComfyUI` `Image Generation` `Video Generation` `Comic` `AIGC`
+- **最后活动时间:** 2026-10-10
 
 ### [manhattan_sdf](https://github.com/zju3dv/manhattan_sdf)
 
@@ -6348,7 +6404,7 @@ CVPR 2022 Oral论文，基于曼哈顿世界假设的神经三维场景重建方
 
 基于WebGPU的高斯泼溅平台，支持3D/4D高斯泼溅、神经渲染和扩散模型的世界模型载体。
 
-- **Stars:** ⭐️ 529
+- **Stars:** ⭐️ 530
 - **Tags:** `gaussian-splatting` `webgpu` `neural-rendering` `diffusion-models` `computer-vision`
 - **最后活动时间:** 2026-10-15
 
@@ -6368,6 +6424,14 @@ tait-crt-interface-skill 是一个 Codex 图像生成技能，能将用户上传
 - **Tags:** `Codex` `ImageGen` `CRT` `Skill`
 - **最后活动时间:** 2026-08-11
 
+### [blender-plugin](https://github.com/scenario-labs/blender-plugin)
+
+Scenario官方Blender插件，可在视口中直接生成AI图像、视频、3D模型和PBR材质，并内置本地MCP服务器供AI智能体调用。将生成式AI无缝融入3D创作工作流。
+
+- **Stars:** ⭐️ 522
+- **Tags:** `blender` `generative-ai` `mcp-server` `text-to-image` `text-to-3d` `text-to-video` `agentic-ai`
+- **最后活动时间:** 2026-10-18
+
 ### [ml-mdm](https://github.com/apple-aiml-research/ml-mdm)
 
 以更少数据与算力训练高质量文生图扩散模型的工具库，适合高效图像生成研究与实践。
@@ -6382,7 +6446,7 @@ tait-crt-interface-skill 是一个 Codex 图像生成技能，能将用户上传
 
 - **Stars:** ⭐️ 514
 - **Tags:** `image-generation` `ncnn` `vulkan` `z-image`
-- **最后活动时间:** 2026-09-08
+- **最后活动时间:** 2026-10-14
 
 ### [Puffin](https://github.com/KangLiao929/Puffin)
 
@@ -6399,14 +6463,6 @@ tait-crt-interface-skill 是一个 Codex 图像生成技能，能将用户上传
 - **Stars:** ⭐️ 513
 - **Tags:** `3dgs` `gaussian-splatting` `threejs` `webgl` `viewer` `typescript`
 - **最后活动时间:** 2026-09-11
-
-### [blender-plugin](https://github.com/scenario-labs/blender-plugin)
-
-Scenario官方Blender插件，可在视口中直接生成AI图像、视频、3D模型和PBR材质，并内置本地MCP服务器供AI智能体调用。将生成式AI无缝融入3D创作工作流。
-
-- **Stars:** ⭐️ 513
-- **Tags:** `blender` `generative-ai` `mcp-server` `text-to-image` `text-to-3d` `text-to-video` `agentic-ai`
-- **最后活动时间:** 2026-10-18
 
 ### [XPretrain](https://github.com/microsoft/XPretrain)
 
@@ -6431,14 +6487,6 @@ SIGGRAPH 论文实现：用统一 S³ 场生成可绑定、可蒙皮的可动画
 - **Stars:** ⭐️ 506
 - **Tags:** `3d-generation` `animation` `rigging` `neural-fields`
 - **最后活动时间:** 2026-07-15
-
-### [Comfy-Desktop](https://github.com/Comfy-Org/Comfy-Desktop)
-
-ComfyUI 的官方桌面应用，为 AI 图像生成工作流提供开箱即用的跨平台客户端，内置环境管理与节点更新支持。
-
-- **Stars:** ⭐️ 505
-- **Tags:** `ComfyUI` `Stable Diffusion` `Image Generation` `Desktop App`
-- **最后活动时间:** 2026-09-26
 
 ### [photo2pixel](https://github.com/Jzou44/photo2pixel)
 
@@ -6480,7 +6528,7 @@ Meta推出的CLIP模型实现，在视觉-语言理解任务上表现优异，�
 
 利用AI大模型一键生成高清短视频的自动化工具，支持批量创作和多种视频风格。
 
-- **Stars:** ⭐️ 132.4k
+- **Stars:** ⭐️ 132.7k
 - **Tags:** `AI视频生成` `短视频` `自动化`
 - **最后活动时间:** 2026-10-17
 
@@ -6496,7 +6544,7 @@ Meta推出的CLIP模型实现，在视觉-语言理解任务上表现优异，�
 
 全球首个开源智能体视频生产系统，包含11条流水线、49个工具和400+智能体技能，将AI编程助手转变为完整的视频制作工作室。
 
-- **Stars:** ⭐️ 69.3k
+- **Stars:** ⭐️ 69.5k
 - **Tags:** `agentic-ai` `video-generation` `ffmpeg` `open-source` `python`
 - **最后活动时间:** 2026-10-16
 
@@ -6520,7 +6568,7 @@ AI全自动短视频生成引擎。结合图像生成、TTS等多种AI能力，�
 
 用AI智能体一键克隆爆款视频的完整工作流，可批量替换人脸、文案与B-roll并生成上百个变体。面向创作者的视频自动化与生成工具。
 
-- **Stars:** ⭐️ 23.1k
+- **Stars:** ⭐️ 23.5k
 - **Tags:** `ai-video` `video-generation` `ai-agents` `text-to-video` `video-automation`
 - **最后活动时间:** 2026-10-15
 
@@ -6560,9 +6608,17 @@ AI 短剧漫剧创作工具，自动将小说转化为剧本并生成图片和�
 
 基于 Claude Code 技能驱动的视频生成工具，只需一条命令即可将你刚完成的项目自动生成可分享的发布短视频。非常适合开发者快速展示和推广自己的作品。
 
-- **Stars:** ⭐️ 16.6k
+- **Stars:** ⭐️ 16.7k
 - **Tags:** `claude-code` `video-generation` `agent-skills` `launch-video`
 - **最后活动时间:** 2026-10-13
+
+### [huobao-drama](https://github.com/chatfire-AI/huobao-drama)
+
+基于AI的一站式短剧生成平台，一句话即可生成完整短剧，实现从剧本到成片的全自动化流程。
+
+- **Stars:** ⭐️ 16.3k
+- **Tags:** `video-generation` `ai-video` `drama-generator` `multimodal-ai`
+- **最后活动时间:** 2026-10-05
 
 ### [Duix-Avatar](https://github.com/duixcom/Duix-Avatar)
 
@@ -6571,14 +6627,6 @@ AI 短剧漫剧创作工具，自动将小说转化为剧本并生成图片和�
 - **Stars:** ⭐️ 16.0k
 - **Tags:** `ai-avatar` `digital-human` `video-generation` `open-source`
 - **最后活动时间:** 2026-04-21
-
-### [huobao-drama](https://github.com/chatfire-AI/huobao-drama)
-
-基于AI的一站式短剧生成平台，一句话即可生成完整短剧，实现从剧本到成片的全自动化流程。
-
-- **Stars:** ⭐️ 15.6k
-- **Tags:** `video-generation` `ai-video` `drama-generator` `multimodal-ai`
-- **最后活动时间:** 2026-09-28
 
 ### [waoowaoo](https://github.com/waooAI/waoowaoo)
 
@@ -6612,11 +6660,19 @@ AI 短剧漫剧创作工具，自动将小说转化为剧本并生成图片和�
 - **Tags:** `diffusion-models` `video-generation` `ai`
 - **最后活动时间:** 2026-10-08
 
+### [RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
+
+一条命令即可自动将Reddit帖子生成带配音和字幕的短视频，集成TTS语音合成与自动化剪辑流程。适合快速批量制作社交媒体视频内容。
+
+- **Stars:** ⭐️ 12.5k
+- **Tags:** `reddit` `video-generation` `tts` `automation` `text-to-speech`
+- **最后活动时间:** 2026-10-16
+
 ### [video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)
 
 专为Claude Code和Codex设计的AI视频生成技能，提供上百种镜头配方和动态预览，结合Remotion生成电影级产品视频。
 
-- **Stars:** ⭐️ 12.3k
+- **Stars:** ⭐️ 12.4k
 - **Tags:** `ai-video` `claude-code` `remotion` `video-generation` `ai-agents`
 - **最后活动时间:** 2026-10-17
 
@@ -6648,7 +6704,7 @@ AI驱动的视频解说与剪辑工具，一键生成视频解说并自动完成
 
 实时交互流媒体数字人系统，支持唇形同步与高逼真度虚拟人生成。基于NeRF等技术实现高质量的数字人实时驱动。
 
-- **Stars:** ⭐️ 9.9k
+- **Stars:** ⭐️ 10.0k
 - **Tags:** `aigc` `digital-human` `nerf` `lip-sync` `realtime`
 - **最后活动时间:** 2026-10-09
 
@@ -6658,7 +6714,7 @@ LTX-2音频-视频生成模型的官方推理和LoRA训练工具包。
 
 - **Stars:** ⭐️ 9.8k
 - **Tags:** `generative-ai` `video-generation` `audio-video`
-- **最后活动时间:** 2026-10-13
+- **最后活动时间:** 2026-10-18
 
 ### [autoclip](https://github.com/zhouxiaoka/autoclip)
 
@@ -6672,7 +6728,7 @@ AI驱动的智能视频剪辑工具，自动识别并提取视频高光片段，
 
 美团开源的视频生成基础模型，支持文生视频、图生视频及视频续写等多种生成任务，可产出高质量长视频。
 
-- **Stars:** ⭐️ 8.4k
+- **Stars:** ⭐️ 9.2k
 - **Tags:** `Video-Generation` `Foundation-Model` `Text-to-Video` `Image-to-Video`
 - **最后活动时间:** 2026-05-27
 
@@ -6688,7 +6744,7 @@ AI驱动的智能视频剪辑工具，自动识别并提取视频高光片段，
 
 基于Seedance 2.0的四模态AI电影制作综合生产管线。为创作者提供从脚本到视频的端到端自动化工作流。
 
-- **Stars:** ⭐️ 7.7k
+- **Stars:** ⭐️ 7.8k
 - **Tags:** `ai-filmmaking` `multimodal` `video-generation` `pipeline`
 - **最后活动时间:** 2026-10-03
 
@@ -6708,6 +6764,14 @@ AI驱动的智能视频剪辑工具，自动识别并提取视频高光片段，
 - **Tags:** `ComfyUI` `Video-Generation` `WanVideo` `Diffusion` `Text-to-Video`
 - **最后活动时间:** 2026-05-24
 
+### [awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos)
+
+收集了使用 Claude Opus 5.5 制作的爆款 AI 视频及其背后的完整提示词，并提供实时重制演示。持续更新，是学习 AI 视频生成与提示词工程的绝佳灵感库。
+
+- **Stars:** ⭐️ 6.2k
+- **Tags:** `AI-Video` `Claude` `Prompts` `Creative-Coding` `ThreeJS` `Awesome-List`
+- **最后活动时间:** 2026-10-13
+
 ### [Awesome-Video-Diffusion](https://github.com/showlab/Awesome-Video-Diffusion)
 
 视频扩散模型的精选资源列表，涵盖视频生成、编辑及运动定制等前沿应用。
@@ -6715,14 +6779,6 @@ AI驱动的智能视频剪辑工具，自动识别并提取视频高光片段，
 - **Stars:** ⭐️ 5.8k
 - **Tags:** `video-diffusion` `video-generation` `diffusion-models` `generative-ai`
 - **最后活动时间:** 2026-10-05
-
-### [awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos)
-
-收集了使用 Claude Opus 5.5 制作的爆款 AI 视频及其背后的完整提示词，并提供实时重制演示。持续更新，是学习 AI 视频生成与提示词工程的绝佳灵感库。
-
-- **Stars:** ⭐️ 5.8k
-- **Tags:** `AI-Video` `Claude` `Prompts` `Creative-Coding` `ThreeJS` `Awesome-List`
-- **最后活动时间:** 2026-10-13
 
 ### [short-video-factory](https://github.com/YILS-LIN/short-video-factory)
 
@@ -6754,7 +6810,7 @@ AI Agent 驱动的开源视频生成工作台，支持从小说到视频的全�
 
 - **Stars:** ⭐️ 5.6k
 - **Tags:** `ai-video-generator` `ai-agent` `storyboard` `video-generation` `veo`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [printfilm](https://github.com/yi1108/printfilm)
 
@@ -6764,6 +6820,14 @@ AI短视频营销与AI短剧创作平台，帮助内容创作者高效生产视�
 - **Tags:** `ai-video` `video-generation` `short-video` `marketing`
 - **最后活动时间:** 2026-10-15
 
+### [moyin-creator](https://github.com/MemeCalculate/moyin-creator)
+
+AI影视生产级工具，支持Seedance 2.0，实现从剧本到成片的全流程批量化生产。
+
+- **Stars:** ⭐️ 4.7k
+- **Tags:** `视频生成` `影视制作` `AI工具`
+- **最后活动时间:** 2026-08-27
+
 ### [html-video](https://github.com/nexu-io/html-video)
 
 面向编程代理的程序化视频生成工具，可将HTML、CSS和数据转换为真实的MP4视频。内置21个模板和可插拔渲染引擎，支持AI生成原声带。
@@ -6772,14 +6836,6 @@ AI短视频营销与AI短剧创作平台，帮助内容创作者高效生产视�
 - **Tags:** `video-generation` `html-to-video` `ai-agent` `ffmpeg`
 - **最后活动时间:** 2026-06-21
 
-### [moyin-creator](https://github.com/MemeCalculate/moyin-creator)
-
-AI影视生产级工具，支持Seedance 2.0，实现从剧本到成片的全流程批量化生产。
-
-- **Stars:** ⭐️ 4.6k
-- **Tags:** `视频生成` `影视制作` `AI工具`
-- **最后活动时间:** 2026-08-27
-
 ### [lingbot-world](https://github.com/Robbyant/lingbot-world)
 
 推进开源世界模型发展的项目，专注于视频生成与AIGC。
@@ -6787,6 +6843,14 @@ AI影视生产级工具，支持Seedance 2.0，实现从剧本到成片的全流
 - **Stars:** ⭐️ 4.5k
 - **Tags:** `world-models` `video-generation` `aigc`
 - **最后活动时间:** 2026-07-09
+
+### [huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion)
+
+艺术动画 AI 技能包，内置 35 种艺术风格与 9 种解说语法，让智能体用代码让画作动起来。适合创意工作者快速生成艺术风格动画。
+
+- **Stars:** ⭐️ 4.4k
+- **Tags:** `Art-Animation` `Agent-Skills` `Creative-Coding` `AI-Art`
+- **最后活动时间:** 2026-10-16
 
 ### [ComfyUI-LTXVideo](https://github.com/Lightricks/ComfyUI-LTXVideo)
 
@@ -6820,6 +6884,14 @@ CVPR 2026 论文项目，专注于直播场景下的高表现力人像图像动�
 - **Tags:** `ai` `video-generation` `motion-comic` `short-film`
 - **最后活动时间:** 2026-08-11
 
+### [kimodo](https://github.com/nv-tlabs/kimodo)
+
+NVIDIA官方运动扩散模型，专注于生成高质量的人形角色动作序列。
+
+- **Stars:** ⭐️ 3.8k
+- **Tags:** `运动生成` `扩散模型` `角色动画`
+- **最后活动时间:** 2026-10-15
+
 ### [MAGI-1](https://github.com/SandAI-org/MAGI-1)
 
 大规模自回归视频生成模型，结合扩散模型实现高质量视频生成。支持从文本或图像生成连贯的视频内容。
@@ -6827,14 +6899,6 @@ CVPR 2026 论文项目，专注于直播场景下的高表现力人像图像动�
 - **Stars:** ⭐️ 3.8k
 - **Tags:** `autoregressive` `diffusion-models` `video-generation`
 - **最后活动时间:** 2026-06-17
-
-### [kimodo](https://github.com/nv-tlabs/kimodo)
-
-NVIDIA官方运动扩散模型，专注于生成高质量的人形角色动作序列。
-
-- **Stars:** ⭐️ 3.7k
-- **Tags:** `运动生成` `扩散模型` `角色动画`
-- **最后活动时间:** 2026-09-22
 
 ### [reelmimic](https://github.com/edenfunf/reelmimic)
 
@@ -6908,6 +6972,14 @@ AI 视频解说技能封装，支持 Claude/Codex 等工具调用，可自动生
 - **Tags:** `claude-code-skill` `ai-video` `narration` `agent-skills`
 - **最后活动时间:** 2026-07-05
 
+### [lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar)
+
+39 种影片风格提示词库，每种风格均附有由 Claude Opus 纯代码生成的样片与导演指南，让你的 AI 智能体来执导短片创作。
+
+- **Stars:** ⭐️ 3.0k
+- **Tags:** `ai-video` `claude` `prompt-library` `creative-coding` `filmmaking`
+- **最后活动时间:** 2026-10-18
+
 ### [MultiTalk](https://github.com/MeiGen-AI/MultiTalk)
 
 NeurIPS 2025论文项目，实现音频驱动的多人对话视频生成。支持根据音频自动生成多角色的交互式对话视频。
@@ -6916,27 +6988,19 @@ NeurIPS 2025论文项目，实现音频驱动的多人对话视频生成。支�
 - **Tags:** `video-generation` `audio-driven` `neurips-2025`
 - **最后活动时间:** 2026-05-22
 
-### [lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar)
-
-39 种影片风格提示词库，每种风格均附有由 Claude Opus 纯代码生成的样片与导演指南，让你的 AI 智能体来执导短片创作。
-
-- **Stars:** ⭐️ 2.9k
-- **Tags:** `ai-video` `claude` `prompt-library` `creative-coding` `filmmaking`
-- **最后活动时间:** 2026-10-18
-
 ### [LightX2V](https://github.com/ModelTC/LightX2V)
 
 轻量级图像到视频生成推理框架，支持自回归扩散模型和多种视频生成模型的高效推理部署。
 
 - **Stars:** ⭐️ 2.9k
 - **Tags:** `Video Generation` `Diffusion` `Inference Framework`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [fframes](https://github.com/dmtrKovalenko/fframes)
 
 一个真正快速的程序化视频渲染框架，主打面向 AI 智能体的视频生成工作流，可视为 Remotion 的高性能替代方案。
 
-- **Stars:** ⭐️ 2.8k
+- **Stars:** ⭐️ 2.9k
 - **Tags:** `video-rendering` `agentic-ai` `motion-graphics` `remotion`
 - **最后活动时间:** 2026-10-18
 
@@ -6970,7 +7034,7 @@ Seedance 2.0 AI视频生成资源的精选合集，包含高质量提示词、AP
 
 - **Stars:** ⭐️ 2.7k
 - **Tags:** `ai` `video-generation` `seedance` `prompt-engineering`
-- **最后活动时间:** 2026-10-18
+- **最后活动时间:** 2026-10-19
 
 ### [lyra](https://github.com/nv-tlabs/lyra)
 
@@ -6988,6 +7052,22 @@ ICLR 2026论文，通过视频扩散模型自蒸馏实现3D场景重建。
 - **Tags:** `video-generation` `storyboard` `ai-script`
 - **最后活动时间:** 2026-09-21
 
+### [Matrix-Game](https://github.com/SkyworkAI/Matrix-Game)
+
+开源的实时流式交互世界模型，支持长视频生成和交互式视频应用。
+
+- **Stars:** ⭐️ 2.6k
+- **Tags:** `World Model` `Video Generation` `Interactive`
+- **最后活动时间:** 2026-10-16
+
+### [anything2explainer](https://github.com/Vincentwei1021/anything2explainer)
+
+基于 Claude Code 的智能体技能，可将任意主题自动生成带 TTS 旁白、字幕与章节进度条的动态图形讲解视频。
+
+- **Stars:** ⭐️ 2.6k
+- **Tags:** `Text-to-Video` `AI-Agents` `Claude-Code` `TTS` `Remotion`
+- **最后活动时间:** 2026-09-18
+
 ### [Stable-Video-Infinity](https://github.com/vita-epfl/Stable-Video-Infinity)
 
 ICLR 2026 Oral论文项目，通过错误回收机制实现无限长视频生成。支持音频驱动的人脸生成和长视频扩散变换。
@@ -7003,22 +7083,6 @@ ICLR 2026 Oral论文项目，通过错误回收机制实现无限长视频生成
 - **Stars:** ⭐️ 2.6k
 - **Tags:** `3d-motion` `character-animation` `human-motion` `deep-learning`
 - **最后活动时间:** 2026-07-18
-
-### [anything2explainer](https://github.com/Vincentwei1021/anything2explainer)
-
-基于 Claude Code 的智能体技能，可将任意主题自动生成带 TTS 旁白、字幕与章节进度条的动态图形讲解视频。
-
-- **Stars:** ⭐️ 2.6k
-- **Tags:** `Text-to-Video` `AI-Agents` `Claude-Code` `TTS` `Remotion`
-- **最后活动时间:** 2026-09-18
-
-### [Matrix-Game](https://github.com/SkyworkAI/Matrix-Game)
-
-开源的实时流式交互世界模型，支持长视频生成和交互式视频应用。
-
-- **Stars:** ⭐️ 2.6k
-- **Tags:** `World Model` `Video Generation` `Interactive`
-- **最后活动时间:** 2026-10-16
 
 ### [LiveAvatar](https://github.com/Alibaba-Quark/LiveAvatar)
 
@@ -7044,14 +7108,6 @@ ICLR 2026 Oral论文项目，通过错误回收机制实现无限长视频生成
 - **Tags:** `video-enhancement` `upscaling` `interpolation` `real-esrgan` `rife`
 - **最后活动时间:** 2026-09-02
 
-### [VideoX-Fun](https://github.com/aigc-apps/VideoX-Fun)
-
-灵活的视频生成框架，支持任意分辨率视频生成及图像到视频转换。
-
-- **Stars:** ⭐️ 2.3k
-- **Tags:** `Video Generation` `Image-to-Video` `AI Framework`
-- **最后活动时间:** 2026-09-29
-
 ### [claude-code-video-toolkit](https://github.com/digitalsamba/claude-code-video-toolkit)
 
 AI原生视频生产工具包，集成Claude Code、ElevenLabs、Qwen-TTS等，支持程序化视频编辑与生成。
@@ -7060,11 +7116,19 @@ AI原生视频生产工具包，集成Claude Code、ElevenLabs、Qwen-TTS等，�
 - **Tags:** `ai-video-generator` `claude-code` `video-production` `text-to-speech` `remotion`
 - **最后活动时间:** 2026-10-12
 
+### [VideoX-Fun](https://github.com/aigc-apps/VideoX-Fun)
+
+灵活的视频生成框架，支持任意分辨率视频生成及图像到视频转换。
+
+- **Stars:** ⭐️ 2.3k
+- **Tags:** `Video Generation` `Image-to-Video` `AI Framework`
+- **最后活动时间:** 2026-09-29
+
 ### [videoeditor](https://github.com/trykimu/videoeditor)
 
 AI驱动的视频编辑创意助手，基于React和Remotion构建的开源视频编辑器。
 
-- **Stars:** ⭐️ 2.2k
+- **Stars:** ⭐️ 2.3k
 - **Tags:** `video-editor` `video-editing` `ai` `react` `remotion` `typescript`
 - **最后活动时间:** 2026-09-10
 
@@ -7130,7 +7194,7 @@ Seedance 2.0视频生成提示词精选合集，包含500+电影、动漫、UGC�
 
 - **Stars:** ⭐️ 2.1k
 - **Tags:** `awesome-list` `prompt-library` `ai-video` `video-generation`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [ComfyUI_MiniMaxH3_Director](https://github.com/AIMixer/ComfyUI_MiniMaxH3_Director)
 
@@ -7139,6 +7203,14 @@ Seedance 2.0视频生成提示词精选合集，包含500+电影、动漫、UGC�
 - **Stars:** ⭐️ 2.1k
 - **Tags:** `ComfyUI` `MiniMax` `Video-Generation` `Director`
 - **最后活动时间:** 2026-09-30
+
+### [FreeVideo](https://github.com/FlashML-org/FreeVideo)
+
+在你现有的电脑上即可生成视频：FreeVideo 让 MiniMax H3 最低仅需 8 GB 显存和 16 GB 内存即可运行，并根据硬件自动适配加速路径。低门槛的本地视频生成方案，适合消费级设备用户。
+
+- **Stars:** ⭐️ 2.1k
+- **Tags:** `video-generation` `diffusion-models` `inference` `minimax-h3` `local-inference`
+- **最后活动时间:** 2026-10-18
 
 ### [LTX-Desktop](https://github.com/Lightricks/LTX-Desktop)
 
@@ -7163,14 +7235,6 @@ Seedance 2.0视频生成提示词精选合集，包含500+电影、动漫、UGC�
 - **Stars:** ⭐️ 2.1k
 - **Tags:** `comfyui` `custom-nodes` `video-generation`
 - **最后活动时间:** 2026-07-30
-
-### [FreeVideo](https://github.com/FlashML-org/FreeVideo)
-
-在你现有的电脑上即可生成视频：FreeVideo 让 MiniMax H3 最低仅需 8 GB 显存和 16 GB 内存即可运行，并根据硬件自动适配加速路径。低门槛的本地视频生成方案，适合消费级设备用户。
-
-- **Stars:** ⭐️ 2.1k
-- **Tags:** `video-generation` `diffusion-models` `inference` `minimax-h3` `local-inference`
-- **最后活动时间:** 2026-10-17
 
 ### [Anime4KCPP](https://github.com/TianZerL/Anime4KCPP)
 
@@ -7228,14 +7292,6 @@ TMLR 2025论文实现，潜在扩散Transformer用于视频生成任务。
 - **Tags:** `video-generation` `diffusion` `transformer`
 - **最后活动时间:** 2026-08-10
 
-### [awesome-talking-head-generation](https://github.com/harlanhong/awesome-talking-head-generation)
-
-数字人说话头像生成技术资源合集，涵盖人脸重演、图像动画、运动迁移等前沿方向。
-
-- **Stars:** ⭐️ 1.9k
-- **Tags:** `talking-head` `face-reenactment` `image-animation` `motion-transfer` `deep-learning`
-- **最后活动时间:** 2026-04-27
-
 ### [video-search-and-summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization)
 
 大规模视频检索与摘要蓝图，支持实时或存档视频的智能分析、摘要生成和交互式问答，结合LLM、RAG和VLM技术。
@@ -7244,13 +7300,13 @@ TMLR 2025论文实现，潜在扩散Transformer用于视频生成任务。
 - **Tags:** `video-search` `video-summarization` `rag` `vlm` `llm`
 - **最后活动时间:** 2026-10-18
 
-### [Higgsfield CLI](https://github.com/netlify/cli)
+### [awesome-talking-head-generation](https://github.com/harlanhong/awesome-talking-head-generation)
 
-Higgsfield 官方命令行工具，便于在终端中调用其电影级 AI 视频生成能力，并将创作流程集成到自动化工作流。
+数字人说话头像生成技术资源合集，涵盖人脸重演、图像动画、运动迁移等前沿方向。
 
 - **Stars:** ⭐️ 1.9k
-- **Tags:** `cli` `ai-video` `video-generation` `higgsfield`
-- **最后活动时间:** 2026-10-17
+- **Tags:** `talking-head` `face-reenactment` `image-animation` `motion-transfer` `deep-learning`
+- **最后活动时间:** 2026-04-27
 
 ### [FlashVSR](https://github.com/OpenImagingLab/FlashVSR)
 
@@ -7259,6 +7315,14 @@ Higgsfield 官方命令行工具，便于在终端中调用其电影级 AI 视�
 - **Stars:** ⭐️ 1.9k
 - **Tags:** `video-super-resolution` `diffusion-models` `real-time` `video-restoration`
 - **最后活动时间:** 2026-10-16
+
+### [Higgsfield CLI](https://github.com/netlify/cli)
+
+Higgsfield 官方命令行工具，便于在终端中调用其电影级 AI 视频生成能力，并将创作流程集成到自动化工作流。
+
+- **Stars:** ⭐️ 1.9k
+- **Tags:** `cli` `ai-video` `video-generation` `higgsfield`
+- **最后活动时间:** 2026-10-17
 
 ### [Higgsfield CLI](https://github.com/netlify/cli)
 
@@ -7276,14 +7340,6 @@ AI驱动的动画漫画生成器，可将剧本转化为完全动画化的视频
 - **Tags:** `ai-animation` `text-to-video` `storytelling-ai` `video-generation`
 - **最后活动时间:** 2026-04-27
 
-### [GVHMR](https://github.com/zju3dv/GVHMR)
-
-基于重力-视图坐标系的世界级人体动作恢复算法，能从视频中精准还原人体运动。该项目发表于SIGGRAPH Asia 2024及TPAMI 2026，具有极高的学术与工程价值。
-
-- **Stars:** ⭐️ 1.9k
-- **Tags:** `human-motion-recovery` `computer-vision` `motion-capture` `3d-reconstruction`
-- **最后活动时间:** 2026-05-21
-
 ### [ComfyUI-VideoHelperSuite](https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite)
 
 为ComfyUI提供视频工作流相关的自定义节点扩展。简化视频生成与处理流程。
@@ -7291,6 +7347,14 @@ AI驱动的动画漫画生成器，可将剧本转化为完全动画化的视频
 - **Stars:** ⭐️ 1.9k
 - **Tags:** `comfyui` `video-workflow` `custom-nodes`
 - **最后活动时间:** 2026-09-02
+
+### [GVHMR](https://github.com/zju3dv/GVHMR)
+
+基于重力-视图坐标系的世界级人体动作恢复算法，能从视频中精准还原人体运动。该项目发表于SIGGRAPH Asia 2024及TPAMI 2026，具有极高的学术与工程价值。
+
+- **Stars:** ⭐️ 1.9k
+- **Tags:** `human-motion-recovery` `computer-vision` `motion-capture` `3d-reconstruction`
+- **最后活动时间:** 2026-05-21
 
 ### [SystemAnimatorOnline](https://github.com/ButzYung/SystemAnimatorOnline)
 
@@ -7323,6 +7387,14 @@ CVPR 2024 提出的实时 4D 视角合成算法，支持 4K 分辨率的高质�
 - **Stars:** ⭐️ 1.8k
 - **Tags:** `4d-view-synthesis` `real-time-rendering` `computer-vision` `cvpr-2024`
 - **最后活动时间:** 2026-09-15
+
+### [manimgx](https://github.com/academa-labs/manimgx)
+
+面向AI智能体的动画引擎，基于Rust GPU内核与Manim风格的Python API，可高速生成数学讲解与3D动画视频。为智能体自动产出教学/演示视频提供了高性能工具链。
+
+- **Stars:** ⭐️ 1.8k
+- **Tags:** `manim` `animation` `video-generation` `gpu` `rust` `agents`
+- **最后活动时间:** 2026-10-15
 
 ### [Auto-Synced-Translated-Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs)
 
@@ -7364,14 +7436,6 @@ AI驱动的视频播客创作工具，支持Bilibili和YouTube平台，集成6�
 - **Tags:** `Claude-Code` `Agent-Skills` `Video-Generation` `Motion-Design` `Remotion`
 - **最后活动时间:** 2026-10-12
 
-### [Video-Materials-AutoGEN-Workstation](https://github.com/Norsico/Video-Materials-AutoGEN-Workstation)
-
-集成内容策划、AI文案生成、TTS配音、图片合成、ASR字幕提取于一体的短视频生成工作站。
-
-- **Stars:** ⭐️ 1.6k
-- **Tags:** `video-generation` `tts` `ai-content` `asr`
-- **最后活动时间:** 2026-06-02
-
 ### [ai-moive-studio](https://github.com/869413421/ai-moive-studio)
 
 AI电影生成工作流Agent，输入剧本即可自动完成分镜生成、画面与音频素材生成、视频合成全流程，让个人创作者也能制作电影级作品。
@@ -7379,6 +7443,14 @@ AI电影生成工作流Agent，输入剧本即可自动完成分镜生成、画�
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `AI视频` `电影生成` `工作流Agent`
 - **最后活动时间:** 2026-09-16
+
+### [Video-Materials-AutoGEN-Workstation](https://github.com/Norsico/Video-Materials-AutoGEN-Workstation)
+
+集成内容策划、AI文案生成、TTS配音、图片合成、ASR字幕提取于一体的短视频生成工作站。
+
+- **Stars:** ⭐️ 1.6k
+- **Tags:** `video-generation` `tts` `ai-content` `asr`
+- **最后活动时间:** 2026-06-02
 
 ### [HY-WorldPlay](https://github.com/Tencent-Hunyuan/HY-WorldPlay)
 
@@ -7412,14 +7484,6 @@ SIGGRAPH Asia 2023发表的神经体积视频研究加速框架，支持高效�
 - **Tags:** `depth-estimation` `parallax` `image-to-video` `3d-effect`
 - **最后活动时间:** 2026-10-10
 
-### [Fast-FoundationStereo](https://github.com/NVlabs/Fast-FoundationStereo)
-
-一种快速的基础立体匹配模型，可实现实时零样本立体匹配。该论文提出了高效的深度估计方案。
-
-- **Stars:** ⭐️ 1.5k
-- **Tags:** `stereo-matching` `depth-estimation` `computer-vision` `real-time`
-- **最后活动时间:** 2026-09-11
-
 ### [BeefTV](https://github.com/glanderness/BeefTV)
 
 面向 AI 时代的视频创作工作台，在无限画布中与 Agent 自由连接创意、模型与素材。支持 AI 图像与视频生成，打造高性能、轻量级的本地优先创作体验。
@@ -7427,6 +7491,14 @@ SIGGRAPH Asia 2023发表的神经体积视频研究加速框架，支持高效�
 - **Stars:** ⭐️ 1.5k
 - **Tags:** `ai-video` `ai-image-generation` `aigc` `infinite-canvas` `ai-workspace` `creative-tools` `local-first`
 - **最后活动时间:** 2026-10-18
+
+### [Fast-FoundationStereo](https://github.com/NVlabs/Fast-FoundationStereo)
+
+一种快速的基础立体匹配模型，可实现实时零样本立体匹配。该论文提出了高效的深度估计方案。
+
+- **Stars:** ⭐️ 1.5k
+- **Tags:** `stereo-matching` `depth-estimation` `computer-vision` `real-time`
+- **最后活动时间:** 2026-09-11
 
 ### [py-motmetrics](https://github.com/cheind/py-motmetrics)
 
@@ -7452,14 +7524,6 @@ CVPR 2025 Highlight论文，实现3D感知的世界一致性视频生成，支�
 - **Tags:** `video-generation` `3d-aware` `camera-control` `diffusion-model` `cvpr2025`
 - **最后活动时间:** 2026-06-15
 
-### [4DAnyone](https://github.com/ant-research/4DAnyone)
-
-SIGGRAPH Asia 2026 论文项目，可从普通单目视频中生成任意人物的4D动态模型。基于4D高斯泼溅与生成式AI技术。
-
-- **Stars:** ⭐️ 1.4k
-- **Tags:** `4d-gaussian-splatting` `generative-ai` `video-generation` `monocular-video` `siggraph`
-- **最后活动时间:** 2026-10-14
-
 ### [gbro-collage-broll](https://github.com/pyang5166/gbro-collage-broll)
 
 利用Gemini大模型生成半调纸拼贴风格B-roll视频的智能体技能工具。支持三闸门审批机制和首尾帧动画组装。
@@ -7467,6 +7531,14 @@ SIGGRAPH Asia 2026 论文项目，可从普通单目视频中生成任意人物�
 - **Stars:** ⭐️ 1.4k
 - **Tags:** `agent-skill` `broll` `gemini` `video-generation` `paper-collage`
 - **最后活动时间:** 2026-07-15
+
+### [4DAnyone](https://github.com/ant-research/4DAnyone)
+
+SIGGRAPH Asia 2026 论文项目，可从普通单目视频中生成任意人物的4D动态模型。基于4D高斯泼溅与生成式AI技术。
+
+- **Stars:** ⭐️ 1.4k
+- **Tags:** `4d-gaussian-splatting` `generative-ai` `video-generation` `monocular-video` `siggraph`
+- **最后活动时间:** 2026-10-14
 
 ### [dlss5-visual-enhancer](https://github.com/Merserk/dlss5-visual-enhancer)
 
@@ -7492,6 +7564,14 @@ NVIDIA Cosmos 世界基础模型，专注于通过视频形式模拟和预测世
 - **Tags:** `video-generation` `video-editing` `mllm` `dit`
 - **最后活动时间:** 2026-08-13
 
+### [pireel](https://github.com/pireel/pireel)
+
+开源的无后端 AI 视频编辑器，专为数字人视频设计，支持故事板、动态字幕及浏览器内导出。可通过 MCP 协议被任意 AI Agent 驱动。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `ai-video` `video-editor` `talking-head` `mcp` `webcodecs`
+- **最后活动时间:** 2026-09-18
+
 ### [ComfyUI_MiniMaxH3_Director](https://github.com/huangserva/ComfyUI_MiniMaxH3_Director)
 
 基于ComfyUI的MiniMax H3导演工作流，将AI视频生成能力封装为可视化节点流程。适合创作者快速搭建专业级AI视频生产管线。
@@ -7508,6 +7588,14 @@ NVIDIA Cosmos 世界基础模型，专注于通过视频形式模拟和预测世
 - **Tags:** `NeRF` `Human-Reconstruction` `Neural-Rendering` `ECCV`
 - **最后活动时间:** 2026-09-11
 
+### [ComfyUI-H3-Motion-Context](https://github.com/NikoDemon80/ComfyUI-H3-Motion-Context)
+
+为 MiniMax H3 提供 ComfyUI 视频片段链式拼接节点，实现跨片段的运动与音频连续性。
+
+- **Stars:** ⭐️ 1.3k
+- **Tags:** `comfyui` `video-generation` `minimax` `nodes`
+- **最后活动时间:** 2026-10-18
+
 ### [StableAvatar](https://github.com/Francis-Rings/StableAvatar)
 
 首个端到端视频扩散Transformer，可生成无限长度的高质量音频驱动虚拟人视频。
@@ -7516,13 +7604,13 @@ NVIDIA Cosmos 世界基础模型，专注于通过视频形式模拟和预测世
 - **Tags:** `video-generation` `diffusion` `avatar` `transformer`
 - **最后活动时间:** 2026-09-25
 
-### [ComfyUI-H3-Motion-Context](https://github.com/NikoDemon80/ComfyUI-H3-Motion-Context)
+### [autoshorts](https://github.com/JayWebtech/autoshorts)
 
-为 MiniMax H3 提供 ComfyUI 视频片段链式拼接节点，实现跨片段的运动与音频连续性。
+本地优先的桌面应用，利用AI驱动的爆款排名技术将长音视频自动转换为竖屏短视频。
 
 - **Stars:** ⭐️ 1.3k
-- **Tags:** `comfyui` `video-generation` `minimax` `nodes`
-- **最后活动时间:** 2026-09-06
+- **Tags:** `ai-video` `shorts-generator` `desktop-app` `local-first`
+- **最后活动时间:** 2026-10-11
 
 ### [Tora](https://github.com/alibaba/Tora)
 
@@ -7531,14 +7619,6 @@ CVPR2025论文，面向轨迹的视频生成Diffusion Transformer，实现精确
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `video-generation` `diffusion-transformer` `trajectory-control`
 - **最后活动时间:** 2026-07-27
-
-### [pireel](https://github.com/pireel/pireel)
-
-开源的无后端 AI 视频编辑器，专为数字人视频设计，支持故事板、动态字幕及浏览器内导出。可通过 MCP 协议被任意 AI Agent 驱动。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `ai-video` `video-editor` `talking-head` `mcp` `webcodecs`
-- **最后活动时间:** 2026-09-18
 
 ### [SoulX-LiveAct](https://github.com/Soul-AILab/SoulX-LiveAct)
 
@@ -7556,14 +7636,6 @@ ICML 2024 & TPAMI 2026 论文实现，利用事件相机驱动视频超分辨率
 - **Tags:** `video-super-resolution` `event-camera` `pytorch` `computational-photography`
 - **最后活动时间:** 2026-06-11
 
-### [short-video-generator-AI](https://github.com/pierrenade/short-video-generator-AI)
-
-开源AI短视频生成工具，可将YouTube长视频自动转化为病毒式短视频。集成高光检测、字幕、翻译与配音等一站式能力。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `AI-Video` `Video-Generation` `Short-Video` `Python`
-- **最后活动时间:** 2026-09-07
-
 ### [torchcodec](https://github.com/meta-pytorch/torchcodec)
 
 PyTorch媒体编解码库，提供视频和音频的解码与编码功能。
@@ -7571,6 +7643,14 @@ PyTorch媒体编解码库，提供视频和音频的解码与编码功能。
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `pytorch` `video` `audio` `codec` `media-processing`
 - **最后活动时间:** 2026-10-17
+
+### [short-video-generator-AI](https://github.com/pierrenade/short-video-generator-AI)
+
+开源AI短视频生成工具，可将YouTube长视频自动转化为病毒式短视频。集成高光检测、字幕、翻译与配音等一站式能力。
+
+- **Stars:** ⭐️ 1.2k
+- **Tags:** `AI-Video` `Video-Generation` `Short-Video` `Python`
+- **最后活动时间:** 2026-09-07
 
 ### [handcrafted-persona-engine](https://github.com/fagenorn/handcrafted-persona-engine)
 
@@ -7588,6 +7668,14 @@ CVPR2023多目标跟踪算法，对遮挡和非线性运动具有强鲁棒性，
 - **Tags:** `object-tracking` `computer-vision` `deep-learning` `tracking`
 - **最后活动时间:** 2026-04-21
 
+### [JJYB_AI_VideoAutoCut](https://github.com/jianjieyiban/JJYB_AI_VideoAutoCut)
+
+智能视频自动剪辑与AI解说工具，支持离线TTS、原创解说和AI配音。
+
+- **Stars:** ⭐️ 1.1k
+- **Tags:** `video-editing` `tts` `ai-video` `auto-editing`
+- **最后活动时间:** 2026-10-18
+
 ### [ComfyUI_Sonic](https://github.com/smthemex/ComfyUI_Sonic)
 
 Sonic是一种专注于肖像动画中全局音频感知的方法，可通过ComfyUI使用。
@@ -7602,15 +7690,7 @@ Sonic是一种专注于肖像动画中全局音频感知的方法，可通过Com
 
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `Video Generation` `Audio Generation` `Multimodal`
-- **最后活动时间:** 2026-10-17
-
-### [SoulX-FlashHead](https://github.com/Soul-AILab/SoulX-FlashHead)
-
-一个统一的13亿参数框架，专为高保真、无限长度和实时流媒体肖像视频生成而设计。支持高质量的实时流媒体人物视频生成。
-
-- **Stars:** ⭐️ 1.1k
-- **Tags:** `Portrait-Generation` `Streaming-Video` `Real-time` `Generative-AI`
-- **最后活动时间:** 2026-05-28
+- **最后活动时间:** 2026-10-18
 
 ### [movie-narrator](https://github.com/zcbacxc/movie-narrator)
 
@@ -7620,13 +7700,13 @@ Sonic是一种专注于肖像动画中全局音频感知的方法，可通过Com
 - **Tags:** `LLM` `TTS` `Video Generation`
 - **最后活动时间:** 2026-09-16
 
-### [JJYB_AI_VideoAutoCut](https://github.com/jianjieyiban/JJYB_AI_VideoAutoCut)
+### [SoulX-FlashHead](https://github.com/Soul-AILab/SoulX-FlashHead)
 
-智能视频自动剪辑与AI解说工具，支持离线TTS、原创解说和AI配音。
+一个统一的13亿参数框架，专为高保真、无限长度和实时流媒体肖像视频生成而设计。支持高质量的实时流媒体人物视频生成。
 
 - **Stars:** ⭐️ 1.1k
-- **Tags:** `video-editing` `tts` `ai-video` `auto-editing`
-- **最后活动时间:** 2026-08-09
+- **Tags:** `Portrait-Generation` `Streaming-Video` `Real-time` `Generative-AI`
+- **最后活动时间:** 2026-05-28
 
 ### [SCAIL](https://github.com/zai-org/SCAIL)
 
@@ -7636,14 +7716,6 @@ CVPR 2026论文，通过上下文学习实现工作室级别的角色动画生�
 - **Tags:** `character-animation` `video-generation` `in-context-learning` `pose-estimation`
 - **最后活动时间:** 2026-05-06
 
-### [bmf](https://github.com/BabitMF/bmf)
-
-字节跳动开源的跨平台多媒体处理框架，支持GPU加速、AI推理、转码和直播视频流处理。
-
-- **Stars:** ⭐️ 1.0k
-- **Tags:** `视频处理` `AI推理` `跨平台`
-- **最后活动时间:** 2026-08-26
-
 ### [StoryToolkitAI](https://github.com/octimot/StoryToolkitAI)
 
 AI驱动的视频编辑工具，集成ChatGPT实现转录、内容理解和智能搜索功能。
@@ -7652,12 +7724,28 @@ AI驱动的视频编辑工具，集成ChatGPT实现转录、内容理解和智�
 - **Tags:** `ai` `chatgpt` `video-processing` `speech-recognition` `editing`
 - **最后活动时间:** 2026-07-28
 
+### [bmf](https://github.com/BabitMF/bmf)
+
+字节跳动开源的跨平台多媒体处理框架，支持GPU加速、AI推理、转码和直播视频流处理。
+
+- **Stars:** ⭐️ 1.0k
+- **Tags:** `视频处理` `AI推理` `跨平台`
+- **最后活动时间:** 2026-08-26
+
 ### [clipforge](https://github.com/xixihhhh/clipforge)
 
 开源 AI 电商短视频生成工具，上传商品图即可自动提炼卖点、生成种草脚本并配音配字幕，一键产出带货短视频。支持本地自部署，无水印批量出片。
 
 - **Stars:** ⭐️ 1.0k
 - **Tags:** `ai-video-generator` `text-to-video` `ai-voiceover` `ecommerce` `self-hosted`
+- **最后活动时间:** 2026-10-08
+
+### [Genjustsu-Open-Source-Workflow](https://github.com/sirioberati/Genjustsu-Open-Source-Workflow)
+
+开源AI视频替换工作流，结合深度图、SAM分割、面部网格与音频处理，配合Seedance实现角色与物体的视频替换。提供本地Web UI用于输入准备、遮罩审核、生成预览及保留原声导出。
+
+- **Stars:** ⭐️ 1.0k
+- **Tags:** `video-generation` `sam` `segmentation` `depth-maps` `seedance` `ai-video` `workflow`
 - **最后活动时间:** 2026-10-08
 
 ### [flowkit](https://github.com/crisng95/flowkit)
@@ -7676,21 +7764,21 @@ AI智能体驱动的视频内容创作工具，旨在自动化并优化手动视
 - **Tags:** `diffusion-models` `video-generation` `autoregressive`
 - **最后活动时间:** 2026-10-03
 
+### [reelbench-skills](https://github.com/eternityspring/reelbench-skills)
+
+面向 AI 视频的学习笔记与工具技能集，覆盖镜头解析、视频分析与 FFmpeg 工作流。
+
+- **Stars:** ⭐️ 1.0k
+- **Tags:** `AI-Video` `Claude-Skills` `FFmpeg` `Video-Analysis`
+- **最后活动时间:** 2026-10-09
+
 ### [StoryGen-Atelier](https://github.com/0xsline/StoryGen-Atelier)
 
 AI 驱动的分镜与视频生成工具，结合 Gemini 生成分镜文本和画面，使用 Veo 生成过渡视频片段。
 
-- **Stars:** ⭐️ 994
+- **Stars:** ⭐️ 995
 - **Tags:** `Video Generation` `Gemini` `Veo` `Storyboard`
 - **最后活动时间:** 2026-09-17
-
-### [Genjustsu-Open-Source-Workflow](https://github.com/sirioberati/Genjustsu-Open-Source-Workflow)
-
-开源AI视频替换工作流，结合深度图、SAM分割、面部网格与音频处理，配合Seedance实现角色与物体的视频替换。提供本地Web UI用于输入准备、遮罩审核、生成预览及保留原声导出。
-
-- **Stars:** ⭐️ 988
-- **Tags:** `video-generation` `sam` `segmentation` `depth-maps` `seedance` `ai-video` `workflow`
-- **最后活动时间:** 2026-10-08
 
 ### [segment-anything-video](https://github.com/kadirnar/segment-anything-video)
 
@@ -7708,19 +7796,19 @@ MetaSeg是Segment Anything的封装版本，支持视频目标分割，集成YOL
 - **Tags:** `mixture-of-experts` `video-generation` `world-models`
 - **最后活动时间:** 2026-09-17
 
-### [autoshorts](https://github.com/JayWebtech/autoshorts)
+### [openfilm](https://github.com/openfilm/openfilm)
 
-本地优先的桌面应用，利用AI驱动的爆款排名技术将长音视频自动转换为竖屏短视频。
+开源 AI 视频智能体，能把任意编码 Agent 变成视频创作 Agent，自动生成动效视频，并配备编辑器可对成品任意修改。
 
 - **Stars:** ⭐️ 964
-- **Tags:** `ai-video` `shorts-generator` `desktop-app` `local-first`
-- **最后活动时间:** 2026-08-02
+- **Tags:** `AI-Video` `Video-Agent` `Coding-Agents` `Motion-Graphics` `Video-Editor`
+- **最后活动时间:** 2026-10-19
 
 ### [VisoMaster-Fusion](https://github.com/VisoMasterFusion/VisoMaster-Fusion)
 
 强大易用的视频人脸替换与编辑软件，支持AI驱动的面部交换和视频处理功能。
 
-- **Stars:** ⭐️ 960
+- **Stars:** ⭐️ 961
 - **Tags:** `face-swap` `computer-vision` `video-editing` `deepfake`
 - **最后活动时间:** 2026-10-06
 
@@ -7744,25 +7832,25 @@ MetaSeg是Segment Anything的封装版本，支持视频目标分割，集成YOL
 
 基于GPT的视频生成工具，利用Manim将文本提示转换为动画视频，支持Streamlit界面。
 
-- **Stars:** ⭐️ 933
+- **Stars:** ⭐️ 932
 - **Tags:** `gpt-4` `manim` `video-generation` `animation` `streamlit`
 - **最后活动时间:** 2026-09-17
+
+### [MatAnyone2](https://github.com/pq-yang/MatAnyone2)
+
+CVPR 2026 Highlight论文，通过学习型质量评估器实现视频抠像（Video Matting）的规模化。面向高质量视频前景分割与合成的前沿研究项目。
+
+- **Stars:** ⭐️ 916
+- **Tags:** `video-matting` `computer-vision` `cvpr` `deep-learning` `video-segmentation`
+- **最后活动时间:** 2026-07-28
 
 ### [kimodo.cpp](https://github.com/localai-org/kimodo.cpp)
 
 将NVIDIA的Kimodo文本驱动骨骼动画模型移植到C++/GGML,通过自然语言即可生成自然的骨骼动画。纯C++本地推理实现,无需Python环境。
 
-- **Stars:** ⭐️ 914
+- **Stars:** ⭐️ 915
 - **Tags:** `Text-to-Motion` `GGML` `Animation` `C++` `Generative-AI`
 - **最后活动时间:** 2026-09-17
-
-### [reelbench-skills](https://github.com/eternityspring/reelbench-skills)
-
-面向 AI 视频的学习笔记与工具技能集，覆盖镜头解析、视频分析与 FFmpeg 工作流。
-
-- **Stars:** ⭐️ 909
-- **Tags:** `AI-Video` `Claude-Skills` `FFmpeg` `Video-Analysis`
-- **最后活动时间:** 2026-10-09
 
 ### [MoCha](https://github.com/Orange-3DV-Team/MoCha)
 
@@ -7780,28 +7868,12 @@ MetaSeg是Segment Anything的封装版本，支持视频目标分割，集成YOL
 - **Tags:** `ai-video-generator` `shorts` `tiktok` `ffmpeg` `nextjs`
 - **最后活动时间:** 2026-09-03
 
-### [MatAnyone2](https://github.com/pq-yang/MatAnyone2)
-
-CVPR 2026 Highlight论文，通过学习型质量评估器实现视频抠像（Video Matting）的规模化。面向高质量视频前景分割与合成的前沿研究项目。
-
-- **Stars:** ⭐️ 887
-- **Tags:** `video-matting` `computer-vision` `cvpr` `deep-learning` `video-segmentation`
-- **最后活动时间:** 2026-07-28
-
 ### [oryx](https://github.com/ossrs/oryx)
 
 Oryx 是一个 AI 驱动的开源视频解决方案，旨在提供一站式的在线视频服务，包括直播和 WebRTC 支持。无论是在云端还是通过自托管，都能轻松创建高质量的视频内容。
 
-- **Stars:** ⭐️ 885
+- **Stars:** ⭐️ 892
 - **Tags:** `AI-driven` `HLS` `Media Server` `RTMP` `SRT` `WHIP`
-- **最后活动时间:** 2026-09-26
-
-### [openfilm](https://github.com/openfilm/openfilm)
-
-开源 AI 视频智能体，能把任意编码 Agent 变成视频创作 Agent，自动生成动效视频，并配备编辑器可对成品任意修改。
-
-- **Stars:** ⭐️ 883
-- **Tags:** `AI-Video` `Video-Agent` `Coding-Agents` `Motion-Graphics` `Video-Editor`
 - **最后活动时间:** 2026-10-18
 
 ### [OpenWorldLib](https://github.com/OpenDCAI/OpenWorldLib)
@@ -7824,7 +7896,7 @@ LumenX Studio 是一个 AI 短漫剧一站式生产平台，能够将小说文�
 
 一个面向AI视频生成的导演级Skill，可自动编排女性多套穿搭拼贴首帧与卡点换装视频。适合内容创作者快速产出时尚换装类短视频。
 
-- **Stars:** ⭐️ 855
+- **Stars:** ⭐️ 875
 - **Tags:** `AI-Video` `Video-Generation` `Agent-Skill` `Creative-Apps` `Outfit-Change`
 - **最后活动时间:** 2026-09-07
 
@@ -7832,9 +7904,25 @@ LumenX Studio 是一个 AI 短漫剧一站式生产平台，能够将小说文�
 
 面向动态设计的 Agent Skill，把 AI 生成的粗糙视频打磨成媲美专业动态设计师水准的作品。
 
-- **Stars:** ⭐️ 850
+- **Stars:** ⭐️ 873
 - **Tags:** `agent-skills` `motion-graphics` `video` `gsap` `claude-code`
 - **最后活动时间:** 2026-10-06
+
+### [pose2sim](https://github.com/perfanalytics/pose2sim)
+
+基于任意摄像头的无标记运动捕捉系统，从2D姿态估计到3D OpenSim运动学分析。
+
+- **Stars:** ⭐️ 849
+- **Tags:** `pose-estimation` `motion-capture` `3d-kinematics` `biomechanics`
+- **最后活动时间:** 2026-10-14
+
+### [DCVC](https://github.com/microsoft/DCVC)
+
+基于深度上下文模型的神经视频压缩研究项目，利用深度学习显著提升视频压缩效率。是该领域的代表性开源工作。
+
+- **Stars:** ⭐️ 845
+- **Tags:** `video-compression` `deep-learning` `neural-codec` `computer-vision`
+- **最后活动时间:** 2026-08-25
 
 ### [kandinsky-5](https://github.com/kandinskylab/kandinsky-5)
 
@@ -7843,14 +7931,6 @@ Kandinsky 5.0 扩散模型，支持高质量的视频与图像生成。
 - **Stars:** ⭐️ 841
 - **Tags:** `diffusion` `text-to-video` `image-generation`
 - **最后活动时间:** 2026-08-07
-
-### [DCVC](https://github.com/microsoft/DCVC)
-
-基于深度上下文模型的神经视频压缩研究项目，利用深度学习显著提升视频压缩效率。是该领域的代表性开源工作。
-
-- **Stars:** ⭐️ 836
-- **Tags:** `video-compression` `deep-learning` `neural-codec` `computer-vision`
-- **最后活动时间:** 2026-08-25
 
 ### [Text-To-Video-AI](https://github.com/SamurAIGPT/Text-To-Video-AI)
 
@@ -7868,19 +7948,11 @@ Kandinsky 5.0 扩散模型，支持高质量的视频与图像生成。
 - **Tags:** `diffusion-transformer` `video-generation` `position-embedding`
 - **最后活动时间:** 2026-06-06
 
-### [pose2sim](https://github.com/perfanalytics/pose2sim)
-
-基于任意摄像头的无标记运动捕捉系统，从2D姿态估计到3D OpenSim运动学分析。
-
-- **Stars:** ⭐️ 828
-- **Tags:** `pose-estimation` `motion-capture` `3d-kinematics` `biomechanics`
-- **最后活动时间:** 2026-09-29
-
 ### [mamma](https://github.com/cuevhv/mamma)
 
 无标记多人动作捕捉与3D人体重建的官方代码库。基于深度学习与PyTorch实现高精度人体姿态估计。
 
-- **Stars:** ⭐️ 828
+- **Stars:** ⭐️ 830
 - **Tags:** `computer-vision` `deep-learning` `human-pose-estimation` `pytorch` `motion-capture`
 - **最后活动时间:** 2026-07-10
 
@@ -7904,7 +7976,7 @@ Kandinsky 5.0 扩散模型，支持高质量的视频与图像生成。
 
 多模式工作流的 AI 视频导演技能，覆盖脚本、镜头设计、媒体生成到成片交付的完整视频制作流程。
 
-- **Stars:** ⭐️ 810
+- **Stars:** ⭐️ 811
 - **Tags:** `agent-skill` `video-generation` `ai-workflow` `storytelling`
 - **最后活动时间:** 2026-08-10
 
@@ -7912,15 +7984,31 @@ Kandinsky 5.0 扩散模型，支持高质量的视频与图像生成。
 
 一个轻量级的即插即用框架，专注于保持身份一致性的视频生成。该框架为视频生成任务提供了高效的身份特征保留方案。
 
-- **Stars:** ⭐️ 791
+- **Stars:** ⭐️ 794
 - **Tags:** `video-generation` `identity-preserving` `cvpr2026`
 - **最后活动时间:** 2026-08-10
+
+### [handdraw-story-video](https://github.com/xiejunjie524/handdraw-story-video)
+
+将手绘故事插画转化为35–45秒线条显现与渐变上色视频，适合故事可视化创作。
+
+- **Stars:** ⭐️ 788
+- **Tags:** `Video-Generation` `Animation` `Storytelling`
+- **最后活动时间:** 2026-07-23
+
+### [comfyui-vrgamedevgirl](https://github.com/vrgamegirl19/comfyui-vrgamedevgirl)
+
+ComfyUI的自定义节点集，提供电影级颗粒、色彩匹配和视频增强功能。
+
+- **Stars:** ⭐️ 781
+- **Tags:** `comfyui` `video-enhancement` `color-matching` `workflow`
+- **最后活动时间:** 2026-10-16
 
 ### [cs-board](https://github.com/ChenShuo2004/cs-board)
 
 本地运行的 AI 工具，可将参考声音与中文文案自动合成为白板动画视频，融合 TTS 语音克隆与动画生成技术。
 
-- **Stars:** ⭐️ 777
+- **Stars:** ⭐️ 778
 - **Tags:** `TTS` `AI-Video` `Whiteboard-Animation` `FastAPI` `Chinese`
 - **最后活动时间:** 2026-10-01
 
@@ -7932,14 +8020,6 @@ Kandinsky 5.0 扩散模型，支持高质量的视频与图像生成。
 - **Tags:** `World-Models` `Video-Generation` `Diffusion` `AIGC`
 - **最后活动时间:** 2026-10-16
 
-### [handdraw-story-video](https://github.com/xiejunjie524/handdraw-story-video)
-
-将手绘故事插画转化为35–45秒线条显现与渐变上色视频，适合故事可视化创作。
-
-- **Stars:** ⭐️ 775
-- **Tags:** `Video-Generation` `Animation` `Storytelling`
-- **最后活动时间:** 2026-07-23
-
 ### [StoryMem](https://github.com/Kevin-thu/StoryMem)
 
 用于多镜头长视频叙事生成的记忆模型官方代码。通过记忆机制增强长视频连贯性与叙事能力。
@@ -7947,6 +8027,14 @@ Kandinsky 5.0 扩散模型，支持高质量的视频与图像生成。
 - **Stars:** ⭐️ 771
 - **Tags:** `video-generation` `storytelling` `memory-network` `multimodal`
 - **最后活动时间:** 2026-07-22
+
+### [Maestro](https://github.com/Blizaine/Maestro)
+
+一款100%本地运行的AI一体化创作工作室，集视频、图像和音乐生成于一体。其导演模式可从单个提示词规划完整的音乐视频和短片，基于WanGP流水线构建，可通过Pinokio一键安装。
+
+- **Stars:** ⭐️ 770
+- **Tags:** `AI` `Local-AI` `Video-Generation` `Image-Generation` `Music-Generation` `Text-to-Video`
+- **最后活动时间:** 2026-10-18
 
 ### [short-video-generator-AI](https://github.com/Colafornia/short-video-generator-AI)
 
@@ -7956,19 +8044,11 @@ Kandinsky 5.0 扩散模型，支持高质量的视频与图像生成。
 - **Tags:** `AI-Video` `Short-Video` `Highlight-Detection` `TTS` `Subtitles`
 - **最后活动时间:** 2026-09-19
 
-### [Maestro](https://github.com/Blizaine/Maestro)
-
-一款100%本地运行的AI一体化创作工作室，集视频、图像和音乐生成于一体。其导演模式可从单个提示词规划完整的音乐视频和短片，基于WanGP流水线构建，可通过Pinokio一键安装。
-
-- **Stars:** ⭐️ 765
-- **Tags:** `AI` `Local-AI` `Video-Generation` `Image-Generation` `Music-Generation` `Text-to-Video`
-- **最后活动时间:** 2026-10-17
-
 ### [All-In-One-Deflicker](https://github.com/ChenyangLEI/All-In-One-Deflicker)
 
 CVPR2023论文项目，基于神经滤波和缺陷图谱的盲视频去闪烁方法，有效消除视频中的闪烁伪影。
 
-- **Stars:** ⭐️ 764
+- **Stars:** ⭐️ 766
 - **Tags:** `video-deflickering` `neural-filtering` `computer-vision` `video-processing`
 - **最后活动时间:** 2026-07-14
 
@@ -7976,15 +8056,23 @@ CVPR2023论文项目，基于神经滤波和缺陷图谱的盲视频去闪烁方
 
 从单个外视角视频生成内视角视频的项目。实现了视角转换的视频生成能力。
 
-- **Stars:** ⭐️ 758
+- **Stars:** ⭐️ 759
 - **Tags:** `video-generation` `egocentric` `view-transform`
 - **最后活动时间:** 2026-07-10
+
+### [Comfyui_Minimax_h3_latent_Upscaler](https://github.com/LBH-123-AI/Comfyui_Minimax_h3_latent_Upscaler)
+
+面向 Minimax H3 的神经潜空间超分节点，可直接放大低分辨率 latent，绕过昂贵 VAE 编解码，加速高分辨率视频生成。
+
+- **Stars:** ⭐️ 754
+- **Tags:** `ComfyUI` `LatentUpscale` `VideoGeneration` `Minimax`
+- **最后活动时间:** 2026-09-17
 
 ### [ai-shortVideo-pipeline](https://github.com/myccarl/ai-shortVideo-pipeline)
 
 端到端AI短视频制作管线，集成多模型故障转移、断路器机制与AI质量门控。
 
-- **Stars:** ⭐️ 747
+- **Stars:** ⭐️ 749
 - **Tags:** `ai-pipeline` `video-generation` `multi-model` `fastapi`
 - **最后活动时间:** 2026-09-02
 
@@ -8004,14 +8092,6 @@ CVPR2023论文项目，基于神经滤波和缺陷图谱的盲视频去闪烁方
 - **Tags:** `video-super-resolution` `generative-ai` `video-processing` `vlm`
 - **最后活动时间:** 2026-08-03
 
-### [comfyui-vrgamedevgirl](https://github.com/vrgamegirl19/comfyui-vrgamedevgirl)
-
-ComfyUI的自定义节点集，提供电影级颗粒、色彩匹配和视频增强功能。
-
-- **Stars:** ⭐️ 739
-- **Tags:** `comfyui` `video-enhancement` `color-matching` `workflow`
-- **最后活动时间:** 2026-09-29
-
 ### [comfy_mtb](https://github.com/melMass/comfy_mtb)
 
 面向动画制作的ComfyUI节点扩展包，支持人脸替换和插值功能。
@@ -8024,7 +8104,7 @@ ComfyUI的自定义节点集，提供电影级颗粒、色彩匹配和视频增�
 
 整合字节跳动 Seedance 2.0 视频生成模型的结构化提示词方法与通用 Skill，提供 16+ 模板和 8+ 示例，覆盖带货广告、TVC 等场景，助力快速产出高质量 AI 视频。
 
-- **Stars:** ⭐️ 721
+- **Stars:** ⭐️ 722
 - **Tags:** `prompt-engineering` `video-generation` `seedance` `ai-video`
 - **最后活动时间:** 2026-10-04
 
@@ -8048,7 +8128,7 @@ ComfyUI的自定义节点集，提供电影级颗粒、色彩匹配和视频增�
 
 Seedance 2.5 视频导演 Skill，覆盖提示词、脚本、人物锁定、续写与转场等全流程指导，助你高效驾驭 AI 视频创作。
 
-- **Stars:** ⭐️ 707
+- **Stars:** ⭐️ 708
 - **Tags:** `ai-video` `seedance` `video-prompt` `agent-skills`
 - **最后活动时间:** 2026-08-26
 
@@ -8076,27 +8156,35 @@ CVPR 2024 官方实现，可组合生成无限 3D 城市场景的生成模型。
 - **Tags:** `face-swapping` `diffusion-transformer` `video-generation`
 - **最后活动时间:** 2026-05-22
 
-### [Comfyui_Minimax_h3_latent_Upscaler](https://github.com/LBH-123-AI/Comfyui_Minimax_h3_latent_Upscaler)
-
-面向 Minimax H3 的神经潜空间超分节点，可直接放大低分辨率 latent，绕过昂贵 VAE 编解码，加速高分辨率视频生成。
-
-- **Stars:** ⭐️ 690
-- **Tags:** `ComfyUI` `LatentUpscale` `VideoGeneration` `Minimax`
-- **最后活动时间:** 2026-09-17
-
 ### [NeoVerse](https://github.com/IamCreateAI/NeoVerse)
 
 CVPR 2026 Highlight论文，利用野外单目视频增强4D世界模型。视频生成与世界模型方向的前沿研究。
 
-- **Stars:** ⭐️ 684
+- **Stars:** ⭐️ 691
 - **Tags:** `world-model` `video-generation` `4d-reconstruction` `cvpr` `deep-learning`
 - **最后活动时间:** 2026-05-12
+
+### [fx-upscale](https://github.com/finnvoor/fx-upscale)
+
+基于 Apple Metal GPU 加速的 AI 视频超分辨率放大工具，可显著提升低分辨率视频的清晰度与画质。适合需要在 macOS 上进行高效视频增强的开发者和创作者。
+
+- **Stars:** ⭐️ 688
+- **Tags:** `video-upscaling` `super-resolution` `metal` `macos` `video-enhancement`
+- **最后活动时间:** 2026-07-23
+
+### [sweety-handdraw-video](https://github.com/threerocks/sweety-handdraw-video)
+
+输入主题或文章即可自动生成完整的手绘讲解视频，支持按部位描线、逐字书写动画与 VoiceStudio 智能配音。一条从文本到成片的自动化视频创作流水线。
+
+- **Stars:** ⭐️ 687
+- **Tags:** `text-to-video` `video-generation` `tts` `animation` `automation`
+- **最后活动时间:** 2026-10-17
 
 ### [video-production-skills](https://github.com/Pluviobyte/video-production-skills)
 
 可复用的AI视频制作技能库，涵盖视频创作、重现、动态设计及质量保证等功能。
 
-- **Stars:** ⭐️ 676
+- **Stars:** ⭐️ 677
 - **Tags:** `ai` `video-production` `motion-design` `skills`
 - **最后活动时间:** 2026-07-14
 
@@ -8104,7 +8192,7 @@ CVPR 2026 Highlight论文，利用野外单目视频增强4D世界模型。视�
 
 ECCV 2024论文官方实现，表现力丰富的全身3D高斯虚拟人。数字人领域前沿工作。
 
-- **Stars:** ⭐️ 669
+- **Stars:** ⭐️ 670
 - **Tags:** `3d-avatar` `gaussian-splatting` `motion-capture`
 - **最后活动时间:** 2026-10-14
 
@@ -8112,7 +8200,7 @@ ECCV 2024论文官方实现，表现力丰富的全身3D高斯虚拟人。数字
 
 Higgsfield AI 视频生成平台的官方命令行工具，让开发者能在终端中直接调用 AI 视频生成能力。
 
-- **Stars:** ⭐️ 664
+- **Stars:** ⭐️ 666
 - **Tags:** `cli` `ai-video` `video-generation` `higgsfield`
 - **最后活动时间:** 2026-10-16
 
@@ -8123,6 +8211,14 @@ Vidi 大型多模态模型官方仓库，专注于视频理解与编辑任务。
 - **Stars:** ⭐️ 656
 - **Tags:** `video-understanding` `video-editing` `multimodal-llm`
 - **最后活动时间:** 2026-08-03
+
+### [ComfyUI-MiniMaxH3-TimelineDirector](https://github.com/Songssx/ComfyUI-MiniMaxH3-TimelineDirector)
+
+为 ComfyUI 的 MiniMax H3 参考图生视频提供可编辑的时间轴导演节点，精细控制多参考素材的时序编排。
+
+- **Stars:** ⭐️ 654
+- **Tags:** `comfyui` `video-generation` `minimax` `timeline`
+- **最后活动时间:** 2026-10-14
 
 ### [MiKaPo](https://github.com/AmyangXYZ/MiKaPo)
 
@@ -8152,25 +8248,25 @@ ICCV 2025论文实现，利用时空扩散模型从稀疏视角视频生成4D一
 
 在本地运行的AI动态设计工作室：Claude智能体逐步生成视频，你对每个阶段进行审批把关。支持自带Claude Code或API Key，让AI视频创作完全可控。
 
-- **Stars:** ⭐️ 640
+- **Stars:** ⭐️ 642
 - **Tags:** `AI Video` `Claude` `AI Agents` `Remotion` `Motion Design` `Video Generation`
 - **最后活动时间:** 2026-10-08
-
-### [ComfyUI-PainterI2V](https://github.com/princepainter/ComfyUI-PainterI2V)
-
-一个增强版的Wan2.2图生视频节点，专门用于修复4步LoRA中的慢动作问题。显著提升视频生成效率与质量。
-
-- **Stars:** ⭐️ 634
-- **Tags:** `ComfyUI` `Wan2.2` `Image-to-Video` `LoRA` `Video Generation`
-- **最后活动时间:** 2026-08-01
 
 ### [MAGI-2-preview](https://github.com/SandAI-org/MAGI-2-preview)
 
 高效扩展的视频生成模型预览版。专注于提升视频生成的效率与规模。
 
-- **Stars:** ⭐️ 634
+- **Stars:** ⭐️ 639
 - **Tags:** `video-generation` `scaling` `efficiency`
 - **最后活动时间:** 2026-08-06
+
+### [ComfyUI-PainterI2V](https://github.com/princepainter/ComfyUI-PainterI2V)
+
+一个增强版的Wan2.2图生视频节点，专门用于修复4步LoRA中的慢动作问题。显著提升视频生成效率与质量。
+
+- **Stars:** ⭐️ 633
+- **Tags:** `ComfyUI` `Wan2.2` `Image-to-Video` `LoRA` `Video Generation`
+- **最后活动时间:** 2026-08-01
 
 ### [Ditto](https://github.com/EzioBy/Ditto)
 
@@ -8208,7 +8304,7 @@ AI视频反向提示词与智能剪辑工具，可从视频中提取台词、分
 
 HelixWorld 是一个实时交互式音视频世界模型，能够生成带有空间音频的沉浸式动态场景。它将生成式AI与实时交互相结合，代表了世界模型方向的前沿探索。
 
-- **Stars:** ⭐️ 619
+- **Stars:** ⭐️ 620
 - **Tags:** `World Model` `Generative AI` `Audio-Visual` `Real-time` `Spatial Audio`
 - **最后活动时间:** 2026-10-14
 
@@ -8220,6 +8316,14 @@ HelixWorld 是一个实时交互式音视频世界模型，能够生成带有空
 - **Tags:** `pose-estimation` `deep-learning` `animal-tracking` `computer-vision`
 - **最后活动时间:** 2026-10-12
 
+### [GPT-Image-2-Seedance-2.5-Workflow](https://github.com/EvoLinkAI/GPT-Image-2-Seedance-2.5-Workflow)
+
+GPT Image 2 到 Seedance 2.5 的早期访问工作流指南。涵盖图像到视频生成的自动化流程与提示词工程，助力创意视频制作。
+
+- **Stars:** ⭐️ 610
+- **Tags:** `ai-video` `gpt-image-2` `seedance` `text-to-video` `workflow-automation`
+- **最后活动时间:** 2026-06-24
+
 ### [Vista4D](https://github.com/Eyeline-Labs/Vista4D)
 
 CVPR 2026 Highlight论文项目，利用4D点云实现视频重拍。结合3D视觉与视频生成技术。
@@ -8227,14 +8331,6 @@ CVPR 2026 Highlight论文项目，利用4D点云实现视频重拍。结合3D视
 - **Stars:** ⭐️ 609
 - **Tags:** `3d-vision` `novel-view-synthesis` `cvpr-2026`
 - **最后活动时间:** 2026-06-02
-
-### [GPT-Image-2-Seedance-2.5-Workflow](https://github.com/EvoLinkAI/GPT-Image-2-Seedance-2.5-Workflow)
-
-GPT Image 2 到 Seedance 2.5 的早期访问工作流指南。涵盖图像到视频生成的自动化流程与提示词工程，助力创意视频制作。
-
-- **Stars:** ⭐️ 608
-- **Tags:** `ai-video` `gpt-image-2` `seedance` `text-to-video` `workflow-automation`
-- **最后活动时间:** 2026-06-24
 
 ### [hyperframes-launches](https://github.com/heygen-com/hyperframes-launches)
 
@@ -8266,13 +8362,13 @@ UniScene 是一个统一的以占用为中心的驾驶场景生成框架，发�
 
 - **Stars:** ⭐️ 601
 - **Tags:** `ai` `comfyui` `ltx-2` `lora` `video-ai`
-- **最后活动时间:** 2026-10-14
+- **最后活动时间:** 2026-10-18
 
 ### [explainroo](https://github.com/vincentsch/explainroo)
 
 免费开源的AI视频生成工具,结合本地语音合成(Kokoro)、Whisper词级时间戳与画布渲染,将脚本自动转化为带旁白的讲解视频和产品演示。全程本地运行,轻量易用。
 
-- **Stars:** ⭐️ 589
+- **Stars:** ⭐️ 593
 - **Tags:** `video-generation` `tts` `whisper` `explainer-video` `product-demo`
 - **最后活动时间:** 2026-10-15
 
@@ -8284,6 +8380,14 @@ UniScene 是一个统一的以占用为中心的驾驶场景生成框架，发�
 - **Tags:** `3d-animation` `pose-estimation` `digital-human` `unity`
 - **最后活动时间:** 2026-05-05
 
+### [Nomi](https://github.com/aqm857886159/Nomi)
+
+开源 AI 视频工作台，可接入任意模型或本地 ComfyUI，通过 MCP 由 AI 助手驱动分镜、生成与时间线剪辑，本地优先且无遥测。
+
+- **Stars:** ⭐️ 585
+- **Tags:** `ai-video` `comfyui` `mcp` `video-generation` `local-first`
+- **最后活动时间:** 2026-10-18
+
 ### [Open-Magiviz](https://github.com/ItusiAI/Open-Magiviz)
 
 开源的 AI 视频创作引擎，将完整的影视级制作流程交给每一位开发者与创作者。通过 AI 驱动端到端的视频内容生产，降低创作门槛。
@@ -8291,14 +8395,6 @@ UniScene 是一个统一的以占用为中心的驾驶场景生成框架，发�
 - **Stars:** ⭐️ 584
 - **Tags:** `AI-Video` `Video-Generation` `Creative-AI` `Open-Source`
 - **最后活动时间:** 2026-09-04
-
-### [Nomi](https://github.com/aqm857886159/Nomi)
-
-开源 AI 视频工作台，可接入任意模型或本地 ComfyUI，通过 MCP 由 AI 助手驱动分镜、生成与时间线剪辑，本地优先且无遥测。
-
-- **Stars:** ⭐️ 583
-- **Tags:** `ai-video` `comfyui` `mcp` `video-generation` `local-first`
-- **最后活动时间:** 2026-10-18
 
 ### [openclip](https://github.com/linzzzzzz/openclip)
 
@@ -8324,13 +8420,29 @@ ICLR 2026论文项目，实现视频的统一理解、生成与编辑。提供�
 - **Tags:** `video-generation` `video-editing` `iclr-2026`
 - **最后活动时间:** 2026-07-03
 
+### [Prism](https://github.com/Tencent-Hunyuan/Prism)
+
+Prism 是一个动态稀疏注意力框架，可在 2K 分辨率下原生训练视频-音频联合生成模型，兼顾高分辨率与训练效率。面向扩散模型的前沿研究型项目。
+
+- **Stars:** ⭐️ 560
+- **Tags:** `sparse-attention` `video-generation` `diffusion-models` `high-resolution` `audio-generation`
+- **最后活动时间:** 2026-10-15
+
 ### [video-generator-client](https://github.com/letorig/video-generator-client)
 
 异步 Python 封装库，统一调用 Seedance、Kling、MiniMax 和 Wan 等视频生成 API。提供 CLI 命令行与本地 Web UI，方便开发者快速集成多种 AI 视频生成服务。
 
-- **Stars:** ⭐️ 551
+- **Stars:** ⭐️ 554
 - **Tags:** `video-generation` `python` `kling` `seedance` `minimax` `cli` `web-ui`
-- **最后活动时间:** 2026-09-26
+- **最后活动时间:** 2026-10-17
+
+### [ComfyUI-WanAnimatePreprocess](https://github.com/kijai/ComfyUI-WanAnimatePreprocess)
+
+为WanAnimate模型提供输入预处理的ComfyUI自定义节点，优化动画与视频生成工作流。
+
+- **Stars:** ⭐️ 553
+- **Tags:** `ComfyUI` `CustomNodes` `Preprocessing` `Animation` `VideoGeneration`
+- **最后活动时间:** 2026-05-27
 
 ### [genblaze](https://github.com/backblaze-labs/genblaze)
 
@@ -8356,19 +8468,19 @@ ICLR 2026论文项目，实现视频的统一理解、生成与编辑。提供�
 - **Tags:** `AutoEncoder` `Hunyuan-Video` `VAE` `Video-Models`
 - **最后活动时间:** 2026-08-31
 
-### [ComfyUI-WanAnimatePreprocess](https://github.com/kijai/ComfyUI-WanAnimatePreprocess)
+### [ffmpeg-sidecar](https://github.com/nathanbabcock/ffmpeg-sidecar)
 
-为WanAnimate模型提供输入预处理的ComfyUI自定义节点，优化动画与视频生成工作流。
+FFmpeg Rust封装库，提供直观的迭代器接口，简化视频音频处理流程，适用于多模态AI系统的媒体预处理与后处理。
 
-- **Stars:** ⭐️ 546
-- **Tags:** `ComfyUI` `CustomNodes` `Preprocessing` `Animation` `VideoGeneration`
-- **最后活动时间:** 2026-05-27
+- **Stars:** ⭐️ 544
+- **Tags:** `ffmpeg` `video-processing` `audio-processing` `rust`
+- **最后活动时间:** 2026-10-18
 
 ### [twick](https://github.com/ncounterspecialist/twick)
 
 基于 React 构建的 AI 视频编辑器 SDK，支持画布时间轴、拖拽编辑、AI 字幕生成和无服务器 MP4 导出。
 
-- **Stars:** ⭐️ 541
+- **Stars:** ⭐️ 542
 - **Tags:** `ai-video-editor` `react` `sdk` `ai-captions` `video-editing`
 - **最后活动时间:** 2026-06-04
 
@@ -8376,17 +8488,17 @@ ICLR 2026论文项目，实现视频的统一理解、生成与编辑。提供�
 
 这是一个开源的AI头像和数字人平台。用户上传照片后可以克隆自己的声音，让任何面孔都能实时说话并生成带唇同步的视频。使用Claude AI、Whisper语音识别、Chatterbox和MuseTalk等技术打造沉浸式体验。
 
-- **Stars:** ⭐️ 538
+- **Stars:** ⭐️ 539
 - **Tags:** `ai-avatar` `digital-human` `talking-head` `lip-sync` `voice-cloning`
 - **最后活动时间:** 2026-09-18
 
-### [ffmpeg-sidecar](https://github.com/nathanbabcock/ffmpeg-sidecar)
+### [agnes-video-generator](https://github.com/lcy362/agnes-video-generator)
 
-FFmpeg Rust封装库，提供直观的迭代器接口，简化视频音频处理流程，适用于多模态AI系统的媒体预处理与后处理。
+开源免费的自托管AI视频生成器，支持文本生成多场景视频，并自动添加旁白、字幕和数字主播。通过Web UI即可操作，由Agnes AI驱动，适合快速制作短视频内容。
 
-- **Stars:** ⭐️ 535
-- **Tags:** `ffmpeg` `video-processing` `audio-processing` `rust`
-- **最后活动时间:** 2026-08-15
+- **Stars:** ⭐️ 539
+- **Tags:** `text-to-video` `ai-video-generator` `self-hosted` `video-generation` `image-to-video`
+- **最后活动时间:** 2026-10-18
 
 ### [UltraFlash](https://github.com/xin1u/UltraFlash)
 
@@ -8403,14 +8515,6 @@ UltraFlash 突破性地将实时流式视频生成扩展到高分辨率。该 AI
 - **Stars:** ⭐️ 532
 - **Tags:** `colab-notebooks` `text-to-video` `image-to-image` `comfyui-workflow` `multimodal`
 - **最后活动时间:** 2026-09-27
-
-### [agnes-video-generator](https://github.com/lcy362/agnes-video-generator)
-
-开源免费的自托管AI视频生成器，支持文本生成多场景视频，并自动添加旁白、字幕和数字主播。通过Web UI即可操作，由Agnes AI驱动，适合快速制作短视频内容。
-
-- **Stars:** ⭐️ 532
-- **Tags:** `text-to-video` `ai-video-generator` `self-hosted` `video-generation` `image-to-video`
-- **最后活动时间:** 2026-10-17
 
 ### [CineGen-ShortDrama](https://github.com/UllrAI/CineGen-ShortDrama)
 
@@ -8452,14 +8556,6 @@ ICLR 2026，通过分层压缩实现长上下文视频建模的视频对话模�
 - **Tags:** `ai-agents` `ai-video` `generative-ai` `mcp-server` `text-to-video`
 - **最后活动时间:** 2026-08-28
 
-### [animatable_nerf](https://github.com/zju3dv/animatable_nerf)
-
-基于可动画隐式神经表示，从视频中重建逼真三维数字人，实现姿态可控的神经渲染。
-
-- **Stars:** ⭐️ 525
-- **Tags:** `NeRF` `NeuralRendering` `Avatar` `ComputerVision` `3D`
-- **最后活动时间:** 2026-09-15
-
 ### [short-video-generator-AI](https://github.com/yukitorido/short-video-generator-AI)
 
 基于LLM与Whisper的AI短视频生成流水线，自动完成转录、高光检测与智能剪辑，一键产出竖屏短视频。是Opus Clip的开源替代方案。
@@ -8468,19 +8564,27 @@ ICLR 2026，通过分层压缩实现长上下文视频建模的视频对话模�
 - **Tags:** `AI` `LLM` `Whisper` `Short-Video` `Video-Editing` `Automation`
 - **最后活动时间:** 2026-09-23
 
-### [Prism](https://github.com/Tencent-Hunyuan/Prism)
+### [animatable_nerf](https://github.com/zju3dv/animatable_nerf)
 
-Prism 是一个动态稀疏注意力框架，可在 2K 分辨率下原生训练视频-音频联合生成模型，兼顾高分辨率与训练效率。面向扩散模型的前沿研究型项目。
+基于可动画隐式神经表示，从视频中重建逼真三维数字人，实现姿态可控的神经渲染。
+
+- **Stars:** ⭐️ 524
+- **Tags:** `NeRF` `NeuralRendering` `Avatar` `ComputerVision` `3D`
+- **最后活动时间:** 2026-09-15
+
+### [GAE-GeometricAutoEncoder](https://github.com/TencentARC/GAE-GeometricAutoEncoder)
+
+GAE通过学习几何原生的潜在空间，实现3D一致的世界生成，结合深度先验与VAE构建强大的世界模型。为视频生成与3D重建领域带来几何感知的新范式。
 
 - **Stars:** ⭐️ 523
-- **Tags:** `sparse-attention` `video-generation` `diffusion-models` `high-resolution` `audio-generation`
-- **最后活动时间:** 2026-10-15
+- **Tags:** `world-model` `video-generation` `3d-reconstruction` `vae` `world-generation`
+- **最后活动时间:** 2026-10-13
 
 ### [ComfyUI-H3-FaceRefine](https://github.com/Carasibana/ComfyUI-H3-FaceRefine)
 
 专为 MiniMax H3 视频打造的 ComfyUI 自定义节点，通过逐帧人脸追踪、裁剪、修复再回贴，显著提升小脸部的清晰度与质量。
 
-- **Stars:** ⭐️ 521
+- **Stars:** ⭐️ 522
 - **Tags:** `ComfyUI` `Face-Restoration` `Video-Generation` `Face-Enhancement` `Diffusion-Models`
 - **最后活动时间:** 2026-09-13
 
@@ -8492,21 +8596,21 @@ Prism 是一个动态稀疏注意力框架，可在 2K 分辨率下原生训练�
 - **Tags:** `Text-to-Video` `Talking-Face` `TTS` `AI-Video`
 - **最后活动时间:** 2026-09-17
 
-### [ComfyUI-MiniMaxH3-TimelineDirector](https://github.com/Songssx/ComfyUI-MiniMaxH3-TimelineDirector)
-
-为 ComfyUI 的 MiniMax H3 参考图生视频提供可编辑的时间轴导演节点，精细控制多参考素材的时序编排。
-
-- **Stars:** ⭐️ 515
-- **Tags:** `comfyui` `video-generation` `minimax` `timeline`
-- **最后活动时间:** 2026-09-22
-
 ### [SparkDiffusion](https://github.com/AlibabaResearch/SparkDiffusion)
 
 通过联合稀疏化、蒸馏与 W8A8 量化等技术，将 DiT 视频生成推理加速高达 265 倍的高性能优化框架。
 
-- **Stars:** ⭐️ 512
+- **Stars:** ⭐️ 519
 - **Tags:** `diffusion-models` `video-generation` `inference-acceleration` `distillation` `quantization`
 - **最后活动时间:** 2026-10-09
+
+### [SkinTokens](https://github.com/VAST-AI-Research/SkinTokens)
+
+SkinTokens 提出一种学习到的紧凑表示,利用自回归模型统一实现 3D 角色自动绑定(auto-rigging)。为骨骼生成与蒙皮权重预测提供了端到端的 AI 解决方案。
+
+- **Stars:** ⭐️ 511
+- **Tags:** `3d` `auto-rigging` `autoregressive` `animation` `skeleton` `skinning`
+- **最后活动时间:** 2026-05-12
 
 ### [Vidu-S](https://github.com/shengshu-ai/Vidu-S)
 
@@ -8539,14 +8643,6 @@ WorldCrafter是一个具备隐式3D感知记忆的一致性视频世界模型（
 - **Stars:** ⭐️ 507
 - **Tags:** `neural-rendering` `diffusion-model` `video-generation` `game-rendering` `ai-renderer`
 - **最后活动时间:** 2026-05-05
-
-### [SkinTokens](https://github.com/VAST-AI-Research/SkinTokens)
-
-SkinTokens 提出一种学习到的紧凑表示,利用自回归模型统一实现 3D 角色自动绑定(auto-rigging)。为骨骼生成与蒙皮权重预测提供了端到端的 AI 解决方案。
-
-- **Stars:** ⭐️ 507
-- **Tags:** `3d` `auto-rigging` `autoregressive` `animation` `skeleton` `skinning`
-- **最后活动时间:** 2026-05-12
 
 ### [velorn](https://github.com/VelornLabs/velorn)
 
@@ -8644,7 +8740,7 @@ Scrypted 是一个高性能的视频集成和自动化平台。它允许用户�
 
 - **Stars:** ⭐️ 6.0k
 - **Tags:** `Video Integration` `Automation` `AI Models`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [ml-depth-pro](https://github.com/apple-aiml-research/ml-depth-pro)
 
@@ -8708,7 +8804,7 @@ NeurIPS 2025论文，专注于训练大语言模型进行室内场景结构化�
 
 - **Stars:** ⭐️ 2.4k
 - **Tags:** `vlm` `multimodal` `reasoning` `video-understanding`
-- **最后活动时间:** 2026-09-02
+- **最后活动时间:** 2026-10-17
 
 ### [ml-fastvit](https://github.com/apple-aiml-research/ml-fastvit)
 
@@ -8730,7 +8826,7 @@ FastViT官方实现，一种采用结构重参数化的高效混合视觉Transfo
 
 spirula-studio 是一款跨厂商的 3D 高斯散射训练器，能够从视频中训练出高质量的 3D 模型。它支持 Vulkan 和 CUDA 等加速技术，非常适合计算机视觉和 3D 重建应用。
 
-- **Stars:** ⭐️ 1.7k
+- **Stars:** ⭐️ 1.8k
 - **Tags:** `3D Gaussian Splatting` `3D Reconstruction` `Computer Vision` `Video Processing`
 - **最后活动时间:** 2026-10-18
 
@@ -8804,7 +8900,7 @@ MetaAI Transfusion模型PyTorch实现，单模型实现下一token预测与图�
 
 - **Stars:** ⭐️ 1.4k
 - **Tags:** `image-search` `computer-vision` `image-deduplication` `dotnet`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-18
 
 ### [VLX-Seek](https://github.com/om-ai-lab/VLX-Seek)
 
@@ -8874,7 +8970,7 @@ Meta开源的图像与视频水印工具，基于深度学习为AI生成内容�
 
 ICLR 2025论文，训练视觉语言模型用于大规模多模态嵌入任务。
 
-- **Stars:** ⭐️ 694
+- **Stars:** ⭐️ 695
 - **Tags:** `embedding` `vision-language-model` `multimodal`
 - **最后活动时间:** 2026-10-16
 
