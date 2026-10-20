@@ -222,7 +222,7 @@ macOS 上广受欢迎的窗口管理工具,通过键盘快捷键和拖拽吸附�
 
 - **Stars:** ⭐️ 29.3k
 - **Tags:** `password-manager` `security` `cross-platform` `privacy`
-- **最后活动时间:** 2026-10-18
+- **最后活动时间:** 2026-10-20
 
 ### [gopeed](https://github.com/GopeedLab/gopeed)
 
@@ -262,7 +262,7 @@ Windows 包管理器统一图形界面，整合 Winget、Scoop、Chocolatey 等�
 
 - **Stars:** ⭐️ 24.0k
 - **Tags:** `Desktop-Pet` `Tauri` `Rust` `Cross-Platform` `Bongo-Cat`
-- **最后活动时间:** 2026-10-19
+- **最后活动时间:** 2026-10-20
 
 ### [beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)
 
@@ -558,7 +558,7 @@ Hermes智能体的桌面伴侣应用，提供本地化AI助手体验。
 
 - **Stars:** ⭐️ 14.4k
 - **Tags:** `backup` `encryption` `deduplication`
-- **最后活动时间:** 2026-10-19
+- **最后活动时间:** 2026-10-20
 
 ### [Zettlr](https://github.com/Zettlr/Zettlr)
 
@@ -600,14 +600,6 @@ Hermes智能体的桌面伴侣应用，提供本地化AI助手体验。
 - **Tags:** `android` `scrcpy` `screen-mirroring`
 - **最后活动时间:** 2026-10-19
 
-### [Kavita](https://github.com/Kareadita/Kavita)
-
-快速且功能丰富的跨平台自托管阅读服务器，支持漫画、电子书、PDF 等格式，可与亲友共享书库。
-
-- **Stars:** ⭐️ 11.9k
-- **Tags:** `Self-Hosted` `Media-Server` `Epub` `Manga` `CSharp`
-- **最后活动时间:** 2026-10-20
-
 ### [openchamber](https://github.com/openchamber/openchamber)
 
 OpenCode AI代理的桌面和Web界面，提供本地AI代理交互体验。
@@ -615,6 +607,14 @@ OpenCode AI代理的桌面和Web界面，提供本地AI代理交互体验。
 - **Stars:** ⭐️ 11.9k
 - **Tags:** `ai-agent` `desktop` `gui` `opencode`
 - **最后活动时间:** 2026-10-19
+
+### [Kavita](https://github.com/Kareadita/Kavita)
+
+快速且功能丰富的跨平台自托管阅读服务器，支持漫画、电子书、PDF 等格式，可与亲友共享书库。
+
+- **Stars:** ⭐️ 11.9k
+- **Tags:** `Self-Hosted` `Media-Server` `Epub` `Manga` `CSharp`
+- **最后活动时间:** 2026-10-20
 
 ### [EarTrumpet](https://github.com/File-New-Project/EarTrumpet)
 
@@ -2086,7 +2086,7 @@ macOS 原生字体管理器，为设计师和程序员提供高效的字体预�
 
 - **Stars:** ⭐️ 2.6k
 - **Tags:** `clipboard` `mcp` `model-context-protocol` `ocr` `kotlin-multiplatform` `cross-platform` `local-first` `privacy`
-- **最后活动时间:** 2026-10-19
+- **最后活动时间:** 2026-10-20
 
 ### [yt-dlp-gui](https://github.com/kannagi0303/yt-dlp-gui)
 
@@ -2432,14 +2432,6 @@ macOS 实用工具，可将应用无缝迁移至外置存储并自动建立符�
 - **Tags:** `clipboard` `tauri` `rust` `ocr` `productivity`
 - **最后活动时间:** 2026-10-14
 
-### [Butterfly](https://github.com/LinwoodDev/Butterfly)
-
-美观极简的跨平台开源笔记应用，支持手写绘图与丰富自定义。基于 Flutter 构建，覆盖 Android、桌面与 Web 端。
-
-- **Stars:** ⭐️ 2.1k
-- **Tags:** `note-taking` `flutter` `cross-platform` `drawing` `productivity`
-- **最后活动时间:** 2026-10-19
-
 ### [USB-Uncensored-LLM](https://github.com/techjarves/USB-Uncensored-LLM)
 
 零安装便携式本地AI环境，支持从USB或SSD直接运行高质量本地大模型。完全离线、跨平台、隐私优先，支持持久化聊天历史。
@@ -2447,6 +2439,14 @@ macOS 实用工具，可将应用无缝迁移至外置存储并自动建立符�
 - **Stars:** ⭐️ 2.1k
 - **Tags:** `local-llm` `portable-ai` `uncensored-ai` `privacy-first`
 - **最后活动时间:** 2026-07-04
+
+### [Butterfly](https://github.com/LinwoodDev/Butterfly)
+
+美观极简的跨平台开源笔记应用，支持手写绘图与丰富自定义。基于 Flutter 构建，覆盖 Android、桌面与 Web 端。
+
+- **Stars:** ⭐️ 2.1k
+- **Tags:** `note-taking` `flutter` `cross-platform` `drawing` `productivity`
+- **最后活动时间:** 2026-10-19
 
 ### [frame](https://github.com/66HEX/frame)
 
@@ -2584,20 +2584,20 @@ macOS 应用程序，用于跨 Claude Code、Cursor、Codex 等平台管理和�
 - **Tags:** `steam` `games` `synchronization` `launcher` `rust`
 - **最后活动时间:** 2026-10-19
 
-### [qcad](https://github.com/qcad/qcad)
-
-老牌开源2D CAD软件，跨平台支持DXF/DWG格式，适合机械与建筑制图。
-
-- **Stars:** ⭐️ 1.9k
-- **Tags:** `cad` `2d` `dxf` `cross-platform`
-- **最后活动时间:** 2026-10-19
-
 ### [UniClipboard](https://github.com/UniClipboard/UniClipboard)
 
 跨设备实时剪贴板同步工具，本地优先、点对点传输且端到端加密，无需账号、云端或中心服务器。兼顾安全与便捷的剪贴板同步方案。
 
 - **Stars:** ⭐️ 1.9k
 - **Tags:** `clipboard` `clipboard-manager` `p2p` `e2ee` `local-first` `cross-platform` `tauri`
+- **最后活动时间:** 2026-10-20
+
+### [qcad](https://github.com/qcad/qcad)
+
+老牌开源2D CAD软件，跨平台支持DXF/DWG格式，适合机械与建筑制图。
+
+- **Stars:** ⭐️ 1.9k
+- **Tags:** `cad` `2d` `dxf` `cross-platform`
 - **最后活动时间:** 2026-10-19
 
 ### [MacSai](https://github.com/iliyami/MacSai)
@@ -3784,6 +3784,14 @@ AstrBot的桌面版应用程序，提供快速的本地安装和便捷的ChatUI�
 - **Tags:** `kubernetes` `gui` `kubectl` `tauri` `multi-cluster`
 - **最后活动时间:** 2026-10-19
 
+### [Moonfin-Core](https://github.com/Moonfin-Client/Moonfin-Core)
+
+面向多平台的高级 Jellyfin 客户端，覆盖 Android、iOS、macOS、Linux、Windows、tvOS 等平台，为 Jellyfin 生态提供统一优质的媒体播放体验。
+
+- **Stars:** ⭐️ 864
+- **Tags:** `jellyfin` `media-client` `cross-platform`
+- **最后活动时间:** 2026-10-20
+
 ### [VidCoder](https://github.com/RandomEngy/VidCoder)
 
 Windows 下的 Blu-ray、DVD 及视频文件转码工具，界面友好、功能完善。是视频格式转换与压制的优秀免费选择。
@@ -3799,14 +3807,6 @@ Windows 下的 Blu-ray、DVD 及视频文件转码工具，界面友好、功能
 - **Stars:** ⭐️ 863
 - **Tags:** `developer-tools` `assistants-ai` `vibe-coding` `desktop-app`
 - **最后活动时间:** 2026-10-14
-
-### [Moonfin-Core](https://github.com/Moonfin-Client/Moonfin-Core)
-
-面向多平台的高级 Jellyfin 客户端，覆盖 Android、iOS、macOS、Linux、Windows、tvOS 等平台，为 Jellyfin 生态提供统一优质的媒体播放体验。
-
-- **Stars:** ⭐️ 861
-- **Tags:** `jellyfin` `media-client` `cross-platform`
-- **最后活动时间:** 2026-10-19
 
 ### [MoePeek](https://github.com/cosZone/MoePeek)
 
@@ -4628,9 +4628,9 @@ macOS 上的文件压缩利器，快速压缩图片、PDF 与视频，支持 AVI
 
 开源的 SQL Server 与 Postgres 性能监控桌面工具，提供实时告警和执行计划可视化，并内置 MCP 服务器供 AI 分析数据库性能。
 
-- **Stars:** ⭐️ 521
+- **Stars:** ⭐️ 522
 - **Tags:** `MCP` `SQL-Server` `PostgreSQL` `Performance-Monitoring` `Database`
-- **最后活动时间:** 2026-10-19
+- **最后活动时间:** 2026-10-20
 
 ### [mr-mak-workspace](https://github.com/witnesstodark/mr-mak-workspace)
 
@@ -6888,7 +6888,7 @@ Home Assistant社区的高级SSH与Web终端插件，方便远程管理与调试
 
 - **Stars:** ⭐️ 524
 - **Tags:** `rgb` `keyboard` `lenovo` `rust` `linux`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-19
 
 ### [void-mklive](https://github.com/void-linux/void-mklive)
 
@@ -7666,7 +7666,7 @@ Python驱动的智能Shell终端，支持AI集成，为数据科学家提供强�
 
 - **Stars:** ⭐️ 9.7k
 - **Tags:** `Shell` `Python` `AI Integration` `Terminal`
-- **最后活动时间:** 2026-10-19
+- **最后活动时间:** 2026-10-20
 
 ### [lf](https://github.com/gokcehan/lf)
 
@@ -10872,7 +10872,7 @@ ufw 防火墙的终端 UI 界面，让 Linux 防火墙规则管理一目了然�
 
 轻量级一体化终端，支持 SSH、RDP、数据库、K8s 等 30+ 协议，并内置可规划、执行多轮 Shell 命令的自主 AI Agent。
 
-- **Stars:** ⭐️ 864
+- **Stars:** ⭐️ 866
 - **Tags:** `ai-agent` `terminal` `ssh` `kubernetes` `cross-platform`
 - **最后活动时间:** 2026-10-17
 

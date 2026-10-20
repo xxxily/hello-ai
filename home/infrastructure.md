@@ -5438,7 +5438,7 @@ Google开源的端到端机器学习框架，支持构建和部署深度学习�
 
 多提供商LLM智能网关，提供OpenAI兼容接口，支持智能路由、负载均衡、重试回退、策略限流和可观测性功能。
 
-- **Stars:** ⭐️ 78.6k
+- **Stars:** ⭐️ 78.7k
 - **Tags:** `LLM Gateway` `Model Routing` `Rate Limiting`
 - **最后活动时间:** 2026-10-20
 
@@ -5470,7 +5470,7 @@ Google开源的端到端机器学习框架，支持构建和部署深度学习�
 
 免费开源的OpenAI API替代方案，支持本地部署无需GPU，兼容OpenAI API接口。
 
-- **Stars:** ⭐️ 49.7k
+- **Stars:** ⭐️ 49.8k
 - **Tags:** `LLM` `Self-hosted` `OpenAI API` `Local Inference`
 - **最后活动时间:** 2026-10-20
 
@@ -5552,7 +5552,7 @@ Facebook AI Research推出的下一代目标检测与分割平台，支持Mask R
 
 - **Stars:** ⭐️ 32.4k
 - **Tags:** `observability` `opentelemetry` `apm` `monitoring` `ai-agents`
-- **最后活动时间:** 2026-10-19
+- **最后活动时间:** 2026-10-20
 
 ### [9router](https://github.com/decolua/9router)
 
@@ -7064,7 +7064,7 @@ MCP服务器协议转换工具，支持stdio与SSE双向转换，适用于AI网�
 
 - **Stars:** ⭐️ 2.9k
 - **Tags:** `MCP` `AI Gateway` `Protocol`
-- **最后活动时间:** 2026-10-18
+- **最后活动时间:** 2026-10-20
 
 ### [openlit](https://github.com/openlit/openlit)
 
@@ -7254,9 +7254,9 @@ C++14深度学习API服务器，支持PyTorch、TensorRT、TensorFlow等多框�
 
 MCP服务器统一管理平台，支持多服务器动态编排、灵活路由策略和端点分发。
 
-- **Stars:** ⭐️ 2.5k
+- **Stars:** ⭐️ 2.6k
 - **Tags:** `mcp` `mcp-gateway` `mcp-router` `orchestration`
-- **最后活动时间:** 2026-10-19
+- **最后活动时间:** 2026-10-20
 
 ### [AIstudioProxyAPI](https://github.com/CJackHwang/AIstudioProxyAPI)
 
@@ -8718,9 +8718,9 @@ NVIDIA开发的联邦学习应用运行环境，支持去中心化的隐私保�
 
 安全导向的WebAssembly组件运行时，通过MCP协议支持AI模型部署。
 
-- **Stars:** ⭐️ 967
+- **Stars:** ⭐️ 968
 - **Tags:** `mcp` `wasm` `wasm-component` `wasmtime`
-- **最后活动时间:** 2026-10-19
+- **最后活动时间:** 2026-10-20
 
 ### [one-api-pro](https://github.com/modelbus/one-api-pro)
 
@@ -8878,7 +8878,7 @@ MCP服务器的反向代理和管理层，支持Kubernetes环境下的可扩展�
 
 Jina AI官方远程MCP服务器，为AI应用提供模型上下文协议支持。
 
-- **Stars:** ⭐️ 885
+- **Stars:** ⭐️ 886
 - **Tags:** `mcp` `mcp-server` `jina-ai`
 - **最后活动时间:** 2026-10-15
 
@@ -9086,9 +9086,9 @@ LLM推理提供商和模型的集合工具，支持多种推理后端和模型�
 
 本地化 AI 网关工具,支持 Claude Code、Codex 等 AI 客户端无需改动配置即可切换上游服务。提供 API 密钥保护、恶意工具调用拦截、全链路请求追踪与成本监控,跨平台支持 macOS、Windows 和 Linux。
 
-- **Stars:** ⭐️ 803
+- **Stars:** ⭐️ 804
 - **Tags:** `LLM-Gateway` `LLM-Proxy` `Claude-Code` `Cost-Monitoring` `Security` `Observability`
-- **最后活动时间:** 2026-10-19
+- **最后活动时间:** 2026-10-20
 
 ### [reverb](https://github.com/google-deepmind/reverb)
 
@@ -9744,7 +9744,7 @@ Docker 官方的 MCP（Model Context Protocol）注册表，方便开发者管�
 
 - **Stars:** ⭐️ 572
 - **Tags:** `mcp` `docker` `registry` `model-serving`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-20
 
 ### [taOS](https://github.com/jaylfc/taOS)
 

@@ -68,7 +68,7 @@ OpenAI Whisper模型的C/C++高性能移植版本，支持本地CPU/GPU推理，
 
 - **Stars:** ⭐️ 34.2k
 - **Tags:** `语音识别` `离线` `无障碍`
-- **最后活动时间:** 2026-10-19
+- **最后活动时间:** 2026-10-20
 
 ### [fish-speech](https://github.com/fishaudio/fish-speech)
 

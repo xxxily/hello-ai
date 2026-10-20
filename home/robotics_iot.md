@@ -1580,7 +1580,7 @@ Eclipse Ditto 是 Eclipse IoT 旗下的数字孪生框架，帮助开发者将�
 
 为 UniFi 网络套件（包括 Network、Protect、Access 和 Drive）提供的 MCP 服务器，支持通过 AI 进行智能家居和物联网管理。
 
-- **Stars:** ⭐️ 929
+- **Stars:** ⭐️ 930
 - **Tags:** `mcp` `unifi` `home-automation` `agentic-ai` `iot`
 - **最后活动时间:** 2026-10-20
 
@@ -3646,7 +3646,7 @@ ROS图像处理管道，为机器人视觉应用提供完整的图像采集、�
 
 面向机器人强化学习的异构计算架构，突破GPU主导范式，支持CUDA与ROCm跨平台加速。兼容MuJoCo等主流仿真环境，为RL训练与机器人仿真提供全新基础设施。
 
-- **Stars:** ⭐️ 960
+- **Stars:** ⭐️ 962
 - **Tags:** `ReinforcementLearning` `Robotics` `Simulation` `MuJoCo` `CrossPlatform` `RL-Infra`
 - **最后活动时间:** 2026-10-20
 

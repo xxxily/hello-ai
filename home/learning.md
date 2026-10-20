@@ -194,9 +194,9 @@ Claude Code 精选资源合集，汇集技能、钩子、命令编排器及插�
 
 Anthropic 官方维护的 Claude Code 插件目录，收录高质量插件资源，提供便捷的插件发现和使用指南。
 
-- **Stars:** ⭐️ 43.2k
+- **Stars:** ⭐️ 43.3k
 - **Tags:** `Claude Code` `MCP` `插件目录` `官方资源`
-- **最后活动时间:** 2026-10-19
+- **最后活动时间:** 2026-10-20
 
 ### [500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)
 
@@ -2270,6 +2270,14 @@ Anthropic Claude相关资源精选列表，涵盖工具、框架和学习资料�
 - **Tags:** `ai-agents` `awesome-list` `browser-automation` `llms`
 - **最后活动时间:** 2026-08-25
 
+### [awesome-remote-mcp-servers](https://github.com/punkpeye/awesome-remote-mcp-servers)
+
+精选远程 MCP（Model Context Protocol）服务器合集，帮助 AI 智能体快速接入各类云端工具与数据源。
+
+- **Stars:** ⭐️ 1.6k
+- **Tags:** `mcp` `model-context-protocol` `awesome-list` `ai-agents`
+- **最后活动时间:** 2026-10-18
+
 ### [Awesome-LLM-for-RecSys](https://github.com/CHIANGEL/Awesome-LLM-for-RecSys)
 
 大语言模型在推荐系统领域应用的论文与资源精选合集。
@@ -2284,14 +2292,6 @@ AI安全领域的精选资源合集，涵盖对抗攻击、模型安全、隐私
 
 - **Stars:** ⭐️ 1.6k
 - **Tags:** `ai-security` `adversarial-ml` `model-security` `privacy`
-- **最后活动时间:** 2026-10-18
-
-### [awesome-remote-mcp-servers](https://github.com/punkpeye/awesome-remote-mcp-servers)
-
-精选远程 MCP（Model Context Protocol）服务器合集，帮助 AI 智能体快速接入各类云端工具与数据源。
-
-- **Stars:** ⭐️ 1.6k
-- **Tags:** `mcp` `model-context-protocol` `awesome-list` `ai-agents`
 - **最后活动时间:** 2026-10-18
 
 ### [Category_Theory_Machine_Learning](https://github.com/bgavran/Category_Theory_Machine_Learning)
@@ -3390,6 +3390,14 @@ AI论文精选列表，涵盖计算机视觉、NLP、机器人、数据库等多
 - **Tags:** `ai-tools` `awesome-list` `machine-learning` `deep-learning` `generative-ai`
 - **最后活动时间:** 2026-05-21
 
+### [awesome-reverse-engineering](https://github.com/morluto/awesome-reverse-engineering)
+
+精选逆向工程工具与学习资源清单，覆盖二进制、固件、格式与协议分析。同时面向 AI 智能体提供 agent skills 与 MCP 集成，助力自动化安全研究。
+
+- **Stars:** ⭐️ 943
+- **Tags:** `Awesome List` `Reverse Engineering` `AI Agents` `Agent Skills` `MCP`
+- **最后活动时间:** 2026-10-18
+
 ### [real-api-pricing](https://github.com/Fei2411/real-api-pricing)
 
 真实的大模型 API 定价分析工具，通过「订阅月费 ÷ 实际可用 token」计算各 LLM 服务的真实单价，并提供额度、单价与分榜帕累托图。帮助开发者直观比较各家 AI API 的性价比。
@@ -3405,14 +3413,6 @@ summer-2027-internships 是一个定期更新的美国科技实习机会列表�
 - **Stars:** ⭐️ 940
 - **Tags:** `internships` `data-science` `machine-learning` `tech-jobs` `career-resources`
 - **最后活动时间:** 2026-08-03
-
-### [awesome-reverse-engineering](https://github.com/morluto/awesome-reverse-engineering)
-
-精选逆向工程工具与学习资源清单，覆盖二进制、固件、格式与协议分析。同时面向 AI 智能体提供 agent skills 与 MCP 集成，助力自动化安全研究。
-
-- **Stars:** ⭐️ 939
-- **Tags:** `Awesome List` `Reverse Engineering` `AI Agents` `Agent Skills` `MCP`
-- **最后活动时间:** 2026-10-18
 
 ### [codingplan](https://github.com/wmpeng/codingplan)
 
@@ -3434,9 +3434,9 @@ summer-2027-internships 是一个定期更新的美国科技实习机会列表�
 
 全面的MCP服务器资源合集，涵盖各类Model Context Protocol服务器实现。
 
-- **Stars:** ⭐️ 924
+- **Stars:** ⭐️ 925
 - **Tags:** `MCP` `Awesome` `Collection`
-- **最后活动时间:** 2026-10-19
+- **最后活动时间:** 2026-10-20
 
 ### [awesome-decision-transformer](https://github.com/opendilab/awesome-decision-transformer)
 
@@ -4306,7 +4306,7 @@ AI Agent技能模块的权威资源列表，涵盖Claude Code、Cursor、Codex�
 
 面向经济学研究、教学与政策分析的AI工具、库和资源精选清单，由OpenEcon团队维护。
 
-- **Stars:** ⭐️ 678
+- **Stars:** ⭐️ 677
 - **Tags:** `ai` `economics` `awesome-list` `llm` `machine-learning`
 - **最后活动时间:** 2026-10-12
 
@@ -4746,7 +4746,7 @@ NLP领域论文资源合集，涵盖BERT、Transformer、迁移学习等核心�
 
 精选的GitHub Copilot资源合集，包含指令、提示词、技能、MCP配置和Agent模板，助力提升AI编程体验。
 
-- **Stars:** ⭐️ 584
+- **Stars:** ⭐️ 585
 - **Tags:** `github-copilot` `ai-agents` `prompt-engineering` `mcp` `awesome-list`
 - **最后活动时间:** 2026-04-29
 
@@ -5452,7 +5452,7 @@ TensorFlow官方模型库，包含多种预训练模型和示例代码，涵盖�
 
 从零开始学习AI工程的完整教程，涵盖LLM、AI智能体、计算机视觉、强化学习等核心主题，带你从学习到实践再到交付。
 
-- **Stars:** ⭐️ 71.5k
+- **Stars:** ⭐️ 71.6k
 - **Tags:** `ai-engineering` `llm` `ai-agents` `deep-learning` `generative-ai` `mcp` `tutorial`
 - **最后活动时间:** 2026-10-19
 
@@ -5670,7 +5670,7 @@ fastai官方深度学习教程，以Jupyter Notebook形式呈现。涵盖深度�
 
 - **Stars:** ⭐️ 24.6k
 - **Tags:** `Agents` `LangChain` `LangGraph` `Tutorials`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-20
 
 ### [pytudes](https://github.com/norvig/pytudes)
 
@@ -7904,6 +7904,14 @@ PyTorch官方教程的C++实现版本，涵盖神经网络、CNN、RNN、GAN等�
 - **Tags:** `bayes` `bayesian-statistics` `python` `jupyter`
 - **最后活动时间:** 2026-10-15
 
+### [mcp-server-guide](https://github.com/figma/mcp-server-guide)
+
+Figma MCP 服务器使用指南，帮助开发者快速上手 MCP 协议与 Figma 的集成。
+
+- **Stars:** ⭐️ 2.1k
+- **Tags:** `mcp` `figma` `guide` `tutorial`
+- **最后活动时间:** 2026-10-19
+
 ### [accelerated-computing-hub](https://github.com/NVIDIA/accelerated-computing-hub)
 
 NVIDIA官方策划的GPU通用编程教育资源合集，涵盖CUDA编程和AI加速计算核心知识。
@@ -7919,14 +7927,6 @@ EPFL 机器学习课程，涵盖机器学习核心理论与实践。
 - **Stars:** ⭐️ 2.1k
 - **Tags:** `machine-learning` `course` `epfl`
 - **最后活动时间:** 2026-10-16
-
-### [mcp-server-guide](https://github.com/figma/mcp-server-guide)
-
-Figma MCP 服务器使用指南，帮助开发者快速上手 MCP 协议与 Figma 的集成。
-
-- **Stars:** ⭐️ 2.1k
-- **Tags:** `mcp` `figma` `guide` `tutorial`
-- **最后活动时间:** 2026-10-15
 
 ### [ai-performance-engineering](https://github.com/cfregly/ai-performance-engineering)
 
@@ -10436,9 +10436,9 @@ LLM聊天机器人项目合集，包含RAG、智能体开发及模型微调技�
 
 一份权威的智能体工程学习路线图,系统覆盖 OpenAI、Claude、MCP、Harness、评估体系与生产级 Agent 系统的核心知识。适合开发者循序渐进地掌握 AI 智能体工程化实践。
 
-- **Stars:** ⭐️ 556
+- **Stars:** ⭐️ 557
 - **Tags:** `Agentic-Engineering` `Learning-Roadmap` `AI-Agents` `MCP` `Claude` `OpenAI`
-- **最后活动时间:** 2026-10-17
+- **最后活动时间:** 2026-10-20
 
 ### [claude-code-mastery](https://github.com/TheDecipherist/claude-code-mastery)
 

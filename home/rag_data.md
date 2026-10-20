@@ -34,7 +34,7 @@
 
 自适应AI网页抓取框架，支持从简单请求到大规模爬取，内置MCP服务器支持AI代理智能数据提取。
 
-- **Stars:** ⭐️ 88.7k
+- **Stars:** ⭐️ 88.8k
 - **Tags:** `网页抓取` `MCP` `数据提取`
 - **最后活动时间:** 2026-10-19
 
@@ -1238,6 +1238,14 @@ Ontop 是一个虚拟知识图谱（VKG）平台，可将关系型数据库映�
 - **Tags:** `data-extraction` `json-ld` `microdata` `microformats` `opengraph` `rdfa` `semantic-web`
 - **最后活动时间:** 2026-09-27
 
+### [x-reader](https://github.com/runesleo/x-reader)
+
+支持10+平台的通用内容读取MCP服务器，为RAG应用提供数据解析能力。
+
+- **Stars:** ⭐️ 969
+- **Tags:** `mcp` `data-parser` `rag` `content-reader`
+- **最后活动时间:** 2026-10-18
+
 ### [neosemantics](https://github.com/neo4j-labs/neosemantics)
 
 Neo4j 的 RDF 导入导出插件，支持 SHACL 校验与模型映射，助力构建语义知识图谱。
@@ -1253,14 +1261,6 @@ Neo4j 的 RDF 导入导出插件，支持 SHACL 校验与模型映射，助力�
 - **Stars:** ⭐️ 968
 - **Tags:** `data-preparation` `llm` `data-processing` `finetuning`
 - **最后活动时间:** 2026-09-29
-
-### [x-reader](https://github.com/runesleo/x-reader)
-
-支持10+平台的通用内容读取MCP服务器，为RAG应用提供数据解析能力。
-
-- **Stars:** ⭐️ 967
-- **Tags:** `mcp` `data-parser` `rag` `content-reader`
-- **最后活动时间:** 2026-10-18
 
 ### [hyparquet](https://github.com/hyparam/hyparquet)
 
@@ -1350,6 +1350,14 @@ Unstructured 的 API 服务，可将 PDF、HTML、Word 等非结构化文档解�
 - **Tags:** `dedao` `content-downloader` `pdf-generator` `markdown`
 - **最后活动时间:** 2026-10-10
 
+### [donsetch](https://github.com/dondai44423/donsetch)
+
+专为 AI 智能体设计的网页抓取、搜索与爬虫工具，使用纯 Rust 从头构建。无需 API 密钥或账户，支持 PDF 解析与 MCP 协议。
+
+- **Stars:** ⭐️ 904
+- **Tags:** `web-scraper` `ai-agents` `rust` `mcp` `web-search`
+- **最后活动时间:** 2026-10-16
+
 ### [dataset-viewer](https://github.com/huggingface/dataset-viewer)
 
 Hugging Face 数据集查看器的后端服务，提供公开 API 用于浏览和分析机器学习数据集。
@@ -1357,14 +1365,6 @@ Hugging Face 数据集查看器的后端服务，提供公开 API 用于浏览�
 - **Stars:** ⭐️ 903
 - **Tags:** `HuggingFace` `Datasets` `API`
 - **最后活动时间:** 2026-10-19
-
-### [donsetch](https://github.com/dondai44423/donsetch)
-
-专为 AI 智能体设计的网页抓取、搜索与爬虫工具，使用纯 Rust 从头构建。无需 API 密钥或账户，支持 PDF 解析与 MCP 协议。
-
-- **Stars:** ⭐️ 903
-- **Tags:** `web-scraper` `ai-agents` `rust` `mcp` `web-search`
-- **最后活动时间:** 2026-10-16
 
 ### [img2table](https://github.com/xavctn/img2table)
 
@@ -4462,7 +4462,7 @@ RAFT 提供了一系列 CUDA 加速的机器学习和信息检索基础算法与
 
 低延迟图向量数据库，支持HNSW搜索、LLM重排序推理和GPU加速，兼容Neo4j Bolt/Cypher和Qdrant gRPC驱动。
 
-- **Stars:** ⭐️ 912
+- **Stars:** ⭐️ 913
 - **Tags:** `vector-database` `graph-rag` `hnsw` `llm` `mcp-server`
 - **最后活动时间:** 2026-10-20
 

@@ -116900,6 +116900,5389 @@
       "stargazers_count": 5319,
       "pushed_at": "2026-04-26T16:57:19Z",
       "added_to_queue": "2026-10-20T07:46:24.817Z"
+    },
+    {
+      "name": "vix",
+      "html_url": "https://github.com/vixcpp/vix",
+      "description": "A modern C++ runtime for building fast and reliable applications.",
+      "topics": [
+        "asio",
+        "backend",
+        "bun",
+        "cpp",
+        "cpp20",
+        "crossplatform",
+        "cxx",
+        "deno",
+        "http",
+        "http-server",
+        "modular",
+        "nodejs-alternative",
+        "offline-first",
+        "peer-to-peer",
+        "server",
+        "vix",
+        "vix-framework",
+        "vix-runtime",
+        "vixcpp",
+        "websocket"
+      ],
+      "stargazers_count": 516,
+      "pushed_at": "2026-10-20T06:56:54Z",
+      "added_to_queue": "2026-10-20T07:46:43.281Z"
+    },
+    {
+      "name": "felix86",
+      "html_url": "https://github.com/OFFTKP/felix86",
+      "description": "Run x86 and x86-64 games on RISC‑V Linux",
+      "topics": [
+        "cpp",
+        "emulator",
+        "good-first-issue",
+        "linux",
+        "risc-v",
+        "x86",
+        "x86-64"
+      ],
+      "stargazers_count": 701,
+      "pushed_at": "2026-10-18T20:42:28Z",
+      "added_to_queue": "2026-10-20T07:46:43.281Z"
+    },
+    {
+      "name": "ourCraft",
+      "html_url": "https://github.com/meemknight/ourCraft",
+      "description": "Imagine minecraft met terraria",
+      "topics": [
+        "cpp",
+        "graphics",
+        "minecraft",
+        "minecraft-clone",
+        "minecraft-cpp",
+        "multi-player",
+        "opengl"
+      ],
+      "stargazers_count": 509,
+      "pushed_at": "2026-06-17T09:05:45Z",
+      "added_to_queue": "2026-10-20T07:46:43.281Z"
+    },
+    {
+      "name": "cppwp",
+      "html_url": "https://github.com/timsong-cpp/cppwp",
+      "description": "HTML version of the current C++ working paper",
+      "topics": [],
+      "stargazers_count": 518,
+      "pushed_at": "2026-08-18T02:28:03Z",
+      "added_to_queue": "2026-10-20T07:46:43.281Z"
+    },
+    {
+      "name": "Spotify-Downloader",
+      "html_url": "https://github.com/WilliamSchack/Spotify-Downloader",
+      "description": "Downloads spotify playlists and songs along with metadata through an easy to use GUI (Downloads from YouTube)",
+      "topics": [
+        "cpp",
+        "downloader",
+        "ffmpeg",
+        "gui",
+        "music",
+        "qt",
+        "song-downloader",
+        "spotify",
+        "taglib",
+        "youtube",
+        "yt-dlp"
+      ],
+      "stargazers_count": 514,
+      "pushed_at": "2026-10-20T05:00:44Z",
+      "added_to_queue": "2026-10-20T07:46:43.281Z"
+    },
+    {
+      "name": "cppweeklynews",
+      "html_url": "https://github.com/wanghenshui/cppweeklynews",
+      "description": "c++中文周刊",
+      "topics": [
+        "cpp"
+      ],
+      "stargazers_count": 547,
+      "pushed_at": "2026-07-18T12:00:15Z",
+      "added_to_queue": "2026-10-20T07:46:43.281Z"
+    },
+    {
+      "name": "infinipaint",
+      "html_url": "https://github.com/ErrorAtLine0/infinipaint",
+      "description": "Infinite space, infinite zoom, collaborative canvas program for massive sketches and notes",
+      "topics": [
+        "c-plus-plus",
+        "collaborative",
+        "cpp",
+        "draw",
+        "drawing-app",
+        "infinite-canvas",
+        "infinite-zoom",
+        "note-taking",
+        "tablet",
+        "whiteboard"
+      ],
+      "stargazers_count": 512,
+      "pushed_at": "2026-10-18T09:17:16Z",
+      "added_to_queue": "2026-10-20T07:46:43.281Z"
+    },
+    {
+      "name": "WingOS",
+      "html_url": "https://github.com/Supercip971/WingOS",
+      "description": "a little 64bit microkernel based operating system written in c++ with smp support",
+      "topics": [
+        "by-human",
+        "cpp",
+        "hobby-os",
+        "kernel",
+        "microkernel",
+        "operating-system",
+        "os",
+        "osdev",
+        "wingos"
+      ],
+      "stargazers_count": 770,
+      "pushed_at": "2026-10-05T11:06:48Z",
+      "added_to_queue": "2026-10-20T07:46:43.281Z"
+    },
+    {
+      "name": "AnyAny",
+      "html_url": "https://github.com/kelbon/AnyAny",
+      "description": "C++17 library for comfortable and efficient dynamic polymorphism",
+      "topics": [
+        "cpp",
+        "cpp17",
+        "cpp20",
+        "type-erasure"
+      ],
+      "stargazers_count": 509,
+      "pushed_at": "2026-10-01T07:23:27Z",
+      "added_to_queue": "2026-10-20T07:46:43.282Z"
+    },
+    {
+      "name": "solo",
+      "html_url": "https://github.com/pg83/solo",
+      "description": "Portable Linux binaries, solved",
+      "topics": [
+        "abi",
+        "cpp",
+        "dlopen",
+        "dynamic-linker",
+        "elf",
+        "elf-loader",
+        "glibc",
+        "linux",
+        "musl",
+        "shared-libraries",
+        "static-linking",
+        "vulkan"
+      ],
+      "stargazers_count": 643,
+      "pushed_at": "2026-09-29T16:06:26Z",
+      "added_to_queue": "2026-10-20T07:46:43.282Z"
+    },
+    {
+      "name": "usaco-tripple-perfect",
+      "html_url": "https://github.com/aaryansamanta/usaco-tripple-perfect",
+      "description": "USACO 2026 Second Contest: Bronze, Silver and Gold problems explained, with verified C++17 solutions.",
+      "topics": [
+        "algorithms",
+        "bronze",
+        "competitive-programming",
+        "contest-solutions",
+        "cpp",
+        "cpp17",
+        "data-structures",
+        "gold",
+        "olympiad-informatics",
+        "programming-contests",
+        "silver",
+        "study-guide",
+        "usaco",
+        "usaco-solutions"
+      ],
+      "stargazers_count": 669,
+      "pushed_at": "2026-09-20T15:59:42Z",
+      "added_to_queue": "2026-10-20T07:46:43.282Z"
+    },
+    {
+      "name": "ThreadRace",
+      "html_url": "https://github.com/AhmadHassan-BTed/ThreadRace",
+      "description": "Quantifying the pulse of parallelism: A C++ concurrency telemetry framework measuring the human-perceived efficiency of concurrent execution strategies.",
+      "topics": [
+        "ackermann-function",
+        "benchmarking",
+        "concurrency",
+        "cpp",
+        "design-patterns",
+        "high-precision-timing",
+        "multithreading",
+        "oop-threads",
+        "parallel-computing",
+        "performance-testing",
+        "strategy-pattern",
+        "system-architecture",
+        "telemetry"
+      ],
+      "stargazers_count": 1764,
+      "pushed_at": "2026-08-07T15:08:23Z",
+      "added_to_queue": "2026-10-20T07:46:43.282Z"
+    },
+    {
+      "name": "amazing-qr",
+      "html_url": "https://github.com/x-hw/amazing-qr",
+      "description": "💮 amazing QRCode generator (supporting animated gif) - amazing 二维码生成器（支持 gif 动态图片二维码）",
+      "topics": [
+        "amazing",
+        "gif",
+        "mcp",
+        "picture",
+        "qr",
+        "qr-code",
+        "qr-generator",
+        "qrcode",
+        "qrcode-generator",
+        "skills"
+      ],
+      "stargazers_count": 10837,
+      "pushed_at": "2026-09-17T07:49:11Z",
+      "added_to_queue": "2026-10-20T07:48:05.178Z"
+    },
+    {
+      "name": "FileCodeBox",
+      "html_url": "https://github.com/vastsa/FileCodeBox",
+      "description": "文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）",
+      "topics": [
+        "anonymous",
+        "fastapi",
+        "filecodebox",
+        "mcp",
+        "python",
+        "tool",
+        "vue"
+      ],
+      "stargazers_count": 8629,
+      "pushed_at": "2026-10-12T10:37:54Z",
+      "added_to_queue": "2026-10-20T07:48:05.179Z"
+    },
+    {
+      "name": "mitan",
+      "html_url": "https://github.com/kkbo8005/mitan",
+      "description": "密探渗透测试工具包含资产信息收集，子域名爆破，搜索语法，资产测绘（聚合测绘，FO FA，Hunter，Quake,Zoomeye,DayDayMap,censys,shodan, 零零信安），指纹识别，敏感信息采集，文件扫描、端口扫描、弱口令破解、jwt密钥爆破、Sessionkey,heapdump, 微信小程序，密码本，随机用户，社工字典,AI渗透（MCP、代码审计）等功能",
+      "topics": [],
+      "stargazers_count": 2115,
+      "pushed_at": "2026-10-11T09:28:19Z",
+      "added_to_queue": "2026-10-20T07:49:05.377Z"
+    },
+    {
+      "name": "mcd-budget-meal",
+      "html_url": "https://github.com/Sam-Hui-dot/mcd-budget-meal",
+      "description": "麦麦预算餐：基于麦当劳 MCP 的真实核价、预算比较与餐品替换 Skill",
+      "topics": [],
+      "stargazers_count": 641,
+      "pushed_at": "2026-10-19T08:25:49Z",
+      "added_to_queue": "2026-10-20T07:49:24.787Z"
+    },
+    {
+      "name": "mcpelauncher-manifest",
+      "html_url": "https://github.com/minecraft-linux/mcpelauncher-manifest",
+      "description": "The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.",
+      "topics": [
+        "bedrock",
+        "launcher",
+        "linux",
+        "mcpe",
+        "minecraft"
+      ],
+      "stargazers_count": 1695,
+      "pushed_at": "2026-10-20T07:48:54Z",
+      "added_to_queue": "2026-10-20T07:49:24.787Z"
+    },
+    {
+      "name": "tsidp",
+      "html_url": "https://github.com/tailscale/tsidp",
+      "description": "A simple OIDC / OAuth Identity Provider (IdP) server for your tailnet.",
+      "topics": [
+        "idp",
+        "mcp",
+        "oauth",
+        "oauth2",
+        "oidc",
+        "tailscale"
+      ],
+      "stargazers_count": 683,
+      "pushed_at": "2026-10-15T05:27:49Z",
+      "added_to_queue": "2026-10-20T07:49:45.419Z"
+    },
+    {
+      "name": "eide",
+      "html_url": "https://github.com/github0null/eide",
+      "description": "An embedded development environment for mcs51/stm8/avr/cortex-m/riscv on VsCode.",
+      "topics": [
+        "8051",
+        "arm",
+        "arm-none-eabi",
+        "armcc",
+        "armclang",
+        "avr",
+        "clang",
+        "cortex-m",
+        "dev",
+        "gcc",
+        "ide",
+        "llvm",
+        "mcp",
+        "mcs51",
+        "mcu",
+        "riscv",
+        "sdcc",
+        "stm32",
+        "stm8",
+        "vscode"
+      ],
+      "stargazers_count": 1059,
+      "pushed_at": "2026-08-05T19:32:21Z",
+      "added_to_queue": "2026-10-20T07:50:25.361Z"
+    },
+    {
+      "name": "wordpress-mcp",
+      "html_url": "https://github.com/Automattic/wordpress-mcp",
+      "description": "WordPress MCP — This repository will be deprecated as stable releases of mcp-adapter become available. Please use https://github.com/WordPress/mcp-adapter for ongoing development and support.",
+      "topics": [],
+      "stargazers_count": 948,
+      "pushed_at": "2026-09-17T13:59:04Z",
+      "added_to_queue": "2026-10-20T07:50:25.826Z"
+    },
+    {
+      "name": "MCProtocolLib",
+      "html_url": "https://github.com/GeyserMC/MCProtocolLib",
+      "description": "A library for communication with a Minecraft client/server.",
+      "topics": [
+        "java",
+        "library",
+        "minecraft",
+        "minecraft-protocol",
+        "protocol"
+      ],
+      "stargazers_count": 909,
+      "pushed_at": "2026-10-14T11:07:18Z",
+      "added_to_queue": "2026-10-20T07:50:25.827Z"
+    },
+    {
+      "name": "claude-ai-mcp",
+      "html_url": "https://github.com/anthropics/claude-ai-mcp",
+      "description": "Report issues related to MCP integration with Claude here.",
+      "topics": [
+        "anthropic",
+        "claude",
+        "claude-ai",
+        "mcp",
+        "model-context-protocol"
+      ],
+      "stargazers_count": 518,
+      "pushed_at": "2026-06-08T08:48:05Z",
+      "added_to_queue": "2026-10-20T07:50:45.043Z"
+    },
+    {
+      "name": "flutter",
+      "html_url": "https://github.com/flutter/flutter",
+      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "topics": [
+        "android",
+        "app-framework",
+        "cross-platform",
+        "dart",
+        "dart-platform",
+        "desktop",
+        "flutter",
+        "flutter-package",
+        "fuchsia",
+        "ios",
+        "linux-desktop",
+        "macos",
+        "material-design",
+        "mobile",
+        "mobile-development",
+        "skia",
+        "web",
+        "web-framework",
+        "windows"
+      ],
+      "stargazers_count": 180303,
+      "pushed_at": "2026-10-19T23:55:11Z",
+      "added_to_queue": "2026-10-20T07:51:05.455Z"
+    },
+    {
+      "name": "BPB-Worker-Panel",
+      "html_url": "https://github.com/bia-pain-bache/BPB-Worker-Panel",
+      "description": "A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs alongside a private DoH server and chain proxies, offering full DNS, clean IP, Fragment, Warp, Warp pro and routing settings for cross-platform clients using Amnezia, Wireguard, Sing-box, Clash/Mihomo and Xray cores.",
+      "topics": [
+        "amnezia",
+        "android",
+        "chain",
+        "clash-core",
+        "doh-server",
+        "fragment",
+        "ios",
+        "linux",
+        "mihomo",
+        "proxy-chain",
+        "singbox-core",
+        "trojan",
+        "vless",
+        "warp",
+        "windows",
+        "xray-core"
+      ],
+      "stargazers_count": 13767,
+      "pushed_at": "2026-07-20T13:07:08Z",
+      "added_to_queue": "2026-10-20T07:51:05.456Z"
+    },
+    {
+      "name": "aspnetcore",
+      "html_url": "https://github.com/dotnet/aspnetcore",
+      "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+      "topics": [
+        "aspnetcore",
+        "dotnet",
+        "hacktoberfest",
+        "help-wanted"
+      ],
+      "stargazers_count": 38477,
+      "pushed_at": "2026-10-20T06:34:21Z",
+      "added_to_queue": "2026-10-20T07:51:05.456Z"
+    },
+    {
+      "name": "appium",
+      "html_url": "https://github.com/appium/appium",
+      "description": "Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol",
+      "topics": [
+        "android",
+        "appium",
+        "automation",
+        "ios",
+        "macos",
+        "test-automation",
+        "webdriver",
+        "windows"
+      ],
+      "stargazers_count": 22107,
+      "pushed_at": "2026-10-20T05:05:05Z",
+      "added_to_queue": "2026-10-20T07:51:05.456Z"
+    },
+    {
+      "name": "vim",
+      "html_url": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "topics": [
+        "c",
+        "cross-platform",
+        "text-editor",
+        "vim"
+      ],
+      "stargazers_count": 41155,
+      "pushed_at": "2026-10-19T16:36:50Z",
+      "added_to_queue": "2026-10-20T07:51:05.456Z"
+    },
+    {
+      "name": "runtime",
+      "html_url": "https://github.com/dotnet/runtime",
+      "description": ".NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.",
+      "topics": [
+        "dotnet",
+        "hacktoberfest",
+        "help-wanted"
+      ],
+      "stargazers_count": 18371,
+      "pushed_at": "2026-10-20T07:39:21Z",
+      "added_to_queue": "2026-10-20T07:51:05.456Z"
+    },
+    {
+      "name": "localsend",
+      "html_url": "https://github.com/localsend/localsend",
+      "description": "An open-source cross-platform alternative to AirDrop",
+      "topics": [
+        "dart",
+        "file-sharing",
+        "flutter",
+        "flutter-apps"
+      ],
+      "stargazers_count": 94991,
+      "pushed_at": "2026-10-17T20:26:37Z",
+      "added_to_queue": "2026-10-20T07:51:05.456Z"
+    },
+    {
+      "name": "react-native-elements",
+      "html_url": "https://github.com/react-native-elements/react-native-elements",
+      "description": "Cross-Platform React Native UI Toolkit",
+      "topics": [
+        "android",
+        "cross-platform",
+        "hacktoberfest",
+        "ios",
+        "mobile-app",
+        "react",
+        "react-native",
+        "ui",
+        "ui-components"
+      ],
+      "stargazers_count": 25871,
+      "pushed_at": "2026-05-21T14:17:40Z",
+      "added_to_queue": "2026-10-20T07:51:05.456Z"
+    },
+    {
+      "name": "aria2",
+      "html_url": "https://github.com/aria2/aria2",
+      "description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",
+      "topics": [
+        "bittorrent",
+        "cpp11",
+        "download",
+        "ftp",
+        "http",
+        "metalink",
+        "rpc",
+        "sftp"
+      ],
+      "stargazers_count": 43194,
+      "pushed_at": "2026-06-25T14:49:35Z",
+      "added_to_queue": "2026-10-20T07:51:05.456Z"
+    },
+    {
+      "name": "ILSpy",
+      "html_url": "https://github.com/icsharpcode/ILSpy",
+      "description": ".NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!",
+      "topics": [
+        "c-sharp",
+        "decompile",
+        "decompiler",
+        "decompiler-engine",
+        "dotnet",
+        "dotnetcore",
+        "ilspy",
+        "mono",
+        "pdb",
+        "unity"
+      ],
+      "stargazers_count": 26732,
+      "pushed_at": "2026-10-20T05:12:36Z",
+      "added_to_queue": "2026-10-20T07:51:05.456Z"
+    },
+    {
+      "name": "uni-app",
+      "html_url": "https://github.com/dcloudio/uni-app",
+      "description": "A cross-platform framework using Vue.js",
+      "topics": [
+        "android",
+        "cross-platform",
+        "crossplatform",
+        "hbuilderx",
+        "ios",
+        "javascript",
+        "miniprogram",
+        "uni",
+        "uni-app",
+        "uniapp",
+        "vue",
+        "vue3"
+      ],
+      "stargazers_count": 41619,
+      "pushed_at": "2026-10-20T07:21:31Z",
+      "added_to_queue": "2026-10-20T07:51:05.456Z"
+    },
+    {
+      "name": "ghostty",
+      "html_url": "https://github.com/ghostty-org/ghostty",
+      "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
+      "topics": [],
+      "stargazers_count": 62420,
+      "pushed_at": "2026-10-20T01:12:06Z",
+      "added_to_queue": "2026-10-20T07:51:05.456Z"
+    },
+    {
+      "name": "libevent",
+      "html_url": "https://github.com/libevent/libevent",
+      "description": "Event notification library",
+      "topics": [
+        "async",
+        "c",
+        "cross-platform",
+        "networking"
+      ],
+      "stargazers_count": 11972,
+      "pushed_at": "2026-09-01T14:15:49Z",
+      "added_to_queue": "2026-10-20T07:51:05.456Z"
+    },
+    {
+      "name": "renovate",
+      "html_url": "https://github.com/renovatebot/renovate",
+      "description": "Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io",
+      "topics": [
+        "azure-devops",
+        "bitbucket",
+        "dependencies",
+        "dependencies-checking",
+        "dependency-manager",
+        "github",
+        "gitlab",
+        "npm",
+        "package-management"
+      ],
+      "stargazers_count": 22807,
+      "pushed_at": "2026-10-20T07:37:11Z",
+      "added_to_queue": "2026-10-20T07:51:05.456Z"
+    },
+    {
+      "name": "react-native-webview",
+      "html_url": "https://github.com/react-native-webview/react-native-webview",
+      "description": "React Native Cross-Platform WebView",
+      "topics": [],
+      "stargazers_count": 7197,
+      "pushed_at": "2026-09-20T15:25:12Z",
+      "added_to_queue": "2026-10-20T07:51:05.457Z"
+    },
+    {
+      "name": "fmt",
+      "html_url": "https://github.com/fmtlib/fmt",
+      "description": "A modern formatting library",
+      "topics": [
+        "c-plus-plus",
+        "chrono",
+        "cpp",
+        "cross-platform",
+        "floating-point",
+        "formatting",
+        "multiplatform",
+        "output",
+        "performance",
+        "printf",
+        "ranges",
+        "unicode"
+      ],
+      "stargazers_count": 25883,
+      "pushed_at": "2026-10-18T14:14:36Z",
+      "added_to_queue": "2026-10-20T07:51:05.457Z"
+    },
+    {
+      "name": "git-credential-manager",
+      "html_url": "https://github.com/git-ecosystem/git-credential-manager",
+      "description": "Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.",
+      "topics": [
+        "aad",
+        "authentication",
+        "azure-devops",
+        "azure-repos",
+        "bitbucket",
+        "credential",
+        "cross-platform",
+        "git",
+        "github",
+        "gitlab"
+      ],
+      "stargazers_count": 9382,
+      "pushed_at": "2026-10-16T14:19:45Z",
+      "added_to_queue": "2026-10-20T07:51:05.457Z"
+    },
+    {
+      "name": "SoftEtherVPN",
+      "html_url": "https://github.com/SoftEtherVPN/SoftEtherVPN",
+      "description": "Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN_Stable.",
+      "topics": [
+        "etherip",
+        "ike",
+        "ipsec",
+        "l2tp",
+        "l2tpv3",
+        "openvpn",
+        "softether-vpn",
+        "softethervpn",
+        "ssl-vpn",
+        "sstp",
+        "tls",
+        "vpn",
+        "vpn-protocols",
+        "vpn-server",
+        "vpn-tunnel",
+        "wfh",
+        "wireguard",
+        "work-from-home"
+      ],
+      "stargazers_count": 13652,
+      "pushed_at": "2026-10-06T21:17:25Z",
+      "added_to_queue": "2026-10-20T07:51:05.457Z"
+    },
+    {
+      "name": "rathena",
+      "html_url": "https://github.com/rathena/rathena",
+      "description": "rAthena is an open-source cross-platform MMORPG server.",
+      "topics": [
+        "c-plus-plus",
+        "education",
+        "game-development",
+        "game-server",
+        "hacktoberfest",
+        "learning",
+        "mmorpg",
+        "mmorpg-server",
+        "mysql",
+        "ragnarok",
+        "rathena",
+        "yaml"
+      ],
+      "stargazers_count": 3620,
+      "pushed_at": "2026-10-06T09:56:48Z",
+      "added_to_queue": "2026-10-20T07:51:05.457Z"
+    },
+    {
+      "name": "audacity",
+      "html_url": "https://github.com/audacity/audacity",
+      "description": "Audio Editor",
+      "topics": [
+        "audio",
+        "cross-platform",
+        "editor",
+        "gplv2",
+        "qt-application",
+        "qt-qml",
+        "wxwidgets-applications"
+      ],
+      "stargazers_count": 18787,
+      "pushed_at": "2026-10-19T12:12:42Z",
+      "added_to_queue": "2026-10-20T07:51:05.457Z"
+    },
+    {
+      "name": "libgit2",
+      "html_url": "https://github.com/libgit2/libgit2",
+      "description": "A cross-platform, linkable library implementation of Git that you can use in your application.",
+      "topics": [
+        "c",
+        "dvcs",
+        "git",
+        "libgit2",
+        "library",
+        "version-control"
+      ],
+      "stargazers_count": 10629,
+      "pushed_at": "2026-10-16T14:02:20Z",
+      "added_to_queue": "2026-10-20T07:51:05.457Z"
+    },
+    {
+      "name": "gsy_github_app_flutter",
+      "html_url": "https://github.com/CarGuo/gsy_github_app_flutter",
+      "description": "Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp 系列的优势：我们目前已经拥有 Flutter、Weex、ReactNative、Kotlin View、Kotlin Jetpack Compose ，Compose MultiPlatform，Harmony ArkUI 七个版本，功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习，对比参考。",
+      "topics": [
+        "android",
+        "cross-platform",
+        "dart",
+        "dartlang",
+        "flutter",
+        "flutter-app",
+        "flutter-demo",
+        "flutter-ui",
+        "flutter-widget",
+        "github-app",
+        "ios",
+        "mobile-app"
+      ],
+      "stargazers_count": 15500,
+      "pushed_at": "2026-10-02T08:28:58Z",
+      "added_to_queue": "2026-10-20T07:51:05.457Z"
+    },
+    {
+      "name": "Wox",
+      "html_url": "https://github.com/Wox-launcher/Wox",
+      "description": "A cross-platform launcher that simply works",
+      "topics": [
+        "alfred",
+        "app-launcher",
+        "launcher",
+        "launchpad",
+        "launchy",
+        "productivity",
+        "productivity-tools",
+        "raycast",
+        "spotlight",
+        "wox",
+        "wox-launcher"
+      ],
+      "stargazers_count": 27536,
+      "pushed_at": "2026-10-20T07:39:29Z",
+      "added_to_queue": "2026-10-20T07:51:05.457Z"
+    },
+    {
+      "name": "etcher",
+      "html_url": "https://github.com/balena-io/etcher",
+      "description": "Flash OS images to SD cards & USB drives, safely and easily.",
+      "topics": [
+        "cross-platform",
+        "etcher",
+        "sd-cards",
+        "usb-drives"
+      ],
+      "stargazers_count": 34556,
+      "pushed_at": "2026-10-19T11:16:26Z",
+      "added_to_queue": "2026-10-20T07:51:05.457Z"
+    },
+    {
+      "name": "sqlitebrowser",
+      "html_url": "https://github.com/sqlitebrowser/sqlitebrowser",
+      "description": "Official home of the DB Browser for SQLite (DB4S) project. Previously known as \"SQLite Database Browser\" and \"Database Browser for SQLite\". Website at:",
+      "topics": [
+        "c-plus-plus",
+        "cross-platform",
+        "database",
+        "database-browser",
+        "database-gui",
+        "sqlite",
+        "sqlitebrowser"
+      ],
+      "stargazers_count": 24715,
+      "pushed_at": "2026-10-19T00:48:20Z",
+      "added_to_queue": "2026-10-20T07:51:05.457Z"
+    },
+    {
+      "name": "brook",
+      "html_url": "https://github.com/txthinking/brook",
+      "description": "A cross-platform programmable network tool",
+      "topics": [
+        "android",
+        "cross-platform",
+        "decryption",
+        "encryption",
+        "ios",
+        "linux",
+        "macos",
+        "mitm",
+        "network-analysis",
+        "network-monitoring",
+        "network-programming",
+        "network-security",
+        "openwrt",
+        "packet-capture",
+        "proxy",
+        "socks5",
+        "tls",
+        "vpn",
+        "windows",
+        "zero-configuration"
+      ],
+      "stargazers_count": 15190,
+      "pushed_at": "2026-09-25T04:58:31Z",
+      "added_to_queue": "2026-10-20T07:51:05.457Z"
+    },
+    {
+      "name": "poco",
+      "html_url": "https://github.com/pocoproject/poco",
+      "description": "The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.",
+      "topics": [
+        "c-plus-plus",
+        "configuration",
+        "cross-platform",
+        "database-access",
+        "http-client",
+        "http-server",
+        "json",
+        "logging",
+        "mongodb-client",
+        "networking",
+        "poco",
+        "redis-client",
+        "sql",
+        "xml"
+      ],
+      "stargazers_count": 9488,
+      "pushed_at": "2026-10-20T00:58:37Z",
+      "added_to_queue": "2026-10-20T07:51:05.457Z"
+    },
+    {
+      "name": "RetroArch",
+      "html_url": "https://github.com/libretro/RetroArch",
+      "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
+      "topics": [
+        "c",
+        "libretro",
+        "retroarch"
+      ],
+      "stargazers_count": 14385,
+      "pushed_at": "2026-10-20T03:54:09Z",
+      "added_to_queue": "2026-10-20T07:51:05.457Z"
+    },
+    {
+      "name": "Awesome-Linux-Software",
+      "html_url": "https://github.com/luong-komorebi/Awesome-Linux-Software",
+      "description": "🐧 A list of awesome Linux softwares",
+      "topics": [
+        "applications",
+        "awesome-list",
+        "cli-app",
+        "cross-platform",
+        "desktop-environment",
+        "free",
+        "freeware-icon",
+        "gui-app",
+        "icon-theme",
+        "linux",
+        "linux-app",
+        "linux-desktop",
+        "linux-resource",
+        "open-source",
+        "oss-icon",
+        "software",
+        "tools",
+        "ubuntu-linux"
+      ],
+      "stargazers_count": 25639,
+      "pushed_at": "2026-05-03T08:15:18Z",
+      "added_to_queue": "2026-10-20T07:51:05.457Z"
+    },
+    {
+      "name": "td",
+      "html_url": "https://github.com/tdlib/td",
+      "description": "Cross-platform library for building Telegram clients",
+      "topics": [
+        "cross-platform",
+        "library",
+        "telegram"
+      ],
+      "stargazers_count": 9189,
+      "pushed_at": "2026-10-19T13:18:43Z",
+      "added_to_queue": "2026-10-20T07:51:05.457Z"
+    },
+    {
+      "name": "coreutils",
+      "html_url": "https://github.com/uutils/coreutils",
+      "description": "Cross-platform Rust rewrite of the GNU coreutils",
+      "topics": [
+        "busybox",
+        "command-line-tool",
+        "coreutils",
+        "cross-platform",
+        "gnu-coreutils",
+        "rust"
+      ],
+      "stargazers_count": 24271,
+      "pushed_at": "2026-10-20T07:31:34Z",
+      "added_to_queue": "2026-10-20T07:51:05.458Z"
+    },
+    {
+      "name": "libusb",
+      "html_url": "https://github.com/libusb/libusb",
+      "description": "A cross-platform library to access USB devices",
+      "topics": [
+        "c",
+        "libusb",
+        "usb"
+      ],
+      "stargazers_count": 6173,
+      "pushed_at": "2026-10-13T18:17:39Z",
+      "added_to_queue": "2026-10-20T07:51:05.458Z"
+    },
+    {
+      "name": "flameshot",
+      "html_url": "https://github.com/flameshot-org/flameshot",
+      "description": "Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:",
+      "topics": [
+        "capture",
+        "cross-platform",
+        "free-software",
+        "gnu-linux",
+        "gui",
+        "hacktoberfest",
+        "image-editing",
+        "qt",
+        "screenshot"
+      ],
+      "stargazers_count": 31261,
+      "pushed_at": "2026-10-16T21:46:57Z",
+      "added_to_queue": "2026-10-20T07:51:05.458Z"
+    },
+    {
+      "name": "wallet-core",
+      "html_url": "https://github.com/trustwallet/wallet-core",
+      "description": "Cross-platform, cross-blockchain wallet library.",
+      "topics": [
+        "bitcoin",
+        "blockchain",
+        "cross-platform",
+        "crypto",
+        "cryptocurrency",
+        "ethereum"
+      ],
+      "stargazers_count": 3574,
+      "pushed_at": "2026-10-14T21:41:37Z",
+      "added_to_queue": "2026-10-20T07:51:05.458Z"
+    },
+    {
+      "name": "wxWidgets",
+      "html_url": "https://github.com/wxWidgets/wxWidgets",
+      "description": "Cross-Platform C++ GUI Library",
+      "topics": [
+        "c-plus-plus",
+        "cocoa",
+        "cross-platform",
+        "cross-platform-desktop",
+        "desktop",
+        "gtk",
+        "gui",
+        "gui-framework",
+        "linux",
+        "macos",
+        "portable",
+        "win32",
+        "windows",
+        "wxwidgets",
+        "x11"
+      ],
+      "stargazers_count": 7281,
+      "pushed_at": "2026-10-17T23:04:26Z",
+      "added_to_queue": "2026-10-20T07:51:05.458Z"
+    },
+    {
+      "name": "uWebSockets",
+      "html_url": "https://github.com/uNetworking/uWebSockets",
+      "description": "Simple, secure & standards compliant web server for the most demanding of applications",
+      "topics": [
+        "commercial",
+        "cross-platform",
+        "http",
+        "proxy-protocol",
+        "pubsub",
+        "router",
+        "websockets"
+      ],
+      "stargazers_count": 19008,
+      "pushed_at": "2026-10-05T20:01:09Z",
+      "added_to_queue": "2026-10-20T07:51:05.458Z"
+    },
+    {
+      "name": "codelab-friendlychat-web",
+      "html_url": "https://github.com/firebase/codelab-friendlychat-web",
+      "description": "The source for the Firebase codelab for building a cross-platform chat app",
+      "topics": [
+        "codelab",
+        "firebase"
+      ],
+      "stargazers_count": 1861,
+      "pushed_at": "2026-10-08T04:02:31Z",
+      "added_to_queue": "2026-10-20T07:51:05.458Z"
+    },
+    {
+      "name": "SteamTools",
+      "html_url": "https://github.com/BeyondDimension/SteamTools",
+      "description": "🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。",
+      "topics": [
+        "android-app",
+        "avalonia",
+        "avaloniaui",
+        "cross-platform",
+        "crossplatform",
+        "csharp",
+        "dotnet",
+        "dotnetcore",
+        "ios-app",
+        "linux-app",
+        "macos-app",
+        "mvvm",
+        "steam",
+        "steamtools",
+        "windows-app",
+        "wpf",
+        "xaml"
+      ],
+      "stargazers_count": 27201,
+      "pushed_at": "2026-08-31T10:08:47Z",
+      "added_to_queue": "2026-10-20T07:51:05.458Z"
+    },
+    {
+      "name": "iced",
+      "html_url": "https://github.com/iced-rs/iced",
+      "description": "A cross-platform GUI library for Rust, inspired by Elm",
+      "topics": [
+        "elm",
+        "graphics",
+        "gui",
+        "interface",
+        "renderer-agnostic",
+        "rust",
+        "toolkit",
+        "user-interface",
+        "widget",
+        "widgets"
+      ],
+      "stargazers_count": 31805,
+      "pushed_at": "2026-10-19T01:31:45Z",
+      "added_to_queue": "2026-10-20T07:51:05.458Z"
+    },
+    {
+      "name": "SimplCommerce",
+      "html_url": "https://github.com/simplcommerce/SimplCommerce",
+      "description": "A simple, cross platform, modulith ecommerce system built on .NET",
+      "topics": [
+        "angularjs",
+        "aspnetcore",
+        "cross-platform",
+        "csharp",
+        "dotnet",
+        "ecommerce",
+        "entity-framework-core",
+        "hacktoberfest",
+        "modular",
+        "modulith",
+        "shopping-cart"
+      ],
+      "stargazers_count": 4412,
+      "pushed_at": "2026-06-08T18:31:33Z",
+      "added_to_queue": "2026-10-20T07:51:05.458Z"
+    },
+    {
+      "name": "wgpu",
+      "html_url": "https://github.com/gfx-rs/wgpu",
+      "description": "A cross-platform, safe, pure-Rust graphics API.",
+      "topics": [
+        "d3d12",
+        "gpu",
+        "hacktoberfest",
+        "metal",
+        "opengl",
+        "rust",
+        "vulkan",
+        "webgpu"
+      ],
+      "stargazers_count": 18341,
+      "pushed_at": "2026-10-19T17:26:13Z",
+      "added_to_queue": "2026-10-20T07:51:05.458Z"
+    },
+    {
+      "name": "libimobiledevice",
+      "html_url": "https://github.com/libimobiledevice/libimobiledevice",
+      "description": "A cross-platform protocol library to communicate with iOS devices",
+      "topics": [
+        "c",
+        "ios",
+        "library",
+        "lockdownd",
+        "protocol"
+      ],
+      "stargazers_count": 8275,
+      "pushed_at": "2026-06-10T07:52:18Z",
+      "added_to_queue": "2026-10-20T07:51:05.458Z"
+    },
+    {
+      "name": "wcdb",
+      "html_url": "https://github.com/Tencent/wcdb",
+      "description": "WCDB is a cross-platform database framework developed by WeChat.",
+      "topics": [
+        "android",
+        "database",
+        "ios",
+        "linux",
+        "macos",
+        "sqlcipher",
+        "sqlite",
+        "wechat",
+        "windows"
+      ],
+      "stargazers_count": 11643,
+      "pushed_at": "2026-10-08T11:42:44Z",
+      "added_to_queue": "2026-10-20T07:51:05.458Z"
+    },
+    {
+      "name": "sqlite-net",
+      "html_url": "https://github.com/praeclarum/sqlite-net",
+      "description": "Simple, powerful, cross-platform SQLite client and ORM for .NET",
+      "topics": [],
+      "stargazers_count": 4454,
+      "pushed_at": "2026-07-13T16:23:53Z",
+      "added_to_queue": "2026-10-20T07:51:05.458Z"
+    },
+    {
+      "name": "NLog",
+      "html_url": "https://github.com/NLog/NLog",
+      "description": "NLog - Flexible and Structured Logging for various .NET Platforms",
+      "topics": [
+        "aot",
+        "aot-compatible",
+        "c-sharp",
+        "cross-platform",
+        "csharp",
+        "dotnet",
+        "json",
+        "logger",
+        "logging",
+        "logging-library",
+        "maui",
+        "mono",
+        "netstandard",
+        "netstandard20",
+        "nlog",
+        "structured-logging",
+        "uwp",
+        "xamarin"
+      ],
+      "stargazers_count": 6550,
+      "pushed_at": "2026-10-19T17:43:57Z",
+      "added_to_queue": "2026-10-20T07:51:25.461Z"
+    },
+    {
+      "name": "lmms",
+      "html_url": "https://github.com/LMMS/lmms",
+      "description": "Cross-platform music production software",
+      "topics": [
+        "daw",
+        "hacktoberfest",
+        "midi",
+        "music",
+        "songs"
+      ],
+      "stargazers_count": 10506,
+      "pushed_at": "2026-10-19T03:45:09Z",
+      "added_to_queue": "2026-10-20T07:51:25.461Z"
+    },
+    {
+      "name": "SPlayer",
+      "html_url": "https://github.com/SPlayer-Dev/SPlayer",
+      "description": "🎵 A cross-platform music player with Jellyfin / Navidrome / Emby media server support, word-by-word lyrics, desktop & taskbar lyrics, cloud music drive, local library management, audio spectrum visualization and mobile-friendly UI. 简约的跨平台音乐播放器，支持逐字歌词、桌面歌词、任务栏歌词、云盘音乐、本地音乐管理及流媒体播放",
+      "topics": [
+        "cross-platform",
+        "emby",
+        "javascript",
+        "jellyfin",
+        "media-server",
+        "music",
+        "music-library",
+        "music-player",
+        "musicplayer",
+        "navidrome",
+        "opensubsonic",
+        "pinia",
+        "splayer",
+        "streaming",
+        "vite",
+        "vue",
+        "vue3"
+      ],
+      "stargazers_count": 7381,
+      "pushed_at": "2026-06-10T03:56:42Z",
+      "added_to_queue": "2026-10-20T07:51:25.461Z"
+    },
+    {
+      "name": "keeweb",
+      "html_url": "https://github.com/keeweb/keeweb",
+      "description": "Free cross-platform password manager compatible with KeePass",
+      "topics": [
+        "electron",
+        "javascript",
+        "keepass",
+        "keeweb",
+        "password",
+        "password-manager",
+        "security"
+      ],
+      "stargazers_count": 13017,
+      "pushed_at": "2026-05-08T03:29:03Z",
+      "added_to_queue": "2026-10-20T07:51:25.461Z"
+    },
+    {
+      "name": "betaflight-configurator",
+      "html_url": "https://github.com/betaflight/betaflight-configurator",
+      "description": "Cross platform configuration and management application for the Betaflight firmware",
+      "topics": [
+        "betaflight",
+        "hacktoberfest"
+      ],
+      "stargazers_count": 3335,
+      "pushed_at": "2026-10-19T18:27:31Z",
+      "added_to_queue": "2026-10-20T07:51:25.461Z"
+    },
+    {
+      "name": "theos",
+      "html_url": "https://github.com/theos/theos",
+      "description": "A cross-platform suite of tools for building and deploying software for iOS and other platforms.",
+      "topics": [
+        "build-system",
+        "ios",
+        "linux",
+        "macos",
+        "makefile",
+        "perl",
+        "theos",
+        "windows"
+      ],
+      "stargazers_count": 4934,
+      "pushed_at": "2026-10-08T04:50:14Z",
+      "added_to_queue": "2026-10-20T07:51:25.461Z"
+    },
+    {
+      "name": "gpui-kit",
+      "html_url": "https://github.com/longbridge/gpui-kit",
+      "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
+      "topics": [
+        "desktop-application",
+        "gpui",
+        "rust",
+        "uikit"
+      ],
+      "stargazers_count": 18385,
+      "pushed_at": "2026-10-20T05:42:09Z",
+      "added_to_queue": "2026-10-20T07:51:25.461Z"
+    },
+    {
+      "name": "oxyplot",
+      "html_url": "https://github.com/oxyplot/oxyplot",
+      "description": "A cross-platform plotting library for .NET",
+      "topics": [
+        "c-sharp",
+        "charts",
+        "dotnet",
+        "netcore",
+        "netstandard",
+        "plot-library",
+        "plotting",
+        "plotting-library",
+        "wpf"
+      ],
+      "stargazers_count": 3541,
+      "pushed_at": "2026-10-17T09:01:02Z",
+      "added_to_queue": "2026-10-20T07:51:25.462Z"
+    },
+    {
+      "name": "xmake",
+      "html_url": "https://github.com/xmake-io/xmake",
+      "description": "🔥 A cross-platform build utility based on Lua",
+      "topics": [
+        "build",
+        "build-tool",
+        "c",
+        "c-plus-plus",
+        "cmake",
+        "cross-toolchains",
+        "linux",
+        "lua",
+        "makefile",
+        "objective-c",
+        "package-manager",
+        "tbox",
+        "visual-studio",
+        "wdk",
+        "xmake"
+      ],
+      "stargazers_count": 12265,
+      "pushed_at": "2026-10-17T15:13:59Z",
+      "added_to_queue": "2026-10-20T07:51:25.462Z"
+    },
+    {
+      "name": "HMCL",
+      "html_url": "https://github.com/HMCL-dev/HMCL",
+      "description": "A Minecraft Launcher which is multi-functional, cross-platform and popular",
+      "topics": [
+        "javafx",
+        "minecraft",
+        "minecraft-launcher"
+      ],
+      "stargazers_count": 10276,
+      "pushed_at": "2026-10-19T12:55:48Z",
+      "added_to_queue": "2026-10-20T07:51:25.462Z"
+    },
+    {
+      "name": "flutter_map",
+      "html_url": "https://github.com/fleaflet/flutter_map",
+      "description": "Flutter's №1 non-commercially aimed map client: it's easy-to-use, versatile, vendor-free, fully cross-platform, and 100% pure-Flutter",
+      "topics": [
+        "flutter",
+        "flutter-map",
+        "library",
+        "maps"
+      ],
+      "stargazers_count": 3021,
+      "pushed_at": "2026-09-13T23:07:36Z",
+      "added_to_queue": "2026-10-20T07:51:25.462Z"
+    },
+    {
+      "name": "RIBs",
+      "html_url": "https://github.com/uber/RIBs",
+      "description": "Uber's cross-platform mobile architecture framework - Android Repository",
+      "topics": [
+        "android",
+        "architectural-patterns",
+        "architecture",
+        "mobile",
+        "mobile-app",
+        "mobile-development",
+        "mvc",
+        "mvp",
+        "mvvm",
+        "viper"
+      ],
+      "stargazers_count": 7942,
+      "pushed_at": "2026-10-07T17:08:48Z",
+      "added_to_queue": "2026-10-20T07:51:25.462Z"
+    },
+    {
+      "name": "SDRPlusPlus",
+      "html_url": "https://github.com/AlexandreRouma/SDRPlusPlus",
+      "description": "Cross-Platform SDR Software",
+      "topics": [
+        "cross-platform",
+        "sdr"
+      ],
+      "stargazers_count": 6453,
+      "pushed_at": "2026-07-05T00:37:31Z",
+      "added_to_queue": "2026-10-20T07:51:25.462Z"
+    },
+    {
+      "name": "ImageSharp",
+      "html_url": "https://github.com/SixLabors/ImageSharp",
+      "description": "A modern, cross-platform, 2D Graphics library for .NET",
+      "topics": [
+        "bmp",
+        "c-sharp",
+        "drawing",
+        "exif",
+        "gif",
+        "graphics",
+        "hacktoberfest",
+        "image-processing",
+        "jpeg",
+        "netcore",
+        "png",
+        "tiff",
+        "webp"
+      ],
+      "stargazers_count": 8040,
+      "pushed_at": "2026-10-15T13:05:28Z",
+      "added_to_queue": "2026-10-20T07:51:25.462Z"
+    },
+    {
+      "name": "uno",
+      "html_url": "https://github.com/unoplatform/uno",
+      "description": "Open-source platform for building cross-platform native Mobile, Web, Desktop, and Embedded apps from a single C#/XAML codebase. Work from any IDE/CLI with Hot Reload, Visual Designer, MCPs, and Skills built for modern .NET workflows. 200M+ NuGet downloads.",
+      "topics": [
+        "android",
+        "c-sharp",
+        "cross-platform",
+        "csharp",
+        "dotnet",
+        "hacktoberfest",
+        "linux",
+        "macos",
+        "mono",
+        "mvvm",
+        "roslyn",
+        "uno",
+        "uno-platform",
+        "uwp",
+        "wasm",
+        "webassembly",
+        "windows",
+        "winui",
+        "xamarin",
+        "xaml"
+      ],
+      "stargazers_count": 10080,
+      "pushed_at": "2026-10-19T21:15:15Z",
+      "added_to_queue": "2026-10-20T07:51:25.462Z"
+    },
+    {
+      "name": "panda3d",
+      "html_url": "https://github.com/panda3d/panda3d",
+      "description": "Powerful, mature open-source cross-platform game engine for Python and C++, developed by Disney and CMU",
+      "topics": [
+        "c-plus-plus",
+        "cross-platform",
+        "game-development",
+        "game-engine",
+        "gamedev",
+        "multi-platform",
+        "open-source",
+        "opengl",
+        "panda3d",
+        "panda3d-game-engine",
+        "python"
+      ],
+      "stargazers_count": 5256,
+      "pushed_at": "2026-07-28T20:40:18Z",
+      "added_to_queue": "2026-10-20T07:51:25.462Z"
+    },
+    {
+      "name": "N_m3u8DL-RE",
+      "html_url": "https://github.com/nilaoda/N_m3u8DL-RE",
+      "description": "Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.",
+      "topics": [
+        "dash",
+        "ffmpeg",
+        "hls",
+        "ism",
+        "live",
+        "m3u8",
+        "m3u8-downloader",
+        "mpd",
+        "recorder"
+      ],
+      "stargazers_count": 8934,
+      "pushed_at": "2026-10-12T14:43:17Z",
+      "added_to_queue": "2026-10-20T07:51:25.462Z"
+    },
+    {
+      "name": "qt-creator",
+      "html_url": "https://github.com/qt-creator/qt-creator",
+      "description": "A cross-platform Qt IDE",
+      "topics": [],
+      "stargazers_count": 3089,
+      "pushed_at": "2026-10-20T07:41:38Z",
+      "added_to_queue": "2026-10-20T07:51:25.462Z"
+    },
+    {
+      "name": "wgcf",
+      "html_url": "https://github.com/ViRb3/wgcf",
+      "description": "🚤 Cross-platform, unofficial CLI for Cloudflare Warp",
+      "topics": [
+        "client",
+        "cloudflare",
+        "plus",
+        "security",
+        "vpn",
+        "warp",
+        "wireguard"
+      ],
+      "stargazers_count": 8816,
+      "pushed_at": "2026-10-15T11:42:20Z",
+      "added_to_queue": "2026-10-20T07:51:25.462Z"
+    },
+    {
+      "name": "pgweb",
+      "html_url": "https://github.com/sosedoff/pgweb",
+      "description": "Cross-platform client for PostgreSQL databases",
+      "topics": [
+        "cross-platform",
+        "golang",
+        "pgweb",
+        "postgresql"
+      ],
+      "stargazers_count": 9535,
+      "pushed_at": "2026-07-26T22:30:33Z",
+      "added_to_queue": "2026-10-20T07:51:25.462Z"
+    },
+    {
+      "name": "MailKit",
+      "html_url": "https://github.com/jstedfast/MailKit",
+      "description": "A cross-platform .NET library for IMAP, POP3, and SMTP.",
+      "topics": [
+        "c-sharp",
+        "dkim",
+        "email",
+        "imap",
+        "imap-client",
+        "mime",
+        "mime-parser",
+        "pgp",
+        "pop3",
+        "pop3-client",
+        "smime",
+        "smtp",
+        "smtp-client"
+      ],
+      "stargazers_count": 6863,
+      "pushed_at": "2026-10-20T01:02:44Z",
+      "added_to_queue": "2026-10-20T07:51:25.462Z"
+    },
+    {
+      "name": "Universal-G-Code-Sender",
+      "html_url": "https://github.com/winder/Universal-G-Code-Sender",
+      "description": "A cross-platform G-Code sender for GRBL, Smoothieware, TinyG and G2core.",
+      "topics": [
+        "cnc",
+        "g2core",
+        "gcode",
+        "gcode-editor",
+        "gcode-parser",
+        "gcode-sender",
+        "gcode-viewer",
+        "grbl",
+        "grbl-control",
+        "java",
+        "smoothieware",
+        "tinyg"
+      ],
+      "stargazers_count": 2272,
+      "pushed_at": "2026-10-20T04:55:44Z",
+      "added_to_queue": "2026-10-20T07:51:25.462Z"
+    },
+    {
+      "name": "Starling-Framework",
+      "html_url": "https://github.com/Gamua/Starling-Framework",
+      "description": "The Cross Platform Game Engine",
+      "topics": [
+        "actionscript",
+        "adobe-air",
+        "as3",
+        "flash",
+        "gpu",
+        "starling",
+        "starling-framework"
+      ],
+      "stargazers_count": 3116,
+      "pushed_at": "2026-10-10T18:06:19Z",
+      "added_to_queue": "2026-10-20T07:51:25.462Z"
+    },
+    {
+      "name": "DnsServer",
+      "html_url": "https://github.com/TechnitiumSoftware/DnsServer",
+      "description": "Technitium DNS Server",
+      "topics": [
+        "cross-platform",
+        "dhcp-server",
+        "dns",
+        "dns-client",
+        "dns-over-https",
+        "dns-over-quic",
+        "dns-over-tls",
+        "dns-over-tor",
+        "dns-server",
+        "dotnet",
+        "privacy",
+        "technitium-dns-server"
+      ],
+      "stargazers_count": 10170,
+      "pushed_at": "2026-10-17T10:38:11Z",
+      "added_to_queue": "2026-10-20T07:51:25.462Z"
+    },
+    {
+      "name": "awtk",
+      "html_url": "https://github.com/zlgopen/awtk",
+      "description": "AWTK = Toolkit AnyWhere(a cross-platform embedded GUI)",
+      "topics": [
+        "djyos",
+        "embedded",
+        "gui",
+        "liteos",
+        "ms-rtos",
+        "rt-thread",
+        "stm32",
+        "sylixos",
+        "zephyr"
+      ],
+      "stargazers_count": 3325,
+      "pushed_at": "2026-10-20T07:19:05Z",
+      "added_to_queue": "2026-10-20T07:51:25.462Z"
+    },
+    {
+      "name": "cake",
+      "html_url": "https://github.com/cake-build/cake",
+      "description": ":cake: Cake (C# Make) is a cross platform build automation system.",
+      "topics": [
+        "build-automation",
+        "build-automation-tool",
+        "build-tool",
+        "c-sharp",
+        "cake",
+        "cake-build",
+        "continuous-integration",
+        "dotnet",
+        "dotnetcore",
+        "hacktoberfest",
+        "nuget",
+        "nunit",
+        "orchestration",
+        "unit-testing",
+        "xunit"
+      ],
+      "stargazers_count": 4196,
+      "pushed_at": "2026-10-20T07:17:36Z",
+      "added_to_queue": "2026-10-20T07:51:25.462Z"
+    },
+    {
+      "name": "tbox",
+      "html_url": "https://github.com/tboox/tbox",
+      "description": "🎁 A glib-like multi-platform c library",
+      "topics": [
+        "algorithm",
+        "container",
+        "coroutines",
+        "cross-platform",
+        "iterator",
+        "json",
+        "network",
+        "plist",
+        "stream",
+        "tbox",
+        "xmake",
+        "xml"
+      ],
+      "stargazers_count": 5125,
+      "pushed_at": "2026-09-15T04:11:14Z",
+      "added_to_queue": "2026-10-20T07:51:25.462Z"
+    },
+    {
+      "name": "Nethereum",
+      "html_url": "https://github.com/Nethereum/Nethereum",
+      "description": "Ethereum .Net cross platform integration library",
+      "topics": [
+        "abi",
+        "blockchain",
+        "cross-platform",
+        "ethereum",
+        "ethereum-client",
+        "geth",
+        "nethereum",
+        "parity",
+        "quorum",
+        "rlp",
+        "rpc",
+        "signing"
+      ],
+      "stargazers_count": 2259,
+      "pushed_at": "2026-10-05T08:56:14Z",
+      "added_to_queue": "2026-10-20T07:51:25.463Z"
+    },
+    {
+      "name": "Electron.NET",
+      "html_url": "https://github.com/ElectronNET/Electron.NET",
+      "description": ":electron: Build cross platform desktop apps with ASP.NET Core (Razor Pages, MVC, Blazor).",
+      "topics": [
+        "asp-net-core",
+        "asp-net-core-mvc",
+        "aspnet",
+        "blazor",
+        "blazor-server",
+        "blazor-webassembly",
+        "cross-platform",
+        "dotnet",
+        "dotnet-core",
+        "dotnet-standard",
+        "dotnetcore",
+        "electron",
+        "electron-net"
+      ],
+      "stargazers_count": 7600,
+      "pushed_at": "2026-10-18T15:18:15Z",
+      "added_to_queue": "2026-10-20T07:51:25.463Z"
+    },
+    {
+      "name": "DesktopNaotu",
+      "html_url": "https://github.com/NaoTu/DesktopNaotu",
+      "description": "桌面版脑图 (百度脑图离线版，思维导图) 跨平台支持 Windows/Linux/Mac OS. (A cross-platform multilingual Mind Map Tool)",
+      "topics": [
+        "desktop-app",
+        "inaotu",
+        "mind",
+        "mindmap",
+        "naotu"
+      ],
+      "stargazers_count": 5089,
+      "pushed_at": "2026-09-01T14:43:11Z",
+      "added_to_queue": "2026-10-20T07:51:25.463Z"
+    },
+    {
+      "name": "onionshare",
+      "html_url": "https://github.com/onionshare/onionshare",
+      "description": "Securely and anonymously share files, host websites, and chat with friends using the Tor network",
+      "topics": [
+        "cross-platform",
+        "file-sharing",
+        "onion-service",
+        "onionshare",
+        "open-source",
+        "python",
+        "security",
+        "tor",
+        "tor-onion-service"
+      ],
+      "stargazers_count": 7177,
+      "pushed_at": "2026-10-16T04:23:12Z",
+      "added_to_queue": "2026-10-20T07:51:25.463Z"
+    },
+    {
+      "name": "lwjgl3",
+      "html_url": "https://github.com/LWJGL/lwjgl3",
+      "description": "LWJGL is a Java library that enables cross-platform access to popular native APIs useful in the development of graphics (OpenGL, Vulkan, bgfx), audio (OpenAL, Opus), parallel computing (OpenCL, CUDA) and XR (OpenVR, LibOVR, OpenXR) applications.",
+      "topics": [
+        "bindings",
+        "fmod",
+        "freetype",
+        "glfw",
+        "harfbuzz",
+        "java",
+        "kotlin",
+        "lwjgl",
+        "openal",
+        "opencl",
+        "opengl",
+        "opengl-es",
+        "openxr",
+        "vr",
+        "vulkan"
+      ],
+      "stargazers_count": 5475,
+      "pushed_at": "2026-09-10T20:14:21Z",
+      "added_to_queue": "2026-10-20T07:51:25.463Z"
+    },
+    {
+      "name": "haxe",
+      "html_url": "https://github.com/HaxeFoundation/haxe",
+      "description": "Haxe - The Cross-Platform Toolkit",
+      "topics": [
+        "compiler",
+        "cross-platform",
+        "haxe",
+        "jvm-languages",
+        "language",
+        "macros",
+        "programming-language",
+        "transpiler"
+      ],
+      "stargazers_count": 6949,
+      "pushed_at": "2026-10-20T07:32:50Z",
+      "added_to_queue": "2026-10-20T07:51:25.463Z"
+    },
+    {
+      "name": "Nuklear",
+      "html_url": "https://github.com/Immediate-Mode-UI/Nuklear",
+      "description": "A single-header ANSI C immediate mode cross-platform GUI library",
+      "topics": [
+        "c",
+        "c89",
+        "gui",
+        "header-only",
+        "imgui",
+        "multiplatform",
+        "nuklear",
+        "single-header",
+        "single-header-lib"
+      ],
+      "stargazers_count": 11457,
+      "pushed_at": "2026-10-17T19:59:08Z",
+      "added_to_queue": "2026-10-20T07:51:25.463Z"
+    },
+    {
+      "name": "FileCentipede",
+      "html_url": "https://github.com/filecxx/FileCentipede",
+      "description": "Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos. WebDAV client, FTP client, SSH client.",
+      "topics": [
+        "bittorrent-client",
+        "bt",
+        "download",
+        "download-manager",
+        "download-videos",
+        "ftp-client",
+        "http-client",
+        "libtorrent",
+        "m3u8",
+        "magnet",
+        "qt",
+        "remote-download",
+        "ssh-client",
+        "stream-downloader",
+        "torrent",
+        "transmission",
+        "video-downloader",
+        "webdav-client"
+      ],
+      "stargazers_count": 10939,
+      "pushed_at": "2026-10-18T05:06:21Z",
+      "added_to_queue": "2026-10-20T07:51:25.463Z"
+    },
+    {
+      "name": "sokol",
+      "html_url": "https://github.com/floooh/sokol",
+      "description": "minimal cross-platform standalone C headers",
+      "topics": [],
+      "stargazers_count": 10374,
+      "pushed_at": "2026-10-19T17:34:22Z",
+      "added_to_queue": "2026-10-20T07:51:25.463Z"
+    },
+    {
+      "name": "youtube-dl-gui",
+      "html_url": "https://github.com/jely2002/youtube-dl-gui",
+      "description": "Open Video Downloader - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.",
+      "topics": [
+        "cross-platform-gui",
+        "downloader",
+        "tailwind",
+        "tauri",
+        "vue",
+        "youtube",
+        "youtube-dl",
+        "youtube-dl-gui",
+        "ytdl"
+      ],
+      "stargazers_count": 9418,
+      "pushed_at": "2026-10-20T04:00:28Z",
+      "added_to_queue": "2026-10-20T07:51:25.463Z"
+    },
+    {
+      "name": "titanium-web-proxy",
+      "html_url": "https://github.com/justcoding121/titanium-web-proxy",
+      "description": "A cross-platform high performing HTTP(S) proxy server in C#.",
+      "topics": [
+        "mitmproxy",
+        "proxy-server",
+        "reverse-proxy"
+      ],
+      "stargazers_count": 2012,
+      "pushed_at": "2026-10-19T14:26:25Z",
+      "added_to_queue": "2026-10-20T07:51:25.463Z"
+    },
+    {
+      "name": "Aegisub",
+      "html_url": "https://github.com/TypesettingTools/Aegisub",
+      "description": "Cross-platform advanced subtitle editor",
+      "topics": [],
+      "stargazers_count": 2020,
+      "pushed_at": "2026-10-20T05:10:52Z",
+      "added_to_queue": "2026-10-20T07:51:25.463Z"
+    },
+    {
+      "name": "megabasterd",
+      "html_url": "https://github.com/tonikelope/megabasterd",
+      "description": "Yet another unofficial (and ugly) cross-platform MEGA downloader/uploader/streaming suite.",
+      "topics": [
+        "mega"
+      ],
+      "stargazers_count": 5800,
+      "pushed_at": "2026-09-24T16:55:49Z",
+      "added_to_queue": "2026-10-20T07:51:25.463Z"
+    },
+    {
+      "name": "antSword",
+      "html_url": "https://github.com/AntSwordProject/antSword",
+      "description": "中国蚁剑是一款跨平台的开源网站管理工具。AntSword is a cross-platform website management toolkit.",
+      "topics": [
+        "antsword"
+      ],
+      "stargazers_count": 4735,
+      "pushed_at": "2026-04-29T16:48:06Z",
+      "added_to_queue": "2026-10-20T07:51:25.463Z"
+    },
+    {
+      "name": "Azurite",
+      "html_url": "https://github.com/Azure/Azurite",
+      "description": "A lightweight server clone of Azure Storage that simulates most of the commands supported by it with minimal dependencies",
+      "topics": [
+        "azure-storage",
+        "azurite",
+        "blob-service",
+        "blob-storage",
+        "cross-platform",
+        "docker-image",
+        "storage-emulator"
+      ],
+      "stargazers_count": 2283,
+      "pushed_at": "2026-10-19T18:33:41Z",
+      "added_to_queue": "2026-10-20T07:51:45.933Z"
+    },
+    {
+      "name": "SignTools",
+      "html_url": "https://github.com/SignTools/SignTools",
+      "description": "✒ A free, self-hosted platform to sideload iOS apps without a computer",
+      "topics": [
+        "apps",
+        "ci",
+        "cross-platform",
+        "ios",
+        "ipa",
+        "ipad",
+        "iphone",
+        "macos",
+        "self-hosted",
+        "sideload",
+        "signing"
+      ],
+      "stargazers_count": 2235,
+      "pushed_at": "2026-10-12T04:29:50Z",
+      "added_to_queue": "2026-10-20T07:51:45.933Z"
+    },
+    {
+      "name": "flixel",
+      "html_url": "https://github.com/HaxeFlixel/flixel",
+      "description": "Free, cross-platform 2D game engine powered by Haxe and OpenFL",
+      "topics": [
+        "2d-game-engine",
+        "cross-platform",
+        "flixel",
+        "game-engine",
+        "haxe",
+        "haxeflixel",
+        "haxelib",
+        "openfl"
+      ],
+      "stargazers_count": 2216,
+      "pushed_at": "2026-10-15T19:43:18Z",
+      "added_to_queue": "2026-10-20T07:51:45.933Z"
+    },
+    {
+      "name": "cpeditor",
+      "html_url": "https://github.com/cpeditor/cpeditor",
+      "description": "The IDE for competitive programming :tada: | Fetch, Code, Compile, Run, Check, Submit :rocket:",
+      "topics": [
+        "acm",
+        "acm-icpc",
+        "algorithm-competitions",
+        "code-editor",
+        "codeforces",
+        "competitive-programming",
+        "cpp",
+        "cross-platform",
+        "icpc",
+        "ide",
+        "java",
+        "oi",
+        "programming-contests",
+        "python",
+        "qt5"
+      ],
+      "stargazers_count": 2185,
+      "pushed_at": "2026-10-19T22:14:00Z",
+      "added_to_queue": "2026-10-20T07:51:45.933Z"
+    },
+    {
+      "name": "KlayGE",
+      "html_url": "https://github.com/gongminmin/KlayGE",
+      "description": "KlayGE is a cross-platform open source game engine with plugin-based architecture.",
+      "topics": [
+        "cross-platform",
+        "d3d11",
+        "d3d12",
+        "engine",
+        "engine3d",
+        "game-engine",
+        "graphics",
+        "openal",
+        "opengl",
+        "opengles",
+        "python"
+      ],
+      "stargazers_count": 2176,
+      "pushed_at": "2026-07-17T23:08:59Z",
+      "added_to_queue": "2026-10-20T07:51:45.933Z"
+    },
+    {
+      "name": "openfl",
+      "html_url": "https://github.com/openfl/openfl",
+      "description": "An open source library for creative expression on the web, desktop, mobile and consoles. Inspired by the classic Flash and AIR APIs.",
+      "topics": [
+        "adobe-air",
+        "adobe-flash",
+        "cross-platform",
+        "flash",
+        "front-end",
+        "frontend",
+        "game-development",
+        "gamedev",
+        "hashlink",
+        "haxe",
+        "lime",
+        "multi-platform",
+        "neko",
+        "openfl"
+      ],
+      "stargazers_count": 2169,
+      "pushed_at": "2026-10-16T21:14:18Z",
+      "added_to_queue": "2026-10-20T07:51:45.933Z"
+    },
+    {
+      "name": "umka-lang",
+      "html_url": "https://github.com/vtereshkov/umka-lang",
+      "description": "Umka: a statically typed embeddable scripting language",
+      "topics": [
+        "c",
+        "compiler",
+        "concurrency",
+        "coroutines",
+        "cross-platform",
+        "fibers",
+        "interpreter",
+        "language",
+        "programming-language",
+        "scripting-language",
+        "static-typing",
+        "virtual-machine"
+      ],
+      "stargazers_count": 2120,
+      "pushed_at": "2026-10-19T08:58:04Z",
+      "added_to_queue": "2026-10-20T07:51:45.933Z"
+    },
+    {
+      "name": "yutto",
+      "html_url": "https://github.com/yutto-dev/yutto",
+      "description": ":ice_cube: 一个可爱且任性的 B 站视频下载器",
+      "topics": [
+        "asyncio",
+        "bangumi",
+        "bilibili",
+        "coroutines",
+        "cross-platform",
+        "danmaku",
+        "downloader",
+        "video"
+      ],
+      "stargazers_count": 2099,
+      "pushed_at": "2026-10-18T15:52:58Z",
+      "added_to_queue": "2026-10-20T07:51:45.933Z"
+    },
+    {
+      "name": "squirreldisk",
+      "html_url": "https://github.com/adileo/squirreldisk",
+      "description": "Free, open-source disk usage analyzer for macOS, Windows and Linux. See what fills your disk, servers (SSH) and cloud storage in an animated sunburst or treemap, and clean it up safely. A DaisyDisk, WizTree and WinDirStat alternative, in native Rust 🦀",
+      "topics": [
+        "cleanup",
+        "cross-platform",
+        "daisydisk-alternative",
+        "disk-analyzer",
+        "disk-space",
+        "disk-space-analyzer",
+        "disk-usage",
+        "disk-usage-analyzer",
+        "egui",
+        "linux",
+        "macos",
+        "rclone",
+        "rust",
+        "ssh",
+        "storage",
+        "sunburst",
+        "treemap",
+        "windirstat-alternative",
+        "windows",
+        "wiztree-alternative"
+      ],
+      "stargazers_count": 2029,
+      "pushed_at": "2026-10-18T13:58:31Z",
+      "added_to_queue": "2026-10-20T07:51:45.933Z"
+    },
+    {
+      "name": "otter-browser",
+      "html_url": "https://github.com/OtterBrowser/otter-browser",
+      "description": "Otter Browser aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5",
+      "topics": [
+        "browser",
+        "bsd",
+        "c-plus-plus",
+        "cross-platform",
+        "linux",
+        "macos",
+        "opera",
+        "qt",
+        "qt5",
+        "qtwebengine",
+        "qtwebkit",
+        "web",
+        "windows",
+        "windowsxp"
+      ],
+      "stargazers_count": 1990,
+      "pushed_at": "2026-10-19T20:23:06Z",
+      "added_to_queue": "2026-10-20T07:51:45.933Z"
+    },
+    {
+      "name": "cherrypy",
+      "html_url": "https://github.com/cherrypy/cherrypy",
+      "description": "CherryPy is a pythonic, object-oriented HTTP framework. https://cherrypy.dev",
+      "topics": [
+        "cherrypy",
+        "cross-platform",
+        "daemon-mode",
+        "http",
+        "http-server",
+        "http-streaming",
+        "https",
+        "idiomatic-python",
+        "pure-python",
+        "pypy3",
+        "python",
+        "python-3"
+      ],
+      "stargazers_count": 1947,
+      "pushed_at": "2026-10-19T18:13:34Z",
+      "added_to_queue": "2026-10-20T07:51:45.933Z"
+    },
+    {
+      "name": "pegasus-frontend",
+      "html_url": "https://github.com/mmatyas/pegasus-frontend",
+      "description": "A cross platform, customizable graphical frontend for launching emulators and managing your game collection.",
+      "topics": [
+        "cross-platform",
+        "customizable",
+        "emulator",
+        "frontend",
+        "games",
+        "hacktoberfest",
+        "qml",
+        "qt5",
+        "raspberry-pi",
+        "retrogaming"
+      ],
+      "stargazers_count": 1912,
+      "pushed_at": "2026-10-08T07:16:56Z",
+      "added_to_queue": "2026-10-20T07:51:45.934Z"
+    },
+    {
+      "name": "RGFW",
+      "html_url": "https://github.com/ColleagueRiley/RGFW",
+      "description": "A lightweight single-header cross-platform library for general windowing",
+      "topics": [
+        "c99",
+        "cocoa",
+        "cross-platform",
+        "graphics",
+        "hedgehogsoft",
+        "library",
+        "lightweight",
+        "macos",
+        "opengl",
+        "pure-c",
+        "silicon",
+        "single-header",
+        "unix",
+        "webasm",
+        "winapi",
+        "windowing",
+        "x11",
+        "xlib"
+      ],
+      "stargazers_count": 1910,
+      "pushed_at": "2026-10-15T17:36:12Z",
+      "added_to_queue": "2026-10-20T07:51:45.934Z"
+    },
+    {
+      "name": "altersend",
+      "html_url": "https://github.com/denislupookov/altersend",
+      "description": "Send files directly between devices over the internet - no cloud storage, no size limits.",
+      "topics": [
+        "cross-platform",
+        "data-transfer",
+        "decentralized",
+        "file-sharing",
+        "file-transfer",
+        "hole-punching",
+        "open-source",
+        "p2p",
+        "peer-to-peer",
+        "privacy",
+        "privacy-tools"
+      ],
+      "stargazers_count": 1878,
+      "pushed_at": "2026-10-01T10:54:41Z",
+      "added_to_queue": "2026-10-20T07:51:45.934Z"
+    },
+    {
+      "name": "Ferrite",
+      "html_url": "https://github.com/OlaProeis/Ferrite",
+      "description": "A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience.",
+      "topics": [
+        "cross-platform",
+        "editor",
+        "egui",
+        "json",
+        "markdown",
+        "markdown-editor",
+        "mermaid",
+        "native-app",
+        "productivity",
+        "rust",
+        "text-editor",
+        "wysiwyg",
+        "yaml"
+      ],
+      "stargazers_count": 1849,
+      "pushed_at": "2026-10-08T17:48:18Z",
+      "added_to_queue": "2026-10-20T07:51:45.934Z"
+    },
+    {
+      "name": "enigo",
+      "html_url": "https://github.com/enigo-rs/enigo",
+      "description": "Cross platform input simulation in Rust",
+      "topics": [
+        "automation",
+        "cross-platform",
+        "input",
+        "keyboard",
+        "mouse",
+        "rust",
+        "simulation"
+      ],
+      "stargazers_count": 1800,
+      "pushed_at": "2026-10-16T09:22:38Z",
+      "added_to_queue": "2026-10-20T07:51:45.934Z"
+    },
+    {
+      "name": "tus-resumable-upload-protocol",
+      "html_url": "https://github.com/tus/tus-resumable-upload-protocol",
+      "description": "Open Protocol for Resumable File Uploads",
+      "topics": [
+        "cross-platform",
+        "file-upload",
+        "http",
+        "mit",
+        "open-source",
+        "protocol",
+        "resumable",
+        "tus"
+      ],
+      "stargazers_count": 1733,
+      "pushed_at": "2026-06-08T15:32:59Z",
+      "added_to_queue": "2026-10-20T07:51:45.934Z"
+    },
+    {
+      "name": "Videomass",
+      "html_url": "https://github.com/jeanslack/Videomass",
+      "description": "Videomass is a free, open source and cross-platform GUI for FFmpeg",
+      "topics": [
+        "audio",
+        "conversion",
+        "converter-encoding",
+        "cross-platform",
+        "ffmpeg",
+        "ffmpeg-gui",
+        "ffmpeg-wrapper",
+        "media-converter",
+        "multimedia",
+        "multitasking",
+        "python",
+        "python-gui",
+        "video",
+        "wxpython"
+      ],
+      "stargazers_count": 1725,
+      "pushed_at": "2026-10-18T08:30:01Z",
+      "added_to_queue": "2026-10-20T07:51:45.934Z"
+    },
+    {
+      "name": "Downloader",
+      "html_url": "https://github.com/bezzad/Downloader",
+      "description": "Fast, cross-platform and reliable multipart downloader with asynchronous progress events for .NET applications.",
+      "topics": [
+        "cross-platform",
+        "csharp",
+        "dotnet",
+        "dotnet-core",
+        "dotnet-standard",
+        "dotnetframework",
+        "download",
+        "download-file",
+        "download-manager",
+        "downloader",
+        "downloadmanager",
+        "filedownloader",
+        "high-concurrency",
+        "idm",
+        "internet-download-manager",
+        "multipart-download",
+        "multitasking",
+        "stream-downloader"
+      ],
+      "stargazers_count": 1720,
+      "pushed_at": "2026-10-18T03:02:09Z",
+      "added_to_queue": "2026-10-20T07:51:45.934Z"
+    },
+    {
+      "name": "System.IO.Abstractions",
+      "html_url": "https://github.com/TestableIO/System.IO.Abstractions",
+      "description": "Just like System.Web.Abstractions, but for System.IO. Yay for testable IO access!",
+      "topics": [
+        "c-sharp",
+        "cross-platform",
+        "dotnet",
+        "filesystem",
+        "io",
+        "mocks",
+        "tdd",
+        "testing"
+      ],
+      "stargazers_count": 1627,
+      "pushed_at": "2026-10-19T11:30:09Z",
+      "added_to_queue": "2026-10-20T07:51:45.934Z"
+    },
+    {
+      "name": "FluentAvalonia",
+      "html_url": "https://github.com/amwx/FluentAvalonia",
+      "description": "Control library focused on fluent design and bringing more WinUI controls into Avalonia",
+      "topics": [
+        "avalonia",
+        "avaloniaui",
+        "c-sharp",
+        "cross-platform",
+        "dotnet",
+        "dotnetcore",
+        "fluent",
+        "fluent-design",
+        "xaml"
+      ],
+      "stargazers_count": 1615,
+      "pushed_at": "2026-08-22T17:37:48Z",
+      "added_to_queue": "2026-10-20T07:51:45.934Z"
+    },
+    {
+      "name": "wax",
+      "html_url": "https://github.com/ComicSparks/wax",
+      "description": "A comic browser，support Android / iOS / MacOS / Windows / Linux.",
+      "topics": [
+        "acg",
+        "android",
+        "bika",
+        "comic",
+        "cosplay",
+        "cross-platform",
+        "flutter",
+        "hentai",
+        "ios",
+        "macos",
+        "r18"
+      ],
+      "stargazers_count": 1588,
+      "pushed_at": "2026-07-20T07:14:27Z",
+      "added_to_queue": "2026-10-20T07:51:45.934Z"
+    },
+    {
+      "name": "Ursa.Avalonia",
+      "html_url": "https://github.com/irihitech/Ursa.Avalonia",
+      "description": "Ursa is an enterprise level UI library for building cross-platform applications with Avalonia UI.",
+      "topics": [
+        "avalonia",
+        "avaloniaui",
+        "control-library",
+        "cross-platform",
+        "cross-platform-gui"
+      ],
+      "stargazers_count": 1576,
+      "pushed_at": "2026-09-30T12:45:13Z",
+      "added_to_queue": "2026-10-20T07:51:45.934Z"
+    },
+    {
+      "name": "goblin",
+      "html_url": "https://github.com/m4b/goblin",
+      "description": "An impish, cross-platform binary parsing crate, written in Rust",
+      "topics": [
+        "archive",
+        "binary-analysis",
+        "cross-platform",
+        "elf",
+        "mach",
+        "pe",
+        "reverse-engineering"
+      ],
+      "stargazers_count": 1556,
+      "pushed_at": "2026-08-30T17:40:25Z",
+      "added_to_queue": "2026-10-20T07:51:45.934Z"
+    },
+    {
+      "name": "MiUnlockTool",
+      "html_url": "https://github.com/MiForge/MiUnlockTool",
+      "description": "MiUnlockTool developed to retrieve encryptData(token) for Xiaomi devices for unlocking bootloader, It is compatible with all platforms.",
+      "topics": [
+        "android",
+        "bootloader",
+        "cross-platform",
+        "fastboot",
+        "hyperos",
+        "hyperos-bootloader-unlock",
+        "miui",
+        "miunlock",
+        "poco",
+        "python",
+        "python3",
+        "redmi",
+        "termux",
+        "tool",
+        "unlock",
+        "xiaomi"
+      ],
+      "stargazers_count": 1536,
+      "pushed_at": "2026-09-30T10:57:53Z",
+      "added_to_queue": "2026-10-20T07:51:45.934Z"
+    },
+    {
+      "name": "uSockets",
+      "html_url": "https://github.com/uNetworking/uSockets",
+      "description": "Miniscule cross-platform eventing, networking & crypto for async applications",
+      "topics": [
+        "async",
+        "cross-platform",
+        "miniscule",
+        "ssl",
+        "tcp"
+      ],
+      "stargazers_count": 1509,
+      "pushed_at": "2026-10-08T12:28:09Z",
+      "added_to_queue": "2026-10-20T07:51:45.934Z"
+    },
+    {
+      "name": "fizzy",
+      "html_url": "https://github.com/fizzyedit/fizzy",
+      "description": "Application and plugin framework written in Zig",
+      "topics": [
+        "2d",
+        "animation",
+        "application",
+        "cross-platform",
+        "editor",
+        "gamedev",
+        "gui",
+        "imgui",
+        "pixelart",
+        "plugin-architecture",
+        "plugin-development",
+        "plugin-manager",
+        "plugin-marketplace",
+        "plugin-system",
+        "plugins",
+        "zig",
+        "ziglang"
+      ],
+      "stargazers_count": 1498,
+      "pushed_at": "2026-10-20T04:20:31Z",
+      "added_to_queue": "2026-10-20T07:51:45.934Z"
+    },
+    {
+      "name": "sharppcap",
+      "html_url": "https://github.com/dotpcap/sharppcap",
+      "description": "Official repository - Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets",
+      "topics": [
+        "analysis",
+        "c-sharp",
+        "capture-packets",
+        "capturing-packets",
+        "cross-platform",
+        "linux",
+        "macos",
+        "network-monitoring",
+        "network-programming",
+        "npcap",
+        "packet",
+        "packets",
+        "sharppcap",
+        "windivert",
+        "windows"
+      ],
+      "stargazers_count": 1480,
+      "pushed_at": "2026-10-13T20:37:55Z",
+      "added_to_queue": "2026-10-20T07:51:45.934Z"
+    },
+    {
+      "name": "FastNoise2",
+      "html_url": "https://github.com/Auburn/FastNoise2",
+      "description": "Modular node graph based noise generation library using SIMD, C++17 and templates",
+      "topics": [
+        "cross-platform",
+        "fastnoise",
+        "magnum",
+        "node-graph",
+        "noise",
+        "noise-algorithms",
+        "noise-generator",
+        "perlin-noise",
+        "procedural-generation",
+        "simd",
+        "simplex",
+        "terrain-generation",
+        "texture-generation"
+      ],
+      "stargazers_count": 1440,
+      "pushed_at": "2026-10-19T21:58:43Z",
+      "added_to_queue": "2026-10-20T07:51:45.934Z"
+    },
+    {
+      "name": "tquic",
+      "html_url": "https://github.com/Tencent/tquic",
+      "description": "A high-performance, lightweight, and cross-platform QUIC library",
+      "topics": [
+        "cross-platform",
+        "http3",
+        "network-programming",
+        "networking",
+        "protocol",
+        "quic",
+        "rust",
+        "udp"
+      ],
+      "stargazers_count": 1438,
+      "pushed_at": "2026-10-08T02:14:32Z",
+      "added_to_queue": "2026-10-20T07:51:45.934Z"
+    },
+    {
+      "name": "SPlayer-Next",
+      "html_url": "https://github.com/SPlayer-Dev/SPlayer-Next",
+      "description": "🎵 Cross-platform desktop music player with rich lyric support and wide audio format compatibility. 跨平台桌面音乐播放器，支持丰富歌词与多种音频格式",
+      "topics": [
+        "cross-platform",
+        "ffmpeg",
+        "media-services",
+        "music",
+        "music-library",
+        "music-player",
+        "rust",
+        "vue"
+      ],
+      "stargazers_count": 1414,
+      "pushed_at": "2026-10-19T22:10:05Z",
+      "added_to_queue": "2026-10-20T07:51:45.934Z"
+    },
+    {
+      "name": "mail",
+      "html_url": "https://github.com/flectar/mail",
+      "description": "Built from the ground up for speed. Flectar Mail delivers native performance, instant startup, and as little as 80 MB of RAM.",
+      "topics": [
+        "android",
+        "caldav",
+        "calendar",
+        "contacts",
+        "cross-platform",
+        "desktop-app",
+        "email",
+        "email-client",
+        "groupware",
+        "imap",
+        "ios",
+        "jmap",
+        "lightweight",
+        "linux",
+        "macos",
+        "mail-client",
+        "rust",
+        "slint",
+        "smtp",
+        "windows"
+      ],
+      "stargazers_count": 1398,
+      "pushed_at": "2026-10-20T01:35:46Z",
+      "added_to_queue": "2026-10-20T07:51:45.934Z"
+    },
+    {
+      "name": "bluebubbles-app",
+      "html_url": "https://github.com/BlueBubblesApp/bluebubbles-app",
+      "description": "A cross-platform app ecosystem, bringing iMessage to Android, PC (Windows, Linux, & even macOS), and Web!",
+      "topics": [
+        "android",
+        "bluebubbles",
+        "client",
+        "cross-platform",
+        "dart",
+        "flutter",
+        "imessage",
+        "linux",
+        "pc",
+        "web",
+        "windows"
+      ],
+      "stargazers_count": 1396,
+      "pushed_at": "2026-10-17T02:34:25Z",
+      "added_to_queue": "2026-10-20T07:51:45.934Z"
+    },
+    {
+      "name": "waveboxapp",
+      "html_url": "https://github.com/wavebox/waveboxapp",
+      "description": "Wavebox, the revolutionary and feature-rich Chromium browser that's built for productive working across Google Workspaces, Microsoft Teams, ClickUp, Monday, Atlassian, Asana, AirTable, Slack, and every other web app you use to get work done.",
+      "topics": [
+        "cross-platform",
+        "desktop",
+        "email",
+        "gmail",
+        "linux",
+        "macos",
+        "office365",
+        "outlook",
+        "slack",
+        "trello",
+        "windows"
+      ],
+      "stargazers_count": 1377,
+      "pushed_at": "2026-10-19T09:54:54Z",
+      "added_to_queue": "2026-10-20T07:51:45.934Z"
+    },
+    {
+      "name": "vim-fern",
+      "html_url": "https://github.com/lambdalisue/vim-fern",
+      "description": "🌿 General purpose asynchronous tree viewer written in Pure Vim script",
+      "topics": [
+        "async",
+        "cross-platform",
+        "drawer",
+        "file-explorer",
+        "filer",
+        "linux",
+        "mac",
+        "neovim",
+        "tree",
+        "viewer",
+        "vim",
+        "windows"
+      ],
+      "stargazers_count": 1357,
+      "pushed_at": "2026-10-05T16:20:57Z",
+      "added_to_queue": "2026-10-20T07:51:45.934Z"
+    },
+    {
+      "name": "python-mss",
+      "html_url": "https://github.com/BoboTiG/python-mss",
+      "description": "An ultra fast cross-platform multiple screenshots module in pure Python using ctypes.",
+      "topics": [
+        "cli",
+        "cross-platform",
+        "ctypes",
+        "efficiency",
+        "gnu-linux",
+        "macos",
+        "monitor",
+        "mss",
+        "python",
+        "python-library",
+        "python-mss",
+        "screenshot",
+        "windows"
+      ],
+      "stargazers_count": 1287,
+      "pushed_at": "2026-10-19T12:50:41Z",
+      "added_to_queue": "2026-10-20T07:51:45.934Z"
+    },
+    {
+      "name": "bareos",
+      "html_url": "https://github.com/bareos/bareos",
+      "description": "Bareos is a cross-network Open Source backup solution (licensed under AGPLv3) which preserves, archives, and recovers data from all major operating systems.",
+      "topics": [
+        "archiving",
+        "backup",
+        "backup-solution",
+        "backup-utility",
+        "bareos",
+        "ceph",
+        "compression",
+        "cross-platform",
+        "disaster-recovery",
+        "encrypt",
+        "gluster",
+        "mysql",
+        "postgresql",
+        "python",
+        "recover",
+        "restore",
+        "s3",
+        "security",
+        "vmware"
+      ],
+      "stargazers_count": 1269,
+      "pushed_at": "2026-10-16T09:20:57Z",
+      "added_to_queue": "2026-10-20T07:51:45.935Z"
+    },
+    {
+      "name": "PoloDB",
+      "html_url": "https://github.com/PoloDB/PoloDB",
+      "description": "PoloDB is an embedded document database.",
+      "topics": [
+        "cross-platform",
+        "database",
+        "document-database",
+        "embedded-database",
+        "localfirst",
+        "nosql",
+        "rust"
+      ],
+      "stargazers_count": 1247,
+      "pushed_at": "2026-10-12T22:44:40Z",
+      "added_to_queue": "2026-10-20T07:51:45.935Z"
+    },
+    {
+      "name": "Player",
+      "html_url": "https://github.com/EasyRPG/Player",
+      "description": "RPG Maker 2000/2003 and EasyRPG games interpreter",
+      "topics": [
+        "3ds-homebrew",
+        "cross-platform",
+        "game-2d",
+        "game-development",
+        "game-engine",
+        "game-interpreter",
+        "psvita",
+        "rm2k",
+        "rm2k3",
+        "rpg-engine",
+        "rpg-maker",
+        "rpg-maker-2000",
+        "rpg-maker-2003",
+        "rpg-maker-2k",
+        "rpg-maker-2k3",
+        "rpgmaker",
+        "rpgmaker2000",
+        "rpgmaker2003",
+        "switch-homebrew",
+        "wii-homebrew"
+      ],
+      "stargazers_count": 1237,
+      "pushed_at": "2026-10-19T17:52:03Z",
+      "added_to_queue": "2026-10-20T07:51:45.935Z"
+    },
+    {
+      "name": "objectbox-dart",
+      "html_url": "https://github.com/objectbox/objectbox-dart",
+      "description": "Flutter database for super-fast Dart object persistence",
+      "topics": [
+        "android",
+        "cross-platform",
+        "dart",
+        "database",
+        "embedded",
+        "firebase",
+        "flutter",
+        "ios",
+        "mobile",
+        "nosql",
+        "offline-first",
+        "sustainable",
+        "sync"
+      ],
+      "stargazers_count": 1236,
+      "pushed_at": "2026-10-12T11:29:53Z",
+      "added_to_queue": "2026-10-20T07:51:45.935Z"
+    },
+    {
+      "name": "CamerAwesome",
+      "html_url": "https://github.com/Apparence-io/CamerAwesome",
+      "description": "📸 Embedding a camera experience within your own app shouldn't be that hard. A flutter plugin to integrate awesome Android / iOS camera experience.",
+      "topics": [
+        "camera",
+        "cross-platform",
+        "flutter",
+        "flutter-plugin",
+        "mobile-development"
+      ],
+      "stargazers_count": 1218,
+      "pushed_at": "2026-10-08T10:51:32Z",
+      "added_to_queue": "2026-10-20T07:51:45.935Z"
+    },
+    {
+      "name": "Reaktive",
+      "html_url": "https://github.com/badoo/Reaktive",
+      "description": "Kotlin multi-platform implementation of Reactive Extensions",
+      "topics": [
+        "android",
+        "cross-platform",
+        "ios",
+        "kotlin",
+        "kotlin-multiplatform",
+        "kotlin-native",
+        "multi-platform",
+        "multiplatform",
+        "reactive",
+        "reaktive",
+        "rx",
+        "rxkotlin"
+      ],
+      "stargazers_count": 1214,
+      "pushed_at": "2026-09-30T06:17:14Z",
+      "added_to_queue": "2026-10-20T07:51:45.935Z"
+    },
+    {
+      "name": "libass",
+      "html_url": "https://github.com/libass/libass",
+      "description": "libass is a portable subtitle renderer for the ASS/SSA (Advanced Substation Alpha/Substation Alpha) subtitle format.",
+      "topics": [
+        "advanced-substation-alpha",
+        "ass",
+        "c",
+        "cross-platform",
+        "libass",
+        "ssa",
+        "substation-alpha",
+        "subtitle-format",
+        "subtitle-formats",
+        "subtitles"
+      ],
+      "stargazers_count": 1190,
+      "pushed_at": "2026-09-17T15:22:52Z",
+      "added_to_queue": "2026-10-20T07:51:45.935Z"
+    },
+    {
+      "name": "csvtk",
+      "html_url": "https://github.com/shenwei356/csvtk",
+      "description": "A cross-platform, efficient and practical CSV/TSV toolkit in Golang",
+      "topics": [
+        "bioinformatics",
+        "command-line",
+        "cross-platform",
+        "csv",
+        "golang",
+        "tool",
+        "toolkit",
+        "tsv"
+      ],
+      "stargazers_count": 1173,
+      "pushed_at": "2026-10-19T08:37:06Z",
+      "added_to_queue": "2026-10-20T07:51:45.935Z"
+    },
+    {
+      "name": "keymapper",
+      "html_url": "https://github.com/houmain/keymapper",
+      "description": "A cross-platform context-aware key remapper.",
+      "topics": [
+        "accessibility",
+        "automation",
+        "context-awareness",
+        "cross-platform",
+        "keyboard-layout",
+        "keyboard-shortcuts",
+        "keymapper",
+        "productivity",
+        "wayland"
+      ],
+      "stargazers_count": 1169,
+      "pushed_at": "2026-10-19T18:51:39Z",
+      "added_to_queue": "2026-10-20T07:51:45.935Z"
+    },
+    {
+      "name": "Avalonia.Samples",
+      "html_url": "https://github.com/AvaloniaUI/Avalonia.Samples",
+      "description": "Avalonia.Samples aims to provide some minimal samples focusing on a particular issue at a time. This should help getting new users started.",
+      "topics": [
+        "avalonia",
+        "avaloniaui",
+        "c-sharp",
+        "cross-platform",
+        "dotnet",
+        "front-end-development",
+        "hacktoberfest",
+        "sample-code",
+        "samples",
+        "tutorials"
+      ],
+      "stargazers_count": 1166,
+      "pushed_at": "2026-10-14T02:32:21Z",
+      "added_to_queue": "2026-10-20T07:51:45.935Z"
+    },
+    {
+      "name": "shell360",
+      "html_url": "https://github.com/nashaofu/shell360",
+      "description": "Shell360 is a cross-platform SSH and SFTP client.",
+      "topics": [
+        "cross-platform",
+        "rust",
+        "sftp",
+        "ssh",
+        "ssh-client",
+        "tauri",
+        "tauri-app"
+      ],
+      "stargazers_count": 1159,
+      "pushed_at": "2026-10-11T04:57:43Z",
+      "added_to_queue": "2026-10-20T07:51:45.935Z"
+    },
+    {
+      "name": "tmux-mem-cpu-load",
+      "html_url": "https://github.com/thewtex/tmux-mem-cpu-load",
+      "description": "CPU, RAM, and load monitor for use with tmux",
+      "topics": [
+        "cpu-monitoring",
+        "cross-platform",
+        "system-information",
+        "tmux"
+      ],
+      "stargazers_count": 1131,
+      "pushed_at": "2026-08-04T19:24:10Z",
+      "added_to_queue": "2026-10-20T07:51:45.935Z"
+    },
+    {
+      "name": "mpc-qt",
+      "html_url": "https://github.com/mpc-qt/mpc-qt",
+      "description": "Media Player Classic Qute Theater",
+      "topics": [
+        "audio-player",
+        "clone",
+        "cross-platform",
+        "media-player",
+        "media-player-classic",
+        "mpv",
+        "player",
+        "qt",
+        "video-player"
+      ],
+      "stargazers_count": 1126,
+      "pushed_at": "2026-10-20T00:51:31Z",
+      "added_to_queue": "2026-10-20T07:51:45.935Z"
+    },
+    {
+      "name": "ps3-disc-dumper",
+      "html_url": "https://github.com/13xforever/ps3-disc-dumper",
+      "description": "A handy utility to make decrypted PS3 disc dumps",
+      "topics": [
+        "avalonia-ui",
+        "blu-ray",
+        "criptography",
+        "cross-platform",
+        "decryption",
+        "emulation",
+        "fluent-design-system",
+        "fluent-ui"
+      ],
+      "stargazers_count": 1105,
+      "pushed_at": "2026-07-03T10:31:26Z",
+      "added_to_queue": "2026-10-20T07:51:45.935Z"
+    },
+    {
+      "name": "maliang",
+      "html_url": "https://github.com/Xiaokang2022/maliang",
+      "description": "A lightweight UI framework based on tkinter with all UI drawn in Canvas!🎨",
+      "topics": [
+        "canvas",
+        "cross-platform",
+        "custom",
+        "gui",
+        "lightweight",
+        "modern-ui",
+        "python",
+        "themed",
+        "tk",
+        "tkinter",
+        "typed",
+        "ui",
+        "ui-design",
+        "widget"
+      ],
+      "stargazers_count": 1103,
+      "pushed_at": "2026-10-06T11:08:16Z",
+      "added_to_queue": "2026-10-20T07:51:45.935Z"
+    },
+    {
+      "name": "TGUI",
+      "html_url": "https://github.com/texus/TGUI",
+      "description": "Cross-platform modern C++ GUI",
+      "topics": [
+        "c-plus-plus",
+        "cross-platform",
+        "gamedev",
+        "gui",
+        "sfml",
+        "tgui",
+        "ui"
+      ],
+      "stargazers_count": 1077,
+      "pushed_at": "2026-10-17T20:19:21Z",
+      "added_to_queue": "2026-10-20T07:51:45.935Z"
+    },
+    {
+      "name": "brynet",
+      "html_url": "https://github.com/IronsDu/brynet",
+      "description": "A Header-Only cross-platform C++ TCP network library . We can use vcpkg(https://github.com/Microsoft/vcpkg/tree/master/ports/brynet) install brynet.",
+      "topics": [
+        "c-plus-plus",
+        "cpp11",
+        "cross-platform",
+        "header-only",
+        "http",
+        "https",
+        "multithreading",
+        "networking",
+        "tcp-library",
+        "websocket"
+      ],
+      "stargazers_count": 1064,
+      "pushed_at": "2026-05-25T22:43:31Z",
+      "added_to_queue": "2026-10-20T07:51:45.935Z"
+    },
+    {
+      "name": "nativescript-cli",
+      "html_url": "https://github.com/NativeScript/nativescript-cli",
+      "description": "NativeScript CLI - command-line tools",
+      "topics": [
+        "android",
+        "cli",
+        "cross-platform",
+        "hacktoberfest",
+        "ios",
+        "mobile",
+        "nativescript"
+      ],
+      "stargazers_count": 1052,
+      "pushed_at": "2026-10-15T21:43:12Z",
+      "added_to_queue": "2026-10-20T07:51:45.935Z"
+    },
+    {
+      "name": "Sideloader",
+      "html_url": "https://github.com/Dadoum/Sideloader",
+      "description": "Open-source cross-platform iOS app sideloader (yep, even Linux is supported). Alternative to Sideloadly, AltServer, SideServer, Cydia Impactor, iOS App Signer…",
+      "topics": [
+        "cli",
+        "codesign",
+        "cross-platform",
+        "d",
+        "dlang",
+        "gtk",
+        "gtk4",
+        "gui",
+        "ios",
+        "ios-signer-service",
+        "linux",
+        "macos",
+        "qt",
+        "sideload",
+        "sideloader",
+        "sideloading",
+        "sideloading-ipas",
+        "windows"
+      ],
+      "stargazers_count": 1044,
+      "pushed_at": "2026-09-18T01:13:46Z",
+      "added_to_queue": "2026-10-20T07:52:05.318Z"
+    },
+    {
+      "name": "server",
+      "html_url": "https://github.com/mangoszero/server",
+      "description": "Mangos ZERO is a server for World of Warcraft. The server serves full world content including authentication & scripts support. Compatible with World of Warcraft clients 1.12.1-1.12.3 - Report all issues at https://www.getmangos.eu/bug-tracker/mangos-zero/",
+      "topics": [
+        "bzip2",
+        "cross-platform",
+        "g3d",
+        "lua",
+        "mango",
+        "mangos",
+        "openssl",
+        "vanilla",
+        "visual-studio",
+        "warcraft"
+      ],
+      "stargazers_count": 1034,
+      "pushed_at": "2026-10-07T18:40:18Z",
+      "added_to_queue": "2026-10-20T07:52:05.318Z"
+    },
+    {
+      "name": "gimli",
+      "html_url": "https://github.com/gimli-rs/gimli",
+      "description": "A library for reading and writing the DWARF debugging format",
+      "topics": [
+        "cross-platform",
+        "dwarf",
+        "rust"
+      ],
+      "stargazers_count": 1018,
+      "pushed_at": "2026-10-19T13:13:40Z",
+      "added_to_queue": "2026-10-20T07:52:05.318Z"
+    },
+    {
+      "name": "MonoMod",
+      "html_url": "https://github.com/MonoMod/MonoMod",
+      "description": "C# modding swiss army knife, powered by cecil.",
+      "topics": [
+        "c-sharp",
+        "cecil",
+        "cil",
+        "cross-platform",
+        "detours",
+        "modding",
+        "monkey-patching",
+        "mono",
+        "msil",
+        "net-framework",
+        "patching",
+        "unity"
+      ],
+      "stargazers_count": 997,
+      "pushed_at": "2026-10-19T03:36:12Z",
+      "added_to_queue": "2026-10-20T07:52:05.318Z"
+    },
+    {
+      "name": "platformdirs",
+      "html_url": "https://github.com/tox-dev/platformdirs",
+      "description": "A Python package for determining platform-specific directories (e.g. user data, config, cache, logs). Handles the differences between macOS, Windows, Linux/Unix, and Android so you don't have to.",
+      "topics": [
+        "appdirs",
+        "configuration",
+        "cross-platform",
+        "xdg",
+        "xdg-user-dirs"
+      ],
+      "stargazers_count": 993,
+      "pushed_at": "2026-10-19T17:03:34Z",
+      "added_to_queue": "2026-10-20T07:52:05.318Z"
+    },
+    {
+      "name": "splat",
+      "html_url": "https://github.com/reactiveui/splat",
+      "description": "Cross-platform building blocks for .NET applications. Provides service location and dependency resolution, logging, platform-neutral images, colours and geometry, and unit test and design mode detection.",
+      "topics": [
+        "cross-platform",
+        "hacktoberfest",
+        "ioc",
+        "logging",
+        "nlog",
+        "splat-locators"
+      ],
+      "stargazers_count": 991,
+      "pushed_at": "2026-10-19T02:44:08Z",
+      "added_to_queue": "2026-10-20T07:52:05.318Z"
+    },
+    {
+      "name": "autopy",
+      "html_url": "https://github.com/autopilot-rs/autopy",
+      "description": "A simple, cross-platform GUI automation module for Python and Rust.",
+      "topics": [
+        "automation",
+        "cross-platform",
+        "gui",
+        "input",
+        "python",
+        "simulation"
+      ],
+      "stargazers_count": 981,
+      "pushed_at": "2026-09-28T15:37:20Z",
+      "added_to_queue": "2026-10-20T07:52:05.318Z"
+    },
+    {
+      "name": "storypad",
+      "html_url": "https://github.com/theachoem/storypad",
+      "description": "An open source diary & journal app with over 100k downloads 🪴",
+      "topics": [
+        "cross-platform",
+        "diary",
+        "diary-app",
+        "journal-app",
+        "journals",
+        "minimalist",
+        "notes-app",
+        "offline-first"
+      ],
+      "stargazers_count": 976,
+      "pushed_at": "2026-10-19T17:26:27Z",
+      "added_to_queue": "2026-10-20T07:52:05.318Z"
+    },
+    {
+      "name": "MethaneKit",
+      "html_url": "https://github.com/MethanePowered/MethaneKit",
+      "description": "🎲 Modern 3D graphics made simple with C++20 cross-platform framework and rendering abstraction API on top of DirectX 12, Vulkan & Metal",
+      "topics": [
+        "3d-engine",
+        "3d-graphics",
+        "c-plus-plus-20",
+        "cross-platform",
+        "d3d12",
+        "directx-12",
+        "game-development",
+        "gamedev",
+        "graphics",
+        "graphics-engine",
+        "graphics-library",
+        "graphics-programming",
+        "hlsl",
+        "ios",
+        "macos",
+        "metal",
+        "renderer",
+        "rhi",
+        "vulkan",
+        "vulkan-api"
+      ],
+      "stargazers_count": 976,
+      "pushed_at": "2026-09-20T10:02:33Z",
+      "added_to_queue": "2026-10-20T07:52:05.318Z"
+    },
+    {
+      "name": "CTK",
+      "html_url": "https://github.com/commontk/CTK",
+      "description": "A set of common support code for medical imaging, surgical navigation, and related purposes.",
+      "topics": [
+        "3d-slicer",
+        "c-plus-plus",
+        "cross-platform",
+        "dicom",
+        "itk",
+        "medical-imaging",
+        "mitk",
+        "open-source",
+        "osgi",
+        "plugin-manager",
+        "python",
+        "qt",
+        "vtk"
+      ],
+      "stargazers_count": 968,
+      "pushed_at": "2026-10-13T05:42:36Z",
+      "added_to_queue": "2026-10-20T07:52:05.319Z"
+    },
+    {
+      "name": "libhttpserver",
+      "html_url": "https://github.com/etr/libhttpserver",
+      "description": "C++ library for creating an embedded Rest HTTP server (and more)",
+      "topics": [
+        "c-plus-plus",
+        "cross-platform",
+        "http",
+        "http-server",
+        "https",
+        "https-server",
+        "ipv6",
+        "rest-api",
+        "rest-server",
+        "restful-api",
+        "shoutcast",
+        "tls"
+      ],
+      "stargazers_count": 955,
+      "pushed_at": "2026-10-16T04:17:14Z",
+      "added_to_queue": "2026-10-20T07:52:05.319Z"
+    },
+    {
+      "name": "xmake-repo",
+      "html_url": "https://github.com/xmake-io/xmake-repo",
+      "description": "📦 An official xmake package repository",
+      "topics": [
+        "build",
+        "cross-platform",
+        "package",
+        "repository",
+        "xmake"
+      ],
+      "stargazers_count": 941,
+      "pushed_at": "2026-10-20T03:28:32Z",
+      "added_to_queue": "2026-10-20T07:52:05.319Z"
+    },
+    {
+      "name": "freeglut",
+      "html_url": "https://github.com/freeglut/freeglut",
+      "description": "Free implementation of the OpenGL Utility Toolkit (GLUT)",
+      "topics": [
+        "cross-platform",
+        "glut",
+        "opengl"
+      ],
+      "stargazers_count": 921,
+      "pushed_at": "2026-08-28T21:09:33Z",
+      "added_to_queue": "2026-10-20T07:52:05.319Z"
+    },
+    {
+      "name": "textadept",
+      "html_url": "https://github.com/orbitalquark/textadept",
+      "description": "Textadept is a fast, minimalist, and remarkably extensible cross-platform text editor for programmers.",
+      "topics": [
+        "cross-platform",
+        "curses",
+        "editor",
+        "gtk",
+        "lua",
+        "qt",
+        "scintilla",
+        "terminal",
+        "text-editor",
+        "textadept"
+      ],
+      "stargazers_count": 921,
+      "pushed_at": "2026-09-01T09:20:40Z",
+      "added_to_queue": "2026-10-20T07:52:05.319Z"
+    },
+    {
+      "name": "Techmino",
+      "html_url": "https://github.com/26F-Studio/Techmino",
+      "description": "Techmino:方块研究所唯一官方仓库(Github)",
+      "topics": [
+        "cross-platform",
+        "game",
+        "techmino",
+        "tetra"
+      ],
+      "stargazers_count": 916,
+      "pushed_at": "2026-09-16T08:08:20Z",
+      "added_to_queue": "2026-10-20T07:52:05.319Z"
+    },
+    {
+      "name": "SORT",
+      "html_url": "https://github.com/JiayinCao/SORT",
+      "description": "Simple Open-source Ray Tracer",
+      "topics": [
+        "blender",
+        "computer-graphics",
+        "cross-platform",
+        "offline-rendering",
+        "ray-tracing",
+        "raytracing"
+      ],
+      "stargazers_count": 916,
+      "pushed_at": "2026-10-07T14:55:51Z",
+      "added_to_queue": "2026-10-20T07:52:05.319Z"
+    },
+    {
+      "name": "radiance",
+      "html_url": "https://github.com/kirill-grouchnikov/radiance",
+      "description": "Building modern, elegant and fast Swing applications",
+      "topics": [
+        "animation",
+        "components",
+        "cross-platform",
+        "desktop",
+        "icons",
+        "kotlin",
+        "look-and-feel",
+        "svg",
+        "swing"
+      ],
+      "stargazers_count": 909,
+      "pushed_at": "2026-10-19T21:08:16Z",
+      "added_to_queue": "2026-10-20T07:52:05.319Z"
+    },
+    {
+      "name": "systemshock",
+      "html_url": "https://github.com/Interrupt/systemshock",
+      "description": "Shockolate - A minimalist and cross platform System Shock source port.",
+      "topics": [
+        "c",
+        "cross-platform",
+        "fps",
+        "games",
+        "immersive-sim",
+        "opengl",
+        "retro",
+        "sdl",
+        "systemshock"
+      ],
+      "stargazers_count": 908,
+      "pushed_at": "2026-10-18T08:55:30Z",
+      "added_to_queue": "2026-10-20T07:52:05.319Z"
+    },
+    {
+      "name": "custom-electron-titlebar",
+      "html_url": "https://github.com/AlexTorresDev/custom-electron-titlebar",
+      "description": "Custom electon title bar inpire on VS Code title bar",
+      "topics": [
+        "cross-platform",
+        "custom-electron-titlebar",
+        "customizable",
+        "electron",
+        "electron-app",
+        "icons",
+        "javascript",
+        "linux",
+        "menu",
+        "theme",
+        "titlebar",
+        "typescript",
+        "windows"
+      ],
+      "stargazers_count": 902,
+      "pushed_at": "2026-10-15T00:39:00Z",
+      "added_to_queue": "2026-10-20T07:52:05.319Z"
+    },
+    {
+      "name": "AtomUI",
+      "html_url": "https://github.com/AtomUI/AtomUI",
+      "description": "An enhancement and extension library for Avalonia, bringing the Ant Design design language, modern controls, theming, native integrations, and cross-platform UI capabilities to .NET desktop apps.",
+      "topics": [
+        "ant-design",
+        "avalonia",
+        "cross-platform",
+        "cross-platform-desktop",
+        "cross-platform-gui",
+        "dotnet",
+        "dotnetcore",
+        "uiframework"
+      ],
+      "stargazers_count": 891,
+      "pushed_at": "2026-10-20T07:42:05Z",
+      "added_to_queue": "2026-10-20T07:52:05.319Z"
+    },
+    {
+      "name": "Foster",
+      "html_url": "https://github.com/FosterFramework/Foster",
+      "description": "A small C# game framework",
+      "topics": [
+        "2d",
+        "cross-platform",
+        "csharp",
+        "dotnet",
+        "game-development",
+        "game-engine",
+        "game-framework",
+        "gamedev",
+        "graphics"
+      ],
+      "stargazers_count": 886,
+      "pushed_at": "2026-10-19T19:49:15Z",
+      "added_to_queue": "2026-10-20T07:52:05.319Z"
+    },
+    {
+      "name": "doriax",
+      "html_url": "https://github.com/doriaxengine/doriax",
+      "description": "Game engine for 2D and 3D projects with entity component system (ECS) and data-oriented design",
+      "topics": [
+        "cross-platform",
+        "data-oriented-design",
+        "directx",
+        "ecs",
+        "entity-component-system",
+        "game-dev",
+        "game-development",
+        "game-engine",
+        "gamedev",
+        "metalapi",
+        "opengl",
+        "opengl-es"
+      ],
+      "stargazers_count": 877,
+      "pushed_at": "2026-10-20T02:32:09Z",
+      "added_to_queue": "2026-10-20T07:52:05.319Z"
+    },
+    {
+      "name": "Zero-K",
+      "html_url": "https://github.com/ZeroK-RTS/Zero-K",
+      "description": "Open source RTS game running on the Spring/Recoil engine",
+      "topics": [
+        "cross-platform",
+        "game",
+        "gamedev",
+        "lua",
+        "modding",
+        "multi-platform",
+        "open-source",
+        "opensource",
+        "real-time-strategy",
+        "rts",
+        "rts-game",
+        "scifi",
+        "springrts"
+      ],
+      "stargazers_count": 873,
+      "pushed_at": "2026-10-19T23:23:27Z",
+      "added_to_queue": "2026-10-20T07:52:05.319Z"
+    },
+    {
+      "name": "ObEngine",
+      "html_url": "https://github.com/ObEngine/ObEngine",
+      "description": "2D Game Engine with Lua Scripting made on top of SFML !",
+      "topics": [
+        "2d",
+        "2d-framework",
+        "2d-game-engine",
+        "2d-game-framework",
+        "cmake",
+        "collider",
+        "cplusplus",
+        "cpp17",
+        "cross-platform",
+        "engine",
+        "game-development",
+        "game-engine",
+        "gamedev",
+        "hacktoberfest",
+        "lua-script",
+        "sfml",
+        "zlib"
+      ],
+      "stargazers_count": 866,
+      "pushed_at": "2026-07-09T00:56:01Z",
+      "added_to_queue": "2026-10-20T07:52:05.319Z"
+    },
+    {
+      "name": "cfnb",
+      "html_url": "https://github.com/xinyitang3/cfnb",
+      "description": "这是一个全自动的 Cloudflare CDN 节点优选工具。它通过 TCP 延迟筛选 + IP 可用性二次检测 + HTTP 延迟及抖动检测 + 真实带宽测速 多重机制，从多个公开数据源中聚合节点，自动识别并解析任意格式（标准代码、中文名、emoji国旗、JSON等），筛选出当前网络环境下速度最快、延迟最低、抖动最小的 Cloudflare IP，并支持自动更新至 Cloudflare DNS 以及同步至 GitHub 仓库，同时支持微信实时通知。",
+      "topics": [
+        "automation",
+        "bandwidth-test",
+        "cloudflare",
+        "cloudflare-cdn",
+        "cross-platform",
+        "ip-scanner",
+        "network-optimization",
+        "proxy",
+        "python",
+        "wxpusher"
+      ],
+      "stargazers_count": 855,
+      "pushed_at": "2026-10-10T17:48:51Z",
+      "added_to_queue": "2026-10-20T07:52:05.319Z"
+    },
+    {
+      "name": "lime",
+      "html_url": "https://github.com/openfl/lime",
+      "description": "A foundational Haxe framework for cross-platform development",
+      "topics": [
+        "cross-platform",
+        "frontend",
+        "game-development",
+        "gamedev",
+        "hashlink",
+        "haxe",
+        "lime",
+        "multi-platform",
+        "neko",
+        "openfl"
+      ],
+      "stargazers_count": 854,
+      "pushed_at": "2026-10-20T05:43:40Z",
+      "added_to_queue": "2026-10-20T07:52:05.319Z"
+    },
+    {
+      "name": "cute_framework",
+      "html_url": "https://github.com/RandyGaul/cute_framework",
+      "description": "The *cutest* framework out there for creating 2D and 3D games in C++!",
+      "topics": [
+        "cross-platform",
+        "game-development",
+        "game-engine",
+        "game-framework",
+        "gamedev",
+        "multi-platform",
+        "open-source",
+        "videogames"
+      ],
+      "stargazers_count": 852,
+      "pushed_at": "2026-10-19T23:18:52Z",
+      "added_to_queue": "2026-10-20T07:52:05.319Z"
+    },
+    {
+      "name": "wexflow",
+      "html_url": "https://github.com/aelassas/wexflow",
+      "description": "Workflow Automation Engine",
+      "topics": [
+        "automation",
+        "cross-platform",
+        "csharp",
+        "dotnet",
+        "etl",
+        "scheduler",
+        "wexflow",
+        "workflow",
+        "workflow-engine"
+      ],
+      "stargazers_count": 845,
+      "pushed_at": "2026-10-13T20:28:59Z",
+      "added_to_queue": "2026-10-20T07:52:05.320Z"
+    },
+    {
+      "name": "tcl",
+      "html_url": "https://github.com/tcltk/tcl",
+      "description": "The Tcl Core. (Mirror of core.tcl-lang.org)",
+      "topics": [
+        "cross-platform",
+        "interpreter",
+        "jit-compiler",
+        "jit-interpreter",
+        "language",
+        "linux",
+        "macos",
+        "programming-language",
+        "script",
+        "scripting",
+        "scripts",
+        "tcl",
+        "unix",
+        "windows"
+      ],
+      "stargazers_count": 842,
+      "pushed_at": "2026-10-20T06:49:02Z",
+      "added_to_queue": "2026-10-20T07:52:05.320Z"
+    },
+    {
+      "name": "midir",
+      "html_url": "https://github.com/Boddlnagg/midir",
+      "description": "Cross-platform realtime MIDI processing in Rust.",
+      "topics": [
+        "audio",
+        "cross-platform",
+        "library",
+        "midi",
+        "rust",
+        "rust-bindings"
+      ],
+      "stargazers_count": 831,
+      "pushed_at": "2026-10-10T11:05:27Z",
+      "added_to_queue": "2026-10-20T07:52:05.320Z"
+    },
+    {
+      "name": "nokhwa",
+      "html_url": "https://github.com/l1npengtul/nokhwa",
+      "description": "Cross Platform Rust Library for Powerful Webcam/Camera Capture",
+      "topics": [
+        "avfoundation",
+        "camera",
+        "camera-api",
+        "cross-platform",
+        "linux",
+        "macos",
+        "mediafoundation",
+        "rust",
+        "v4l2",
+        "webcam",
+        "webcam-capture",
+        "windows"
+      ],
+      "stargazers_count": 816,
+      "pushed_at": "2026-05-15T02:05:15Z",
+      "added_to_queue": "2026-10-20T07:52:05.320Z"
+    },
+    {
+      "name": "UnityStarter",
+      "html_url": "https://github.com/MaiKuraki/UnityStarter",
+      "description": "Production-ready modular Unity framework: UE-inspired Gameplay Ability System, zero-GC core, HybridCLR hot-update, Luban config pipeline, data-driven build & atlas workflows. DI-friendly, deterministic, cross-platform, CI-ready. 生产级模块化 Unity 框架：类虚幻引擎 GAS 玩法能力系统 · 零 GC 核心 · HybridCLR 热更新 · Luban 配置管线 · 数据驱动构建与图集工作流。DI 友好 · 确定性构建 · 跨平台 · CI 就绪。",
+      "topics": [
+        "addressables",
+        "ci-cd",
+        "cross-platform",
+        "csharp",
+        "dependency-injection",
+        "game-development",
+        "game-framework",
+        "gamedev",
+        "gameplay-ability-system",
+        "gas",
+        "hot-update",
+        "hybridclr",
+        "luban",
+        "unity",
+        "unity-framework",
+        "unity-ui-framework",
+        "unreal-engine",
+        "upm",
+        "yooasset",
+        "zero-gc"
+      ],
+      "stargazers_count": 798,
+      "pushed_at": "2026-10-16T12:52:28Z",
+      "added_to_queue": "2026-10-20T07:52:05.320Z"
+    },
+    {
+      "name": "denops.vim",
+      "html_url": "https://github.com/vim-denops/denops.vim",
+      "description": "🐜 An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno",
+      "topics": [
+        "cross-platform",
+        "deno",
+        "neovim",
+        "vim",
+        "vim-denops"
+      ],
+      "stargazers_count": 794,
+      "pushed_at": "2026-10-13T00:57:08Z",
+      "added_to_queue": "2026-10-20T07:52:05.320Z"
+    },
+    {
+      "name": "pillar-valley",
+      "html_url": "https://github.com/EvanBacon/pillar-valley",
+      "description": "👾A cross-platform video game built with Expo and three.js",
+      "topics": [
+        "android",
+        "app",
+        "cross-platform",
+        "expo",
+        "game",
+        "gsap",
+        "ios",
+        "react-native",
+        "react-native-web",
+        "react-navigation",
+        "reactjs",
+        "rematch",
+        "threejs",
+        "tutorial",
+        "tween",
+        "website"
+      ],
+      "stargazers_count": 772,
+      "pushed_at": "2026-05-26T16:26:55Z",
+      "added_to_queue": "2026-10-20T07:52:05.320Z"
+    },
+    {
+      "name": "plibsys",
+      "html_url": "https://github.com/saprykin/plibsys",
+      "description": "Highly portable C system library: threads and synchronization primitives, sockets (TCP, UDP, SCTP), IPv4 and IPv6, IPC, hash functions (MD5, SHA-1, SHA-2, SHA-3, GOST), binary trees (RB, AVL) and more. Native code performance.",
+      "topics": [
+        "aix",
+        "bsd",
+        "cross-platform",
+        "hash-functions",
+        "hp-ux",
+        "ini-parser",
+        "ipv4",
+        "ipv6",
+        "mutex",
+        "openvms",
+        "platform-independent",
+        "posix",
+        "profiling",
+        "qnx",
+        "shared-libraries",
+        "socket",
+        "thread-library",
+        "threads",
+        "tree-structure"
+      ],
+      "stargazers_count": 769,
+      "pushed_at": "2026-07-17T19:08:37Z",
+      "added_to_queue": "2026-10-20T07:52:05.320Z"
+    },
+    {
+      "name": "gotohp",
+      "html_url": "https://github.com/xob0t/gotohp",
+      "description": "Unofficial Google Photos Desktop GUI Client",
+      "topics": [
+        "cross-platform",
+        "google-photos",
+        "gui",
+        "reverse-engineering",
+        "unlimited-storage",
+        "unofficial",
+        "uploader",
+        "wails3"
+      ],
+      "stargazers_count": 757,
+      "pushed_at": "2026-09-14T16:57:55Z",
+      "added_to_queue": "2026-10-20T07:52:05.320Z"
+    },
+    {
+      "name": "rayfish",
+      "html_url": "https://github.com/rayfish/rayfish",
+      "description": "Peer-to-peer mesh VPN over iroh. Connect computers, phones, and servers without an account or control server.",
+      "topics": [
+        "cross-platform",
+        "ipv6",
+        "iroh",
+        "mesh-network",
+        "peer-to-peer",
+        "quic",
+        "rust",
+        "trustless",
+        "vpn"
+      ],
+      "stargazers_count": 746,
+      "pushed_at": "2026-10-20T06:56:53Z",
+      "added_to_queue": "2026-10-20T07:52:05.320Z"
+    },
+    {
+      "name": "hwinfo",
+      "html_url": "https://github.com/lfreist/hwinfo",
+      "description": "cross platform C++ library for hardware information (CPU, RAM, GPU, ...)",
+      "topics": [
+        "api",
+        "apple",
+        "c-plus-plus",
+        "cpp",
+        "cpu",
+        "cpuid",
+        "cross-platform",
+        "disk",
+        "hardware",
+        "hardware-info",
+        "hardware-information",
+        "hwinfo",
+        "linux",
+        "macos",
+        "motherboard",
+        "ram",
+        "unix",
+        "windows"
+      ],
+      "stargazers_count": 743,
+      "pushed_at": "2026-10-15T07:21:30Z",
+      "added_to_queue": "2026-10-20T07:52:05.320Z"
+    },
+    {
+      "name": "ubelt",
+      "html_url": "https://github.com/Erotemic/ubelt",
+      "description": "A Python utility library with a stdlib like feel and extra batteries. Paths, Progress, Dicts, Downloads, Caching, Hashing: ubelt makes it easy!",
+      "topics": [
+        "cross-platform",
+        "python",
+        "utilities",
+        "utility-library"
+      ],
+      "stargazers_count": 740,
+      "pushed_at": "2026-09-27T04:16:02Z",
+      "added_to_queue": "2026-10-20T07:52:05.320Z"
+    },
+    {
+      "name": "ClassicUO",
+      "html_url": "https://github.com/ClassicUO/ClassicUO",
+      "description": "ClassicUO - an open source implementation of the Ultima Online Classic Client.",
+      "topics": [
+        "classicuo",
+        "cross-platform",
+        "directx-11",
+        "fna-xna",
+        "games",
+        "opengl",
+        "ultima-online",
+        "vulkan"
+      ],
+      "stargazers_count": 735,
+      "pushed_at": "2026-10-16T22:25:02Z",
+      "added_to_queue": "2026-10-20T07:52:05.320Z"
+    },
+    {
+      "name": "learn-dotnet-maui",
+      "html_url": "https://github.com/jfversluis/learn-dotnet-maui",
+      "description": "A repository filled with resources available to you to start learning or deepen your knowledge about .NET MAUI",
+      "topics": [
+        "cross-platform",
+        "dotnet-for-android",
+        "dotnet-for-ios",
+        "dotnet-maui",
+        "hacktoberfest",
+        "maui",
+        "multi-platform-app-ui",
+        "xamarin",
+        "xamarin-forms"
+      ],
+      "stargazers_count": 734,
+      "pushed_at": "2026-08-06T10:28:12Z",
+      "added_to_queue": "2026-10-20T07:52:05.320Z"
+    },
+    {
+      "name": "ui",
+      "html_url": "https://github.com/rust-ui/ui",
+      "description": "A Shadcn-inspired component registry for Rust. Build cross-platform apps for Web, Desktop, iOS and Android.",
+      "topics": [
+        "axum",
+        "components",
+        "cross-platform",
+        "desktop",
+        "leptos",
+        "mobile",
+        "rust",
+        "rust-ui",
+        "shadcn",
+        "shadcn-ui",
+        "tailwindcss",
+        "ui",
+        "wasm"
+      ],
+      "stargazers_count": 733,
+      "pushed_at": "2026-10-18T15:55:06Z",
+      "added_to_queue": "2026-10-20T07:52:05.320Z"
+    },
+    {
+      "name": "react-native-shadow-2",
+      "html_url": "https://github.com/ftzi/react-native-shadow-2",
+      "description": "🥷 Cross-platform shadow for React Native. Supports Android, iOS, Web, and Expo",
+      "topics": [
+        "android",
+        "blur",
+        "borders",
+        "cross-platform",
+        "expo",
+        "improved",
+        "ios",
+        "javascript",
+        "js",
+        "mobile",
+        "new",
+        "radiuses",
+        "react",
+        "react-native",
+        "shadow",
+        "ts",
+        "typescript",
+        "web"
+      ],
+      "stargazers_count": 730,
+      "pushed_at": "2026-08-18T04:56:56Z",
+      "added_to_queue": "2026-10-20T07:52:05.320Z"
+    },
+    {
+      "name": "screen_capture_lite",
+      "html_url": "https://github.com/smasherprog/screen_capture_lite",
+      "description": "cross platform screen/window capturing library",
+      "topics": [
+        "c-plus-plus",
+        "cross-platform",
+        "desktop-duplication-api",
+        "linux",
+        "mac",
+        "screen-capture",
+        "screen-reader",
+        "screen-recorder",
+        "screencast",
+        "screenshot",
+        "screenshot-utility",
+        "screenshots",
+        "windows"
+      ],
+      "stargazers_count": 727,
+      "pushed_at": "2026-05-04T18:35:09Z",
+      "added_to_queue": "2026-10-20T07:52:05.320Z"
+    },
+    {
+      "name": "MewUI",
+      "html_url": "https://github.com/aprillz/MewUI",
+      "description": "A cross-platform and lightweight, code-first .NET GUI framework aimed at NativeAOT.",
+      "topics": [
+        "avalonia",
+        "cross-platform",
+        "dotnet",
+        "gui",
+        "linux",
+        "macos",
+        "native-aot",
+        "nativeaot",
+        "ui",
+        "ui-framework",
+        "ui-library",
+        "windows",
+        "winforms",
+        "wpf"
+      ],
+      "stargazers_count": 719,
+      "pushed_at": "2026-10-20T05:32:56Z",
+      "added_to_queue": "2026-10-20T07:52:05.320Z"
+    },
+    {
+      "name": "IRust",
+      "html_url": "https://github.com/sigmaSd/IRust",
+      "description": "Cross Platform Rust Repl",
+      "topics": [
+        "cross-platform",
+        "repl",
+        "rust"
+      ],
+      "stargazers_count": 718,
+      "pushed_at": "2026-07-23T06:37:05Z",
+      "added_to_queue": "2026-10-20T07:52:05.320Z"
+    },
+    {
+      "name": "pragtical",
+      "html_url": "https://github.com/pragtical/pragtical",
+      "description": "The practical and pragmatic code editor.",
+      "topics": [
+        "code",
+        "cross-platform",
+        "editor",
+        "liteweight",
+        "luajit",
+        "sdl"
+      ],
+      "stargazers_count": 714,
+      "pushed_at": "2026-10-16T22:08:46Z",
+      "added_to_queue": "2026-10-20T07:52:05.320Z"
+    },
+    {
+      "name": "Project_LemonLime",
+      "html_url": "https://github.com/Project-LemonLime/Project_LemonLime",
+      "description": "为了 OI 比赛而生的基于 Lemon + LemonPlus 的轻量评测系统 | 三大桌面系统支持",
+      "topics": [
+        "acm",
+        "acm-icpc",
+        "cross-platform",
+        "hacktoberfest",
+        "lemon",
+        "linux",
+        "oi",
+        "oi-lemon-lemonplus",
+        "programming-contests",
+        "qt",
+        "qt6"
+      ],
+      "stargazers_count": 714,
+      "pushed_at": "2026-10-19T17:16:43Z",
+      "added_to_queue": "2026-10-20T07:52:05.320Z"
+    },
+    {
+      "name": "Musoq",
+      "html_url": "https://github.com/Puchaczov/Musoq",
+      "description": "SQL Runtime without any database",
+      "topics": [
+        "ai-assisted-queries",
+        "cross-platform",
+        "csharp",
+        "csv",
+        "data-analysis-sql",
+        "data-exploration",
+        "data-processing",
+        "dotnet",
+        "dotnet-core",
+        "dotnetcore",
+        "file-system",
+        "plugin-architecture",
+        "query-language",
+        "sql",
+        "sql-like",
+        "text-processing"
+      ],
+      "stargazers_count": 507,
+      "pushed_at": "2026-10-18T00:55:58Z",
+      "added_to_queue": "2026-10-20T07:52:24.899Z"
+    },
+    {
+      "name": "vifm",
+      "html_url": "https://github.com/vifm/vifm",
+      "description": "Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt.",
+      "topics": [
+        "c",
+        "console-application",
+        "cross-platform",
+        "curses",
+        "file-management",
+        "file-manager",
+        "gpl",
+        "ncurses",
+        "terminal-based",
+        "vi-like",
+        "vifm",
+        "vim-like"
+      ],
+      "stargazers_count": 3277,
+      "pushed_at": "2026-10-17T16:27:50Z",
+      "added_to_queue": "2026-10-20T07:52:24.899Z"
+    },
+    {
+      "name": "alphaTab",
+      "html_url": "https://github.com/CoderLine/alphaTab",
+      "description": "alphaTab is a cross platform music notation and guitar tablature rendering library.",
+      "topics": [
+        "alphatab",
+        "guitar",
+        "guitar-tablature",
+        "html5",
+        "html5-web-audio",
+        "javascript",
+        "music-notation",
+        "music-sheet",
+        "musicxml",
+        "svg"
+      ],
+      "stargazers_count": 1878,
+      "pushed_at": "2026-10-17T13:31:53Z",
+      "added_to_queue": "2026-10-20T07:52:24.899Z"
+    },
+    {
+      "name": "Hyprism",
+      "html_url": "https://github.com/hyprismteam/Hyprism",
+      "description": "Open-source, unofficial, cross-platform Hytale launcher with isolated instances, mod discovery, and profile management",
+      "topics": [
+        "game-launcher",
+        "hytale",
+        "hytale-launcher",
+        "mod-manager"
+      ],
+      "stargazers_count": 554,
+      "pushed_at": "2026-10-17T13:12:05Z",
+      "added_to_queue": "2026-10-20T07:52:24.899Z"
+    },
+    {
+      "name": "orca",
+      "html_url": "https://github.com/orca-app/orca",
+      "description": "A Wasm environment for cross-platform, sandboxed graphical applications.",
+      "topics": [],
+      "stargazers_count": 647,
+      "pushed_at": "2026-10-19T15:23:55Z",
+      "added_to_queue": "2026-10-20T07:52:24.899Z"
+    },
+    {
+      "name": "picard",
+      "html_url": "https://github.com/metabrainz/picard",
+      "description": "Picard is a cross-platform music tagger powered by the MusicBrainz database",
+      "topics": [
+        "acoustid",
+        "audio",
+        "id3",
+        "music",
+        "music-tagger",
+        "musicbrainz",
+        "musicbrainz-picard",
+        "picard",
+        "python",
+        "tagger"
+      ],
+      "stargazers_count": 5314,
+      "pushed_at": "2026-10-17T09:29:41Z",
+      "added_to_queue": "2026-10-20T07:52:24.899Z"
+    },
+    {
+      "name": "Pyfa",
+      "html_url": "https://github.com/pyfa-org/Pyfa",
+      "description": "Python fitting assistant, cross-platform fitting tool for EVE Online",
+      "topics": [
+        "eve-online",
+        "fitting",
+        "mmo",
+        "pyfa",
+        "python",
+        "wxpython"
+      ],
+      "stargazers_count": 1803,
+      "pushed_at": "2026-10-17T08:56:24Z",
+      "added_to_queue": "2026-10-20T07:52:24.899Z"
+    },
+    {
+      "name": "Bili23-Downloader",
+      "html_url": "https://github.com/ScottSloan/Bili23-Downloader",
+      "description": "开源、免费、跨平台的 B 站视频下载工具，支持多线程加速、音视频分离、弹幕元数据获取、自定义命名与分类等功能。Open Source, Free, Cross-Platform Bilibili Video Downloader.",
+      "topics": [
+        "bili23",
+        "bilibili",
+        "bilibili-downloader",
+        "downloader",
+        "gui",
+        "linux",
+        "macos",
+        "pyside6",
+        "python",
+        "windows",
+        "wxpython"
+      ],
+      "stargazers_count": 8482,
+      "pushed_at": "2026-10-17T05:18:49Z",
+      "added_to_queue": "2026-10-20T07:52:24.900Z"
+    },
+    {
+      "name": "skystream",
+      "html_url": "https://github.com/akashdh11/skystream",
+      "description": "SkyStream is a modern, cross-platform media streaming client inspired by CloudStream. It uses a custom JavaScript runtime for plugins, allowing users to scrape and stream content from various sources on Android, iOS, Windows, macOS, and Linux from a single codebase.",
+      "topics": [],
+      "stargazers_count": 636,
+      "pushed_at": "2026-10-17T05:18:04Z",
+      "added_to_queue": "2026-10-20T07:52:24.900Z"
+    },
+    {
+      "name": "SwashbucklerDiary",
+      "html_url": "https://github.com/Yu-Core/SwashbucklerDiary",
+      "description": "侠客日记是一个开源、跨平台的本地日记app，使用Blazor开发，支持Android，Windows，macOS，Web，Linux。\"SwashbucklerDiary\" is an open source cross-platform local diary app using Blazor , support Android，Windows，macOS，Web，Linux.",
+      "topics": [
+        "aspnetcore",
+        "blazor",
+        "blazor-hybrid",
+        "blazor-webassembly",
+        "csharp",
+        "maui-blazor"
+      ],
+      "stargazers_count": 1622,
+      "pushed_at": "2026-10-17T02:18:03Z",
+      "added_to_queue": "2026-10-20T07:52:24.900Z"
+    },
+    {
+      "name": "pyglet",
+      "html_url": "https://github.com/pyglet/pyglet",
+      "description": "pyglet is a cross-platform windowing and multimedia library for Python, for developing games and other visually rich applications.",
+      "topics": [
+        "gamedev",
+        "opengl",
+        "pyglet",
+        "python",
+        "scientific-visualization"
+      ],
+      "stargazers_count": 2225,
+      "pushed_at": "2026-10-19T17:10:16Z",
+      "added_to_queue": "2026-10-20T07:52:24.900Z"
+    },
+    {
+      "name": "Platypus",
+      "html_url": "https://github.com/WangYihang/Platypus",
+      "description": ":hammer: A modern, cross-platform machine manager",
+      "topics": [],
+      "stargazers_count": 1660,
+      "pushed_at": "2026-10-19T10:48:57Z",
+      "added_to_queue": "2026-10-20T07:52:24.900Z"
+    },
+    {
+      "name": "simpleini",
+      "html_url": "https://github.com/brofield/simpleini",
+      "description": "Cross-platform C++ library providing a simple API to read and write INI-style configuration files",
+      "topics": [],
+      "stargazers_count": 1326,
+      "pushed_at": "2026-10-16T20:57:16Z",
+      "added_to_queue": "2026-10-20T07:52:24.900Z"
+    },
+    {
+      "name": "glsmac",
+      "html_url": "https://github.com/afwbkbc/glsmac",
+      "description": "Unofficial open-source OpenGL/SDL2 reimplementation of Sid Meier's Alpha Centauri ( + Alien Crossfire )",
+      "topics": [
+        "4x",
+        "4x-strategy-game",
+        "c-plus-plus",
+        "civ",
+        "civilization",
+        "cross-platform",
+        "freebsd",
+        "game",
+        "game-development",
+        "gamedev",
+        "linux",
+        "multiplayer",
+        "opengl",
+        "sid-meier-alpha-centauri",
+        "sid-meier-civilization",
+        "smac",
+        "strategy",
+        "strategy-game",
+        "turn-based-strategy",
+        "windows"
+      ],
+      "stargazers_count": 642,
+      "pushed_at": "2026-10-16T20:09:04Z",
+      "added_to_queue": "2026-10-20T07:52:24.900Z"
+    },
+    {
+      "name": "minifb",
+      "html_url": "https://github.com/emoon/minifb",
+      "description": "MiniFB is a small cross platform library to create a frame buffer that you can draw pixels in",
+      "topics": [],
+      "stargazers_count": 1386,
+      "pushed_at": "2026-10-16T19:06:01Z",
+      "added_to_queue": "2026-10-20T07:52:24.900Z"
+    },
+    {
+      "name": "Spice86",
+      "html_url": "https://github.com/OpenRakis/Spice86",
+      "description": "Reverse engineer and rewrite real mode DOS programs!",
+      "topics": [
+        "assembly",
+        "avaloniaui",
+        "cross-platform",
+        "debugger",
+        "disassembler",
+        "dos",
+        "dotnet",
+        "emulator",
+        "gdb",
+        "gdb-commands",
+        "linux",
+        "macos",
+        "reverse-engineering",
+        "windows"
+      ],
+      "stargazers_count": 665,
+      "pushed_at": "2026-10-16T18:51:47Z",
+      "added_to_queue": "2026-10-20T07:52:24.900Z"
+    },
+    {
+      "name": "omr",
+      "html_url": "https://github.com/eclipse-omr/omr",
+      "description": "Eclipse OMR™ Cross platform components for building reliable, high performance language runtimes",
+      "topics": [
+        "hacktoberfest"
+      ],
+      "stargazers_count": 1013,
+      "pushed_at": "2026-10-16T18:23:04Z",
+      "added_to_queue": "2026-10-20T07:52:24.900Z"
+    },
+    {
+      "name": "interprocess",
+      "html_url": "https://github.com/kotauskas/interprocess",
+      "description": "Cross-platform interprocess communication library for Rust",
+      "topics": [],
+      "stargazers_count": 605,
+      "pushed_at": "2026-10-16T17:19:16Z",
+      "added_to_queue": "2026-10-20T07:52:24.900Z"
+    },
+    {
+      "name": "KiwiTalk",
+      "html_url": "https://github.com/KiwiTalk/KiwiTalk",
+      "description": "An UNOFFICIAL cross-platform KakaoTalk client written in TypeScript & Rust (SolidJS, tauri)",
+      "topics": [
+        "hacktoberfest",
+        "javascript",
+        "js",
+        "kakaotalk",
+        "kakaotalk-client",
+        "kiwitalk",
+        "nodejs",
+        "rust",
+        "rust-application",
+        "solid",
+        "solidjs",
+        "tauri",
+        "tauri-app",
+        "ts",
+        "typescript"
+      ],
+      "stargazers_count": 758,
+      "pushed_at": "2026-10-16T16:54:09Z",
+      "added_to_queue": "2026-10-20T07:52:24.900Z"
+    },
+    {
+      "name": "Camelotia",
+      "html_url": "https://github.com/reactiveui/Camelotia",
+      "description": "A cross-platform sample application built with ReactiveUI. Camelotia is a file manager for cloud storage providers and local file systems, demonstrating reactive MVVM architecture, testable view models and shared code across desktop UI frameworks.",
+      "topics": [
+        "avalonia",
+        "avaloniaui",
+        "dotnet",
+        "dotnetcore",
+        "dynamicdata",
+        "linux",
+        "macos",
+        "microsoft-visual-studio",
+        "mvvm",
+        "reactive-programming",
+        "reactiveui",
+        "reactivex",
+        "solid-principles",
+        "unit-testing",
+        "uwp",
+        "windows",
+        "wpf",
+        "xamarin-forms",
+        "xunit"
+      ],
+      "stargazers_count": 616,
+      "pushed_at": "2026-10-16T16:52:09Z",
+      "added_to_queue": "2026-10-20T07:52:24.900Z"
+    },
+    {
+      "name": "tinytex",
+      "html_url": "https://github.com/rstudio/tinytex",
+      "description": "A lightweight, cross-platform, portable, and easy-to-maintain LaTeX distribution based on TeX Live",
+      "topics": [
+        "latex",
+        "r-package",
+        "texlive"
+      ],
+      "stargazers_count": 1175,
+      "pushed_at": "2026-10-16T14:45:53Z",
+      "added_to_queue": "2026-10-20T07:52:24.900Z"
+    },
+    {
+      "name": "castle-engine",
+      "html_url": "https://github.com/castle-engine/castle-engine",
+      "description": "Cross-platform (desktop, mobile, console, web) 3D and 2D game engine. Powerful visual editor. Support for glTF, X3D, IFC and more. Fast clean code using modern Pascal. Free and open-source.",
+      "topics": [
+        "2d-game-engine",
+        "3d-game-engine",
+        "castle-game-engine",
+        "delphi",
+        "delphi-game",
+        "delphi-game-engine",
+        "delphi-library",
+        "delphi-source",
+        "firemonkey",
+        "fmx",
+        "fpc",
+        "freepascal",
+        "game-engine",
+        "gltf",
+        "hacktoberfest",
+        "lazarus-ide",
+        "object-pascal",
+        "pascal",
+        "vcl",
+        "x3d"
+      ],
+      "stargazers_count": 1258,
+      "pushed_at": "2026-10-16T14:21:37Z",
+      "added_to_queue": "2026-10-20T07:52:24.900Z"
+    },
+    {
+      "name": "YUView",
+      "html_url": "https://github.com/IENT/YUView",
+      "description": "The Free and Open Source Cross Platform YUV Viewer with an advanced analytics toolset",
+      "topics": [
+        "analysis",
+        "ffmpeg",
+        "h265",
+        "hevc",
+        "player",
+        "raw-video",
+        "video",
+        "video-coding",
+        "video-player",
+        "yuv",
+        "yuv-player"
+      ],
+      "stargazers_count": 2312,
+      "pushed_at": "2026-10-19T14:07:13Z",
+      "added_to_queue": "2026-10-20T07:52:24.900Z"
+    },
+    {
+      "name": "style-dictionary",
+      "html_url": "https://github.com/style-dictionary/style-dictionary",
+      "description": "A build system for creating cross-platform styles.",
+      "topics": [
+        "build-system",
+        "build-tool",
+        "cross-platform",
+        "design-systems",
+        "design-tokens",
+        "design-tools",
+        "style",
+        "style-tokens",
+        "styleguide"
+      ],
+      "stargazers_count": 4868,
+      "pushed_at": "2026-10-16T12:39:40Z",
+      "added_to_queue": "2026-10-20T07:52:24.900Z"
+    },
+    {
+      "name": "Av1an",
+      "html_url": "https://github.com/rust-av/Av1an",
+      "description": "Cross-platform command-line AV1 / VP9 / HEVC / H264 encoding framework with per scene quality encoding",
+      "topics": [
+        "aomenc",
+        "av1",
+        "av1-encoders",
+        "docker",
+        "docker-container",
+        "encoder",
+        "ffmpeg",
+        "hevc",
+        "quality",
+        "rav1e",
+        "rust",
+        "scenes",
+        "svt-av1",
+        "target-quality",
+        "video",
+        "vp9",
+        "x265"
+      ],
+      "stargazers_count": 2001,
+      "pushed_at": "2026-10-16T12:39:40Z",
+      "added_to_queue": "2026-10-20T07:52:24.900Z"
+    },
+    {
+      "name": "nbcraft",
+      "html_url": "https://github.com/nbcraft-org/nbcraft",
+      "description": "The ultimate cross-platform mining experience.",
+      "topics": [
+        "decompilation"
+      ],
+      "stargazers_count": 595,
+      "pushed_at": "2026-10-16T10:00:35Z",
+      "added_to_queue": "2026-10-20T07:52:24.900Z"
+    },
+    {
+      "name": "xquic",
+      "html_url": "https://github.com/alibaba/xquic",
+      "description": "XQUIC Library released by Alibaba is a cross-platform implementation of QUIC and HTTP/3 protocol.",
+      "topics": [
+        "http3",
+        "ietf",
+        "protocol",
+        "quic",
+        "tls13"
+      ],
+      "stargazers_count": 1929,
+      "pushed_at": "2026-10-19T07:24:28Z",
+      "added_to_queue": "2026-10-20T07:52:24.900Z"
+    },
+    {
+      "name": "emp3r0r",
+      "html_url": "https://github.com/jm33-m0/emp3r0r",
+      "description": "Self‑healing Gossip Mesh C2 with Assisted Peer Discovery, Cross-Platform BOF Execution, and Scriptable Agents.",
+      "topics": [
+        "active-directory",
+        "c2",
+        "emp3r0r",
+        "hacking-tool",
+        "linux",
+        "malware",
+        "penetration-testing-framework",
+        "post-exploitation",
+        "rat",
+        "redteam",
+        "redteaming",
+        "rootkit",
+        "stealth",
+        "trojan-malware",
+        "windows"
+      ],
+      "stargazers_count": 1791,
+      "pushed_at": "2026-10-16T09:07:28Z",
+      "added_to_queue": "2026-10-20T07:52:24.901Z"
+    },
+    {
+      "name": "swift-subprocess",
+      "html_url": "https://github.com/swiftlang/swift-subprocess",
+      "description": "Subprocess is a cross-platform package for spawning processes in Swift.",
+      "topics": [],
+      "stargazers_count": 741,
+      "pushed_at": "2026-10-16T04:41:38Z",
+      "added_to_queue": "2026-10-20T07:52:24.901Z"
+    },
+    {
+      "name": "flutter_flavorizr",
+      "html_url": "https://github.com/AngeloAvv/flutter_flavorizr",
+      "description": "A flutter utility to easily create flavors in your flutter application",
+      "topics": [
+        "android",
+        "cross-platform",
+        "dart",
+        "dartlang",
+        "flavors",
+        "flutter",
+        "flutter-plugin",
+        "flutter-plugins",
+        "flutter-utility",
+        "ios",
+        "macos",
+        "mobile",
+        "mobile-app"
+      ],
+      "stargazers_count": 571,
+      "pushed_at": "2026-10-16T04:34:55Z",
+      "added_to_queue": "2026-10-20T07:52:24.901Z"
+    },
+    {
+      "name": "OpenTabletDriver",
+      "html_url": "https://github.com/OpenTabletDriver/OpenTabletDriver",
+      "description": "Open source, cross-platform, user-mode tablet driver",
+      "topics": [
+        "cross-platform",
+        "csharp",
+        "dotnet-core",
+        "driver",
+        "userspace-driver"
+      ],
+      "stargazers_count": 4190,
+      "pushed_at": "2026-10-16T02:27:02Z",
+      "added_to_queue": "2026-10-20T07:52:24.901Z"
+    },
+    {
+      "name": "SavvyCAN",
+      "html_url": "https://github.com/collin80/SavvyCAN",
+      "description": "QT based cross platform canbus tool",
+      "topics": [],
+      "stargazers_count": 1887,
+      "pushed_at": "2026-10-15T23:17:54Z",
+      "added_to_queue": "2026-10-20T07:52:24.901Z"
+    },
+    {
+      "name": "OpenCPN",
+      "html_url": "https://github.com/OpenCPN/OpenCPN",
+      "description": "A concise ChartPlotter/Navigator. A cross-platform ship-borne GUI application supporting * GPS/GPDS Postition Input * BSB Raster Chart Display * S57 Vector ENChart Display * AIS Input Decoding * Waypoint Autopilot Navigation",
+      "topics": [
+        "ais",
+        "autopilot",
+        "boating",
+        "chartplotter",
+        "charts",
+        "ecdis",
+        "gps",
+        "grib",
+        "grib2",
+        "gshhs",
+        "marine",
+        "nautical",
+        "nautical-charts",
+        "navigation",
+        "nmea",
+        "nmea0183",
+        "nmea2000",
+        "sailing",
+        "signalk",
+        "weather"
+      ],
+      "stargazers_count": 1506,
+      "pushed_at": "2026-10-15T20:13:04Z",
+      "added_to_queue": "2026-10-20T07:52:24.901Z"
+    },
+    {
+      "name": "veyon",
+      "html_url": "https://github.com/veyon/veyon",
+      "description": "Cross-platform computer monitoring and classroom management",
+      "topics": [],
+      "stargazers_count": 2000,
+      "pushed_at": "2026-10-15T19:26:14Z",
+      "added_to_queue": "2026-10-20T07:52:24.901Z"
+    },
+    {
+      "name": "MonoGame.Samples",
+      "html_url": "https://github.com/MonoGame/MonoGame.Samples",
+      "description": "A few cross-platform game samples using MonoGame.",
+      "topics": [],
+      "stargazers_count": 745,
+      "pushed_at": "2026-10-19T23:41:01Z",
+      "added_to_queue": "2026-10-20T07:52:24.901Z"
+    },
+    {
+      "name": "pluginval",
+      "html_url": "https://github.com/Tracktion/pluginval",
+      "description": "Cross platform plugin testing and validation tool",
+      "topics": [],
+      "stargazers_count": 591,
+      "pushed_at": "2026-10-15T16:47:38Z",
+      "added_to_queue": "2026-10-20T07:52:24.901Z"
+    },
+    {
+      "name": "libconfuse",
+      "html_url": "https://github.com/libconfuse/libconfuse",
+      "description": "Small configuration file parser library for C.",
+      "topics": [
+        "c",
+        "conf",
+        "config",
+        "config-file",
+        "config-parser",
+        "configuration",
+        "configuration-files",
+        "cross-platform",
+        "embedded",
+        "flex",
+        "lexer",
+        "settings"
+      ],
+      "stargazers_count": 523,
+      "pushed_at": "2026-10-15T16:04:32Z",
+      "added_to_queue": "2026-10-20T07:52:24.901Z"
+    },
+    {
+      "name": "electron-react-app",
+      "html_url": "https://github.com/guasam/electron-react-app",
+      "description": "Modern desktop application starter kit with Electron, React, TypeScript, TailwindCSS & Shadcn/UI to build cross-platform apps.",
+      "topics": [
+        "electron",
+        "electron-app",
+        "electron-react-app",
+        "electron-react-typescript",
+        "react",
+        "react-desktop-app",
+        "starter-kit",
+        "typescript",
+        "window-shell"
+      ],
+      "stargazers_count": 795,
+      "pushed_at": "2026-10-15T15:06:28Z",
+      "added_to_queue": "2026-10-20T07:52:24.901Z"
+    },
+    {
+      "name": "MiniExcel",
+      "html_url": "https://github.com/mini-software/MiniExcel",
+      "description": "Lightweight, fast and native cross-platform processing tool for importing and exporting spreadsheet documents.",
+      "topics": [
+        "csv",
+        "excel",
+        "excel-report",
+        "miniexcel",
+        "openxml",
+        "xlsx"
+      ],
+      "stargazers_count": 3650,
+      "pushed_at": "2026-10-19T12:09:35Z",
+      "added_to_queue": "2026-10-20T07:52:24.901Z"
+    },
+    {
+      "name": "any-listen",
+      "html_url": "https://github.com/any-listen/any-listen",
+      "description": "A cross-platform private music playback service",
+      "topics": [
+        "any-listen",
+        "music-player",
+        "nas"
+      ],
+      "stargazers_count": 4506,
+      "pushed_at": "2026-10-15T11:52:08Z",
+      "added_to_queue": "2026-10-20T07:52:24.901Z"
+    },
+    {
+      "name": "usagi",
+      "html_url": "https://github.com/brettchalupa/usagi",
+      "description": "A simple 2D game engine for rapid prototyping with Lua, featuring live reload and cross-platform export; this repo is a mirror and development happens at: https://codeberg.org/brettchalupa/usagi",
+      "topics": [
+        "game-development",
+        "game-engine",
+        "game-engine-2d",
+        "love2d",
+        "lua",
+        "pico-8",
+        "rust-game-dev",
+        "usagi-engine"
+      ],
+      "stargazers_count": 866,
+      "pushed_at": "2026-10-09T20:07:27Z",
+      "added_to_queue": "2026-10-20T07:53:05.239Z"
+    },
+    {
+      "name": "authme",
+      "html_url": "https://github.com/Levminer/authme",
+      "description": "Simple cross-platform two-factor (2FA) authenticator app for desktop.",
+      "topics": [
+        "2fa",
+        "2fa-client",
+        "2fa-security",
+        "authenticator",
+        "cross-platform",
+        "javascript",
+        "nodejs",
+        "tauri"
+      ],
+      "stargazers_count": 549,
+      "pushed_at": "2026-10-09T18:11:50Z",
+      "added_to_queue": "2026-10-20T07:53:05.239Z"
+    },
+    {
+      "name": "GUI.for.Clash",
+      "html_url": "https://github.com/GUI-for-Cores/GUI.for.Clash",
+      "description": "Modern, lightweight desktop app built with Wails (Go) and Vue 3. Efficient, cross-platform, and fast.",
+      "topics": [
+        "clash",
+        "gui",
+        "rolldown-vite",
+        "typescript",
+        "vue3",
+        "wails"
+      ],
+      "stargazers_count": 2828,
+      "pushed_at": "2026-10-09T14:13:29Z",
+      "added_to_queue": "2026-10-20T07:53:05.239Z"
+    },
+    {
+      "name": "SharpIDE",
+      "html_url": "https://github.com/MattParkerDev/SharpIDE",
+      "description": "A modern, cross platform IDE for .NET, built with .NET & Godot",
+      "topics": [
+        "csharp",
+        "dotnet",
+        "godot",
+        "razor",
+        "roslyn"
+      ],
+      "stargazers_count": 3847,
+      "pushed_at": "2026-10-09T12:49:04Z",
+      "added_to_queue": "2026-10-20T07:53:05.239Z"
+    },
+    {
+      "name": "binfmt",
+      "html_url": "https://github.com/tonistiigi/binfmt",
+      "description": "Cross-platform emulator collection distributed with Docker images.",
+      "topics": [
+        "docker",
+        "qemu"
+      ],
+      "stargazers_count": 1549,
+      "pushed_at": "2026-10-09T12:33:59Z",
+      "added_to_queue": "2026-10-20T07:53:05.239Z"
+    },
+    {
+      "name": "nio4r",
+      "html_url": "https://github.com/socketry/nio4r",
+      "description": "Cross-platform asynchronous I/O primitives for scalable network clients and servers.",
+      "topics": [],
+      "stargazers_count": 993,
+      "pushed_at": "2026-10-09T10:59:18Z",
+      "added_to_queue": "2026-10-20T07:53:05.240Z"
+    },
+    {
+      "name": "COMTool",
+      "html_url": "https://github.com/Neutree/COMTool",
+      "description": "Cross platform communicate assistant(Serial/network/terminal tool)（ 跨平台 串口调试助手 网络调试助手 终端工具 linux windows mac Raspberry Pi ）支持插件和二次开发",
+      "topics": [
+        "assistant",
+        "debug",
+        "network",
+        "plugin",
+        "protocol",
+        "python",
+        "serial",
+        "tcp",
+        "terminal",
+        "tool",
+        "udp"
+      ],
+      "stargazers_count": 2610,
+      "pushed_at": "2026-10-09T08:00:29Z",
+      "added_to_queue": "2026-10-20T07:53:05.240Z"
+    },
+    {
+      "name": "roslynpad",
+      "html_url": "https://github.com/roslynpad/roslynpad",
+      "description": "Cross-platform C# editor based on Roslyn",
+      "topics": [
+        "avalonia",
+        "cross-platform",
+        "csharp",
+        "diagnostics",
+        "dotnet",
+        "editor",
+        "roslyn"
+      ],
+      "stargazers_count": 2831,
+      "pushed_at": "2026-10-09T06:14:15Z",
+      "added_to_queue": "2026-10-20T07:53:05.240Z"
+    },
+    {
+      "name": "PCLink",
+      "html_url": "https://github.com/BYTEDz/PCLink",
+      "description": "Cross-platform desktop app for secure remote PC control and management, featuring a lightweight built-in WebUI and API for local or remote access.",
+      "topics": [],
+      "stargazers_count": 945,
+      "pushed_at": "2026-10-08T22:01:04Z",
+      "added_to_queue": "2026-10-20T07:53:05.240Z"
+    },
+    {
+      "name": "RetroShare",
+      "html_url": "https://github.com/RetroShare/RetroShare",
+      "description": "RetroShare is a Free and Open Source cross-platform, Friend-2-Friend and secure decentralised communication platform.",
+      "topics": [],
+      "stargazers_count": 2021,
+      "pushed_at": "2026-10-08T18:33:25Z",
+      "added_to_queue": "2026-10-20T07:53:05.240Z"
+    },
+    {
+      "name": "Alcinoe",
+      "html_url": "https://github.com/MagicFoundation/Alcinoe",
+      "description": "Alcinoe empowers developers to build fast, modern apps without the usual complexity or performance bottlenecks. It keeps the focus on innovation—not tool constraints—delivering top performance, deep customization, and great cross-platform UX while staying independent of GAFA ecosystems.",
+      "topics": [
+        "bson",
+        "delphi",
+        "delphi-component",
+        "delphi-components",
+        "delphi-library",
+        "embarcadero",
+        "embarcadero-delphi",
+        "firemonkey",
+        "fmx",
+        "json",
+        "mongodb-driver",
+        "pascal",
+        "webrtc"
+      ],
+      "stargazers_count": 1134,
+      "pushed_at": "2026-10-08T14:08:16Z",
+      "added_to_queue": "2026-10-20T07:53:05.240Z"
+    },
+    {
+      "name": "kmp-production-sample",
+      "html_url": "https://github.com/Kotlin/kmp-production-sample",
+      "description": "This is an open-source, mobile, cross-platform application built with Kotlin Multiplatform Mobile. It's a simple RSS reader, and you can download it from the App Store and Google Play. It's been designed to demonstrate how KMM can be used in real production projects.",
+      "topics": [
+        "android",
+        "compose",
+        "ios",
+        "jetpack-compose",
+        "kmm",
+        "kotlin",
+        "kotlin-multiplatform",
+        "kotlin-native",
+        "multiplatform",
+        "reactjs",
+        "sample"
+      ],
+      "stargazers_count": 2284,
+      "pushed_at": "2026-10-08T10:47:23Z",
+      "added_to_queue": "2026-10-20T07:53:05.240Z"
+    },
+    {
+      "name": "EasyTransfer",
+      "html_url": "https://github.com/DevXDojo/EasyTransfer",
+      "description": "A 🌟free, 🫣anonymous, 🔐encrypted, and 🚀easy-to-use E2EE file transfer tool",
+      "topics": [
+        "cross-platform",
+        "e2e",
+        "e2ee",
+        "file-sharing",
+        "file-transfer",
+        "multi-device",
+        "p2p",
+        "webrtc",
+        "website"
+      ],
+      "stargazers_count": 691,
+      "pushed_at": "2026-10-07T12:37:51Z",
+      "added_to_queue": "2026-10-20T07:53:05.240Z"
+    },
+    {
+      "name": "cv4pve-autosnap",
+      "html_url": "https://github.com/Corsinvest/cv4pve-autosnap",
+      "description": "Automatic snapshot tool for Proxmox VE VMs and containers with retention policies",
+      "topics": [
+        "automation",
+        "autosnap",
+        "backup",
+        "cli",
+        "cluster",
+        "continuous-protection",
+        "cron",
+        "cross-platform",
+        "csharp",
+        "dotnet",
+        "kvm",
+        "lxc",
+        "proxmox",
+        "proxmox-cluster",
+        "proxmox-ve",
+        "proxmoxve",
+        "qemu",
+        "retention",
+        "snapshot",
+        "vm"
+      ],
+      "stargazers_count": 568,
+      "pushed_at": "2026-10-07T08:42:39Z",
+      "added_to_queue": "2026-10-20T07:53:05.240Z"
+    },
+    {
+      "name": "libvncserver",
+      "html_url": "https://github.com/LibVNC/libvncserver",
+      "description": "LibVNCServer/LibVNCClient are cross-platform C libraries that allow you to easily implement VNC server or client functionality in your program.",
+      "topics": [
+        "c",
+        "embedded",
+        "embedded-systems",
+        "library",
+        "remote-desktop",
+        "rfb",
+        "vnc",
+        "vnc-client",
+        "vnc-server"
+      ],
+      "stargazers_count": 1367,
+      "pushed_at": "2026-10-19T18:22:44Z",
+      "added_to_queue": "2026-10-20T07:53:05.240Z"
+    },
+    {
+      "name": "edb-debugger",
+      "html_url": "https://github.com/eteran/edb-debugger",
+      "description": "edb is a cross-platform AArch32/x86/x86-64 debugger.",
+      "topics": [
+        "c-plus-plus",
+        "capstone",
+        "debugger",
+        "edb",
+        "linux",
+        "ollydbg",
+        "qt",
+        "qt5",
+        "qt6",
+        "reverse-engineering",
+        "security",
+        "x86",
+        "x86-64"
+      ],
+      "stargazers_count": 2978,
+      "pushed_at": "2026-10-07T02:53:17Z",
+      "added_to_queue": "2026-10-20T07:53:05.240Z"
+    },
+    {
+      "name": "Embroidermodder",
+      "html_url": "https://github.com/Embroidermodder/Embroidermodder",
+      "description": "Free machine embroidery software supporting a variety of formats.",
+      "topics": [
+        "cplusplus",
+        "cross-platform",
+        "dst",
+        "embroidermodder",
+        "embroidery",
+        "glfw",
+        "jef",
+        "libembroidery",
+        "machine-embroidery",
+        "pes",
+        "postscript-language"
+      ],
+      "stargazers_count": 636,
+      "pushed_at": "2026-10-07T02:09:23Z",
+      "added_to_queue": "2026-10-20T07:53:05.240Z"
+    },
+    {
+      "name": "wla-dx",
+      "html_url": "https://github.com/vhelin/wla-dx",
+      "description": "WLA DX - Yet Another ANSI C GB-Z80/Z80/Z80N/eZ80/6502/65C02/65CE02/65816/68000/6800/6801/6809/8008/8080/HUC6280/SPC-700/SuperFX/Cx4/SH-2 Multi Platform Cross Assembler Package",
+      "topics": [],
+      "stargazers_count": 611,
+      "pushed_at": "2026-10-07T01:12:55Z",
+      "added_to_queue": "2026-10-20T07:53:05.240Z"
+    },
+    {
+      "name": "etterna",
+      "html_url": "https://github.com/etternagame/etterna",
+      "description": "Advanced cross-platform rhythm game focused on keyboard play",
+      "topics": [
+        "game",
+        "keyboard",
+        "rhythm",
+        "stepmania"
+      ],
+      "stargazers_count": 650,
+      "pushed_at": "2026-10-06T21:28:25Z",
+      "added_to_queue": "2026-10-20T07:53:05.241Z"
+    },
+    {
+      "name": "exiftool-vendored.js",
+      "html_url": "https://github.com/photostructure/exiftool-vendored.js",
+      "description": "Fast, cross-platform Node.js access to ExifTool",
+      "topics": [
+        "cross-platform",
+        "exif",
+        "exiftool",
+        "gps",
+        "image",
+        "images",
+        "metadata",
+        "metadata-extraction",
+        "movies",
+        "nodejs",
+        "photo",
+        "photographs",
+        "photography",
+        "photos",
+        "video",
+        "videos"
+      ],
+      "stargazers_count": 558,
+      "pushed_at": "2026-10-06T20:43:56Z",
+      "added_to_queue": "2026-10-20T07:53:05.241Z"
+    },
+    {
+      "name": "plog",
+      "html_url": "https://github.com/SergiusTheBest/plog",
+      "description": "Portable, simple and extensible C++ logging library",
+      "topics": [
+        "c-plus-plus",
+        "cross-platform",
+        "header-only",
+        "library",
+        "log",
+        "logger",
+        "logging"
+      ],
+      "stargazers_count": 2597,
+      "pushed_at": "2026-10-06T18:22:15Z",
+      "added_to_queue": "2026-10-20T07:53:05.241Z"
+    },
+    {
+      "name": "ares",
+      "html_url": "https://github.com/ares-emulator/ares",
+      "description": "ares is a cross-platform, open source, multi-system emulator, focusing on accuracy and preservation.",
+      "topics": [
+        "console",
+        "emulation",
+        "emulator",
+        "game",
+        "hacktoberfest",
+        "higan",
+        "near"
+      ],
+      "stargazers_count": 1842,
+      "pushed_at": "2026-10-06T14:03:27Z",
+      "added_to_queue": "2026-10-20T07:53:05.241Z"
+    },
+    {
+      "name": "Criterion",
+      "html_url": "https://github.com/Snaipe/Criterion",
+      "description": "A cross-platform C and C++ unit testing framework for the 21st century",
+      "topics": [
+        "c",
+        "c-plus-plus",
+        "cross-platform",
+        "framework",
+        "kiss",
+        "unit-testing"
+      ],
+      "stargazers_count": 2308,
+      "pushed_at": "2026-10-06T12:44:47Z",
+      "added_to_queue": "2026-10-20T07:53:05.241Z"
+    },
+    {
+      "name": "OneBox",
+      "html_url": "https://github.com/OneOhCloud/OneBox",
+      "description": "OneBox is a cross-platform GUI client based on the sing-box kernel. \\n Onebox 是一个基于sing-box 内核的跨平台图形客户端",
+      "topics": [
+        "sing-box",
+        "sing-box-client",
+        "sing-box-desktop",
+        "sing-box-ui",
+        "tauri-app"
+      ],
+      "stargazers_count": 703,
+      "pushed_at": "2026-10-05T20:56:14Z",
+      "added_to_queue": "2026-10-20T07:53:05.241Z"
+    },
+    {
+      "name": "dax",
+      "html_url": "https://github.com/dsherret/dax",
+      "description": "Cross-platform shell tools for Deno and Node.js inspired by zx.",
+      "topics": [],
+      "stargazers_count": 1504,
+      "pushed_at": "2026-10-05T16:46:42Z",
+      "added_to_queue": "2026-10-20T07:53:05.241Z"
+    },
+    {
+      "name": "AhMyth",
+      "html_url": "https://github.com/Morsmalleo/AhMyth",
+      "description": "Cross-Platform Android Remote Administration Tool | Official maintained repository for the AhMyth R.A.T Project | A dedicated revival of the original repository at https://GitHub.com/AhMyth/AhMyth-Android-RAT",
+      "topics": [
+        "ahmyth",
+        "ahmyth-android-rat",
+        "ahmyth-rat",
+        "android-rat",
+        "apk-builder",
+        "apk-merger",
+        "educational",
+        "payload-builder",
+        "payload-merger",
+        "trojan-builder",
+        "trojan-merger"
+      ],
+      "stargazers_count": 1458,
+      "pushed_at": "2026-10-05T14:49:57Z",
+      "added_to_queue": "2026-10-20T07:53:05.241Z"
+    },
+    {
+      "name": "bleak",
+      "html_url": "https://github.com/hbldh/bleak",
+      "description": "A cross platform Bluetooth Low Energy Client for Python using asyncio",
+      "topics": [
+        "asyncio",
+        "ble",
+        "bluetooth",
+        "bluetooth-low-energy",
+        "cross-platform",
+        "platform-independent",
+        "python",
+        "python3"
+      ],
+      "stargazers_count": 2553,
+      "pushed_at": "2026-10-20T04:56:57Z",
+      "added_to_queue": "2026-10-20T07:53:05.241Z"
+    },
+    {
+      "name": "argparse",
+      "html_url": "https://github.com/p-ranav/argparse",
+      "description": "Argument Parser for Modern C++",
+      "topics": [
+        "argument-parser",
+        "cpp17",
+        "cross-platform",
+        "header-only",
+        "library",
+        "mit-license"
+      ],
+      "stargazers_count": 3559,
+      "pushed_at": "2026-10-05T00:35:26Z",
+      "added_to_queue": "2026-10-20T07:53:05.241Z"
+    },
+    {
+      "name": "LiteNetLib",
+      "html_url": "https://github.com/RevenantX/LiteNetLib",
+      "description": "Lite reliable UDP library for Mono and .NET",
+      "topics": [
+        "cross-platform",
+        "csharp",
+        "dot-net",
+        "mono",
+        "network",
+        "networking",
+        "reliable-packets",
+        "udp",
+        "unity-3d"
+      ],
+      "stargazers_count": 3632,
+      "pushed_at": "2026-10-04T21:51:42Z",
+      "added_to_queue": "2026-10-20T07:53:05.241Z"
+    },
+    {
+      "name": "pineapple-pictures",
+      "html_url": "https://github.com/BLumia/pineapple-pictures",
+      "description": "A homebrew lightweight image viewer.",
+      "topics": [
+        "cross-platform",
+        "image-viewer",
+        "lightweight",
+        "photo-viewer",
+        "qt"
+      ],
+      "stargazers_count": 558,
+      "pushed_at": "2026-10-19T03:24:02Z",
+      "added_to_queue": "2026-10-20T07:53:05.241Z"
+    },
+    {
+      "name": "pgpad",
+      "html_url": "https://github.com/vrmiguel/pgpad",
+      "description": "A small, fast cross-platform database client",
+      "topics": [
+        "postgres",
+        "postgresql",
+        "rust",
+        "sqlite",
+        "svelte",
+        "tauri"
+      ],
+      "stargazers_count": 658,
+      "pushed_at": "2026-10-04T04:11:07Z",
+      "added_to_queue": "2026-10-20T07:53:05.241Z"
+    },
+    {
+      "name": "Botcraft",
+      "html_url": "https://github.com/adepierre/Botcraft",
+      "description": "Botcraft is a cross-platform C++ library to create bots that connect and interact with Minecraft servers with (optional) integrated OpenGL renderer",
+      "topics": [
+        "bot",
+        "client",
+        "cpp",
+        "minecraft",
+        "opengl"
+      ],
+      "stargazers_count": 642,
+      "pushed_at": "2026-10-03T12:17:50Z",
+      "added_to_queue": "2026-10-20T07:53:05.241Z"
+    },
+    {
+      "name": "voj",
+      "html_url": "https://github.com/hzxie/voj",
+      "description": "A cross-platform online judge system based on Spring framework and ActiveMQ.",
+      "topics": [
+        "activemq",
+        "docker",
+        "java",
+        "jni",
+        "online-judge",
+        "spring-boot"
+      ],
+      "stargazers_count": 615,
+      "pushed_at": "2026-10-13T06:47:13Z",
+      "added_to_queue": "2026-10-20T07:53:05.241Z"
+    },
+    {
+      "name": "rednotebook",
+      "html_url": "https://github.com/jendrikseipp/rednotebook",
+      "description": "RedNotebook is a cross-platform journal",
+      "topics": [
+        "cross-platform",
+        "desktop",
+        "diary",
+        "gtk",
+        "hashtags",
+        "journal",
+        "offline",
+        "python"
+      ],
+      "stargazers_count": 561,
+      "pushed_at": "2026-10-01T21:56:33Z",
+      "added_to_queue": "2026-10-20T07:53:05.241Z"
+    },
+    {
+      "name": "libuvc",
+      "html_url": "https://github.com/libuvc/libuvc",
+      "description": "a cross-platform library for USB video devices",
+      "topics": [],
+      "stargazers_count": 1165,
+      "pushed_at": "2026-10-01T13:14:50Z",
+      "added_to_queue": "2026-10-20T07:53:05.241Z"
+    },
+    {
+      "name": "wait-on",
+      "html_url": "https://github.com/jeffbski/wait-on",
+      "description": "wait-on is a cross-platform command line utility and Node.js API which will wait for files, ports, sockets, and http(s) resources to become available",
+      "topics": [],
+      "stargazers_count": 1988,
+      "pushed_at": "2026-09-30T15:15:02Z",
+      "added_to_queue": "2026-10-20T07:53:05.242Z"
+    },
+    {
+      "name": "cpu_features",
+      "html_url": "https://github.com/google/cpu_features",
+      "description": "A cross platform C99 library to get cpu features at runtime.",
+      "topics": [
+        "cpu",
+        "cpu-features",
+        "cross-platform",
+        "microarchitecture"
+      ],
+      "stargazers_count": 2621,
+      "pushed_at": "2026-09-30T07:50:10Z",
+      "added_to_queue": "2026-10-20T07:53:05.242Z"
+    },
+    {
+      "name": "GpgFrontend",
+      "html_url": "https://github.com/saturneric/GpgFrontend",
+      "description": "A modern, cross-platform OpenPGP tool with a unique dual-engine core: switch freely between the battle-tested GnuPG and a modern, memory-safe Rust rPGP backend. It makes encryption, signing, and key management easier and more trustworthy in everyday privacy workflows.",
+      "topics": [
+        "cpp",
+        "crypto",
+        "decrypt",
+        "digital-signature",
+        "encrypt",
+        "gpg",
+        "openpgp",
+        "rust",
+        "security",
+        "security-tools",
+        "signature",
+        "signature-verification"
+      ],
+      "stargazers_count": 780,
+      "pushed_at": "2026-09-29T21:27:29Z",
+      "added_to_queue": "2026-10-20T07:53:05.242Z"
     }
   ]
 }

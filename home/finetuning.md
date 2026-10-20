@@ -262,6 +262,14 @@ Unsplash开放数据集，提供650万+高质量图像供机器学习研究使�
 - **Tags:** `Synthetic Data` `Generative AI` `Tabular Data` `Privacy`
 - **最后活动时间:** 2026-10-19
 
+### [DataDesigner](https://github.com/NVIDIA-NeMo/DataDesigner)
+
+NVIDIA NeMo数据设计器，用于生成高质量合成数据，支持多模态数据和智能体工作流。
+
+- **Stars:** ⭐️ 2.4k
+- **Tags:** `synthetic-data` `nvidia` `nemo`
+- **最后活动时间:** 2026-10-20
+
 ### [cityscapesScripts](https://github.com/mcordts/cityscapesScripts)
 
 Cityscapes城市街景数据集脚本工具，用于语义分割和自动驾驶视觉研究。
@@ -269,14 +277,6 @@ Cityscapes城市街景数据集脚本工具，用于语义分割和自动驾驶�
 - **Stars:** ⭐️ 2.3k
 - **Tags:** `semantic-segmentation` `autonomous-driving` `dataset` `computer-vision`
 - **最后活动时间:** 2026-10-04
-
-### [DataDesigner](https://github.com/NVIDIA-NeMo/DataDesigner)
-
-NVIDIA NeMo数据设计器，用于生成高质量合成数据，支持多模态数据和智能体工作流。
-
-- **Stars:** ⭐️ 2.3k
-- **Tags:** `synthetic-data` `nvidia` `nemo`
-- **最后活动时间:** 2026-10-19
 
 ### [imbalanced-dataset-sampler](https://github.com/ufoym/imbalanced-dataset-sampler)
 
@@ -1838,7 +1838,7 @@ Inspect AI模型的评估测试集合，用于AI模型性能评测与基准测�
 
 - **Stars:** ⭐️ 669
 - **Tags:** `AI Agents` `Evals` `LLM Evaluation` `Fine-tuning` `LLMOps`
-- **最后活动时间:** 2026-10-19
+- **最后活动时间:** 2026-10-20
 
 ### [AICGSecEval](https://github.com/Tencent/AICGSecEval)
 

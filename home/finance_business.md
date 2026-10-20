@@ -534,7 +534,7 @@ AI时代的伯克希尔：基于Claude Code/Codex的价值投资研究框架。�
 
 - **Stars:** ⭐️ 16.8k
 - **Tags:** `value-investing` `ai-agents` `financial-analysis` `claude-code`
-- **最后活动时间:** 2026-10-19
+- **最后活动时间:** 2026-10-20
 
 ### [a-stock-data](https://github.com/simonlin1212/a-stock-data)
 
@@ -1822,7 +1822,7 @@ Python系统化交易框架，提供完整的策略回测与实盘交易功能�
 
 由 AI 驱动的个人投研智能体，支持A股、美股和港股。提供每日复盘、资讯雷达、个股数据及持仓研究等功能。
 
-- **Stars:** ⭐️ 2.7k
+- **Stars:** ⭐️ 2.8k
 - **Tags:** `ai-agent` `fintech` `trading` `llm` `investment-research`
 - **最后活动时间:** 2026-10-18
 
@@ -2034,20 +2034,20 @@ Hyperliquid 官方 Python SDK，用于通过 API 进行永续合约交易与行�
 - **Tags:** `hyperliquid` `sdk` `trading` `python`
 - **最后活动时间:** 2026-06-04
 
-### [Introduction-to-Quantitative-Finance](https://github.com/Barca0412/Introduction-to-Quantitative-Finance)
-
-量化金融入门资料合集，涵盖多因子框架教程、经典资料收录及AI+金融相关工作。
-
-- **Stars:** ⭐️ 1.8k
-- **Tags:** `Quantitative Finance` `LLM4Fin` `Trading`
-- **最后活动时间:** 2026-10-20
-
 ### [LangAlpha](https://github.com/ginlix-ai/LangAlpha)
 
 基于Claude的金融AI助手，结合LangChain和LangGraph实现投资分析和交易策略自动化。
 
 - **Stars:** ⭐️ 1.8k
 - **Tags:** `langchain` `langgraph` `finance` `trading` `llm-agent`
+- **最后活动时间:** 2026-10-20
+
+### [Introduction-to-Quantitative-Finance](https://github.com/Barca0412/Introduction-to-Quantitative-Finance)
+
+量化金融入门资料合集，涵盖多因子框架教程、经典资料收录及AI+金融相关工作。
+
+- **Stars:** ⭐️ 1.8k
+- **Tags:** `Quantitative Finance` `LLM4Fin` `Trading`
 - **最后活动时间:** 2026-10-20
 
 ### [RustQuant](https://github.com/avhz/RustQuant)
@@ -2774,7 +2774,7 @@ Go 语言的 FIX 协议库，为高频与量化交易系统提供高性能的消
 
 中国 A 股数据基础设施，提供 55 个日更数据集，覆盖行情、基本面、期货、资金面与宏观风险，内置行级溯源与 PIT 语义。MCP 原生设计，可自托管、零注册零 Token，方便 AI 智能体直接调用进行量化研究。
 
-- **Stars:** ⭐️ 731
+- **Stars:** ⭐️ 740
 - **Tags:** `mcp` `quantitative-finance` `financial-data` `china-stock-market` `point-in-time` `duckdb` `backtesting`
 - **最后活动时间:** 2026-10-18
 
