@@ -470,32 +470,32 @@
     },
     "ai": {
       "level": 1,
-      "lastExplored": "2026-10-20T07:04:00.621Z",
+      "lastExplored": "2026-10-22T13:10:58.383Z",
       "score": 1821
     },
     "llm": {
       "level": 1,
-      "lastExplored": "2026-10-20T04:56:41.540Z",
+      "lastExplored": "2026-10-22T11:04:17.494Z",
       "score": 1739
     },
     "machine-learning": {
       "level": 1,
-      "lastExplored": "2026-10-20T05:40:16.524Z",
+      "lastExplored": "2026-10-22T11:47:37.842Z",
       "score": 1832
     },
     "agent": {
       "level": 1,
-      "lastExplored": "2026-10-20T05:53:36.448Z",
+      "lastExplored": "2026-10-22T12:00:57.964Z",
       "score": 629
     },
     "rag": {
       "level": 1,
-      "lastExplored": "2026-10-20T06:00:16.476Z",
+      "lastExplored": "2026-10-22T12:07:37.997Z",
       "score": 513
     },
     "deep-learning": {
       "level": 1,
-      "lastExplored": "2026-10-20T06:03:36.543Z",
+      "lastExplored": "2026-10-22T12:10:58.047Z",
       "score": 1902
     },
     "browser-automation": {
@@ -505,7 +505,7 @@
     },
     "multi-agent": {
       "level": 1,
-      "lastExplored": "2026-10-20T06:13:41.960Z",
+      "lastExplored": "2026-10-22T12:20:58.124Z",
       "score": 275
     },
     "ai-gateway": {
@@ -522,19 +522,19 @@
     },
     "devops": {
       "level": 2,
-      "lastExplored": "2026-10-20T01:33:39.375Z",
+      "lastExplored": "2026-10-22T08:27:29.497Z",
       "added": "2026-03-21T02:02:57.743Z",
       "score": 128
     },
     "kubernetes": {
       "level": 2,
-      "lastExplored": "2026-10-20T06:33:42.281Z",
+      "lastExplored": "2026-10-22T12:40:58.186Z",
       "added": "2026-03-21T02:02:57.743Z",
       "score": 183
     },
     "mcp": {
       "level": 2,
-      "lastExplored": "2026-10-20T07:50:40.980Z",
+      "lastExplored": "2026-10-22T13:57:38.984Z",
       "added": "2026-03-21T02:02:57.743Z",
       "score": 1020
     },
@@ -558,43 +558,43 @@
     },
     "ai-agent": {
       "level": 2,
-      "lastExplored": "2026-10-19T22:42:16.018Z",
+      "lastExplored": "2026-10-22T06:24:08.777Z",
       "added": "2026-03-21T02:02:57.743Z",
       "score": 424
     },
     "chatgpt": {
       "level": 2,
-      "lastExplored": "2026-10-19T20:24:53.282Z",
+      "lastExplored": "2026-10-22T14:04:18.996Z",
       "added": "2026-03-21T02:02:57.743Z",
       "score": 546
     },
     "claude": {
       "level": 2,
-      "lastExplored": "2026-10-19T20:38:32.629Z",
+      "lastExplored": "2026-10-22T05:14:08.223Z",
       "added": "2026-03-21T02:02:57.743Z",
       "score": 592
     },
     "deepseek": {
       "level": 2,
-      "lastExplored": "2026-10-20T07:14:00.709Z",
+      "lastExplored": "2026-10-22T13:20:58.420Z",
       "added": "2026-03-21T02:02:57.743Z",
       "score": 165
     },
     "gemini": {
       "level": 2,
-      "lastExplored": "2026-10-20T06:37:09.773Z",
+      "lastExplored": "2026-10-22T12:44:18.210Z",
       "added": "2026-03-21T02:02:57.743Z",
       "score": 232
     },
     "openai": {
       "level": 2,
-      "lastExplored": "2026-10-19T22:37:49.858Z",
+      "lastExplored": "2026-10-22T06:20:48.767Z",
       "added": "2026-03-21T02:02:57.743Z",
       "score": 515
     },
     "openclaw": {
       "level": 2,
-      "lastExplored": "2026-10-20T04:42:30.017Z",
+      "lastExplored": "2026-10-22T10:50:57.340Z",
       "added": "2026-03-21T02:02:57.743Z",
       "score": 241
     },
@@ -606,7 +606,7 @@
     },
     "skills": {
       "level": 2,
-      "lastExplored": "2026-10-19T20:42:39.210Z",
+      "lastExplored": "2026-10-22T05:17:28.262Z",
       "added": "2026-03-21T02:02:57.743Z",
       "score": 252
     },
@@ -618,25 +618,25 @@
     },
     "ai-agents": {
       "level": 2,
-      "lastExplored": "2026-10-20T06:20:22.123Z",
+      "lastExplored": "2026-10-22T12:27:38.165Z",
       "added": "2026-03-21T02:02:57.743Z",
       "score": 855
     },
     "anthropic": {
       "level": 2,
-      "lastExplored": "2026-10-19T20:50:30.869Z",
+      "lastExplored": "2026-10-22T05:24:08.321Z",
       "added": "2026-03-21T02:02:57.743Z",
       "score": 229
     },
     "claude-code": {
       "level": 2,
-      "lastExplored": "2026-10-19T22:18:51.122Z",
+      "lastExplored": "2026-10-22T06:14:08.699Z",
       "added": "2026-03-21T02:02:57.743Z",
       "score": 896
     },
     "cursor": {
       "level": 2,
-      "lastExplored": "2026-10-20T04:35:49.960Z",
+      "lastExplored": "2026-10-22T10:44:17.113Z",
       "added": "2026-03-21T02:02:57.743Z",
       "score": 226
     },
@@ -654,13 +654,13 @@
     },
     "tui": {
       "level": 2,
-      "lastExplored": "2026-10-20T06:30:22.230Z",
+      "lastExplored": "2026-10-22T12:37:38.194Z",
       "added": "2026-03-21T02:02:57.743Z",
       "score": 284
     },
     "typescript": {
       "level": 2,
-      "lastExplored": "2026-10-19T22:47:20.480Z",
+      "lastExplored": "2026-10-22T06:27:28.774Z",
       "added": "2026-03-21T02:02:57.743Z",
       "score": 565
     },
@@ -696,55 +696,55 @@
     },
     "inference": {
       "level": 2,
-      "lastExplored": "2026-10-20T02:56:24.015Z",
+      "lastExplored": "2026-10-22T09:30:56.469Z",
       "added": "2026-03-21T02:02:57.743Z",
       "score": 148
     },
     "golang": {
       "level": 2,
-      "lastExplored": "2026-10-20T04:50:01.524Z",
+      "lastExplored": "2026-10-22T10:57:37.397Z",
       "added": "2026-03-21T02:02:57.743Z",
       "score": 278
     },
     "self-hosted": {
       "level": 2,
-      "lastExplored": "2026-10-20T04:53:21.557Z",
+      "lastExplored": "2026-10-22T11:00:57.412Z",
       "added": "2026-03-21T02:02:57.743Z",
       "score": 283
     },
     "tensorflow": {
       "level": 2,
-      "lastExplored": "2026-10-19T22:55:50.219Z",
+      "lastExplored": "2026-10-22T06:34:08.808Z",
       "added": "2026-03-21T02:02:57.743Z",
       "score": 689
     },
     "api": {
       "level": 2,
-      "lastExplored": "2026-10-20T06:40:29.779Z",
+      "lastExplored": "2026-10-22T12:47:38.256Z",
       "added": "2026-03-21T02:02:57.743Z",
       "score": 191
     },
     "chatbot": {
       "level": 2,
-      "lastExplored": "2026-10-19T22:59:10.227Z",
+      "lastExplored": "2026-10-22T06:37:28.867Z",
       "added": "2026-03-21T02:02:57.743Z",
       "score": 316
     },
     "database": {
       "level": 2,
-      "lastExplored": "2026-10-19T20:30:12.843Z",
+      "lastExplored": "2026-10-22T05:07:28.125Z",
       "added": "2026-03-21T02:02:57.743Z",
       "score": 168
     },
     "docker": {
       "level": 2,
-      "lastExplored": "2026-10-20T03:33:14.453Z",
+      "lastExplored": "2026-10-22T09:54:16.693Z",
       "added": "2026-03-21T02:02:57.743Z",
       "score": 261
     },
     "framework": {
       "level": 2,
-      "lastExplored": "2026-10-20T07:44:01.038Z",
+      "lastExplored": "2026-10-22T13:50:58.925Z",
       "added": "2026-03-21T02:02:57.743Z",
       "score": 119
     },
@@ -762,31 +762,31 @@
     },
     "javascript": {
       "level": 2,
-      "lastExplored": "2026-10-20T00:50:12.393Z",
+      "lastExplored": "2026-10-22T07:57:29.320Z",
       "added": "2026-03-21T02:02:57.743Z",
       "score": 322
     },
     "postgresql": {
       "level": 2,
-      "lastExplored": "2026-10-19T21:40:22.435Z",
+      "lastExplored": "2026-10-22T05:54:08.589Z",
       "added": "2026-03-21T02:02:57.743Z",
       "score": 102
     },
     "privacy": {
       "level": 2,
-      "lastExplored": "2026-10-19T21:23:31.028Z",
+      "lastExplored": "2026-10-22T05:44:08.502Z",
       "added": "2026-03-21T02:02:57.743Z",
       "score": 157
     },
     "react": {
       "level": 2,
-      "lastExplored": "2026-10-20T05:00:01.560Z",
+      "lastExplored": "2026-10-22T11:07:37.508Z",
       "added": "2026-03-21T02:02:57.743Z",
       "score": 314
     },
     "security": {
       "level": 2,
-      "lastExplored": "2026-10-19T23:11:10.030Z",
+      "lastExplored": "2026-10-22T06:47:28.944Z",
       "added": "2026-03-21T02:02:57.743Z",
       "score": 202
     },
@@ -798,19 +798,19 @@
     },
     "agents": {
       "level": 2,
-      "lastExplored": "2026-10-19T23:33:31.080Z",
+      "lastExplored": "2026-10-22T07:07:29.028Z",
       "added": "2026-03-21T02:02:57.743Z",
       "score": 366
     },
     "developer-tools": {
       "level": 2,
-      "lastExplored": "2026-10-20T07:27:20.837Z",
+      "lastExplored": "2026-10-22T13:34:18.621Z",
       "added": "2026-03-21T02:02:57.743Z",
       "score": 405
     },
     "python": {
       "level": 2,
-      "lastExplored": "2026-10-19T23:39:07.904Z",
+      "lastExplored": "2026-10-22T07:10:49.059Z",
       "added": "2026-03-21T02:02:57.743Z",
       "score": 1983
     },
@@ -822,7 +822,7 @@
     },
     "llms": {
       "level": 2,
-      "lastExplored": "2026-10-20T06:50:29.809Z",
+      "lastExplored": "2026-10-22T12:57:38.282Z",
       "added": "2026-03-21T02:02:57.743Z",
       "score": 145
     },
@@ -852,13 +852,13 @@
     },
     "prompt-engineering": {
       "level": 2,
-      "lastExplored": "2026-10-20T02:35:43.217Z",
+      "lastExplored": "2026-10-22T09:10:56.211Z",
       "added": "2026-03-21T02:03:57.777Z",
       "score": 146
     },
     "rust": {
       "level": 2,
-      "lastExplored": "2026-10-20T00:21:33.192Z",
+      "lastExplored": "2026-10-22T07:40:49.154Z",
       "added": "2026-03-21T02:03:57.777Z",
       "score": 609
     },
@@ -870,7 +870,7 @@
     },
     "fastapi": {
       "level": 2,
-      "lastExplored": "2026-10-19T23:26:45.218Z",
+      "lastExplored": "2026-10-22T07:00:49.036Z",
       "added": "2026-03-21T02:03:57.777Z",
       "score": 115
     },
@@ -906,31 +906,31 @@
     },
     "automation": {
       "level": 2,
-      "lastExplored": "2026-10-20T00:32:38.906Z",
+      "lastExplored": "2026-10-22T07:47:29.234Z",
       "added": "2026-03-21T02:03:57.777Z",
       "score": 344
     },
     "go": {
       "level": 2,
-      "lastExplored": "2026-10-20T05:13:21.632Z",
+      "lastExplored": "2026-10-22T11:20:57.611Z",
       "added": "2026-03-21T02:03:57.777Z",
       "score": 228
     },
     "codex": {
       "level": 2,
-      "lastExplored": "2026-10-19T20:54:02.954Z",
+      "lastExplored": "2026-10-22T05:27:28.358Z",
       "added": "2026-03-21T02:03:57.777Z",
       "score": 506
     },
     "java": {
       "level": 2,
-      "lastExplored": "2026-10-20T00:27:23.990Z",
+      "lastExplored": "2026-10-22T07:44:09.164Z",
       "added": "2026-03-21T02:03:57.777Z",
       "score": 252
     },
     "ollama": {
       "level": 2,
-      "lastExplored": "2026-10-20T05:10:01.631Z",
+      "lastExplored": "2026-10-22T11:17:37.556Z",
       "added": "2026-03-21T02:04:57.700Z",
       "score": 137
     },
@@ -942,7 +942,7 @@
     },
     "cli": {
       "level": 2,
-      "lastExplored": "2026-10-20T00:37:53.357Z",
+      "lastExplored": "2026-10-22T07:50:49.220Z",
       "added": "2026-03-21T02:04:57.701Z",
       "score": 659
     },
@@ -966,7 +966,7 @@
     },
     "android": {
       "level": 2,
-      "lastExplored": "2026-10-20T02:16:27.487Z",
+      "lastExplored": "2026-10-22T08:57:36.137Z",
       "added": "2026-03-21T02:05:57.768Z",
       "score": 298
     },
@@ -1002,7 +1002,7 @@
     },
     "open-source": {
       "level": 2,
-      "lastExplored": "2026-10-20T06:54:00.595Z",
+      "lastExplored": "2026-10-22T13:00:58.324Z",
       "added": "2026-03-21T02:05:57.768Z",
       "score": 357
     },
@@ -1026,7 +1026,7 @@
     },
     "video": {
       "level": 2,
-      "lastExplored": "2026-10-19T21:18:35.877Z",
+      "lastExplored": "2026-10-22T05:40:48.484Z",
       "added": "2026-03-21T02:05:57.768Z",
       "score": 121
     },
@@ -1080,7 +1080,7 @@
     },
     "ocr": {
       "level": 2,
-      "lastExplored": "2026-10-20T00:43:25.562Z",
+      "lastExplored": "2026-10-22T07:54:09.258Z",
       "added": "2026-03-21T02:06:57.774Z",
       "score": 254
     },
@@ -1110,13 +1110,13 @@
     },
     "trading": {
       "level": 2,
-      "lastExplored": "2026-10-19T23:47:09.742Z",
+      "lastExplored": "2026-10-22T07:17:29.076Z",
       "added": "2026-03-21T02:07:57.723Z",
       "score": 152
     },
     "computer-vision": {
       "level": 2,
-      "lastExplored": "2026-10-20T01:03:04.977Z",
+      "lastExplored": "2026-10-22T08:04:09.326Z",
       "added": "2026-03-21T02:07:57.723Z",
       "score": 706
     },
@@ -1134,7 +1134,7 @@
     },
     "nlp": {
       "level": 2,
-      "lastExplored": "2026-10-20T01:08:18.265Z",
+      "lastExplored": "2026-10-22T08:07:29.363Z",
       "added": "2026-03-21T02:07:57.723Z",
       "score": 640
     },
@@ -1152,7 +1152,7 @@
     },
     "pytorch": {
       "level": 2,
-      "lastExplored": "2026-10-20T01:18:25.816Z",
+      "lastExplored": "2026-10-22T08:14:09.389Z",
       "added": "2026-03-21T02:07:57.723Z",
       "score": 1449
     },
@@ -1164,19 +1164,19 @@
     },
     "keras": {
       "level": 2,
-      "lastExplored": "2026-10-20T01:21:53.284Z",
+      "lastExplored": "2026-10-22T08:17:29.401Z",
       "added": "2026-03-21T02:07:57.723Z",
       "score": 209
     },
     "ml": {
       "level": 2,
-      "lastExplored": "2026-10-20T07:20:40.787Z",
+      "lastExplored": "2026-10-22T13:27:38.572Z",
       "added": "2026-03-21T02:07:57.723Z",
       "score": 152
     },
     "neural-network": {
       "level": 2,
-      "lastExplored": "2026-10-20T01:25:13.296Z",
+      "lastExplored": "2026-10-22T08:20:49.460Z",
       "added": "2026-03-21T02:07:57.723Z",
       "score": 253
     },
@@ -1278,7 +1278,7 @@
     },
     "real-time": {
       "level": 2,
-      "lastExplored": "2026-10-20T07:24:00.818Z",
+      "lastExplored": "2026-10-22T13:30:58.598Z",
       "added": "2026-03-21T02:08:57.784Z",
       "score": 132
     },
@@ -1302,13 +1302,13 @@
     },
     "mlops": {
       "level": 2,
-      "lastExplored": "2026-10-20T06:10:21.928Z",
+      "lastExplored": "2026-10-22T12:17:38.089Z",
       "added": "2026-03-21T02:08:57.784Z",
       "score": 126
     },
     "workflow": {
       "level": 2,
-      "lastExplored": "2026-10-19T20:47:10.869Z",
+      "lastExplored": "2026-10-22T05:20:48.310Z",
       "added": "2026-03-21T02:08:57.784Z",
       "score": 128
     },
@@ -1320,7 +1320,7 @@
     },
     "linux": {
       "level": 2,
-      "lastExplored": "2026-10-19T22:00:46.270Z",
+      "lastExplored": "2026-10-22T06:07:28.661Z",
       "added": "2026-03-21T02:09:57.749Z",
       "score": 480
     },
@@ -1350,7 +1350,7 @@
     },
     "terminal": {
       "level": 2,
-      "lastExplored": "2026-10-19T21:30:17.366Z",
+      "lastExplored": "2026-10-22T05:47:28.506Z",
       "added": "2026-03-21T02:09:57.749Z",
       "score": 439
     },
@@ -1410,13 +1410,13 @@
     },
     "gpt": {
       "level": 2,
-      "lastExplored": "2026-10-20T01:28:40.386Z",
+      "lastExplored": "2026-10-22T08:24:09.469Z",
       "added": "2026-03-21T02:15:57.842Z",
       "score": 195
     },
     "gpt-4": {
       "level": 2,
-      "lastExplored": "2026-10-19T23:02:30.244Z",
+      "lastExplored": "2026-10-22T06:40:48.918Z",
       "added": "2026-03-21T02:15:57.842Z",
       "score": 113
     },
@@ -1440,7 +1440,7 @@
     },
     "productivity": {
       "level": 2,
-      "lastExplored": "2026-10-19T23:56:39.633Z",
+      "lastExplored": "2026-10-22T07:24:09.082Z",
       "added": "2026-03-21T02:15:57.842Z",
       "score": 158
     },
@@ -1470,7 +1470,7 @@
     },
     "visualization": {
       "level": 2,
-      "lastExplored": "2026-10-20T05:43:36.467Z",
+      "lastExplored": "2026-10-22T11:50:57.888Z",
       "added": "2026-03-21T02:18:57.751Z",
       "score": 172
     },
@@ -1494,7 +1494,7 @@
     },
     "langchain": {
       "level": 2,
-      "lastExplored": "2026-10-20T01:36:59.375Z",
+      "lastExplored": "2026-10-22T08:30:49.544Z",
       "added": "2026-03-21T02:19:57.705Z",
       "score": 160
     },
@@ -1536,13 +1536,13 @@
     },
     "awesome": {
       "level": 2,
-      "lastExplored": "2026-10-20T01:49:57.439Z",
+      "lastExplored": "2026-10-22T08:40:56.068Z",
       "added": "2026-03-21T02:21:57.753Z",
       "score": 355
     },
     "awesome-list": {
       "level": 2,
-      "lastExplored": "2026-10-20T01:55:54.116Z",
+      "lastExplored": "2026-10-22T08:44:16.109Z",
       "added": "2026-03-21T02:21:57.753Z",
       "score": 412
     },
@@ -1560,7 +1560,7 @@
     },
     "tutorial": {
       "level": 2,
-      "lastExplored": "2026-10-20T02:01:46.380Z",
+      "lastExplored": "2026-10-22T08:47:36.125Z",
       "added": "2026-03-21T02:22:57.781Z",
       "score": 188
     },
@@ -1632,7 +1632,7 @@
     },
     "reinforcement-learning": {
       "level": 2,
-      "lastExplored": "2026-10-20T02:06:36.110Z",
+      "lastExplored": "2026-10-22T08:50:56.146Z",
       "added": "2026-03-21T02:22:57.781Z",
       "score": 359
     },
@@ -1656,7 +1656,7 @@
     },
     "bot": {
       "level": 2,
-      "lastExplored": "2026-10-19T21:52:04.737Z",
+      "lastExplored": "2026-10-22T06:04:08.670Z",
       "added": "2026-03-21T02:23:57.783Z",
       "score": 131
     },
@@ -1680,19 +1680,19 @@
     },
     "chinese": {
       "level": 2,
-      "lastExplored": "2026-10-20T02:22:22.385Z",
+      "lastExplored": "2026-10-22T09:00:56.165Z",
       "added": "2026-03-21T02:23:57.783Z",
       "score": 119
     },
     "text-to-speech": {
       "level": 2,
-      "lastExplored": "2026-10-19T23:23:02.607Z",
+      "lastExplored": "2026-10-22T06:57:28.996Z",
       "added": "2026-03-21T02:23:57.783Z",
       "score": 110
     },
     "tts": {
       "level": 2,
-      "lastExplored": "2026-10-20T02:09:56.126Z",
+      "lastExplored": "2026-10-22T08:54:16.163Z",
       "added": "2026-03-21T02:23:57.783Z",
       "score": 227
     },
@@ -1710,13 +1710,13 @@
     },
     "llama": {
       "level": 2,
-      "lastExplored": "2026-10-20T05:26:56.317Z",
+      "lastExplored": "2026-10-22T11:34:17.746Z",
       "added": "2026-03-21T02:23:57.783Z",
       "score": 103
     },
     "agent-skills": {
       "level": 2,
-      "lastExplored": "2026-10-20T06:27:02.155Z",
+      "lastExplored": "2026-10-22T12:34:18.202Z",
       "added": "2026-03-21T02:24:57.879Z",
       "score": 313
     },
@@ -1782,7 +1782,7 @@
     },
     "cuda": {
       "level": 2,
-      "lastExplored": "2026-10-20T03:06:45.110Z",
+      "lastExplored": "2026-10-22T09:37:36.497Z",
       "added": "2026-03-21T02:25:57.894Z",
       "score": 221
     },
@@ -1830,7 +1830,7 @@
     },
     "transformers": {
       "level": 2,
-      "lastExplored": "2026-10-20T02:32:23.235Z",
+      "lastExplored": "2026-10-22T09:07:36.191Z",
       "added": "2026-03-21T02:25:57.894Z",
       "score": 189
     },
@@ -1872,7 +1872,7 @@
     },
     "language-model": {
       "level": 2,
-      "lastExplored": "2026-10-20T05:33:36.371Z",
+      "lastExplored": "2026-10-22T11:40:57.811Z",
       "added": "2026-03-21T02:28:57.861Z",
       "score": 113
     },
@@ -1884,7 +1884,7 @@
     },
     "pdf": {
       "level": 2,
-      "lastExplored": "2026-10-20T04:25:49.905Z",
+      "lastExplored": "2026-10-22T10:34:17.063Z",
       "added": "2026-03-21T02:29:57.991Z",
       "score": 108
     },
@@ -1914,7 +1914,7 @@
     },
     "sdk": {
       "level": 2,
-      "lastExplored": "2026-10-20T07:34:00.931Z",
+      "lastExplored": "2026-10-22T13:40:58.893Z",
       "added": "2026-03-21T02:29:57.991Z",
       "score": 121
     },
@@ -1926,19 +1926,19 @@
     },
     "macos": {
       "level": 2,
-      "lastExplored": "2026-10-19T21:01:27.979Z",
+      "lastExplored": "2026-10-22T05:30:48.410Z",
       "added": "2026-03-21T02:31:57.798Z",
       "score": 709
     },
     "tauri": {
       "level": 2,
-      "lastExplored": "2026-10-20T00:01:34.904Z",
+      "lastExplored": "2026-10-22T07:27:29.099Z",
       "added": "2026-03-21T02:31:57.798Z",
       "score": 129
     },
     "windows": {
       "level": 2,
-      "lastExplored": "2026-10-19T22:09:30.490Z",
+      "lastExplored": "2026-10-22T06:10:48.654Z",
       "added": "2026-03-21T02:31:57.798Z",
       "score": 556
     },
@@ -1956,19 +1956,19 @@
     },
     "electron": {
       "level": 2,
-      "lastExplored": "2026-10-20T06:17:02.097Z",
+      "lastExplored": "2026-10-22T12:24:18.111Z",
       "added": "2026-03-21T02:32:57.834Z",
       "score": 159
     },
     "local-first": {
       "level": 2,
-      "lastExplored": "2026-10-20T05:30:16.362Z",
+      "lastExplored": "2026-10-22T11:37:37.750Z",
       "added": "2026-03-21T02:32:57.834Z",
       "score": 183
     },
     "markdown": {
       "level": 2,
-      "lastExplored": "2026-10-19T22:30:16.239Z",
+      "lastExplored": "2026-10-22T06:17:28.717Z",
       "added": "2026-03-21T02:32:57.834Z",
       "score": 149
     },
@@ -1986,13 +1986,13 @@
     },
     "memory": {
       "level": 2,
-      "lastExplored": "2026-10-20T05:56:56.432Z",
+      "lastExplored": "2026-10-22T12:04:17.977Z",
       "added": "2026-03-21T02:32:57.834Z",
       "score": 117
     },
     "image-generation": {
       "level": 2,
-      "lastExplored": "2026-10-19T23:05:50.266Z",
+      "lastExplored": "2026-10-22T06:44:08.902Z",
       "added": "2026-03-21T02:32:57.834Z",
       "score": 144
     },
@@ -2022,7 +2022,7 @@
     },
     "neural-networks": {
       "level": 2,
-      "lastExplored": "2026-10-20T02:45:43.266Z",
+      "lastExplored": "2026-10-22T09:20:56.376Z",
       "added": "2026-03-21T02:33:57.706Z",
       "score": 179
     },
@@ -2100,7 +2100,7 @@
     },
     "object-detection": {
       "level": 2,
-      "lastExplored": "2026-10-20T02:52:37.521Z",
+      "lastExplored": "2026-10-22T09:27:36.414Z",
       "added": "2026-03-21T02:34:57.814Z",
       "score": 242
     },
@@ -2124,7 +2124,7 @@
     },
     "jupyter": {
       "level": 2,
-      "lastExplored": "2026-10-20T04:03:30.127Z",
+      "lastExplored": "2026-10-22T10:17:36.919Z",
       "added": "2026-03-21T02:34:57.814Z",
       "score": 100
     },
@@ -2184,7 +2184,7 @@
     },
     "ai-tools": {
       "level": 2,
-      "lastExplored": "2026-10-20T05:03:21.571Z",
+      "lastExplored": "2026-10-22T11:10:57.521Z",
       "added": "2026-03-21T02:37:57.908Z",
       "score": 162
     },
@@ -2196,7 +2196,7 @@
     },
     "knowledge-graph": {
       "level": 2,
-      "lastExplored": "2026-10-20T03:59:17.582Z",
+      "lastExplored": "2026-10-22T10:14:16.707Z",
       "added": "2026-03-21T02:37:57.908Z",
       "score": 138
     },
@@ -2220,13 +2220,13 @@
     },
     "gpu": {
       "level": 2,
-      "lastExplored": "2026-10-20T03:02:51.234Z",
+      "lastExplored": "2026-10-22T09:34:16.450Z",
       "added": "2026-03-21T02:38:57.813Z",
       "score": 244
     },
     "transformer": {
       "level": 2,
-      "lastExplored": "2026-10-20T03:14:52.263Z",
+      "lastExplored": "2026-10-22T09:40:56.496Z",
       "added": "2026-03-21T02:38:57.813Z",
       "score": 233
     },
@@ -2262,7 +2262,7 @@
     },
     "research": {
       "level": 2,
-      "lastExplored": "2026-10-20T05:23:36.296Z",
+      "lastExplored": "2026-10-22T11:30:57.680Z",
       "added": "2026-03-21T02:39:57.979Z",
       "score": 143
     },
@@ -2292,7 +2292,7 @@
     },
     "ios": {
       "level": 2,
-      "lastExplored": "2026-10-20T00:11:23.798Z",
+      "lastExplored": "2026-10-22T07:34:09.163Z",
       "added": "2026-03-21T02:41:57.868Z",
       "score": 237
     },
@@ -2328,7 +2328,7 @@
     },
     "cross-platform": {
       "level": 2,
-      "lastExplored": "2026-10-19T20:20:58.540Z",
+      "lastExplored": "2026-10-22T14:00:58.962Z",
       "added": "2026-03-21T02:43:58.523Z",
       "score": 161
     },
@@ -2460,7 +2460,7 @@
     },
     "search": {
       "level": 2,
-      "lastExplored": "2026-10-20T04:10:05.993Z",
+      "lastExplored": "2026-10-22T10:20:56.931Z",
       "added": "2026-03-21T02:51:57.950Z",
       "score": 102
     },
@@ -2484,7 +2484,7 @@
     },
     "robotics": {
       "level": 2,
-      "lastExplored": "2026-10-20T03:18:24.492Z",
+      "lastExplored": "2026-10-22T09:44:16.560Z",
       "added": "2026-03-21T02:58:57.741Z",
       "score": 370
     },
@@ -2520,13 +2520,13 @@
     },
     "3d": {
       "level": 2,
-      "lastExplored": "2026-10-20T06:57:20.605Z",
+      "lastExplored": "2026-10-22T13:04:18.315Z",
       "added": "2026-03-21T02:59:57.828Z",
       "score": 128
     },
     "multimodal": {
       "level": 2,
-      "lastExplored": "2026-10-20T03:40:26.259Z",
+      "lastExplored": "2026-10-22T09:57:36.682Z",
       "added": "2026-03-21T02:59:57.828Z",
       "score": 157
     },
@@ -2538,7 +2538,7 @@
     },
     "diffusion-models": {
       "level": 2,
-      "lastExplored": "2026-10-20T02:39:03.220Z",
+      "lastExplored": "2026-10-22T09:14:16.362Z",
       "added": "2026-03-21T02:59:57.828Z",
       "score": 114
     },
@@ -2550,13 +2550,13 @@
     },
     "speech-recognition": {
       "level": 2,
-      "lastExplored": "2026-10-20T07:40:40.993Z",
+      "lastExplored": "2026-10-22T13:47:38.900Z",
       "added": "2026-03-21T02:59:57.828Z",
       "score": 128
     },
     "swift": {
       "level": 2,
-      "lastExplored": "2026-10-20T07:07:20.672Z",
+      "lastExplored": "2026-10-22T13:14:18.381Z",
       "added": "2026-03-21T02:59:57.828Z",
       "score": 244
     },
@@ -2574,7 +2574,7 @@
     },
     "benchmark": {
       "level": 2,
-      "lastExplored": "2026-10-20T06:07:01.916Z",
+      "lastExplored": "2026-10-22T12:14:18.068Z",
       "added": "2026-03-21T03:01:57.839Z",
       "score": 129
     },
@@ -2586,7 +2586,7 @@
     },
     "optimization": {
       "level": 2,
-      "lastExplored": "2026-10-20T07:37:20.938Z",
+      "lastExplored": "2026-10-22T13:44:18.965Z",
       "added": "2026-03-21T03:01:57.839Z",
       "score": 122
     },
@@ -2604,13 +2604,13 @@
     },
     "yolo": {
       "level": 2,
-      "lastExplored": "2026-10-20T00:15:51.226Z",
+      "lastExplored": "2026-10-22T07:37:29.126Z",
       "added": "2026-03-21T03:03:28.358Z",
       "score": 101
     },
     "bert": {
       "level": 2,
-      "lastExplored": "2026-10-20T03:44:43.648Z",
+      "lastExplored": "2026-10-22T10:00:56.634Z",
       "added": "2026-03-21T03:03:28.358Z",
       "score": 141
     },
@@ -2646,7 +2646,7 @@
     },
     "video-generation": {
       "level": 2,
-      "lastExplored": "2026-10-20T02:42:23.236Z",
+      "lastExplored": "2026-10-22T09:17:36.371Z",
       "added": "2026-03-21T03:03:28.358Z",
       "score": 147
     },
@@ -2676,7 +2676,7 @@
     },
     "cnn": {
       "level": 2,
-      "lastExplored": "2026-10-19T23:30:05.211Z",
+      "lastExplored": "2026-10-22T07:04:09.095Z",
       "added": "2026-03-21T03:07:28.274Z",
       "score": 122
     },
@@ -2700,7 +2700,7 @@
     },
     "segmentation": {
       "level": 2,
-      "lastExplored": "2026-10-20T01:40:19.417Z",
+      "lastExplored": "2026-10-22T08:34:09.556Z",
       "added": "2026-03-21T03:07:28.274Z",
       "score": 149
     },
@@ -2916,7 +2916,7 @@
     },
     "statistics": {
       "level": 2,
-      "lastExplored": "2026-10-20T00:06:35.303Z",
+      "lastExplored": "2026-10-22T07:30:49.137Z",
       "added": "2026-03-21T06:04:11.701Z",
       "score": 103
     },
@@ -2928,7 +2928,7 @@
     },
     "speech-to-text": {
       "level": 2,
-      "lastExplored": "2026-10-19T21:09:46.396Z",
+      "lastExplored": "2026-10-22T05:34:08.451Z",
       "added": "2026-03-21T06:04:11.701Z",
       "score": 132
     },
@@ -3066,7 +3066,7 @@
     },
     "finance": {
       "level": 2,
-      "lastExplored": "2026-10-20T04:14:13.438Z",
+      "lastExplored": "2026-10-22T10:24:16.956Z",
       "added": "2026-03-21T06:07:40.214Z",
       "score": 125
     },
@@ -3132,7 +3132,7 @@
     },
     "comfyui": {
       "level": 2,
-      "lastExplored": "2026-10-19T21:47:28.973Z",
+      "lastExplored": "2026-10-22T06:00:48.611Z",
       "added": "2026-03-21T06:11:17.016Z",
       "score": 108
     },
@@ -3180,7 +3180,7 @@
     },
     "ros": {
       "level": 2,
-      "lastExplored": "2026-10-20T03:25:38.683Z",
+      "lastExplored": "2026-10-22T09:50:56.641Z",
       "added": "2026-03-21T06:18:26.218Z",
       "score": 146
     },
@@ -3210,7 +3210,7 @@
     },
     "dataset": {
       "level": 2,
-      "lastExplored": "2026-10-20T03:48:54.940Z",
+      "lastExplored": "2026-10-22T10:04:16.672Z",
       "added": "2026-03-21T06:25:43.685Z",
       "score": 194
     },
@@ -3228,7 +3228,7 @@
     },
     "stable-diffusion": {
       "level": 2,
-      "lastExplored": "2026-10-20T06:47:09.805Z",
+      "lastExplored": "2026-10-22T12:54:18.244Z",
       "added": "2026-03-21T06:33:39.946Z",
       "score": 160
     },
@@ -3366,7 +3366,7 @@
     },
     "opencv": {
       "level": 2,
-      "lastExplored": "2026-10-19T23:16:03.524Z",
+      "lastExplored": "2026-10-22T06:50:48.956Z",
       "added": "2026-03-21T06:51:35.369Z",
       "score": 158
     },
@@ -3546,7 +3546,7 @@
     },
     "slam": {
       "level": 2,
-      "lastExplored": "2026-10-20T01:43:39.458Z",
+      "lastExplored": "2026-10-22T08:37:29.566Z",
       "added": "2026-03-21T08:02:32.273Z",
       "score": 153
     },
@@ -3744,7 +3744,7 @@
     },
     "gan": {
       "level": 2,
-      "lastExplored": "2026-10-20T03:52:14.949Z",
+      "lastExplored": "2026-10-22T10:07:36.647Z",
       "added": "2026-03-21T08:41:45.905Z",
       "score": 150
     },
@@ -4212,13 +4212,13 @@
     },
     "deep learning": {
       "level": 2,
-      "lastExplored": "2026-10-20T03:55:35.006Z",
+      "lastExplored": "2026-10-22T10:10:56.696Z",
       "added": "2026-03-22T13:59:12.019Z",
       "score": 208
     },
     "machine learning": {
       "level": 2,
-      "lastExplored": "2026-10-20T04:29:09.942Z",
+      "lastExplored": "2026-10-22T10:37:37.078Z",
       "added": "2026-03-22T13:59:12.019Z",
       "score": 126
     },
@@ -4290,7 +4290,7 @@
     },
     "ai agents": {
       "level": 2,
-      "lastExplored": "2026-10-20T04:32:29.963Z",
+      "lastExplored": "2026-10-22T10:40:57.123Z",
       "added": "2026-03-22T13:59:12.019Z",
       "score": 127
     },
@@ -5010,7 +5010,7 @@
     },
     "computer vision": {
       "level": 2,
-      "lastExplored": "2026-10-20T05:06:41.592Z",
+      "lastExplored": "2026-10-22T11:14:17.549Z",
       "added": "2026-03-22T13:59:12.020Z",
       "score": 104
     },
@@ -6966,7 +6966,7 @@
     },
     "hacktoberfest": {
       "level": 2,
-      "lastExplored": "2026-10-20T00:58:11.351Z",
+      "lastExplored": "2026-10-22T08:00:49.315Z",
       "added": "2026-03-23T13:45:02.393Z",
       "score": 383
     },
@@ -7086,7 +7086,7 @@
     },
     "cpp": {
       "level": 2,
-      "lastExplored": "2026-10-20T07:47:20.974Z",
+      "lastExplored": "2026-10-22T13:54:18.917Z",
       "added": "2026-03-23T13:45:02.393Z",
       "score": 219
     },
@@ -7590,7 +7590,7 @@
     },
     "nodejs": {
       "level": 2,
-      "lastExplored": "2026-10-20T07:00:40.593Z",
+      "lastExplored": "2026-10-22T13:07:38.349Z",
       "added": "2026-03-23T13:45:02.393Z",
       "score": 221
     },
@@ -7794,7 +7794,7 @@
     },
     "swiftui": {
       "level": 2,
-      "lastExplored": "2026-10-20T07:10:40.656Z",
+      "lastExplored": "2026-10-22T13:17:38.396Z",
       "added": "2026-03-23T13:45:02.393Z",
       "score": 116
     },
@@ -7938,7 +7938,7 @@
     },
     "command-line": {
       "level": 2,
-      "lastExplored": "2026-10-19T21:35:12.802Z",
+      "lastExplored": "2026-10-22T05:50:48.541Z",
       "added": "2026-03-23T13:45:02.393Z",
       "score": 102
     },
@@ -8676,7 +8676,7 @@
     },
     "claude-skills": {
       "level": 2,
-      "lastExplored": "2026-10-19T22:52:21.810Z",
+      "lastExplored": "2026-10-22T06:30:48.838Z",
       "added": "2026-03-23T13:45:02.394Z",
       "score": 145
     },
@@ -9228,7 +9228,7 @@
     },
     "python3": {
       "level": 2,
-      "lastExplored": "2026-10-19T23:52:01.692Z",
+      "lastExplored": "2026-10-22T07:20:49.107Z",
       "added": "2026-03-23T13:45:02.394Z",
       "score": 204
     },
@@ -9570,7 +9570,7 @@
     },
     "opencode": {
       "level": 2,
-      "lastExplored": "2026-10-19T21:44:01.259Z",
+      "lastExplored": "2026-10-22T05:57:28.577Z",
       "added": "2026-03-23T13:45:02.394Z",
       "score": 156
     },
@@ -9582,7 +9582,7 @@
     },
     "vibe-coding": {
       "level": 2,
-      "lastExplored": "2026-10-20T06:23:42.145Z",
+      "lastExplored": "2026-10-22T12:30:58.205Z",
       "added": "2026-03-23T13:45:02.394Z",
       "score": 111
     },
@@ -9756,7 +9756,7 @@
     },
     "nextjs": {
       "level": 2,
-      "lastExplored": "2026-10-20T06:43:49.766Z",
+      "lastExplored": "2026-10-22T12:50:58.236Z",
       "added": "2026-03-23T13:45:02.394Z",
       "score": 163
     },
@@ -10152,7 +10152,7 @@
     },
     "agentic-ai": {
       "level": 2,
-      "lastExplored": "2026-10-20T04:46:41.491Z",
+      "lastExplored": "2026-10-22T10:54:17.359Z",
       "added": "2026-03-23T13:46:02.094Z",
       "score": 281
     },
@@ -10266,7 +10266,7 @@
     },
     "data-science": {
       "level": 2,
-      "lastExplored": "2026-10-20T05:46:56.357Z",
+      "lastExplored": "2026-10-22T11:54:17.919Z",
       "added": "2026-03-23T13:46:02.094Z",
       "score": 457
     },
@@ -10284,7 +10284,7 @@
     },
     "natural-language-processing": {
       "level": 2,
-      "lastExplored": "2026-10-20T05:50:16.408Z",
+      "lastExplored": "2026-10-22T11:57:37.928Z",
       "added": "2026-03-23T13:46:02.094Z",
       "score": 325
     },
@@ -10842,13 +10842,13 @@
     },
     "generative-ai": {
       "level": 2,
-      "lastExplored": "2026-10-20T04:39:10.018Z",
+      "lastExplored": "2026-10-22T10:47:37.301Z",
       "added": "2026-03-23T13:46:02.094Z",
       "score": 180
     },
     "large-language-models": {
       "level": 2,
-      "lastExplored": "2026-10-20T05:36:56.410Z",
+      "lastExplored": "2026-10-22T11:44:17.819Z",
       "added": "2026-03-23T13:46:02.094Z",
       "score": 262
     },
@@ -10878,7 +10878,7 @@
     },
     "artificial-intelligence": {
       "level": 2,
-      "lastExplored": "2026-10-20T05:16:56.260Z",
+      "lastExplored": "2026-10-22T11:24:17.614Z",
       "added": "2026-03-23T13:46:02.094Z",
       "score": 509
     },
@@ -12120,7 +12120,7 @@
     },
     "data-analysis": {
       "level": 2,
-      "lastExplored": "2026-10-20T05:20:16.270Z",
+      "lastExplored": "2026-10-22T11:27:37.641Z",
       "added": "2026-03-23T13:46:02.095Z",
       "score": 126
     },
@@ -12312,7 +12312,7 @@
     },
     "deep-neural-networks": {
       "level": 2,
-      "lastExplored": "2026-10-19T23:19:42.591Z",
+      "lastExplored": "2026-10-22T06:54:08.977Z",
       "added": "2026-03-23T13:46:02.095Z",
       "score": 127
     },
@@ -13314,7 +13314,7 @@
     },
     "jupyter-notebook": {
       "level": 2,
-      "lastExplored": "2026-10-20T01:13:23.793Z",
+      "lastExplored": "2026-10-22T08:10:49.374Z",
       "added": "2026-03-23T13:46:31.917Z",
       "score": 111
     },
@@ -14730,7 +14730,7 @@
     },
     "3d-reconstruction": {
       "level": 2,
-      "lastExplored": "2026-10-19T23:43:49.723Z",
+      "lastExplored": "2026-10-22T07:14:09.051Z",
       "added": "2026-03-23T13:46:31.918Z",
       "score": 132
     },
@@ -17064,7 +17064,7 @@
     },
     "image-processing": {
       "level": 2,
-      "lastExplored": "2026-10-20T02:28:45.518Z",
+      "lastExplored": "2026-10-22T09:04:16.150Z",
       "added": "2026-03-23T13:53:13.127Z",
       "score": 134
     },
@@ -18612,7 +18612,7 @@
     },
     "mcp-server": {
       "level": 2,
-      "lastExplored": "2026-10-19T20:35:07.377Z",
+      "lastExplored": "2026-10-22T05:10:48.168Z",
       "added": "2026-03-23T13:54:38.593Z",
       "score": 285
     },
@@ -18702,7 +18702,7 @@
     },
     "time-series": {
       "level": 2,
-      "lastExplored": "2026-10-20T03:22:12.301Z",
+      "lastExplored": "2026-10-22T09:47:36.569Z",
       "added": "2026-03-23T13:54:38.593Z",
       "score": 110
     },
@@ -20238,7 +20238,7 @@
     },
     "convolutional-neural-networks": {
       "level": 2,
-      "lastExplored": "2026-10-20T02:49:03.476Z",
+      "lastExplored": "2026-10-22T09:24:16.409Z",
       "added": "2026-03-23T14:03:20.208Z",
       "score": 126
     },
@@ -20364,7 +20364,7 @@
     },
     "classification": {
       "level": 2,
-      "lastExplored": "2026-10-20T04:17:33.466Z",
+      "lastExplored": "2026-10-22T10:27:36.981Z",
       "added": "2026-03-23T14:03:20.208Z",
       "score": 103
     },
@@ -22728,7 +22728,7 @@
     },
     "model-context-protocol": {
       "level": 2,
-      "lastExplored": "2026-10-19T21:13:06.411Z",
+      "lastExplored": "2026-10-22T05:37:28.421Z",
       "added": "2026-03-23T14:11:33.805Z",
       "score": 142
     },
@@ -32604,7 +32604,7 @@
     },
     "desktop-app": {
       "level": 2,
-      "lastExplored": "2026-10-20T04:22:29.936Z",
+      "lastExplored": "2026-10-22T10:30:57.047Z",
       "added": "2026-03-23T14:18:07.293Z",
       "score": 138
     },
@@ -105468,7 +105468,7 @@
     },
     "coding-agent": {
       "level": 2,
-      "lastExplored": "2026-10-20T07:30:40.880Z",
+      "lastExplored": "2026-10-22T13:37:38.661Z",
       "added": "2026-03-23T18:05:29.508Z",
       "score": 105
     },
@@ -522180,7 +522180,7 @@
     },
     "dsh-plugin": {
       "level": 2,
-      "lastExplored": "2026-10-20T07:17:20.729Z",
+      "lastExplored": "2026-10-22T13:24:18.545Z",
       "added": "2026-08-22T11:53:00.077Z",
       "score": 113
     },
@@ -548504,6 +548504,1386 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-10-20T07:32:46.905Z",
+      "score": 0
+    },
+    "android-on-mac": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T08:21:06.103Z",
+      "score": 0
+    },
+    "apple-silicon-mac": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T08:21:06.103Z",
+      "score": 0
+    },
+    "ms-offcrypto": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T08:41:25.229Z",
+      "score": 0
+    },
+    "ole": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T08:41:25.229Z",
+      "score": 0
+    },
+    "aiven": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T08:45:07.007Z",
+      "score": 0
+    },
+    "cloud-object-storage": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T08:45:07.007Z",
+      "score": 0
+    },
+    "goal": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T08:48:23.004Z",
+      "score": 0
+    },
+    "goal-mode": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T08:48:23.004Z",
+      "score": 0
+    },
+    "agentscope-java": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T09:14:45.789Z",
+      "score": 0
+    },
+    "spring-ai-openai": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T09:14:45.789Z",
+      "score": 0
+    },
+    "sorl-thumbnail": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T10:02:27.336Z",
+      "score": 0
+    },
+    "compiler-theory": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T10:33:25.847Z",
+      "score": 0
+    },
+    "robdd": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T10:33:25.847Z",
+      "score": 0
+    },
+    "succinct-data-structures": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T10:33:25.847Z",
+      "score": 0
+    },
+    "uml-generator": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T10:33:25.847Z",
+      "score": 0
+    },
+    "pdfmathtranslate": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T10:44:45.813Z",
+      "score": 0
+    },
+    "dither": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T10:50:26.516Z",
+      "score": 0
+    },
+    "n-gram": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T10:58:24.071Z",
+      "score": 0
+    },
+    "directory-submission": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T11:31:26.429Z",
+      "score": 0
+    },
+    "indie-hackers": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T11:31:26.429Z",
+      "score": 0
+    },
+    "submitlist": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T11:31:26.429Z",
+      "score": 0
+    },
+    "subreddits": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T11:31:26.429Z",
+      "score": 0
+    },
+    "force-push-warning": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T11:48:26.064Z",
+      "score": 0
+    },
+    "interactive-story": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T12:41:24.709Z",
+      "score": 0
+    },
+    "narrative-game": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T12:41:24.709Z",
+      "score": 0
+    },
+    "romance": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T12:41:24.709Z",
+      "score": 0
+    },
+    "rose-day": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T12:41:24.709Z",
+      "score": 0
+    },
+    "mcp-audit": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T13:45:08.091Z",
+      "score": 0
+    },
+    "mcp-scanner": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T13:45:08.091Z",
+      "score": 0
+    },
+    "mcp-server-python": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T13:45:08.091Z",
+      "score": 0
+    },
+    "tool-poisoning": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T13:45:08.091Z",
+      "score": 0
+    },
+    "goforj": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T13:49:47.155Z",
+      "score": 0
+    },
+    "biking": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T13:52:47.030Z",
+      "score": 0
+    },
+    "ai-text-detection": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T14:02:27.698Z",
+      "score": 0
+    },
+    "text-humanization": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T14:02:27.698Z",
+      "score": 0
+    },
+    "envsubst": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T14:12:07.780Z",
+      "score": 0
+    },
+    "anti-afk": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T14:56:07.762Z",
+      "score": 0
+    },
+    "auto-accept": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T14:56:07.762Z",
+      "score": 0
+    },
+    "auto-pistol": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T14:56:07.762Z",
+      "score": 0
+    },
+    "color-trigger": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T14:56:07.762Z",
+      "score": 0
+    },
+    "counter-strike-2-script": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T14:56:07.762Z",
+      "score": 0
+    },
+    "cs2-customization": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T14:56:07.762Z",
+      "score": 0
+    },
+    "cs2-scripts": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T14:56:07.762Z",
+      "score": 0
+    },
+    "erscripts": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T14:56:07.762Z",
+      "score": 0
+    },
+    "jump-throw": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T14:56:07.762Z",
+      "score": 0
+    },
+    "long-jump": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T14:56:07.762Z",
+      "score": 0
+    },
+    "pixel-trigger": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T14:56:07.762Z",
+      "score": 0
+    },
+    "script-automation": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T14:56:07.762Z",
+      "score": 0
+    },
+    "sniper-crosshair": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T14:56:07.762Z",
+      "score": 0
+    },
+    "awesome-genspark": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T15:26:07.817Z",
+      "score": 0
+    },
+    "genspark-agent": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T15:26:07.817Z",
+      "score": 0
+    },
+    "genspark-claw": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T15:26:07.817Z",
+      "score": 0
+    },
+    "genspark-mcp": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T15:26:07.817Z",
+      "score": 0
+    },
+    "genspark-skills": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T15:26:07.817Z",
+      "score": 0
+    },
+    "open-genspark": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T15:26:07.817Z",
+      "score": 0
+    },
+    "byoa": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T15:42:26.766Z",
+      "score": 0
+    },
+    "contabilidad": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T15:53:08.767Z",
+      "score": 0
+    },
+    "facturacion": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T15:53:08.767Z",
+      "score": 0
+    },
+    "api-credits": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T16:02:48.480Z",
+      "score": 0
+    },
+    "api-pricing": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T16:02:48.480Z",
+      "score": 0
+    },
+    "free-tier": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T16:02:48.480Z",
+      "score": 0
+    },
+    "fex": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T16:07:47.773Z",
+      "score": 0
+    },
+    "vkd3d-proton": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T16:07:47.773Z",
+      "score": 0
+    },
+    "windows-games": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T16:07:47.773Z",
+      "score": 0
+    },
+    "ai-data": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T17:05:13.214Z",
+      "score": 0
+    },
+    "eventstreams": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T17:54:53.926Z",
+      "score": 0
+    },
+    "pywikibot": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T17:54:53.926Z",
+      "score": 0
+    },
+    "wikibase": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T17:54:53.926Z",
+      "score": 0
+    },
+    "wikihow": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T17:54:53.926Z",
+      "score": 0
+    },
+    "bloodborne": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T18:01:54.745Z",
+      "score": 0
+    },
+    "bloodborne-launcher": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T18:01:54.745Z",
+      "score": 0
+    },
+    "bloodborne-pc": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T18:01:54.745Z",
+      "score": 0
+    },
+    "bloodborne-windows": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T18:01:54.745Z",
+      "score": 0
+    },
+    "trendshift": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T18:01:54.745Z",
+      "score": 0
+    },
+    "exegol": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T18:40:14.868Z",
+      "score": 0
+    },
+    "loess": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T19:21:15.101Z",
+      "score": 0
+    },
+    "interactive-tables": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T19:31:54.978Z",
+      "score": 0
+    },
+    "agile-metrics": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T19:36:35.272Z",
+      "score": 0
+    },
+    "ast-parsing": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T19:36:35.272Z",
+      "score": 0
+    },
+    "effort-estimation": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T19:36:35.272Z",
+      "score": 0
+    },
+    "software-metrics-analysis": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T19:36:35.272Z",
+      "score": 0
+    },
+    "active-noise-cancellation": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T20:53:47.307Z",
+      "score": 0
+    },
+    "adlx": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T21:28:24.236Z",
+      "score": 0
+    },
+    "adrenalin": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T21:28:24.236Z",
+      "score": 0
+    },
+    "videocard": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T21:28:24.236Z",
+      "score": 0
+    },
+    "auto-suggest": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T22:16:07.694Z",
+      "score": 0
+    },
+    "patricia-tree": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T22:16:07.694Z",
+      "score": 0
+    },
+    "radix-tree": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T22:16:07.694Z",
+      "score": 0
+    },
+    "radix-trie": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T22:16:07.694Z",
+      "score": 0
+    },
+    "agent-handoff": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T22:48:07.213Z",
+      "score": 0
+    },
+    "vue-dnd": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-20T23:03:07.764Z",
+      "score": 0
+    },
+    "mcp-appium": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T01:52:48.867Z",
+      "score": 0
+    },
+    "mcp-ios": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T01:52:48.867Z",
+      "score": 0
+    },
+    "mcp-mobile": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T01:52:48.867Z",
+      "score": 0
+    },
+    "youtube-mp3-downloader": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T01:54:28.933Z",
+      "score": 0
+    },
+    "youtube-playlist-downloader": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T01:54:28.933Z",
+      "score": 0
+    },
+    "beeps": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T01:55:48.567Z",
+      "score": 0
+    },
+    "manju": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T02:11:48.597Z",
+      "score": 0
+    },
+    "microdrama": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T02:11:48.597Z",
+      "score": 0
+    },
+    "vertical-drama": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T02:11:48.597Z",
+      "score": 0
+    },
+    "blockchain-integration": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T02:27:28.622Z",
+      "score": 0
+    },
+    "dapp-browser": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T02:27:28.622Z",
+      "score": 0
+    },
+    "desktop-wallet": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T02:27:28.622Z",
+      "score": 0
+    },
+    "web3js-examples": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T02:27:28.622Z",
+      "score": 0
+    },
+    "image-pinning": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T04:34:49.986Z",
+      "score": 0
+    },
+    "screenshot-annotation": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T04:34:49.986Z",
+      "score": 0
+    },
+    "snipping-tool": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T04:34:49.986Z",
+      "score": 0
+    },
+    "ratelimit": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T04:37:50.139Z",
+      "score": 0
+    },
+    "sliding-window": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T04:37:50.139Z",
+      "score": 0
+    },
+    "flux3-klein": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T06:24:30.870Z",
+      "score": 0
+    },
+    "qwen-image-2-1": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T06:24:30.870Z",
+      "score": 0
+    },
+    "nestri": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T06:28:31.165Z",
+      "score": 0
+    },
+    "accio": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T06:49:31.182Z",
+      "score": 0
+    },
+    "autoclaw": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T06:49:31.182Z",
+      "score": 0
+    },
+    "catpaw": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T06:49:31.182Z",
+      "score": 0
+    },
+    "local-proxy": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T06:49:31.182Z",
+      "score": 0
+    },
+    "game-search": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T07:14:50.112Z",
+      "score": 0
+    },
+    "gamesearch": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T07:14:50.112Z",
+      "score": 0
+    },
+    "software-search": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T07:14:50.112Z",
+      "score": 0
+    },
+    "softwaresearch": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T07:14:50.112Z",
+      "score": 0
+    },
+    "expense": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T07:18:08.804Z",
+      "score": 0
+    },
+    "mongolia": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T07:18:08.804Z",
+      "score": 0
+    },
+    "personal-f": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T07:18:08.804Z",
+      "score": 0
+    },
+    "gui-captcha-solver": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T07:25:11.405Z",
+      "score": 0
+    },
+    "mobile-use-agent": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T07:25:11.405Z",
+      "score": 0
+    },
+    "paper-agent": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T07:36:30.996Z",
+      "score": 0
+    },
+    "golang-gui": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T07:51:31.572Z",
+      "score": 0
+    },
+    "speauty": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T07:51:31.572Z",
+      "score": 0
+    },
+    "cortico": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T09:18:01.415Z",
+      "score": 0
+    },
+    "vkontakte-sdk": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T09:43:42.275Z",
+      "score": 0
+    },
+    "nsh": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T10:54:42.626Z",
+      "score": 0
+    },
+    "ai-chatbo": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T11:27:22.811Z",
+      "score": 0
+    },
+    "llm-cli": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T11:27:22.811Z",
+      "score": 0
+    },
+    "xai-ap": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T11:27:22.811Z",
+      "score": 0
+    },
+    "captcha-detection": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T11:58:02.368Z",
+      "score": 0
+    },
+    "qualitylayer": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T12:09:42.244Z",
+      "score": 0
+    },
+    "devsecops-interview-quesitons": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T12:44:22.787Z",
+      "score": 0
+    },
+    "security-interview-questions": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T12:44:22.787Z",
+      "score": 0
+    },
+    "web-security-interview": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T12:44:22.787Z",
+      "score": 0
+    },
+    "embeddinggemma-2": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T13:01:23.078Z",
+      "score": 0
+    },
+    "siglip-2": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T13:01:23.078Z",
+      "score": 0
+    },
+    "geodesics": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T13:56:43.515Z",
+      "score": 0
+    },
+    "gravitational-physics": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T13:56:43.515Z",
+      "score": 0
+    },
+    "orbital-simulation": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T13:56:43.515Z",
+      "score": 0
+    },
+    "perihelion": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T13:56:43.515Z",
+      "score": 0
+    },
+    "m3-expressive": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T14:53:23.764Z",
+      "score": 0
+    },
+    "google-timeline-alternative": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T15:48:25.239Z",
+      "score": 0
+    },
+    "immich-integration": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T15:48:25.239Z",
+      "score": 0
+    },
+    "chat-with-pdf": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T17:11:25.607Z",
+      "score": 0
+    },
+    "granola-alternative": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T17:11:25.607Z",
+      "score": 0
+    },
+    "semrush-alternative": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T17:25:45.483Z",
+      "score": 0
+    },
+    "semrush-api": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T17:25:45.483Z",
+      "score": 0
+    },
+    "semrush-features": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T17:25:45.483Z",
+      "score": 0
+    },
+    "semrush-patch": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T17:25:45.483Z",
+      "score": 0
+    },
+    "semrush-safe": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T17:25:45.483Z",
+      "score": 0
+    },
+    "seo-tools-rapid-url-indexer": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T17:25:45.483Z",
+      "score": 0
+    },
+    "serp-analysis": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T17:25:45.483Z",
+      "score": 0
+    },
+    "serp-scraper": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T17:25:45.483Z",
+      "score": 0
+    },
+    "ai-sdr": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T17:56:47.432Z",
+      "score": 0
+    },
+    "sales-engagement": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T17:56:47.433Z",
+      "score": 0
+    },
+    "ai-overviews": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T18:29:59.802Z",
+      "score": 0
+    },
+    "geo-doctor": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T18:29:59.802Z",
+      "score": 0
+    },
+    "building-in-public": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T19:09:00.353Z",
+      "score": 0
+    },
+    "anlz": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T20:04:19.161Z",
+      "score": 0
+    },
+    "device-library-plus": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T20:04:19.161Z",
+      "score": 0
+    },
+    "my-settings": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T20:04:19.161Z",
+      "score": 0
+    },
+    "rekordbox": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T20:04:19.161Z",
+      "score": 0
+    },
+    "rekordbox-v5": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T20:04:19.161Z",
+      "score": 0
+    },
+    "rekordbox-v6": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T20:04:19.161Z",
+      "score": 0
+    },
+    "rekordbox-v7": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T20:04:19.161Z",
+      "score": 0
+    },
+    "copy-trading": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T21:00:20.865Z",
+      "score": 0
+    },
+    "limitless": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T21:00:20.865Z",
+      "score": 0
+    },
+    "polymarket-arbitrage": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T21:00:20.865Z",
+      "score": 0
+    },
+    "predict-fun": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T21:00:20.865Z",
+      "score": 0
+    },
+    "prediction-market-bot": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T21:00:20.865Z",
+      "score": 0
+    },
+    "prediction-markets-auto": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T21:00:20.865Z",
+      "score": 0
+    },
+    "wechat-automation": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T21:08:39.999Z",
+      "score": 0
+    },
+    "wechat4": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T21:08:39.999Z",
+      "score": 0
+    },
+    "wechatauto": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T21:08:39.999Z",
+      "score": 0
+    },
+    "wxauto": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T21:08:39.999Z",
+      "score": 0
+    },
+    "edubos5": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T21:43:00.736Z",
+      "score": 0
+    },
+    "pipelinec": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T21:43:00.736Z",
+      "score": 0
+    },
+    "pypeline": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T21:43:00.736Z",
+      "score": 0
+    },
+    "hardware-sec": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T21:45:21.006Z",
+      "score": 0
+    },
+    "software-exploitation": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T21:45:21.006Z",
+      "score": 0
+    },
+    "paserk": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-21T21:45:21.006Z",
+      "score": 0
+    },
+    "muse-plugin": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-22T01:39:27.800Z",
+      "score": 0
+    },
+    "media-manager": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-22T01:58:28.329Z",
+      "score": 0
+    },
+    "animation-software": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-22T03:21:59.229Z",
+      "score": 0
+    },
+    "pivot-animator": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-22T03:21:59.229Z",
+      "score": 0
+    },
+    "stick-figure": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-22T03:21:59.229Z",
+      "score": 0
+    },
+    "stickman": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-22T03:21:59.229Z",
+      "score": 0
+    },
+    "reverse-engineered": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-22T03:25:31.489Z",
+      "score": 0
+    },
+    "openrouter-alternative": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-22T03:57:52.927Z",
+      "score": 0
+    },
+    "madong": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-22T03:59:32.110Z",
+      "score": 0
+    },
+    "tenant-isolation": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-22T03:59:32.110Z",
+      "score": 0
+    },
+    "search-gateway": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-22T04:56:13.416Z",
+      "score": 0
+    },
+    "search1api": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-22T04:56:13.416Z",
+      "score": 0
+    },
+    "claude-duet": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-22T06:01:13.767Z",
+      "score": 0
+    },
+    "bloatware-remover": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-22T06:05:53.209Z",
+      "score": 0
+    },
+    "remote-collaboration": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-22T06:11:32.582Z",
+      "score": 0
+    },
+    "srs-framework": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-22T06:24:33.005Z",
+      "score": 0
+    },
+    "omniauth-strategy": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-22T07:58:34.557Z",
+      "score": 0
+    },
+    "blue-screen": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-22T08:11:33.479Z",
+      "score": 0
+    },
+    "china-map": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-22T08:58:00.041Z",
+      "score": 0
+    },
+    "classical-chinese-poetry": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-22T08:58:00.041Z",
+      "score": 0
+    },
+    "historical-atlas": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-22T08:58:00.041Z",
+      "score": 0
+    },
+    "historical-map": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-22T08:58:00.041Z",
+      "score": 0
+    },
+    "cross-border-ecommerce": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-22T09:08:00.695Z",
+      "score": 0
+    },
+    "mercado-livre": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-22T09:08:00.695Z",
+      "score": 0
+    },
+    "shopee": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-22T09:08:00.695Z",
+      "score": 0
+    },
+    "sop": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-22T09:08:00.695Z",
+      "score": 0
+    },
+    "sparkllm": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-22T09:38:00.501Z",
+      "score": 0
+    },
+    "screaming-frog": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-22T11:00:42.384Z",
+      "score": 0
+    },
+    "screaming-frog-release-seo-spider": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-22T11:00:42.384Z",
+      "score": 0
+    },
+    "screaming-frog-seo-spider": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-22T11:00:42.384Z",
+      "score": 0
+    },
+    "semrush-free": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-22T11:00:42.384Z",
+      "score": 0
+    },
+    "semrush-software": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-22T11:00:42.384Z",
+      "score": 0
+    },
+    "seo-optimized": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-22T11:00:42.384Z",
+      "score": 0
+    },
+    "seops": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-22T11:00:42.384Z",
+      "score": 0
+    },
+    "seops-vulcan": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-22T11:00:42.384Z",
+      "score": 0
+    },
+    "ai-for-math": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-22T11:02:41.750Z",
+      "score": 0
+    },
+    "autoformalization": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-22T11:02:41.750Z",
+      "score": 0
+    },
+    "automated-theorem-proving": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-22T11:02:41.750Z",
+      "score": 0
+    },
+    "dafny": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-22T11:02:41.750Z",
+      "score": 0
+    },
+    "reward-hacking": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-22T11:02:41.750Z",
+      "score": 0
+    },
+    "verified-code": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-22T11:02:41.750Z",
+      "score": 0
+    },
+    "twitter-user": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-22T12:47:03.725Z",
+      "score": 0
+    },
+    "solace": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-22T13:48:04.841Z",
+      "score": 0
+    },
+    "n-plus-one": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-10-22T14:05:24.734Z",
       "score": 0
     }
   },
