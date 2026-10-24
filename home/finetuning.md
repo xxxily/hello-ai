@@ -2,7 +2,7 @@
 
 > Model training, fine-tuning, and evaluation.
 
-> 当前分类已收录 **426** 个相关项目。
+> 当前分类已收录 **423** 个相关项目。
 
 ## Dataset Management
 
@@ -246,14 +246,6 @@ Unsplash开放数据集，提供650万+高质量图像供机器学习研究使�
 - **Tags:** `auto-labeling` `foundation-models` `object-detection` `segment-anything` `yolo`
 - **最后活动时间:** 2026-09-29
 
-### [datachain](https://github.com/iterative/datachain)
-
-面向多模态数据的数据分析、版本控制和ETL工具，支持视频、音频、PDF和图像等多种格式。
-
-- **Stars:** ⭐️ 2.7k
-- **Tags:** `multimodal` `data-processing` `etl` `mlops`
-- **最后活动时间:** 2026-04-24
-
 ### [synthetic-data-generator](https://github.com/hitsz-ids/synthetic-data-generator)
 
 专门生成高质量结构化表格数据的框架，支持隐私保护和数据增强，基于深度学习和GAN技术提供可靠的合成数据解决方案。
@@ -381,14 +373,6 @@ AI数据存储与标注平台，支持图像和视频标注，集成人工监督
 - **Stars:** ⭐️ 1.7k
 - **Tags:** `synthetic-data` `gan` `time-series` `deep-learning` `pytorch`
 - **最后活动时间:** 2026-09-03
-
-### [ydata-synthetic](https://github.com/Data-Centric-AI-Community/ydata-synthetic)
-
-用于表格和时间序列数据的合成数据生成器，支持多种GAN架构。
-
-- **Stars:** ⭐️ 1.6k
-- **Tags:** `synthetic-data` `gan` `time-series` `tabular-data`
-- **最后活动时间:** 2026-04-23
 
 ### [CTGAN](https://github.com/sdv-dev/CTGAN)
 
@@ -3329,14 +3313,6 @@ Fizgig 是一款面向图像、视频与音乐生成模型的 LoRA 微调工作�
 - **Stars:** ⭐️ 573
 - **Tags:** `comfyui` `lora` `stable-diffusion` `flux` `fine-tuning`
 - **最后活动时间:** 2026-08-21
-
-### [TextRL](https://github.com/voidful/TextRL)
-
-在HuggingFace模型上实现ChatGPT风格的RLHF人类反馈强化学习训练。
-
-- **Stars:** ⭐️ 564
-- **Tags:** `rlhf` `reinforcement-learning` `fine-tuning` `huggingface`
-- **最后活动时间:** 2026-04-23
 
 ### [paxml](https://github.com/google/paxml)
 

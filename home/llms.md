@@ -2,7 +2,7 @@
 
 > Core large language models and foundation models.
 
-> 当前分类已收录 **165** 个相关项目。
+> 当前分类已收录 **164** 个相关项目。
 
 ## Model Architecture
 
@@ -349,14 +349,6 @@ VisionHOPE的官方PyTorch实现，提出将视觉骨干网络作为自我修改
 - **Stars:** ⭐️ 1.1k
 - **Tags:** `PyTorch` `Computer-Vision` `Foundation-Models` `Image-Classification` `Backbone-Networks` `Nested-Learning`
 - **最后活动时间:** 2026-10-12
-
-### [turboquant-pytorch](https://github.com/tonbistudio/turboquant-pytorch)
-
-Google TurboQuant的PyTorch实现，用于LLM KV缓存压缩，实现5倍压缩率和99.5%注意力保真度。
-
-- **Stars:** ⭐️ 1.0k
-- **Tags:** `llm` `kv-cache` `compression` `pytorch` `quantization`
-- **最后活动时间:** 2026-04-23
 
 ### [OpenOneRec](https://github.com/Kuaishou-OneRec/OpenOneRec)
 

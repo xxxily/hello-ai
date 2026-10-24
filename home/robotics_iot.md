@@ -2,7 +2,7 @@
 
 > AI running on physical devices and robotics.
 
-> 当前分类已收录 **649** 个相关项目。
+> 当前分类已收录 **646** 个相关项目。
 
 ## Edge AI
 
@@ -1970,14 +1970,6 @@ PlotJuggler 是一个专为时间序列数据设计的可视化工具，被誉�
 - **Tags:** `robotics` `ros2` `middleware` `framework`
 - **最后活动时间:** 2026-10-20
 
-### [PlotJuggler](https://github.com/facontidavide/PlotJuggler)
-
-强大的时间序列数据可视化工具，支持ROS bag、CSV等多种数据格式的实时绘图分析。
-
-- **Stars:** ⭐️ 5.9k
-- **Tags:** `visualization` `ros` `time-series` `robotics`
-- **最后活动时间:** 2026-04-23
-
 ### [newton](https://github.com/newton-physics/newton)
 
 基于NVIDIA Warp的GPU加速物理仿真引擎，专为机器人学和仿真研究设计。
@@ -2169,14 +2161,6 @@ RTAB-Map是一个开源的SLAM（同步定位与地图构建）库，支持ROS/R
 - **Stars:** ⭐️ 3.6k
 - **Tags:** `robot-arm` `imitation-learning` `reinforcement-learning` `ros2` `humanoid`
 - **最后活动时间:** 2026-10-22
-
-### [ros_motion_planning](https://github.com/ai-winter/ros_motion_planning)
-
-AGV/AMR运动规划与导航算法集合，包含A*、RRT、MPC、DWA等数十种路径规划算法。
-
-- **Stars:** ⭐️ 3.6k
-- **Tags:** `motion-planning` `path-planning` `ros` `navigation` `robotics`
-- **最后活动时间:** 2026-04-24
 
 ### [OpenBot](https://github.com/ob-f/OpenBot)
 
@@ -4465,14 +4449,6 @@ CARLA自动驾驶仿真器与ROS的通信桥接，支持传感器数据与车辆
 - **Stars:** ⭐️ 641
 - **Tags:** `vla` `robot-foundation-model` `world-model` `robot-learning`
 - **最后活动时间:** 2026-10-13
-
-### [Euro-Truck-Simulator-2-Lane-Assist](https://github.com/ETS2LA/Euro-Truck-Simulator-2-Lane-Assist)
-
-为欧洲卡车模拟2和美国卡车模拟游戏开发的自动驾驶辅助插件系统。
-
-- **Stars:** ⭐️ 640
-- **Tags:** `lane-assist` `self-driving` `simulation` `autonomous`
-- **最后活动时间:** 2026-04-23
 
 ### [aerial-autonomy-stack](https://github.com/JacopoPan/aerial-autonomy-stack)
 

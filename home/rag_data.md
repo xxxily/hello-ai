@@ -2,7 +2,7 @@
 
 > Retrieval Augmented Generation and Database solutions.
 
-> 当前分类已收录 **601** 个相关项目。
+> 当前分类已收录 **599** 个相关项目。
 
 ## Data Parsers
 
@@ -757,14 +757,6 @@ DuckDB资源精选列表，适用于AI数据管道和分析型数据库场景。
 - **Stars:** ⭐️ 2.5k
 - **Tags:** `Semantic-Metadata` `AI` `Analytics` `Specification`
 - **最后活动时间:** 2026-10-18
-
-### [meltano](https://github.com/meltano/meltano)
-
-声明式数据集成引擎，简化ML应用的数据管道构建与API集成。
-
-- **Stars:** ⭐️ 2.5k
-- **Tags:** `data-integration` `elt` `data-pipelines` `dataops` `open-source`
-- **最后活动时间:** 2026-04-23
 
 ### [ade-cli](https://github.com/landing-ai/ade-cli)
 
@@ -1959,14 +1951,6 @@ Java PDF 表格提取与 OCR 库，支持从文本和扫描 PDF 中提取结构�
 - **Stars:** ⭐️ 52.6k
 - **Tags:** `RAG` `Agents` `LLM` `Framework`
 - **最后活动时间:** 2026-10-21
-
-### [mempalace](https://github.com/milla-jovovich/mempalace)
-
-高性能 AI 记忆系统，在基准测试中得分最高，支持 MCP 协议和 ChromaDB 向量存储。
-
-- **Stars:** ⭐️ 49.3k
-- **Tags:** `memory` `llm` `mcp` `chromadb` `rag`
-- **最后活动时间:** 2026-04-24
 
 ### [GitNexus](https://github.com/abhigyanpatwari/GitNexus)
 

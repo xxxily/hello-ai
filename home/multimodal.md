@@ -2,7 +2,7 @@
 
 > Computer vision, image generation, audio, text-to-speech.
 
-> 当前分类已收录 **1138** 个相关项目。
+> 当前分类已收录 **1131** 个相关项目。
 
 ## Audio & Speech (TTS/STT)
 
@@ -638,14 +638,6 @@ Python音频分析库，提供特征提取、分类、分割等功能，支持�
 - **Tags:** `tts` `speech-synthesis` `audio-generation`
 - **最后活动时间:** 2026-06-15
 
-### [tts-vue](https://github.com/LokerL/tts-vue)
-
-基于微软语音服务的桌面端TTS工具，支持文本转语音合成，使用Electron+Vue构建。
-
-- **Stars:** ⭐️ 6.1k
-- **Tags:** `TTS` `Speech Synthesis` `Desktop`
-- **最后活动时间:** 2026-04-24
-
 ### [piper1-gpl](https://github.com/OHF-Voice/piper1-gpl)
 
 快速且支持本地运行的神经文本转语音引擎，适合离线环境部署。
@@ -813,14 +805,6 @@ OpenAI Whisper的近实时实现，支持语音识别、翻译和听写功能。
 - **Stars:** ⭐️ 4.1k
 - **Tags:** `transcription` `speech-to-text` `self-hosted` `audio`
 - **最后活动时间:** 2026-10-12
-
-### [Qwen3-Omni](https://github.com/QwenLM/Qwen3-Omni)
-
-阿里云Qwen团队开发的全模态端到端大模型，支持文本、音频、图像、视频理解及实时语音生成。
-
-- **Stars:** ⭐️ 4.1k
-- **Tags:** `Omni-Modal` `TTS` `Qwen`
-- **最后活动时间:** 2026-04-23
 
 ### [RealtimeTTS](https://github.com/KoljaB/RealtimeTTS)
 
@@ -1685,14 +1669,6 @@ ICASSP 2024发表的快速文本转语音架构，采用条件流匹配技术实
 - **Stars:** ⭐️ 1.3k
 - **Tags:** `speech-to-text` `obs` `captions` `google-speech`
 - **最后活动时间:** 2026-10-09
-
-### [dicio-android](https://github.com/Stypox/dicio-android)
-
-开源Android离线语音助手，基于Vosk实现本地语音识别与唤醒词检测，支持多种技能扩展。
-
-- **Stars:** ⭐️ 1.3k
-- **Tags:** `语音助手` `离线STT` `Android` `Vosk`
-- **最后活动时间:** 2026-04-23
 
 ### [VoiceprintRecognition-Pytorch](https://github.com/yeyupiaoling/VoiceprintRecognition-Pytorch)
 
@@ -2998,14 +2974,6 @@ Unreal Engine的MediaPipe插件，支持面部、手部、姿态追踪及TTS功�
 - **Tags:** `arabic` `asr` `speech-recognition` `speech-to-text` `huggingface`
 - **最后活动时间:** 2026-08-22
 
-### [aspeak](https://github.com/kxxt/aspeak)
-
-Azure TTS API 的简洁命令行客户端，支持高质量语音合成。可快速将文本转换为自然流畅的语音输出。
-
-- **Stars:** ⭐️ 500
-- **Tags:** `text-to-speech` `tts` `azure-cognitive-services` `cli`
-- **最后活动时间:** 2026-04-23
-
 ## Image Generation
 
 ### [ComfyUI](https://github.com/Comfy-Org/ComfyUI)
@@ -3479,14 +3447,6 @@ AI 模型分享平台，汇集 Stable Diffusion 模型、文本反转等生成�
 - **Stars:** ⭐️ 7.2k
 - **Tags:** `computer-vision` `c-library` `image-processing`
 - **最后活动时间:** 2026-10-22
-
-### [Open-Higgsfield-AI](https://github.com/Anil-matcha/Open-Higgsfield-AI)
-
-开源免费的AI图像生成与电影工作室，支持Flux、SDXL等20+模型。可自托管部署，提供完整的图像与视频创作功能。
-
-- **Stars:** ⭐️ 7.2k
-- **Tags:** `AI图像生成` `视频创作` `开源替代`
-- **最后活动时间:** 2026-04-24
 
 ### [TripoSR](https://github.com/VAST-AI-Research/TripoSR)
 
@@ -5311,14 +5271,6 @@ ComfyUI插件，利用AI系统将单张动漫插画分解为可操作的2.5D分�
 - **Stars:** ⭐️ 865
 - **Tags:** `comfyui` `image-generation` `live2d` `ai-art`
 - **最后活动时间:** 2026-08-20
-
-### [stirling-image](https://github.com/stirling-image/stirling-image)
-
-类似Stirling-PDF的图像处理工具箱，集成30多种本地AI功能，包括调整大小、压缩、背景移除、图像放大、OCR等，完全离线运行，无云服务依赖。
-
-- **Stars:** ⭐️ 860
-- **Tags:** `ai` `image-processing` `ocr` `image-upscale` `self-hosted`
-- **最后活动时间:** 2026-04-24
 
 ### [LxgwZhenKai](https://github.com/lxgw/LxgwZhenKai)
 
@@ -7651,14 +7603,6 @@ PyTorch媒体编解码库，提供视频和音频的解码与编码功能。
 - **Stars:** ⭐️ 1.2k
 - **Tags:** `AI-Video` `Video-Generation` `Short-Video` `Python`
 - **最后活动时间:** 2026-09-07
-
-### [handcrafted-persona-engine](https://github.com/fagenorn/handcrafted-persona-engine)
-
-AI 驱动的交互式虚拟形象引擎，集成 Live2D、LLM、ASR、TTS 和 RVC，适合 VTuber 和虚拟助手应用。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `ai-vtuber` `live2d` `avatar` `tts` `asr`
-- **最后活动时间:** 2026-04-23
 
 ### [reelbench-skills](https://github.com/eternityspring/reelbench-skills)
 

@@ -2,7 +2,7 @@
 
 > Hardware integration, cloud infra, and model serving.
 
-> 当前分类已收录 **1257** 个相关项目。
+> 当前分类已收录 **1241** 个相关项目。
 
 ## Cloud & Hosting
 
@@ -798,14 +798,6 @@ MLOps平台，提供机器学习全生命周期的管理与编排工具，支持
 - **Tags:** `docker` `docker-swarm` `mcp` `container-management`
 - **最后活动时间:** 2026-10-13
 
-### [dagu](https://github.com/dagu-org/dagu)
-
-本地优先的工作流引擎，支持声明式、基于文件的配置，可从单机扩展到分布式集群，适用于AI工作流编排。
-
-- **Stars:** ⭐️ 3.3k
-- **Tags:** `workflow-engine` `dag` `job-scheduler` `ai-workflow`
-- **最后活动时间:** 2026-04-24
-
 ### [peerdb](https://github.com/PeerDB-io/peerdb)
 
 高效的数据复制工具，支持从 Postgres 实时同步数据到数据仓库、消息队列和存储系统，为 AI/ML 数据管道提供可靠的基础设施。
@@ -949,14 +941,6 @@ AI资源调度和集群管理平台，支持GPU集群的机器学习模型训练
 - **Stars:** ⭐️ 2.7k
 - **Tags:** `Cluster Management` `GPU` `Kubernetes` `AI Infrastructure`
 - **最后活动时间:** 2026-10-19
-
-### [amazon-bedrock-agentcore-samples](https://github.com/awslabs/amazon-bedrock-agentcore-samples)
-
-帮助开发者将AI智能体快速部署到生产环境，提供企业级扩展性、可靠性和安全性支持。
-
-- **Stars:** ⭐️ 2.7k
-- **Tags:** `AI Agents` `Production Deployment` `AWS Bedrock`
-- **最后活动时间:** 2026-04-23
 
 ### [binderhub](https://github.com/jupyterhub/binderhub)
 
@@ -1381,14 +1365,6 @@ Oracle AI 数据库代码示例集合，展示如何在 Oracle 数据库中使�
 - **Stars:** ⭐️ 1.4k
 - **Tags:** `oracle` `ai-database` `vector-database` `machine-learning`
 - **最后活动时间:** 2026-10-21
-
-### [bittensor](https://github.com/opentensor/bittensor)
-
-去中心化AI网络协议，结合区块链技术实现互联网规模的神经网络协作训练与推理。
-
-- **Stars:** ⭐️ 1.4k
-- **Tags:** `decentralized-ai` `blockchain` `p2p`
-- **最后活动时间:** 2026-04-23
 
 ### [atmos](https://github.com/cloudposse/atmos)
 
@@ -2070,14 +2046,6 @@ Azure MLOps 企业级解决方案加速器，提供生产就绪的机器学习�
 - **Tags:** `ai-proxy` `proxy-rules` `clash` `mihomo` `sing-box` `surge` `domain-list`
 - **最后活动时间:** 2026-10-22
 
-### [vibe](https://github.com/mondaycom/vibe)
-
-MacOS上的轻量级Linux虚拟机，专为LLM Agent沙箱隔离设计，保障安全运行环境。
-
-- **Stars:** ⭐️ 640
-- **Tags:** `Sandbox` `VM` `Agent Security`
-- **最后活动时间:** 2026-04-23
-
 ### [cloud-run-mcp](https://github.com/GoogleCloudPlatform/cloud-run-mcp)
 
 MCP 服务器，支持将 AI 应用一键部署到 Google Cloud Run，简化云端部署流程。
@@ -2751,14 +2719,6 @@ NVIDIA开发的Python GPU加速框架，支持可微分编程，适用于物理�
 - **Stars:** ⭐️ 6.6k
 - **Tags:** `compiler` `dsl` `gpu` `halide` `image-processing`
 - **最后活动时间:** 2026-10-22
-
-### [ROCm](https://github.com/ROCm/ROCm)
-
-AMD开源GPU计算平台，为AI/ML工作负载提供高性能硬件加速支持，是NVIDIA CUDA的主要竞争对手。
-
-- **Stars:** ⭐️ 6.4k
-- **Tags:** `GPU` `AMD` `Hardware Acceleration` `Deep Learning`
-- **最后活动时间:** 2026-04-23
 
 ### [wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime)
 
@@ -4216,14 +4176,6 @@ MoonEP 是一个专注于完美平衡专家并行的库，通过动态冗余专�
 - **Tags:** `cuda` `gpu` `rendering` `raytracing` `cross-platform`
 - **最后活动时间:** 2026-10-21
 
-### [rotorquant](https://github.com/scrya-com/rotorquant)
-
-KV缓存压缩方案，通过块对角旋转实现。比TurboQuant更优的PPL表现，解码速度提升28%，预填充速度提升5.3倍，参数量减少44倍，支持llama.cpp直接集成。
-
-- **Stars:** ⭐️ 1.1k
-- **Tags:** `quantization` `kv-cache` `llm` `compression`
-- **最后活动时间:** 2026-04-23
-
 ### [cuda-tile](https://github.com/NVIDIA/cuda-tile)
 
 基于MLIR的CUDA内核优化编译器基础设施，专注于张量核心单元的Tile计算模式优化，提升AI推理性能。
@@ -4967,22 +4919,6 @@ ComfyUI扩展插件，支持本地、远程和云端的多GPU分布式处理。
 - **Stars:** ⭐️ 633
 - **Tags:** `llama-cpp` `llm` `gguf` `ps5` `local-inference`
 - **最后活动时间:** 2026-10-20
-
-### [k8s-dra-driver-gpu](https://github.com/NVIDIA/k8s-dra-driver-gpu)
-
-NVIDIA Kubernetes DRA驱动，为Kubernetes集群提供GPU资源调度和管理能力。
-
-- **Stars:** ⭐️ 631
-- **Tags:** `kubernetes` `nvidia` `gpu` `dra` `infrastructure`
-- **最后活动时间:** 2026-04-22
-
-### [nvidia-dra-driver-gpu](https://github.com/kubernetes-sigs/nvidia-dra-driver-gpu)
-
-NVIDIA DRA GPU驱动程序，为Kubernetes等容器编排平台提供GPU资源分配和管理能力。
-
-- **Stars:** ⭐️ 631
-- **Tags:** `nvidia` `gpu` `kubernetes` `driver` `dra`
-- **最后活动时间:** 2026-04-22
 
 ### [ginkgo](https://github.com/ginkgo-project/ginkgo)
 
@@ -6954,14 +6890,6 @@ ONNX模型的TensorRT后端，实现高性能深度学习推理部署。
 - **Tags:** `gpu` `inference-engine` `llm-serving`
 - **最后活动时间:** 2026-10-22
 
-### [cake](https://github.com/evilsocket/cake)
-
-分布式推理框架，支持移动端、桌面和服务器端的AI模型推理部署。
-
-- **Stars:** ⭐️ 3.1k
-- **Tags:** `Distributed Inference` `Model Serving` `Cross-Platform`
-- **最后活动时间:** 2026-04-24
-
 ### [distributed-llama](https://github.com/b4rtaz/distributed-llama)
 
 分布式LLM推理框架，可将多台家用设备连接成集群加速大模型推理，设备越多推理越快。
@@ -7114,14 +7042,6 @@ Intel 开发的 SOTA 模型压缩工具，支持 INT8/FP8/INT4 等低比特量�
 - **Tags:** `MCP` `Gateway` `Orchestration`
 - **最后活动时间:** 2026-06-22
 
-### [secretflow](https://github.com/secretflow/secretflow)
-
-隐私保护数据分析与机器学习统一框架，支持联邦学习、差分隐私和安全多方计算。
-
-- **Stars:** ⭐️ 2.7k
-- **Tags:** `privacy-preserving` `federated-learning` `differential-privacy` `secure-computation`
-- **最后活动时间:** 2026-04-24
-
 ### [torch-points3d](https://github.com/torch-points3d/torch-points3d)
 
 点云深度学习PyTorch框架，支持PointNet、KPConv等主流架构和分割任务。
@@ -7169,14 +7089,6 @@ vLLM官方Kubernetes集群部署方案，提供生产级LLM推理服务部署与
 - **Stars:** ⭐️ 2.7k
 - **Tags:** `database` `dataframe` `python` `rust` `sql`
 - **最后活动时间:** 2026-10-21
-
-### [neural-compressor](https://github.com/intel/neural-compressor)
-
-Intel 开发的 SOTA 模型压缩工具，支持 INT8/FP8/INT4 等低比特量化、稀疏化和剪枝，优化 LLM 在各种硬件上的部署效率。
-
-- **Stars:** ⭐️ 2.6k
-- **Tags:** `Quantization` `LLM` `Model Compression` `Intel`
-- **最后活动时间:** 2026-04-24
 
 ### [workbuddy2api-hub](https://github.com/ardeyouxipianyi/workbuddy2api-hub)
 
@@ -8274,14 +8186,6 @@ ComfyUI的一体化推理优化解决方案。通用、灵活、高效的图像�
 - **Tags:** `kv-cache` `compression` `llm` `long-context`
 - **最后活动时间:** 2026-10-21
 
-### [gemini-business2api](https://github.com/Dreamy-rain/gemini-business2api)
-
-将 Gemini Business 转换为 OpenAI 兼容接口，支持多账户负载均衡及图像、视频生成等多模态能力。
-
-- **Stars:** ⭐️ 1.2k
-- **Tags:** `gemini` `openai` `api-proxy` `load-balancing` `multimodal`
-- **最后活动时间:** 2026-04-24
-
 ### [ai-hub-models](https://github.com/qualcomm/ai-hub-models)
 
 高通AI Hub提供的SOTA机器学习模型集合，针对高通设备优化延迟和内存，可直接部署。
@@ -8690,14 +8594,6 @@ NVIDIA开发的联邦学习应用运行环境，支持去中心化的隐私保�
 - **Tags:** `model-serving` `ml-inference` `production-ml`
 - **最后活动时间:** 2026-10-21
 
-### [JSTprove](https://github.com/inference-labs-inc/JSTprove)
-
-快速、可验证的AI推理框架，基于零知识机器学习(zkML)技术，为AI模型提供可验证的计算证明。
-
-- **Stars:** ⭐️ 970
-- **Tags:** `zkml` `verifiable-ai` `zero-knowledge`
-- **最后活动时间:** 2026-04-23
-
 ### [wassette](https://github.com/microsoft/wassette)
 
 安全导向的WebAssembly组件运行时，通过MCP协议支持AI模型部署。
@@ -8953,14 +8849,6 @@ Go语言本地开源模型推理引擎，集成llama.cpp，提供OpenAI兼容的
 - **Stars:** ⭐️ 846
 - **Tags:** `LLM Server` `Self-hosted` `Docker`
 - **最后活动时间:** 2026-06-30
-
-### [mesh-llm](https://github.com/michaelneale/mesh-llm)
-
-基于llama.cpp的分布式LLM推理参考实现，支持跨机器分布式推理，提供端到端演示。
-
-- **Stars:** ⭐️ 846
-- **Tags:** `llm` `distributed-inference` `llama.cpp`
-- **最后活动时间:** 2026-04-23
 
 ### [onprem](https://github.com/amaiya/onprem)
 
@@ -9458,14 +9346,6 @@ AI模型安全运行沙盒工具，让你的AI模型在隔离环境中运行，�
 - **Tags:** `mlperf` `mlops` `benchmarking` `automation` `ai-optimization`
 - **最后活动时间:** 2026-10-21
 
-### [lollms_hub](https://github.com/ParisNeo/lollms_hub)
-
-多实例Ollama代理服务器，提供API网关、负载均衡、速率限制和密钥安全管理功能。
-
-- **Stars:** ⭐️ 649
-- **Tags:** `ollama` `api-gateway` `load-balancer` `proxy` `llm-serving`
-- **最后活动时间:** 2026-04-23
-
 ### [casbin-gateway](https://github.com/apache/casbin-gateway)
 
 专为AI和MCP服务设计的安全网关，支持HTTP代理和OAuth认证，为LLM应用提供企业级安全防护。
@@ -9537,14 +9417,6 @@ LLM客户端、服务器API和UI工具集，提供完整的模型服务解决方
 - **Stars:** ⭐️ 624
 - **Tags:** `ai-gateway` `claude-code` `multi-provider` `model-routing` `llm`
 - **最后活动时间:** 2026-10-20
-
-### [ollama_proxy_server](https://github.com/ParisNeo/ollama_proxy_server)
-
-Ollama多实例代理服务器，提供API密钥安全管理、智能负载均衡和用户权限管理，适合团队协作部署。
-
-- **Stars:** ⭐️ 623
-- **Tags:** `Ollama` `Proxy` `Load Balancer`
-- **最后活动时间:** 2026-04-23
 
 ### [ai00_server](https://github.com/Ai00-X/ai00_server)
 

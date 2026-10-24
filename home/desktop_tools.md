@@ -2,7 +2,7 @@
 
 > AI tools directly integrated with desktop OS or local environments.
 
-> 当前分类已收录 **1498** 个相关项目。
+> 当前分类已收录 **1492** 个相关项目。
 
 ## Browser Automations
 
@@ -2344,14 +2344,6 @@ Windows 上的图形化 GREP 搜索工具，支持正则表达式在多文件中
 - **Tags:** `ai` `claude-code` `cursor` `desktop-app` `skills` `tauri`
 - **最后活动时间:** 2026-05-02
 
-### [TablePro](https://github.com/datlechin/TablePro)
-
-原生macOS数据库客户端，内置AI助手，支持MySQL、PostgreSQL、MongoDB等多种数据库。
-
-- **Stars:** ⭐️ 2.2k
-- **Tags:** `database-client` `macos` `ai-assistant` `sql`
-- **最后活动时间:** 2026-04-24
-
 ### [BetterLyrics](https://github.com/jayfunc/BetterLyrics)
 
 基于 WinUI3/Win2D 打造的优雅歌词可视化与全能音乐播放器，高度可定制。深度兼容 Apple Music、Spotify、网易云、QQ 音乐等主流平台的歌词格式（含 TTML）。
@@ -2479,14 +2471,6 @@ Windows视频插帧GUI工具，支持DAIN和RIFE模型实现流畅视频补帧�
 - **Stars:** ⭐️ 2.1k
 - **Tags:** `frp` `frpc` `gui` `windows` `proxy` `reverse-proxy`
 - **最后活动时间:** 2026-10-21
-
-### [witsy](https://github.com/Kochava-Studios/witsy)
-
-一款功能强大的桌面AI助手，支持多种AI服务商（OpenAI、Anthropic、Gemini、Ollama等）的统一接入，同时作为MCP协议客户端使用。
-
-- **Stars:** ⭐️ 2.0k
-- **Tags:** `ai-assistant` `mcp-client` `desktop-app` `multi-provider`
-- **最后活动时间:** 2026-04-23
 
 ### [cloudcmd](https://github.com/coderaiser/cloudcmd)
 
@@ -3768,14 +3752,6 @@ AstrBot的桌面版应用程序，提供快速的本地安装和便捷的ChatUI�
 - **Tags:** `password-manager` `security` `encryption` `cross-platform`
 - **最后活动时间:** 2026-10-21
 
-### [voquill](https://github.com/josiahsrc/voquill)
-
-开源本地语音听写工具，基于Tauri构建的WisprFlow替代方案。
-
-- **Stars:** ⭐️ 879
-- **Tags:** `Dictation` `Local AI` `Desktop`
-- **最后活动时间:** 2026-04-22
-
 ### [Moonfin-Core](https://github.com/Moonfin-Client/Moonfin-Core)
 
 面向多平台的高级 Jellyfin 客户端，覆盖 Android、iOS、macOS、Linux、Windows、tvOS 等平台，为 Jellyfin 生态提供统一优质的媒体播放体验。
@@ -4159,14 +4135,6 @@ Obsidian插件，支持本地Ollama和类OpenAI GPT模型，注重隐私与离�
 - **Stars:** ⭐️ 676
 - **Tags:** `obsidian` `local-llm` `ollama` `privacy`
 - **最后活动时间:** 2026-10-20
-
-### [desktop](https://github.com/openyak/desktop)
-
-Yak是一款开源的桌面级AI智能体应用，支持本地运行LLM、MCP协议集成，提供多种技能和工具能力。
-
-- **Stars:** ⭐️ 676
-- **Tags:** `agent` `desktop-application` `llm` `mcp` `local`
-- **最后活动时间:** 2026-04-22
 
 ### [musicpod](https://github.com/ubuntu-flutter-community/musicpod)
 
@@ -5809,14 +5777,6 @@ SwayFX 在经典 Wayland 合成器 Sway 基础上加入圆角、模糊、动画�
 - **Stars:** ⭐️ 2.2k
 - **Tags:** `Key Remapping` `Wayland` `X11` `Rust` `Keyboard Shortcuts`
 - **最后活动时间:** 2026-10-18
-
-### [HyprPanel](https://github.com/Jas-SinghFSU/HyprPanel)
-
-为 Hyprland 打造的高度可定制状态栏/面板，内置多种主题与丰富组件。让 Wayland 桌面既美观又高效。
-
-- **Stars:** ⭐️ 2.2k
-- **Tags:** `Hyprland` `Wayland` `Panel` `GTK` `Desktop Customization`
-- **最后活动时间:** 2026-04-23
 
 ### [Crisp](https://github.com/didriksg/Crisp)
 
@@ -8403,14 +8363,6 @@ Rust 编写的无痛压缩解压命令行工具，一条命令即可搞定 zip�
 - **Stars:** ⭐️ 3.8k
 - **Tags:** `ai-agents` `monitoring` `terminal` `tui` `rust` `developer-tools`
 - **最后活动时间:** 2026-09-14
-
-### [ox](https://github.com/curlpipe/ox)
-
-用 Rust 编写的简洁而灵活的终端文本编辑器，注重轻量化与可定制性。
-
-- **Stars:** ⭐️ 3.7k
-- **Tags:** `text-editor` `rust` `tui` `terminal`
-- **最后活动时间:** 2026-04-23
 
 ### [ATAC](https://github.com/Julien-cpsn/ATAC)
 
