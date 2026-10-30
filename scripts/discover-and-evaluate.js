@@ -18,6 +18,9 @@ import {
   buildEvaluationMessages,
   buildEvaluationPrompt,
   buildValidCategoriesString,
+  extractEvaluations,
+  findEvaluation,
+  judgeEvaluation,
 } from './evaluation-prompt.js';
 
 const { provider: LLM_PROVIDER, baseUrl: LLM_BASE_URL, apiKey: LLM_API_KEY, model: LLM_MODEL } = resolveLLMConfig();
@@ -32,6 +35,8 @@ const QUALITY_TOPIC_THRESHOLD = parseInt(process.env.QUALITY_TOPIC_THRESHOLD || 
 const AUTO_FETCH_DESC_STARS = parseInt(process.env.AUTO_FETCH_DESC_STARS || '1000', 10);
 
 const sessionFile = path.join(__dirname, '../data/discovery-session.json');
+const reEvaluateSessionFile = path.join(__dirname, '../data/re-evaluate-session.json');
+const REJECTED_CHUNK_SIZE = 30000; // Roughly 20MB per chunk
 const DEFAULT_TOPICS = {
   active: {
     ai: { level: 1, lastExplored: "1970-01-01T00:00:00Z", score: 0 },
@@ -114,48 +119,70 @@ function loadJson(filePath, defaultVal = null) {
 }
 
 import { extractCategories } from './extract-categories.js';
-import { sanitizeDescription, shouldBlockProject } from './project-filters.js';
+import { parseGithubUrl, sanitizeDescription, shouldBlockProject } from './project-filters.js';
+import { listRejectedFiles, normalizeRepoUrl } from './dedup-rejected.js';
 
-function loadRejected() {
-  if (!fs.existsSync(rejectedDir)) {
-    fs.mkdirSync(rejectedDir, { recursive: true });
-    return { rejected: [] };
-  }
-  const files = fs.readdirSync(rejectedDir).filter(f => f.endsWith('.json')).sort();
-  let allRejected = [];
-  for (const file of files) {
+function loadRejectedUrlSet() {
+  const urls = new Set();
+  for (const file of listRejectedFiles(rejectedDir)) {
     try {
       const content = JSON.parse(fs.readFileSync(path.join(rejectedDir, file), 'utf-8'));
-      if (content.rejected) allRejected = allRejected.concat(content.rejected);
+      for (const item of asArray(content.rejected)) {
+        const key = normalizeRepoUrl(item.url || item.html_url);
+        if (key) urls.add(key);
+      }
     } catch (e) {
       console.error(`❌ Error loading ${file} from rejected projects folder:`, e.message);
     }
   }
-  return { rejected: allRejected };
+  return urls;
 }
 
-function saveRejected(data) {
+// Append deduplicated entries to the last rejected part only (avoids rewriting all rejected files per batch).
+function appendRejected(entries, existingUrlSet = null) {
+  if (!Array.isArray(entries) || entries.length === 0) return;
   if (!fs.existsSync(rejectedDir)) fs.mkdirSync(rejectedDir, { recursive: true });
-  const rejected = data.rejected || [];
-  const chunkSize = 30000; // Roughly 20MB per chunk
-  const numParts = Math.ceil(rejected.length / chunkSize);
 
-  for (let i = 0; i < numParts; i++) {
-    const chunk = rejected.slice(i * chunkSize, (i + 1) * chunkSize);
-    const fileName = `rejected-part-${i + 1}.json`;
-    fs.writeFileSync(path.join(rejectedDir, fileName), JSON.stringify({ rejected: chunk }, null, 2), 'utf-8');
+  const knownUrls = existingUrlSet || loadRejectedUrlSet();
+  const uniqueToAppend = [];
+  for (const item of entries) {
+    const key = normalizeRepoUrl(item.url || item.html_url);
+    if (!key || knownUrls.has(key)) continue;
+    knownUrls.add(key);
+    uniqueToAppend.push({
+      ...item,
+      url: String(item.url || item.html_url || '').trim(),
+    });
   }
-  
-  // Clean up extra parts if any
-  const existingFiles = fs.readdirSync(rejectedDir).filter(f => f.endsWith('.json'));
-  for (const file of existingFiles) {
-    const match = file.match(/rejected-part-(\d+)\.json/);
-    if (match) {
-      const partNum = parseInt(match[1], 10);
-      if (partNum > numParts) {
-        fs.unlinkSync(path.join(rejectedDir, file));
-      }
+  if (uniqueToAppend.length === 0) return;
+
+  const partNums = fs.readdirSync(rejectedDir)
+    .map(f => f.match(/^rejected-part-(\d+)\.json$/))
+    .filter(Boolean)
+    .map(m => parseInt(m[1], 10));
+  let partNum = partNums.length > 0 ? Math.max(...partNums) : 1;
+  let filePath = path.join(rejectedDir, `rejected-part-${partNum}.json`);
+  let currentChunk = [];
+
+  if (fs.existsSync(filePath)) {
+    // Throws on corrupted file instead of silently overwriting it.
+    currentChunk = asArray(JSON.parse(fs.readFileSync(filePath, 'utf-8')).rejected);
+  }
+
+  let offset = 0;
+  while (offset < uniqueToAppend.length) {
+    if (currentChunk.length >= REJECTED_CHUNK_SIZE) {
+      partNum++;
+      filePath = path.join(rejectedDir, `rejected-part-${partNum}.json`);
+      currentChunk = [];
     }
+    const spaceLeft = REJECTED_CHUNK_SIZE - currentChunk.length;
+    const slice = uniqueToAppend.slice(offset, offset + spaceLeft);
+    currentChunk.push(...slice);
+    const tmpPath = `${filePath}.tmp`;
+    fs.writeFileSync(tmpPath, JSON.stringify({ rejected: currentChunk }, null, 2), 'utf-8');
+    fs.renameSync(tmpPath, filePath);
+    offset += slice.length;
   }
 }
 
@@ -498,26 +525,40 @@ async function discover() {
 
     const projectUrlMap = new Map();
     categories.forEach(c => {
+      if (c.id === 'trending') return;
       asArray(c.projects).forEach(p => {
-        if (p.url) projectUrlMap.set(p.url.toLowerCase(), p);
+        const key = normalizeRepoUrl(p.url);
+        if (key) projectUrlMap.set(key, p);
       });
     });
 
     const pendingUrls = new Set();
     pendingQueue.forEach(item => {
-      if (item.html_url) pendingUrls.add(item.html_url.toLowerCase());
+      const key = normalizeRepoUrl(item.html_url || item.url);
+      if (key) pendingUrls.add(key);
     });
+
+    const rejectedUrls = loadRejectedUrlSet();
 
     let queuedCount = 0;
     let newTopicsCount = 0;
     let updatedProjectCount = 0;
     let blockedCount = 0;
     let staleCount = 0;
+    let skippedRejectedCount = 0;
 
     for (const item of items) {
       // GitHub search is date-filtered, but check again before queueing as a safeguard.
       if (!isUpdatedSince(item, updatedCutoff)) {
         staleCount++;
+        continue;
+      }
+
+      const url = normalizeRepoUrl(item.html_url);
+      const existingProject = projectUrlMap.get(url);
+
+      if (!existingProject && rejectedUrls.has(url)) {
+        skippedRejectedCount++;
         continue;
       }
 
@@ -550,9 +591,6 @@ async function discover() {
         });
       }
 
-      const url = item.html_url.toLowerCase();
-      const existingProject = projectUrlMap.get(url);
-
       if (existingProject) {
         // Already approved project, update its stats directly
         existingProject.stars = item.stargazers_count;
@@ -560,7 +598,7 @@ async function discover() {
         existingProject.topics = item.topics || [];
         existingProject._lastChecked = new Date().toISOString();
         updatedProjectCount++;
-      } else if (!pendingUrls.has(url) && !isUpdateOnly) {
+      } else if (url && !pendingUrls.has(url) && !isUpdateOnly) {
         pendingDb.queue.push({
           name: item.name,
           html_url: item.html_url,
@@ -588,6 +626,9 @@ async function discover() {
       console.log(`📥 Added ${queuedCount} new projects to the local pending queue.`);
     } else {
       console.log(`📥 No new projects to add to the queue right now.`);
+    }
+    if (skippedRejectedCount > 0) {
+      console.log(`⏭️  Skipped ${skippedRejectedCount} already-rejected projects.`);
     }
     if (blockedCount > 0) {
       console.log(`🚫 Blocked ${blockedCount} suspicious or blacklisted projects before queueing.`);
@@ -630,8 +671,16 @@ async function evaluate() {
   }
 
   const projectDb = normalizeProjectDb(loadJson(dataFile));
-  const rejectedDb = loadRejected();
   const categories = asArray(projectDb.categories);
+  const rejectedUrls = loadRejectedUrlSet();
+  const approvedUrls = new Set();
+  categories.forEach(c => {
+    if (c.id === 'trending') return;
+    asArray(c.projects).forEach(p => {
+      const key = normalizeRepoUrl(p.url);
+      if (key) approvedUrls.add(key);
+    });
+  });
 
   // Dynamic categories string for prompt
   const validCategoriesStr = buildValidCategoriesString(categories);
@@ -640,11 +689,18 @@ async function evaluate() {
   console.log(`\n📊 [Task Pool] Current pending tasks awaiting evaluation: ${totalPending}`);
   console.log(`🤖 [Task Pool] Evaluating up to ${EVALUATE_BATCH_SIZE} projects using Provider: ${LLM_PROVIDER}, Model: ${LLM_MODEL}...`);
 
-  // Grab up to EVALUATE_BATCH_SIZE items
-  const rawBatch = pendingDb.queue.splice(0, EVALUATE_BATCH_SIZE);
+  // Drain up to EVALUATE_BATCH_SIZE valid, unevaluated items from the queue
   const batch = [];
+  const batchUrls = new Set();
   let skippedBeforeEval = 0;
-  for (const item of rawBatch) {
+  let skippedKnownCount = 0;
+  while (batch.length < EVALUATE_BATCH_SIZE && pendingDb.queue.length > 0) {
+    const item = pendingDb.queue.shift();
+    const url = normalizeRepoUrl(item.html_url || item.url);
+    if (!url || approvedUrls.has(url) || rejectedUrls.has(url) || batchUrls.has(url)) {
+      skippedKnownCount++;
+      continue;
+    }
     const blockCheck = shouldBlockProject(item);
     if (blockCheck.blocked) {
       console.log(`🚫 [Blocked] Dropping queued project ${item.html_url || item.name}: ${blockCheck.reason}`);
@@ -653,11 +709,19 @@ async function evaluate() {
     }
     item.description = sanitizeDescription(item.description);
     batch.push(item);
+    batchUrls.add(url);
+  }
+
+  if (skippedKnownCount > 0) {
+    console.log(`⏭️  Skipped ${skippedKnownCount} queued projects already approved/rejected or duplicated.`);
   }
 
   if (batch.length === 0) {
     saveJson(queueFile, pendingDb);
-    console.log(`🚫 Dropped ${skippedBeforeEval} blocked projects. Nothing safe left in this batch.`);
+    console.log(`✨ No valid unevaluated projects left in the queue (blocked: ${skippedBeforeEval}, already known: ${skippedKnownCount}).`);
+    if (process.argv.includes('--consume-only')) {
+      process.exit(2);
+    }
     return;
   }
 
@@ -669,7 +733,7 @@ async function evaluate() {
   let evaluations = [];
   try {
     const responseData = await askLLM(prompt);
-    evaluations = responseData.evaluations || [];
+    evaluations = extractEvaluations(responseData);
   } catch (err) {
     console.error(`🚨 LLM Error: ${err.message}`);
     if (isSensitiveWordsError(err)) {
@@ -690,14 +754,15 @@ async function evaluate() {
 
   let addedCount = 0;
   let topicsDbLoaded = null;
+  const newRejectedEntries = [];
 
-  for (const item of batch) {
+  for (const [index, item] of batch.entries()) {
     // Find matching output
-    const matchIndex = batchData.findIndex(b => b.name === item.name);
-    const evalData = evaluations.find(e => e.id === matchIndex) || evaluations.find(e => e.project?.name === item.name);
+    const evalData = findEvaluation(evaluations, index, item.name);
+    const verdict = judgeEvaluation(evalData, categories);
 
-    if (evalData && evalData.is_valuable && evalData.category_id && evalData.project) {
-        const category = categories.find(c => c.id === evalData.category_id);
+    if (evalData?.project && (verdict.status === 'accepted' || verdict.status === 'invalid_category')) {
+      const category = verdict.category;
       if (category) {
         if (!category.projects) category.projects = [];
 
@@ -709,8 +774,8 @@ async function evaluate() {
         projectToAdd._lastChecked = new Date().toISOString();
         projectToAdd.topics = item.topics || [];
 
-        if (evalData.subcategory) {
-          projectToAdd.subcategory = evalData.subcategory;
+        if (verdict.subcategory) {
+          projectToAdd.subcategory = verdict.subcategory;
         }
 
         category.projects.push(projectToAdd);
@@ -738,14 +803,14 @@ async function evaluate() {
         recordRejected(item, `Invalid category: ${evalData.category_id}`);
       }
     } else {
-      const reason = evalData?.reason || 'Not valuable enough or incomplete';
+      const reason = verdict.reason || 'Not valuable enough or incomplete';
       console.log(`  ❌ Rejected [${item.name}] -> ${reason}`);
       recordRejected(item, reason);
     }
   }
 
   function recordRejected(item, reason) {
-    rejectedDb.rejected.push({
+    newRejectedEntries.push({
       name: item.name,
       url: item.html_url,
       description: item.description,
@@ -755,7 +820,21 @@ async function evaluate() {
     });
   }
 
-  // Refreshed Trending logic
+  // Save changes
+  saveJson(queueFile, pendingDb);
+  if (addedCount > 0) {
+    // Refreshed Trending logic
+    const trendingCount = rebuildTrending(categories);
+    saveJson(dataFile, projectDb);
+    console.log(`🔥 Trending category automatically rebuilt with top ${trendingCount} recently updated high-star projects.`);
+  }
+  appendRejected(newRejectedEntries, rejectedUrls);
+  if (topicsDbLoaded) saveJson(topicsFile, topicsDbLoaded);
+
+  console.log(`\n🎉 Evaluated ${batch.length} projects. Added ${addedCount} to the active directory.`);
+}
+
+function rebuildTrending(categories) {
   const threeMonthsAgo = new Date();
   threeMonthsAgo.setMonth(threeMonthsAgo.getMonth() - 3);
 
@@ -778,15 +857,190 @@ async function evaluate() {
   if (trendingCategory) {
     trendingCategory.projects = topTrending.map(p => ({ ...p }));
   }
+  return topTrending.length;
+}
 
-  // Save changes
-  saveJson(queueFile, pendingDb);
+function parseListFlag(flag, args = process.argv) {
+  const index = args.findIndex(arg => arg === flag || arg.startsWith(`${flag}=`));
+  if (index === -1) return null;
+  const rawValue = args[index] === flag ? args[index + 1] : args[index].slice(flag.length + 1);
+  return String(rawValue || '').split(',').map(v => v.trim()).filter(Boolean);
+}
+
+// 3. Re-evaluate mode: re-check existing approved projects, removing non-AI ones and fixing categories.
+async function reEvaluate() {
+  if (EVALUATE_BATCH_SIZE <= 0) {
+    console.log('⏭️ [Re-evaluate] Skipped because EVALUATE_BATCH_SIZE is 0.');
+    return;
+  }
+
+  const projectDb = normalizeProjectDb(loadJson(dataFile));
+  const categories = asArray(projectDb.categories);
+  const validIds = categories.filter(c => c.id !== 'trending').map(c => c.id);
+
+  // Session: projects with _reEvaluatedAt >= startedAt are done in this round.
+  let session = process.argv.includes('--re-evaluate-restart') ? null : loadJson(reEvaluateSessionFile);
+  if (!session || !session.startedAt) {
+    session = { startedAt: new Date().toISOString(), categories: [] };
+  }
+  const categoryFilter = parseListFlag('--re-evaluate-categories');
+  if (categoryFilter) session.categories = categoryFilter;
+
+  const unknownIds = asArray(session.categories).filter(id => !validIds.includes(id));
+  if (unknownIds.length > 0) {
+    console.error(`❌ [Re-evaluate] Unknown category ids: ${unknownIds.join(', ')}. Valid: ${validIds.join(', ')}`);
+    process.exit(1);
+  }
+  saveJson(reEvaluateSessionFile, session);
+
+  const targetIds = session.categories.length > 0 ? session.categories : validIds;
+  const startedAtTime = new Date(session.startedAt).getTime();
+  const isDone = p => p._reEvaluatedAt && new Date(p._reEvaluatedAt).getTime() >= startedAtTime;
+
+  const remaining = [];
+  let total = 0;
+  for (const category of categories) {
+    if (!targetIds.includes(category.id)) continue;
+    for (const project of asArray(category.projects)) {
+      total++;
+      if (!isDone(project)) remaining.push({ project, category });
+    }
+  }
+
+  console.log(`\n♻️  [Re-evaluate] Round started at ${session.startedAt}, categories: ${targetIds.join(', ')}`);
+  console.log(`📊 [Re-evaluate] Remaining ${remaining.length} / ${total} projects.`);
+  if (remaining.length === 0) {
+    console.log('✨ [Re-evaluate] All target projects have been re-evaluated in this round.');
+    process.exit(2);
+  }
+
+  const batch = remaining.slice(0, EVALUATE_BATCH_SIZE);
+  console.log(`🤖 [Re-evaluate] Evaluating ${batch.length} projects using Provider: ${LLM_PROVIDER}, Model: ${LLM_MODEL}...`);
+
+  // Stored descriptions were rewritten by the LLM (often with invented AI claims), so prefer fresh GitHub metadata.
+  const items = await Promise.all(batch.map(async ({ project }) => {
+    const { owner, repo } = parseGithubUrl(project.url);
+    let details = null;
+    if (owner && repo) {
+      try { details = await fetchRepoDetails(`${owner}/${repo}`); } catch (e) { }
+    }
+    const storedTopics = asArray(project.topics).length > 0 ? project.topics : asArray(project.tags);
+    return {
+      name: project.name,
+      html_url: project.url,
+      description: details?.description || project.description || '',
+      topics: asArray(details?.topics).length > 0 ? details.topics : storedTopics,
+    };
+  }));
+
+  const now = new Date().toISOString();
+  const removedEntries = [];
+  const stats = { kept: 0, moved: 0, removed: 0, unchanged: 0 };
+
+  const removeFrom = (category, project) => {
+    category.projects = asArray(category.projects).filter(p => p !== project);
+  };
+  const recordRemoved = (item, category, reason) => {
+    removedEntries.push({
+      name: item.name,
+      url: item.html_url,
+      description: item.description,
+      topics: item.topics,
+      rejected_at: now,
+      reason: `[Re-evaluate] ${reason}`,
+      previous_category: category.id,
+    });
+    stats.removed++;
+  };
+
+  // Blocked projects are removed without being sent to the LLM.
+  const llmEntries = [];
+  batch.forEach((entry, index) => {
+    const item = items[index];
+    const blockCheck = shouldBlockProject(item);
+    if (blockCheck.blocked) {
+      console.log(`  🚫 Removed [${item.name}] (${entry.category.id}) -> ${blockCheck.reason}`);
+      removeFrom(entry.category, entry.project);
+      recordRemoved(item, entry.category, blockCheck.reason);
+      return;
+    }
+    item.description = sanitizeDescription(item.description);
+    llmEntries.push({ ...entry, item });
+  });
+
+  if (llmEntries.length > 0) {
+    const llmItems = llmEntries.map(e => e.item);
+    const batchData = buildEvaluationBatchData(llmItems);
+    const prompt = buildEvaluationPrompt(batchData, buildValidCategoriesString(categories));
+
+    let evaluations = [];
+    try {
+      evaluations = extractEvaluations(await askLLM(prompt));
+    } catch (err) {
+      console.error(`🚨 LLM Error: ${err.message}`);
+      if (isSensitiveWordsError(err)) {
+        const debugFiles = writeSensitiveWordsDebugContext({
+          err,
+          prompt,
+          batch: llmItems,
+          batchData,
+          requestBody: err.requestBody,
+        });
+        printSensitiveWordsDebugContext({ err, debugFiles });
+      }
+      console.log('⚠️ Batch left unchanged, will retry in the next run.');
+      if (removedEntries.length > 0) {
+        rebuildTrending(categories);
+        saveJson(dataFile, projectDb);
+        appendRejected(removedEntries);
+      }
+      return;
+    }
+
+    llmEntries.forEach(({ project, category, item }, index) => {
+      const verdict = judgeEvaluation(findEvaluation(evaluations, index, item.name), categories);
+
+      if (verdict.status === 'rejected') {
+        console.log(`  ❌ Removed [${item.name}] (${category.id}) -> ${verdict.reason}`);
+        removeFrom(category, project);
+        recordRemoved(item, category, verdict.reason);
+        return;
+      }
+
+      project._reEvaluatedAt = now;
+
+      if (verdict.status !== 'accepted') {
+        // Keep the project as-is when the model output is unusable, so a bad response never deletes data.
+        console.log(`  ⚠️ Kept [${item.name}] (${category.id}) unchanged -> ${verdict.reason}`);
+        stats.unchanged++;
+        return;
+      }
+
+      const target = verdict.category;
+      if (target.id !== category.id) {
+        removeFrom(category, project);
+        if (!target.projects) target.projects = [];
+        if (verdict.subcategory) project.subcategory = verdict.subcategory;
+        else delete project.subcategory;
+        const url = String(project.url || '').toLowerCase();
+        if (!target.projects.some(p => String(p.url || '').toLowerCase() === url)) {
+          target.projects.push(project);
+        }
+        console.log(`  🔀 Moved [${item.name}] ${category.id} -> ${target.id}${verdict.subcategory ? ` / ${verdict.subcategory}` : ''}`);
+        stats.moved++;
+      } else {
+        if (verdict.subcategory) project.subcategory = verdict.subcategory;
+        console.log(`  ✅ Kept [${item.name}] in '${category.id}'`);
+        stats.kept++;
+      }
+    });
+  }
+
+  rebuildTrending(categories);
   saveJson(dataFile, projectDb);
-  saveRejected(rejectedDb);
-  if (topicsDbLoaded) saveJson(topicsFile, topicsDbLoaded);
+  appendRejected(removedEntries);
 
-  console.log(`\n🎉 Evaluated ${batch.length} projects. Added ${addedCount} to the active directory.`);
-  console.log(`🔥 Trending category automatically rebuilt with top ${topTrending.length} recently updated high-star projects.`);
+  console.log(`\n🎉 [Re-evaluate] Kept ${stats.kept}, moved ${stats.moved}, removed ${stats.removed}, unchanged ${stats.unchanged}. Remaining ${remaining.length - batch.length}.`);
 }
 
 async function initTopics() {
@@ -829,6 +1083,10 @@ async function initTopics() {
 async function run() {
   if (process.argv.includes('--init-topics')) {
     await initTopics();
+    return;
+  }
+  if (process.argv.includes('--re-evaluate')) {
+    await reEvaluate();
     return;
   }
   await discover();
