@@ -150,7 +150,7 @@ cp .env.example .env
   - *💡 零成本本地提示：如果你在使用本地部署大模型（如 Ollama + llama3），可以将其设为 `local-fallback`。*
 - **`LLM_PROVIDER=`**：选择内置供应商预设（`openai`、`minimax`、`deepseek`、`ollama`）。省略时会根据 `LLM_BASE_URL` 或对应的 API Key 环境变量自动检测。
 - **`LLM_BASE_URL=`**：API转发地址（例如：`https://api.openai.com/v1` 或 本地 `http://127.0.0.1:11434/v1`）。
-- **`LLM_MODEL=`**：要执行推理的模型名字（如 `gpt-4o-mini`、`MiniMax-M2.5`）。
+- **`LLM_MODEL=`**：要执行推理的模型名字（如 `gpt-4o-mini`、`MiniMax-M3`）。
 - **`DISCOVER_BATCH_SIZE`** / **`EVALUATE_BATCH_SIZE`** / **`UPDATE_STATUS_BATCH_SIZE`**：控制每次探索拉取的个数、一次批量合并扔给 AI 判断的项目个数，以及状态更新时的批处理大小。
 - **`LOOP_INTERVAL_SECONDS`**: 可调整 `ai:loop-eval` 循环模式每次休息的打底时间（默认 60 秒）。
 - **`UPDATE_STATUS_INTERVAL_SECONDS`**: 可调整 `ai:update-status:loop` 状态更新循环模式每次休息的打底时间（默认 60 秒）。
@@ -169,7 +169,7 @@ cp .env.example .env
 | 供应商 | `LLM_PROVIDER` | 默认模型 | API Key 环境变量 |
 |--------|----------------|----------|-----------------|
 | [OpenAI](https://openai.com) | `openai` | `gpt-4o-mini` | `OPENAI_API_KEY` 或 `LLM_API_KEY` |
-| [MiniMax](https://www.minimaxi.com) | `minimax` | `MiniMax-M2.5` | `MINIMAX_API_KEY` 或 `LLM_API_KEY` |
+| [MiniMax](https://www.minimaxi.com) | `minimax` | `MiniMax-M3` | `MINIMAX_API_KEY` 或 `LLM_API_KEY` |
 | [DeepSeek](https://deepseek.com) | `deepseek` | `deepseek-chat` | `DEEPSEEK_API_KEY` 或 `LLM_API_KEY` |
 | [Ollama](https://ollama.ai) (本地) | `ollama` | `llama3` | 不需要（使用 `local-fallback`） |
 
